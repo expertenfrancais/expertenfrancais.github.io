@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Redirection…</title>
+</head>
+<body>
+<!-- Ancienne adresse (cours.html?id=…) : renvoie vers la page propre du cours. Gardée pour les anciens liens et favoris. -->
+<p><a href="catalogue.html">Aller au catalogue</a></p>
+<script>var PUBLIC_PAGE=true</script>
+<script src="data.js"></script>
+<script>
+var id=+new URLSearchParams(location.search).get("id"),d=ALLDOCS.filter(function(x){return x.id===id})[0];
+location.replace(d?docUrl(d):"catalogue.html");
+</script>
+</body>
+</html>

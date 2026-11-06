@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f1ecfb">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Français">
+<title>Paramètres</title>
+<style>
+/* Transitions entre pages (navigateurs récents) et fondu d'arrivée du contenu */
+@view-transition{navigation:auto}
+::view-transition-old(root){animation:.16s ease both vt-out}
+::view-transition-new(root){animation:.2s ease both vt-in}
+.nav{view-transition-name:nav}
+::view-transition-group(nav){animation-duration:.2s}
+@keyframes vt-out{to{opacity:0}}
+@keyframes vt-in{from{opacity:0}}
+@keyframes arrive{from{opacity:0;transform:translateY(6px)}}
+.fresh main>*{animation:arrive .32s ease both}
+@media (prefers-reduced-motion:reduce){::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}.fresh main>*{animation:none}}
+
+:root{--p1:#b29af4;--p2:#8c6fe0;--ink:#2e2160;--sub:#6b6490;--field:#f4eefb;--link:#5d49b8;--card:#fff;--page:#f1ecfb;--danger:#d0426a}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c;--danger:#ff7a9c}}
+:root[data-theme="dark"]{--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c;--danger:#ff7a9c}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{overscroll-behavior-y:none;-webkit-text-size-adjust:100%}
+html,body{margin:0;min-height:100%;background:#8d7bc4;font-family:"Poppins","Segoe UI",system-ui,sans-serif}
+body{display:flex;justify-content:center;align-items:flex-start;min-height:100vh;min-height:100svh}
+button{font:inherit;cursor:pointer}
+svg{fill:currentColor}
+.app{position:relative;width:100%;max-width:430px;min-height:100vh;min-height:100svh;background:var(--page);display:flex;flex-direction:column;overflow-x:clip}
+@media(min-width:500px) and (min-height:640px) and (hover:hover) and (pointer:fine){body{align-items:center}.app{min-height:0;height:min(880px,96vh);overflow-y:auto;scrollbar-width:none;border-radius:46px;box-shadow:0 0 0 10px #1d1630,0 30px 80px rgba(0,0,0,.45)}}
+.top{display:flex;align-items:center;gap:14px;padding:calc(env(safe-area-inset-top,0px) + 18px) 20px 14px}
+.top h1{margin:0;font-size:22px;color:var(--ink)}
+.ib{flex:0 0 auto;width:44px;height:44px;border-radius:50%;border:0;background:var(--card);color:var(--ink);display:grid;place-items:center;box-shadow:0 6px 14px rgba(90,60,170,.12)}
+main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
+.sec{margin:22px 4px 10px;font-size:13px;font-weight:600;color:var(--sub);text-transform:uppercase;letter-spacing:.04em}
+.sec:first-child{margin-top:4px}
+.group{background:linear-gradient(160deg,var(--card),var(--field));border-radius:28px;padding:6px 16px;box-shadow:0 8px 24px rgba(90,60,170,.08)}
+.row{display:flex;align-items:center;gap:14px;min-height:64px;padding:10px 0;color:inherit;text-decoration:none;border:0;background:none;width:100%;text-align:left}
+.row+.row,.row+.note+.row{border-top:1px solid rgba(140,111,224,.14)}
+.ri{flex:0 0 auto;width:40px;height:40px;border-radius:14px;display:grid;place-items:center;color:#fff;background:linear-gradient(145deg,var(--p1),var(--p2))}
+.ri.warn{background:linear-gradient(145deg,#f08a8a,var(--danger))}
+.ri.soft{background:var(--field);color:var(--link)}
+.rt{flex:1;min-width:0}
+.rt b{display:block;font-size:14.5px;font-weight:600;color:var(--ink)}
+.rt small{display:block;margin-top:2px;font-size:12.5px;line-height:1.35;color:var(--sub)}
+.row.danger .rt b{color:var(--danger)}
+.new{display:inline-block;margin-left:8px;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;color:#fff;background:var(--danger);vertical-align:middle}
+.new[hidden]{display:none}
+@keyframes sp{to{transform:rotate(360deg)}}.spin svg{animation:sp 1s linear infinite}
+.chev{flex:0 0 auto;color:var(--sub);display:grid;place-items:center}
+.sw{flex:0 0 auto;position:relative;width:50px;height:30px;border-radius:15px;border:0;padding:0;background:var(--field);box-shadow:inset 0 0 0 2px rgba(140,111,224,.28);transition:background .2s}
+.sw:after{content:"";position:absolute;top:4px;left:4px;width:22px;height:22px;border-radius:50%;background:var(--sub);transition:transform .2s,background .2s}
+.sw[aria-checked="true"]{background:linear-gradient(180deg,var(--p1),var(--p2));box-shadow:none}
+.sw[aria-checked="true"]:after{transform:translateX(20px);background:#fff}
+.note{margin:0;padding:0 0 12px 54px;font-size:12px;line-height:1.4;color:var(--sub)}
+.acct{display:flex;align-items:center;gap:14px;padding:12px 0;text-decoration:none;color:inherit}
+.acct .av{flex:0 0 auto;width:56px;height:56px;border-radius:50%;background:linear-gradient(145deg,var(--p1),var(--p2));color:#fff;display:grid;place-items:center;font-weight:700;font-size:22px}
+.av.ph{color:transparent;font-size:0}
+.acct .rt b{font-size:17px;word-break:break-word}
+.chips{display:flex;gap:8px;padding:6px 0 14px}
+.chip{flex:1;border:2px solid transparent;border-radius:18px;padding:10px 8px;font-size:13px;font-weight:600;background:var(--card);color:var(--sub)}
+.chip.on{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff}
+.out{width:100%;height:52px;margin-top:22px;border-radius:26px;border:2px solid var(--danger);background:none;color:var(--danger);font-weight:600;font-size:15px;display:flex;align-items:center;justify-content:center;gap:8px}
+.foot{margin:18px 0 0;text-align:center;font-size:12px;color:var(--sub)}
+.nav{position:fixed;left:0;right:0;margin:0 auto;bottom:0;width:100%;max-width:430px;height:calc(66px + env(safe-area-inset-bottom,0px));z-index:10;display:grid;grid-template-columns:repeat(5,1fr);--cx:-10%}
+.nav{filter:drop-shadow(0 -3px 8px rgba(70,40,150,.12))}
+.bar{position:absolute;inset:0;background:var(--card);border-radius:28px 28px 0 0;-webkit-mask:radial-gradient(circle 37px at var(--cx) 4px,transparent 36px,#000 37px);mask:radial-gradient(circle 37px at var(--cx) 4px,transparent 36px,#000 37px)}
+.nav button{position:relative;border:0;background:none;padding:6px 0 env(safe-area-inset-bottom,0px);color:var(--sub);display:grid;place-items:center}
+.nav .ic{display:grid;place-items:center;width:44px;height:44px}
+.nav svg{width:24px;height:24px}
+.bd{position:absolute;top:10px;right:calc(50% - 24px);min-width:18px;height:18px;border-radius:9px;background:#e5578a;color:#fff;font-size:10.5px;font-weight:600;display:grid;place-items:center;padding:0 4px}
+@media(min-width:500px) and (min-height:640px) and (hover:hover) and (pointer:fine){.nav{position:sticky;left:auto;right:auto;width:auto;max-width:none;margin:auto 0 0}main{padding-bottom:30px!important}}
+/* Rotation : pas de cadre ni de rognage sur mobile/tablette (écrans tactiles) */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px)}
+@media(min-width:500px) and (hover:none),(min-width:500px) and (pointer:coarse){.app,.nav{max-width:760px}}
+.toast{position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom,0px) + 90px);max-width:90vw;transform:translate(-50%,30px);background:#2e2160;color:#fff;padding:12px 20px;border-radius:24px;font-size:13.5px;text-align:center;opacity:0;transition:.3s;pointer-events:none;z-index:50}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+.sw:focus-visible,.row:focus-visible,.chip:focus-visible,.ib:focus-visible,.out:focus-visible,.acct:focus-visible{outline:3px solid var(--p2);outline-offset:2px}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <button class="ib" id="back" type="button" aria-label="Retour"></button>
+    <h1>Paramètres</h1>
+  </header>
+  <main>
+    <h2 class="sec">Compte</h2>
+    <div class="group">
+      <a class="acct" href="profil.html">
+        <div class="av" id="av">E</div>
+        <div class="rt"><b id="nm">Mon compte</b><small id="role"></small></div>
+        <span class="chev" id="c-prof"></span>
+      </a>
+      <a class="row" href="abonnement.html"><span class="ri" id="i-sub"></span><span class="rt"><b>Abonnement</b><small id="subTxt"></small></span><span class="chev" id="c-sub"></span></a>
+      <a class="row" href="cycles.html"><span class="ri" id="i-cyc"></span><span class="rt"><b>Cycle</b><small id="cycTxt"></small></span><span class="chev" id="c-cyc"></span></a>
+    </div>
+
+    <h2 class="sec">Notifications</h2>
+    <div class="group" id="notifs"></div>
+
+    <h2 class="sec">Apparence et confort</h2>
+    <div class="group">
+      <div class="row" style="padding-bottom:4px"><span class="ri" id="i-theme"></span><span class="rt"><b>Thème</b><small>Clair, sombre ou selon votre appareil</small></span></div>
+      <div class="chips" id="theme" role="radiogroup" aria-label="Thème">
+        <button class="chip" type="button" role="radio" data-v="auto">Auto</button>
+        <button class="chip" type="button" role="radio" data-v="light">Clair</button>
+        <button class="chip" type="button" role="radio" data-v="dark">Sombre</button>
+      </div>
+      <div class="row"><span class="ri soft" id="i-vib"></span><span class="rt"><b>Vibrations</b><small>Léger retour lors de certaines actions</small></span><button class="sw" id="sw-vib" type="button" role="switch" aria-label="Vibrations"></button></div>
+    </div>
+
+    <h2 class="sec">Application</h2>
+    <div class="group">
+      <div class="row"><span class="ri soft" id="i-app"></span><span class="rt"><b>Installation</b><small id="appTxt"></small></span></div>
+      <button class="row" id="installBtn" type="button" hidden><span class="ri" id="i-dl"></span><span class="rt"><b>Installer l’application</b></span></button>
+      <button class="row" id="updBtn" type="button"><span class="ri" id="i-upd"></span><span class="rt"><b>Mettre à jour l’application<span class="new" id="updNew" hidden>Nouveau</span></b><small id="updTxt">Vérification de la version…</small></span></button>
+      <button class="row" id="clrCache" type="button"><span class="ri soft" id="i-cache"></span><span class="rt"><b>Vider les données hors ligne</b><small>Libère de l’espace. Les pages seront retéléchargées à la prochaine visite.</small></span></button>
+    </div>
+
+    <h2 class="sec">Données</h2>
+    <div class="group">
+      <button class="row danger" id="clrProg" type="button"><span class="ri warn" id="i-trash"></span><span class="rt"><b>Réinitialiser ma progression</b><small>Efface les cours étudiés, les parties lues et vos notes. Vos achats et votre abonnement sont conservés.</small></span></button>
+    </div>
+
+    <button class="out" id="logout" type="button"></button>
+    <p class="foot">Ressources de français</p>
+  </main>
+  <nav class="nav" id="nav"></nav>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</div>
+<script src="data.js"></script>
+<script>
+/* Icônes */
+$("back").innerHTML=ico("back",22);
+[["c-prof"],["c-sub"],["c-cyc"]].forEach(function(a){$(a[0]).innerHTML=ico("chev",22)});
+$("i-sub").innerHTML=ico("star",20);$("i-cyc").innerHTML=ico("grid",20);$("i-theme").innerHTML=ico("moon",20);
+$("i-vib").innerHTML=ico("phone",20);$("i-app").innerHTML=ico("phone",20);$("i-dl").innerHTML=ico("dl",20);
+$("i-cache").innerHTML=ico("trash",20);$("i-trash").innerHTML=ico("trash",20);
+$("logout").innerHTML=ico("out",20)+"Se déconnecter";
+
+/* Préférences (clé « settings » : stockées sur l’appareil).
+   Avec un serveur, les envoyer au compte pour qu’elles suivent la personne d’un appareil à l’autre. */
+function getS(k,d){var s=ls("settings",{});return s[k]===undefined?d:s[k]}
+function setS(k,v){var s=ls("settings",{});s[k]=v;sv("settings",s)}
+
+var NOTIFS=[
+ ["notifNew","Nouveaux documents","Être prévenu quand un document est ajouté",true],
+ ["notifSub","Rappels d’abonnement","Avant la fin de votre abonnement",true],
+ ["notifTips","Conseils d’étude","Rappels pour reprendre vos cours",false]];
+$("notifs").innerHTML=NOTIFS.map(function(n){
+ return '<div class="row"><span class="ri">'+ico("bell",20)+'</span><span class="rt"><b>'+n[1]+'</b><small>'+n[2]+'</small></span>'+
+  '<button class="sw" type="button" role="switch" data-k="'+n[0]+'" aria-label="'+n[1]+'"></button></div>'}).join("")+
+ '<p class="note" style="padding-left:0;padding-top:4px">Vos choix sont enregistrés sur cet appareil.</p>';
+
+function paintSwitches(){
+ NOTIFS.forEach(function(n){var b=document.querySelector('.sw[data-k="'+n[0]+'"]');b.setAttribute("aria-checked",!!getS(n[0],n[3]))});
+ $("sw-vib").setAttribute("aria-checked",!!getS("vib",true))}
+$("notifs").onclick=function(e){var b=e.target.closest(".sw");if(!b)return;
+ var k=b.dataset.k,def=NOTIFS.filter(function(n){return n[0]===k})[0][3],v=!getS(k,def);
+ setS(k,v);paintSwitches();toast(v?"Activé":"Désactivé")};
+$("sw-vib").onclick=function(){var v=!getS("vib",true);setS("vib",v);paintSwitches();if(v)vib(15);toast(v?"Vibrations activées":"Vibrations désactivées")};
+
+/* Compte, abonnement, cycle */
+function paintAccount(){
+ var n=userName();
+ $("nm").textContent=n||"Mon compte";$("av").textContent=(n||"E").charAt(0).toUpperCase();
+ $("role").textContent=ROLES[ROLE]+" · Voir mon profil";
+ var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0];
+ $("subTxt").textContent=on?"Actif"+(pl?" · "+pl.n:"")+" · jusqu’au "+fmtDate(s.end):"Aucun abonnement actif";
+ $("cycTxt").textContent=homeCycle()?(canSwitchCycle()&&activeCycle()!==homeCycle()?homeCycle()+" (affiché : "+activeCycle()+")":homeCycle()):"Non choisi";
+ paintAvatars()}
+
+/* Thème */
+function paintTheme(){var t="auto";try{t=localStorage.getItem("theme")||"auto"}catch(e){}
+ document.querySelectorAll("#theme .chip").forEach(function(c){var on=c.dataset.v===t;c.classList.toggle("on",on);c.setAttribute("aria-checked",on)})}
+$("theme").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;
+ try{if(b.dataset.v==="auto")localStorage.removeItem("theme");else localStorage.setItem("theme",b.dataset.v)}catch(x){}
+ applyTheme();paintTheme();paintThemeBtn&&paintThemeBtn()};
+
+/* Installation et hors ligne */
+function appCard(){
+ var ios=/iphone|ipad|ipod/i.test(navigator.userAgent),t;
+ $("installBtn").hidden=!deferredInstall;
+ if(isStandalone())t="Application installée ✓ Vos pages déjà visitées restent disponibles sans internet.";
+ else if(deferredInstall)t="Installez l’application : elle s’ouvre comme une application et reste disponible sans internet.";
+ else if(ios)t="Sur iPhone : touchez Partager, puis « Sur l’écran d’accueil ».";
+ else t="Utilisez le menu de votre navigateur (« Installer l’application » ou « Ajouter à l’écran d’accueil »).";
+ $("appTxt").textContent=t}
+$("installBtn").onclick=function(){installApp().then(function(ok){if(ok)toast("Application installée ✓");appCard()})};
+document.addEventListener("installready",appCard);document.addEventListener("installdone",appCard);
+
+/* Mise à jour de l’application : compare la version installée (cache du service worker) à celle du serveur (sw.js) */
+var SYNC="M17.65 6.35A7.96 7.96 0 0 0 12 4a8 8 0 1 0 7.73 10h-2.08A6 6 0 1 1 12 6c1.66 0 3.14.69 4.22 1.78L13 11h7V4z";
+$("i-upd").innerHTML='<svg width="20" height="20" viewBox="0 0 24 24"><path d="'+SYNC+'"/></svg>';
+var updBusy=false,updNewer=false;
+function vnum(v){var m=/(\d+)/.exec(v||"");return m?+m[1]:0}
+function installedVer(){
+ if(!window.caches)return Promise.resolve(null);
+ return caches.keys().then(function(ks){
+  var v=ks.filter(function(k){return /^ressources-v\d+/.test(k)}).map(function(k){return k.slice(11)}).sort(function(a,b){return vnum(b)-vnum(a)});
+  return v[0]||null}).catch(function(){return null})}
+function serverVer(){
+ return fetch(BASE+"sw.js?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.text()})
+  .then(function(t){var m=/VERSION\s*=\s*"([^"]+)"/.exec(t);if(!m)throw 0;return m[1]})}
+function paintUpd(inst,srv,state){
+ var t=$("updTxt");$("updNew").hidden=true;updNewer=false;
+ if(state==="busy"){t.textContent="Mise à jour en cours… Ne fermez pas l’application.";return}
+ if(srv&&inst&&vnum(srv)>vnum(inst)){updNewer=true;$("updNew").hidden=false;t.textContent="Nouvelle version disponible ("+srv+"). Version installée : "+inst+". Touchez pour mettre à jour.";return}
+ if(srv&&!inst){updNewer=true;t.textContent="Version "+srv+" disponible. Touchez pour mettre à jour.";return}
+ if(inst&&srv){t.textContent="Version installée : "+inst+" · Vous avez la dernière version ✓";return}
+ t.textContent=inst?"Version installée : "+inst+" · Touchez pour rechercher une mise à jour.":"Touchez pour rechercher une mise à jour."}
+function checkUpd(){
+ return Promise.all([installedVer(),serverVer().catch(function(){return null})]).then(function(r){paintUpd(r[0],r[1]);return r})}
+function doUpdate(){
+ if(updBusy)return;
+ if(!navigator.onLine)return toast("Pas de connexion internet");
+ updBusy=true;$("updBtn").classList.add("spin");paintUpd(null,null,"busy");
+ function done(msg){updBusy=false;$("updBtn").classList.remove("spin");if(msg)toast(msg);checkUpd()}
+ checkUpd().then(function(r){
+  var inst=r[0],srv=r[1];
+  if(!srv){updBusy=false;$("updBtn").classList.remove("spin");paintUpd(inst,null);return toast("Impossible de vérifier la mise à jour")}
+  if(inst&&vnum(srv)<=vnum(inst)){updBusy=false;$("updBtn").classList.remove("spin");paintUpd(inst,srv);return toast("L’application est déjà à jour ✓")}
+  paintUpd(null,null,"busy");
+  if(!("serviceWorker" in navigator)){location.reload();return}
+  navigator.serviceWorker.getRegistration().then(function(reg){
+   if(!reg){location.reload();return}
+   var finished=false;
+   function ok(){if(finished)return;finished=true;toast("Application mise à jour ✓");setTimeout(function(){location.reload()},900)}
+   navigator.serviceWorker.addEventListener("controllerchange",ok);
+   reg.update().then(function(){
+    /* Si la nouvelle version était déjà installée en attente, on l’active */
+    if(reg.waiting)reg.waiting.postMessage({type:"SKIP_WAITING"});
+    setTimeout(function(){
+     if(finished)return;
+     installedVer().then(function(v){
+      if(v&&vnum(v)>=vnum(srv))ok();
+      else{finished=true;done("La mise à jour a échoué. Réessayez.")}})},45000)
+   }).catch(function(){if(!finished){finished=true;done("La mise à jour a échoué. Réessayez.")}})
+  })
+ })}
+$("updBtn").onclick=doUpdate;
+checkUpd();
+window.addEventListener("online",function(){if(!updBusy)checkUpd()});
+
+$("clrCache").onclick=function(){
+ if(!window.caches)return toast("Non disponible sur ce navigateur");
+ if(!confirm("Vider les données hors ligne ? Vous aurez besoin d’internet pour rouvrir les pages."))return;
+ caches.keys().then(function(ks){return Promise.all(ks.map(function(k){return caches.delete(k)}))})
+  .then(function(){toast("Données hors ligne vidées ✓")}).catch(function(){toast("Impossible de vider les données")})};
+
+$("clrProg").onclick=function(){
+ if(!confirm("Réinitialiser votre progression ? Cette action est définitive."))return;
+ ["studied","parts","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
+ toast("Progression réinitialisée ✓")};
+
+$("logout").onclick=function(){
+ ["user_name","user_role","user_photo","user_profile","favs","cart","bought","pending","sub","subpending","studied","user_cycle","view_cycle","rates","settings"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
+ location.href="login-app.html"};
+
+$("back").onclick=function(){if(history.length>1)history.back();else location.href="index.html"};
+$("nav").onclick=navClick;
+drawNav(-1);paintAccount();paintTheme();paintSwitches();appCard();
+</script>
+</body>
+</html>

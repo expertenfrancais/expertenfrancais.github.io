@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f1ecfb">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Français">
+<meta name="robots" content="noindex">
+<title>Mon cycle</title>
+<style>
+/* Transitions entre pages (navigateurs récents) et fondu d'arrivée du contenu */
+@view-transition{navigation:auto}
+::view-transition-old(root){animation:.16s ease both vt-out}
+::view-transition-new(root){animation:.2s ease both vt-in}
+.nav{view-transition-name:nav}
+::view-transition-group(nav){animation-duration:.2s}
+@keyframes vt-out{to{opacity:0}}
+@keyframes vt-in{from{opacity:0}}
+@keyframes arrive{from{opacity:0;transform:translateY(6px)}}
+.fresh main>*,.fresh .list>*,.fresh .cats>*{animation:arrive .32s ease both}
+@media (prefers-reduced-motion:reduce){::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}.fresh main>*,.fresh .list>*,.fresh .cats>*{animation:none}}
+
+:root{--p1:#b29af4;--p2:#8c6fe0;--ink:#2e2160;--sub:#6b6490;--field:#f4eefb;--link:#5d49b8;--card:#fff;--page:#f1ecfb}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c}}
+:root[data-theme="dark"]{--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{overscroll-behavior-y:none;-webkit-text-size-adjust:100%}
+html,body{margin:0;min-height:100%;background:#8d7bc4;font-family:"Poppins","Segoe UI",system-ui,sans-serif}
+body{display:flex;justify-content:center;align-items:flex-start;min-height:100vh;min-height:100svh}
+button{font:inherit;cursor:pointer}
+svg{fill:currentColor}
+.app{position:relative;width:100%;max-width:430px;min-height:100vh;min-height:100svh;background:var(--page);display:flex;flex-direction:column;overflow-x:clip}
+@media(min-width:500px) and (min-height:640px) and (hover:hover) and (pointer:fine){body{align-items:center}.app{min-height:0;height:min(880px,96vh);overflow-y:auto;scrollbar-width:none;border-radius:46px;box-shadow:0 0 0 10px #1d1630,0 30px 80px rgba(0,0,0,.45)}}
+.top{display:flex;justify-content:space-between;align-items:center;padding:calc(env(safe-area-inset-top,0px) + 18px) 20px 14px}
+.who{display:flex;align-items:center;gap:12px;min-width:0}
+.av{flex:0 0 auto;width:46px;height:46px;border-radius:50%;background:linear-gradient(145deg,var(--p1),var(--p2));color:#fff;display:grid;place-items:center;font-weight:700;font-size:18px}
+.who small{display:block;font-size:12.5px;color:var(--sub)}
+.who b{display:block;font-size:19px;font-weight:600;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ib{flex:0 0 auto;width:44px;height:44px;border-radius:50%;border:0;background:var(--card);color:var(--ink);display:grid;place-items:center;box-shadow:0 6px 14px rgba(90,60,170,.12)}
+main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
+.search{display:flex;gap:10px;margin-bottom:14px}
+.field{flex:1;min-width:0;display:flex;align-items:center;gap:10px;background:var(--card);border-radius:24px;padding:0 16px;height:52px;border:2px solid transparent;box-shadow:0 6px 14px rgba(90,60,170,.08);color:var(--sub)}
+.field:focus-within{border-color:var(--p1)}
+.field input{flex:1;min-width:0;border:0;background:none;outline:0;font:inherit;font-size:14.5px;color:var(--ink)}
+.field input::placeholder{color:var(--sub);opacity:.85}
+.flt{position:relative;flex:0 0 auto;width:52px;height:52px;border-radius:20px;border:0;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2));display:grid;place-items:center;box-shadow:0 8px 14px rgba(130,100,220,.4)}
+.flt .dot{position:absolute;top:8px;right:8px;width:10px;height:10px;border-radius:50%;background:#e5578a;border:2px solid #fff}
+.chips{display:flex;gap:8px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;margin:0 -20px 14px;padding:2px 20px}
+.chip{flex:0 0 auto;border:0;border-radius:18px;padding:8px 16px;font-size:13px;font-weight:600;background:var(--card);color:var(--sub)}
+.chip.on{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff}
+.panel{background:var(--card);border-radius:28px;padding:16px 16px 4px;margin-bottom:16px;box-shadow:0 8px 24px rgba(90,60,170,.08);background:linear-gradient(160deg,var(--card),var(--field))}
+.panel h4{margin:0 0 8px;font-size:13px;color:var(--sub);font-weight:600}
+.panel .chips{margin:0 -16px 12px;padding:2px 16px}
+.panel .chip{background:var(--card)}.panel .chip.on{background:linear-gradient(180deg,var(--p1),var(--p2))}
+.sh{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px}
+.sh h2{margin:0;font-size:20px;color:var(--ink)}
+.count{font-size:13px;color:var(--sub)}
+.reset{border:0;background:none;padding:0;font-size:13px;font-weight:600;color:var(--link)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.doc{background:var(--card);border-radius:24px;padding:8px;box-shadow:0 8px 24px rgba(90,60,170,.08);display:flex;flex-direction:column;min-width:0}
+.cov{position:relative;height:118px;border-radius:18px;color:#fff;overflow:hidden;background:linear-gradient(135deg,var(--g1),var(--g2))}
+.cov img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.cov:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.28),transparent 45%,rgba(0,0,0,.4))}
+.cov>*:not(img){z-index:1}
+.tag{position:absolute;left:8px;bottom:8px;max-width:calc(100% - 16px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:rgba(255,255,255,.32);padding:4px 9px;border-radius:12px;font-size:11px;font-weight:600}
+.fav{position:absolute;right:8px;top:8px;width:34px;height:34px;border-radius:12px;border:0;background:rgba(255,255,255,.35);display:grid;place-items:center;color:#fff}
+.fav[aria-pressed="true"]{background:#fff;color:#7a5ae0}
+.body{padding:10px 4px 2px;display:flex;flex-direction:column;flex:1}
+.body h3{margin:0 0 4px;font-size:13.5px;line-height:1.3;color:var(--ink);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.6em}
+.meta{margin:0 0 10px;font-size:11.5px;color:var(--sub)}
+.r2{display:flex;align-items:center;gap:8px;margin-top:auto}
+.price{margin-right:auto;flex:0 0 auto}.price b{font-size:14px;color:var(--ink);white-space:nowrap}
+.rate{position:absolute;left:8px;top:8px;display:flex;align-items:center;gap:3px;background:#5a3fc0;color:#fff;border-radius:10px;padding:4px 8px;font-size:11.5px;font-weight:600;z-index:1}
+.rate svg{width:12px;height:12px;color:#ffb08a}
+.add{flex:0 0 auto;border:0;border-radius:14px;width:36px;height:36px;display:grid;place-items:center;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2));box-shadow:0 6px 12px rgba(130,100,220,.4)}
+.add.in{background:var(--field);color:var(--link);box-shadow:none}
+.more{display:block;margin:18px auto 0;border:0;border-radius:20px;height:44px;padding:0 26px;font-weight:600;font-size:14px;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2));box-shadow:0 8px 14px rgba(130,100,220,.4)}
+.empty{grid-column:1/-1;text-align:center;color:var(--sub);padding:30px 10px;font-size:14px}
+.nav{position:fixed;left:0;right:0;margin:0 auto;bottom:0;width:100%;max-width:430px;height:calc(66px + env(safe-area-inset-bottom,0px));z-index:10;display:grid;grid-template-columns:repeat(5,1fr);--cx:30%}
+.nav{filter:drop-shadow(0 -3px 8px rgba(70,40,150,.12))}
+.bar{position:absolute;inset:0;background:var(--card);border-radius:28px 28px 0 0;-webkit-mask:radial-gradient(circle 37px at var(--cx) 4px,transparent 36px,#000 37px);mask:radial-gradient(circle 37px at var(--cx) 4px,transparent 36px,#000 37px)}
+.nav button{position:relative;border:0;background:none;padding:6px 0 env(safe-area-inset-bottom,0px);color:var(--sub);display:grid;place-items:center}
+.nav .ic{display:grid;place-items:center;width:44px;height:44px}
+.nav svg{width:24px;height:24px}
+.nav .on{color:#fff}
+.nav .on .ic{position:absolute;top:-24px;left:50%;margin-left:-28px;width:56px;height:56px;border-radius:50%;background:linear-gradient(145deg,var(--p1),var(--p2));box-shadow:0 8px 16px rgba(110,80,200,.45)}
+.bd{position:absolute;top:10px;right:calc(50% - 24px);min-width:18px;height:18px;border-radius:9px;background:#e5578a;color:#fff;font-size:10.5px;font-weight:600;display:grid;place-items:center;padding:0 4px}
+@media(min-width:500px) and (min-height:640px) and (hover:hover) and (pointer:fine){.nav{position:sticky;left:auto;right:auto;width:auto;max-width:none;margin:auto 0 0}main{padding-bottom:30px!important}}
+/* Rotation : pas de cadre ni de rognage sur mobile/tablette (écrans tactiles) */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px)}
+@media(min-width:500px) and (hover:none),(min-width:500px) and (pointer:coarse){.app,.nav{max-width:760px}}
+.toast{position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom,0px) + 90px);max-width:90vw;transform:translate(-50%,30px);background:#2e2160;color:#fff;padding:12px 20px;border-radius:24px;font-size:13.5px;text-align:center;opacity:0;transition:.3s;pointer-events:none;z-index:50}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+[hidden]{display:none!important}
+.nav .on .bd{top:-24px;right:calc(50% - 30px)}
+.av.ph{color:transparent;font-size:0}
+
+.lead{font-size:14px;line-height:1.5;color:var(--sub);margin:0 4px 16px}
+.cy{display:flex;align-items:center;gap:14px;width:100%;text-align:left;border:2px solid transparent;border-radius:24px;padding:16px;margin-bottom:12px;background:var(--card);color:var(--ink);box-shadow:0 8px 24px rgba(90,60,170,.08)}
+.cy.cur{border-color:var(--p2)}
+.cy .ic2{flex:0 0 auto;width:48px;height:48px;border-radius:16px;display:grid;place-items:center;color:#fff;background:linear-gradient(145deg,var(--p1),var(--p2));font-weight:700;font-size:18px}
+.cy.lk .ic2{background:var(--field);color:var(--sub)}
+.cy .tx{flex:1;min-width:0}
+.cy b{display:block;font-size:16px}
+.cy small{display:block;font-size:12.5px;color:var(--sub);margin-top:2px}
+.cy em{font-style:normal;flex:0 0 auto;font-size:12px;font-weight:600;border-radius:12px;padding:5px 10px;background:var(--field);color:var(--link);white-space:nowrap}
+.cy.cur em{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff}
+.go{display:flex;align-items:center;justify-content:center;width:100%;height:52px;margin-top:8px;border:0;border-radius:26px;font-weight:600;font-size:16px;color:#fff;text-decoration:none;background:linear-gradient(180deg,var(--p1),var(--p2));box-shadow:0 10px 20px rgba(130,100,220,.4)}
+.sub2{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:4px 0 14px;padding:14px 16px;border-radius:20px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;text-decoration:none;font-weight:600;font-size:14px}
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small id="hs">Cours de français</small><b id="ht">Mon cycle</b></div></div>
+    <button class="ib" id="bell" type="button" aria-label="Notifications"><svg id="i-bell" width="22" height="22" viewBox="0 0 24 24"></svg></button>
+  </header>
+  <main>
+    <p class="lead" id="lead"></p>
+    <a class="sub2" id="subl" href="abonnement.html" hidden><span>Abonnez-vous pour passer d’un cycle à l’autre</span><b>Voir ›</b></a>
+    <div id="list"></div>
+    <a class="go" id="go" href="catalogue.html" hidden>Voir les cours de ce cycle</a>
+  </main>
+  <nav class="nav" id="nav"></nav>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</div>
+<script>var CYCLE_PAGE=true</script>
+<script src="data.js"></script>
+<script>
+/* Cette page sert à deux choses :
+   1. Premier choix du cycle (compte sans cycle) : un clic enregistre le cycle et ouvre l’accueil.
+   2. Changement de cycle : réservé aux abonnés. Les autres voient les cycles verrouillés. */
+["bell"].forEach(function(n){$("i-"+n).innerHTML='<path d="'+IC[n]+'"/>'});
+var name=userName();if(name)$("av").textContent=name.charAt(0).toUpperCase();
+var teacher=ROLE!=="eleve",first=!homeCycle();
+function count(c){return ALLDOCS.filter(function(d){return d.c===c&&ALLOWED_TYPES.indexOf(d.k)>-1}).length}
+function draw(){
+ var home=homeCycle(),cur=activeCycle(),sw=canSwitchCycle();
+ $("ht").textContent=first?"Choisir mon cycle":"Mon cycle";
+ $("lead").textContent=first?
+  (teacher?"Indiquez le cycle dans lequel vous enseignez : vous verrez les ressources qui lui correspondent.":"Indiquez votre cycle d’études : vous verrez les cours qui lui correspondent."):
+  (sw?"Votre abonnement vous permet de passer d’un cycle à l’autre. Touchez un cycle pour afficher ses cours.":"Votre compte donne accès aux cours du cycle « "+home+" ». Le changement de cycle est réservé aux abonnés.");
+ $("subl").hidden=first||sw;
+ $("list").innerHTML=Object.keys(CYCLES).map(function(c){
+  var isCur=!first&&c===cur,open=first||accessibleCycles().indexOf(c)>-1,n=count(c);
+  var tag=isCur?(c===home&&!sw?"Mon cycle":"Cycle affiché"):open?(first?"Choisir":"Afficher"):"Abonnés";
+  return '<button type="button" class="cy'+(isCur?" cur":"")+(open?"":" lk")+'" data-c="'+esc(c)+'"><span class="ic2">'+(open?esc(c.charAt(0)):ico("lock",20))+'</span>'+
+   '<span class="tx"><b>'+esc(c)+'</b><small>'+esc(CYCLE_INFO[c].sub)+' · '+n+' document'+(n>1?"s":"")+'</small></span><em>'+tag+'</em></button>'}).join("");
+ $("go").hidden=first;
+ drawNav(-1)}
+$("list").onclick=function(e){var b=e.target.closest(".cy");if(!b)return;var c=b.dataset.c;
+ if(first){setHomeCycle(c);vib(15);toast("Cycle enregistré ✓");setTimeout(function(){location.href="index.html"},500);return}
+ if(accessibleCycles().indexOf(c)<0){vib([20,30,20]);toast("Changer de cycle est réservé aux abonnés");return}
+ setViewCycle(c);vib(10);toast("Cycle affiché : "+c);draw()};
+$("nav").onclick=navClick;
+draw();
+</script>
+</body>
+</html>

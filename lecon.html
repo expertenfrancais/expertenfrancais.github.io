@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f1ecfb">
+<meta name="robots" content="noindex">
+<title>Leçon | Français</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Français">
+<link rel="stylesheet" href="course.css">
+</head>
+<body>
+<div class="app" id="app">
+  <main class="lec" id="page"></main>
+  <nav class="nav" id="nav"></nav>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</div>
+<script>var PUBLIC_PAGE=true</script>
+<script src="data.js"></script>
+<script src="blocs.js"></script>
+<script>
+/* ===== Page de lecture d’une partie de cours (rendue par JavaScript) =====
+   Adresse : lecon.html?id=<numéro du cours>&s=<numéro de la partie>
+   La partie 1 est gratuite pour tout le monde. Les suivantes demandent l’accès au cours.
+   Le contenu riche vient de contenu/<id>.json (blocs, voir contenu/SPEC.md). Repli : sections de data.js (t, c). */
+(function(){
+var CHEV="M8.6 16.6L13.2 12 8.6 7.4 10 6l6 6-6 6z",BACK="M15.4 7.4L14 6l-6 6 6 6 1.4-1.4L10.8 12z";
+function svg(p){return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+p+'"/></svg>'}
+$("nav").onclick=navClick;drawNav(1);
+var q=new URLSearchParams(location.search),id=+q.get("id"),d=ALLDOCS.filter(function(x){return x.id===id})[0],P=$("page");
+var logged=!!userName();
+function msg(t,p,label,href){P.innerHTML='<div class="center"><h3>'+t+'</h3><p>'+p+'</p></div><div class="dock"><button class="go" id="gb" type="button"><span>'+label+'</span><i>'+svg(CHEV)+'</i></button></div>';
+ $("gb").onclick=function(){location.href=BASE+href}}
+if(!d)return msg("Leçon introuvable","Ce cours n’existe pas ou n’est plus disponible.","Voir le catalogue","catalogue.html");
+var I=docInfo(d),S=I.sections,N=S.length;
+var typeOK=!logged||ALLOWED_TYPES.indexOf(d.k)>-1;
+if(!typeOK)return msg("Document indisponible","Ce document n’est pas disponible pour votre profil.","Voir le catalogue","catalogue.html");
+if(!cycleOK(d))return msg("Cours d’un autre cycle","Ce cours fait partie du cycle « "+esc(d.c)+" ». Avec un abonnement, vous pouvez passer d’un cycle à l’autre.","Voir les formules d’abonnement","abonnement.html");
+/* Chargement du contenu du cours (un fichier par cours), puis affichage */
+var started=false;
+function start(j){if(started)return;started=true;
+ if(j&&Array.isArray(j.sections)&&j.sections.length){S=j.sections;N=S.length}
+ draw()}
+function draw(){
+var i=Math.min(Math.max((parseInt(q.get("s"),10)||1)-1,0),N-1),sec=S[i],acc=canAccess(d.id),open=partFree(i)||acc;
+var g=G[d.k]||G.Cours,done=partsDone(d.id);
+document.title=sec.t+" | "+d.t;
+function isOpen(k){return partFree(k)||acc}
+
+/* Étude enregistrée seulement si la partie est lisible */
+if(open){markPart(d.id,i);done=partsDone(d.id);
+ if(acc){var st=ls("studied",[]);if(st.indexOf(d.id)<0){st.push(d.id);sv("studied",st)}}}
+
+/* En-tête, barre de progression */
+var h='<div class="lhead" style="--g1:'+g[0]+';--g2:'+g[1]+'"><a class="back2" href="'+docUrl(d)+'" aria-label="Retour au cours">'+svg(BACK)+'</a><div><small>Partie '+(i+1)+' sur '+N+' · '+esc(d.n)+'</small><b>'+esc(d.t)+'</b></div></div>';
+h+='<div class="steps" aria-hidden="true">'+S.map(function(s,k){
+ var c=k===i?"on":done.indexOf(k)>-1&&isOpen(k)?"done":isOpen(k)?"":"lk";
+ return isOpen(k)?'<a class="'+c+'" href="'+partUrl(d,k)+'"></a>':'<a class="'+c+'"></a>'}).join("")+'</div>';
+
+/* Carte de la partie */
+h+='<article class="lcard" style="--g1:'+g[0]+';--g2:'+g[1]+'"><p class="lnum"><i>'+(i+1)+'</i>'+esc(d.k)+' · '+esc(d.m)+'</p><h1>'+esc(sec.t)+'</h1>';
+if(open){
+ var rich=sec.blocs&&sec.blocs.length?BLOCS.render(sec.blocs):"",
+  paras=rich?[]:(sec.c||"").split(/\n+/).filter(Boolean);
+ h+='<span class="lbadge">'+(acc?"Accès complet":"Partie gratuite")+'</span><div class="lbody">'+
+  (rich||(paras.length?paras.map(function(t){return "<p>"+esc(t)+"</p>"}).join(""):'<p class="soon">Le contenu de cette partie arrive bientôt.</p>'))+'</div>';
+ if(i===N-1&&logged)h+=rateBox(d.id);
+}else{
+ h+='<div class="lock2"><div class="okc">'+svg(IC.lock)+'</div><h3>Partie réservée</h3><p>Abonnez-vous pour lire toutes les parties de ce cours, ou achetez-le à l’unité.</p>'+
+  (logged?'<a class="btn2" href="abonnement.html">S’abonner</a><a class="btn2 alt" href="#" id="buy">Acheter le cours · '+esc(price(d.pr))+'</a>':'<a class="btn2" href="login-app.html">Se connecter</a>')+
+  '<a class="btn2 alt" href="'+docUrl(d)+'">Retour au cours</a></div>';
+}
+h+='</article>';
+
+/* Navigation précédent / suivant */
+var last=i===N-1;
+h+='<div class="dock"><button class="pv" id="pv" type="button" aria-label="Partie précédente"'+(i===0?" disabled":"")+'>'+svg(BACK)+'</button>'+
+ '<button class="go nx" id="nx" type="button"><span>'+(last?"Terminer le cours":"Partie suivante")+'</span><i>'+svg(CHEV)+'</i></button></div>';
+P.innerHTML=h;
+BLOCS.bind(P);bindRate(P,d.id);
+$("pv").onclick=function(){if(i>0)location.replace(partUrl(d,i-1))};
+$("nx").onclick=function(){location.replace(last?docUrl(d):partUrl(d,i+1))};
+/* Pastilles de progression : remplacent la page au lieu de l’empiler dans l’historique */
+var stp=P.querySelectorAll(".steps a[href]");for(var z=0;z<stp.length;z++)stp[z].onclick=function(e){e.preventDefault();location.replace(this.href)};
+var b=$("buy");if(b)b.onclick=function(e){e.preventDefault();if(cart.indexOf(d.id)<0){cart.push(d.id);sv("cart",cart)}location.href="panier.html"};
+}
+
+if(!window.fetch)return start(null);
+fetch(BASE+"contenu/"+d.id+".json").then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(start);
+})();
+</script>
+</body>
+</html>
