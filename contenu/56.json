@@ -1,0 +1,537 @@
+{
+ "id": 56,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une proposition subordonnée complétive ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Je pense **que tu as raison** », la proposition « que tu as raison » **complète** le verbe « pense » : sans elle, la phrase serait incomplète. C’est une proposition subordonnée **complétive**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître une proposition subordonnée complétive",
+      "Identifier sa fonction dans la phrase",
+      "Choisir le bon mode du verbe (indicatif ou subjonctif)",
+      "Distinguer la complétive de la proposition relative"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Proposition subordonnée complétive",
+     "text": "Une **proposition subordonnée complétive** complète un mot de la proposition principale (un verbe, un adjectif ou un nom). Elle dépend de la principale et ne peut pas, en général, être supprimée sans que la phrase devienne incomplète."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase complexe décortiquée",
+     "cells": [
+      {
+       "mot": "Je pense",
+       "role": "proposition principale"
+      },
+      {
+       "mot": "que",
+       "role": "conjonction de subordination",
+       "noyau": true
+      },
+      {
+       "mot": "tu as raison",
+       "role": "subordonnée complétive"
+      }
+     ],
+     "note": "La conjonction « que » relie la subordonnée à la principale."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Je sais **que tu viendras**.\nElle espère **que son frère réussira**.\nIl faut **que nous partions**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je sais que tu viendras », quelle est la proposition subordonnée complétive ?",
+     "options": [
+      "Je sais",
+      "que tu viendras",
+      "tu",
+      "viendras"
+     ],
+     "answer": 1,
+     "explain": "« que tu viendras » complète le verbe « sais » : c’est la subordonnée complétive."
+    }
+   ]
+  },
+  {
+   "t": "La complétive introduite par « que »",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La complétive la plus fréquente est introduite par la conjonction de subordination **que** (on l’appelle aussi *complétive conjonctive*). Elle suit souvent un verbe de déclaration, d’opinion, de sentiment ou de volonté."
+    },
+    {
+     "type": "def",
+     "label": "Conjonction « que »",
+     "text": "Dans une complétive, **que** est une **conjonction de subordination** : elle introduit la proposition, mais elle n’a pas de fonction dans cette proposition. Devant une voyelle, elle s’écrit **qu’**."
+    },
+    {
+     "type": "table",
+     "title": "Des verbes qui introduisent une complétive",
+     "head": [
+      "Type de verbe",
+      "Verbes",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "déclaration",
+       "dire, affirmer, répondre",
+       "Il affirme **que tu mens**."
+      ],
+      [
+       "opinion",
+       "penser, croire, savoir",
+       "Je crois **que tu as raison**."
+      ],
+      [
+       "volonté",
+       "vouloir, exiger, souhaiter",
+       "Je veux **que tu viennes**."
+      ],
+      [
+       "sentiment",
+       "craindre, regretter, espérer",
+       "Elle regrette **que tu sois parti**."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test de remplacement",
+     "lines": [
+      "Je sais **que tu viendras**. → Je sais **cela**. / Je **le** sais.",
+      "On peut remplacer la complétive par « cela » ou par le pronom « le »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Elle espère que son frère réussira », « que » est :",
+     "options": [
+      "un pronom relatif",
+      "une conjonction de subordination",
+      "un adverbe",
+      "une préposition"
+     ],
+     "answer": 1,
+     "explain": "« que » introduit la subordonnée et n’a pas de fonction dans cette proposition : c’est une conjonction de subordination."
+    }
+   ]
+  },
+  {
+   "t": "Les fonctions de la complétive",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Comme un groupe nominal, la complétive a une **fonction** dans la phrase. Selon le mot qu’elle complète, elle peut être complément d’objet direct, sujet, attribut, complément de l’adjectif ou complément du nom."
+    },
+    {
+     "type": "table",
+     "title": "Les fonctions de la complétive",
+     "head": [
+      "Fonction",
+      "Elle complète",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "complément d’objet direct (COD)",
+       "un verbe",
+       "Je crois **que tu as raison**."
+      ],
+      [
+       "sujet (réel)",
+       "un verbe impersonnel",
+       "Il faut **que tu partes**."
+      ],
+      [
+       "attribut du sujet",
+       "le verbe être",
+       "Mon souhait est **que tu réussisses**."
+      ],
+      [
+       "complément de l’adjectif",
+       "un adjectif",
+       "Je suis content **que tu sois là**."
+      ],
+      [
+       "complément du nom",
+       "un nom",
+       "J’ai l’impression **que tu hésites**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver la fonction, remplace la complétive par « cela » et regarde le rôle de ce mot : « Je crois **cela** » → COD."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "La fonction la plus fréquente est **COD**. Après un verbe comme « dire », « penser » ou « savoir », la complétive est presque toujours COD."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je suis heureux que tu sois venu », la complétive complète :",
+     "options": [
+      "le verbe « suis »",
+      "l’adjectif « heureux »",
+      "le sujet « Je »",
+      "le nom « tu »"
+     ],
+     "answer": 1,
+     "explain": "« que tu sois venu » précise pourquoi je suis heureux : elle complète l’adjectif « heureux »."
+    }
+   ]
+  },
+  {
+   "t": "Le mode du verbe : indicatif ou subjonctif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le verbe de la complétive se met à l’**indicatif** ou au **subjonctif**. Le mode dépend du sens du verbe de la proposition principale."
+    },
+    {
+     "type": "table",
+     "title": "Le choix du mode",
+     "head": [
+      "La principale exprime",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "une certitude, une déclaration (savoir, penser, dire, affirmer)",
+       "indicatif",
+       "Je sais que tu **viendras**."
+      ],
+      [
+       "une volonté, un souhait (vouloir, souhaiter, exiger)",
+       "subjonctif",
+       "Je veux que tu **viennes**."
+      ],
+      [
+       "un sentiment (être content, regretter, craindre)",
+       "subjonctif",
+       "Je regrette que tu **sois** parti."
+      ],
+      [
+       "un doute, une nécessité (douter, il faut)",
+       "subjonctif",
+       "Il faut que nous **partions**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour reconnaître le subjonctif, remplace le sujet par **nous** : « que nous venions » (subjonctif), alors que « nous viendrons » est de l’indicatif."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Avec **penser** et **croire** à la forme négative, on emploie le plus souvent le subjonctif : « Je ne pense pas que tu **aies** raison »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme convient : « Je veux que tu … » ?",
+     "options": [
+      "viens",
+      "viendras",
+      "viennes",
+      "venais"
+     ],
+     "answer": 2,
+     "explain": "« vouloir » exprime une volonté : il est suivi du subjonctif, « que tu viennes »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme convient : « Je sais que tu … raison » ?",
+     "options": [
+      "aies",
+      "as",
+      "ait",
+      "avais eu"
+     ],
+     "answer": 1,
+     "explain": "« savoir » exprime une certitude : indicatif, « que tu as raison »."
+    }
+   ]
+  },
+  {
+   "t": "La complétive interrogative indirecte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une complétive peut aussi exprimer une **question** rapportée dans la phrase. On l’appelle **interrogative indirecte**."
+    },
+    {
+     "type": "def",
+     "label": "Complétive interrogative indirecte",
+     "text": "Une **interrogative indirecte** est une subordonnée complétive qui rapporte une question. Elle est introduite par **si**, par un mot interrogatif (**où, quand, comment, pourquoi, qui, ce que…**) et suit un verbe comme *demander*, *savoir*, *se demander*."
+    },
+    {
+     "type": "table",
+     "title": "De l’interrogation directe à l’interrogation indirecte",
+     "head": [
+      "Interrogation directe",
+      "Interrogation indirecte"
+     ],
+     "rows": [
+      [
+       "Viendras-tu demain ?",
+       "Je me demande **si tu viendras** demain."
+      ],
+      [
+       "Où habites-tu ?",
+       "Je voudrais savoir **où tu habites**."
+      ],
+      [
+       "Que fais-tu ?",
+       "Dis-moi **ce que tu fais**."
+      ],
+      [
+       "Qui est venu ?",
+       "Je demande **qui est venu**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Dans l’interrogation indirecte, il n’y a **ni point d’interrogation**, ni **inversion** du sujet : on écrit « où tu habites », pas « où habites-tu »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une interrogative indirecte ?",
+     "options": [
+      "Pourquoi pleures-tu ?",
+      "Tu pleures parce que tu es triste.",
+      "Je me demande pourquoi tu pleures.",
+      "Que de larmes !"
+     ],
+     "answer": 2,
+     "explain": "« pourquoi tu pleures » rapporte une question après « je me demande »."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas confondre complétive et relative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mot « que » peut introduire une complétive, mais aussi une proposition **relative**. Pour ne pas se tromper, il faut observer ce que « que » remplace."
+    },
+    {
+     "type": "table",
+     "title": "Complétive ou relative ?",
+     "head": [
+      "",
+      "Complétive",
+      "Relative"
+     ],
+     "rows": [
+      [
+       "Le mot « que »",
+       "conjonction de subordination",
+       "pronom relatif"
+      ],
+      [
+       "Il remplace un mot ?",
+       "non",
+       "oui : son antécédent (un nom)"
+      ],
+      [
+       "Remplaçable par « cela » ?",
+       "oui",
+       "non"
+      ],
+      [
+       "Exemple",
+       "Je sais **que Lina est partie**.",
+       "Le cadeau **que Kofi a reçu** est beau."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Les deux tests",
+     "lines": [
+      "Je sais **que Lina est partie** → Je sais **cela**. (complétive)",
+      "Le cadeau **que Kofi a reçu** → on ne peut pas dire « Le cadeau cela » : « que » remplace « le cadeau » (COD de « a reçu »). (relative)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si « que » reprend un nom placé juste avant lui (l’antécédent), c’est un pronom relatif. Sinon, c’est souvent la conjonction d’une complétive."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La nouvelle que tu m’as annoncée m’a surpris », « que tu m’as annoncée » est une proposition :",
+     "options": [
+      "complétive",
+      "relative",
+      "interrogative indirecte",
+      "principale"
+     ],
+     "answer": 1,
+     "explain": "« que » reprend « la nouvelle » (antécédent) : c’est un pronom relatif, COD de « as annoncée »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître les complétives, à choisir le bon mode et à les distinguer des relatives."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la proposition subordonnée complétive et indique sa fonction.",
+     "items": [
+      "Je pense que tu as raison.",
+      "Il faut que nous partions tôt.",
+      "Elle est contente que son frère revienne."
+     ],
+     "corrige": [
+      "1. que tu as raison : COD de « pense »",
+      "2. que nous partions tôt : sujet réel de « faut »",
+      "3. que son frère revienne : complément de l’adjectif « contente »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe entre parenthèses au mode et au temps qui conviennent.",
+     "items": [
+      "Je sais que tu (réussir) cette année.",
+      "Je veux que tu (réussir) cette année.",
+      "Il faut que vous (finir) ce devoir.",
+      "Je ne pense pas qu’il (avoir) tort."
+     ],
+     "corrige": [
+      "1. réussiras (indicatif)",
+      "2. réussisses (subjonctif)",
+      "3. finissiez (subjonctif)",
+      "4. ait (subjonctif)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque question directe en interrogation indirecte, avec le début proposé.",
+     "items": [
+      "Viendras-tu demain ? (Je me demande…)",
+      "Pourquoi est-il parti ? (Dis-moi…)"
+     ],
+     "corrige": [
+      "1. Je me demande si tu viendras demain.",
+      "2. Dis-moi pourquoi il est parti."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Distinguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la proposition introduite par « que » est une complétive ou une relative.",
+     "items": [
+      "Je crois que Kofi viendra.",
+      "Le cadeau que Kofi a reçu est magnifique.",
+      "Nous savons que la classe est ouverte."
+     ],
+     "corrige": [
+      "1. complétive",
+      "2. relative (« que » reprend « le cadeau »)",
+      "3. complétive"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une complétive ?",
+     "options": [
+      "Le livre que tu lis est passionnant.",
+      "Je suis sûr que tu réussiras.",
+      "La robe que Lina porte est bleue.",
+      "L’exercice que nous faisons est facile."
+     ],
+     "answer": 1,
+     "explain": "Dans « Je suis sûr que tu réussiras », « que tu réussiras » complète l’adjectif « sûr » : c’est une complétive."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une **proposition subordonnée complétive** complète un verbe, un adjectif ou un nom de la proposition principale.",
+      "La plus fréquente est introduite par la conjonction **que** ; elle peut être remplacée par « cela ».",
+      "Ses fonctions : **COD**, sujet réel, attribut, complément de l’adjectif, complément du nom.",
+      "Le verbe est à l’**indicatif** après une certitude ou une déclaration, au **subjonctif** après une volonté, un sentiment, un doute ou une nécessité.",
+      "L’**interrogative indirecte** rapporte une question (si, où, quand, pourquoi, ce que…) : ni point d’interrogation, ni inversion.",
+      "Ne pas confondre avec la **relative** : le pronom relatif « que » reprend un antécédent."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La complétive en un coup d’œil",
+     "head": [
+      "Type",
+      "Introduite par",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "complétive conjonctive",
+       "que",
+       "Je pense **que tu as raison**."
+      ],
+      [
+       "interrogative indirecte",
+       "si, où, quand, pourquoi, ce que…",
+       "Je me demande **si tu viendras**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je veux que tu viennes », la proposition « que tu viennes » est :",
+     "options": [
+      "une relative",
+      "une principale",
+      "une complétive COD",
+      "une interrogative indirecte"
+     ],
+     "answer": 2,
+     "explain": "Elle complète le verbe « veux » : c’est une complétive, COD, au subjonctif."
+    }
+   ]
+  }
+ ]
+}

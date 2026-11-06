@@ -1,0 +1,489 @@
+{
+ "id": 55,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un exposé oral ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Présenter le baobab à ta classe, expliquer comment fonctionne un volcan, raconter la vie d’un écrivain : dans tous ces cas, tu fais un **exposé oral**. Tu ne lis pas un texte : tu **parles** pour faire comprendre un sujet à ceux qui t’écoutent."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un exposé oral",
+      "Préparer un exposé avec un plan clair",
+      "Utiliser des notes et une aide visuelle",
+      "Parler d’une voix claire, avec un bon regard et une bonne posture"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Exposé oral",
+     "text": "Un **exposé oral** consiste à présenter à voix haute, devant un public, un sujet que l’on a **préparé** : on cherche des informations, on les organise, puis on les explique clairement."
+    },
+    {
+     "type": "table",
+     "title": "Les étapes d’un exposé",
+     "head": [
+      "Étape",
+      "Ce que je fais"
+     ],
+     "rows": [
+      [
+       "Préparer",
+       "Je cherche des informations et je fais un plan."
+      ],
+      [
+       "Organiser",
+       "Je rédige mes notes et je prépare mon support."
+      ],
+      [
+       "S’entraîner",
+       "Je répète à voix haute."
+      ],
+      [
+       "Présenter",
+       "Je parle devant la classe et je réponds aux questions."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un exposé oral consiste à :",
+     "options": [
+      "lire un texte sans regarder le public",
+      "présenter à voix haute un sujet préparé",
+      "réciter une poésie par cœur",
+      "répondre à une seule question"
+     ],
+     "answer": 1,
+     "explain": "On présente oralement un sujet qu’on a préparé, en s’adressant à un public."
+    }
+   ]
+  },
+  {
+   "t": "Préparer son exposé : recherche et plan",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un bon exposé se joue en grande partie **avant** de parler. Il faut comprendre le sujet, chercher des informations fiables, puis choisir ce qui est important."
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "label": "Préparer son exposé",
+     "items": [
+      "**Comprendre le sujet** : de quoi dois-je parler exactement ?",
+      "**Chercher** des informations (livres, dictionnaires, documentaires, sites fiables).",
+      "**Choisir** les idées les plus importantes, sans tout raconter.",
+      "**Faire un plan** : classer les idées dans un ordre logique."
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Plan",
+     "text": "Le **plan** est l’organisation de l’exposé en parties. Il aide celui qui parle à ne rien oublier et celui qui écoute à suivre."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Note toujours **d’où vient** chaque information (titre du livre, nom du site). Tu pourras la vérifier et la citer."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne recopie pas un texte trouvé tel quel : **reformule avec tes propres mots**. Si tu ne comprends pas ce que tu dis, ton public non plus."
+    },
+    {
+     "type": "quiz",
+     "question": "Que faut-il faire en premier pour préparer un exposé ?",
+     "options": [
+      "Choisir les couleurs de l’affiche",
+      "S’entraîner devant le miroir",
+      "Comprendre le sujet et chercher des informations",
+      "Écrire la conclusion"
+     ],
+     "answer": 2,
+     "explain": "On commence par bien comprendre le sujet, puis on cherche des informations."
+    }
+   ]
+  },
+  {
+   "t": "Construire l’exposé : introduction, développement, conclusion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un exposé comporte toujours trois parties : une **introduction**, un **développement** et une **conclusion**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois parties de l’exposé",
+     "head": [
+      "Partie",
+      "Rôle",
+      "Exemple (sujet : le baobab)"
+     ],
+     "rows": [
+      [
+       "Introduction",
+       "Se présenter, annoncer le sujet et le plan.",
+       "« Bonjour, aujourd’hui je vais vous présenter le baobab. Je parlerai de son aspect, puis de son utilité. »"
+      ],
+      [
+       "Développement",
+       "Expliquer chaque idée avec des exemples.",
+       "« D’abord, le baobab a un tronc très épais qui garde de l’eau… »"
+      ],
+      [
+       "Conclusion",
+       "Résumer l’essentiel, remercier, proposer des questions.",
+       "« Pour finir, retenons que le baobab est un arbre précieux. Merci de votre attention. »"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour guider l’auditoire, utilise des **mots de liaison** : d’abord, ensuite, enfin, pour finir."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne commence pas par parler du sujet sans prévenir. Dis d’abord **de quoi tu vas parler** et **dans quel ordre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Où annonce-t-on le sujet et le plan de l’exposé ?",
+     "options": [
+      "Dans la conclusion",
+      "Dans l’introduction",
+      "Au milieu du développement",
+      "On ne l’annonce pas"
+     ],
+     "answer": 1,
+     "explain": "L’introduction présente le sujet et annonce le plan."
+    }
+   ]
+  },
+  {
+   "t": "Les supports : fiche de notes et aide visuelle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pendant l’exposé, tu peux t’aider de **notes** et d’une **aide visuelle** (affiche, schéma, image). Ces supports t’aident, mais ils ne doivent pas parler à ta place."
+    },
+    {
+     "type": "list",
+     "label": "Une bonne fiche de notes",
+     "items": [
+      "contient des **mots-clés** et des titres, pas des phrases entières",
+      "est écrite en **gros caractères**, lisible d’un coup d’œil",
+      "suit l’ordre du plan"
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Une bonne aide visuelle",
+     "items": [
+      "comporte peu de texte",
+      "est visible de loin",
+      "aide à comprendre (schéma, image, titre)"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Bon support ou mauvais support ?",
+     "head": [
+      "À faire",
+      "À éviter"
+     ],
+     "rows": [
+      [
+       "Quelques mots-clés par fiche",
+       "Recopier tout le texte"
+      ],
+      [
+       "Une affiche aérée, avec un titre",
+       "Une affiche pleine de petites lignes"
+      ],
+      [
+       "Montrer l’image en parlant",
+       "Lire l’affiche en tournant le dos"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne lis pas tes notes du début à la fin : tu perdrais le contact avec ton public."
+    },
+    {
+     "type": "quiz",
+     "question": "Une bonne fiche de notes contient surtout :",
+     "options": [
+      "le texte entier recopié",
+      "des phrases très longues",
+      "des mots-clés et des titres",
+      "aucune information"
+     ],
+     "answer": 2,
+     "explain": "Les mots-clés te rappellent les idées : tu parles avec tes mots, sans lire."
+    }
+   ]
+  },
+  {
+   "t": "La voix et le corps : parler clairement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un exposé réussi, c’est aussi une façon de parler et de se tenir. Ta **voix** et ton **corps** aident le public à te comprendre."
+    },
+    {
+     "type": "table",
+     "title": "Parler clairement",
+     "head": [
+      "Élément",
+      "Conseil"
+     ],
+     "rows": [
+      [
+       "Volume",
+       "Parle assez fort pour être entendu du fond de la classe."
+      ],
+      [
+       "Débit",
+       "Ne parle ni trop vite, ni trop lentement."
+      ],
+      [
+       "Articulation",
+       "Prononce bien chaque mot."
+      ],
+      [
+       "Pauses",
+       "Marque un temps d’arrêt entre deux idées."
+      ],
+      [
+       "Regard",
+       "Regarde ton public, pas seulement tes notes."
+      ],
+      [
+       "Posture",
+       "Tiens-toi debout, droit, face à la classe."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Fais une **pause** après une idée importante : cela laisse au public le temps de comprendre."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Parler trop vite fait avaler les mots : on ne comprend plus rien."
+    },
+    {
+     "type": "quiz",
+     "question": "Pour être bien compris pendant un exposé, il faut :",
+     "options": [
+      "parler assez fort et bien articuler",
+      "parler très vite pour finir",
+      "parler à voix basse",
+      "regarder uniquement le sol"
+     ],
+     "answer": 0,
+     "explain": "Une voix assez forte et une bonne articulation permettent à tous d’entendre."
+    }
+   ]
+  },
+  {
+   "t": "S’entraîner et gérer le trac",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant de parler devant la classe, il faut **s’entraîner**. Et il est normal d’avoir un peu le trac : cela arrive à tout le monde."
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "label": "S’entraîner",
+     "items": [
+      "Répète ton exposé **à voix haute**, seul ou devant un proche.",
+      "**Chronomètre-toi** pour respecter le temps donné.",
+      "Corrige les passages où tu hésites.",
+      "Recommence jusqu’à te sentir à l’aise."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Si tu as le trac",
+     "text": "Respire profondément avant de commencer, souris et prends ton temps pour la première phrase."
+    },
+    {
+     "type": "tip",
+     "label": "Si tu perds le fil",
+     "text": "Ne panique pas : regarde ta fiche, respire, puis reprends la dernière phrase que tu as dite."
+    },
+    {
+     "type": "quiz",
+     "question": "Pour bien s’entraîner, il faut :",
+     "options": [
+      "relire sa fiche en silence",
+      "ne pas répéter pour garder la surprise",
+      "apprendre le texte sans le dire",
+      "répéter à voix haute et se chronométrer"
+     ],
+     "answer": 3,
+     "explain": "On répète à voix haute pour s’habituer à parler et on se chronomètre pour respecter le temps."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à organiser, présenter et améliorer un exposé oral."
+    },
+    {
+     "type": "h",
+     "text": "Ordonner"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets les étapes de l’exposé dans l’ordre.",
+     "items": [
+      "Je présente devant la classe.",
+      "Je fais un plan.",
+      "Je m’entraîne à voix haute.",
+      "Je cherche des informations."
+     ],
+     "corrige": [
+      "1. Je cherche des informations.",
+      "2. Je fais un plan.",
+      "3. Je m’entraîne à voix haute.",
+      "4. Je présente devant la classe."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Identifier"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase appartient à l’introduction, au développement ou à la conclusion.",
+     "items": [
+      "Aujourd’hui, je vais vous présenter le baobab.",
+      "Premièrement, le baobab garde de l’eau dans son tronc.",
+      "Pour finir, retenons que le baobab est un arbre précieux. Merci de votre attention."
+     ],
+     "corrige": [
+      "1. introduction",
+      "2. développement",
+      "3. conclusion"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase convient pour une conclusion ?",
+     "options": [
+      "Bonjour, je m’appelle Awa.",
+      "Pour finir, retenons l’essentiel. Merci de votre attention.",
+      "D’abord, parlons du tronc.",
+      "Je vais vous parler du baobab."
+     ],
+     "answer": 1,
+     "explain": "La conclusion résume l’essentiel et remercie le public."
+    },
+    {
+     "type": "h",
+     "text": "Améliorer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Que conseilles-tu à chaque élève ?",
+     "items": [
+      "Awa lit sa feuille sans lever les yeux.",
+      "Kofi parle très vite, à voix basse.",
+      "Lina tourne le dos à la classe pour lire son affiche."
+     ],
+     "corrige": [
+      "1. Regarder le public et utiliser des mots-clés plutôt qu’un texte entier.",
+      "2. Parler plus fort, ralentir et faire des pauses.",
+      "3. Se placer face au public et montrer l’affiche sur le côté."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Construire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase d’introduction pour un exposé sur le sujet de ton choix.",
+     "items": [
+      "Sujet :",
+      "Introduction :"
+     ],
+     "corrige": [
+      "Réponse possible :",
+      "Sujet : le football",
+      "Introduction : Bonjour, aujourd’hui je vais vous présenter le football. Je parlerai de ses règles, puis de son histoire."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **exposé oral** présente un sujet préparé, à voix haute, devant un public.",
+      "On **prépare** : comprendre le sujet, chercher des informations, faire un **plan**.",
+      "L’exposé a trois parties : **introduction**, **développement**, **conclusion**.",
+      "Les **notes** contiennent des mots-clés ; l’aide visuelle est simple et lisible.",
+      "On parle **assez fort**, on **articule**, on fait des **pauses** et on **regarde** le public.",
+      "On **s’entraîne** à voix haute et on se chronomètre."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "L’exposé oral en un coup d’œil",
+     "head": [
+      "Partie",
+      "Ce que je fais"
+     ],
+     "rows": [
+      [
+       "Introduction",
+       "Je me présente, j’annonce le sujet et le plan."
+      ],
+      [
+       "Développement",
+       "J’explique chaque idée avec des exemples."
+      ],
+      [
+       "Conclusion",
+       "Je résume, je remercie, je propose des questions."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on dans la conclusion d’un exposé ?",
+     "options": [
+      "On annonce le sujet",
+      "On commence une nouvelle idée",
+      "On résume l’essentiel et on remercie le public",
+      "On lit toutes ses notes"
+     ],
+     "answer": 2,
+     "explain": "La conclusion résume l’essentiel et remercie le public."
+    }
+   ]
+  }
+ ]
+}

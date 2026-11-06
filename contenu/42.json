@@ -1,0 +1,811 @@
+{
+ "id": 42,
+ "sections": [
+  {
+   "t": "À quoi sert le plus-que-parfait ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **plus-que-parfait** est un **temps du passé** de l’**indicatif**. Il exprime une action **terminée avant** une autre action passée : c’est une **action antérieure**."
+    },
+    {
+     "type": "table",
+     "title": "Les emplois du plus-que-parfait",
+     "head": [
+      "Emploi",
+      "Explication",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Antériorité",
+       "action passée avant une autre action passée",
+       "Quand je suis arrivé, le film **avait** déjà **commencé**."
+      ],
+      [
+       "Explication",
+       "donner la cause d’un fait passé",
+       "Il était triste : il **avait perdu** son livre."
+      ],
+      [
+       "Retour en arrière",
+       "raconter ce qui s’est passé avant le récit",
+       "Elle **était partie** avant le lever du soleil."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Deux actions dans le passé",
+     "note": "Le plus-que-parfait se place **avant** l’autre action sur la ligne du temps.",
+     "cells": [
+      {
+       "mot": "Il avait mangé",
+       "role": "plus-que-parfait (action 1, la plus ancienne)",
+       "noyau": true
+      },
+      {
+       "mot": "quand je suis arrivé",
+       "role": "passé composé (action 2)"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les indices",
+     "text": "Le plus-que-parfait va bien avec : *déjà, avant, la veille, auparavant, depuis longtemps, ne… pas encore…*"
+    },
+    {
+     "type": "ex",
+     "text": "La veille, j’**avais préparé** mon sac. Le lendemain, je **suis parti** à l’heure.",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quand Paul est arrivé, ses amis étaient déjà partis. », quelle action s’est passée en premier ?",
+     "options": [
+      "Paul est arrivé.",
+      "Ses amis sont partis.",
+      "Les deux en même temps.",
+      "On ne peut pas savoir."
+     ],
+     "answer": 1,
+     "explain": "*Étaient partis* est au plus-que-parfait : l’action est antérieure à *Paul est arrivé*."
+    }
+   ]
+  },
+  {
+   "t": "Former le plus-que-parfait",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le plus-que-parfait est un **temps composé** : il est formé de l’**auxiliaire** (*avoir* ou *être*) à l’**imparfait** et du **participe passé** du verbe."
+    },
+    {
+     "type": "list",
+     "items": [
+      "On choisit l’auxiliaire : **avoir** ou **être**.",
+      "On le conjugue à l’**imparfait** : *j’avais, tu avais, il avait…* ou *j’étais, tu étais, il était…*",
+      "On ajoute le **participe passé** : *chanté, fini, parti…*"
+     ],
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Les auxiliaires à l’imparfait",
+     "head": [
+      "Personne",
+      "avoir",
+      "être"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "avais",
+       "étais"
+      ],
+      [
+       "tu",
+       "avais",
+       "étais"
+      ],
+      [
+       "il / elle / on",
+       "avait",
+       "était"
+      ],
+      [
+       "nous",
+       "avions",
+       "étions"
+      ],
+      [
+       "vous",
+       "aviez",
+       "étiez"
+      ],
+      [
+       "ils / elles",
+       "avaient",
+       "étaient"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le plus-que-parfait de chanter",
+     "head": [
+      "Personne",
+      "Plus-que-parfait"
+     ],
+     "rows": [
+      [
+       "j’",
+       "avais chanté"
+      ],
+      [
+       "tu",
+       "avais chanté"
+      ],
+      [
+       "il / elle / on",
+       "avait chanté"
+      ],
+      [
+       "nous",
+       "avions chanté"
+      ],
+      [
+       "vous",
+       "aviez chanté"
+      ],
+      [
+       "ils / elles",
+       "avaient chanté"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une forme au plus-que-parfait",
+     "note": "Seul l’**auxiliaire** se conjugue ; le participe passé reste le même.",
+     "cells": [
+      {
+       "mot": "nous avions",
+       "role": "auxiliaire avoir à l’imparfait"
+      },
+      {
+       "mot": "chanté",
+       "role": "participe passé (verbe chanter)",
+       "noyau": true
+      }
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "La négation",
+     "text": "À la forme négative, **ne** et **pas** entourent l’**auxiliaire** : *je **n’**avais **pas** fini*, *elle **n’**était **pas** venue*."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on « vous (finir) » au plus-que-parfait ?",
+     "options": [
+      "vous avez fini",
+      "vous aviez fini",
+      "vous finissiez",
+      "vous aurez fini"
+     ],
+     "answer": 1,
+     "explain": "Auxiliaire *avoir* à l’**imparfait** (*vous aviez*) + participe passé (*fini*)."
+    }
+   ]
+  },
+  {
+   "t": "Choisir l’auxiliaire et accorder",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les règles sont les mêmes qu’au passé composé : seul le **temps de l’auxiliaire** change (imparfait au lieu du présent)."
+    },
+    {
+     "type": "h",
+     "text": "Avoir ou être ?"
+    },
+    {
+     "type": "table",
+     "title": "Le choix de l’auxiliaire",
+     "head": [
+      "Auxiliaire",
+      "Verbes",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "avoir",
+       "la plupart des verbes",
+       "Il **avait mangé**. Nous **avions fini**."
+      ],
+      [
+       "être",
+       "aller, venir, arriver, partir, entrer, sortir, monter, descendre, rester, tomber, naître, mourir",
+       "Elle **était partie**. Ils **étaient tombés**."
+      ],
+      [
+       "être",
+       "tous les verbes pronominaux",
+       "Je m’**étais levé**. Elles s’**étaient lavées**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "L’accord du participe passé"
+    },
+    {
+     "type": "table",
+     "title": "Le verbe partir avec être",
+     "head": [
+      "Sujet",
+      "Plus-que-parfait"
+     ],
+     "rows": [
+      [
+       "Il",
+       "était parti"
+      ],
+      [
+       "Elle",
+       "était partie"
+      ],
+      [
+       "Ils",
+       "étaient partis"
+      ],
+      [
+       "Elles",
+       "étaient parties"
+      ],
+      [
+       "Nous (garçons)",
+       "étions partis"
+      ],
+      [
+       "Nous (filles)",
+       "étions parties"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour accorder",
+     "text": "Avec **être**, le participe passé s’accorde **avec le sujet**, comme un adjectif. Avec **avoir**, il **ne s’accorde pas** avec le sujet : *elles avaient chanté*."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "*Elle était tombée* ✔ mais pas « elle avait tombé ». *Ils étaient arrivés* ✔ mais pas « ils avaient arrivé »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec l’auxiliaire à l’imparfait.",
+     "corrige": [
+      "Nous avions mangé",
+      "Elle était sortie",
+      "Tu avais fini",
+      "Ils étaient partis"
+     ],
+     "items": [
+      "Nous ___ déjà mangé quand tu es arrivé.",
+      "Elle ___ sortie avant la pluie.",
+      "Tu ___ fini ton travail.",
+      "Ils ___ partis la veille."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elles étaient parti.",
+      "Elles étaient partis.",
+      "Elles étaient parties.",
+      "Elles avaient parties."
+     ],
+     "answer": 2,
+     "explain": "*Partir* se conjugue avec **être** : le participe s’accorde avec *elles* (féminin pluriel) : *parties*."
+    }
+   ]
+  },
+  {
+   "t": "Le plus-que-parfait des trois groupes",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "1ᵉʳ groupe : chanter  |  2ᵉ groupe : finir",
+     "head": [
+      "Personne",
+      "chanter",
+      "finir"
+     ],
+     "rows": [
+      [
+       "j’",
+       "avais chanté",
+       "avais fini"
+      ],
+      [
+       "tu",
+       "avais chanté",
+       "avais fini"
+      ],
+      [
+       "il / elle / on",
+       "avait chanté",
+       "avait fini"
+      ],
+      [
+       "nous",
+       "avions chanté",
+       "avions fini"
+      ],
+      [
+       "vous",
+       "aviez chanté",
+       "aviez fini"
+      ],
+      [
+       "ils / elles",
+       "avaient chanté",
+       "avaient fini"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "3ᵉ groupe : prendre  |  partir",
+     "head": [
+      "Personne",
+      "prendre (avoir)",
+      "partir (être)"
+     ],
+     "rows": [
+      [
+       "je",
+       "avais pris",
+       "étais parti(e)"
+      ],
+      [
+       "tu",
+       "avais pris",
+       "étais parti(e)"
+      ],
+      [
+       "il / elle",
+       "avait pris",
+       "était parti(e)"
+      ],
+      [
+       "nous",
+       "avions pris",
+       "étions parti(e)s"
+      ],
+      [
+       "vous",
+       "aviez pris",
+       "étiez parti(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "avaient pris",
+       "étaient parti(e)s"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Un verbe pronominal : se laver",
+     "head": [
+      "Personne",
+      "Plus-que-parfait"
+     ],
+     "rows": [
+      [
+       "je",
+       "m’étais lavé(e)"
+      ],
+      [
+       "tu",
+       "t’étais lavé(e)"
+      ],
+      [
+       "il / elle",
+       "s’était lavé(e)"
+      ],
+      [
+       "nous",
+       "nous étions lavé(e)s"
+      ],
+      [
+       "vous",
+       "vous étiez lavé(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "s’étaient lavé(e)s"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les verbes avoir et être eux-mêmes",
+     "head": [
+      "Infinitif",
+      "Plus-que-parfait (je)",
+      "Plus-que-parfait (nous)"
+     ],
+     "rows": [
+      [
+       "avoir",
+       "j’avais eu",
+       "nous avions eu"
+      ],
+      [
+       "être",
+       "j’avais été",
+       "nous avions été"
+      ]
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au plus-que-parfait.",
+     "corrige": [
+      "Tu avais fini avant moi.",
+      "Nous avions pris un taxi.",
+      "Elles étaient allées au marché.",
+      "J’avais fait mes devoirs."
+     ],
+     "items": [
+      "Tu (finir) avant moi.",
+      "Nous (prendre) un taxi.",
+      "Elles (aller) au marché.",
+      "Je (faire) mes devoirs."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le plus-que-parfait de « voir » à la 3ᵉ personne du pluriel ?",
+     "options": [
+      "ils ont vu",
+      "ils avaient vu",
+      "ils voyaient",
+      "ils auront vu"
+     ],
+     "answer": 1,
+     "explain": "Auxiliaire *avoir* à l’imparfait (*ils avaient*) + participe passé *vu*."
+    }
+   ]
+  },
+  {
+   "t": "Le plus-que-parfait dans un récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un récit au passé, on associe souvent le **plus-que-parfait** à l’**imparfait** et au **passé composé**."
+    },
+    {
+     "type": "table",
+     "title": "Les temps du récit au passé",
+     "head": [
+      "Temps",
+      "Rôle dans le récit",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Plus-que-parfait",
+       "ce qui s’est passé **avant**",
+       "Il **avait perdu** ses clés."
+      ],
+      [
+       "Imparfait",
+       "la **description**, le décor",
+       "Il **faisait** nuit."
+      ],
+      [
+       "Passé composé",
+       "l’action **principale**, terminée",
+       "Il **a frappé** à la porte."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **faisait** nuit. Le garçon **était sorti** sans lampe et il **avait perdu** son chemin. Soudain, il **a vu** une lumière.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Remonter dans le temps",
+     "text": "Quand on veut dire **pourquoi** quelque chose arrive, on utilise le plus-que-parfait : *Elle pleurait parce qu’elle **avait cassé** son jouet.*"
+    },
+    {
+     "type": "test",
+     "title": "Le test de l’antériorité",
+     "lines": [
+      "Je demande : **quelle action est arrivée en premier ?**",
+      "Si c’est celle que je veux raconter « en arrière », je mets le **plus-que-parfait**."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le temps qui convient : plus-que-parfait ou passé composé.",
+     "corrige": [
+      "Quand il est arrivé, nous avions déjà mangé.",
+      "Elle a réussi parce qu’elle avait beaucoup travaillé.",
+      "J’ai ouvert la porte : le facteur était déjà parti."
+     ],
+     "items": [
+      "Quand il (arriver), nous (déjà manger).",
+      "Elle (réussir) parce qu’elle (beaucoup travailler).",
+      "Je (ouvrir) la porte : le facteur (déjà partir)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme complète la phrase : « Elle pleurait parce qu’elle ___ son jouet. » (casser)",
+     "options": [
+      "a cassé",
+      "avait cassé",
+      "cassait",
+      "cassera"
+     ],
+     "answer": 1,
+     "explain": "Le jouet a été cassé **avant** les pleurs : on emploie le plus-que-parfait, *avait cassé*."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas se tromper : les pièges",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Plus-que-parfait ou passé composé ?"
+    },
+    {
+     "type": "test",
+     "title": "Le test de l’auxiliaire",
+     "lines": [
+      "Regarde l’**auxiliaire** : *il **avait** chanté* (imparfait → plus-que-parfait).",
+      "*Il **a** chanté* (présent → passé composé)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Comparer les deux temps",
+     "head": [
+      "Temps",
+      "Auxiliaire",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Passé composé",
+       "présent",
+       "J’**ai fini**."
+      ],
+      [
+       "Plus-que-parfait",
+       "imparfait",
+       "J’**avais fini**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège : -ais / -ait",
+     "text": "*J’avais, tu avais* : terminaison **-ais**. *Il avait* : terminaison **-ait**. Et pour *ils* : **-aient**, avec **-nt**."
+    },
+    {
+     "type": "warn",
+     "label": "Piège : avait / avais",
+     "text": "Ne confonds pas *il **avait** fini* (avoir) avec *il **a** fini* (passé composé) : les deux sont à la 3ᵉ personne mais n’ont pas le même sens."
+    },
+    {
+     "type": "h",
+     "text": "Les mots entre l’auxiliaire et le participe"
+    },
+    {
+     "type": "p",
+     "text": "On peut glisser un petit mot **entre** l’auxiliaire et le participe passé : *j’avais **déjà** fini*, *il n’avait **jamais** vu la mer*. Le verbe garde ses deux parties."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au plus-que-parfait ?",
+     "options": [
+      "Hier, j’ai fini mon travail.",
+      "Hier, je finissais mon travail.",
+      "Hier, j’avais fini mon travail avant le dîner.",
+      "Demain, je finirai mon travail."
+     ],
+     "answer": 2,
+     "explain": "*J’avais fini* : auxiliaire *avais* à l’imparfait + participe *fini*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi du plus simple au plus difficile. Cherche d’abord, puis regarde le corrigé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : conjuguer avec avoir"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au plus-que-parfait.",
+     "corrige": [
+      "j’avais regardé",
+      "tu avais mangé",
+      "nous avions fini",
+      "ils avaient pris"
+     ],
+     "items": [
+      "Je (regarder) ce film.",
+      "Tu (manger) avant nous.",
+      "Nous (finir) le travail.",
+      "Ils (prendre) leurs affaires."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : conjuguer avec être"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au plus-que-parfait.",
+     "corrige": [
+      "Elle était partie la veille.",
+      "Les élèves étaient entrés en classe.",
+      "Nous étions arrivées, mes sœurs et moi.",
+      "Il était tombé dans la cour."
+     ],
+     "items": [
+      "Elle (partir) la veille.",
+      "Les élèves (entrer) en classe.",
+      "Nous (arriver), mes sœurs et moi.",
+      "Il (tomber) dans la cour."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est correcte ?",
+     "options": [
+      "Elle était sortie.",
+      "Elle avait sortie.",
+      "Elle était sorti.",
+      "Elle avait sorti."
+     ],
+     "answer": 0,
+     "explain": "*Sortir* se conjugue avec *être* ici, et le participe s’accorde avec *elle* : *sortie*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : reconnaître les temps"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque verbe est au plus-que-parfait ou au passé composé.",
+     "corrige": [
+      "plus-que-parfait",
+      "passé composé",
+      "plus-que-parfait",
+      "passé composé"
+     ],
+     "items": [
+      "J’avais fini.",
+      "Il a perdu son livre.",
+      "Elles étaient parties.",
+      "Nous sommes arrivés."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes au plus-que-parfait pour exprimer ce qui s’est passé avant.",
+     "corrige": [
+      "Il avait plu toute la nuit.",
+      "Elle avait oublié son cahier.",
+      "Nous nous étions levé(e)s très tôt.",
+      "Ils avaient fini leur repas."
+     ],
+     "items": [
+      "Hier, il (pleuvoir) toute la nuit.",
+      "Elle (oublier) son cahier.",
+      "Nous (se lever) très tôt.",
+      "Ils (finir) leur repas."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : un petit texte"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète le texte avec le plus-que-parfait ou l’imparfait : « Quand je suis arrivé à l’école, la cloche (sonner) déjà. Les élèves (entrer) en classe. Le professeur (commencer) la leçon. »",
+     "corrige": "Quand je suis arrivé à l’école, la cloche avait déjà sonné. Les élèves étaient entrés en classe. Le professeur avait commencé la leçon."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le plus-que-parfait exprime une **action terminée avant** une autre action passée.",
+      "Il se forme avec l’**auxiliaire** *avoir* ou *être* **à l’imparfait** + le **participe passé**.",
+      "**Être** : aller, venir, arriver, partir, entrer, sortir, monter, descendre, rester, tomber, naître, mourir, et les **verbes pronominaux**.",
+      "Avec **être**, le participe passé **s’accorde avec le sujet** : *elle était partie*, *ils étaient arrivés*.",
+      "À la forme négative, **ne… pas** entoure l’**auxiliaire** : *je n’avais pas fini*.",
+      "Imparfait : *il avait* (un mot). Plus-que-parfait : *il avait fini* (deux mots)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les formes à connaître",
+     "head": [
+      "Verbe",
+      "je",
+      "nous",
+      "ils"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "avais chanté",
+       "avions chanté",
+       "avaient chanté"
+      ],
+      [
+       "finir",
+       "avais fini",
+       "avions fini",
+       "avaient fini"
+      ],
+      [
+       "prendre",
+       "avais pris",
+       "avions pris",
+       "avaient pris"
+      ],
+      [
+       "partir",
+       "étais parti(e)",
+       "étions parti(e)s",
+       "étaient parti(e)s"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle série contient seulement des verbes au plus-que-parfait ?",
+     "options": [
+      "j’avais chanté, tu étais venu, il avait fini",
+      "j’ai chanté, tu es venu, il a fini",
+      "je chantais, tu venais, il finissait",
+      "je chanterai, tu viendras, il finira"
+     ],
+     "answer": 0,
+     "explain": "*J’avais chanté, tu étais venu, il avait fini* : auxiliaire à l’imparfait + participe passé. Les autres séries sont au passé composé, à l’imparfait et au futur."
+    }
+   ]
+  }
+ ]
+}

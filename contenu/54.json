@@ -1,0 +1,540 @@
+{
+ "id": 54,
+ "sections": [
+  {
+   "t": "Le groupe verbal : verbe + complément circonstanciel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Les élèves **travaillent dans la cour** », deux informations s’ajoutent : ce que font les élèves (**travaillent**) et l’endroit où ils le font (**dans la cour**). Ces mots forment le **groupe verbal**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le verbe, noyau du groupe verbal",
+      "Définir le complément circonstanciel",
+      "Repérer ce complément et dire ce qu’il exprime (lieu, temps, manière, cause, but)",
+      "Employer des compléments circonstanciels dans ses phrases"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Groupe verbal (GV)",
+     "text": "Le **groupe verbal** est organisé autour d’un **verbe**, son noyau. Il peut contenir des compléments, par exemple un **complément circonstanciel** (CC)."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase décortiquée",
+     "cells": [
+      {
+       "mot": "Les élèves",
+       "role": "groupe nominal sujet"
+      },
+      {
+       "mot": "travaillent",
+       "role": "verbe (noyau)",
+       "noyau": true
+      },
+      {
+       "mot": "dans la cour",
+       "role": "complément circonstanciel de lieu"
+      }
+     ],
+     "note": "Le groupe verbal est « travaillent dans la cour » : un verbe suivi d’un complément circonstanciel."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Awa **chante avec joie**.\nLe chat **dort sur le canapé**.\nNous **partirons demain matin**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le groupe verbal dans « Le chat dort sur le canapé » ?",
+     "options": [
+      "Le chat",
+      "dort sur le canapé",
+      "sur le canapé",
+      "Le chat dort"
+     ],
+     "answer": 1,
+     "explain": "Le groupe verbal est formé du verbe « dort » et de son complément « sur le canapé »."
+    }
+   ]
+  },
+  {
+   "t": "Le verbe, noyau du groupe verbal",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser un groupe verbal, on commence toujours par trouver le **verbe**. C’est lui qui organise le reste."
+    },
+    {
+     "type": "def",
+     "label": "Verbe",
+     "text": "Le **verbe** exprime une action ou un état. Il se **conjugue** : il change selon le temps et la personne."
+    },
+    {
+     "type": "test",
+     "title": "Le test du changement de temps",
+     "lines": [
+      "Aujourd’hui, les élèves **travaillent** dans la cour.",
+      "Hier, les élèves **travaillaient** dans la cour.",
+      "Demain, les élèves **travailleront** dans la cour. → seul le verbe change, le reste ne bouge pas."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver le verbe, change le moment de la phrase (hier, demain). Le mot qui change de forme est le verbe."
+    },
+    {
+     "type": "table",
+     "title": "Trouver le verbe",
+     "head": [
+      "Phrase",
+      "Verbe conjugué",
+      "Infinitif"
+     ],
+     "rows": [
+      [
+       "Le chat dort sur le canapé.",
+       "dort",
+       "dormir"
+      ],
+      [
+       "Nous mangeons à midi.",
+       "mangeons",
+       "manger"
+      ],
+      [
+       "Elles chantaient dans la rue.",
+       "chantaient",
+       "chanter"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "On ne peut pas supprimer le verbe : « Les élèves dans la cour » n’est plus une phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le verbe de « Mon frère répare son vélo dans le garage » ?",
+     "options": [
+      "frère",
+      "répare",
+      "vélo",
+      "garage"
+     ],
+     "answer": 1,
+     "explain": "« répare » change si on change le temps : il répara, il réparera."
+    }
+   ]
+  },
+  {
+   "t": "Le complément circonstanciel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Le soir, Awa lit dans sa chambre », les groupes « Le soir » et « dans sa chambre » ne sont pas indispensables, mais ils nous renseignent sur **quand** et **où** Awa lit."
+    },
+    {
+     "type": "def",
+     "label": "Complément circonstanciel (CC)",
+     "text": "Le **complément circonstanciel** apporte une précision sur les **circonstances** de l’action : le lieu, le moment, la manière, la cause, le but…"
+    },
+    {
+     "type": "list",
+     "label": "Il répond aux questions",
+     "items": [
+      "**Où ?** (lieu)",
+      "**Quand ?** (temps)",
+      "**Comment ?** (manière)",
+      "**Pourquoi ?** (cause)",
+      "**Dans quel but ?** (but)"
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Les enfants jouent **dans le jardin**. (où ?)\n**Ce matin**, Kofi mange une mangue. (quand ?)"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Le complément circonstanciel n’est pas le seul complément du verbe. Dans « Kofi mange **une mangue** », « une mangue » est un complément d’objet : il complète le verbe de près, ce n’est pas un CC."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Ce matin, Kofi mange une mangue », quel groupe est un complément circonstanciel ?",
+     "options": [
+      "Kofi",
+      "une mangue",
+      "Ce matin",
+      "mange"
+     ],
+     "answer": 2,
+     "explain": "« Ce matin » répond à la question « quand ? » : c’est un CC de temps."
+    }
+   ]
+  },
+  {
+   "t": "Les sortes de compléments circonstanciels",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Selon ce qu’il exprime, on dit que le complément circonstanciel est de **lieu**, de **temps**, de **manière**, de **cause** ou de **but**. Pour le trouver, pose la question après le verbe."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux compléments circonstanciels",
+     "head": [
+      "Type",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "lieu",
+       "où ?",
+       "Les enfants jouent **dans le jardin**."
+      ],
+      [
+       "temps",
+       "quand ?",
+       "Nous partirons **demain matin**."
+      ],
+      [
+       "manière",
+       "comment ?",
+       "Elle répond **avec politesse**."
+      ],
+      [
+       "cause",
+       "pourquoi ?",
+       "Il est resté chez lui **à cause de la pluie**."
+      ],
+      [
+       "but",
+       "dans quel but ?",
+       "Il travaille **pour réussir**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver un CC, pose la question « où ? », « quand ? », « comment ? » ou « pourquoi ? » juste après le verbe."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il est resté chez lui à cause de la pluie », « à cause de la pluie » est un CC de :",
+     "options": [
+      "lieu",
+      "temps",
+      "cause",
+      "but"
+     ],
+     "answer": 2,
+     "explain": "Il répond à « pourquoi est-il resté chez lui ? » : c’est la cause."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un CC de lieu ?",
+     "options": [
+      "Elle chante joyeusement.",
+      "Elle chante ce soir.",
+      "Elle chante sur la scène.",
+      "Elle chante pour son public."
+     ],
+     "answer": 2,
+     "explain": "« sur la scène » répond à la question « où ? »."
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître un complément circonstanciel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un complément circonstanciel se reconnaît à deux tests : on peut le **supprimer** et on peut le **déplacer**."
+    },
+    {
+     "type": "test",
+     "title": "Le test de suppression et de déplacement",
+     "lines": [
+      "Les élèves travaillent **dans la cour**.",
+      "Suppression : Les élèves travaillent. → la phrase reste correcte.",
+      "Déplacement : **Dans la cour**, les élèves travaillent. → la phrase reste correcte."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Quand le CC est placé en début de phrase, on le sépare du reste par une **virgule**."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Avec un complément d’objet, ces tests ne marchent pas : « Les élèves ramassent **les feuilles** ». Sans « les feuilles », la phrase est incomplète, et on ne peut pas dire « Les feuilles, les élèves ramassent »."
+    },
+    {
+     "type": "table",
+     "title": "Complément circonstanciel ou complément d’objet ?",
+     "head": [
+      "Complément",
+      "Supprimable ?",
+      "Déplaçable ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "complément circonstanciel",
+       "oui",
+       "oui",
+       "Awa lit **le soir**."
+      ],
+      [
+       "complément d’objet",
+       "non",
+       "non",
+       "Awa lit **un livre**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon frère répare son vélo dans le garage », quel groupe peut être supprimé et déplacé ?",
+     "options": [
+      "son vélo",
+      "dans le garage",
+      "répare",
+      "Mon frère"
+     ],
+     "answer": 1,
+     "explain": "« Dans le garage » peut disparaître ou passer en début de phrase : c’est un CC de lieu."
+    }
+   ]
+  },
+  {
+   "t": "Les formes du complément circonstanciel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un complément circonstanciel peut être construit de plusieurs façons. Ce qui compte, c’est ce qu’il exprime, pas sa forme."
+    },
+    {
+     "type": "table",
+     "title": "Les formes du CC",
+     "head": [
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "groupe nominal avec préposition",
+       "Il joue **dans la cour**."
+      ],
+      [
+       "groupe nominal sans préposition",
+       "**Ce soir**, nous allons au marché."
+      ],
+      [
+       "adverbe",
+       "Elle marche **lentement**."
+      ],
+      [
+       "groupe à l’infinitif",
+       "Il étudie **pour réussir**."
+      ],
+      [
+       "proposition subordonnée",
+       "Nous rentrons **quand la nuit tombe**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Plusieurs CC dans une même phrase",
+     "text": "**Hier**, Awa a chanté **avec joie** **dans la cour**.\n(temps : hier ; manière : avec joie ; lieu : dans la cour)"
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Une phrase peut contenir plusieurs compléments circonstanciels. Pose les questions une à une : quand ? comment ? où ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Nous rentrons quand la nuit tombe », « quand la nuit tombe » est :",
+     "options": [
+      "un adverbe",
+      "un groupe nominal",
+      "une proposition subordonnée",
+      "un verbe"
+     ],
+     "answer": 2,
+     "explain": "Elle contient un verbe conjugué (« tombe ») : c’est une proposition subordonnée, complément circonstanciel de temps."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à repérer le verbe et le complément circonstanciel, puis à en employer dans tes phrases."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe et le complément circonstanciel de chaque phrase.",
+     "items": [
+      "Les enfants jouent dans la cour.",
+      "Demain, nous visiterons le musée.",
+      "Elle répond avec politesse."
+     ],
+     "corrige": [
+      "1. verbe : jouent ; CC : dans la cour",
+      "2. verbe : visiterons ; CC : Demain",
+      "3. verbe : répond ; CC : avec politesse"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un CC de temps ?",
+     "options": [
+      "Le chat dort sur le canapé.",
+      "Le chat dort paisiblement.",
+      "Le chat dort dans la cuisine.",
+      "Le chat dort cette nuit."
+     ],
+     "answer": 3,
+     "explain": "« cette nuit » répond à la question « quand ? »."
+    },
+    {
+     "type": "h",
+     "text": "Classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si le complément circonstanciel est de lieu, de temps ou de manière.",
+     "items": [
+      "Les oiseaux chantent dans l’arbre.",
+      "Il se lève tôt.",
+      "Elle ouvre la porte avec précaution."
+     ],
+     "corrige": [
+      "1. lieu",
+      "2. temps",
+      "3. manière"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Déplacer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Place le complément circonstanciel en début de phrase.",
+     "items": [
+      "Mon oncle arrive demain.",
+      "Les enfants dessinent dans le salon."
+     ],
+     "corrige": [
+      "1. Demain, mon oncle arrive.",
+      "2. Dans le salon, les enfants dessinent."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Construire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase par un complément circonstanciel du type demandé.",
+     "items": [
+      "Les élèves écoutent le professeur … (manière)",
+      "…, nous irons au marché. (temps)",
+      "Le chien se cache … (lieu)"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. avec attention",
+      "2. Samedi matin",
+      "3. sous la table"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **groupe verbal** est organisé autour d’un **verbe**, son noyau.",
+      "Le **complément circonstanciel** (CC) précise les circonstances de l’action : lieu, temps, manière, cause, but.",
+      "Pour le trouver, je pose les questions **où ? quand ? comment ? pourquoi ?** après le verbe.",
+      "Le CC peut être **supprimé** et **déplacé** dans la phrase.",
+      "Placé en début de phrase, il est séparé du reste par une **virgule**.",
+      "Il peut être un groupe nominal, un adverbe, un groupe à l’infinitif ou une proposition subordonnée."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le complément circonstanciel en un coup d’œil",
+     "head": [
+      "Type",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "lieu",
+       "où ?",
+       "dans la cour"
+      ],
+      [
+       "temps",
+       "quand ?",
+       "demain matin"
+      ],
+      [
+       "manière",
+       "comment ?",
+       "avec joie"
+      ],
+      [
+       "cause",
+       "pourquoi ?",
+       "à cause de la pluie"
+      ],
+      [
+       "but",
+       "dans quel but ?",
+       "pour réussir"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Elle chante avec joie », « avec joie » est un CC de :",
+     "options": [
+      "lieu",
+      "temps",
+      "manière",
+      "cause"
+     ],
+     "answer": 2,
+     "explain": "Il répond à « comment chante-t-elle ? » : c’est la manière."
+    }
+   ]
+  }
+ ]
+}

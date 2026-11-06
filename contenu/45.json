@@ -1,0 +1,1110 @@
+{
+ "id": 45,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une figure de style ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on dit « il fait très chaud », on informe. Quand on dit « on cuit dans ce bus », on **imagine**, on **sent** la chaleur. La deuxième phrase utilise une **figure de style**."
+    },
+    {
+     "type": "def",
+     "label": "Figure de style",
+     "text": "Une **figure de style** est un procédé d’écriture qui s’éloigne de la façon ordinaire de parler pour **produire un effet** : faire voir une image, insister, étonner, émouvoir, amuser ou faire réfléchir."
+    },
+    {
+     "type": "ex",
+     "label": "Deux façons de dire la même chose",
+     "text": "Phrase simple : *Le champion court très vite.*\nPhrase avec figure : *Le champion court **comme le vent**.*"
+    },
+    {
+     "type": "h",
+     "text": "À quoi servent les figures de style ?"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Rendre le texte vivant** : elles créent des images dans l’esprit du lecteur.",
+      "**Insister** sur une idée ou un sentiment.",
+      "**Surprendre**, faire sourire, faire réfléchir.",
+      "**Convaincre** ou **émouvoir** (dans un discours, une publicité, un poème)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Où les rencontre-t-on ?"
+    },
+    {
+     "type": "p",
+     "text": "Dans les **poèmes**, les **contes**, les **romans** et les **pièces de théâtre**, mais aussi dans les **proverbes**, les **slogans** et le **langage de tous les jours**. Beaucoup de figures sont si courantes qu’on ne les remarque plus : *une faim de loup*, *dévorer un livre*, *le pied de la montagne*."
+    },
+    {
+     "type": "table",
+     "title": "Les cinq grandes familles de figures étudiées",
+     "head": [
+      "Famille",
+      "Idée générale",
+      "Figures du cours"
+     ],
+     "rows": [
+      [
+       "Analogie",
+       "Rapprocher deux réalités",
+       "comparaison, métaphore, personnification, allégorie"
+      ],
+      [
+       "Exagération et atténuation",
+       "Grossir ou adoucir",
+       "hyperbole, euphémisme, litote"
+      ],
+      [
+       "Opposition",
+       "Mettre deux idées face à face",
+       "antithèse, oxymore"
+      ],
+      [
+       "Substitution",
+       "Dire une chose par une autre",
+       "métonymie, périphrase"
+      ],
+      [
+       "Répétition et construction",
+       "Jouer avec les mots et leur place",
+       "anaphore, gradation, accumulation, parallélisme"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Retiens la méthode",
+     "text": "Pour chaque figure, pose-toi trois questions : **1.** Comment est-elle construite ? **2.** Comment s’appelle-t-elle ? **3.** Quel **effet** produit-elle ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Une figure de style sert avant tout à…",
+     "options": [
+      "corriger une faute d’orthographe",
+      "produire un effet sur le lecteur",
+      "raccourcir une phrase",
+      "remplacer un verbe par un nom"
+     ],
+     "answer": 1,
+     "explain": "Une figure de style s’éloigne du langage ordinaire pour **produire un effet** : image, insistance, émotion, humour…"
+    }
+   ]
+  },
+  {
+   "t": "Les figures d’analogie",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les figures d’**analogie** rapprochent deux réalités différentes parce qu’elles ont un **point commun**. On les repère facilement : on trouve toujours un élément de **départ** et un élément **image**."
+    },
+    {
+     "type": "h",
+     "text": "La comparaison"
+    },
+    {
+     "type": "def",
+     "label": "Comparaison",
+     "text": "La **comparaison** rapproche deux éléments à l’aide d’un **outil de comparaison** (*comme, tel, pareil à, semblable à, ressembler à, on dirait…*). Elle contient le **comparé**, le **comparant** et, parfois, le **point commun**."
+    },
+    {
+     "type": "schema",
+     "title": "Une comparaison décortiquée",
+     "cells": [
+      {
+       "mot": "Ma grand-mère",
+       "role": "comparé",
+       "noyau": true
+      },
+      {
+       "mot": "est",
+       "role": "verbe"
+      },
+      {
+       "mot": "douce",
+       "role": "point commun"
+      },
+      {
+       "mot": "comme",
+       "role": "outil de comparaison"
+      },
+      {
+       "mot": "un matin de saison sèche",
+       "role": "comparant",
+       "noyau": true
+      }
+     ],
+     "note": "Les deux éléments sont reliés par un **outil de comparaison** : c’est ce qui distingue la comparaison de la métaphore."
+    },
+    {
+     "type": "ex",
+     "label": "Autres comparaisons",
+     "text": "*Il est fort **comme** un buffle.* — *Elle chante **telle** une rivière.* — *Cette route **ressemble à** un serpent.*"
+    },
+    {
+     "type": "h",
+     "text": "La métaphore"
+    },
+    {
+     "type": "def",
+     "label": "Métaphore",
+     "text": "La **métaphore** rapproche deux éléments **sans outil de comparaison**. On dit qu’une chose **est** une autre, ou on la décrit directement avec le vocabulaire de l’image."
+    },
+    {
+     "type": "ex",
+     "label": "Une comparaison devenue métaphore",
+     "text": "Comparaison : *Ses yeux brillent **comme** des étoiles.*\nMétaphore : *Ses yeux sont des **étoiles**.*"
+    },
+    {
+     "type": "test",
+     "title": "Le test pour reconnaître la métaphore",
+     "lines": [
+      "Je peux **ajouter « comme »** entre les deux éléments → c’est bien une métaphore.",
+      "*Cet enfant est un volcan.* → *Cet enfant est **comme** un volcan.* (il se met en colère très fort)",
+      "Si l’outil de comparaison est **déjà là**, c’est une comparaison, pas une métaphore."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "La personnification"
+    },
+    {
+     "type": "def",
+     "label": "Personnification",
+     "text": "La **personnification** donne des **caractéristiques humaines** (actions, sentiments, paroles) à un **animal**, une **chose** ou une **idée**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "*Le vent **murmure** dans les manguiers.* — *La nuit **avale** le village.* — *Le fleuve **s’endort** au coucher du soleil.*"
+    },
+    {
+     "type": "h",
+     "text": "L’allégorie"
+    },
+    {
+     "type": "def",
+     "label": "Allégorie",
+     "text": "L’**allégorie** représente une **idée abstraite** (la mort, la justice, la liberté, le temps…) par un **personnage** ou une **image concrète** développée sur plusieurs phrases ou dans toute une œuvre."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "La **justice** représentée par une femme qui tient une balance. — Dans une fable, le **lion** qui représente la force et la **fourmi** qui représente la persévérance."
+    },
+    {
+     "type": "table",
+     "title": "Comparer les quatre figures",
+     "head": [
+      "Figure",
+      "Outil de comparaison ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Comparaison",
+       "Oui",
+       "Il court comme un lièvre."
+      ],
+      [
+       "Métaphore",
+       "Non",
+       "Cet homme est un lièvre."
+      ],
+      [
+       "Personnification",
+       "Non (un humain est « prêté » à une chose)",
+       "La pluie frappe à la porte."
+      ],
+      [
+       "Allégorie",
+       "Non (image développée)",
+       "La Justice, balance à la main."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne confonds pas",
+     "text": "Dans *Il est fort **comme** un lion*, il y a « comme » : c’est une **comparaison**. Dans *C’est un lion !*, il n’y en a pas : c’est une **métaphore**. Et *comme* ne signale pas toujours une comparaison : *Il travaille **comme** infirmier* indique seulement sa profession."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une métaphore ?",
+     "options": [
+      "Il est rapide comme l’éclair.",
+      "Cette femme est un roc.",
+      "Le soleil se lève à six heures.",
+      "Il ressemble à son père."
+     ],
+     "answer": 1,
+     "explain": "*Cette femme est un roc* rapproche deux éléments **sans outil de comparaison** : c’est une métaphore (elle est solide, inébranlable)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le vent chante dans les arbres », la figure est…",
+     "options": [
+      "une comparaison",
+      "une métaphore",
+      "une personnification",
+      "une antithèse"
+     ],
+     "answer": 2,
+     "explain": "Le verbe *chanter*, propre à l’être humain, est attribué au **vent** : c’est une personnification."
+    }
+   ]
+  },
+  {
+   "t": "Exagérer et atténuer : hyperbole, euphémisme, litote",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour insister sur une idée ou pour la rendre plus douce, on peut **grossir** ou **adoucir** la réalité."
+    },
+    {
+     "type": "h",
+     "text": "L’hyperbole : exagérer"
+    },
+    {
+     "type": "def",
+     "label": "Hyperbole",
+     "text": "L’**hyperbole** est une **exagération** volontaire. Elle sert à **insister**, à frapper l’esprit ou à faire rire."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "*J’ai attendu une **éternité**.* — *Ce sac pèse une **tonne**.* — *Je meurs de faim.* — *Il y avait un **monde fou** au marché.*"
+    },
+    {
+     "type": "h",
+     "text": "L’euphémisme : adoucir"
+    },
+    {
+     "type": "def",
+     "label": "Euphémisme",
+     "text": "L’**euphémisme** **atténue** une réalité **dure, choquante ou gênante** en employant des mots plus doux."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "*Il nous a **quittés*** (au lieu de : il est mort). — *Un **malvoyant*** (au lieu de : un aveugle). — *Elle **n’est pas très mince*** (au lieu de : elle est grosse). — *Une **personne du troisième âge*** (au lieu de : un vieillard)."
+    },
+    {
+     "type": "h",
+     "text": "La litote : dire moins pour faire entendre plus"
+    },
+    {
+     "type": "def",
+     "label": "Litote",
+     "text": "La **litote** dit **peu de choses** pour **faire comprendre beaucoup**. Souvent, on **nie le contraire** de ce qu’on veut dire."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "*Ce n’est **pas mauvais*** (= c’est très bon). — *Il **n’est pas bête*** (= il est très intelligent). — *Je **ne te hais point*** (= je t’aime). — *Ce n’est **pas rien**.*"
+    },
+    {
+     "type": "table",
+     "title": "Trois figures à bien distinguer",
+     "head": [
+      "Figure",
+      "Ce qu’elle fait",
+      "Exemple",
+      "Effet"
+     ],
+     "rows": [
+      [
+       "Hyperbole",
+       "Dit **plus** que la réalité",
+       "Je suis mort de fatigue.",
+       "Insister, faire rire"
+      ],
+      [
+       "Euphémisme",
+       "Dit **plus doucement** une réalité pénible",
+       "Il nous a quittés.",
+       "Ménager, adoucir"
+      ],
+      [
+       "Litote",
+       "Dit **moins** pour faire comprendre **plus**",
+       "Ce n’est pas mauvais.",
+       "Suggérer, rester modeste"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Euphémisme ou litote ?",
+     "text": "Les deux **adoucissent**, mais l’**euphémisme** remplace un mot choquant par un mot doux (*il nous a quittés*), alors que la **litote** exprime une idée forte avec des mots faibles, souvent en niant le contraire (*ce n’est pas mauvais*)."
+    },
+    {
+     "type": "quiz",
+     "question": "« Cette sauce n’est pas mauvaise du tout » (pour dire qu’elle est délicieuse) est…",
+     "options": [
+      "une hyperbole",
+      "une litote",
+      "une métaphore",
+      "une personnification"
+     ],
+     "answer": 1,
+     "explain": "On dit **peu** (*pas mauvaise*) pour faire comprendre **beaucoup** (*délicieuse*) : c’est une litote."
+    },
+    {
+     "type": "quiz",
+     "question": "« J’ai mille choses à faire aujourd’hui » est…",
+     "options": [
+      "un euphémisme",
+      "une litote",
+      "une hyperbole",
+      "une comparaison"
+     ],
+     "answer": 2,
+     "explain": "*Mille choses* exagère volontairement la réalité : c’est une hyperbole."
+    }
+   ]
+  },
+  {
+   "t": "Les figures d’opposition : antithèse et oxymore",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certaines figures mettent **face à face** deux idées contraires pour que la **différence** saute aux yeux."
+    },
+    {
+     "type": "h",
+     "text": "L’antithèse"
+    },
+    {
+     "type": "def",
+     "label": "Antithèse",
+     "text": "L’**antithèse** rapproche, dans une même phrase ou dans deux phrases proches, **deux mots ou deux idées opposés**, pour renforcer le contraste."
+    },
+    {
+     "type": "schema",
+     "title": "Une antithèse décortiquée",
+     "cells": [
+      {
+       "mot": "Le village est",
+       "role": "début"
+      },
+      {
+       "mot": "calme",
+       "role": "idée 1",
+       "noyau": true
+      },
+      {
+       "mot": "le jour",
+       "role": "moment"
+      },
+      {
+       "mot": "mais",
+       "role": "lien"
+      },
+      {
+       "mot": "bruyant",
+       "role": "idée 2 (opposée)",
+       "noyau": true
+      },
+      {
+       "mot": "la nuit",
+       "role": "moment"
+      }
+     ],
+     "note": "Les deux idées sont **séparées** (*calme* / *bruyant*) mais mises en **contraste**."
+    },
+    {
+     "type": "ex",
+     "label": "Autres antithèses",
+     "text": "*Il est **petit** par la taille mais **grand** par le cœur.* — *Les uns **rient**, les autres **pleurent**.* — *Le **riche** gaspille, le **pauvre** économise.*"
+    },
+    {
+     "type": "h",
+     "text": "L’oxymore"
+    },
+    {
+     "type": "def",
+     "label": "Oxymore",
+     "text": "L’**oxymore** réunit, dans un **même groupe de mots**, deux termes de **sens contraire**. Les deux mots sont **collés** l’un à l’autre : c’est ce qui le distingue de l’antithèse."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "*un **silence assourdissant*** — *une **douce violence*** — *un **grand nain*** — *une **obscure clarté*** — *s’**avancer en reculant***."
+    },
+    {
+     "type": "table",
+     "title": "Antithèse et oxymore",
+     "head": [
+      "Figure",
+      "Les deux termes opposés sont…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Antithèse",
+       "dans la même phrase, mais **séparés**",
+       "Il est riche, mais elle est pauvre."
+      ],
+      [
+       "Oxymore",
+       "**réunis** dans un seul groupe de mots",
+       "un silence bruyant"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le bon réflexe",
+     "text": "Cherche les **deux contraires**. S’ils sont **collés** (nom + adjectif, verbe + adverbe), c’est un **oxymore**. S’ils sont **séparés**, c’est une **antithèse**."
+    },
+    {
+     "type": "quiz",
+     "question": "« un silence assourdissant » est…",
+     "options": [
+      "une antithèse",
+      "un oxymore",
+      "une litote",
+      "une hyperbole"
+     ],
+     "answer": 1,
+     "explain": "*Silence* et *assourdissant* sont de sens contraire et **réunis** dans le même groupe de mots : c’est un oxymore."
+    },
+    {
+     "type": "quiz",
+     "question": "« Il rit en public, il pleure en secret » contient…",
+     "options": [
+      "un oxymore",
+      "une métaphore",
+      "une antithèse",
+      "une personnification"
+     ],
+     "answer": 2,
+     "explain": "*Rit* et *pleure* s’opposent et sont **séparés** dans la phrase : c’est une antithèse."
+    }
+   ]
+  },
+  {
+   "t": "Les figures de substitution : métonymie et périphrase",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Parfois, on ne dit pas directement le mot attendu : on le **remplace** par un autre mot qui lui est **lié**."
+    },
+    {
+     "type": "h",
+     "text": "La métonymie"
+    },
+    {
+     "type": "def",
+     "label": "Métonymie",
+     "text": "La **métonymie** désigne une réalité par un **autre mot qui a un lien logique avec elle** : le contenant pour le contenu, l’auteur pour son œuvre, le lieu pour les personnes, la matière pour l’objet…"
+    },
+    {
+     "type": "table",
+     "title": "Les liens les plus fréquents",
+     "head": [
+      "Type de lien",
+      "Exemple",
+      "Ce qu’on veut dire"
+     ],
+     "rows": [
+      [
+       "Le contenant pour le contenu",
+       "Boire **un verre**",
+       "boire le liquide du verre"
+      ],
+      [
+       "L’auteur pour son œuvre",
+       "Lire **du Victor Hugo**",
+       "lire un livre de cet auteur"
+      ],
+      [
+       "Le lieu pour les habitants",
+       "**Toute la ville** applaudit.",
+       "les habitants de la ville"
+      ],
+      [
+       "La matière pour l’objet",
+       "Les **cuivres** de l’orchestre",
+       "les instruments en cuivre"
+      ],
+      [
+       "La partie pour le tout",
+       "Il a **vingt voiles** devant lui.",
+       "vingt bateaux"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Dans une phrase",
+     "text": "*Le stade a explosé de joie.* → ce sont les **supporters** qui explosent de joie, pas le stade."
+    },
+    {
+     "type": "h",
+     "text": "La périphrase"
+    },
+    {
+     "type": "def",
+     "label": "Périphrase",
+     "text": "La **périphrase** remplace un mot par une **expression plus longue** qui le décrit ou le définit."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "*La **capitale de la France*** (= Paris). — *Le **continent noir*** (= l’Afrique). — *Le **roi des animaux*** (= le lion). — *L’**astre du jour*** (= le soleil)."
+    },
+    {
+     "type": "tip",
+     "label": "À quoi servent-elles ?",
+     "text": "La métonymie **raccourcit** et rend l’image plus vivante. La périphrase **évite une répétition**, **embellit** le texte ou **joue** avec le lecteur (devinette)."
+    },
+    {
+     "type": "warn",
+     "label": "Métonymie ou métaphore ?",
+     "text": "La **métaphore** repose sur une **ressemblance** (*cet homme est un lion* : il est courageux). La **métonymie** repose sur un **lien logique** (*boire un verre* : le verre contient la boisson). Pas de ressemblance, mais une **relation réelle**."
+    },
+    {
+     "type": "quiz",
+     "question": "« Toute la salle a éclaté de rire » est…",
+     "options": [
+      "une métaphore",
+      "une métonymie",
+      "une litote",
+      "un oxymore"
+     ],
+     "answer": 1,
+     "explain": "*Salle* désigne les **personnes** qui s’y trouvent : le lieu pour les personnes, c’est une métonymie."
+    },
+    {
+     "type": "quiz",
+     "question": "« Le roi des animaux » pour désigner le lion est…",
+     "options": [
+      "une périphrase",
+      "une antithèse",
+      "une personnification",
+      "un euphémisme"
+     ],
+     "answer": 0,
+     "explain": "Une **expression** plus longue remplace le mot *lion* : c’est une périphrase."
+    }
+   ]
+  },
+  {
+   "t": "Répéter et construire : anaphore, gradation, accumulation, parallélisme",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres figures jouent sur la **répétition** ou sur la **construction** des phrases : elles créent un **rythme**, une **musique**, une **insistance**."
+    },
+    {
+     "type": "h",
+     "text": "L’anaphore"
+    },
+    {
+     "type": "def",
+     "label": "Anaphore",
+     "text": "L’**anaphore** est la **répétition d’un même mot ou d’un même groupe de mots au début** de plusieurs phrases, vers ou propositions."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "***Chaque matin**, je me lève avec le soleil. **Chaque matin**, je marche jusqu’au fleuve. **Chaque matin**, je remercie la vie.*"
+    },
+    {
+     "type": "h",
+     "text": "La gradation"
+    },
+    {
+     "type": "def",
+     "label": "Gradation",
+     "text": "La **gradation** est une suite de mots ou d’idées **de plus en plus forts** (gradation **croissante**) ou **de plus en plus faibles** (gradation **décroissante**)."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Croissante : *Il **marche**, il **court**, il **vole**.*\nCroissante : *Un murmure, un cri, un hurlement.*\nDécroissante : *Le feu s’éteint : flamme, braise, cendre.*"
+    },
+    {
+     "type": "h",
+     "text": "L’accumulation (ou énumération)"
+    },
+    {
+     "type": "def",
+     "label": "Accumulation",
+     "text": "L’**accumulation** est une **longue liste** de mots ou de groupes de mots de même nature pour donner une impression d’**abondance**, de **foule**, de **désordre** ou d’**intensité**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "*Au marché, il y avait des **mangues, des bananes, du manioc, des poissons fumés, des tissus, des casseroles, des sandales**…*"
+    },
+    {
+     "type": "h",
+     "text": "Le parallélisme"
+    },
+    {
+     "type": "def",
+     "label": "Parallélisme",
+     "text": "Le **parallélisme** consiste à répéter une **même construction de phrase** pour **rapprocher** ou **opposer** deux idées."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "***Le** courageux **avance**, **le** lâche **recule**.* → même structure (déterminant + nom + verbe) répétée."
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif des figures de construction",
+     "head": [
+      "Figure",
+      "Principe",
+      "Effet"
+     ],
+     "rows": [
+      [
+       "Anaphore",
+       "Même mot au **début** de plusieurs phrases",
+       "Insister, rythmer"
+      ],
+      [
+       "Gradation",
+       "Termes de plus en plus forts (ou faibles)",
+       "Faire monter (ou baisser) l’émotion"
+      ],
+      [
+       "Accumulation",
+       "Longue liste de termes",
+       "Abondance, désordre"
+      ],
+      [
+       "Parallélisme",
+       "Même **structure** de phrases",
+       "Rapprocher ou opposer"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il pleure, il crie, il hurle », la figure est…",
+     "options": [
+      "une anaphore",
+      "une gradation croissante",
+      "une litote",
+      "une métonymie"
+     ],
+     "answer": 1,
+     "explain": "Les verbes sont **de plus en plus forts** : *pleurer → crier → hurler*. C’est une gradation croissante."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon pays, c’est ma mère. Mon pays, c’est mon histoire. Mon pays, c’est mon cœur. », on trouve…",
+     "options": [
+      "une antithèse",
+      "une anaphore",
+      "une périphrase",
+      "un oxymore"
+     ],
+     "answer": 1,
+     "explain": "*Mon pays, c’est* est répété au **début** de chaque phrase : c’est une anaphore."
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître une figure et expliquer son effet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Reconnaître une figure ne suffit pas : en classe, on te demande souvent de **la nommer**, de **la justifier** et d’**expliquer son effet**."
+    },
+    {
+     "type": "h",
+     "text": "La méthode en trois étapes"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Relever** l’expression exacte dans le texte, entre guillemets.",
+      "**Nommer** la figure et **justifier** (« car… »).",
+      "**Expliquer l’effet** produit sur le lecteur."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "label": "Un exemple rédigé",
+     "text": "*« Le vent murmure dans les manguiers. »*\n**Relever** : « le vent murmure ».\n**Nommer et justifier** : c’est une **personnification**, car le verbe *murmurer*, propre à l’être humain, est attribué au vent.\n**Effet** : cela rend le paysage vivant et crée une atmosphère douce et paisible."
+    },
+    {
+     "type": "h",
+     "text": "Identifier la figure grâce à des indices"
+    },
+    {
+     "type": "table",
+     "title": "Indices à repérer",
+     "head": [
+      "Indice dans la phrase",
+      "Figure probable"
+     ],
+     "rows": [
+      [
+       "comme, tel, pareil à, semblable à",
+       "comparaison"
+      ],
+      [
+       "A **est** B, sans outil de comparaison",
+       "métaphore"
+      ],
+      [
+       "un verbe humain pour une chose ou un animal",
+       "personnification"
+      ],
+      [
+       "un chiffre ou un mot énorme, irréaliste",
+       "hyperbole"
+      ],
+      [
+       "ne … pas / ne … point pour dire fort",
+       "litote"
+      ],
+      [
+       "deux mots contraires, collés ensemble",
+       "oxymore"
+      ],
+      [
+       "deux idées contraires, séparées",
+       "antithèse"
+      ],
+      [
+       "le même mot au début de plusieurs phrases",
+       "anaphore"
+      ],
+      [
+       "des mots de plus en plus forts",
+       "gradation"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les verbes pour expliquer l’effet"
+    },
+    {
+     "type": "p",
+     "text": "Pour parler de l’effet, utilise des verbes précis : *souligner, insister sur, mettre en valeur, rendre vivant, créer une image, faire sourire, émouvoir, adoucir, opposer, impressionner, suggérer*."
+    },
+    {
+     "type": "warn",
+     "label": "Pièges à éviter",
+     "text": "**1.** Ne pas confondre **comparaison** (avec outil) et **métaphore** (sans outil). **2.** Ne pas confondre **antithèse** (termes séparés) et **oxymore** (termes collés). **3.** Ne pas dire seulement « c’est une figure de style » : il faut **la nommer**. **4.** Ne pas oublier l’**effet** : une figure sans explication de son effet est une réponse incomplète. **5.** Une expression figée comme *il pleut des cordes* est une métaphore, mais si elle est devenue banale, son effet est faible."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce pour l’examen",
+     "text": "Dans une réponse, commence par la **figure**, puis donne la **preuve** (la citation), puis l’**effet** : *C’est une [figure], car… Elle permet de…*"
+    },
+    {
+     "type": "quiz",
+     "question": "Pour expliquer l’effet d’une figure, on peut écrire…",
+     "options": [
+      "Cette figure est jolie.",
+      "Cette figure met en valeur la tristesse du personnage.",
+      "Cette figure est une figure de style.",
+      "Cette figure est dans le texte."
+     ],
+     "answer": 1,
+     "explain": "Il faut expliquer **ce que la figure apporte** au texte : ici, elle met en valeur la tristesse du personnage."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi du plus simple au plus difficile. Cherche d’abord, puis regarde le corrigé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : comparaison ou métaphore ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase contient une comparaison ou une métaphore.",
+     "items": [
+      "Il est têtu comme une mule.",
+      "Cette fille est une perle.",
+      "Son sourire est un rayon de soleil.",
+      "Ma sœur court tel un lièvre.",
+      "Le mensonge est un poison."
+     ],
+     "corrige": [
+      "comparaison (comme)",
+      "métaphore (pas d’outil)",
+      "métaphore",
+      "comparaison (tel)",
+      "métaphore"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : trouver la personnification"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne le mot qui donne un caractère humain à l’objet ou à l’animal.",
+     "items": [
+      "Le soleil se réveille derrière la colline.",
+      "Les vagues jouent avec les enfants.",
+      "La pluie pleure sur les toits.",
+      "Le vieux baobab veille sur le village."
+     ],
+     "corrige": [
+      "se réveille",
+      "jouent",
+      "pleure",
+      "veille"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : hyperbole, euphémisme ou litote ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Nomme la figure de chaque phrase.",
+     "items": [
+      "Je t’ai appelé cent fois.",
+      "Elle nous a quittés hier soir.",
+      "Ce n’est pas un mauvais élève.",
+      "Ce plat est une tuerie !",
+      "Il a rejoint sa dernière demeure."
+     ],
+     "corrige": [
+      "hyperbole",
+      "euphémisme",
+      "litote (= c’est un bon élève)",
+      "hyperbole",
+      "euphémisme"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : antithèse ou oxymore ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Nomme la figure de chaque phrase.",
+     "items": [
+      "Un silence bruyant s’installa.",
+      "Il est généreux, mais elle est avare.",
+      "Cette douce violence m’a surpris.",
+      "Le jour travaille, la nuit se repose."
+     ],
+     "corrige": [
+      "oxymore",
+      "antithèse",
+      "oxymore",
+      "antithèse"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : métonymie ou périphrase ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Nomme la figure de chaque expression.",
+     "items": [
+      "Il a bu deux verres.",
+      "Le roi des animaux s’est réveillé.",
+      "Toute la salle applaudit.",
+      "L’astre du jour se couche."
+     ],
+     "corrige": [
+      "métonymie (le contenant pour le contenu)",
+      "périphrase",
+      "métonymie (le lieu pour les personnes)",
+      "périphrase"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6 : anaphore, gradation ou accumulation ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Nomme la figure de chaque passage.",
+     "items": [
+      "Tu cries, tu hurles, tu t’époumones.",
+      "Dans la cour : des cris, des rires, des jeux, des courses, des chants.",
+      "Je me souviens du fleuve. Je me souviens du manguier. Je me souviens de grand-père.",
+      "Une étincelle, une flamme, un brasier, un incendie."
+     ],
+     "corrige": [
+      "gradation croissante",
+      "accumulation",
+      "anaphore",
+      "gradation croissante"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7 : trouver la bonne figure"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle figure trouve-t-on dans « Il faisait un froid de canard » ?",
+     "options": [
+      "une métonymie",
+      "une hyperbole",
+      "un oxymore",
+      "une anaphore"
+     ],
+     "answer": 1,
+     "explain": "L’expression exagère le froid : c’est une hyperbole."
+    },
+    {
+     "type": "quiz",
+     "question": "« Cet enfant est une pile électrique » est…",
+     "options": [
+      "une comparaison",
+      "une métaphore",
+      "une litote",
+      "un euphémisme"
+     ],
+     "answer": 1,
+     "explain": "Pas d’outil de comparaison : on dit qu’il **est** une pile électrique (il bouge sans arrêt). C’est une métaphore."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 8 : inventer ses figures"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase avec chaque figure (réponses possibles).",
+     "items": [
+      "une comparaison sur la rapidité d’un coureur",
+      "une métaphore sur un ami généreux",
+      "une personnification de la pluie",
+      "une hyperbole sur la faim"
+     ],
+     "corrige": [
+      "Il court comme un guépard.",
+      "Mon ami est un fleuve de générosité.",
+      "La pluie frappe à la fenêtre.",
+      "J’ai une faim de loup."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9 : analyser un court texte"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les figures de style, nomme-les et explique leur effet : « Le fleuve est un serpent d’argent. Il dort le jour, il rugit la nuit. Sur ses rives : des pirogues, des filets, des chants, des rires, des enfants. »",
+     "items": [
+      "Phrase 1 : « Le fleuve est un serpent d’argent »",
+      "Phrase 2 : « il dort le jour, il rugit la nuit »",
+      "Phrase 3 : « des pirogues, des filets, des chants, des rires, des enfants »"
+     ],
+     "corrige": [
+      "Métaphore (sans outil de comparaison) : le fleuve est comparé à un serpent d’argent, ce qui évoque sa forme sinueuse et son éclat.",
+      "Personnification (*dormir*, *rugir*) et antithèse (jour / nuit, dormir / rugir) : le fleuve est vivant, calme le jour et puissant la nuit.",
+      "Accumulation : la liste donne une impression d’abondance et de vie sur les rives."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une **figure de style** est un procédé qui **produit un effet** : image, insistance, émotion, humour…",
+      "**Comparaison** : avec outil (*comme*, *tel*…). **Métaphore** : sans outil. **Personnification** : un trait humain donné à une chose. **Allégorie** : une idée abstraite en image.",
+      "**Hyperbole** : exagérer. **Euphémisme** : adoucir une réalité dure. **Litote** : dire peu pour faire entendre beaucoup.",
+      "**Antithèse** : deux idées opposées **séparées**. **Oxymore** : deux termes contraires **collés**.",
+      "**Métonymie** : un mot lié logiquement (contenant, lieu, auteur…). **Périphrase** : une expression plus longue à la place d’un mot.",
+      "**Anaphore** : répétition en début de phrases. **Gradation** : suite croissante ou décroissante. **Accumulation** : longue liste. **Parallélisme** : même construction.",
+      "Pour répondre : **relever**, **nommer** et justifier, puis **expliquer l’effet**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Résumé des figures",
+     "head": [
+      "Figure",
+      "Principe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Comparaison",
+       "comme, tel…",
+       "fort comme un lion"
+      ],
+      [
+       "Métaphore",
+       "A est B",
+       "cet homme est un lion"
+      ],
+      [
+       "Personnification",
+       "trait humain pour une chose",
+       "le vent murmure"
+      ],
+      [
+       "Hyperbole",
+       "exagération",
+       "une faim de loup"
+      ],
+      [
+       "Litote",
+       "dire moins",
+       "ce n’est pas mauvais"
+      ],
+      [
+       "Antithèse",
+       "contraires séparés",
+       "il rit, elle pleure"
+      ],
+      [
+       "Oxymore",
+       "contraires collés",
+       "un silence bruyant"
+      ],
+      [
+       "Métonymie",
+       "lien logique",
+       "boire un verre"
+      ],
+      [
+       "Anaphore",
+       "répétition au début",
+       "Chaque matin… Chaque matin…"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne méthode pour répondre à « Quelle figure de style trouve-t-on ? »",
+     "options": [
+      "Nommer la figure seulement",
+      "Relever, nommer, justifier et expliquer l’effet",
+      "Recopier toute la phrase",
+      "Donner un synonyme"
+     ],
+     "answer": 1,
+     "explain": "Une réponse complète **relève** l’expression, **nomme** la figure, la **justifie** et **explique son effet**."
+    }
+   ]
+  }
+ ]
+}

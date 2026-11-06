@@ -1,0 +1,581 @@
+{
+ "id": 52,
+ "sections": [
+  {
+   "t": "Rappel : le groupe nominal et son noyau",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « **la maison de mon grand-père** », plusieurs mots vont ensemble autour d’un nom. Ils forment un **groupe nominal** (GN). En 5e, tu vas apprendre à en décrire les trois éléments principaux : le **déterminant**, le **nom** et le **complément du nom**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître le déterminant, le nom et le complément du nom",
+      "Comprendre le rôle de chacun",
+      "Enrichir un groupe nominal en écrivant"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Groupe nominal",
+     "text": "Un **groupe nominal** est un groupe de mots organisé autour d’un **nom**, appelé le **noyau**. Le nom est le mot le plus important : on ne peut pas le supprimer sans que le groupe perde son sens."
+    },
+    {
+     "type": "schema",
+     "title": "Un groupe nominal décortiqué",
+     "cells": [
+      {
+       "mot": "la",
+       "role": "déterminant"
+      },
+      {
+       "mot": "maison",
+       "role": "nom (noyau)",
+       "noyau": true
+      },
+      {
+       "mot": "de mon grand-père",
+       "role": "complément du nom"
+      }
+     ],
+     "note": "Le **noyau** est le nom ; le déterminant le **présente** et le complément du nom le **précise**."
+    },
+    {
+     "type": "tip",
+     "label": "Un moyen simple de trouver le noyau",
+     "text": "Supprime les mots un à un : « la maison » garde un sens, « de mon grand-père » seul n’en a pas. Le noyau est **maison**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le noyau du groupe nominal « le marché de Poto-Poto » ?",
+     "options": [
+      "le",
+      "marché",
+      "de",
+      "Poto-Poto"
+     ],
+     "answer": 1,
+     "explain": "« marché » est le nom principal : c’est le noyau."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne le noyau de chaque groupe nominal.",
+     "items": [
+      "le chat de ma voisine",
+      "une grande cuisine",
+      "les chaussures de mon frère"
+     ],
+     "corrige": [
+      "1. chat",
+      "2. cuisine",
+      "3. chaussures"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le déterminant",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **déterminant** se place **devant le nom**. Il le **présente** et s’accorde avec lui en **genre** (masculin, féminin) et en **nombre** (singulier, pluriel)."
+    },
+    {
+     "type": "def",
+     "label": "Déterminant",
+     "text": "Le **déterminant** est un petit mot placé devant le nom. Il indique si le nom est connu ou non, à qui il appartient, combien il y en a…"
+    },
+    {
+     "type": "table",
+     "title": "Les principaux déterminants",
+     "head": [
+      "Sorte",
+      "Exemples",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "articles",
+       "le, la, les, un, une, des",
+       "présenter le nom"
+      ],
+      [
+       "possessifs",
+       "mon, ma, mes, ton, son, notre…",
+       "dire à qui il appartient"
+      ],
+      [
+       "démonstratifs",
+       "ce, cet, cette, ces",
+       "montrer"
+      ],
+      [
+       "numéraux",
+       "deux, trois, dix",
+       "dire combien"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**la** maison, **mon** cahier, **cette** rue, **trois** mangues",
+     "label": "Des déterminants"
+    },
+    {
+     "type": "warn",
+     "label": "Attention à l’accord",
+     "text": "Le déterminant s’accorde avec le nom : **un** garçon, **une** fille ; **ce** livre, **ces** livres."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « ces mangues mûres », quel est le déterminant ?",
+     "options": [
+      "ces",
+      "mangues",
+      "mûres",
+      "Il n’y en a pas"
+     ],
+     "answer": 0,
+     "explain": "« ces » est placé devant le nom et le présente."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le déterminant de chaque groupe nominal.",
+     "items": [
+      "notre école",
+      "des élèves",
+      "cette histoire",
+      "deux crayons"
+     ],
+     "corrige": [
+      "1. notre",
+      "2. des",
+      "3. cette",
+      "4. deux"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le nom, noyau du groupe nominal",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **nom** est le mot principal. Il désigne une personne, un animal, une chose ou une idée. Il a un **genre** et un **nombre**."
+    },
+    {
+     "type": "table",
+     "title": "Deux sortes de noms",
+     "head": [
+      "Sorte",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "noms communs",
+       "maison, fleuve, élève, courage"
+      ],
+      [
+       "noms propres (majuscule)",
+       "Brazzaville, Congo, Awa"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "la **maison** · une **idée** · le **fleuve** · Awa",
+     "label": "Des noms"
+    },
+    {
+     "type": "tip",
+     "label": "Reconnaître un nom",
+     "text": "Un nom peut presque toujours être précédé d’un **déterminant** : « **le** fleuve », « **une** idée »."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Un même mot peut changer de nature : « un **marche** » n’existe pas, mais « le **marché** » existe. Vérifie qu’il y a un déterminant devant."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un nom dans « la grande route » ?",
+     "options": [
+      "la",
+      "grande",
+      "route",
+      "Aucun"
+     ],
+     "answer": 2,
+     "explain": "« route » est le nom ; « la » est le déterminant et « grande » l’adjectif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le nom (noyau) dans chaque groupe.",
+     "items": [
+      "le vieux manguier",
+      "ma petite sœur",
+      "un bon repas"
+     ],
+     "corrige": [
+      "1. manguier",
+      "2. sœur",
+      "3. repas"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le complément du nom",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **complément du nom** donne une **précision** sur le nom. Il est placé **après** le nom et il est relié à lui par une **préposition** (de, à, en, pour…) ou parfois sans mot de liaison."
+    },
+    {
+     "type": "def",
+     "label": "Complément du nom",
+     "text": "Le **complément du nom** est un mot ou un groupe de mots qui **précise le nom** auquel il se rapporte. Il peut être supprimé sans changer la structure de la phrase."
+    },
+    {
+     "type": "schema",
+     "title": "Le complément du nom",
+     "cells": [
+      {
+       "mot": "le",
+       "role": "déterminant"
+      },
+      {
+       "mot": "cahier",
+       "role": "nom (noyau)",
+       "noyau": true
+      },
+      {
+       "mot": "de",
+       "role": "préposition"
+      },
+      {
+       "mot": "mon frère",
+       "role": "complément du nom"
+      }
+     ],
+     "note": "Question à poser : **le cahier de qui ?** → de mon frère."
+    },
+    {
+     "type": "table",
+     "title": "Les prépositions fréquentes",
+     "head": [
+      "Préposition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "de",
+       "la maison **de** Paul"
+      ],
+      [
+       "à",
+       "une tasse **à** thé"
+      ],
+      [
+       "en",
+       "une chaise **en** bois"
+      ],
+      [
+       "pour",
+       "une salle **pour** les fêtes"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce",
+     "text": "Pose la question : **« de quoi ? » ou « de qui ? »** après le nom."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « le chapeau de ma tante », quel est le complément du nom ?",
+     "options": [
+      "le",
+      "chapeau",
+      "de ma tante",
+      "ma"
+     ],
+     "answer": 2,
+     "explain": "« de ma tante » précise le nom « chapeau »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément du nom dans chaque groupe.",
+     "items": [
+      "une table en bois",
+      "le livre de mon ami",
+      "la porte de la classe"
+     ],
+     "corrige": [
+      "1. en bois",
+      "2. de mon ami",
+      "3. de la classe"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître les trois éléments du groupe nominal",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser un groupe nominal, procède **dans l’ordre** : cherche d’abord le **nom**, puis le **déterminant**, puis le **complément du nom**."
+    },
+    {
+     "type": "table",
+     "title": "Une méthode en trois étapes",
+     "head": [
+      "Étape",
+      "Je cherche",
+      "Exemple : « la voiture de mon oncle »"
+     ],
+     "rows": [
+      [
+       "1",
+       "le nom (noyau)",
+       "voiture"
+      ],
+      [
+       "2",
+       "le déterminant devant le nom",
+       "la"
+      ],
+      [
+       "3",
+       "le complément après le nom",
+       "de mon oncle"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« **les** habitants **de ce village** » → nom : habitants ; déterminant : les ; complément du nom : de ce village.",
+     "label": "Une analyse complète"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Dans « **mon** frère », « mon » est un déterminant, pas un complément du nom. Le complément du nom vient **après** le nom."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « un panier de fruits », que vaut « de fruits » ?",
+     "options": [
+      "déterminant",
+      "nom noyau",
+      "complément du nom",
+      "verbe"
+     ],
+     "answer": 2,
+     "explain": "« de fruits » précise le nom « panier »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse : donne le déterminant, le nom et le complément du nom.",
+     "items": [
+      "le sac de mon voisin",
+      "une robe en coton"
+     ],
+     "corrige": [
+      "1. le (déterminant) ; sac (nom) ; de mon voisin (complément du nom)",
+      "2. une (déterminant) ; robe (nom) ; en coton (complément du nom)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Enrichir un groupe nominal",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le complément du nom permet d’**enrichir** tes phrases : ton texte devient plus précis et plus agréable à lire."
+    },
+    {
+     "type": "table",
+     "title": "Avant / après",
+     "head": [
+      "Sans complément",
+      "Avec complément"
+     ],
+     "rows": [
+      [
+       "Je mange une mangue.",
+       "Je mange une mangue **du jardin de ma grand-mère**."
+      ],
+      [
+       "Il porte un sac.",
+       "Il porte un sac **en cuir**."
+      ],
+      [
+       "Voici la salle.",
+       "Voici la salle **de lecture**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Un **jus** » → « un jus **de fruits** » → « un jus **de fruits frais** ».",
+     "label": "On peut enrichir peu à peu"
+    },
+    {
+     "type": "tip",
+     "label": "Dans tes rédactions",
+     "text": "Quand une phrase est trop courte, demande-toi : **de quoi ? de qui ? en quoi ?** pour ajouter une précision."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase a un nom enrichi par un complément du nom ?",
+     "options": [
+      "Elle ouvre la porte.",
+      "Elle ouvre la porte de la cuisine.",
+      "Elle ouvre vite.",
+      "Elle ouvre."
+     ],
+     "answer": 1,
+     "explain": "« de la cuisine » précise le nom « porte »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis chaque groupe nominal avec un complément du nom.",
+     "items": [
+      "un panier",
+      "la maison",
+      "une tasse"
+     ],
+     "corrige": [
+      "Réponses possibles : 1. un panier de fruits",
+      "2. la maison de mon oncle",
+      "3. une tasse à thé"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à construire des groupes nominaux."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque groupe nominal, relève le déterminant, le nom et le complément du nom.",
+     "items": [
+      "la chambre de ma sœur",
+      "un bol de riz",
+      "ces fleurs du jardin"
+     ],
+     "corrige": [
+      "1. la ; chambre ; de ma sœur",
+      "2. un ; bol ; de riz",
+      "3. ces ; fleurs ; du jardin"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe nominal est correctement construit ?",
+     "options": [
+      "de mon ami le cahier",
+      "le cahier de mon ami",
+      "cahier le de ami mon",
+      "mon le cahier ami"
+     ],
+     "answer": 1,
+     "explain": "Ordre : déterminant, nom, complément du nom."
+    },
+    {
+     "type": "h",
+     "text": "Construire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux groupes nominaux avec un complément du nom (avec de, en ou à).",
+     "items": [
+      "Groupe 1 :",
+      "Groupe 2 :"
+     ],
+     "corrige": [
+      "Réponses possibles : 1. le chapeau de ma mère",
+      "2. une chaise en bois"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Barre l’intrus : la voiture de mon oncle ; le jardin de la maison ; il court dans la rue ; un cahier de maths.",
+     "items": [
+      "Intrus :"
+     ],
+     "corrige": [
+      "il court dans la rue (ce n’est pas un groupe nominal)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **groupe nominal** est organisé autour d’un **nom**, le noyau.",
+      "Le **déterminant** se place devant le nom et le présente.",
+      "Le **complément du nom** se place après le nom et le précise.",
+      "Il est souvent introduit par **de, à, en, pour**.",
+      "Pour analyser : je cherche le **nom**, puis le **déterminant**, puis le **complément du nom**.",
+      "Le complément du nom permet d’**enrichir** mes phrases."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le groupe nominal en un coup d’œil",
+     "head": [
+      "Élément",
+      "Place",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "déterminant",
+       "devant le nom",
+       "la"
+      ],
+      [
+       "nom",
+       "au centre",
+       "maison"
+      ],
+      [
+       "complément du nom",
+       "après le nom",
+       "de mon grand-père"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est le noyau de « la salle de classe » ?",
+     "options": [
+      "la",
+      "salle",
+      "de",
+      "classe"
+     ],
+     "answer": 1,
+     "explain": "« salle » est le nom noyau."
+    }
+   ]
+  }
+ ]
+}

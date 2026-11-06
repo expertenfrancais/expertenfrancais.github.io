@@ -1,0 +1,746 @@
+{
+ "id": 43,
+ "sections": [
+  {
+   "t": "À quoi sert le passé antérieur ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **passé antérieur** est un **temps composé** de l’**indicatif**. Il sert à exprimer une action **terminée juste avant** une autre action, elle-même au **passé simple**. On le rencontre surtout dans les **récits écrits** et la littérature."
+    },
+    {
+     "type": "def",
+     "label": "Antériorité",
+     "text": "Une action est **antérieure** à une autre quand elle se passe **avant** elle. Le passé antérieur marque cette antériorité par rapport à un verbe au **passé simple**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Quand** il **eut fini** son repas, il **sortit**. → *il eut fini* (d’abord), puis *il sortit* (ensuite)."
+    },
+    {
+     "type": "table",
+     "title": "Deux actions, deux temps",
+     "head": [
+      "Ordre",
+      "Action",
+      "Temps",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "1re action",
+       "terminée en premier",
+       "passé antérieur",
+       "il **eut fini**"
+      ],
+      [
+       "2e action",
+       "arrive aussitôt après",
+       "passé simple",
+       "il **sortit**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Le passé antérieur n’est presque jamais seul : il accompagne un verbe au **passé simple**, souvent dans une proposition introduite par *quand*, *lorsque*, *dès que*…",
+     "label": "Retiens"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quand elle eut compris, elle sourit », quelle action a lieu en premier ?",
+     "options": [
+      "Elle sourit",
+      "Elle eut compris",
+      "Les deux en même temps",
+      "On ne peut pas savoir"
+     ],
+     "answer": 1,
+     "explain": "Le passé antérieur (*eut compris*) exprime l’action qui précède celle du passé simple (*sourit*)."
+    }
+   ]
+  },
+  {
+   "t": "Former le passé antérieur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le passé antérieur se forme avec l’**auxiliaire** *avoir* ou *être* **au passé simple** + le **participe passé** du verbe."
+    },
+    {
+     "type": "schema",
+     "title": "Un passé antérieur décortiqué",
+     "cells": [
+      {
+       "mot": "il",
+       "role": "sujet"
+      },
+      {
+       "mot": "eut",
+       "role": "auxiliaire avoir au passé simple",
+       "noyau": true
+      },
+      {
+       "mot": "fini",
+       "role": "participe passé"
+      }
+     ],
+     "note": "Auxiliaire au passé simple + participe passé = passé antérieur."
+    },
+    {
+     "type": "table",
+     "title": "Les auxiliaires au passé simple",
+     "head": [
+      "Personne",
+      "avoir",
+      "être"
+     ],
+     "rows": [
+      [
+       "je / j’",
+       "eus",
+       "fus"
+      ],
+      [
+       "tu",
+       "eus",
+       "fus"
+      ],
+      [
+       "il / elle",
+       "eut",
+       "fut"
+      ],
+      [
+       "nous",
+       "eûmes",
+       "fûmes"
+      ],
+      [
+       "vous",
+       "eûtes",
+       "fûtes"
+      ],
+      [
+       "ils / elles",
+       "eurent",
+       "furent"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Repère le verbe et choisis l’auxiliaire (*avoir* ou *être*), comme pour le passé composé.",
+      "Mets cet auxiliaire au **passé simple**.",
+      "Ajoute le **participe passé** (en l’accordant si besoin)."
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Le choix de l’auxiliaire suit les mêmes règles qu’au passé composé : *être* pour *aller, venir, arriver, partir, entrer, sortir, tomber…* et pour les verbes **pronominaux** ; *avoir* pour les autres.",
+     "label": "Même auxiliaire qu’au passé composé"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est un passé antérieur ?",
+     "options": [
+      "il a fini",
+      "il avait fini",
+      "il eut fini",
+      "il finit"
+     ],
+     "answer": 2,
+     "explain": "*eut* est l’auxiliaire *avoir* au passé simple, suivi du participe passé *fini*."
+    }
+   ]
+  },
+  {
+   "t": "Le passé antérieur des trois groupes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quel que soit le groupe du verbe, la formation est la même : seul le **participe passé** change."
+    },
+    {
+     "type": "h",
+     "text": "Verbes conjugués avec avoir"
+    },
+    {
+     "type": "table",
+     "title": "Passé antérieur avec avoir",
+     "head": [
+      "Personne",
+      "chanter (1er groupe)",
+      "finir (2e groupe)",
+      "prendre (3e groupe)"
+     ],
+     "rows": [
+      [
+       "j’",
+       "eus chanté",
+       "eus fini",
+       "eus pris"
+      ],
+      [
+       "tu",
+       "eus chanté",
+       "eus fini",
+       "eus pris"
+      ],
+      [
+       "il / elle",
+       "eut chanté",
+       "eut fini",
+       "eut pris"
+      ],
+      [
+       "nous",
+       "eûmes chanté",
+       "eûmes fini",
+       "eûmes pris"
+      ],
+      [
+       "vous",
+       "eûtes chanté",
+       "eûtes fini",
+       "eûtes pris"
+      ],
+      [
+       "ils / elles",
+       "eurent chanté",
+       "eurent fini",
+       "eurent pris"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Verbes conjugués avec être"
+    },
+    {
+     "type": "table",
+     "title": "Passé antérieur avec être",
+     "head": [
+      "Personne",
+      "arriver",
+      "partir",
+      "se lever"
+     ],
+     "rows": [
+      [
+       "je",
+       "fus arrivé(e)",
+       "fus parti(e)",
+       "me fus levé(e)"
+      ],
+      [
+       "tu",
+       "fus arrivé(e)",
+       "fus parti(e)",
+       "te fus levé(e)"
+      ],
+      [
+       "il / elle",
+       "fut arrivé(e)",
+       "fut parti(e)",
+       "se fut levé(e)"
+      ],
+      [
+       "nous",
+       "fûmes arrivé(e)s",
+       "fûmes parti(e)s",
+       "nous fûmes levé(e)s"
+      ],
+      [
+       "vous",
+       "fûtes arrivé(e)(s)",
+       "fûtes parti(e)(s)",
+       "vous fûtes levé(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "furent arrivé(e)s",
+       "furent parti(e)s",
+       "se furent levé(e)s"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour *avoir* et *être* eux-mêmes : *il eut eu* (avoir), *il eut été* (être).",
+     "label": "Cas des auxiliaires"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le passé antérieur de « nous (prendre) » ?",
+     "options": [
+      "nous eûmes pris",
+      "nous avons pris",
+      "nous fûmes pris",
+      "nous eurent pris"
+     ],
+     "answer": 0,
+     "explain": "*prendre* se conjugue avec *avoir* : *nous eûmes pris*."
+    }
+   ]
+  },
+  {
+   "t": "Les conjonctions qui l’accompagnent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le passé antérieur s’emploie surtout dans une **proposition subordonnée de temps**. Elle est introduite par une conjonction qui marque l’idée de « **dès que l’action est faite** »."
+    },
+    {
+     "type": "table",
+     "title": "Conjonctions fréquentes",
+     "head": [
+      "Conjonction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quand, lorsque",
+       "**Lorsqu’**elle **eut ouvert** la lettre, elle **pâlit**."
+      ],
+      [
+       "dès que, aussitôt que, sitôt que",
+       "**Dès que** nous **fûmes arrivés**, la pluie **cessa**."
+      ],
+      [
+       "après que",
+       "**Après qu’**ils **eurent mangé**, ils **partirent**."
+      ],
+      [
+       "une fois que",
+       "**Une fois qu’**il **eut compris**, il **sourit**."
+      ],
+      [
+       "à peine… que",
+       "**À peine eut-il parlé** que tous se **turent**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Avec **à peine** en début de phrase, on **inverse** le sujet et l’auxiliaire : *À peine eut-il parlé…* (et non « à peine il eut parlé »). La principale commence par **que**.",
+     "label": "À peine… que"
+    },
+    {
+     "type": "tip",
+     "text": "La proposition principale est au **passé simple** : *… il sortit*, *… elle sourit*, *… ils partirent*.",
+     "label": "Le verbe principal"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "À peine il eut parlé que tous se turent.",
+      "À peine eut-il parlé que tous se turent.",
+      "À peine eut-il parlé tous se turent.",
+      "À peine a-t-il parlé que tous se turent."
+     ],
+     "answer": 1,
+     "explain": "Après *à peine* en tête de phrase, on inverse le sujet : *eut-il*. La principale est introduite par *que*."
+    }
+   ]
+  },
+  {
+   "t": "L’accord du participe passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le participe passé du passé antérieur s’accorde **exactement comme au passé composé**."
+    },
+    {
+     "type": "table",
+     "title": "Les règles d’accord",
+     "head": [
+      "Auxiliaire",
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "être",
+       "s’accorde avec le **sujet**",
+       "Dès que les invitées **furent parties**, nous rangeâmes."
+      ],
+      [
+       "avoir",
+       "s’accorde avec le **COD** seulement s’il est placé **avant** le verbe",
+       "Les lettres qu’il **eut reçues** l’émurent."
+      ],
+      [
+       "avoir (COD après)",
+       "pas d’accord",
+       "Quand il **eut reçu** les lettres, il sourit."
+      ],
+      [
+       "verbe pronominal",
+       "souvent accord avec le sujet",
+       "Quand elle se **fut levée**, elle ouvrit la fenêtre."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour trouver le COD, pose la question *quoi ?* ou *qui ?* après le verbe. Dans *Les lettres qu’il eut reçues*, le COD *que* (= les lettres) est **avant** le verbe : on accorde.",
+     "label": "Méthode"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris correctement le participe passé.",
+     "items": [
+      "Dès que les invitées furent (partir), nous rangeâmes.",
+      "Quand les enfants eurent (finir) leurs devoirs, ils jouèrent.",
+      "Lorsque Mariama se fut (lever), elle ouvrit la fenêtre.",
+      "Les lettres qu’il eut (recevoir) l’émurent."
+     ],
+     "corrige": [
+      "parties",
+      "fini",
+      "levée",
+      "reçues"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Quand les élèves eurent (terminer) leur exercice… » : quel participe ?",
+     "options": [
+      "terminés",
+      "terminé",
+      "terminées",
+      "terminer"
+     ],
+     "answer": 1,
+     "explain": "Avec *avoir*, le COD *leur exercice* est placé après le verbe : pas d’accord."
+    }
+   ]
+  },
+  {
+   "t": "Passé antérieur, plus-que-parfait, passé composé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces trois temps composés se ressemblent. Pour ne pas les confondre, regarde **l’auxiliaire** et **le temps du verbe principal**."
+    },
+    {
+     "type": "table",
+     "title": "Comment les distinguer",
+     "head": [
+      "Temps",
+      "Auxiliaire",
+      "Verbe principal",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Passé antérieur",
+       "passé simple (*eut, fut*)",
+       "passé simple",
+       "Quand il **eut fini**, il **sortit**."
+      ],
+      [
+       "Plus-que-parfait",
+       "imparfait (*avait, était*)",
+       "imparfait ou passé simple",
+       "Quand il **avait fini**, il **sortait**."
+      ],
+      [
+       "Passé composé",
+       "présent (*a, est*)",
+       "passé composé ou présent",
+       "Quand il **a fini**, il **est sorti**."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Test de reconnaissance",
+     "lines": [
+      "Regarde l’auxiliaire : *eut / fut* → **passé antérieur**.",
+      "*avait / était* → **plus-que-parfait**.",
+      "*a / est* → **passé composé**."
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Dans la langue parlée, on remplace le passé antérieur par le **passé surcomposé** : *Quand il a eu fini, il est sorti*. Mais à l’écrit, dans un récit au passé simple, on emploie le passé antérieur.",
+     "label": "À l’oral"
+    },
+    {
+     "type": "ex",
+     "label": "Même idée, trois registres",
+     "text": "*Dès qu’il **eut fini**, il sortit.* (récit littéraire) → *Dès qu’il **avait fini**, il sortait.* (habitude) → *Dès qu’il **a eu fini**, il est sorti.* (langue parlée)"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quand il eut payé, il quitta la boutique », quel est le temps de « eut payé » ?",
+     "options": [
+      "plus-que-parfait",
+      "passé composé",
+      "passé antérieur",
+      "futur antérieur"
+     ],
+     "answer": 2,
+     "explain": "L’auxiliaire *eut* est au passé simple : c’est un passé antérieur."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas se tromper : les pièges",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Piège 1 : eut ou eût ?"
+    },
+    {
+     "type": "table",
+     "title": "Deux formes proches",
+     "head": [
+      "Forme",
+      "Temps",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "il **eut** fini",
+       "passé antérieur (indicatif)",
+       "Quand il **eut fini**, il sortit."
+      ],
+      [
+       "qu’il **eût** fini",
+       "plus-que-parfait du subjonctif",
+       "Il fallait qu’il **eût fini** avant midi."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "*eut* (passé simple) **n’a pas d’accent** ; *eût* (subjonctif) porte un **accent circonflexe**. De même *fut* / *fût*."
+    },
+    {
+     "type": "h",
+     "text": "Piège 2 : après que + indicatif"
+    },
+    {
+     "type": "p",
+     "text": "On dit **après qu’il eut mangé** (indicatif), et non « après qu’il eût mangé »."
+    },
+    {
+     "type": "h",
+     "text": "Piège 3 : les accents de nous et vous"
+    },
+    {
+     "type": "p",
+     "text": "*Nous **eûmes**, nous **fûmes**, vous **eûtes**, vous **fûtes*** : accent circonflexe obligatoire."
+    },
+    {
+     "type": "h",
+     "text": "Piège 4 : le temps du verbe principal"
+    },
+    {
+     "type": "warn",
+     "text": "Le passé antérieur s’accompagne d’un verbe au **passé simple**. On évite de le mélanger avec un verbe à l’imparfait ou au présent dans la même phrase.",
+     "label": "Cohérence des temps"
+    },
+    {
+     "type": "ex",
+     "label": "Phrase correcte",
+     "text": "Lorsqu’elle **eut compris**, elle **sourit**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle orthographe est correcte dans un passé antérieur ?",
+     "options": [
+      "il eût fini",
+      "il eut fini",
+      "il eu fini",
+      "il eus fini"
+     ],
+     "answer": 1,
+     "explain": "Dans un passé antérieur, *eut* s’écrit sans accent circonflexe."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi du plus simple au plus difficile. Cherche d’abord, puis regarde le corrigé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : former le passé antérieur"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe entre parenthèses au passé antérieur.",
+     "items": [
+      "Quand il (finir) son repas, il sortit.",
+      "Dès que nous (arriver), il plut.",
+      "Lorsque tu (comprendre) la leçon, tu souris.",
+      "Aussitôt qu’elles (partir), le silence revint.",
+      "Quand j’(ouvrir) la porte, le chat s’enfuit."
+     ],
+     "corrige": [
+      "il eut fini",
+      "nous fûmes arrivés",
+      "tu eus compris",
+      "elles furent parties",
+      "j’eus ouvert"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : passé antérieur et passé simple"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes au passé antérieur et au passé simple.",
+     "items": [
+      "Dès que la cloche (sonner), les élèves (sortir).",
+      "Quand Awa (terminer) sa lettre, elle la (poster).",
+      "Lorsque les voyageurs (descendre) du bus, le chauffeur (repartir).",
+      "Aussitôt qu’il (se lever), il (ouvrir) la fenêtre.",
+      "Après que nous (dîner), nous (regarder) un film."
+     ],
+     "corrige": [
+      "eut sonné / sortirent",
+      "eut terminé / posta",
+      "furent descendus / repartit",
+      "se fut levé / ouvrit",
+      "eûmes dîné / regardâmes"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Dès que la cloche eut sonné, les élèves sortirent. » Quel verbe est au passé antérieur ?",
+     "options": [
+      "sortirent",
+      "eut sonné",
+      "la cloche",
+      "dès que"
+     ],
+     "answer": 1,
+     "explain": "*eut sonné* = auxiliaire *avoir* au passé simple + participe passé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : reconnaître le temps"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique : passé antérieur, plus-que-parfait ou passé composé.",
+     "items": [
+      "Quand il eut payé, il quitta la boutique.",
+      "Quand il avait payé, il quittait la boutique.",
+      "Quand il a payé, il a quitté la boutique.",
+      "Dès qu’elle fut sortie, il pleura.",
+      "Elle était sortie quand il pleura."
+     ],
+     "corrige": [
+      "passé antérieur",
+      "plus-que-parfait",
+      "passé composé",
+      "passé antérieur",
+      "plus-que-parfait"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : à peine… que"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris avec « à peine… que » (pense à l’inversion).",
+     "items": [
+      "Il eut fini son discours. Les applaudissements éclatèrent.",
+      "Nous fûmes arrivés. Il se mit à pleuvoir.",
+      "Elle fut entrée. Le téléphone sonna."
+     ],
+     "corrige": [
+      "À peine eut-il fini son discours que les applaudissements éclatèrent.",
+      "À peine fûmes-nous arrivés qu’il se mit à pleuvoir.",
+      "À peine fut-elle entrée que le téléphone sonna."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : texte à compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes entre parenthèses au temps qui convient (passé antérieur ou passé simple).",
+     "items": [
+      "Quand le soleil (se coucher), le village (s’endormir).",
+      "Dès que le chef (parler), tous (se taire).",
+      "Lorsque Moussa (finir) de manger, il (remercier) sa mère."
+     ],
+     "corrige": [
+      "se fut couché / s’endormit",
+      "eut parlé / se turent",
+      "eut fini / remercia"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **passé antérieur** exprime une action **terminée juste avant** une action au **passé simple**.",
+      "Il se forme avec l’**auxiliaire** *avoir* ou *être* **au passé simple** + le **participe passé** : *il eut fini*, *elle fut partie*.",
+      "Il s’emploie surtout après *quand, lorsque, dès que, aussitôt que, après que, à peine… que*.",
+      "Après **à peine**, on **inverse** le sujet : *À peine eut-il parlé que…*",
+      "Le participe passé s’accorde comme au **passé composé**.",
+      "*eut* (indicatif) s’écrit **sans accent** ; *eût* (subjonctif) **avec accent**.",
+      "C’est un temps de l’**écrit littéraire** ; à l’oral, on utilise le passé surcomposé."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois temps à ne pas confondre",
+     "head": [
+      "Temps",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Passé antérieur",
+       "Quand il **eut fini**, il sortit."
+      ],
+      [
+       "Plus-que-parfait",
+       "Quand il **avait fini**, il sortait."
+      ],
+      [
+       "Passé composé",
+       "Quand il **a fini**, il est sorti."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un passé antérieur ?",
+     "options": [
+      "Il avait fini son travail.",
+      "Dès qu’il eut fini son travail, il partit.",
+      "Il a fini son travail.",
+      "Il finira son travail."
+     ],
+     "answer": 1,
+     "explain": "*eut fini* : auxiliaire au passé simple + participe passé."
+    }
+   ]
+  }
+ ]
+}

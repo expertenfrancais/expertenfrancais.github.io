@@ -1,0 +1,1137 @@
+{
+ "id": 46,
+ "sections": [
+  {
+   "t": "Les mots construits : radical, préfixe, suffixe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup de mots ne sont pas « tout seuls » : ils sont **construits** à partir d’autres mots ou d’éléments plus petits. Prenons le mot *refaire* : il se décompose en **re** + **faire**."
+    },
+    {
+     "type": "def",
+     "label": "Radical",
+     "text": "Le **radical** est la partie du mot qui porte le **sens principal**. C’est lui qu’on retrouve dans les mots de la même famille : *faire* dans *refaire*, *défaire*, *faisable*."
+    },
+    {
+     "type": "def",
+     "label": "Préfixe",
+     "text": "Un **préfixe** est un élément placé **avant le radical** pour **modifier son sens**. Il ne s’emploie pas seul : *re-*, *dé-*, *in-*, *pré-*."
+    },
+    {
+     "type": "def",
+     "label": "Suffixe",
+     "text": "Un **suffixe** est un élément placé **après le radical**. Il forme souvent un mot d’une **autre nature** : *chant* + *-eur* → *chanteur*."
+    },
+    {
+     "type": "schema",
+     "title": "Un mot préfixé décortiqué",
+     "cells": [
+      {
+       "mot": "dé",
+       "role": "préfixe"
+      },
+      {
+       "mot": "faire",
+       "role": "radical",
+       "noyau": true
+      }
+     ],
+     "note": "*Défaire* signifie « faire à l’envers », « annuler ce qui a été fait » : le préfixe **change le sens** du radical."
+    },
+    {
+     "type": "schema",
+     "title": "Un mot préfixé : le contraire",
+     "cells": [
+      {
+       "mot": "il",
+       "role": "préfixe"
+      },
+      {
+       "mot": "lisible",
+       "role": "radical",
+       "noyau": true
+      }
+     ],
+     "note": "*Illisible* = qui ne peut pas être lu. Le préfixe *in-* est devenu *il-* devant la lettre *l*."
+    },
+    {
+     "type": "table",
+     "title": "Où se place chaque élément ?",
+     "head": [
+      "Élément",
+      "Place",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Préfixe",
+       "avant le radical",
+       "**re**faire"
+      ],
+      [
+       "Radical",
+       "au centre",
+       "re**fai**re"
+      ],
+      [
+       "Suffixe",
+       "après le radical",
+       "chant**eur**"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Qu’est-ce que la préfixation ?"
+    },
+    {
+     "type": "def",
+     "label": "Préfixation",
+     "text": "La **préfixation** est la formation d’un mot nouveau en **ajoutant un préfixe** devant un mot ou un radical : *possible* → *im**possible***, *heureux* → *mal**heureux***, *voir* → *pré**voir***."
+    },
+    {
+     "type": "tip",
+     "label": "Pour t’en souvenir",
+     "text": "**Pré**fixe = **pré**, c’est-à-dire **avant**. Le préfixe se place toujours **avant** le radical."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans le mot « malheureux », quel est le préfixe ?",
+     "options": [
+      "heureux",
+      "mal-",
+      "-eux",
+      "malheur"
+     ],
+     "answer": 1,
+     "explain": "*Mal-* est placé avant le radical *heureux* : c’est le préfixe."
+    }
+   ]
+  },
+  {
+   "t": "Le préfixe : rôle et fonctionnement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le préfixe est un petit outil très puissant : avec quelques préfixes, on peut former **des dizaines de mots** nouveaux."
+    },
+    {
+     "type": "h",
+     "text": "Ce que fait le préfixe"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Il **change le sens** du mot : *possible* → *impossible* (le contraire).",
+      "Il apporte une **idée précise** : répétition (*re-*), avant (*pré-*), entre (*inter-*)…",
+      "Il garde en général la **même nature** que le radical : *faire* (verbe) → *refaire* (verbe) ; *content* (adjectif) → *mécontent* (adjectif)."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un radical, plusieurs préfixes",
+     "text": "Radical **faire** : *refaire*, *défaire*, *parfaire*, *contrefaire*.\nRadical **voir** : *prévoir*, *revoir*, *entrevoir*.\nRadical **couvrir** : *découvrir*, *recouvrir*, *redécouvrir*."
+    },
+    {
+     "type": "h",
+     "text": "Préfixe ou suffixe : qui fait quoi ?"
+    },
+    {
+     "type": "table",
+     "title": "Comparer préfixe et suffixe",
+     "head": [
+      "Critère",
+      "Préfixe",
+      "Suffixe"
+     ],
+     "rows": [
+      [
+       "Place",
+       "avant le radical",
+       "après le radical"
+      ],
+      [
+       "Rôle principal",
+       "modifie le **sens**",
+       "change souvent la **nature** et le sens"
+      ],
+      [
+       "Exemple",
+       "*re-* + faire → refaire (verbe → verbe)",
+       "*chant* + *-eur* → chanteur (verbe → nom)"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Un test pour reconnaître un préfixe"
+    },
+    {
+     "type": "test",
+     "title": "Le test de suppression",
+     "lines": [
+      "Enlève le début du mot : **refaire** → *faire* ✓ (un vrai mot, de sens lié) → *re-* est un préfixe.",
+      "**impossible** → *possible* ✓ → *im-* est un préfixe.",
+      "**inviter** → *viter* ✗ (aucun sens lié) → *in-* n’est **pas** un préfixe ici."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Famille de mots",
+     "text": "Les mots qui ont le **même radical** forment une **famille de mots** : *faire, refaire, défaire, faisable, faiseur, malfaisant*. La préfixation est un des moyens de fabriquer cette famille."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le radical de « défaire » ?",
+     "options": [
+      "dé",
+      "défa",
+      "faire",
+      "défaire"
+     ],
+     "answer": 2,
+     "explain": "On enlève le préfixe *dé-* : il reste le radical *faire*."
+    },
+    {
+     "type": "quiz",
+     "question": "Un préfixe se place…",
+     "options": [
+      "après le radical",
+      "avant le radical",
+      "au milieu du radical",
+      "à la fin de la phrase"
+     ],
+     "answer": 1,
+     "explain": "Un préfixe est toujours placé **avant** le radical."
+    }
+   ]
+  },
+  {
+   "t": "Les préfixes qui expriment le contraire ou la négation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains préfixes servent à **fabriquer le contraire** d’un mot ou à **dire qu’une chose est absente**."
+    },
+    {
+     "type": "table",
+     "title": "Les préfixes de sens contraire",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "in- (im-, il-, ir-)",
+       "contraire, négation",
+       "inutile, impossible, illisible, irrégulier"
+      ],
+      [
+       "dé- (dés-)",
+       "contraire, action inverse",
+       "défaire, découvrir, désobéir, désarmer"
+      ],
+      [
+       "mal-",
+       "mauvais, contraire",
+       "malheureux, malhonnête, malpoli"
+      ],
+      [
+       "mé- (més-)",
+       "mauvais, contraire",
+       "mécontent, méconnaître, mésentente"
+      ],
+      [
+       "a- (an-)",
+       "absence, privation",
+       "anormal, amoral, analphabète"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Quelques exemples en phrases"
+    },
+    {
+     "type": "ex",
+     "label": "Dans des phrases",
+     "text": "Cet effort est **utile**. → Cet effort est **in**utile.\nIl est **content**. → Il est **mé**content.\nIl faut **couvrir** la casserole. → Il faut **dé**couvrir la casserole.\nCe garçon est **honnête**. → Ce garçon est **mal**honnête."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "On ne peut pas mettre n’importe quel préfixe devant n’importe quel mot. On dit *impossible*, pas *dépossible* ; *mécontent*, pas *incontent*. Vérifie toujours dans le dictionnaire si tu as un doute."
+    },
+    {
+     "type": "h",
+     "text": "Le préfixe anti- : « contre »"
+    },
+    {
+     "type": "p",
+     "text": "Le préfixe **anti-** ne signifie pas « contraire » comme *in-*, mais « **contre** » : *un antivol* (contre le vol), *un antibiotique* (contre les microbes), *antidouleur*."
+    },
+    {
+     "type": "tip",
+     "label": "Ne confonds pas",
+     "text": "*Inactif* = qui n’est pas actif (contraire). *Antiactif* n’existe pas. Mais *antibruit* = qui protège **contre** le bruit."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le contraire de « lisible » avec un préfixe ?",
+     "options": [
+      "délisible",
+      "illisible",
+      "millisible",
+      "alisible"
+     ],
+     "answer": 1,
+     "explain": "Devant la lettre **l**, le préfixe *in-* devient *il-* : *illisible*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel préfixe donne le contraire de « content » ?",
+     "options": [
+      "mé-",
+      "re-",
+      "pré-",
+      "inter-"
+     ],
+     "answer": 0,
+     "explain": "*Mécontent* = pas content. *Mé-* exprime le contraire ou le mauvais."
+    }
+   ]
+  },
+  {
+   "t": "Les préfixes de lieu, de temps, de quantité et de répétition",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres préfixes ne donnent pas le contraire : ils apportent une **information** sur le **lieu**, le **temps**, la **quantité** ou la **répétition**."
+    },
+    {
+     "type": "h",
+     "text": "La répétition"
+    },
+    {
+     "type": "table",
+     "title": "Le préfixe re- (ré-, r-)",
+     "head": [
+      "Mot de départ",
+      "Mot préfixé",
+      "Sens ajouté"
+     ],
+     "rows": [
+      [
+       "lire",
+       "relire",
+       "lire **de nouveau**"
+      ],
+      [
+       "écrire",
+       "réécrire",
+       "écrire **de nouveau**"
+      ],
+      [
+       "commencer",
+       "recommencer",
+       "commencer **encore**"
+      ],
+      [
+       "ouvrir",
+       "rouvrir",
+       "ouvrir **de nouveau**"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le lieu et la position"
+    },
+    {
+     "type": "table",
+     "title": "Préfixes de lieu",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "sur-",
+       "au-dessus, en plus",
+       "surcharger, surnaturel, surplomber"
+      ],
+      [
+       "sous-",
+       "en dessous, insuffisant",
+       "sous-marin, sous-estimer, sous-sol"
+      ],
+      [
+       "inter-",
+       "entre",
+       "international, interurbain, intervenir"
+      ],
+      [
+       "trans-",
+       "à travers, au-delà",
+       "transporter, transatlantique, transformer"
+      ],
+      [
+       "extra-",
+       "en dehors, très",
+       "extraordinaire, extraterrestre, extrafin"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le temps"
+    },
+    {
+     "type": "table",
+     "title": "Préfixes de temps",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "pré-",
+       "avant",
+       "préhistoire, prévoir, préavis"
+      ],
+      [
+       "post-",
+       "après",
+       "postscolaire, postposer"
+      ],
+      [
+       "ex-",
+       "qui n’est plus",
+       "ex-président, ex-mari"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "La quantité"
+    },
+    {
+     "type": "table",
+     "title": "Préfixes de quantité",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "bi-",
+       "deux",
+       "bicyclette, bilingue"
+      ],
+      [
+       "tri-",
+       "trois",
+       "triangle, tricolore"
+      ],
+      [
+       "multi-",
+       "plusieurs",
+       "multicolore, multiple"
+      ],
+      [
+       "mono-",
+       "un seul",
+       "monologue, monocolore"
+      ],
+      [
+       "poly-",
+       "beaucoup",
+       "polyvalent, polygone"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Trois mots, trois idées",
+     "text": "**Pré**voir → voir **avant**.\n**Sur**charger → charger **trop**.\n**Inter**national → **entre** les nations."
+    },
+    {
+     "type": "tip",
+     "label": "Un truc de lecteur",
+     "text": "Quand tu rencontres un mot nouveau comme *transatlantique*, repère le préfixe (*trans-* = « à travers ») et le radical (*atlantique*) : tu comprendras tout de suite que c’est « qui traverse l’Atlantique »."
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie le préfixe « pré- » dans « préhistoire » ?",
+     "options": [
+      "après",
+      "avant",
+      "entre",
+      "contre"
+     ],
+     "answer": 1,
+     "explain": "*Pré-* signifie « avant » : la préhistoire est la période **avant** l’histoire écrite."
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie « surcharger » ?",
+     "options": [
+      "charger trop",
+      "charger de nouveau",
+      "ne pas charger",
+      "charger entre"
+     ],
+     "answer": 0,
+     "explain": "*Sur-* exprime ici l’**excès** : charger **trop**."
+    }
+   ]
+  },
+  {
+   "t": "Les préfixes d’origine grecque et latine",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup de préfixes viennent du **latin** ou du **grec**. On les retrouve surtout dans le vocabulaire **scientifique**, **technique** et **savant**."
+    },
+    {
+     "type": "table",
+     "title": "Préfixes d’origine grecque",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "télé-",
+       "loin",
+       "téléphone, télévision, télescope"
+      ],
+      [
+       "micro-",
+       "petit",
+       "microscope, microbe, micro-ordinateur"
+      ],
+      [
+       "auto-",
+       "soi-même",
+       "automobile, autobiographie, autonome"
+      ],
+      [
+       "hyper-",
+       "au-dessus, très",
+       "hypermarché, hypersensible"
+      ],
+      [
+       "hypo-",
+       "en dessous",
+       "hypothermie, hypoglycémie"
+      ],
+      [
+       "para-",
+       "protection, à côté",
+       "parapluie, parasol, paramédical"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Préfixes d’origine latine",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "co- (com-, con-)",
+       "avec",
+       "coéquipier, collaborer, concitoyen"
+      ],
+      [
+       "ex-",
+       "hors de",
+       "exporter, extraire, excentrique"
+      ],
+      [
+       "pré-",
+       "avant",
+       "prévenir, préparer"
+      ],
+      [
+       "in- (im-)",
+       "dans, vers",
+       "importer, inclure, immigrer"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Comprendre un mot savant",
+     "text": "**Télé**phone : *télé-* (loin) + *phone* (voix, son) → « voix **de loin** ».\n**Micro**scope : *micro-* (petit) + *scope* (observer) → « qui observe le **très petit** ».\n**Auto**biographie : *auto-* (soi-même) + *bio* (vie) + *graphie* (écriture) → « écrire sa **propre** vie »."
+    },
+    {
+     "type": "warn",
+     "label": "Ne confonds pas",
+     "text": "*Hyper-* = **au-dessus**, *hypo-* = **en dessous**. *Hypermarché* = très grand magasin ; *hypothermie* = température du corps trop basse. Une seule lettre change tout !"
+    },
+    {
+     "type": "tip",
+     "label": "Astuce de mémoire",
+     "text": "*Hyper* = au-dessus, beaucoup ; *hypo* = en dessous, peu."
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie « télévision » à partir de ses éléments ?",
+     "options": [
+      "voir de près",
+      "voir de loin",
+      "entendre de loin",
+      "écrire de loin"
+     ],
+     "answer": 1,
+     "explain": "*Télé-* = loin ; *vision* = voir. La télévision permet de **voir de loin**."
+    },
+    {
+     "type": "quiz",
+     "question": "« Hypothermie » signifie…",
+     "options": [
+      "température trop haute",
+      "température trop basse",
+      "pas de température",
+      "température normale"
+     ],
+     "answer": 1,
+     "explain": "*Hypo-* = en dessous. L’hypothermie, c’est une température du corps **trop basse**."
+    }
+   ]
+  },
+  {
+   "t": "Orthographe : bien écrire un mot préfixé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’ajout d’un préfixe peut entraîner des **changements d’orthographe**. Voici les règles principales."
+    },
+    {
+     "type": "h",
+     "text": "Règle 1 : in- devient im-, il-, ir-"
+    },
+    {
+     "type": "table",
+     "title": "Le préfixe in- selon la lettre qui suit",
+     "head": [
+      "Devant…",
+      "Le préfixe devient",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "b, m, p",
+       "**im-**",
+       "imbattable, immortel, impossible, impoli"
+      ],
+      [
+       "l",
+       "**il-**",
+       "illisible, illégal, illimité"
+      ],
+      [
+       "r",
+       "**ir-**",
+       "irrégulier, irréel, irresponsable"
+      ],
+      [
+       "autres lettres",
+       "**in-**",
+       "inutile, inconnu, inactif, incapable"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Mémo",
+     "text": "Devant **b, m, p** → **im**. Devant **l** → **il**. Devant **r** → **ir**. On double la lettre devant **m, l, r** : *immortel*, *illisible*, *irréel*."
+    },
+    {
+     "type": "h",
+     "text": "Règle 2 : dé- ou dés- ?"
+    },
+    {
+     "type": "p",
+     "text": "On écrit **dé-** devant une consonne (*défaire*, *découvrir*) et **dés-** devant une voyelle ou un *h* muet (*désobéir*, *désarmer*, *déshabiller*)."
+    },
+    {
+     "type": "h",
+     "text": "Règle 3 : re- ou ré- ? et le double s"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**re-** devant une consonne : *refaire, relire, reprendre*.",
+      "**ré-** devant une voyelle : *réécrire, réorganiser*.",
+      "Devant un **s**, on double le **s** pour garder le son [s] : *resservir, ressortir, ressentir*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Règle 4 : le trait d’union"
+    },
+    {
+     "type": "p",
+     "text": "En général, on **ne met pas de trait d’union** après un préfixe : *refaire, impossible, surcharger*. On en met avec quelques préfixes : **ex-** (*ex-président*), **vice-** (*vice-président*), **non-** (*non-violence*), **quasi-** (*quasi-totalité*), **sous-** (*sous-marin*, *sous-estimer*)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège classique",
+     "text": "On écrit **irrégulier** (pas *inrégulier*) et **impossible** (pas *inpossible*). Pour vérifier, lis le mot à voix haute : *inpossible* sonne bizarrement."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on le contraire de « possible » ?",
+     "options": [
+      "inpossible",
+      "impossible",
+      "ilpossible",
+      "irpossible"
+     ],
+     "answer": 1,
+     "explain": "Devant **p**, *in-* devient *im-* : *impossible*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle orthographe est correcte ?",
+     "options": [
+      "désorganiser",
+      "dessorganiser",
+      "déssorganiser",
+      "désorganniser"
+     ],
+     "answer": 0,
+     "explain": "Devant une voyelle, on écrit *dés-* avec un seul **s** : *désorganiser*."
+    },
+    {
+     "type": "quiz",
+     "question": "Lequel s’écrit avec un trait d’union ?",
+     "options": [
+      "refaire",
+      "impossible",
+      "ex-président",
+      "surcharger"
+     ],
+     "answer": 2,
+     "explain": "Le préfixe **ex-** (qui n’est plus) s’écrit avec un trait d’union : *ex-président*."
+    }
+   ]
+  },
+  {
+   "t": "Pièges à éviter et intérêt de la préfixation",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Piège 1 : les faux préfixes"
+    },
+    {
+     "type": "p",
+     "text": "Certains mots commencent comme un mot préfixé, mais **ne le sont pas**. Utilise le **test de suppression**."
+    },
+    {
+     "type": "table",
+     "title": "Vrai préfixe ou faux préfixe ?",
+     "head": [
+      "Mot",
+      "Test de suppression",
+      "Conclusion"
+     ],
+     "rows": [
+      [
+       "refaire",
+       "re + faire ✓",
+       "vrai préfixe"
+      ],
+      [
+       "refuser",
+       "re + fuser ✗",
+       "faux préfixe"
+      ],
+      [
+       "inviter",
+       "in + viter ✗",
+       "faux préfixe"
+      ],
+      [
+       "inutile",
+       "in + utile ✓",
+       "vrai préfixe"
+      ],
+      [
+       "désert",
+       "dé + sert ✗ (sens différent)",
+       "faux préfixe"
+      ],
+      [
+       "défaire",
+       "dé + faire ✓",
+       "vrai préfixe"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ce n’est pas parce qu’un mot **commence par re-, in- ou dé-** qu’il est préfixé. Le mot restant doit **exister** et garder un **lien de sens**."
+    },
+    {
+     "type": "h",
+     "text": "Piège 2 : changer de sens sans le vouloir"
+    },
+    {
+     "type": "p",
+     "text": "Un préfixe peut changer le sens de façon **imprévue** : *découvrir* n’est pas seulement « retirer la couverture » mais aussi « trouver quelque chose de nouveau »."
+    },
+    {
+     "type": "h",
+     "text": "À quoi sert la préfixation ?"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Enrichir son vocabulaire** : à partir d’un mot connu, on comprend des dizaines d’autres mots.",
+      "**Deviner le sens** d’un mot nouveau : *transatlantique*, *prérequis*, *ultrason*.",
+      "**Écrire plus précisément** : *surestimer*, *sous-estimer*, *mésestimer* disent des choses différentes.",
+      "**Éviter les répétitions** en utilisant des mots de la même famille."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Du plus simple au plus riche",
+     "text": "**Voir** → *revoir* (voir à nouveau) → *prévoir* (voir avant) → *entrevoir* (voir à peine) → *prévoyant* (qui sait voir à l’avance)."
+    },
+    {
+     "type": "tip",
+     "label": "Quand tu hésites",
+     "text": "Cherche dans le dictionnaire : il indique si le mot existe, son orthographe et son sens. Les mots préfixés y sont rangés à leur place alphabétique, pas avec leur radical."
+    },
+    {
+     "type": "quiz",
+     "question": "Lequel de ces mots est un vrai mot préfixé ?",
+     "options": [
+      "refuser",
+      "inviter",
+      "impoli",
+      "désert"
+     ],
+     "answer": 2,
+     "explain": "*Impoli* = *in-* devenu *im-* devant *p* + *poli*. Dans les autres mots, ce qui reste (*fuser, viter, sert*) ne donne pas le sens du mot."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi du plus simple au plus difficile. Cherche d’abord, puis regarde le corrigé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : repérer le préfixe"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne le préfixe et donne le radical.",
+     "items": [
+      "refaire",
+      "impossible",
+      "malheureux",
+      "prévoir",
+      "désobéir",
+      "incapable",
+      "sous-marin"
+     ],
+     "corrige": [
+      "re- + faire",
+      "im- + possible",
+      "mal- + heureux",
+      "pré- + voir",
+      "dés- + obéir",
+      "in- + capable",
+      "sous- + marin"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : former le contraire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme le contraire de chaque mot avec un préfixe.",
+     "items": [
+      "possible",
+      "lisible",
+      "régulier",
+      "content",
+      "obéir",
+      "honnête",
+      "légal"
+     ],
+     "corrige": [
+      "impossible",
+      "illisible",
+      "irrégulier",
+      "mécontent",
+      "désobéir",
+      "malhonnête",
+      "illégal"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : in-, im-, il- ou ir- ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le bon préfixe.",
+     "items": [
+      "… mobile",
+      "… réel",
+      "… légal",
+      "… possible",
+      "… utile",
+      "… mortel",
+      "… limité",
+      "… responsable"
+     ],
+     "corrige": [
+      "immobile",
+      "irréel",
+      "illégal",
+      "impossible",
+      "inutile",
+      "immortel",
+      "illimité",
+      "irresponsable"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : donner le sens"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens de chaque mot en t’aidant du préfixe.",
+     "items": [
+      "prévoir",
+      "relire",
+      "surcharger",
+      "international",
+      "télévision"
+     ],
+     "corrige": [
+      "voir avant",
+      "lire de nouveau",
+      "charger trop",
+      "entre plusieurs nations",
+      "voir de loin"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : vrai ou faux préfixe ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le début du mot est un vrai préfixe (utilise le test de suppression).",
+     "items": [
+      "refuser",
+      "relancer",
+      "inviter",
+      "inactif",
+      "décembre",
+      "défaire"
+     ],
+     "corrige": [
+      "faux (fuser n’a pas de lien de sens)",
+      "vrai : re- + lancer",
+      "faux",
+      "vrai : in- + actif",
+      "faux",
+      "vrai : dé- + faire"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est correctement écrit ?",
+     "options": [
+      "inpossible",
+      "illisible",
+      "irlisible",
+      "imlisible"
+     ],
+     "answer": 1,
+     "explain": "Devant **l**, on écrit **il-** : *illisible*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6 : compléter une phrase"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec un mot préfixé formé à partir du mot entre parenthèses.",
+     "items": [
+      "Il faut … cette lettre avant de l’envoyer. (lire)",
+      "Ce travail est … : il est impossible à finir. (réalisable)",
+      "Papa a … la porte avec une clé. (verrouiller)",
+      "Le professeur a … le cours. (commencer)"
+     ],
+     "corrige": [
+      "relire",
+      "irréalisable",
+      "déverrouillé",
+      "recommencé"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7 : famille de mots"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme au moins deux mots préfixés avec chaque radical.",
+     "items": [
+      "faire",
+      "voir",
+      "couvrir",
+      "porter"
+     ],
+     "corrige": [
+      "refaire, défaire",
+      "revoir, prévoir",
+      "découvrir, recouvrir",
+      "transporter, emporter, reporter"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 8 : mots savants"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens de chaque mot à partir de ses éléments.",
+     "items": [
+      "microscope",
+      "autobiographie",
+      "hypothermie",
+      "parapluie"
+     ],
+     "corrige": [
+      "micro (petit) + scope (observer) : qui sert à observer le très petit",
+      "auto (soi-même) + bio (vie) + graphie (écriture) : récit de sa propre vie",
+      "hypo (en dessous) + thermie (chaleur) : température trop basse",
+      "para (contre) + pluie : qui protège contre la pluie"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Parmi ces mots, lequel n’est PAS construit avec un préfixe ?",
+     "options": [
+      "redire",
+      "impoli",
+      "refuser",
+      "surcharger"
+     ],
+     "answer": 2,
+     "explain": "*Refuser* n’est pas *re-* + *fuser* : le mot qui reste n’a aucun lien de sens. Dans les autres mots, on retrouve un vrai préfixe."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **préfixe** est placé **avant le radical** et **modifie son sens**.",
+      "La **préfixation** est la formation d’un mot en ajoutant un préfixe : *possible* → *impossible*.",
+      "Le préfixe garde en général la **même nature** que le radical ; le suffixe la change souvent.",
+      "**Contraire** : *in-* (im-, il-, ir-), *dé-* (dés-), *mal-*, *mé-*, *a-*. **Contre** : *anti-*.",
+      "**Répétition** : *re-*. **Lieu** : *sur-, sous-, inter-, trans-*. **Temps** : *pré-, post-, ex-*. **Quantité** : *bi-, tri-, multi-, mono-, poly-*.",
+      "**in-** devient **im-** devant *b, m, p*, **il-** devant *l*, **ir-** devant *r*.",
+      "**dé-** devant une consonne, **dés-** devant une voyelle. **Double s** après *re-* devant *s* : *ressentir*.",
+      "**Test de suppression** : si le mot qui reste existe et garde le sens, c’est un vrai préfixe.",
+      "La préfixation permet d’**enrichir son vocabulaire** et de **deviner** le sens des mots nouveaux."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Résumé",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "in- / im- / il- / ir-",
+       "contraire",
+       "impossible, illisible"
+      ],
+      [
+       "dé- / dés-",
+       "contraire, inverse",
+       "défaire, désobéir"
+      ],
+      [
+       "mal- / mé-",
+       "mauvais",
+       "malheureux, mécontent"
+      ],
+      [
+       "re- / ré-",
+       "de nouveau",
+       "refaire, réécrire"
+      ],
+      [
+       "pré-",
+       "avant",
+       "prévoir"
+      ],
+      [
+       "sur- / sous-",
+       "dessus / dessous",
+       "surcharger, sous-marin"
+      ],
+      [
+       "inter-",
+       "entre",
+       "international"
+      ],
+      [
+       "télé- / micro-",
+       "loin / petit",
+       "téléphone, microscope"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne définition d’un préfixe ?",
+     "options": [
+      "élément placé après le radical",
+      "élément placé avant le radical qui modifie son sens",
+      "le mot le plus important de la phrase",
+      "un mot de la même famille"
+     ],
+     "answer": 1,
+     "explain": "Un préfixe est un élément placé **avant** le radical pour **modifier son sens**."
+    }
+   ]
+  }
+ ]
+}

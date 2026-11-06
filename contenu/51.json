@@ -1,0 +1,661 @@
+{
+ "id": 51,
+ "sections": [
+  {
+   "t": "Pourquoi analyser le sujet ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Imagine que ton maître te demande : « **Décris le marché de ton quartier.** » Si tu racontes ta dernière journée à la plage, ton texte sera peut-être joli, mais il sera **hors sujet**. Pour bien réussir une rédaction, il faut d’abord **comprendre ce qu’on te demande**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Lire et comprendre le sujet avant d’écrire",
+      "Repérer la consigne, le thème et les contraintes",
+      "Chercher des idées en se posant des questions",
+      "Trier ses idées avant de rédiger"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Analyser le sujet",
+     "text": "**Analyser le sujet**, c’est lire attentivement l’énoncé pour comprendre **ce qu’il faut faire** (la consigne), **de quoi il faut parler** (le thème) et **comment il faut le faire** (les contraintes)."
+    },
+    {
+     "type": "table",
+     "title": "Les étapes avant d’écrire",
+     "head": [
+      "Étape",
+      "Ce que je fais"
+     ],
+     "rows": [
+      [
+       "1. Analyser le sujet",
+       "Je lis l’énoncé et je souligne les mots importants."
+      ],
+      [
+       "2. Chercher des idées",
+       "Je me pose des questions et je note tout ce qui me vient."
+      ],
+      [
+       "3. Trier les idées",
+       "Je garde les bonnes idées et je les range dans l’ordre."
+      ],
+      [
+       "4. Rédiger",
+       "J’écris mon texte à partir de mon plan."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un bon réflexe",
+     "text": "Ne commence **jamais** à écrire tout de suite. Dix minutes de réflexion te font gagner du temps et des points."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi faut-il analyser le sujet avant d’écrire ?",
+     "options": [
+      "Pour écrire plus vite sans réfléchir",
+      "Pour comprendre ce qu’on demande et éviter le hors-sujet",
+      "Pour recopier l’énoncé",
+      "Pour faire un texte plus long"
+     ],
+     "answer": 1,
+     "explain": "Analyser le sujet permet de comprendre la demande et d’éviter le hors-sujet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque élève a bien commencé son travail (oui ou non).",
+     "items": [
+      "Awa lit le sujet deux fois et souligne les mots importants.",
+      "Paul écrit tout de suite la première phrase qui lui vient.",
+      "Clarisse note ses idées au brouillon avant de rédiger."
+     ],
+     "corrige": [
+      "1. oui (elle lit et repère l’essentiel)",
+      "2. non (il n’a pas analysé le sujet)",
+      "3. oui (elle cherche ses idées d’abord)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Lire l’énoncé et repérer les mots importants",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un sujet de rédaction est un petit texte qui contient des **indices**. Pour les trouver, lis-le **deux fois** : une première fois pour comprendre l’ensemble, une seconde fois crayon en main pour **souligner**."
+    },
+    {
+     "type": "ex",
+     "text": "**Sujet :** Raconte une journée de fête dans ton village. Tu diras ce que tu as vu, entendu et ressenti.",
+     "label": "Un exemple de sujet"
+    },
+    {
+     "type": "schema",
+     "title": "Le sujet décortiqué",
+     "cells": [
+      {
+       "mot": "Raconte",
+       "role": "consigne",
+       "noyau": true
+      },
+      {
+       "mot": "une journée de fête",
+       "role": "thème"
+      },
+      {
+       "mot": "dans ton village",
+       "role": "lieu"
+      },
+      {
+       "mot": "vu, entendu, ressenti",
+       "role": "contrainte"
+      }
+     ],
+     "note": "On repère la **consigne** (ce qu’il faut faire), le **thème** (de quoi on parle) et les **contraintes** (comment le faire)."
+    },
+    {
+     "type": "h",
+     "text": "Les trois éléments à repérer"
+    },
+    {
+     "type": "table",
+     "title": "Que chercher dans l’énoncé ?",
+     "head": [
+      "Élément",
+      "Question à se poser",
+      "Dans l’exemple"
+     ],
+     "rows": [
+      [
+       "La consigne",
+       "Que dois-je faire ?",
+       "raconter"
+      ],
+      [
+       "Le thème",
+       "De quoi dois-je parler ?",
+       "une journée de fête"
+      ],
+      [
+       "Les contraintes",
+       "Quelles règles dois-je respecter ?",
+       "dans ton village ; vu, entendu, ressenti"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège à éviter",
+     "text": "Ne survole pas l’énoncé. Un seul mot oublié (« **village** », « **ressenti** »…) peut te faire perdre une partie du sujet."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Décris ta classe », quel est le thème ?",
+     "options": [
+      "Décris",
+      "ta classe",
+      "Décris ta",
+      "Rien"
+     ],
+     "answer": 1,
+     "explain": "Le thème est « ta classe » ; « Décris » est la consigne."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque sujet, recopie la consigne puis le thème.",
+     "items": [
+      "Explique pourquoi il faut protéger la forêt.",
+      "Décris ton plat préféré.",
+      "Raconte ton premier jour d’école."
+     ],
+     "corrige": [
+      "1. consigne : explique ; thème : la protection de la forêt",
+      "2. consigne : décris ; thème : ton plat préféré",
+      "3. consigne : raconte ; thème : ton premier jour d’école"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Comprendre la consigne",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **verbe de la consigne** te dit quel type de texte écrire. Si tu te trompes de verbe, tu te trompes de texte."
+    },
+    {
+     "type": "table",
+     "title": "Les verbes de consigne les plus fréquents",
+     "head": [
+      "Verbe",
+      "Ce que je dois faire",
+      "Type de texte"
+     ],
+     "rows": [
+      [
+       "Raconte",
+       "Dire ce qui s’est passé, dans l’ordre",
+       "récit"
+      ],
+      [
+       "Décris",
+       "Dire comment c’est : formes, couleurs, détails",
+       "description"
+      ],
+      [
+       "Explique",
+       "Dire pourquoi ou comment, donner des raisons",
+       "texte explicatif"
+      ],
+      [
+       "Donne ton avis / Convaincs",
+       "Dire ce que je pense et le justifier",
+       "texte argumentatif"
+      ],
+      [
+       "Imagine",
+       "Inventer à partir du sujet donné",
+       "texte imaginaire"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« **Raconte** ta rentrée » → je dis **ce qui s’est passé** : d’abord, ensuite, enfin.\n« **Décris** ta rentrée » → je dis **ce que je vois** : la cour, les élèves, les uniformes.",
+     "label": "Même thème, deux consignes"
+    },
+    {
+     "type": "tip",
+     "label": "À retenir",
+     "text": "Entoure le **verbe** de la consigne : c’est lui qui commande tout le reste de ton travail."
+    },
+    {
+     "type": "quiz",
+     "question": "« Explique pourquoi on doit se laver les mains. » Quel texte dois-tu écrire ?",
+     "options": [
+      "Un récit",
+      "Une description",
+      "Un texte explicatif",
+      "Un dialogue"
+     ],
+     "answer": 2,
+     "explain": "Le verbe « explique » demande de donner des raisons : c’est un texte explicatif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe chaque consigne à ce qu’il faut faire.",
+     "items": [
+      "Décris le marché.",
+      "Raconte ta visite au marché.",
+      "Explique pourquoi le marché est important."
+     ],
+     "corrige": [
+      "1. dire ce qu’on voit : formes, couleurs, bruits",
+      "2. dire ce qui s’est passé, dans l’ordre",
+      "3. donner des raisons"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Repérer les contraintes du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **contraintes** sont les règles du jeu. Elles précisent **qui** parle, **quand**, **où**, **combien** de lignes, **quel** ton. Un texte qui ne les respecte pas est incomplet."
+    },
+    {
+     "type": "table",
+     "title": "Les contraintes courantes",
+     "head": [
+      "Contrainte",
+      "Exemple dans un sujet",
+      "Ce que cela change"
+     ],
+     "rows": [
+      [
+       "Les personnes",
+       "« Tu es le héros… »",
+       "J’écris avec **je**"
+      ],
+      [
+       "Le temps",
+       "« Hier… »",
+       "J’emploie le passé"
+      ],
+      [
+       "Le lieu",
+       "« …dans ton village »",
+       "Je situe l’action là"
+      ],
+      [
+       "La longueur",
+       "« en quinze lignes »",
+       "Je compte mes lignes"
+      ],
+      [
+       "Les éléments imposés",
+       "« Tu parleras de… »",
+       "Je n’en oublie aucun"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Sujet :** Raconte, en dix lignes, la visite d’un oncle à la maison. Tu parleras de l’accueil et du repas.\nContraintes : **dix lignes** ; **la visite d’un oncle** ; **l’accueil** et **le repas** à mentionner.",
+     "label": "Un sujet avec contraintes"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Quand le sujet dit « **tu parleras de…** », ces éléments sont **obligatoires**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est une contrainte dans « Décris ta chambre en huit lignes » ?",
+     "options": [
+      "Décris",
+      "ta chambre",
+      "en huit lignes",
+      "ta"
+     ],
+     "answer": 2,
+     "explain": "« En huit lignes » fixe la longueur : c’est une contrainte."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les contraintes de ce sujet : « Hier, tu as perdu ton cahier. Raconte, en six lignes, comment tu l’as retrouvé. »",
+     "items": [
+      "Le temps :",
+      "La longueur :",
+      "Le thème :"
+     ],
+     "corrige": [
+      "1. le temps : hier (passé)",
+      "2. la longueur : six lignes",
+      "3. le thème : retrouver son cahier perdu"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Chercher des idées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une fois le sujet compris, il faut **trouver des idées**. Au début, ne juge pas : **note tout** ce qui te vient. Tu feras le tri ensuite."
+    },
+    {
+     "type": "h",
+     "text": "Se poser des questions"
+    },
+    {
+     "type": "table",
+     "title": "Les questions pour trouver des idées",
+     "head": [
+      "Question",
+      "Elle permet de trouver…"
+     ],
+     "rows": [
+      [
+       "Qui ?",
+       "les personnages"
+      ],
+      [
+       "Quoi ?",
+       "les faits, les actions"
+      ],
+      [
+       "Où ?",
+       "les lieux"
+      ],
+      [
+       "Quand ?",
+       "le moment, le temps"
+      ],
+      [
+       "Comment ?",
+       "la manière, les détails"
+      ],
+      [
+       "Pourquoi ?",
+       "les causes, les raisons"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Utiliser ses cinq sens"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Vue** : ce que je vois",
+      "**Ouïe** : ce que j’entends",
+      "**Odorat** : ce que je sens",
+      "**Goût** : ce que je goûte",
+      "**Toucher** : ce que je touche"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Sujet :** Décris le marché de ton quartier.\nVue : étals colorés, mangues, foule. Ouïe : cris des vendeuses. Odorat : poisson fumé, épices. Toucher : tissus, chaleur.",
+     "label": "Chercher ses idées avec les cinq sens"
+    },
+    {
+     "type": "tip",
+     "label": "Au brouillon",
+     "text": "Écris des **mots** et des **bouts de phrases**, pas des phrases complètes. Tu gagnes du temps."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver le lieu d’une histoire ?",
+     "options": [
+      "Qui ?",
+      "Où ?",
+      "Quand ?",
+      "Pourquoi ?"
+     ],
+     "answer": 1,
+     "explain": "« Où ? » permet de trouver les lieux."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pose les questions Qui ? Où ? Quand ? pour le sujet : « Raconte une sortie avec ta classe. » Donne une idée pour chacune.",
+     "items": [
+      "Qui ?",
+      "Où ?",
+      "Quand ?"
+     ],
+     "corrige": [
+      "Réponses possibles : 1. mes camarades et le maître",
+      "2. au bord du fleuve Congo",
+      "3. un jeudi matin, en début d’année"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Trier et organiser les idées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tes idées sont notées au brouillon. Il faut maintenant **trier** (garder seulement ce qui est utile) puis **ranger** (mettre dans un bon ordre)."
+    },
+    {
+     "type": "h",
+     "text": "Trier"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Je garde** les idées qui répondent au sujet",
+      "**Je supprime** celles qui sont hors sujet",
+      "**Je regroupe** celles qui vont ensemble"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Ranger"
+    },
+    {
+     "type": "table",
+     "title": "Quel ordre choisir ?",
+     "head": [
+      "Type de texte",
+      "Ordre conseillé"
+     ],
+     "rows": [
+      [
+       "Récit",
+       "l’ordre du temps : début → milieu → fin"
+      ],
+      [
+       "Description",
+       "du général au détail, ou de haut en bas"
+      ],
+      [
+       "Texte explicatif",
+       "raison 1, raison 2, raison 3"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Idées sur « Raconte ta rentrée » :**\n1. Je me réveille tôt.\n2. J’arrive à l’école et je retrouve mes amis.\n3. Le maître nous accueille.\n4. Je rentre content à la maison.\nElles sont rangées dans l’**ordre du temps**.",
+     "label": "Un petit plan de récit"
+    },
+    {
+     "type": "warn",
+     "label": "Piège à éviter",
+     "text": "Ne mets pas **toutes** tes idées dans le texte. Mieux vaut peu d’idées bien développées que beaucoup d’idées survolées."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un récit, comment range-t-on les idées ?",
+     "options": [
+      "Au hasard",
+      "Dans l’ordre du temps",
+      "Par ordre alphabétique",
+      "De la plus courte à la plus longue"
+     ],
+     "answer": 1,
+     "explain": "Dans un récit, on suit l’ordre du temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets ces idées dans l’ordre pour un récit : « Nous mangeons le gâteau. » ; « Maman prépare le gâteau. » ; « Les invités arrivent. »",
+     "items": [
+      "Ordre :"
+     ],
+     "corrige": [
+      "Maman prépare le gâteau → Les invités arrivent → Nous mangeons le gâteau"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices pour t’entraîner à analyser un sujet et à chercher des idées."
+    },
+    {
+     "type": "h",
+     "text": "Analyser un sujet"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour ce sujet, relève la consigne, le thème et deux contraintes : « Raconte, en douze lignes, une journée de pluie dans ta ville. Tu diras ce que tu as ressenti. »",
+     "items": [
+      "Consigne :",
+      "Thème :",
+      "Contraintes :"
+     ],
+     "corrige": [
+      "1. consigne : raconte",
+      "2. thème : une journée de pluie dans ta ville",
+      "3. contraintes : douze lignes ; dire ce qu’on a ressenti"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est HORS SUJET pour « Décris ton école » ?",
+     "options": [
+      "Mon école a une grande cour.",
+      "Les murs sont jaunes.",
+      "Hier, j’ai gagné un match de football au stade.",
+      "Les salles sont claires."
+     ],
+     "answer": 2,
+     "explain": "Cette phrase ne décrit pas l’école."
+    },
+    {
+     "type": "h",
+     "text": "Chercher et trier des idées"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Cherche trois idées avec les cinq sens pour : « Décris ta cuisine à l’heure du repas. »",
+     "items": [
+      "Vue :",
+      "Odorat :",
+      "Ouïe :"
+     ],
+     "corrige": [
+      "Réponses possibles : 1. la marmite, la fumée",
+      "2. l’odeur du poisson et des oignons",
+      "3. le bruit de la casserole"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Barre l’idée hors sujet pour « Explique pourquoi il faut planter des arbres » : l’ombre ; mon anniversaire ; l’air plus pur ; la protection du sol.",
+     "items": [
+      "Idée à barrer :"
+     ],
+     "corrige": [
+      "mon anniversaire"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Mise en situation"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sujet : « Raconte la visite d’un cousin. » Écris au brouillon : la consigne, 3 questions (Qui ? Où ? Quand ?) et un petit plan en 3 idées.",
+     "items": [
+      "Consigne :",
+      "Idées :",
+      "Plan :"
+     ],
+     "corrige": [
+      "Exemple : consigne : raconte ; qui : mon cousin ; où : à la maison ; quand : pendant les vacances ; plan : 1. il arrive 2. nous jouons 3. il repart"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Analyser le sujet**, c’est comprendre ce qu’on demande avant d’écrire.",
+      "Je repère la **consigne**, le **thème** et les **contraintes**.",
+      "Le **verbe** de la consigne indique le type de texte (raconter, décrire, expliquer…).",
+      "Pour **chercher des idées** : Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ? et les cinq sens.",
+      "Je **trie** (garde l’utile) puis je **range** (ordre du temps, du général au détail…).",
+      "Je ne commence **jamais** à rédiger sans avoir analysé le sujet."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ma méthode en 4 temps",
+     "head": [
+      "Je…",
+      "Pour…"
+     ],
+     "rows": [
+      [
+       "lis et souligne",
+       "repérer consigne, thème, contraintes"
+      ],
+      [
+       "me pose des questions",
+       "trouver des idées"
+      ],
+      [
+       "trie et range",
+       "faire un plan"
+      ],
+      [
+       "rédige",
+       "écrire mon texte"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la première étape avant de rédiger ?",
+     "options": [
+      "Écrire la conclusion",
+      "Analyser le sujet",
+      "Recopier le titre",
+      "Compter les mots"
+     ],
+     "answer": 1,
+     "explain": "On commence toujours par analyser le sujet."
+    }
+   ]
+  }
+ ]
+}

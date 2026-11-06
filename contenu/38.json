@@ -1,0 +1,1058 @@
+{
+ "id": 38,
+ "sections": [
+  {
+   "t": "Conjuguer un verbe : les bases",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Conjuguer",
+     "text": "**Conjuguer** un verbe, c’est lui donner les formes qui correspondent à la **personne**, au **temps** et au **mode**."
+    },
+    {
+     "type": "schema",
+     "title": "Une forme conjuguée",
+     "note": "Le radical reste (presque) toujours le même ; la terminaison change.",
+     "cells": [
+      {
+       "mot": "chant",
+       "role": "radical (le sens du verbe)",
+       "noyau": true
+      },
+      {
+       "mot": "ons",
+       "role": "terminaison (personne, temps)"
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les personnes",
+     "head": [
+      "Personne",
+      "Pronom",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "1ʳᵉ du singulier",
+       "je",
+       "je chante"
+      ],
+      [
+       "2ᵉ du singulier",
+       "tu",
+       "tu chantes"
+      ],
+      [
+       "3ᵉ du singulier",
+       "il / elle / on",
+       "il chante"
+      ],
+      [
+       "1ʳᵉ du pluriel",
+       "nous",
+       "nous chantons"
+      ],
+      [
+       "2ᵉ du pluriel",
+       "vous",
+       "vous chantez"
+      ],
+      [
+       "3ᵉ du pluriel",
+       "ils / elles",
+       "ils chantent"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Les verbes se répartissent en **trois groupes** selon leur infinitif :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**1ᵉʳ groupe** : infinitif en **-er** (*chanter*), sauf *aller*.",
+      "**2ᵉ groupe** : infinitif en **-ir** avec **-issons** au présent avec *nous* (*finir → nous finissons*).",
+      "**3ᵉ groupe** : tous les autres (*prendre, venir, faire, aller, pouvoir…*)."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "En 6ᵉ, on travaille surtout l’**indicatif** (le présent, l’imparfait, le futur simple, le passé composé) et l’**impératif présent**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « nous chantons », quel est le radical ?",
+     "options": [
+      "chantons",
+      "chant",
+      "ons",
+      "nous"
+     ],
+     "answer": 1,
+     "explain": "*Chant-* est le radical ; *-ons* est la terminaison."
+    }
+   ]
+  },
+  {
+   "t": "Les auxiliaires être et avoir",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "*Être* et *avoir* sont des verbes **à part**. Ils servent aussi d’**auxiliaires** pour former les temps composés. Il faut les **connaître par cœur**."
+    },
+    {
+     "type": "table",
+     "title": "Présent de l’indicatif",
+     "head": [
+      "Personne",
+      "être",
+      "avoir"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "je suis",
+       "j’ai"
+      ],
+      [
+       "tu",
+       "tu es",
+       "tu as"
+      ],
+      [
+       "il / elle / on",
+       "il est",
+       "il a"
+      ],
+      [
+       "nous",
+       "nous sommes",
+       "nous avons"
+      ],
+      [
+       "vous",
+       "vous êtes",
+       "vous avez"
+      ],
+      [
+       "ils / elles",
+       "ils sont",
+       "ils ont"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Imparfait de l’indicatif",
+     "head": [
+      "Personne",
+      "être",
+      "avoir"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "j’étais",
+       "j’avais"
+      ],
+      [
+       "tu",
+       "tu étais",
+       "tu avais"
+      ],
+      [
+       "il / elle / on",
+       "il était",
+       "il avait"
+      ],
+      [
+       "nous",
+       "nous étions",
+       "nous avions"
+      ],
+      [
+       "vous",
+       "vous étiez",
+       "vous aviez"
+      ],
+      [
+       "ils / elles",
+       "ils étaient",
+       "ils avaient"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Futur simple de l’indicatif",
+     "head": [
+      "Personne",
+      "être",
+      "avoir"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "je serai",
+       "j’aurai"
+      ],
+      [
+       "tu",
+       "tu seras",
+       "tu auras"
+      ],
+      [
+       "il / elle / on",
+       "il sera",
+       "il aura"
+      ],
+      [
+       "nous",
+       "nous serons",
+       "nous aurons"
+      ],
+      [
+       "vous",
+       "vous serez",
+       "vous aurez"
+      ],
+      [
+       "ils / elles",
+       "ils seront",
+       "ils auront"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Passé composé",
+     "head": [
+      "Personne",
+      "être",
+      "avoir"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "j’ai été",
+       "j’ai eu"
+      ],
+      [
+       "tu",
+       "tu as été",
+       "tu as eu"
+      ],
+      [
+       "il / elle / on",
+       "il a été",
+       "il a eu"
+      ],
+      [
+       "nous",
+       "nous avons été",
+       "nous avons eu"
+      ],
+      [
+       "vous",
+       "vous avez été",
+       "vous avez eu"
+      ],
+      [
+       "ils / elles",
+       "ils ont été",
+       "ils ont eu"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour apprendre",
+     "text": "Récite chaque tableau **à voix haute**, puis cache la colonne et recommence de mémoire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue *être* ou *avoir* au temps demandé.",
+     "items": [
+      "Nous (être) contents. (présent)",
+      "Tu (avoir) un chat. (imparfait)",
+      "Ils (être) à l’heure. (futur simple)",
+      "J’(avoir) peur. (passé composé : j’… eu)"
+     ],
+     "corrige": [
+      "1. Nous sommes contents.",
+      "2. Tu avais un chat.",
+      "3. Ils seront à l’heure.",
+      "4. J’ai eu peur."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le présent des trois groupes",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le présent des trois groupes",
+     "head": [
+      "Personne",
+      "chanter (1ᵉʳ)",
+      "finir (2ᵉ)",
+      "prendre (3ᵉ)"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "je chante",
+       "je finis",
+       "je prends"
+      ],
+      [
+       "tu",
+       "tu chantes",
+       "tu finis",
+       "tu prends"
+      ],
+      [
+       "il / elle / on",
+       "il chante",
+       "il finit",
+       "il prend"
+      ],
+      [
+       "nous",
+       "nous chantons",
+       "nous finissons",
+       "nous prenons"
+      ],
+      [
+       "vous",
+       "vous chantez",
+       "vous finissez",
+       "vous prenez"
+      ],
+      [
+       "ils / elles",
+       "ils chantent",
+       "ils finissent",
+       "ils prennent"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "**1ᵉʳ groupe** : *-e, -es, -e, -ons, -ez, -ent*",
+      "**2ᵉ et 3ᵉ groupes** (en général) : *-s, -s, -t, -ons, -ez, -ent*"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes du 3ᵉ groupe",
+     "head": [
+      "Personne",
+      "aller",
+      "faire",
+      "venir"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "je vais",
+       "je fais",
+       "je viens"
+      ],
+      [
+       "tu",
+       "tu vas",
+       "tu fais",
+       "tu viens"
+      ],
+      [
+       "il / elle / on",
+       "il va",
+       "il fait",
+       "il vient"
+      ],
+      [
+       "nous",
+       "nous allons",
+       "nous faisons",
+       "nous venons"
+      ],
+      [
+       "vous",
+       "vous allez",
+       "vous faites",
+       "vous venez"
+      ],
+      [
+       "ils / elles",
+       "ils vont",
+       "ils font",
+       "ils viennent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "*Aller* est du **3ᵉ groupe**. *Vous faites* et *vous dites* sont des **exceptions** (pas de *-ez*). À la 3ᵉ personne du pluriel, la terminaison est toujours **-ent** (ou **-ont** pour *font, vont, ont, sont*)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au présent de l’indicatif.",
+     "items": [
+      "Nous (chanter) en chœur.",
+      "Les élèves (finir) leur travail.",
+      "Tu (prendre) ton cahier.",
+      "Vous (faire) du bruit.",
+      "Ils (aller) au marché."
+     ],
+     "corrige": [
+      "1. chantons",
+      "2. finissent",
+      "3. prends",
+      "4. faites",
+      "5. vont"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est correcte ?",
+     "options": [
+      "Vous faisez",
+      "Vous faites",
+      "Vous faitez",
+      "Vous fassez"
+     ],
+     "answer": 1,
+     "explain": "*Faire* fait *vous faites* au présent."
+    }
+   ]
+  },
+  {
+   "t": "L’imparfait et le futur simple",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "L’imparfait"
+    },
+    {
+     "type": "p",
+     "text": "L’**imparfait** exprime une **habitude**, une **description** ou une action **qui dure** dans le passé."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Radical** : celui de *nous* au présent, sans *-ons* (*nous chantons → chant-*).",
+      "**Terminaisons** : **-ais, -ais, -ait, -ions, -iez, -aient**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "L’imparfait",
+     "head": [
+      "Personne",
+      "chanter",
+      "finir",
+      "prendre"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "je chantais",
+       "je finissais",
+       "je prenais"
+      ],
+      [
+       "tu",
+       "tu chantais",
+       "tu finissais",
+       "tu prenais"
+      ],
+      [
+       "il / elle / on",
+       "il chantait",
+       "il finissait",
+       "il prenait"
+      ],
+      [
+       "nous",
+       "nous chantions",
+       "nous finissions",
+       "nous prenions"
+      ],
+      [
+       "vous",
+       "vous chantiez",
+       "vous finissiez",
+       "vous preniez"
+      ],
+      [
+       "ils / elles",
+       "ils chantaient",
+       "ils finissaient",
+       "ils prenaient"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le futur simple"
+    },
+    {
+     "type": "p",
+     "text": "Le **futur simple** exprime une action qui **aura lieu plus tard**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Radical** : l’**infinitif** (les verbes en *-re* perdent le *e* : *prendre → prendr-*).",
+      "**Terminaisons** : **-ai, -as, -a, -ons, -ez, -ont**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le futur simple",
+     "head": [
+      "Personne",
+      "chanter",
+      "finir",
+      "prendre"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "je chanterai",
+       "je finirai",
+       "je prendrai"
+      ],
+      [
+       "tu",
+       "tu chanteras",
+       "tu finiras",
+       "tu prendras"
+      ],
+      [
+       "il / elle / on",
+       "il chantera",
+       "il finira",
+       "il prendra"
+      ],
+      [
+       "nous",
+       "nous chanterons",
+       "nous finirons",
+       "nous prendrons"
+      ],
+      [
+       "vous",
+       "vous chanterez",
+       "vous finirez",
+       "vous prendrez"
+      ],
+      [
+       "ils / elles",
+       "ils chanteront",
+       "ils finiront",
+       "ils prendront"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Radicaux irréguliers au futur",
+     "text": "*aller → j’**ir**ai* ; *faire → je **fer**ai* ; *venir → je **viendr**ai* ; *pouvoir → je **pourr**ai* ; *voir → je **verr**ai*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au temps demandé.",
+     "items": [
+      "Autrefois, nous (jouer) dans la cour. (imparfait)",
+      "Demain, je (finir) mon devoir. (futur)",
+      "Ils (venir) demain. (futur)",
+      "Autrefois, tu (avoir) un chat. (imparfait)"
+     ],
+     "corrige": [
+      "1. jouions",
+      "2. finirai",
+      "3. viendront",
+      "4. avais"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est un futur simple ?",
+     "options": [
+      "Je pourrais",
+      "Je pourrai",
+      "Je pouvais",
+      "Je peux"
+     ],
+     "answer": 1,
+     "explain": "*Je pourrai* est le futur de *pouvoir*. *Je pourrais* est un conditionnel."
+    }
+   ]
+  },
+  {
+   "t": "Le passé composé",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Passé composé",
+     "text": "Le **passé composé** exprime une action **terminée** dans le passé. Il se forme avec l’**auxiliaire** *avoir* ou *être* **au présent** + le **participe passé** du verbe."
+    },
+    {
+     "type": "schema",
+     "title": "Un passé composé",
+     "note": "Auxiliaire + participe passé = un seul verbe.",
+     "cells": [
+      {
+       "mot": "Il",
+       "role": "sujet"
+      },
+      {
+       "mot": "a",
+       "role": "auxiliaire avoir au présent",
+       "noyau": true
+      },
+      {
+       "mot": "chanté",
+       "role": "participe passé",
+       "noyau": true
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les participes passés",
+     "head": [
+      "Groupe",
+      "Infinitif",
+      "Participe passé"
+     ],
+     "rows": [
+      [
+       "1ᵉʳ groupe",
+       "chanter",
+       "chanté"
+      ],
+      [
+       "2ᵉ groupe",
+       "finir",
+       "fini"
+      ],
+      [
+       "3ᵉ groupe",
+       "prendre, vendre, venir, faire, dire, ouvrir",
+       "pris, vendu, venu, fait, dit, ouvert"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Avec avoir et avec être",
+     "head": [
+      "Personne",
+      "chanter (avec avoir)",
+      "partir (avec être)"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "j’ai chanté",
+       "je suis parti(e)"
+      ],
+      [
+       "tu",
+       "tu as chanté",
+       "tu es parti(e)"
+      ],
+      [
+       "il / elle / on",
+       "il a chanté",
+       "il est parti"
+      ],
+      [
+       "nous",
+       "nous avons chanté",
+       "nous sommes parti(e)s"
+      ],
+      [
+       "vous",
+       "vous avez chanté",
+       "vous êtes parti(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "ils ont chanté",
+       "ils sont partis"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Avec **être**, le participe passé s’**accorde avec le sujet** : *Elles sont parties.* Il se conjugue avec **être** pour *aller, venir, arriver, partir, entrer, sortir, monter, descendre, tomber, rester, naître, mourir* et les verbes pronominaux."
+    },
+    {
+     "type": "tip",
+     "label": "-é ou -er ?",
+     "text": "Pour ne pas confondre **-é** (participe) et **-er** (infinitif), remplace par un verbe du 3ᵉ groupe : *J’ai mangé → j’ai **vendu*** (participe) ; *Je vais manger → je vais **vendre*** (infinitif)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au passé composé.",
+     "items": [
+      "Hier, elle (manger) du riz.",
+      "Nous (finir) le travail.",
+      "Ils (prendre) le bus.",
+      "Je (partir) tôt."
+     ],
+     "corrige": [
+      "1. Elle a mangé du riz.",
+      "2. Nous avons fini le travail.",
+      "3. Ils ont pris le bus.",
+      "4. Je suis parti(e) tôt."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il a manger.",
+      "Il a mangé.",
+      "Il à mangé.",
+      "Il a mangez."
+     ],
+     "answer": 1,
+     "explain": "Après l’auxiliaire *avoir*, on met le participe passé : *mangé*."
+    }
+   ]
+  },
+  {
+   "t": "L’impératif présent",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Impératif",
+     "text": "L’**impératif** exprime un **ordre**, un **conseil** ou une **demande**. Il n’a que **trois personnes** (*tu, nous, vous*) et s’emploie **sans pronom sujet**."
+    },
+    {
+     "type": "table",
+     "title": "L’impératif présent",
+     "head": [
+      "Personne",
+      "chanter",
+      "finir",
+      "prendre",
+      "être",
+      "avoir"
+     ],
+     "rows": [
+      [
+       "tu",
+       "chante",
+       "finis",
+       "prends",
+       "sois",
+       "aie"
+      ],
+      [
+       "nous",
+       "chantons",
+       "finissons",
+       "prenons",
+       "soyons",
+       "ayons"
+      ],
+      [
+       "vous",
+       "chantez",
+       "finissez",
+       "prenez",
+       "soyez",
+       "ayez"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de -s au 1ᵉʳ groupe",
+     "text": "Pour les verbes en **-er** (et *aller*), la forme en **tu** n’a **pas de -s** : *Chante !* *Ouvre !* *Va !*"
+    },
+    {
+     "type": "ex",
+     "text": "Finis ton travail ! / Soyons calmes. / Prenez vos cahiers. / Ne chante pas !",
+     "label": "Exemple"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris à l’impératif présent.",
+     "items": [
+      "(finir, tu) ton travail !",
+      "(être, vous) calmes !",
+      "(prendre, nous) notre temps.",
+      "(aller, tu) au tableau !"
+     ],
+     "corrige": [
+      "1. Finis ton travail !",
+      "2. Soyez calmes !",
+      "3. Prenons notre temps.",
+      "4. Va au tableau !"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est correcte ?",
+     "options": [
+      "Chantes !",
+      "Chante !",
+      "Chanter !",
+      "Tu chante !"
+     ],
+     "answer": 1,
+     "explain": "À l’impératif, les verbes en *-er* n’ont pas de *-s* à la 2ᵉ personne du singulier."
+    }
+   ]
+  },
+  {
+   "t": "Pièges à éviter",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "L’accord du verbe avec son sujet"
+    },
+    {
+     "type": "p",
+     "text": "Le verbe s’accorde avec son **sujet**, même quand il en est éloigné. Pour trouver le sujet, pose la question **« Qui est-ce qui ? »** devant le verbe."
+    },
+    {
+     "type": "ex",
+     "text": "Les enfants de mon voisin **jouent** dans la cour. → *Qui est-ce qui joue ?* Les enfants → *jouent*.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "Les homophones du verbe"
+    },
+    {
+     "type": "table",
+     "title": "Verbe ou autre mot ?",
+     "head": [
+      "Verbe",
+      "Test de remplacement",
+      "Autre mot"
+     ],
+     "rows": [
+      [
+       "a, as (avoir)",
+       "on peut dire *avait*, *avais*",
+       "à (préposition)"
+      ],
+      [
+       "est (être)",
+       "on peut dire *était*",
+       "et (conjonction)"
+      ],
+      [
+       "sont (être)",
+       "on peut dire *étaient*",
+       "son (déterminant)"
+      ],
+      [
+       "ont (avoir)",
+       "on peut dire *avaient*",
+       "on (pronom)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **a** un cadeau **à** donner. / Awa **et** Fatou **sont** là. / Elles **ont** faim et **on** joue.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Le test",
+     "text": "Remplace le mot par le même verbe à l’**imparfait**. Si la phrase reste correcte, c’est le **verbe** : *Il **avait** un cadeau.* ; mais pas *Il avait donner*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il à faim.",
+      "Il a faim.",
+      "Il as faim.",
+      "Il ha faim."
+     ],
+     "answer": 1,
+     "explain": "*Il avait faim* est possible : c’est le verbe *avoir*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au temps indiqué.",
+     "items": [
+      "Tu (finir) ton assiette. (présent)",
+      "Nous (jouer) tous les jours. (imparfait)",
+      "Demain, vous (aller) au marché. (futur)",
+      "Hier, ils (faire) leurs devoirs. (passé composé)",
+      "(Être, tu) patient ! (impératif)"
+     ],
+     "corrige": [
+      "1. finis",
+      "2. jouions",
+      "3. irez",
+      "4. ont fait",
+      "5. Sois"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est un imparfait ?",
+     "options": [
+      "Il chantera",
+      "Il chantait",
+      "Il a chanté",
+      "Il chante"
+     ],
+     "answer": 1,
+     "explain": "*Chantait* a la terminaison *-ait* de l’imparfait."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’infinitif, le groupe et le temps de chaque verbe.",
+     "items": [
+      "Nous finissons.",
+      "Elle a pris.",
+      "Tu iras.",
+      "Ils chantaient."
+     ],
+     "corrige": [
+      "1. finir, 2ᵉ groupe, présent",
+      "2. prendre, 3ᵉ groupe, passé composé",
+      "3. aller, 3ᵉ groupe, futur simple",
+      "4. chanter, 1ᵉʳ groupe, imparfait"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Choisir la bonne forme"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis la bonne orthographe.",
+     "items": [
+      "Il (a / à) fini son travail et il va (a / à) l’école.",
+      "Les enfants (ont / on) joué.",
+      "(Ont / On) joue dans la cour.",
+      "Awa (est / et) Fatou (sont / son) amies."
+     ],
+     "corrige": [
+      "1. a ; à",
+      "2. ont",
+      "3. On",
+      "4. et ; sont"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases sur ta journée : une au présent, une au passé composé, une au futur.",
+     "items": [
+      "Utilise des verbes de groupes différents."
+     ],
+     "corrige": [
+      "Exemple :",
+      "• Le matin, je prends le bus.",
+      "• Hier, j’ai fini mes devoirs.",
+      "• Demain, nous irons au marché."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Conjuguer**, c’est donner au verbe sa forme selon la **personne**, le **temps** et le **mode**.",
+      "Les verbes sont de **trois groupes** : **-er** (1ᵉʳ), **-ir / -issons** (2ᵉ), les autres (3ᵉ).",
+      "*Être* et *avoir* sont à apprendre **par cœur** ; ils servent d’**auxiliaires**.",
+      "**Présent** : 1ᵉʳ groupe *-e, -es, -e, -ons, -ez, -ent* ; autres *-s, -s, -t, -ons, -ez, -ent*.",
+      "**Imparfait** : *-ais, -ais, -ait, -ions, -iez, -aient*. **Futur** : infinitif + *-ai, -as, -a, -ons, -ez, -ont*.",
+      "**Passé composé** : *avoir* ou *être* au présent + **participe passé**.",
+      "**Impératif** : *tu, nous, vous*, sans sujet ; pas de *-s* à *tu* pour les verbes en *-er*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les temps de l’indicatif",
+     "head": [
+      "Temps",
+      "Exemple",
+      "Emploi"
+     ],
+     "rows": [
+      [
+       "présent",
+       "Il chante.",
+       "ce qui se passe maintenant"
+      ],
+      [
+       "imparfait",
+       "Il chantait.",
+       "habitude, description"
+      ],
+      [
+       "passé composé",
+       "Il a chanté.",
+       "action terminée"
+      ],
+      [
+       "futur simple",
+       "Il chantera.",
+       "action à venir"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est un passé composé ?",
+     "options": [
+      "Il chantait",
+      "Il chantera",
+      "Il a chanté",
+      "Il chante"
+     ],
+     "answer": 2,
+     "explain": "*A chanté* = auxiliaire *avoir* au présent + participe passé."
+    }
+   ]
+  }
+ ]
+}

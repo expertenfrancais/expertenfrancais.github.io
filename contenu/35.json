@@ -1,0 +1,586 @@
+{
+ "id": 35,
+ "sections": [
+  {
+   "t": "Rapporter des paroles : le discours rapporté",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un récit, on peut **rapporter** ce que disent ou pensent les personnages. Il existe **trois façons** de le faire."
+    },
+    {
+     "type": "def",
+     "label": "Discours rapporté",
+     "text": "Rapporter un discours, c’est **reproduire les paroles ou les pensées** de quelqu’un, un personnage ou une autre personne."
+    },
+    {
+     "type": "table",
+     "title": "Les trois façons de rapporter",
+     "head": [
+      "Discours",
+      "Caractéristiques",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Direct",
+       "paroles exactes, guillemets ou tirets, verbe introducteur",
+       "Awa dit : « Je viens demain. »"
+      ],
+      [
+       "Indirect",
+       "paroles intégrées dans la phrase, avec *que*, *si*…",
+       "Awa a dit qu’elle viendrait le lendemain."
+      ],
+      [
+       "Indirect libre",
+       "ni guillemets, ni verbe introducteur, ni *que*",
+       "Awa referma la porte. Elle viendrait le lendemain, c’était promis !"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour reconnaître",
+     "text": "**Guillemets ou tirets** → discours direct. **Verbe de parole + que / si / où…** → discours indirect. **Ni l’un ni l’autre**, mais on entend les pensées du personnage → discours indirect libre."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au discours direct ?",
+     "options": [
+      "Il dit qu’il est tard.",
+      "Il dit : « Il est tard. »",
+      "Il demande s’il est tard.",
+      "Il était tard, il devait partir."
+     ],
+     "answer": 1,
+     "explain": "Les paroles sont reproduites exactement, après deux-points et entre guillemets."
+    }
+   ]
+  },
+  {
+   "t": "Le discours direct",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Discours direct",
+     "text": "Le **discours direct** reproduit **exactement** les paroles prononcées. On les met **entre guillemets** ou, dans un dialogue, **après un tiret**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "un **verbe introducteur** : *dire, demander, répondre, s’écrier, murmurer…*",
+      "les **deux-points** et les **guillemets** : *Il dit : « Je suis fatigué. »*",
+      "une **majuscule** au début des paroles",
+      "dans un dialogue, un **tiret** et un **retour à la ligne** à chaque changement de personne qui parle"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Proposition incise",
+     "text": "La **proposition incise** indique **qui parle**. Elle se place **dans** ou **après** les paroles, et le **sujet est placé après le verbe**, relié par un trait d’union."
+    },
+    {
+     "type": "ex",
+     "text": "« Je suis fatigué », dit-il. / « Je suis, dit-il, très fatigué. » / « Viens ! » cria-t-il.",
+     "label": "Exemple"
+    },
+    {
+     "type": "ex",
+     "text": "— Où vas-tu ? demande Awa.\n— Au marché, répond Fatou.",
+     "label": "Dialogue avec tirets"
+    },
+    {
+     "type": "warn",
+     "label": "La ponctuation",
+     "text": "Après des paroles qui se terminent par un point, on met une **virgule** avant l’incise : « Je suis fatigué », dit-il. Le **point d’interrogation** et le **point d’exclamation** restent : « Viens ! » cria-t-il."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je suis fatigué », dit-il., quelle est la proposition incise ?",
+     "options": [
+      "Je suis fatigué",
+      "dit-il",
+      "Je suis",
+      "fatigué dit"
+     ],
+     "answer": 1,
+     "explain": "*Dit-il* indique qui parle : c’est l’incise."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ces paroles au discours direct (guillemets, majuscule, ponctuation).",
+     "items": [
+      "Le maître s’écrie silence",
+      "je ne viendrai pas dit Fatou",
+      "Awa demande où as-tu mis mon cahier"
+     ],
+     "corrige": [
+      "1. Le maître s’écrie : « Silence ! »",
+      "2. « Je ne viendrai pas », dit Fatou.",
+      "3. Awa demande : « Où as-tu mis mon cahier ? »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le discours indirect",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Discours indirect",
+     "text": "Dans le **discours indirect**, le narrateur rapporte les paroles **dans sa propre phrase**, sans guillemets. Les paroles deviennent une **proposition subordonnée** après un verbe introducteur."
+    },
+    {
+     "type": "table",
+     "title": "Du direct à l’indirect",
+     "head": [
+      "Type de phrase",
+      "Discours direct",
+      "Discours indirect"
+     ],
+     "rows": [
+      [
+       "Déclarative",
+       "Il dit : « Je suis fatigué. »",
+       "Il dit **qu’**il est fatigué."
+      ],
+      [
+       "Interrogation totale",
+       "Il me demande : « Viens-tu ? »",
+       "Il me demande **si** je viens."
+      ],
+      [
+       "Interrogation partielle",
+       "Il me demande : « Où vas-tu ? »",
+       "Il me demande **où** je vais."
+      ],
+      [
+       "Ordre",
+       "Il m’ordonne : « Sors ! »",
+       "Il m’ordonne **de** sortir."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase au discours indirect",
+     "note": "Les paroles sont devenues une subordonnée.",
+     "cells": [
+      {
+       "mot": "Il me demande",
+       "role": "principale (verbe introducteur)",
+       "noyau": true
+      },
+      {
+       "mot": "si",
+       "role": "mot subordonnant"
+      },
+      {
+       "mot": "je viens",
+       "role": "subordonnée"
+      }
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Interrogation indirecte",
+     "text": "Il n’y a **ni point d’interrogation ni inversion** du sujet : « Où vas-tu ? » devient « Il demande **où je vais** » (et non « où vais-je »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au discours indirect ?",
+     "options": [
+      "Il dit : « Je viens. »",
+      "Il dit qu’il vient.",
+      "« Je viens », dit-il.",
+      "Il viendrait, c’était sûr."
+     ],
+     "answer": 1,
+     "explain": "*Qu’il vient* est une subordonnée introduite par *que*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Passe au discours indirect.",
+     "items": [
+      "Awa dit : « Je suis contente. »",
+      "Il me demande : « Veux-tu venir ? »",
+      "Le maître demande : « Qui a fini ? »",
+      "Mon père m’ordonne : « Range ta chambre ! »"
+     ],
+     "corrige": [
+      "1. Awa dit qu’elle est contente.",
+      "2. Il me demande si je veux venir.",
+      "3. Le maître demande qui a fini.",
+      "4. Mon père m’ordonne de ranger ma chambre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les changements du direct à l’indirect",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on passe au discours indirect, **certains mots changent** parce que le **point de vue** n’est plus le même."
+    },
+    {
+     "type": "table",
+     "title": "Les pronoms et les possessifs",
+     "head": [
+      "Direct",
+      "Indirect",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "je, me, mon",
+       "il/elle, se, son",
+       "Awa dit : « Je lis mon livre. » → Awa dit qu’elle lit son livre."
+      ],
+      [
+       "tu, ton",
+       "je, mon (si on s’adresse à celui qui rapporte)",
+       "Il me dit : « Tu as ton cahier. » → Il me dit que j’ai mon cahier."
+      ],
+      [
+       "nous, notre",
+       "ils/elles, leur",
+       "Ils disent : « Nous aimons notre école. » → Ils disent qu’ils aiment leur école."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les repères de temps et de lieu (verbe introducteur au passé)",
+     "head": [
+      "Direct",
+      "Indirect",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "aujourd’hui",
+       "ce jour-là",
+       "Il a dit : « Je viens aujourd’hui. » → Il a dit qu’il venait ce jour-là."
+      ],
+      [
+       "hier",
+       "la veille",
+       "« J’ai fini hier » → qu’il avait fini la veille"
+      ],
+      [
+       "demain",
+       "le lendemain",
+       "« Je pars demain » → qu’il partait le lendemain"
+      ],
+      [
+       "maintenant",
+       "alors",
+       "« Je pars maintenant » → qu’il partait alors"
+      ],
+      [
+       "ici",
+       "là",
+       "« Reste ici » → de rester là"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les temps (verbe introducteur au passé)",
+     "head": [
+      "Direct",
+      "Indirect",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "imparfait",
+       "« Je suis fatigué » → qu’il **était** fatigué"
+      ],
+      [
+       "futur simple",
+       "conditionnel présent",
+       "« Je viendrai » → qu’il **viendrait**"
+      ],
+      [
+       "passé composé",
+       "plus-que-parfait",
+       "« J’ai fini » → qu’il **avait fini**"
+      ],
+      [
+       "impératif",
+       "de + infinitif",
+       "« Sors ! » → de **sortir**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Verbe introducteur au présent",
+     "text": "Si le verbe introducteur est au **présent** (*Il dit que…*), les **temps ne changent pas** : *Il dit qu’il est fatigué.*"
+    },
+    {
+     "type": "quiz",
+     "question": "« Je viendrai demain », a dit Awa. → Awa a dit qu’elle…",
+     "options": [
+      "viendra demain",
+      "viendrait le lendemain",
+      "viendrait demain",
+      "viendra le lendemain"
+     ],
+     "answer": 1,
+     "explain": "Le futur devient un conditionnel et *demain* devient *le lendemain*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Passe au discours indirect (le verbe introducteur est au passé composé).",
+     "items": [
+      "Awa a dit : « Je suis malade. »",
+      "Il a annoncé : « Je partirai demain. »",
+      "Fatou a répondu : « J’ai terminé mon travail. »",
+      "Le maître nous a demandé : « Où allez-vous ? »",
+      "Il m’a ordonné : « Viens ici ! »"
+     ],
+     "corrige": [
+      "1. Awa a dit qu’elle était malade.",
+      "2. Il a annoncé qu’il partirait le lendemain.",
+      "3. Fatou a répondu qu’elle avait terminé son travail.",
+      "4. Le maître nous a demandé où nous allions.",
+      "5. Il m’a ordonné de venir là."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le discours indirect libre",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Discours indirect libre",
+     "text": "Le **discours indirect libre** rapporte les paroles ou les pensées d’un personnage **sans verbe introducteur, sans *que* et sans guillemets**. Elles se **mêlent au récit** : on entend à la fois le narrateur et le personnage."
+    },
+    {
+     "type": "list",
+     "items": [
+      "pas de **guillemets** ni de **verbe introducteur**",
+      "les **pronoms** et les **temps** du discours indirect : 3ᵉ personne, **imparfait**, **conditionnel**",
+      "la **ponctuation expressive** est conservée : *?* et *!*",
+      "on **entend la voix** du personnage"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La même pensée en trois discours",
+     "head": [
+      "Discours",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Direct",
+       "Elle pensa : « Je vais rater le train ! »"
+      ],
+      [
+       "Indirect",
+       "Elle pensa qu’elle allait rater le train."
+      ],
+      [
+       "Indirect libre",
+       "Elle allait rater le train !"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Awa regarda l’horloge. Il était déjà tard ! Comment allait-elle rentrer ?",
+     "label": "Exemple dans un récit"
+    },
+    {
+     "type": "tip",
+     "label": "Comment le repérer ?",
+     "text": "Cherche une phrase qui exprime un **sentiment** (*!*) ou une **question** que le narrateur ne peut pas se poser lui-même : elle vient du **personnage**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il ouvrit la porte. Quel froid ! Jamais il ne s’habituerait à l’hiver. », quelle phrase est au discours indirect libre ?",
+     "options": [
+      "Il ouvrit la porte.",
+      "Quel froid !",
+      "Aucune",
+      "Toutes"
+     ],
+     "answer": 1,
+     "explain": "*Quel froid !* exprime la pensée du personnage, sans verbe introducteur ni guillemets."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque phrase, dis si c’est du discours direct, indirect ou indirect libre.",
+     "items": [
+      "Fatou dit : « J’ai peur. »",
+      "Fatou dit qu’elle a peur.",
+      "Fatou entendit un bruit. Elle avait peur ! Qui était là ?",
+      "« Je rentre », annonça-t-il."
+     ],
+     "corrige": [
+      "1. direct",
+      "2. indirect",
+      "3. indirect libre (*Elle avait peur ! Qui était là ?*)",
+      "4. direct"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le type de discours rapporté : direct, indirect ou indirect libre.",
+     "items": [
+      "Il demanda : « Où est ma veste ? »",
+      "Il demanda où était sa veste.",
+      "Il chercha partout. Où était donc sa veste ?",
+      "« Viens vite ! » cria-t-elle.",
+      "Elle cria à son frère de venir vite.",
+      "Elle regarda la rue. Quelle foule ! Elle ne passerait jamais."
+     ],
+     "corrige": [
+      "1. direct",
+      "2. indirect",
+      "3. indirect libre",
+      "4. direct",
+      "5. indirect",
+      "6. indirect libre"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Passe du discours direct au discours indirect.",
+     "items": [
+      "Le directeur annonce : « Les cours reprendront lundi. »",
+      "Awa me demande : « Aimes-tu ce livre ? »",
+      "Il nous a dit : « Je suis arrivé hier. »"
+     ],
+     "corrige": [
+      "1. Le directeur annonce que les cours reprendront lundi.",
+      "2. Awa me demande si j’aime ce livre.",
+      "3. Il nous a dit qu’il était arrivé la veille."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Passe du discours indirect au discours direct.",
+     "items": [
+      "Fatou a répondu qu’elle avait fini.",
+      "Il m’a demandé où j’allais.",
+      "Le maître a ordonné aux élèves de se taire."
+     ],
+     "corrige": [
+      "1. Fatou a répondu : « J’ai fini. »",
+      "2. Il m’a demandé : « Où vas-tu ? »",
+      "3. Le maître a ordonné aux élèves : « Taisez-vous ! »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un court dialogue de quatre répliques entre deux élèves qui se retrouvent après les vacances. Utilise des tirets et des incises.",
+     "items": [
+      "Utilise au moins une question et une exclamation."
+     ],
+     "corrige": [
+      "Exemple :",
+      "— Salut Awa ! s’écrie Fatou. As-tu passé de bonnes vacances ?",
+      "— Oui, répond Awa, j’ai voyagé avec mes cousins.",
+      "— Où êtes-vous allés ? demande Fatou.",
+      "— À Pointe-Noire ! dit Awa en riant."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel discours le verbe introducteur est-il absent ?",
+     "options": [
+      "direct",
+      "indirect",
+      "indirect libre",
+      "aucun"
+     ],
+     "answer": 2,
+     "explain": "Le discours indirect libre n’a ni verbe introducteur, ni guillemets, ni *que*."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **discours rapporté** reproduit les paroles ou les pensées de quelqu’un.",
+      "Le **discours direct** reproduit les paroles **exactement** : guillemets ou tirets, verbe introducteur, incise.",
+      "Le **discours indirect** intègre les paroles dans la phrase du narrateur : **subordonnée** introduite par *que, si, où…*, avec changement des **pronoms**, des **repères de temps** et des **temps verbaux**.",
+      "Le **discours indirect libre** n’a **ni guillemets, ni verbe introducteur, ni *que*** : il mêle la voix du personnage à celle du narrateur.",
+      "Au passé : présent → imparfait ; futur → conditionnel ; passé composé → plus-que-parfait."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois discours",
+     "head": [
+      "Discours",
+      "Marques",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Direct",
+       "guillemets, verbe introducteur",
+       "Il dit : « Je viens. »"
+      ],
+      [
+       "Indirect",
+       "que / si / où, changements",
+       "Il dit qu’il vient."
+      ],
+      [
+       "Indirect libre",
+       "aucun mot introducteur",
+       "Il viendrait, c’était sûr !"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au discours indirect ?",
+     "options": [
+      "« Je pars », dit-il.",
+      "Il a dit qu’il partait.",
+      "Il partait ! Quelle chance !",
+      "Il dit : « Je pars. »"
+     ],
+     "answer": 1,
+     "explain": "*Qu’il partait* est une subordonnée introduite par *que*, avec concordance des temps."
+    }
+   ]
+  }
+ ]
+}

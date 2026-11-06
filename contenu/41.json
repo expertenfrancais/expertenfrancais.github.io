@@ -1,0 +1,846 @@
+{
+ "id": 41,
+ "sections": [
+  {
+   "t": "À quoi sert le passé composé ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **passé composé** est un **temps du passé** de l’**indicatif**. On l’emploie pour parler d’une action **terminée**, dont on voit le résultat **maintenant**."
+    },
+    {
+     "type": "table",
+     "title": "Les emplois du passé composé",
+     "head": [
+      "Emploi",
+      "Explication",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Action terminée",
+       "événement fini, à un moment précis",
+       "Hier, nous **avons visité** le musée."
+      ],
+      [
+       "Succession d’actions",
+       "actions qui s’enchaînent dans un récit",
+       "Il **a ouvert** la porte, puis il **est entré**."
+      ],
+      [
+       "Action répétée et limitée",
+       "plusieurs fois, mais un nombre précis",
+       "Elle **a appelé** trois fois."
+      ],
+      [
+       "Résultat dans le présent",
+       "action finie qui a une conséquence maintenant",
+       "J’**ai oublié** mon cahier : je ne peux pas faire l’exercice."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les indices",
+     "text": "Le passé composé va bien avec : *hier, ce matin, la semaine dernière, soudain, tout à coup, il y a deux jours, en 2020…*"
+    },
+    {
+     "type": "ex",
+     "text": "Hier soir, j’**ai fini** mes devoirs, puis je **suis allé** dormir.",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Hier, Awa a gagné la course. », le passé composé exprime…",
+     "options": [
+      "une habitude passée",
+      "une action terminée",
+      "une action à venir",
+      "une description"
+     ],
+     "answer": 1,
+     "explain": "*Hier* situe l’action à un moment précis du passé, et l’action est finie : c’est une action terminée."
+    }
+   ]
+  },
+  {
+   "t": "Former le passé composé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le passé composé est un **temps composé** : il est formé de **deux mots**, l’**auxiliaire** (*avoir* ou *être*) au **présent**, et le **participe passé** du verbe."
+    },
+    {
+     "type": "list",
+     "items": [
+      "On choisit l’auxiliaire : **avoir** ou **être**.",
+      "On le conjugue au **présent** : *j’ai, tu as, il a…* ou *je suis, tu es, il est…*",
+      "On ajoute le **participe passé** : *chanté, fini, pris…*"
+     ],
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Le passé composé de chanter (avec avoir)",
+     "head": [
+      "Personne",
+      "Passé composé"
+     ],
+     "rows": [
+      [
+       "j’",
+       "ai chanté"
+      ],
+      [
+       "tu",
+       "as chanté"
+      ],
+      [
+       "il / elle / on",
+       "a chanté"
+      ],
+      [
+       "nous",
+       "avons chanté"
+      ],
+      [
+       "vous",
+       "avez chanté"
+      ],
+      [
+       "ils / elles",
+       "ont chanté"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une forme au passé composé",
+     "note": "L’auxiliaire se conjugue ; le participe passé **ne change pas de personne**.",
+     "cells": [
+      {
+       "mot": "ils ont",
+       "role": "auxiliaire avoir au présent"
+      },
+      {
+       "mot": "chanté",
+       "role": "participe passé (verbe chanter)",
+       "noyau": true
+      }
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "La négation",
+     "text": "À la forme négative, **ne** et **pas** entourent l’**auxiliaire** : *je **n’**ai **pas** chanté*, *elle **n’**est **pas** venue*."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on « nous (manger) » au passé composé ?",
+     "options": [
+      "nous mangeons",
+      "nous avons mangé",
+      "nous mangions",
+      "nous avons manger"
+     ],
+     "answer": 1,
+     "explain": "Auxiliaire *avoir* au présent (*nous avons*) + participe passé (*mangé*)."
+    }
+   ]
+  },
+  {
+   "t": "Choisir l’auxiliaire : avoir ou être",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La plupart des verbes se conjuguent avec **avoir**. Seuls quelques verbes se conjuguent avec **être**."
+    },
+    {
+     "type": "h",
+     "text": "Les verbes qui se conjuguent avec être"
+    },
+    {
+     "type": "table",
+     "title": "Verbes à retenir",
+     "head": [
+      "Verbe",
+      "Passé composé (je / il)"
+     ],
+     "rows": [
+      [
+       "aller",
+       "je suis allé"
+      ],
+      [
+       "venir",
+       "il est venu"
+      ],
+      [
+       "arriver",
+       "je suis arrivé"
+      ],
+      [
+       "partir",
+       "il est parti"
+      ],
+      [
+       "entrer",
+       "je suis entré"
+      ],
+      [
+       "sortir",
+       "il est sorti"
+      ],
+      [
+       "monter",
+       "je suis monté"
+      ],
+      [
+       "descendre",
+       "il est descendu"
+      ],
+      [
+       "rester",
+       "je suis resté"
+      ],
+      [
+       "tomber",
+       "il est tombé"
+      ],
+      [
+       "naître",
+       "il est né"
+      ],
+      [
+       "mourir",
+       "il est mort"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce",
+     "text": "Ces verbes expriment surtout un **mouvement** ou un **changement d’état** : on **va**, on **vient**, on **entre**, on **sort**, on **naît**, on **meurt**."
+    },
+    {
+     "type": "h",
+     "text": "Les verbes pronominaux"
+    },
+    {
+     "type": "p",
+     "text": "Les **verbes pronominaux** (*se laver, se lever, s’habiller…*) se conjuguent **toujours avec être**."
+    },
+    {
+     "type": "table",
+     "title": "Le passé composé d’un verbe pronominal : se laver",
+     "head": [
+      "Personne",
+      "Passé composé"
+     ],
+     "rows": [
+      [
+       "je",
+       "me suis lavé(e)"
+      ],
+      [
+       "tu",
+       "t’es lavé(e)"
+      ],
+      [
+       "il / elle",
+       "s’est lavé(e)"
+      ],
+      [
+       "nous",
+       "nous sommes lavé(e)s"
+      ],
+      [
+       "vous",
+       "vous êtes lavé(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "se sont lavé(e)s"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "*Je suis tombé* ✔, mais pas « j’ai tombé ». *Elle est partie* ✔, mais pas « elle a parti »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec l’auxiliaire avoir ou être, au présent.",
+     "corrige": [
+      "nous sommes allés",
+      "elle a mangé",
+      "tu es arrivé",
+      "ils ont fini"
+     ],
+     "items": [
+      "Hier, nous ___ allés à la plage.",
+      "Elle ___ mangé du riz.",
+      "Tu ___ arrivé en retard.",
+      "Ils ___ fini leur travail."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel auxiliaire utilise-t-on pour « tomber » au passé composé ?",
+     "options": [
+      "avoir",
+      "être",
+      "avoir ou être, au choix",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "*Tomber* exprime un mouvement : on dit *je suis tombé*."
+    }
+   ]
+  },
+  {
+   "t": "Le participe passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **participe passé** est la partie du verbe qu’on **ajoute à l’auxiliaire**. Sa terminaison dépend du **groupe** du verbe."
+    },
+    {
+     "type": "table",
+     "title": "Les participes passés réguliers",
+     "head": [
+      "Groupe",
+      "Infinitif",
+      "Participe passé"
+     ],
+     "rows": [
+      [
+       "1ᵉʳ groupe (-er)",
+       "chanter",
+       "chanté"
+      ],
+      [
+       "1ᵉʳ groupe (-er)",
+       "aller",
+       "allé"
+      ],
+      [
+       "2ᵉ groupe (-ir)",
+       "finir",
+       "fini"
+      ],
+      [
+       "2ᵉ groupe (-ir)",
+       "choisir",
+       "choisi"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les participes passés du 3ᵉ groupe",
+     "head": [
+      "Terminaison",
+      "Infinitif",
+      "Participe passé"
+     ],
+     "rows": [
+      [
+       "-i",
+       "partir",
+       "parti"
+      ],
+      [
+       "-u",
+       "voir",
+       "vu"
+      ],
+      [
+       "-u",
+       "venir",
+       "venu"
+      ],
+      [
+       "-is",
+       "prendre",
+       "pris"
+      ],
+      [
+       "-is",
+       "mettre",
+       "mis"
+      ],
+      [
+       "-it",
+       "dire",
+       "dit"
+      ],
+      [
+       "-it",
+       "écrire",
+       "écrit"
+      ],
+      [
+       "-t",
+       "faire",
+       "fait"
+      ],
+      [
+       "-ert",
+       "ouvrir",
+       "ouvert"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les participes passés irréguliers fréquents",
+     "head": [
+      "Infinitif",
+      "Participe passé"
+     ],
+     "rows": [
+      [
+       "être",
+       "été"
+      ],
+      [
+       "avoir",
+       "eu"
+      ],
+      [
+       "pouvoir",
+       "pu"
+      ],
+      [
+       "vouloir",
+       "voulu"
+      ],
+      [
+       "savoir",
+       "su"
+      ],
+      [
+       "boire",
+       "bu"
+      ],
+      [
+       "lire",
+       "lu"
+      ],
+      [
+       "courir",
+       "couru"
+      ],
+      [
+       "naître",
+       "né"
+      ],
+      [
+       "mourir",
+       "mort"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test de remplacement",
+     "text": "Pour savoir si on écrit **-é** (participe) ou **-er** (infinitif), remplace par un verbe du 3ᵉ groupe : *j’ai mang**é*** → *j’ai pr**is*** ✔ ; *je vais mang**er*** → *je vais pr**endre*** ✔."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "*J’ai mangé* (participe, **-é**) ≠ *je vais manger* (infinitif, **-er**). Avec l’auxiliaire **avoir** conjugué, on écrit **-é**."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le participe passé des verbes entre parenthèses.",
+     "corrige": [
+      "pris",
+      "fini",
+      "vu",
+      "fait"
+     ],
+     "items": [
+      "J’ai (prendre) le bus.",
+      "Elle a (finir) son devoir.",
+      "Nous avons (voir) un film.",
+      "Tu as (faire) un beau dessin."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le participe passé de « écrire » ?",
+     "options": [
+      "écrivé",
+      "écrit",
+      "écritu",
+      "écriré"
+     ],
+     "answer": 1,
+     "explain": "*Écrire* donne *écrit* : *j’ai écrit une lettre*."
+    }
+   ]
+  },
+  {
+   "t": "L’accord du participe passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Selon l’auxiliaire, le participe passé s’accorde **ou non**."
+    },
+    {
+     "type": "table",
+     "title": "L’accord selon l’auxiliaire",
+     "head": [
+      "Auxiliaire",
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "être",
+       "le participe passé **s’accorde avec le sujet** (genre et nombre)",
+       "Elle est parti**e**. Ils sont arrivé**s**. Elles sont tombé**es**."
+      ],
+      [
+       "avoir",
+       "le participe passé **ne s’accorde pas avec le sujet**",
+       "Elle a chanté. Ils ont chanté. Elles ont chanté."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les accords avec être : le verbe aller",
+     "head": [
+      "Sujet",
+      "Passé composé"
+     ],
+     "rows": [
+      [
+       "Il",
+       "est allé"
+      ],
+      [
+       "Elle",
+       "est allée"
+      ],
+      [
+       "Ils",
+       "sont allés"
+      ],
+      [
+       "Elles",
+       "sont allées"
+      ],
+      [
+       "Nous (garçons)",
+       "sommes allés"
+      ],
+      [
+       "Nous (filles)",
+       "sommes allées"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour accorder",
+     "text": "Avec **être**, le participe passé se comporte comme un **adjectif** : il prend **-e** pour le féminin et **-s** pour le pluriel."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Avec **avoir**, on n’accorde pas avec le sujet : *Les filles **ont** mang**é***, pas « mangées »."
+    },
+    {
+     "type": "h",
+     "text": "Pour aller plus loin"
+    },
+    {
+     "type": "p",
+     "text": "Avec **avoir**, le participe passé s’accorde avec le **COD** quand il est placé **avant** le verbe : *Les pommes que j’ai **mangées** étaient bonnes.* (le COD *que* renvoie à *pommes*, féminin pluriel)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde correctement les participes passés.",
+     "corrige": [
+      "Marie est arrivée hier.",
+      "Les enfants sont tombés.",
+      "Mes sœurs ont chanté ce soir.",
+      "Nous sommes parties, mes amies et moi."
+     ],
+     "items": [
+      "Marie est (arrivé) hier.",
+      "Les enfants sont (tombé).",
+      "Mes sœurs ont (chanté) ce soir.",
+      "Nous sommes (parti), mes amies et moi."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elles sont parti.",
+      "Elles sont partis.",
+      "Elles sont parties.",
+      "Elles ont parties."
+     ],
+     "answer": 2,
+     "explain": "*Partir* se conjugue avec **être** : le participe s’accorde avec *elles* (féminin pluriel) : *parties*."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas se tromper : les pièges",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Passé composé ou présent ?"
+    },
+    {
+     "type": "test",
+     "title": "Le test des deux mots",
+     "lines": [
+      "Le passé composé a **toujours deux mots** : *j’ai chanté*, *il est venu*.",
+      "Si le verbe a **un seul mot** (*je chante*), ce n’est pas le passé composé."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Passé composé ou imparfait ?"
+    },
+    {
+     "type": "table",
+     "title": "Deux temps du passé",
+     "head": [
+      "Temps",
+      "Il exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Passé composé",
+       "une action **terminée**, qui fait avancer le récit",
+       "Soudain, la porte **a claqué**."
+      ],
+      [
+       "Imparfait",
+       "une **description** ou une action qui **dure**",
+       "Il **pleuvait** et le vent **soufflait**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **pleuvait** quand nous **sommes sortis**. (*pleuvait* décrit le décor ; *sommes sortis* est une action terminée.)",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Piège : l’auxiliaire",
+     "text": "Il faut écrire l’auxiliaire **à la bonne personne** : *nous **avons** chanté*, pas « nous **a** chanté » ; *ils **ont** fini*, pas « ils **a** fini »."
+    },
+    {
+     "type": "warn",
+     "label": "Piège : a / à",
+     "text": "Avec le verbe **avoir**, on écrit **a** sans accent : *elle **a** chanté*. Remplace par *avait* : *elle avait chanté* ✔."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au passé composé ?",
+     "options": [
+      "Il chantait chaque matin.",
+      "Il a chanté hier soir.",
+      "Il chantera demain.",
+      "Il chante en ce moment."
+     ],
+     "answer": 1,
+     "explain": "*Il a chanté* est formé de deux mots (auxiliaire *a* + participe *chanté*) et exprime une action terminée."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi du plus simple au plus difficile. Cherche d’abord, puis regarde le corrigé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : conjuguer avec avoir"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au passé composé.",
+     "corrige": [
+      "j’ai regardé",
+      "tu as fini",
+      "nous avons pris",
+      "ils ont fait"
+     ],
+     "items": [
+      "Hier, je (regarder) un film.",
+      "Tu (finir) ton repas.",
+      "Nous (prendre) le car.",
+      "Ils (faire) leurs devoirs."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : conjuguer avec être"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au passé composé.",
+     "corrige": [
+      "Paul est parti tôt.",
+      "Les élèves sont entrés en classe.",
+      "Nous sommes allées au marché, mes sœurs et moi.",
+      "Elle est tombée dans la cour."
+     ],
+     "items": [
+      "Ce matin, Paul (partir) tôt.",
+      "Les élèves (entrer) en classe.",
+      "Nous (aller) au marché, mes sœurs et moi.",
+      "Elle (tomber) dans la cour."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est correcte ?",
+     "options": [
+      "Elle est sortie.",
+      "Elle a sorti.",
+      "Elle est sorti.",
+      "Elle a sortie."
+     ],
+     "answer": 0,
+     "explain": "*Sortir* (mouvement) se conjugue ici avec *être*, et le participe s’accorde avec *elle* : *sortie*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : avoir ou être ?"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec l’auxiliaire qui convient, au présent.",
+     "corrige": [
+      "Il est monté (ou a monté, selon le sens)",
+      "Nous sommes restés",
+      "J’ai perdu",
+      "Elles sont venues"
+     ],
+     "items": [
+      "Il ___ monté les escaliers en courant.",
+      "Nous ___ restés à la maison.",
+      "J’___ perdu mes clés.",
+      "Elles ___ venues hier."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ces phrases au passé composé.",
+     "corrige": [
+      "J’ai mangé un fruit.",
+      "Elle est partie à midi.",
+      "Nous avons fini le travail.",
+      "Ils ont vu un éléphant."
+     ],
+     "items": [
+      "Je mange un fruit.",
+      "Elle part à midi.",
+      "Nous finissons le travail.",
+      "Ils voient un éléphant."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : un petit texte"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le texte au passé composé : « Ce matin, je me lève tôt. Je prends mon petit déjeuner, puis je pars à l’école. J’arrive à huit heures. »",
+     "corrige": "Ce matin, je me suis levé(e) tôt. J’ai pris mon petit déjeuner, puis je suis parti(e) à l’école. Je suis arrivé(e) à huit heures."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le passé composé exprime une **action terminée** dans le passé.",
+      "Il se forme avec l’**auxiliaire** *avoir* ou *être* **au présent** + le **participe passé**.",
+      "**Être** : aller, venir, arriver, partir, entrer, sortir, monter, descendre, rester, tomber, naître, mourir, et tous les **verbes pronominaux**.",
+      "Avec **être**, le participe passé **s’accorde avec le sujet** : *elle est partie*, *ils sont arrivés*.",
+      "Avec **avoir**, il ne s’accorde **pas** avec le sujet : *elles ont chanté*.",
+      "À la forme négative, **ne… pas** entoure l’**auxiliaire** : *je n’ai pas chanté*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les participes passés à connaître",
+     "head": [
+      "Infinitif",
+      "Participe passé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chanté",
+       "j’ai chanté"
+      ],
+      [
+       "finir",
+       "fini",
+       "j’ai fini"
+      ],
+      [
+       "prendre",
+       "pris",
+       "j’ai pris"
+      ],
+      [
+       "faire",
+       "fait",
+       "j’ai fait"
+      ],
+      [
+       "voir",
+       "vu",
+       "j’ai vu"
+      ],
+      [
+       "partir",
+       "parti",
+       "je suis parti"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle série contient seulement des verbes au passé composé ?",
+     "options": [
+      "j’ai chanté, tu es venu, il a fini",
+      "je chantais, tu venais, il finissait",
+      "je chanterai, tu viendras, il finira",
+      "je chante, tu viens, il finit"
+     ],
+     "answer": 0,
+     "explain": "*J’ai chanté, tu es venu, il a fini* : auxiliaire au présent + participe passé. Les autres séries sont à l’imparfait, au futur et au présent."
+    }
+   ]
+  }
+ ]
+}

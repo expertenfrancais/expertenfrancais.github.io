@@ -1,0 +1,221 @@
+{
+ "id": 47,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un suffixe ?",
+   "blocs": [
+    {"type": "p", "text": "Le mot *chanteur* n’est pas un mot « tout seul » : il est **construit**. On y reconnaît *chant* (comme dans *chanter*, *chanson*) et un élément ajouté à la fin : **-eur**. Cet élément s’appelle un **suffixe**."},
+    {"type": "def", "label": "Suffixe", "text": "Un **suffixe** est un élément placé **après le radical** pour former un **mot nouveau**. Il ne s’emploie jamais seul : *-eur*, *-able*, *-ment*, *-ier*."},
+    {"type": "schema", "title": "Un mot suffixé décortiqué", "cells": [
+      {"mot": "chant", "role": "radical", "noyau": true},
+      {"mot": "eur", "role": "suffixe"}
+    ], "note": "Le **radical** porte le sens principal ; le **suffixe** précise le sens et indique souvent la **nature** du mot (ici un nom)."},
+    {"type": "def", "label": "Dérivation", "text": "Former un mot nouveau en ajoutant un préfixe ou un suffixe à un radical s’appelle la **dérivation**. Le mot obtenu est un **mot dérivé** : *chanteur* est dérivé de *chant*."},
+    {"type": "h", "text": "Le suffixe change (souvent) la nature du mot"},
+    {"type": "table", "title": "Quatre mots dérivés", "head": ["Mot dérivé", "Radical", "Suffixe", "Changement de nature"], "rows": [
+      ["jardinier", "jardin", "-ier", "nom → nom"],
+      ["lentement", "lent(e)", "-ment", "adjectif → adverbe"],
+      ["lavable", "lav(er)", "-able", "verbe → adjectif"],
+      ["durcir", "dur", "-ir", "adjectif → verbe"]
+    ]},
+    {"type": "tip", "label": "Astuce", "text": "Pour repérer le suffixe, cherche d’autres mots de la **même famille** : *chant*eur, *chant*er, *chant*euse. Ce qui revient partout, c’est le radical ; ce qui change à la fin, c’est le suffixe."},
+    {"type": "quiz", "question": "Dans le mot *lenteur*, quel est le suffixe ?", "options": ["len", "lent", "-eur", "-teur"], "answer": 2, "explain": "*Lenteur* = *lent* (radical) + **-eur** (suffixe). On retrouve *lent* dans *lent*, *lentement*, *ralentir*."},
+    {"type": "retenir", "label": "À retenir", "items": ["Le suffixe se place **après** le radical.", "Il ne s’emploie jamais seul.", "Il forme un mot **dérivé** et change souvent sa **nature**."]}
+  ]
+  },
+  {
+   "t": "Les suffixes qui forment des noms",
+   "blocs": [
+    {"type": "p", "text": "Beaucoup de noms sont formés à partir d’un verbe, d’un adjectif ou d’un autre nom grâce à un suffixe. Selon le suffixe, le nom désigne une **personne**, une **action**, une **qualité**, un **lieu** ou un **objet**."},
+    {"type": "h", "text": "Les noms de personne (métier, activité)"},
+    {"type": "table", "title": "Désigner une personne", "head": ["Suffixe", "Exemples", "Radical"], "rows": [
+      ["-eur / -euse", "chanteur, danseuse, vendeur", "chanter, danser, vendre"],
+      ["-ier / -ière", "jardinier, fermière, boulanger", "jardin, ferme, boulange"],
+      ["-ien / -ienne", "musicien, magicienne", "musique, magie"],
+      ["-iste", "pianiste, cycliste, journaliste", "piano, cycle, journal"]
+    ]},
+    {"type": "h", "text": "Les noms d’action ou de résultat"},
+    {"type": "def", "label": "Nom d’action", "text": "Un **nom d’action** désigne ce que fait un verbe : *laver* → *le lavage* ; *construire* → *la construction*. Il peut aussi désigner le résultat de l’action."},
+    {"type": "table", "title": "Désigner une action", "head": ["Suffixe", "Exemples", "Verbe"], "rows": [
+      ["-age", "lavage, nettoyage, atterrissage", "laver, nettoyer, atterrir"],
+      ["-ment", "logement, arrachement, agrandissement", "loger, arracher, agrandir"],
+      ["-tion / -ation", "construction, organisation, hésitation", "construire, organiser, hésiter"],
+      ["-ée", "arrivée, entrée, traversée", "arriver, entrer, traverser"]
+    ]},
+    {"type": "h", "text": "Les noms de qualité"},
+    {"type": "def", "label": "Nom de qualité", "text": "Un **nom de qualité** est formé sur un adjectif : il désigne ce que l’adjectif exprime comme **manière d’être**. *Gentil* → *la gentillesse*."},
+    {"type": "table", "title": "Désigner une qualité", "head": ["Suffixe", "Exemples", "Adjectif"], "rows": [
+      ["-esse", "gentillesse, politesse, richesse", "gentil, poli, riche"],
+      ["-eur", "lenteur, hauteur, lourdeur", "lent, haut, lourd"],
+      ["-ité", "rapidité, sincérité, nouveauté", "rapide, sincère, nouveau"],
+      ["-ise", "bêtise, franchise", "bête, franc"]
+    ]},
+    {"type": "h", "text": "Les noms de lieu ou d’objet"},
+    {"type": "table", "title": "Désigner un lieu ou un objet", "head": ["Suffixe", "Exemples", "Radical"], "rows": [
+      ["-erie", "boulangerie, bijouterie, librairie", "boulanger, bijou, livre"],
+      ["-oir", "arrosoir, rasoir, miroir", "arroser, raser, mirer"],
+      ["-ier / -ière", "cendrier, théière, salière", "cendre, thé, sel"]
+    ]},
+    {"type": "warn", "label": "Attention", "text": "Un même suffixe peut avoir **plusieurs sens**. Le suffixe *-eur* forme un nom de **personne** (*chanteur*) mais aussi un nom de **qualité** (*lenteur*). C’est le radical et le contexte qui permettent de choisir le bon sens."},
+    {"type": "ex", "label": "Exemples", "text": "*arriver* → *l’arrivée* ; *organiser* → *l’organisation* ; *jardin* → *le jardinier* ; *boulanger* → *la boulangerie*."},
+    {"type": "quiz", "question": "Quel suffixe forme un nom de qualité dans *gentil* → *gentillesse* ?", "options": ["-ier", "-esse", "-age", "-oir"], "answer": 1, "explain": "**-esse** forme un nom de qualité à partir d’un adjectif : *gentil* → *gentillesse*, *riche* → *richesse*."}
+  ]
+  },
+  {
+   "t": "Les suffixes qui forment des adjectifs",
+   "blocs": [
+    {"type": "p", "text": "Les suffixes servent aussi à former des **adjectifs** à partir de noms ou de verbes. Chacun apporte une idée particulière : possibilité, abondance, origine, ressemblance…"},
+    {"type": "table", "title": "Les principaux suffixes d’adjectifs", "head": ["Suffixe", "Idée exprimée", "Exemples"], "rows": [
+      ["-able / -ible", "ce qui peut être fait", "lavable, mangeable, lisible, visible"],
+      ["-eux / -euse", "qui est plein de, qui a", "courageux, dangereux, joyeuse"],
+      ["-if / -ive", "qui a un rapport avec, qui fait", "sportif, actif, inventive"],
+      ["-al / -el / -aire", "qui concerne", "national, culturel, scolaire"],
+      ["-ien / -ain / -ais / -ois", "qui vient de, origine", "parisien, américain, français, chinois"],
+      ["-âtre", "qui tire sur, nuance péjorative", "rougeâtre, verdâtre, douceâtre"]
+    ]},
+    {"type": "def", "label": "Adjectif de possibilité", "text": "Les suffixes **-able** et **-ible** indiquent qu’une chose **peut être** ou **peut subir** l’action du verbe : *lavable* = qui peut être lavé ; *lisible* = qui peut être lu."},
+    {"type": "schema", "title": "Un adjectif de possibilité", "cells": [
+      {"mot": "lav", "role": "radical (laver)", "noyau": true},
+      {"mot": "able", "role": "suffixe : qui peut être…"}
+    ], "note": "*Lavable* se comprend : « qui peut être lavé »."},
+    {"type": "h", "text": "Les adjectifs d’origine"},
+    {"type": "p", "text": "Pour dire d’où vient une personne ou une chose, on ajoute un suffixe au nom du lieu : *Paris* → *parisien* ; *Amérique* → *américain* ; *France* → *français* ; *Chine* → *chinois*."},
+    {"type": "ex", "label": "Exemples", "text": "un fruit **savoureux** (plein de saveur) ; une route **dangereuse** (pleine de danger) ; un tissu **rougeâtre** (qui tire sur le rouge)."},
+    {"type": "warn", "label": "Attention", "text": "Ne confonds pas **-able** et **-ible**. Le suffixe *-able* est de loin le plus fréquent (*aimable*, *mangeable*). Le suffixe *-ible* est à apprendre avec quelques mots : *lisible*, *visible*, *possible*, *terrible*, *horrible*."},
+    {"type": "tip", "label": "Astuce", "text": "Pour comprendre un adjectif en *-able* ou *-ible*, remplace-le par « qui peut être… » : *mangeable* → qui peut être mangé."},
+    {"type": "quiz", "question": "Quel adjectif signifie « plein de courage » ?", "options": ["courageable", "courageux", "courageif", "courageâtre"], "answer": 1, "explain": "Le suffixe **-eux** signifie « plein de » : *courage* + *-eux* → *courageux*."}
+  ]
+  },
+  {
+   "t": "Les suffixes qui forment des verbes et des adverbes",
+   "blocs": [
+    {"type": "h", "text": "Les suffixes qui forment des verbes"},
+    {"type": "p", "text": "À partir d’un adjectif ou d’un nom, un suffixe permet de former un **verbe** qui signifie « rendre… », « devenir… » ou « faire… »."},
+    {"type": "table", "title": "Former des verbes", "head": ["Suffixe", "Sens", "Exemples"], "rows": [
+      ["-ir", "devenir, rendre", "rougir (devenir rouge), noircir, durcir"],
+      ["-ifier", "rendre, faire devenir", "simplifier, purifier, clarifier"],
+      ["-iser", "rendre, transformer en", "moderniser, finaliser, symboliser"],
+      ["-oyer", "faire, produire", "nettoyer (rendre net), larmoyer"]
+    ]},
+    {"type": "ex", "label": "Exemples", "text": "*simple* → *simplifier* (rendre simple) ; *moderne* → *moderniser* (rendre moderne) ; *noir* → *noircir* (rendre noir)."},
+    {"type": "h", "text": "Les suffixes qui nuancent le verbe"},
+    {"type": "p", "text": "Certains suffixes ajoutent à un verbe une idée d’action **répétée** ou **peu intense** : *chanter* → *chantonner* ; *taper* → *tapoter* ; *sauter* → *sautiller* ; *mordre* → *mordiller* ; *vivre* → *vivoter*."},
+    {"type": "h", "text": "Le suffixe qui forme des adverbes : -ment"},
+    {"type": "def", "label": "Adverbe en -ment", "text": "Pour former un adverbe de manière, on ajoute le suffixe **-ment** à un adjectif, le plus souvent à sa **forme féminine** : *lent* → *lente* → *lentement* ; *doux* → *douce* → *doucement* ; *heureux* → *heureuse* → *heureusement*."},
+    {"type": "table", "title": "Les trois cas de l’adverbe en -ment", "head": ["Adjectif", "Règle", "Adverbe"], "rows": [
+      ["lent, doux, heureux", "forme féminine + -ment", "lentement, doucement, heureusement"],
+      ["vrai, poli, joli", "adjectif en voyelle : + -ment", "vraiment, poliment, joliment"],
+      ["prudent, constant", "-ent → -emment ; -ant → -amment", "prudemment, constamment"]
+    ]},
+    {"type": "warn", "label": "Attention", "text": "Les adverbes en *-emment* et *-amment* se prononcent tous [amɑ̃]. L’adjectif te dit comment l’écrire : *prudent* → *prudemment* ; *constant* → *constamment*."},
+    {"type": "quiz", "question": "Quel est l’adverbe formé sur l’adjectif *prudent* ?", "options": ["prudentment", "prudament", "prudemment", "prudamment"], "answer": 2, "explain": "L’adjectif se termine par **-ent**, donc l’adverbe se termine par **-emment** : *prudemment*."}
+  ]
+  },
+  {
+   "t": "Les suffixes qui nuancent le sens : diminutif, péjoratif, collectif",
+   "blocs": [
+    {"type": "p", "text": "Certains suffixes ne changent pas la nature du mot : ils en **nuancent le sens**. On dit qu’ils apportent une **valeur** supplémentaire : petitesse, jugement négatif, idée de groupe."},
+    {"type": "h", "text": "Les suffixes diminutifs"},
+    {"type": "def", "label": "Diminutif", "text": "Un **suffixe diminutif** indique que la chose est **petite** ou **mignonne** : *une maison* → *une maisonnette* ; *un lion* → *un lionceau*."},
+    {"type": "table", "title": "Les diminutifs", "head": ["Suffixe", "Exemples", "Radical"], "rows": [
+      ["-ette", "maisonnette, fillette, clochette", "maison, fille, cloche"],
+      ["-eau", "lionceau, chevreau", "lion, chèvre"],
+      ["-on", "chaton, ourson, aiglon", "chat, ours, aigle"],
+      ["-et", "jardinet, poulet", "jardin, poule"]
+    ]},
+    {"type": "h", "text": "Les suffixes péjoratifs"},
+    {"type": "def", "label": "Péjoratif", "text": "Un **suffixe péjoratif** donne au mot une valeur **négative** : celui qui parle **n’apprécie pas** ce qu’il décrit."},
+    {"type": "table", "title": "Les péjoratifs", "head": ["Suffixe", "Exemples", "Radical"], "rows": [
+      ["-ard", "criard, chauffard, vantard", "crier, chauffeur, vanter"],
+      ["-asse", "blondasse, fadasse", "blond, fade"],
+      ["-âtre", "verdâtre, bellâtre", "vert, beau"],
+      ["-aille", "ferraille, valetaille", "fer, valet"]
+    ]},
+    {"type": "h", "text": "Les suffixes collectifs"},
+    {"type": "p", "text": "Un **suffixe collectif** désigne un **ensemble** : *une dizaine* (environ dix), *une quinzaine* (environ quinze), *un feuillage* (ensemble des feuilles), *une chênaie* (lieu planté de chênes), *une roseraie* (lieu planté de rosiers)."},
+    {"type": "ex", "label": "Exemples", "text": "*douze* → *une douzaine* ; *feuille* → *le feuillage* ; *chêne* → *une chênaie*."},
+    {"type": "warn", "label": "Attention", "text": "Un mot qui se termine comme un suffixe n’est pas forcément un mot suffixé. *Dette* ou *sujet* ne sont pas des diminutifs : on n’y trouve aucun radical *d-* ou *suj-*. Vérifie toujours qu’il reste un **vrai mot** quand on enlève la fin."},
+    {"type": "quiz", "question": "Quel mot est formé avec un suffixe péjoratif ?", "options": ["maisonnette", "chauffard", "dizaine", "lavable"], "answer": 1, "explain": "*Chauffard* est formé avec **-ard** : le mot est péjoratif (un mauvais conducteur). *Maisonnette* est un diminutif, *dizaine* un collectif."}
+  ]
+  },
+  {
+   "t": "Orthographe : bien écrire un mot suffixé",
+   "blocs": [
+    {"type": "p", "text": "Pour écrire correctement un mot suffixé, il faut penser à son **radical** et à la **famille de mots** à laquelle il appartient."},
+    {"type": "h", "text": "Le radical aide à écrire la fin"},
+    {"type": "p", "text": "Quand on ajoute un suffixe, la **lettre muette** finale du radical se fait entendre. Elle donne l’orthographe du radical :"},
+    {"type": "table", "title": "Retrouver la lettre muette", "head": ["Mot de départ", "Mot suffixé", "Lettre retrouvée"], "rows": [
+      ["chant", "chanteur", "t"],
+      ["plomb", "plombier", "b"],
+      ["froid", "froideur", "d"],
+      ["lourd", "lourdeur", "d"]
+    ]},
+    {"type": "h", "text": "Quelques règles à connaître"},
+    {"type": "table", "title": "Orthographe des suffixes", "head": ["Suffixe", "Règle", "Exemples"], "rows": [
+      ["-ment (adverbe)", "adjectif en -ent → -emment ; en -ant → -amment", "prudemment, constamment"],
+      ["-able", "après un verbe en -er : on garde le e après g", "mangeable, lavable"],
+      ["-ible", "à apprendre", "lisible, visible, possible"],
+      ["-ation", "après un verbe en -er", "organisation, hésitation"],
+      ["-eur / -euse", "féminin des noms de personne", "chanteur / chanteuse"],
+      ["-teur / -trice", "féminin particulier", "acteur / actrice, lecteur / lectrice"],
+      ["-ier / -ière", "féminin en -ière", "fermier / fermière"]
+    ]},
+    {"type": "h", "text": "Le radical peut se modifier"},
+    {"type": "p", "text": "Le radical ne reste pas toujours identique. Il change parfois de forme quand on ajoute le suffixe : *gentil* → *gentillesse* (l doublé) ; *vieux* → *vieillir* ; *sang* → *sanguin* ; *table* → *tablette* (le e final disparaît)."},
+    {"type": "tip", "label": "Astuce", "text": "En cas de doute sur la fin d’un mot, **cherche un mot de la même famille**. *Plombier* s’écrit avec un **b** parce que *plomb* s’écrit avec un **b**."},
+    {"type": "warn", "label": "Attention", "text": "Ne confonds pas **-able** et **-ible** : on écrit *lisible* et non *lisable*, *possible* et non *possable*."},
+    {"type": "quiz", "question": "Comment écrit-on l’adjectif formé sur *manger* + *-able* ?", "options": ["mangable", "mangeable", "mangeble", "mangaible"], "answer": 1, "explain": "On garde le **e** après le **g** pour que le g se prononce [ʒ] : *mangeable*."},
+    {"type": "quiz", "question": "Quelle est la bonne orthographe de l’adverbe formé sur *constant* ?", "options": ["constament", "constamment", "constanment", "constantement"], "answer": 1, "explain": "L’adjectif se termine par **-ant** : l’adverbe se termine par **-amment**."}
+  ]
+  },
+  {
+   "t": "Pièges à éviter et intérêt de la suffixation",
+   "blocs": [
+    {"type": "h", "text": "Les pièges à éviter"},
+    {"type": "warn", "label": "Piège 1 : les faux suffixes", "text": "Tout mot qui se termine par un suffixe n’est pas forcément dérivé. *Orage*, *image* et *plage* se terminent par *-age*, mais ils n’ont pas de radical *or-*, *im-* ni *pl-*. On vérifie qu’il reste un **vrai mot**."},
+    {"type": "warn", "label": "Piège 2 : un même suffixe, plusieurs sens", "text": "Le suffixe **-ier** désigne une **personne** (*jardinier*), un **arbre** (*pommier*) ou un **objet** (*cendrier*). Le suffixe **-ée** désigne une **durée** (*journée*) ou un **contenu** (*cuillerée*)."},
+    {"type": "warn", "label": "Piège 3 : un même sens, plusieurs suffixes", "text": "Pour former un nom d’action, on a le choix entre *-age*, *-ment*, *-tion*, *-ée*. Mais on **ne choisit pas librement** : on dit *lavage*, jamais *lavement* dans ce sens ; *construction*, jamais *constructage*. En cas de doute, on consulte le dictionnaire."},
+    {"type": "warn", "label": "Piège 4 : mot suffixé et nature", "text": "Le suffixe change souvent la **nature** du mot : *lent* est un adjectif, *lenteur* est un nom, *lentement* est un adverbe. Dans une phrase, vérifie toujours la nature **du mot entier**."},
+    {"type": "h", "text": "À quoi sert la suffixation ?"},
+    {"type": "list", "items": ["**Comprendre** des mots nouveaux : *lisible* = qu’on peut lire.", "**Enrichir** son vocabulaire : un seul radical donne plusieurs mots.", "**Varier** ses phrases et éviter les répétitions.", "**Changer la nature** d’un mot pour reformuler."]},
+    {"type": "ex", "label": "Reformuler avec un suffixe", "text": "*Il a hésité longtemps avant de répondre.* → *Son **hésitation** a été longue avant sa réponse.*"},
+    {"type": "schema", "title": "Un mot qui cumule préfixe et suffixe", "cells": [
+      {"mot": "mal", "role": "préfixe"},
+      {"mot": "heureuse", "role": "radical (forme féminine)", "noyau": true},
+      {"mot": "ment", "role": "suffixe"}
+    ], "note": "*Malheureusement* = *mal-* + *heureuse* + *-ment*. Un même mot peut contenir un préfixe **et** un suffixe."},
+    {"type": "quiz", "question": "Dans quel mot *-age* n’est-il pas un suffixe ?", "options": ["lavage", "jardinage", "orage", "mariage"], "answer": 2, "explain": "On forme *lavage* sur *laver*, *jardinage* sur *jardiner*, *mariage* sur *marier*. *Orage* n’est pas formé sur un radical *or-*."}
+  ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {"type": "exercise", "enonce": "**Exercice 1.** Recopie chaque mot et isole le suffixe.", "items": ["joueur", "lentement", "lavable", "boulangerie", "fillette", "rougir"], "corrige": ["jou**eur**", "lente**ment**", "lav**able**", "boulang**erie**", "fill**ette**", "roug**ir**"]},
+    {"type": "exercise", "enonce": "**Exercice 2.** Forme un **nom** à partir de chaque mot, avec le suffixe qui convient.", "items": ["arriver", "organiser", "lent", "boulanger", "chanter", "gentil"], "corrige": ["arriver → l’**arrivée**", "organiser → l’**organisation**", "lent → la **lenteur**", "boulanger → la **boulangerie**", "chanter → le **chanteur**", "gentil → la **gentillesse**"]},
+    {"type": "exercise", "enonce": "**Exercice 3.** Trouve l’**adjectif** qui correspond à chaque définition.", "items": ["qui peut être lavé", "qui est plein de courage", "qui vient de Paris", "qui tire sur le rouge", "qu’on peut lire"], "corrige": ["**lavable**", "**courageux**", "**parisien**", "**rougeâtre**", "**lisible**"]},
+    {"type": "exercise", "enonce": "**Exercice 4.** Forme l’**adverbe** en *-ment* à partir de chaque adjectif.", "items": ["doux", "prudent", "vrai", "constant", "heureux", "gentil"], "corrige": ["doux → **doucement**", "prudent → **prudemment**", "vrai → **vraiment**", "constant → **constamment**", "heureux → **heureusement**", "gentil → **gentiment**"]},
+    {"type": "exercise", "enonce": "**Exercice 5.** Forme un **verbe** à partir de chaque adjectif, avec le sens « rendre… » ou « devenir… ».", "items": ["noir", "pur", "moderne", "net", "vieux"], "corrige": ["noir → **noircir**", "pur → **purifier**", "moderne → **moderniser**", "net → **nettoyer**", "vieux → **vieillir**"]},
+    {"type": "exercise", "enonce": "**Exercice 6.** Décompose chaque mot en **préfixe + radical + suffixe**.", "items": ["déboisement", "impardonnable", "illisible", "inoubliable", "malhonnêteté"], "corrige": ["**dé** + **bois** + **ement**", "**im** + **pardon** + **able**", "**il** + **lis** + **ible**", "**in** + **oubli** + **able**", "**mal** + **honnête** + **té**"]},
+    {"type": "exercise", "enonce": "**Exercice 7.** Corrige l’erreur d’orthographe dans chaque phrase.", "items": ["Il parle prudament devant ses chefs.", "Ce plat est mangable.", "Ce texte est lisable.", "Ils sont arrivés constanment en retard."], "corrige": ["Il parle **prudemment** devant ses chefs.", "Ce plat est **mangeable**.", "Ce texte est **lisible**.", "Ils sont arrivés **constamment** en retard."]},
+    {"type": "exercise", "enonce": "**Exercice 8.** Classe chaque mot suffixé : **diminutif**, **péjoratif** ou **collectif**.", "items": ["maisonnette", "chauffard", "dizaine", "ourson", "verdâtre", "feuillage"], "corrige": ["maisonnette → **diminutif**", "chauffard → **péjoratif**", "dizaine → **collectif**", "ourson → **diminutif**", "verdâtre → **péjoratif**", "feuillage → **collectif**"]},
+    {"type": "quiz", "question": "Dans quelle série tous les mots sont-ils des noms de qualité ?", "options": ["gentillesse, lenteur, rapidité", "lavage, logement, arrivée", "jardinier, boulanger, pianiste", "lavable, lisible, visible"], "answer": 0, "explain": "*Gentillesse*, *lenteur* et *rapidité* désignent des qualités. La série 2 contient des noms d’action, la 3 des noms de personne et la 4 des adjectifs."},
+    {"type": "quiz", "question": "Quel mot n’est pas un mot dérivé ?", "options": ["chanteur", "jardinier", "plage", "lentement"], "answer": 2, "explain": "On ne trouve aucun radical *pl-* dans *plage*, alors que *chanteur*, *jardinier* et *lentement* sont dérivés de *chant*, *jardin* et *lent*."}
+  ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {"type": "retenir", "label": "À retenir", "items": ["Un **suffixe** est placé **après le radical** ; il ne s’emploie jamais seul.", "Il forme un **mot dérivé** et change souvent la **nature** du mot.", "Il existe des suffixes de **noms** (-eur, -age, -ité), d’**adjectifs** (-able, -eux, -if), de **verbes** (-ir, -ifier, -iser) et d’**adverbes** (-ment).", "Certains suffixes **nuancent le sens** : diminutifs (-ette), péjoratifs (-ard), collectifs (-aine).", "Pour l’orthographe, on s’appuie sur le **radical** et la **famille de mots**.", "Adverbes : -ent → **-emment** ; -ant → **-amment**."]},
+    {"type": "table", "title": "Tableau de synthèse", "head": ["Nature formée", "Suffixes", "Exemples"], "rows": [
+      ["Nom de personne", "-eur, -ier, -iste", "chanteur, jardinier, pianiste"],
+      ["Nom d’action", "-age, -ment, -tion", "lavage, logement, construction"],
+      ["Nom de qualité", "-esse, -eur, -ité", "gentillesse, lenteur, rapidité"],
+      ["Adjectif", "-able, -eux, -if", "lavable, courageux, sportif"],
+      ["Verbe", "-ir, -ifier, -iser", "rougir, simplifier, moderniser"],
+      ["Adverbe", "-ment", "lentement, prudemment"]
+    ]},
+    {"type": "tip", "label": "Méthode", "text": "Devant un mot inconnu : **1)** cherche le radical, **2)** repère le suffixe, **3)** déduis le sens et la nature du mot. *Imperméabilisation* ? C’est l’action de rendre quelque chose **imperméable**."}
+  ]
+  }
+ ]
+}

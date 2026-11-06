@@ -1,0 +1,677 @@
+{
+ "id": 49,
+ "sections": [
+  {
+   "t": "À quoi sert le présent ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je **lis** un conte. » « La terre **tourne** autour du soleil. » « Chaque matin, mon père **part** au travail. » Ces trois phrases sont au **présent de l’indicatif**, mais le présent ne dit pas la même chose dans chacune. On parle des **valeurs du présent**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir que le présent a plusieurs valeurs",
+      "Reconnaître la valeur du présent dans une phrase",
+      "Employer le présent à bon escient dans ses textes"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Valeur d’un temps",
+     "text": "La **valeur** d’un temps est ce qu’il **exprime** dans une phrase : une action en train de se faire, une habitude, une vérité qui ne change pas, etc. Un même temps peut avoir **plusieurs valeurs**."
+    },
+    {
+     "type": "table",
+     "title": "Les principales valeurs du présent",
+     "head": [
+      "Valeur",
+      "Ce qu’elle exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "actuelle",
+       "ce qui se passe maintenant",
+       "Je **mange** du riz."
+      ],
+      [
+       "d’habitude",
+       "ce qui se répète",
+       "Chaque matin, il **prie**."
+      ],
+      [
+       "de vérité générale",
+       "ce qui est toujours vrai",
+       "L’eau **bout** à 100 °C."
+      ],
+      [
+       "de narration",
+       "un fait passé raconté comme présent",
+       "En 1960, le Congo **devient** indépendant."
+      ],
+      [
+       "de futur proche ou de passé récent",
+       "ce qui va arriver ou vient d’arriver",
+       "Je **pars** demain."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une question à te poser",
+     "text": "Pour trouver la valeur, demande-toi : **quand** a lieu l’action ? **maintenant**, **souvent**, **toujours**, **dans le passé** ou **bientôt** ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Chaque dimanche, nous allons à l’église. », quelle est la valeur du présent ?",
+     "options": [
+      "action en train de se faire",
+      "habitude",
+      "vérité générale",
+      "narration"
+     ],
+     "answer": 1,
+     "explain": "« Chaque dimanche » montre une action qui se répète : c’est une habitude."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le présent exprime une action en cours ou une habitude.",
+     "items": [
+      "Je range mon cahier.",
+      "Il se lève à six heures tous les jours.",
+      "Elle écoute la radio.",
+      "Le samedi, nous jouons au football."
+     ],
+     "corrige": [
+      "1. action en cours",
+      "2. habitude",
+      "3. action en cours",
+      "4. habitude"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le présent d’énonciation : ce qui se passe maintenant",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La valeur la plus courante du présent est celle de l’**instant présent** : l’action a lieu **au moment où l’on parle**. On l’appelle le **présent d’énonciation** ou **présent actuel**."
+    },
+    {
+     "type": "ex",
+     "text": "Regarde, le chat **dort** sur la natte. — Je **termine** mon devoir."
+    },
+    {
+     "type": "table",
+     "title": "Les repères de l’instant présent",
+     "head": [
+      "Indicateur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "maintenant, en ce moment",
+       "En ce moment, il **pleut**."
+      ],
+      [
+       "aujourd’hui, à présent",
+       "Aujourd’hui, nous **étudions** le présent."
+      ],
+      [
+       "un verbe de perception",
+       "Écoute, on **frappe** à la porte."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Présent d’énonciation",
+     "text": "Le **présent d’énonciation** exprime une action qui se déroule **au moment où l’on parle**. Il est très fréquent dans les **dialogues**."
+    },
+    {
+     "type": "tip",
+     "label": "Dans les dialogues",
+     "text": "Quand les personnages parlent, ils utilisent surtout le présent : « Viens, **je te montre** ma maison. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase exprime une action en train de se faire ?",
+     "options": [
+      "Le soleil se lève à l’est.",
+      "Chaque matin, je me lave.",
+      "En ce moment, je lis un conte.",
+      "Hier, j’ai lu un conte."
+     ],
+     "answer": 2,
+     "explain": "« En ce moment » situe l’action au moment où l’on parle."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases où le présent exprime l’instant présent.",
+     "items": [
+      "Je prépare le dîner.",
+      "Les oiseaux migrent en hiver.",
+      "Regarde, la pluie tombe.",
+      "Il nous rend visite chaque été."
+     ],
+     "corrige": [
+      "Je prépare le dîner.",
+      "Regarde, la pluie tombe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le présent d’habitude",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le présent peut aussi dire ce qui se **répète**, ce qu’on fait **régulièrement**. C’est le **présent d’habitude**."
+    },
+    {
+     "type": "ex",
+     "text": "Chaque matin, ma sœur **va** au marché. — Le dimanche, nous **mangeons** du poisson."
+    },
+    {
+     "type": "def",
+     "label": "Présent d’habitude",
+     "text": "Le **présent d’habitude** exprime une action qui se **répète** régulièrement. Il est souvent accompagné d’un mot de **fréquence**."
+    },
+    {
+     "type": "table",
+     "title": "Les mots de fréquence",
+     "head": [
+      "Mot",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "chaque jour, tous les matins",
+       "Tous les matins, il **balaie** la cour."
+      ],
+      [
+       "souvent, parfois, toujours",
+       "Elle **chante** souvent."
+      ],
+      [
+       "le lundi, le soir",
+       "Le soir, nous **veillons** près du feu."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas une action en cours",
+     "text": "« Il **fume** » peut dire qu’il est en train de fumer ou que c’est son habitude. Les **mots de fréquence** et le **contexte** aident à choisir."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot indique un présent d’habitude ?",
+     "options": [
+      "maintenant",
+      "hier",
+      "souvent",
+      "demain"
+     ],
+     "answer": 2,
+     "explain": "« Souvent » indique que l’action se répète : c’est une habitude."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne le mot qui indique l’habitude.",
+     "items": [
+      "Le samedi, Awa vend des fruits.",
+      "Chaque soir, nous écoutons des contes.",
+      "Papa travaille toujours à l’heure."
+     ],
+     "corrige": [
+      "1. *le samedi*",
+      "2. *chaque soir*",
+      "3. *toujours*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le présent de vérité générale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certaines phrases sont **vraies tout le temps** : elles ne dépendent pas d’un moment précis. On les trouve dans les leçons, les définitions et les **proverbes**."
+    },
+    {
+     "type": "ex",
+     "text": "La Terre **tourne** autour du Soleil. — Les poissons **vivent** dans l’eau. — Le feu **brûle**."
+    },
+    {
+     "type": "def",
+     "label": "Présent de vérité générale",
+     "text": "Le **présent de vérité générale** exprime un fait **toujours vrai**, une règle, un proverbe. Il n’est pas lié à un moment précis."
+    },
+    {
+     "type": "table",
+     "title": "Où le trouve-t-on ?",
+     "head": [
+      "Où ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "dans une leçon de sciences",
+       "L’eau **gèle** à 0 °C."
+      ],
+      [
+       "dans une définition",
+       "Un verbe **exprime** une action."
+      ],
+      [
+       "dans un proverbe",
+       "Petit à petit, l’oiseau **fait** son nid."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Test",
+     "text": "Ajoute « **toujours** » à la phrase. Si elle reste vraie, c’est un présent de vérité générale."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est un présent de vérité générale ?",
+     "options": [
+      "Je mange du riz.",
+      "L’eau bout à 100 °C.",
+      "Hier, il a plu.",
+      "Demain, nous partirons."
+     ],
+     "answer": 1,
+     "explain": "C’est un fait toujours vrai."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la phrase est une vérité générale (oui ou non).",
+     "items": [
+      "Le soleil se lève à l’est.",
+      "Mon frère dort.",
+      "Les oiseaux ont des plumes."
+     ],
+     "corrige": [
+      "1. oui",
+      "2. non (action en cours)",
+      "3. oui"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le présent de narration",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un récit ou un livre d’histoire, on raconte parfois un événement **passé** au **présent** pour le rendre plus **vivant**. C’est le **présent de narration** (ou présent historique)."
+    },
+    {
+     "type": "ex",
+     "text": "En 1960, le Congo **devient** indépendant. — Soudain, un lion **surgit** et tout le monde **s’enfuit**."
+    },
+    {
+     "type": "def",
+     "label": "Présent de narration",
+     "text": "Le **présent de narration** raconte des faits **passés** comme s’ils se déroulaient **sous nos yeux**. Il donne de la **vivacité** au récit."
+    },
+    {
+     "type": "table",
+     "title": "Le même fait, deux temps",
+     "head": [
+      "Au passé",
+      "Au présent de narration"
+     ],
+     "rows": [
+      [
+       "Un soir, la pluie **a commencé**.",
+       "Un soir, la pluie **commence**."
+      ],
+      [
+       "Le roi **est entré**.",
+       "Le roi **entre**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Des repères de date",
+     "text": "Le présent de narration est souvent accompagné d’une **date** ou d’un mot comme « **soudain** » : « **En 1960**, le Congo **devient** indépendant. »"
+    },
+    {
+     "type": "warn",
+     "label": "Reste cohérent",
+     "text": "Si tu racontes au présent, garde le présent dans tout le passage, sauf pour un fait **antérieur**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au présent de narration ?",
+     "options": [
+      "Je pars demain.",
+      "En 1884, la conférence de Berlin s’ouvre.",
+      "Il fait chaud.",
+      "Tous les jours, il joue."
+     ],
+     "answer": 1,
+     "explain": "La date renvoie au passé, mais le verbe est au présent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ce récit au présent de narration : « Un matin, Awa a ouvert la porte. Elle a vu un serpent. »",
+     "items": [
+      "Récris le texte au présent."
+     ],
+     "corrige": "« Un matin, Awa ouvre la porte. Elle voit un serpent. »"
+    }
+   ]
+  },
+  {
+   "t": "Le présent de futur proche et de passé récent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le présent peut aussi parler d’un fait **qui va arriver** ou **qui vient d’arriver**."
+    },
+    {
+     "type": "table",
+     "title": "Futur proche et passé récent",
+     "head": [
+      "Valeur",
+      "Comment ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "futur proche",
+       "présent seul ou aller + infinitif",
+       "Demain, je **pars**. — Je **vais partir**."
+      ],
+      [
+       "passé récent",
+       "venir de + infinitif",
+       "Je **viens de finir** mon devoir."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Attends, j’**arrive** ! → j’arriverai dans un instant. — Il **vient de sortir** → il est sorti il y a peu."
+    },
+    {
+     "type": "def",
+     "label": "Futur proche",
+     "text": "Le présent exprime un fait qui va arriver **très bientôt** : « Dans cinq minutes, **le train part**. »"
+    },
+    {
+     "type": "warn",
+     "label": "Un temps, plusieurs sens",
+     "text": "« Je pars. » peut dire que je suis en train de partir, que je partirai bientôt, ou que c’est mon habitude. Le **contexte** t’aide à choisir."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je viens de finir ma leçon. », quelle valeur ?",
+     "options": [
+      "futur proche",
+      "passé récent",
+      "vérité générale",
+      "habitude"
+     ],
+     "answer": 1,
+     "explain": "« venir de + infinitif » exprime un passé récent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la phrase exprime un futur proche ou un passé récent.",
+     "items": [
+      "Il vient d’arriver.",
+      "Nous partons dans dix minutes.",
+      "Elle vient de téléphoner."
+     ],
+     "corrige": [
+      "1. passé récent",
+      "2. futur proche",
+      "3. passé récent"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître et employer le présent à bon escient",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver la valeur du présent, on s’appuie sur le **contexte** : les mots autour du verbe et le **sens** de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif des valeurs",
+     "head": [
+      "Valeur",
+      "Indice",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "actuelle",
+       "maintenant, en ce moment",
+       "Je **lis** en ce moment."
+      ],
+      [
+       "d’habitude",
+       "chaque jour, souvent",
+       "Chaque jour, il **court**."
+      ],
+      [
+       "vérité générale",
+       "toujours vrai",
+       "Le feu **brûle**."
+      ],
+      [
+       "narration",
+       "date passée, récit",
+       "En 1960, le Congo **devient** indépendant."
+      ],
+      [
+       "futur proche / passé récent",
+       "demain / venir de",
+       "Demain, je **pars**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Une méthode en trois étapes"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je **repère le verbe** au présent.",
+      "Je cherche les **mots de temps** autour de lui.",
+      "Je me demande : **quand** l’action a-t-elle lieu ?"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Écrire avec le présent",
+     "text": "Dans un dialogue, une explication ou une règle, le présent s’impose. Dans un récit, reste cohérent avec le temps choisi."
+    },
+    {
+     "type": "quiz",
+     "question": "« L’éléphant est un animal herbivore. » Quelle valeur ?",
+     "options": [
+      "narration",
+      "habitude",
+      "vérité générale",
+      "passé récent"
+     ],
+     "answer": 2,
+     "explain": "C’est un fait toujours vrai."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du présent dans chaque phrase.",
+     "items": [
+      "Le soir, nous veillons.",
+      "Il pleut en ce moment.",
+      "Les oiseaux pondent des œufs.",
+      "Tout à coup, la porte s’ouvre."
+     ],
+     "corrige": [
+      "1. habitude",
+      "2. instant présent",
+      "3. vérité générale",
+      "4. narration"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **choisit**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du présent.",
+     "items": [
+      "Je range ma chambre en ce moment.",
+      "Chaque matin, Papa prépare le café.",
+      "Le soleil se couche à l’ouest.",
+      "En 1960, le Congo devient indépendant."
+     ],
+     "corrige": [
+      "1. instant présent",
+      "2. habitude",
+      "3. vérité générale",
+      "4. narration"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel indice marque une habitude ?",
+     "options": [
+      "en ce moment",
+      "toujours vrai",
+      "souvent",
+      "tout à coup"
+     ],
+     "answer": 2,
+     "explain": "« Souvent » indique une répétition."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : compléter et transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe entre parenthèses au présent.",
+     "items": [
+      "Chaque matin, nous (aller) à l’école.",
+      "L’eau (geler) à 0 °C.",
+      "Tout à coup, un bruit (retentir)."
+     ],
+     "corrige": [
+      "1. allons",
+      "2. gèle",
+      "3. retentit"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au présent de narration.",
+     "items": [
+      "Le roi est entré dans la salle. Il a salué la foule."
+     ],
+     "corrige": "Le roi entre dans la salle. Il salue la foule."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque valeur du présent.",
+     "items": [
+      "instant présent",
+      "habitude",
+      "vérité générale"
+     ],
+     "corrige": "Réponses possibles : *Je lis un conte.* — *Chaque soir, nous veillons.* — *Le feu brûle.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le présent a **plusieurs valeurs**.",
+      "**Instant présent** : l’action a lieu maintenant.",
+      "**Habitude** : l’action se répète.",
+      "**Vérité générale** : le fait est toujours vrai.",
+      "**Narration** : un fait passé raconté au présent.",
+      "**Futur proche** et **passé récent** : *je pars* ; *je viens de finir*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du présent",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "instant présent",
+       "Je lis."
+      ],
+      [
+       "habitude",
+       "Il joue le samedi."
+      ],
+      [
+       "vérité générale",
+       "Le feu brûle."
+      ],
+      [
+       "narration",
+       "En 1960, le Congo devient indépendant."
+      ],
+      [
+       "futur proche",
+       "Je pars demain."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les poissons vivent dans l’eau. », quelle valeur ?",
+     "options": [
+      "habitude",
+      "narration",
+      "vérité générale",
+      "instant présent"
+     ],
+     "answer": 2,
+     "explain": "C’est un fait toujours vrai."
+    }
+   ]
+  }
+ ]
+}
