@@ -1,0 +1,125 @@
+{
+ "id": 0,
+ "sections": [
+  {
+   "t": "Exemple de tous les blocs",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un paragraphe avec du **gras** et de l’*italique*."
+    },
+    {
+     "type": "def",
+     "label": "Groupe nominal (GN)",
+     "text": "Un groupe nominal est un ensemble de mots organisé autour d’un **nom**, le noyau."
+    },
+    {
+     "type": "schema",
+     "title": "Un groupe nominal décortiqué",
+     "cells": [
+      {
+       "mot": "La",
+       "role": "déterminant"
+      },
+      {
+       "mot": "petite",
+       "role": "adjectif"
+      },
+      {
+       "mot": "maison",
+       "role": "noyau",
+       "noyau": true
+      },
+      {
+       "mot": "du village",
+       "role": "complément du nom"
+      }
+     ],
+     "note": "Le noyau est le mot autour duquel tout s’organise."
+    },
+    {
+     "type": "h",
+     "text": "Le noyau : le mot qu’on ne peut pas supprimer"
+    },
+    {
+     "type": "test",
+     "title": "Le test de suppression",
+     "lines": [
+      "La **petite** maison du village est blanche. → on peut supprimer « petite »."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les éléments d’un groupe nominal",
+     "head": [
+      "Élément",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Déterminant",
+       "Présente le nom",
+       "le, une, mes"
+      ],
+      [
+       "Nom noyau",
+       "Donne le sens principal",
+       "maison"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "premier point",
+      "second point"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Paul », « les enfants » : ce sont des groupes nominaux courts."
+    },
+    {
+     "type": "tip",
+     "text": "Un groupe nominal peut être très court ou très long."
+    },
+    {
+     "type": "warn",
+     "text": "Ne confondez pas **groupe nominal** et **nom**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon grand frère joue au ballon », quel est le noyau du groupe nominal sujet ?",
+     "options": [
+      "Mon",
+      "grand",
+      "frère",
+      "joue"
+     ],
+     "answer": 2,
+     "explain": "« frère » est le seul mot qu’on ne peut pas supprimer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Entoure le noyau de chaque groupe nominal.",
+     "items": [
+      "la grande table",
+      "mes vieux amis"
+     ],
+     "corrige": [
+      "la grande **table**",
+      "mes vieux **amis**"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Un groupe nominal s’organise autour d’un nom.",
+      "Le noyau est le seul mot qu’on ne peut pas supprimer."
+     ]
+    }
+   ]
+  }
+ ]
+}

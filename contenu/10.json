@@ -1,0 +1,825 @@
+{
+ "id": 10,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un complément circonstanciel ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase donne l’information principale : *qui fait quoi ?* Mais on a souvent besoin de préciser **quand**, **où**, **comment** ou **pourquoi** l’action se passe. Ces précisions sont des **compléments circonstanciels**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre à quoi sert un complément circonstanciel",
+      "Le reconnaître dans une phrase",
+      "Dire de quelle circonstance il s’agit (lieu, temps, manière…)"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Complément circonstanciel",
+     "text": "Un **complément circonstanciel** (on écrit souvent **CC**) indique les **circonstances** de l’action : le lieu, le temps, la manière, la cause, le but… Il est **facultatif** : on peut le supprimer sans que la phrase devienne incorrecte. On parle aussi de **complément de phrase**."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase avec deux compléments circonstanciels",
+     "cells": [
+      {
+       "mot": "Ce matin",
+       "role": "CC de temps"
+      },
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "achète",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "des mangues",
+       "role": "COD"
+      },
+      {
+       "mot": "au marché",
+       "role": "CC de lieu"
+      }
+     ],
+     "note": "Le COD *des mangues* est nécessaire. Les deux CC (*ce matin* et *au marché*) sont facultatifs."
+    },
+    {
+     "type": "test",
+     "title": "Un CC peut être supprimé",
+     "lines": [
+      "Ce matin, Awa achète des mangues au marché.",
+      "Awa achète des mangues. → la phrase reste correcte, mais on en sait moins."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les questions à poser",
+     "text": "Pour trouver un CC, pose après le verbe et son sujet les questions **où ?** **quand ?** **comment ?** **pourquoi ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Les élèves chantent **dans la cour**. (*où ?*)\nIl pleut **depuis hier**. (*depuis quand ?*)\nElle répond **poliment**. (*comment ?*)"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le soir, les enfants jouent dehors. », combien y a-t-il de compléments circonstanciels ?",
+     "options": [
+      "Aucun",
+      "Un",
+      "Deux",
+      "Trois"
+     ],
+     "answer": 2,
+     "explain": "*Le soir* (temps) et *dehors* (lieu) sont deux CC. On peut les supprimer : *Les enfants jouent.*"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément circonstanciel de chaque phrase.",
+     "items": [
+      "Le coq chante **à l’aube**.",
+      "Nous rangeons nos cahiers **dans le cartable**.",
+      "**Hier**, mon oncle est arrivé.",
+      "Le chat dort **tranquillement**."
+     ],
+     "corrige": [
+      "1. *à l’aube*",
+      "2. *dans le cartable*",
+      "3. *Hier*",
+      "4. *tranquillement*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître un complément circonstanciel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour être sûr qu’un groupe de mots est un CC, on fait des **tests** simples. Ils servent aussi à ne pas le confondre avec un complément d’objet."
+    },
+    {
+     "type": "table",
+     "title": "Les tests",
+     "head": [
+      "Test",
+      "Comment faire",
+      "Pour un CC"
+     ],
+     "rows": [
+      [
+       "1. Supprimer",
+       "on enlève le groupe de mots",
+       "la phrase reste correcte"
+      ],
+      [
+       "2. Déplacer",
+       "on le met au début de la phrase",
+       "la phrase reste correcte"
+      ],
+      [
+       "3. Poser une question",
+       "où ? quand ? comment ? pourquoi ?",
+       "on obtient une réponse"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Supprimer et déplacer",
+     "lines": [
+      "Les élèves lisent à la bibliothèque.",
+      "Les élèves lisent. → correct : *à la bibliothèque* est facultatif.",
+      "À la bibliothèque, les élèves lisent. → correct : il se déplace."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Différence avec le COD",
+     "text": "Un COD ne se supprime pas : dans « Awa achète **des mangues**. », si on enlève *des mangues*, il reste « Awa achète. » et le sens est incomplet. Le COD ne se déplace pas non plus."
+    },
+    {
+     "type": "warn",
+     "label": "Différence avec le COI",
+     "text": "Un COI ne se supprime pas non plus : « Les élèves obéissent **au maître**. » devient « Les élèves obéissent. », ce qui est incomplet. Ce n’est donc pas un CC, même s’il y a une préposition."
+    },
+    {
+     "type": "tip",
+     "label": "Un CC se déplace",
+     "text": "Un CC peut se placer au début, au milieu ou à la fin de la phrase : *Demain, nous partons.* — *Nous partons demain.*"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Nous mangeons **dehors**. → **Dehors**, nous mangeons. → *dehors* est un CC de lieu.\nIl joue **après l’école**. → **Après l’école**, il joue. → CC de temps."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon oncle range les outils dans l’atelier. », quel groupe est un CC ?",
+     "options": [
+      "Mon oncle",
+      "les outils",
+      "dans l’atelier",
+      "range"
+     ],
+     "answer": 2,
+     "explain": "On peut supprimer *dans l’atelier* ou le déplacer : « Dans l’atelier, mon oncle range les outils. » C’est un CC de lieu. *Les outils* est un COD."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Supprime puis déplace le groupe en gras. Dis si c’est un CC.",
+     "items": [
+      "Tu travailles **le dimanche**.",
+      "Je lis **un roman**.",
+      "Ils jouent **dans le jardin**."
+     ],
+     "corrige": [
+      "1. Tu travailles. / Le dimanche, tu travailles. → CC de temps",
+      "2. *Je lis.* : le sens change, et on ne peut pas dire *Un roman, je lis.* → COD, pas un CC",
+      "3. Ils jouent. / Dans le jardin, ils jouent. → CC de lieu"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le lieu, le temps et la manière",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Selon la question à laquelle il répond, un CC exprime une **circonstance** différente. Voici les trois plus fréquentes."
+    },
+    {
+     "type": "h",
+     "text": "Le complément circonstanciel de lieu"
+    },
+    {
+     "type": "def",
+     "label": "CC de lieu",
+     "text": "Il indique **où** se passe l’action. Question : **où ?** (et aussi *d’où ? par où ? vers où ?*)."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Les enfants jouent **sur la place**.\nNous revenons **du marché**.\nLe bateau avance **vers la côte**."
+    },
+    {
+     "type": "h",
+     "text": "Le complément circonstanciel de temps"
+    },
+    {
+     "type": "def",
+     "label": "CC de temps",
+     "text": "Il indique **quand** se passe l’action, ou **combien de temps** elle dure. Questions : **quand ?** **depuis quand ?** **pendant combien de temps ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Demain**, nous visiterons le musée.\nIl pleut **depuis hier**.\nAwa a dormi **pendant deux heures**."
+    },
+    {
+     "type": "h",
+     "text": "Le complément circonstanciel de manière"
+    },
+    {
+     "type": "def",
+     "label": "CC de manière",
+     "text": "Il indique **comment** se fait l’action. Question : **comment ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il marche **lentement**.\nElle répond **avec politesse**.\nIls sont partis **sans bruit**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois circonstances",
+     "head": [
+      "Circonstance",
+      "Question",
+      "Mots souvent utilisés"
+     ],
+     "rows": [
+      [
+       "lieu",
+       "où ?",
+       "dans, sur, sous, devant, chez, à, vers, ici, partout"
+      ],
+      [
+       "temps",
+       "quand ?",
+       "hier, demain, le soir, pendant, depuis, après, souvent"
+      ],
+      [
+       "manière",
+       "comment ?",
+       "les adverbes en *-ment*, avec, sans, à la façon de"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Ne te fie pas qu’au mot",
+     "text": "Le même mot peut exprimer des circonstances différentes. Pose toujours la **question** : *Il court **vers la maison*** (où ?) ; *Il court **vers midi*** (quand ?)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les élèves sortent calmement », quelle circonstance exprime *calmement* ?",
+     "options": [
+      "le lieu",
+      "le temps",
+      "la manière",
+      "la cause"
+     ],
+     "answer": 2,
+     "explain": "*Calmement* répond à la question « comment ? » : c’est un CC de manière."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la circonstance (lieu, temps ou manière) exprimée par le groupe en gras.",
+     "items": [
+      "Je t’appelle **ce soir**.",
+      "Les oiseaux volent **au-dessus de la forêt**.",
+      "Elle écrit **soigneusement**.",
+      "Nous nous reposons **à l’ombre**.",
+      "Il neige **depuis trois jours**."
+     ],
+     "corrige": [
+      "1. temps (*quand ?*)",
+      "2. lieu (*où ?*)",
+      "3. manière (*comment ?*)",
+      "4. lieu (*où ?*)",
+      "5. temps (*depuis quand ?*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La cause, le but, le moyen et les autres circonstances",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un CC peut aussi dire **pourquoi** l’action a lieu, **avec quoi** elle se fait, ou **avec qui**. Ces circonstances demandent un peu plus d’attention."
+    },
+    {
+     "type": "h",
+     "text": "La cause et le but"
+    },
+    {
+     "type": "def",
+     "label": "CC de cause",
+     "text": "Il indique **la raison** pour laquelle l’action se produit. Question : **pourquoi ? pour quelle raison ?** Mots fréquents : *à cause de, grâce à, par, faute de*."
+    },
+    {
+     "type": "def",
+     "label": "CC de but",
+     "text": "Il indique **ce que l’on veut obtenir**. Questions : **dans quel but ? pour quoi faire ?** Mots fréquents : *pour, afin de*."
+    },
+    {
+     "type": "table",
+     "title": "Cause ou but ?",
+     "head": [
+      "Critère",
+      "La cause",
+      "Le but"
+     ],
+     "rows": [
+      [
+       "question",
+       "pourquoi ?",
+       "dans quel but ?"
+      ],
+      [
+       "sens",
+       "la raison, qui vient avant",
+       "le résultat voulu, qui vient après"
+      ],
+      [
+       "exemple",
+       "Il est en retard **à cause de la pluie**.",
+       "Il court **pour attraper le bus**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le moyen"
+    },
+    {
+     "type": "def",
+     "label": "CC de moyen",
+     "text": "Il indique **avec quoi** ou **par quel moyen** on fait l’action. Questions : **avec quoi ? comment ?** Mots fréquents : *avec, par, en*."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il ouvre la porte **avec une clé**.\nNous voyageons **en train**.\nElle envoie son message **par courriel**."
+    },
+    {
+     "type": "warn",
+     "label": "Le petit mot *avec*",
+     "text": "*Avec* peut introduire plusieurs circonstances. Pose la question : « Elle répond **avec joie**. » (*comment ?* → manière) ; « Il coupe le pain **avec un couteau**. » (*avec quoi ?* → moyen) ; « Awa joue **avec sa cousine**. » (*avec qui ?* → accompagnement)."
+    },
+    {
+     "type": "h",
+     "text": "Quelques autres circonstances"
+    },
+    {
+     "type": "table",
+     "title": "Pour aller plus loin",
+     "head": [
+      "Circonstance",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "accompagnement",
+       "avec qui ?",
+       "Awa joue **avec sa cousine**."
+      ],
+      [
+       "condition",
+       "à quelle condition ?",
+       "**En cas de pluie**, le match est annulé."
+      ],
+      [
+       "opposition",
+       "malgré quoi ?",
+       "**Malgré la fatigue**, il continue."
+      ],
+      [
+       "comparaison",
+       "comme quoi ?",
+       "Il court **comme un lièvre**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il travaille dur pour réussir son examen », que exprime *pour réussir son examen* ?",
+     "options": [
+      "la cause",
+      "le but",
+      "le moyen",
+      "le lieu"
+     ],
+     "answer": 1,
+     "explain": "Il travaille *dans quel but ?* — pour réussir son examen. C’est un CC de but."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la circonstance exprimée par le groupe en gras.",
+     "items": [
+      "Nous restons à la maison **à cause de l’orage**.",
+      "Il écrit **avec un stylo noir**.",
+      "Elle étudie **pour devenir médecin**.",
+      "Je pars **avec mon frère**.",
+      "**Malgré le vent**, les pêcheurs sortent."
+     ],
+     "corrige": [
+      "1. cause",
+      "2. moyen",
+      "3. but",
+      "4. accompagnement",
+      "5. opposition"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La nature des compléments circonstanciels",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Jusqu’ici, nous avons regardé le **sens** du CC (lieu, temps…). On peut aussi regarder sa **nature** : de quel genre de mot ou de groupe de mots s’agit-il ?"
+    },
+    {
+     "type": "table",
+     "title": "Les natures possibles",
+     "head": [
+      "Nature",
+      "Exemple (le CC est en gras)"
+     ],
+     "rows": [
+      [
+       "un adverbe",
+       "Nous partons **demain**."
+      ],
+      [
+       "un groupe nominal",
+       "**Ce matin**, il pleut."
+      ],
+      [
+       "un groupe nominal avec préposition",
+       "Nous mangeons **à la cantine**."
+      ],
+      [
+       "un verbe à l’infinitif",
+       "Il court **pour attraper le bus**."
+      ],
+      [
+       "une proposition subordonnée",
+       "Nous rentrerons **quand la pluie s’arrêtera**."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Proposition subordonnée circonstancielle",
+     "text": "C’est une partie de phrase qui a **son propre verbe** et qui commence par un mot comme *quand, parce que, pour que, si*. Elle joue le rôle d’un CC dans la phrase principale."
+    },
+    {
+     "type": "table",
+     "title": "Les mots qui introduisent une subordonnée",
+     "head": [
+      "Circonstance",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps",
+       "quand, lorsque, pendant que, dès que",
+       "**Dès que la cloche sonne**, nous sortons."
+      ],
+      [
+       "cause",
+       "parce que, puisque, comme",
+       "Il reste au lit **parce qu’il est malade**."
+      ],
+      [
+       "but",
+       "pour que, afin que",
+       "Je parle fort **pour que tu m’entendes**."
+      ],
+      [
+       "condition",
+       "si",
+       "**S’il pleut**, nous resterons ici."
+      ],
+      [
+       "opposition",
+       "bien que, alors que",
+       "Il sort **bien qu’il pleuve**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le mot *comme*",
+     "text": "*Comme* peut exprimer la cause (« **Comme il pleut**, nous restons. ») ou la comparaison (« Il court **comme un lièvre**. »). C’est le sens qui décide."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quand la cloche sonne, les élèves rentrent. », quelle est la nature du CC ?",
+     "options": [
+      "un adverbe",
+      "un groupe nominal",
+      "une proposition subordonnée",
+      "un verbe à l’infinitif"
+     ],
+     "answer": 2,
+     "explain": "*Quand la cloche sonne* contient son propre verbe (*sonne*) et commence par *quand* : c’est une proposition subordonnée de temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature du CC en gras.",
+     "items": [
+      "Il viendra **demain**.",
+      "Nous marchons **sur le chemin**.",
+      "Je révise **pour réussir**.",
+      "Il rentre **parce qu’il a faim**.",
+      "**Ce soir**, nous dînons dehors."
+     ],
+     "corrige": [
+      "1. adverbe",
+      "2. groupe nominal avec préposition",
+      "3. verbe à l’infinitif",
+      "4. proposition subordonnée",
+      "5. groupe nominal (sans préposition)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Place, ponctuation et pièges à éviter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un CC est mobile : on le trouve à différents endroits de la phrase. Sa place change parfois la **ponctuation**."
+    },
+    {
+     "type": "table",
+     "title": "La place du CC",
+     "head": [
+      "Place",
+      "Exemple",
+      "Virgule ?"
+     ],
+     "rows": [
+      [
+       "au début",
+       "**Demain**, nous partons.",
+       "oui, après le CC"
+      ],
+      [
+       "au milieu",
+       "Nous, **demain**, partons.",
+       "oui, avant et après"
+      ],
+      [
+       "à la fin",
+       "Nous partons **demain**.",
+       "non (en général)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "La virgule",
+     "text": "Quand un CC est au **début** de la phrase, on met en général une **virgule** après lui : *Le matin, il lit.* Pour un CC très court (*Hier il pleuvait.*), la virgule peut manquer."
+    },
+    {
+     "type": "h",
+     "text": "Plusieurs CC dans une même phrase"
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase avec trois compléments circonstanciels",
+     "cells": [
+      {
+       "mot": "Ce matin",
+       "role": "CC de temps"
+      },
+      {
+       "mot": "au marché",
+       "role": "CC de lieu"
+      },
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "achète",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "des mangues",
+       "role": "COD"
+      },
+      {
+       "mot": "avec sa mère",
+       "role": "CC d’accompagnement"
+      }
+     ],
+     "note": "Une phrase peut avoir plusieurs CC de sens différents. Ils sont tous facultatifs."
+    },
+    {
+     "type": "h",
+     "text": "Ne pas confondre CC et COI"
+    },
+    {
+     "type": "warn",
+     "label": "La même préposition, deux fonctions",
+     "text": "« Le chien obéit **à son maître**. » → COI (on ne peut pas le supprimer).\n« Le chien dort **à la maison**. » → CC de lieu (on peut le supprimer : *Le chien dort.*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le facteur distribue le courrier le matin. », quel groupe est un CC ?",
+     "options": [
+      "Le facteur",
+      "le courrier",
+      "le matin",
+      "distribue"
+     ],
+     "answer": 2,
+     "explain": "*Le matin* répond à « quand ? », se supprime et se déplace : c’est un CC de temps. *Le courrier* est un COD."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Déplace le CC au début de la phrase, puis mets la virgule.",
+     "items": [
+      "Les enfants jouent dans la cour.",
+      "Nous irons au cinéma samedi.",
+      "Awa chante en se promenant."
+     ],
+     "corrige": [
+      "1. *Dans la cour, les enfants jouent.*",
+      "2. *Samedi, nous irons au cinéma.*",
+      "3. *En se promenant, Awa chante.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **identifie la circonstance**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève tous les compléments circonstanciels de chaque phrase.",
+     "items": [
+      "Le lundi, mon père travaille à l’usine.",
+      "Les élèves sortent dans la cour pendant la récréation.",
+      "Nous voyageons en bus jusqu’à la ville.",
+      "Ce soir, grand-mère raconte une histoire."
+     ],
+     "corrige": [
+      "1. *Le lundi*, *à l’usine*",
+      "2. *dans la cour*, *pendant la récréation*",
+      "3. *en bus*, *jusqu’à la ville*",
+      "4. *Ce soir* (*une histoire* est un COD)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe n’est PAS un CC dans « Hier, Awa a lu un livre dans sa chambre » ?",
+     "options": [
+      "Hier",
+      "un livre",
+      "dans sa chambre",
+      "Les trois sont des CC"
+     ],
+     "answer": 1,
+     "explain": "*Un livre* est un COD : il ne se supprime pas. *Hier* (temps) et *dans sa chambre* (lieu) sont des CC."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : identifier la circonstance"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la circonstance exprimée par chaque CC : lieu, temps, manière, cause, but, moyen ou accompagnement.",
+     "items": [
+      "Il travaille **avec courage**.",
+      "Nous partons **à l’aube**.",
+      "Elle pleure **de joie**.",
+      "Tu coupes la viande **avec un couteau**.",
+      "Les élèves vont à l’école **pour apprendre**.",
+      "Je vais au marché **avec ma voisine**."
+     ],
+     "corrige": [
+      "1. manière",
+      "2. temps",
+      "3. cause (*pourquoi ?*)",
+      "4. moyen",
+      "5. but",
+      "6. accompagnement"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un CC de cause ?",
+     "options": [
+      "Il court pour gagner la course.",
+      "Il court à cause de la pluie.",
+      "Il court dans le stade.",
+      "Il court rapidement."
+     ],
+     "answer": 1,
+     "explain": "*À cause de la pluie* répond à « pourquoi ? » : c’est une cause. Les autres CC expriment le but, le lieu et la manière."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "une phrase avec un CC de lieu",
+      "une phrase avec un CC de temps au début",
+      "une phrase avec un CC de but",
+      "une phrase avec deux CC"
+     ],
+     "corrige": "Réponses possibles : *Les enfants jouent dans le jardin.* — *Le soir, nous dînons ensemble.* — *Je révise pour réussir.* — *Ce matin, Awa lit au salon.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **complément circonstanciel (CC)** indique les **circonstances** de l’action : lieu, temps, manière, cause, but, moyen…",
+      "Il est **facultatif** : on peut le **supprimer** et le **déplacer**.",
+      "On le trouve avec les questions **où ? quand ? comment ? pourquoi ?**",
+      "Sa **nature** peut être un adverbe, un groupe nominal (avec ou sans préposition), un infinitif ou une proposition subordonnée.",
+      "Au début d’une phrase, un CC est en général suivi d’une **virgule**.",
+      "Ne confonds pas le CC avec le **COD** et le **COI**, qui ne se suppriment pas."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Circonstance",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "lieu",
+       "où ?",
+       "Il joue **dans la cour**."
+      ],
+      [
+       "temps",
+       "quand ?",
+       "**Demain**, nous partons."
+      ],
+      [
+       "manière",
+       "comment ?",
+       "Elle parle **doucement**."
+      ],
+      [
+       "cause",
+       "pourquoi ?",
+       "Il reste **à cause de la pluie**."
+      ],
+      [
+       "but",
+       "dans quel but ?",
+       "Il court **pour gagner**."
+      ],
+      [
+       "moyen",
+       "avec quoi ?",
+       "Il coupe **avec un couteau**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel test permet de reconnaître un complément circonstanciel ?",
+     "options": [
+      "On ne peut ni le supprimer ni le déplacer",
+      "On peut le supprimer et le déplacer",
+      "Il répond toujours à « qui ? quoi ? »",
+      "Il est toujours placé à la fin"
+     ],
+     "answer": 1,
+     "explain": "Un CC est facultatif : on peut le supprimer et le déplacer sans rendre la phrase incorrecte."
+    }
+   ]
+  }
+ ]
+}

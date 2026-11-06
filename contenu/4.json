@@ -1,0 +1,584 @@
+{
+ "id": 4,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un type de phrase ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand tu parles ou que tu écris, tu n’as pas toujours la même intention : tu informes, tu poses une question, tu donnes un ordre ou tu t’exclames. À chaque intention correspond un **type de phrase**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Savoir ce qu’est un type de phrase",
+      "Reconnaître les quatre types",
+      "Utiliser la bonne ponctuation"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Type de phrase",
+     "text": "Le **type de phrase** indique ce que veut faire celui qui parle : *informer*, *poser une question*, *donner un ordre* ou *exprimer un sentiment*. Il y a **quatre types** de phrases. Une phrase appartient toujours à **un seul** type."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre types",
+     "head": [
+      "Type",
+      "Intention",
+      "Ponctuation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "déclaratif",
+       "informer, raconter, décrire",
+       "point ( . )",
+       "Il pleut ce matin."
+      ],
+      [
+       "interrogatif",
+       "poser une question",
+       "point d’interrogation ( ? )",
+       "Pleut-il ce matin ?"
+      ],
+      [
+       "impératif",
+       "ordonner, conseiller, interdire",
+       "point ( . ) ou point d’exclamation ( ! )",
+       "Prends ton parapluie !"
+      ],
+      [
+       "exclamatif",
+       "exprimer une émotion",
+       "point d’exclamation ( ! )",
+       "Quelle averse !"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour trouver le type",
+     "text": "Demande-toi : **que veut faire celui qui parle ?** Il informe → déclarative. Il questionne → interrogative. Il ordonne → impérative. Il exprime un sentiment → exclamative."
+    },
+    {
+     "type": "warn",
+     "label": "Attention à la ponctuation",
+     "text": "Ne te fie pas seulement au point d’exclamation : « Viens ici ! » est une phrase **impérative** (c’est un ordre), pas une phrase exclamative."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le type de la phrase « Ouvre la fenêtre, s’il te plaît. » ?",
+     "options": [
+      "Déclarative",
+      "Interrogative",
+      "Impérative",
+      "Exclamative"
+     ],
+     "answer": 2,
+     "explain": "Le verbe est à l’impératif, sans sujet, et la phrase exprime une demande : c’est une phrase impérative."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’intention de chaque phrase : informer, questionner, ordonner ou exprimer une émotion.",
+     "items": [
+      "Le marché ouvre à sept heures.",
+      "Quand ouvre le marché ?",
+      "Ouvre vite le portail !",
+      "Comme ce marché est animé !"
+     ],
+     "corrige": [
+      "1. informer",
+      "2. questionner",
+      "3. ordonner",
+      "4. exprimer une émotion"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La phrase déclarative",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Informer, raconter, décrire"
+    },
+    {
+     "type": "def",
+     "label": "Phrase déclarative",
+     "text": "La phrase **déclarative** sert à **donner une information**, à **raconter** ou à **décrire**. Elle se termine par un **point** ( . ). À l’oral, la voix **descend** à la fin."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Ma sœur habite à Brazzaville.\nIl faisait nuit quand nous sommes arrivés.\nLe marché est très animé le samedi."
+    },
+    {
+     "type": "tip",
+     "label": "Le type le plus fréquent",
+     "text": "Dans un texte, la plupart des phrases sont déclaratives : ce sont elles qui font avancer le récit et qui donnent les informations."
+    },
+    {
+     "type": "warn",
+     "label": "Déclarative ne veut pas dire affirmative",
+     "text": "Une phrase **négative** n’est pas d’un autre type : « Je ne sais pas. » est une phrase déclarative (à la forme négative). Le type et la forme sont deux choses différentes."
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces phrases est déclarative ?",
+     "options": [
+      "Où vas-tu ?",
+      "Je vais au marché.",
+      "Va au marché !",
+      "Quel beau marché !"
+     ],
+     "answer": 1,
+     "explain": "*Je vais au marché.* donne une information et se termine par un point."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase déclarative pour chaque consigne.",
+     "items": [
+      "Présente ta ville.",
+      "Décris ton meilleur ami.",
+      "Raconte ce que tu as fait hier."
+     ],
+     "corrige": "Réponses possibles : *J’habite à Pointe-Noire, une ville au bord de la mer.* — *Mon meilleur ami est grand et très drôle.* — *Hier, j’ai aidé ma mère au marché.*"
+    }
+   ]
+  },
+  {
+   "t": "La phrase interrogative",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Poser une question"
+    },
+    {
+     "type": "def",
+     "label": "Phrase interrogative",
+     "text": "La phrase **interrogative** sert à **poser une question**. Elle se termine par un **point d’interrogation** ( ? ). À l’oral, la voix **monte** à la fin."
+    },
+    {
+     "type": "h",
+     "text": "Interrogation totale et interrogation partielle"
+    },
+    {
+     "type": "table",
+     "title": "Deux sortes d’interrogation",
+     "head": [
+      "Interrogation",
+      "Réponse attendue",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "totale",
+       "oui ou non",
+       "Tu viens demain ?"
+      ],
+      [
+       "partielle",
+       "une information précise (avec un mot interrogatif)",
+       "Quand viens-tu ?"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "**qui, que, quoi, quel(le)(s), lequel**",
+      "**où, quand, comment, pourquoi, combien**"
+     ],
+     "label": "Les mots interrogatifs"
+    },
+    {
+     "type": "h",
+     "text": "Trois façons de poser la question"
+    },
+    {
+     "type": "table",
+     "title": "Les constructions",
+     "head": [
+      "Construction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "intonation (surtout à l’oral)",
+       "Tu viens ?"
+      ],
+      [
+       "avec *est-ce que*",
+       "Est-ce que tu viens ?"
+      ],
+      [
+       "avec l’inversion du sujet",
+       "Viens-tu ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le -t- euphonique",
+     "text": "Quand le verbe se termine par une voyelle (*a, e*) et que le sujet est *il*, *elle* ou *on*, on ajoute **-t-** entre le verbe et le pronom : *Parle-t-il ? Mange-t-elle ? A-t-on fini ?*"
+    },
+    {
+     "type": "warn",
+     "label": "Pas de point d’interrogation",
+     "text": "« Je me demande **si** tu viendras. » n’est pas une phrase interrogative : c’est une phrase déclarative qui rapporte une question. On ne met donc **pas** de point d’interrogation."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une interrogation totale ?",
+     "options": [
+      "Où habites-tu ?",
+      "Pourquoi pleures-tu ?",
+      "Aimes-tu les mangues ?",
+      "Combien coûte ce cahier ?"
+     ],
+     "answer": 2,
+     "explain": "*Aimes-tu les mangues ?* attend la réponse « oui » ou « non » : c’est une interrogation totale. Les autres contiennent un mot interrogatif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pose la question de trois façons : avec l’intonation, avec *est-ce que*, avec l’inversion.",
+     "items": [
+      "Ton père travaille à Pointe-Noire.",
+      "Vous mangez du poisson."
+     ],
+     "corrige": [
+      "1. *Ton père travaille à Pointe-Noire ?* — *Est-ce que ton père travaille à Pointe-Noire ?* — *Ton père travaille-t-il à Pointe-Noire ?*",
+      "2. *Vous mangez du poisson ?* — *Est-ce que vous mangez du poisson ?* — *Mangez-vous du poisson ?*"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque interrogation est totale ou partielle.",
+     "items": [
+      "Tu aimes le football ?",
+      "Quand commence le match ?",
+      "Qui a marqué le but ?",
+      "Est-ce que tu viens ?"
+     ],
+     "corrige": [
+      "1. totale",
+      "2. partielle (*quand*)",
+      "3. partielle (*qui*)",
+      "4. totale"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La phrase impérative",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Ordonner, conseiller, interdire"
+    },
+    {
+     "type": "def",
+     "label": "Phrase impérative",
+     "text": "La phrase **impérative** exprime un **ordre**, un **conseil**, une **interdiction** ou une **demande**. Le verbe est à l’**impératif** et, en général, il n’y a **pas de sujet**. Elle se termine par un point ( . ) ou par un point d’exclamation ( ! )."
+    },
+    {
+     "type": "table",
+     "title": "L’impératif présent",
+     "head": [
+      "Verbe",
+      "2e pers. du singulier",
+      "1re pers. du pluriel",
+      "2e pers. du pluriel"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chante",
+       "chantons",
+       "chantez"
+      ],
+      [
+       "finir",
+       "finis",
+       "finissons",
+       "finissez"
+      ],
+      [
+       "prendre",
+       "prends",
+       "prenons",
+       "prenez"
+      ],
+      [
+       "être",
+       "sois",
+       "soyons",
+       "soyez"
+      ],
+      [
+       "avoir",
+       "aie",
+       "ayons",
+       "ayez"
+      ],
+      [
+       "aller",
+       "va",
+       "allons",
+       "allez"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de -s au singulier",
+     "text": "Pour les verbes du 1er groupe (et pour *aller*), la 2e personne du singulier n’a **pas de -s** : *Chante !* *Ouvre !* *Va !* On ajoute un **-s** seulement devant *en* et *y* : *Manges-en ! Vas-y !*"
+    },
+    {
+     "type": "h",
+     "text": "L’impératif négatif"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« **Ne** cours **pas** dans le couloir ! »\n« **N’**oublie **pas** ton cahier. »"
+    },
+    {
+     "type": "tip",
+     "label": "Des ordres adoucis",
+     "text": "On peut adoucir un ordre avec une formule de politesse : « Ferme la porte, **s’il te plaît**. » La phrase reste impérative. On utilise aussi l’impératif dans les recettes et les consignes : « Mélangez la farine et l’eau. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne écriture ?",
+     "options": [
+      "Mange tes légumes !",
+      "Manges tes légumes !",
+      "Mangent tes légumes !",
+      "Manger tes légumes !"
+     ],
+     "answer": 0,
+     "explain": "Au 1er groupe, la 2e personne du singulier de l’impératif s’écrit sans -s : *Mange*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase en phrase impérative (2e personne du singulier).",
+     "items": [
+      "Tu fermes la porte.",
+      "Tu ne cours pas.",
+      "Tu es sage.",
+      "Tu prends ton cartable."
+     ],
+     "corrige": [
+      "1. *Ferme la porte !*",
+      "2. *Ne cours pas !*",
+      "3. *Sois sage !*",
+      "4. *Prends ton cartable !*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La phrase exclamative",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exprimer un sentiment"
+    },
+    {
+     "type": "def",
+     "label": "Phrase exclamative",
+     "text": "La phrase **exclamative** exprime un **sentiment vif** : joie, surprise, admiration, colère, peur… Elle se termine par un **point d’exclamation** ( ! ). À l’oral, l’intonation est très expressive."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**quel, quelle, quels, quelles** + nom : *Quelle belle journée !*",
+      "**que, comme, combien** : *Que ce gâteau est bon ! Comme tu as grandi !*",
+      "les interjections : *Ah ! Oh ! Aïe ! Hélas !*"
+     ],
+     "label": "Les mots exclamatifs"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Quelle chaleur !\nComme ce paysage est magnifique !\nOh ! Quelle bonne surprise !"
+    },
+    {
+     "type": "warn",
+     "label": "Exclamative ou impérative ?",
+     "text": "Le point d’exclamation ne suffit pas. « **Viens** ici ! » exprime un ordre : c’est une phrase impérative. « **Quelle** surprise ! » exprime un sentiment : c’est une phrase exclamative."
+    },
+    {
+     "type": "test",
+     "title": "Le test pour distinguer les deux",
+     "lines": [
+      "« Prends ton manteau ! » → verbe à l’impératif, sans sujet : impérative.",
+      "« Quel froid il fait ! » → mot exclamatif, sentiment : exclamative."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est exclamative ?",
+     "options": [
+      "Ferme la fenêtre !",
+      "Quel beau jardin !",
+      "Fermes-tu la fenêtre ?",
+      "La fenêtre est fermée."
+     ],
+     "answer": 1,
+     "explain": "*Quel beau jardin !* contient le mot exclamatif *quel* et exprime l’admiration."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase déclarative en phrase exclamative avec le mot entre parenthèses.",
+     "items": [
+      "Cet enfant est gentil. (comme)",
+      "Ce film est long. (que)",
+      "C’est une belle fête. (quel)"
+     ],
+     "corrige": [
+      "1. *Comme cet enfant est gentil !*",
+      "2. *Que ce film est long !*",
+      "3. *Quelle belle fête !*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent les quatre types de phrases. Fais-les dans l’ordre : on commence par **reconnaître**, puis on **transforme**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le type de chaque phrase.",
+     "items": [
+      "Le soleil se couche.",
+      "Où vas-tu ?",
+      "Range ta chambre !",
+      "Comme ce paysage est beau !",
+      "Est-ce que tu as faim ?",
+      "Ne touche pas à ce fil !"
+     ],
+     "corrige": [
+      "1. déclarative",
+      "2. interrogative",
+      "3. impérative",
+      "4. exclamative",
+      "5. interrogative",
+      "6. impérative"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quelle chaleur ! », quel est le type de phrase ?",
+     "options": [
+      "Déclarative",
+      "Interrogative",
+      "Impérative",
+      "Exclamative"
+     ],
+     "answer": 3,
+     "explain": "Le mot exclamatif *quelle* et le point d’exclamation montrent que la phrase exprime un sentiment."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "À partir de « Tu parles doucement. », écris une phrase du type demandé.",
+     "items": [
+      "interrogative",
+      "impérative",
+      "exclamative"
+     ],
+     "corrige": [
+      "1. *Parles-tu doucement ?* (ou *Est-ce que tu parles doucement ?*)",
+      "2. *Parle doucement !*",
+      "3. *Comme tu parles doucement !*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un petit dialogue de quatre répliques qui contient les quatre types de phrases.",
+     "corrige": "Réponse possible : « Quel beau temps ! » (exclamative) — « Veux-tu venir au marché ? » (interrogative) — « Oui, j’arrive. » (déclarative) — « Prends ton panier ! » (impérative)."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Il y a **quatre types** de phrases : déclarative, interrogative, impérative, exclamative.",
+      "Le type dépend de **l’intention** de celui qui parle.",
+      "La **déclarative** informe et se termine par un point.",
+      "L’**interrogative** pose une question (interrogation totale ou partielle) et se termine par un point d’interrogation.",
+      "L’**impérative** exprime un ordre, un conseil ou une interdiction : le verbe est à l’impératif, sans sujet.",
+      "L’**exclamative** exprime un sentiment et se termine par un point d’exclamation."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Type",
+      "Je veux…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "déclaratif",
+       "informer",
+       "Il fait beau."
+      ],
+      [
+       "interrogatif",
+       "demander",
+       "Fait-il beau ?"
+      ],
+      [
+       "impératif",
+       "ordonner",
+       "Sors !"
+      ],
+      [
+       "exclamatif",
+       "m’exclamer",
+       "Quel beau temps !"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel type de phrase sert à poser une question ?",
+     "options": [
+      "La phrase déclarative",
+      "La phrase interrogative",
+      "La phrase impérative",
+      "La phrase exclamative"
+     ],
+     "answer": 1,
+     "explain": "C’est la phrase interrogative, qui se termine par un point d’interrogation."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,803 @@
+{
+ "id": 20,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un verbe ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Awa mange une mangue. », quel mot dit **ce que fait** Awa ? C’est *mange*. Ce mot est un **verbe**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir le verbe",
+      "Reconnaître un verbe dans une phrase",
+      "Ne pas le confondre avec un nom"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Verbe",
+     "text": "Le **verbe** est un mot qui exprime une **action** (*manger*), un **état** (*être*) ou un **fait** (*pleuvoir*). C’est un mot **variable** : il se **conjugue**, c’est-à-dire qu’il change de forme selon la **personne**, le **nombre** et le **temps**. Il est le **noyau** de la phrase."
+    },
+    {
+     "type": "schema",
+     "title": "Le verbe dans la phrase",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "mange",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "une mangue",
+       "role": "complément"
+      }
+     ],
+     "note": "Le verbe *mange* est le mot central : il dit ce que fait Awa."
+    },
+    {
+     "type": "table",
+     "title": "Reconnaître un verbe",
+     "head": [
+      "Test",
+      "Ce qu’on fait",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "changer le temps",
+       "ajouter *hier* ou *demain*",
+       "Demain, Awa **mangera** une mangue."
+      ],
+      [
+       "changer la personne",
+       "changer le sujet",
+       "**Nous mangeons** une mangue."
+      ],
+      [
+       "mettre à la forme négative",
+       "encadrer par *ne … pas*",
+       "Awa **ne mange pas** une mangue."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le verbe change de forme",
+     "lines": [
+      "Awa mange une mangue. → Demain, Awa mangera une mangue : *mange* change, c’est un verbe.",
+      "Les enfants jouent. → Nous jouons : *jouent* change, c’est un verbe.",
+      "La marche est longue. → Hier, la marche était longue : *est* change (verbe), *marche* ne change pas (nom)."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Verbe ou nom ?",
+     "text": "Certains mots peuvent être **verbe** ou **nom** : « Awa **marche** vite. » (verbe) et « La **marche** est longue. » (nom, précédé d’un déterminant). Si le mot **ne change pas** avec le temps, ce n’est pas un verbe."
+    },
+    {
+     "type": "tip",
+     "label": "Le réflexe",
+     "text": "Pour trouver le verbe, essaie de mettre la phrase à un **autre temps** (*hier*, *demain*) : le mot qui change est le verbe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un verbe dans « Les enfants chantent dans la cour. » ?",
+     "options": [
+      "Les",
+      "enfants",
+      "chantent",
+      "cour"
+     ],
+     "answer": 2,
+     "explain": "*Chantent* change quand on change le temps (*chanteront*) ou la personne (*nous chantons*) : c’est le verbe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe de chaque phrase.",
+     "items": [
+      "Le chat dort sur le canapé.",
+      "Nous mangeons du riz.",
+      "Fatou est contente.",
+      "Demain, tu écriras une lettre.",
+      "La pluie tombe."
+     ],
+     "corrige": [
+      "1. *dort*",
+      "2. *mangeons*",
+      "3. *est*",
+      "4. *écriras*",
+      "5. *tombe*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Verbe d’action et verbe d’état",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tous les verbes n’expriment pas la même chose. Certains disent **ce que fait** le sujet, d’autres disent **comment il est**."
+    },
+    {
+     "type": "def",
+     "label": "Verbe d’action",
+     "text": "Un **verbe d’action** exprime ce que **fait** le sujet : *courir, manger, écrire, chanter, ouvrir*."
+    },
+    {
+     "type": "def",
+     "label": "Verbe d’état",
+     "text": "Un **verbe d’état** exprime **comment est** le sujet. Il relie le sujet à un mot qui le décrit, l’**attribut**. Les principaux sont : *être, paraître, sembler, devenir, rester, demeurer*, et l’expression *avoir l’air*."
+    },
+    {
+     "type": "table",
+     "title": "Action ou état ?",
+     "head": [
+      "Phrase",
+      "Verbe",
+      "Sorte de verbe"
+     ],
+     "rows": [
+      [
+       "Awa **court** dans la cour.",
+       "court",
+       "action"
+      ],
+      [
+       "Awa **est** contente.",
+       "est",
+       "état"
+      ],
+      [
+       "Le ciel **devient** gris.",
+       "devient",
+       "état"
+      ],
+      [
+       "Les enfants **écrivent** une lettre.",
+       "écrivent",
+       "action"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test du verbe être",
+     "text": "Si tu peux **remplacer** le verbe par *est* ou *était*, c’est un **verbe d’état** : « Awa **paraît** fatiguée » → « Awa **est** fatiguée »."
+    },
+    {
+     "type": "test",
+     "title": "Action ou état ?",
+     "lines": [
+      "Awa court. → on ne peut pas dire « Awa est » : verbe d’action.",
+      "Awa semble heureuse. → « Awa est heureuse » : verbe d’état."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le même verbe, deux emplois",
+     "text": "« Awa **reste** calme. » : *reste* se remplace par *est*, c’est un verbe d’état. « Awa **reste** à la maison. » : *reste* veut dire *demeure* dans un lieu, on ne peut pas dire « Awa est calme » ; ce n’est plus un verbe d’état."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est un verbe d’état ?",
+     "options": [
+      "courir",
+      "paraître",
+      "chanter",
+      "écrire"
+     ],
+     "answer": 1,
+     "explain": "*Paraître* se remplace par *être* : « Il paraît content » → « Il est content »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le verbe est un verbe d’action ou un verbe d’état.",
+     "items": [
+      "Fatou lit un conte.",
+      "Le ciel devient gris.",
+      "Les élèves sont attentifs.",
+      "Il pousse la porte.",
+      "Mon frère semble fatigué."
+     ],
+     "corrige": [
+      "1. action (*lit*)",
+      "2. état (*devient*)",
+      "3. état (*sont*)",
+      "4. action (*pousse*)",
+      "5. état (*semble*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’infinitif, le radical et la terminaison",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans le dictionnaire, on ne trouve pas *mangeons* ni *chantera*, mais *manger* et *chanter*. C’est la forme **de base** du verbe : l’**infinitif**."
+    },
+    {
+     "type": "def",
+     "label": "Infinitif",
+     "text": "L’**infinitif** est la forme **non conjuguée** du verbe : c’est son **nom**. Il se termine par **-er** (*chanter*), **-ir** (*finir*), **-re** (*prendre*) ou **-oir** (*voir*). On le cherche dans le dictionnaire."
+    },
+    {
+     "type": "def",
+     "label": "Radical et terminaison",
+     "text": "Un verbe conjugué se compose d’un **radical**, qui porte le **sens**, et d’une **terminaison**, qui change selon la **personne** et le **temps**."
+    },
+    {
+     "type": "schema",
+     "title": "Radical et terminaison",
+     "cells": [
+      {
+       "mot": "chant",
+       "role": "radical (le sens)",
+       "noyau": true
+      },
+      {
+       "mot": "-ons",
+       "role": "terminaison (personne, temps)"
+      }
+     ],
+     "note": "*Chantons* : *chant-* ne change pas, *-ons* indique *nous* et le présent."
+    },
+    {
+     "type": "ex",
+     "text": "chant**e**, chant**es**, chant**ons**, chant**ez** → le radical *chant-* reste, la terminaison change.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Le radical change parfois",
+     "text": "Pour certains verbes, le radical n’est pas toujours le même : *aller* → *je vais, nous allons, j’irai* ; *finir* → *je finis, nous finissons* ; *prendre* → *je prends, nous prenons, ils prennent*."
+    },
+    {
+     "type": "test",
+     "title": "Retrouver l’infinitif",
+     "lines": [
+      "nous mangeons → manger",
+      "il finira → finir",
+      "ils prennent → prendre",
+      "tu as → avoir"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Trouver l’infinitif",
+     "text": "Place **Il faut** devant le verbe : « Il faut **manger** », « Il faut **finir** », « Il faut **prendre** »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’infinitif de « nous finissons » ?",
+     "options": [
+      "finissons",
+      "finir",
+      "finisser",
+      "finer"
+     ],
+     "answer": 1,
+     "explain": "L’infinitif de *nous finissons* est *finir*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’infinitif de chaque verbe conjugué.",
+     "items": [
+      "Tu chantes.",
+      "Nous grandissons.",
+      "Elles prennent.",
+      "Vous voyez.",
+      "Il sera."
+     ],
+     "corrige": [
+      "1. chanter",
+      "2. grandir",
+      "3. prendre",
+      "4. voir",
+      "5. être"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le verbe conjugué : personne et nombre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je chante », « tu chantes », « nous chantons » : le verbe change de forme selon **qui fait l’action**."
+    },
+    {
+     "type": "def",
+     "label": "Conjuguer",
+     "text": "**Conjuguer** un verbe, c’est lui donner la forme qui convient à la **personne**, au **nombre**, au **temps** et au **mode**. L’ensemble de ces formes s’appelle la **conjugaison**."
+    },
+    {
+     "type": "table",
+     "title": "Les personnes",
+     "head": [
+      "Personne",
+      "Singulier",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "1re personne",
+       "je",
+       "nous"
+      ],
+      [
+       "2e personne",
+       "tu",
+       "vous"
+      ],
+      [
+       "3e personne",
+       "il, elle, on",
+       "ils, elles"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Chanter au présent",
+     "head": [
+      "Pronom",
+      "Verbe"
+     ],
+     "rows": [
+      [
+       "je",
+       "chante"
+      ],
+      [
+       "tu",
+       "chantes"
+      ],
+      [
+       "il / elle / on",
+       "chante"
+      ],
+      [
+       "nous",
+       "chantons"
+      ],
+      [
+       "vous",
+       "chantez"
+      ],
+      [
+       "ils / elles",
+       "chantent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le pronom « on »",
+     "text": "*On* est à la **3e personne du singulier** : « On **chante** ». Il peut pourtant désigner *nous* (« On chante » = « Nous chantons »), mais le verbe reste à la 3e personne du singulier."
+    },
+    {
+     "type": "tip",
+     "label": "Le nombre",
+     "text": "Le **singulier** désigne **une seule** personne ou chose (*je, tu, il*), le **pluriel** en désigne **plusieurs** (*nous, vous, ils*). Le verbe s’accorde avec son **sujet**."
+    },
+    {
+     "type": "test",
+     "title": "Personne et nombre",
+     "lines": [
+      "Nous mangeons. → 1re personne du pluriel.",
+      "Elle chante. → 3e personne du singulier.",
+      "Vous écoutez. → 2e personne du pluriel."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "À quelle personne est « ils chantent » ?",
+     "options": [
+      "3e personne du singulier",
+      "3e personne du pluriel",
+      "1re personne du pluriel",
+      "2e personne du pluriel"
+     ],
+     "answer": 1,
+     "explain": "*Ils* est un pronom de la 3e personne ; *ils* désigne plusieurs personnes, donc le pluriel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la personne et le nombre de chaque verbe.",
+     "items": [
+      "Tu lis.",
+      "Nous jouons.",
+      "Elles dorment.",
+      "Je cours.",
+      "Vous écrivez."
+     ],
+     "corrige": [
+      "1. 2e personne du singulier",
+      "2. 1re personne du pluriel",
+      "3. 3e personne du pluriel",
+      "4. 1re personne du singulier",
+      "5. 2e personne du pluriel"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le verbe et le temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le verbe indique **quand** se passe l’action : avant, maintenant ou plus tard."
+    },
+    {
+     "type": "def",
+     "label": "Le temps du verbe",
+     "text": "Le **temps** d’un verbe situe l’action dans le **passé**, le **présent** ou le **futur**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois époques",
+     "head": [
+      "Époque",
+      "Mots qui aident",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "passé",
+       "hier, autrefois, il y a longtemps",
+       "Hier, Awa **a mangé** une mangue."
+      ],
+      [
+       "présent",
+       "aujourd’hui, maintenant",
+       "Aujourd’hui, Awa **mange** une mangue."
+      ],
+      [
+       "futur",
+       "demain, bientôt, plus tard",
+       "Demain, Awa **mangera** une mangue."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les principaux temps de l’indicatif (verbe chanter)",
+     "head": [
+      "Temps",
+      "Exemple",
+      "Époque"
+     ],
+     "rows": [
+      [
+       "présent",
+       "je chante",
+       "présent"
+      ],
+      [
+       "imparfait",
+       "je chantais",
+       "passé"
+      ],
+      [
+       "passé composé",
+       "j’ai chanté",
+       "passé"
+      ],
+      [
+       "passé simple",
+       "je chantai",
+       "passé"
+      ],
+      [
+       "futur simple",
+       "je chanterai",
+       "futur"
+      ],
+      [
+       "plus-que-parfait",
+       "j’avais chanté",
+       "passé"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Temps simples et temps composés",
+     "text": "Un temps **simple** s’écrit en **un seul mot** (*je chante*). Un temps **composé** s’écrit avec un **auxiliaire** (*avoir* ou *être*) et un **participe passé** (*j’ai chanté*). Un temps composé compte pour **un seul verbe**."
+    },
+    {
+     "type": "test",
+     "title": "Changer de temps",
+     "lines": [
+      "Je chante. → Hier, je chantais. → Demain, je chanterai.",
+      "Il finit. → Hier, il a fini. → Demain, il finira."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les indices de temps",
+     "text": "Les mots *hier, aujourd’hui, demain, autrefois, bientôt* t’aident à trouver le temps du verbe."
+    },
+    {
+     "type": "quiz",
+     "question": "À quelle époque se situe « Demain, nous partirons. » ?",
+     "options": [
+      "au passé",
+      "au présent",
+      "au futur",
+      "à aucune"
+     ],
+     "answer": 2,
+     "explain": "*Demain* annonce le futur, et *partirons* est au futur simple."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si l’action est au passé, au présent ou au futur.",
+     "items": [
+      "Hier, j’ai lu un livre.",
+      "Elle chantera demain.",
+      "Nous mangeons maintenant.",
+      "Ils jouaient dans la cour.",
+      "Tu écriras ta lettre."
+     ],
+     "corrige": [
+      "1. passé",
+      "2. futur",
+      "3. présent",
+      "4. passé (imparfait)",
+      "5. futur"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le verbe et son sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le verbe ne s’écrit pas au hasard : il prend la **personne** et le **nombre** de son **sujet**. C’est l’**accord du verbe**."
+    },
+    {
+     "type": "def",
+     "label": "Accord du verbe",
+     "text": "Le verbe **s’accorde** avec son **sujet** en **personne** et en **nombre**. On trouve le sujet avec la question **qui est-ce qui … ?** ou avec **c’est … qui**."
+    },
+    {
+     "type": "table",
+     "title": "Accorder le verbe",
+     "head": [
+      "Sujet",
+      "Verbe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "un seul sujet au singulier",
+       "singulier",
+       "L’enfant **joue**."
+      ],
+      [
+       "un sujet au pluriel",
+       "pluriel",
+       "Les enfants **jouent**."
+      ],
+      [
+       "deux sujets (*et*)",
+       "pluriel",
+       "Awa et Fatou **chantent**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Un mot s’est glissé entre le sujet et le verbe",
+     "text": "Dans « Les enfants de la voisine **jouent** », le verbe s’accorde avec *les enfants* et non avec *voisine*. Cherche toujours **qui fait l’action**."
+    },
+    {
+     "type": "warn",
+     "label": "Le sujet est placé après le verbe",
+     "text": "Dans « Dans la cour **jouent** les enfants », le sujet *les enfants* est après le verbe, mais le verbe s’accorde quand même avec lui."
+    },
+    {
+     "type": "test",
+     "title": "Trouver le sujet",
+     "lines": [
+      "Les enfants de la voisine jouent. → Qui est-ce qui joue ? les enfants → ils jouent.",
+      "Dans la cour jouent les enfants. → C’est *les enfants* qui jouent → ils jouent."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "1. Cherche le **verbe**. 2. Trouve le **sujet** avec *c’est … qui*. 3. **Remplace-le** par *il, elle, ils, elles*. 4. Accorde le verbe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Les enfants de la voisine joue.",
+      "Les enfants de la voisine jouent.",
+      "Les enfants de la voisine jouons.",
+      "Les enfants de la voisine joues."
+     ],
+     "answer": 1,
+     "explain": "Le sujet est *les enfants* (pluriel, 3e personne) : le verbe s’écrit *jouent*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le verbe entre parenthèses au présent, en l’accordant avec son sujet.",
+     "items": [
+      "Les élèves (écouter) le maître.",
+      "Awa et Fatou (chanter).",
+      "Le chien de mes voisins (aboyer).",
+      "Dans la cour (jouer) les enfants.",
+      "Nous (finir) nos devoirs."
+     ],
+     "corrige": [
+      "1. écoutent",
+      "2. chantent",
+      "3. aboie (le sujet est *le chien*)",
+      "4. jouent",
+      "5. finissons"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe conjugué de chaque phrase.",
+     "items": [
+      "Les oiseaux chantent le matin.",
+      "Fatou semble heureuse.",
+      "Demain, nous partirons.",
+      "Le marché ouvre à sept heures."
+     ],
+     "corrige": [
+      "1. *chantent*",
+      "2. *semble*",
+      "3. *partirons*",
+      "4. *ouvre*"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La marche est longue. », quel mot est le verbe ?",
+     "options": [
+      "La",
+      "marche",
+      "est",
+      "longue"
+     ],
+     "answer": 2,
+     "explain": "*Est* change avec le temps (*sera*, *était*) : c’est le verbe. *Marche* est ici un nom."
+    },
+    {
+     "type": "h",
+     "text": "Conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au présent.",
+     "items": [
+      "Je (manger) du riz.",
+      "Nous (manger) du riz.",
+      "Tu (finir) ton travail.",
+      "Ils (prendre) le bus.",
+      "Vous (dire) la vérité."
+     ],
+     "corrige": [
+      "1. mange",
+      "2. mangeons",
+      "3. finis",
+      "4. prennent",
+      "5. dites"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis le texte : « Hier, Awa est allée au marché. Elle a acheté des mangues. Demain, elle préparera une salade. » Réponds aux questions.",
+     "items": [
+      "Relève les verbes conjugués.",
+      "Donne l’infinitif de chacun.",
+      "Indique l’époque de chaque verbe."
+     ],
+     "corrige": [
+      "1. *est allée*, *a acheté*, *préparera*",
+      "2. aller, acheter, préparer",
+      "3. passé, passé, futur"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **verbe** exprime une **action**, un **état** ou un **fait** ; c’est le **noyau** de la phrase.",
+      "Le verbe est un mot **variable** : il **change de forme** selon la personne, le nombre et le temps.",
+      "On le reconnaît en **changeant le temps** (*hier, demain*) ou la **personne**.",
+      "Un **verbe d’action** dit ce que fait le sujet. Un **verbe d’état** (*être, paraître, sembler, devenir, rester, demeurer*) relie le sujet à son **attribut**.",
+      "L’**infinitif** est le **nom** du verbe ; un verbe conjugué se compose d’un **radical** et d’une **terminaison**.",
+      "Le verbe se **conjugue** à trois personnes, au singulier et au pluriel, et à différents **temps** (passé, présent, futur).",
+      "Le verbe **s’accorde avec son sujet**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les notions du verbe",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "infinitif",
+       "nom du verbe, non conjugué",
+       "chanter"
+      ],
+      [
+       "radical",
+       "partie qui porte le sens",
+       "**chant**-ons"
+      ],
+      [
+       "terminaison",
+       "partie qui change",
+       "chant-**ons**"
+      ],
+      [
+       "personne et nombre",
+       "qui fait l’action, combien",
+       "nous chantons (1re pers. du pluriel)"
+      ],
+      [
+       "temps",
+       "quand a lieu l’action",
+       "demain, je chanterai (futur)"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle affirmation est vraie ?",
+     "options": [
+      "Le verbe ne change jamais de forme.",
+      "Le verbe s’accorde avec son sujet.",
+      "Un verbe d’état exprime une action.",
+      "L’infinitif est un verbe conjugué."
+     ],
+     "answer": 1,
+     "explain": "Le verbe s’accorde en personne et en nombre avec son sujet."
+    }
+   ]
+  }
+ ]
+}

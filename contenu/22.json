@@ -1,0 +1,796 @@
+{
+ "id": 22,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un degré de qualification ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Awa est **grande**. » « Awa est **plus grande** que Fatou. » « Awa est **la plus grande** de la classe. » Dans les trois phrases, c’est la même qualité, *grande*, mais exprimée avec une **intensité** différente."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir les degrés de qualification",
+      "Distinguer le positif, le comparatif et le superlatif",
+      "Reconnaître le degré d’un adjectif dans une phrase"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Degrés de qualification",
+     "text": "Les **degrés de qualification** (ou degrés d’intensité) indiquent **à quel point** une qualité est possédée. Un **adjectif qualificatif** (et aussi un adverbe) peut être au **positif**, au **comparatif** ou au **superlatif**."
+    },
+    {
+     "type": "table",
+     "title": "Les degrés",
+     "head": [
+      "Degré",
+      "Ce qu’il exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "positif",
+       "la qualité seule, sans comparaison",
+       "Awa est **grande**."
+      ],
+      [
+       "comparatif",
+       "une comparaison entre deux éléments",
+       "Awa est **plus grande que** Fatou."
+      ],
+      [
+       "superlatif relatif",
+       "le plus haut ou le plus bas degré dans un groupe",
+       "Awa est **la plus grande** de la classe."
+      ],
+      [
+       "superlatif absolu",
+       "un très haut degré, sans comparaison",
+       "Awa est **très grande**."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un adjectif au comparatif",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "ce qu’on compare"
+      },
+      {
+       "mot": "est plus grande",
+       "role": "adjectif au comparatif de supériorité",
+       "noyau": true
+      },
+      {
+       "mot": "que Fatou",
+       "role": "complément du comparatif"
+      }
+     ],
+     "note": "On compare Awa à Fatou : la qualité *grande* est plus forte chez Awa."
+    },
+    {
+     "type": "test",
+     "title": "Quel est le degré ?",
+     "lines": [
+      "Le fleuve est long. → positif.",
+      "Le fleuve est plus long que la rivière. → comparatif.",
+      "Ce fleuve est le plus long du pays. → superlatif relatif.",
+      "Ce fleuve est très long. → superlatif absolu."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour s’y retrouver",
+     "text": "Le **comparatif** met **deux éléments** face à face. Le **superlatif relatif** choisit un élément **dans un groupe**. Le **superlatif absolu** ne compare rien : il dit seulement « très »."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Awa est la plus grande de la classe. », quel est le degré de l’adjectif ?",
+     "options": [
+      "positif",
+      "comparatif",
+      "superlatif relatif",
+      "superlatif absolu"
+     ],
+     "answer": 2,
+     "explain": "Awa est comparée à tout le groupe (*de la classe*) : c’est un superlatif relatif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le degré de l’adjectif en gras : positif, comparatif, superlatif relatif ou superlatif absolu.",
+     "items": [
+      "Le fleuve est **long**.",
+      "Le fleuve est **plus long** que la rivière.",
+      "Ce fleuve est **le plus long** du pays.",
+      "Ce fleuve est **très long**.",
+      "Ce fleuve est **aussi long** que celui-là."
+     ],
+     "corrige": [
+      "1. positif",
+      "2. comparatif (de supériorité)",
+      "3. superlatif relatif",
+      "4. superlatif absolu",
+      "5. comparatif (d’égalité)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le comparatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour dire qu’une qualité est plus forte, aussi forte ou moins forte chez l’un que chez l’autre, on emploie le **comparatif**."
+    },
+    {
+     "type": "def",
+     "label": "Comparatif",
+     "text": "Le **comparatif** compare une qualité **entre deux éléments** (ou entre deux moments). Il se construit avec un **adverbe de comparaison** placé devant l’adjectif, et le second élément est introduit par **que**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois comparatifs",
+     "head": [
+      "Comparatif",
+      "Formule",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "de supériorité",
+       "plus … que",
+       "Awa est **plus** grande **que** Fatou."
+      ],
+      [
+       "d’égalité",
+       "aussi … que",
+       "Awa est **aussi** grande **que** Fatou."
+      ],
+      [
+       "d’infériorité",
+       "moins … que",
+       "Awa est **moins** grande **que** Fatou."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Toujours « que »",
+     "text": "Le second terme de la comparaison est introduit par **que**, jamais par *comme* ni *de* : on dit « plus grand **que** moi », pas « plus grand comme moi »."
+    },
+    {
+     "type": "tip",
+     "label": "Avec un adverbe ou un nom",
+     "text": "Le comparatif existe aussi avec un **adverbe** (« Il court **plus vite que** moi. ») et avec un **nom** (« Il a **plus de** livres **que** moi. »)."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître le comparatif",
+     "lines": [
+      "Fatou est plus rapide qu’Awa. → comparatif de supériorité.",
+      "Ce livre est aussi intéressant que l’autre. → comparatif d’égalité.",
+      "Ce chemin est moins long que l’autre. → comparatif d’infériorité."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un comparatif d’infériorité ?",
+     "options": [
+      "Il est plus fort que moi.",
+      "Il est aussi fort que moi.",
+      "Il est moins fort que moi.",
+      "Il est très fort."
+     ],
+     "answer": 2,
+     "explain": "*Moins … que* exprime l’infériorité."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le comparatif demandé.",
+     "items": [
+      "Fatou est (+ rapide) … Awa.",
+      "Ce livre est (= intéressant) … l’autre.",
+      "Ce chemin est (– long) … l’autre.",
+      "Mes sœurs sont (+ grand) … moi.",
+      "Il court (+ vite) … son frère."
+     ],
+     "corrige": [
+      "1. plus rapide que",
+      "2. aussi intéressant que",
+      "3. moins long que",
+      "4. plus grandes que moi",
+      "5. plus vite que"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le superlatif relatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Awa est **la plus grande** de la classe. » Ici, on ne compare pas Awa à une seule personne mais à **tout un groupe**."
+    },
+    {
+     "type": "def",
+     "label": "Superlatif relatif",
+     "text": "Le **superlatif relatif** exprime le **plus haut** ou le **plus bas** degré d’une qualité **par rapport à un groupe**. Il se forme avec **le / la / les + plus / moins + adjectif**. Le groupe est introduit par **de**, **du**, **parmi**."
+    },
+    {
+     "type": "table",
+     "title": "Le superlatif relatif",
+     "head": [
+      "Sorte",
+      "Formule",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "de supériorité",
+       "le / la / les plus …",
+       "Awa est **la plus** grande de la classe."
+      ],
+      [
+       "d’infériorité",
+       "le / la / les moins …",
+       "Awa est **la moins** bavarde de ses sœurs."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un superlatif relatif",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "est la plus grande",
+       "role": "superlatif relatif de supériorité",
+       "noyau": true
+      },
+      {
+       "mot": "de la classe",
+       "role": "le groupe de comparaison"
+      }
+     ],
+     "note": "Le groupe de comparaison est souvent introduit par *de* ou *parmi*."
+    },
+    {
+     "type": "warn",
+     "label": "L’article s’accorde",
+     "text": "L’article et l’adjectif s’accordent avec le nom : *le plus grand, la plus grande, les plus grands, les plus grandes*. Avec un **adverbe**, on écrit toujours **le plus** : « C’est Awa qui court **le plus** vite. »"
+    },
+    {
+     "type": "warn",
+     "label": "Avec un possessif",
+     "text": "L’article peut être remplacé par un **adjectif possessif** : « **Ma** plus belle robe », « **ses** meilleurs amis »."
+    },
+    {
+     "type": "test",
+     "title": "Superlatif relatif ou comparatif ?",
+     "lines": [
+      "Awa est plus grande que Fatou. → comparatif (deux éléments).",
+      "Awa est la plus grande de la classe. → superlatif relatif (un groupe)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le repère",
+     "text": "Le superlatif relatif est précédé de **le / la / les** (ou d’un possessif) et suivi, souvent, d’un **groupe** introduit par *de*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un superlatif relatif ?",
+     "options": [
+      "Il est plus grand que moi.",
+      "Il est très grand.",
+      "C’est le plus grand de la classe.",
+      "Il est aussi grand que moi."
+     ],
+     "answer": 2,
+     "explain": "*Le plus grand de la classe* compare l’élève à tout le groupe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets l’adjectif entre parenthèses au superlatif relatif.",
+     "items": [
+      "Fatou est (grande, supériorité) de la classe.",
+      "Ce sont (courageux, supériorité) élèves de l’école.",
+      "Ce bijou est (beau, supériorité) de la boutique.",
+      "Mes frères sont (petits, supériorité) de la famille.",
+      "Cette histoire est (drôle, infériorité) du livre."
+     ],
+     "corrige": [
+      "1. la plus grande",
+      "2. les plus courageux",
+      "3. le plus beau",
+      "4. les plus petits",
+      "5. la moins drôle"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le superlatif absolu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Awa est **très** grande. » On ne compare Awa à personne : on dit seulement que sa qualité est **très forte**."
+    },
+    {
+     "type": "def",
+     "label": "Superlatif absolu",
+     "text": "Le **superlatif absolu** exprime un **très haut degré** d’une qualité, **sans comparaison**. Il n’y a ni *que*, ni *de* qui introduit un groupe."
+    },
+    {
+     "type": "table",
+     "title": "Comment former le superlatif absolu ?",
+     "head": [
+      "Procédé",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "un adverbe d’intensité (*très, fort, bien, extrêmement, tout à fait*)",
+       "très grand, fort aimable, extrêmement rapide"
+      ],
+      [
+       "un préfixe (*archi-, extra-, super-, ultra-*)",
+       "archiconnu, extrafin, ultrarapide"
+      ],
+      [
+       "le suffixe *-issime*",
+       "rarissime, richissime"
+      ],
+      [
+       "la répétition",
+       "Il est grand, grand, grand !"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Absolu ou relatif ?",
+     "lines": [
+      "Il est très grand. → aucun groupe, aucune comparaison : superlatif absolu.",
+      "Il est le plus grand de la classe. → un groupe : superlatif relatif."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas comparer",
+     "text": "Le superlatif absolu ne se construit **pas** avec *que* : on ne dit pas « très grand que moi ». Pour comparer, il faut un comparatif."
+    },
+    {
+     "type": "warn",
+     "label": "Des adjectifs déjà très forts",
+     "text": "On évite d’ajouter *très* à un adjectif qui exprime déjà l’extrême : *énorme, magnifique, parfait, minuscule*. On dit « une maison **énorme** » plutôt que « très énorme »."
+    },
+    {
+     "type": "tip",
+     "label": "Le repère",
+     "text": "**Très**, **fort**, **extrêmement** : si le mot ne sert qu’à **renforcer** l’adjectif, c’est un superlatif absolu."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un superlatif absolu ?",
+     "options": [
+      "Il est plus grand que moi.",
+      "Il est le plus grand de la classe.",
+      "Il est extrêmement grand.",
+      "Il est aussi grand que moi."
+     ],
+     "answer": 2,
+     "explain": "*Extrêmement* renforce l’adjectif sans comparer : c’est un superlatif absolu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque phrase en employant un superlatif absolu.",
+     "items": [
+      "Le gâteau est bon.",
+      "Cette route est longue.",
+      "Ce garçon est riche.",
+      "Cette soupe est chaude."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Le gâteau est très bon.",
+      "2. Cette route est extrêmement longue.",
+      "3. Ce garçon est richissime.",
+      "4. Cette soupe est bien chaude."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Comparatifs et superlatifs irréguliers",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quelques adjectifs et adverbes très courants ont des formes **particulières** au comparatif de supériorité et au superlatif relatif."
+    },
+    {
+     "type": "table",
+     "title": "Les formes irrégulières",
+     "head": [
+      "Positif",
+      "Comparatif de supériorité",
+      "Superlatif relatif"
+     ],
+     "rows": [
+      [
+       "bon",
+       "meilleur",
+       "le meilleur"
+      ],
+      [
+       "bien (adverbe)",
+       "mieux",
+       "le mieux"
+      ],
+      [
+       "mauvais",
+       "plus mauvais, pire",
+       "le plus mauvais, le pire"
+      ],
+      [
+       "petit",
+       "plus petit, moindre",
+       "le plus petit, le moindre"
+      ],
+      [
+       "beaucoup (adverbe)",
+       "plus",
+       "le plus"
+      ],
+      [
+       "peu (adverbe)",
+       "moins",
+       "le moins"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Ce gâteau est **bon**. Celui-ci est **meilleur**. Celui-là est **le meilleur** de tous.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Jamais « plus bon »",
+     "text": "On ne dit pas « plus bon » ni « plus meilleur » : **meilleur** contient déjà l’idée de *plus*. On dit « meilleur que ». En revanche, l’égalité et l’infériorité sont **régulières** : *aussi bon*, *moins bon*."
+    },
+    {
+     "type": "warn",
+     "label": "Meilleur ou mieux ?",
+     "text": "**Meilleur** est un **adjectif** : il s’accorde (*meilleure, meilleurs*). **Mieux** est un **adverbe** : il est invariable. « Ce riz est **meilleur**. » / « Elle chante **mieux**. »"
+    },
+    {
+     "type": "test",
+     "title": "Bon ou bien ?",
+     "lines": [
+      "Ce gâteau est bon. → Celui-ci est meilleur. (adjectif)",
+      "Il chante bien. → Elle chante mieux que lui. (adverbe)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour choisir",
+     "text": "*Bon* qualifie un **nom** (un bon fruit), *bien* modifie un **verbe** (il chante bien). Le comparatif suit la même règle : *meilleur* / *mieux*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Ce fruit est plus bon que l’autre.",
+      "Ce fruit est meilleur que l’autre.",
+      "Ce fruit est plus meilleur que l’autre.",
+      "Ce fruit est meilleure que l’autre."
+     ],
+     "answer": 1,
+     "explain": "*Fruit* est masculin : on écrit *meilleur*. *Plus bon* et *plus meilleur* sont incorrects."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le comparatif ou le superlatif qui convient : *meilleur(e)(s)* ou *mieux*.",
+     "items": [
+      "Awa chante (+ bien) que sa sœur.",
+      "Ce riz est (+ bon) que celui d’hier.",
+      "Voici les (+ bons) fruits du marché.",
+      "Elle cuisine (+ bien) que moi.",
+      "Cette idée est (+ bonne) que la mienne."
+     ],
+     "corrige": [
+      "1. mieux",
+      "2. meilleur",
+      "3. meilleurs",
+      "4. mieux",
+      "5. meilleure"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Pièges : accords et emplois",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les degrés de qualification donnent lieu à quelques fautes très courantes. Les voici."
+    },
+    {
+     "type": "table",
+     "title": "Fautes fréquentes",
+     "head": [
+      "Faute",
+      "Correct",
+      "Pourquoi"
+     ],
+     "rows": [
+      [
+       "plus bon",
+       "meilleur",
+       "*meilleur* est le comparatif de *bon*"
+      ],
+      [
+       "plus meilleur",
+       "meilleur",
+       "*meilleur* contient déjà *plus*"
+      ],
+      [
+       "plus grand comme moi",
+       "plus grand que moi",
+       "le comparatif s’emploie avec *que*"
+      ],
+      [
+       "Awa est le plus grande",
+       "Awa est la plus grande",
+       "l’article s’accorde avec le nom"
+      ],
+      [
+       "Il court plus vite de moi",
+       "Il court plus vite que moi",
+       "*que* introduit le second terme"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "« aussi » ou « autant » ?",
+     "text": "*Aussi* s’emploie avec un **adjectif** ou un **adverbe** : « aussi grand que ». *Autant* s’emploie avec un **nom** ou un **verbe** : « autant de livres que », « il mange autant que moi »."
+    },
+    {
+     "type": "warn",
+     "label": "Un superlatif relatif a besoin d’un groupe",
+     "text": "Pour dire « le plus … », on pense à un **groupe** de comparaison, même s’il n’est pas écrit : « C’est la plus rapide (de l’équipe). » S’il n’y a aucun groupe, c’est un **superlatif absolu**."
+    },
+    {
+     "type": "test",
+     "title": "Méthode en trois temps",
+     "lines": [
+      "1. Cherche l’adjectif (ou l’adverbe).",
+      "2. Cherche le mot qui le précède : *plus, aussi, moins, le plus, très*…",
+      "3. Cherche le second terme (*que*), le groupe (*de*) ou rien : tu trouves le degré."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Vérifier l’accord",
+     "text": "Pour l’accord, cherche **le nom** que l’adjectif qualifie. *Awa est la plus grande* : *grande* qualifie *Awa* (féminin)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Awa est le plus grande de la classe.",
+      "Awa est la plus grande de la classe.",
+      "Awa est la plus grand de la classe.",
+      "Awa est plus grande de la classe."
+     ],
+     "answer": 1,
+     "explain": "Avec le superlatif relatif féminin, l’article et l’adjectif s’accordent : *la plus grande*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur dans chaque phrase.",
+     "items": [
+      "Ce gâteau est plus bon que l’autre.",
+      "Mon frère est plus grand comme moi.",
+      "Fatou est le plus rapide de la classe.",
+      "Ce film est plus meilleur que l’autre.",
+      "Les filles sont le plus courageuses."
+     ],
+     "corrige": [
+      "1. Ce gâteau est meilleur que l’autre.",
+      "2. Mon frère est plus grand que moi.",
+      "3. Fatou est la plus rapide de la classe.",
+      "4. Ce film est meilleur que l’autre.",
+      "5. Les filles sont les plus courageuses."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le degré de l’adjectif en gras (positif, comparatif de supériorité / d’égalité / d’infériorité, superlatif relatif, superlatif absolu).",
+     "items": [
+      "Cette maison est **très haute**.",
+      "Cette maison est **plus haute** que la nôtre.",
+      "C’est **la plus haute** maison du quartier.",
+      "Cette maison est **aussi haute** que la tienne.",
+      "Cette maison est **haute**.",
+      "Cette maison est **moins haute** que la nôtre."
+     ],
+     "corrige": [
+      "1. superlatif absolu",
+      "2. comparatif de supériorité",
+      "3. superlatif relatif",
+      "4. comparatif d’égalité",
+      "5. positif",
+      "6. comparatif d’infériorité"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot introduit le second terme d’un comparatif ?",
+     "options": [
+      "de",
+      "que",
+      "comme",
+      "par"
+     ],
+     "answer": 1,
+     "explain": "On dit « plus grand **que** moi »."
+    },
+    {
+     "type": "h",
+     "text": "Compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris l’adjectif ou l’adverbe au degré demandé.",
+     "items": [
+      "Cette route est (longue, comparatif de supériorité) que l’autre.",
+      "Awa est (jeune, superlatif relatif de supériorité) de la famille.",
+      "Ces fruits sont (mûrs, superlatif absolu).",
+      "Ce film est (bon, comparatif de supériorité) que le livre.",
+      "Il parle (bien, comparatif de supériorité) que moi."
+     ],
+     "corrige": [
+      "1. plus longue",
+      "2. la plus jeune",
+      "3. très mûrs (ou extrêmement mûrs)",
+      "4. meilleur",
+      "5. mieux"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris la phrase au degré demandé.",
+     "items": [
+      "Fatou est grande. (comparatif d’égalité avec Awa)",
+      "Ce sac est lourd. (comparatif d’infériorité avec l’autre)",
+      "Mon frère est courageux. (superlatif relatif, de la classe)",
+      "Cette rue est étroite. (superlatif absolu)"
+     ],
+     "corrige": [
+      "1. Fatou est aussi grande qu’Awa.",
+      "2. Ce sac est moins lourd que l’autre.",
+      "3. Mon frère est le plus courageux de la classe.",
+      "4. Cette rue est très étroite."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases sur ta classe : une avec un comparatif, une avec un superlatif relatif, une avec un superlatif absolu.",
+     "items": [
+      "Un comparatif.",
+      "Un superlatif relatif.",
+      "Un superlatif absolu."
+     ],
+     "corrige": [
+      "Exemples de réponses :",
+      "1. Mon voisin est plus rapide que moi.",
+      "2. Awa est la plus attentive de la classe.",
+      "3. Notre maître est très gentil."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les **degrés de qualification** indiquent à quel point une qualité est possédée : **positif**, **comparatif**, **superlatif**.",
+      "Le **comparatif** compare **deux éléments** : **plus … que** (supériorité), **aussi … que** (égalité), **moins … que** (infériorité).",
+      "Le **superlatif relatif** exprime le plus haut ou le plus bas degré **dans un groupe** : **le / la / les plus (moins) …** **de** …",
+      "Le **superlatif absolu** exprime un **très haut degré** sans comparaison : *très, fort, extrêmement…*",
+      "Irréguliers : **bon → meilleur**, **bien → mieux** ; on ne dit jamais « plus bon » ni « plus meilleur ».",
+      "L’article et l’adjectif du superlatif relatif **s’accordent** avec le nom."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les degrés en un coup d’œil",
+     "head": [
+      "Degré",
+      "Formule",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "positif",
+       "adjectif seul",
+       "Awa est grande."
+      ],
+      [
+       "comparatif de supériorité",
+       "plus … que",
+       "Awa est **plus** grande **que** Fatou."
+      ],
+      [
+       "comparatif d’égalité",
+       "aussi … que",
+       "Awa est **aussi** grande **que** Fatou."
+      ],
+      [
+       "comparatif d’infériorité",
+       "moins … que",
+       "Awa est **moins** grande **que** Fatou."
+      ],
+      [
+       "superlatif relatif",
+       "le / la / les plus (moins) … de",
+       "Awa est **la plus** grande **de** la classe."
+      ],
+      [
+       "superlatif absolu",
+       "très, fort, extrêmement …",
+       "Awa est **très** grande."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le comparatif de supériorité de l’adjectif « bon » ?",
+     "options": [
+      "plus bon",
+      "meilleur",
+      "mieux",
+      "plus meilleur"
+     ],
+     "answer": 1,
+     "explain": "*Meilleur* est le comparatif de supériorité de *bon*. *Mieux* est celui de l’adverbe *bien*."
+    }
+   ]
+  }
+ ]
+}

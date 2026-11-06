@@ -1,0 +1,864 @@
+{
+ "id": 11,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un adjectif qualificatif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on dit « une robe », on ne sait pas grand-chose. Si on dit « une **belle** robe **rouge** », on voit déjà mieux de quoi il s’agit. Les mots *belle* et *rouge* sont des **adjectifs qualificatifs**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un adjectif qualificatif",
+      "Savoir qu’il s’accorde avec le nom",
+      "Connaître ses trois fonctions : épithète, attribut et apposé"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Adjectif qualificatif",
+     "text": "L’**adjectif qualificatif** est un mot qui apporte une **précision** sur un nom : il indique une **qualité** (grand, joyeux, froid) ou une **caractéristique** (rond, rouge, africain). Il s’**accorde en genre et en nombre** avec le nom auquel il se rapporte."
+    },
+    {
+     "type": "schema",
+     "title": "Un groupe nominal avec deux adjectifs",
+     "cells": [
+      {
+       "mot": "la",
+       "role": "déterminant"
+      },
+      {
+       "mot": "petite",
+       "role": "adjectif"
+      },
+      {
+       "mot": "maison",
+       "role": "nom",
+       "noyau": true
+      },
+      {
+       "mot": "blanche",
+       "role": "adjectif"
+      }
+     ],
+     "note": "Les deux adjectifs *petite* et *blanche* se rapportent au nom *maison*. Ils sont au féminin singulier, comme lui."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître un adjectif",
+     "lines": [
+      "Awa porte une robe rouge.",
+      "Awa porte une robe. → correct : l’adjectif peut se supprimer.",
+      "Awa porte une robe très rouge. → on peut ajouter *très* devant un adjectif."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ce que dit l’adjectif",
+     "head": [
+      "Il indique…",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "une couleur",
+       "rouge, vert, clair"
+      ],
+      [
+       "une taille ou une forme",
+       "grand, petit, rond, long"
+      ],
+      [
+       "un caractère ou un sentiment",
+       "gentil, joyeux, triste, courageux"
+      ],
+      [
+       "une origine",
+       "sénégalais, africain, français"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Deux astuces",
+     "text": "Un mot est un adjectif si on peut le mettre devant un nom **en l’accordant** (*un chat noir*, *une chatte noire*) et si on peut ajouter **très** devant lui."
+    },
+    {
+     "type": "quiz",
+     "question": "Combien y a-t-il d’adjectifs qualificatifs dans « Le vieux marchand vend des fruits mûrs » ?",
+     "options": [
+      "Aucun",
+      "Un",
+      "Deux",
+      "Trois"
+     ],
+     "answer": 2,
+     "explain": "*Vieux* se rapporte à *marchand* et *mûrs* se rapporte à *fruits* : il y a deux adjectifs."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève l’adjectif qualificatif de chaque phrase et le nom auquel il se rapporte.",
+     "items": [
+      "Mon frère a un grand cahier.",
+      "La cuisinière prépare une soupe chaude.",
+      "Les élèves attentifs écoutent.",
+      "Nous visitons une ville ancienne."
+     ],
+     "corrige": [
+      "1. *grand* → *cahier*",
+      "2. *chaude* → *soupe*",
+      "3. *attentifs* → *élèves*",
+      "4. *ancienne* → *ville*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Accorder l’adjectif : genre et nombre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’adjectif **n’a pas de genre ni de nombre propres** : il prend ceux du nom auquel il se rapporte. Pour bien l’accorder, on pose toujours la question : **à quel nom se rapporte-t-il ?**"
+    },
+    {
+     "type": "h",
+     "text": "Le féminin de l’adjectif"
+    },
+    {
+     "type": "def",
+     "label": "Règle générale",
+     "text": "Pour mettre un adjectif au féminin, on ajoute un **-e** : *grand → grande*, *petit → petite*. Si l’adjectif se termine déjà par **-e**, il ne change pas : *un élève sage → une élève sage*."
+    },
+    {
+     "type": "table",
+     "title": "Les féminins à connaître",
+     "head": [
+      "Terminaison",
+      "Féminin",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "-er",
+       "-ère",
+       "léger → légère"
+      ],
+      [
+       "-eux",
+       "-euse",
+       "heureux → heureuse"
+      ],
+      [
+       "-if",
+       "-ive",
+       "actif → active"
+      ],
+      [
+       "-el, -en, -on",
+       "consonne doublée + e",
+       "cruel → cruelle ; ancien → ancienne ; bon → bonne"
+      ],
+      [
+       "-et",
+       "-ette (ou -ète)",
+       "muet → muette ; complet → complète"
+      ],
+      [
+       "irréguliers",
+       "à apprendre",
+       "beau → belle ; blanc → blanche ; doux → douce"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le pluriel de l’adjectif"
+    },
+    {
+     "type": "def",
+     "label": "Règle générale",
+     "text": "Pour mettre un adjectif au pluriel, on ajoute un **-s** : *grand → grands*. Les adjectifs en **-s** ou **-x** ne changent pas : *gris → gris*, *heureux → heureux*."
+    },
+    {
+     "type": "table",
+     "title": "Les pluriels particuliers",
+     "head": [
+      "Terminaison",
+      "Pluriel",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "-al",
+       "-aux",
+       "national → nationaux"
+      ],
+      [
+       "-eau",
+       "-eaux",
+       "beau → beaux ; nouveau → nouveaux"
+      ],
+      [
+       "-s, -x",
+       "ne change pas",
+       "un chat gris → des chats gris"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Plusieurs noms et cas particuliers"
+    },
+    {
+     "type": "warn",
+     "label": "Un adjectif pour plusieurs noms",
+     "text": "Quand l’adjectif se rapporte à des noms de genres différents, il se met au **masculin pluriel** : « Un garçon et une fille **contents**. »"
+    },
+    {
+     "type": "warn",
+     "label": "Les adjectifs de couleur",
+     "text": "Quand une couleur vient d’un nom (*orange*, *marron*) ou qu’elle est accompagnée d’un autre mot (*bleu clair*), elle **ne s’accorde pas** : *des robes orange*, *des yeux bleu clair*. En revanche, *rouge*, *vert* ou *noir* s’accordent : *des robes rouges*."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "une **grande** table → des **grandes** tables\nun garçon **heureux** → des garçons **heureux**\nune route **nationale** → des routes **nationales**\nun **beau** village → de **beaux** villages"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Des filles heureuse",
+      "Des filles heureuses",
+      "Des fille heureuses",
+      "Des filles heureux"
+     ],
+     "answer": 1,
+     "explain": "*Heureuses* se rapporte à *filles* (féminin pluriel) : on écrit *heureuses*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde l’adjectif entre parenthèses.",
+     "items": [
+      "Une (petit) fille chante.",
+      "Des enfants (attentif) écoutent.",
+      "Mon voisin et ma voisine sont (gentil).",
+      "Les routes (national) sont encombrées.",
+      "Elle porte des chaussures (marron)."
+     ],
+     "corrige": [
+      "1. petite",
+      "2. attentifs",
+      "3. gentils (masculin l’emporte)",
+      "4. nationales",
+      "5. marron (invariable)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La fonction épithète",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un adjectif peut jouer **plusieurs rôles** dans une phrase. Le plus courant est celui d’**épithète**."
+    },
+    {
+     "type": "def",
+     "label": "Épithète",
+     "text": "L’adjectif est **épithète** quand il est **directement relié au nom**, sans verbe ni virgule entre eux. Il fait partie du groupe nominal et se rapporte au nom noyau."
+    },
+    {
+     "type": "schema",
+     "title": "Une épithète dans une phrase",
+     "cells": [
+      {
+       "mot": "Le",
+       "role": "déterminant"
+      },
+      {
+       "mot": "vieux",
+       "role": "épithète"
+      },
+      {
+       "mot": "pêcheur",
+       "role": "nom",
+       "noyau": true
+      },
+      {
+       "mot": "répare",
+       "role": "verbe"
+      },
+      {
+       "mot": "sa",
+       "role": "déterminant"
+      },
+      {
+       "mot": "barque",
+       "role": "nom",
+       "noyau": true
+      },
+      {
+       "mot": "cassée",
+       "role": "épithète"
+      }
+     ],
+     "note": "*Vieux* et *cassée* sont épithètes : ils sont collés aux noms *pêcheur* et *barque*."
+    },
+    {
+     "type": "test",
+     "title": "L’épithète se supprime",
+     "lines": [
+      "Le vieux pêcheur répare sa barque cassée.",
+      "Le pêcheur répare sa barque. → correct : les épithètes sont facultatives."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "La place de l’épithète"
+    },
+    {
+     "type": "p",
+     "text": "L’épithète se place **avant** ou **après** le nom. La plupart du temps, elle se place après le nom."
+    },
+    {
+     "type": "table",
+     "title": "Avant ou après le nom",
+     "head": [
+      "Place",
+      "Adjectifs fréquents",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "avant le nom",
+       "petit, grand, beau, joli, bon, mauvais, jeune, vieux, long",
+       "une **belle** maison"
+      ],
+      [
+       "après le nom",
+       "couleurs, formes, nationalités",
+       "une maison **blanche** ; un ballon **rond** ; un chanteur **ivoirien**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le sens peut changer",
+     "text": "Pour certains adjectifs, la place change le sens : « Un **grand** homme » (un homme célèbre) ; « Un homme **grand** » (de haute taille). « Un **pauvre** homme » (qui fait pitié) ; « Un homme **pauvre** » (sans argent)."
+    },
+    {
+     "type": "tip",
+     "label": "Plusieurs épithètes",
+     "text": "Un nom peut avoir plusieurs épithètes : *un petit chat noir*. On peut les relier par *et* : *un chat noir et blanc*."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La jeune fille porte un sac lourd », quels adjectifs sont épithètes ?",
+     "options": [
+      "jeune seulement",
+      "lourd seulement",
+      "jeune et lourd",
+      "aucun des deux"
+     ],
+     "answer": 2,
+     "explain": "*Jeune* est collé à *fille* et *lourd* est collé à *sac*, sans verbe entre eux : ce sont deux épithètes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les épithètes et le nom auquel elles se rapportent.",
+     "items": [
+      "Un fort vent souffle sur la plage déserte.",
+      "Awa mange une mangue juteuse.",
+      "Mon petit frère dort dans un lit confortable."
+     ],
+     "corrige": [
+      "1. *fort* → *vent* ; *déserte* → *plage*",
+      "2. *juteuse* → *mangue*",
+      "3. *petit* → *frère* ; *confortable* → *lit*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La fonction attribut du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un adjectif peut aussi être **séparé** du nom par un verbe. Il décrit alors le sujet : c’est l’**attribut du sujet**."
+    },
+    {
+     "type": "def",
+     "label": "Attribut du sujet",
+     "text": "L’adjectif est **attribut du sujet** quand il est relié au sujet par un **verbe d’état**. Il dit **comment est** le sujet. Il s’accorde avec le sujet."
+    },
+    {
+     "type": "table",
+     "title": "Les verbes d’état",
+     "head": [
+      "Verbe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "être",
+       "Les mangues **sont mûres**."
+      ],
+      [
+       "paraître, sembler",
+       "Le ciel **semble noir**."
+      ],
+      [
+       "devenir, rester, demeurer",
+       "Awa **reste calme**."
+      ],
+      [
+       "avoir l’air",
+       "Il **a l’air fatigué**."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un attribut du sujet",
+     "cells": [
+      {
+       "mot": "Les mangues",
+       "role": "sujet"
+      },
+      {
+       "mot": "sont",
+       "role": "verbe d’état",
+       "noyau": true
+      },
+      {
+       "mot": "mûres",
+       "role": "attribut du sujet"
+      }
+     ],
+     "note": "*Mûres* s’accorde avec le sujet *les mangues* (féminin pluriel). Le verbe *sont* relie l’adjectif au sujet."
+    },
+    {
+     "type": "test",
+     "title": "L’attribut ne se supprime pas",
+     "lines": [
+      "Les mangues sont mûres.",
+      "Les mangues sont. → la phrase est incomplète : l’attribut est nécessaire."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test du verbe être",
+     "text": "Si tu peux remplacer le verbe par **être** sans changer le sens, c’est un verbe d’état : « Awa *reste* calme. » → « Awa *est* calme. »"
+    },
+    {
+     "type": "warn",
+     "label": "Attribut ou COD ?",
+     "text": "Avec un verbe d’action, le complément est un COD, pas un attribut : « Awa **mange** une mangue. » (*une mangue* = COD). Avec un verbe d’état, le complément décrit le sujet : « Awa **est** contente. » (*contente* = attribut)."
+    },
+    {
+     "type": "table",
+     "title": "Épithète ou attribut ?",
+     "head": [
+      "Critère",
+      "Épithète",
+      "Attribut du sujet"
+     ],
+     "rows": [
+      [
+       "place",
+       "collée au nom",
+       "après un verbe d’état"
+      ],
+      [
+       "suppression",
+       "possible",
+       "impossible"
+      ],
+      [
+       "exemple",
+       "une **grande** classe",
+       "La classe est **grande**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la fonction de *calme* dans « Les élèves restent calmes » ?",
+     "options": [
+      "épithète",
+      "attribut du sujet",
+      "COD",
+      "complément circonstanciel"
+     ],
+     "answer": 1,
+     "explain": "*Restent* est un verbe d’état, et *calmes* décrit le sujet *les élèves* : c’est un attribut du sujet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève l’adjectif et donne sa fonction : épithète ou attribut du sujet.",
+     "items": [
+      "La nuit est fraîche.",
+      "Un vent frais souffle.",
+      "Les enfants semblent heureux.",
+      "Mon cousin devient grand."
+     ],
+     "corrige": [
+      "1. *fraîche* : attribut du sujet (*la nuit*)",
+      "2. *frais* : épithète (*vent*)",
+      "3. *heureux* : attribut du sujet (*les enfants*)",
+      "4. *grand* : attribut du sujet (*mon cousin*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’adjectif apposé et la place de l’adjectif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il existe une troisième façon d’utiliser un adjectif : le **détacher** du nom par une virgule. On dit qu’il est **apposé**."
+    },
+    {
+     "type": "def",
+     "label": "Adjectif apposé",
+     "text": "L’adjectif est **apposé** (on dit aussi *en apposition*) quand il est **séparé du nom par une virgule** (ou des virgules). Il apporte une information en plus et se rapporte à un nom ou à un pronom."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Fatigué**, le voyageur s’assoit.\nAwa, **contente**, rentre chez elle.\nLe lion, **affamé**, rôde dans la savane."
+    },
+    {
+     "type": "schema",
+     "title": "Un adjectif apposé",
+     "cells": [
+      {
+       "mot": "Fatigué",
+       "role": "adjectif apposé"
+      },
+      {
+       "mot": "le voyageur",
+       "role": "sujet"
+      },
+      {
+       "mot": "s’assoit",
+       "role": "verbe",
+       "noyau": true
+      }
+     ],
+     "note": "*Fatigué* se rapporte à *le voyageur* ; il s’accorde avec lui (masculin singulier)."
+    },
+    {
+     "type": "tip",
+     "label": "L’apposé se déplace",
+     "text": "Un adjectif apposé peut se déplacer : *Fatigué, le voyageur s’assoit.* — *Le voyageur, fatigué, s’assoit.* — *Le voyageur s’assoit, fatigué.* Il peut aussi se supprimer."
+    },
+    {
+     "type": "table",
+     "title": "Les trois fonctions de l’adjectif",
+     "head": [
+      "Fonction",
+      "Place",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "épithète",
+       "collé au nom",
+       "un **long** voyage"
+      ],
+      [
+       "attribut du sujet",
+       "après un verbe d’état",
+       "Le voyage est **long**."
+      ],
+      [
+       "apposé",
+       "séparé par une virgule",
+       "**Épuisé**, le voyageur dort."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "L’apposé a souvent un sens de cause",
+     "text": "« **Fatigué**, il s’assoit » veut dire « *comme* il est fatigué, il s’assoit ». Il donne la raison de l’action, ou ce qui se passe en même temps."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les élèves, heureux, quittent la classe. », quelle est la fonction de *heureux* ?",
+     "options": [
+      "épithète",
+      "attribut du sujet",
+      "apposé",
+      "COD"
+     ],
+     "answer": 2,
+     "explain": "*Heureux* est séparé du nom *élèves* par des virgules et il n’y a pas de verbe d’état : c’est un adjectif apposé."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets un adjectif apposé au début de chaque phrase, avec une virgule. Accorde-le.",
+     "items": [
+      "Le chat (affamé) cherche à manger.",
+      "Les enfants (content) sortent.",
+      "Awa (inquiet) attend sa mère."
+     ],
+     "corrige": [
+      "1. *Affamé, le chat cherche à manger.*",
+      "2. *Contents, les enfants sortent.*",
+      "3. *Inquiète, Awa attend sa mère.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Distinguer les fonctions et éviter les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver la fonction d’un adjectif, on regarde **où il est placé** par rapport au nom, au verbe et aux virgules. Suis toujours la même démarche."
+    },
+    {
+     "type": "table",
+     "title": "La démarche",
+     "head": [
+      "Étape",
+      "Ce qu’on observe",
+      "Fonction"
+     ],
+     "rows": [
+      [
+       "1. Cherche le nom ou le sujet",
+       "à qui se rapporte l’adjectif ?",
+       "—"
+      ],
+      [
+       "2. Regarde s’il est collé au nom",
+       "pas de verbe, pas de virgule",
+       "épithète"
+      ],
+      [
+       "3. Regarde le verbe",
+       "verbe d’état entre le sujet et l’adjectif",
+       "attribut du sujet"
+      ],
+      [
+       "4. Regarde les virgules",
+       "adjectif séparé par une virgule",
+       "apposé"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Une **belle** journée commence. → épithète\nLa journée est **belle**. → attribut du sujet\n**Belle**, la journée commence. → apposé"
+    },
+    {
+     "type": "warn",
+     "label": "Participe passé employé comme adjectif",
+     "text": "Un participe passé peut jouer le rôle d’un adjectif : « Une porte **fermée** », « des fruits **cueillis** ». Il s’accorde alors avec le nom, comme n’importe quel adjectif."
+    },
+    {
+     "type": "warn",
+     "label": "Adjectif ou adverbe ?",
+     "text": "Après un verbe d’action, un mot comme *fort*, *vite* ou *faux* est souvent un **adverbe invariable** : « Ils parlent **fort**. », « Elle chante **faux**. ». L’adjectif, lui, se rapporte à un nom et s’accorde : « des voix **fortes** »."
+    },
+    {
+     "type": "tip",
+     "label": "L’accord ne te dit pas tout",
+     "text": "Si l’adjectif est invariable, tu ne verras pas l’accord : *des chaussures marron*. Utilise donc la **place** et le **sens**, pas seulement l’accord."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Heureuse, Awa chante », quelle est la fonction de *heureuse* ?",
+     "options": [
+      "épithète",
+      "attribut du sujet",
+      "apposé",
+      "COD"
+     ],
+     "answer": 2,
+     "explain": "*Heureuse* est détaché par une virgule : c’est un adjectif apposé qui se rapporte à *Awa*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction de l’adjectif en gras : épithète, attribut du sujet ou apposé.",
+     "items": [
+      "Mon **vieux** voisin arrose son jardin.",
+      "Le jardin est **fleuri**.",
+      "**Épuisés**, les joueurs rentrent.",
+      "Les mangues **mûres** tombent.",
+      "Elle paraît **inquiète**."
+     ],
+     "corrige": [
+      "1. épithète",
+      "2. attribut du sujet",
+      "3. apposé",
+      "4. épithète",
+      "5. attribut du sujet"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **accorde** et on **identifie les fonctions**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les adjectifs qualificatifs de chaque phrase.",
+     "items": [
+      "Le petit garçon mange une mangue sucrée.",
+      "Cette route est longue et difficile.",
+      "Fatiguée, ma mère s’assoit sur le vieux fauteuil."
+     ],
+     "corrige": [
+      "1. *petit*, *sucrée*",
+      "2. *longue*, *difficile*",
+      "3. *Fatiguée*, *vieux*"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La mangue est mûre », que fait l’adjectif *mûre* ?",
+     "options": [
+      "Il complète un verbe d’action",
+      "Il est relié au sujet par un verbe d’état",
+      "Il est séparé du nom par une virgule",
+      "Il est collé au nom"
+     ],
+     "answer": 1,
+     "explain": "*Est* est un verbe d’état : *mûre* est attribut du sujet *la mangue*."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : accorder et identifier"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde l’adjectif entre parenthèses.",
+     "items": [
+      "Des filles (joyeux) chantent.",
+      "Ma tante est très (gentil).",
+      "Les (nouveau) élèves sont arrivés.",
+      "Mon frère et ma sœur sont (fatigué).",
+      "Il porte une chemise et un pantalon (marron)."
+     ],
+     "corrige": [
+      "1. joyeuses",
+      "2. gentille",
+      "3. nouveaux",
+      "4. fatigués",
+      "5. marron (invariable)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction de l’adjectif en gras.",
+     "items": [
+      "Un **grand** arbre pousse là.",
+      "Le ciel est **gris**.",
+      "**Inquiet**, Awa téléphone.",
+      "La rivière **calme** coule doucement.",
+      "Les enfants paraissent **heureux**."
+     ],
+     "corrige": [
+      "1. épithète",
+      "2. attribut du sujet",
+      "3. apposé",
+      "4. épithète",
+      "5. attribut du sujet"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "une phrase avec un adjectif épithète",
+      "une phrase avec un adjectif attribut du sujet",
+      "une phrase avec un adjectif apposé au début",
+      "une phrase avec deux adjectifs épithètes"
+     ],
+     "corrige": "Réponses possibles : *Awa porte une robe jaune.* — *La classe est calme.* — *Joyeux, les enfants courent.* — *Mon petit chat noir dort.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**adjectif qualificatif** donne une **qualité** ou une **caractéristique** du nom auquel il se rapporte.",
+      "Il s’**accorde en genre et en nombre** avec ce nom : *une petite maison blanche*, *des maisons blanches*.",
+      "Le **féminin** s’obtient en général avec **-e**, le **pluriel** avec **-s** (**-aux** pour les adjectifs en *-al*).",
+      "**Épithète** : collé au nom, sans verbe ni virgule (*un grand arbre*).",
+      "**Attribut du sujet** : relié au sujet par un **verbe d’état** (*L’arbre est grand.*).",
+      "**Apposé** : séparé du nom par une **virgule** (*Fatigué, il dort.*).",
+      "Les adjectifs de couleur issus d’un nom (*orange*, *marron*) sont **invariables**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Fonction",
+      "Place",
+      "Se supprime ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "épithète",
+       "collé au nom",
+       "oui",
+       "un **petit** chat"
+      ],
+      [
+       "attribut du sujet",
+       "après un verbe d’état",
+       "non",
+       "Le chat est **petit**."
+      ],
+      [
+       "apposé",
+       "séparé par une virgule",
+       "oui",
+       "**Petit**, le chat dort."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle fonction a *noire* dans « La nuit est noire » ?",
+     "options": [
+      "épithète",
+      "apposé",
+      "attribut du sujet",
+      "COD"
+     ],
+     "answer": 2,
+     "explain": "*Est* est un verbe d’état et *noire* décrit le sujet *la nuit* : c’est un attribut du sujet."
+    }
+   ]
+  }
+ ]
+}

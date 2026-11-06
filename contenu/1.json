@@ -1,0 +1,639 @@
+{
+ "id": 1,
+ "sections": [
+  {
+   "t": "Définition du groupe nominal",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « la petite maison du village », quatre groupes de mots travaillent ensemble pour désigner une seule chose. Voyons comment le français les assemble."
+    },
+    {
+     "type": "def",
+     "label": "Groupe nominal (GN)",
+     "text": "Un **groupe nominal** est un ensemble de mots organisé autour d’un **nom**, appelé le **noyau**. Il répond à la question : de qui ou de quoi parle-t-on ?"
+    },
+    {
+     "type": "schema",
+     "title": "Un groupe nominal décortiqué",
+     "cells": [
+      {
+       "mot": "La",
+       "role": "déterminant"
+      },
+      {
+       "mot": "petite",
+       "role": "adjectif"
+      },
+      {
+       "mot": "maison",
+       "role": "noyau",
+       "noyau": true
+      },
+      {
+       "mot": "du village",
+       "role": "complément du nom"
+      }
+     ],
+     "note": "Le noyau est le mot autour duquel tout s’organise."
+    },
+    {
+     "type": "h",
+     "text": "Le noyau : le mot qu’on ne peut pas supprimer"
+    },
+    {
+     "type": "p",
+     "text": "Le noyau est le **nom** autour duquel le groupe se construit. Pour le trouver, on supprime les mots un par un : celui qui reste indispensable est le noyau."
+    },
+    {
+     "type": "test",
+     "title": "Le test de suppression",
+     "lines": [
+      "La **petite** maison du village est blanche. → on peut supprimer « petite ».",
+      "La petite maison **du village** est blanche. → on peut supprimer « du village ».",
+      "La petite **maison** du village est blanche. → impossible de supprimer « maison » sans perdre le sens."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les éléments d’un groupe nominal",
+     "head": [
+      "Élément",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Déterminant",
+       "Présente le nom et indique son genre et son nombre",
+       "le, une, mes, ces"
+      ],
+      [
+       "Nom noyau",
+       "Donne le sens principal du groupe",
+       "maison"
+      ],
+      [
+       "Adjectif épithète",
+       "Décrit le nom, sans verbe entre les deux",
+       "petite"
+      ],
+      [
+       "Complément du nom",
+       "Précise le nom, avec une préposition",
+       "du village"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Un groupe nominal peut être très court : « Paul », « les enfants », « ma voisine ». Il peut aussi être long, mais il n’a toujours qu’**un seul noyau**."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne confondez pas **groupe nominal** et **nom** : le nom est un seul mot, le groupe nominal est l’ensemble des mots qui l’entourent."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon grand frère joue au ballon », quel est le noyau du groupe nominal sujet ?",
+     "options": [
+      "Mon",
+      "grand",
+      "frère",
+      "joue"
+     ],
+     "answer": 2,
+     "explain": "« frère » est le seul mot qu’on ne peut pas supprimer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Entoure le noyau de chaque groupe nominal.",
+     "items": [
+      "la grande table",
+      "mes vieux amis"
+     ],
+     "corrige": [
+      "la grande **table**",
+      "mes vieux **amis**"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Un groupe nominal s’organise autour d’un nom : le **noyau**.",
+      "Il peut comprendre un déterminant, un adjectif et un complément du nom.",
+      "Le noyau est le seul mot qu’on ne peut pas supprimer."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les expansions du nom",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le nom noyau peut être enrichi par d’autres mots ou groupes de mots. On les appelle des **expansions du nom** : elles précisent le nom, sans le remplacer."
+    },
+    {
+     "type": "def",
+     "label": "Expansion du nom",
+     "text": "Une expansion du nom est un mot ou un groupe de mots qui complète le nom noyau pour le préciser. Elle peut être supprimée sans que la phrase perde son sens."
+    },
+    {
+     "type": "schema",
+     "title": "Un groupe nominal avec ses expansions",
+     "cells": [
+      {
+       "mot": "Le",
+       "role": "déterminant"
+      },
+      {
+       "mot": "chat",
+       "role": "noyau",
+       "noyau": true
+      },
+      {
+       "mot": "noir",
+       "role": "adjectif épithète"
+      },
+      {
+       "mot": "de ma voisine",
+       "role": "complément du nom"
+      },
+      {
+       "mot": "qui dort sur le muret",
+       "role": "proposition relative"
+      }
+     ],
+     "note": "Tout s’organise autour du noyau « chat »."
+    },
+    {
+     "type": "h",
+     "text": "Les trois expansions principales"
+    },
+    {
+     "type": "table",
+     "title": "Reconnaître une expansion du nom",
+     "head": [
+      "Expansion",
+      "Comment la reconnaître",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Adjectif épithète",
+       "Un adjectif placé juste à côté du nom, sans verbe entre les deux",
+       "une maison **blanche**"
+      ],
+      [
+       "Complément du nom",
+       "Un groupe introduit par une préposition (de, à, en, pour…)",
+       "la maison **de ma tante**"
+      ],
+      [
+       "Proposition relative",
+       "Un groupe qui contient un verbe et commence par un pronom relatif (qui, que, où, dont)",
+       "la maison **que j’habite**"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test de suppression",
+     "lines": [
+      "Le chat **noir** de ma voisine qui dort sur le muret ronronne. → on supprime « noir » : la phrase reste correcte.",
+      "Le chat noir **de ma voisine** qui dort sur le muret ronronne. → on supprime « de ma voisine » : la phrase reste correcte.",
+      "Le chat noir de ma voisine **qui dort sur le muret** ronronne. → on supprime la relative : la phrase reste correcte.",
+      "**Le chat** ronronne. → il ne reste que le noyau et son déterminant : c’est le sens essentiel de la phrase."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne confondez pas l’**épithète** et l’**attribut**. Dans « une maison blanche », *blanche* est collé au nom : c’est une épithète. Dans « la maison est blanche », le verbe *être* relie l’adjectif au sujet : c’est un attribut du sujet, pas une expansion du nom."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver une expansion, cherchez d’abord le noyau, puis demandez-vous quels mots ou groupes de mots le précisent."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « le livre de mon frère », que représente « de mon frère » ?",
+     "options": [
+      "Un adjectif épithète",
+      "Un complément du nom",
+      "Une proposition relative",
+      "Un complément du verbe"
+     ],
+     "answer": 1,
+     "explain": "« de mon frère » est introduit par la préposition *de* et précise le nom *livre* : c’est un complément du nom."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève l’expansion du nom dans chaque groupe nominal et dis de quel type elle est.",
+     "items": [
+      "une robe rouge",
+      "le cahier de Marie",
+      "l’élève qui chante",
+      "un grand jardin fleuri"
+     ],
+     "corrige": [
+      "1. *rouge* : adjectif épithète",
+      "2. *de Marie* : complément du nom",
+      "3. *qui chante* : proposition relative",
+      "4. *grand* et *fleuri* : deux adjectifs épithètes"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Les expansions précisent le nom noyau et peuvent être supprimées.",
+      "Il y en a trois principales : l’adjectif épithète, le complément du nom et la proposition relative.",
+      "L’épithète est collée au nom ; l’attribut est relié au sujet par un verbe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Accorder dans le groupe nominal",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un groupe nominal, le **nom noyau** commande : le déterminant et les adjectifs prennent son **genre** (masculin ou féminin) et son **nombre** (singulier ou pluriel). C’est ce qu’on appelle l’accord."
+    },
+    {
+     "type": "def",
+     "label": "Accord dans le groupe nominal",
+     "text": "Les mots qui accompagnent le nom (déterminant, adjectif épithète) s’accordent en **genre** et en **nombre** avec lui."
+    },
+    {
+     "type": "schema",
+     "title": "Qui s’accorde avec qui ?",
+     "cells": [
+      {
+       "mot": "Les",
+       "role": "déterminant (féminin pluriel)"
+      },
+      {
+       "mot": "petites",
+       "role": "adjectif épithète (féminin pluriel)"
+      },
+      {
+       "mot": "maisons",
+       "role": "noyau (féminin pluriel)",
+       "noyau": true
+      },
+      {
+       "mot": "blanches",
+       "role": "adjectif épithète (féminin pluriel)"
+      }
+     ],
+     "note": "Tous les mots s’accordent avec le noyau « maisons »."
+    },
+    {
+     "type": "h",
+     "text": "Les règles de base"
+    },
+    {
+     "type": "table",
+     "title": "Former le féminin et le pluriel",
+     "head": [
+      "Règle",
+      "Comment faire",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Le féminin",
+       "On ajoute généralement un **-e** à l’adjectif",
+       "un ami joli → une amie joli**e**"
+      ],
+      [
+       "Le pluriel",
+       "On ajoute généralement un **-s**",
+       "un grand arbre → de grand**s** arbres"
+      ],
+      [
+       "Noms et adjectifs en -s, -x, -z",
+       "Ils ne changent pas au pluriel",
+       "un gros nez → de gros nez"
+      ],
+      [
+       "Noms et adjectifs en -al, -eau",
+       "Pluriel en -aux (pour -al) ou -eaux (pour -eau)",
+       "un cheval → des chev**aux** ; un beau bateau → de b**eaux** bateaux"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test du changement de nombre",
+     "lines": [
+      "Je pose la question : de quel nom dépend ce mot ?",
+      "Je mets le nom au pluriel : un petit chat noir → **des** petit**s** chat**s** noir**s**.",
+      "Je mets le nom au féminin : un petit chat noir → **une** petit**e** chatte noir**e**.",
+      "Tous les mots du groupe nominal changent avec le noyau : l’accord est correct."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**les** belle**s** fleur**s** rouge**s** (féminin pluriel)\n**un** vieux livre (masculin singulier)\n**des** chanson**s** joyeuse**s** (féminin pluriel)"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "L’adjectif s’accorde avec le **nom noyau**, pas avec le mot qui est juste à côté. Dans « un sac de **billes** rouge », *rouge* s’accorde avec *sac* (masculin singulier) et non avec *billes*."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour accorder, cherchez toujours le noyau en premier, puis demandez-vous : est-il masculin ou féminin ? singulier ou pluriel ? Appliquez ensuite la réponse à chaque mot du groupe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne écriture ?",
+     "options": [
+      "des petit maisons blanches",
+      "des petites maisons blanches",
+      "des petites maison blanches",
+      "des petit maisons blanche"
+     ],
+     "answer": 1,
+     "explain": "Le noyau *maisons* est au féminin pluriel : le déterminant *des* et les adjectifs *petites* et *blanches* s’accordent avec lui."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie chaque groupe nominal en l’accordant correctement avec le nom noyau.",
+     "items": [
+      "le (petit) fille",
+      "une (vieux) maison",
+      "les (beau) jardin (fleuri)",
+      "des (grand) fenêtre (ouvert)"
+     ],
+     "corrige": [
+      "1. la petite fille",
+      "2. une vieille maison",
+      "3. les beaux jardins fleuris",
+      "4. des grandes fenêtres ouvertes"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Le nom noyau commande l’accord dans le groupe nominal.",
+      "Le déterminant et les adjectifs épithètes prennent son genre et son nombre.",
+      "On cherche d’abord le noyau, puis on accorde chaque mot avec lui."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent les trois premières parties. Fais-les dans l’ordre : on commence par **reconnaître**, puis on **accorde**, et on termine en **produisant** ses propres groupes nominaux."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le nom noyau de chaque groupe nominal.",
+     "items": [
+      "la petite souris grise",
+      "un livre de contes",
+      "mes deux sœurs jumelles",
+      "le chien qui aboie"
+     ],
+     "corrige": [
+      "1. *souris*",
+      "2. *livre*",
+      "3. *sœurs*",
+      "4. *chien*"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « un grand arbre fleuri », combien y a-t-il d’expansions du nom ?",
+     "options": [
+      "Aucune",
+      "Une",
+      "Deux",
+      "Trois"
+     ],
+     "answer": 2,
+     "explain": "*grand* et *fleuri* sont deux adjectifs épithètes qui précisent le nom *arbre*. Le déterminant *un* n’est pas une expansion."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe nominal contient un complément du nom ?",
+     "options": [
+      "le chien gentil",
+      "le chien de Paul",
+      "le chien qui dort",
+      "le chien"
+     ],
+     "answer": 1,
+     "explain": "« de Paul » est introduit par la préposition *de* et précise le nom *chien* : c’est un complément du nom."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature de l’expansion écrite en gras.",
+     "items": [
+      "une robe **bleue**",
+      "le vélo **de mon cousin**",
+      "la fille **que je connais**",
+      "un sac **en cuir**"
+     ],
+     "corrige": [
+      "1. adjectif épithète",
+      "2. complément du nom",
+      "3. proposition relative",
+      "4. complément du nom"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : accorder"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne écriture ?",
+     "options": [
+      "les grands chevaux blanc",
+      "les grands chevaux blancs",
+      "les grand chevaux blancs",
+      "les grands cheval blancs"
+     ],
+     "answer": 1,
+     "explain": "Le noyau *chevaux* est au masculin pluriel : *les*, *grands* et *blancs* s’accordent avec lui."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie chaque groupe nominal en accordant les mots entre parenthèses.",
+     "items": [
+      "les (petit) oiseaux (bleu)",
+      "une (grand) cour (ensoleillé)",
+      "mes (nouveau) cahiers (vert)",
+      "la (premier) page (blanc)"
+     ],
+     "corrige": [
+      "1. les petits oiseaux bleus",
+      "2. une grande cour ensoleillée",
+      "3. mes nouveaux cahiers verts",
+      "4. la première page blanche"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Chaque groupe nominal contient une erreur d’accord. Recopie-le correctement.",
+     "items": [
+      "une petit maison blanc",
+      "des enfants joyeux et bruyant",
+      "les belles fleur rouges"
+     ],
+     "corrige": [
+      "1. une petite maison blanche",
+      "2. des enfants joyeux et bruyants",
+      "3. les belles fleurs rouges"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Avant d’accorder, entoure le noyau, puis dis-toi : « masculin ou féminin ? singulier ou pluriel ? ». Relis ensuite chaque mot du groupe avec cette réponse."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : produire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis le groupe nominal « le chat » : ajoute un adjectif épithète, puis un complément du nom, puis une proposition relative.",
+     "items": [
+      "le chat + adjectif épithète",
+      "le chat + complément du nom",
+      "le chat + proposition relative"
+     ],
+     "corrige": [
+      "Plusieurs réponses sont possibles. Exemples :",
+      "1. le chat *noir*",
+      "2. le chat *de ma voisine*",
+      "3. le chat *qui dort sur le muret*"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase avec chacun de ces groupes nominaux, en les accordant correctement.",
+     "items": [
+      "(un) (petit) fille (blond)",
+      "(le) (vieux) maisons (abandonné)"
+     ],
+     "corrige": [
+      "Les groupes accordés sont :",
+      "1. une petite fille blonde",
+      "2. les vieilles maisons abandonnées",
+      "Chaque phrase doit utiliser le groupe nominal correctement accordé, par exemple : *Une petite fille blonde joue dans la cour.*"
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Dans « un sac de **billes** rouge », *rouge* s’accorde avec *sac*. Cherche toujours le vrai noyau avant d’accorder."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici l’essentiel du cours. Relis-le calmement avant de faire les exercices ou de passer une évaluation."
+    },
+    {
+     "type": "def",
+     "label": "Groupe nominal (GN)",
+     "text": "Un **groupe nominal** est un ensemble de mots organisé autour d’un **nom noyau**, qui est le seul mot qu’on ne peut pas supprimer."
+    },
+    {
+     "type": "schema",
+     "title": "Tout le cours en un schéma",
+     "cells": [
+      {
+       "mot": "Les",
+       "role": "déterminant"
+      },
+      {
+       "mot": "petites",
+       "role": "adjectif épithète"
+      },
+      {
+       "mot": "maisons",
+       "role": "noyau",
+       "noyau": true
+      },
+      {
+       "mot": "de mon village",
+       "role": "complément du nom"
+      },
+      {
+       "mot": "que j’aime",
+       "role": "proposition relative"
+      }
+     ],
+     "note": "Tous les mots dépendent du noyau « maisons »."
+    },
+    {
+     "type": "retenir",
+     "label": "Partie 1 : la définition",
+     "items": [
+      "Un groupe nominal s’organise autour d’un nom : le **noyau**.",
+      "Il peut comprendre un déterminant, un adjectif et un complément du nom.",
+      "Le noyau est le seul mot qu’on ne peut pas supprimer."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Partie 2 : les expansions",
+     "items": [
+      "Les expansions précisent le nom noyau et peuvent être supprimées.",
+      "Il y en a trois principales : l’adjectif épithète, le complément du nom et la proposition relative.",
+      "L’épithète est collée au nom ; l’attribut est relié au sujet par un verbe."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Partie 3 : les accords",
+     "items": [
+      "Le nom noyau commande l’accord dans le groupe nominal.",
+      "Le déterminant et les adjectifs épithètes prennent son genre et son nombre.",
+      "On cherche d’abord le noyau, puis on accorde chaque mot avec lui."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode en trois temps",
+     "text": "1. Je trouve le **noyau**.\n2. Je repère ses **expansions**.\n3. J’**accorde** chaque mot avec le noyau."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « les vieilles maisons du village », quel est le noyau ?",
+     "options": [
+      "les",
+      "vieilles",
+      "maisons",
+      "village"
+     ],
+     "answer": 2,
+     "explain": "Le noyau est *maisons* : c’est le nom autour duquel s’organise le groupe nominal, et c’est le seul mot qu’on ne peut pas supprimer."
+    }
+   ]
+  }
+ ]
+}

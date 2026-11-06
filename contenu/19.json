@@ -1,0 +1,752 @@
+{
+ "id": 19,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une proposition ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase complexe se découpe en **propositions**. Elles n’ont pas toutes le même statut : certaines **commandent**, d’autres **dépendent**. On parle de proposition **principale** et de proposition **subordonnée**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir la proposition",
+      "Distinguer indépendante, principale et subordonnée",
+      "Repérer la principale et la subordonnée dans une phrase complexe"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Proposition",
+     "text": "Une **proposition** est un groupe de mots organisé autour d’**un verbe conjugué**. Une phrase peut contenir une ou plusieurs propositions."
+    },
+    {
+     "type": "table",
+     "title": "Les trois statuts d’une proposition",
+     "head": [
+      "Proposition",
+      "Relation avec les autres",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "indépendante",
+       "ne dépend d’aucune autre et n’en commande aucune",
+       "**Il pleut.**"
+      ],
+      [
+       "principale",
+       "une autre proposition dépend d’elle",
+       "**Je pense** qu’il viendra."
+      ],
+      [
+       "subordonnée",
+       "dépend de la principale",
+       "Je pense **qu’il viendra**."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Principale et subordonnée",
+     "cells": [
+      {
+       "mot": "Je sais",
+       "role": "proposition principale",
+       "noyau": true
+      },
+      {
+       "mot": "que",
+       "role": "mot subordonnant"
+      },
+      {
+       "mot": "tu viens",
+       "role": "proposition subordonnée",
+       "noyau": true
+      }
+     ],
+     "note": "Deux verbes conjugués (*sais*, *viens*) : deux propositions. La seconde dépend de la première."
+    },
+    {
+     "type": "test",
+     "title": "Quel est le statut des propositions ?",
+     "lines": [
+      "Il pleut. → une seule proposition : indépendante.",
+      "Je sais que tu viens. → [Je sais] : principale ; [que tu viens] : subordonnée.",
+      "Nous restons parce qu’il pleut. → [Nous restons] : principale ; [parce qu’il pleut] : subordonnée."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Principale ou indépendante ?",
+     "text": "Une proposition est **principale** seulement si une **subordonnée dépend d’elle**. Sinon, elle est **indépendante**."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment appelle-t-on une proposition qui ne dépend d’aucune autre et n’en commande aucune ?",
+     "options": [
+      "subordonnée",
+      "principale",
+      "indépendante",
+      "relative"
+     ],
+     "answer": 2,
+     "explain": "Une proposition indépendante est autonome : aucune autre ne dépend d’elle et elle ne dépend d’aucune autre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Combien de propositions contient chaque phrase ?",
+     "items": [
+      "Les élèves écoutent.",
+      "Je pense que tu as raison.",
+      "Awa sourit quand elle voit son frère.",
+      "Je sais que tu viens si tu peux."
+     ],
+     "corrige": [
+      "1. une proposition (*écoutent*)",
+      "2. deux propositions (*pense*, *as*)",
+      "3. deux propositions (*sourit*, *voit*)",
+      "4. trois propositions (*sais*, *viens*, *peux*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La proposition principale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase complexe, la **proposition principale** est la proposition **à laquelle les autres se rattachent**."
+    },
+    {
+     "type": "def",
+     "label": "Proposition principale",
+     "text": "La **proposition principale** est celle dont dépend une proposition **subordonnée**. Elle **commande** la subordonnée : sans elle, la subordonnée n’aurait pas de sens."
+    },
+    {
+     "type": "h",
+     "text": "Où se place la principale ?"
+    },
+    {
+     "type": "p",
+     "text": "La principale n’est **pas toujours la première** proposition de la phrase. Elle peut être placée avant la subordonnée, après elle, ou être **coupée** par elle."
+    },
+    {
+     "type": "table",
+     "title": "La place de la principale",
+     "head": [
+      "Place",
+      "Exemple",
+      "Principale"
+     ],
+     "rows": [
+      [
+       "avant la subordonnée",
+       "Je reste **parce qu’il pleut**.",
+       "Je reste"
+      ],
+      [
+       "après la subordonnée",
+       "**Parce qu’il pleut**, je reste.",
+       "je reste"
+      ],
+      [
+       "coupée par la subordonnée",
+       "Le livre **que tu m’as prêté** est passionnant.",
+       "Le livre … est passionnant"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "La principale n’est pas toujours la première",
+     "text": "Dans « **Quand tu arriveras**, nous mangerons. », la première proposition est la **subordonnée**. La principale est *nous mangerons*."
+    },
+    {
+     "type": "test",
+     "title": "Trouver la principale",
+     "lines": [
+      "Supprime la subordonnée et son mot subordonnant : la phrase qui reste est la principale.",
+      "Je pense qu’il viendra. → sans *qu’il viendra* : « Je pense. » → la principale est *Je pense*.",
+      "Parce qu’il pleut, nous restons. → sans *parce qu’il pleut* : « Nous restons. » → la principale est *nous restons*."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un indice",
+     "text": "Le mot subordonnant (*que, quand, parce que, qui…*) est toujours **dans la subordonnée**. La proposition qui **n’en contient pas** est souvent la principale."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quand tu arriveras, nous mangerons. », quelle est la proposition principale ?",
+     "options": [
+      "Quand tu arriveras",
+      "tu arriveras",
+      "nous mangerons",
+      "Quand tu arriveras, nous mangerons"
+     ],
+     "answer": 2,
+     "explain": "*Quand tu arriveras* est introduite par la conjonction *quand* : c’est la subordonnée. La principale est *nous mangerons*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque phrase, relève la proposition principale.",
+     "items": [
+      "Je pense que tu as raison.",
+      "Parce qu’il pleut, nous restons.",
+      "L’élève qui travaille réussit.",
+      "Nous sortirons dès que la pluie cessera.",
+      "Awa dit qu’elle viendra."
+     ],
+     "corrige": [
+      "1. *Je pense*",
+      "2. *nous restons*",
+      "3. *L’élève … réussit* (coupée par la relative *qui travaille*)",
+      "4. *Nous sortirons*",
+      "5. *Awa dit*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La proposition subordonnée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Parce qu’il pleut. » ne peut pas être dite seule : on attend la suite. C’est le signe d’une **proposition subordonnée**."
+    },
+    {
+     "type": "def",
+     "label": "Proposition subordonnée",
+     "text": "La **proposition subordonnée** **dépend** d’une autre proposition, la principale. Elle est introduite par un **mot subordonnant** et **ne peut pas former une phrase à elle seule**."
+    },
+    {
+     "type": "table",
+     "title": "Subordonnée ou indépendante ?",
+     "head": [
+      "Critère",
+      "Subordonnée",
+      "Indépendante"
+     ],
+     "rows": [
+      [
+       "peut former une phrase seule",
+       "non",
+       "oui"
+      ],
+      [
+       "mot subordonnant",
+       "oui (*que, quand, qui…*)",
+       "non"
+      ],
+      [
+       "exemple",
+       "**qu’il viendra**",
+       "**Il viendra.**"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Peut-elle rester seule ?",
+     "lines": [
+      "Il pleut. → oui : proposition indépendante.",
+      "parce qu’il pleut → non : le mot *parce que* la rend dépendante, c’est une subordonnée.",
+      "qui chante dans la cour → non : il faut un nom dont elle dépend, c’est une subordonnée."
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le verbe de la subordonnée",
+     "text": "Le verbe de la subordonnée est parfois à l’**indicatif** (« Je sais que tu **viens** »), parfois au **subjonctif** (« Je veux que tu **viennes** », « bien qu’il **pleuve** »). Le mode dépend du mot subordonnant ou du verbe de la principale."
+    },
+    {
+     "type": "warn",
+     "label": "Le mot subordonnant change tout",
+     "text": "« Il pleut. » est une phrase. Mais ajoute *parce que* : « **parce qu’**il pleut » devient une subordonnée, qui ne peut plus rester seule."
+    },
+    {
+     "type": "tip",
+     "label": "Test du mot subordonnant",
+     "text": "Pour trouver une subordonnée, cherche d’abord le **mot subordonnant** : *que, qui, dont, où, quand, parce que, si, pour que…*"
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces propositions est une subordonnée ?",
+     "options": [
+      "Il pleut.",
+      "Nous restons.",
+      "parce qu’il pleut",
+      "Awa chante."
+     ],
+     "answer": 2,
+     "explain": "*parce qu’il pleut* commence par la conjonction *parce que* : elle dépend d’une principale."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Cette proposition peut-elle former une phrase seule ? Réponds par oui ou non.",
+     "items": [
+      "Le vent souffle.",
+      "qui chante dans la cour",
+      "quand la nuit tombe",
+      "Nous rentrons.",
+      "que tu viennes"
+     ],
+     "corrige": [
+      "1. oui (indépendante)",
+      "2. non (subordonnée relative)",
+      "3. non (subordonnée circonstancielle)",
+      "4. oui",
+      "5. non (subordonnée complétive)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les mots subordonnants",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une subordonnée est toujours **introduite** par un mot qui la rattache à la principale : le **mot subordonnant**. Il en existe deux sortes."
+    },
+    {
+     "type": "table",
+     "title": "Les deux sortes de mots subordonnants",
+     "head": [
+      "Mot subordonnant",
+      "Exemples",
+      "Exemple de phrase"
+     ],
+     "rows": [
+      [
+       "conjonction de subordination",
+       "que, quand, lorsque, parce que, puisque, si, comme, pour que, bien que, dès que",
+       "Je reste **parce qu’**il pleut."
+      ],
+      [
+       "pronom relatif",
+       "qui, que, dont, où, lequel",
+       "L’élève **qui** travaille réussit."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le pronom relatif",
+     "text": "Le **pronom relatif** **remplace un nom** (l’**antécédent**) et joue un rôle dans la subordonnée. Il introduit une subordonnée **relative**."
+    },
+    {
+     "type": "table",
+     "title": "Le rôle du pronom relatif dans la relative",
+     "head": [
+      "Pronom",
+      "Fonction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "qui",
+       "sujet",
+       "L’élève **qui** travaille réussit."
+      ],
+      [
+       "que",
+       "COD",
+       "Le livre **que** je lis est passionnant."
+      ],
+      [
+       "dont",
+       "complément introduit par *de*",
+       "L’élève **dont** je parle est absent."
+      ],
+      [
+       "où",
+       "complément circonstanciel de lieu ou de temps",
+       "La ville **où** j’habite est grande."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le mot « que »",
+     "text": "**Conjonction** : « Je sais **que** tu viens. » (il ne remplace aucun nom). **Pronom relatif** : « Le livre **que** je lis. » (il remplace *le livre*)."
+    },
+    {
+     "type": "tip",
+     "label": "Les locutions conjonctives",
+     "text": "Certaines conjonctions s’écrivent en **plusieurs mots** : *parce que, pour que, bien que, dès que, afin que, avant que, après que*. Elles comptent pour **un seul** mot subordonnant."
+    },
+    {
+     "type": "test",
+     "title": "Conjonction ou pronom relatif ?",
+     "lines": [
+      "Je pense que tu viendras. → *que* ne remplace aucun nom : conjonction.",
+      "L’élève que je vois est absent. → *que* remplace *l’élève* : pronom relatif."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La ville où j’habite est grande. », est la nature du mot « où » ?",
+     "options": [
+      "une conjonction de coordination",
+      "une conjonction de subordination",
+      "un pronom relatif",
+      "un adverbe interrogatif"
+     ],
+     "answer": 2,
+     "explain": "*Où* remplace le nom *ville* et introduit la subordonnée *où j’habite* : c’est un pronom relatif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le mot subordonnant et dis si c’est une conjonction de subordination ou un pronom relatif.",
+     "items": [
+      "L’élève qui travaille réussit.",
+      "Je sais que tu viendras.",
+      "Nous restons parce qu’il pleut.",
+      "Le livre dont tu parles est à moi.",
+      "Attends-moi pour que nous partions ensemble."
+     ],
+     "corrige": [
+      "1. *qui* : pronom relatif",
+      "2. *que* : conjonction de subordination",
+      "3. *parce que* : conjonction de subordination",
+      "4. *dont* : pronom relatif",
+      "5. *pour que* : conjonction de subordination"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Nature et fonction des subordonnées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour décrire une subordonnée, on donne sa **nature** (par quoi elle est introduite) et sa **fonction** (son rôle par rapport à la principale)."
+    },
+    {
+     "type": "table",
+     "title": "Les trois subordonnées",
+     "head": [
+      "Nature",
+      "Introduite par",
+      "Fonction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "relative",
+       "pronom relatif",
+       "complément de l’antécédent",
+       "L’élève **qui travaille** réussit."
+      ],
+      [
+       "conjonctive complétive",
+       "que",
+       "COD du verbe de la principale (le plus souvent)",
+       "Je pense **qu’il viendra**."
+      ],
+      [
+       "conjonctive circonstancielle",
+       "conjonction de subordination",
+       "CC de la principale",
+       "**Quand il pleut**, nous restons."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une subordonnée relative",
+     "cells": [
+      {
+       "mot": "L’élève",
+       "role": "sujet, antécédent",
+       "noyau": true
+      },
+      {
+       "mot": "qui travaille",
+       "role": "subordonnée relative, complète *élève*"
+      },
+      {
+       "mot": "réussit",
+       "role": "verbe de la principale",
+       "noyau": true
+      }
+     ],
+     "note": "La relative complète le nom *élève*, son antécédent. La principale est *L’élève … réussit*."
+    },
+    {
+     "type": "test",
+     "title": "Trouver la fonction",
+     "lines": [
+      "Je pense qu’il viendra. → *Que penses-tu ?* → *qu’il viendra* : COD de *pense* (complétive).",
+      "Quand il pleut, nous restons. → *Quand restons-nous ?* → *quand il pleut* : CC de temps (circonstancielle)."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Complétive ou circonstancielle ?",
+     "text": "La **circonstancielle** peut être **déplacée** ou **supprimée** : « Nous restons quand il pleut. » La **complétive** ne le peut pas : « Je pense. » est incomplet."
+    },
+    {
+     "type": "tip",
+     "label": "Les questions utiles",
+     "text": "**COD** : *quoi ? que ?* après le verbe. **CC** : *quand ? où ? pourquoi ? comment ?* **Complément de l’antécédent** : *quel nom complète-t-elle ?*"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je crois que tu as raison. », quelle est la fonction de la subordonnée ?",
+     "options": [
+      "complément de l’antécédent",
+      "COD de *crois*",
+      "complément circonstanciel",
+      "sujet"
+     ],
+     "answer": 1,
+     "explain": "On peut demander : *Que crois-je ?* → *que tu as raison*. La subordonnée complétive est COD du verbe *crois*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature et la fonction de la subordonnée en italique.",
+     "items": [
+      "Je sais *que tu viendras*.",
+      "Le chien *qui aboie* est à mon voisin.",
+      "*Quand la nuit tombe*, nous rentrons.",
+      "Il sort *bien qu’il pleuve*."
+     ],
+     "corrige": [
+      "1. conjonctive complétive, COD de *sais*",
+      "2. relative, complément de l’antécédent *chien*",
+      "3. conjonctive circonstancielle de temps, CC de la principale",
+      "4. conjonctive circonstancielle d’opposition, CC de la principale"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Analyser une phrase complexe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Analyser une phrase complexe, c’est **découper les propositions**, trouver la **principale**, puis donner la **nature** et la **fonction** de chaque subordonnée."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Entoure les **verbes conjugués**.",
+      "Repère les **mots subordonnants**.",
+      "Mets chaque **proposition entre crochets**.",
+      "Trouve la **principale** : celle dont les autres dépendent.",
+      "Donne la **nature** et la **fonction** de chaque subordonnée."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "« Je pense que le livre qui est sur la table est à toi. »\n[Je pense] : principale.\n[que le livre … est à toi] : subordonnée conjonctive complétive, COD de *pense*.\n[qui est sur la table] : subordonnée relative, complément de l’antécédent *livre*.",
+     "label": "Analyse complète"
+    },
+    {
+     "type": "h",
+     "text": "Une subordonnée peut dépendre d’une autre subordonnée"
+    },
+    {
+     "type": "def",
+     "label": "Subordonnée de subordonnée",
+     "text": "Une subordonnée peut dépendre **d’une autre subordonnée** et non de la principale. Seule la principale ne dépend de rien."
+    },
+    {
+     "type": "ex",
+     "text": "Je sais **que tu viendras** *si tu peux*. → *si tu peux* dépend de *tu viendras* : c’est une subordonnée de la subordonnée.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "Plusieurs subordonnées"
+    },
+    {
+     "type": "p",
+     "text": "Une principale peut avoir **plusieurs subordonnées**, elles-mêmes coordonnées ou juxtaposées : « Je pense **qu’il viendra** et **qu’il restera**. » Ce sont deux subordonnées complétives coordonnées par *et*."
+    },
+    {
+     "type": "warn",
+     "label": "Ne te trompe pas de principale",
+     "text": "Dans une phrase longue, la principale n’est pas forcément la **première** ni la **plus longue**. C’est celle dont **tout dépend**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Awa sait que le chien qui aboie est à moi. », combien y a-t-il de subordonnées ?",
+     "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+     ],
+     "answer": 2,
+     "explain": "Il y a trois verbes conjugués (*sait*, *aboie*, *est*) : une principale (*Awa sait*) et deux subordonnées."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque proposition entre crochets, indique la principale et nomme les subordonnées.",
+     "items": [
+      "Je pense que tu as raison.",
+      "Quand la nuit tombe, les enfants rentrent.",
+      "Le livre que tu m’as prêté est passionnant.",
+      "Je sais que tu viendras si tu peux."
+     ],
+     "corrige": [
+      "1. [Je pense] principale ; [que tu as raison] complétive, COD",
+      "2. [Quand la nuit tombe] circonstancielle de temps ; [les enfants rentrent] principale",
+      "3. [Le livre … est passionnant] principale ; [que tu m’as prêté] relative, complément de l’antécédent *livre*",
+      "4. [Je sais] principale ; [que tu viendras] complétive, COD ; [si tu peux] circonstancielle de condition, qui dépend de *tu viendras*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets la principale entre crochets et dis quelle est la subordonnée.",
+     "items": [
+      "Awa pense que sa mère viendra.",
+      "Je regarde la télévision pendant que ma sœur dort.",
+      "Le garçon qui court est mon frère.",
+      "Dès que le soleil se lève, les coqs chantent."
+     ],
+     "corrige": [
+      "1. [Awa pense] ; subordonnée : *que sa mère viendra*",
+      "2. [Je regarde la télévision] ; subordonnée : *pendant que ma sœur dort*",
+      "3. [Le garçon … est mon frère] ; subordonnée : *qui court*",
+      "4. [les coqs chantent] ; subordonnée : *Dès que le soleil se lève*"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la proposition principale dans « Il sort bien qu’il pleuve. » ?",
+     "options": [
+      "bien qu’il pleuve",
+      "Il sort",
+      "il pleuve",
+      "Il sort bien"
+     ],
+     "answer": 1,
+     "explain": "*bien qu’il pleuve* est la subordonnée (mot subordonnant *bien que*). La principale est *Il sort*."
+    },
+    {
+     "type": "h",
+     "text": "Compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le mot subordonnant qui convient : *que, qui, parce que, quand, pour que*.",
+     "items": [
+      "Le garçon … court est mon frère.",
+      "Je crois … tu as raison.",
+      "Nous restons … il pleut.",
+      "… la nuit tombe, nous rentrons.",
+      "Je t’explique … tu comprennes."
+     ],
+     "corrige": [
+      "1. qui",
+      "2. que",
+      "3. parce que",
+      "4. Quand",
+      "5. pour que"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la phrase : « Awa dit que le fruit qu’elle mange est mûr. »",
+     "items": [
+      "Combien de propositions contient-elle ?",
+      "Quelle est la proposition principale ?",
+      "Quelle est la nature de « que le fruit … est mûr » ?",
+      "Quelle est la nature de « qu’elle mange » ?"
+     ],
+     "corrige": [
+      "1. trois (*dit*, *mange*, *est*)",
+      "2. *Awa dit*",
+      "3. subordonnée conjonctive complétive, COD de *dit*",
+      "4. subordonnée relative, complément de l’antécédent *fruit* (*qu’* = pronom relatif COD)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une phrase complexe contient plusieurs **propositions** : une **principale** et une ou plusieurs **subordonnées**.",
+      "La **principale** commande la subordonnée ; elle peut être **avant**, **après** ou **coupée** par elle.",
+      "Une proposition **indépendante** ne dépend d’aucune autre et n’en commande aucune.",
+      "La **subordonnée** **dépend** de la principale, est introduite par un **mot subordonnant** et **ne peut pas rester seule**.",
+      "Les mots subordonnants sont les **conjonctions de subordination** et les **pronoms relatifs**.",
+      "Trois sortes de subordonnées : **relative** (complément de l’antécédent), **complétive** (COD du verbe), **circonstancielle** (CC de la principale).",
+      "Une subordonnée peut dépendre **d’une autre subordonnée**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Nature et fonction des subordonnées",
+     "head": [
+      "Subordonnée",
+      "Mot subordonnant",
+      "Fonction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "relative",
+       "qui, que, dont, où",
+       "complément de l’antécédent",
+       "L’élève **qui travaille** réussit."
+      ],
+      [
+       "complétive",
+       "que",
+       "COD du verbe",
+       "Je pense **qu’il viendra**."
+      ],
+      [
+       "circonstancielle",
+       "quand, parce que, si…",
+       "CC de la principale",
+       "Nous restons **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle subordonnée est complément circonstanciel de la principale ?",
+     "options": [
+      "la relative",
+      "la complétive",
+      "la circonstancielle",
+      "l’indépendante"
+     ],
+     "answer": 2,
+     "explain": "La subordonnée circonstancielle exprime le temps, la cause, le but, la condition… et joue le rôle d’un CC de la principale."
+    }
+   ]
+  }
+ ]
+}

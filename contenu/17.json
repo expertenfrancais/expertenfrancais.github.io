@@ -1,0 +1,746 @@
+{
+ "id": 17,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une phrase simple ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Le chat dort. » est une phrase très courte. « Le petit chat de ma voisine dort tranquillement sur le canapé. » est plus longue, mais elle reste de la même sorte : c’est aussi une **phrase simple**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Savoir ce qu’est une phrase simple",
+      "La distinguer d’une phrase complexe",
+      "Compter les verbes conjugués d’une phrase"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Phrase simple",
+     "text": "Une **phrase simple** ne contient **qu’un seul verbe conjugué** : elle est formée d’**une seule proposition**. Elle commence par une majuscule et se termine par un point (ou un point d’interrogation, d’exclamation)."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase simple",
+     "cells": [
+      {
+       "mot": "Les enfants",
+       "role": "sujet"
+      },
+      {
+       "mot": "jouent",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "dans la cour",
+       "role": "CC de lieu"
+      }
+     ],
+     "note": "Un seul verbe conjugué : *jouent*. C’est une phrase simple."
+    },
+    {
+     "type": "table",
+     "title": "Phrase simple ou phrase complexe ?",
+     "head": [
+      "Critère",
+      "Phrase simple",
+      "Phrase complexe"
+     ],
+     "rows": [
+      [
+       "verbes conjugués",
+       "un seul",
+       "deux ou plus"
+      ],
+      [
+       "propositions",
+       "une seule",
+       "plusieurs"
+      ],
+      [
+       "exemple",
+       "Il pleut.",
+       "Il pleut **et** nous restons."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Compter les verbes conjugués",
+     "lines": [
+      "Awa chante. → 1 verbe conjugué : phrase simple.",
+      "Awa chante et Fatou danse. → 2 verbes conjugués : phrase complexe."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Longueur ne veut pas dire complexité",
+     "text": "Une phrase peut être très longue et rester **simple** : ce qui compte, c’est le **nombre de verbes conjugués**, pas le nombre de mots."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une phrase simple ?",
+     "options": [
+      "Il rit et elle pleure.",
+      "Les enfants chantent dans la cour.",
+      "Je pense qu’il viendra.",
+      "Awa chante quand elle est contente."
+     ],
+     "answer": 1,
+     "explain": "« Les enfants chantent dans la cour. » ne contient qu’un verbe conjugué (*chantent*). Les autres en contiennent deux."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Compte les verbes conjugués et dis si la phrase est simple (S) ou complexe (C).",
+     "items": [
+      "Le chat dort sur le canapé.",
+      "Il pleut et nous restons à la maison.",
+      "Awa mange une mangue.",
+      "Je sais que tu es là."
+     ],
+     "corrige": [
+      "1. un verbe (*dort*) → S",
+      "2. deux verbes (*pleut*, *restons*) → C",
+      "3. un verbe (*mange*) → S",
+      "4. deux verbes (*sais*, *es*) → C"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sujet et le verbe : le cœur de la phrase",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase simple, tout tourne autour de deux éléments : le **verbe** et son **sujet**. On les cherche toujours en premier."
+    },
+    {
+     "type": "def",
+     "label": "Le verbe",
+     "text": "Le **verbe conjugué** est le mot qui **change** quand on change le temps ou la personne. On le trouve en **mettant la phrase à un autre temps** ou à la **forme négative** (*ne … pas* l’encadre)."
+    },
+    {
+     "type": "def",
+     "label": "Le sujet",
+     "text": "Le **sujet** est celui qui **fait l’action** ou **dont on parle**. On le trouve avec la question **qui est-ce qui … ?** ou **qu’est-ce qui … ?**, ou avec l’encadrement **c’est … qui**."
+    },
+    {
+     "type": "table",
+     "title": "Trouver le verbe et le sujet",
+     "head": [
+      "Étape",
+      "Ce qu’on fait",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "1. Le verbe",
+       "on change le temps ou on met à la forme négative",
+       "Les enfants jouent → hier, les enfants *jouaient*"
+      ],
+      [
+       "2. Le sujet",
+       "qui est-ce qui … ?",
+       "*Qui est-ce qui joue ?* → les enfants"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Un sujet, un verbe",
+     "lines": [
+      "Les enfants jouent dans la cour.",
+      "Qui est-ce qui joue ? → *les enfants* (sujet)",
+      "Les enfants ne jouent pas dans la cour. → *jouent* est le verbe."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le sujet n’est pas toujours en premier",
+     "text": "Dans « **Ce soir**, Awa chante. », le premier groupe est un CC : le sujet est *Awa*. Parfois le sujet est placé **après** le verbe : « Dans la cour **jouent** *les enfants*. » (Qui est-ce qui joue ? *les enfants*)."
+    },
+    {
+     "type": "tip",
+     "label": "Le verbe s’accorde",
+     "text": "Le verbe s’accorde avec son sujet : « L’enfant **joue** » / « Les enfants **jouent** ». Si tu hésites sur l’accord, cherche d’abord le sujet."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le soir, les élèves rentrent », quel est le sujet ?",
+     "options": [
+      "Le soir",
+      "les élèves",
+      "rentrent",
+      "Le soir, les élèves"
+     ],
+     "answer": 1,
+     "explain": "*Qui est-ce qui rentre ?* → *les élèves*. *Le soir* est un CC de temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le sujet et le verbe de chaque phrase.",
+     "items": [
+      "Les oiseaux chantent le matin.",
+      "Awa a mangé une mangue.",
+      "Dans la rue passent des voitures.",
+      "Nous ne voulons pas partir.",
+      "Mon frère et ma sœur lisent."
+     ],
+     "corrige": [
+      "1. sujet : *les oiseaux* ; verbe : *chantent*",
+      "2. sujet : *Awa* ; verbe : *a mangé*",
+      "3. sujet : *des voitures* ; verbe : *passent*",
+      "4. sujet : *nous* ; verbe : *voulons* (*partir* est un infinitif)",
+      "5. sujet : *mon frère et ma sœur* ; verbe : *lisent*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les compléments dans la phrase simple",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Autour du verbe, on trouve des **compléments** qui précisent le sens. Certains sont **nécessaires**, d’autres sont **facultatifs**."
+    },
+    {
+     "type": "table",
+     "title": "Les compléments de la phrase simple",
+     "head": [
+      "Fonction",
+      "Question",
+      "Se supprime ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "COD",
+       "qui ? quoi ?",
+       "non",
+       "Awa mange **une mangue**."
+      ],
+      [
+       "COI",
+       "à qui ? de quoi ?",
+       "non",
+       "Il parle **à son ami**."
+      ],
+      [
+       "attribut du sujet",
+       "comment est le sujet ?",
+       "non",
+       "Awa est **contente**."
+      ],
+      [
+       "complément circonstanciel (CC)",
+       "où ? quand ? comment ? pourquoi ?",
+       "oui",
+       "Nous jouons **dans la cour**."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase avec cinq éléments",
+     "cells": [
+      {
+       "mot": "Ce matin",
+       "role": "CC de temps"
+      },
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "offre",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "un livre",
+       "role": "COD"
+      },
+      {
+       "mot": "à sa sœur",
+       "role": "COI"
+      }
+     ],
+     "note": "Les compléments *un livre* (COD) et *à sa sœur* (COI) sont nécessaires. *Ce matin* est facultatif."
+    },
+    {
+     "type": "test",
+     "title": "Les compléments d’objet ne se suppriment pas",
+     "lines": [
+      "Awa offre un livre à sa sœur.",
+      "Awa offre. → incomplet : le COD et le COI sont nécessaires.",
+      "Ce matin, Awa offre un livre à sa sœur. → *Ce matin* peut disparaître."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "L’ordre à suivre",
+     "text": "Pour analyser une phrase simple : 1) cherche le **verbe**, 2) cherche le **sujet**, 3) cherche les **compléments nécessaires** (COD, COI, attribut), 4) cherche les **CC**."
+    },
+    {
+     "type": "warn",
+     "label": "COI ou CC ?",
+     "text": "« Il pense **à ses vacances**. » (COI : on ne peut pas dire *Il pense.*). « Il joue **à la maison**. » (CC de lieu : *Il joue.* est possible)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Awa offre un livre à sa sœur », quelle est la fonction de *à sa sœur* ?",
+     "options": [
+      "COD",
+      "COI",
+      "CC de lieu",
+      "attribut"
+     ],
+     "answer": 1,
+     "explain": "*Offre à qui ?* → *à sa sœur* : c’est un COI."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du groupe en gras.",
+     "items": [
+      "Les enfants mangent **des mangues**.",
+      "Ils parlent **à leur maîtresse**.",
+      "Awa est **contente**.",
+      "Nous jouons **dans la cour**.",
+      "**Demain**, nous partons."
+     ],
+     "corrige": [
+      "1. COD",
+      "2. COI",
+      "3. attribut du sujet",
+      "4. CC de lieu",
+      "5. CC de temps"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Enrichir ou réduire une phrase simple",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase simple peut être **très courte** ou **très riche**. On peut ajouter des **expansions** (des précisions) sans la rendre complexe."
+    },
+    {
+     "type": "def",
+     "label": "Expansion",
+     "text": "Une **expansion** est un mot ou un groupe de mots que l’on **ajoute** pour préciser la phrase : un adjectif, un complément du nom, un adverbe, un complément circonstanciel…"
+    },
+    {
+     "type": "h",
+     "text": "Enrichir une phrase pas à pas"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Le chat dort.",
+      "Le **petit** chat **noir** dort. (adjectifs épithètes)",
+      "Le petit chat noir **de ma voisine** dort. (complément du nom)",
+      "Le petit chat noir de ma voisine dort **sur le canapé**. (CC de lieu)",
+      "**Ce soir**, le petit chat noir de ma voisine dort **tranquillement** sur le canapé. (CC de temps et adverbe)"
+     ],
+     "label": "Une seule phrase, enrichie",
+     "ordered": true
+    },
+    {
+     "type": "warn",
+     "label": "Toujours un seul verbe conjugué",
+     "text": "Même très longue, cette phrase reste **simple** : il n’y a qu’un seul verbe conjugué, *dort*."
+    },
+    {
+     "type": "h",
+     "text": "Réduire une phrase : la phrase minimale"
+    },
+    {
+     "type": "def",
+     "label": "Phrase minimale",
+     "text": "La **phrase minimale** est ce qui reste quand on **supprime tous les compléments facultatifs** : le **sujet**, le **verbe** et les compléments **nécessaires** (COD, COI, attribut)."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "Hier, le vieux pêcheur répare sa barque.\n→ phrase minimale : *Le pêcheur répare sa barque.* (on garde le COD *sa barque*)"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la phrase minimale de « Hier, le vieux pêcheur répare sa barque » ?",
+     "options": [
+      "Le pêcheur répare.",
+      "Le pêcheur répare sa barque.",
+      "Hier, le pêcheur répare.",
+      "Le vieux pêcheur."
+     ],
+     "answer": 1,
+     "explain": "On supprime *Hier* et *vieux*, qui sont facultatifs, mais on garde le COD *sa barque*, qui est nécessaire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis la phrase, puis réduis-la.",
+     "items": [
+      "Enrichis « Les enfants jouent. » avec un adjectif, un CC de lieu et un CC de temps.",
+      "Réduis « Ce matin, les petits enfants de mon quartier jouent joyeusement dans la cour. » à l’essentiel."
+     ],
+     "corrige": [
+      "1. Exemple : *Ce matin, les petits enfants jouent dans la cour.*",
+      "2. *Les enfants jouent.* (tout le reste est facultatif)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les types et les formes de phrases simples",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase simple peut servir à **informer**, **questionner**, **ordonner** ou **exprimer un sentiment**. On parle des **types de phrases**."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre types",
+     "head": [
+      "Type",
+      "Rôle",
+      "Ponctuation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "déclarative",
+       "informer, raconter",
+       "point",
+       "Awa lit un livre."
+      ],
+      [
+       "interrogative",
+       "poser une question",
+       "point d’interrogation",
+       "Awa lit-elle un livre ?"
+      ],
+      [
+       "injonctive (impérative)",
+       "donner un ordre ou un conseil",
+       "point ou point d’exclamation",
+       "Lis ce livre !"
+      ],
+      [
+       "exclamative",
+       "exprimer un sentiment",
+       "point d’exclamation",
+       "Quel beau livre !"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "La forme affirmative ou négative"
+    },
+    {
+     "type": "table",
+     "title": "Les deux formes",
+     "head": [
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "affirmative",
+       "Il pleut."
+      ],
+      [
+       "négative (*ne … pas*, *ne … jamais*, *ne … rien*)",
+       "Il **ne** pleut **pas**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un type et une forme à la fois",
+     "text": "Chaque phrase a **un type** *et* **une forme** : « Ne cours pas ! » est une phrase **injonctive** à la forme **négative**."
+    },
+    {
+     "type": "warn",
+     "label": "Le type ne dépend pas de la ponctuation seule",
+     "text": "Une phrase déclarative peut se terminer par un point d’exclamation : « Il fait si chaud ! » reste exclamative. Regarde surtout le **rôle** de la phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "De quel type est « Ne cours pas dans le couloir ! » ?",
+     "options": [
+      "déclarative",
+      "interrogative",
+      "injonctive",
+      "exclamative"
+     ],
+     "answer": 2,
+     "explain": "On donne un ordre : c’est une phrase injonctive, à la forme négative."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le type et la forme de chaque phrase.",
+     "items": [
+      "Tu viens demain ?",
+      "Ne cours pas dans le couloir !",
+      "Quelle belle journée !",
+      "Il pleut.",
+      "Je n’aime pas les mangues vertes."
+     ],
+     "corrige": [
+      "1. interrogative, affirmative",
+      "2. injonctive, négative",
+      "3. exclamative, affirmative (phrase non verbale)",
+      "4. déclarative, affirmative",
+      "5. déclarative, négative"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Pièges : reconnaître les phrases simples",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour savoir si une phrase est simple, on **compte les verbes conjugués**. Attention aux pièges : certains verbes **ne comptent pas**."
+    },
+    {
+     "type": "table",
+     "title": "Combien de verbes conjugués ?",
+     "head": [
+      "Phrase",
+      "Verbes conjugués",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "Il veut partir.",
+       "*veut* (conjugué) ; *partir* (infinitif) → **1**",
+       "phrase simple"
+      ],
+      [
+       "Awa a mangé une mangue.",
+       "*a mangé* (auxiliaire + participe) → **1**",
+       "phrase simple"
+      ],
+      [
+       "Il va chanter demain.",
+       "*va* (conjugué) ; *chanter* (infinitif) → **1**",
+       "phrase simple"
+      ],
+      [
+       "Awa chante et danse.",
+       "*chante*, *danse* → **2**",
+       "phrase complexe"
+      ],
+      [
+       "Je sais que tu viens.",
+       "*sais*, *viens* → **2**",
+       "phrase complexe"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "L’infinitif et le participe ne comptent pas",
+     "text": "Un verbe à l’**infinitif** (*partir*) ou un **participe passé** avec *avoir* ou *être* (*a mangé*, *est parti*) ne compte pas comme un verbe conjugué en plus."
+    },
+    {
+     "type": "warn",
+     "label": "Les phrases non verbales",
+     "text": "Certaines phrases n’ont **pas de verbe conjugué** : « Quelle belle journée ! », « Attention ! », « Pas de chance. » On les appelle des **phrases non verbales**. Elles ne sont ni simples ni complexes."
+    },
+    {
+     "type": "warn",
+     "label": "Pronom relatif et conjonction",
+     "text": "« Le garçon **qui** chante est mon frère. » et « Je pense **que** tu as raison. » sont des phrases **complexes** : le pronom relatif et la conjonction introduisent un deuxième verbe."
+    },
+    {
+     "type": "tip",
+     "label": "La méthode",
+     "text": "1) Souligne tous les verbes conjugués. 2) Compte-les. 3) S’il y en a **un seul**, la phrase est simple. 4) S’il y en a **deux ou plus**, elle est complexe. 5) S’il n’y en a **aucun**, elle est non verbale."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est simple ?",
+     "options": [
+      "Il veut partir.",
+      "Il part et elle reste.",
+      "Je sais qu’il vient.",
+      "Quand il pleut, nous rentrons."
+     ],
+     "answer": 0,
+     "explain": "*Veut* est le seul verbe conjugué ; *partir* est un infinitif. Les autres phrases ont deux verbes conjugués."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase est simple, complexe ou non verbale.",
+     "items": [
+      "Il va chanter demain.",
+      "Quelle belle journée !",
+      "Awa chante et Fatou danse.",
+      "Les enfants sont partis tôt.",
+      "Je pense qu’il pleuvra."
+     ],
+     "corrige": [
+      "1. simple (*va* est le seul verbe conjugué)",
+      "2. non verbale",
+      "3. complexe (*chante*, *danse*)",
+      "4. simple (*sont partis*)",
+      "5. complexe (*pense*, *pleuvra*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **analyse et on transforme**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne le ou les verbes conjugués et dis si la phrase est simple (S) ou complexe (C).",
+     "items": [
+      "Les élèves lisent un texte.",
+      "Il pleut et nous restons à la maison.",
+      "Awa a oublié son cahier.",
+      "Je sais que tu es là."
+     ],
+     "corrige": [
+      "1. *lisent* → S",
+      "2. *pleut*, *restons* → C",
+      "3. *a oublié* → S",
+      "4. *sais*, *es* → C"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est simple ?",
+     "options": [
+      "Awa chante et danse.",
+      "Awa a chanté hier.",
+      "Awa chante et je danse.",
+      "Awa chante quand elle est contente."
+     ],
+     "answer": 1,
+     "explain": "*A chanté* est un seul verbe (auxiliaire + participe passé). Les autres phrases contiennent deux verbes conjugués."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser et transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque phrase simple, donne le sujet, le verbe et les compléments.",
+     "items": [
+      "Ce matin, Awa offre un livre à sa sœur.",
+      "Mon frère est content.",
+      "Les enfants jouent dans la cour."
+     ],
+     "corrige": [
+      "1. sujet : *Awa* ; verbe : *offre* ; COD : *un livre* ; COI : *à sa sœur* ; CC de temps : *Ce matin*",
+      "2. sujet : *mon frère* ; verbe : *est* ; attribut du sujet : *content*",
+      "3. sujet : *les enfants* ; verbe : *jouent* ; CC de lieu : *dans la cour*"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la phrase minimale de chaque phrase.",
+     "items": [
+      "Hier, le vieux pêcheur répare sa barque.",
+      "Ce soir, nos voisins mangent du riz.",
+      "Mon petit frère dort dans sa chambre."
+     ],
+     "corrige": [
+      "1. *Le pêcheur répare sa barque.*",
+      "2. *Nos voisins mangent du riz.* (COD nécessaire)",
+      "3. *Mon frère dort.*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "une phrase simple avec un COD",
+      "une phrase simple avec un CC de temps et un CC de lieu",
+      "une phrase simple interrogative",
+      "une phrase simple négative"
+     ],
+     "corrige": "Réponses possibles : *Awa lit un livre.* — *Hier, nous avons joué dans la cour.* — *Viens-tu demain ?* — *Il ne pleut pas.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une **phrase simple** ne contient **qu’un seul verbe conjugué** : elle est formée d’**une seule proposition**.",
+      "Une phrase peut être **longue** et rester **simple**.",
+      "On analyse une phrase simple en cherchant le **verbe**, le **sujet**, les **compléments nécessaires** (COD, COI, attribut) puis les **CC**.",
+      "La **phrase minimale** contient le sujet, le verbe et les compléments nécessaires.",
+      "L’**infinitif** et le **participe passé** (avec auxiliaire) ne comptent pas comme un verbe conjugué de plus.",
+      "Une phrase à **deux verbes conjugués ou plus** est une **phrase complexe**.",
+      "Une phrase sans verbe conjugué est une **phrase non verbale** (*Attention !*).",
+      "Chaque phrase a un **type** (déclarative, interrogative, injonctive, exclamative) et une **forme** (affirmative ou négative)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Sorte de phrase",
+      "Verbes conjugués",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "simple",
+       "un seul",
+       "Les enfants jouent dans la cour."
+      ],
+      [
+       "complexe",
+       "deux ou plus",
+       "Il pleut et nous restons."
+      ],
+      [
+       "non verbale",
+       "aucun",
+       "Quelle belle journée !"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de verbes conjugués a une phrase simple ?",
+     "options": [
+      "aucun",
+      "un seul",
+      "deux",
+      "trois"
+     ],
+     "answer": 1,
+     "explain": "Une phrase simple n’a qu’un seul verbe conjugué."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,530 @@
+{
+ "id": 3,
+ "sections": [
+  {
+   "t": "Qu’est-ce que le groupe verbal ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase, le verbe est le mot le plus important : il dit ce que fait le sujet ou comment il est. Dans ce cours, tu apprends à repérer le **groupe verbal**, à bien **conjuguer** le verbe et à l’**accorder** avec son sujet."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le groupe verbal dans une phrase",
+      "Trouver l’infinitif d’un verbe et son groupe",
+      "Accorder le verbe avec son sujet",
+      "Distinguer les différents compléments du verbe"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Ce qu’il faut déjà savoir",
+     "text": "Savoir repérer le **sujet** et le **verbe** dans une phrase (voir le cours « La phrase et ses constituants »)."
+    },
+    {
+     "type": "def",
+     "label": "Le groupe verbal (GV)",
+     "text": "Le **groupe verbal** est formé du **verbe** et des mots qui le complètent (ses **compléments**). Le verbe en est le **noyau**."
+    },
+    {
+     "type": "schema",
+     "title": "Un groupe verbal décortiqué",
+     "cells": [
+      {
+       "mot": "Les enfants",
+       "role": "sujet"
+      },
+      {
+       "mot": "mangent",
+       "role": "verbe (noyau du GV)",
+       "noyau": true
+      },
+      {
+       "mot": "des mangues",
+       "role": "complément du verbe"
+      }
+     ],
+     "note": "Le groupe verbal est « mangent des mangues » : le verbe et son complément."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« Ma sœur **lit un roman**. » → le groupe verbal est « lit un roman ».\n« Le ciel **est bleu**. » → le groupe verbal est « est bleu »."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Awa prépare le repas », quel est le groupe verbal ?",
+     "options": [
+      "Awa",
+      "Awa prépare",
+      "prépare le repas",
+      "le repas"
+     ],
+     "answer": 2,
+     "explain": "Le groupe verbal est formé du verbe « prépare » et de son complément « le repas »."
+    }
+   ]
+  },
+  {
+   "t": "Le verbe, l’infinitif et les trois groupes",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Le verbe : l’infinitif, le radical, la terminaison"
+    },
+    {
+     "type": "def",
+     "label": "Le verbe",
+     "text": "Le **verbe** est un mot qui se **conjugue** : sa forme change selon la **personne**, le **nombre** et le **temps**. Le nom du verbe, quand il n’est pas conjugué, est l’**infinitif** : *chanter, finir, prendre*."
+    },
+    {
+     "type": "p",
+     "text": "Un verbe conjugué se compose d’un **radical** (qui porte le sens) et d’une **terminaison** (qui change avec le sujet) : *chant-ons*, *chant-ez*, *chant-ent*."
+    },
+    {
+     "type": "h",
+     "text": "Les trois groupes de verbes"
+    },
+    {
+     "type": "table",
+     "title": "Les trois groupes",
+     "head": [
+      "Groupe",
+      "Comment le reconnaître",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "1er groupe",
+       "infinitif en **-er** (sauf *aller*)",
+       "chanter, jouer, manger"
+      ],
+      [
+       "2e groupe",
+       "infinitif en **-ir** et **-issons** à « nous »",
+       "finir (nous finissons), grandir, choisir"
+      ],
+      [
+       "3e groupe",
+       "tous les autres verbes, dont *aller*",
+       "prendre, partir, voir, aller, venir"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’infinitif du verbe dans « nous finissons » et à quel groupe appartient-il ?",
+     "options": [
+      "finer, 1er groupe",
+      "finir, 2e groupe",
+      "finir, 3e groupe",
+      "finisser, 2e groupe"
+     ],
+     "answer": 1,
+     "explain": "L’infinitif est « finir ». Il se termine par -ir et fait « nous finissons » : c’est un verbe du 2e groupe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’infinitif de chaque verbe et indique son groupe.",
+     "items": [
+      "nous finissons",
+      "ils prennent",
+      "elle chante",
+      "tu vas"
+     ],
+     "corrige": [
+      "nous finissons : **finir**, 2e groupe",
+      "ils prennent : **prendre**, 3e groupe",
+      "elle chante : **chanter**, 1er groupe",
+      "tu vas : **aller**, 3e groupe (aller est une exception)"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Le verbe se conjugue ; son nom, à l’infinitif, permet de trouver son groupe.",
+      "Trois groupes : -er (1er), -ir avec -issons (2e), tous les autres (3e)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Conjuguer au présent",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Conjuguer au présent"
+    },
+    {
+     "type": "table",
+     "title": "Le présent de l’indicatif",
+     "head": [
+      "Sujet",
+      "chanter (1er)",
+      "finir (2e)",
+      "prendre (3e)"
+     ],
+     "rows": [
+      [
+       "je",
+       "chante",
+       "finis",
+       "prends"
+      ],
+      [
+       "tu",
+       "chantes",
+       "finis",
+       "prends"
+      ],
+      [
+       "il, elle, on",
+       "chante",
+       "finit",
+       "prend"
+      ],
+      [
+       "nous",
+       "chantons",
+       "finissons",
+       "prenons"
+      ],
+      [
+       "vous",
+       "chantez",
+       "finissez",
+       "prenez"
+      ],
+      [
+       "ils, elles",
+       "chantent",
+       "finissent",
+       "prennent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "À la 3e personne du pluriel, la terminaison **-ent** ne se prononce pas : *ils chantent*. Ne l’oublie pas à l’écrit !"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au présent.",
+     "items": [
+      "Les oiseaux (chanter) le matin.",
+      "Tu (finir) tes devoirs.",
+      "Vous (prendre) le bus.",
+      "Les enfants (grandir) vite.",
+      "Mon frère et moi (jouer) au ballon."
+     ],
+     "corrige": [
+      "Les oiseaux **chantent** le matin.",
+      "Tu **finis** tes devoirs.",
+      "Vous **prenez** le bus.",
+      "Les enfants **grandissent** vite.",
+      "Mon frère et moi **jouons** au ballon. (« Mon frère et moi » = nous)"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Au présent, la terminaison dépend de la personne.",
+      "À la 3e personne du pluriel, on écrit -ent : ils chantent."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les temps de l’indicatif",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Quelques temps de l’indicatif"
+    },
+    {
+     "type": "table",
+     "title": "Les temps à connaître en 6e",
+     "head": [
+      "Temps",
+      "Il sert à…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Présent",
+       "dire ce qui se passe maintenant",
+       "Il chante."
+      ],
+      [
+       "Imparfait",
+       "décrire ou dire une habitude dans le passé",
+       "Il chantait chaque soir."
+      ],
+      [
+       "Passé composé",
+       "dire une action terminée",
+       "Il a chanté hier."
+      ],
+      [
+       "Futur simple",
+       "dire ce qui se passera",
+       "Il chantera demain."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il chantait chaque soir », quel est le temps du verbe ?",
+     "options": [
+      "le présent",
+      "l’imparfait",
+      "le passé composé",
+      "le futur simple"
+     ],
+     "answer": 1,
+     "explain": "« chantait » est à l’imparfait : il exprime une habitude dans le passé."
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Présent : maintenant. Imparfait : habitude ou description au passé.",
+      "Passé composé : action terminée. Futur simple : ce qui se passera."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Accorder le verbe avec son sujet",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Accorder le verbe avec son sujet"
+    },
+    {
+     "type": "test",
+     "title": "La méthode en trois étapes",
+     "lines": [
+      "« Les oiseaux (chanter) dès le matin. »",
+      "1. Je repère le verbe : **chanter**.",
+      "2. Je cherche le sujet avec « Qui est-ce qui ? » : Qui est-ce qui chante ? → **les oiseaux** (3e personne du pluriel : *ils*).",
+      "3. J’accorde : « Les oiseaux **chantent** dès le matin. »"
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Le verbe s’accorde avec son **sujet**, pas avec le mot qui le précède. Dans « Les enfants de mon voisin **jouent** », le verbe s’accorde avec *les enfants* (pluriel) et non avec *voisin* (singulier). On peut remplacer le sujet par *ils* pour vérifier."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur d’accord dans chaque phrase.",
+     "items": [
+      "Les enfants joue dans la cour.",
+      "Tu chante très bien.",
+      "Nous finisson nos exercices.",
+      "Ils prend leur cahier."
+     ],
+     "corrige": [
+      "Les enfants **jouent** dans la cour.",
+      "Tu **chantes** très bien.",
+      "Nous **finissons** nos exercices.",
+      "Ils **prennent** leur cahier."
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Le verbe s’accorde avec son sujet : on cherche d’abord le sujet.",
+      "Pour vérifier, on remplace le sujet par il, elle, ils ou elles."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les compléments du verbe",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Les compléments du verbe"
+    },
+    {
+     "type": "table",
+     "title": "Selon le verbe, le groupe verbal change",
+     "head": [
+      "Type de verbe",
+      "Complément",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Verbe d’état (être, sembler, devenir, rester, paraître)",
+       "attribut du sujet",
+       "Léa devient **institutrice**."
+      ],
+      [
+       "Verbe qui se construit sans préposition",
+       "COD",
+       "Il mange **une mangue**."
+      ],
+      [
+       "Verbe qui se construit avec *à* ou *de*",
+       "COI",
+       "Elle parle **à son frère**."
+      ],
+      [
+       "Verbe qui n’a pas besoin de complément",
+       "aucun",
+       "Le bébé dort."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour reconnaître un attribut du sujet, essaie de remplacer le verbe par **être** : « Léa **est** institutrice » garde le même sens. Pour un COD, ça ne marche pas : « Il **est** une mangue » n’a pas de sens."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples commentés",
+     "text": "« Ma tante **prépare un gâteau**. » → verbe *prépare*, COD *un gâteau*.\n« Le ciel **semble menaçant**. » → verbe d’état *semble*, attribut du sujet *menaçant*.\n« Il **pense à ses vacances**. » → verbe *pense*, COI *à ses vacances*."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "Les compléments de phrase (lieu, temps, manière…) ne font pas partie du groupe verbal : on peut les supprimer et les déplacer. Dans « Hier, mon père **répare sa voiture** », le groupe verbal est « répare sa voiture » ; « Hier » est un complément de phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Léa devient institutrice », que vaut le mot « institutrice » ?",
+     "options": [
+      "un COD",
+      "un COI",
+      "un attribut du sujet",
+      "un complément de phrase"
+     ],
+     "answer": 2,
+     "explain": "« devenir » est un verbe d’état : « institutrice » décrit le sujet Léa, c’est un attribut du sujet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le groupe verbal de chaque phrase, puis indique son complément (COD, COI ou attribut du sujet).",
+     "items": [
+      "Ma sœur lit un roman.",
+      "Le ciel est bleu.",
+      "Il parle à son ami.",
+      "Léa devient institutrice."
+     ],
+     "corrige": [
+      "Ma sœur **lit un roman**. : COD « un roman »",
+      "Le ciel **est bleu**. : attribut du sujet « bleu »",
+      "Il **parle à son ami**. : COI « à son ami »",
+      "Léa **devient institutrice**. : attribut du sujet « institutrice »"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Le groupe verbal contient le verbe et ses compléments (COD, COI, attribut).",
+      "Les compléments de phrase sont en dehors du groupe verbal."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque phrase, relève le verbe conjugué, donne son infinitif et son groupe, puis indique son sujet.",
+     "items": [
+      "Les élèves finissent leur exercice.",
+      "Ma mère prend le bus chaque matin.",
+      "Nous chantons à la fête."
+     ],
+     "corrige": [
+      "verbe **finissent** ; infinitif *finir* ; 2e groupe ; sujet **Les élèves**",
+      "verbe **prend** ; infinitif *prendre* ; 3e groupe ; sujet **Ma mère**",
+      "verbe **chantons** ; infinitif *chanter* ; 1er groupe ; sujet **Nous**"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe au présent, puis relève le groupe verbal.",
+     "items": [
+      "Ma sœur (lire) un roman.",
+      "Les enfants (devenir) grands."
+     ],
+     "corrige": [
+      "Ma sœur **lit** un roman. Groupe verbal : **lit un roman**.",
+      "Les enfants **deviennent** grands. Groupe verbal : **deviennent grands**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le groupe verbal en un coup d’œil",
+     "head": [
+      "Notion",
+      "À retenir",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Groupe verbal",
+       "le verbe et ses compléments",
+       "Il **mange une mangue**."
+      ],
+      [
+       "Infinitif",
+       "nom du verbe, non conjugué",
+       "manger"
+      ],
+      [
+       "Groupes de verbes",
+       "1er : -er ; 2e : -ir / -issons ; 3e : les autres",
+       "chanter, finir, prendre"
+      ],
+      [
+       "Accord",
+       "le verbe s’accorde avec son sujet",
+       "Les oiseaux chantent."
+      ],
+      [
+       "Compléments",
+       "COD, COI, attribut du sujet",
+       "lit un roman ; parle à son ami ; est bleu"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "label": "Méthode",
+     "items": [
+      "Je repère le **verbe conjugué**.",
+      "Je trouve son **sujet** avec « Qui est-ce qui ? ».",
+      "J’**accorde** le verbe avec ce sujet.",
+      "Je cherche les **compléments** du verbe pour délimiter le groupe verbal."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le groupe verbal est formé du verbe et de ses compléments ; le verbe en est le noyau.",
+      "On trouve l’infinitif pour reconnaître le groupe du verbe.",
+      "Le verbe s’accorde toujours avec son sujet : -ent à la 3e personne du pluriel.",
+      "Les compléments de phrase ne font pas partie du groupe verbal."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,756 @@
+{
+ "id": 21,
+ "sections": [
+  {
+   "t": "Définitions : sens propre et sens figuré",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Le lion **dévore** sa proie. » Mais aussi : « Awa **dévore** un roman. » Le même verbe, *dévorer*, n’a pas le même sens dans les deux phrases. Dans la première, il est au **sens propre** ; dans la seconde, au **sens figuré**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir le sens propre et le sens figuré",
+      "Reconnaître l’un et l’autre dans une phrase",
+      "Comprendre pourquoi un mot peut changer de sens"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Sens propre",
+     "text": "Le **sens propre** d’un mot est son sens **premier**, **concret** : celui qu’on peut se représenter, voir ou toucher. C’est le sens que le dictionnaire donne en premier."
+    },
+    {
+     "type": "def",
+     "label": "Sens figuré",
+     "text": "Le **sens figuré** est un sens **imagé** : le mot est employé **par comparaison** pour désigner autre chose, souvent une idée, un sentiment ou une qualité."
+    },
+    {
+     "type": "table",
+     "title": "Un mot, deux sens",
+     "head": [
+      "Mot",
+      "Sens propre",
+      "Sens figuré"
+     ],
+     "rows": [
+      [
+       "brûler",
+       "détruire par le feu : *brûler du bois*",
+       "éprouver très fort : *brûler d’impatience*"
+      ],
+      [
+       "pluie",
+       "eau qui tombe du ciel : *une pluie fine*",
+       "grande quantité : *une pluie de compliments*"
+      ],
+      [
+       "froid",
+       "à basse température : *un vent froid*",
+       "sans chaleur humaine : *un accueil froid*"
+      ],
+      [
+       "cœur",
+       "organe du corps : *le cœur bat*",
+       "générosité, courage : *avoir bon cœur*"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Propre ou figuré ?",
+     "lines": [
+      "Il a mal à la tête. → *tête* : partie du corps, sens propre.",
+      "Il est à la tête du village. → *tête* : chef, responsable, sens figuré."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test « à la lettre »",
+     "text": "Demande-toi si on peut comprendre le mot **à la lettre**. Si oui, c’est le **sens propre**. Si cela n’aurait pas de sens, c’est le **sens figuré**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Awa dévore un roman. », le verbe *dévorer* est employé…",
+     "options": [
+      "au sens propre",
+      "au sens figuré"
+     ],
+     "answer": 1,
+     "explain": "Awa ne mange pas le roman : elle le lit très vite et avec passion. C’est une image, donc le sens figuré."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est employé au sens propre ou au sens figuré.",
+     "items": [
+      "Le feu **brûle** le bois.",
+      "Il **brûle** d’impatience.",
+      "Un **mur** de pierre.",
+      "Un **mur** de silence.",
+      "Elle a un **cœur** d’or."
+     ],
+     "corrige": [
+      "1. sens propre",
+      "2. sens figuré (il est très impatient)",
+      "3. sens propre",
+      "4. sens figuré",
+      "5. sens figuré (elle est très généreuse)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître le sens propre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **sens propre** est le sens le plus simple d’un mot : celui des **choses réelles**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Il est **concret** : on peut le voir, le toucher, le sentir.",
+      "Il est **premier** : les autres sens en viennent.",
+      "Il est donné **en premier** dans le dictionnaire."
+     ],
+     "label": "Les caractéristiques du sens propre"
+    },
+    {
+     "type": "table",
+     "title": "Quelques mots au sens propre",
+     "head": [
+      "Mot",
+      "Sens propre",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "clé",
+       "objet qui ouvre une serrure",
+       "La **clé** tourne dans la serrure."
+      ],
+      [
+       "branche",
+       "partie d’un arbre",
+       "Un oiseau se pose sur la **branche**."
+      ],
+      [
+       "pied",
+       "partie du corps au bout de la jambe",
+       "Il s’est blessé au **pied**."
+      ],
+      [
+       "couler",
+       "se déplacer en parlant d’un liquide",
+       "L’eau **coule** dans la rivière."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Trouver le sens propre",
+     "lines": [
+      "Une racine. → partie d’une plante qui s’enfonce dans le sol.",
+      "Un pont. → construction qui permet de traverser un cours d’eau.",
+      "Allumer. → mettre le feu à quelque chose."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "« Propre » n’a rien à voir avec « net »",
+     "text": "Ici, **propre** veut dire « qui appartient **en propre** au mot », c’est-à-dire son sens de base. Ce n’est pas le contraire de *sale*."
+    },
+    {
+     "type": "tip",
+     "label": "Le dictionnaire",
+     "text": "Dans un article de dictionnaire, le **sens propre** est donné **en premier**. Les sens figurés viennent ensuite, avec l’abréviation **fig.**"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La clé tourne dans la serrure. », *clé* est employé…",
+     "options": [
+      "au sens propre",
+      "au sens figuré"
+     ],
+     "answer": 0,
+     "explain": "La clé est un objet réel qui ouvre une serrure : c’est le sens propre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase où chaque mot est employé au sens propre.",
+     "items": [
+      "tête",
+      "pied",
+      "couler",
+      "brûler"
+     ],
+     "corrige": [
+      "Exemples de réponses :",
+      "1. Il a mal à la **tête**.",
+      "2. Le **pied** de l’enfant est blessé.",
+      "3. L’eau **coule** de la fontaine.",
+      "4. Le bois **brûle** dans le feu."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître le sens figuré",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on dit « Il pleut des cordes », personne ne voit des cordes tomber du ciel. On veut dire qu’il pleut **très fort**. C’est du **sens figuré**."
+    },
+    {
+     "type": "def",
+     "label": "Fonctionnement du sens figuré",
+     "text": "Dans le **sens figuré**, un mot ou une expression est employé **par image** : on rapproche deux choses qui ont un point commun. La phrase **ne se comprend pas à la lettre**."
+    },
+    {
+     "type": "ex",
+     "text": "Un rayon de soleil (sens propre) → un **rayon d’espoir** (sens figuré : un peu d’espoir).",
+     "label": "Exemple"
+    },
+    {
+     "type": "table",
+     "title": "Quelques expressions figurées",
+     "head": [
+      "Expression",
+      "Sens figuré"
+     ],
+     "rows": [
+      [
+       "avoir la tête dans les nuages",
+       "être distrait, rêveur"
+      ],
+      [
+       "avoir le cœur sur la main",
+       "être très généreux"
+      ],
+      [
+       "coûter les yeux de la tête",
+       "coûter très cher"
+      ],
+      [
+       "poser un lapin",
+       "ne pas venir à un rendez-vous"
+      ],
+      [
+       "il pleut des cordes",
+       "il pleut très fort"
+      ],
+      [
+       "avoir un chat dans la gorge",
+       "avoir la voix enrouée"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Une expression ne se traduit pas mot à mot",
+     "text": "« Il pleut des cordes » ne veut pas dire que des cordes tombent. Il faut comprendre l’**expression entière** : on ne peut pas la décomposer mot par mot."
+    },
+    {
+     "type": "test",
+     "title": "Comprendre l’image",
+     "lines": [
+      "Il est dans la lune. → il est distrait : on ne peut pas être vraiment dans la lune, c’est figuré.",
+      "Elle a un cœur d’or. → elle est généreuse : le cœur n’est pas en or."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le contexte",
+     "text": "Les mots **autour** de l’expression aident à la comprendre. Si la phrase est absurde au sens propre, cherche le **sens figuré**."
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie « avoir la tête dans les nuages » ?",
+     "options": [
+      "Être très grand",
+      "Être distrait, rêveur",
+      "Regarder le ciel",
+      "Avoir mal à la tête"
+     ],
+     "answer": 1,
+     "explain": "Cette expression figurée décrit une personne qui rêve et ne fait pas attention à ce qui l’entoure."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le sens de chaque expression figurée.",
+     "items": [
+      "Ce sac coûte les yeux de la tête.",
+      "Fatou est dans la lune.",
+      "Ce garçon a le cœur sur la main.",
+      "Il m’a posé un lapin."
+     ],
+     "corrige": [
+      "1. il coûte très cher",
+      "2. elle est distraite",
+      "3. il est très généreux",
+      "4. il n’est pas venu au rendez-vous"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Comparaison et métaphore",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le sens figuré naît souvent d’une **image** : on rapproche deux choses. Les deux images les plus fréquentes sont la **comparaison** et la **métaphore**."
+    },
+    {
+     "type": "def",
+     "label": "Comparaison",
+     "text": "La **comparaison** rapproche deux éléments à l’aide d’un **outil de comparaison** : *comme, tel, pareil à, semblable à, ressembler à*."
+    },
+    {
+     "type": "def",
+     "label": "Métaphore",
+     "text": "La **métaphore** est une comparaison **sans outil de comparaison**. On dit qu’une chose **est** une autre."
+    },
+    {
+     "type": "schema",
+     "title": "Une comparaison",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "ce qu’on compare",
+       "noyau": true
+      },
+      {
+       "mot": "est rapide comme",
+       "role": "outil de comparaison"
+      },
+      {
+       "mot": "une gazelle",
+       "role": "ce à quoi on compare",
+       "noyau": true
+      }
+     ],
+     "note": "Awa n’est pas vraiment une gazelle : on veut dire qu’elle court très vite."
+    },
+    {
+     "type": "table",
+     "title": "Comparaison ou métaphore ?",
+     "head": [
+      "Figure",
+      "Outil",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "comparaison",
+       "oui (*comme*, *tel*…)",
+       "Awa est rapide **comme** une gazelle."
+      ],
+      [
+       "métaphore",
+       "non",
+       "Awa **est** une gazelle."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Dans les deux cas, le sens est figuré",
+     "text": "Awa n’est pas réellement une gazelle. Que l’on dise « comme une gazelle » ou « une gazelle », l’image garde un **sens figuré**."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître la figure",
+     "lines": [
+      "Il est fort comme un lion. → comparaison (*comme*).",
+      "Cette nuit est un manteau noir. → métaphore (pas d’outil de comparaison)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le repère",
+     "text": "Cherche l’outil de comparaison (*comme, tel, pareil à, semblable à*). **Pas d’outil** → **métaphore**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une métaphore ?",
+     "options": [
+      "Il court comme le vent.",
+      "Il est rapide comme l’éclair.",
+      "Ce garçon est un lion.",
+      "Elle ressemble à sa mère."
+     ],
+     "answer": 2,
+     "explain": "« Ce garçon est un lion. » : aucun outil de comparaison, on dit qu’il *est* un lion. C’est une métaphore."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase contient une comparaison (C) ou une métaphore (M).",
+     "items": [
+      "Il est fort comme un lion.",
+      "Cette nuit est un manteau noir.",
+      "Elle a une voix pareille à du miel.",
+      "Ce garçon est un lion."
+     ],
+     "corrige": [
+      "1. C (*comme*)",
+      "2. M",
+      "3. C (*pareille à*)",
+      "4. M"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les mots à plusieurs sens et le dictionnaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup de mots ont **plusieurs sens** : un sens propre et un ou plusieurs sens figurés. On dit qu’ils sont **polysémiques**."
+    },
+    {
+     "type": "def",
+     "label": "Polysémie",
+     "text": "Un mot est **polysémique** quand il a **plusieurs sens** liés entre eux. Le dictionnaire les range en les numérotant."
+    },
+    {
+     "type": "table",
+     "title": "Des mots polysémiques",
+     "head": [
+      "Mot",
+      "Sens propre",
+      "Sens figuré"
+     ],
+     "rows": [
+      [
+       "mine",
+       "lieu d’où on extrait du charbon",
+       "*une mine d’informations* : une grande quantité"
+      ],
+      [
+       "racine",
+       "partie de la plante dans la terre",
+       "*les racines d’un peuple* : ses origines"
+      ],
+      [
+       "lumière",
+       "clarté du soleil ou d’une lampe",
+       "*mettre en lumière* : faire connaître"
+      ],
+      [
+       "lourd",
+       "qui pèse beaucoup",
+       "*un silence lourd* : gênant, pesant"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**brûler** : 1. consumer par le feu. 2. (*fig.*) éprouver très vivement : *brûler d’impatience*.",
+     "label": "Dans le dictionnaire"
+    },
+    {
+     "type": "warn",
+     "label": "Polysémie et homonymie",
+     "text": "Ne confonds pas un mot à plusieurs sens avec deux mots qui se **prononcent pareil**. *Verre* et *vert* sont deux mots **différents** (homonymes), alors que *tête* est **un seul** mot avec plusieurs sens."
+    },
+    {
+     "type": "tip",
+     "label": "Lire un article de dictionnaire",
+     "text": "Les **sens sont numérotés**. L’abréviation **fig.** annonce le **sens figuré**. Lis la définition et l’exemple pour choisir le bon sens."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un dictionnaire, quelle abréviation annonce le sens figuré ?",
+     "options": [
+      "fig.",
+      "adj.",
+      "n.m.",
+      "v."
+     ],
+     "answer": 0,
+     "explain": "*fig.* est l’abréviation de *figuré*. Les autres indiquent la nature du mot (adjectif, nom masculin, verbe)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est employé au sens propre ou au sens figuré.",
+     "items": [
+      "Il y a une **mine** de charbon.",
+      "Ce livre est une **mine** d’informations.",
+      "Les **racines** de l’arbre sont profondes.",
+      "Il retrouve ses **racines**.",
+      "Le soleil donne sa **lumière**.",
+      "Il met un secret en **lumière**."
+     ],
+     "corrige": [
+      "1. sens propre",
+      "2. sens figuré",
+      "3. sens propre",
+      "4. sens figuré (ses origines)",
+      "5. sens propre",
+      "6. sens figuré (il le fait connaître)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Pièges : bien reconnaître le sens",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Reconnaître le sens d’un mot demande un peu d’attention. Voici les pièges les plus fréquents."
+    },
+    {
+     "type": "warn",
+     "label": "Ne cherche pas une image partout",
+     "text": "Beaucoup de phrases sont au **sens propre** : « Il brûle du bois dans la cheminée. » Ne cherche un sens figuré que si la phrase n’a **pas de sens à la lettre**."
+    },
+    {
+     "type": "warn",
+     "label": "Le même mot dans deux phrases",
+     "text": "« Une maison de **pierre** » (sens propre : faite de pierre) et « un cœur de **pierre** » (sens figuré : insensible). Seul le **contexte** permet de choisir."
+    },
+    {
+     "type": "warn",
+     "label": "Des images qu’on ne remarque plus",
+     "text": "Certaines images sont **si courantes** qu’on ne les voit plus : *le pied de la montagne, un bras de fleuve, la clé du problème*. Ce sont pourtant des emplois figurés."
+    },
+    {
+     "type": "table",
+     "title": "Propre ou figuré ?",
+     "head": [
+      "Phrase",
+      "Sens",
+      "Pourquoi"
+     ],
+     "rows": [
+      [
+       "Il s’est cassé le **pied**.",
+       "propre",
+       "partie du corps"
+      ],
+      [
+       "Au **pied** de la montagne.",
+       "figuré",
+       "la montagne n’a pas de vrai pied"
+      ],
+      [
+       "Elle a le **bras** cassé.",
+       "propre",
+       "partie du corps"
+      ],
+      [
+       "Un **bras** de fleuve.",
+       "figuré",
+       "le fleuve n’a pas de vrai bras"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Méthode en quatre temps",
+     "lines": [
+      "1. Lis toute la phrase.",
+      "2. Demande-toi si on peut prendre le mot **à la lettre**.",
+      "3. Si cela n’a aucun sens, c’est un **sens figuré**.",
+      "4. Essaie de le remplacer par un synonyme pour vérifier."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Vérifier avec un synonyme",
+     "text": "« Il brûle d’impatience » → « Il est très impatient » : la phrase garde son sens, donc *brûler* est figuré."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Un silence de plomb », le mot *plomb* est employé…",
+     "options": [
+      "au sens propre",
+      "au sens figuré"
+     ],
+     "answer": 1,
+     "explain": "Le silence n’est pas fait de plomb : on veut dire qu’il est lourd et pesant. C’est une image."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est employé au sens propre ou au sens figuré et justifie.",
+     "items": [
+      "Awa a un **cœur** d’or.",
+      "Le médecin ausculte le **cœur** du malade.",
+      "Ce mot m’a **glacé** le sang.",
+      "Le lac est **glacé**.",
+      "Il a **avalé** une arête.",
+      "Il a **avalé** sa déception."
+     ],
+     "corrige": [
+      "1. figuré (elle est généreuse)",
+      "2. propre (l’organe)",
+      "3. figuré (il m’a fait très peur)",
+      "4. propre (couvert de glace)",
+      "5. propre (il a fait passer l’arête dans sa gorge)",
+      "6. figuré (il a gardé sa peine sans la montrer)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est employé au sens propre ou au sens figuré.",
+     "items": [
+      "La **pluie** tombe sur la ville.",
+      "Il reçoit une **pluie** de cadeaux.",
+      "Le chat **dort** sur le canapé.",
+      "Le village **dort** sous la lune.",
+      "Fatou **dévore** un gâteau."
+     ],
+     "corrige": [
+      "1. propre",
+      "2. figuré (beaucoup de cadeaux)",
+      "3. propre",
+      "4. figuré (le village est calme)",
+      "5. propre (elle le mange avec appétit)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il est têtu comme une mule. », quelle figure trouve-t-on ?",
+     "options": [
+      "une comparaison",
+      "une métaphore",
+      "un sens propre",
+      "une définition"
+     ],
+     "answer": 0,
+     "explain": "L’outil de comparaison *comme* relie *il* et *une mule* : c’est une comparaison."
+    },
+    {
+     "type": "h",
+     "text": "Expliquer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique chaque expression avec tes mots.",
+     "items": [
+      "Avoir un cœur de pierre.",
+      "Tomber dans les pommes.",
+      "Casser les pieds à quelqu’un.",
+      "Dormir comme un loir."
+     ],
+     "corrige": [
+      "1. être insensible, ne pas avoir de pitié",
+      "2. s’évanouir",
+      "3. ennuyer, déranger quelqu’un",
+      "4. dormir profondément"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases pour chaque mot : une au sens propre et une au sens figuré.",
+     "items": [
+      "brûler",
+      "lumière"
+     ],
+     "corrige": [
+      "Exemples de réponses :",
+      "1. Le bois **brûle** dans le feu. / Awa **brûle** d’envie de partir.",
+      "2. La **lumière** entre par la fenêtre. / Le professeur met en **lumière** un problème."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis : « Ce matin, le soleil dort encore derrière les montagnes. Les nuages tricotent un manteau gris, et la ville s’éveille doucement. » Relève les mots employés au sens figuré et explique-les.",
+     "items": [
+      "Relève les trois verbes employés au sens figuré.",
+      "Donne le sens propre de chacun.",
+      "Explique l’image."
+     ],
+     "corrige": [
+      "1. *dort*, *tricotent*, *s’éveille*",
+      "2. dormir : être endormi ; tricoter : fabriquer avec des aiguilles et de la laine ; s’éveiller : sortir du sommeil",
+      "3. le soleil n’est pas encore levé ; les nuages forment une couche grise ; la ville commence à s’animer"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **sens propre** est le sens **premier** et **concret** d’un mot.",
+      "Le **sens figuré** est un sens **imagé** : le mot est employé par comparaison, souvent pour une idée ou un sentiment.",
+      "On reconnaît le sens figuré quand la phrase **n’a pas de sens à la lettre**.",
+      "Une **expression figurée** se comprend **dans son ensemble**, pas mot à mot.",
+      "La **comparaison** utilise un **outil** (*comme, tel, pareil à*) ; la **métaphore** n’en utilise pas.",
+      "Un mot qui a plusieurs sens est **polysémique** ; le dictionnaire annonce le sens figuré par **fig.**"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Sens propre et sens figuré",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "sens propre",
+       "sens premier, concret",
+       "Le bois **brûle**."
+      ],
+      [
+       "sens figuré",
+       "sens imagé",
+       "Il **brûle** d’impatience."
+      ],
+      [
+       "comparaison",
+       "image avec un outil",
+       "fort **comme** un lion"
+      ],
+      [
+       "métaphore",
+       "image sans outil",
+       "Ce garçon **est** un lion."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Comment reconnaître le sens figuré d’un mot ?",
+     "options": [
+      "La phrase n’a pas de sens si on la prend à la lettre.",
+      "Le mot est toujours un nom.",
+      "Le mot est toujours au pluriel.",
+      "La phrase contient forcément *comme*."
+     ],
+     "answer": 0,
+     "explain": "Quand on ne peut pas comprendre le mot à la lettre, c’est qu’il est employé par image : c’est le sens figuré."
+    }
+   ]
+  }
+ ]
+}

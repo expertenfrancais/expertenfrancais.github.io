@@ -1,0 +1,497 @@
+{
+ "id": 2,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une phrase ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Toute communication passe par des phrases. Dans ce cours, tu apprends à **reconnaître une phrase** et à **identifier les groupes de mots** qui la construisent : le sujet, le verbe, les compléments."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître une phrase et distinguer phrase verbale et phrase non verbale",
+      "Identifier le sujet et le prédicat",
+      "Distinguer les compléments du verbe et les compléments de phrase"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Ce qu’il faut déjà savoir",
+     "text": "Savoir reconnaître un **verbe** (un mot qui se conjugue) et un **nom** (un mot qui désigne une personne, un animal, une chose ou une idée)."
+    },
+    {
+     "type": "def",
+     "label": "La phrase",
+     "text": "Une **phrase** est un ensemble de mots organisés qui a un sens complet. À l’écrit, elle commence par une **majuscule** et se termine par un **signe de ponctuation forte** : le point (.), le point d’interrogation (?), le point d’exclamation (!) ou les points de suspension (…)."
+    },
+    {
+     "type": "test",
+     "title": "Phrase ou pas phrase ?",
+     "lines": [
+      "Les enfants jouent dans la cour. → **c’est une phrase** : les mots sont bien ordonnés et le sens est complet.",
+      "cour jouent les dans enfants la → **ce n’est pas une phrase** : les mots sont mélangés.",
+      "Les enfants jouent dans → **ce n’est pas une phrase** : le sens est incomplet."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces suites de mots est une phrase ?",
+     "options": [
+      "la maison de mon oncle",
+      "Ma sœur lit un livre.",
+      "dans le jardin de",
+      "Rapidement les"
+     ],
+     "answer": 1,
+     "explain": "« Ma sœur lit un livre. » a un sens complet, commence par une majuscule et se termine par un point."
+    }
+   ]
+  },
+  {
+   "t": "Phrase verbale et phrase non verbale",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Phrase verbale et phrase non verbale"
+    },
+    {
+     "type": "def",
+     "label": "Phrase verbale / non verbale",
+     "text": "Une **phrase verbale** contient au moins un **verbe conjugué** : *Le vent souffle.*\nUne **phrase non verbale** n’en contient pas : *Quel beau temps !* — *Attention, travaux !*"
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces phrases est non verbale ?",
+     "options": [
+      "Le vent souffle.",
+      "Quel beau temps !",
+      "Il pleut.",
+      "Nous partons."
+     ],
+     "answer": 1,
+     "explain": "« Quel beau temps ! » ne contient aucun verbe conjugué : c’est une phrase non verbale."
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Une phrase verbale contient au moins un verbe conjugué.",
+      "Une phrase non verbale n’en contient pas."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les types et les formes de phrases",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Les types de phrases"
+    },
+    {
+     "type": "table",
+     "title": "Les quatre types de phrases",
+     "head": [
+      "Type",
+      "Sert à…",
+      "Ponctuation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Déclarative",
+       "donner une information",
+       "point",
+       "Le soleil se lève."
+      ],
+      [
+       "Interrogative",
+       "poser une question",
+       "point d’interrogation",
+       "Où vas-tu ?"
+      ],
+      [
+       "Injonctive",
+       "donner un ordre, un conseil",
+       "point ou point d’exclamation",
+       "Range ta chambre."
+      ],
+      [
+       "Exclamative",
+       "exprimer une émotion",
+       "point d’exclamation",
+       "Quelle belle surprise !"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Chaque phrase peut aussi être à la **forme affirmative** (*Il pleut.*) ou à la **forme négative** (*Il ne pleut pas.*). La négation est formée de deux mots, *ne* et *pas* (ou *jamais*, *plus*, *rien*), qui entourent le verbe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le type de chaque phrase (déclarative, interrogative, injonctive ou exclamative) et dis si elle est verbale ou non verbale.",
+     "items": [
+      "Ferme la porte.",
+      "Quelle belle journée !",
+      "Viens-tu ce soir ?",
+      "Il pleut."
+     ],
+     "corrige": [
+      "Ferme la porte. : phrase **injonctive**, verbale (verbe « ferme »)",
+      "Quelle belle journée ! : phrase **exclamative**, non verbale (pas de verbe conjugué)",
+      "Viens-tu ce soir ? : phrase **interrogative**, verbale (verbe « viens »)",
+      "Il pleut. : phrase **déclarative**, verbale (verbe « pleut »)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Récris chaque phrase à la forme négative.",
+     "items": [
+      "Il pleut.",
+      "Nous mangeons des fruits.",
+      "Elle chante."
+     ],
+     "corrige": [
+      "Il **ne** pleut **pas**.",
+      "Nous **ne** mangeons **pas** de fruits.",
+      "Elle **ne** chante **pas**."
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Quatre types : déclarative, interrogative, injonctive, exclamative.",
+      "Deux formes : affirmative et négative (ne … pas, ne … jamais, ne … plus, ne … rien)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sujet et le prédicat",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Le sujet et le prédicat"
+    },
+    {
+     "type": "def",
+     "label": "Sujet et prédicat",
+     "text": "Dans une phrase verbale, on distingue :\n• le **sujet** : de qui ou de quoi on parle ; il commande l’accord du verbe ;\n• le **prédicat** : tout ce qu’on dit du sujet ; il contient le **verbe**."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase décortiquée",
+     "cells": [
+      {
+       "mot": "Les élèves",
+       "role": "sujet"
+      },
+      {
+       "mot": "écoutent",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "la leçon",
+       "role": "complément du verbe"
+      }
+     ],
+     "note": "Le verbe est le noyau de la phrase : le sujet et les compléments s’organisent autour de lui."
+    },
+    {
+     "type": "h",
+     "text": "Trouver le sujet"
+    },
+    {
+     "type": "test",
+     "title": "La méthode en deux étapes",
+     "lines": [
+      "1. On repère le verbe : « Dans la cour, les enfants **jouent**. »",
+      "2. On pose la question « Qui est-ce qui ? » (ou « Qu’est-ce qui ? ») devant le verbe : Qui est-ce qui joue ? → **les enfants**.",
+      "3. On vérifie avec l’encadrement : « C’est les enfants qui jouent. »"
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Nature du sujet",
+     "items": [
+      "un **groupe nominal** : *Le chat dort.*",
+      "un **nom propre** : *Awa chante.*",
+      "un **pronom** : *Elle chante.* *Nous partons.*"
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Le sujet n’est pas toujours placé avant le verbe. Dans « Dans le jardin poussent des roses », le sujet est **des roses** (Qu’est-ce qui pousse ? des roses). Le verbe s’accorde avec lui : *poussent*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le sujet de chaque phrase.",
+     "items": [
+      "Le chien de ma voisine aboie toute la nuit.",
+      "Mes cousins arrivent demain matin.",
+      "Dans la forêt vivent des animaux sauvages.",
+      "Nous préparons une surprise pour toi."
+     ],
+     "corrige": [
+      "**Le chien de ma voisine** aboie toute la nuit.",
+      "**Mes cousins** arrivent demain matin.",
+      "Dans la forêt vivent **des animaux sauvages**. (sujet placé après le verbe)",
+      "**Nous** préparons une surprise pour toi."
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Le sujet répond à « Qui est-ce qui ? » ou « Qu’est-ce qui ? » devant le verbe.",
+      "Le prédicat contient le verbe : c’est ce qu’on dit du sujet.",
+      "Le sujet n’est pas toujours placé avant le verbe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les compléments du verbe",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Les compléments du verbe"
+    },
+    {
+     "type": "p",
+     "text": "Certains groupes de mots complètent le verbe : on ne peut pas les supprimer sans changer le sens de la phrase ou la rendre incomplète."
+    },
+    {
+     "type": "table",
+     "title": "Les compléments du verbe",
+     "head": [
+      "Fonction",
+      "Comment la reconnaître",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Complément d’objet direct (COD)",
+       "répond à « verbe + quoi ? / qui ? » ; sans préposition",
+       "Elle mange **une pomme**."
+      ],
+      [
+       "Complément d’objet indirect (COI)",
+       "répond à « à qui ? à quoi ? de qui ? de quoi ? » ; avec la préposition *à* ou *de*",
+       "Il parle **à son ami**."
+      ],
+      [
+       "Attribut du sujet",
+       "suit un verbe d’état (être, sembler, devenir, rester, paraître) ; décrit le sujet",
+       "Le ciel est **bleu**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver le COD, pose la question « **verbe + quoi ?** » ou « **verbe + qui ?** ». Dans « Awa lit un livre », on demande : Awa lit **quoi** ? → un livre."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il parle à son ami », que vaut « à son ami » ?",
+     "options": [
+      "un COD",
+      "un COI",
+      "un attribut du sujet",
+      "un complément de phrase"
+     ],
+     "answer": 1,
+     "explain": "« parler » se construit avec la préposition à : « à son ami » est un complément d’objet indirect (COI)."
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Les compléments du verbe (COD, COI, attribut) ne peuvent pas être supprimés.",
+      "Pour trouver le COD : « verbe + quoi ? » ou « verbe + qui ? »."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les compléments de phrase",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Les compléments de phrase"
+    },
+    {
+     "type": "def",
+     "label": "Complément de phrase",
+     "text": "Un **complément de phrase** (ou complément circonstanciel) donne une précision sur le **lieu**, le **temps**, la **manière**, la **cause**… de l’action. Il peut être **supprimé** et **déplacé** sans que la phrase perde son sens."
+    },
+    {
+     "type": "table",
+     "title": "Ce que précise un complément de phrase",
+     "head": [
+      "Il répond à la question",
+      "Il indique",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Où ?",
+       "le lieu",
+       "Les enfants jouent **dans la cour**."
+      ],
+      [
+       "Quand ?",
+       "le temps",
+       "**Hier**, nous avons visité le musée."
+      ],
+      [
+       "Comment ?",
+       "la manière",
+       "Il marche **lentement**."
+      ],
+      [
+       "Pourquoi ?",
+       "la cause",
+       "Elle est en retard **à cause de la pluie**."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le double test : suppression et déplacement",
+     "lines": [
+      "Les élèves visitent le musée **demain**. → on supprime : « Les élèves visitent le musée. » (la phrase reste correcte) → on déplace : « **Demain**, les élèves visitent le musée. » → **complément de phrase**.",
+      "Les élèves visitent **le musée**. → on supprime : « Les élèves visitent. » (la phrase est incomplète) → **complément du verbe** (COD)."
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Toutes les fonctions dans une même phrase",
+     "cells": [
+      {
+       "mot": "Hier",
+       "role": "complément de phrase"
+      },
+      {
+       "mot": "les élèves",
+       "role": "sujet"
+      },
+      {
+       "mot": "ont visité",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "le musée",
+       "role": "COD"
+      },
+      {
+       "mot": "avec leur professeur",
+       "role": "complément de phrase"
+      }
+     ],
+     "note": "Les compléments de phrase (Hier, avec leur professeur) peuvent être supprimés ou déplacés ; le COD (le musée) ne le peut pas."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "Un groupe qui commence par une préposition n’est pas toujours un complément de phrase. Dans « Il parle **à son ami** », « à son ami » est un COI : on ne peut pas le supprimer sans changer le sens du verbe *parler à quelqu’un*."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Tom lit un roman dans le jardin », quel groupe est un complément de phrase ?",
+     "options": [
+      "Tom",
+      "un roman",
+      "dans le jardin",
+      "lit"
+     ],
+     "answer": 2,
+     "explain": "« dans le jardin » indique le lieu, peut être supprimé (« Tom lit un roman. ») et déplacé (« Dans le jardin, Tom lit un roman. »)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève, dans chaque phrase, le COD et le complément de phrase.",
+     "items": [
+      "Le matin, Awa lit un livre.",
+      "Mon père répare sa voiture dans le garage.",
+      "Les enfants ont mangé des mangues hier."
+     ],
+     "corrige": [
+      "COD : **un livre** ; complément de phrase : **Le matin**",
+      "COD : **sa voiture** ; complément de phrase : **dans le garage**",
+      "COD : **des mangues** ; complément de phrase : **hier**"
+     ]
+    },
+    {
+     "type": "retenir",
+     "items": [
+      "Un complément de phrase peut être supprimé et déplacé.",
+      "Il indique le lieu, le temps, la manière, la cause…"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les constituants de la phrase",
+     "head": [
+      "Constituant",
+      "Question à poser",
+      "Peut-il être supprimé ?"
+     ],
+     "rows": [
+      [
+       "Sujet",
+       "Qui est-ce qui ? / Qu’est-ce qui ?",
+       "non"
+      ],
+      [
+       "Verbe",
+       "—",
+       "non"
+      ],
+      [
+       "Complément du verbe (COD, COI, attribut)",
+       "verbe + quoi ? / qui ? / à qui ?",
+       "non"
+      ],
+      [
+       "Complément de phrase",
+       "Où ? Quand ? Comment ? Pourquoi ?",
+       "oui, et il peut être déplacé"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "label": "Méthode d’analyse",
+     "items": [
+      "Je repère le **verbe conjugué**.",
+      "Je pose « Qui est-ce qui ? » pour trouver le **sujet**.",
+      "Je cherche le **COD** avec « verbe + quoi ? ».",
+      "Je teste la **suppression et le déplacement** pour reconnaître les compléments de phrase."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une phrase commence par une majuscule et se termine par une ponctuation forte.",
+      "Il y a quatre types de phrases : déclarative, interrogative, injonctive, exclamative.",
+      "Le sujet commande l’accord du verbe.",
+      "Les compléments du verbe sont indispensables ; les compléments de phrase peuvent être supprimés et déplacés."
+     ]
+    }
+   ]
+  }
+ ]
+}

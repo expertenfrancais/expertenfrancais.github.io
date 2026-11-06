@@ -1,0 +1,585 @@
+{
+ "id": 8,
+ "sections": [
+  {
+   "t": "Qu’est-ce que le sujet ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le sujet est le mot le plus important autour du verbe : c’est lui qui décide de la forme que prend le verbe. Dans cette partie, tu apprends à le trouver à coup sûr."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Trouver le sujet d’un verbe avec trois tests",
+      "Reconnaître ses différentes natures et sa place",
+      "Accorder le verbe avec son sujet"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Sujet",
+     "text": "Le **sujet** est le mot ou le groupe de mots qui **fait l’action** ou **est dans l’état** exprimé par le verbe. Il **commande l’accord** du verbe en personne et en nombre."
+    },
+    {
+     "type": "test",
+     "title": "Trois tests pour trouver le sujet",
+     "lines": [
+      "Les enfants jouent dans la cour.",
+      "1. Qui est-ce qui joue ? → Les enfants",
+      "2. C’est … qui : Ce sont les enfants qui jouent.",
+      "3. Remplacement par un pronom : Ils jouent dans la cour."
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Le sujet et le verbe",
+     "cells": [
+      {
+       "mot": "Les enfants",
+       "role": "sujet"
+      },
+      {
+       "mot": "jouent",
+       "role": "verbe (accordé avec le sujet)",
+       "noyau": true
+      },
+      {
+       "mot": "dans la cour",
+       "role": "complément circonstanciel de lieu"
+      }
+     ],
+     "note": "Le verbe *jouent* est au pluriel parce que le sujet *les enfants* est au pluriel."
+    },
+    {
+     "type": "tip",
+     "label": "Pour une chose ou une idée",
+     "text": "On demande **qu’est-ce qui ?** : « Le vent souffle. » → *Qu’est-ce qui souffle ?* → *Le vent*."
+    },
+    {
+     "type": "warn",
+     "label": "Le sujet n’est pas forcément le premier mot",
+     "text": "Dans « Hier, mon frère est parti. », le premier mot est *Hier* mais le sujet est *mon frère*. Pose toujours la question **qui est-ce qui ?** avant le verbe."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le soir, les oiseaux chantent », quel est le sujet de *chantent* ?",
+     "options": [
+      "Le soir",
+      "les oiseaux",
+      "chantent",
+      "Le soir, les oiseaux"
+     ],
+     "answer": 1,
+     "explain": "*Qui est-ce qui chante ?* → *les oiseaux*. *Le soir* est un complément circonstanciel de temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le sujet de chaque phrase avec le test *qui est-ce qui ?* ou *qu’est-ce qui ?*",
+     "items": [
+      "Chaque matin, ma sœur balaie la cour.",
+      "Les mangues tombent de l’arbre.",
+      "Le vent souffle fort."
+     ],
+     "corrige": [
+      "1. *ma sœur* (qui est-ce qui balaie ?)",
+      "2. *Les mangues* (qu’est-ce qui tombe ?)",
+      "3. *Le vent* (qu’est-ce qui souffle ?)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les natures du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le sujet n’est pas toujours un nom. Plusieurs natures de mots ou de groupes de mots peuvent occuper cette fonction."
+    },
+    {
+     "type": "table",
+     "title": "Les formes du sujet",
+     "head": [
+      "Nature du sujet",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "nom propre",
+       "**Awa** chante."
+      ],
+      [
+       "groupe nominal",
+       "**Le petit garçon** rit."
+      ],
+      [
+       "pronom personnel (*je, tu, il, elle, on, nous, vous, ils, elles*)",
+       "**Nous** partons demain."
+      ],
+      [
+       "autre pronom (*chacun, personne, tout le monde, celui-ci*)",
+       "**Chacun** rentre chez soi."
+      ],
+      [
+       "verbe à l’infinitif",
+       "**Voyager** m’enrichit."
+      ],
+      [
+       "proposition subordonnée",
+       "**Que tu réussisses** me réjouit."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le sujet infinitif",
+     "text": "Pour trouver un sujet à l’infinitif, pose la question : « Voyager m’enrichit » → *Qu’est-ce qui m’enrichit ?* → *Voyager*. Le verbe est alors au singulier."
+    },
+    {
+     "type": "warn",
+     "label": "Le pronom *on*",
+     "text": "Le sujet *on* est toujours accompagné d’un verbe à la **3e personne du singulier**, même quand il signifie *nous* : « On part demain. »"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« **Awa** lit. » (nom propre)\n« **Mes deux cousines** arrivent. » (groupe nominal)\n« **Elle** sourit. » (pronom personnel)\n« **Personne** ne répond. » (pronom indéfini)"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nature du sujet dans « Chacun rentre chez soi » ?",
+     "options": [
+      "Nom propre",
+      "Groupe nominal",
+      "Pronom",
+      "Verbe à l’infinitif"
+     ],
+     "answer": 2,
+     "explain": "*Chacun* est un pronom indéfini : il remplace un nom et ne désigne personne en particulier."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature du sujet (en gras).",
+     "items": [
+      "**Awa** chante.",
+      "**Les élèves de ma classe** travaillent.",
+      "**Nous** partons demain.",
+      "**Lire** me détend.",
+      "**Personne** ne répond."
+     ],
+     "corrige": [
+      "1. nom propre",
+      "2. groupe nominal",
+      "3. pronom personnel",
+      "4. verbe à l’infinitif",
+      "5. pronom indéfini"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La place du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase simple, le sujet est placé **avant** le verbe. Mais ce n’est pas toujours le cas : il faut savoir le retrouver quand il est déplacé ou éloigné."
+    },
+    {
+     "type": "table",
+     "title": "Où se trouve le sujet ?",
+     "head": [
+      "Cas",
+      "Exemple",
+      "Sujet"
+     ],
+     "rows": [
+      [
+       "avant le verbe (cas habituel)",
+       "Les enfants jouent.",
+       "Les enfants"
+      ],
+      [
+       "après le verbe dans une question",
+       "Où va ton frère ?",
+       "ton frère"
+      ],
+      [
+       "après le verbe quand la phrase commence par un complément",
+       "Sur la table se trouve un cadeau.",
+       "un cadeau"
+      ],
+      [
+       "après le verbe dans une incise de dialogue",
+       "« Je viens », répond Awa.",
+       "Awa"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test pour un sujet placé après le verbe",
+     "lines": [
+      "Sur la table se trouve un cadeau.",
+      "C’est un cadeau qui se trouve sur la table.",
+      "Le verbe *se trouve* est au singulier : le sujet est *un cadeau*."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Un sujet éloigné du verbe",
+     "text": "Le verbe s’accorde avec le **sujet**, pas avec le mot qui est juste avant lui. « Les élèves **de la classe** chantent. » (sujet : *les élèves*, pas *classe*). « Les mangues **que ma tante cueille** sont mûres. » (sujet : *les mangues*, pas *tante*)."
+    },
+    {
+     "type": "tip",
+     "label": "Méfie-toi du mot placé juste avant",
+     "text": "Le mot qui précède le verbe n’est pas toujours le sujet. Utilise toujours **qui est-ce qui ?** ou **c’est … qui**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les fleurs que Léa a cueillies sentent bon », avec quel mot le verbe *sentent* s’accorde-t-il ?",
+     "options": [
+      "Léa",
+      "les fleurs",
+      "cueillies",
+      "bon"
+     ],
+     "answer": 1,
+     "explain": "*Qu’est-ce qui sent bon ?* → *les fleurs*. *Léa* est le sujet du verbe *a cueillies*, pas de *sentent*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le sujet du verbe en gras.",
+     "items": [
+      "Dans la cour **jouent** des enfants.",
+      "Les fruits que ma mère achète **sont** mûrs.",
+      "« Viens vite », **crie** Awa.",
+      "Où **habite** ton cousin ?"
+     ],
+     "corrige": [
+      "1. *des enfants*",
+      "2. *Les fruits*",
+      "3. *Awa*",
+      "4. *ton cousin*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Plusieurs sujets et sujets collectifs",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Plusieurs sujets pour un même verbe"
+    },
+    {
+     "type": "p",
+     "text": "Quand un verbe a **plusieurs sujets**, il se met au **pluriel**. On peut les remplacer par un seul pronom."
+    },
+    {
+     "type": "table",
+     "title": "Remplacer plusieurs sujets",
+     "head": [
+      "Sujets",
+      "Pronom de remplacement",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Awa et Paul",
+       "ils",
+       "Awa et Paul chantent."
+      ],
+      [
+       "Mon frère et moi",
+       "nous",
+       "Mon frère et moi allons au marché."
+      ],
+      [
+       "Toi et ton frère",
+       "vous",
+       "Toi et ton frère partez demain."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "La règle des personnes",
+     "text": "Si l’un des sujets est **moi** (ou *je*), le pronom est **nous**. Si l’un des sujets est **toi** (mais pas *moi*), le pronom est **vous**."
+    },
+    {
+     "type": "h",
+     "text": "Le nom collectif"
+    },
+    {
+     "type": "def",
+     "label": "Nom collectif",
+     "text": "Un **nom collectif** (*foule, groupe, équipe, famille, troupeau*) désigne plusieurs êtres, mais il est au **singulier** : le verbe reste au singulier."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« L’équipe **gagne** le match. »\n« La foule **applaudit** le chanteur. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Par quel pronom remplace-t-on « Léa et moi » ?",
+     "options": [
+      "ils",
+      "vous",
+      "nous",
+      "elles"
+     ],
+     "answer": 2,
+     "explain": "Quand l’un des sujets est *moi*, on remplace par *nous*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au présent.",
+     "items": [
+      "Awa et Paul (chanter) ensemble.",
+      "Mon frère et moi (aller) au marché.",
+      "Toi et ta sœur (partir) demain.",
+      "La foule (applaudir) le chanteur."
+     ],
+     "corrige": [
+      "1. *chantent*",
+      "2. *allons*",
+      "3. *partez*",
+      "4. *applaudit* (nom collectif au singulier)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sujet dans les phrases particulières",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "La phrase impérative : le sujet sous-entendu"
+    },
+    {
+     "type": "p",
+     "text": "À l’impératif, il n’y a pas de sujet exprimé : on le **sous-entend** d’après la terminaison du verbe."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« **Ferme** la porte ! » → sujet sous-entendu : *tu*\n« **Mangeons** ensemble. » → sujet sous-entendu : *nous*\n« **Prenez** vos cahiers ! » → sujet sous-entendu : *vous*"
+    },
+    {
+     "type": "h",
+     "text": "La phrase impersonnelle : le sujet apparent"
+    },
+    {
+     "type": "def",
+     "label": "Sujet apparent",
+     "text": "Dans une phrase **impersonnelle**, le sujet est le pronom **il**, qui ne désigne personne : c’est le **sujet apparent**. Le groupe qui suit le verbe peut être le **sujet réel**."
+    },
+    {
+     "type": "schema",
+     "title": "Sujet apparent et sujet réel",
+     "cells": [
+      {
+       "mot": "Il",
+       "role": "sujet apparent"
+      },
+      {
+       "mot": "arrive",
+       "role": "verbe (au singulier)",
+       "noyau": true
+      },
+      {
+       "mot": "un malheur",
+       "role": "sujet réel"
+      }
+     ],
+     "note": "Le verbe reste au singulier : on écrit *Il tombe des gouttes* (et non « Il tombent »)."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« **Il** pleut depuis ce matin. » → sujet : *il* (impersonnel)\n« **Il** faut finir ce travail. » → sujet : *il* (impersonnel)"
+    },
+    {
+     "type": "h",
+     "text": "La phrase sans verbe"
+    },
+    {
+     "type": "p",
+     "text": "Une phrase **non verbale** n’a pas de verbe : elle n’a donc pas de sujet. Exemples : « Quelle belle journée ! » ; « Silence ! »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le sujet sous-entendu de « Prenez vos cahiers ! » ?",
+     "options": [
+      "tu",
+      "nous",
+      "vous",
+      "ils"
+     ],
+     "answer": 2,
+     "explain": "La terminaison *-ez* correspond à la 2e personne du pluriel : le sujet sous-entendu est *vous*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve le sujet de chaque phrase (ou dis qu’il n’y en a pas).",
+     "items": [
+      "Ferme la porte !",
+      "Il pleut depuis ce matin.",
+      "Quelle belle journée !",
+      "Mangeons ensemble."
+     ],
+     "corrige": [
+      "1. *tu* (sous-entendu)",
+      "2. *il* (sujet apparent, phrase impersonnelle)",
+      "3. pas de sujet (phrase sans verbe)",
+      "4. *nous* (sous-entendu)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent toutes les formes du sujet. Avance dans l’ordre : on commence par **trouver** le sujet, puis on **accorde** le verbe, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : trouver le sujet"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le sujet de chaque verbe et donne sa nature.",
+     "items": [
+      "Les villageois de ce quartier cultivent le manioc.",
+      "Voyager élargit l’esprit.",
+      "Elle cueille des mangues.",
+      "Dans le jardin chantent des oiseaux."
+     ],
+     "corrige": [
+      "1. *Les villageois de ce quartier* (groupe nominal)",
+      "2. *Voyager* (verbe à l’infinitif)",
+      "3. *Elle* (pronom personnel)",
+      "4. *des oiseaux* (groupe nominal, sujet placé après le verbe)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mes parents et moi partons demain », quel est le pronom qui remplace les sujets ?",
+     "options": [
+      "ils",
+      "vous",
+      "nous",
+      "elles"
+     ],
+     "answer": 2,
+     "explain": "Les sujets contiennent *moi* : on remplace par *nous*, et le verbe est à la 1re personne du pluriel."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : accorder le verbe"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le verbe au présent en l’accordant avec son sujet.",
+     "items": [
+      "Sur la table (se trouver) des fruits.",
+      "Les élèves de la classe (chanter).",
+      "Ma sœur et moi (préparer) le repas.",
+      "Il (tomber) de grosses gouttes."
+     ],
+     "corrige": [
+      "1. *se trouvent*",
+      "2. *chantent*",
+      "3. *préparons*",
+      "4. *tombe* (verbe impersonnel, au singulier)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "une phrase avec un sujet placé après le verbe",
+      "une phrase avec deux sujets",
+      "une phrase avec un sujet à l’infinitif"
+     ],
+     "corrige": "Réponses possibles : *Dans le jardin jouent des enfants.* — *Awa et Paul lisent un livre.* — *Chanter me détend.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **sujet** fait l’action ou est dans l’état exprimé par le verbe, et il **commande l’accord** du verbe.",
+      "On le trouve avec **qui est-ce qui ?** (ou **qu’est-ce qui ?**), avec **c’est … qui** ou avec le remplacement par un pronom.",
+      "Il peut être un nom, un groupe nominal, un pronom, un verbe à l’infinitif ou une proposition subordonnée.",
+      "Il est le plus souvent avant le verbe, mais il peut être **placé après** (question, incise, phrase qui commence par un complément) ou **éloigné** du verbe.",
+      "Plusieurs sujets → verbe au pluriel (*moi* → *nous* ; *toi* → *vous*).",
+      "À l’impératif, le sujet est **sous-entendu** ; dans une phrase impersonnelle, le sujet est *il* ; une phrase sans verbe n’a pas de sujet."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Forme du sujet",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "nom propre",
+       "Awa chante."
+      ],
+      [
+       "groupe nominal",
+       "Les enfants jouent."
+      ],
+      [
+       "pronom",
+       "Elle sourit."
+      ],
+      [
+       "infinitif",
+       "Voyager m’enrichit."
+      ],
+      [
+       "sujet placé après le verbe",
+       "Sur la table se trouve un cadeau."
+      ],
+      [
+       "sujet sous-entendu",
+       "Ferme la porte !"
+      ],
+      [
+       "sujet apparent (impersonnel)",
+       "Il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Ferme la porte ! », quel est le sujet ?",
+     "options": [
+      "Il n’y en a pas",
+      "*tu* est sous-entendu",
+      "*la porte*",
+      "*ferme*"
+     ],
+     "answer": 1,
+     "explain": "À l’impératif, le sujet n’est pas exprimé : la terminaison du verbe indique qu’il s’agit de *tu*."
+    }
+   ]
+  }
+ ]
+}

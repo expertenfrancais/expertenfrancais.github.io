@@ -1,0 +1,886 @@
+{
+ "id": 18,
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une phrase complexe ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Awa chante. » est une phrase simple. Mais « Awa chante pendant que Fatou prépare le repas. » raconte **deux actions** : c’est une **phrase complexe**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir la phrase complexe",
+      "Compter les verbes conjugués et les propositions",
+      "Distinguer la juxtaposition, la coordination et la subordination"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Phrase complexe",
+     "text": "Une **phrase complexe** contient **deux verbes conjugués ou plus** : elle est formée de **plusieurs propositions**."
+    },
+    {
+     "type": "def",
+     "label": "Proposition",
+     "text": "Une **proposition** est un groupe de mots organisé autour d’**un verbe conjugué**. Une phrase complexe a donc autant de propositions que de verbes conjugués."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase complexe",
+     "cells": [
+      {
+       "mot": "Awa chante",
+       "role": "proposition 1 (verbe : chante)",
+       "noyau": true
+      },
+      {
+       "mot": "pendant que",
+       "role": "mot de liaison"
+      },
+      {
+       "mot": "Fatou prépare le repas",
+       "role": "proposition 2 (verbe : prépare)",
+       "noyau": true
+      }
+     ],
+     "note": "Deux verbes conjugués (*chante*, *prépare*) : deux propositions, donc une phrase complexe."
+    },
+    {
+     "type": "table",
+     "title": "Comment relier deux propositions ?",
+     "head": [
+      "Lien",
+      "Comment",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "juxtaposition",
+       "un signe de ponctuation (virgule, point-virgule, deux-points)",
+       "Il pleut, nous restons."
+      ],
+      [
+       "coordination",
+       "une conjonction de coordination",
+       "Il pleut **mais** nous restons."
+      ],
+      [
+       "subordination",
+       "une conjonction de subordination ou un pronom relatif",
+       "Nous restons **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Compter les verbes conjugués",
+     "lines": [
+      "Le soleil brille. → 1 verbe conjugué : phrase simple.",
+      "Le soleil brille et les enfants jouent. → 2 verbes conjugués : phrase complexe.",
+      "Je sais que tu es là. → 2 verbes conjugués : phrase complexe."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le critère décisif",
+     "text": "Pour savoir si une phrase est complexe, **ne compte pas les mots** : compte les **verbes conjugués**. Deux verbes ou plus, c’est une phrase complexe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une phrase complexe ?",
+     "options": [
+      "Les élèves écoutent le professeur.",
+      "Le professeur parle doucement.",
+      "Les élèves écoutent quand le professeur parle.",
+      "Le professeur de français arrive."
+     ],
+     "answer": 2,
+     "explain": "« Les élèves écoutent quand le professeur parle. » contient deux verbes conjugués (*écoutent*, *parle*). Les autres n’en contiennent qu’un."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Compte les verbes conjugués et dis si la phrase est simple (S) ou complexe (C).",
+     "items": [
+      "Awa lit un livre dans sa chambre.",
+      "Awa lit un livre pendant que sa sœur dort.",
+      "Il pleut mais nous sortons.",
+      "Les enfants rentrent à la maison."
+     ],
+     "corrige": [
+      "1. un verbe (*lit*) → S",
+      "2. deux verbes (*lit*, *dort*) → C",
+      "3. deux verbes (*pleut*, *sortons*) → C",
+      "4. un verbe (*rentrent*) → S"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les propositions : compter et délimiter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser une phrase complexe, on la **découpe en propositions**. Chaque verbe conjugué en annonce une."
+    },
+    {
+     "type": "def",
+     "label": "Proposition indépendante",
+     "text": "Une proposition est **indépendante** quand elle ne dépend d’aucune autre : elle pourrait former une phrase à elle seule."
+    },
+    {
+     "type": "def",
+     "label": "Principale et subordonnée",
+     "text": "La proposition **principale** est celle dont une autre proposition dépend. La proposition **subordonnée** dépend de la principale : elle ne peut pas rester seule."
+    },
+    {
+     "type": "table",
+     "title": "Les trois sortes de propositions",
+     "head": [
+      "Proposition",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "indépendante",
+       "ne dépend d’aucune autre",
+       "**Il pleut**, nous restons."
+      ],
+      [
+       "principale",
+       "une autre proposition dépend d’elle",
+       "**Je pense** qu’il viendra."
+      ],
+      [
+       "subordonnée",
+       "dépend de la principale",
+       "Je pense **qu’il viendra**."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Découper une phrase en propositions",
+     "lines": [
+      "Awa chante et Fatou danse. → [Awa chante] [et Fatou danse] : 2 propositions.",
+      "Je pense qu’il viendra. → [Je pense] [qu’il viendra] : 2 propositions.",
+      "Quand le soleil se couche, les oiseaux rentrent. → [Quand le soleil se couche] [les oiseaux rentrent] : 2 propositions."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ce qui ne compte pas comme verbe conjugué",
+     "text": "Un **infinitif** (*partir*) ou un **participe** (*chantant*) n’est pas un verbe conjugué. « Je veux partir. » n’a qu’**un** verbe conjugué (*veux*) : c’est une phrase simple. Un **temps composé** (*a mangé*) compte pour **un seul** verbe."
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Entoure d’abord tous les **verbes conjugués**. Autant de verbes, autant de propositions. Ensuite, cherche le **mot de liaison** entre elles."
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de propositions contient « Quand le soleil se couche, les oiseaux rentrent au nid. » ?",
+     "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "answer": 1,
+     "explain": "Il y a deux verbes conjugués (*se couche*, *rentrent*), donc deux propositions."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase et mets chaque proposition entre crochets.",
+     "items": [
+      "Awa chante et Fatou danse.",
+      "Je crois que tu as raison.",
+      "Le chat dort pendant que les enfants jouent.",
+      "Il pleut, nous restons à la maison."
+     ],
+     "corrige": [
+      "1. [Awa chante] [et Fatou danse].",
+      "2. [Je crois] [que tu as raison].",
+      "3. [Le chat dort] [pendant que les enfants jouent].",
+      "4. [Il pleut], [nous restons à la maison]."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Juxtaposition et coordination",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand deux propositions sont **de même rang**, c’est-à-dire quand aucune ne dépend de l’autre, elles sont soit **juxtaposées**, soit **coordonnées**."
+    },
+    {
+     "type": "def",
+     "label": "Juxtaposition",
+     "text": "Des propositions sont **juxtaposées** quand elles sont reliées **sans mot de liaison**, par un signe de ponctuation : la **virgule**, le **point-virgule** ou les **deux-points**."
+    },
+    {
+     "type": "ex",
+     "text": "Il pleut, le vent souffle, nous restons à la maison. → trois propositions juxtaposées.",
+     "label": "Exemple"
+    },
+    {
+     "type": "def",
+     "label": "Coordination",
+     "text": "Des propositions sont **coordonnées** quand elles sont reliées par une **conjonction de coordination** : *mais, ou, et, donc, or, ni, car*."
+    },
+    {
+     "type": "table",
+     "title": "Les conjonctions de coordination",
+     "head": [
+      "Conjonction",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "mais",
+       "opposition",
+       "Il pleut **mais** nous sortons."
+      ],
+      [
+       "ou",
+       "choix",
+       "Tu viens **ou** tu restes."
+      ],
+      [
+       "et",
+       "addition",
+       "Awa chante **et** Fatou danse."
+      ],
+      [
+       "donc",
+       "conséquence",
+       "Il pleut, **donc** nous restons."
+      ],
+      [
+       "or",
+       "fait nouveau qui amène une conclusion",
+       "Il devait venir, **or** il est absent."
+      ],
+      [
+       "ni",
+       "négation",
+       "Il ne mange **ni** ne boit."
+      ],
+      [
+       "car",
+       "cause",
+       "Nous restons **car** il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour les retenir",
+     "text": "Retiens la phrase : **« Mais où est donc Ornicar ? »** → *mais, ou, et, donc, or, ni, car*."
+    },
+    {
+     "type": "schema",
+     "title": "Deux propositions coordonnées",
+     "cells": [
+      {
+       "mot": "Il pleut",
+       "role": "proposition 1",
+       "noyau": true
+      },
+      {
+       "mot": "mais",
+       "role": "conjonction de coordination"
+      },
+      {
+       "mot": "nous sortons",
+       "role": "proposition 2",
+       "noyau": true
+      }
+     ],
+     "note": "Les deux propositions sont de même rang : aucune ne dépend de l’autre."
+    },
+    {
+     "type": "warn",
+     "label": "« et » ne relie pas toujours des propositions",
+     "text": "Dans « Awa **et** Fatou chantent. », *et* relie deux **sujets** : il n’y a qu’un verbe conjugué, c’est une **phrase simple**. Dans « Awa chante **et** Fatou danse. », *et* relie deux **propositions**."
+    },
+    {
+     "type": "test",
+     "title": "Juxtaposition ou coordination ?",
+     "lines": [
+      "Il pleut, nous restons. → juxtaposition (virgule).",
+      "Il pleut donc nous restons. → coordination (*donc*).",
+      "Il a étudié ; il a réussi. → juxtaposition (point-virgule)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Tu viens ou tu restes ? », comment les propositions sont-elles reliées ?",
+     "options": [
+      "Par juxtaposition",
+      "Par coordination",
+      "Par subordination",
+      "Elles ne sont pas reliées"
+     ],
+     "answer": 1,
+     "explain": "*Ou* est une conjonction de coordination : les deux propositions sont coordonnées."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si les propositions sont juxtaposées (J) ou coordonnées (C) et indique le mot ou le signe de liaison.",
+     "items": [
+      "Le vent se lève, les nuages arrivent.",
+      "Je lis un livre et ma sœur regarde la télévision.",
+      "Il a étudié ; il a réussi.",
+      "Nous partons car il se fait tard."
+     ],
+     "corrige": [
+      "1. J (la virgule)",
+      "2. C (*et*)",
+      "3. J (le point-virgule)",
+      "4. C (*car*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La subordination : principale et subordonnée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Nous restons parce qu’il pleut. », la seconde proposition ne peut pas se tenir seule : elle **dépend** de la première. C’est la **subordination**."
+    },
+    {
+     "type": "def",
+     "label": "Subordination",
+     "text": "Il y a **subordination** quand une proposition, la **subordonnée**, **dépend** d’une autre, la **principale**. La subordonnée est introduite par un **mot subordonnant** : une **conjonction de subordination** ou un **pronom relatif**."
+    },
+    {
+     "type": "schema",
+     "title": "Principale et subordonnée",
+     "cells": [
+      {
+       "mot": "Nous restons",
+       "role": "proposition principale",
+       "noyau": true
+      },
+      {
+       "mot": "parce qu’",
+       "role": "conjonction de subordination"
+      },
+      {
+       "mot": "il pleut",
+       "role": "proposition subordonnée",
+       "noyau": true
+      }
+     ],
+     "note": "La subordonnée *il pleut* dépend de la principale *Nous restons*."
+    },
+    {
+     "type": "table",
+     "title": "Les mots subordonnants",
+     "head": [
+      "Mot subordonnant",
+      "Exemples",
+      "Exemple de phrase"
+     ],
+     "rows": [
+      [
+       "conjonction de subordination",
+       "que, quand, lorsque, parce que, puisque, si, comme, pour que, bien que",
+       "Nous sortons **quand** la pluie cesse."
+      ],
+      [
+       "pronom relatif",
+       "qui, que, dont, où, lequel",
+       "L’élève **qui** travaille réussit."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître la subordonnée",
+     "lines": [
+      "Nous restons parce qu’il pleut. → *parce qu’il pleut* ne peut pas former une phrase seule : c’est une subordonnée.",
+      "Il pleut, nous restons. → chaque proposition peut exister seule : ce ne sont pas des subordonnées."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le mot « que » a deux emplois",
+     "text": "**Conjonction** : « Je sais **que** tu viens. » (il ne remplace aucun mot). **Pronom relatif** : « Le livre **que** je lis. » (il remplace *le livre*)."
+    },
+    {
+     "type": "tip",
+     "label": "Trouver la principale",
+     "text": "La proposition **principale** est celle qui reste quand on **enlève la subordonnée** et son mot subordonnant."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je pense qu’il viendra. », quelle est la proposition principale ?",
+     "options": [
+      "Je pense",
+      "qu’il viendra",
+      "il viendra",
+      "Je pense qu’il viendra"
+     ],
+     "answer": 0,
+     "explain": "*qu’il viendra* est la subordonnée : elle dépend de *Je pense*, qui est la principale."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Repère la proposition subordonnée et le mot subordonnant.",
+     "items": [
+      "Nous sortons quand la pluie cesse.",
+      "Le livre que je lis est passionnant.",
+      "Awa sait que tu es là.",
+      "Je reste ici parce que j’attends mon frère."
+     ],
+     "corrige": [
+      "1. subordonnée : *quand la pluie cesse* ; mot subordonnant : *quand*",
+      "2. subordonnée : *que je lis* ; mot subordonnant : *que* (pronom relatif)",
+      "3. subordonnée : *que tu es là* ; mot subordonnant : *que* (conjonction)",
+      "4. subordonnée : *parce que j’attends mon frère* ; mot subordonnant : *parce que*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les subordonnées : relative, complétive et circonstancielle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il existe plusieurs sortes de subordonnées. On les reconnaît à leur **mot subordonnant** et à leur **rôle** dans la phrase."
+    },
+    {
+     "type": "h",
+     "text": "La subordonnée relative"
+    },
+    {
+     "type": "def",
+     "label": "Relative",
+     "text": "La **subordonnée relative** est introduite par un **pronom relatif** (*qui, que, dont, où, lequel*). Elle complète un **nom** de la principale, appelé **antécédent**."
+    },
+    {
+     "type": "ex",
+     "text": "L’élève **qui travaille** réussit. → la relative complète le nom *élève*.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "La subordonnée conjonctive complétive"
+    },
+    {
+     "type": "def",
+     "label": "Complétive",
+     "text": "La **complétive** est introduite par la conjonction **que**. Elle complète le **verbe** de la principale (elle en est le plus souvent le COD) : on ne peut pas la supprimer."
+    },
+    {
+     "type": "ex",
+     "text": "Je pense **qu’il viendra**. → sans la complétive, « Je pense. » est incomplet.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "La subordonnée conjonctive circonstancielle"
+    },
+    {
+     "type": "def",
+     "label": "Circonstancielle",
+     "text": "La **circonstancielle** est introduite par une **conjonction de subordination** (*quand, parce que, si, pour que, bien que…*). Elle complète **toute la principale** comme un complément circonstanciel : on peut la **déplacer** ou la **supprimer**."
+    },
+    {
+     "type": "ex",
+     "text": "**Quand la pluie cesse**, nous sortons. → Nous sortons **quand la pluie cesse**.",
+     "label": "Exemple"
+    },
+    {
+     "type": "table",
+     "title": "Les trois subordonnées",
+     "head": [
+      "Subordonnée",
+      "Mot subordonnant",
+      "Elle complète",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "relative",
+       "pronom relatif",
+       "un nom (l’antécédent)",
+       "J’aime le livre **que tu m’as prêté**."
+      ],
+      [
+       "complétive",
+       "que",
+       "un verbe",
+       "Je crois **qu’il a raison**."
+      ],
+      [
+       "circonstancielle",
+       "conjonction de subordination",
+       "toute la principale",
+       "**Si tu veux**, nous partons."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ce qu’exprime la circonstancielle",
+     "head": [
+      "Sens",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps",
+       "quand, lorsque, pendant que, dès que",
+       "Nous sortons **dès que** la pluie cesse."
+      ],
+      [
+       "cause",
+       "parce que, puisque, comme",
+       "Je reste **parce que** j’ai froid."
+      ],
+      [
+       "but",
+       "pour que, afin que",
+       "Il crie **pour que** nous l’entendions."
+      ],
+      [
+       "condition",
+       "si",
+       "**Si** tu viens, nous jouerons."
+      ],
+      [
+       "opposition",
+       "bien que, alors que",
+       "Il sort **bien qu’**il pleuve."
+      ],
+      [
+       "conséquence",
+       "si… que, tellement… que",
+       "Il pleut **si** fort **que** nous restons."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Supprimer ou déplacer ?",
+     "lines": [
+      "Quand la pluie cesse, nous sortons. → on peut dire « Nous sortons quand la pluie cesse. » : circonstancielle.",
+      "Je pense qu’il viendra. → sans la subordonnée, « Je pense. » est incomplet : complétive."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour ne pas se tromper",
+     "text": "**Relative** : un pronom relatif juste après un **nom**. **Complétive** : *que* après un **verbe** (*penser, croire, savoir, dire*). **Circonstancielle** : une conjonction qui exprime le **temps, la cause, le but…**, et que l’on peut **déplacer**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nature de la subordonnée dans « Nous sortons quand la pluie cesse. » ?",
+     "options": [
+      "relative",
+      "complétive",
+      "circonstancielle",
+      "indépendante"
+     ],
+     "answer": 2,
+     "explain": "*Quand* est une conjonction de subordination et la subordonnée exprime le temps : c’est une circonstancielle."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la nature de chaque subordonnée en italique (relative, complétive ou circonstancielle).",
+     "items": [
+      "J’aime le livre *que tu m’as prêté*.",
+      "Je sais *que tu as raison*.",
+      "Il reste à la maison *parce qu’il est malade*.",
+      "L’élève *qui a gagné* est ravi.",
+      "*Si tu veux*, nous partons."
+     ],
+     "corrige": [
+      "1. relative (complète le nom *livre*)",
+      "2. complétive (complète le verbe *sais*)",
+      "3. circonstancielle de cause",
+      "4. relative (complète le nom *élève*)",
+      "5. circonstancielle de condition"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Pièges : reconnaître et analyser",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compter les verbes conjugués semble facile, mais quelques cas trompent souvent les élèves."
+    },
+    {
+     "type": "table",
+     "title": "Simple ou complexe ?",
+     "head": [
+      "Phrase",
+      "Verbes conjugués",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "Je veux partir.",
+       "1 (*veux*)",
+       "simple"
+      ],
+      [
+       "Il a fini son travail.",
+       "1 (*a fini*)",
+       "simple"
+      ],
+      [
+       "Awa et Fatou chantent.",
+       "1 (*chantent*)",
+       "simple"
+      ],
+      [
+       "Je vais manger.",
+       "1 (*vais*)",
+       "simple"
+      ],
+      [
+       "Awa chante et danse.",
+       "2 (*chante*, *danse*)",
+       "complexe"
+      ],
+      [
+       "Ce livre, que j’ai lu hier, est drôle.",
+       "2 (*ai lu*, *est*)",
+       "complexe"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "L’infinitif ne compte pas",
+     "text": "Dans « Je veux **partir** » et « Je vais **manger** », seuls *veux* et *vais* sont conjugués. *Partir* et *manger* sont à l’infinitif : ce sont des phrases **simples**."
+    },
+    {
+     "type": "warn",
+     "label": "Un temps composé = un seul verbe",
+     "text": "« Il **a mangé** » : l’auxiliaire et le participe forment **un seul** verbe conjugué. Mais « Il a mangé **et** il est parti » contient **deux** verbes conjugués : c’est une phrase complexe."
+    },
+    {
+     "type": "warn",
+     "label": "Deux verbes, un seul sujet",
+     "text": "« Awa chante et danse. » contient **deux verbes conjugués** : ce sont **deux propositions coordonnées**, le sujet n’étant pas répété. À l’inverse, « Awa et Fatou chantent. » n’a qu’**un** verbe, avec deux sujets : c’est une phrase simple."
+    },
+    {
+     "type": "tip",
+     "label": "Méthode en trois temps",
+     "text": "1. Repère les **verbes conjugués** (ceux qui changent quand on change le temps). 2. **Compte-les**. 3. S’il y en a plusieurs, cherche le **mot de liaison** : ponctuation, conjonction de coordination, conjonction de subordination ou pronom relatif."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une phrase simple ?",
+     "options": [
+      "Awa chante et danse.",
+      "Je veux partir demain.",
+      "Je pense qu’il viendra.",
+      "Il a fini et il est parti."
+     ],
+     "answer": 1,
+     "explain": "« Je veux partir demain. » ne contient qu’un verbe conjugué (*veux*) : *partir* est à l’infinitif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la phrase est simple (S) ou complexe (C) et justifie.",
+     "items": [
+      "Nous allons jouer dans la cour.",
+      "Elle a rangé sa chambre et elle a lavé le linge.",
+      "Le professeur et les élèves sortent.",
+      "Il veut que tu viennes.",
+      "La femme qui chante est ma tante."
+     ],
+     "corrige": [
+      "1. S : un seul verbe conjugué (*allons*), *jouer* est à l’infinitif",
+      "2. C : deux verbes conjugués (*a rangé*, *a lavé*)",
+      "3. S : un seul verbe (*sortent*) avec deux sujets",
+      "4. C : deux verbes conjugués (*veut*, *viennes*)",
+      "5. C : deux verbes conjugués (*chante*, *est*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase est simple (S) ou complexe (C).",
+     "items": [
+      "Le marché ouvre à sept heures.",
+      "Les vendeurs arrivent et ils installent leurs étals.",
+      "Je sais que le marché est ouvert.",
+      "Fatou et sa mère achètent des mangues.",
+      "Le client qui hésite regarde les prix."
+     ],
+     "corrige": [
+      "1. S (*ouvre*)",
+      "2. C (*arrivent*, *installent*)",
+      "3. C (*sais*, *est*)",
+      "4. S (*achètent*, deux sujets)",
+      "5. C (*hésite*, *regarde*)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il rit, elle pleure. », les propositions sont…",
+     "options": [
+      "coordonnées",
+      "juxtaposées",
+      "subordonnées",
+      "relatives"
+     ],
+     "answer": 1,
+     "explain": "Il n’y a pas de mot de liaison, seulement une virgule : elles sont juxtaposées."
+    },
+    {
+     "type": "h",
+     "text": "Analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le mot ou le signe de liaison et dis si le lien est une juxtaposition (J), une coordination (C) ou une subordination (S).",
+     "items": [
+      "Il pleut mais nous sortons.",
+      "Il pleut, nous restons.",
+      "Nous restons parce qu’il pleut.",
+      "L’élève qui travaille réussit.",
+      "Tu viens ou tu restes ?"
+     ],
+     "corrige": [
+      "1. C (*mais*)",
+      "2. J (la virgule)",
+      "3. S (*parce que*)",
+      "4. S (*qui*, pronom relatif)",
+      "5. C (*ou*)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie les deux phrases pour en faire une phrase complexe, avec le lien demandé.",
+     "items": [
+      "Il fait chaud. Nous buvons de l’eau. (coordination avec *donc*)",
+      "Awa est contente. Elle a réussi. (subordination avec *parce que*)",
+      "J’aime ce film. Tu me l’as conseillé. (relative avec *que*)",
+      "Le soleil se lève. Les coqs chantent. (juxtaposition)"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Il fait chaud, donc nous buvons de l’eau.",
+      "2. Awa est contente parce qu’elle a réussi.",
+      "3. J’aime ce film que tu m’as conseillé.",
+      "4. Le soleil se lève, les coqs chantent."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la phrase : « Je pense que le livre qui est sur la table est à toi. »",
+     "items": [
+      "Combien de verbes conjugués contient-elle ?",
+      "Quelle est la proposition principale ?",
+      "Quelle est la nature de « que le livre … est à toi » ?",
+      "Quelle est la nature de « qui est sur la table » ?"
+     ],
+     "corrige": [
+      "1. trois (*pense*, *est*, *est*)",
+      "2. *Je pense*",
+      "3. une subordonnée complétive (introduite par *que*, elle complète le verbe *pense*)",
+      "4. une subordonnée relative (pronom relatif *qui*, elle complète le nom *livre*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une **phrase complexe** contient **deux verbes conjugués ou plus** : elle est formée de **plusieurs propositions**.",
+      "**Chaque verbe conjugué** forme une proposition.",
+      "La **juxtaposition** relie les propositions par la **ponctuation**, la **coordination** par *mais, ou, et, donc, or, ni, car*.",
+      "La **subordination** relie une subordonnée à sa principale par une **conjonction de subordination** ou un **pronom relatif**.",
+      "Il y a trois subordonnées : la **relative**, la **complétive** et la **circonstancielle**.",
+      "L’**infinitif** et le **participe** ne comptent pas ; un **temps composé** compte pour **un seul** verbe."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les liens entre propositions",
+     "head": [
+      "Lien",
+      "Mot de liaison",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "juxtaposition",
+       "virgule, point-virgule, deux-points",
+       "Il pleut, nous restons."
+      ],
+      [
+       "coordination",
+       "mais, ou, et, donc, or, ni, car",
+       "Il pleut **donc** nous restons."
+      ],
+      [
+       "subordination (relative)",
+       "qui, que, dont, où, lequel",
+       "L’élève **qui travaille** réussit."
+      ],
+      [
+       "subordination (complétive)",
+       "que",
+       "Je pense **qu’il viendra**."
+      ],
+      [
+       "subordination (circonstancielle)",
+       "quand, parce que, si, pour que…",
+       "Nous restons **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une proposition subordonnée relative ?",
+     "options": [
+      "Il pleut mais nous sortons.",
+      "Le chien qui aboie est à mon voisin.",
+      "Il pleut, nous restons.",
+      "Les enfants jouent dans la cour."
+     ],
+     "answer": 1,
+     "explain": "Dans « Le chien qui aboie est à mon voisin. », *qui aboie* est introduite par un pronom relatif et complète le nom *chien*."
+    }
+   ]
+  }
+ ]
+}
