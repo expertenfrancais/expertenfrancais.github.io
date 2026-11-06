@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
+<!-- Balise Google (Analytics) -->
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+<!-- Fin balise Google -->
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f1ecfb">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Expert en français">
+<title>Contact | Expert en français</title>
+<style>
+/* Transitions entre pages (navigateurs récents) et fondu d'arrivée du contenu */
+@view-transition{navigation:auto}
+::view-transition-old(root){animation:.16s ease both vt-out}
+::view-transition-new(root){animation:.2s ease both vt-in}
+.nav{view-transition-name:nav}
+::view-transition-group(nav){animation-duration:.2s}
+@keyframes vt-out{to{opacity:0}}
+@keyframes vt-in{from{opacity:0}}
+@keyframes arrive{from{opacity:0;transform:translateY(6px)}}
+.fresh main>*{animation:arrive .32s ease both}
+@media (prefers-reduced-motion:reduce){::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}.fresh main>*{animation:none}}
+
+:root{--p1:#b29af4;--p2:#8c6fe0;--ink:#2e2160;--sub:#6b6490;--field:#f4eefb;--link:#5d49b8;--card:#fff;--page:#f1ecfb;--danger:#d0426a}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c;--danger:#ff7a9c}}
+:root[data-theme="dark"]{--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c;--danger:#ff7a9c}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{overscroll-behavior-y:none;-webkit-text-size-adjust:100%}
+html,body{margin:0;min-height:100%;background:#8d7bc4;font-family:"Poppins","Segoe UI",system-ui,sans-serif}
+body{display:flex;justify-content:center;align-items:flex-start;min-height:100vh;min-height:100svh}
+button{font:inherit;cursor:pointer}
+svg{fill:currentColor}
+.app{position:relative;width:100%;max-width:430px;min-height:100vh;min-height:100svh;background:var(--page);display:flex;flex-direction:column;overflow-x:clip}
+@media(min-width:500px) and (min-height:640px) and (hover:hover) and (pointer:fine){body{align-items:center}.app{min-height:0;height:min(880px,96vh);overflow-y:auto;scrollbar-width:none;border-radius:46px;box-shadow:0 0 0 10px #1d1630,0 30px 80px rgba(0,0,0,.45)}}
+.top{display:flex;align-items:center;gap:14px;padding:calc(env(safe-area-inset-top,0px) + 18px) 20px 14px}
+.top h1{margin:0;font-size:22px;color:var(--ink)}
+.ib{flex:0 0 auto;width:44px;height:44px;border-radius:50%;border:0;background:var(--card);color:var(--ink);display:grid;place-items:center;box-shadow:0 6px 14px rgba(90,60,170,.12)}
+main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
+.sec{margin:22px 4px 10px;font-size:13px;font-weight:600;color:var(--sub);text-transform:uppercase;letter-spacing:.04em}
+.sec:first-child{margin-top:4px}
+.group{background:linear-gradient(160deg,var(--card),var(--field));border-radius:28px;padding:6px 16px;box-shadow:0 8px 24px rgba(90,60,170,.08)}
+.row{display:flex;align-items:center;gap:14px;min-height:64px;padding:10px 0;color:inherit;text-decoration:none;border:0;background:none;width:100%;text-align:left}
+.row+.row,.row+.note+.row{border-top:1px solid rgba(140,111,224,.14)}
+.ri{flex:0 0 auto;width:40px;height:40px;border-radius:14px;display:grid;place-items:center;color:#fff;background:linear-gradient(145deg,var(--p1),var(--p2))}
+.ri.warn{background:linear-gradient(145deg,#f08a8a,var(--danger))}
+.ri.soft{background:var(--field);color:var(--link)}
+.rt{flex:1;min-width:0}
+.rt b{display:block;font-size:14.5px;font-weight:600;color:var(--ink)}
+.rt small{display:block;margin-top:2px;font-size:12.5px;line-height:1.35;color:var(--sub)}
+.row.danger .rt b{color:var(--danger)}
+.new{display:inline-block;margin-left:8px;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;color:#fff;background:var(--danger);vertical-align:middle}
+.new[hidden]{display:none}
+@keyframes sp{to{transform:rotate(360deg)}}.spin svg{animation:sp 1s linear infinite}
+.chev{flex:0 0 auto;color:var(--sub);display:grid;place-items:center}
+.sw{flex:0 0 auto;position:relative;width:50px;height:30px;border-radius:15px;border:0;padding:0;background:var(--field);box-shadow:inset 0 0 0 2px rgba(140,111,224,.28);transition:background .2s}
+.sw:after{content:"";position:absolute;top:4px;left:4px;width:22px;height:22px;border-radius:50%;background:var(--sub);transition:transform .2s,background .2s}
+.sw[aria-checked="true"]{background:linear-gradient(180deg,var(--p1),var(--p2));box-shadow:none}
+.sw[aria-checked="true"]:after{transform:translateX(20px);background:#fff}
+.note{margin:0;padding:0 0 12px 54px;font-size:12px;line-height:1.4;color:var(--sub)}
+.acct{display:flex;align-items:center;gap:14px;padding:12px 0;text-decoration:none;color:inherit}
+.acct .av{flex:0 0 auto;width:56px;height:56px;border-radius:50%;background:linear-gradient(145deg,var(--p1),var(--p2));color:#fff;display:grid;place-items:center;font-weight:700;font-size:22px}
+.av.ph{color:transparent;font-size:0}
+.acct .rt b{font-size:17px;word-break:break-word}
+.chips{display:flex;gap:8px;padding:6px 0 14px}
+.chip{flex:1;border:2px solid transparent;border-radius:18px;padding:10px 8px;font-size:13px;font-weight:600;background:var(--card);color:var(--sub)}
+.chip.on{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff}
+.out{width:100%;height:52px;margin-top:22px;border-radius:26px;border:2px solid var(--danger);background:none;color:var(--danger);font-weight:600;font-size:15px;display:flex;align-items:center;justify-content:center;gap:8px}
+.foot{margin:18px 0 0;text-align:center;font-size:12px;color:var(--sub)}
+.nav{position:fixed;left:0;right:0;margin:0 auto;bottom:0;width:100%;max-width:430px;height:calc(66px + env(safe-area-inset-bottom,0px));z-index:10;display:grid;grid-template-columns:repeat(5,1fr);--cx:-10%}
+.nav{filter:drop-shadow(0 -3px 8px rgba(70,40,150,.12))}
+.bar{position:absolute;inset:0;background:var(--card);border-radius:28px 28px 0 0;-webkit-mask:radial-gradient(circle 37px at var(--cx) 4px,transparent 36px,#000 37px);mask:radial-gradient(circle 37px at var(--cx) 4px,transparent 36px,#000 37px)}
+.nav button{position:relative;border:0;background:none;padding:6px 0 env(safe-area-inset-bottom,0px);color:var(--sub);display:grid;place-items:center}
+.nav .ic{display:grid;place-items:center;width:44px;height:44px}
+.nav svg{width:24px;height:24px}
+.bd{position:absolute;top:10px;right:calc(50% - 24px);min-width:18px;height:18px;border-radius:9px;background:#e5578a;color:#fff;font-size:10.5px;font-weight:600;display:grid;place-items:center;padding:0 4px}
+@media(min-width:500px) and (min-height:640px) and (hover:hover) and (pointer:fine){.nav{position:sticky;left:auto;right:auto;width:auto;max-width:none;margin:auto 0 0}main{padding-bottom:30px!important}}
+/* Rotation : pas de cadre ni de rognage sur mobile/tablette (écrans tactiles) */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inset-right,0px)}
+@media(min-width:500px) and (hover:none),(min-width:500px) and (pointer:coarse){.app,.nav{max-width:760px}}
+.toast{position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom,0px) + 90px);max-width:90vw;transform:translate(-50%,30px);background:#2e2160;color:#fff;padding:12px 20px;border-radius:24px;font-size:13.5px;text-align:center;opacity:0;transition:.3s;pointer-events:none;z-index:50}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+.sw:focus-visible,.row:focus-visible,.chip:focus-visible,.ib:focus-visible,.out:focus-visible,.acct:focus-visible{outline:3px solid var(--p2);outline-offset:2px}
+[hidden]{display:none!important}
+
+/* Page Contact */
+.cbtn{display:flex;align-items:center;gap:14px;min-height:64px;padding:10px 0;color:inherit;text-decoration:none;width:100%}
+.cbtn+.cbtn{border-top:1px solid rgba(140,111,224,.14)}
+.mf label{display:block;margin:14px 4px 6px;font-size:12px;font-weight:600;color:var(--sub)}
+.mf select,.mf textarea{width:100%;border:2px solid transparent;border-radius:20px;background:var(--card);color:var(--ink);font:inherit;font-size:14.5px;padding:12px 14px;outline:0;box-shadow:0 6px 14px rgba(90,60,170,.08)}
+.mf textarea{min-height:120px;resize:vertical;line-height:1.45}
+.mf select:focus,.mf textarea:focus{border-color:var(--p1)}
+.send{width:100%;height:50px;margin-top:14px;border:0;border-radius:25px;font-weight:600;font-size:15px;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2));box-shadow:0 6px 12px rgba(130,100,220,.4)}
+.faq details{border-top:1px solid rgba(140,111,224,.14);padding:2px 0}
+.faq details:first-child{border-top:0}
+.faq summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:14px 0;font-size:14.5px;font-weight:600;color:var(--ink)}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary:after{content:"+";margin-left:auto;font-size:20px;color:var(--link)}
+.faq details[open] summary:after{content:"\2212"}
+.faq p{margin:0 0 14px;font-size:13.5px;line-height:1.55;color:var(--sub)}
+.soon{margin:0;padding:12px 0;font-size:13.5px;line-height:1.5;color:var(--sub)}
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <button class="ib" id="back" type="button" aria-label="Retour"></button>
+    <h1>Contact</h1>
+  </header>
+  <main>
+    <h2 class="sec">Nous joindre</h2>
+    <div class="group" id="ways"></div>
+
+    <h2 class="sec">Écrire un message</h2>
+    <div class="mf">
+      <label for="subj">Sujet</label>
+      <select id="subj">
+        <option>Question sur un cours</option>
+        <option>Paiement ou abonnement</option>
+        <option>Problème technique</option>
+        <option>Suggestion</option>
+        <option>Autre</option>
+      </select>
+      <label for="msg">Votre message</label>
+      <textarea id="msg" maxlength="800" placeholder="Décrivez votre demande…"></textarea>
+      <button class="send" id="send" type="button">Envoyer</button>
+      <p class="note" style="padding:8px 4px 0">Votre nom et votre profil sont ajoutés au message pour nous aider à vous répondre.</p>
+    </div>
+
+    <h2 class="sec">Questions fréquentes</h2>
+    <div class="group faq">
+      <details><summary>Comment acheter un cours ?</summary><p>Pour le moment, tous les cours et toutes les ressources sont gratuits : ouvrez simplement le cours de votre choix. Les paiements seront bientôt disponibles.</p></details>
+      <details><summary>Comment m’abonner ?</summary><p>Les abonnements seront bientôt disponibles. En attendant, l’accès à tout le contenu est gratuit.</p></details>
+      <details><summary>Comment installer l’application ?</summary><p>Sur Android, ouvrez le menu de votre navigateur et choisissez « Installer l’application » ou « Ajouter à l’écran d’accueil ». Sur iPhone, touchez Partager, puis « Sur l’écran d’accueil ».</p></details>
+      <details><summary>Puis-je lire sans internet ?</summary><p>Oui, pour les pages que vous avez déjà ouvertes avec une connexion. Ouvrez un cours une première fois en ligne pour le retrouver ensuite hors connexion.</p></details>
+      <details><summary>J’ai changé de téléphone : où sont mes achats ?</summary><p>Pour l’instant, vos achats, favoris et progression sont enregistrés sur l’appareil. Écrivez-nous en indiquant votre nom et vos achats, nous vous aiderons à les retrouver.</p></details>
+    </div>
+    <p class="foot">Expert en français</p>
+  </main>
+  <nav class="nav" id="nav"></nav>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</div>
+<script src="data.js"></script>
+<script>
+/* ===== Coordonnées de contact =====
+   À RENSEIGNER : laissez "" pour masquer un moyen de contact.
+   whatsapp : numéro avec l’indicatif du pays, chiffres seulement (ex. "242061234567")
+   tel      : liste de numéros à appeler (ex. ["+242 06 123 45 67","+242 05 123 45 67"])
+   email    : adresse e-mail de contact */
+var CONTACT={whatsapp:"242068777246",tel:["+242 06 877 72 46","+242 05 528 02 47"],email:"congolettres@gmail.com"};
+
+var SVG={
+ chat:"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z",
+ phone:"M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z",
+ mail:"M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"};
+function ic(n){return '<svg width="20" height="20" viewBox="0 0 24 24"><path d="'+SVG[n]+'"/></svg>'}
+$("back").innerHTML=ico("back",22);
+$("back").onclick=function(){if(history.length>1)history.back();else location.href="parametres.html"};
+
+var W=[];
+if(CONTACT.whatsapp)W.push(['https://wa.me/'+CONTACT.whatsapp.replace(/\D/g,""),"chat","WhatsApp","Réponse en général dans la journée"]);
+(CONTACT.tel||[]).forEach(function(n,i){W.push(['tel:'+n.replace(/[^\d+]/g,""),"phone",i?"Téléphone (2)":"Téléphone",n])});
+if(CONTACT.email)W.push(['mailto:'+CONTACT.email,"mail","E-mail",CONTACT.email]);
+$("ways").innerHTML=W.length?W.map(function(w){
+ return '<a class="cbtn" href="'+esc(w[0])+'"'+(w[1]==="chat"?' target="_blank" rel="noopener"':"")+'><span class="ri">'+ic(w[1])+'</span><span class="rt"><b>'+w[2]+'</b><small>'+esc(w[3])+'</small></span><span class="chev">'+ico("chev",22)+'</span></a>'}).join(""):
+ '<p class="soon">Nos coordonnées de contact seront bientôt disponibles. En attendant, consultez les questions fréquentes ci-dessous.</p>';
+
+$("send").onclick=function(){
+ var m=$("msg").value.trim();
+ if(!m)return toast("Écrivez votre message");
+ var who=(userName()||"")+" ("+ROLES[ROLE]+")",
+     txt="["+$("subj").value+"] "+m+"\n\n— "+who;
+ if(CONTACT.whatsapp){window.open("https://wa.me/"+CONTACT.whatsapp.replace(/\D/g,"")+"?text="+encodeURIComponent(txt),"_blank")}
+ else if(CONTACT.email){location.href="mailto:"+CONTACT.email+"?subject="+encodeURIComponent($("subj").value+" — Expert en français")+"&body="+encodeURIComponent(txt)}
+ else toast("Contact non configuré pour l’instant")};
+drawNav(-1);
+</script>
+</body>
+</html>

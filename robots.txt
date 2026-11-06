@@ -2,6 +2,7 @@ User-agent: *
 Allow: /cours/
 Disallow: /cycles.html
 Disallow: /lecon.html
+Disallow: /pdf.html
 Disallow: /profil.html
 Disallow: /panier.html
 Disallow: /login-app.html

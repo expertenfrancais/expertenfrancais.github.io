@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -73,6 +74,17 @@ main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
 .sh{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px}
 .sh h2{margin:0;font-size:20px;color:var(--ink)}
 .count{font-size:13px;color:var(--sub)}
+/* Résultats dans le texte des cours (recherche) */
+.chits{margin-top:20px}
+.chits h3{margin:0 0 10px;font-size:15px;color:var(--ink)}
+.hit{display:flex;gap:12px;padding:12px 14px;margin-bottom:8px;border-radius:20px;background:var(--card);text-decoration:none;box-shadow:0 8px 24px rgba(90,60,170,.08)}
+.hit i{flex:0 0 28px;height:28px;border-radius:50%;display:grid;place-items:center;background:var(--p2);color:#fff;font-style:normal;font-size:12.5px;font-weight:700}
+.hit div{min-width:0}.hit b{display:block;font-size:14px;color:var(--ink)}
+.hit small{display:block;margin:1px 0 4px;font-size:12px;color:var(--sub)}
+.hit p{margin:0;font-size:13px;line-height:1.55;color:var(--ink)}.hit p.lk{color:var(--sub);font-style:italic}
+.hit mark{padding:0 2px;border-radius:4px;background:rgba(255,200,60,.5);color:inherit}
+.hitmore{margin:6px 2px 0;font-size:12.5px;color:var(--sub)}
+
 .reset{border:0;background:none;padding:0;font-size:13px;font-weight:600;color:var(--link)}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .doc{background:var(--card);border-radius:24px;padding:8px;box-shadow:0 8px 24px rgba(90,60,170,.08);display:flex;flex-direction:column;min-width:0}
@@ -149,6 +161,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
     <div class="sh"><h2 id="ttl">Tous les documents</h2><span><button class="reset" id="reset" type="button" hidden>Réinitialiser</button> <span class="count" id="cnt"></span></span></div>
     <div class="grid" id="list"></div>
     <button class="more" id="more" type="button" hidden>Afficher plus</button>
+    <div class="chits" id="chits"></div>
   </main>
   <nav class="nav" id="nav"></nav>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
@@ -190,9 +203,9 @@ function drawChips(){
  chips("sorts",SORTS,"sort")}
 
 /* Liste */
-function fits(d,skipMat){
+function fits(d,skipMat,noQ){
  var qq=norm(st.q.trim());
- return (st.type==="Tous"||d.k===st.type)&&(st.cyc==="Tous"||d.c===st.cyc)&&(st.niv==="Tous"||d.n===st.niv)&&(skipMat||!st.mats.length||st.mats.indexOf(d.m)>-1)&&(!qq||norm(d.t+" "+d.m+" "+d.k).indexOf(qq)>-1)}
+ return (st.type==="Tous"||d.k===st.type)&&(st.cyc==="Tous"||d.c===st.cyc)&&(st.niv==="Tous"||d.n===st.niv)&&(skipMat||!st.mats.length||st.mats.indexOf(d.m)>-1)&&(noQ||!qq||norm(d.t+" "+d.m+" "+d.k).indexOf(qq)>-1)}
 function cmp(a,b){return a<b?-1:a>b?1:0}
 function result(){
  var res=DOCS.filter(function(d){return fits(d,false)});
@@ -219,7 +232,17 @@ function render(){
  var active=st.type!=="Tous"||(canSwitchCycle()&&st.cyc!=="Tous")||(!canSwitchCycle()&&st.cyc!==activeCycle())||st.niv!=="Tous"||st.mats.length>0||st.sort!=="pert"||st.q.trim()!=="";
  $("reset").hidden=!active;
  $("dot").hidden=(canSwitchCycle()?st.cyc==="Tous":true)&&st.niv==="Tous"&&st.sort==="pert";
- drawChips()}
+ drawChips();paintHits(res.length)}
+/* Recherche dans le texte des cours : à partir de 3 lettres */
+function paintHits(n){var box=$("chits"),raw=st.q.trim(),qn=norm(raw);
+ if(qn.length<3){box.innerHTML="";return}
+ if(!CIDX)box.innerHTML='<p class="hitmore">Recherche dans le contenu des cours…</p>';
+ contentReady(function(){
+  if(norm(st.q.trim())!==qn)return;
+  var hits=contentHits(raw,DOCS.filter(function(d){return fits(d,false,true)}));
+  box.innerHTML=hitsHTML(hits,12);
+  if(!n&&hits.length)$("list").innerHTML=""})}
+
 
 function nav(){drawNav(1)}
 function seeGroup(e,apply){var g=e.target.closest(".shelf-go");if(!g)return;apply(g.dataset.k,g.dataset.m);

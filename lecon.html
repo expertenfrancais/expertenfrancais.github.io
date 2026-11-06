@@ -64,6 +64,7 @@ function isOpen(k){return partFree(k)||acc}
 if(open){markPart(d.id,i);done=partsDone(d.id);
  if(acc){var st=ls("studied",[]);if(st.indexOf(d.id)<0){st.push(d.id);sv("studied",st)}}}
 
+var nq=0,ne=0;(sec.blocs||[]).forEach(function(b){if(b.type==="quiz")nq++;else if(b.type==="exercise")ne++});
 /* En-tête, barre de progression */
 var h='<div class="lhead" style="--g1:'+g[0]+';--g2:'+g[1]+'"><a class="back2" href="'+docUrl(d)+'" aria-label="Retour au cours">'+svg(BACK)+'</a><div><small>Partie '+(i+1)+' sur '+N+' · '+esc(d.n)+'</small><b>'+esc(d.t)+'</b></div></div>';
 h+='<div class="steps" aria-hidden="true">'+S.map(function(s,k){
@@ -76,7 +77,7 @@ if(open){
  var rich=sec.blocs&&sec.blocs.length?BLOCS.render(sec.blocs):"",
   paras=rich?[]:(sec.c||"").split(/\n+/).filter(Boolean);
  h+='<span class="lbadge">'+(acc?"Accès complet":"Partie gratuite")+'</span><div class="lbody">'+
-  (rich||(paras.length?paras.map(function(t){return "<p>"+esc(t)+"</p>"}).join(""):'<p class="soon">Le contenu de cette partie arrive bientôt.</p>'))+'</div>';
+  (rich||(paras.length?paras.map(function(t){return "<p>"+esc(t)+"</p>"}).join(""):'<p class="soon">Le contenu de cette partie arrive bientôt.</p>'))+'</div>'+(nq||ne?'<div class="lscore" id="lscore"></div>':"");
  if(i===N-1&&logged)h+=rateBox(d.id);
 }else{
  h+='<div class="lock2"><div class="okc">'+svg(IC.lock)+'</div><h3>Partie réservée</h3><p>Abonnez-vous pour lire toutes les parties de ce cours, ou achetez-le à l’unité.</p>'+
@@ -90,7 +91,21 @@ var last=i===N-1;
 h+='<div class="dock"><button class="pv" id="pv" type="button" aria-label="Partie précédente"'+(i===0?" disabled":"")+'>'+svg(BACK)+'</button>'+
  '<button class="go nx" id="nx" type="button"><span>'+(last?"Terminer le cours":"Partie suivante")+'</span><i>'+svg(CHEV)+'</i></button></div>';
 P.innerHTML=h;
-BLOCS.bind(P);bindRate(P,d.id);
+BLOCS.bind(P,function(r){if(open){scoreSet(d.id,i,r.kind,r.k,r.ok);paintScore()}});bindRate(P,d.id);
+if(open&&(nq||ne)){scoreMeta(d.id,i,nq,ne);paintScore()}
+/* Carte « Votre score » : lit les résultats enregistrés pour cette partie */
+function paintScore(){var el=$("lscore");if(!el)return;var s=scoreSum(scoreGet(d.id,i));
+ function pl(n,w){return n+" "+w+(n>1?"s":"")}
+ function row(lbl,good,tot,sub){var p=tot?Math.round(100*good/tot):0;
+  return '<div class="lsr"><div class="lst"><span>'+lbl+'</span><b>'+good+' / '+tot+'</b></div><div class="lsb"><i style="width:'+p+'%"></i></div><small>'+sub+' sur '+tot+'</small></div>'}
+ var h='<p class="lsh">Votre dernier score</p>';
+ if(nq)h+=row("Quiz réussis du premier coup",s.qo,nq,pl(s.qa,"répondu"));
+ if(ne)h+=row("Exercices réussis",s.eo,ne,pl(s.ea,"évalué"));
+ if(nq&&s.qa>=nq){var p=s.qo/nq;
+  h+='<p class="lsm">'+(p>=.8?"Excellent, vous maîtrisez cette partie ✓":p>=.5?"Bien. Relisez les points manqués pour progresser.":"À revoir : relisez la partie, puis refaites les quiz.")+'</p>'}
+ else if(nq)h+='<p class="lsm">Répondez à tous les quiz pour voir votre bilan.</p>';
+ if(s.qa||s.ea)h+='<button class="lsre" id="lsre" type="button">Refaire cette partie</button>';
+ el.innerHTML=h;var rb=$("lsre");if(rb)rb.onclick=function(){location.reload()}}
 $("pv").onclick=function(){if(i>0)location.replace(partUrl(d,i-1))};
 $("nx").onclick=function(){location.replace(last?docUrl(d):partUrl(d,i+1))};
 /* Pastilles de progression : remplacent la page au lieu de l’empiler dans l’historique */

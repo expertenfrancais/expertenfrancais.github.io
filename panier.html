@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -111,7 +112,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 <body>
 <div class="app" id="app">
   <header class="top">
-    <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small>Vos achats</small><b>Mon panier</b></div></div>
+    <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small>Paiements</small><b>Mon panier</b></div></div>
     <button class="ib" id="bell" type="button" aria-label="Notifications"><svg width="22" height="22" viewBox="0 0 24 24"><path id="p-bell"/></svg></button>
   </header>
   <main>
@@ -140,8 +141,8 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 
     <section id="vEmpty" class="center" hidden>
       <div class="okc"><svg width="40" height="40" viewBox="0 0 24 24"><path id="p-cart"/></svg></div>
-      <h3>Votre panier est vide</h3>
-      <p>Parcourez le catalogue et ajoutez les documents dont vous avez besoin.</p>
+      <h3>Bientôt disponible</h3>
+      <p>Les paiements seront bientôt disponibles. En attendant, tous les cours et toutes les ressources sont gratuits.</p>
       <button class="btn" id="goCat" type="button">Voir le catalogue</button>
     </section>
 

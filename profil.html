@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -160,6 +161,11 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .stat{border:0;background:var(--card);border-radius:22px;padding:14px 6px;text-align:center;box-shadow:0 8px 24px rgba(90,60,170,.08)}
 .stat b{display:block;font-size:22px;color:var(--ink)}
 .stat span{font-size:12px;color:var(--sub)}
+.wkh{margin:2px 2px 8px;font-size:12.5px;font-weight:700;color:var(--sub)}
+.wk{display:flex;align-items:center;gap:12px;padding:12px 14px;margin-bottom:8px;border-radius:20px;background:var(--card);text-decoration:none;box-shadow:0 8px 24px rgba(90,60,170,.08)}
+.wk div{min-width:0}.wk b{display:block;font-size:13.5px;color:var(--ink)}.wk small{display:block;font-size:12px;color:var(--sub)}
+.wk em{margin-left:auto;font-style:normal;font-weight:700;font-size:13px;color:#e5578a;white-space:nowrap}
+.resempty{padding:14px 16px;margin-bottom:18px;border-radius:20px;background:var(--card);font-size:13px;line-height:1.6;color:var(--sub)}
 .list{display:grid;gap:10px}
 .item{display:flex;align-items:center;gap:12px;background:var(--card);border-radius:22px;padding:10px;box-shadow:0 6px 18px rgba(90,60,170,.07)}
 .th{position:relative;flex:0 0 auto;width:60px;height:60px;border-radius:16px;overflow:hidden;background:linear-gradient(135deg,var(--g1),var(--g2))}
@@ -193,6 +199,8 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
     <div class="hs" id="mine"></div>
     <div class="sec"><h2>Ma progression</h2></div>
     <div class="rings" id="rings"></div>
+    <div class="sec"><h2>Mes résultats</h2></div>
+    <div id="res"></div>
     <div class="sec"><h2>Mes informations</h2></div>
     <section class="card">
       <div class="info" id="info"></div>
@@ -268,7 +276,7 @@ $("pick").innerHTML=ico("cam",16)+"&nbsp;Changer la photo";
 $("pickCover").innerHTML=ico("cam",16)+"&nbsp;Changer la couverture";
 $("i-set").innerHTML=ico("gear",20);
 $("i-share").innerHTML='<svg width="20" height="20" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>';
-var teacher=ROLE!=="eleve";
+var teacher=ROLE==="enseignant";
 $("fGrade").innerHTML='<option value="">Choisir…</option>'+accessibleCycles().map(function(c){return '<optgroup label="'+c+'">'+CYCLES[c].map(function(n){return "<option>"+n+"</option>"}).join("")+"</optgroup>"}).join("");
 $("forT").hidden=!teacher;$("forE").hidden=teacher;
 if(homeCycle())$("fSubject").placeholder="Ex. "+CYCLES[homeCycle()].slice(0,2).join(", ");
@@ -276,16 +284,36 @@ if(homeCycle())$("fSubject").placeholder="Ex. "+CYCLES[homeCycle()].slice(0,2).j
 function nav(){drawNav(4)}
 function paintSub(){
  var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0],ds=on?Math.ceil((Date.parse(s.end)-Date.now())/864e5):0;
- var bs=$("bSub");bs.textContent=on?"Abonné":"Sans abonnement";bs.className="bd1"+(on?"":" off");
- $("subc").innerHTML="<b>"+(on?"Abonnement actif ✓ · "+esc(pl?pl.n:""):"Pas d’abonnement")+"</b><span>"+(on?"Valable jusqu’au "+fmtDate(s.end)+" · "+ds+" jour"+(ds>1?"s":"")+" restant"+(ds>1?"s":""):"Accédez à tout le contenu sans achat à l’unité.")+"</span><em>"+(on?"Gérer ›":"Voir les formules ›")+"</em>";
+ var bs=$("bSub");bs.textContent=GRATUIT?"Accès gratuit":on?"Abonné":"Sans abonnement";bs.className="bd1"+(GRATUIT||on?"":" off");
+ $("subc").innerHTML=GRATUIT?"<b>Abonnement</b><span>Bientôt disponible. En attendant, tout le contenu est gratuit.</span>":"<b>"+(on?"Abonnement actif ✓ · "+esc(pl?pl.n:""):"Pas d’abonnement")+"</b><span>"+(on?"Valable jusqu’au "+fmtDate(s.end)+" · "+ds+" jour"+(ds>1?"s":"")+" restant"+(ds>1?"s":""):"Accédez à tout le contenu sans achat à l’unité.")+"</span><em>"+(on?"Gérer ›":"Voir les formules ›")+"</em>";
  var ok=DOCS.map(function(d){return d.id}),inOk=function(i){return ok.indexOf(i)>-1},bought=ls("bought",[]).filter(inOk),studied=ls("studied",[]).filter(function(i){return inOk(i)&&canAccess(i)});
  var mine=DOCS.filter(function(d){return canAccess(d.id)&&(bought.indexOf(d.id)>-1||studied.indexOf(d.id)>-1)});
  $("mine").innerHTML=mine.length?mine.map(function(d){var g=G[d.k]||G.Cours,stu=studied.indexOf(d.id)>-1;
-  return '<a class="pc" href="'+docUrl(d)+'" style="--g1:'+g[0]+';--g2:'+g[1]+'"><div class="t"><img src="'+esc(d.img)+'" alt="" loading="lazy" onerror="this.remove()"></div><div style="min-width:0"><b>'+esc(d.t)+'</b><span class="c">'+esc(d.k)+" · "+esc(d.n)+'</span><span class="s">'+(stu?"Étudié ✓":(on?"Inclus":"Acheté"))+"</span></div></a>"}).join(""):
+  return '<a class="pc" href="'+docUrl(d)+'" style="--g1:'+g[0]+';--g2:'+g[1]+'"><div class="t"><img src="'+esc(d.img)+'" alt="" loading="lazy" onerror="this.remove()"></div><div style="min-width:0"><b>'+esc(d.t)+'</b><span class="c">'+esc(d.k)+" · "+esc(d.n)+'</span><span class="s">'+(stu?"Étudié ✓":(GRATUIT?"Gratuit":on?"Inclus":"Acheté"))+"</span></div></a>"}).join(""):
   '<a class="emptyc" href="catalogue.html"><b>Aucun document pour l’instant</b><span>Parcourir le catalogue ›</span></a>';
  var accN=on?DOCS.length:bought.length,R=[["Étudiés","#8c6fe0",studied.length,accN],["Achetés","#2fa883",bought.length,DOCS.length],["Favoris","#5f84e6",favs.filter(inOk).length,DOCS.length]];
  $("rings").innerHTML=R.map(function(r){var p=r[3]?Math.round(100*r[2]/r[3]):0;
-  return '<div class="rg"><b style="color:'+r[1]+'">'+r[0]+'</b><div class="ring" style="--c:'+r[1]+';--v:'+p+'"><i>'+p+' %</i></div><small>'+r[2]+" / "+r[3]+"</small></div>"}).join("")}
+  return '<div class="rg"><b style="color:'+r[1]+'">'+r[0]+'</b><div class="ring" style="--c:'+r[1]+';--v:'+p+'"><i>'+p+' %</i></div><small>'+r[2]+" / "+r[3]+"</small></div>"}).join("");paintResults()}
+
+/* Mes résultats : réussite aux quiz et exercices, et parties à revoir (scores enregistrés dans la leçon) */
+function paintResults(){
+ var el=$("res");if(!el)return;
+ var all=ls("scores",{}),qa=0,qo=0,ea=0,eo=0,weak=[];
+ DOCS.forEach(function(d){
+  var c=all[d.id];if(!c||!canAccess(d.id))return;
+  Object.keys(c).forEach(function(k){
+   var s=scoreSum(c[k]);qa+=s.qa;qo+=s.qo;ea+=s.ea;eo+=s.eo;
+   var rq=s.qa?s.qo/s.qa:1,re=s.ea?s.eo/s.ea:1;
+   if((s.qa&&rq<.6)||(s.ea&&re<.5))weak.push({d:d,i:+k,r:Math.min(rq,re)})})});
+ if(!qa&&!ea){el.innerHTML='<div class="resempty">Faites les quiz et les exercices des parties de vos cours : votre taux de réussite et les parties à revoir apparaîtront ici.</div>';return}
+ weak.sort(function(a,b){return a.r-b.r});
+ var h='<div class="stats"><div class="stat"><b>'+(qa?Math.round(100*qo/qa)+" %":"–")+'</b><span>Quiz réussis</span></div>'+
+  '<div class="stat"><b>'+(ea?Math.round(100*eo/ea)+" %":"–")+'</b><span>Exercices réussis</span></div>'+
+  '<div class="stat"><b>'+weak.length+'</b><span>À revoir</span></div></div>';
+ if(weak.length){h+='<p class="wkh">À revoir en priorité</p>'+weak.slice(0,3).map(function(w){
+  var sec=docInfo(w.d).sections[w.i],t=sec?sec.t:"Partie "+(w.i+1);
+  return '<a class="wk" href="'+partUrl(w.d,w.i)+'"><div><b>Partie '+(w.i+1)+' · '+esc(t)+'</b><small>'+esc(w.d.t)+'</small></div><em>'+Math.round(100*w.r)+' %</em></a>'}).join("")}
+ el.innerHTML=h}
 
 /* Informations affichées */
 function infoRows(){
@@ -303,14 +331,14 @@ function render(){
  $("nm").textContent=n||ROLES[ROLE];
  $("bigL").textContent=l;
  $("role").textContent=ROLES[ROLE];
- $("acc").textContent=teacher?"Accès à toutes les ressources : cours, fiches, programmes, évaluations et exercices.":"Accès aux cours uniquement.";
+ $("acc").textContent=teacher?"Accès gratuit à toutes les ressources : cours, fiches, programmes, évaluations et exercices.":"Accès gratuit à l’ensemble des cours.";
  var rows=infoRows();
  $("info").innerHTML=rows.length?rows.map(function(r){return '<div class="irow"><span>'+esc(r[0])+'</span><b>'+esc(r[1])+'</b></div>'}).join(""):
   '<p class="none">Complétez votre profil pour personnaliser votre espace.</p>';
  
  var t="auto";try{t=localStorage.getItem("theme")||"auto"}catch(e){}
  document.querySelectorAll("#theme .chip").forEach(function(c){c.classList.toggle("on",c.dataset.v===t)});
- $("cycTxt").textContent=canSwitchCycle()?"Votre abonnement vous permet de consulter les cours de tous les cycles.":"Vous avez accès aux cours du cycle « "+homeCycle()+" ». Avec un abonnement, vous pouvez passer d’un cycle à l’autre.";
+ $("cycTxt").textContent=canSwitchCycle()?"Vous pouvez consulter les cours de tous les cycles.":"Vous avez accès aux cours du cycle « "+homeCycle()+" ». Avec un abonnement, vous pouvez passer d’un cycle à l’autre.";
  paintSub();paintAvatars();paintCover();nav()}
 
 /* Photo de profil : recadrée au carré et réduite avant d’être enregistrée */
@@ -388,7 +416,7 @@ $("save").onclick=function(){
 $("theme").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;
  try{if(b.dataset.v==="auto")localStorage.removeItem("theme");else localStorage.setItem("theme",b.dataset.v)}catch(x){}
  applyTheme();render()};
-$("logout").onclick=function(){if(!confirm("Se déconnecter effacera vos favoris, achats, abonnement et progression enregistrés sur cet appareil. Continuer ?"))return;["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","user_cycle","view_cycle","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});location.href="login-app.html"};
+$("logout").onclick=function(){if(!confirm("Se déconnecter effacera vos favoris, achats, abonnement et progression enregistrés sur cet appareil. Continuer ?"))return;["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","scores","user_cycle","view_cycle","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});location.href="login-app.html"};
 $("nav").onclick=navClick;
 /* Installation et mode hors ligne */
 function appCard(){

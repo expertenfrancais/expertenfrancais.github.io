@@ -43,18 +43,18 @@ function paintLessons(){
  var done=partsDone(d.id);
  $("lessons").innerHTML=I.sections.map(function(s,i){
   var n='<span class="n">'+(i+1)+'</span>',open=partFree(i)||acc;
-  if(!open)return '<div class="ls lock"><div class="sm">'+n+'<span class="tx"><b>'+esc(s.t)+'</b><small>Réservé aux abonnés</small></span><span class="end">'+svg(LOCK)+'</span></div></div>';
-  var ok=done.indexOf(i)>-1;
-  return '<a class="ls'+(ok?" done":"")+'" href="'+partUrl(d,i)+'"><div class="sm">'+n+'<span class="tx"><b>'+esc(s.t)+'</b><small'+(partFree(i)&&!acc?' class="free"':"")+'>'+(ok?"Étudié ✓":partFree(i)&&!acc?"Gratuit":"Lire la partie")+'</small></span><span class="end">'+svg(CHEV)+'</span></div></a>'}).join("")}
+  if(!open)return '<a class="ls lock" href="'+BASE+'abonnement.html"><div class="sm">'+n+'<span class="tx"><b>'+esc(s.t)+'</b><small>Réservé aux abonnés · S’abonner ›</small></span><span class="end">'+svg(LOCK)+'</span></div></a>';
+  var ok=done.indexOf(i)>-1,sm=scoreSum(scoreGet(d.id,i));
+  return '<a class="ls'+(ok?" done":"")+'" href="'+partUrl(d,i)+'"><div class="sm">'+n+'<span class="tx"><b>'+esc(s.t)+'</b><small'+(partFree(i)&&!acc?' class="free"':"")+'>'+(ok?"Étudié ✓":partFree(i)&&!acc?"Gratuit":"Lire la partie")+(sm.qa?" · Quiz "+sm.qo+"/"+sm.nq:"")+'</small></span><span class="end">'+svg(CHEV)+'</span></div></a>'}).join("")}
 paintLessons();
 if(acc){
  /* Accès : prix remplacé par l’état, sections lisibles, bouton de téléchargement */
  var stl=ls("studied",[]);if(stl.indexOf(d.id)<0){stl.push(d.id);sv("studied",stl)}
- var pr=$("price");pr.className="pill r own";pr.innerHTML=svg(IC.check)+(inc?"Inclus":"Acheté");
+ var pr=$("price");pr.className="pill r own";pr.innerHTML=svg(IC.check)+(GRATUIT?"Gratuit":inc?"Inclus":"Acheté");
  var sl=$("subLink");if(sl)sl.remove();
  if(logged){$("lessons").insertAdjacentHTML("afterend",rateBox(d.id));bindRate(P,d.id)}
  go.innerHTML='<span>Télécharger</span><i>'+svg(IC.dl)+'</i>';
- go.onclick=function(){toast("Le téléchargement sera disponible avec le serveur")};
+ go.onclick=function(){location.href=BASE+"pdf.html?id="+d.id};
 }else{
  var label=!logged?"Se connecter pour acheter":inCart?"Aller au panier":"Acheter · "+price(d.pr);
  go.innerHTML='<span>'+esc(label)+'</span><i>'+svg(logged?IC.cart:CHEV)+'</i>';

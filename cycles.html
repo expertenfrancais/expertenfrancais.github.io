@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -146,14 +147,14 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
    2. Changement de cycle : réservé aux abonnés. Les autres voient les cycles verrouillés. */
 ["bell"].forEach(function(n){$("i-"+n).innerHTML='<path d="'+IC[n]+'"/>'});
 var name=userName();if(name)$("av").textContent=name.charAt(0).toUpperCase();
-var teacher=ROLE!=="eleve",first=!homeCycle();
+var teacher=ROLE==="enseignant",first=!homeCycle();
 function count(c){return ALLDOCS.filter(function(d){return d.c===c&&ALLOWED_TYPES.indexOf(d.k)>-1}).length}
 function draw(){
  var home=homeCycle(),cur=activeCycle(),sw=canSwitchCycle();
  $("ht").textContent=first?"Choisir mon cycle":"Mon cycle";
  $("lead").textContent=first?
-  (teacher?"Indiquez le cycle dans lequel vous enseignez : vous verrez les ressources qui lui correspondent.":"Indiquez votre cycle d’études : vous verrez les cours qui lui correspondent."):
-  (sw?"Votre abonnement vous permet de passer d’un cycle à l’autre. Touchez un cycle pour afficher ses cours.":"Votre compte donne accès aux cours du cycle « "+home+" ». Le changement de cycle est réservé aux abonnés.");
+  (teacher?"Indiquez le cycle dans lequel vous enseignez : vous verrez les ressources qui lui correspondent.":ROLE==="particulier"?"Indiquez le niveau qui vous convient : vous verrez les cours qui lui correspondent.":"Indiquez votre cycle d’études : vous verrez les cours qui lui correspondent."):
+  (sw?"Vous pouvez passer d’un cycle à l’autre. Touchez un cycle pour afficher ses cours.":"Votre compte donne accès aux cours du cycle « "+home+" ». Le changement de cycle est réservé aux abonnés.");
  $("subl").hidden=first||sw;
  $("list").innerHTML=Object.keys(CYCLES).map(function(c){
   var isCur=!first&&c===cur,open=first||accessibleCycles().indexOf(c)>-1,n=count(c);

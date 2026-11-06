@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -135,6 +136,11 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
       <button class="row" id="clrCache" type="button"><span class="ri soft" id="i-cache"></span><span class="rt"><b>Vider les données hors ligne</b><small>Libère de l’espace. Les pages seront retéléchargées à la prochaine visite.</small></span></button>
     </div>
 
+    <h2 class="sec">Aide</h2>
+    <div class="group">
+      <a class="row" href="contact.html"><span class="ri soft" id="i-contact"></span><span class="rt"><b>Nous contacter</b><small>Questions, paiement, problème technique</small></span><span class="chev" id="c-contact"></span></a>
+    </div>
+
     <h2 class="sec">Données</h2>
     <div class="group">
       <button class="row danger" id="clrProg" type="button"><span class="ri warn" id="i-trash"></span><span class="rt"><b>Réinitialiser ma progression</b><small>Efface les cours étudiés, les parties lues et vos notes. Vos achats et votre abonnement sont conservés.</small></span></button>
@@ -155,6 +161,7 @@ $("i-sub").innerHTML=ico("star",20);$("i-cyc").innerHTML=ico("grid",20);$("i-the
 $("i-vib").innerHTML=ico("phone",20);$("i-app").innerHTML=ico("phone",20);$("i-dl").innerHTML=ico("dl",20);
 $("i-cache").innerHTML=ico("trash",20);$("i-trash").innerHTML=ico("trash",20);
 $("logout").innerHTML=ico("out",20)+"Se déconnecter";
+$("i-contact").innerHTML='<svg width="20" height="20" viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg>';$("c-contact").innerHTML=ico("chev",22);
 
 /* Préférences (clé « settings » : stockées sur l’appareil).
    Avec un serveur, les envoyer au compte pour qu’elles suivent la personne d’un appareil à l’autre. */
@@ -184,7 +191,7 @@ function paintAccount(){
  $("nm").textContent=n||"Mon compte";$("av").textContent=(n||"E").charAt(0).toUpperCase();
  $("role").textContent=ROLES[ROLE]+" · Voir mon profil";
  var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0];
- $("subTxt").textContent=on?"Actif"+(pl?" · "+pl.n:"")+" · jusqu’au "+fmtDate(s.end):"Aucun abonnement actif";
+ $("subTxt").textContent=GRATUIT?"Bientôt disponible":on?"Actif"+(pl?" · "+pl.n:"")+" · jusqu’au "+fmtDate(s.end):"Aucun abonnement actif";
  $("cycTxt").textContent=homeCycle()?(canSwitchCycle()&&activeCycle()!==homeCycle()?homeCycle()+" (affiché : "+activeCycle()+")":homeCycle()):"Non choisi";
  paintAvatars()}
 
@@ -268,11 +275,11 @@ $("clrCache").onclick=function(){
 
 $("clrProg").onclick=function(){
  if(!confirm("Réinitialiser votre progression ? Cette action est définitive."))return;
- ["studied","parts","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
+ ["studied","parts","scores","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
  toast("Progression réinitialisée ✓")};
 
 $("logout").onclick=function(){
- ["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","user_cycle","view_cycle","rates","settings"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
+ ["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","scores","user_cycle","view_cycle","rates","settings"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
  location.href="login-app.html"};
 
 $("back").onclick=function(){if(history.length>1)history.back();else location.href="index.html"};
