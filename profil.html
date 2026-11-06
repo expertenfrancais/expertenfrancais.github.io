@@ -2,14 +2,18 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N5J6FX4H');</script>
+<!-- End Google Tag Manager -->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#f1ecfb">
 <link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" href="icon-192.png">
 <link rel="apple-touch-icon" href="icon-192.png">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Français">
-<title>Profil</title>
+<meta name="apple-mobile-web-app-title" content="Expert en français">
+<title>Profil | Expert en français</title>
 <style>
 /* Transitions entre pages (navigateurs récents) et fondu d'arrivée du contenu */
 @view-transition{navigation:auto}
@@ -100,7 +104,8 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .av.ph{color:transparent;font-size:0}
 
 .hero{height:calc(150px + env(safe-area-inset-top,0px));background:linear-gradient(135deg,#b29af4,#6f4fd0 60%,#8c6fe0);position:relative}
-.hedit{position:absolute;right:16px;top:calc(env(safe-area-inset-top,0px) + 16px);width:40px;height:40px;border-radius:50%;border:0;background:rgba(255,255,255,.25);color:#fff;display:grid;place-items:center}
+.hero.ph{background-size:cover;background-position:center}
+.hedit{z-index:1;position:absolute;right:16px;top:calc(env(safe-area-inset-top,0px) + 16px);width:40px;height:40px;border-radius:50%;border:0;background:rgba(255,255,255,.25);color:#fff;display:grid;place-items:center}
 .me2{text-align:center;padding:0 20px;margin-top:-56px}
 .me2 .big{position:relative;width:112px;height:112px;border-radius:50%;border:4px solid var(--page);background:linear-gradient(145deg,var(--p1),var(--p2));color:#fff;font-size:40px;font-weight:700;display:grid;place-items:center;padding:0;margin:0 auto}
 .me2 .big .cam{position:absolute;right:-4px;bottom:2px;width:34px;height:34px;border-radius:50%;background:var(--card);color:#7a5ae0;display:grid;place-items:center;box-shadow:0 4px 10px rgba(90,60,170,.25)}
@@ -118,7 +123,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .pc b{display:block;font-size:14px;color:var(--ink);line-height:1.25}.pc .c{display:inline-block;margin:6px 0;background:var(--field);color:var(--sub);border-radius:10px;padding:3px 10px;font-size:12px}.pc .s{display:block;font-size:12px;font-weight:600;color:#e8825f;text-align:right}
 .rings{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;text-align:center}
 .rg b{display:block;font-size:13px;font-weight:600;margin-bottom:8px}
-.ring{width:84px;height:84px;margin:0 auto;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--c) calc(var(--v)*1%),var(--field) 0)}
+.ring{width:84px;height:84px;margin:0 auto;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--c) calc(var(--v)*1%),rgba(140,111,224,.2) 0)}
 .ring i{width:66px;height:66px;border-radius:50%;background:var(--page);display:grid;place-items:center;font-style:normal;font-weight:700;font-size:16px;color:var(--ink)}
 .rg small{display:block;margin-top:6px;font-size:12px;color:var(--sub)}
 </style>
@@ -161,12 +166,15 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .none{font-size:13.5px;color:var(--sub);margin:0;line-height:1.5}
 .card .chips{display:flex;gap:8px;margin:0;padding:0;overflow:visible}
 .chips .chip{flex:1;border:2px solid transparent;padding:10px 8px}
+.emptyc{flex:1;display:block;background:var(--card);border-radius:18px;padding:14px 16px;text-decoration:none;box-shadow:0 6px 16px rgba(90,60,170,.1)}.emptyc b{display:block;font-size:14px;color:var(--ink)}.emptyc span{display:block;margin-top:4px;font-size:13px;font-weight:600;color:var(--link)}
+.rowl{display:flex;align-items:center;gap:12px;width:100%;border:0;background:none;padding:14px 2px;font-size:14.5px;font-weight:600;color:var(--ink);text-decoration:none;text-align:left}.rowl+.rowl{border-top:1px solid rgba(140,111,224,.18)}.rowl .ri{flex:0 0 auto;width:36px;height:36px;border-radius:12px;background:var(--field);color:var(--link);display:grid;place-items:center}.rowl em{margin-left:auto;font-style:normal;color:var(--sub);font-size:18px}
 .out{width:100%;height:52px;border-radius:26px;border:2px solid #d0426a;background:none;color:#d0426a;font-weight:600;font-size:15px;display:flex;align-items:center;justify-content:center;gap:8px}
 </style>
 </head>
 <body>
 <div class="app">
-  <div class="hero"><button class="hedit" id="heroEdit" type="button" aria-label="Modifier le profil"></button></div>
+  <div class="hero" id="hero"><button class="hedit" id="heroEdit" type="button" aria-label="Changer la photo de couverture"></button></div>
+  <input type="file" id="fileCover" accept="image/*" hidden>
   <div class="me2">
     <button class="big" id="big" type="button" aria-label="Changer la photo de profil"><span id="bigL">E</span><span class="cam" id="cam"></span></button>
     <input type="file" id="file" accept="image/*" hidden>
@@ -189,6 +197,10 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
         <div class="pbtns">
           <button class="sbtn" id="pick" type="button">Changer la photo</button>
           <button class="sbtn danger" id="unpick" type="button">Retirer la photo</button>
+        </div>
+        <div class="pbtns">
+          <button class="sbtn" id="pickCover" type="button">Changer la couverture</button>
+          <button class="sbtn danger" id="uncover" type="button" hidden>Retirer la couverture</button>
         </div>
         <label class="l" for="fName">Nom affiché</label>
         <div class="field"><input id="fName" type="text" maxlength="30" autocomplete="nickname" placeholder="Votre nom"></div>
@@ -223,6 +235,12 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
     </section>
 
     <section class="card">
+      <h4>Raccourcis</h4>
+      <a class="rowl" href="parametres.html"><span class="ri" id="i-set"></span>Paramètres<em>›</em></a>
+      <button class="rowl" id="share" type="button"><span class="ri" id="i-share"></span>Partager l’application<em>›</em></button>
+    </section>
+
+    <section class="card">
       <h4>Apparence</h4>
       <div class="chips" id="theme">
         <button class="chip" type="button" data-v="auto">Auto</button>
@@ -242,6 +260,9 @@ $("cam").innerHTML=ico("cam",16);
 $("editBtn").innerHTML=ico("pen",16)+"Modifier le profil";
 $("logout").innerHTML=ico("out",20)+"Se déconnecter";
 $("pick").innerHTML=ico("cam",16)+"&nbsp;Changer la photo";
+$("pickCover").innerHTML=ico("cam",16)+"&nbsp;Changer la couverture";
+$("i-set").innerHTML=ico("gear",20);
+$("i-share").innerHTML='<svg width="20" height="20" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>';
 var teacher=ROLE!=="eleve";
 $("fGrade").innerHTML='<option value="">Choisir…</option>'+accessibleCycles().map(function(c){return '<optgroup label="'+c+'">'+CYCLES[c].map(function(n){return "<option>"+n+"</option>"}).join("")+"</optgroup>"}).join("");
 $("forT").hidden=!teacher;$("forE").hidden=teacher;
@@ -256,7 +277,7 @@ function paintSub(){
  var mine=DOCS.filter(function(d){return canAccess(d.id)&&(bought.indexOf(d.id)>-1||studied.indexOf(d.id)>-1)});
  $("mine").innerHTML=mine.length?mine.map(function(d){var g=G[d.k]||G.Cours,stu=studied.indexOf(d.id)>-1;
   return '<a class="pc" href="'+docUrl(d)+'" style="--g1:'+g[0]+';--g2:'+g[1]+'"><div class="t"><img src="'+esc(d.img)+'" alt="" loading="lazy" onerror="this.remove()"></div><div style="min-width:0"><b>'+esc(d.t)+'</b><span class="c">'+esc(d.k)+" · "+esc(d.n)+'</span><span class="s">'+(stu?"Étudié ✓":(on?"Inclus":"Acheté"))+"</span></div></a>"}).join(""):
-  '<p class="none">Aucun document pour l’instant. Parcourez le catalogue.</p>';
+  '<a class="emptyc" href="catalogue.html"><b>Aucun document pour l’instant</b><span>Parcourir le catalogue ›</span></a>';
  var accN=on?DOCS.length:bought.length,R=[["Étudiés","#8c6fe0",studied.length,accN],["Achetés","#2fa883",bought.length,DOCS.length],["Favoris","#5f84e6",favs.filter(inOk).length,DOCS.length]];
  $("rings").innerHTML=R.map(function(r){var p=r[3]?Math.round(100*r[2]/r[3]):0;
   return '<div class="rg"><b style="color:'+r[1]+'">'+r[0]+'</b><div class="ring" style="--c:'+r[1]+';--v:'+p+'"><i>'+p+' %</i></div><small>'+r[2]+" / "+r[3]+"</small></div>"}).join("")}
@@ -285,7 +306,7 @@ function render(){
  var t="auto";try{t=localStorage.getItem("theme")||"auto"}catch(e){}
  document.querySelectorAll("#theme .chip").forEach(function(c){c.classList.toggle("on",c.dataset.v===t)});
  $("cycTxt").textContent=canSwitchCycle()?"Votre abonnement vous permet de consulter les cours de tous les cycles.":"Vous avez accès aux cours du cycle « "+homeCycle()+" ». Avec un abonnement, vous pouvez passer d’un cycle à l’autre.";
- paintSub();paintAvatars();nav()}
+ paintSub();paintAvatars();paintCover();nav()}
 
 /* Photo de profil : recadrée au carré et réduite avant d’être enregistrée */
 function readPhoto(file){
@@ -308,6 +329,41 @@ $("big").onclick=$("pick").onclick=function(){$("file").click()};
 $("file").onchange=function(){readPhoto(this.files&&this.files[0]);this.value=""};
 $("unpick").onclick=function(){try{localStorage.removeItem("user_photo")}catch(e){}render();toast("Photo retirée")};
 
+/* Photo de couverture : recadrée au format bandeau et réduite avant d’être enregistrée */
+function userCover(){try{return localStorage.getItem("user_cover")||""}catch(e){return""}}
+function paintCover(){
+ var c=userCover(),h=$("hero");
+ if(c){h.style.backgroundImage='linear-gradient(180deg,rgba(0,0,0,.28),rgba(0,0,0,0) 55%),url("'+c+'")';h.classList.add("ph")}
+ else{h.style.backgroundImage="";h.classList.remove("ph")}
+ $("uncover").hidden=!c}
+function readCover(file){
+ if(!file)return;
+ if(!/^image\//.test(file.type))return toast("Choisissez une image");
+ var fr=new FileReader();
+ fr.onload=function(){var im=new Image();
+  im.onload=function(){
+   var W=860,H=340,c=document.createElement("canvas");c.width=W;c.height=H;
+   var r=W/H,sw=im.width,sh=im.height;
+   if(sw/sh>r)sw=sh*r;else sh=sw/r;
+   c.getContext("2d").drawImage(im,(im.width-sw)/2,(im.height-sh)/2,sw,sh,0,0,W,H);
+   var url=c.toDataURL("image/jpeg",.8);
+   try{localStorage.setItem("user_cover",url)}catch(e){return toast("Image trop lourde pour être enregistrée")}
+   render();toast("Couverture enregistrée ✓")};
+  im.onerror=function(){toast("Image illisible")};
+  im.src=fr.result};
+ fr.onerror=function(){toast("Lecture impossible")};
+ fr.readAsDataURL(file)}
+$("heroEdit").onclick=$("pickCover").onclick=function(){$("fileCover").click()};
+$("fileCover").onchange=function(){readCover(this.files&&this.files[0]);this.value=""};
+$("uncover").onclick=function(){try{localStorage.removeItem("user_cover")}catch(e){}render();toast("Couverture retirée")};
+
+/* Partager l’application */
+$("share").onclick=function(){
+ var url=(location.protocol==="https:"&&location.hostname.indexOf("localhost")<0)?location.origin+"/":"https://expertenfrancais.github.io/";
+ if(navigator.share){navigator.share({title:"Expert en français",text:"Expert en français : cours de français du primaire à l’université.",url:url}).catch(function(){})}
+ else if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(function(){toast("Lien copié ✓")},function(){toast(url)})}
+ else toast(url)};
+
 /* Modification des informations */
 function openEdit(){
  var p=userProfile();
@@ -327,7 +383,7 @@ $("save").onclick=function(){
 $("theme").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;
  try{if(b.dataset.v==="auto")localStorage.removeItem("theme");else localStorage.setItem("theme",b.dataset.v)}catch(x){}
  applyTheme();render()};
-$("logout").onclick=function(){["user_name","user_role","user_photo","user_profile","favs","cart","bought","pending","sub","subpending","studied","user_cycle","view_cycle","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});location.href="login-app.html"};
+$("logout").onclick=function(){if(!confirm("Se déconnecter effacera vos favoris, achats, abonnement et progression enregistrés sur cet appareil. Continuer ?"))return;["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","user_cycle","view_cycle","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});location.href="login-app.html"};
 $("nav").onclick=navClick;
 /* Installation et mode hors ligne */
 function appCard(){
@@ -341,7 +397,7 @@ function appCard(){
 $("installBtn").onclick=function(){installApp().then(function(ok){if(ok)toast("Application installée ✓");appCard()})};
 document.addEventListener("installready",appCard);document.addEventListener("installdone",appCard);
 appCard();
-$("heroEdit").innerHTML=ico("pen",18);$("heroEdit").onclick=function(){openEdit();$("edit").scrollIntoView({behavior:"smooth"})};
+$("heroEdit").innerHTML=ico("cam",18);
 render();
 </script>
 </body>

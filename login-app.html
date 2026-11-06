@@ -2,14 +2,18 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N5J6FX4H');</script>
+<!-- End Google Tag Manager -->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#bfa9ef">
 <link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" href="icon-192.png">
 <link rel="apple-touch-icon" href="icon-192.png">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Français">
-<title>Connexion</title>
+<meta name="apple-mobile-web-app-title" content="Expert en français">
+<title>Connexion | Expert en français</title>
 <style>
 /* Transitions entre pages (navigateurs récents) et fondu d'arrivée du contenu */
 @view-transition{navigation:auto}
@@ -40,7 +44,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .blob{position:absolute;border-radius:50%;background:rgba(255,255,255,.18)}
 .b1{width:220px;height:220px;top:-60px;right:-70px}.b2{width:140px;height:140px;top:120px;left:-50px}
 .hero{flex:0 0 auto;padding:calc(env(safe-area-inset-top,0px) + clamp(18px,5vh,40px)) 24px clamp(16px,3.5vh,30px);text-align:center;position:relative}
-.logo{width:clamp(64px,12vh,96px);height:clamp(64px,12vh,96px);margin:0 auto;border-radius:30%;display:grid;place-items:center;background:linear-gradient(145deg,#c4b0fa,#8a6be0);
+.logo{width:clamp(72px,14vh,120px);height:clamp(72px,14vh,120px);margin:0 auto;border-radius:30%;display:grid;place-items:center;background:linear-gradient(145deg,#c4b0fa,#8a6be0);
 box-shadow:0 18px 28px rgba(80,50,170,.45),inset 0 3px 6px rgba(255,255,255,.55),inset 0 -6px 10px rgba(80,50,170,.25);animation:float 3.5s ease-in-out infinite}
 @keyframes float{50%{transform:translateY(-8px)}}
 .logo{position:relative}
@@ -183,7 +187,7 @@ box-shadow:0 10px 20px rgba(130,100,220,.5),inset 0 2px 4px rgba(255,255,255,.4)
    Laissez "" pour afficher l’icône par défaut. */
 /* Hors ligne : enregistre le service worker (HTTPS ou localhost uniquement) */
 if("serviceWorker" in navigator&&(location.protocol==="https:"||location.hostname==="localhost"||location.hostname==="127.0.0.1")){window.addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})})}
-var LOGO_SRC="";
+var LOGO_SRC="logo.png";
 /* Page ouverte après la connexion ou l’inscription. */
 var HOME_URL=(function(){var n=new URLSearchParams(location.search).get("next")||"";return /^(cours\/([a-z]+\/)?)?[a-z0-9-]+\.html$/.test(n)?n:"index.html"})();
 try{if(localStorage.getItem("user_name"))location.replace(HOME_URL)}catch(e){}
