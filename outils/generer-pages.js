@@ -34,19 +34,24 @@ function page(d){
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N5J6FX4H');</script>
+<!-- End Google Tag Manager -->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#f1ecfb">
-<title>${esc(d.t)} | Français</title>
+<title>${esc(d.t)} | Expert en français</title>
 <meta name="description" content="${esc(desc)}">
 ${url?`<link rel="canonical" href="${esc(url)}">\n`:""}<meta property="og:type" content="article">
 <meta property="og:title" content="${esc(d.t)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:image" content="${esc(d.img)}">
 ${url?`<meta property="og:url" content="${esc(url)}">\n`:""}<link rel="manifest" href="../../manifest.json">
+<link rel="icon" type="image/png" href="../../icon-192.png">
 <link rel="apple-touch-icon" href="../../icon-192.png">
+<meta property="og:site_name" content="Expert en français">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Français">
+<meta name="apple-mobile-web-app-title" content="Expert en français">
 <link rel="stylesheet" href="../../course.css">
 <script type="application/ld+json">${JSON.stringify(ld).replace(/</g,"\\u003c")}</script>
 </head>
