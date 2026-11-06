@@ -27,16 +27,21 @@ function page(d){
  const I=docInfo(d),g=G[d.k]||G.Cours,S=I.sections,url=SITE?SITE+"/"+docFile(d):"";
  const ns=S.length+" partie"+(S.length>1?"s":"");
  const desc=cut(I.desc,155);
- const ld={"@context":"https://schema.org","@type":"LearningResource",name:d.t,description:I.desc,inLanguage:"fr",educationalLevel:d.n,learningResourceType:d.k,teaches:d.m,offers:{"@type":"Offer",price:d.pr,priceCurrency:"XAF"}};
+ const ld={"@context":"https://schema.org","@type":"LearningResource",name:d.t,description:I.desc,inLanguage:"fr",educationalLevel:d.n,learningResourceType:d.k,teaches:d.m,offers:{"@type":"Offer",price:0,priceCurrency:"XAF"}};
  if(url)ld.url=url;
  const lessons='<noscript><ol class="plain">'+S.map(s=>"<li>"+esc(s.t)+"</li>").join("")+"</ol></noscript>";
  return `<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N5J6FX4H');</script>
-<!-- End Google Tag Manager -->
+<!-- Balise Google (Analytics) -->
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+<!-- Fin balise Google -->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#f1ecfb">
 <title>${esc(d.t)} | Expert en français</title>
@@ -63,7 +68,7 @@ ${url?`<meta property="og:url" content="${esc(url)}">\n`:""}<link rel="manifest"
       <div class="hero"><div class="pic"><img src="${esc(d.img)}" alt="" onerror="this.remove()"></div>
         <a class="back" id="back" href="../../catalogue.html">${svg(BACK)}Retour</a>
         <div class="pill l"><i>${svg(IC.book)}</i><span>${esc(d.m)}</span></div>
-        <div class="pill r" id="price">${esc(price(d.pr))}</div></div>
+        <div class="pill r" id="price">Gratuit</div></div>
       <div class="body">
         <h1>${esc(d.t)}</h1>
         <p class="meta">${ns}</p>
@@ -76,11 +81,10 @@ ${url?`<meta property="og:url" content="${esc(url)}">\n`:""}<link rel="manifest"
         <div class="lessons" id="lessons">
       ${lessons}
         </div>
-        <a class="sub" id="subLink" href="../../abonnement.html"><span>S’abonner et tout débloquer</span>${svg(CHEV)}</a>
       </div>
     </article>
     <div class="dock"><button class="bk" id="bk" type="button" aria-pressed="false" aria-label="Ajouter aux favoris">${svg(IC.heart)}</button>
-      <button class="go" id="go" type="button"><span>Acheter · ${esc(price(d.pr))}</span><i>${svg(IC.cart)}</i></button></div>
+      <button class="go" id="go" type="button"><span>Télécharger</span><i>${svg(IC.dl)}</i></button></div>
     </div>
   </main>
   <nav class="nav" id="nav"></nav>
@@ -113,6 +117,6 @@ if(SITE){
  const root_pages=["index.html","catalogue.html","abonnement.html"];
  const urls=root_pages.map(p=>SITE+"/"+p).concat(ALLDOCS.map(d=>SITE+"/"+docFile(d)));
  fs.writeFileSync(path.join(root,"sitemap.xml"),'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+urls.map(u=>"  <url><loc>"+esc(u)+"</loc></url>").join("\n")+"\n</urlset>\n");
- fs.writeFileSync(path.join(root,"robots.txt"),"User-agent: *\nAllow: /cours/\nDisallow: /cycles.html\nDisallow: /lecon.html\nDisallow: /profil.html\nDisallow: /panier.html\nDisallow: /login-app.html\n\nSitemap: "+SITE+"/sitemap.xml\n");
+ fs.writeFileSync(path.join(root,"robots.txt"),"User-agent: *\nAllow: /cours/\nDisallow: /cycles.html\nDisallow: /lecon.html\nDisallow: /pdf.html\nDisallow: /profil.html\nDisallow: /panier.html\nDisallow: /login-app.html\n\nSitemap: "+SITE+"/sitemap.xml\n");
 }
 console.log(ALLDOCS.length+" pages générées dans cours/ ("+Object.keys(CYCLE_INFO).map(c=>CYCLE_INFO[c].dir+": "+ALLDOCS.filter(d=>d.c===c).length).join(", ")+")"+(SITE?" + sitemap.xml et robots.txt":" (aucune adresse de site donnée : pas de sitemap.xml)"));
