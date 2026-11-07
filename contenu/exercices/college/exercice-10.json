@@ -1,0 +1,253 @@
+{
+ "id": 30010,
+ "meta": {
+  "t": "Les figures de style : exercices",
+  "k": "Exercices",
+  "n": "4e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ex": 10
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Les figures de style",
+     "text": "Une **figure de style** est un procédé d’expression qui rend le langage plus imagé, plus expressif ou plus frappant. Elle sert à faire voir, à insister ou à émouvoir."
+    },
+    {
+     "type": "table",
+     "title": "Quelques figures à connaître",
+     "head": [
+      "Figure",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Comparaison",
+       "rapproche deux éléments avec un outil (comme, tel…)",
+       "Il court comme le vent."
+      ],
+      [
+       "Métaphore",
+       "rapproche deux éléments sans outil",
+       "Cet homme est un roc."
+      ],
+      [
+       "Personnification",
+       "donne des traits humains à une chose",
+       "Le vent chuchote."
+      ],
+      [
+       "Hyperbole",
+       "exagère",
+       "Je meurs de faim."
+      ],
+      [
+       "Euphémisme",
+       "atténue une réalité dure",
+       "Il nous a quittés."
+      ],
+      [
+       "Antithèse",
+       "oppose deux idées",
+       "Il rit le jour, il pleure la nuit."
+      ],
+      [
+       "Oxymore",
+       "unit deux mots contraires",
+       "un silence assourdissant"
+      ],
+      [
+       "Métonymie",
+       "désigne par un terme voisin",
+       "Boire un verre."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Comparaison et métaphore : la comparaison a un outil (comme, tel, semblable à…), la métaphore n’en a pas."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase contient une comparaison ou une métaphore.",
+     "items": [
+      "Elle est belle comme le jour.",
+      "Cet homme est un roc.",
+      "Le fleuve est un serpent d’argent.",
+      "Il court comme le vent."
+     ],
+     "corrige": [
+      "**comparaison**",
+      "**métaphore**",
+      "**métaphore**",
+      "**comparaison**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle figure trouve-t-on dans « Le vent chuchote dans les arbres » ?",
+     "options": [
+      "Une comparaison",
+      "Une personnification",
+      "Une antithèse"
+     ],
+     "answer": 1,
+     "explain": "Le vent, qui est une chose, « chuchote » comme un être humain : c’est une personnification."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase contient une hyperbole ou un euphémisme.",
+     "items": [
+      "Je meurs de faim.",
+      "Il nous a quittés.",
+      "J’ai attendu une éternité.",
+      "Grand-père s’est endormi pour toujours."
+     ],
+     "corrige": [
+      "**hyperbole** (exagération).",
+      "**euphémisme** (pour dire qu’il est mort).",
+      "**hyperbole**.",
+      "**euphémisme** (pour atténuer l’idée de la mort)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase contient une antithèse ou un oxymore.",
+     "items": [
+      "Un silence assourdissant.",
+      "Il rit le jour, il pleure la nuit.",
+      "Cette obscure clarté.",
+      "Petit par la taille, grand par le courage."
+     ],
+     "corrige": [
+      "**oxymore** (deux mots contraires réunis).",
+      "**antithèse** (deux idées opposées).",
+      "**oxymore**.",
+      "**antithèse**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « J’ai lu tout Sony Labou Tansi », quelle figure trouve-t-on ?",
+     "options": [
+      "Une métaphore",
+      "Une métonymie",
+      "Une hyperbole"
+     ],
+     "answer": 1,
+     "explain": "On désigne les œuvres par le nom de leur auteur : c’est une métonymie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Identifie la figure de construction : anaphore, gradation ou accumulation.",
+     "items": [
+      "Je veux la paix. Je veux la justice. Je veux la liberté.",
+      "Il marche, il court, il vole.",
+      "Des fruits, des légumes, du poisson, des épices : tout s’étalait sur le marché.",
+      "Rien ne va plus, rien ne marche, rien ne reste."
+     ],
+     "corrige": [
+      "**anaphore** (répétition de « Je veux » en début de phrase).",
+      "**gradation** (l’intensité augmente).",
+      "**accumulation** (liste de mots de même nature).",
+      "**anaphore** (répétition de « rien »)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique l’effet produit par chaque figure.",
+     "items": [
+      "« Le soleil écrasait le village. »",
+      "« Cette valise pèse une tonne. »"
+     ],
+     "corrige": [
+      "La **métaphore** « écrasait » donne l’idée d’une chaleur lourde, accablante.",
+      "L’**hyperbole** « une tonne » insiste sur le poids très important de la valise."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les figures de style : « Le fleuve Congo est un géant tranquille. Il traverse la forêt comme un serpent. Il murmure des chansons aux pêcheurs, il porte leurs pirogues, il nourrit leurs familles. »",
+     "corrige": [
+      "« est un géant tranquille » : **métaphore**.",
+      "« comme un serpent » : **comparaison**.",
+      "« murmure des chansons » : **personnification**.",
+      "« il porte…, il nourrit… » : **parallélisme** (même construction répétée)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris la pluie en trois phrases : une avec une comparaison, une avec une personnification, une avec une hyperbole.",
+     "corrige": "Exemple : « La pluie tombe comme un rideau. La pluie frappe aux fenêtres. Il pleut des torrents depuis une éternité. » Vérifiez que chaque figure est bien reconnaissable."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une figure de style rend le langage plus imagé et plus expressif.",
+      "Comparaison (avec outil) et métaphore (sans outil) sont des figures d’analogie.",
+      "Hyperbole et euphémisme ; antithèse et oxymore ; anaphore et gradation sont à bien distinguer."
+     ]
+    }
+   ]
+  }
+ ]
+}

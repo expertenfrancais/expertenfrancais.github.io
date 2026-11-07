@@ -1,0 +1,234 @@
+{
+ "id": 30009,
+ "meta": {
+  "t": "Le plus-que-parfait : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "h",
+  "r": 4.8,
+  "ex": 9
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le plus-que-parfait",
+     "text": "Le **plus-que-parfait** est un temps composé de l’indicatif. Il se forme avec l’**auxiliaire avoir ou être à l’imparfait** + le **participe passé**. Il exprime une action **antérieure** à une autre action passée."
+    },
+    {
+     "type": "table",
+     "title": "Le plus-que-parfait",
+     "head": [
+      "Verbe",
+      "Je",
+      "Tu",
+      "Il",
+      "Nous",
+      "Vous",
+      "Ils"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "j’avais chanté",
+       "tu avais chanté",
+       "il avait chanté",
+       "nous avions chanté",
+       "vous aviez chanté",
+       "ils avaient chanté"
+      ],
+      [
+       "partir",
+       "j’étais parti(e)",
+       "tu étais parti(e)",
+       "il était parti",
+       "nous étions partis",
+       "vous étiez partis",
+       "ils étaient partis"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Avec l’auxiliaire être, le participe passé s’accorde avec le sujet : « Elles étaient parties. »"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au plus-que-parfait à la personne demandée.",
+     "items": [
+      "finir : tu …",
+      "prendre : nous …",
+      "manger : ils …",
+      "aller : je … (un garçon)"
+     ],
+     "corrige": [
+      "tu **avais fini**",
+      "nous **avions pris**",
+      "ils **avaient mangé**",
+      "j’**étais allé**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est au plus-que-parfait ?",
+     "options": [
+      "elle avait fini",
+      "elle a fini",
+      "elle finissait"
+     ],
+     "answer": 0,
+     "explain": "« avait fini » = auxiliaire avoir à l’imparfait + participe passé : c’est un plus-que-parfait. « a fini » est un passé composé et « finissait » un imparfait."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les verbes au plus-que-parfait (s’il n’y en a pas, écris « aucun »).",
+     "items": [
+      "Quand je suis arrivé, le car était parti.",
+      "Elle chantait quand il est entré.",
+      "Nous avions mangé avant la pluie."
+     ],
+     "corrige": [
+      "**était parti**",
+      "aucun (imparfait et passé composé)",
+      "**avions mangé**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé entre parenthèses.",
+     "items": [
+      "Elles étaient (arriver) … tôt.",
+      "Les enfants avaient (finir) … leurs devoirs.",
+      "La voisine était (sortir) … .",
+      "Nous avions (cueillir) … des mangues."
+     ],
+     "corrige": [
+      "Elles étaient **arrivées** tôt.",
+      "Les enfants avaient **fini** leurs devoirs (avec avoir, le participe ne s’accorde pas avec le sujet).",
+      "La voisine était **sortie**.",
+      "Nous avions **cueilli** des mangues."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "« Il … tombé avant l’arrivée du médecin. » Quel auxiliaire faut-il ?",
+     "options": [
+      "avait",
+      "était",
+      "avais"
+     ],
+     "answer": 1,
+     "explain": "« Tomber » se conjugue avec l’auxiliaire être : il était tombé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au plus-que-parfait à la personne demandée.",
+     "items": [
+      "se laver : je … (une fille)",
+      "venir : elles …",
+      "mettre : vous …",
+      "devenir : tu … (un garçon)"
+     ],
+     "corrige": [
+      "je m’**étais lavée**",
+      "elles **étaient venues**",
+      "vous **aviez mis**",
+      "tu **étais devenu**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec le verbe entre parenthèses au plus-que-parfait.",
+     "items": [
+      "Je ne trouvais plus mon cahier : je l’… (oublier) à l’école.",
+      "Il était fatigué parce qu’il … (marcher) longtemps.",
+      "Quand nous sommes arrivés, tout le monde … (partir)."
+     ],
+     "corrige": [
+      "je l’**avais oublié** à l’école.",
+      "il **avait marché** longtemps.",
+      "tout le monde **était parti**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète le texte avec les verbes au plus-que-parfait : « Quand nous sommes arrivés au village, la fête (commencer) déjà. Les villageois (préparer) un grand repas et les enfants (décorer) la place. »",
+     "corrige": [
+      "la fête **avait** déjà **commencé**.",
+      "Les villageois **avaient préparé** un grand repas.",
+      "Les enfants **avaient décoré** la place."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Raconte en trois phrases une matinée où tu étais arrivé à l’école et avais oublié quelque chose. Utilise le plus-que-parfait.",
+     "corrige": "Exemple : « Quand je suis arrivé à l’école, j’**avais oublié** mon cahier. Ma mère m’**avait préparé** un repas, mais je l’**avais laissé** sur la table. Mes camarades **étaient** déjà **entrés** en classe. » Vérifiez les auxiliaires et les accords."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Plus-que-parfait = auxiliaire (avoir ou être) à l’imparfait + participe passé.",
+      "Il exprime une action antérieure à une autre action passée.",
+      "Avec être, le participe passé s’accorde avec le sujet."
+     ]
+    }
+   ]
+  }
+ ]
+}

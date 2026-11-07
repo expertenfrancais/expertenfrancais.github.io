@@ -1,0 +1,234 @@
+{
+ "id": 30016,
+ "meta": {
+  "t": "Les prépositions : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8,
+  "ex": 16
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La préposition",
+     "text": "La **préposition** est un mot **invariable** qui introduit un complément (nom, pronom, infinitif) et exprime un rapport : lieu, temps, manière, but, cause… Exemples : à, de, dans, sur, sous, avec, sans, pour, par, en, chez, vers, devant, derrière, entre, pendant, depuis, après."
+    },
+    {
+     "type": "table",
+     "title": "Quelques rapports",
+     "head": [
+      "Rapport",
+      "Prépositions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Lieu",
+       "dans, sur, sous, devant, derrière, chez, vers",
+       "Il dort sur le lit."
+      ],
+      [
+       "Temps",
+       "pendant, depuis, avant, après, dès",
+       "Nous partons après le repas."
+      ],
+      [
+       "Manière / moyen",
+       "avec, sans, par, en",
+       "Elle chante avec joie."
+      ],
+      [
+       "But / cause",
+       "pour, par, à cause de",
+       "Il travaille pour réussir."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Les mots « au, aux, du, des » sont des articles contractés : au = à + le ; aux = à + les ; du = de + le ; des = de + les."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la préposition de chaque phrase.",
+     "items": [
+      "Le chat dort sur le lit.",
+      "Nous allons chez ma tante.",
+      "Elle parle avec son frère.",
+      "Il revient après la pluie."
+     ],
+     "corrige": [
+      "**sur**",
+      "**chez**",
+      "**avec**",
+      "**après**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Lequel de ces mots est une préposition ?",
+     "options": [
+      "chanter",
+      "sous",
+      "jolie"
+     ],
+     "answer": 1,
+     "explain": "« sous » est un mot invariable qui introduit un complément : c’est une préposition. « chanter » est un verbe, « jolie » un adjectif."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec une préposition : dans, sur, sous, devant.",
+     "items": [
+      "Le livre est … la table.",
+      "L’enfant se cache … le lit.",
+      "Les élèves attendent … l’école.",
+      "Le poisson nage … l’eau."
+     ],
+     "corrige": [
+      "Le livre est **sur** la table.",
+      "L’enfant se cache **sous** le lit.",
+      "Les élèves attendent **devant** l’école.",
+      "Le poisson nage **dans** l’eau."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis quel rapport exprime la préposition en gras : lieu, temps, manière ou but.",
+     "items": [
+      "Il travaille **pour** réussir.",
+      "Nous partons **après** le repas.",
+      "Elle chante **sans** fausse note.",
+      "Je vais **chez** le médecin."
+     ],
+     "corrige": [
+      "**pour** : but.",
+      "**après** : temps.",
+      "**sans** : manière.",
+      "**chez** : lieu."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je vais au marché », « au » est la contraction de…",
+     "options": [
+      "à + le",
+      "à + les",
+      "de + le"
+     ],
+     "answer": 0,
+     "explain": "« au » = à (préposition) + le (article) : je vais à le marché → au marché."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace les éléments entre parenthèses par l’article contracté qui convient.",
+     "items": [
+      "Je parle (à + les) élèves.",
+      "Il revient (de + le) marché.",
+      "Nous allons (à + le) fleuve.",
+      "Elle sort (de + les) classes."
+     ],
+     "corrige": [
+      "Je parle **aux** élèves.",
+      "Il revient **du** marché.",
+      "Nous allons **au** fleuve.",
+      "Elle sort **des** classes."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est une préposition (suivi d’un complément) ou un adverbe (sans complément).",
+     "items": [
+      "Nous partons **après** le repas.",
+      "Viens, nous mangerons **après**.",
+      "Le chat est **derrière** la porte.",
+      "Regarde **derrière** : il te suit."
+     ],
+     "corrige": [
+      "**après** : préposition.",
+      "**après** : adverbe.",
+      "**derrière** : préposition.",
+      "**derrière** : adverbe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève toutes les prépositions : « Après la classe, Anne retourne chez elle avec ses amies. Elle marche sur le sentier, sous les manguiers, pour éviter la chaleur. »",
+     "corrige": [
+      "**Après**, **chez**, **avec**, **sur**, **sous**, **pour**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases avec une préposition de lieu, une préposition de temps et une préposition de but.",
+     "corrige": "Exemple : « Les enfants jouent **dans** la cour. Nous mangeons **après** la classe. Je travaille **pour** réussir. » Vérifiez que chaque préposition introduit bien un complément."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La préposition est invariable et introduit un complément.",
+      "Elle exprime un rapport : lieu, temps, manière, but, cause…",
+      "Au, aux, du, des contiennent une préposition (à, de) et un article."
+     ]
+    }
+   ]
+  }
+ ]
+}

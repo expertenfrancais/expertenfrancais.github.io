@@ -1,0 +1,245 @@
+{
+ "id": 30013,
+ "meta": {
+  "t": "Le présent de l’indicatif : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "d",
+  "r": 4.8,
+  "ex": 13
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le présent de l’indicatif",
+     "text": "Le **présent** exprime une action qui se passe **maintenant**, une **habitude** ou une **vérité générale**. Au 1ᵉʳ groupe, les terminaisons sont -e, -es, -e, -ons, -ez, -ent ; au 2ᵉ groupe -is, -is, -it, -issons, -issez, -issent."
+    },
+    {
+     "type": "table",
+     "title": "Le présent des trois groupes",
+     "head": [
+      "Verbe",
+      "Je",
+      "Tu",
+      "Il",
+      "Nous",
+      "Vous",
+      "Ils"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chante",
+       "chantes",
+       "chante",
+       "chantons",
+       "chantez",
+       "chantent"
+      ],
+      [
+       "finir",
+       "finis",
+       "finis",
+       "finit",
+       "finissons",
+       "finissez",
+       "finissent"
+      ],
+      [
+       "prendre",
+       "prends",
+       "prends",
+       "prend",
+       "prenons",
+       "prenez",
+       "prennent"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Verbes en -ger et -cer : « nous mangeons », « nous commençons » (on garde le son doux)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au présent de l’indicatif à la personne demandée.",
+     "items": [
+      "chanter : tu …",
+      "finir : nous …",
+      "prendre : ils …",
+      "jouer : elle …"
+     ],
+     "corrige": [
+      "tu **chantes**",
+      "nous **finissons**",
+      "ils **prennent**",
+      "elle **joue**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "« Ils (finir) leurs devoirs. » Quelle est la bonne forme ?",
+     "options": [
+      "finisent",
+      "finissent",
+      "finient"
+     ],
+     "answer": 1,
+     "explain": "Le verbe « finir » est du 2ᵉ groupe : ils finissent (-issent)."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les verbes au présent (s’il n’y en a pas, écris « aucun »).",
+     "items": [
+      "Hier, il a chanté.",
+      "Les enfants jouent dans la cour.",
+      "Nous mangerons demain.",
+      "Tu lis un conte."
+     ],
+     "corrige": [
+      "aucun (passé composé)",
+      "**jouent**",
+      "aucun (futur)",
+      "**lis**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue ces verbes très utilisés au présent.",
+     "items": [
+      "être : nous …",
+      "avoir : vous …",
+      "aller : ils …",
+      "faire : vous …"
+     ],
+     "corrige": [
+      "nous **sommes**",
+      "vous **avez**",
+      "ils **vont**",
+      "vous **faites**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "« Nous (manger) du poisson. » Quelle est la bonne forme ?",
+     "options": [
+      "mangons",
+      "mangeons",
+      "mangeont"
+     ],
+     "answer": 1,
+     "explain": "Avec les verbes en -ger, on garde le « e » devant « o » pour conserver le son doux : nous mangeons."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la bonne terminaison du présent.",
+     "items": [
+      "Tu cherch… ton cahier.",
+      "Elle ouvr… la porte.",
+      "Les enfants cri…",
+      "Nous rempliss… le seau."
+     ],
+     "corrige": [
+      "Tu cherch**es** ton cahier.",
+      "Elle ouvr**e** la porte.",
+      "Les enfants cri**ent**.",
+      "Nous rempliss**ons** le seau."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le présent exprime une action en cours, une habitude ou une vérité générale.",
+     "items": [
+      "En ce moment, il écrit une lettre.",
+      "Chaque matin, je me lève à six heures.",
+      "La Terre tourne autour du Soleil.",
+      "L’eau bout à cent degrés."
+     ],
+     "corrige": [
+      "**action en cours**",
+      "**habitude**",
+      "**vérité générale**",
+      "**vérité générale**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes au présent : « Chaque matin, Kévin (se lever) à six heures. Il (prendre) son bain, (finir) son petit déjeuner et (aller) à l’école. Ses amis l’(attendre) devant la porte. »",
+     "corrige": [
+      "Kévin **se lève** à six heures. Il **prend** son bain, **finit** son petit déjeuner et **va** à l’école. Ses amis l’**attendent** devant la porte."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris ta journée en quatre phrases au présent de l’indicatif.",
+     "corrige": "Exemple : « Je me **lève** à six heures. Je **prends** mon repas et je **pars** à l’école. Nous **étudions** jusqu’à midi. Le soir, j’**aide** ma mère. » Vérifiez les terminaisons."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le présent exprime une action en cours, une habitude ou une vérité générale.",
+      "1ᵉʳ groupe : -e, -es, -e, -ons, -ez, -ent ; 2ᵉ groupe : -is, -is, -it, -issons, -issez, -issent.",
+      "Être, avoir, aller, faire sont irréguliers : à apprendre par cœur."
+     ]
+    }
+   ]
+  }
+ ]
+}
