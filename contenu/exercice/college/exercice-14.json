@@ -1,0 +1,243 @@
+{
+ "id": 30014,
+ "meta": {
+  "t": "L’imparfait de l’indicatif : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "ex": 14
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "L’imparfait de l’indicatif",
+     "text": "L’**imparfait** sert à **décrire**, à exprimer une **habitude** dans le passé ou une action qui **dure**. On prend le radical de « nous » au présent et on ajoute **-ais, -ais, -ait, -ions, -iez, -aient**."
+    },
+    {
+     "type": "table",
+     "title": "L’imparfait",
+     "head": [
+      "Verbe",
+      "Je",
+      "Tu",
+      "Il",
+      "Nous",
+      "Vous",
+      "Ils"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chantais",
+       "chantais",
+       "chantait",
+       "chantions",
+       "chantiez",
+       "chantaient"
+      ],
+      [
+       "finir",
+       "finissais",
+       "finissais",
+       "finissait",
+       "finissions",
+       "finissiez",
+       "finissaient"
+      ],
+      [
+       "être",
+       "étais",
+       "étais",
+       "était",
+       "étions",
+       "étiez",
+       "étaient"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Verbes en -cer et -ger : « je commençais », « je mangeais » (le « ç » et le « e » gardent le son doux devant « a »)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue à l’imparfait à la personne demandée.",
+     "items": [
+      "chanter : je …",
+      "finir : tu …",
+      "prendre : nous …",
+      "jouer : ils …"
+     ],
+     "corrige": [
+      "je **chantais**",
+      "tu **finissais**",
+      "nous **prenions**",
+      "ils **jouaient**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est à l’imparfait ?",
+     "options": [
+      "il chantait",
+      "il chantera",
+      "il a chanté"
+     ],
+     "answer": 0,
+     "explain": "« chantait » : radical + -ait, c’est l’imparfait. « chantera » est un futur, « a chanté » un passé composé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les verbes à l’imparfait (s’il n’y en a pas, écris « aucun »).",
+     "items": [
+      "Autrefois, nous allions à la rivière.",
+      "Hier, il a plu.",
+      "Quand j’étais petit, je jouais au ballon.",
+      "Demain, elle viendra."
+     ],
+     "corrige": [
+      "**allions**",
+      "aucun (passé composé)",
+      "**étais**, **jouais**",
+      "aucun (futur)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue ces verbes à l’imparfait.",
+     "items": [
+      "être : nous …",
+      "avoir : vous …",
+      "aller : tu …",
+      "faire : ils …"
+     ],
+     "corrige": [
+      "nous **étions**",
+      "vous **aviez**",
+      "tu **allais**",
+      "ils **faisaient**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "« Je (commencer) à lire. » Quelle est la bonne forme ?",
+     "options": [
+      "commencais",
+      "commençais",
+      "commencait"
+     ],
+     "answer": 1,
+     "explain": "Devant « a », on écrit « ç » pour garder le son [s] : je commençais."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque phrase à l’imparfait en commençant par « Autrefois ».",
+     "items": [
+      "Je marche vers l’école.",
+      "Nous mangeons du manioc.",
+      "Il pêche au bord du fleuve.",
+      "Tu fais tes devoirs."
+     ],
+     "corrige": [
+      "Autrefois, je **marchais** vers l’école.",
+      "Autrefois, nous **mangions** du manioc.",
+      "Autrefois, il **pêchait** au bord du fleuve.",
+      "Autrefois, tu **faisais** tes devoirs."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec l’imparfait ou le passé composé.",
+     "items": [
+      "Je (lire) quand tu (entrer).",
+      "Il (pleuvoir) quand nous (partir).",
+      "Le soir, grand-mère (raconter) des contes."
+     ],
+     "corrige": [
+      "Je **lisais** quand tu **es entré**.",
+      "Il **pleuvait** quand nous **sommes partis**.",
+      "Le soir, grand-mère **racontait** des contes."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le texte à l’imparfait : « Chaque soir, la famille se réunit sous le manguier. Grand-père raconte des histoires, les enfants écoutent et rient. La lune éclaire la cour. »",
+     "corrige": [
+      "Chaque soir, la famille **se réunissait** sous le manguier. Grand-père **racontait** des histoires, les enfants **écoutaient** et **riaient**. La lune **éclairait** la cour."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris un souvenir de ton enfance en quatre phrases à l’imparfait.",
+     "corrige": "Exemple : « Quand j’**étais** petit, j’**habitais** chez ma grand-mère. Nous **allions** puiser l’eau chaque matin. Le soir, nous **jouions** devant la case. Tout le monde **riait**. » Vérifiez les terminaisons."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’imparfait décrit, exprime une habitude ou une action qui dure dans le passé.",
+      "Terminaisons : -ais, -ais, -ait, -ions, -iez, -aient.",
+      "Radical : celui de « nous » au présent (sauf être : ét-)."
+     ]
+    }
+   ]
+  }
+ ]
+}

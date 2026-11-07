@@ -1,0 +1,237 @@
+{
+ "id": 30020,
+ "meta": {
+  "t": "La proposition subordonnée complétive : exercices",
+  "k": "Exercices",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "ex": 20
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La proposition subordonnée complétive",
+     "text": "La **proposition subordonnée complétive** complète un verbe (parfois un nom ou un adjectif) et en est un **complément essentiel**. Elle est le plus souvent introduite par la conjonction **« que »** ; elle peut aussi être **interrogative indirecte** (si, où, pourquoi, ce que…)."
+    },
+    {
+     "type": "table",
+     "title": "Fonctions et mode",
+     "head": [
+      "Cas",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "COD, après un verbe de déclaration ou de pensée : indicatif",
+       "Je sais que tu viendras."
+      ],
+      [
+       "Sujet : subjonctif",
+       "Qu’il soit absent m’étonne."
+      ],
+      [
+       "Après un verbe de volonté ou de doute : subjonctif",
+       "Je veux que tu viennes."
+      ],
+      [
+       "Interrogative indirecte",
+       "Je demande où tu vas."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour ne pas confondre : dans « Je pense que tu as raison », « que » est une conjonction (il ne remplace aucun nom) ; dans « Le livre que je lis », « que » est un pronom relatif (il remplace « le livre »)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la proposition subordonnée complétive de chaque phrase.",
+     "items": [
+      "Je sais que tu viendras.",
+      "Il dit que la route est fermée.",
+      "Elle pense qu’il pleuvra.",
+      "Je crois que vous avez raison."
+     ],
+     "corrige": [
+      "**que tu viendras**",
+      "**que la route est fermée**",
+      "**qu’il pleuvra**",
+      "**que vous avez raison**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je pense que tu as raison », que est…",
+     "options": [
+      "un pronom relatif",
+      "une conjonction de subordination",
+      "un adverbe"
+     ],
+     "answer": 1,
+     "explain": "« que » introduit la complétive et ne remplace aucun mot : c’est une conjonction de subordination."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la complétive est COD ou sujet.",
+     "items": [
+      "Je sais que tu es là.",
+      "Qu’il soit absent m’étonne.",
+      "Il affirme que tout va bien.",
+      "Que tu réussisses me réjouit."
+     ],
+     "corrige": [
+      "**COD** de « sais »",
+      "**sujet** de « étonne »",
+      "**COD** de « affirme »",
+      "**sujet** de « réjouit »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au mode qui convient (indicatif ou subjonctif).",
+     "items": [
+      "Je veux que tu (venir) demain.",
+      "Je sais que tu (venir) demain.",
+      "Il faut que nous (partir) tôt.",
+      "Il dit qu’il (aller) au marché."
+     ],
+     "corrige": [
+      "Je veux que tu **viennes** (subjonctif, après un verbe de volonté).",
+      "Je sais que tu **viens** (indicatif, après un verbe de certitude).",
+      "Il faut que nous **partions** (subjonctif).",
+      "Il dit qu’il **va** au marché (indicatif)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "« Je doute que tu … raison. » Quelle est la bonne forme ?",
+     "options": [
+      "as",
+      "aies",
+      "avais"
+     ],
+     "answer": 1,
+     "explain": "Après un verbe de doute (douter que), on emploie le subjonctif : que tu aies."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec une proposition subordonnée complétive de ton choix.",
+     "items": [
+      "Le maître exige …",
+      "Je pense …",
+      "Elle craint …",
+      "Nous espérons …"
+     ],
+     "corrige": [
+      "Réponses possibles : Le maître exige **que nous soyons à l’heure** (subjonctif). Je pense **que tu as raison** (indicatif). Elle craint **qu’il pleuve** (subjonctif). Nous espérons **que vous réussirez** (indicatif)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la proposition en gras est une complétive ou une relative.",
+     "items": [
+      "Je pense **que tu as raison**.",
+      "Le livre **que je lis** est intéressant.",
+      "Il dit **que le marché est ouvert**.",
+      "La maison **que tu vois** est la mienne."
+     ],
+     "corrige": [
+      "**complétive** (« que » est une conjonction).",
+      "**relative** (« que » remplace « le livre »).",
+      "**complétive**.",
+      "**relative** (« que » remplace « la maison »)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque question directe en interrogative indirecte (complétive).",
+     "items": [
+      "Il demande : « Pourquoi pleures-tu ? »",
+      "Elle veut savoir : « Viens-tu demain ? »",
+      "Je voudrais savoir : « Que fais-tu ? »"
+     ],
+     "corrige": [
+      "Il demande **pourquoi tu pleures**.",
+      "Elle veut savoir **si tu viens demain**.",
+      "Je voudrais savoir **ce que tu fais**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les complétives et précise leur mode : « Le chef du village affirme que la saison sera bonne. Il faut que tous les paysans préparent les champs. Les anciens espèrent qu’il pleuvra bientôt. »",
+     "corrige": [
+      "**que la saison sera bonne** : complétive COD, verbe à l’**indicatif** (futur).",
+      "**que tous les paysans préparent les champs** : complétive après « il faut », verbe au **subjonctif**.",
+      "**qu’il pleuvra bientôt** : complétive COD, verbe à l’**indicatif** (futur)."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La complétive complète un verbe, un nom ou un adjectif ; elle est introduite par « que » ou est interrogative indirecte.",
+      "Indicatif après un verbe de certitude ou de déclaration ; subjonctif après un verbe de volonté, de doute ou de sentiment.",
+      "Ne pas confondre la conjonction « que » (complétive) et le pronom relatif « que » (relative)."
+     ]
+    }
+   ]
+  }
+ ]
+}

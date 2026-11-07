@@ -1,0 +1,225 @@
+{
+ "id": 30002,
+ "meta": {
+  "t": "Les compléments d’objet (COD et COI) : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ex": 2
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "COD et COI",
+     "text": "Le **complément d’objet direct (COD)** se construit **sans préposition** après le verbe : il répond à « qui ? » ou « quoi ? ». Le **complément d’objet indirect (COI)** se construit avec une **préposition** (à, de…) : il répond à « à qui ? à quoi ? de qui ? de quoi ? »."
+    },
+    {
+     "type": "table",
+     "title": "Distinguer le COD et le COI",
+     "head": [
+      "Complément",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "COD",
+       "qui ? quoi ?",
+       "Le paysan cultive le manioc."
+      ],
+      [
+       "COI",
+       "à/de qui ? à/de quoi ?",
+       "Il parle à son voisin."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pose la question juste après le verbe : s’il y a une préposition (à, de) entre le verbe et le complément, c’est un COI."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le COD de chaque phrase.",
+     "items": [
+      "Mon père répare la pirogue.",
+      "Les élèves écoutent la maîtresse.",
+      "Ma mère achète du poisson au marché.",
+      "Nous cueillons des mangues."
+     ],
+     "corrige": [
+      "Mon père répare **la pirogue**.",
+      "Les élèves écoutent **la maîtresse**.",
+      "Ma mère achète **du poisson** au marché. (« au marché » est un complément circonstanciel de lieu.)",
+      "Nous cueillons **des mangues**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le chasseur parle à son frère », que représente « à son frère » ?",
+     "options": [
+      "Un COD",
+      "Un COI",
+      "Un sujet"
+     ],
+     "answer": 1,
+     "explain": "« Parler » se construit avec la préposition « à » : « à son frère » répond à la question « à qui ? ». C’est un COI."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le COI de chaque phrase.",
+     "items": [
+      "Tu penses à tes vacances.",
+      "Elle se souvient de son village.",
+      "Nous obéissons à la règle.",
+      "Le maître parle de la leçon."
+     ],
+     "corrige": [
+      "Tu penses **à tes vacances**.",
+      "Elle se souvient **de son village**.",
+      "Nous obéissons **à la règle**.",
+      "Le maître parle **de la leçon**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si le complément donné est un COD ou un COI.",
+     "items": [
+      "Nadia aime ses cousins. — « ses cousins »",
+      "Le médecin répond aux patients. — « aux patients »",
+      "Papa lit le journal. — « le journal »",
+      "Je rêve de mes vacances. — « de mes vacances »",
+      "Elle téléphone à sa tante. — « à sa tante »"
+     ],
+     "corrige": [
+      "« ses cousins » : **COD**",
+      "« aux patients » : **COI**",
+      "« le journal » : **COD**",
+      "« de mes vacances » : **COI**",
+      "« à sa tante » : **COI**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un COI ?",
+     "options": [
+      "Il mange une banane.",
+      "Il pense à son avenir.",
+      "Il court dans le jardin."
+     ],
+     "answer": 1,
+     "explain": "« à son avenir » est introduit par la préposition « à » et complète le verbe « penser » : c’est un COI. Dans la première phrase, « une banane » est un COD ; dans la troisième, « dans le jardin » est un complément circonstanciel."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec un complément du type demandé.",
+     "items": [
+      "Les enfants regardent … (COD)",
+      "Le chef de village parle … (COI)",
+      "Maman prépare … (COD)",
+      "Tu ressembles … (COI)"
+     ],
+     "corrige": [
+      "Réponses possibles : Les enfants regardent **le match**. Le chef de village parle **aux villageois**. Maman prépare **le repas**. Tu ressembles **à ton père**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque phrase, relève le ou les compléments d’objet et précise s’ils sont directs ou indirects.",
+     "items": [
+      "Le vendeur donne un cahier à Paul.",
+      "Je lis une histoire.",
+      "Elle parle de son projet à son ami.",
+      "Nous téléphonons à Marie."
+     ],
+     "corrige": [
+      "**un cahier** : COD ; **à Paul** : COI.",
+      "**une histoire** : COD.",
+      "**de son projet** : COI ; **à son ami** : COI (deux COI).",
+      "**à Marie** : COI."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans le texte, relève les COD et les COI : « Le soir, grand-mère raconte une histoire aux enfants. Ils écoutent avec attention et rêvent de la forêt. »",
+     "corrige": [
+      "« raconte » : COD **une histoire** ; COI **aux enfants**.",
+      "« écoutent » : pas de complément d’objet (« avec attention » est un complément circonstanciel de manière).",
+      "« rêvent » : COI **de la forêt**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois phrases sur la vie de ton village ou de ton quartier : une avec un COD, une avec un COI, une avec les deux.",
+     "corrige": "Exemple : « Les enfants ramassent **du bois**. Ma tante pense **à son voyage**. Le vendeur offre **des mangues** **aux clients**. » Vérifiez que chaque complément répond bien à la bonne question."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le COD se construit directement après le verbe et répond à « qui ? quoi ? ».",
+      "Le COI se construit avec une préposition (à, de) et répond à « à qui ? de quoi ? ».",
+      "Un verbe peut avoir un COD, un COI, ou les deux."
+     ]
+    }
+   ]
+  }
+ ]
+}

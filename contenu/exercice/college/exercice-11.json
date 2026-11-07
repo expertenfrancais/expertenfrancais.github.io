@@ -1,0 +1,235 @@
+{
+ "id": 30011,
+ "meta": {
+  "t": "La proposition subordonnée relative : exercices",
+  "k": "Exercices",
+  "n": "4e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ex": 11
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La proposition subordonnée relative",
+     "text": "La **proposition subordonnée relative** complète un nom ou un pronom, appelé **antécédent**. Elle est introduite par un **pronom relatif** : *qui, que, dont, où, lequel…*"
+    },
+    {
+     "type": "table",
+     "title": "Les pronoms relatifs",
+     "head": [
+      "Pronom",
+      "Fonction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "qui",
+       "sujet",
+       "Le chien qui aboie est noir."
+      ],
+      [
+       "que",
+       "COD",
+       "Le livre que j’ai lu est passionnant."
+      ],
+      [
+       "dont",
+       "complément introduit par « de »",
+       "La maison dont je rêve est grande."
+      ],
+      [
+       "où",
+       "lieu ou temps",
+       "Le village où je suis né est petit."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour choisir : si on peut remplacer par « il », c’est « qui » ; si le verbe a déjà son sujet, c’est « que » (COD) ; si on dit « parler de, rêver de, avoir besoin de… », c’est « dont »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la proposition relative et son antécédent.",
+     "items": [
+      "Le livre que j’ai lu est passionnant.",
+      "Les enfants qui jouent sont heureux.",
+      "Le village où je suis né est petit.",
+      "La maison dont je rêve est grande."
+     ],
+     "corrige": [
+      "antécédent « livre » ; relative **que j’ai lu**.",
+      "antécédent « enfants » ; relative **qui jouent**.",
+      "antécédent « village » ; relative **où je suis né**.",
+      "antécédent « maison » ; relative **dont je rêve**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le chien qui aboie est noir », quelle est la nature de « qui » ?",
+     "options": [
+      "Pronom relatif sujet",
+      "Pronom relatif COD",
+      "Conjonction de subordination"
+     ],
+     "answer": 0,
+     "explain": "« qui » remplace « le chien » et est sujet de « aboie » : c’est un pronom relatif sujet."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec « qui » ou « que » (« qu’ »).",
+     "items": [
+      "La fille … chante est ma sœur.",
+      "Le fruit … tu manges est mûr.",
+      "Les amis … j’invite arrivent.",
+      "L’arbre … pousse dans la cour est vieux."
+     ],
+     "corrige": [
+      "La fille **qui** chante est ma sœur.",
+      "Le fruit **que** tu manges est mûr.",
+      "Les amis **que** j’invite arrivent.",
+      "L’arbre **qui** pousse dans la cour est vieux."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec « dont » ou « où ».",
+     "items": [
+      "La ville … j’habite est grande.",
+      "Le film … tu parles est excellent.",
+      "Le jour … il est arrivé était férié.",
+      "L’outil … j’ai besoin est cassé."
+     ],
+     "corrige": [
+      "La ville **où** j’habite est grande.",
+      "Le film **dont** tu parles est excellent.",
+      "Le jour **où** il est arrivé était férié.",
+      "L’outil **dont** j’ai besoin est cassé."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une relative explicative ?",
+     "options": [
+      "Les élèves qui travaillent réussissent.",
+      "Mon frère, qui habite à Pointe-Noire, viendra demain.",
+      "Le livre que j’ai prêté est perdu."
+     ],
+     "answer": 1,
+     "explain": "Dans la deuxième phrase, la relative est entre virgules et peut être supprimée sans changer le sens : elle est explicative."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réunis chaque paire de phrases en une seule, avec une proposition relative.",
+     "items": [
+      "J’ai un ami. Il vit à Dolisie.",
+      "Voici le cahier. J’ai perdu ce cahier.",
+      "C’est la ville. Je rêve de cette ville."
+     ],
+     "corrige": [
+      "J’ai un ami **qui** vit à Dolisie.",
+      "Voici le cahier **que** j’ai perdu.",
+      "C’est la ville **dont** je rêve."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la relative est déterminative ou explicative.",
+     "items": [
+      "Les fruits qui sont mûrs tombent.",
+      "Mon père, qui est maçon, construit une maison.",
+      "Le marché où ma mère vend du poisson est animé.",
+      "Brazzaville, où j’habite, est une capitale."
+     ],
+     "corrige": [
+      "**déterminative** (elle précise de quels fruits on parle).",
+      "**explicative** (entre virgules, elle ajoute une information).",
+      "**déterminative**.",
+      "**explicative**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les relatives et leur antécédent : « Le vieux pêcheur que nous avons rencontré habite un village où il n’y a pas d’électricité. Il a une pirogue qui lui vient de son père et dont il est très fier. »",
+     "corrige": [
+      "**que nous avons rencontré** : antécédent « pêcheur ».",
+      "**où il n’y a pas d’électricité** : antécédent « village ».",
+      "**qui lui vient de son père** : antécédent « pirogue ».",
+      "**dont il est très fier** : antécédent « pirogue »."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases sur ton école avec une proposition relative introduite par « qui », « que » et « dont » (ou « où »).",
+     "corrige": "Exemple : « Le maître **qui** nous enseigne le français est très patient. Le livre **que** nous lisons est passionnant. L’école **où** j’étudie est près du marché. » Vérifiez l’antécédent de chaque relative."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La relative complète un antécédent et commence par un pronom relatif.",
+      "Qui = sujet ; que = COD ; dont = complément avec « de » ; où = lieu ou temps.",
+      "Relative déterminative : indispensable ; relative explicative : entre virgules."
+     ]
+    }
+   ]
+  }
+ ]
+}

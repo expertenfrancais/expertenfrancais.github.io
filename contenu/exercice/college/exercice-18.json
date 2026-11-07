@@ -1,0 +1,230 @@
+{
+ "id": 30018,
+ "meta": {
+  "t": "Le sujet et ses différentes formes : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ex": 18
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le sujet",
+     "text": "Le **sujet** est le mot ou le groupe de mots qui **commande l’accord du verbe**. On le trouve en posant la question « **qui est-ce qui ?** » ou « **qu’est-ce qui ?** » devant le verbe, ou en l’encadrant par « **c’est … qui** »."
+    },
+    {
+     "type": "table",
+     "title": "Les natures du sujet",
+     "head": [
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Groupe nominal",
+       "Les enfants jouent."
+      ],
+      [
+       "Pronom",
+       "Il pleure."
+      ],
+      [
+       "Infinitif",
+       "Mentir est une faute."
+      ],
+      [
+       "Proposition subordonnée",
+       "Qui travaille réussit."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le sujet n’est pas toujours avant le verbe : « Dans la cour jouent les enfants » (sujet inversé)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le sujet de chaque phrase.",
+     "items": [
+      "Les enfants jouent dans la cour.",
+      "Mon père travaille à l’usine.",
+      "Elle chante bien.",
+      "Nous irons au marché."
+     ],
+     "corrige": [
+      "**Les enfants**",
+      "**Mon père**",
+      "**Elle**",
+      "**Nous**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Chantent les oiseaux », quel est le sujet ?",
+     "options": [
+      "Chantent",
+      "les oiseaux",
+      "Il n’y a pas de sujet"
+     ],
+     "answer": 1,
+     "explain": "Qui est-ce qui chante ? Les oiseaux. Le sujet est placé après le verbe : il est inversé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve le sujet avec la question « qui est-ce qui ? » ou « qu’est-ce qui ? ».",
+     "items": [
+      "Le vent souffle fort.",
+      "Une odeur de fumée envahit la rue.",
+      "Marie et Paul arrivent."
+     ],
+     "corrige": [
+      "Qu’est-ce qui souffle ? **Le vent**.",
+      "Qu’est-ce qui envahit la rue ? **Une odeur de fumée**.",
+      "Qui est-ce qui arrive ? **Marie et Paul**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature du sujet.",
+     "items": [
+      "Mon voisin répare le toit.",
+      "Il pleure.",
+      "Mentir est une faute.",
+      "Qui travaille réussit."
+     ],
+     "corrige": [
+      "groupe nominal",
+      "pronom personnel",
+      "infinitif",
+      "proposition subordonnée relative (sans antécédent)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase le sujet est-il inversé ?",
+     "options": [
+      "Le chat dort.",
+      "Dans la cour jouent les enfants.",
+      "Il dort."
+     ],
+     "answer": 1,
+     "explain": "Dans la deuxième phrase, le sujet « les enfants » est placé après le verbe."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le verbe avec son sujet.",
+     "items": [
+      "Les élèves (écouter) la leçon.",
+      "Le groupe d’enfants (chanter).",
+      "Marie et Paul (arriver).",
+      "Dans la forêt (vivre) de nombreux animaux."
+     ],
+     "corrige": [
+      "Les élèves **écoutent** la leçon.",
+      "Le groupe d’enfants **chante** (le sujet est « le groupe »).",
+      "Marie et Paul **arrivent**.",
+      "Dans la forêt **vivent** de nombreux animaux (sujet inversé)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace les sujets par un pronom personnel.",
+     "items": [
+      "Le chat et le chien dorment.",
+      "Fatou et sa sœur dansent.",
+      "Ma mère et moi sortons.",
+      "Toi et ton frère jouez."
+     ],
+     "corrige": [
+      "**Ils** dorment.",
+      "**Elles** dansent.",
+      "**Nous** sortons.",
+      "**Vous** jouez."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève chaque sujet et donne sa nature : « Chaque matin, les villageois se rendent au marché. Ils vendent du manioc. Cultiver la terre demande beaucoup d’efforts. Dans le champ travaillent les femmes. »",
+     "corrige": [
+      "**les villageois** : groupe nominal.",
+      "**Ils** : pronom.",
+      "**Cultiver la terre** : infinitif.",
+      "**les femmes** : groupe nominal (sujet inversé)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois phrases dont le sujet est, successivement, un groupe nominal, un pronom et un infinitif.",
+     "corrige": "Exemple : « **Les enfants** ramassent du bois. **Elle** prépare le repas. **Cultiver le manioc** demande du travail. » Vérifiez que chaque verbe est accordé avec son sujet."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le sujet commande l’accord du verbe ; on le trouve avec « qui est-ce qui ? ».",
+      "Natures : groupe nominal, pronom, infinitif, proposition subordonnée.",
+      "Le sujet peut être placé après le verbe (inversion)."
+     ]
+    }
+   ]
+  }
+ ]
+}

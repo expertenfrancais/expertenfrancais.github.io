@@ -1,0 +1,244 @@
+{
+ "id": 30017,
+ "meta": {
+  "t": "L’accord de l’adjectif qualificatif : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "h",
+  "r": 4.8,
+  "ex": 17
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "L’accord de l’adjectif",
+     "text": "L’adjectif qualificatif s’accorde en **genre** et en **nombre** avec le nom qu’il qualifie (épithète, apposé) ou avec le **sujet** (attribut). Féminin : on ajoute en général un **e**. Pluriel : on ajoute en général un **s**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques cas particuliers",
+     "head": [
+      "Règle",
+      "Masculin",
+      "Féminin / pluriel"
+     ],
+     "rows": [
+      [
+       "-eux → -euse",
+       "heureux",
+       "heureuse"
+      ],
+      [
+       "-f → -ve",
+       "attentif",
+       "attentive"
+      ],
+      [
+       "-on → -onne",
+       "bon",
+       "bonne"
+      ],
+      [
+       "-al → -aux (pluriel)",
+       "national",
+       "nationaux"
+      ],
+      [
+       "-eau → -eaux (pluriel)",
+       "beau",
+       "beaux"
+      ],
+      [
+       "Couleur venant d’un nom",
+       "orange",
+       "invariable : des robes orange"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Avec plusieurs noms de genres différents, l’adjectif se met au masculin pluriel : « un pagne et une robe neufs »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque adjectif au féminin.",
+     "items": [
+      "un garçon heureux",
+      "un élève attentif",
+      "un enfant bon",
+      "un pagne neuf"
+     ],
+     "corrige": [
+      "une fille **heureuse**",
+      "une élève **attentive**",
+      "une enfant **bonne**",
+      "une robe **neuve**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « national » ?",
+     "options": [
+      "nationals",
+      "nationaux",
+      "nationales"
+     ],
+     "answer": 1,
+     "explain": "Les adjectifs en -al font leur pluriel en -aux : nationaux."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque groupe nominal au pluriel.",
+     "items": [
+      "un beau jardin",
+      "un journal local",
+      "un chapeau nouveau",
+      "un enfant joyeux"
+     ],
+     "corrige": [
+      "de **beaux** jardins",
+      "des journaux **locaux**",
+      "des chapeaux **nouveaux**",
+      "des enfants **joyeux** (déjà en -x)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde l’adjectif entre parenthèses avec le sujet.",
+     "items": [
+      "Mes sœurs sont (content).",
+      "Ces élèves semblent (fatigué).",
+      "La route paraît (long).",
+      "Les mangues sont (mûr)."
+     ],
+     "corrige": [
+      "Mes sœurs sont **contentes**.",
+      "Ces élèves semblent **fatigués**.",
+      "La route paraît **longue**.",
+      "Les mangues sont **mûres**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "« Un pagne et une robe (neuf). » Quelle est la bonne forme ?",
+     "options": [
+      "neuf",
+      "neufs",
+      "neuves"
+     ],
+     "answer": 1,
+     "explain": "Avec un nom masculin et un nom féminin, l’adjectif se met au masculin pluriel : neufs."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde les adjectifs de couleur (ou laisse-les invariables).",
+     "items": [
+      "des robes (orange)",
+      "des chemises (bleu clair)",
+      "des sacs (noir)",
+      "des rubans (rouge)"
+     ],
+     "corrige": [
+      "des robes **orange** (nom de fruit : invariable)",
+      "des chemises **bleu clair** (couleur composée : invariable)",
+      "des sacs **noirs**",
+      "des rubans **rouges**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Une erreur d’accord s’est glissée dans chaque groupe. Corrige-la.",
+     "items": [
+      "des enfants heureuse",
+      "une fille attentif",
+      "des fruits mûres",
+      "deux chemises marrons"
+     ],
+     "corrige": [
+      "des enfants **heureux**",
+      "une fille **attentive**",
+      "des fruits **mûrs**",
+      "deux chemises **marron** (invariable)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde les adjectifs : « Les (vieux) pêcheurs reviennent (fatigué). Leurs filets sont (lourd) de poissons (argenté). La mer est (calme) et le ciel (bleu clair). »",
+     "corrige": [
+      "Les **vieux** pêcheurs reviennent **fatigués**. Leurs filets sont **lourds** de poissons **argentés**. La mer est **calme** et le ciel **bleu clair**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris le marché en trois phrases avec trois adjectifs correctement accordés, dont un pluriel en -aux.",
+     "corrige": "Exemple : « Les marchands vendent des légumes **frais**. Les allées sont **étroites**. On y trouve des produits **locaux**. » Vérifiez chaque accord."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’adjectif s’accorde avec le nom (épithète) ou avec le sujet (attribut).",
+      "Cas particuliers : -eux → -euse, -f → -ve, -al → -aux, -eau → -eaux.",
+      "Couleurs tirées d’un nom et couleurs composées : invariables."
+     ]
+    }
+   ]
+  }
+ ]
+}

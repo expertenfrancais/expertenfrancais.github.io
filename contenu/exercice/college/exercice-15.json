@@ -1,0 +1,238 @@
+{
+ "id": 30015,
+ "meta": {
+  "t": "Le passé composé : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8,
+  "ex": 15
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le passé composé",
+     "text": "Le **passé composé** exprime une action **passée et terminée**. Il se forme avec l’**auxiliaire avoir ou être au présent** + le **participe passé** du verbe."
+    },
+    {
+     "type": "table",
+     "title": "Le passé composé",
+     "head": [
+      "Verbe",
+      "Je",
+      "Tu",
+      "Il",
+      "Nous",
+      "Vous",
+      "Ils"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "j’ai chanté",
+       "tu as chanté",
+       "il a chanté",
+       "nous avons chanté",
+       "vous avez chanté",
+       "ils ont chanté"
+      ],
+      [
+       "partir",
+       "je suis parti(e)",
+       "tu es parti(e)",
+       "il est parti",
+       "nous sommes partis",
+       "vous êtes partis",
+       "ils sont partis"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Avec l’auxiliaire être (aller, venir, arriver, partir, sortir, entrer, tomber, naître, mourir, verbes pronominaux…), le participe passé s’accorde avec le sujet."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au passé composé à la personne demandée.",
+     "items": [
+      "manger : j’ …",
+      "finir : tu …",
+      "prendre : nous …",
+      "voir : ils …"
+     ],
+     "corrige": [
+      "j’**ai mangé**",
+      "tu **as fini**",
+      "nous **avons pris**",
+      "ils **ont vu**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "« Elle … tombée. » Quel auxiliaire faut-il ?",
+     "options": [
+      "a",
+      "est",
+      "as"
+     ],
+     "answer": 1,
+     "explain": "« Tomber » se conjugue avec l’auxiliaire être : elle est tombée."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les verbes au passé composé (s’il n’y en a pas, écris « aucun »).",
+     "items": [
+      "Hier, nous avons visité le musée.",
+      "Il chante bien.",
+      "Elle est arrivée tôt.",
+      "Tu liras ce livre."
+     ],
+     "corrige": [
+      "**avons visité**",
+      "aucun (présent)",
+      "**est arrivée**",
+      "aucun (futur)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le participe passé de chaque verbe.",
+     "items": [
+      "faire",
+      "prendre",
+      "voir",
+      "avoir",
+      "être"
+     ],
+     "corrige": [
+      "**fait**",
+      "**pris**",
+      "**vu**",
+      "**eu**",
+      "**été**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "« Il a (finir) son travail. » Quel est le bon participe passé ?",
+     "options": [
+      "finit",
+      "fini",
+      "finis"
+     ],
+     "answer": 1,
+     "explain": "Le participe passé des verbes en -ir est en -i : fini."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé entre parenthèses.",
+     "items": [
+      "Elles sont (partir) … hier.",
+      "Les enfants ont (jouer) … dehors.",
+      "Ma mère est (sortir) … tôt.",
+      "Nous sommes (arriver) … à l’heure. (des garçons)"
+     ],
+     "corrige": [
+      "Elles sont **parties** hier.",
+      "Les enfants ont **joué** dehors (avec avoir, pas d’accord avec le sujet).",
+      "Ma mère est **sortie** tôt.",
+      "Nous sommes **arrivés** à l’heure."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque phrase au passé composé.",
+     "items": [
+      "Je mange du poisson.",
+      "Tu prends le car.",
+      "Nous allons au marché.",
+      "Elles finissent leurs devoirs."
+     ],
+     "corrige": [
+      "J’**ai mangé** du poisson.",
+      "Tu **as pris** le car.",
+      "Nous **sommes allés** au marché.",
+      "Elles **ont fini** leurs devoirs."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes au passé composé : « Hier, Kévin (se lever) tôt. Il (prendre) son sac, (aller) à l’école et (arriver) avant le maître. »",
+     "corrige": [
+      "Hier, Kévin **s’est levé** tôt. Il **a pris** son sac, **est allé** à l’école et **est arrivé** avant le maître."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Raconte en quatre phrases ce que tu as fait hier, au passé composé.",
+     "corrige": "Exemple : « Hier, je **suis allé** à l’école. J’**ai écouté** le maître. L’après-midi, j’**ai aidé** ma mère. Le soir, nous **avons mangé** du poisson. » Vérifiez les auxiliaires et les accords."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Passé composé = auxiliaire (avoir ou être) au présent + participe passé.",
+      "Avec être, le participe passé s’accorde avec le sujet.",
+      "Participes irréguliers à connaître : fait, pris, vu, eu, été, mis, dit."
+     ]
+    }
+   ]
+  }
+ ]
+}

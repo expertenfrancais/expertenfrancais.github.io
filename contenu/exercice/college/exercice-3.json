@@ -1,0 +1,245 @@
+{
+ "id": 30003,
+ "meta": {
+  "t": "Les compléments circonstanciels : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ex": 3
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le complément circonstanciel (CC)",
+     "text": "Le **complément circonstanciel** apporte une précision sur les **circonstances** de l’action : lieu, temps, manière, cause, but, moyen. Il peut généralement être **supprimé** et **déplacé** dans la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Les principales circonstances",
+     "head": [
+      "Circonstance",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Lieu",
+       "où ?",
+       "Il joue dans la cour."
+      ],
+      [
+       "Temps",
+       "quand ?",
+       "Il part demain."
+      ],
+      [
+       "Manière",
+       "comment ?",
+       "Elle marche lentement."
+      ],
+      [
+       "Cause",
+       "pourquoi ?",
+       "Il reste à cause de la pluie."
+      ],
+      [
+       "But",
+       "dans quel but ?",
+       "Il travaille pour réussir."
+      ],
+      [
+       "Moyen",
+       "avec quoi ? par quel moyen ?",
+       "Nous traversons en pirogue."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Un complément que l’on peut supprimer ET déplacer sans changer le sens de la phrase est très souvent un complément circonstanciel."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément circonstanciel de chaque phrase et donne sa circonstance.",
+     "items": [
+      "Hier, nous avons visité le marché.",
+      "Les enfants jouent dans la cour.",
+      "Il marche lentement.",
+      "Je pars demain matin."
+     ],
+     "corrige": [
+      "**Hier** : temps.",
+      "**dans la cour** : lieu.",
+      "**lentement** : manière.",
+      "**demain matin** : temps."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de compléments circonstanciels y a-t-il dans « Le soir, la famille dîne devant la maison » ?",
+     "options": [
+      "Un",
+      "Deux",
+      "Trois"
+     ],
+     "answer": 1,
+     "explain": "« Le soir » (temps) et « devant la maison » (lieu) sont deux compléments circonstanciels."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pose la question qui permet de trouver le complément circonstanciel, puis donne-le.",
+     "items": [
+      "Le pêcheur rentre à l’aube.",
+      "Elle chante avec joie.",
+      "Le car arrive à Pointe-Noire."
+     ],
+     "corrige": [
+      "Quand ? **à l’aube** (temps).",
+      "Comment ? **avec joie** (manière).",
+      "Où ? **à Pointe-Noire** (lieu)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la circonstance exprimée (lieu, temps, manière, cause, but ou moyen).",
+     "items": [
+      "Il est absent à cause de la fièvre.",
+      "Elle étudie pour réussir son examen.",
+      "Nous traversons le fleuve en pirogue.",
+      "Il s’est caché sous le lit.",
+      "Ils sont arrivés pendant la nuit."
+     ],
+     "corrige": [
+      "**à cause de la fièvre** : cause.",
+      "**pour réussir son examen** : but.",
+      "**en pirogue** : moyen.",
+      "**sous le lit** : lieu.",
+      "**pendant la nuit** : temps."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un complément circonstanciel de but ?",
+     "options": [
+      "Il est sorti à cause de la pluie.",
+      "Il travaille pour gagner sa vie.",
+      "Il vit à Brazzaville."
+     ],
+     "answer": 1,
+     "explain": "« pour gagner sa vie » répond à la question « dans quel but ? ». « à cause de la pluie » est une cause, « à Brazzaville » un lieu."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Déplace le complément circonstanciel au début de la phrase (n’oublie pas la virgule).",
+     "items": [
+      "Les élèves reviendront lundi.",
+      "Mon oncle pêche au bord du fleuve.",
+      "La fête commence ce soir."
+     ],
+     "corrige": [
+      "**Lundi**, les élèves reviendront.",
+      "**Au bord du fleuve**, mon oncle pêche.",
+      "**Ce soir**, la fête commence."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le groupe entre guillemets est un COD ou un complément circonstanciel.",
+     "items": [
+      "Il mange « du pain ».",
+      "Il mange « le soir ».",
+      "Elle regarde « la télévision ».",
+      "Elle regarde « avec attention »."
+     ],
+     "corrige": [
+      "« du pain » : **COD** (on ne peut pas le supprimer).",
+      "« le soir » : **CC de temps**.",
+      "« la télévision » : **COD**.",
+      "« avec attention » : **CC de manière**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève tous les compléments circonstanciels de la phrase et donne leur circonstance : « Chaque matin, Brice joue au football dans la cour pour s’amuser. »",
+     "corrige": [
+      "**Chaque matin** : temps.",
+      "**dans la cour** : lieu.",
+      "**pour s’amuser** : but.",
+      "(« au football » est un COI du verbe « jouer » : ce n’est pas un complément circonstanciel.)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois phrases avec un complément circonstanciel de temps, un de lieu et un de manière. Souligne-les.",
+     "corrige": "Exemple : « **Ce matin**, les élèves attendent le car. Ma sœur lave le linge **au bord du fleuve**. Le vieil homme marche **doucement**. » Vérifiez que chaque complément peut être supprimé et déplacé."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le complément circonstanciel indique les circonstances de l’action.",
+      "Il est le plus souvent supprimable et déplaçable.",
+      "Lieu, temps, manière, cause, but, moyen : chaque circonstance a sa question."
+     ]
+    }
+   ]
+  }
+ ]
+}

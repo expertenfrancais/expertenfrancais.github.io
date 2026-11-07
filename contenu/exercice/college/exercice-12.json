@@ -1,0 +1,234 @@
+{
+ "id": 30012,
+ "meta": {
+  "t": "Les pronoms : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "ex": 12
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le pronom",
+     "text": "Le **pronom** est un mot qui **remplace** un nom ou un groupe nominal, ou qui désigne une personne sans la nommer. Il évite les répétitions."
+    },
+    {
+     "type": "table",
+     "title": "Les familles de pronoms",
+     "head": [
+      "Famille",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Personnels",
+       "je, tu, il, elle, nous, vous, ils, elles ; le, la, les, lui, leur"
+      ],
+      [
+       "Possessifs",
+       "le mien, le tien, le sien, le nôtre, le vôtre, le leur"
+      ],
+      [
+       "Démonstratifs",
+       "celui, celle, ceux, celles, ceci, cela, ça"
+      ],
+      [
+       "Relatifs",
+       "qui, que, dont, où"
+      ],
+      [
+       "Interrogatifs",
+       "qui ? que ? lequel ?"
+      ],
+      [
+       "Indéfinis",
+       "on, personne, rien, chacun, quelqu’un"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Un pronom ne s’accompagne jamais d’un nom : « Je le vois » (pronom) / « Je vois le chat » (« le » est un déterminant)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace le groupe sujet par un pronom personnel sujet.",
+     "items": [
+      "Paul chante.",
+      "Les filles dansent.",
+      "Mon frère et moi jouons.",
+      "Toi et ta sœur venez."
+     ],
+     "corrige": [
+      "**Il** chante.",
+      "**Elles** dansent.",
+      "**Nous** jouons.",
+      "**Vous** venez."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Nous les aidons », quelle est la nature de « les » ?",
+     "options": [
+      "Article défini",
+      "Pronom personnel COD",
+      "Déterminant possessif"
+     ],
+     "answer": 1,
+     "explain": "« les » ne s’accompagne d’aucun nom : il remplace un groupe nominal (par exemple « les voisins ») et il est COD du verbe « aidons »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le pronom en gras et dis ce qu’il remplace. Les pronoms sont : elle, le, leur.",
+     "items": [
+      "Ma sœur a un livre. Elle le lit.",
+      "Les enfants arrivent. Je leur ouvre la porte."
+     ],
+     "corrige": [
+      "**Elle** remplace « ma sœur » ; **le** remplace « un livre ».",
+      "**leur** remplace « les enfants » (complément d’objet indirect)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace le groupe en gras par un pronom personnel.",
+     "items": [
+      "Je vois **le fleuve**.",
+      "J’écris **à mes parents**.",
+      "Nous aidons **la voisine**.",
+      "Tu parles **à Paul**."
+     ],
+     "corrige": [
+      "Je **le** vois.",
+      "Je **leur** écris.",
+      "Nous **l’**aidons.",
+      "Tu **lui** parles."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Lequel de ces mots est un pronom possessif ?",
+     "options": [
+      "mon livre",
+      "le mien",
+      "ce livre"
+     ],
+     "answer": 1,
+     "explain": "« le mien » remplace un nom (« mon livre ») : c’est un pronom possessif. « mon » et « ce » sont des déterminants."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le pronom qui convient : le tien, celle, celles.",
+     "items": [
+      "Voici mon cahier ; où est … ?",
+      "Cette robe est jolie, mais … que tu portes l’est davantage.",
+      "J’aime ces mangues, mais … du marché sont meilleures."
+     ],
+     "corrige": [
+      "Voici mon cahier ; où est **le tien** ?",
+      "Cette robe est jolie, mais **celle** que tu portes l’est davantage.",
+      "J’aime ces mangues, mais **celles** du marché sont meilleures."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le pronom relatif ou indéfini et donne sa famille.",
+     "items": [
+      "Le village où j’habite est calme.",
+      "Personne n’est venu.",
+      "Chacun prend sa place.",
+      "L’élève qui travaille réussit."
+     ],
+     "corrige": [
+      "**où** : pronom relatif.",
+      "**Personne** : pronom indéfini.",
+      "**Chacun** : pronom indéfini.",
+      "**qui** : pronom relatif."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les pronoms et les déterminants de ce texte, en les classant : « Ma sœur a perdu son cahier. Elle le cherche partout. Personne ne l’a vu. »",
+     "corrige": [
+      "**Pronoms** : **Elle** (personnel sujet), **le** (personnel COD), **Personne** (indéfini), **l’** (personnel COD).",
+      "**Déterminants** : **Ma** et **son** (possessifs)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris le texte en remplaçant les répétitions par des pronoms : « Paul a une bicyclette. Paul répare la bicyclette. Paul prête la bicyclette à sa sœur. »",
+     "corrige": [
+      "Paul a une bicyclette. **Il la** répare. **Il la** prête à sa sœur."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le pronom remplace un nom ou un groupe nominal.",
+      "Familles : personnels, possessifs, démonstratifs, relatifs, interrogatifs, indéfinis.",
+      "Un pronom n’est jamais accompagné d’un nom ; un déterminant, si."
+     ]
+    }
+   ]
+  }
+ ]
+}

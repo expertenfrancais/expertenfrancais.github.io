@@ -1,0 +1,234 @@
+{
+ "id": 30007,
+ "meta": {
+  "t": "Le sens propre et le sens figuré : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "f",
+  "r": 4.8,
+  "ex": 7
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Sens propre et sens figuré",
+     "text": "Un mot est au **sens propre** quand il a son sens premier, concret, que l’on peut vérifier. Il est au **sens figuré** quand il est employé de façon imagée, par comparaison, pour exprimer une idée ou un sentiment."
+    },
+    {
+     "type": "table",
+     "title": "Un même mot, deux sens",
+     "head": [
+      "Expression",
+      "Sens propre",
+      "Sens figuré"
+     ],
+     "rows": [
+      [
+       "brûler",
+       "Le bois brûle dans le foyer.",
+       "Il brûle d’impatience (il est très impatient)."
+      ],
+      [
+       "froid",
+       "Le vent est froid.",
+       "Elle m’a accueilli d’un ton froid (peu aimable)."
+      ],
+      [
+       "la main",
+       "Il lève la main.",
+       "Donner un coup de main (aider)."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si la phrase ne peut pas être comprise au sens littéral, c’est un sens figuré : « Il a un cœur d’or » ne veut pas dire que son cœur est en or."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est employé au sens propre ou au sens figuré. Les mots sont : brille, brillent, cœur, cœur.",
+     "items": [
+      "Le soleil brille dans le ciel.",
+      "Ses yeux brillent de joie.",
+      "Il a un cœur d’or.",
+      "Le médecin soigne le cœur du malade."
+     ],
+     "corrige": [
+      "**brille** : sens propre.",
+      "**brillent** : sens figuré (ses yeux expriment la joie).",
+      "**cœur** : sens figuré (il est très généreux).",
+      "**cœur** : sens propre (l’organe)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie l’expression « Il est dans la lune » ?",
+     "options": [
+      "Il est sur la lune",
+      "Il est distrait",
+      "Il aime la lune"
+     ],
+     "answer": 1,
+     "explain": "C’est une expression figurée : être dans la lune signifie être distrait, ne pas faire attention."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens figuré de chaque expression.",
+     "items": [
+      "avoir la tête dans les nuages",
+      "avoir un cœur de pierre",
+      "coûter les yeux de la tête",
+      "tomber dans les pommes"
+     ],
+     "corrige": [
+      "avoir la tête dans les nuages : **être rêveur, distrait**.",
+      "avoir un cœur de pierre : **être insensible, dur**.",
+      "coûter les yeux de la tête : **coûter très cher**.",
+      "tomber dans les pommes : **s’évanouir**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase contient une comparaison ou une métaphore.",
+     "items": [
+      "Il est rapide comme l’éclair.",
+      "Cette fille est une perle.",
+      "Le soleil est une boule de feu.",
+      "Elle chante comme un rossignol."
+     ],
+     "corrige": [
+      "**comparaison** (outil « comme »).",
+      "**métaphore** (pas d’outil de comparaison).",
+      "**métaphore**.",
+      "**comparaison** (outil « comme »)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La nuit étend son manteau noir sur le village », il y a…",
+     "options": [
+      "un sens propre",
+      "une métaphore",
+      "une comparaison"
+     ],
+     "answer": 1,
+     "explain": "La nuit est comparée à un manteau sans outil de comparaison : c’est une métaphore."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases pour chaque mot : une au sens propre et une au sens figuré.",
+     "items": [
+      "brûler",
+      "froid",
+      "lourd"
+     ],
+     "corrige": [
+      "Réponses possibles : brûler — « Le bois **brûle** dans le foyer. » / « Il **brûle** d’impatience. »",
+      "froid — « Le vent est **froid**. » / « Elle m’a répondu d’un ton **froid**. »",
+      "lourd — « Ce sac est **lourd**. » / « Un **lourd** silence s’installe. »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque expression figurée avec le mot qui convient : or, mule, cordes, bœuf.",
+     "items": [
+      "Il a un cœur d’…",
+      "Elle est têtue comme une …",
+      "Il pleut des …",
+      "Il est fort comme un …"
+     ],
+     "corrige": [
+      "Il a un cœur d’**or** (il est très généreux).",
+      "Elle est têtue comme une **mule** (très obstinée).",
+      "Il pleut des **cordes** (il pleut très fort).",
+      "Il est fort comme un **bœuf** (très fort)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace chaque expression figurée par un mot ou un groupe de mots au sens propre.",
+     "items": [
+      "Paul est un moulin à paroles.",
+      "Elle a le cœur gros.",
+      "Il est tombé des nues."
+     ],
+     "corrige": [
+      "Paul est **bavard**.",
+      "Elle est **triste**.",
+      "Il a été **très surpris**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Invente deux phrases avec une métaphore pour décrire la rivière, la pluie ou la nuit.",
+     "corrige": "Exemples : « La rivière est un long ruban d’argent. » « La pluie est un tambour sur les toits. » Vérifiez qu’il n’y a pas d’outil de comparaison (comme, tel, pareil à…)."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le sens propre est le sens premier et concret d’un mot.",
+      "Le sens figuré est un sens imagé, obtenu par comparaison.",
+      "La comparaison utilise un outil (comme) ; la métaphore n’en a pas."
+     ]
+    }
+   ]
+  }
+ ]
+}
