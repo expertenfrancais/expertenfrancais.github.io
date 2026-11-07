@@ -1,0 +1,308 @@
+{
+ "id": 10001,
+ "meta": {"t":"Le groupe verbal : verbe + cc","k":"Fiches","n":"5e","m":"Grammaire","img":"e","r":4.8,"fn":1},
+ "type": "fiche",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "",
+  "objectifSpecifique": "",
+  "titre": "Le groupe verbal : verbe + cc",
+  "theme": "",
+  "objet": "Le groupe verbal : verbe + cc",
+  "numero": 1,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "",
+  "documentation": ""
+ },
+ "oo": "À la fin de la séance portant sur « Le groupe verbal : verbe + cc », l’élève doit être capable d’identifier le verbe et le complément circonstanciel (cc) dans des phrases simples, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et dire ce qui change.",
+   "texte": "Les élèves lisent.\nLes élèves lisent dans la cour après la récréation.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle différence voyez-vous entre les deux phrases ?"
+    },
+    {
+     "n": 2,
+     "q": "Quels mots ont été ajoutés ?"
+    }
+   ],
+   "activite": "Observation des deux phrases",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "La deuxième phrase donne plus de renseignements : elle dit où et quand les élèves lisent."
+    },
+    {
+     "n": 2,
+     "r": "Les mots « dans la cour » et « après la récréation » ont été ajoutés."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à trouver le verbe et les mots qui disent où, quand ou comment l’action se passe. À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un verbe ?"
+    },
+    {
+     "n": 4,
+     "q": "Comment trouver le sujet d’une phrase ?"
+    },
+    {
+     "n": 5,
+     "q": "Quel est le verbe dans la phrase : « Léa chante dans le jardin. » ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Un verbe est un mot qui exprime une action ou un état et qui se conjugue."
+    },
+    {
+     "n": 4,
+     "r": "On pose la question « Qui est-ce qui ? » ou « Qu’est-ce qui ? » devant le verbe."
+    },
+    {
+     "n": 5,
+     "r": "Le verbe est « chante »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et repérer le verbe et les mots qui donnent le lieu, le temps ou la manière.",
+     "texte": "1. Mon frère travaille dans sa chambre. 2. Les oiseaux chantent le matin. 3. La directrice parle calmement aux parents. 4. Nous jouons au ballon après la classe.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quel est le verbe de la phrase 1 ?"
+      },
+      {
+       "n": 7,
+       "q": "Que précise « dans sa chambre » ?"
+      },
+      {
+       "n": 8,
+       "q": "Que précisent « le matin », « calmement » et « après la classe » ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Le verbe est « travaille »."
+      },
+      {
+       "n": 7,
+       "r": "Il précise le lieu de l’action."
+      },
+      {
+       "n": 8,
+       "r": "« Le matin » et « après la classe » précisent le temps ; « calmement » précise la manière."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Relever dans chaque phrase le verbe et le cc, tester leur suppression ou leur déplacement en sous-groupes, puis présenter les résultats en plénière.",
+     "texte": "1. Mon frère travaille dans sa chambre. 2. Les oiseaux chantent le matin. 3. La directrice parle calmement aux parents. 4. Nous jouons au ballon après la classe.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Peut-on supprimer ou déplacer le cc sans rendre la phrase incorrecte ?"
+      },
+      {
+       "n": 10,
+       "q": "De quoi le groupe verbal est-il formé dans la phrase 1 ?"
+      }
+     ],
+     "activite": "Manipulation des phrases et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "Oui, le cc peut être supprimé ou déplacé : « Dans sa chambre, mon frère travaille. »"
+      },
+      {
+       "n": 10,
+       "r": "Il est formé du verbe « travaille » et du cc « dans sa chambre »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : le groupe verbal est formé du verbe, qui peut être accompagné d’un ou de plusieurs compléments circonstanciels (cc). Le cc indique le lieu, le temps ou la manière ; il est facultatif et peut être déplacé ou supprimé.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Souligner le verbe et encadrer le cc dans chacune des cinq phrases.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à reconnaître le groupe verbal formé du verbe et du cc.",
+    "tache": "Identifier le verbe et le cc dans cinq phrases.",
+    "consigne": "Sur ta feuille de copie, souligne le verbe et encadre le cc dans chacune des cinq phrases.",
+    "items": [
+     "Les enfants jouent dans la cour.",
+     "Ma mère rentre ce soir.",
+     "Le chat dort tranquillement sur le canapé.",
+     "Nous visiterons le musée demain.",
+     "Le train arrive à la gare à midi."
+    ],
+    "cle": [
+     "jouent / dans la cour",
+     "rentre / ce soir",
+     "dort / tranquillement, sur le canapé",
+     "visiterons / demain",
+     "arrive / à la gare, à midi"
+    ],
+    "bareme": "1 point par phrase entièrement réussie",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le groupe verbal : verbe + cc",
+  "intro": "Dans cette leçon, tu apprends à trouver le verbe et les mots qui disent où, quand ou comment.",
+  "corpus": [
+   "Mon frère travaille dans sa chambre.",
+   "Les oiseaux chantent le matin.",
+   "La directrice parle calmement aux parents.",
+   "Nous jouons au ballon après la classe."
+  ],
+  "retenir": "Le groupe verbal contient le **verbe**. Il dit l’action ou l’état.\nIl peut contenir un **complément circonstanciel (cc)**.\nLe cc dit le **lieu**, le **temps** ou la **manière**.\nLe cc peut être supprimé ou déplacé.\nExemple : Les élèves **lisent** (verbe) **dans la cour** (cc de lieu).",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe",
+    "cc",
+    "Sens du cc"
+   ],
+   "rows": [
+    [
+     "Mon frère travaille dans sa chambre.",
+     "travaille",
+     "dans sa chambre",
+     "lieu"
+    ],
+    [
+     "Les oiseaux chantent le matin.",
+     "chantent",
+     "le matin",
+     "temps"
+    ],
+    [
+     "La directrice parle calmement aux parents.",
+     "parle",
+     "calmement",
+     "manière"
+    ],
+    [
+     "Nous jouons au ballon après la classe.",
+     "jouons",
+     "après la classe",
+     "temps"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe en rouge et le cc en bleu.",
+    "items": [
+     "Les enfants jouent dans le jardin.",
+     "Ma mère prépare le repas le soir.",
+     "Le bébé dort calmement dans son lit.",
+     "Nous partons demain matin.",
+     "Le professeur explique la leçon au tableau."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je recopie chaque phrase. J’écris le verbe, le cc et son sens (lieu, temps ou manière).",
+    "items": [
+     "Les élèves rangent leurs livres dans le sac.",
+     "Mon oncle arrive ce soir.",
+     "La petite fille chante joyeusement.",
+     "Le bus passe devant l’école.",
+     "Vous mangez à midi."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 (seuil : 4 sur 5). 1. jouent / dans le jardin. 2. prépare / le soir. 3. dort / calmement, dans son lit. 4. partons / demain matin. 5. explique / au tableau.",
+  "Exercice 2 (pas de seuil). 1. rangent / dans le sac (lieu). 2. arrive / ce soir (temps). 3. chante / joyeusement (manière). 4. passe / devant l’école (lieu). 5. mangez / à midi (temps).",
+  "Évaluation de l’étape V (barème : 1 point par phrase entièrement réussie ; seuil : 4 sur 5). 1. jouent / dans la cour. 2. rentre / ce soir. 3. dort / tranquillement, sur le canapé. 4. visiterons / demain. 5. arrive / à la gare, à midi.",
+  "Remarque : dans les phrases 3 et 5, il y a deux cc ; la phrase n’est réussie que si l’élève trouve le verbe et les deux cc."
+ ]
+}
