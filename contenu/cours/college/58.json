@@ -1,0 +1,618 @@
+{
+ "id": 58,
+ "meta": {"t":"Les formes verbales : formes interrogatives et interro-négatives","k":"Cours","n":"3e","m":"Conjugaison","img":"b","r":4.8},
+ "sections": [
+  {
+   "t": "Rappel : la phrase interrogative et ses formes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **phrase interrogative** sert à **poser une question**. À l’écrit, elle se termine par un **point d’interrogation** (?). Elle peut être à la **forme affirmative** (« Viens-tu ? ») ou à la **forme négative** (« Ne viens-tu pas ? »). Dans ce cas, on parle de forme **interro-négative**."
+    },
+    {
+     "type": "def",
+     "label": "Interrogation totale et partielle",
+     "text": "L’interrogation est **totale** quand elle porte sur **toute la phrase** : on répond par **oui**, **non** ou **si**. Elle est **partielle** quand elle porte sur **un élément** : on emploie un **mot interrogatif** (qui, où, quand, pourquoi…)."
+    },
+    {
+     "type": "table",
+     "title": "Interrogation totale et interrogation partielle",
+     "head": [
+      "Type",
+      "Exemple",
+      "Réponse attendue"
+     ],
+     "rows": [
+      [
+       "Totale",
+       "Vas-tu au marché ?",
+       "oui / non"
+      ],
+      [
+       "Partielle",
+       "**Où** vas-tu ?",
+       "un lieu : « Au marché. »"
+      ],
+      [
+       "Partielle",
+       "**Pourquoi** pars-tu ?",
+       "une cause : « Parce que je suis fatigué. »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Mange-t-il** ? → interrogative affirmative. / **Ne mange-t-il pas** ? → interrogative négative (interro-négative)."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour savoir si une question est **totale**, essayez de répondre par **oui** ou **non**. Si c’est possible, elle est totale."
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces questions est une interrogation partielle ?",
+     "options": [
+      "Viens-tu demain ?",
+      "Quand viens-tu ?",
+      "Ne viens-tu pas ?",
+      "Est-ce que tu viens ?"
+     ],
+     "answer": 1,
+     "explain": "« Quand » est un mot interrogatif : on ne peut pas répondre par oui ou non."
+    }
+   ]
+  },
+  {
+   "t": "Les trois manières de poser une question",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour transformer une phrase déclarative en question, on dispose de **trois procédés**. Le choix dépend de la **situation** : conversation familière, langue courante ou texte soutenu."
+    },
+    {
+     "type": "table",
+     "title": "Trois façons d’interroger",
+     "head": [
+      "Procédé",
+      "Exemple",
+      "Niveau de langue"
+     ],
+     "rows": [
+      [
+       "Intonation seule (voix montante)",
+       "Tu viens ?",
+       "familier (surtout à l’oral)"
+      ],
+      [
+       "« Est-ce que » devant la phrase",
+       "Est-ce que tu viens ?",
+       "courant"
+      ],
+      [
+       "Inversion du sujet",
+       "Viens-tu ?",
+       "soutenu (écrit, oral soigné)"
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Inversion du sujet",
+     "text": "L’**inversion** consiste à placer le **pronom sujet après le verbe**, relié par un **trait d’union** : « Tu viens » → « **Viens-tu** ? »."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Elle chante.** → **Chante-t-elle** ? / **Ils sont arrivés.** → **Sont-ils** arrivés ?"
+    },
+    {
+     "type": "warn",
+     "label": "Cumul interdit",
+     "text": "On ne **cumule pas** les procédés : on ne dit pas « Est-ce que viens-tu ? ». Il faut choisir **soit** « est-ce que », **soit** l’inversion."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase utilise l’inversion du sujet ?",
+     "options": [
+      "Tu pars déjà ?",
+      "Est-ce que tu pars ?",
+      "Pars-tu déjà ?",
+      "Pourquoi tu pars ?"
+     ],
+     "answer": 2,
+     "explain": "Le pronom « tu » est placé après le verbe et relié par un trait d’union."
+    }
+   ]
+  },
+  {
+   "t": "L’inversion du sujet : les règles",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’inversion suit des règles précises, selon la nature du **sujet** (pronom ou nom) et la **terminaison** du verbe."
+    },
+    {
+     "type": "h",
+     "text": "Quand le sujet est un pronom personnel"
+    },
+    {
+     "type": "table",
+     "title": "Le pronom est placé après le verbe",
+     "head": [
+      "Pronom",
+      "Phrase déclarative",
+      "Interrogative avec inversion"
+     ],
+     "rows": [
+      [
+       "tu",
+       "Tu lis.",
+       "**Lis-tu** ?"
+      ],
+      [
+       "il / elle / on",
+       "Elle dort.",
+       "**Dort-elle** ?"
+      ],
+      [
+       "nous",
+       "Nous partons.",
+       "**Partons-nous** ?"
+      ],
+      [
+       "vous",
+       "Vous écoutez.",
+       "**Écoutez-vous** ?"
+      ],
+      [
+       "ils / elles",
+       "Ils sont venus.",
+       "**Sont-ils** venus ?"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le « t » euphonique"
+    },
+    {
+     "type": "p",
+     "text": "Quand le verbe se termine par une **voyelle** (a ou e) et que le pronom est **il**, **elle** ou **on**, on intercale un **-t-** entre deux traits d’union pour faciliter la prononciation."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Il chante** → **Chante-t-il** ? / **Elle a fini** → **A-t-elle** fini ? / **On ira** → **Ira-t-on** ?"
+    },
+    {
+     "type": "warn",
+     "label": "Pas de -t- inutile",
+     "text": "On n’ajoute **pas** de -t- si le verbe se termine par un **t** ou un **d** (« Vient-il ? », « Répond-elle ? »)."
+    },
+    {
+     "type": "h",
+     "text": "Quand le sujet est un nom"
+    },
+    {
+     "type": "p",
+     "text": "On garde le nom devant le verbe et on le **reprend** par un pronom placé après le verbe : « Paul vient. » → « **Paul vient-il** ? »."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Les élèves sont arrivés.** → **Les élèves sont-ils** arrivés ?"
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "À la **première personne du singulier**, l’inversion est rare : on préfère « **Est-ce que** je dors ? » à « Dors-je ? ». On trouve toutefois « **Puis-je** ? », « **Suis-je** ? », « **Ai-je** ? »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne écriture ?",
+     "options": [
+      "Chante il ?",
+      "Chante-il ?",
+      "Chante-t-il ?",
+      "Chantes-t-il ?"
+     ],
+     "answer": 2,
+     "explain": "Le verbe finit par une voyelle et le pronom est « il » : on intercale -t- entre deux traits d’union."
+    }
+   ]
+  },
+  {
+   "t": "L’interrogation aux temps composés, avec pronoms et verbes pronominaux",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Aux **temps composés**, c’est l’**auxiliaire** (être ou avoir) qui est **inversé** avec le sujet. Le participe passé reste **derrière**."
+    },
+    {
+     "type": "table",
+     "title": "Interrogation aux temps composés",
+     "head": [
+      "Déclarative",
+      "Interrogative"
+     ],
+     "rows": [
+      [
+       "Tu as fini.",
+       "**As-tu** fini ?"
+      ],
+      [
+       "Elle a chanté.",
+       "**A-t-elle** chanté ?"
+      ],
+      [
+       "Ils sont partis.",
+       "**Sont-ils** partis ?"
+      ],
+      [
+       "Vous aviez compris.",
+       "**Aviez-vous** compris ?"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Avec des pronoms compléments"
+    },
+    {
+     "type": "p",
+     "text": "Les pronoms compléments (**le**, **la**, **les**, **lui**, **y**, **en**…) restent **devant** le verbe (ou devant l’auxiliaire), et le sujet se place **après**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "Tu les as vus. → **Les as-tu** vus ? / Il lui a parlé. → **Lui a-t-il** parlé ?"
+    },
+    {
+     "type": "h",
+     "text": "Avec un verbe pronominal"
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "Tu te lèves. → **Te lèves-tu** ? / Ils se sont lavés. → **Se sont-ils** lavés ?"
+    },
+    {
+     "type": "warn",
+     "label": "Ordre des mots",
+     "text": "Avec un **verbe pronominal**, le pronom réfléchi (**me**, **te**, **se**…) reste **devant** le verbe : on dit « **Te** lèves-tu ? » et non « Lèves-te-tu ? »."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour l’inversion, repérez d’abord le **verbe conjugué** (ou l’**auxiliaire**) : c’est lui qui précède le pronom sujet."
+    },
+    {
+     "type": "quiz",
+     "question": "« Ils se sont levés tôt. » → Quelle est la bonne question ?",
+     "options": [
+      "Se sont-ils levés tôt ?",
+      "Sont-ils se levés tôt ?",
+      "Se ils sont levés tôt ?",
+      "Levés-ils se sont tôt ?"
+     ],
+     "answer": 0,
+     "explain": "Le pronom « se » reste devant l’auxiliaire, puis l’auxiliaire précède le sujet « ils »."
+    }
+   ]
+  },
+  {
+   "t": "La forme interro-négative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La phrase **interro-négative** combine la **question** et la **négation**. Elle sert à exprimer l’**étonnement**, le **reproche**, une **invitation polie** ou une **demande de confirmation**."
+    },
+    {
+     "type": "def",
+     "label": "Interro-négative",
+     "text": "Une phrase **interro-négative** est une phrase interrogative **à la forme négative**. Les deux mots de la négation (**ne** … **pas**) **encadrent** le groupe **verbe + pronom sujet**."
+    },
+    {
+     "type": "table",
+     "title": "Construire une interro-négative",
+     "head": [
+      "Phrase de départ",
+      "Interro-négative"
+     ],
+     "rows": [
+      [
+       "Tu viens.",
+       "**Ne viens-tu pas** ?"
+      ],
+      [
+       "Elle a fini.",
+       "**N’a-t-elle pas** fini ?"
+      ],
+      [
+       "Ils sont partis.",
+       "**Ne sont-ils pas** partis ?"
+      ],
+      [
+       "Tu te lèves.",
+       "**Ne te lèves-tu pas** ?"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les valeurs de l’interro-négative"
+    },
+    {
+     "type": "table",
+     "title": "Que veut dire l’interro-négative ?",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "étonnement",
+       "**N’est-il pas** encore arrivé ?"
+      ],
+      [
+       "reproche",
+       "**N’as-tu pas** honte de ton attitude ?"
+      ],
+      [
+       "invitation polie",
+       "**Ne voulez-vous pas** entrer ?"
+      ],
+      [
+       "demande de confirmation",
+       "**N’est-ce pas** une belle journée ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Place de la négation",
+     "text": "Le mot « **ne** » se place **avant** le verbe et « **pas** » **après** le pronom sujet : « **Ne** viens-tu **pas** ? ». Ce n’est pas « Ne pas viens-tu ? »."
+    },
+    {
+     "type": "tip",
+     "label": "Familier",
+     "text": "En langue familière, on conserve la **négation** mais sans inversion : « Tu ne viens **pas** ? ». À l’écrit, on évite de supprimer « ne »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une interro-négative correcte ?",
+     "options": [
+      "Ne viens-tu pas ?",
+      "Viens-tu ne pas ?",
+      "Ne pas viens-tu ?",
+      "Viens ne-tu pas ?"
+     ],
+     "answer": 0,
+     "explain": "« ne » se place devant le verbe, « pas » derrière le pronom sujet inversé."
+    }
+   ]
+  },
+  {
+   "t": "Répondre à une question : oui, non, si",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour répondre à une question **totale**, on utilise **oui**, **non** ou **si**. Le choix dépend de la **forme** de la question."
+    },
+    {
+     "type": "table",
+     "title": "Oui, non ou si ?",
+     "head": [
+      "Forme de la question",
+      "Pour confirmer",
+      "Pour contredire"
+     ],
+     "rows": [
+      [
+       "Interrogative affirmative",
+       "« Viens-tu ? » → **Oui**, je viens.",
+       "**Non**, je ne viens pas."
+      ],
+      [
+       "Interro-négative",
+       "« Ne viens-tu pas ? » → **Non**, je ne viens pas.",
+       "**Si**, je viens."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le mot « si »",
+     "text": "Le mot « **si** » sert à **répondre oui** à une question **négative** ; il **contredit** la négation posée par la question."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "— **N’as-tu pas** fini ? — **Si**, j’ai fini. (je contredis la négation) / — **Non**, je n’ai pas fini. (je confirme la négation)"
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Après une question négative, répondre « **Oui** » peut être **ambigu**. On emploie donc **si** pour répondre affirmativement."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Retenez : **question négative** + réponse **positive** = **si** ; **question négative** + réponse **négative** = **non**."
+    },
+    {
+     "type": "quiz",
+     "question": "« Ne veux-tu pas du dessert ? » Tu en veux. Que réponds-tu ?",
+     "options": [
+      "Oui",
+      "Si",
+      "Non",
+      "Peut-être"
+     ],
+     "answer": 1,
+     "explain": "Après une question négative, « si » permet de répondre affirmativement."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : transformer par inversion"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase en question avec inversion du sujet.",
+     "items": [
+      "Tu pars demain.",
+      "Elle chante bien.",
+      "Ils ont terminé leur travail.",
+      "Les élèves sont arrivés.",
+      "Vous vous êtes levés tôt."
+     ],
+     "corrige": [
+      "Pars-tu demain ?",
+      "Chante-t-elle bien ?",
+      "Ont-ils terminé leur travail ?",
+      "Les élèves sont-ils arrivés ?",
+      "Vous êtes-vous levés tôt ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : construire l’interro-négative"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque question à la forme interro-négative.",
+     "items": [
+      "Viens-tu ce soir ?",
+      "A-t-elle fini ?",
+      "Sont-ils partis ?",
+      "Te lèves-tu tôt ?"
+     ],
+     "corrige": [
+      "**Ne** viens-tu **pas** ce soir ?",
+      "**N’**a-t-elle **pas** fini ?",
+      "**Ne** sont-ils **pas** partis ?",
+      "**Ne** te lèves-tu **pas** tôt ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : répondre"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réponds par « oui », « non » ou « si » pour dire ce qui est indiqué entre parenthèses.",
+     "items": [
+      "N’as-tu pas faim ? (tu as faim)",
+      "As-tu faim ? (tu as faim)",
+      "Ne viendra-t-il pas ? (il ne viendra pas)",
+      "Ne pars-tu pas ? (tu pars)"
+     ],
+     "corrige": [
+      "**Si**, j’ai faim.",
+      "**Oui**, j’ai faim.",
+      "**Non**, il ne viendra pas.",
+      "**Si**, je pars."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : corriger les erreurs"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur dans chaque phrase.",
+     "items": [
+      "Est-ce que viens-tu ?",
+      "Chante il bien ?",
+      "Ne pas viens-tu ?",
+      "Lèves-te-tu tôt ?"
+     ],
+     "corrige": [
+      "Viens-tu ? / Est-ce que tu viens ? (pas de cumul)",
+      "Chante-t-il bien ? (-t- et traits d’union)",
+      "Ne viens-tu pas ? (place de la négation)",
+      "Te lèves-tu tôt ? (le pronom réfléchi reste devant le verbe)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une interro-négative correcte à un temps composé ?",
+     "options": [
+      "N’a-t-il pas fini ?",
+      "Ne a-t-il pas fini ?",
+      "A-t-il ne pas fini ?",
+      "N’a il pas fini ?"
+     ],
+     "answer": 0,
+     "explain": "Ne + auxiliaire inversé + pas, avec élision de « ne » devant la voyelle."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **phrase interrogative** pose une question ; elle peut être **totale** (réponse par oui / non / si) ou **partielle** (mot interrogatif).",
+      "On interroge par **intonation**, avec **« est-ce que »** ou par **inversion** du sujet.",
+      "Avec l’inversion, le pronom sujet est placé **après** le verbe, **relié par un trait d’union** ; on ajoute **-t-** entre deux voyelles (« Chante-t-il ? »).",
+      "Avec un nom sujet, on **reprend** par un pronom : « Paul vient-il ? ». Aux temps composés, on inverse l’**auxiliaire** et le sujet.",
+      "La forme **interro-négative** encadre « verbe + pronom » par **ne … pas** : « **Ne** viens-tu **pas** ? ».",
+      "Après une question négative, on répond **si** pour dire oui, **non** pour confirmer la négation."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif",
+     "head": [
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Interrogative (intonation)",
+       "Tu viens ?"
+      ],
+      [
+       "Interrogative (« est-ce que »)",
+       "Est-ce que tu viens ?"
+      ],
+      [
+       "Interrogative (inversion)",
+       "Viens-tu ?"
+      ],
+      [
+       "Interro-négative",
+       "Ne viens-tu pas ?"
+      ],
+      [
+       "Interro-négative (temps composé)",
+       "N’est-il pas venu ?"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« N’est-il pas venu ? » Il est bien venu. Comment répondre ?",
+     "options": [
+      "Oui.",
+      "Si.",
+      "Non.",
+      "Jamais."
+     ],
+     "answer": 1,
+     "explain": "On répond « si » pour affirmer après une question négative."
+    }
+   ]
+  }
+ ]
+}

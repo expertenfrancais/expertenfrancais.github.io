@@ -1,0 +1,958 @@
+{
+ "id": 27,
+ "meta": {"t":"Les temps composés","k":"Cours","n":"5e","m":"Conjugaison","img":"c","r":4.8},
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un temps composé ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans le cours sur les temps simples, le verbe s’écrivait en **un seul mot**. Un **temps composé**, lui, s’écrit en **deux parties** : un **auxiliaire** suivi d’un **participe passé**."
+    },
+    {
+     "type": "def",
+     "label": "Temps composé",
+     "text": "Un **temps composé** se forme avec l’**auxiliaire** *avoir* ou *être*, conjugué à un **temps simple**, suivi du **participe passé** du verbe : *il a chanté*, *elle est partie*."
+    },
+    {
+     "type": "def",
+     "label": "Auxiliaire",
+     "text": "L’**auxiliaire** (*avoir* ou *être*) est le verbe qui **aide** à former le temps composé. Il porte la **personne** et le **temps**."
+    },
+    {
+     "type": "table",
+     "title": "Chaque temps composé a un temps simple « jumeau »",
+     "head": [
+      "Temps composé",
+      "Auxiliaire conjugué au…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "passé composé",
+       "présent",
+       "il a chanté"
+      ],
+      [
+       "plus-que-parfait",
+       "imparfait",
+       "il avait chanté"
+      ],
+      [
+       "passé antérieur",
+       "passé simple",
+       "il eut chanté"
+      ],
+      [
+       "futur antérieur",
+       "futur simple",
+       "il aura chanté"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un verbe à un temps composé : elle avait chanté",
+     "cells": [
+      {
+       "mot": "elle",
+       "role": "sujet"
+      },
+      {
+       "mot": "avait",
+       "role": "auxiliaire avoir à l’imparfait",
+       "noyau": true
+      },
+      {
+       "mot": "chanté",
+       "role": "participe passé"
+      }
+     ],
+     "note": "L’auxiliaire *avait* est à l’imparfait : le temps composé est donc le **plus-que-parfait**. Le participe passé *chanté* ne change pas de temps."
+    },
+    {
+     "type": "tip",
+     "label": "La recette d’un temps composé",
+     "text": "**Temps composé = auxiliaire à un temps simple + participe passé.** Pour savoir quel est le temps, regarde le temps de l’**auxiliaire**."
+    },
+    {
+     "type": "warn",
+     "label": "Les deux mots ne sont pas toujours collés",
+     "text": "On peut intercaler un mot entre l’auxiliaire et le participe passé : *Il a **souvent** chanté*, *Il n’a **pas** chanté*. C’est toujours un seul verbe, au temps composé."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître l’auxiliaire et le temps",
+     "lines": [
+      "Nous avons mangé. → auxiliaire avoir au présent : passé composé.",
+      "Elle était partie. → auxiliaire être à l’imparfait : plus-que-parfait.",
+      "Tu auras fini. → auxiliaire avoir au futur simple : futur antérieur."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un temps composé se forme avec…",
+     "options": [
+      "un seul mot",
+      "un auxiliaire et un participe passé",
+      "deux verbes à l’infinitif",
+      "un radical et une terminaison"
+     ],
+     "answer": 1,
+     "explain": "Un temps composé associe l’auxiliaire avoir ou être et le participe passé du verbe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque verbe, dis quel est l’auxiliaire et à quel temps il est conjugué.",
+     "items": [
+      "Nous avons fini.",
+      "Elle était arrivée.",
+      "Ils auront mangé.",
+      "Tu as chanté."
+     ],
+     "corrige": [
+      "1. avons : auxiliaire avoir au présent",
+      "2. était : auxiliaire être à l’imparfait",
+      "3. auront : auxiliaire avoir au futur simple",
+      "4. as : auxiliaire avoir au présent"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Choisir l’auxiliaire : avoir ou être",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour former un temps composé, il faut choisir le bon auxiliaire. La plupart des verbes se conjuguent avec **avoir** ; un petit nombre se conjuguent avec **être**."
+    },
+    {
+     "type": "h",
+     "text": "Les verbes conjugués avec avoir"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Le verbe **avoir** lui-même : *il a eu*.",
+      "Le verbe **être** : *il a été*.",
+      "**Tous les verbes qui ont un complément d’objet** : *Awa a mangé une mangue*.",
+      "La grande majorité des autres verbes : *nous avons dormi*, *ils ont couru*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les verbes conjugués avec être"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Quelques verbes de **mouvement** ou de **changement d’état** : *aller, venir, arriver, partir, entrer, sortir, monter, descendre, tomber, rester, naître, mourir, devenir*.",
+      "**Tous les verbes pronominaux** (ceux qui se conjuguent avec *se*) : *elle s’est lavée*, *nous nous sommes levés*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Avoir et être au présent",
+     "head": [
+      "Personne",
+      "avoir",
+      "être"
+     ],
+     "rows": [
+      [
+       "je",
+       "ai",
+       "suis"
+      ],
+      [
+       "tu",
+       "as",
+       "es"
+      ],
+      [
+       "il / elle",
+       "a",
+       "est"
+      ],
+      [
+       "nous",
+       "avons",
+       "sommes"
+      ],
+      [
+       "vous",
+       "avez",
+       "êtes"
+      ],
+      [
+       "ils / elles",
+       "ont",
+       "sont"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Monter, descendre, sortir, rentrer… avec un complément d’objet",
+     "text": "Quand ces verbes ont un **complément d’objet direct**, ils prennent **avoir** : *Elle **a sorti** son cahier*. Sans complément d’objet, ils prennent **être** : *Elle **est sortie***."
+    },
+    {
+     "type": "warn",
+     "label": "Les verbes pronominaux : toujours être",
+     "text": "On dit *Je me **suis** levé* et jamais « je me ai levé ». Même quand le verbe a un complément d’objet, l’auxiliaire reste **être** : *Elle s’**est** lavé les mains*."
+    },
+    {
+     "type": "tip",
+     "label": "Le test du sens",
+     "text": "Un verbe qui indique qu’on **va quelque part** ou qu’on **change d’état** (arriver, partir, tomber) prend le plus souvent **être**."
+    },
+    {
+     "type": "test",
+     "title": "Quel auxiliaire ?",
+     "lines": [
+      "Elle est arrivée hier. → arriver : être.",
+      "Nous avons fini. → finir a un complément possible : avoir.",
+      "Ils se sont lavés. → verbe pronominal : être."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elle a tombé.",
+      "Elle est tombée.",
+      "Elle ont tombé.",
+      "Elle être tombée."
+     ],
+     "answer": 1,
+     "explain": "Le verbe tomber se conjugue avec être : elle est tombée."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec l’auxiliaire qui convient (présent).",
+     "items": [
+      "Nous ___ fini l’exercice.",
+      "Elles ___ parties tôt.",
+      "Tu ___ mangé une mangue.",
+      "Je me ___ levé tôt.",
+      "Il ___ tombé."
+     ],
+     "corrige": [
+      "1. avons",
+      "2. sont",
+      "3. as",
+      "4. suis",
+      "5. est"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le participe passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **participe passé** est la deuxième partie d’un temps composé. Avant de conjuguer, il faut savoir le **former** et l’**écrire** correctement."
+    },
+    {
+     "type": "def",
+     "label": "Participe passé",
+     "text": "Le **participe passé** est une forme du verbe qui ne se conjugue pas seule. Associé à un **auxiliaire**, il forme les temps composés : *j’ai **chanté***, *il est **parti***."
+    },
+    {
+     "type": "h",
+     "text": "Comment le former"
+    },
+    {
+     "type": "table",
+     "title": "Les participes passés les plus fréquents",
+     "head": [
+      "Infinitif",
+      "Participe passé",
+      "Groupe"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chanté",
+       "1er groupe : -é"
+      ],
+      [
+       "aller",
+       "allé",
+       "1er groupe : -é"
+      ],
+      [
+       "finir",
+       "fini",
+       "2e groupe : -i"
+      ],
+      [
+       "vendre",
+       "vendu",
+       "3e groupe : -u"
+      ],
+      [
+       "voir",
+       "vu",
+       "3e groupe : -u"
+      ],
+      [
+       "prendre",
+       "pris",
+       "3e groupe : -is"
+      ],
+      [
+       "mettre",
+       "mis",
+       "3e groupe : -is"
+      ],
+      [
+       "faire",
+       "fait",
+       "3e groupe : -it"
+      ],
+      [
+       "ouvrir",
+       "ouvert",
+       "3e groupe : -ert"
+      ],
+      [
+       "être",
+       "été",
+       "verbe très irrégulier"
+      ],
+      [
+       "avoir",
+       "eu",
+       "verbe très irrégulier"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "**1er groupe** : on remplace *-er* par **-é**.",
+      "**2e groupe** : on remplace *-ir* par **-i**.",
+      "**3e groupe** : la terminaison varie (*-u, -i, -is, -it, -ert…*) : il faut l’apprendre."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "-é ou -er ?",
+     "text": "Ne confonds pas le **participe passé** (*chanté*) et l’**infinitif** (*chanter*). Remplace le verbe par un verbe du 3e groupe : *Il a chanté* → *Il a vendu* (participe passé, donc **-é**). *Il va chanter* → *Il va vendre* (infinitif, donc **-er**)."
+    },
+    {
+     "type": "tip",
+     "label": "Trouver la consonne finale",
+     "text": "Pour savoir comment finit un participe passé du 3e groupe, mets-le au **féminin** : *pris → prise*, *fait → faite*, *ouvert → ouverte*. La consonne qui s’entend est celle qu’on écrit."
+    },
+    {
+     "type": "ex",
+     "text": "Hier, Awa a **fini** son travail et elle a **pris** son cahier.",
+     "label": "Dans une phrase"
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître le participe passé",
+     "lines": [
+      "J’ai mangé. → participe passé du 1er groupe, en -é.",
+      "Elle a fini. → participe passé du 2e groupe, en -i.",
+      "Nous avons vu un lion. → participe passé du verbe voir."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le participe passé du verbe prendre ?",
+     "options": [
+      "prendu",
+      "pris",
+      "prenu",
+      "prit"
+     ],
+     "answer": 1,
+     "explain": "Le participe passé de prendre est « pris » (féminin : prise)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le participe passé de chaque verbe.",
+     "items": [
+      "jouer",
+      "finir",
+      "vendre",
+      "faire",
+      "mettre"
+     ],
+     "corrige": [
+      "1. joué",
+      "2. fini",
+      "3. vendu",
+      "4. fait",
+      "5. mis"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le passé composé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **passé composé** est le temps du passé que l’on emploie le plus à l’oral et dans les récits courants."
+    },
+    {
+     "type": "def",
+     "label": "Passé composé",
+     "text": "Le **passé composé** se forme avec l’**auxiliaire** *avoir* ou *être* au **présent**, suivi du **participe passé**. Il exprime une action **passée** et **terminée**, souvent liée au présent."
+    },
+    {
+     "type": "table",
+     "title": "Le passé composé de chanter (avoir) et de partir (être)",
+     "head": [
+      "Personne",
+      "chanter",
+      "partir"
+     ],
+     "rows": [
+      [
+       "je",
+       "j’ai chanté",
+       "je suis parti(e)"
+      ],
+      [
+       "tu",
+       "tu as chanté",
+       "tu es parti(e)"
+      ],
+      [
+       "il / elle",
+       "il a chanté",
+       "il est parti, elle est partie"
+      ],
+      [
+       "nous",
+       "nous avons chanté",
+       "nous sommes parti(e)s"
+      ],
+      [
+       "vous",
+       "vous avez chanté",
+       "vous êtes parti(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "ils ont chanté",
+       "ils sont partis, elles sont parties"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "L’accord du participe passé"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Avec **être**, le participe passé s’accorde avec le **sujet** : *Awa est **partie**.* *Les garçons sont **partis**.*",
+      "Avec **avoir**, le participe passé ne s’accorde **pas** avec le sujet : *Awa a **chanté**.* *Elles ont **chanté**.*"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Hier, nous **avons visité** le musée, puis nous **sommes rentrés**.",
+     "label": "Avec avoir, puis avec être"
+    },
+    {
+     "type": "warn",
+     "label": "Pas d’accord avec le sujet quand il y a avoir",
+     "text": "On écrit **Les filles ont chanté**, et non « les filles ont chantées ». Le participe passé employé avec *avoir* ne s’accorde pas avec le sujet."
+    },
+    {
+     "type": "tip",
+     "label": "Pour aller plus loin",
+     "text": "Avec **avoir**, le participe passé s’accorde avec le **complément d’objet direct** quand il est placé **avant** le verbe : *les mangues que j’ai **mangées***. Tu approfondiras cette règle plus tard."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître le passé composé",
+     "lines": [
+      "Nous avons mangé du riz. → passé composé, auxiliaire avoir.",
+      "Elle est arrivée tôt. → passé composé, auxiliaire être, accord avec le sujet.",
+      "Ils se sont lavés. → passé composé d’un verbe pronominal."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Les filles ont chantées.",
+      "Les filles sont chanté.",
+      "Les filles ont chanté.",
+      "Les filles sont chantés."
+     ],
+     "answer": 2,
+     "explain": "Avec avoir, le participe passé ne s’accorde pas avec le sujet : les filles ont chanté."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au passé composé.",
+     "items": [
+      "jouer, nous",
+      "finir, tu",
+      "partir, elle",
+      "prendre, ils",
+      "arriver, elles"
+     ],
+     "corrige": [
+      "1. nous avons joué",
+      "2. tu as fini",
+      "3. elle est partie",
+      "4. ils ont pris",
+      "5. elles sont arrivées"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le plus-que-parfait",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **plus-que-parfait** sert à parler d’une action passée qui s’est produite **avant** une autre action passée."
+    },
+    {
+     "type": "def",
+     "label": "Plus-que-parfait",
+     "text": "Le **plus-que-parfait** se forme avec l’**auxiliaire** *avoir* ou *être* à l’**imparfait**, suivi du **participe passé**. Il exprime une action **passée**, déjà **terminée** avant une autre action passée."
+    },
+    {
+     "type": "table",
+     "title": "Le plus-que-parfait de chanter (avoir) et de partir (être)",
+     "head": [
+      "Personne",
+      "chanter",
+      "partir"
+     ],
+     "rows": [
+      [
+       "je",
+       "j’avais chanté",
+       "j’étais parti(e)"
+      ],
+      [
+       "tu",
+       "tu avais chanté",
+       "tu étais parti(e)"
+      ],
+      [
+       "il / elle",
+       "il avait chanté",
+       "il était parti, elle était partie"
+      ],
+      [
+       "nous",
+       "nous avions chanté",
+       "nous étions parti(e)s"
+      ],
+      [
+       "vous",
+       "vous aviez chanté",
+       "vous étiez parti(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "ils avaient chanté",
+       "ils étaient partis, elles étaient parties"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Quand l’emploie-t-on ?"
+    },
+    {
+     "type": "ex",
+     "text": "Quand je suis arrivé, le bus **était** déjà **parti**. (le bus est parti avant mon arrivée)",
+     "label": "Action antérieure"
+    },
+    {
+     "type": "ex",
+     "text": "Awa **avait fini** ses devoirs quand son frère est rentré.",
+     "label": "Action antérieure"
+    },
+    {
+     "type": "p",
+     "text": "Les règles d’accord sont les mêmes que pour le passé composé : avec **être**, on accorde le participe avec le **sujet** ; avec **avoir**, on ne l’accorde pas avec le sujet."
+    },
+    {
+     "type": "warn",
+     "label": "Passé composé ou plus-que-parfait ?",
+     "text": "Regarde l’**auxiliaire** : *il a fini* (présent, passé composé) ; *il avait fini* (imparfait, plus-que-parfait). Le plus-que-parfait est toujours **plus ancien** que l’autre action passée."
+    },
+    {
+     "type": "tip",
+     "label": "La ligne du temps",
+     "text": "Dans « Quand je suis arrivé, le bus était déjà parti », l’action la plus **ancienne** (le départ du bus) est au **plus-que-parfait**. L’action plus récente (mon arrivée) est au **passé composé**."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître le plus-que-parfait",
+     "lines": [
+      "Elle avait mangé avant de partir. → plus-que-parfait.",
+      "Nous étions arrivés trop tard. → plus-que-parfait.",
+      "Tu avais fini ton exercice. → plus-que-parfait."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quand je suis arrivé, le bus était déjà parti », quelle action s’est passée en premier ?",
+     "options": [
+      "mon arrivée",
+      "le départ du bus",
+      "les deux en même temps",
+      "on ne peut pas savoir"
+     ],
+     "answer": 1,
+     "explain": "Le plus-que-parfait (était parti) exprime l’action antérieure : le bus est parti avant mon arrivée."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au plus-que-parfait.",
+     "items": [
+      "manger, je",
+      "sortir, il",
+      "finir, nous",
+      "venir, elles",
+      "voir, tu"
+     ],
+     "corrige": [
+      "1. j’avais mangé",
+      "2. il était sorti",
+      "3. nous avions fini",
+      "4. elles étaient venues",
+      "5. tu avais vu"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le futur antérieur et le passé antérieur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces deux temps composés expriment une action **terminée avant** une autre action : l’une dans le **futur**, l’autre dans le **passé**."
+    },
+    {
+     "type": "h",
+     "text": "Le futur antérieur"
+    },
+    {
+     "type": "def",
+     "label": "Futur antérieur",
+     "text": "Le **futur antérieur** se forme avec l’**auxiliaire** *avoir* ou *être* au **futur simple**, suivi du **participe passé**. Il exprime une action **future**, terminée **avant** une autre action future."
+    },
+    {
+     "type": "ex",
+     "text": "Quand tu **arriveras**, j’**aurai fini** mon travail. (je finis avant que tu arrives)",
+     "label": "Futur antérieur"
+    },
+    {
+     "type": "ex",
+     "text": "Dès que nous **aurons fini**, nous **sortirons**.",
+     "label": "Futur antérieur"
+    },
+    {
+     "type": "h",
+     "text": "Le passé antérieur"
+    },
+    {
+     "type": "def",
+     "label": "Passé antérieur",
+     "text": "Le **passé antérieur** se forme avec l’**auxiliaire** *avoir* ou *être* au **passé simple**, suivi du **participe passé**. On l’emploie dans les **récits écrits**, avec le passé simple, après *quand*, *lorsque*, *dès que*, *après que*."
+    },
+    {
+     "type": "ex",
+     "text": "Quand il **eut fini**, il **sortit**. (il a fini d’abord, puis il est sorti)",
+     "label": "Passé antérieur"
+    },
+    {
+     "type": "table",
+     "title": "Futur antérieur et passé antérieur de chanter",
+     "head": [
+      "Personne",
+      "futur antérieur",
+      "passé antérieur"
+     ],
+     "rows": [
+      [
+       "je",
+       "j’aurai chanté",
+       "j’eus chanté"
+      ],
+      [
+       "tu",
+       "tu auras chanté",
+       "tu eus chanté"
+      ],
+      [
+       "il / elle",
+       "il aura chanté",
+       "il eut chanté"
+      ],
+      [
+       "nous",
+       "nous aurons chanté",
+       "nous eûmes chanté"
+      ],
+      [
+       "vous",
+       "vous aurez chanté",
+       "vous eûtes chanté"
+      ],
+      [
+       "ils / elles",
+       "ils auront chanté",
+       "ils eurent chanté"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Avec **être**, on écrit par exemple : *il sera parti*, *elle sera partie* (futur antérieur) ; *il fut parti*, *elle fut partie* (passé antérieur)."
+    },
+    {
+     "type": "table",
+     "title": "Quel temps composé pour quel temps simple ?",
+     "head": [
+      "Action principale",
+      "Action antérieure"
+     ],
+     "rows": [
+      [
+       "présent : il chante",
+       "passé composé : il a chanté"
+      ],
+      [
+       "imparfait : il chantait",
+       "plus-que-parfait : il avait chanté"
+      ],
+      [
+       "passé simple : il chanta",
+       "passé antérieur : il eut chanté"
+      ],
+      [
+       "futur simple : il chantera",
+       "futur antérieur : il aura chanté"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Futur antérieur ou futur simple ?",
+     "text": "*J’aurai fini* (futur antérieur) : l’action sera **terminée** à un moment du futur. *Je finirai* (futur simple) : l’action aura lieu dans le futur, sans idée de fin préalable."
+    },
+    {
+     "type": "tip",
+     "label": "Le passé antérieur à l’oral",
+     "text": "À l’oral, on ne dit presque jamais « il eut fini ». On dit plutôt *quand il a fini* ou *quand il avait fini*. Le passé antérieur se rencontre surtout dans les **livres**."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître ces temps",
+     "lines": [
+      "Demain, j’aurai terminé mon devoir. → futur antérieur.",
+      "Quand il eut fini, il partit. → passé antérieur.",
+      "Elle sera arrivée avant midi. → futur antérieur."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps exprime une action future terminée avant une autre action future ?",
+     "options": [
+      "le futur simple",
+      "le futur antérieur",
+      "le plus-que-parfait",
+      "le passé composé"
+     ],
+     "answer": 1,
+     "explain": "Le futur antérieur situe une action dans le futur, avant une autre action future."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au temps demandé.",
+     "items": [
+      "finir, futur antérieur, nous",
+      "partir, futur antérieur, elle",
+      "manger, passé antérieur, ils",
+      "sortir, passé antérieur, il"
+     ],
+     "corrige": [
+      "1. nous aurons fini",
+      "2. elle sera partie",
+      "3. ils eurent mangé",
+      "4. il fut sorti"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices pour t’entraîner. Fais-les d’abord sans regarder le corrigé, puis vérifie."
+    },
+    {
+     "type": "h",
+     "text": "Choisir l’auxiliaire et accorder"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le participe passé entre parenthèses, correctement accordé.",
+     "items": [
+      "Awa est (partir) hier.",
+      "Les garçons sont (arriver) en retard.",
+      "Elles ont (chanter) toute la soirée.",
+      "Nous (des filles) sommes (rentrer) tôt."
+     ],
+     "corrige": [
+      "1. partie",
+      "2. arrivés",
+      "3. chanté",
+      "4. rentrées"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Conjuguer à un temps composé"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le verbe au temps composé demandé.",
+     "items": [
+      "jouer, passé composé, nous",
+      "finir, plus-que-parfait, tu",
+      "prendre, passé composé, ils",
+      "arriver, plus-que-parfait, elles",
+      "voir, futur antérieur, je"
+     ],
+     "corrige": [
+      "1. nous avons joué",
+      "2. tu avais fini",
+      "3. ils ont pris",
+      "4. elles étaient arrivées",
+      "5. j’aurai vu"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le temps de « il avait fini » ?",
+     "options": [
+      "le passé composé",
+      "le plus-que-parfait",
+      "le futur antérieur",
+      "le passé antérieur"
+     ],
+     "answer": 1,
+     "explain": "L’auxiliaire « avait » est à l’imparfait : c’est le plus-que-parfait."
+    },
+    {
+     "type": "h",
+     "text": "Quand… l’action antérieure"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes entre parenthèses au temps qui convient.",
+     "items": [
+      "Quand tu (arriver), j’(finir) mon travail.",
+      "Dès que nous (finir) l’exercice, nous (sortir).",
+      "Demain à midi, il (terminer) son devoir."
+     ],
+     "corrige": [
+      "1. arriveras ; aurai fini",
+      "2. aurons fini ; sortirons",
+      "3. aura terminé"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître le temps composé"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le temps composé de chaque verbe en gras.",
+     "items": [
+      "Ils **étaient partis**.",
+      "Elle **a chanté**.",
+      "J’**aurai fini**.",
+      "Il **eut fini**."
+     ],
+     "corrige": [
+      "1. plus-que-parfait",
+      "2. passé composé",
+      "3. futur antérieur",
+      "4. passé antérieur"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **temps composé** = **auxiliaire** (*avoir* ou *être*) à un temps simple + **participe passé**.",
+      "On emploie **être** avec les verbes pronominaux et quelques verbes de mouvement (*aller, arriver, partir, tomber…*) ; **avoir** avec presque tous les autres.",
+      "Avec **être**, le participe passé s’accorde avec le **sujet**. Avec **avoir**, il ne s’accorde pas avec le sujet.",
+      "Le **passé composé** exprime une action passée terminée ; le **plus-que-parfait** une action passée antérieure à une autre ; le **futur antérieur** une action future terminée avant une autre ; le **passé antérieur** s’emploie dans les récits écrits."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les quatre temps composés de l’indicatif (verbe chanter)",
+     "head": [
+      "Temps",
+      "Formation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "passé composé",
+       "présent + participe passé",
+       "il a chanté"
+      ],
+      [
+       "plus-que-parfait",
+       "imparfait + participe passé",
+       "il avait chanté"
+      ],
+      [
+       "futur antérieur",
+       "futur simple + participe passé",
+       "il aura chanté"
+      ],
+      [
+       "passé antérieur",
+       "passé simple + participe passé",
+       "il eut chanté"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est au futur antérieur ?",
+     "options": [
+      "il avait chanté",
+      "il aura chanté",
+      "il chantera",
+      "il eut chanté"
+     ],
+     "answer": 1,
+     "explain": "« Il aura chanté » : auxiliaire avoir au futur simple + participe passé."
+    }
+   ]
+  }
+ ]
+}

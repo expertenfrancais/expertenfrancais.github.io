@@ -1,0 +1,806 @@
+{
+ "id": 29,
+ "meta": {"t":"La proposition indépendante","k":"Cours","n":"4e","m":"Grammaire","img":"e","r":4.8},
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une proposition ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour comprendre la proposition indépendante, il faut d’abord savoir ce qu’est une **proposition**. C’est la brique de base de toute phrase."
+    },
+    {
+     "type": "def",
+     "label": "Proposition",
+     "text": "Une **proposition** est un groupe de mots organisé autour d’**un verbe conjugué**. Il y a donc **autant de propositions que de verbes conjugués** dans une phrase."
+    },
+    {
+     "type": "table",
+     "title": "Phrase simple et phrase complexe",
+     "head": [
+      "Type de phrase",
+      "Nombre de propositions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "phrase simple",
+       "une seule",
+       "Awa lit un livre."
+      ],
+      [
+       "phrase complexe",
+       "deux ou plus",
+       "Awa lit un livre et son frère dessine."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une proposition : Awa lit un livre",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "lit",
+       "role": "verbe conjugué",
+       "noyau": true
+      },
+      {
+       "mot": "un livre",
+       "role": "complément d’objet direct"
+      }
+     ],
+     "note": "Cette phrase a un seul verbe conjugué (*lit*) : c’est une **phrase simple**, formée d’**une proposition**."
+    },
+    {
+     "type": "tip",
+     "label": "Compter les verbes conjugués",
+     "text": "Pour savoir combien il y a de propositions, **compte les verbes conjugués**. Un verbe composé (*a chanté*) ou un verbe suivi d’un infinitif (*veut partir*) ne compte que pour **un**."
+    },
+    {
+     "type": "warn",
+     "label": "L’infinitif et le participe ne font pas une proposition",
+     "text": "Dans *Awa veut partir*, seul **veut** est conjugué : il y a **une** proposition. De même dans *Elle a chanté* (verbe composé) : **une** proposition."
+    },
+    {
+     "type": "test",
+     "title": "Compter les propositions",
+     "lines": [
+      "Il pleut. → un verbe conjugué (pleut) : une proposition.",
+      "Le soleil brille et les oiseaux chantent. → brille, chantent : deux propositions.",
+      "Awa a fini son travail. → a fini : une proposition."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de propositions y a-t-il dans « Nous mangeons et nous buvons » ?",
+     "options": [
+      "une",
+      "deux",
+      "trois",
+      "quatre"
+     ],
+     "answer": 1,
+     "explain": "Il y a deux verbes conjugués (mangeons, buvons) : deux propositions."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le nombre de propositions de chaque phrase.",
+     "items": [
+      "Le chat dort.",
+      "Il pleut et nous restons à la maison.",
+      "Awa veut partir.",
+      "Je pars car il est tard.",
+      "Elle a chanté, elle a dansé et elle a ri."
+     ],
+     "corrige": [
+      "1. une proposition",
+      "2. deux propositions (pleut, restons)",
+      "3. une proposition (veut est conjugué, partir est à l’infinitif)",
+      "4. deux propositions (pars, est)",
+      "5. trois propositions (a chanté, a dansé, a ri)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La proposition indépendante",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase complexe, les propositions n’ont pas toutes le même statut. Certaines **dépendent** d’une autre ; d’autres sont **libres**. Ces dernières sont les propositions **indépendantes**."
+    },
+    {
+     "type": "def",
+     "label": "Proposition indépendante",
+     "text": "Une **proposition indépendante** est une proposition qui ne **dépend d’aucune autre** et dont aucune autre ne dépend. Elle a un **sens complet** et peut former **à elle seule une phrase**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Elle contient **un verbe conjugué**.",
+      "Elle a un **sens complet** : on peut l’**isoler** et elle reste une phrase correcte.",
+      "Elle n’est introduite par **aucun mot subordonnant** (*que, qui, quand, si, parce que…*).",
+      "Elle n’est le **complément** d’aucun mot d’une autre proposition."
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Le soleil brille.** (une phrase simple : une proposition indépendante)",
+     "label": "Phrase simple"
+    },
+    {
+     "type": "ex",
+     "text": "**Le soleil brille**, **les enfants jouent dehors**. (deux propositions indépendantes)",
+     "label": "Phrase complexe"
+    },
+    {
+     "type": "table",
+     "title": "Indépendante, principale, subordonnée",
+     "head": [
+      "Proposition",
+      "Elle dépend d’une autre ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "indépendante",
+       "non",
+       "Le soleil brille."
+      ],
+      [
+       "principale",
+       "non, mais une subordonnée dépend d’elle",
+       "Je pense… (que tu as raison)"
+      ],
+      [
+       "subordonnée",
+       "oui",
+       "…que tu as raison"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test de l’isolement",
+     "text": "Isole la proposition. Si **« Awa chante »** reste une phrase correcte, elle est **indépendante**. Si **« qu’il vienne »** ou **« parce qu’il pleut »** reste incomplet, elle est **subordonnée**."
+    },
+    {
+     "type": "warn",
+     "label": "Coordination n’est pas subordination",
+     "text": "Une proposition introduite par *et*, *mais*, *ou*, *donc*, *car*… reste **indépendante** : ces mots **relient** les propositions sans les faire dépendre l’une de l’autre."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître une indépendante",
+     "lines": [
+      "Awa chante. → indépendante : sens complet.",
+      "parce qu’il pleut → subordonnée : sens incomplet seule.",
+      "Le vent souffle et la pluie tombe. → deux indépendantes."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle proposition peut former une phrase à elle seule ?",
+     "options": [
+      "qu’il vienne",
+      "quand il pleut",
+      "Awa chante",
+      "parce qu’il est tard"
+     ],
+     "answer": 2,
+     "explain": "« Awa chante » a un sens complet. Les autres commencent par un mot subordonnant et dépendent d’une autre proposition."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la proposition en gras est indépendante ou non.",
+     "items": [
+      "**Le soleil brille.**",
+      "Je pense **qu’il viendra**.",
+      "**Awa chante** et son frère danse.",
+      "Il sort **quand la pluie s’arrête**.",
+      "Il pleut, **nous restons à la maison**."
+     ],
+     "corrige": [
+      "1. indépendante",
+      "2. non : subordonnée complétive",
+      "3. indépendante",
+      "4. non : subordonnée circonstancielle de temps",
+      "5. indépendante"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les types de propositions indépendantes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une proposition indépendante peut être de **plusieurs types**, comme une phrase simple : elle peut affirmer, questionner, ordonner ou exclamer."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre types",
+     "head": [
+      "Type",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "déclarative",
+       "affirmer, informer",
+       "Awa chante."
+      ],
+      [
+       "interrogative",
+       "poser une question",
+       "Awa chante-t-elle ?"
+      ],
+      [
+       "impérative",
+       "donner un ordre, un conseil",
+       "Chante plus fort !"
+      ],
+      [
+       "exclamative",
+       "exprimer une émotion",
+       "Comme tu chantes bien !"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Elle peut aussi être à la **forme affirmative** (*Il pleut.*) ou à la **forme négative** (*Il ne pleut pas.*)."
+    },
+    {
+     "type": "h",
+     "text": "Dans une phrase complexe"
+    },
+    {
+     "type": "p",
+     "text": "Chaque proposition indépendante a **son propre type**. Dans une même phrase, on peut donc en trouver de types différents."
+    },
+    {
+     "type": "ex",
+     "text": "**Tu es fatigué**, **veux-tu te reposer ?** (déclarative + interrogative)",
+     "label": "Deux types"
+    },
+    {
+     "type": "ex",
+     "text": "**Viens ici**, **je t’attends.** (impérative + déclarative)",
+     "label": "Deux types"
+    },
+    {
+     "type": "tip",
+     "label": "Le point final est un indice",
+     "text": "Une proposition indépendante finissant par **?** est **interrogative**, par **!** elle est **exclamative** ou **impérative**, par **.** elle est le plus souvent **déclarative**."
+    },
+    {
+     "type": "warn",
+     "label": "Où vas-tu ? ou Je me demande où tu vas",
+     "text": "*Où vas-tu ?* est une proposition **indépendante interrogative** (question directe). Dans *Je me demande **où tu vas***, la proposition *où tu vas* est une **subordonnée** : le mot *où* n’est plus un mot interrogatif qui pose une question, mais un mot qui la rattache à la principale."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître le type",
+     "lines": [
+      "Ferme la porte ! → impérative.",
+      "Où habites-tu ? → interrogative.",
+      "Quelle belle journée ! → exclamative."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le type de la proposition « Comme tu chantes bien ! » ?",
+     "options": [
+      "déclarative",
+      "interrogative",
+      "impérative",
+      "exclamative"
+     ],
+     "answer": 3,
+     "explain": "La phrase exprime une émotion : elle est exclamative."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le type de chaque proposition indépendante.",
+     "items": [
+      "Ferme la porte !",
+      "Où habites-tu ?",
+      "Quelle belle journée !",
+      "Awa mange une mangue.",
+      "Ne cours pas !"
+     ],
+     "corrige": [
+      "1. impérative",
+      "2. interrogative",
+      "3. exclamative",
+      "4. déclarative",
+      "5. impérative (à la forme négative)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les propositions indépendantes juxtaposées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Plusieurs propositions indépendantes peuvent se suivre dans une même phrase. Quand rien ne les relie, elles sont **juxtaposées**."
+    },
+    {
+     "type": "def",
+     "label": "Juxtaposition",
+     "text": "Des propositions sont **juxtaposées** quand elles sont placées l’une à côté de l’autre, **sans mot de liaison**, séparées seulement par un **signe de ponctuation**."
+    },
+    {
+     "type": "table",
+     "title": "Les signes de ponctuation de la juxtaposition",
+     "head": [
+      "Signe",
+      "Ce qu’il indique",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "virgule ( , )",
+       "simple succession",
+       "Le vent souffle, les feuilles tombent."
+      ],
+      [
+       "point-virgule ( ; )",
+       "lien plus marqué",
+       "Il pleut ; nous restons à la maison."
+      ],
+      [
+       "deux-points ( : )",
+       "explication, conséquence",
+       "Awa est contente : elle a réussi."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Elle sourit, elle tend la main, elle s’approche. (trois propositions juxtaposées)",
+     "label": "Plusieurs propositions"
+    },
+    {
+     "type": "warn",
+     "label": "Énumération ou juxtaposition ?",
+     "text": "Dans *Awa mange du riz, du poisson et des bananes*, il n’y a **qu’un seul verbe** : c’est une **énumération** de compléments, donc **une seule** proposition. La juxtaposition relie des **propositions**, chacune avec son verbe."
+    },
+    {
+     "type": "tip",
+     "label": "Un verbe, une proposition",
+     "text": "Compte les verbes conjugués : s’il y en a **deux ou plus** séparés par une virgule, un point-virgule ou deux-points, sans mot de liaison, ce sont des propositions **juxtaposées**."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître la juxtaposition",
+     "lines": [
+      "Le soleil se lève, les oiseaux chantent. → deux indépendantes juxtaposées (virgule).",
+      "Il est tard : rentrons. → deux indépendantes juxtaposées (deux-points).",
+      "Je viens ; je vois ; je pars. → trois indépendantes juxtaposées (point-virgule)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient des propositions indépendantes juxtaposées ?",
+     "options": [
+      "Awa mange du riz, du poisson et des bananes.",
+      "Le vent souffle, les feuilles tombent.",
+      "Je pense qu’il viendra.",
+      "Il sort quand la pluie s’arrête."
+     ],
+     "answer": 1,
+     "explain": "« Le vent souffle » et « les feuilles tombent » ont chacune un verbe et sont séparées par une virgule."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les propositions indépendantes juxtaposées de chaque phrase.",
+     "items": [
+      "Le soleil se lève, les oiseaux chantent.",
+      "Il pleut ; nous restons à la maison.",
+      "Awa est contente : elle a réussi son examen.",
+      "Elle sourit, elle tend la main, elle s’approche."
+     ],
+     "corrige": [
+      "1. [Le soleil se lève] [les oiseaux chantent]",
+      "2. [Il pleut] [nous restons à la maison]",
+      "3. [Awa est contente] [elle a réussi son examen]",
+      "4. [Elle sourit] [elle tend la main] [elle s’approche]"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les propositions indépendantes coordonnées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand deux propositions indépendantes sont reliées par un **mot de liaison**, elles sont **coordonnées**."
+    },
+    {
+     "type": "def",
+     "label": "Coordination",
+     "text": "Des propositions sont **coordonnées** quand elles sont reliées par une **conjonction de coordination** (*mais, ou, et, donc, or, ni, car*) ou par un **adverbe de liaison** (*puis, ensuite, pourtant, cependant, en effet, alors…*). Elles restent **indépendantes** l’une de l’autre."
+    },
+    {
+     "type": "table",
+     "title": "Les conjonctions de coordination",
+     "head": [
+      "Mot",
+      "Rapport exprimé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "mais",
+       "opposition",
+       "Il voulait sortir, mais il pleuvait."
+      ],
+      [
+       "ou",
+       "choix",
+       "Tu viens ou tu restes ?"
+      ],
+      [
+       "et",
+       "addition",
+       "Awa chante et Moussa danse."
+      ],
+      [
+       "donc",
+       "conséquence",
+       "Il est fatigué, donc il se repose."
+      ],
+      [
+       "or",
+       "argument, transition",
+       "Il voulait venir ; or il était malade."
+      ],
+      [
+       "ni",
+       "négation",
+       "Il ne chante ni il ne danse."
+      ],
+      [
+       "car",
+       "cause",
+       "Awa est absente, car elle est malade."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Mais où est donc Ornicar ?",
+     "text": "Cette phrase te donne les sept conjonctions de coordination : **Mais, ou, et, donc, or, ni, car**."
+    },
+    {
+     "type": "p",
+     "text": "Devant **mais**, **car** et **or**, on met en général une **virgule** ; on en met souvent une devant **donc**. Devant **et**, **ou** et **ni**, on n’en met en général pas."
+    },
+    {
+     "type": "warn",
+     "label": "Car n’est pas parce que",
+     "text": "**Car** est une conjonction de **coordination** : *Je reste, **car** il pleut* (deux indépendantes coordonnées). **Parce que** est une locution de **subordination** : *Je reste **parce qu’**il pleut* (une principale et une subordonnée)."
+    },
+    {
+     "type": "warn",
+     "label": "Et entre deux mots ou entre deux propositions",
+     "text": "Dans *Awa et Moussa chantent*, *et* relie deux **sujets** : il n’y a qu’**un seul** verbe, donc **une** proposition. Dans *Awa chante **et** Moussa danse*, *et* relie deux **propositions**."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître la coordination",
+     "lines": [
+      "Il est tard, donc nous partons. → deux indépendantes coordonnées par donc.",
+      "Tu viens ou tu restes ? → deux indépendantes coordonnées par ou.",
+      "Elle pleure, car elle a perdu son sac. → deux indépendantes coordonnées par car."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il reste à la maison car il pleut », le mot « car » est…",
+     "options": [
+      "une conjonction de subordination",
+      "une conjonction de coordination",
+      "un adverbe",
+      "une préposition"
+     ],
+     "answer": 1,
+     "explain": "Car est une conjonction de coordination : il relie deux propositions indépendantes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le mot de liaison qui convient (mais, car, donc, ou).",
+     "items": [
+      "Il est fatigué, ___ il se repose.",
+      "Je voulais sortir, ___ il pleuvait.",
+      "Tu viens ___ tu restes ?",
+      "Awa est absente, ___ elle est malade."
+     ],
+     "corrige": [
+      "1. donc",
+      "2. mais",
+      "3. ou",
+      "4. car"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître et analyser les propositions",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser une phrase complexe, il faut **délimiter** les propositions, puis les **nommer**. Voici une méthode."
+    },
+    {
+     "type": "h",
+     "text": "La méthode en quatre étapes"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Souligne** tous les verbes conjugués.",
+      "**Délimite** les propositions : une par verbe conjugué.",
+      "**Repère** les mots de liaison : coordination (*mais, ou, et, donc, or, ni, car*) ou subordination (*que, qui, quand, si, parce que…*).",
+      "**Nomme** chaque proposition : indépendante, principale ou subordonnée."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Les cas à connaître",
+     "head": [
+      "Cas",
+      "Exemple",
+      "Analyse"
+     ],
+     "rows": [
+      [
+       "phrase simple",
+       "Awa chante.",
+       "une proposition indépendante"
+      ],
+      [
+       "juxtaposition",
+       "Il pleut, nous restons.",
+       "deux indépendantes juxtaposées"
+      ],
+      [
+       "coordination",
+       "Il pleut, donc nous restons.",
+       "deux indépendantes coordonnées"
+      ],
+      [
+       "subordination",
+       "Nous restons parce qu’il pleut.",
+       "une principale et une subordonnée"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "La principale n’est pas une indépendante",
+     "text": "Dans *Nous restons parce qu’il pleut*, *nous restons* est une **principale** : une subordonnée **dépend** d’elle. Elle n’est donc pas indépendante."
+    },
+    {
+     "type": "warn",
+     "label": "Qui, que, quand, si, parce que…",
+     "text": "Ces mots **subordonnent** : la proposition qu’ils introduisent est **subordonnée**, jamais indépendante. *L’enfant **qui chante** est mon frère* : *qui chante* est une subordonnée relative."
+    },
+    {
+     "type": "tip",
+     "label": "Pour aller plus loin",
+     "text": "Dans *Il pleut et nous restons à la maison parce qu’il fait froid*, *il pleut* est indépendante ; *nous restons à la maison* est **coordonnée** à la première et **principale** par rapport à *parce qu’il fait froid*, qui est **subordonnée**."
+    },
+    {
+     "type": "test",
+     "title": "Analyser",
+     "lines": [
+      "Le vent souffle et la pluie tombe. → deux indépendantes coordonnées (et).",
+      "Je sais que tu viendras. → une principale et une subordonnée complétive.",
+      "Elle sourit : elle a gagné. → deux indépendantes juxtaposées (deux-points)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Nous restons parce qu’il pleut », combien y a-t-il de propositions indépendantes ?",
+     "options": [
+      "aucune : une principale et une subordonnée",
+      "une",
+      "deux",
+      "trois"
+     ],
+     "answer": 0,
+     "explain": "« Nous restons » est la principale ; « parce qu’il pleut » est la subordonnée. Aucune n’est indépendante."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse chaque phrase (indépendantes juxtaposées ou coordonnées, principale et subordonnée).",
+     "items": [
+      "Le soleil brille, les enfants jouent.",
+      "Awa étudie car l’examen approche.",
+      "Je pense que tu as raison.",
+      "Il est parti sans rien dire.",
+      "Tu viens ou tu restes ?"
+     ],
+     "corrige": [
+      "1. deux indépendantes juxtaposées (virgule)",
+      "2. deux indépendantes coordonnées (car)",
+      "3. une principale (je pense) et une subordonnée complétive (que tu as raison)",
+      "4. une seule proposition indépendante (sans rien dire est à l’infinitif)",
+      "5. deux indépendantes coordonnées (ou)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices pour t’entraîner. Fais-les d’abord sans regarder le corrigé, puis vérifie."
+    },
+    {
+     "type": "h",
+     "text": "Délimiter les propositions"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sépare les propositions avec une barre oblique ( / ).",
+     "items": [
+      "Il pleut nous restons à la maison.",
+      "Awa chante et Moussa danse.",
+      "Je pars car il est tard.",
+      "Tu manges ou tu bois ?"
+     ],
+     "corrige": [
+      "1. Il pleut / nous restons à la maison.",
+      "2. Awa chante / et Moussa danse.",
+      "3. Je pars / car il est tard.",
+      "4. Tu manges / ou tu bois ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Coordonner"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie les deux phrases avec le mot de liaison demandé.",
+     "items": [
+      "Il fait chaud. Nous allons à la plage. (donc)",
+      "Awa est jeune. Elle est courageuse. (et)",
+      "Je voulais venir. J’étais malade. (mais)",
+      "Il court vite. Il veut gagner. (car)"
+     ],
+     "corrige": [
+      "1. Il fait chaud, donc nous allons à la plage.",
+      "2. Awa est jeune et elle est courageuse.",
+      "3. Je voulais venir, mais j’étais malade.",
+      "4. Il court vite car il veut gagner."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient deux propositions indépendantes coordonnées ?",
+     "options": [
+      "Il pleut, nous restons.",
+      "Il pleut donc nous restons.",
+      "Nous restons parce qu’il pleut.",
+      "Nous restons à la maison."
+     ],
+     "answer": 1,
+     "explain": "« Donc » est une conjonction de coordination : il relie deux propositions indépendantes."
+    },
+    {
+     "type": "h",
+     "text": "Juxtaposer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Récris chaque phrase avec une juxtaposition (virgule, point-virgule ou deux-points).",
+     "items": [
+      "Awa est contente car elle a réussi.",
+      "Le soleil se lève et les oiseaux chantent.",
+      "Il pleut donc nous restons."
+     ],
+     "corrige": [
+      "1. Awa est contente : elle a réussi.",
+      "2. Le soleil se lève, les oiseaux chantent.",
+      "3. Il pleut ; nous restons. (d’autres réponses sont possibles)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Types et analyse"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le type de chaque proposition indépendante.",
+     "items": [
+      "Viens ici, je t’attends.",
+      "Tu es fatigué, veux-tu te reposer ?",
+      "Il pleut, quel temps horrible !"
+     ],
+     "corrige": [
+      "1. impérative + déclarative",
+      "2. déclarative + interrogative",
+      "3. déclarative + exclamative"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la phrase : « Awa se lève, elle prend son sac, puis elle part à l’école car elle ne veut pas être en retard. »",
+     "items": [
+      "Combien y a-t-il de propositions ? Comment sont-elles reliées ?"
+     ],
+     "corrige": [
+      "Il y a quatre propositions indépendantes : [Awa se lève] et [elle prend son sac] sont juxtaposées (virgule) ; [puis elle part à l’école] est coordonnée à la précédente (puis) ; [car elle ne veut pas être en retard] est coordonnée (car)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une **proposition** est organisée autour d’**un verbe conjugué**.",
+      "Une **proposition indépendante** ne dépend d’aucune autre, a un sens complet et peut former une phrase à elle seule.",
+      "Elle peut être **déclarative**, **interrogative**, **impérative** ou **exclamative**, à la forme affirmative ou négative.",
+      "Des propositions indépendantes sont **juxtaposées** quand elles sont séparées par une **ponctuation** (, ; :), et **coordonnées** quand elles sont reliées par *mais, ou, et, donc, or, ni, car* ou un adverbe de liaison.",
+      "*Car* relie des indépendantes ; *parce que* introduit une **subordonnée**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les propositions indépendantes dans la phrase",
+     "head": [
+      "Cas",
+      "Marque",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "phrase simple",
+       "aucune",
+       "Awa chante."
+      ],
+      [
+       "juxtaposition",
+       "virgule, point-virgule, deux-points",
+       "Il pleut ; nous restons."
+      ],
+      [
+       "coordination",
+       "mais, ou, et, donc, or, ni, car",
+       "Il pleut donc nous restons."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot ne relie pas deux propositions indépendantes ?",
+     "options": [
+      "mais",
+      "donc",
+      "parce que",
+      "car"
+     ],
+     "answer": 2,
+     "explain": "« Parce que » est un mot subordonnant : il introduit une subordonnée. Les autres sont des conjonctions de coordination."
+    }
+   ]
+  }
+ ]
+}

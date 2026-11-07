@@ -1,0 +1,973 @@
+{
+ "id": 24,
+ "meta": {"t":"Les modes personnels et impersonnels","k":"Cours","n":"5e","m":"Conjugaison","img":"c","r":4.8},
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un mode ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Tu chantes. » « Chante ! » « Il faut que tu chantes. » « Chanter est agréable. » C’est toujours le verbe *chanter*, mais il présente l’action de **quatre façons différentes** : ce sont des **modes**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir le mode d’un verbe",
+      "Distinguer les modes personnels et les modes impersonnels",
+      "Nommer les six modes du français"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Mode",
+     "text": "Le **mode** est la **manière** dont le verbe présente l’action : comme un fait réel, un souhait, un ordre, une possibilité, ou sans personne. Chaque mode a ses propres **temps**."
+    },
+    {
+     "type": "def",
+     "label": "Modes personnels",
+     "text": "Les **modes personnels** ont des **formes différentes pour chaque personne** (*je, tu, il, nous, vous, ils*). Ce sont : l’**indicatif**, le **subjonctif**, le **conditionnel** et l’**impératif**."
+    },
+    {
+     "type": "def",
+     "label": "Modes impersonnels",
+     "text": "Les **modes impersonnels** n’ont **pas de forme propre à chaque personne** : on ne peut pas leur associer un pronom sujet. Ce sont : l’**infinitif** et le **participe**."
+    },
+    {
+     "type": "table",
+     "title": "Les modes",
+     "head": [
+      "Famille",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "personnel",
+       "indicatif",
+       "Il **chante**."
+      ],
+      [
+       "personnel",
+       "subjonctif",
+       "Il faut qu’il **chante**."
+      ],
+      [
+       "personnel",
+       "conditionnel",
+       "Il **chanterait**."
+      ],
+      [
+       "personnel",
+       "impératif",
+       "**Chante** !"
+      ],
+      [
+       "impersonnel",
+       "infinitif",
+       "**chanter**"
+      ],
+      [
+       "impersonnel",
+       "participe",
+       "**chantant**, **chanté**"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un verbe à un mode personnel",
+     "cells": [
+      {
+       "mot": "Nous",
+       "role": "sujet : 1re personne du pluriel"
+      },
+      {
+       "mot": "chantons",
+       "role": "verbe à l’indicatif présent",
+       "noyau": true
+      }
+     ],
+     "note": "Le verbe porte la marque de la personne (*-ons* pour *nous*) : c’est un mode personnel."
+    },
+    {
+     "type": "test",
+     "title": "Personnel ou impersonnel ?",
+     "lines": [
+      "Tu chantes. → le sujet *tu* est exprimé : indicatif, mode personnel.",
+      "Chanter. → aucune personne : infinitif, mode impersonnel.",
+      "Chantant. → aucune personne : participe présent, mode impersonnel."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test du pronom",
+     "text": "Si tu peux placer **je, tu, il, nous, vous, ils** devant le verbe (ou si le verbe en porte la marque), c’est un **mode personnel**. Sinon, c’est un **mode impersonnel**."
+    },
+    {
+     "type": "quiz",
+     "question": "Lequel de ces modes est un mode impersonnel ?",
+     "options": [
+      "l’indicatif",
+      "le subjonctif",
+      "l’infinitif",
+      "l’impératif"
+     ],
+     "answer": 2,
+     "explain": "L’infinitif n’a pas de personne : *chanter* ne change pas avec *je, tu, il…*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le verbe est à un mode personnel ou impersonnel.",
+     "items": [
+      "Nous chantons.",
+      "chanter",
+      "Chante !",
+      "chanté",
+      "Il faut que tu viennes.",
+      "venant"
+     ],
+     "corrige": [
+      "1. personnel (indicatif)",
+      "2. impersonnel (infinitif)",
+      "3. personnel (impératif)",
+      "4. impersonnel (participe passé)",
+      "5. personnel (subjonctif)",
+      "6. impersonnel (participe présent)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’indicatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**indicatif** est le mode que l’on emploie le plus. Il sert à **raconter** et à **décrire**."
+    },
+    {
+     "type": "def",
+     "label": "Indicatif",
+     "text": "L’**indicatif** est le mode du **réel** : il présente l’action comme un **fait certain**, situé dans le **passé**, le **présent** ou le **futur**. C’est le mode qui compte le plus de temps."
+    },
+    {
+     "type": "table",
+     "title": "Les temps de l’indicatif (verbe chanter)",
+     "head": [
+      "Temps",
+      "Exemple",
+      "Époque",
+      "Sorte"
+     ],
+     "rows": [
+      [
+       "présent",
+       "il chante",
+       "présent",
+       "simple"
+      ],
+      [
+       "imparfait",
+       "il chantait",
+       "passé",
+       "simple"
+      ],
+      [
+       "passé simple",
+       "il chanta",
+       "passé",
+       "simple"
+      ],
+      [
+       "futur simple",
+       "il chantera",
+       "futur",
+       "simple"
+      ],
+      [
+       "passé composé",
+       "il a chanté",
+       "passé",
+       "composé"
+      ],
+      [
+       "plus-que-parfait",
+       "il avait chanté",
+       "passé",
+       "composé"
+      ],
+      [
+       "passé antérieur",
+       "il eut chanté",
+       "passé",
+       "composé"
+      ],
+      [
+       "futur antérieur",
+       "il aura chanté",
+       "futur",
+       "composé"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Temps simples et temps composés",
+     "text": "Un temps **simple** s’écrit en un seul mot (*il chante*). Un temps **composé** s’écrit avec l’**auxiliaire** *avoir* ou *être* et un **participe passé** (*il a chanté*)."
+    },
+    {
+     "type": "tip",
+     "label": "Le mode du réel",
+     "text": "Quand tu racontes ce qui **s’est passé**, ce qui **se passe** ou ce qui **se passera**, tu emploies l’**indicatif**."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître l’indicatif",
+     "lines": [
+      "Hier, Awa a mangé une mangue. → indicatif, passé composé.",
+      "Demain, nous partirons. → indicatif, futur simple.",
+      "Il pleuvait. → indicatif, imparfait."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mode exprime un fait réel et certain ?",
+     "options": [
+      "l’indicatif",
+      "le subjonctif",
+      "le conditionnel",
+      "l’impératif"
+     ],
+     "answer": 0,
+     "explain": "L’indicatif présente l’action comme réelle et certaine."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au temps de l’indicatif demandé.",
+     "items": [
+      "jouer, présent, ils",
+      "finir, imparfait, nous",
+      "prendre, futur simple, je",
+      "chanter, passé composé, elle",
+      "aller, imparfait, tu"
+     ],
+     "corrige": [
+      "1. ils jouent",
+      "2. nous finissions",
+      "3. je prendrai",
+      "4. elle a chanté",
+      "5. tu allais"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le subjonctif et le conditionnel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand l’action n’est **pas (encore) réelle** — on la souhaite, on la craint, on l’imagine — on emploie le **subjonctif** ou le **conditionnel**."
+    },
+    {
+     "type": "h",
+     "text": "Le subjonctif"
+    },
+    {
+     "type": "def",
+     "label": "Subjonctif",
+     "text": "Le **subjonctif** est le mode de ce qui est **voulu, souhaité, nécessaire ou douteux**. Il s’emploie souvent après **que**, dans une **subordonnée**."
+    },
+    {
+     "type": "table",
+     "title": "Le subjonctif présent (verbe chanter)",
+     "head": [
+      "Pronom",
+      "Verbe"
+     ],
+     "rows": [
+      [
+       "que je",
+       "chante"
+      ],
+      [
+       "que tu",
+       "chantes"
+      ],
+      [
+       "qu’il / qu’elle",
+       "chante"
+      ],
+      [
+       "que nous",
+       "chantions"
+      ],
+      [
+       "que vous",
+       "chantiez"
+      ],
+      [
+       "qu’ils / qu’elles",
+       "chantent"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quand emploie-t-on le subjonctif ?",
+     "head": [
+      "Après…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "il faut que",
+       "Il faut que tu **viennes**."
+      ],
+      [
+       "je veux que",
+       "Je veux que tu **viennes**."
+      ],
+      [
+       "pour que",
+       "Je parle lentement pour qu’il **comprenne**."
+      ],
+      [
+       "bien que",
+       "Il sort bien qu’il **pleuve**."
+      ],
+      [
+       "je doute que",
+       "Je doute qu’il **vienne**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Tous les « que » ne demandent pas le subjonctif",
+     "text": "« Je sais que tu **viens**. » (indicatif : fait certain) mais « Je veux que tu **viennes**. » (subjonctif : volonté)."
+    },
+    {
+     "type": "h",
+     "text": "Le conditionnel"
+    },
+    {
+     "type": "def",
+     "label": "Conditionnel",
+     "text": "Le **conditionnel** exprime ce qui est **possible**, **imaginé** ou **soumis à une condition**. On l’emploie aussi pour la **politesse**. Il se reconnaît à ses terminaisons **-rais, -rais, -rait, -rions, -riez, -raient**."
+    },
+    {
+     "type": "table",
+     "title": "Les emplois du conditionnel",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "hypothèse",
+       "Si j’avais le temps, je **viendrais**."
+      ],
+      [
+       "politesse",
+       "**Pourriez**-vous m’aider ?"
+      ],
+      [
+       "fait incertain",
+       "Il **serait** malade."
+      ],
+      [
+       "futur dans le passé",
+       "Il a dit qu’il **viendrait**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de conditionnel après « si »",
+     "text": "On ne dit pas « si je **viendrais** » : après *si* on emploie l’**imparfait** (« Si je **venais**, je serais content. »). Le conditionnel est dans l’**autre** proposition."
+    },
+    {
+     "type": "tip",
+     "label": "Une précision",
+     "text": "Dans certaines grammaires, le **conditionnel** est classé comme un **temps de l’indicatif**. Dans ce cours, on le traite comme un **mode** à part."
+    },
+    {
+     "type": "test",
+     "title": "Subjonctif ou conditionnel ?",
+     "lines": [
+      "Il faut que tu viennes. → subjonctif (après *il faut que*).",
+      "Tu viendrais volontiers. → conditionnel (terminaison *-rais*)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au subjonctif ?",
+     "options": [
+      "Je sais que tu viens.",
+      "Il faut que tu viennes.",
+      "Tu viendrais.",
+      "Viens !"
+     ],
+     "answer": 1,
+     "explain": "Après *il faut que*, le verbe est au subjonctif : *que tu viennes*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le verbe en gras est à l’indicatif, au subjonctif ou au conditionnel.",
+     "items": [
+      "Je veux que tu **chantes**.",
+      "**Pourriez**-vous m’aider ?",
+      "Il faut qu’elle **parte**.",
+      "Nous **mangerions** volontiers.",
+      "Tu **manges** du riz."
+     ],
+     "corrige": [
+      "1. subjonctif",
+      "2. conditionnel (politesse)",
+      "3. subjonctif",
+      "4. conditionnel",
+      "5. indicatif"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’impératif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Viens ici ! » « Ferme la porte ! » « Allons-y ! » Ces phrases expriment un **ordre** ou une **demande**. Le verbe est à l’**impératif**."
+    },
+    {
+     "type": "def",
+     "label": "Impératif",
+     "text": "L’**impératif** est le mode de l’**ordre**, du **conseil**, de la **demande** ou de la **défense**. Il n’a que **trois personnes** : *tu, nous, vous*, et le **pronom sujet n’est pas exprimé**."
+    },
+    {
+     "type": "table",
+     "title": "L’impératif présent",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chante",
+       "chantons",
+       "chantez"
+      ],
+      [
+       "finir",
+       "finis",
+       "finissons",
+       "finissez"
+      ],
+      [
+       "prendre",
+       "prends",
+       "prenons",
+       "prenez"
+      ],
+      [
+       "être",
+       "sois",
+       "soyons",
+       "soyez"
+      ],
+      [
+       "avoir",
+       "aie",
+       "ayons",
+       "ayez"
+      ],
+      [
+       "aller",
+       "va",
+       "allons",
+       "allez"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de « s » pour les verbes du 1er groupe",
+     "text": "À la 2e personne du singulier, les verbes du **1er groupe** (et *aller*, *ouvrir*) **n’ont pas de -s** : « **Chante** ! », « **Ouvre** ! », « **Va** ! ». Mais on écrit « Chante**s**-en un » et « Va**s**-y » devant *en* et *y*."
+    },
+    {
+     "type": "warn",
+     "label": "L’ordre négatif",
+     "text": "On peut donner un ordre négatif : « **Ne chante pas** ! » Le verbe reste à l’impératif."
+    },
+    {
+     "type": "tip",
+     "label": "Avec « nous »",
+     "text": "La forme en *-ons* proposée à plusieurs personnes dont on fait partie est un **encouragement** : « **Chantons** ensemble ! »"
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître l’impératif",
+     "lines": [
+      "Ferme la porte ! → pas de sujet, c’est un ordre : impératif.",
+      "Tu fermes la porte. → sujet *tu* : indicatif."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à l’impératif ?",
+     "options": [
+      "Tu manges du riz.",
+      "Mange ton riz !",
+      "Il faut que tu manges.",
+      "Tu mangerais du riz."
+     ],
+     "answer": 1,
+     "explain": "« Mange ton riz ! » exprime un ordre, sans pronom sujet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase en ordre à l’impératif présent.",
+     "items": [
+      "Tu ouvres la porte.",
+      "Tu finis ton travail.",
+      "Tu es sage.",
+      "Vous prenez votre cahier.",
+      "Nous partons."
+     ],
+     "corrige": [
+      "1. Ouvre la porte !",
+      "2. Finis ton travail !",
+      "3. Sois sage !",
+      "4. Prenez votre cahier !",
+      "5. Partons !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les modes impersonnels : infinitif et participe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les modes impersonnels n’ont **pas de personne** : on ne peut pas dire *je chanter* ni *tu chantant*. Il en existe deux : l’**infinitif** et le **participe**."
+    },
+    {
+     "type": "h",
+     "text": "L’infinitif"
+    },
+    {
+     "type": "def",
+     "label": "Infinitif",
+     "text": "L’**infinitif** est le **nom du verbe** : *chanter, finir, prendre*. Il peut être au **présent** (*chanter*) ou au **passé** (*avoir chanté*). Il peut jouer le rôle d’un nom."
+    },
+    {
+     "type": "ex",
+     "text": "**Chanter** est un plaisir. (sujet) — Je veux **chanter**. (complément du verbe)",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "Le participe"
+    },
+    {
+     "type": "def",
+     "label": "Participe",
+     "text": "Le **participe** est une forme du verbe qui peut aussi jouer le rôle d’un **adjectif**. Il existe un **participe présent** en **-ant** (*chantant*) et un **participe passé** (*chanté, fini, pris*)."
+    },
+    {
+     "type": "table",
+     "title": "Les formes des modes impersonnels",
+     "head": [
+      "Mode",
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "infinitif",
+       "présent",
+       "chanter"
+      ],
+      [
+       "infinitif",
+       "passé",
+       "avoir chanté"
+      ],
+      [
+       "participe",
+       "présent",
+       "chantant"
+      ],
+      [
+       "participe",
+       "passé",
+       "chanté"
+      ],
+      [
+       "participe",
+       "passé composé",
+       "ayant chanté"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Accord ou pas ?",
+     "text": "Le **participe présent** est **invariable** : « Les enfants, **chantant**, entrent. » Le **participe passé** employé comme adjectif **s’accorde** : « des fleurs **cueillies** »."
+    },
+    {
+     "type": "tip",
+     "label": "Le gérondif",
+     "text": "On trouve aussi **en + participe présent** : « Il chante **en marchant**. » Cette forme s’appelle le **gérondif** ; elle est souvent rangée avec les modes impersonnels."
+    },
+    {
+     "type": "test",
+     "title": "Infinitif ou participe ?",
+     "lines": [
+      "manger → infinitif présent.",
+      "mangé → participe passé.",
+      "mangeant → participe présent.",
+      "avoir mangé → infinitif passé."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le mode de « chantant » ?",
+     "options": [
+      "l’indicatif",
+      "l’impératif",
+      "le participe",
+      "le subjonctif"
+     ],
+     "answer": 2,
+     "explain": "*Chantant* se termine en *-ant* : c’est le participe présent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la forme est un infinitif ou un participe, et son temps.",
+     "items": [
+      "manger",
+      "mangé",
+      "mangeant",
+      "avoir mangé",
+      "finissant",
+      "prendre"
+     ],
+     "corrige": [
+      "1. infinitif présent",
+      "2. participe passé",
+      "3. participe présent",
+      "4. infinitif passé",
+      "5. participe présent",
+      "6. infinitif présent"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître le mode d’un verbe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver le mode d’un verbe, on cherche des **indices** : le sujet, le mot qui le précède, la terminaison."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Le verbe a-t-il un **sujet** ? Sinon, est-ce un **ordre** (impératif) ou une forme **sans personne** (infinitif, participe) ?",
+      "Est-il précédé de **que** après *il faut, je veux, pour, bien…* ? → **subjonctif**.",
+      "Se termine-t-il en **-rais, -rait, -rions, -riez, -raient** ? → **conditionnel**.",
+      "Sinon, le fait est **réel** : **indicatif**."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Les indices",
+     "head": [
+      "Phrase",
+      "Mode",
+      "Indice"
+     ],
+     "rows": [
+      [
+       "Tu chantes.",
+       "indicatif",
+       "sujet + fait réel"
+      ],
+      [
+       "Il faut que tu chantes.",
+       "subjonctif",
+       "*que* après *il faut*"
+      ],
+      [
+       "Tu chanterais.",
+       "conditionnel",
+       "terminaison *-rais*"
+      ],
+      [
+       "Chante !",
+       "impératif",
+       "ordre sans sujet"
+      ],
+      [
+       "chanter",
+       "infinitif",
+       "aucune personne"
+      ],
+      [
+       "chantant",
+       "participe présent",
+       "terminaison *-ant*"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Une même forme, plusieurs modes",
+     "text": "Certaines formes sont **identiques** dans deux modes : *je chante* (indicatif) / *que je chante* (subjonctif) ; *vous chantez* (indicatif) / *chantez* (impératif). C’est le **sens** de la phrase qui décide."
+    },
+    {
+     "type": "warn",
+     "label": "Futur ou conditionnel ?",
+     "text": "*Je chanterai* est un **futur** de l’indicatif ; *je chanterais* est un **conditionnel**. Seul le **-s** (ou *-ai* / *-ais*) les distingue."
+    },
+    {
+     "type": "test",
+     "title": "Appliquer la méthode",
+     "lines": [
+      "Il faut que tu partes. → *que* après *il faut* : subjonctif.",
+      "Je voudrais un verre d’eau. → politesse, *-drais* : conditionnel.",
+      "En chantant, elle marche. → *chantant* : participe présent (gérondif)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le sens",
+     "text": "Pose-toi la question : est-ce un fait **certain** (indicatif), **voulu ou douteux** (subjonctif), **possible** (conditionnel), un **ordre** (impératif) ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le mode de « Je voudrais un verre d’eau. » ?",
+     "options": [
+      "l’indicatif",
+      "le subjonctif",
+      "le conditionnel",
+      "l’impératif"
+     ],
+     "answer": 2,
+     "explain": "*Voudrais* est un conditionnel de politesse (terminaison *-rais*)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le mode de chaque verbe en gras et justifie.",
+     "items": [
+      "Il faut que tu **viennes**.",
+      "**Viens** !",
+      "Je **mangerais** du riz.",
+      "Nous **mangeons** du riz.",
+      "En **chantant**, elle marche.",
+      "Je veux **manger**."
+     ],
+     "corrige": [
+      "1. subjonctif (*que* après *il faut*)",
+      "2. impératif (ordre sans sujet)",
+      "3. conditionnel (*-rais*)",
+      "4. indicatif (fait réel)",
+      "5. participe présent (gérondif avec *en*)",
+      "6. infinitif (pas de personne)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le mode du verbe en gras et dis s’il est personnel ou impersonnel.",
+     "items": [
+      "Nous **partons** demain.",
+      "Il faut que tu **partes**.",
+      "**Pars** vite !",
+      "Tu **partirais** volontiers.",
+      "**Partir** est difficile.",
+      "**Partant** tôt, il est arrivé."
+     ],
+     "corrige": [
+      "1. indicatif, personnel",
+      "2. subjonctif, personnel",
+      "3. impératif, personnel",
+      "4. conditionnel, personnel",
+      "5. infinitif, impersonnel",
+      "6. participe présent, impersonnel"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quels sont les deux modes impersonnels ?",
+     "options": [
+      "l’indicatif et le subjonctif",
+      "l’infinitif et le participe",
+      "le conditionnel et l’impératif",
+      "l’indicatif et l’impératif"
+     ],
+     "answer": 1,
+     "explain": "L’infinitif et le participe n’ont pas de forme propre à chaque personne."
+    },
+    {
+     "type": "h",
+     "text": "Conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe au mode et au temps demandés.",
+     "items": [
+      "Il faut que tu (venir) — subjonctif présent.",
+      "(aller) — impératif présent, tu.",
+      "Je (prendre) — conditionnel présent.",
+      "Nous (finir) — indicatif futur simple.",
+      "Il faut qu’ils (faire) — subjonctif présent."
+     ],
+     "corrige": [
+      "1. viennes",
+      "2. va",
+      "3. prendrais",
+      "4. finirons",
+      "5. fassent"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme la phrase comme demandé.",
+     "items": [
+      "Tu manges. (ordre)",
+      "Tu viens. (souhait, avec *je veux que*)",
+      "Je viens. (politesse, au conditionnel)",
+      "Il chante. Il marche. (une seule phrase, avec *en* + participe présent)"
+     ],
+     "corrige": [
+      "1. Mange !",
+      "2. Je veux que tu viennes.",
+      "3. Je viendrais volontiers.",
+      "4. Il chante en marchant."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis : « Awa dit à Fatou : « Viens ! Il faut que tu m’aides. Je voudrais finir avant la nuit. » » Donne le mode de chaque verbe en gras : **Viens**, **faut**, **aides**, **voudrais**, **finir**.",
+     "items": [
+      "Viens",
+      "faut",
+      "aides",
+      "voudrais",
+      "finir"
+     ],
+     "corrige": [
+      "1. impératif",
+      "2. indicatif présent",
+      "3. subjonctif présent",
+      "4. conditionnel présent (politesse)",
+      "5. infinitif"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **mode** est la manière dont le verbe présente l’action. Il y a **six modes**.",
+      "Les **modes personnels** ont une forme pour chaque personne : **indicatif**, **subjonctif**, **conditionnel**, **impératif**.",
+      "Les **modes impersonnels** n’ont pas de personne : **infinitif** et **participe**.",
+      "**Indicatif** : le réel. **Subjonctif** : le voulu, le douteux (souvent après *que*). **Conditionnel** : le possible, l’hypothèse, la politesse (*-rais*). **Impératif** : l’ordre, sans sujet, à *tu, nous, vous*.",
+      "**Infinitif** : le nom du verbe. **Participe** : présent en *-ant* (invariable), passé (*chanté*).",
+      "Pour trouver le mode : cherche le **sujet**, le mot qui précède (*que*), la **terminaison** et le **sens**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les six modes",
+     "head": [
+      "Famille",
+      "Mode",
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "personnel",
+       "indicatif",
+       "le réel",
+       "Il chante."
+      ],
+      [
+       "personnel",
+       "subjonctif",
+       "le voulu, le douteux",
+       "Il faut qu’il chante."
+      ],
+      [
+       "personnel",
+       "conditionnel",
+       "le possible",
+       "Il chanterait."
+      ],
+      [
+       "personnel",
+       "impératif",
+       "l’ordre",
+       "Chante !"
+      ],
+      [
+       "impersonnel",
+       "infinitif",
+       "le nom du verbe",
+       "chanter"
+      ],
+      [
+       "impersonnel",
+       "participe",
+       "forme en *-ant* ou *-é*",
+       "chantant, chanté"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il faut que tu viennes. », *viennes* est à quel mode ?",
+     "options": [
+      "l’indicatif",
+      "le subjonctif",
+      "le conditionnel",
+      "l’impératif"
+     ],
+     "answer": 1,
+     "explain": "*Il faut que* est suivi du subjonctif : *que tu viennes*."
+    }
+   ]
+  }
+ ]
+}

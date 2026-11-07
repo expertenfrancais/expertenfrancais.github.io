@@ -1,0 +1,788 @@
+{
+ "id": 16,
+ "meta": {"t":"Les présentatifs","k":"Cours","n":"6e","m":"Grammaire","img":"a","r":4.8},
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un présentatif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on veut **montrer** quelqu’un ou quelque chose, ou **annoncer** son existence, on utilise de petits mots : « **Voici** mon frère. », « **C’est** ma sœur. », « **Il y a** un chat dans la cour. » Ce sont des **présentatifs**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un présentatif",
+      "Connaître les principaux présentatifs : voici, voilà, c’est, ce sont, il y a, il est",
+      "Savoir ce qu’ils présentent dans la phrase"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Présentatif",
+     "text": "Le **présentatif** est un mot ou une expression qui sert à **présenter**, à **désigner** ou à **faire exister** une personne ou une chose dans la phrase. Les principaux sont **voici, voilà, c’est, ce sont, il y a** et **il est** (pour l’heure)."
+    },
+    {
+     "type": "schema",
+     "title": "Un présentatif et ce qu’il présente",
+     "cells": [
+      {
+       "mot": "Voici",
+       "role": "présentatif"
+      },
+      {
+       "mot": "mon",
+       "role": "déterminant"
+      },
+      {
+       "mot": "frère",
+       "role": "nom",
+       "noyau": true
+      }
+     ],
+     "note": "*Voici* présente le groupe nominal *mon frère*. Il n’y a pas de sujet devant lui."
+    },
+    {
+     "type": "test",
+     "title": "Un présentatif présente quelque chose",
+     "lines": [
+      "Mon frère est là.",
+      "Voici mon frère. → *voici* le désigne et le met en avant.",
+      "Il y a un chat dans la cour. → *il y a* annonce l’existence du chat."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les principaux présentatifs",
+     "head": [
+      "Présentatif",
+      "Il sert à…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "voici, voilà",
+       "désigner",
+       "**Voilà** ton cahier."
+      ],
+      [
+       "c’est, ce sont",
+       "présenter, identifier",
+       "**C’est** ma cousine."
+      ],
+      [
+       "il y a",
+       "annoncer l’existence, le lieu, le temps",
+       "**Il y a** des mangues sur la table."
+      ],
+      [
+       "il est",
+       "donner l’heure",
+       "**Il est** midi."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pas de sujet à trouver",
+     "text": "Après *voici* ou *voilà*, il n’y a pas de verbe conjugué à analyser : ce sont des mots **invariables**. Avec *c’est*, *ce sont* et *il y a*, on a bien un verbe (*être*, *avoir*), mais ils fonctionnent comme des présentatifs."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un présentatif ?",
+     "options": [
+      "Awa chante.",
+      "Voilà mon cahier.",
+      "Il mange du riz.",
+      "Nous allons au marché."
+     ],
+     "answer": 1,
+     "explain": "*Voilà* désigne *mon cahier* : c’est un présentatif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le présentatif de chaque phrase et ce qu’il présente.",
+     "items": [
+      "Voilà ton cahier.",
+      "C’est ma cousine.",
+      "Il y a des mangues sur la table.",
+      "Ce sont mes amis."
+     ],
+     "corrige": [
+      "1. *voilà* → *ton cahier*",
+      "2. *c’est* → *ma cousine*",
+      "3. *il y a* → *des mangues*",
+      "4. *ce sont* → *mes amis*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Voici et voilà",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "*Voici* et *voilà* servent à **montrer**. Ils sont formés à l’origine du verbe *voir* et des mots *ci* (ici) et *là* (là-bas). Ils sont **invariables**."
+    },
+    {
+     "type": "def",
+     "label": "Voici et voilà",
+     "text": "*Voici* désigne ce qui est **proche** ou **ce que l’on va dire**. *Voilà* désigne ce qui est **plus loin** ou **ce que l’on vient de dire**. Dans la pratique, *voilà* est aussi très utilisé pour tout montrer."
+    },
+    {
+     "type": "table",
+     "title": "Voici ou voilà ?",
+     "head": [
+      "Présentatif",
+      "Il montre…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "voici",
+       "ce qui est proche, ou ce qui va suivre",
+       "**Voici** mon cahier. ; **Voici** ce que je pense."
+      ],
+      [
+       "voilà",
+       "ce qui est loin, ou ce qui vient d’être dit",
+       "**Voilà** le facteur, là-bas ! ; **Voilà** pourquoi je viens."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Avec un pronom"
+    },
+    {
+     "type": "p",
+     "text": "On peut placer un **pronom complément** devant *voici* ou *voilà* : **me** voici, **te** voilà, **le** voici, **la** voilà, **nous** voilà, **les** voici, **en** voici."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Me voici** !\n**Le voilà** qui arrive.\n**Nous voilà** enfin arrivés.\n**En voici** deux."
+    },
+    {
+     "type": "warn",
+     "label": "Invariables",
+     "text": "*Voici* et *voilà* **ne se conjuguent pas** et ne s’accordent pas : on dit « **Voici** mes frères. » et « **Voilà** ma sœur. »"
+    },
+    {
+     "type": "tip",
+     "label": "L’accent",
+     "text": "N’oublie pas l’accent grave sur **voilà** : on écrit *voilà* et pas *voila*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je voici.",
+      "Me voici.",
+      "Moi voici.",
+      "Voici je."
+     ],
+     "answer": 1,
+     "explain": "On place un pronom complément devant *voici* : *me voici*, *te voici*, *le voici*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec *voici* ou *voilà*.",
+     "items": [
+      "___ ma maison, juste devant toi !",
+      "Tu cherches ton stylo ? Le ___ sur la table.",
+      "___ comment on fait : regarde bien.",
+      "Il a perdu son sac. ___ pourquoi il est triste.",
+      "Ah ! Vous ___ enfin !"
+     ],
+     "corrige": [
+      "1. Voici",
+      "2. voilà",
+      "3. Voici (ce qui va suivre)",
+      "4. Voilà (ce qui vient d’être dit)",
+      "5. voilà"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "C’est et ce sont",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "*C’est* et *ce sont* servent à **présenter** ou à **identifier** quelqu’un ou quelque chose. Ils sont formés du pronom **ce** et du verbe **être**."
+    },
+    {
+     "type": "def",
+     "label": "C’est, ce sont",
+     "text": "*C’est* présente **un seul être** ou **une seule chose**. *Ce sont* présente **plusieurs êtres** ou **plusieurs choses** (à l’écrit). Ils peuvent être suivis d’un nom, d’un pronom, d’un adjectif ou d’une proposition."
+    },
+    {
+     "type": "table",
+     "title": "Quand employer c’est ou ce sont ?",
+     "head": [
+      "Présentatif",
+      "Il présente…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "c’est",
+       "un nom singulier",
+       "**C’est** ma cousine."
+      ],
+      [
+       "c’est",
+       "moi, toi, lui, elle, nous, vous",
+       "**C’est** nous qui partons."
+      ],
+      [
+       "ce sont",
+       "un nom pluriel",
+       "**Ce sont** mes voisins."
+      ],
+      [
+       "ce sont",
+       "eux, elles",
+       "**Ce sont** eux qui arrivent."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Pour mettre en relief"
+    },
+    {
+     "type": "p",
+     "text": "*C’est … qui* ou *c’est … que* servent à **mettre en valeur** un mot de la phrase."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**C’est** Awa **qui** chante. (on insiste sur *Awa*)\n**C’est** demain **que** nous partons.\n**Ce sont** les enfants **qui** jouent."
+    },
+    {
+     "type": "tip",
+     "label": "*Qui* et le verbe",
+     "text": "Dans « **C’est moi qui** ai gagné », le verbe *ai gagné* s’accorde avec **moi** (1re personne). De même « **c’est nous qui** avons gagné »."
+    },
+    {
+     "type": "warn",
+     "label": "À l’oral et à l’écrit",
+     "text": "À l’oral, on dit souvent « c’est les enfants » ; à l’écrit, on écrit **« ce sont les enfants »**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte à l’écrit ?",
+     "options": [
+      "C’est mes amis.",
+      "Ce sont mes amis.",
+      "Ce sont ma sœur.",
+      "C’est eux."
+     ],
+     "answer": 1,
+     "explain": "*Mes amis* est au pluriel : on écrit *ce sont*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec *c’est* ou *ce sont*.",
+     "items": [
+      "___ ma cousine.",
+      "___ mes voisins.",
+      "___ eux qui arrivent.",
+      "___ nous qui partons.",
+      "___ des mangues."
+     ],
+     "corrige": [
+      "1. C’est",
+      "2. Ce sont",
+      "3. Ce sont",
+      "4. C’est",
+      "5. Ce sont"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Il y a et il est",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "*Il y a* et *il est* sont deux autres présentatifs très fréquents. Ils ne s’emploient pas de la même façon."
+    },
+    {
+     "type": "h",
+     "text": "Il y a"
+    },
+    {
+     "type": "def",
+     "label": "Il y a",
+     "text": "*Il y a* sert à **annoncer l’existence** de quelqu’un ou de quelque chose, à **indiquer un lieu** ou à **dire depuis combien de temps**. Il est toujours à la **3e personne du singulier**, même devant un nom pluriel."
+    },
+    {
+     "type": "table",
+     "title": "Les emplois de *il y a*",
+     "head": [
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "existence, présence",
+       "**Il y a** un chat dans la cour."
+      ],
+      [
+       "pluriel : il reste au singulier",
+       "**Il y a** trois chats dans la cour."
+      ],
+      [
+       "temps passé",
+       "Nous avons mangé **il y a** une heure."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Toujours au singulier",
+     "text": "On dit « **Il y a** des enfants » et jamais « *Il y ont des enfants* ». *A* est le verbe **avoir** : on peut le remplacer par *avait*."
+    },
+    {
+     "type": "h",
+     "text": "Il est"
+    },
+    {
+     "type": "def",
+     "label": "Il est",
+     "text": "*Il est* sert surtout à **donner l’heure** : « **Il est** midi. », « **Il est** trois heures. » On l’emploie aussi pour dire le **métier** d’une personne : « **Il est** médecin. »"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Il est** huit heures.\n**Il est** instituteur.\n**Elle est** infirmière."
+    },
+    {
+     "type": "table",
+     "title": "C’est ou il est ?",
+     "head": [
+      "Critère",
+      "C’est",
+      "Il est / elle est"
+     ],
+     "rows": [
+      [
+       "devant un nom avec déterminant",
+       "**C’est** un médecin.",
+       "impossible"
+      ],
+      [
+       "métier sans déterminant",
+       "impossible",
+       "**Il est** médecin."
+      ],
+      [
+       "identifier",
+       "**C’est** Awa.",
+       "impossible"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel présentatif donne l’heure ?",
+     "options": [
+      "voici",
+      "c’est",
+      "il y a",
+      "il est"
+     ],
+     "answer": 3,
+     "explain": "On donne l’heure avec *il est* : « Il est midi. »"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec *il y a* ou *il est*.",
+     "items": [
+      "___ midi.",
+      "___ des oiseaux dans l’arbre.",
+      "Nous sommes partis ___ deux heures.",
+      "___ huit heures et demie.",
+      "Dans la salle, ___ trente élèves."
+     ],
+     "corrige": [
+      "1. Il est",
+      "2. Il y a",
+      "3. il y a (temps passé)",
+      "4. Il est",
+      "5. il y a"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les présentatifs conjugués et à la forme négative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains présentatifs peuvent **changer de temps** et se mettre à la **forme négative**. D’autres, comme *voici* et *voilà*, ne changent jamais."
+    },
+    {
+     "type": "table",
+     "title": "Les temps des présentatifs",
+     "head": [
+      "Présent",
+      "Imparfait",
+      "Futur"
+     ],
+     "rows": [
+      [
+       "c’est",
+       "c’était",
+       "ce sera"
+      ],
+      [
+       "ce sont",
+       "c’étaient",
+       "ce seront"
+      ],
+      [
+       "il y a",
+       "il y avait",
+       "il y aura"
+      ],
+      [
+       "il est (heure)",
+       "il était",
+       "il sera"
+      ],
+      [
+       "voici, voilà",
+       "invariables",
+       "invariables"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**C’était** difficile.\n**Ce seront** mes cousins.\n**Il y avait** un chat dans la cour.\n**Il y aura** du monde demain."
+    },
+    {
+     "type": "h",
+     "text": "La forme négative"
+    },
+    {
+     "type": "table",
+     "title": "Les négations",
+     "head": [
+      "Affirmatif",
+      "Négatif"
+     ],
+     "rows": [
+      [
+       "C’est facile.",
+       "**Ce n’est pas** facile."
+      ],
+      [
+       "Ce sont mes amis.",
+       "**Ce ne sont pas** mes amis."
+      ],
+      [
+       "Il y a un chat.",
+       "**Il n’y a pas** de chat."
+      ],
+      [
+       "Il y a des enfants.",
+       "**Il n’y a pas** d’enfants."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "*Des* devient *de*",
+     "text": "Après une négation, *un, une, des, du* deviennent **de** (ou **d’** devant une voyelle) : *Il y a **des** enfants* → *Il n’y a pas **d’**enfants.*"
+    },
+    {
+     "type": "tip",
+     "label": "Le pluriel de *ce sont*",
+     "text": "*Ce sont* devient *c’étaient* à l’imparfait et *ce seront* au futur. *Il y a* ne change jamais de nombre : « Il y avait trois chats. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Comment dit-on « Il y a des enfants » à la forme négative ?",
+     "options": [
+      "Il y a pas des enfants.",
+      "Il n’y a pas d’enfants.",
+      "Il n’y a pas des enfants.",
+      "Il y a pas d’enfants."
+     ],
+     "answer": 1,
+     "explain": "Après la négation, *des* devient *d’* : « Il **n’y a pas d’**enfants. » Il faut aussi *ne* (*n’*)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase comme indiqué.",
+     "items": [
+      "C’est difficile. (imparfait)",
+      "Ce sont mes amis. (imparfait)",
+      "Il y a un chat. (futur)",
+      "Il y a des enfants. (négatif)",
+      "C’est facile. (négatif)"
+     ],
+     "corrige": [
+      "1. *C’était difficile.*",
+      "2. *C’étaient mes amis.*",
+      "3. *Il y aura un chat.*",
+      "4. *Il n’y a pas d’enfants.*",
+      "5. *Ce n’est pas facile.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Distinguer et éviter les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les présentatifs ressemblent à d’autres petits mots. Pour ne pas se tromper, on utilise des **astuces de remplacement** et on regarde ce qui suit."
+    },
+    {
+     "type": "table",
+     "title": "Les mots qui se ressemblent",
+     "head": [
+      "Mot",
+      "Ce que c’est",
+      "Astuce"
+     ],
+     "rows": [
+      [
+       "c’est",
+       "*ce* + verbe *être*",
+       "on peut dire *c’était*"
+      ],
+      [
+       "s’est",
+       "*se* + verbe *être* (passé composé)",
+       "on peut dire *s’était*"
+      ],
+      [
+       "ces",
+       "déterminant démonstratif",
+       "on peut dire *ces…-ci*"
+      ],
+      [
+       "ses",
+       "déterminant possessif",
+       "on peut dire *mes*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**C’est** Awa. (*C’était* Awa.)\nIl **s’est** levé tôt. (*Il s’était levé tôt.*)\n**Ces** enfants jouent. (*Ces enfants-ci.*)\nIl range **ses** cahiers. (*mes cahiers*)"
+    },
+    {
+     "type": "warn",
+     "label": "*C’est* ou *il est* ?",
+     "text": "On dit « **C’est** un médecin. » (avec un déterminant) mais « **Il est** médecin. » (sans déterminant). Pour **identifier** quelqu’un, on emploie toujours *c’est* : « **C’est** Awa. »"
+    },
+    {
+     "type": "warn",
+     "label": "*Il y a*, jamais *ils y ont*",
+     "text": "*Il y a* ne se met jamais au pluriel : « Il y a **des** enfants. » On n’écrit pas *ils y ont*."
+    },
+    {
+     "type": "tip",
+     "label": "Le *a* de *il y a*",
+     "text": "Le **a** de *il y a* n’a **pas d’accent** : c’est le verbe *avoir*. On peut dire *il y avait*. L’accent de **voilà** est bien un accent grave."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il est un médecin.",
+      "C’est médecin.",
+      "Il est médecin.",
+      "Ce est médecin."
+     ],
+     "answer": 2,
+     "explain": "Pour le métier sans déterminant, on emploie *il est* : « Il est médecin. » Avec un déterminant, on dit « C’est un médecin. »"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis le présentatif qui convient : *c’est*, *il est* ou *elle est*.",
+     "items": [
+      "___ midi.",
+      "___ ma cousine.",
+      "___ infirmière.",
+      "___ un bon maître.",
+      "___ grand, ton frère !"
+     ],
+     "corrige": [
+      "1. Il est",
+      "2. C’est",
+      "3. Elle est",
+      "4. C’est",
+      "5. Il est"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **complète et on transforme**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le présentatif de chaque phrase.",
+     "items": [
+      "Voici le facteur.",
+      "Il y avait un chat dans la cour.",
+      "Ce sont mes cousines.",
+      "C’est moi qui chante."
+     ],
+     "corrige": [
+      "1. *voici*",
+      "2. *il y avait*",
+      "3. *ce sont*",
+      "4. *c’est* (mise en relief de *moi*)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe de mots est un présentatif ?",
+     "options": [
+      "ces ont",
+      "ce sont",
+      "ce son",
+      "se sont"
+     ],
+     "answer": 1,
+     "explain": "*Ce sont* est formé du pronom *ce* et du verbe *être* : il présente un groupe nominal pluriel."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : compléter et transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec *voici*, *voilà*, *c’est*, *ce sont* ou *il y a*.",
+     "items": [
+      "___ des mangues sur la table.",
+      "___ mes cousines.",
+      "Tu cherches ton stylo ? Le ___ sur la table !",
+      "___ comment on fait : regarde bien.",
+      "___ nous qui avons gagné !"
+     ],
+     "corrige": [
+      "1. Il y a",
+      "2. Ce sont",
+      "3. voilà",
+      "4. Voici",
+      "5. C’est"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase comme indiqué.",
+     "items": [
+      "C’est facile. (imparfait)",
+      "Ce sont mes amis. (négatif)",
+      "Il y a un chat. (négatif)",
+      "Il y a des enfants. (futur)"
+     ],
+     "corrige": [
+      "1. *C’était facile.*",
+      "2. *Ce ne sont pas mes amis.*",
+      "3. *Il n’y a pas de chat.*",
+      "4. *Il y aura des enfants.*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "une phrase avec *voici*",
+      "une phrase avec *c’est*",
+      "une phrase avec *il y a*",
+      "une phrase avec *ce sont*"
+     ],
+     "corrige": "Réponses possibles : *Voici mon cahier.* — *C’est ma cousine.* — *Il y a un oiseau sur le toit.* — *Ce sont mes voisins.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **présentatif** sert à **présenter**, à **désigner** ou à **annoncer l’existence** de quelqu’un ou de quelque chose.",
+      "**Voici** et **voilà** désignent : *voici* ce qui est proche ou ce qui va suivre, *voilà* ce qui est loin ou ce qui vient d’être dit ; ils sont invariables.",
+      "**C’est** présente un seul être ou une seule chose ; **ce sont** en présente plusieurs.",
+      "**Il y a** annonce l’existence, un lieu ou un temps ; il reste au **singulier** même devant un pluriel.",
+      "**Il est** donne l’heure ou le métier : *Il est midi.* *Il est médecin.*",
+      "Les présentatifs peuvent changer de temps (*c’était, il y avait, ce sera*) et se mettre à la forme **négative** (*il n’y a pas de…*).",
+      "Pour mettre en relief : **c’est … qui**, **c’est … que**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Présentatif",
+      "Il sert à…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "voici, voilà",
+       "désigner",
+       "**Voici** mon frère."
+      ],
+      [
+       "c’est, ce sont",
+       "présenter, identifier",
+       "**Ce sont** mes amis."
+      ],
+      [
+       "il y a",
+       "annoncer l’existence",
+       "**Il y a** un chat."
+      ],
+      [
+       "il est",
+       "donner l’heure ou le métier",
+       "**Il est** midi."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte à l’écrit ?",
+     "options": [
+      "C’est mes frères.",
+      "Ce sont mes frères.",
+      "Il y ont des frères.",
+      "Voici-nous."
+     ],
+     "answer": 1,
+     "explain": "*Mes frères* est au pluriel : on écrit *ce sont*."
+    }
+   ]
+  }
+ ]
+}

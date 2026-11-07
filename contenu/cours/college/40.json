@@ -1,0 +1,802 @@
+{
+ "id": 40,
+ "meta": {"t":"Le futur simple","k":"Cours","n":"6e","m":"Conjugaison","img":"b","r":4.8},
+ "sections": [
+  {
+   "t": "À quoi sert le futur simple ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **futur simple** est un **temps de l’indicatif**. On l’emploie pour parler de ce qui **n’a pas encore eu lieu** : une action **à venir**."
+    },
+    {
+     "type": "table",
+     "title": "Les emplois du futur simple",
+     "head": [
+      "Emploi",
+      "Explication",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Action à venir",
+       "événement qui se produira plus tard",
+       "Demain, nous **visiterons** le musée."
+      ],
+      [
+       "Prévision",
+       "dire ce qui arrivera probablement",
+       "Il **pleuvra** demain matin."
+      ],
+      [
+       "Promesse",
+       "s’engager pour plus tard",
+       "Je **t’aiderai** à faire tes devoirs."
+      ],
+      [
+       "Ordre ou consigne",
+       "demander poliment, mais fermement",
+       "Tu **rangeras** ta chambre avant le dîner."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les indices",
+     "text": "Le futur va bien avec : *demain, bientôt, plus tard, dans deux jours, l’année prochaine, un jour, dès que…*"
+    },
+    {
+     "type": "ex",
+     "text": "Ce soir, ma mère **cuisinera** du riz. Demain, nous **irons** au marché.",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « L’année prochaine, j’entrerai en 5ᵉ. », le futur simple exprime…",
+     "options": [
+      "un souvenir",
+      "une habitude passée",
+      "une action à venir",
+      "une description"
+     ],
+     "answer": 2,
+     "explain": "*L’année prochaine* indique un moment qui n’est pas encore arrivé : c’est une action à venir."
+    }
+   ]
+  },
+  {
+   "t": "Former le futur simple",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour former le futur simple, on part de l’**infinitif** du verbe et on ajoute les **terminaisons** du futur."
+    },
+    {
+     "type": "list",
+     "items": [
+      "On prend l’**infinitif** : *chanter*.",
+      "On garde l’infinitif **en entier** : c’est le radical du futur.",
+      "On ajoute les terminaisons : *-ai, -as, -a, -ons, -ez, -ont*."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Les terminaisons du futur simple",
+     "head": [
+      "Personne",
+      "Terminaison",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "je (j’)",
+       "-ai",
+       "je chanterai"
+      ],
+      [
+       "tu",
+       "-as",
+       "tu chanteras"
+      ],
+      [
+       "il / elle / on",
+       "-a",
+       "il chantera"
+      ],
+      [
+       "nous",
+       "-ons",
+       "nous chanterons"
+      ],
+      [
+       "vous",
+       "-ez",
+       "vous chanterez"
+      ],
+      [
+       "ils / elles",
+       "-ont",
+       "ils chanteront"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une forme au futur simple",
+     "note": "Les terminaisons sont les mêmes pour **tous les verbes**, même les irréguliers.",
+     "cells": [
+      {
+       "mot": "chanter",
+       "role": "radical (infinitif)",
+       "noyau": true
+      },
+      {
+       "mot": "a",
+       "role": "terminaison (3ᵉ personne du singulier)"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce",
+     "text": "Les terminaisons du futur ressemblent au présent du verbe **avoir** : *j’ai, tu as, il a, nous avons (-ons), vous avez (-ez), ils ont*."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on « nous (jouer) » au futur simple ?",
+     "options": [
+      "nous jouions",
+      "nous jouerons",
+      "nous jouons",
+      "nous jouerions"
+     ],
+     "answer": 1,
+     "explain": "On garde l’infinitif *jouer* et on ajoute *-ons* : *nous jouerons*."
+    }
+   ]
+  },
+  {
+   "t": "Le futur simple des trois groupes",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "1ᵉʳ groupe : chanter",
+     "head": [
+      "Personne",
+      "Futur simple"
+     ],
+     "rows": [
+      [
+       "je",
+       "chanterai"
+      ],
+      [
+       "tu",
+       "chanteras"
+      ],
+      [
+       "il / elle / on",
+       "chantera"
+      ],
+      [
+       "nous",
+       "chanterons"
+      ],
+      [
+       "vous",
+       "chanterez"
+      ],
+      [
+       "ils / elles",
+       "chanteront"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "2ᵉ groupe : finir  |  3ᵉ groupe : partir",
+     "head": [
+      "Personne",
+      "finir",
+      "partir"
+     ],
+     "rows": [
+      [
+       "je",
+       "finirai",
+       "partirai"
+      ],
+      [
+       "tu",
+       "finiras",
+       "partiras"
+      ],
+      [
+       "il / elle / on",
+       "finira",
+       "partira"
+      ],
+      [
+       "nous",
+       "finirons",
+       "partirons"
+      ],
+      [
+       "vous",
+       "finirez",
+       "partirez"
+      ],
+      [
+       "ils / elles",
+       "finiront",
+       "partiront"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Les verbes en -re",
+     "text": "Les verbes en **-re** perdent leur **e** final avant la terminaison : *prendre → je prendrai*, *vendre → il vendra*, *écrire → nous écrirons*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes entre parenthèses au futur simple.",
+     "items": [
+      "Demain, je (parler) à mon professeur.",
+      "Tu (choisir) ton livre à la bibliothèque.",
+      "Nous (vendre) nos gâteaux au marché.",
+      "Ils (partir) tôt le matin."
+     ],
+     "corrige": [
+      "je parlerai",
+      "tu choisiras",
+      "nous vendrons",
+      "ils partiront"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes particuliers",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Les verbes qui changent de radical"
+    },
+    {
+     "type": "p",
+     "text": "Certains verbes n’utilisent pas leur infinitif complet : leur **radical** change. Les **terminaisons**, elles, ne changent pas."
+    },
+    {
+     "type": "table",
+     "title": "Les verbes irréguliers les plus fréquents",
+     "head": [
+      "Infinitif",
+      "Radical du futur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "être",
+       "ser-",
+       "je **serai**, ils **seront**"
+      ],
+      [
+       "avoir",
+       "aur-",
+       "tu **auras**, nous **aurons**"
+      ],
+      [
+       "aller",
+       "ir-",
+       "j’**irai**, vous **irez**"
+      ],
+      [
+       "faire",
+       "fer-",
+       "il **fera**, nous **ferons**"
+      ],
+      [
+       "venir",
+       "viendr-",
+       "je **viendrai**, elles **viendront**"
+      ],
+      [
+       "voir",
+       "verr-",
+       "tu **verras**"
+      ],
+      [
+       "pouvoir",
+       "pourr-",
+       "nous **pourrons**"
+      ],
+      [
+       "vouloir",
+       "voudr-",
+       "vous **voudrez**"
+      ],
+      [
+       "savoir",
+       "saur-",
+       "je **saurai**"
+      ],
+      [
+       "devoir",
+       "devr-",
+       "il **devra**"
+      ],
+      [
+       "envoyer",
+       "enverr-",
+       "j’**enverrai**"
+      ],
+      [
+       "courir",
+       "courr-",
+       "tu **courras**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "*aller* donne **ir-** (*j’irai*), pas « aller- ». *être* donne **ser-** (*je serai*), pas « être- »."
+    },
+    {
+     "type": "h",
+     "text": "Les verbes impersonnels"
+    },
+    {
+     "type": "table",
+     "title": "Verbes qui n’ont que la 3ᵉ personne du singulier",
+     "head": [
+      "Infinitif",
+      "Futur simple"
+     ],
+     "rows": [
+      [
+       "falloir",
+       "il faudra"
+      ],
+      [
+       "pleuvoir",
+       "il pleuvra"
+      ],
+      [
+       "neiger",
+       "il neigera"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les verbes qui changent un peu d’écriture"
+    },
+    {
+     "type": "table",
+     "title": "Écritures particulières",
+     "head": [
+      "Infinitif",
+      "Futur simple",
+      "Particularité"
+     ],
+     "rows": [
+      [
+       "appeler",
+       "j’appellerai",
+       "**ll** devant le e muet"
+      ],
+      [
+       "jeter",
+       "je jetterai",
+       "**tt** devant le e muet"
+      ],
+      [
+       "acheter",
+       "j’achèterai",
+       "**è** devant le e muet"
+      ],
+      [
+       "lever",
+       "je lèverai",
+       "**è** devant le e muet"
+      ],
+      [
+       "nettoyer",
+       "je nettoierai",
+       "**y** devient **i**"
+      ],
+      [
+       "payer",
+       "je paierai",
+       "**y** devient **i** (aussi : *je payerai*)"
+      ],
+      [
+       "essayer",
+       "j’essaierai",
+       "**y** devient **i** (aussi : *j’essayerai*)"
+      ]
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris ces verbes au futur simple, à la personne indiquée.",
+     "items": [
+      "être (nous)",
+      "avoir (tu)",
+      "aller (ils)",
+      "faire (je)",
+      "venir (vous)",
+      "pouvoir (il)"
+     ],
+     "corrige": [
+      "nous serons",
+      "tu auras",
+      "ils iront",
+      "je ferai",
+      "vous viendrez",
+      "il pourra"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le futur simple de « voir » à la 1ʳᵉ personne du singulier ?",
+     "options": [
+      "je voirai",
+      "je verrai",
+      "je vairai",
+      "je voyerai"
+     ],
+     "answer": 1,
+     "explain": "*Voir* a un radical particulier : **verr-**. On écrit *je verrai*, avec deux **r**."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas se tromper : les pièges",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Le e muet qu’on n’entend pas"
+    },
+    {
+     "type": "p",
+     "text": "Aux verbes en **-ier, -uer, -ouer** et en **-er**, le **e** de l’infinitif reste dans le futur même si on ne l’entend pas."
+    },
+    {
+     "type": "table",
+     "title": "Le e ne disparaît pas",
+     "head": [
+      "Infinitif",
+      "Futur simple"
+     ],
+     "rows": [
+      [
+       "crier",
+       "je crierai"
+      ],
+      [
+       "continuer",
+       "il continuera"
+      ],
+      [
+       "jouer",
+       "tu joueras"
+      ],
+      [
+       "remercier",
+       "nous remercierons"
+      ],
+      [
+       "oublier",
+       "ils oublieront"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test de la lecture",
+     "text": "Pour ne pas oublier le **e**, **dis** le verbe lentement : *je jou-e-rai*. Le *e* se trouve entre le radical et la terminaison."
+    },
+    {
+     "type": "h",
+     "text": "Futur ou conditionnel : -rai ou -rais ?"
+    },
+    {
+     "type": "p",
+     "text": "Au futur, la 1ʳᵉ personne se termine par **-rai**. Au conditionnel présent, elle se termine par **-rais**. À l’oral, on les confond souvent."
+    },
+    {
+     "type": "test",
+     "title": "Le test de remplacement",
+     "lines": [
+      "Remplace **je** par **il** : si tu entends **-ra**, c’est du futur : *je chanterai → il chantera*.",
+      "Si tu entends **-rait**, c’est du conditionnel : *je chanterais → il chanterait*."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "*Je viendrai demain* (futur : c’est sûr) ≠ *je viendrais si je pouvais* (conditionnel : c’est une hypothèse)."
+    },
+    {
+     "type": "warn",
+     "label": "Autre piège",
+     "text": "À l’imparfait, *je chantais* se termine par **-ais**. Au futur, *je chanterai* se termine par **-rai**. Si tu entends le **r**, c’est le futur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au futur simple ?",
+     "options": [
+      "Chaque matin, je chantais.",
+      "Si j’avais le temps, je chanterais.",
+      "Demain, je chanterai.",
+      "Hier, j’ai chanté."
+     ],
+     "answer": 2,
+     "explain": "*Demain, je chanterai* : terminaison **-rai** et indice *demain*."
+    }
+   ]
+  },
+  {
+   "t": "Le futur simple dans un récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le futur simple sert aussi à **annoncer** ce qui va se passer, dans une lettre, un programme, une recette ou une prédiction."
+    },
+    {
+     "type": "table",
+     "title": "Le futur simple dans différents textes",
+     "head": [
+      "Type de texte",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Lettre",
+       "Je **viendrai** te voir pendant les vacances."
+      ],
+      [
+       "Programme",
+       "Samedi, nous **partirons** à huit heures et nous **arriverons** à midi."
+      ],
+      [
+       "Recette",
+       "Vous **ajouterez** le sel, puis vous **mélangerez**."
+      ],
+      [
+       "Prévision météo",
+       "Demain, le soleil **brillera** et le vent **soufflera** du nord."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Dans une semaine, nous **serons** en vacances. Nous **irons** chez ma grand-mère et nous **jouerons** au bord du fleuve.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Futur proche et futur simple",
+     "text": "On peut aussi dire *je vais chanter* (**futur proche**, pour un événement tout près). Le futur simple convient pour un moment plus ou moins éloigné : *je chanterai*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les phrases au futur simple en ajoutant « demain ».",
+     "items": [
+      "Je vais à l’école.",
+      "Nous faisons un exposé.",
+      "Elle est contente.",
+      "Ils viennent chez moi."
+     ],
+     "corrige": [
+      "Demain, j’irai à l’école.",
+      "Demain, nous ferons un exposé.",
+      "Demain, elle sera contente.",
+      "Demain, ils viendront chez moi."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Vous ajouterez le sel, puis vous mélangerez. », le futur simple exprime…",
+     "options": [
+      "un souvenir",
+      "des consignes",
+      "une description au passé",
+      "une hypothèse"
+     ],
+     "answer": 1,
+     "explain": "Dans une recette, le futur donne des consignes à suivre dans l’ordre."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi du plus simple au plus difficile. Cherche d’abord, puis regarde le corrigé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : les terminaisons"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la bonne terminaison du futur simple.",
+     "items": [
+      "Demain, je chanter__ une chanson.",
+      "Tu finir__ ton travail ce soir.",
+      "Nous arriver__ à midi.",
+      "Elles partir__ en voyage."
+     ],
+     "corrige": [
+      "je chanterai",
+      "tu finiras",
+      "nous arriverons",
+      "elles partiront"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au futur simple.",
+     "items": [
+      "Dans un mois, Awa (avoir) douze ans.",
+      "Vous (être) à l’heure.",
+      "Je (prendre) le car.",
+      "Nous (envoyer) une lettre."
+     ],
+     "corrige": [
+      "Awa aura douze ans.",
+      "Vous serez à l’heure.",
+      "Je prendrai le car.",
+      "Nous enverrons une lettre."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est correcte ?",
+     "options": [
+      "il appelera",
+      "il appellera",
+      "il appèlera",
+      "il appélera"
+     ],
+     "answer": 1,
+     "explain": "*Appeler* double le **l** devant un e muet : *il appellera*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : reconnaître le temps"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque verbe est au futur simple ou au conditionnel présent.",
+     "items": [
+      "Je viendrai demain.",
+      "Je viendrais si tu m’invitais.",
+      "Tu courras vite.",
+      "Tu courrais plus vite avec de meilleures chaussures."
+     ],
+     "corrige": [
+      "futur simple",
+      "conditionnel présent",
+      "futur simple",
+      "conditionnel présent"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris au futur simple.",
+     "items": [
+      "Hier, nous avons visité le zoo.",
+      "Chaque matin, il lisait le journal.",
+      "Je suis en retard."
+     ],
+     "corrige": [
+      "Demain, nous visiterons le zoo.",
+      "Chaque matin, il lira le journal.",
+      "Je serai en retard."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : un petit texte"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le texte au futur simple : « Samedi, je me lève tôt. Je prends le bus et je vais au marché. J’achète des fruits et je rentre à midi. »",
+     "corrige": "Samedi, je me lèverai tôt. Je prendrai le bus et j’irai au marché. J’achèterai des fruits et je rentrerai à midi."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le futur simple exprime une **action à venir**, une prévision, une promesse ou une consigne.",
+      "On l’obtient avec l’**infinitif** + les terminaisons **-ai, -as, -a, -ons, -ez, -ont**.",
+      "Les verbes en **-re** perdent leur **e** : *prendre → je prendrai*.",
+      "Des verbes ont un **radical irrégulier** : *ser-, aur-, ir-, fer-, viendr-, verr-, pourr-, voudr-, saur-*.",
+      "Le **e** des verbes en *-ier, -uer, -ouer* reste à l’écrit : *je crierai, il jouera*.",
+      "Futur **-rai** ≠ conditionnel **-rais** : remplace *je* par *il* pour vérifier."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les terminaisons et les radicaux à connaître",
+     "head": [
+      "Verbe",
+      "je",
+      "nous",
+      "ils"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chanterai",
+       "chanterons",
+       "chanteront"
+      ],
+      [
+       "finir",
+       "finirai",
+       "finirons",
+       "finiront"
+      ],
+      [
+       "être",
+       "serai",
+       "serons",
+       "seront"
+      ],
+      [
+       "avoir",
+       "aurai",
+       "aurons",
+       "auront"
+      ],
+      [
+       "aller",
+       "irai",
+       "irons",
+       "iront"
+      ],
+      [
+       "faire",
+       "ferai",
+       "ferons",
+       "feront"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle série contient seulement des verbes au futur simple ?",
+     "options": [
+      "je serai, tu auras, il ira",
+      "je serais, tu aurais, il irait",
+      "j’étais, tu avais, il allait",
+      "j’ai été, tu as eu, il est allé"
+     ],
+     "answer": 0,
+     "explain": "*Je serai, tu auras, il ira* sont au futur simple ; la 2ᵉ série est au conditionnel, la 3ᵉ à l’imparfait, la 4ᵉ au passé composé."
+    }
+   ]
+  }
+ ]
+}

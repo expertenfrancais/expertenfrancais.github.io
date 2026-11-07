@@ -1,0 +1,884 @@
+{
+ "id": 23,
+ "meta": {"t":"Les groupes de verbes","k":"Cours","n":"6e","m":"Conjugaison","img":"f","r":4.8},
+ "sections": [
+  {
+   "t": "Pourquoi classer les verbes en groupes ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il existe des milliers de verbes en français. Pour ne pas apprendre chaque conjugaison séparément, on les **range en trois groupes** : les verbes d’un même groupe se conjuguent à peu près de la même façon."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre pourquoi on classe les verbes",
+      "Connaître les trois groupes de verbes",
+      "Trouver le groupe d’un verbe"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Groupe de verbes",
+     "text": "Un **groupe de verbes** réunit des verbes qui ont la **même terminaison à l’infinitif** et qui se conjuguent **de la même manière**. On classe les verbes en **trois groupes**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois groupes",
+     "head": [
+      "Groupe",
+      "Terminaison de l’infinitif",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "1er groupe",
+       "**-er** (sauf *aller*)",
+       "chanter, jouer, manger"
+      ],
+      [
+       "2e groupe",
+       "**-ir**, avec le participe présent en **-issant**",
+       "finir, grandir, choisir"
+      ],
+      [
+       "3e groupe",
+       "tous les autres verbes",
+       "aller, partir, prendre, voir"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "L’infinitif donne le groupe",
+     "cells": [
+      {
+       "mot": "chant",
+       "role": "radical"
+      },
+      {
+       "mot": "-er",
+       "role": "terminaison de l’infinitif : 1er groupe",
+       "noyau": true
+      }
+     ],
+     "note": "Pour trouver le groupe d’un verbe, on regarde d’abord la **terminaison de son infinitif**."
+    },
+    {
+     "type": "test",
+     "title": "Quel est le groupe ?",
+     "lines": [
+      "jouer → terminaison -er : 1er groupe.",
+      "finir → terminaison -ir, *nous finissons* : 2e groupe.",
+      "prendre → terminaison -re : 3e groupe."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le réflexe",
+     "text": "Pour trouver le groupe d’un verbe conjugué, **mets-le d’abord à l’infinitif** : « il chante » → *chanter*."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel groupe se range le verbe « chanter » ?",
+     "options": [
+      "le 1er groupe",
+      "le 2e groupe",
+      "le 3e groupe",
+      "aucun groupe"
+     ],
+     "answer": 0,
+     "explain": "*Chanter* se termine par -er : c’est un verbe du 1er groupe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’infinitif de chaque verbe conjugué et sa terminaison.",
+     "items": [
+      "Awa chante.",
+      "Nous finissons.",
+      "Ils prennent.",
+      "Tu vois."
+     ],
+     "corrige": [
+      "1. chanter, -er",
+      "2. finir, -ir",
+      "3. prendre, -re",
+      "4. voir, -oir"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le premier groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **1er groupe** est de loin le plus important : il contient la grande majorité des verbes français."
+    },
+    {
+     "type": "def",
+     "label": "Verbes du 1er groupe",
+     "text": "Les verbes du **1er groupe** se terminent par **-er** à l’infinitif, **sauf *aller***. Leur participe présent se termine en **-ant** (*chantant*). Au présent de l’indicatif, leurs terminaisons sont : **-e, -es, -e, -ons, -ez, -ent**."
+    },
+    {
+     "type": "table",
+     "title": "Chanter au présent",
+     "head": [
+      "Pronom",
+      "Verbe"
+     ],
+     "rows": [
+      [
+       "je",
+       "chante"
+      ],
+      [
+       "tu",
+       "chantes"
+      ],
+      [
+       "il / elle / on",
+       "chante"
+      ],
+      [
+       "nous",
+       "chantons"
+      ],
+      [
+       "vous",
+       "chantez"
+      ],
+      [
+       "ils / elles",
+       "chantent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "« Aller » n’est pas du 1er groupe",
+     "text": "*Aller* se termine par -er, mais il est **très irrégulier** : *je vais, tu vas, il va, nous allons, vous allez, ils vont*. On le range dans le **3e groupe**."
+    },
+    {
+     "type": "warn",
+     "label": "Des petits changements d’écriture",
+     "text": "Certains verbes du 1er groupe changent un peu : *manger* → nous **mangeons** (le *e* garde le son [ʒ]) ; *placer* → nous **plaçons** (la cédille garde le son [s]) ; *appeler* → j’**appelle**. Ils restent du **1er groupe**."
+    },
+    {
+     "type": "tip",
+     "label": "Les verbes nouveaux",
+     "text": "Les verbes nouveaux se forment presque toujours sur le modèle du 1er groupe : *cliquer, zapper, scanner*."
+    },
+    {
+     "type": "test",
+     "title": "Reconnaître le 1er groupe",
+     "lines": [
+      "manger, jouer, aimer, parler → verbes en -er : 1er groupe.",
+      "aller → verbe en -er, mais 3e groupe."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe n’est pas du 1er groupe ?",
+     "options": [
+      "parler",
+      "aller",
+      "jouer",
+      "manger"
+     ],
+     "answer": 1,
+     "explain": "*Aller* est la seule exception : il se termine par -er mais appartient au 3e groupe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le verbe est du 1er groupe (oui ou non).",
+     "items": [
+      "parler",
+      "finir",
+      "aller",
+      "manger",
+      "cliquer",
+      "partir"
+     ],
+     "corrige": [
+      "1. oui",
+      "2. non (2e groupe)",
+      "3. non (3e groupe)",
+      "4. oui",
+      "5. oui",
+      "6. non (3e groupe)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le deuxième groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **2e groupe** est plus petit, mais il suit toujours le même modèle : celui de **finir**."
+    },
+    {
+     "type": "def",
+     "label": "Verbes du 2e groupe",
+     "text": "Les verbes du **2e groupe** se terminent par **-ir** à l’infinitif et ont un participe présent en **-issant** (*finissant*). Au présent de l’indicatif, leurs terminaisons sont : **-is, -is, -it, -issons, -issez, -issent**."
+    },
+    {
+     "type": "table",
+     "title": "Finir au présent",
+     "head": [
+      "Pronom",
+      "Verbe"
+     ],
+     "rows": [
+      [
+       "je",
+       "finis"
+      ],
+      [
+       "tu",
+       "finis"
+      ],
+      [
+       "il / elle / on",
+       "finit"
+      ],
+      [
+       "nous",
+       "finissons"
+      ],
+      [
+       "vous",
+       "finissez"
+      ],
+      [
+       "ils / elles",
+       "finissent"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes du 2e groupe",
+     "head": [
+      "Infinitif",
+      "Participe présent"
+     ],
+     "rows": [
+      [
+       "finir",
+       "finissant"
+      ],
+      [
+       "grandir",
+       "grandissant"
+      ],
+      [
+       "choisir",
+       "choisissant"
+      ],
+      [
+       "réussir",
+       "réussissant"
+      ],
+      [
+       "obéir",
+       "obéissant"
+      ],
+      [
+       "rougir",
+       "rougissant"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Tous les verbes en -ir ne sont pas du 2e groupe",
+     "text": "*Partir, dormir, courir, venir, sortir, ouvrir* se terminent par -ir, mais leur participe présent est en **-ant** (*partant, dormant, courant*). Ils sont du **3e groupe**."
+    },
+    {
+     "type": "tip",
+     "label": "Un verbe qui veut dire « devenir… »",
+     "text": "Beaucoup de verbes du 2e groupe viennent d’un **adjectif** : *grandir* = devenir grand, *rougir* = devenir rouge, *pâlir* = devenir pâle."
+    },
+    {
+     "type": "test",
+     "title": "Le test du 2e groupe",
+     "lines": [
+      "Nous finissons → *-issons* : 2e groupe.",
+      "Nous partons → pas de *-iss-* : 3e groupe.",
+      "choisir → choisissant : 2e groupe."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est du 2e groupe ?",
+     "options": [
+      "partir",
+      "finir",
+      "courir",
+      "ouvrir"
+     ],
+     "answer": 1,
+     "explain": "*Finir* a pour participe présent *finissant* : c’est un verbe du 2e groupe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le participe présent et le groupe de chaque verbe.",
+     "items": [
+      "grandir",
+      "partir",
+      "choisir",
+      "courir",
+      "réussir"
+     ],
+     "corrige": [
+      "1. grandissant, 2e groupe",
+      "2. partant, 3e groupe",
+      "3. choisissant, 2e groupe",
+      "4. courant, 3e groupe",
+      "5. réussissant, 2e groupe"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le troisième groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **3e groupe** réunit tous les verbes qui **n’appartiennent ni au 1er ni au 2e groupe**. Ce sont souvent des verbes très employés, mais **irréguliers**."
+    },
+    {
+     "type": "def",
+     "label": "Verbes du 3e groupe",
+     "text": "Les verbes du **3e groupe** sont tous ceux qui ne sont ni du 1er ni du 2e groupe. Leur **radical change** souvent et leurs terminaisons **varient** : il faut les apprendre."
+    },
+    {
+     "type": "table",
+     "title": "Les familles du 3e groupe",
+     "head": [
+      "Famille",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "le verbe *aller*",
+       "aller"
+      ],
+      [
+       "verbes en **-ir** avec participe présent en **-ant**",
+       "partir, venir, courir, dormir, ouvrir, sortir"
+      ],
+      [
+       "verbes en **-oir**",
+       "voir, pouvoir, vouloir, savoir, devoir"
+      ],
+      [
+       "verbes en **-re**",
+       "prendre, mettre, dire, faire, lire, écrire, attendre"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Trois verbes du 3e groupe au présent",
+     "head": [
+      "Pronom",
+      "aller",
+      "prendre",
+      "voir"
+     ],
+     "rows": [
+      [
+       "je",
+       "vais",
+       "prends",
+       "vois"
+      ],
+      [
+       "tu",
+       "vas",
+       "prends",
+       "vois"
+      ],
+      [
+       "il / elle / on",
+       "va",
+       "prend",
+       "voit"
+      ],
+      [
+       "nous",
+       "allons",
+       "prenons",
+       "voyons"
+      ],
+      [
+       "vous",
+       "allez",
+       "prenez",
+       "voyez"
+      ],
+      [
+       "ils / elles",
+       "vont",
+       "prennent",
+       "voient"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "« Être » et « avoir »",
+     "text": "*Être* et *avoir* sont des **verbes auxiliaires** : ils servent à former les temps composés. Ils sont très irréguliers et on les range dans le **3e groupe**."
+    },
+    {
+     "type": "warn",
+     "label": "Des verbes en -ir qui ressemblent au 1er groupe",
+     "text": "*Ouvrir* fait « j’**ouvre**, tu **ouvres**… » comme un verbe du 1er groupe, mais son infinitif est en -ir et son participe présent en *-ant* (*ouvrant*) : il est du **3e groupe**."
+    },
+    {
+     "type": "tip",
+     "label": "Les apprendre",
+     "text": "Il n’y a pas de règle unique : on apprend les **verbes du 3e groupe un par un**. Les plus utiles sont *être, avoir, aller, faire, dire, pouvoir, vouloir, voir, prendre*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est du 3e groupe ?",
+     "options": [
+      "aimer",
+      "grandir",
+      "prendre",
+      "manger"
+     ],
+     "answer": 2,
+     "explain": "*Prendre* ne se termine ni par -er ni par -ir à participe en -issant : c’est un verbe du 3e groupe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe chaque verbe : 1er, 2e ou 3e groupe.",
+     "items": [
+      "chanter",
+      "finir",
+      "prendre",
+      "aller",
+      "choisir",
+      "voir",
+      "jouer",
+      "partir"
+     ],
+     "corrige": [
+      "1er groupe : chanter, jouer",
+      "2e groupe : finir, choisir",
+      "3e groupe : prendre, aller, voir, partir"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître le groupe d’un verbe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver le groupe d’un verbe, on suit toujours **la même méthode**, étape par étape."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Mets le verbe à l’**infinitif**.",
+      "Regarde la **terminaison** de l’infinitif.",
+      "Si elle est en **-er** (et que ce n’est pas *aller*) : **1er groupe**.",
+      "Si elle est en **-ir** : mets le verbe au **participe présent** ou à *nous*. En **-issant** (*nous -issons*) : **2e groupe**.",
+      "Dans tous les autres cas (*-ir* en *-ant*, *-re*, *-oir*, *aller*) : **3e groupe**."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Résumé de la méthode",
+     "head": [
+      "Infinitif en…",
+      "Participe présent",
+      "Groupe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "-er (sauf *aller*)",
+       "-ant",
+       "1er groupe",
+       "chanter"
+      ],
+      [
+       "-ir",
+       "-issant",
+       "2e groupe",
+       "finir"
+      ],
+      [
+       "-ir",
+       "-ant",
+       "3e groupe",
+       "partir"
+      ],
+      [
+       "-re, -oir, *aller*",
+       "—",
+       "3e groupe",
+       "prendre, voir, aller"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Appliquer la méthode",
+     "lines": [
+      "Il court → courir → participe présent *courant* → 3e groupe.",
+      "Ils choisissent → choisir → *choisissant* → 2e groupe.",
+      "Nous allons → aller → exception : 3e groupe."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne te fie pas à la forme conjuguée",
+     "text": "« Il part » ne se termine ni par -er ni par -ir. **Remonte toujours à l’infinitif** avant de chercher le groupe."
+    },
+    {
+     "type": "tip",
+     "label": "L’astuce du « nous »",
+     "text": "Mets le verbe à *nous* : **-issons** → 2e groupe ; **-ons** précédé d’un radical qui change → souvent 3e groupe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le groupe du verbe « courir » ?",
+     "options": [
+      "le 1er groupe",
+      "le 2e groupe",
+      "le 3e groupe",
+      "aucun"
+     ],
+     "answer": 2,
+     "explain": "*Courir* se termine par -ir mais son participe présent est *courant*, pas *courissant* : 3e groupe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’infinitif et le groupe de chaque verbe.",
+     "items": [
+      "Il rougit.",
+      "Elle part.",
+      "Nous écoutons.",
+      "Ils vont.",
+      "Tu écris.",
+      "Je finis."
+     ],
+     "corrige": [
+      "1. rougir, 2e groupe (*rougissant*)",
+      "2. partir, 3e groupe (*partant*)",
+      "3. écouter, 1er groupe",
+      "4. aller, 3e groupe",
+      "5. écrire, 3e groupe",
+      "6. finir, 2e groupe"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les groupes et la conjugaison au présent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le groupe d’un verbe permet de savoir **quelles terminaisons** employer au présent de l’indicatif."
+    },
+    {
+     "type": "table",
+     "title": "Les trois groupes au présent",
+     "head": [
+      "Pronom",
+      "1er groupe : chanter",
+      "2e groupe : finir",
+      "3e groupe : prendre"
+     ],
+     "rows": [
+      [
+       "je",
+       "chante",
+       "finis",
+       "prends"
+      ],
+      [
+       "tu",
+       "chantes",
+       "finis",
+       "prends"
+      ],
+      [
+       "il / elle / on",
+       "chante",
+       "finit",
+       "prend"
+      ],
+      [
+       "nous",
+       "chantons",
+       "finissons",
+       "prenons"
+      ],
+      [
+       "vous",
+       "chantez",
+       "finissez",
+       "prenez"
+      ],
+      [
+       "ils / elles",
+       "chantent",
+       "finissent",
+       "prennent"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les terminaisons",
+     "head": [
+      "Groupe",
+      "je",
+      "tu",
+      "il",
+      "nous",
+      "vous",
+      "ils"
+     ],
+     "rows": [
+      [
+       "1er",
+       "-e",
+       "-es",
+       "-e",
+       "-ons",
+       "-ez",
+       "-ent"
+      ],
+      [
+       "2e",
+       "-is",
+       "-is",
+       "-it",
+       "-issons",
+       "-issez",
+       "-issent"
+      ],
+      [
+       "3e",
+       "varient",
+       "varient",
+       "varient",
+       "-ons",
+       "-ez",
+       "-ent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le « il » change selon le groupe",
+     "text": "À la 3e personne du singulier : **-e** au 1er groupe (*il chante*), **-it** au 2e groupe (*il finit*), souvent **-t** ou **-d** au 3e groupe (*il prend, il voit*)."
+    },
+    {
+     "type": "tip",
+     "label": "Les points communs",
+     "text": "Pour tous les groupes, **nous** fait **-ons**, **vous** fait **-ez** (sauf quelques verbes comme *dire* : *vous dites*) et **ils / elles** se termine par **-ent** (sauf quelques verbes comme *aller* : *ils vont*)."
+    },
+    {
+     "type": "test",
+     "title": "Appliquer",
+     "lines": [
+      "chanter → il chante.",
+      "finir → il finit.",
+      "prendre → il prend."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la terminaison de « nous » au présent pour un verbe du 2e groupe ?",
+     "options": [
+      "-ons",
+      "-issons",
+      "-ez",
+      "-issez"
+     ],
+     "answer": 1,
+     "explain": "Au 2e groupe : *nous finissons* ; la terminaison est **-issons**."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe au présent.",
+     "items": [
+      "Je (chanter)",
+      "Tu (finir)",
+      "Nous (prendre)",
+      "Ils (choisir)",
+      "Vous (aller)",
+      "Elle (manger)"
+     ],
+     "corrige": [
+      "1. je chante",
+      "2. tu finis",
+      "3. nous prenons",
+      "4. ils choisissent",
+      "5. vous allez",
+      "6. elle mange"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe les verbes selon leur groupe : 1er, 2e ou 3e.",
+     "items": [
+      "marcher",
+      "grandir",
+      "vouloir",
+      "écrire",
+      "réussir",
+      "aimer",
+      "sortir",
+      "lire"
+     ],
+     "corrige": [
+      "1er groupe : marcher, aimer",
+      "2e groupe : grandir, réussir",
+      "3e groupe : vouloir, écrire, sortir, lire"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi le verbe « aller » est-il du 3e groupe ?",
+     "options": [
+      "Il se termine par -ir.",
+      "Il se termine par -er mais il est très irrégulier.",
+      "Son participe présent est en -issant.",
+      "C’est un auxiliaire."
+     ],
+     "answer": 1,
+     "explain": "*Aller* se termine par -er, mais il se conjugue de façon très irrégulière : c’est la seule exception du 1er groupe."
+    },
+    {
+     "type": "h",
+     "text": "Conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au présent.",
+     "items": [
+      "Les enfants (jouer) dans la cour.",
+      "Fatou (finir) son travail.",
+      "Nous (mettre) la table.",
+      "Vous (réussir) votre examen.",
+      "Je (aller) au marché.",
+      "Ils (voir) un oiseau."
+     ],
+     "corrige": [
+      "1. jouent",
+      "2. finit",
+      "3. mettons",
+      "4. réussissez",
+      "5. vais",
+      "6. voient"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis : « Awa part au marché. Elle choisit des mangues et prend des légumes. Elle rentre ensuite. » Relève les verbes conjugués, donne leur infinitif et leur groupe.",
+     "items": [
+      "Relève les verbes conjugués.",
+      "Donne l’infinitif de chacun.",
+      "Donne le groupe de chacun."
+     ],
+     "corrige": [
+      "1. *part*, *choisit*, *prend*, *rentre*",
+      "2. partir, choisir, prendre, rentrer",
+      "3. 3e groupe, 2e groupe, 3e groupe, 1er groupe"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les verbes se classent en **trois groupes** d’après leur **infinitif** et leur façon de se conjuguer.",
+      "**1er groupe** : verbes en **-er**, sauf *aller*. Présent : **-e, -es, -e, -ons, -ez, -ent**.",
+      "**2e groupe** : verbes en **-ir** dont le participe présent est en **-issant**. Présent : **-is, -is, -it, -issons, -issez, -issent**.",
+      "**3e groupe** : tous les autres (*aller*, *-ir* en *-ant*, *-re*, *-oir*). Ils sont irréguliers : on les apprend.",
+      "*Être* et *avoir* sont des **auxiliaires** classés dans le 3e groupe.",
+      "Pour trouver le groupe : **infinitif**, puis **terminaison**, puis (si -ir) **participe présent**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois groupes",
+     "head": [
+      "Groupe",
+      "Infinitif",
+      "Exemple",
+      "Il / elle (présent)"
+     ],
+     "rows": [
+      [
+       "1er",
+       "-er (sauf *aller*)",
+       "chanter",
+       "chante"
+      ],
+      [
+       "2e",
+       "-ir, participe en -issant",
+       "finir",
+       "finit"
+      ],
+      [
+       "3e",
+       "tous les autres",
+       "prendre",
+       "prend"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe n’appartient pas au même groupe que les autres ?",
+     "options": [
+      "manger",
+      "jouer",
+      "finir",
+      "chanter"
+     ],
+     "answer": 2,
+     "explain": "*Manger, jouer, chanter* sont du 1er groupe. *Finir* est du 2e groupe."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "id": 44,
+ "meta": {"t":"Les termes génériques et spécifiques","k":"Cours","n":"6e","m":"Vocabulaire","img":"f","r":4.8},
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un terme générique ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains mots désignent une **grande catégorie** : *animal*, *fruit*, *sport*. D’autres désignent un élément **précis** de cette catégorie : *lion*, *mangue*, *football*."
+    },
+    {
+     "type": "def",
+     "label": "Terme générique",
+     "text": "Un **terme générique** (ou **hyperonyme**) est un mot **général** qui regroupe plusieurs éléments de même catégorie. *Fruit* est un terme générique."
+    },
+    {
+     "type": "def",
+     "label": "Terme spécifique",
+     "text": "Un **terme spécifique** (ou **hyponyme**) est un mot **précis** qui désigne un élément de cette catégorie. *Mangue*, *banane* et *ananas* sont des termes spécifiques de *fruit*."
+    },
+    {
+     "type": "table",
+     "title": "Quelques exemples",
+     "head": [
+      "Terme générique",
+      "Termes spécifiques"
+     ],
+     "rows": [
+      [
+       "fruit",
+       "mangue, banane, ananas, orange"
+      ],
+      [
+       "animal",
+       "lion, éléphant, perroquet, serpent"
+      ],
+      [
+       "sport",
+       "football, basket, natation, course"
+      ],
+      [
+       "meuble",
+       "table, chaise, lit, armoire"
+      ],
+      [
+       "véhicule",
+       "voiture, bus, pirogue, vélo"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour vérifier, utilise la phrase : « **Une mangue est un fruit** ». Le terme spécifique va devant, le terme générique après.",
+     "label": "Le test « est un »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un terme générique ?",
+     "options": [
+      "lion",
+      "légume",
+      "carotte",
+      "tomate"
+     ],
+     "answer": 1,
+     "explain": "*Légume* regroupe *carotte* et *tomate*, qui sont des termes spécifiques."
+    }
+   ]
+  },
+  {
+   "t": "Le terme spécifique",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un terme spécifique est **plus précis** que le terme générique : il apporte **plus d’informations**. Dire *un oiseau* est général ; dire *un perroquet* est précis."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "*Il a acheté un **véhicule**.* (on ne sait pas lequel) → *Il a acheté une **moto**.* (on sait précisément)"
+    },
+    {
+     "type": "table",
+     "title": "Du général au précis",
+     "head": [
+      "Phrase générale",
+      "Phrase précise"
+     ],
+     "rows": [
+      [
+       "Elle porte un **vêtement** rouge.",
+       "Elle porte une **robe** rouge."
+      ],
+      [
+       "Nous avons mangé un **plat**.",
+       "Nous avons mangé du **riz au poisson**."
+      ],
+      [
+       "Il joue d’un **instrument**.",
+       "Il joue du **tam-tam**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Plus le mot est spécifique, plus le lecteur **imagine** facilement ce que tu décris.",
+     "label": "Pourquoi être précis ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est la plus précise ?",
+     "options": [
+      "Il y a un animal dans la cour.",
+      "Il y a un chien dans la cour.",
+      "Il y a quelque chose dans la cour.",
+      "Il y a un être vivant dans la cour."
+     ],
+     "answer": 1,
+     "explain": "*Chien* est le terme le plus spécifique des quatre propositions."
+    }
+   ]
+  },
+  {
+   "t": "Du plus général au plus précis",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un mot peut être **spécifique** par rapport à un mot et **générique** par rapport à un autre. Tout dépend du **niveau**."
+    },
+    {
+     "type": "ex",
+     "label": "Une échelle de généralité",
+     "text": "*être vivant* → *animal* → *oiseau* → *perroquet*. Chaque mot est **plus précis** que celui qui le précède."
+    },
+    {
+     "type": "table",
+     "title": "Le même mot, deux rôles",
+     "head": [
+      "Mot",
+      "Générique de…",
+      "Spécifique de…"
+     ],
+     "rows": [
+      [
+       "animal",
+       "oiseau, poisson, mammifère",
+       "être vivant"
+      ],
+      [
+       "oiseau",
+       "perroquet, aigle, pigeon",
+       "animal"
+      ],
+      [
+       "arbre",
+       "manguier, baobab, palmier",
+       "végétal"
+      ],
+      [
+       "moyen de transport",
+       "voiture, bateau, avion",
+       "— (très général)"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Oiseau** est spécifique par rapport à *animal*, mais **générique** par rapport à *perroquet*. Demande-toi toujours : « par rapport à quel mot ? »",
+     "label": "Attention au niveau"
+    },
+    {
+     "type": "quiz",
+     "question": "Par rapport à « perroquet », « oiseau » est un terme…",
+     "options": [
+      "spécifique",
+      "générique",
+      "contraire",
+      "synonyme"
+     ],
+     "answer": 1,
+     "explain": "*Oiseau* est plus général que *perroquet* : c’est le terme générique."
+    }
+   ]
+  },
+  {
+   "t": "Utiliser les termes dans un texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les termes génériques et spécifiques servent à **éviter les répétitions** et à **rendre un texte précis**."
+    },
+    {
+     "type": "h",
+     "text": "Éviter la répétition"
+    },
+    {
+     "type": "ex",
+     "text": "*Moussa a cueilli une **mangue**. Il a mangé le **fruit** avec plaisir.* → *fruit* reprend *mangue* sans la répéter."
+    },
+    {
+     "type": "h",
+     "text": "Préciser une description"
+    },
+    {
+     "type": "table",
+     "title": "Remplacer un mot trop vague",
+     "head": [
+      "Mot vague",
+      "Mot précis"
+     ],
+     "rows": [
+      [
+       "Il a vu un **animal**.",
+       "Il a vu un **crocodile**."
+      ],
+      [
+       "Elle cultive des **plantes**.",
+       "Elle cultive du **manioc**."
+      ],
+      [
+       "Nous avons visité un **lieu**.",
+       "Nous avons visité un **marché**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Évite les mots passe-partout comme *chose*, *truc*, *faire*. Cherche le **terme spécifique** exact.",
+     "label": "Écrire mieux"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Fatou a acheté un ananas. Elle a goûté le fruit tout de suite. », que représente « le fruit » ?",
+     "options": [
+      "Un terme spécifique qui précise",
+      "Un terme générique qui reprend « ananas »",
+      "Un contraire",
+      "Un verbe"
+     ],
+     "answer": 1,
+     "explain": "*Fruit* est le terme générique qui évite de répéter *ananas*."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas se tromper : les pièges",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Piège 1 : confondre avec les synonymes"
+    },
+    {
+     "type": "warn",
+     "text": "Un **synonyme** a le même sens (*joli* / *beau*). Un terme générique a un sens **plus large** : *fruit* n’est pas synonyme de *mangue*.",
+     "label": "Générique ≠ synonyme"
+    },
+    {
+     "type": "h",
+     "text": "Piège 2 : mélanger les catégories"
+    },
+    {
+     "type": "p",
+     "text": "Tous les termes spécifiques d’une liste doivent appartenir à la **même catégorie**. *Mangue*, *banane*, *chaise* : *chaise* est l’intrus."
+    },
+    {
+     "type": "h",
+     "text": "Piège 3 : la hiérarchie à l’envers"
+    },
+    {
+     "type": "p",
+     "text": "Le terme générique **contient** les autres. On ne peut pas dire « un animal est un perroquet » : tous les animaux ne sont pas des perroquets."
+    },
+    {
+     "type": "test",
+     "title": "Le test à retenir",
+     "lines": [
+      "Un perroquet **est un** oiseau. ✔ (spécifique → générique)",
+      "Un oiseau **est un** perroquet. ✘ (à l’envers)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’intrus dans la liste « table, chaise, lit, riz » ?",
+     "options": [
+      "table",
+      "chaise",
+      "lit",
+      "riz"
+     ],
+     "answer": 3,
+     "explain": "*Riz* n’est pas un meuble, contrairement aux trois autres mots."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi du plus simple au plus difficile. Cherche d’abord, puis regarde le corrigé."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : trouver le terme générique"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve le terme générique de chaque liste.",
+     "items": [
+      "pomme, poire, orange",
+      "chat, chien, cheval",
+      "bus, train, avion",
+      "rouge, bleu, vert",
+      "marteau, scie, tournevis"
+     ],
+     "corrige": [
+      "fruit",
+      "animal",
+      "moyen de transport (véhicule)",
+      "couleur",
+      "outil"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : trouver des termes spécifiques"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne deux termes spécifiques pour chaque terme générique (réponses possibles).",
+     "items": [
+      "légume",
+      "sport",
+      "métier",
+      "instrument de musique"
+     ],
+     "corrige": [
+      "carotte, tomate",
+      "football, natation",
+      "médecin, boulanger",
+      "guitare, tam-tam"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : trouver l’intrus"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Barre l’intrus dans chaque liste.",
+     "items": [
+      "lion, tigre, perroquet, léopard (félins)",
+      "manguier, baobab, table, palmier",
+      "football, basket, tennis, voiture"
+     ],
+     "corrige": [
+      "perroquet",
+      "table",
+      "voiture"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un terme spécifique de « boisson » ?",
+     "options": [
+      "jus de mangue",
+      "aliment",
+      "liquide vital",
+      "repas"
+     ],
+     "answer": 0,
+     "explain": "*Jus de mangue* est une boisson précise ; les autres sont plus généraux ou différents."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : être plus précis"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace le mot en gras par un terme plus précis.",
+     "items": [
+      "Il a acheté un **véhicule**.",
+      "Elle porte un **vêtement** rouge.",
+      "Nous avons mangé un **plat**.",
+      "J’ai vu un **oiseau** magnifique."
+     ],
+     "corrige": [
+      "une moto",
+      "une robe",
+      "du riz au poisson",
+      "un perroquet"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : éviter la répétition"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace le mot répété par un terme générique.",
+     "items": [
+      "J’ai cueilli une mangue. J’ai mangé la mangue.",
+      "Papa a acheté une chaise. La chaise est solide.",
+      "Le lion s’est approché. Le lion rugit."
+     ],
+     "corrige": [
+      "J’ai mangé le fruit.",
+      "Le meuble est solide.",
+      "L’animal rugit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **terme générique** (hyperonyme) désigne une **catégorie** : *fruit*, *animal*.",
+      "Un **terme spécifique** (hyponyme) désigne un élément **précis** de cette catégorie : *mangue*, *lion*.",
+      "Test : « Un(e) **spécifique** est un(e) **générique** » (*une mangue est un fruit*).",
+      "Un mot peut être **générique** et **spécifique** selon le niveau : *oiseau* est spécifique de *animal* et générique de *perroquet*.",
+      "Les termes génériques **évitent les répétitions** ; les termes spécifiques **rendent le texte précis**.",
+      "Un terme générique n’est **pas** un synonyme."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Résumé",
+     "head": [
+      "Terme générique",
+      "Termes spécifiques"
+     ],
+     "rows": [
+      [
+       "fruit",
+       "mangue, banane"
+      ],
+      [
+       "animal",
+       "lion, chien"
+      ],
+      [
+       "sport",
+       "football, natation"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Un fruit est une mangue.",
+      "Une mangue est un fruit.",
+      "Un animal est un lion.",
+      "Une table est un meuble de lion."
+     ],
+     "answer": 1,
+     "explain": "Le terme spécifique (*mangue*) est inclus dans le terme générique (*fruit*)."
+    }
+   ]
+  }
+ ]
+}

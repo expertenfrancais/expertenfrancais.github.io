@@ -1,0 +1,652 @@
+{
+ "id": 5,
+ "meta": {"t":"Les formes de phrases","k":"Cours","n":"5e","m":"Grammaire","img":"f","r":4.8},
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une forme de phrase ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase peut être construite de plusieurs façons. Ces façons de construire la phrase s’appellent les **formes de phrase**. Il ne faut pas les confondre avec les types de phrases."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Distinguer le type et la forme d’une phrase",
+      "Connaître les quatre paires de formes",
+      "Décrire entièrement une phrase"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Forme de phrase",
+     "text": "La **forme de phrase** décrit la manière dont la phrase est construite. Elle s’ajoute au type : une même phrase a **un type** et **plusieurs formes**."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre paires de formes",
+     "head": [
+      "Forme",
+      "S’oppose à",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "affirmative",
+       "négative",
+       "Il mange. / Il ne mange pas."
+      ],
+      [
+       "active",
+       "passive",
+       "Le chat attrape la souris. / La souris est attrapée par le chat."
+      ],
+      [
+       "neutre",
+       "emphatique",
+       "Je veux ce livre. / C’est ce livre que je veux."
+      ],
+      [
+       "personnelle",
+       "impersonnelle",
+       "Tu dois partir. / Il faut partir."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Le type et les formes d’une même phrase",
+     "cells": [
+      {
+       "mot": "Le chat",
+       "role": "sujet"
+      },
+      {
+       "mot": "ne mange pas",
+       "role": "verbe à la forme négative",
+       "noyau": true
+      },
+      {
+       "mot": "la souris",
+       "role": "complément du verbe"
+      }
+     ],
+     "note": "« Le chat ne mange pas la souris. » est une phrase de type déclaratif, à la forme négative et à la forme active."
+    },
+    {
+     "type": "warn",
+     "label": "Type ou forme ?",
+     "text": "« Ne viens pas ! » est de **type** impératif et de **forme** négative. Le type dit ce que veut faire celui qui parle ; la forme dit comment la phrase est construite."
+    },
+    {
+     "type": "quiz",
+     "question": "« Tu ne viens pas ? » : quelle est la forme de cette phrase ?",
+     "options": [
+      "Affirmative",
+      "Négative",
+      "Passive",
+      "Impersonnelle"
+     ],
+     "answer": 1,
+     "explain": "La phrase contient *ne … pas* : elle est à la forme négative. Son type est interrogatif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le type de chaque phrase, puis dis si elle est affirmative ou négative.",
+     "items": [
+      "Je n’ai pas faim.",
+      "Mange ta soupe !",
+      "Ne pleure plus !",
+      "Comme tu as grandi !"
+     ],
+     "corrige": [
+      "1. déclarative ; négative",
+      "2. impérative ; affirmative",
+      "3. impérative ; négative",
+      "4. exclamative ; affirmative"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Forme affirmative et forme négative",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Dire oui ou dire non"
+    },
+    {
+     "type": "def",
+     "label": "Forme négative",
+     "text": "Une phrase est à la **forme négative** quand elle **nie** quelque chose, avec des mots de négation qui **entourent le verbe** : *ne … pas*. Sinon, elle est à la **forme affirmative**."
+    },
+    {
+     "type": "schema",
+     "title": "La négation entoure le verbe",
+     "cells": [
+      {
+       "mot": "Elle",
+       "role": "sujet"
+      },
+      {
+       "mot": "ne",
+       "role": "1er mot de la négation"
+      },
+      {
+       "mot": "mange",
+       "role": "verbe (noyau)",
+       "noyau": true
+      },
+      {
+       "mot": "pas",
+       "role": "2e mot de la négation"
+      },
+      {
+       "mot": "de viande",
+       "role": "complément du verbe"
+      }
+     ],
+     "note": "« Elle ne mange pas de viande. » : *ne* et *pas* entourent le verbe."
+    },
+    {
+     "type": "table",
+     "title": "Les principales négations",
+     "head": [
+      "Négation",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "ne … pas",
+       "la négation simple",
+       "Il ne chante pas."
+      ],
+      [
+       "ne … plus",
+       "la fin d’une action",
+       "Il ne pleut plus."
+      ],
+      [
+       "ne … jamais",
+       "à aucun moment",
+       "Elle ne ment jamais."
+      ],
+      [
+       "ne … rien",
+       "aucune chose",
+       "Je ne vois rien."
+      ],
+      [
+       "ne … personne",
+       "aucune personne",
+       "Je ne vois personne."
+      ],
+      [
+       "ne … aucun(e)",
+       "pas un seul",
+       "Je n’ai aucune idée."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Aux temps composés",
+     "text": "À un temps composé, la négation entoure l’**auxiliaire** : *Il **n’**a **pas** mangé.*"
+    },
+    {
+     "type": "warn",
+     "label": "*Ne … que* n’est pas une négation",
+     "text": "« Il **ne** mange **que** du riz. » veut dire « il mange seulement du riz » : cette phrase est **affirmative**."
+    },
+    {
+     "type": "warn",
+     "label": "Après la négation : du → de",
+     "text": "« J’ai **du** pain. » devient « Je n’ai **pas de** pain. » Après une négation, *du*, *de la* et *des* deviennent le plus souvent **de** (ou **d’**)."
+    },
+    {
+     "type": "tip",
+     "label": "N’oublie pas le *ne*",
+     "text": "Devant une voyelle ou un *h* muet, *ne* devient **n’** : *Il n’aime pas.* À l’oral, on oublie souvent le *ne* (« Je sais pas ») ; à l’écrit, il est obligatoire."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la forme négative ?",
+     "options": [
+      "Il ne mange que du riz.",
+      "Il n’a jamais mangé de manioc.",
+      "Il mange rarement du manioc.",
+      "Il mange aussi du riz."
+     ],
+     "answer": 1,
+     "explain": "*Ne … jamais* est une négation. *Ne … que* signifie « seulement » (phrase affirmative), et *rarement* n’est pas un mot de négation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque phrase à la forme négative avec la négation entre parenthèses.",
+     "items": [
+      "Nous mangeons de la viande. (ne … pas)",
+      "Il pleut. (ne … plus)",
+      "Tu as vu quelqu’un. (ne … personne)",
+      "Elle a un cahier. (ne … aucun)"
+     ],
+     "corrige": [
+      "1. *Nous ne mangeons pas de viande.*",
+      "2. *Il ne pleut plus.*",
+      "3. *Tu n’as vu personne.*",
+      "4. *Elle n’a aucun cahier.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Forme active et forme passive",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Qui fait l’action ? Qui la subit ?"
+    },
+    {
+     "type": "def",
+     "label": "Active et passive",
+     "text": "À la **forme active**, le sujet **fait** l’action. À la **forme passive**, le sujet **subit** l’action ; le verbe est formé de **être + participe passé**, et celui qui fait l’action devient le **complément d’agent** (introduit par *par*)."
+    },
+    {
+     "type": "schema",
+     "title": "Phrase à la forme active",
+     "cells": [
+      {
+       "mot": "Les enfants",
+       "role": "sujet (celui qui fait l’action)"
+      },
+      {
+       "mot": "mangent",
+       "role": "verbe actif",
+       "noyau": true
+      },
+      {
+       "mot": "des mangues",
+       "role": "COD"
+      }
+     ],
+     "note": "Le sujet fait l’action de manger."
+    },
+    {
+     "type": "schema",
+     "title": "La même phrase à la forme passive",
+     "cells": [
+      {
+       "mot": "Des mangues",
+       "role": "sujet (celui qui subit l’action)"
+      },
+      {
+       "mot": "sont mangées",
+       "role": "être + participe passé",
+       "noyau": true
+      },
+      {
+       "mot": "par les enfants",
+       "role": "complément d’agent"
+      }
+     ],
+     "note": "Le COD de la phrase active est devenu le sujet de la phrase passive."
+    },
+    {
+     "type": "table",
+     "title": "Passer de l’active à la passive",
+     "head": [
+      "Étape",
+      "Ce qu’on fait"
+     ],
+     "rows": [
+      [
+       "1",
+       "Repérer le COD dans la phrase active : *des mangues*."
+      ],
+      [
+       "2",
+       "Le COD devient le sujet : *Des mangues…*"
+      ],
+      [
+       "3",
+       "Le verbe devient *être* (au même temps) + participe passé : *…sont mangées…*"
+      ],
+      [
+       "4",
+       "L’ancien sujet devient complément d’agent : *…par les enfants.*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« Le maître **félicite** les élèves. » → « Les élèves **sont félicités** par le maître. »\n« Le vent **a brisé** la branche. » → « La branche **a été brisée** par le vent. »"
+    },
+    {
+     "type": "warn",
+     "label": "Il faut un COD",
+     "text": "Seuls les verbes qui ont un **COD** peuvent se mettre à la forme passive. On ne peut pas transformer « Les enfants dorment. » en phrase passive."
+    },
+    {
+     "type": "tip",
+     "label": "L’accord du participe passé",
+     "text": "Le participe passé s’accorde avec le **sujet** : *La porte est **fermée**.* *Les portes sont **fermées**.* Le verbe *être* est au même temps que le verbe de la phrase active."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la forme passive ?",
+     "options": [
+      "Le chat poursuit la souris.",
+      "La souris est poursuivie par le chat.",
+      "La souris court vite.",
+      "Le chat a poursuivi la souris."
+     ],
+     "answer": 1,
+     "explain": "*Est poursuivie* est formé de *être* et d’un participe passé, et *par le chat* est le complément d’agent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque phrase à la forme passive.",
+     "items": [
+      "Le jardinier arrose les fleurs.",
+      "Ma mère prépare le repas.",
+      "Les élèves ont rangé la classe."
+     ],
+     "corrige": [
+      "1. *Les fleurs sont arrosées par le jardinier.*",
+      "2. *Le repas est préparé par ma mère.*",
+      "3. *La classe a été rangée par les élèves.*"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets chaque phrase à la forme active.",
+     "items": [
+      "La lettre est écrite par Awa.",
+      "Les arbres sont abattus par le bûcheron."
+     ],
+     "corrige": [
+      "1. *Awa écrit la lettre.*",
+      "2. *Le bûcheron abat les arbres.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La forme emphatique",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Mettre en relief"
+    },
+    {
+     "type": "def",
+     "label": "Forme emphatique",
+     "text": "La forme **emphatique** met en relief un mot ou un groupe de mots pour **attirer l’attention** ou pour **insister**."
+    },
+    {
+     "type": "table",
+     "title": "Les deux procédés",
+     "head": [
+      "Procédé",
+      "Phrase neutre",
+      "Phrase emphatique"
+     ],
+     "rows": [
+      [
+       "*c’est … qui*",
+       "Paul a gagné le concours.",
+       "C’est Paul qui a gagné le concours."
+      ],
+      [
+       "*c’est … que*",
+       "Je veux ce livre.",
+       "C’est ce livre que je veux."
+      ],
+      [
+       "reprise par un pronom",
+       "J’adore ce chanteur.",
+       "Ce chanteur, je l’adore."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour insister ou corriger",
+     "text": "On emploie la forme emphatique pour insister, comparer ou corriger : « Ce n’est pas Marie qui a menti, c’est Paul ! »"
+    },
+    {
+     "type": "warn",
+     "label": "L’accord du verbe",
+     "text": "Avec *c’est … qui*, le verbe s’accorde avec le mot mis en relief : *C’est moi qui **ai** gagné.* *Ce sont eux qui **sont** venus.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la forme emphatique ?",
+     "options": [
+      "Léa chante bien.",
+      "C’est Léa qui chante bien.",
+      "Léa ne chante pas.",
+      "Léa est écoutée."
+     ],
+     "answer": 1,
+     "explain": "*C’est Léa qui…* met le sujet en relief : c’est la forme emphatique."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets en relief le groupe en gras avec *c’est … qui* ou *c’est … que*.",
+     "items": [
+      "**Mon oncle** a construit cette maison.",
+      "Nous aimons **ce quartier**.",
+      "**Ce matin**, j’ai croisé Awa."
+     ],
+     "corrige": [
+      "1. *C’est mon oncle qui a construit cette maison.*",
+      "2. *C’est ce quartier que nous aimons.*",
+      "3. *C’est ce matin que j’ai croisé Awa.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La forme impersonnelle",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Le pronom il qui ne désigne personne"
+    },
+    {
+     "type": "def",
+     "label": "Forme impersonnelle",
+     "text": "Une phrase est à la **forme impersonnelle** quand son sujet est le pronom **il** qui ne désigne **ni une personne ni une chose précise**. Le verbe est toujours à la **3e personne du singulier**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "les verbes de météo : *Il pleut. Il neige. Il vente.*",
+      "le verbe *falloir* : *Il faut partir.*",
+      "l’expression *il y a* : *Il y a du monde au marché.*"
+     ],
+     "label": "Des verbes toujours impersonnels"
+    },
+    {
+     "type": "table",
+     "title": "Personnelle ou impersonnelle ?",
+     "head": [
+      "Forme personnelle",
+      "Forme impersonnelle"
+     ],
+     "rows": [
+      [
+       "Un malheur est arrivé.",
+       "Il est arrivé un malheur."
+      ],
+      [
+       "Partir est nécessaire.",
+       "Il est nécessaire de partir."
+      ],
+      [
+       "Tu dois partir.",
+       "Il faut partir."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test du pronom *il*",
+     "lines": [
+      "« Il dort. » → *il* = mon frère, le chat… : forme personnelle.",
+      "« Il pleut. » → on ne peut pas remplacer *il* par un nom : forme impersonnelle."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le verbe reste au singulier",
+     "text": "Le verbe impersonnel reste au singulier même si le mot qui suit est au pluriel : *Il tombe des gouttes.* (et non « Il tombent des gouttes »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase *il* est-il impersonnel ?",
+     "options": [
+      "Il joue au ballon.",
+      "Il est tard.",
+      "Il lit un livre.",
+      "Il chante bien."
+     ],
+     "answer": 1,
+     "explain": "Dans *Il est tard*, *il* ne désigne personne : la phrase est à la forme impersonnelle."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase est à la forme personnelle ou impersonnelle.",
+     "items": [
+      "Il neige sur la montagne.",
+      "Il range sa chambre.",
+      "Il faut finir ce devoir.",
+      "Il y a du monde au marché."
+     ],
+     "corrige": [
+      "1. impersonnelle",
+      "2. personnelle",
+      "3. impersonnelle",
+      "4. impersonnelle"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent les quatre paires de formes. Avance dans l’ordre : on commence par **reconnaître**, puis on **transforme**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la forme de chaque phrase : négative, passive, emphatique ou impersonnelle.",
+     "items": [
+      "Les élèves ne bavardent plus.",
+      "Les voleurs ont été arrêtés par la police.",
+      "C’est la pluie qui a gâché la fête.",
+      "Il faut se lever tôt."
+     ],
+     "corrige": [
+      "1. négative",
+      "2. passive",
+      "3. emphatique",
+      "4. impersonnelle"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La route a été construite par les ouvriers », quelle est la forme du verbe ?",
+     "options": [
+      "Active",
+      "Passive",
+      "Impersonnelle",
+      "Emphatique"
+     ],
+     "answer": 1,
+     "explain": "Le verbe est formé de *a été* + participe passé *construite*, et les ouvriers sont le complément d’agent."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme la phrase « Le maire inaugure la route. » selon la consigne.",
+     "items": [
+      "forme négative",
+      "forme passive",
+      "forme emphatique (c’est … qui)"
+     ],
+     "corrige": [
+      "1. *Le maire n’inaugure pas la route.*",
+      "2. *La route est inaugurée par le maire.*",
+      "3. *C’est le maire qui inaugure la route.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une phrase a **un type** et plusieurs **formes**.",
+      "La **forme négative** utilise *ne … pas* (ou *plus, jamais, rien, personne, aucun*) autour du verbe.",
+      "À la **forme passive**, le COD devient le sujet, le verbe se met à *être + participe passé* et le sujet de l’active devient complément d’agent (*par*).",
+      "La **forme emphatique** met en relief avec *c’est … qui / c’est … que*.",
+      "À la **forme impersonnelle**, le sujet *il* ne désigne personne et le verbe est à la 3e personne du singulier."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "négative",
+       "Il ne chante pas."
+      ],
+      [
+       "passive",
+       "La chanson est chantée par Awa."
+      ],
+      [
+       "emphatique",
+       "C’est Awa qui chante."
+      ],
+      [
+       "impersonnelle",
+       "Il faut chanter."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme de phrase emploie *il faut* ?",
+     "options": [
+      "La forme passive",
+      "La forme emphatique",
+      "La forme impersonnelle",
+      "La forme négative"
+     ],
+     "answer": 2,
+     "explain": "Dans *Il faut partir*, *il* ne désigne personne : c’est la forme impersonnelle."
+    }
+   ]
+  }
+ ]
+}

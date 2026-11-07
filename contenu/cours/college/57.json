@@ -1,0 +1,595 @@
+{
+ "id": 57,
+ "meta": {"t":"Les valeurs modales : l’indicatif","k":"Cours","n":"3e","m":"Conjugaison","img":"h","r":4.8},
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un mode et que dit-il du locuteur ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on conjugue un verbe, on choisit un **temps** (quand ?) mais aussi un **mode** (comment le locuteur voit-il l’action ?). Le mode traduit l’**attitude** de celui qui parle : il présente le fait comme **certain**, **souhaité**, **possible** ou **ordonné**. C’est ce qu’on appelle la **valeur modale**."
+    },
+    {
+     "type": "def",
+     "label": "Mode",
+     "text": "Le **mode** est la manière dont le verbe présente l’action : comme une **réalité**, une **possibilité**, un **souhait** ou un **ordre**. Il y a quatre **modes personnels** (qui se conjuguent avec des personnes) : l’**indicatif**, le **subjonctif**, le **conditionnel** et l’**impératif**."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre modes personnels",
+     "head": [
+      "Mode",
+      "Valeur principale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Indicatif",
+       "le réel, le certain",
+       "Il **pleut** sur la ville."
+      ],
+      [
+       "Subjonctif",
+       "le souhait, le doute, l’obligation",
+       "Il faut qu’il **vienne**."
+      ],
+      [
+       "Conditionnel",
+       "l’éventuel, l’irréel",
+       "Je **viendrais** si je pouvais."
+      ],
+      [
+       "Impératif",
+       "l’ordre, le conseil",
+       "**Viens** vite !"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Il est parti.** → fait présenté comme certain (indicatif). / **Je voudrais qu’il parte.** → souhait (subjonctif)."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver la valeur d’un mode, demandez-vous : « Le locuteur **affirme-t-il**, **souhaite-t-il**, **imagine-t-il** ou **ordonne-t-il** ? »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Viens ici ! », quelle est la valeur du mode ?",
+     "options": [
+      "Le doute",
+      "L’ordre",
+      "Le réel certain",
+      "L’hypothèse"
+     ],
+     "answer": 1,
+     "explain": "L’impératif exprime l’ordre, le conseil ou la défense."
+    }
+   ]
+  },
+  {
+   "t": "L’indicatif, le mode du réel et du certain",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**indicatif** est le mode le plus employé. Il présente l’action comme un **fait réel** ou **certain** : c’est le mode de l’information, du récit et de la description. Il possède le plus grand nombre de temps, ce qui permet de situer précisément l’action dans le **passé**, le **présent** ou le **futur**."
+    },
+    {
+     "type": "def",
+     "label": "Valeur de base de l’indicatif",
+     "text": "L’indicatif **indique** : il présente un fait comme **vrai**, **sûr** ou **réalisé**. On peut dire d’une phrase à l’indicatif qu’elle est **vraie** ou **fausse**."
+    },
+    {
+     "type": "table",
+     "title": "Les huit temps de l’indicatif",
+     "head": [
+      "Temps simple",
+      "Temps composé correspondant",
+      "Exemple (simple → composé)"
+     ],
+     "rows": [
+      [
+       "présent",
+       "passé composé",
+       "il chante → il a chanté"
+      ],
+      [
+       "imparfait",
+       "plus-que-parfait",
+       "il chantait → il avait chanté"
+      ],
+      [
+       "passé simple",
+       "passé antérieur",
+       "il chanta → il eut chanté"
+      ],
+      [
+       "futur simple",
+       "futur antérieur",
+       "il chantera → il aura chanté"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Hier**, il **a plu**. **Aujourd’hui**, il **pleut**. **Demain**, il **pleuvra**. → trois faits situés dans trois époques, tous présentés comme certains."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Un temps de l’indicatif n’exprime pas toujours le temps de l’horloge : le présent peut parler du futur, l’imparfait de l’irréel… C’est la **valeur modale** des temps, étudiée dans les parties suivantes."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le temps composé qui correspond à l’imparfait ?",
+     "options": [
+      "Le passé composé",
+      "Le plus-que-parfait",
+      "Le futur antérieur",
+      "Le passé antérieur"
+     ],
+     "answer": 1,
+     "explain": "Le plus-que-parfait se forme avec l’auxiliaire à l’imparfait + participe passé."
+    }
+   ]
+  },
+  {
+   "t": "Le présent et le futur : leurs valeurs modales",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Chaque temps de l’indicatif a une **valeur de base** (le présent = maintenant, le futur = plus tard), mais il peut prendre une **valeur modale** selon le contexte : il sert alors à ordonner, à atténuer, à supposer."
+    },
+    {
+     "type": "table",
+     "title": "Valeurs modales du présent et du futur",
+     "head": [
+      "Temps",
+      "Valeur modale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Présent",
+       "ordre direct",
+       "Tu **ranges** ta chambre, tout de suite."
+      ],
+      [
+       "Futur simple",
+       "certitude pour l’avenir",
+       "Le soleil **se lèvera** demain à six heures."
+      ],
+      [
+       "Futur simple",
+       "ordre ou conseil atténué",
+       "Tu **iras** te coucher à vingt heures."
+      ],
+      [
+       "Futur simple",
+       "politesse",
+       "Je vous **demanderai** de patienter."
+      ],
+      [
+       "Futur antérieur",
+       "supposition sur le passé",
+       "Il n’a pas répondu : il **aura oublié**."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Futur de supposition",
+     "text": "Le **futur antérieur** peut exprimer une **probabilité** : « Il **aura raté** son train » signifie « Il a **sans doute** raté son train »."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le futur « d’ordre » semble plus poli que l’impératif : « Tu **fermeras** la porte » est moins brutal que « **Ferme** la porte ! »."
+    },
+    {
+     "type": "quiz",
+     "question": "« Il n’est pas là : il aura raté son bus. » Quelle est la valeur du futur antérieur ?",
+     "options": [
+      "Un ordre",
+      "Une supposition",
+      "Une certitude absolue",
+      "Une habitude"
+     ],
+     "answer": 1,
+     "explain": "On suppose une cause probable ; on n’affirme pas un fait vérifié."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Vous ferez ce travail pour lundi », le futur exprime :",
+     "options": [
+      "Une obligation",
+      "Un souvenir",
+      "Une description",
+      "Un souhait"
+     ],
+     "answer": 0,
+     "explain": "C’est un futur d’ordre, présenté comme une certitude à réaliser."
+    }
+   ]
+  },
+  {
+   "t": "L’imparfait et le plus-que-parfait : valeurs modales",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**imparfait** est surtout un temps du passé, mais il peut aussi exprimer l’**atténuation**, l’**imminence** ou l’**hypothèse**. Le **plus-que-parfait**, lui, sert à parler d’une hypothèse qui ne s’est **pas réalisée**."
+    },
+    {
+     "type": "table",
+     "title": "Valeurs modales de l’imparfait et du plus-que-parfait",
+     "head": [
+      "Temps",
+      "Valeur modale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Imparfait",
+       "atténuation, politesse",
+       "Je **venais** vous demander un renseignement."
+      ],
+      [
+       "Imparfait",
+       "imminence (action qui a failli arriver)",
+       "Un pas de plus, et il **tombait**."
+      ],
+      [
+       "Imparfait (après « si »)",
+       "hypothèse sur le présent",
+       "Si j’**avais** le temps, je lirais davantage."
+      ],
+      [
+       "Plus-que-parfait (après « si »)",
+       "hypothèse non réalisée dans le passé",
+       "Si j’**avais su**, je serais venu."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Hypothèse avec « si »",
+     "text": "Dans une phrase en **si**, le verbe de la proposition en « si » est à l’**indicatif** (imparfait ou plus-que-parfait) ; c’est le verbe de la principale qui est au **conditionnel**."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "On ne met **jamais** le conditionnel après « si » hypothétique : on dit « Si j’**avais** », et non « Si j’aurais »."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "**Si** nous **partions** plus tôt, nous **arriverions** à l’heure. → imparfait (indicatif) + conditionnel présent."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Si tu étais plus attentif, tu comprendrais », « étais » est :",
+     "options": [
+      "Au subjonctif imparfait",
+      "À l’imparfait de l’indicatif",
+      "Au conditionnel présent",
+      "À l’impératif"
+     ],
+     "answer": 1,
+     "explain": "Après « si » d’hypothèse, on emploie l’imparfait de l’indicatif, jamais le conditionnel."
+    }
+   ]
+  },
+  {
+   "t": "L’indicatif dans la proposition subordonnée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase complexe, le mode de la subordonnée dépend du **verbe principal** ou de la **conjonction**. L’indicatif est employé quand le fait est présenté comme **réel**, **certain** ou **posé comme vrai**."
+    },
+    {
+     "type": "h",
+     "text": "Après un verbe de déclaration, de certitude ou de perception"
+    },
+    {
+     "type": "table",
+     "title": "Verbes principaux qui appellent l’indicatif",
+     "head": [
+      "Famille de verbes",
+      "Exemples",
+      "Phrase"
+     ],
+     "rows": [
+      [
+       "Déclaration",
+       "dire, affirmer, annoncer",
+       "Il affirme que la réunion **a eu lieu**."
+      ],
+      [
+       "Certitude",
+       "savoir, être sûr, il est certain",
+       "Je suis sûr qu’elle **viendra**."
+      ],
+      [
+       "Opinion (affirmative)",
+       "penser, croire, trouver",
+       "Je crois qu’il **a raison**."
+      ],
+      [
+       "Perception",
+       "voir, entendre, constater",
+       "J’entends que la pluie **tombe**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Après certaines conjonctions de subordination"
+    },
+    {
+     "type": "table",
+     "title": "Conjonctions suivies de l’indicatif",
+     "head": [
+      "Valeur",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Temps",
+       "quand, lorsque, dès que, après que, pendant que",
+       "Dès qu’il **est arrivé**, nous avons mangé."
+      ],
+      [
+       "Cause",
+       "parce que, puisque, comme",
+       "Puisque tu **es là**, aide-moi."
+      ],
+      [
+       "Opposition",
+       "alors que, tandis que",
+       "Il rit alors qu’elle **pleure**."
+      ],
+      [
+       "Hypothèse",
+       "si",
+       "Si tu **viens**, tu verras."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Retenez « **après que** » : il est suivi de l’**indicatif**, car on parle d’un fait **réel déjà accompli**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction est suivie de l’indicatif ?",
+     "options": [
+      "bien que",
+      "avant que",
+      "puisque",
+      "pour que"
+     ],
+     "answer": 2,
+     "explain": "« Puisque » introduit une cause réelle : indicatif. Les trois autres demandent le subjonctif."
+    }
+   ]
+  },
+  {
+   "t": "Indicatif ou subjonctif ? Choisir le bon mode",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le choix entre indicatif et subjonctif dépend du **degré de certitude**. Si l’action est présentée comme **vraie**, on emploie l’**indicatif** ; si elle est **incertaine**, **souhaitée** ou **jugée**, on emploie le **subjonctif**."
+    },
+    {
+     "type": "table",
+     "title": "Indicatif ou subjonctif ?",
+     "head": [
+      "Indicatif (certain)",
+      "Subjonctif (incertain, souhaité)"
+     ],
+     "rows": [
+      [
+       "Je pense qu’il **viendra**.",
+       "Je ne pense pas qu’il **vienne**."
+      ],
+      [
+       "Il est certain qu’elle **a gagné**.",
+       "Il est possible qu’elle **ait gagné**."
+      ],
+      [
+       "Après qu’il **est parti**, la pièce s’est vidée.",
+       "Avant qu’il **parte**, dis-lui merci."
+      ],
+      [
+       "J’espère qu’il **réussira**.",
+       "Je souhaite qu’il **réussisse**."
+      ],
+      [
+       "Il me semble qu’il **a raison**.",
+       "Il semble qu’il **ait** tort."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le test de la certitude"
+    },
+    {
+     "type": "test",
+     "title": "Le test de la certitude",
+     "lines": [
+      "Le locuteur est **sûr** du fait ? → **indicatif**.",
+      "Le locuteur **doute**, **souhaite** ou **juge** ? → **subjonctif**."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "**Espérer que** se construit avec l’**indicatif** (« J’espère qu’il **viendra** »), alors que **souhaiter que** demande le **subjonctif**. Ne confondez pas les deux."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Avec la négation ou l’interrogation (« Je ne crois pas que… », « Crois-tu que… ? »), on emploie le plus souvent le **subjonctif**, car le fait devient **incertain**. L’indicatif reste possible si l’on garde l’idée de réalité."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Après qu’il soit parti, j’ai rangé.",
+      "Après qu’il est parti, j’ai rangé.",
+      "Avant qu’il est parti, j’ai rangé.",
+      "Bien qu’il est parti, j’ai rangé."
+     ],
+     "answer": 1,
+     "explain": "« Après que » est suivi de l’indicatif ; « avant que » et « bien que » demandent le subjonctif."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : choisir le mode"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au mode qui convient (indicatif ou subjonctif).",
+     "items": [
+      "Je sais que tu (avoir) raison.",
+      "Il est possible qu’il (pleuvoir) ce soir.",
+      "Pendant que tu (dormir), j’ai préparé le repas.",
+      "Je ne pense pas qu’il (être) en retard.",
+      "Après qu’elle (partir), le silence est revenu.",
+      "Bien qu’il (faire) froid, nous sortons."
+     ],
+     "corrige": [
+      "as (indicatif : fait certain)",
+      "pleuve (subjonctif : possibilité)",
+      "dormais (indicatif imparfait : fait réel, durée)",
+      "soit (subjonctif : après une négation, le fait devient incertain)",
+      "est partie (indicatif : après que + fait réel)",
+      "fasse (subjonctif : bien que + subjonctif)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : trouver la valeur modale"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la valeur modale du temps souligné ou du verbe en gras.",
+     "items": [
+      "Je **voulais** vous demander un service.",
+      "Tu **feras** tes devoirs avant de sortir.",
+      "Si j’**avais** plus de temps, je lirais davantage.",
+      "Il n’a pas répondu : il **aura oublié**.",
+      "Un pas de plus, et il **tombait**."
+     ],
+     "corrige": [
+      "imparfait d’atténuation (politesse)",
+      "futur à valeur d’ordre",
+      "imparfait d’hypothèse (après « si »)",
+      "futur antérieur de supposition",
+      "imparfait d’imminence (l’action a failli se produire)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque phrase en commençant par « Je ne … pas que » et mets le verbe au bon mode.",
+     "items": [
+      "Je pense qu’il viendra.",
+      "Je crois qu’elle a raison.",
+      "Je suis sûr qu’il part."
+     ],
+     "corrige": [
+      "Je ne pense pas qu’il **vienne**.",
+      "Je ne crois pas qu’elle **ait** raison.",
+      "Je ne suis pas sûr qu’il **parte**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Je sais que la Terre tourne autour du Soleil. » Quel est le mode de « tourne » ?",
+     "options": [
+      "Subjonctif",
+      "Indicatif",
+      "Conditionnel",
+      "Impératif"
+     ],
+     "answer": 1,
+     "explain": "Il s’agit d’une vérité scientifique certaine, présentée comme un fait réel : indicatif présent."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **mode** exprime l’attitude du locuteur face à l’action : certitude, souhait, doute, ordre.",
+      "L’**indicatif** est le mode du **réel** et du **certain** ; il a huit temps (quatre simples, quatre composés).",
+      "Un temps de l’indicatif peut avoir une **valeur modale** : futur d’ordre, futur antérieur de supposition, imparfait d’atténuation, d’imminence ou d’hypothèse.",
+      "Après « **si** » d’hypothèse, on emploie l’**indicatif** (imparfait ou plus-que-parfait), jamais le conditionnel.",
+      "Après « **après que** », « **puisque** », « **parce que** », « **quand** », on emploie l’indicatif ; après « **avant que** », « **bien que** », « **pour que** », le subjonctif."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Valeurs modales à connaître",
+     "head": [
+      "Temps",
+      "Valeur modale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Futur simple",
+       "ordre ou politesse",
+       "Vous **patienterez** un instant."
+      ],
+      [
+       "Futur antérieur",
+       "supposition",
+       "Il **aura oublié**."
+      ],
+      [
+       "Imparfait",
+       "atténuation ou imminence",
+       "Je **voulais** vous voir."
+      ],
+      [
+       "Plus-que-parfait (après « si »)",
+       "hypothèse non réalisée",
+       "Si j’**avais su**…"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un imparfait d’atténuation ?",
+     "options": [
+      "Hier, il pleuvait.",
+      "Je voulais vous demander un renseignement.",
+      "Si j’avais le temps, je viendrais.",
+      "Il travaillait chaque soir."
+     ],
+     "answer": 1,
+     "explain": "L’imparfait adoucit la demande : « Je voulais » est plus poli que « Je veux »."
+    }
+   ]
+  }
+ ]
+}

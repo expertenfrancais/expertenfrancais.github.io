@@ -1,0 +1,676 @@
+{
+ "id": 6,
+ "meta": {"t":"Les fonctions grammaticales","k":"Cours","n":"5e","m":"Grammaire","img":"g","r":4.8},
+ "sections": [
+  {
+   "t": "Nature et fonction : ne pas confondre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser une phrase, on se pose deux questions différentes sur chaque mot ou groupe de mots : **Qu’est-ce que c’est ?** (la nature) et **Que fait-il dans la phrase ?** (la fonction). Ce cours t’apprend à répondre à la seconde."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Distinguer la nature et la fonction d’un mot",
+      "Retrouver les fonctions dans la phrase et dans le groupe nominal",
+      "Analyser une phrase complète"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Nature",
+     "text": "La **nature** (ou classe grammaticale) dit ce qu’est un mot : *nom, verbe, adjectif, déterminant, pronom, adverbe, préposition, conjonction*. Elle se trouve dans le dictionnaire et ne dépend pas de la phrase."
+    },
+    {
+     "type": "def",
+     "label": "Fonction",
+     "text": "La **fonction** dit le **rôle** d’un mot ou d’un groupe de mots dans la phrase : *sujet, COD, COI, attribut, complément circonstanciel, épithète…* Elle dépend de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Même nature, fonctions différentes",
+     "head": [
+      "Phrase",
+      "Le groupe nominal en gras est…"
+     ],
+     "rows": [
+      [
+       "**Le chat** dort.",
+       "sujet"
+      ],
+      [
+       "Je nourris **le chat**.",
+       "COD"
+      ],
+      [
+       "Je parle **au chat**.",
+       "COI"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Nature et fonction d’une même phrase",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "nom propre → sujet"
+      },
+      {
+       "mot": "mange",
+       "role": "verbe → noyau du groupe verbal",
+       "noyau": true
+      },
+      {
+       "mot": "une pomme",
+       "role": "groupe nominal → COD"
+      },
+      {
+       "mot": "rouge",
+       "role": "adjectif → épithète de *pomme*"
+      }
+     ],
+     "note": "La nature se trouve avec le dictionnaire ; la fonction se trouve avec la phrase."
+    },
+    {
+     "type": "tip",
+     "label": "Pour ne pas confondre",
+     "text": "*Nature* = **ce que le mot est** (il ne change pas). *Fonction* = **ce que le mot fait** dans cette phrase (elle change d’une phrase à l’autre)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon frère lit un livre », que dit-on avec « *un livre* est COD » ?",
+     "options": [
+      "Sa nature",
+      "Sa fonction",
+      "Son accord",
+      "Sa conjugaison"
+     ],
+     "answer": 1,
+     "explain": "COD indique le rôle du groupe dans la phrase : c’est une fonction. Sa nature est *groupe nominal*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque phrase, donne la nature du mot en gras, puis la fonction du groupe souligné par la question.",
+     "items": [
+      "Mon frère **lit** un livre. (Quelle est la nature de *lit* ?)",
+      "Mon frère lit **un livre**. (Quelle est la fonction ?)",
+      "Mon frère lit un **gros** livre. (Quelle est la nature de *gros* ?)",
+      "**Mon frère** lit un livre. (Quelle est la fonction ?)"
+     ],
+     "corrige": [
+      "1. verbe",
+      "2. COD (lit *quoi* ?)",
+      "3. adjectif",
+      "4. sujet (*Qui est-ce qui lit ?*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sujet",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Le sujet du verbe"
+    },
+    {
+     "type": "def",
+     "label": "Sujet",
+     "text": "Le **sujet** est le mot ou le groupe de mots qui **fait l’action** ou **est dans l’état** exprimé par le verbe. Il **commande l’accord** du verbe en personne et en nombre."
+    },
+    {
+     "type": "test",
+     "title": "Trouver le sujet",
+     "lines": [
+      "Les enfants jouent dans la cour.",
+      "Qui est-ce qui joue ? → Les enfants",
+      "Ce sont les enfants qui jouent."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ce qui peut être sujet",
+     "head": [
+      "Nature du sujet",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "nom propre",
+       "**Awa** chante."
+      ],
+      [
+       "groupe nominal",
+       "**Le petit garçon** rit."
+      ],
+      [
+       "pronom",
+       "**Il** rit."
+      ],
+      [
+       "verbe à l’infinitif",
+       "**Chanter** est agréable."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le sujet n’est pas toujours avant le verbe",
+     "text": "Le sujet peut être placé **après** le verbe : « Sur la table se trouve **un cadeau**. » Le verbe s’accorde avec *un cadeau*. Pose toujours la question **qui est-ce qui ?** ou utilise **c’est … qui**."
+    },
+    {
+     "type": "warn",
+     "label": "Plusieurs sujets",
+     "text": "Quand il y a plusieurs sujets, le verbe se met au pluriel : « **Mon frère et ma sœur** chantent. » (= ils)."
+    },
+    {
+     "type": "tip",
+     "label": "Le test du pronom",
+     "text": "Un sujet peut toujours être remplacé par un pronom : *il, elle, ils, elles, on, nous…* « Les enfants jouent » → « **Ils** jouent »."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Dans le jardin jouent des enfants », quel est le sujet de *jouent* ?",
+     "options": [
+      "Dans le jardin",
+      "jouent",
+      "des enfants",
+      "le jardin"
+     ],
+     "answer": 2,
+     "explain": "*Qui est-ce qui joue ?* → *des enfants*. Le sujet est placé après le verbe, qui s’accorde au pluriel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le sujet de chaque phrase.",
+     "items": [
+      "Les élèves de la classe chantent.",
+      "Chaque matin, ma tante vend des mangues.",
+      "Sur la route marchent des écoliers.",
+      "Lire me détend."
+     ],
+     "corrige": [
+      "1. *Les élèves de la classe*",
+      "2. *ma tante*",
+      "3. *des écoliers* (sujet placé après le verbe)",
+      "4. *Lire* (verbe à l’infinitif)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les fonctions liées au verbe : COD, COI et attribut",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après le verbe, on trouve des compléments dont on **ne peut pas se passer** : ils complètent le sens du verbe. Voici les trois principaux."
+    },
+    {
+     "type": "table",
+     "title": "COD, COI et attribut du sujet",
+     "head": [
+      "Fonction",
+      "Comment la trouver",
+      "Se remplace par",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "COD",
+       "*qui ? quoi ?* après le verbe, sans préposition",
+       "le, la, les",
+       "Il lit **un livre**. → Il **le** lit."
+      ],
+      [
+       "COI",
+       "*à qui ? de quoi ?…* avec une préposition",
+       "lui, leur, y, en",
+       "Il parle **à Awa**. → Il **lui** parle."
+      ],
+      [
+       "attribut du sujet",
+       "après un verbe d’état : décrit le sujet",
+       "ne se remplace pas par un pronom COD",
+       "Il est **content**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "« Les élèves **écoutent** le maître. » → *le maître* : COD.\n« Les élèves **obéissent** au maître. » → *au maître* : COI.\n« Les élèves **semblent** attentifs. » → *attentifs* : attribut du sujet."
+    },
+    {
+     "type": "schema",
+     "title": "Les trois compléments",
+     "cells": [
+      {
+       "mot": "Nous",
+       "role": "sujet"
+      },
+      {
+       "mot": "achetons",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "des fruits",
+       "role": "COD"
+      },
+      {
+       "mot": "à ma voisine",
+       "role": "COI"
+      }
+     ],
+     "note": "Un verbe peut avoir à la fois un COD et un COI : *acheter quelque chose à quelqu’un*."
+    },
+    {
+     "type": "warn",
+     "label": "Verbe d’état = attribut",
+     "text": "Après *être, paraître, sembler, devenir, rester, demeurer, avoir l’air*, le mot qui suit est le plus souvent un **attribut du sujet** et s’accorde avec le sujet : *Les mangues sont **mûres**.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Ma mère parle à ses voisins », quelle est la fonction de *à ses voisins* ?",
+     "options": [
+      "COD",
+      "COI",
+      "Attribut du sujet",
+      "Sujet"
+     ],
+     "answer": 1,
+     "explain": "On répond à la question « parle *à qui* ? » avec la préposition *à* : c’est un COI."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du groupe en gras : COD, COI ou attribut du sujet.",
+     "items": [
+      "Le cuisinier prépare **un repas**.",
+      "Elle pense **à ses vacances**.",
+      "La nuit devient **froide**.",
+      "J’ai écrit **une lettre**.",
+      "Il se souvient **de son enfance**."
+     ],
+     "corrige": [
+      "1. COD",
+      "2. COI (pense *à quoi* ?)",
+      "3. attribut du sujet (*devenir*)",
+      "4. COD (j’ai écrit *quoi* ?)",
+      "5. COI (se souvient *de quoi* ?)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les compléments circonstanciels",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Les circonstances de l’action"
+    },
+    {
+     "type": "def",
+     "label": "Complément circonstanciel",
+     "text": "Le **complément circonstanciel** (CC) ou **complément de phrase** apporte une précision sur les **circonstances** de l’action : *où ? quand ? comment ? pourquoi ?* Il est **facultatif** : on peut le supprimer et le déplacer."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux compléments circonstanciels",
+     "head": [
+      "Circonstance",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "lieu",
+       "où ?",
+       "Les enfants jouent **dans la cour**."
+      ],
+      [
+       "temps",
+       "quand ?",
+       "**Ce matin**, il a plu."
+      ],
+      [
+       "manière",
+       "comment ?",
+       "Elle répond **poliment**."
+      ],
+      [
+       "cause",
+       "pourquoi ?",
+       "Il est en retard **à cause de la pluie**."
+      ],
+      [
+       "but",
+       "dans quel but ?",
+       "Il travaille **pour réussir**."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ce qui peut être complément circonstanciel",
+     "head": [
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "adverbe",
+       "Il parle **doucement**."
+      ],
+      [
+       "groupe nominal",
+       "**Ce soir**, nous partons."
+      ],
+      [
+       "groupe introduit par une préposition",
+       "Elle marche **avec prudence**."
+      ],
+      [
+       "proposition subordonnée",
+       "**Quand il pleut**, nous restons à la maison."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test de la suppression et du déplacement",
+     "lines": [
+      "Les enfants jouent dans la cour.",
+      "Les enfants jouent. (suppression possible)",
+      "Dans la cour, les enfants jouent. (déplacement possible)"
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Un complément de lieu n’est pas toujours circonstanciel",
+     "text": "Après *aller*, *habiter* ou *se rendre*, le complément de lieu est **indispensable** : *J’habite à Pointe-Noire.* On ne peut pas le supprimer, c’est donc un complément essentiel, pas un complément circonstanciel."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Demain, ma tante arrive », quelle est la fonction de *Demain* ?",
+     "options": [
+      "Sujet",
+      "COD",
+      "Complément circonstanciel de temps",
+      "Attribut"
+     ],
+     "answer": 2,
+     "explain": "*Demain* répond à « quand ? » et peut être supprimé ou déplacé : c’est un complément circonstanciel de temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément circonstanciel et donne sa circonstance (lieu, temps, manière, cause ou but).",
+     "items": [
+      "Le soir, les villageois se réunissent.",
+      "Il court pour attraper le bus.",
+      "Les enfants dorment dans la case.",
+      "Elle marche lentement."
+     ],
+     "corrige": [
+      "1. *Le soir* (temps)",
+      "2. *pour attraper le bus* (but)",
+      "3. *dans la case* (lieu)",
+      "4. *lentement* (manière)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les fonctions dans le groupe nominal",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À l’intérieur d’un groupe nominal, les mots autour du nom ont eux aussi une fonction. Les trois principales : l’**épithète**, le **complément du nom** et l’**apposition**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois fonctions autour du nom",
+     "head": [
+      "Fonction",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "épithète",
+       "adjectif qui qualifie le nom, **sans verbe**",
+       "une **grande** maison"
+      ],
+      [
+       "complément du nom",
+       "groupe introduit par une **préposition**, qui précise le nom",
+       "la maison **de ma tante**"
+      ],
+      [
+       "apposition",
+       "mot ou groupe **séparé par une virgule**, qui apporte une précision",
+       "Awa, **ma voisine**, chante."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un groupe nominal décortiqué",
+     "cells": [
+      {
+       "mot": "Le",
+       "role": "déterminant"
+      },
+      {
+       "mot": "petit",
+       "role": "épithète du nom"
+      },
+      {
+       "mot": "village",
+       "role": "nom noyau",
+       "noyau": true
+      },
+      {
+       "mot": "de ma tante",
+       "role": "complément du nom"
+      }
+     ],
+     "note": "Chaque mot a une nature ; chaque expansion du nom a une fonction."
+    },
+    {
+     "type": "warn",
+     "label": "Épithète ou attribut ?",
+     "text": "L’**épithète** est rattachée directement au nom : *une maison **blanche***. L’**attribut** est relié au sujet par un verbe d’état : *la maison est **blanche***."
+    },
+    {
+     "type": "tip",
+     "label": "Pour reconnaître l’apposition",
+     "text": "L’apposition est entre **virgules** et on peut la supprimer sans changer le sens : « Awa, ma voisine, chante. » → « Awa chante. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La maison de ma tante est grande », quelle est la fonction de *de ma tante* ?",
+     "options": [
+      "COI",
+      "Complément du nom",
+      "Attribut",
+      "Épithète"
+     ],
+     "answer": 1,
+     "explain": "*De ma tante* précise le nom *maison* : c’est un complément du nom. *Grande* est l’attribut du sujet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du mot ou du groupe en gras : épithète, complément du nom ou apposition.",
+     "items": [
+      "Une **belle** voiture.",
+      "Le livre **de mon frère**.",
+      "Mon oncle, **un grand voyageur**, arrive demain.",
+      "Un sac **en cuir**."
+     ],
+     "corrige": [
+      "1. épithète (adjectif sans verbe)",
+      "2. complément du nom (préposition *de*)",
+      "3. apposition (entre virgules)",
+      "4. complément du nom (préposition *en*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’analyse",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent toutes les fonctions du cours. Avance dans l’ordre : on commence par **identifier** une fonction, puis on **analyse une phrase entière**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : identifier"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du groupe en gras.",
+     "items": [
+      "**Les enfants** chantent.",
+      "Nous mangeons **du poisson**.",
+      "Il parle **à son ami**.",
+      "Ce village est **calme**.",
+      "**Le matin**, il lit."
+     ],
+     "corrige": [
+      "1. sujet",
+      "2. COD",
+      "3. COI",
+      "4. attribut du sujet",
+      "5. complément circonstanciel de temps"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le jardinier de l’école arrose les fleurs », quelle est la fonction de *de l’école* ?",
+     "options": [
+      "COD",
+      "Complément du nom",
+      "Complément circonstanciel de lieu",
+      "Épithète"
+     ],
+     "answer": 1,
+     "explain": "*De l’école* complète le nom *jardinier* : c’est un complément du nom."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser une phrase"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la phrase « Hier, ma petite sœur a offert un livre à son amie. » : relève le sujet, le verbe, le COD, le COI, le complément circonstanciel et l’épithète.",
+     "corrige": [
+      "sujet : *ma petite sœur*",
+      "verbe : *a offert*",
+      "COD : *un livre*",
+      "COI : *à son amie*",
+      "complément circonstanciel de temps : *Hier*",
+      "épithète : *petite* (épithète du nom *sœur*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase qui contient chacun de ces éléments.",
+     "items": [
+      "un sujet, un verbe et un COD",
+      "un verbe d’état et un attribut du sujet",
+      "un COI et un complément circonstanciel de lieu",
+      "un nom avec une épithète et un complément du nom"
+     ],
+     "corrige": "Réponses possibles : *Mon père cultive du manioc.* — *Le ciel devient gris.* — *Je pense à mes amis dans la cour.* — *Le petit chat de ma voisine dort.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **nature** dit ce qu’est un mot ; la **fonction** dit son rôle dans la phrase.",
+      "Le **sujet** fait l’action et commande l’accord du verbe : *qui est-ce qui ?*, *c’est … qui*.",
+      "Le **COD** répond à *qui ? quoi ?* ; le **COI** est introduit par une préposition ; l’**attribut du sujet** suit un verbe d’état.",
+      "Le **complément circonstanciel** est facultatif : il se supprime et se déplace.",
+      "Dans le groupe nominal : l’**épithète** (adjectif sans verbe), le **complément du nom** (préposition) et l’**apposition** (entre virgules)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif des fonctions",
+     "head": [
+      "Fonction",
+      "Comment la reconnaître",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "sujet",
+       "qui est-ce qui ? / c’est … qui",
+       "**Awa** chante."
+      ],
+      [
+       "COD",
+       "qui ? quoi ? (sans préposition)",
+       "Il lit **un livre**."
+      ],
+      [
+       "COI",
+       "à qui ? de quoi ? (avec préposition)",
+       "Il parle **à Awa**."
+      ],
+      [
+       "attribut du sujet",
+       "après un verbe d’état",
+       "Il est **content**."
+      ],
+      [
+       "complément circonstanciel",
+       "se supprime et se déplace",
+       "**Hier**, il a plu."
+      ],
+      [
+       "épithète",
+       "adjectif sans verbe",
+       "une **belle** fleur"
+      ],
+      [
+       "complément du nom",
+       "préposition + nom",
+       "la maison **de Paul**"
+      ],
+      [
+       "apposition",
+       "entre virgules",
+       "Awa, **ma voisine**, rit."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle fonction se supprime et se déplace sans changer le sens du verbe ?",
+     "options": [
+      "COD",
+      "COI",
+      "Attribut du sujet",
+      "Complément circonstanciel"
+     ],
+     "answer": 3,
+     "explain": "Le complément circonstanciel est facultatif : on peut le supprimer ou le déplacer."
+    }
+   ]
+  }
+ ]
+}

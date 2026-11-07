@@ -1,0 +1,800 @@
+{
+ "id": 34,
+ "meta": {"t":"La coordination, la juxtaposition et la subordination","k":"Cours","n":"3e","m":"Grammaire","img":"d","r":4.8},
+ "sections": [
+  {
+   "t": "Rappels : propositions et liens",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase complexe est formée de **plusieurs propositions**, chacune organisée autour d’un **verbe conjugué**. En 3ᵉ, on apprend à **analyser** ces liens avec précision."
+    },
+    {
+     "type": "def",
+     "label": "Rang des propositions",
+     "text": "Des propositions **de même rang** (indépendantes) sont **juxtaposées** ou **coordonnées**. Une proposition **subordonnée** dépend, elle, d’une **principale** : il y a une **hiérarchie**."
+    },
+    {
+     "type": "table",
+     "title": "Trois procédés pour relier des propositions",
+     "head": [
+      "Procédé",
+      "Rapport",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Juxtaposition",
+       "même rang, ponctuation",
+       "Il pleut, nous restons."
+      ],
+      [
+       "Coordination",
+       "même rang, conjonction ou adverbe",
+       "Il pleut **donc** nous restons."
+      ],
+      [
+       "Subordination",
+       "dépendance",
+       "Nous restons **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il rit, elle pleure et le chat dort. → trois verbes, trois propositions de même rang : *Il rit* (J) / *elle pleure* (J) / *et le chat dort* (C).",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Le test de l’autonomie",
+     "text": "Une proposition **indépendante** ou **principale** peut être lue seule comme une phrase. Une **subordonnée** ne le peut pas : *parce qu’il pleut* reste incomplet."
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de propositions contient « Il rit, elle pleure et le chat dort. » ?",
+     "options": [
+      "Une",
+      "Deux",
+      "Trois",
+      "Quatre"
+     ],
+     "answer": 2,
+     "explain": "Il y a trois verbes conjugués : *rit*, *pleure*, *dort*."
+    }
+   ]
+  },
+  {
+   "t": "Juxtaposition et coordination : sens et nuances",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Même sans subordination, les propositions expriment un **rapport logique**. À toi de le comprendre."
+    },
+    {
+     "type": "table",
+     "title": "Ce que suggère la ponctuation",
+     "head": [
+      "Signe",
+      "Rapport suggéré",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Deux-points",
+       "cause, explication, conséquence",
+       "Il n’a pas répondu : il dormait."
+      ],
+      [
+       "Point-virgule",
+       "opposition, addition, parallélisme",
+       "Les uns riaient ; les autres pleuraient."
+      ],
+      [
+       "Virgule",
+       "succession, addition",
+       "Il entra, salua, s’assit."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les conjonctions de coordination et leur sens",
+     "head": [
+      "Conjonction",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "mais",
+       "opposition, restriction",
+       "Il est petit **mais** fort."
+      ],
+      [
+       "ou",
+       "choix, alternative",
+       "Tu viens **ou** tu restes."
+      ],
+      [
+       "et",
+       "addition, succession",
+       "Il ouvrit **et** il sortit."
+      ],
+      [
+       "donc",
+       "conséquence",
+       "Je pense, **donc** je suis."
+      ],
+      [
+       "or",
+       "fait nouveau menant à une conclusion",
+       "Il devait venir, **or** il est absent."
+      ],
+      [
+       "ni",
+       "négation reliée",
+       "Il ne chante **ni** ne danse."
+      ],
+      [
+       "car",
+       "cause",
+       "Il reste **car** il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Adverbes de liaison",
+     "text": "Les **adverbes de liaison** (*puis, ensuite, cependant, pourtant, toutefois, en effet, par conséquent, c’est pourquoi…*) relient aussi des propositions, mais ils sont **mobiles** dans la proposition."
+    },
+    {
+     "type": "ex",
+     "text": "Il est fatigué ; il continue **pourtant**. / Il est fatigué ; **pourtant** il continue.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Conjonction ou adverbe ?",
+     "text": "Une **conjonction de coordination** est **fixe** : on ne peut pas dire « Il pleut, nous sortons **mais**. ». Un **adverbe de liaison** peut se déplacer : « Il pleut, nous sortons **pourtant**. »"
+    },
+    {
+     "type": "warn",
+     "label": "« car » et « parce que »",
+     "text": "*Car* **coordonne** : on ne peut ni le placer en tête de phrase ni répondre à « pourquoi ? » par *car*. *Parce que* **subordonne** : « Parce qu’il pleut, nous restons. » est correct."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a étudié ; il a donc réussi. », quel est le lien ?",
+     "options": [
+      "Juxtaposition seule",
+      "Juxtaposition et adverbe de liaison",
+      "Subordination",
+      "Aucun lien"
+     ],
+     "answer": 1,
+     "explain": "Le point-virgule juxtapose les propositions et *donc*, déplaçable, marque la conséquence."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si les propositions sont juxtaposées ou coordonnées et indique le rapport logique.",
+     "items": [
+      "Il n’a pas répondu : il dormait.",
+      "Il est petit mais fort.",
+      "Il a beaucoup couru ; pourtant il n’est pas fatigué.",
+      "Il ne mange ni ne boit."
+     ],
+     "corrige": [
+      "1. juxtaposition ; cause (les deux-points)",
+      "2. coordination ; opposition (*mais*)",
+      "3. juxtaposition + adverbe de liaison *pourtant* ; opposition",
+      "4. coordination ; négation (*ni*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La subordination : conjonctions, pronoms relatifs, mots interrogatifs",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Subordination",
+     "text": "La **subordination** relie une **proposition subordonnée** à une **proposition principale** dont elle dépend. La subordonnée est introduite par un **mot subordonnant**."
+    },
+    {
+     "type": "table",
+     "title": "Les mots subordonnants",
+     "head": [
+      "Mot subordonnant",
+      "Subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "pronom relatif (*qui, que, dont, où, lequel*)",
+       "relative",
+       "L’élève **qui travaille** réussit."
+      ],
+      [
+       "conjonction *que*",
+       "complétive",
+       "Je pense **qu’il viendra**."
+      ],
+      [
+       "mot interrogatif (*si, où, comment, pourquoi*)",
+       "interrogative indirecte",
+       "Dis-moi **où tu vas**."
+      ],
+      [
+       "conjonction (*quand, parce que, si, bien que…*)",
+       "circonstancielle",
+       "Il sort **parce qu’il fait beau**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Fonction de la subordonnée"
+    },
+    {
+     "type": "list",
+     "items": [
+      "La **relative** complète un **nom** ou un pronom : son **antécédent**.",
+      "La **complétive** et l’**interrogative indirecte** sont le plus souvent **compléments d’objet** du verbe de la principale.",
+      "La **circonstancielle** est **complément circonstanciel** du verbe de la principale."
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase analysée",
+     "note": "On demande « Dis-moi quoi ? » → *où tu vas* : c’est le COD.",
+     "cells": [
+      {
+       "mot": "Dis-moi",
+       "role": "principale",
+       "noyau": true
+      },
+      {
+       "mot": "où",
+       "role": "mot interrogatif"
+      },
+      {
+       "mot": "tu vas",
+       "role": "subordonnée interrogative indirecte (COD)"
+      }
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "« que » : conjonction ou pronom relatif ?",
+     "text": "Dans « Le film **que** j’ai vu », *que* reprend *film* (antécédent) : pronom relatif, COD de *ai vu*. Dans « Je pense **que** tu as raison », *que* n’a **pas d’antécédent** : conjonction qui introduit une complétive."
+    },
+    {
+     "type": "warn",
+     "label": "« si » : condition ou interrogation ?",
+     "text": "*Si* de condition ne se met pas au futur : « **S’**il vient, je serai content. » *Si* de l’interrogative indirecte le permet : « Je me demande **s’**il viendra. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je me demande si elle viendra. », la subordonnée est…",
+     "options": [
+      "une relative",
+      "une circonstancielle de condition",
+      "une interrogative indirecte",
+      "une complétive en *que*"
+     ],
+     "answer": 2,
+     "explain": "*Si* est ici un mot interrogatif et le verbe est au futur : interrogative indirecte, COD de *demande*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature de la subordonnée et le mot qui l’introduit.",
+     "items": [
+      "Le livre que tu m’as prêté est passionnant.",
+      "Je crois que tu as raison.",
+      "Dis-moi comment tu fais.",
+      "Nous sortirons quand la pluie cessera."
+     ],
+     "corrige": [
+      "1. relative ; *que* (pronom relatif)",
+      "2. complétive ; *que* (conjonction)",
+      "3. interrogative indirecte ; *comment*",
+      "4. circonstancielle de temps ; *quand*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les subordonnées circonstancielles et leurs valeurs",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une **circonstancielle** apporte une **circonstance** : le temps, la cause, le but… Pour trouver sa valeur, **pose la question** au verbe de la principale."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs des circonstancielles",
+     "head": [
+      "Valeur",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps (*quand ?*)",
+       "quand, lorsque, dès que, pendant que, avant que, après que",
+       "**Quand** la pluie cesse, nous sortons."
+      ],
+      [
+       "cause (*pourquoi ?*)",
+       "parce que, puisque, comme, étant donné que",
+       "Il reste **parce qu’**il est malade."
+      ],
+      [
+       "conséquence (*avec quel résultat ?*)",
+       "si bien que, de sorte que, si… que, tellement… que",
+       "Il est **si** fatigué **qu’**il dort."
+      ],
+      [
+       "but (*dans quel but ?*)",
+       "pour que, afin que, de peur que",
+       "Il travaille **pour que** sa famille vive bien."
+      ],
+      [
+       "condition (*à quelle condition ?*)",
+       "si, à condition que, pourvu que, au cas où",
+       "**Si** tu viens, nous irons."
+      ],
+      [
+       "concession (*malgré quoi ?*)",
+       "bien que, quoique, même si, alors que",
+       "**Bien qu’**il pleuve, nous sortons."
+      ],
+      [
+       "comparaison",
+       "comme, ainsi que, de même que",
+       "Il court **comme** un lièvre."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Poser la bonne question",
+     "text": "*Pourquoi ?* → cause ; *dans quel but ?* → but ; *quand ?* → temps ; *à quelle condition ?* → condition ; *malgré quoi ?* → concession."
+    },
+    {
+     "type": "warn",
+     "label": "Cause ou but ?",
+     "text": "« Il travaille **parce qu’**il veut réussir » exprime la **cause** (indicatif). « Il travaille **pour qu’**il réussisse » exprime le **but** (subjonctif)."
+    },
+    {
+     "type": "warn",
+     "label": "Cause ou conséquence ?",
+     "text": "La cause dit **pourquoi** : *Il dort parce qu’il est fatigué.* La conséquence dit **le résultat** : *Il est si fatigué qu’il dort.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la valeur de la subordonnée dans « Bien qu’il pleuve, nous sortons. » ?",
+     "options": [
+      "cause",
+      "but",
+      "concession",
+      "condition"
+     ],
+     "answer": 2,
+     "explain": "On sort **malgré** la pluie : c’est une concession."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur de chaque circonstancielle.",
+     "items": [
+      "Dès que le soleil se lève, les oiseaux chantent.",
+      "Nous resterons puisqu’il pleut.",
+      "Il parle fort pour que tout le monde l’entende.",
+      "Si tu travailles, tu réussiras.",
+      "Il est tellement pressé qu’il oublie ses clés.",
+      "Quoiqu’il soit fatigué, il continue."
+     ],
+     "corrige": [
+      "1. temps",
+      "2. cause",
+      "3. but",
+      "4. condition",
+      "5. conséquence",
+      "6. concession"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le mode du verbe dans la subordonnée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après certaines conjonctions, le verbe doit être au **subjonctif**. Après d’autres, il est à l’**indicatif**."
+    },
+    {
+     "type": "table",
+     "title": "Conjonctions et modes",
+     "head": [
+      "Mode",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "subjonctif",
+       "pour que, afin que, bien que, quoique, avant que, jusqu’à ce que, sans que, à condition que, pourvu que, de peur que",
+       "Bien qu’il **soit** malade, il vient."
+      ],
+      [
+       "indicatif",
+       "parce que, puisque, quand, lorsque, après que, si bien que, alors que, même si",
+       "Je sors **parce qu’**il **fait** beau."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La concordance avec « si » de condition",
+     "head": [
+      "Subordonnée",
+      "Principale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "si + présent",
+       "futur",
+       "Si tu viens, nous **partirons**."
+      ],
+      [
+       "si + imparfait",
+       "conditionnel présent",
+       "Si tu venais, nous **partirions**."
+      ],
+      [
+       "si + plus-que-parfait",
+       "conditionnel passé",
+       "Si tu étais venu, nous **serions partis**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Jamais de conditionnel après « si »",
+     "text": "On dit « Si j’**avais** le temps, je lirais. » et non « Si j’aurais le temps ». Le conditionnel est dans la **principale**."
+    },
+    {
+     "type": "warn",
+     "label": "« après que » + indicatif",
+     "text": "On écrit « Après qu’il **est** parti » et non « Après qu’il soit parti », même si l’erreur est fréquente."
+    },
+    {
+     "type": "tip",
+     "label": "Repérer le subjonctif",
+     "text": "Remplace le verbe par *faire* ou *prendre* après *il faut que* : *que je fasse, que je prenne*. Pour les verbes du 1ᵉʳ groupe, le subjonctif ressemble à l’indicatif : le test t’aide."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe entre parenthèses au bon temps et au bon mode.",
+     "items": [
+      "Il travaille pour que ses enfants (réussir).",
+      "Bien qu’il (pleuvoir), nous sortons.",
+      "Si tu (venir) demain, nous irons au marché.",
+      "Après qu’il (partir), le silence revint.",
+      "Si j’(avoir) le temps, je lirais plus."
+     ],
+     "corrige": [
+      "1. réussissent (but : subjonctif)",
+      "2. pleuve (concession : subjonctif)",
+      "3. viens (si + présent)",
+      "4. est parti (après que + indicatif)",
+      "5. avais (si + imparfait)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Si j’aurais le temps, je viendrais.",
+      "Si j’avais le temps, je viendrais.",
+      "Si j’ai eu le temps, je viendrais.",
+      "Si j’aie le temps, je viendrais."
+     ],
+     "answer": 1,
+     "explain": "*Si* + imparfait, principale au conditionnel présent."
+    }
+   ]
+  },
+  {
+   "t": "Pour aller plus loin : la subordonnée participiale",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Subordonnée participiale",
+     "text": "Une **proposition subordonnée participiale** a son verbe au **participe** et possède **son propre sujet**, différent de celui de la principale. Elle a une **valeur circonstancielle**."
+    },
+    {
+     "type": "ex",
+     "text": "Le jour **se levant**, les pêcheurs quittèrent le port. → *Le jour* est le sujet de *se levant*.",
+     "label": "Exemple"
+    },
+    {
+     "type": "table",
+     "title": "Participiale et équivalent",
+     "head": [
+      "Valeur",
+      "Participiale",
+      "Équivalent"
+     ],
+     "rows": [
+      [
+       "temps",
+       "Le soleil couché, nous rentrons.",
+       "Quand le soleil est couché, nous rentrons."
+      ],
+      [
+       "cause",
+       "Le ciel étant couvert, nous restons.",
+       "Parce que le ciel est couvert, nous restons."
+      ],
+      [
+       "condition",
+       "Le temps le permettant, nous partirons.",
+       "Si le temps le permet, nous partirons."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Participiale ou participe apposé ?",
+     "text": "Dans « **Fatigué**, il s’assit. », *fatigué* se rapporte à *il* : c’est un participe **apposé**, sans sujet propre. Dans « Les élèves **étant arrivés**, le cours commença. », *les élèves* est le sujet de *étant arrivés* : c’est une **participiale**."
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Cherche le **sujet** du participe. S’il est **différent** de celui de la principale et placé **devant** : participiale. Tu peux aussi la remplacer par *quand*, *parce que* ou *si* + verbe conjugué."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace la participiale par une subordonnée avec conjonction.",
+     "items": [
+      "Le travail terminé, les ouvriers partirent.",
+      "La nuit tombant, les enfants rentrèrent.",
+      "Les routes étant inondées, la course fut annulée."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Quand le travail fut terminé, les ouvriers partirent.",
+      "2. Comme la nuit tombait, les enfants rentrèrent.",
+      "3. Comme les routes étaient inondées, la course fut annulée."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase y a-t-il une subordonnée participiale ?",
+     "options": [
+      "Épuisé, le coureur s’arrêta.",
+      "Le coureur épuisé s’arrêta.",
+      "Le coureur étant épuisé, la course s’arrêta.",
+      "Le coureur s’arrêta car il était épuisé."
+     ],
+     "answer": 2,
+     "explain": "*Le coureur* est le sujet de *étant épuisé*, différent du sujet de la principale (*la course*)."
+    }
+   ]
+  },
+  {
+   "t": "Analyser une phrase longue",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser une phrase complexe, avance **méthodiquement**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Entoure les **verbes conjugués** et compte les propositions.",
+      "Délimite chaque proposition.",
+      "Repère le **mot de liaison** de chacune.",
+      "Donne la **nature** (indépendante, principale, subordonnée…) et la **fonction**.",
+      "Fais un **schéma** si besoin."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Quand la pluie cessa, les enfants, qui avaient attendu, sortirent et ils coururent vers la rivière.",
+     "label": "Phrase à analyser"
+    },
+    {
+     "type": "table",
+     "title": "L’analyse de la phrase",
+     "head": [
+      "Proposition",
+      "Nature",
+      "Lien"
+     ],
+     "rows": [
+      [
+       "Quand la pluie cessa",
+       "subordonnée circonstancielle de temps",
+       "conjonction *quand*"
+      ],
+      [
+       "les enfants … sortirent",
+       "proposition principale",
+       "—"
+      ],
+      [
+       "qui avaient attendu",
+       "subordonnée relative (complète *enfants*)",
+       "pronom relatif *qui*"
+      ],
+      [
+       "et ils coururent vers la rivière",
+       "indépendante coordonnée à la principale",
+       "conjonction *et*"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Une proposition coupée en deux",
+     "text": "Une relative peut être **insérée** dans la principale : ici *les enfants … sortirent* est interrompue par *qui avaient attendu*. Ne les confonds pas."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse : « Les élèves attendent le professeur qui est en retard, mais ils restent calmes parce qu’ils ont leurs livres. »",
+     "items": [
+      "Combien y a-t-il de propositions ?",
+      "Quelles sont les subordonnées et leur nature ?",
+      "Quel est le lien entre les deux groupes ?"
+     ],
+     "corrige": [
+      "1. Quatre : *attendent*, *est*, *restent*, *ont*.",
+      "2. *qui est en retard* : relative (complète *professeur*) ; *parce qu’ils ont leurs livres* : circonstancielle de cause.",
+      "3. *mais ils restent calmes…* est coordonnée à *Les élèves attendent le professeur…* par *mais* (opposition)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le lien est une juxtaposition, une coordination ou une subordination, et donne le mot de liaison.",
+     "items": [
+      "Il pleut, nous restons.",
+      "Il pleut donc nous restons.",
+      "Nous restons parce qu’il pleut.",
+      "Il vint : elle avait appelé.",
+      "L’enfant dont tu parles est mon cousin.",
+      "Je ne sais pas si elle viendra."
+     ],
+     "corrige": [
+      "1. juxtaposition (virgule)",
+      "2. coordination (*donc*)",
+      "3. subordination (*parce que*)",
+      "4. juxtaposition (deux-points)",
+      "5. subordination (*dont*, relative)",
+      "6. subordination (*si*, interrogative indirecte)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il sort pour qu’on le voie. », la subordonnée exprime…",
+     "options": [
+      "la cause",
+      "la conséquence",
+      "le but",
+      "la condition"
+     ],
+     "answer": 2,
+     "explain": "*Pour que* + subjonctif exprime le but."
+    },
+    {
+     "type": "h",
+     "text": "Réécrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque coordination en subordination.",
+     "items": [
+      "Il pleut, donc nous restons.",
+      "Il est fatigué mais il continue.",
+      "Nous restons car il pleut."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Nous restons parce qu’il pleut. / Comme il pleut, nous restons.",
+      "2. Bien qu’il soit fatigué, il continue.",
+      "3. Nous restons parce qu’il pleut."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse : « Bien que le ciel soit couvert, nous partirons si tu viens, car j’ai confiance en toi. »",
+     "items": [
+      "Compte les propositions.",
+      "Donne la valeur des circonstancielles."
+     ],
+     "corrige": [
+      "1. Quatre : *soit*, *partirons*, *viens*, *ai*.",
+      "2. *Bien que le ciel soit couvert* : concession ; *si tu viens* : condition ; *car j’ai confiance en toi* : proposition coordonnée (cause)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une phrase complexe contient **plusieurs propositions**, reliées par **juxtaposition**, **coordination** ou **subordination**.",
+      "La **juxtaposition** et la **coordination** relient des propositions de **même rang** ; la ponctuation et les conjonctions expriment un **rapport logique**.",
+      "Les conjonctions de coordination sont *mais, ou, et, donc, or, ni, car* ; elles sont **fixes**, à la différence des adverbes de liaison.",
+      "La **subordination** crée une **dépendance** : relative, complétive, interrogative indirecte, circonstancielle.",
+      "Les circonstancielles expriment le **temps**, la **cause**, la **conséquence**, le **but**, la **condition**, la **concession**, la **comparaison**.",
+      "Le **subjonctif** suit *pour que, bien que, avant que, à condition que…* ; *après que* et *parce que* sont suivis de l’**indicatif**.",
+      "La **participiale** a un sujet propre, différent de celui de la principale."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois liens",
+     "head": [
+      "Lien",
+      "Rang",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Juxtaposition",
+       "même rang",
+       "Il pleut, nous restons."
+      ],
+      [
+       "Coordination",
+       "même rang",
+       "Il pleut **donc** nous restons."
+      ],
+      [
+       "Subordination",
+       "dépendance",
+       "Nous restons **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une subordonnée circonstancielle de concession ?",
+     "options": [
+      "Il sort parce qu’il fait beau.",
+      "Bien qu’il pleuve, il sort.",
+      "Il sort pour qu’on le voie.",
+      "S’il pleut, il sort."
+     ],
+     "answer": 1,
+     "explain": "*Bien que* + subjonctif exprime la concession."
+    }
+   ]
+  }
+ ]
+}
