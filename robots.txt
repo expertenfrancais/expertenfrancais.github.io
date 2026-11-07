@@ -3,6 +3,7 @@ Allow: /cours/
 Allow: /annales/
 Allow: /exercices/
 Disallow: /evaluations/
+Disallow: /programmes/
 Disallow: /cycles.html
 Disallow: /lecon.html
 Disallow: /fiche.html

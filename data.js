@@ -28,12 +28,13 @@ function activateSub(id){var p=PLANS.filter(function(x){return x.id===id})[0],s=
 function slug(t){return String(t).toLowerCase().replace(/œ/g,"oe").replace(/æ/g,"ae").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"").slice(0,60).replace(/-+$/,"")}
 /* Les pages sont classées par cycle : cours/primaire/, cours/college/, cours/lycee/, cours/universite/ ; les fiches pédagogiques (type Fiches) ont leur propre dossier : fiches/<cycle>/ */
 /* Les fiches ont leur propre numérotation : fn = numéro de fiche (1, 2, 3…) ; leur id interne = 10000 + fn (aucun conflit avec les cours).
+   Les programmes : pg = numéro de programme ; id = 50000 + pg ; pages dans programmes/<cycle>/programme-<pg>-<titre>.html.
    Les annales aussi : an = numéro d’annale (1, 2, 3…) ; id = 20000 + an ; pages dans annales/<cycle>/annale-<an>-<titre>.html.
    Les exercices : ex = numéro de série (1, 2, 3…) ; id = 30000 + ex ; pages dans exercices/<cycle>/exercice-<ex>-<titre>.html.
    Les évaluations : ev = numéro (1, 2, 3…) ; id = 40000 + ev ; pages dans evaluations/<cycle>/evaluation-<ev>-<titre>.html. */
-function docFile(d){var c=CYCLE_INFO[cycleOf(d.n)].dir;return d.k==="Fiches"?"fiches/"+c+"/fiche-"+d.fn+"-"+slug(d.t)+".html":d.k==="Annales"?"annales/"+c+"/annale-"+d.an+"-"+slug(d.t)+".html":d.k==="Exercices"?"exercices/"+c+"/exercice-"+d.ex+"-"+slug(d.t)+".html":d.k==="Évaluations"?"evaluations/"+c+"/evaluation-"+d.ev+"-"+slug(d.t)+".html":"cours/"+c+"/"+d.id+"-"+slug(d.t)+".html"}
+function docFile(d){var c=CYCLE_INFO[cycleOf(d.n)].dir;return d.k==="Fiches"?"fiches/"+c+"/fiche-"+d.fn+"-"+slug(d.t)+".html":d.k==="Annales"?"annales/"+c+"/annale-"+d.an+"-"+slug(d.t)+".html":d.k==="Exercices"?"exercices/"+c+"/exercice-"+d.ex+"-"+slug(d.t)+".html":d.k==="Évaluations"?"evaluations/"+c+"/evaluation-"+d.ev+"-"+slug(d.t)+".html":d.k==="Programmes"?"programmes/"+c+"/programme-"+d.pg+"-"+slug(d.t)+".html":"cours/"+c+"/"+d.id+"-"+slug(d.t)+".html"}
 /* Fichier de contenu (texte) d'un document : contenu/cours/<cycle>/<id>.json ou contenu/fiches/<cycle>/fiche-<n>.json ou contenu/annales/<cycle>/annale-<an>.json (le dossier <cycle> vient du niveau n) */
-function contentFile(d){var c=CYCLE_INFO[cycleOf(d.n)].dir;return "contenu/"+(d.k==="Fiches"?"fiches/"+c+"/fiche-"+d.fn:d.k==="Annales"?"annales/"+c+"/annale-"+d.an:d.k==="Exercices"?"exercices/"+c+"/exercice-"+d.ex:d.k==="Évaluations"?"evaluations/"+c+"/evaluation-"+d.ev:"cours/"+c+"/"+d.id)+".json"}
+function contentFile(d){var c=CYCLE_INFO[cycleOf(d.n)].dir;return "contenu/"+(d.k==="Fiches"?"fiches/"+c+"/fiche-"+d.fn:d.k==="Annales"?"annales/"+c+"/annale-"+d.an:d.k==="Exercices"?"exercices/"+c+"/exercice-"+d.ex:d.k==="Évaluations"?"evaluations/"+c+"/evaluation-"+d.ev:d.k==="Programmes"?"programmes/"+c+"/programme-"+d.pg:"cours/"+c+"/"+d.id)+".json"}
 function docUrl(d){return BASE+docFile(d)}
 /* Parties (sections) d’un cours : chacune a sa page de lecture lecon.html?id=…&s=… (rendue par JavaScript).
    La première partie est gratuite ; les autres demandent l’accès au cours (achat ou abonnement). */
@@ -194,7 +195,15 @@ var ALLDOCS=[
  {id:30021,ex:21,img:IMG.d,t:"Le passé antérieur : exercices",k:"Exercices",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
  {id:40001,ev:1,img:IMG.d,t:"Devoir n° 1 : Le groupe nominal",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
  {id:40002,ev:2,img:IMG.e,t:"Devoir n° 2 : Le présent de l’indicatif",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
- {id:40003,ev:3,img:IMG.f,t:"Composition du 1er trimestre : La phrase complexe",k:"Évaluations",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]}
+ {id:40003,ev:3,img:IMG.f,t:"Composition du 1er trimestre : La phrase complexe",k:"Évaluations",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:50001,pg:1,img:IMG.e,t:"Programme APS 6e · Répartition annuelle",k:"Programmes",n:"6e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"}]},
+ {id:50002,pg:2,img:IMG.e,t:"Programme APS 6e · Guide pédagogique",k:"Programmes",n:"6e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation du guide"}]},
+ {id:50003,pg:3,img:IMG.e,t:"Programme APS 5e · Répartition annuelle",k:"Programmes",n:"5e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"}]},
+ {id:50004,pg:4,img:IMG.e,t:"Programme APS 5e · Guide pédagogique",k:"Programmes",n:"5e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation du guide"}]},
+ {id:50005,pg:5,img:IMG.e,t:"Programme PPO 4e · Répartition annuelle",k:"Programmes",n:"4e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"}]},
+ {id:50006,pg:6,img:IMG.e,t:"Programme PPO 4e · Guide pédagogique",k:"Programmes",n:"4e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation du guide"}]},
+ {id:50007,pg:7,img:IMG.e,t:"Programme PPO 3e · Répartition annuelle",k:"Programmes",n:"3e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"}]},
+ {id:50008,pg:8,img:IMG.e,t:"Programme PPO 3e · Guide pédagogique",k:"Programmes",n:"3e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation du guide"}]}
 /*CATALOGUE-AUTO:FIN*/
 ];
 /* Prix des documents selon le cycle (FCFA) : appliqué automatiquement à tout nouveau document */
@@ -488,4 +497,4 @@ var SYNC_KEYS=["favs","cart","studied","parts","scores","rates"];
  window.syncOn=on;
  window.syncBeforeLogout=function(){return Promise.race([localStorage.getItem("sync_dirty")?push():Promise.resolve(),new Promise(function(r){setTimeout(r,2500)})])};
  document.addEventListener("visibilitychange",function(){if(document.visibilityState==="hidden"&&localStorage.getItem("sync_dirty"))push(true)});
- setTimeout(start,800)})();
+ if(typeof setTimeout==="function"&&typeof sessionStorage!=="undefined")setTimeout(start,800)})();
