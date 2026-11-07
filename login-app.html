@@ -192,10 +192,45 @@ box-shadow:0 10px 20px rgba(130,100,220,.5),inset 0 2px 4px rgba(255,255,255,.4)
    Laissez "" pour afficher l’icône par défaut. */
 /* Hors ligne : enregistre le service worker (HTTPS ou localhost uniquement) */
 if("serviceWorker" in navigator&&(location.protocol==="https:"||location.hostname==="localhost"||location.hostname==="127.0.0.1")){window.addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})})}
+/* ===== Supabase : connexion réelle =====
+   1) Collez ici l’URL du projet et la clé « anon public » (Supabase : Project Settings → API).
+   2) Laissez les deux vides pour garder le mode démonstration (connexion simulée).
+   La clé anon est publique par conception : la sécurité vient des règles RLS (supabase/01-auth.sql).
+   Ne mettez JAMAIS la clé « service_role » dans ce fichier. */
+var SUPABASE_URL="https://hkwqdbsxsjtdtxkdmcke.supabase.co";
+var SUPABASE_ANON_KEY="sb_publishable_iQOPWTcMICWDqTUSXkW8ig_y0QKWPZD";
+var SB_ON=!!(SUPABASE_URL&&SUPABASE_ANON_KEY);
+var ROLES_OK=["enseignant","eleve","particulier"];
+function sbFetch(path,method,body,token){
+  var h={"apikey":SUPABASE_ANON_KEY,"Content-Type":"application/json"};
+  /* Les nouvelles clés sb_publishable_ ne sont pas des jetons JWT : on n’envoie Authorization que pour un jeton d’utilisateur ou une ancienne clé eyJ… */
+  if(token)h["Authorization"]="Bearer "+token;else if(/^eyJ/.test(SUPABASE_ANON_KEY))h["Authorization"]="Bearer "+SUPABASE_ANON_KEY;
+  return fetch(SUPABASE_URL+path,{method:method,headers:h,body:body?JSON.stringify(body):undefined})
+  .then(function(r){return r.text().then(function(t){var j={};try{j=t?JSON.parse(t):{}}catch(x){}
+    if(!r.ok){var e=new Error(j.msg||j.error_description||j.message||"Erreur");e.code=j.error_code||j.code||"";e.status=r.status;throw e}
+    return j})})}
+function sbMsg(e){var c=e&&e.code||"",m=e&&e.message||"";
+  if(!e||e.name==="TypeError")return"Connexion impossible. Vérifiez votre réseau.";
+  if(c==="invalid_credentials"||/invalid login/i.test(m))return"E-mail ou mot de passe incorrect.";
+  if(c==="email_not_confirmed"||/not confirmed/i.test(m))return"Confirmez d’abord votre adresse e-mail (lien reçu par e-mail).";
+  if(c==="user_already_exists"||/already registered/i.test(m))return"Un compte existe déjà avec cet e-mail.";
+  if(c==="weak_password")return"Mot de passe trop faible : 8 caractères minimum, avec une lettre et un chiffre.";
+  if(c==="same_password")return"Choisissez un mot de passe différent de l’ancien.";
+  if(e.status===429||/rate limit/i.test(c+m))return"Trop de demandes. Réessayez dans quelques minutes.";
+  return"Une erreur est survenue. Réessayez.";}
+/* Enregistre la session Supabase et recopie le profil dans les clés déjà utilisées par l’application */
+function sbSave(j){
+  var u=j.user||{},m=u.user_metadata||{},name=m.username||(u.email||"").split("@")[0]||"Utilisateur";
+  localStorage.setItem("sb_session",JSON.stringify({access_token:j.access_token,refresh_token:j.refresh_token,expires_at:Math.floor(Date.now()/1000)+(j.expires_in||3600),user_id:u.id,email:u.email}));
+  localStorage.setItem("auth_mode","supabase");
+  localStorage.setItem("user_name",name.charAt(0).toUpperCase()+name.slice(1));
+  localStorage.setItem("user_role",ROLES_OK.indexOf(m.role)>-1?m.role:"eleve");
+  if(m.cycle){localStorage.setItem("user_cycle",m.cycle);localStorage.setItem("view_cycle",m.cycle)}}
+function pwOK(p){return p.length>=8&&/[A-Za-z]/.test(p)&&/\d/.test(p)}
 var LOGO_SRC="logo.png";
 /* Page ouverte après la connexion ou l’inscription. */
 var HOME_URL=(function(){var n=new URLSearchParams(location.search).get("next")||"";return /^(cours\/([a-z]+\/)?)?[a-z0-9-]+\.html$/.test(n)?n:"index.html"})();
-try{if(localStorage.getItem("user_name"))location.replace(HOME_URL)}catch(e){}
+try{if(localStorage.getItem("user_name")&&(!SB_ON||localStorage.getItem("sb_session")))location.replace(HOME_URL)}catch(e){}
 var $=function(i){return document.getElementById(i)},mode="l";
 /* Type de profil choisi à l’inscription. Avec un serveur, le rôle fait partie du compte. */
 var role="enseignant";
@@ -208,6 +243,7 @@ function setMode(m){mode=m;var s=m==="s";
   $("t").textContent=s?"Créer un compte":"Bon retour\u00a0!";
   $("st").textContent=s?"Rejoignez-nous et commencez":"Connectez-vous pour continuer";
   $("gt").textContent=s?"S’inscrire":"Se connecter";
+  if(SB_ON)$("us").placeholder=s?"Nom d’utilisateur":"E-mail";
   $("fg").style.display=s?"none":"";
   $("ft").textContent=s?"Déjà un compte\u00a0?":"Pas encore de compte\u00a0?";
   $("sw").textContent=s?"Se connecter":"S’inscrire";vib(10)}
@@ -218,8 +254,14 @@ $("sw").onclick=function(e){e.preventDefault();setMode(mode==="l"?"s":"l")};
 $("eye").onclick=function(){var p=$("pw"),h=p.type==="password";p.type=h?"text":"password";$("sl").style.display=h?"none":"";vib(8)};
 /* ===== Réinitialisation du mot de passe =====
    AUTH : à brancher sur votre serveur (fetch vers votre API).
-   Ici c’est une simulation : tout e-mail valide et tout code à 6 chiffres sont acceptés. */
-var AUTH={
+   Sans Supabase (clés vides) : simulation, tout e-mail valide et tout code à 6 chiffres sont acceptés. */
+var AUTH=SB_ON?{
+  sendCode:function(email){return sbFetch("/auth/v1/recover","POST",{email:email})},
+  resetPassword:function(email,code,pwd){
+    return sbFetch("/auth/v1/verify","POST",{type:"recovery",email:email,token:code}).then(function(j){
+      var tok=j.access_token;
+      return sbFetch("/auth/v1/user","PUT",{password:pwd},tok).then(function(){sbFetch("/auth/v1/logout","POST",null,tok).catch(function(){})})})}
+}:{
   sendCode:function(email){return new Promise(function(ok){setTimeout(ok,900)})},
   resetPassword:function(email,code,pwd){return new Promise(function(ok){setTimeout(ok,1100)})}
 };
@@ -261,7 +303,7 @@ $("rb1").onclick=function(){
   rerr(1);var b=$("rb1");busy(b,true);
   AUTH.sendCode(v).then(function(){
     busy(b,false);rEmail=v;$("rsent").textContent=v;step(2);countdown();toast("Code envoyé ✓")
-  }).catch(function(){busy(b,false);rerr(1,"Envoi impossible. Réessayez dans un instant.")})};
+  }).catch(function(e){busy(b,false);rerr(1,SB_ON?sbMsg(e):"Envoi impossible. Réessayez dans un instant.")})};
 $("rresend").onclick=function(){
   AUTH.sendCode(rEmail).then(function(){countdown();toast("Nouveau code envoyé ✓")}).catch(function(){toast("Envoi impossible")})};
 $("rb2").onclick=function(){
@@ -273,7 +315,7 @@ $("rb2").onclick=function(){
   rerr(2);var b=$("rb2");busy(b,true);
   AUTH.resetPassword(rEmail,c,p).then(function(){
     busy(b,false);clearInterval(rTick);["rcode","rpw","rpw2"].forEach(function(i){$(i).value=""});$("rmeter").style.width="0";step(3);vib(15)
-  }).catch(function(){busy(b,false);rerr(2,"Code invalide ou expiré. Vérifiez-le ou demandez-en un nouveau.")})};
+  }).catch(function(e){busy(b,false);rerr(2,e&&e.code==="same_password"||e&&e.code==="weak_password"?sbMsg(e):"Code invalide ou expiré. Vérifiez-le ou demandez-en un nouveau.")})};
 [["rem","rb1"],["rcode","rb2"],["rpw","rb2"],["rpw2","rb2"]].forEach(function(a){
   $(a[0]).addEventListener("keydown",function(e){if(e.key==="Enter"){e.preventDefault();$(a[1]).click()}})});
 /* ===== Logo ===== */
@@ -283,7 +325,7 @@ $("rb2").onclick=function(){
   img.onerror=function(){img.hidden=true;logo.classList.remove("custom")};
   img.src=LOGO_SRC;img.hidden=false;logo.classList.add("custom")
 })();
-$("go").onclick=function(){
+function demoGo(){
   var ok=$("us").value.trim()&&$("pw").value&&(mode==="l"||($("em").value.trim()&&$("cy").value));
   if(!ok){var s=$("sheet");s.classList.remove("shake");void s.offsetWidth;s.classList.add("shake");vib([30,40,30]);toast(mode==="s"&&!$("cy").value?"Choisissez votre cycle":"Veuillez remplir tous les champs");return}
   var b=$("go");b.classList.add("load");vib(15);
@@ -292,6 +334,30 @@ $("go").onclick=function(){
     var u=$("us").value.trim().split("@")[0];
     try{localStorage.setItem("user_name",u.charAt(0).toUpperCase()+u.slice(1));if(mode==="s"){localStorage.setItem("user_role",role);localStorage.setItem("user_cycle",$("cy").value);localStorage.setItem("view_cycle",$("cy").value)}else if(!localStorage.getItem("user_role"))localStorage.setItem("user_role","eleve")}catch(e){}
     setTimeout(function(){location.href=HOME_URL},700)},1200)};
+
+function realGo(){
+  var us=$("us").value.trim(),pw=$("pw").value,em=$("em").value.trim(),b=$("go"),bad=function(m){var sh=$("sheet");sh.classList.remove("shake");void sh.offsetWidth;sh.classList.add("shake");vib([30,40,30]);toast(m)};
+  var emRe=/^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if(mode==="l"){
+    if(!emRe.test(us))return bad("Saisissez votre adresse e-mail");
+    if(!pw)return bad("Saisissez votre mot de passe");
+    b.classList.add("load");b.disabled=true;vib(15);
+    sbFetch("/auth/v1/token?grant_type=password","POST",{email:us,password:pw}).then(function(j){
+      sbSave(j);toast("Connexion réussie ✓");setTimeout(function(){location.href=HOME_URL},500)
+    }).catch(function(e){b.classList.remove("load");b.disabled=false;bad(sbMsg(e))});
+    return}
+  if(!us)return bad("Choisissez un nom d’utilisateur");
+  if(!emRe.test(em))return bad("Saisissez une adresse e-mail valide");
+  if(!$("cy").value)return bad("Choisissez votre cycle");
+  if(!pwOK(pw))return bad("Mot de passe : 8 caractères minimum, avec une lettre et un chiffre");
+  b.classList.add("load");b.disabled=true;vib(15);
+  sbFetch("/auth/v1/signup","POST",{email:em,password:pw,data:{username:us,role:role,cycle:$("cy").value}}).then(function(j){
+    b.classList.remove("load");b.disabled=false;
+    if(j.access_token){sbSave(j);toast("Compte créé ✓");setTimeout(function(){location.href=HOME_URL},500);return}
+    setMode("l");$("us").value=em;$("pw").value="";toast("Compte créé : confirmez votre e-mail, puis connectez-vous")
+  }).catch(function(e){b.classList.remove("load");b.disabled=false;bad(sbMsg(e))})}
+$("go").onclick=function(){SB_ON?realGo():demoGo()};
+document.querySelectorAll(".soc button").forEach(function(x){x.onclick=function(){toast("Bientôt disponible")}});
 </script>
 </body>
 </html>

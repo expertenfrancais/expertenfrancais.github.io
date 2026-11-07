@@ -45,6 +45,7 @@ var logged=!!userName();
 function msg(t,p,label,href){P.innerHTML='<div class="center"><h3>'+t+'</h3><p>'+p+'</p></div><div class="dock"><button class="go" id="gb" type="button"><span>'+label+'</span><i>'+svg(CHEV)+'</i></button></div>';
  $("gb").onclick=function(){location.href=BASE+href}}
 if(!d)return msg("Leçon introuvable","Ce cours n’existe pas ou n’est plus disponible.","Voir le catalogue","catalogue.html");
+if(d.k==="Fiches"){location.replace(BASE+"fiche.html?n="+d.fn);return}
 var I=docInfo(d),S=I.sections,N=S.length;
 var typeOK=!logged||ALLOWED_TYPES.indexOf(d.k)>-1;
 if(!typeOK)return msg("Document indisponible","Ce document n’est pas disponible pour votre profil.","Voir le catalogue","catalogue.html");
@@ -114,7 +115,7 @@ var b=$("buy");if(b)b.onclick=function(e){e.preventDefault();if(cart.indexOf(d.i
 }
 
 if(!window.fetch)return start(null);
-fetch(BASE+"contenu/"+d.id+".json").then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(start);
+fetch(BASE+contentFile(d)).then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(start);
 })();
 </script>
 </body>

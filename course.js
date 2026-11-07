@@ -27,7 +27,7 @@ var go=$("go"),bk=$("bk");
 /* Retour : toujours vers l’endroit d’où l’on est venu (accueil, catalogue…), jamais vers une partie du cours */
 try{
  var ref=document.referrer?new URL(document.referrer):null;
- if(ref&&ref.origin===location.origin&&!/lecon\.html$/.test(ref.pathname)&&ref.pathname.indexOf("/cours/")<0)
+ if(ref&&ref.origin===location.origin&&!/lecon\.html$/.test(ref.pathname)&&!/\/(cours|fiches)\//.test(ref.pathname))
   sessionStorage.setItem("coursFrom",ref.href);
 }catch(x){}
 $("back").onclick=function(e){

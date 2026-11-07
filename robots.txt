@@ -1,7 +1,12 @@
 User-agent: *
 Allow: /cours/
+Allow: /annales/
+Allow: /exercices/
+Disallow: /evaluations/
 Disallow: /cycles.html
 Disallow: /lecon.html
+Disallow: /fiche.html
+Disallow: /fiches/
 Disallow: /pdf.html
 Disallow: /profil.html
 Disallow: /panier.html

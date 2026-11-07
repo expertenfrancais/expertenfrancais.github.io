@@ -187,12 +187,10 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 var TYPES=[
  {k:"Cours",ic:"book",v:"clear",rgb:"90,120,255",gl:"url(#rb)",g:["#8c6fe0","#b29af4"]},
  {k:"Fiches",ic:"note",v:"tint",rgb:"240,120,50",t1:"#f7a257",t2:"#e8602b",gl:"#fff",g:["#5f84e6","#9bb4f5"]},
- {k:"Programmes",ic:"plan",v:"clear",rgb:"60,60,95",gl:"#17171f",g:["#cf63b4","#e79ad6"]},
- {k:"Évaluations",ic:"eval",v:"tint",rgb:"30,160,95",t1:"#4cc98a",t2:"#13894c",gl:"#fff",g:["#e8825f","#f2b08a"]},
  {k:"Exercices",ic:"pen",v:"tint",rgb:"100,85,230",t1:"#8d7ff5",t2:"#4a3dc2",gl:"#fff",g:["#2fa883","#7fd6b8"]},
- {k:"TD",ic:"pen",v:"tint",rgb:"220,150,30",t1:"#f3b64f",t2:"#d98a12",gl:"#fff",g:["#e0a030","#f3cf7a"]},
- {k:"Sujets traités",ic:"eval",v:"tint",rgb:"60,150,190",t1:"#6cc0e0",t2:"#2f8db5",gl:"#fff",g:["#4aa3c8","#8fd0e8"]},
- {k:"Anciens sujets",ic:"plan",v:"tint",rgb:"190,70,70",t1:"#e57f7c",t2:"#b83f3b",gl:"#fff",g:["#c0504d","#e89a98"]}
+ {k:"Évaluations",ic:"eval",v:"tint",rgb:"30,160,95",t1:"#4cc98a",t2:"#13894c",gl:"#fff",g:["#e8825f","#f2b08a"]},
+ {k:"Annales",ic:"eval",v:"tint",rgb:"60,150,190",t1:"#6cc0e0",t2:"#2f8db5",gl:"#fff",g:["#4aa3c8","#8fd0e8"]},
+ {k:"Programmes",ic:"plan",v:"clear",rgb:"60,60,95",gl:"#17171f",g:["#cf63b4","#e79ad6"]}
 ];
 TYPES=TYPES.filter(function(x){return ALLOWED_TYPES.indexOf(x.k)>-1});
 function tp(k){return TYPES.filter(function(x){return x.k===k})[0]}
@@ -239,8 +237,8 @@ function render(){
  $("cnt").textContent=res.length+" résultat"+(res.length>1?"s":"");
  function docCard(d){
   var T=tp(d.k),f=favs.indexOf(d.id)>-1,c=cart.indexOf(d.id)>-1;
-  return '<article class="doc"><div class="cov" style="--g1:'+T.g[0]+';--g2:'+T.g[1]+'"><img src="'+esc(d.img)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">'+
-   '<span class="tag">'+((({"Anciens sujets":"Ancien sujet","Sujets traités":"Sujet traité",TD:"TD",Cours:"Cours"})[d.k]||d.k.replace(/s$/,"")))+'</span><span class="subj">'+esc(d.m)+'</span>'+
+  return '<article class="'+docClass(d)+'">'+ficheBand(d)+'<div class="cov" style="--g1:'+T.g[0]+';--g2:'+T.g[1]+'"><img src="'+esc(d.img)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">'+
+   '<span class="tag">'+((({Cours:"Cours"})[d.k]||d.k.replace(/s$/,"")))+'</span><span class="subj">'+esc(d.m)+'</span>'+
    '<button class="fav" data-f="'+d.id+'" aria-pressed="'+f+'" aria-label="Favori">'+ico("heart")+'</button></div>'+
    '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">Niveau '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:#7a5cd0;text-decoration:none">Voir les détails ›</a>'+
    '<div class="r2"><div class="price"><small>Prix</small><b>'+(canAccess(d.id)?(GRATUIT?"Gratuit":isSubscribed()?"Inclus":"Acheté"):price(d.pr))+'</b></div>'+

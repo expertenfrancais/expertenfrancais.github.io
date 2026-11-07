@@ -26,8 +26,14 @@ function activateSub(id){var p=PLANS.filter(function(x){return x.id===id})[0],s=
  sv("sub",{plan:id,end:new Date(b+p.d*864e5).toISOString()});cart=[];sv("cart",cart)}
 /* Chaque cours a sa propre page dans le dossier cours/ (générée par outils/generer-pages.js). Le nom du fichier = numéro + titre. */
 function slug(t){return String(t).toLowerCase().replace(/œ/g,"oe").replace(/æ/g,"ae").normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"").slice(0,60).replace(/-+$/,"")}
-/* Les pages sont classées par cycle : cours/primaire/, cours/college/, cours/lycee/, cours/universite/ */
-function docFile(d){return "cours/"+CYCLE_INFO[cycleOf(d.n)].dir+"/"+d.id+"-"+slug(d.t)+".html"}
+/* Les pages sont classées par cycle : cours/primaire/, cours/college/, cours/lycee/, cours/universite/ ; les fiches pédagogiques (type Fiches) ont leur propre dossier : fiches/<cycle>/ */
+/* Les fiches ont leur propre numérotation : fn = numéro de fiche (1, 2, 3…) ; leur id interne = 10000 + fn (aucun conflit avec les cours).
+   Les annales aussi : an = numéro d’annale (1, 2, 3…) ; id = 20000 + an ; pages dans annales/<cycle>/annale-<an>-<titre>.html.
+   Les exercices : ex = numéro de série (1, 2, 3…) ; id = 30000 + ex ; pages dans exercices/<cycle>/exercice-<ex>-<titre>.html.
+   Les évaluations : ev = numéro (1, 2, 3…) ; id = 40000 + ev ; pages dans evaluations/<cycle>/evaluation-<ev>-<titre>.html. */
+function docFile(d){var c=CYCLE_INFO[cycleOf(d.n)].dir;return d.k==="Fiches"?"fiches/"+c+"/fiche-"+d.fn+"-"+slug(d.t)+".html":d.k==="Annales"?"annales/"+c+"/annale-"+d.an+"-"+slug(d.t)+".html":d.k==="Exercices"?"exercices/"+c+"/exercice-"+d.ex+"-"+slug(d.t)+".html":d.k==="Évaluations"?"evaluations/"+c+"/evaluation-"+d.ev+"-"+slug(d.t)+".html":"cours/"+c+"/"+d.id+"-"+slug(d.t)+".html"}
+/* Fichier de contenu (texte) d'un document : contenu/cours/<cycle>/<id>.json ou contenu/fiches/<cycle>/fiche-<n>.json ou contenu/annales/<cycle>/annale-<an>.json (le dossier <cycle> vient du niveau n) */
+function contentFile(d){var c=CYCLE_INFO[cycleOf(d.n)].dir;return "contenu/"+(d.k==="Fiches"?"fiches/"+c+"/fiche-"+d.fn:d.k==="Annales"?"annales/"+c+"/annale-"+d.an:d.k==="Exercices"?"exercices/"+c+"/exercice-"+d.ex:d.k==="Évaluations"?"evaluations/"+c+"/evaluation-"+d.ev:"cours/"+c+"/"+d.id)+".json"}
 function docUrl(d){return BASE+docFile(d)}
 /* Parties (sections) d’un cours : chacune a sa page de lecture lecon.html?id=…&s=… (rendue par JavaScript).
    La première partie est gratuite ; les autres demandent l’accès au cours (achat ou abonnement). */
@@ -51,13 +57,11 @@ function subBanner(id){if(GRATUIT||isSubscribed())return;var r=$(id);if(!r)retur
 /* ===== Fiche détail d’un document : descriptions génériques par type (une description propre au document, d.d / d.obj / d.s, les remplace) ===== */
 var INFO={
  "Cours":{desc:"Cours de français ({m}) pour le niveau {n} : notions essentielles, méthodes et exemples commentés.",obj:["Comprendre les notions essentielles du chapitre","Appliquer les méthodes sur des exemples guidés","Se préparer aux évaluations"],plan:["Objectifs et prérequis","Notions clés","Méthodes et exemples commentés","Exercices d’application","À retenir"]},
- "Fiches":{desc:"Fiche de révision de français ({m}), niveau {n} : l’essentiel à retenir, en quelques pages.",obj:["Réviser rapidement avant un devoir","Retenir les règles et définitions clés"],plan:["Ce qu’il faut savoir","Règles et exemples","Pièges à éviter"]},
- "TD":{desc:"Travaux dirigés de français ({m}), niveau {n} : exercices progressifs pour s’entraîner en classe ou à la maison.",obj:["S’entraîner de façon progressive","Consolider le cours par la pratique"],plan:["Rappels de cours","Exercices d’échauffement","Exercices d’approfondissement","Exercices de synthèse"]},
- "Sujets traités":{desc:"Sujets de français ({m}), niveau {n}, entièrement traités et corrigés, avec la méthode de rédaction.",obj:["Apprendre la méthode de rédaction","Comparer sa copie à un corrigé détaillé"],plan:["Énoncés","Corrigés détaillés","Conseils de méthode"]},
- "Anciens sujets":{desc:"Recueil d’anciens sujets d’examen de français (niveau {n}), avec corrigés, pour s’entraîner dans les conditions réelles.",obj:["Découvrir le format de l’examen","S’entraîner dans les conditions de l’épreuve","Gérer son temps et sa méthode"],plan:["Sujets des dernières années","Corrigés","Barème et conseils"]},
  "Programmes":{desc:"Programme et progression de français pour le niveau {n}, à utiliser pour préparer l’année.",obj:["Planifier l’année","Répartir les séquences"],plan:["Objectifs de l’année","Progression par période"]},
  "Évaluations":{desc:"Évaluation de français ({m}), niveau {n}, prête à l’emploi, avec barème.",obj:["Évaluer les acquis","Disposer d’un barème"],plan:["Sujet","Barème et corrigé"]},
- "Exercices":{desc:"Série d’exercices de français ({m}), niveau {n} pour s’entraîner régulièrement.",obj:["Pratiquer régulièrement","Gagner en aisance"],plan:["Séries d’exercices","Corrigés"]}
+ "Fiches":{desc:"Fiche pédagogique de français ({m}), niveau {n} : une séance prête à enseigner, avec la fiche du professeur, la page de l’apprenant et le corrigé.",obj:["Préparer la séance avec ses objectifs, ses étapes et son temps","Disposer de la page de l’apprenant à distribuer","Évaluer avec un corrigé et un barème"],plan:[]},
+ "Exercices":{desc:"Exercices de français ({m}), niveau {n} : séries progressives avec corrigés, pour s’entraîner en classe ou à la maison.",obj:["S’entraîner de façon progressive","Consolider le cours par la pratique","Vérifier ses réponses grâce aux corrigés"],plan:["Rappels de cours","Exercices d’échauffement","Exercices d’approfondissement","Exercices de synthèse","Corrigés"]},
+ "Annales":{desc:"Annales de français ({m}), niveau {n} : sujets d’examen des années précédentes ou sujets entièrement traités, avec corrigés détaillés et méthode.",obj:["Découvrir le format de l’examen","S’entraîner dans les conditions de l’épreuve","Apprendre la méthode grâce aux corrigés détaillés"],plan:["Énoncés des sujets","Corrigés détaillés","Barème et conseils de méthode"]}
 };
 function docInfo(x){var t=INFO[x.k]||INFO.Cours;function f(s){return s.replace("{m}",x.m).replace("{n}",x.n)}
  return {desc:x.d||f(t.desc),obj:x.obj||t.obj,sections:x.s||t.plan.map(function(p){return{t:p}})}}
@@ -98,13 +102,14 @@ function cycleBar(id){var r=$(id),c=activeCycle();if(!r||c==="Tous")return;
  r.insertAdjacentHTML("beforebegin",'<a href="'+BASE+'cycles.html" style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 0 14px;padding:12px 16px;border-radius:20px;background:var(--card);color:var(--ink);text-decoration:none;box-shadow:0 6px 14px rgba(90,60,170,.1)"><span style="min-width:0"><small style="display:block;font-size:11.5px;color:var(--sub)">Cycle consulté</small><b style="font-size:15px">'+esc(c)+'</b></span><b style="font-size:13px;color:var(--link);white-space:nowrap">'+(canSwitchCycle()?"Changer de cycle ›":"Mon cycle ›")+'</b></a>')}
 function userRole(){var r="";try{r=localStorage.getItem("user_role")||""}catch(e){}return r==="enseignant"?"enseignant":(r==="particulier"?"particulier":"eleve")}
 var ROLE=userRole();
-var ALLOWED_TYPES=ROLE!=="enseignant"?["Cours","TD","Sujets traités","Anciens sujets"]:["Cours","Fiches","TD","Sujets traités","Anciens sujets","Programmes","Évaluations","Exercices"];
+var ALLOWED_TYPES=ROLE!=="enseignant"?["Cours","Exercices","Annales"]:["Cours","Fiches","Exercices","Évaluations","Annales","Programmes"];
 var P="?auto=compress&cs=tinysrgb&w=600";
 var IMG={a:"https://images.pexels.com/photos/3862130/pexels-photo-3862130.jpeg"+P,b:"https://images.pexels.com/photos/159865/notepad-pencil-green-black-159865.jpeg"+P,c:"https://images.pexels.com/photos/14654190/pexels-photo-14654190.jpeg"+P,d:"https://images.pexels.com/photos/3735712/pexels-photo-3735712.jpeg"+P,e:"https://images.pexels.com/photos/158771/notebook-pen-table-blank-158771.jpeg"+P,f:"https://images.pexels.com/photos/4157621/pexels-photo-4157621.jpeg"+P,g:"https://images.pexels.com/photos/1340588/pexels-photo-1340588.jpeg"+P,h:"https://images.pexels.com/photos/248152/pexels-photo-248152.jpeg"+P};
 /* Champs facultatifs d’un document : a = nom de l’auteur (ex. a:"Mme Diallo"), e = nombre d’élèves actifs (ex. e:74).
    Affichés sur la fiche cours seulement s’ils sont renseignés. */
 var ALLDOCS=[
- {id:1,img:IMG.a,t:"Le groupe nominal : cours complet",k:"Cours",n:"6e",m:"Grammaire",pr:25,r:4.9,s:[{t:"Définition du groupe nominal",c:"Un groupe nominal est un ensemble de mots organisé autour d’un nom, appelé le noyau. Il peut comprendre un déterminant, un adjectif et un complément du nom : « la petite maison du village »."},{t:"Les expansions du nom",c:"Le nom peut être complété par un adjectif épithète (une maison blanche), un complément du nom (la maison de ma tante) ou une proposition relative (la maison que j’habite)."},{t:"Accorder dans le groupe nominal",c:"Le déterminant et l’adjectif s’accordent en genre et en nombre avec le nom noyau : des petites maisons blanches."},{t:"Exercices d’application"},{t:"À retenir"}]},
+/*CATALOGUE-AUTO:DEBUT — généré par outils/generer-pages.js à partir des fichiers de contenu/ ; ne pas modifier à la main */
+ {id:1,img:IMG.a,t:"Le groupe nominal : cours complet",k:"Cours",n:"6e",m:"Grammaire",pr:25,r:4.9,s:[{t:"Définition du groupe nominal"},{t:"Les expansions du nom"},{t:"Accorder dans le groupe nominal"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:2,img:IMG.c,t:"La phrase et ses constituants",k:"Cours",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’une phrase ?"},{t:"Phrase verbale et phrase non verbale"},{t:"Les types et les formes de phrases"},{t:"Le sujet et le prédicat"},{t:"Les compléments du verbe"},{t:"Les compléments de phrase"},{t:"À retenir"}]},
  {id:3,img:IMG.d,t:"Le groupe verbal",k:"Cours",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce que le groupe verbal ?"},{t:"Le verbe, l’infinitif et les trois groupes"},{t:"Conjuguer au présent"},{t:"Les temps de l’indicatif"},{t:"Accorder le verbe avec son sujet"},{t:"Les compléments du verbe"},{t:"Exercices de synthèse"},{t:"À retenir"}]},
  {id:4,img:IMG.b,t:"Les types de phrases",k:"Cours",n:"CM2",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un type de phrase ?"},{t:"La phrase déclarative"},{t:"La phrase interrogative"},{t:"La phrase impérative"},{t:"La phrase exclamative"},{t:"Exercices d’application"},{t:"À retenir"}]},
@@ -159,13 +164,44 @@ var ALLDOCS=[
  {id:53,img:IMG.d,t:"Le groupe nominal : déterminant, nom et adjectif qualificatif",k:"Cours",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Le groupe nominal : déterminant + nom + adjectif"},{t:"Le déterminant"},{t:"Le nom, noyau du groupe nominal"},{t:"L’adjectif qualificatif"},{t:"La place de l’adjectif et son accord"},{t:"Enrichir un groupe nominal"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:54,img:IMG.e,t:"Le groupe verbal : verbe et complément circonstanciel",k:"Cours",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Le groupe verbal : verbe + complément circonstanciel"},{t:"Le verbe, noyau du groupe verbal"},{t:"Le complément circonstanciel"},{t:"Les sortes de compléments circonstanciels"},{t:"Reconnaître un complément circonstanciel"},{t:"Les formes du complément circonstanciel"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:55,img:IMG.f,t:"La technique de présentation d’un exposé oral",k:"Cours",n:"5e",m:"Expression orale",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un exposé oral ?"},{t:"Préparer son exposé : recherche et plan"},{t:"Construire l’exposé : introduction, développement, conclusion"},{t:"Les supports : fiche de notes et aide visuelle"},{t:"La voix et le corps : parler clairement"},{t:"S’entraîner et gérer le trac"},{t:"Exercices d’application"},{t:"À retenir"}]},
- {id:56,img:IMG.g,t:"La proposition subordonnée complétive",k:"Cours",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’une proposition subordonnée complétive ?"},{t:"La complétive introduite par « que »"},{t:"Les fonctions de la complétive"},{t:"Le mode du verbe : indicatif ou subjonctif ?"},{t:"La complétive interrogative indirecte"},{t:"Ne pas confondre complétive et relative"},{t:"Exercices d’application"},{t:"À retenir"}]}
+ {id:56,img:IMG.g,t:"La proposition subordonnée complétive",k:"Cours",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’une proposition subordonnée complétive ?"},{t:"La complétive introduite par « que »"},{t:"Les fonctions de la complétive"},{t:"Le mode du verbe : indicatif ou subjonctif ?"},{t:"La complétive interrogative indirecte"},{t:"Ne pas confondre complétive et relative"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:57,img:IMG.h,t:"Les valeurs modales : l’indicatif",k:"Cours",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un mode et que dit-il du locuteur ?"},{t:"L’indicatif, le mode du réel et du certain"},{t:"Le présent et le futur : leurs valeurs modales"},{t:"L’imparfait et le plus-que-parfait : valeurs modales"},{t:"L’indicatif dans la proposition subordonnée"},{t:"Indicatif ou subjonctif ? Choisir le bon mode"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:58,img:IMG.b,t:"Les formes verbales : formes interrogatives et interro-négatives",k:"Cours",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel : la phrase interrogative et ses formes"},{t:"Les trois manières de poser une question"},{t:"L’inversion du sujet : les règles"},{t:"L’interrogation aux temps composés, avec pronoms et verbes pronominaux"},{t:"La forme interro-négative"},{t:"Répondre à une question : oui, non, si"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:10001,fn:1,img:IMG.e,t:"Le groupe verbal : verbe + cc",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:20002,an:2,img:IMG.b,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
+ {id:20003,an:3,img:IMG.b,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
+ {id:20004,an:4,img:IMG.b,t:"BEPC · Expression écrite · Session juillet 2025",k:"Annales",n:"3e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
+ {id:30001,ex:1,img:IMG.c,t:"Le groupe nominal : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30002,ex:2,img:IMG.a,t:"Les compléments d’objet (COD et COI) : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30003,ex:3,img:IMG.b,t:"Les compléments circonstanciels : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30004,ex:4,img:IMG.c,t:"L’adjectif qualificatif et ses fonctions : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30005,ex:5,img:IMG.d,t:"Les déterminants : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30006,ex:6,img:IMG.e,t:"Le futur simple : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30007,ex:7,img:IMG.f,t:"Le sens propre et le sens figuré : exercices",k:"Exercices",n:"6e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30008,ex:8,img:IMG.g,t:"Les formes de phrases : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30009,ex:9,img:IMG.h,t:"Le plus-que-parfait : exercices",k:"Exercices",n:"5e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30010,ex:10,img:IMG.a,t:"Les figures de style : exercices",k:"Exercices",n:"4e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30011,ex:11,img:IMG.b,t:"La proposition subordonnée relative : exercices",k:"Exercices",n:"4e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30012,ex:12,img:IMG.c,t:"Les pronoms : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30013,ex:13,img:IMG.d,t:"Le présent de l’indicatif : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30014,ex:14,img:IMG.e,t:"L’imparfait de l’indicatif : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30015,ex:15,img:IMG.f,t:"Le passé composé : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30016,ex:16,img:IMG.g,t:"Les prépositions : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30017,ex:17,img:IMG.h,t:"L’accord de l’adjectif qualificatif : exercices",k:"Exercices",n:"5e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30018,ex:18,img:IMG.a,t:"Le sujet et ses différentes formes : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30019,ex:19,img:IMG.b,t:"La préfixation : exercices",k:"Exercices",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30020,ex:20,img:IMG.c,t:"La proposition subordonnée complétive : exercices",k:"Exercices",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30021,ex:21,img:IMG.d,t:"Le passé antérieur : exercices",k:"Exercices",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:40001,ev:1,img:IMG.d,t:"Devoir n° 1 : Le groupe nominal",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40002,ev:2,img:IMG.e,t:"Devoir n° 2 : Le présent de l’indicatif",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40003,ev:3,img:IMG.f,t:"Composition du 1er trimestre : La phrase complexe",k:"Évaluations",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]}
+/*CATALOGUE-AUTO:FIN*/
 ];
 /* Prix des documents selon le cycle (FCFA) : appliqué automatiquement à tout nouveau document */
 var PRIX_CYCLE={"Primaire":25,"Collège":25,"Lycée":50,"Université":100};
 ALLDOCS.forEach(function(x){x.c=cycleOf(x.n);if(PRIX_CYCLE[x.c]!==undefined)x.pr=PRIX_CYCLE[x.c]});
 var DOCS=ALLDOCS.filter(function(d){return ALLOWED_TYPES.indexOf(d.k)>-1&&cycleOK(d)});
-var G={Cours:["#8c6fe0","#b29af4"],Fiches:["#5f84e6","#9bb4f5"],Programmes:["#cf63b4","#e79ad6"],"Évaluations":["#e8825f","#f2b08a"],Exercices:["#2fa883","#7fd6b8"],TD:["#e0a030","#f3cf7a"],"Sujets traités":["#4aa3c8","#8fd0e8"],"Anciens sujets":["#c0504d","#e89a98"]};
+var G={Cours:["#8c6fe0","#b29af4"],Fiches:["#5f84e6","#9bb4f5"],Exercices:["#2fa883","#7fd6b8"],"Évaluations":["#e8825f","#f2b08a"],Annales:["#4aa3c8","#8fd0e8"],Programmes:["#cf63b4","#e79ad6"]};
 var IC={
  book:"M18 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zM6 4h5v8l-2.5-1.5L6 12z",note:"M6 2h9l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zm8 1.5V8h4.5zM8 12h8v1.5H8zm0 3.5h8V17H8z",plan:"M7 2v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-2V2h-2v2H9V2zM5 10h14v10H5z",eval:"M9 2h6v2h3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h3zm1.5 11.5L8.7 11.7 7.5 12.9l3 3 6-6-1.2-1.2z",
  gear:"M19.43 12.98c.04-.32.07-.64.07-.98s-.03-.66-.07-.98l2.11-1.65a.5.5 0 0 0 .12-.64l-2-3.46a.5.5 0 0 0-.61-.22l-2.49 1a7.3 7.3 0 0 0-1.69-.98l-.38-2.65A.49.49 0 0 0 14 2h-4a.49.49 0 0 0-.49.42l-.38 2.65c-.61.25-1.17.59-1.69.98l-2.49-1a.5.5 0 0 0-.61.22l-2 3.46a.5.5 0 0 0 .12.64l2.11 1.65c-.04.32-.07.65-.07.98s.03.66.07.98l-2.11 1.65a.5.5 0 0 0-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1c.52.4 1.08.73 1.69.98l.38 2.65c.03.24.24.42.49.42h4c.25 0 .46-.18.49-.42l.38-2.65c.61-.25 1.17-.59 1.69-.98l2.49 1c.23.09.49 0 .61-.22l2-3.46a.5.5 0 0 0-.12-.64zM12 15.5A3.5 3.5 0 1 1 12 8.5a3.5 3.5 0 0 1 0 7z",
@@ -221,7 +257,7 @@ function vib(n){try{if(ls("settings",{}).vib===false)return;navigator.vibrate&&n
 function toast(m){var t=$("toast");if(!t)return;t.textContent=m;t.classList.add("show");clearTimeout(toast.t);toast.t=setTimeout(function(){t.classList.remove("show")},2000)}
 function norm(s){return String(s).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
 /* ===== Recherche dans le texte des cours =====
-   contentReady(rappel) charge une seule fois contenu/<id>.json de tous les cours (déjà gardés hors ligne par sw.js) ;
+   contentReady(rappel) charge une seule fois le fichier de contenu (contentFile) de tous les cours (déjà gardés hors ligne par sw.js) ;
    contentHits(texte, cours) renvoie les parties qui contiennent tous les mots ; hitsHTML(...) en fait la liste affichée.
    Les extraits ne sont montrés que pour les parties ouvertes à l’utilisateur (partie 1 ou cours acheté / abonnement). */
 var CIDX=null,CLOAD=false,CWAIT=[];
@@ -243,12 +279,12 @@ function cbuild(j){var out=[];
 function contentReady(cb){
  if(CIDX)return cb();
  CWAIT.push(cb);if(CLOAD)return;CLOAD=true;
- var ids=ALLDOCS.map(function(d){return d.id}),left=ids.length,idx={};
+ var docs=ALLDOCS.filter(function(d){return d.k!=="Fiches"}),left=docs.length,idx={};
  function done(){CIDX=idx;CWAIT.splice(0).forEach(function(f){f()})}
  if(!window.fetch||!left)return done();
- ids.forEach(function(id){
-  fetch(BASE+"contenu/"+id+".json").then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(function(j){
-   idx[id]=cbuild(j);if(--left===0)done()})})}
+ docs.forEach(function(d){
+  fetch(BASE+contentFile(d)).then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(function(j){
+   idx[d.id]=cbuild(j);if(--left===0)done()})})}
 function contentHits(q,docs){
  var w=norm(q.trim()).split(/\s+/).filter(Boolean),out=[];
  if(!CIDX||!w.length)return out;
@@ -301,10 +337,14 @@ function applyTheme(){var t="";try{t=localStorage.getItem("theme")||""}catch(e){
  if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);else document.documentElement.removeAttribute("data-theme")}
 applyTheme();
 
+/* Repère visuel des fiches pédagogiques : bandeau bleu en haut de la carte + contour bleu (catalogue, favoris, accueil) */
+try{var _fs=document.createElement("style");_fs.textContent=".doc.fiche{box-shadow:0 0 0 2px #5f84e6,0 8px 24px rgba(90,60,170,.08)}.fband{display:flex;align-items:center;gap:6px;background:linear-gradient(90deg,#4a6fdc,#7d9cf0);color:#fff;font-size:12px;font-weight:700;padding:7px 12px;border-radius:14px;margin-bottom:8px}.fband svg{width:14px;height:14px;flex:0 0 auto}";document.head.appendChild(_fs)}catch(e){}
+function docClass(d){return d.k==="Fiches"?"doc fiche":"doc"}
+function ficheBand(d){return d.k==="Fiches"?'<div class="fband"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm-1 7V3.5L18.5 9zM8 13h8v2H8zm0 4h8v2H8z"/></svg>Fiche pédagogique</div>':""}
 /* Carte de document (catalogue, favoris) */
 function cardHTML(d){
  var g=G[d.k]||G.Cours,f=favs.indexOf(d.id)>-1,c=cart.indexOf(d.id)>-1,acc=canAccess(d.id),inc=isSubscribed();
- return '<article class="doc"><div class="cov" style="--g1:'+g[0]+';--g2:'+g[1]+'"><img src="'+esc(d.img)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">'+
+ return '<article class="'+docClass(d)+'">'+ficheBand(d)+'<div class="cov" style="--g1:'+g[0]+';--g2:'+g[1]+'"><img src="'+esc(d.img)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">'+
   '<span class="rate">'+ico("star",12)+d.r.toFixed(1)+'</span><span class="tag">'+esc(d.m)+'</span>'+
   '<button class="fav" data-f="'+d.id+'" aria-pressed="'+f+'" aria-label="Favori">'+ico("heart",18)+'</button></div>'+
   '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">'+esc(d.k)+' · '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:#7a5cd0;text-decoration:none">Voir les détails ›</a>'+
@@ -378,6 +418,8 @@ function setupThemeBtn(){var bell=$("bell")||$("set");if(!bell||$("tbtn"))return
  w.appendChild(t);w.appendChild(bell);paintThemeBtn()}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",setupThemeBtn);else setupThemeBtn();
 
+/* Compte réel (Supabase) : si la session a disparu, on efface les infos de compte (retour à la connexion ci-dessous) */
+(function(){try{if(localStorage.getItem("auth_mode")==="supabase"&&!localStorage.getItem("sb_session")){["user_name","user_role","user_cycle","view_cycle","auth_mode"].forEach(function(k){localStorage.removeItem(k)})}}catch(e){}})();
 /* Session : sans utilisateur connecté, retour à la connexion (contrôle réel à faire côté serveur) */
 /* Les pages de cours (PUBLIC_PAGE) restent visibles sans connexion : l’achat, lui, demande de se connecter. */
 if(!userName()&&typeof PUBLIC_PAGE==="undefined")location.replace(BASE+"login-app.html");
