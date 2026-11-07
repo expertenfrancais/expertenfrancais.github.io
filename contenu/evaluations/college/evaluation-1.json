@@ -1,0 +1,210 @@
+{
+ "id": 40001,
+ "meta": {
+  "t": "Devoir n° 1 : Le groupe nominal",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "ev": 1
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Reconnaître le noyau (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie chaque groupe nominal et entoure son noyau. (1 pt par groupe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "la grande maison",
+      "mes cahiers neufs",
+      "un panier de mangues",
+      "ces jolies fleurs rouges"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Nature des expansions (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne la nature de l’expansion du nom écrite en gras. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "une route **poussiéreuse**",
+      "le sac **de mon frère**",
+      "le livre **que j’ai lu**",
+      "des enfants **joyeux**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Accorder dans le groupe nominal (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Accorde l’adjectif entre parenthèses. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "des élèves (attentif)",
+      "une histoire (amusant)",
+      "ces robes (neuf)",
+      "des chaussures (blanc)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Enrichir un groupe nominal (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Enrichis chaque groupe nominal avec une expansion de ton choix : « la maison » ; « un oiseau ». (2 pts)\n**2.** Écris une phrase décrivant ton école, avec au moins deux groupes nominaux comportant une expansion. (2 pts)"
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Analyse d’une phrase (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Phrase : « Le vieux pêcheur ramène ses filets pleins de poissons argentés. »\n**1.** Relève trois groupes nominaux et donne le noyau de chacun. (3 pts)\n**2.** Donne le déterminant du nom « filets ». (1 pt)"
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "la grande **maison** (noyau : maison)",
+      "mes **cahiers** neufs (noyau : cahiers)",
+      "un **panier** de mangues (noyau : panier)",
+      "ces jolies **fleurs** rouges (noyau : fleurs)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "« poussiéreuse » : adjectif qualificatif",
+      "« de mon frère » : complément du nom",
+      "« que j’ai lu » : proposition subordonnée relative",
+      "« joyeux » : adjectif qualificatif"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "des élèves attentifs",
+      "une histoire amusante",
+      "ces robes neuves",
+      "des chaussures blanches"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Réponses possibles : la maison blanche (adjectif) ; un oiseau de la forêt (complément du nom). Toute expansion correcte est acceptée.\n**2.** Exemple : « Mon école est entourée de grands arbres et ses salles lumineuses accueillent les élèves. » (grands arbres ; salles lumineuses)."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "**1.** « Le vieux pêcheur » : noyau « pêcheur » ; « ses filets pleins de poissons argentés » : noyau « filets » ; « poissons argentés » : noyau « poissons ».\n**2.** Le déterminant de « filets » est « ses » (déterminant possessif)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne pas confondre le noyau (un nom) avec une expansion (adjectif, complément du nom ou relative)."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Reconnaître le noyau",
+       "4"
+      ],
+      [
+       "2. Nature des expansions",
+       "4"
+      ],
+      [
+       "3. Accorder dans le groupe nominal",
+       "4"
+      ],
+      [
+       "4. Enrichir un groupe nominal",
+       "4"
+      ],
+      [
+       "5. Analyse d’une phrase",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans les exercices 1 à 3.",
+      "À l’exercice 4, accepter toute expansion correcte et bien identifiée.",
+      "Retirer 0,5 point maximum pour une copie mal présentée.",
+      "Faire corriger les erreurs d’accord en classe après la remise des copies."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "id": 40002,
+ "meta": {
+  "t": "Devoir n° 2 : Le présent de l’indicatif",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "ev": 2
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; l’orthographe des terminaisons compte."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Infinitif et groupe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne l’infinitif et le groupe de chaque verbe conjugué. (0,5 pt pour l’infinitif, 0,5 pt pour le groupe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Nous chantons",
+      "Tu finis",
+      "Ils prennent",
+      "Vous allez"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Conjuguer au présent (6 points)"
+    },
+    {
+     "type": "p",
+     "text": "Conjugue le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je (parler) à mon ami.",
+      "Tu (finir) ton travail.",
+      "Nous (manger) du riz.",
+      "Vous (faire) un gâteau.",
+      "Ils (aller) au marché.",
+      "Elle (prendre) le bus."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Les valeurs du présent (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Indique la valeur du présent dans chaque phrase. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "En ce moment, il pleut.",
+      "La Terre tourne autour du Soleil.",
+      "Chaque matin, je me lève à six heures.",
+      "Demain, nous partons à Pointe-Noire."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Changer le sujet (3 points)"
+    },
+    {
+     "type": "p",
+     "text": "Réécris chaque phrase avec le nouveau sujet. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les enfants jouent dans la cour. (sujet : l’enfant)",
+      "Tu choisis un livre. (sujet : nous)",
+      "Je finis mon repas. (sujet : ils)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Production écrite (3 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris trois phrases au présent pour dire ce que tu fais chaque matin avant d’aller à l’école. (1 pt par phrase correcte)"
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "chanter : 1er groupe",
+      "finir : 2e groupe",
+      "prendre : 3e groupe",
+      "aller : 3e groupe"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je parle à mon ami.",
+      "Tu finis ton travail.",
+      "Nous mangeons du riz. (le e de « mangeons » garde le son [ʒ])",
+      "Vous faites un gâteau.",
+      "Ils vont au marché.",
+      "Elle prend le bus."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "présent d’énonciation (l’action se passe maintenant)",
+      "présent de vérité générale",
+      "présent d’habitude",
+      "présent à valeur de futur proche"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "L’enfant joue dans la cour.",
+      "Nous choisissons un livre.",
+      "Ils finissent leur repas."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "Exemple : « Je me lève à six heures. Je prends mon petit déjeuner. Je pars à l’école avec mes amis. » Vérifier que chaque phrase a un verbe au présent correctement conjugué."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Au présent, les verbes du 1er groupe se terminent par -e, -es, -e, -ons, -ez, -ent ; ceux du 2e groupe par -is, -is, -it, -issons, -issez, -issent."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Infinitif et groupe",
+       "4"
+      ],
+      [
+       "2. Conjuguer au présent",
+       "6"
+      ],
+      [
+       "3. Valeurs du présent",
+       "4"
+      ],
+      [
+       "4. Changer le sujet",
+       "3"
+      ],
+      [
+       "5. Production écrite",
+       "3"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "À l’exercice 1, compter 0,5 point pour l’infinitif et 0,5 point pour le groupe.",
+      "Accepter « présent de narration » seulement si le contexte le justifie ; sinon la réponse attendue est donnée dans le corrigé.",
+      "Une terminaison fausse annule le point de la phrase.",
+      "Prévoir un temps de correction collective sur les verbes du 3e groupe."
+     ]
+    }
+   ]
+  }
+ ]
+}

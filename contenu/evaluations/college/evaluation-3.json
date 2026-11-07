@@ -1,0 +1,201 @@
+{
+ "id": 40003,
+ "meta": {
+  "t": "Composition du 1er trimestre : La phrase complexe",
+  "k": "Évaluations",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8,
+  "ev": 3
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Évaluation modèle, rédigée pour la classe de troisième ; elle n’est pas un sujet officiel."
+    },
+    {
+     "type": "h",
+     "text": "Texte support"
+    },
+    {
+     "type": "ex",
+     "label": "Après la pluie",
+     "text": "Quand la pluie cessa, les villageois sortirent de leurs cases. Ils savaient que la récolte serait bonne, car la terre avait bu toute l’eau dont elle avait besoin. Le chef, qui observait le ciel, déclara que la fête aurait lieu le soir même."
+    },
+    {
+     "type": "h",
+     "text": "I. Compréhension (4 points)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Pourquoi les villageois sortent-ils de leurs cases ? (1 pt)",
+      "Pourquoi savaient-ils que la récolte serait bonne ? (1,5 pt)",
+      "Quelle décision le chef annonce-t-il ? (1 pt)",
+      "Quel sentiment domine chez les villageois ? (0,5 pt)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "II. Grammaire (8 points)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Relève les verbes conjugués de la première phrase et indique combien elle contient de propositions. (2 pts)",
+      "« Quand la pluie cessa » : donne la nature et la fonction de cette proposition. (2 pts)",
+      "« qui observait le ciel » : donne la nature et la fonction de cette proposition. (2 pts)",
+      "« que la fête aurait lieu le soir même » : donne la nature et la fonction de cette proposition. (2 pts)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "III. Conjugaison (4 points)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Dans « Ils savaient que la récolte serait bonne », donne le temps et le mode de chaque verbe conjugué. (2 pts)",
+      "Conjugue « sortirent » à la 3e personne du singulier du passé simple, puis de l’imparfait de l’indicatif. (2 pts)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "IV. Expression écrite (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris une phrase complexe contenant une proposition subordonnée relative (2 pts) et une proposition subordonnée conjonctive circonstancielle de cause (2 pts). Encadre les verbes conjugués."
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "I. Compréhension"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Ils sortent parce que la pluie a cessé : « Quand la pluie cessa, les villageois sortirent de leurs cases ».",
+      "Parce que « la terre avait bu toute l’eau dont elle avait besoin » : elle a reçu assez d’eau pour que les plantes poussent.",
+      "Le chef annonce que la fête aura lieu le soir même.",
+      "Un sentiment de joie et de soulagement : la récolte sera bonne et on prépare une fête."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "II. Grammaire"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Verbes conjugués : « cessa » et « sortirent ». La phrase contient deux propositions.",
+      "« Quand la pluie cessa » est une proposition subordonnée conjonctive circonstancielle de temps ; elle est complément circonstanciel de temps du verbe « sortirent ».",
+      "« qui observait le ciel » est une proposition subordonnée relative ; elle complète l’antécédent « Le chef » (complément de l’antécédent).",
+      "« que la fête aurait lieu le soir même » est une proposition subordonnée conjonctive complétive ; elle est complément d’objet direct du verbe « déclara »."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "III. Conjugaison"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "« savaient » : imparfait de l’indicatif ; « serait » : conditionnel présent.",
+      "Passé simple : « il sortit » ; imparfait : « il sortait »."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "IV. Expression écrite"
+    },
+    {
+     "type": "p",
+     "text": "Exemple : « Le chef, qui connaît bien ses gens, organise la fête parce que la récolte sera abondante. » (relative : « qui connaît bien ses gens » ; conjonctive de cause : « parce que la récolte sera abondante »). Toute phrase correcte est acceptée."
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour trouver le nombre de propositions, compte les verbes conjugués : une proposition = un verbe conjugué."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Partie",
+      "Points"
+     ],
+     "rows": [
+      [
+       "I. Compréhension",
+       "4"
+      ],
+      [
+       "II. Grammaire",
+       "8"
+      ],
+      [
+       "III. Conjugaison",
+       "4"
+      ],
+      [
+       "IV. Expression écrite",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Expression écrite : critères",
+     "head": [
+      "Critère",
+      "Points"
+     ],
+     "rows": [
+      [
+       "Phrase correcte avec une proposition subordonnée relative",
+       "2"
+      ],
+      [
+       "Phrase correcte avec une subordonnée conjonctive circonstancielle de cause",
+       "2"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "À la question II, accorder 1 point pour la nature et 1 point pour la fonction.",
+      "Accepter « complément du nom » ou « complément de l’antécédent » pour la relative.",
+      "Si l’élève écrit une phrase simple à l’exercice IV, ne donner aucun point.",
+      "Prévoir une correction collective des fonctions des subordonnées."
+     ]
+    }
+   ]
+  }
+ ]
+}
