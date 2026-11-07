@@ -233,7 +233,7 @@ var $=function(i){return document.getElementById(i)};
 function ico(n,s){return '<svg width="'+(s||22)+'" height="'+(s||22)+'" viewBox="0 0 24 24"><path d="'+IC[n]+'"/></svg>'}
 function esc(s){return String(s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
 function ls(k,d){try{var v=JSON.parse(localStorage.getItem(k));return v||d}catch(e){return d}}
-function sv(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+function sv(k,v){try{var j=JSON.stringify(v);if(window.syncMark&&localStorage.getItem(k)!==j&&SYNC_KEYS.indexOf(k)>-1)syncMark();localStorage.setItem(k,j)}catch(e){}}
 /* ===== Notes des apprenants =====
    Enregistrées sur l'appareil (clé « rates » : {numéro du cours: note de 1 à 5}).
    La moyenne affichée sur les cartes (d.r) reste celle de data.js ; avec le serveur, envoyer la note ici. */
@@ -425,3 +425,67 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
 if(!userName()&&typeof PUBLIC_PAGE==="undefined")location.replace(BASE+"login-app.html");
 /* Connecté mais cycle pas encore choisi : choix obligatoire (page cycles.html). */
 else if(userName()&&!homeCycle()&&typeof PUBLIC_PAGE==="undefined"&&typeof CYCLE_PAGE==="undefined")location.replace(BASE+"cycles.html");
+
+/* ===== Sauvegarde du compte (Supabase) : favoris, panier, progression =====
+   Les clés ci-dessous sont copiées dans la table user_data (script supabase/02-user-data.sql).
+   Les achats et abonnements (bought, sub, pending, subpending) ne sont JAMAIS envoyés : ils devront être gérés côté serveur.
+   Sans connexion Supabase (mode démonstration), rien de tout cela ne s’exécute. */
+var SYNC_KEYS=["favs","cart","studied","parts","scores","rates"];
+(function(){
+ var busy=false,timer=null;
+ function jget(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}}
+ function on(){var c=jget("sb_conf"),s=jget("sb_session");return !!(c&&c.u&&c.k&&s&&s.user_id&&localStorage.getItem("auth_mode")==="supabase")}
+ function token(){
+  var s=jget("sb_session"),c=jget("sb_conf"),now=Math.floor(Date.now()/1000);
+  if(s.expires_at-60>now)return Promise.resolve(s.access_token);
+  return fetch(c.u+"/auth/v1/token?grant_type=refresh_token",{method:"POST",headers:{"apikey":c.k,"Content-Type":"application/json"},body:JSON.stringify({refresh_token:s.refresh_token})})
+   .then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
+    s.access_token=j.access_token;s.refresh_token=j.refresh_token||s.refresh_token;s.expires_at=now+(j.expires_in||3600);
+    localStorage.setItem("sb_session",JSON.stringify(s));return s.access_token})}
+ function snap(){var o={};SYNC_KEYS.forEach(function(k){var v=jget(k);if(v!==null)o[k]=v});return o}
+ /* Remplace les données de l’appareil par celles du compte ; renvoie true si quelque chose a changé */
+ function apply(d){var ch=false;SYNC_KEYS.forEach(function(k){
+  var old=localStorage.getItem(k),n=d[k]===undefined?null:JSON.stringify(d[k]);
+  if(old!==n){ch=true;if(n===null)localStorage.removeItem(k);else localStorage.setItem(k,n)}});return ch}
+ /* Fusion : listes = réunion des deux, objets = réunion (l’appareil l’emporte en cas de conflit) */
+ function merge(a,b){var o={};SYNC_KEYS.forEach(function(k){var x=a[k],y=b[k];
+  if(x===undefined)o[k]=y;else if(y===undefined)o[k]=x;
+  else if(Array.isArray(x)&&Array.isArray(y))o[k]=x.concat(y.filter(function(i){return x.indexOf(i)<0}));
+  else if(x&&y&&typeof x==="object"&&typeof y==="object"&&!Array.isArray(x)&&!Array.isArray(y)){o[k]={};for(var i in x)o[k][i]=x[i];for(var j in y)o[k][j]=y[j]}
+  else o[k]=y});
+  for(var q in o)if(o[q]===undefined)delete o[q];return o}
+ function push(keep){
+  if(!on())return Promise.resolve();
+  var n=localStorage.getItem("sync_dirty");
+  return token().then(function(t){
+   var c=jget("sb_conf"),s=jget("sb_session"),ts=new Date().toISOString();
+   return fetch(c.u+"/rest/v1/user_data?on_conflict=user_id",{method:"POST",keepalive:!!keep,
+    headers:{"apikey":c.k,"Authorization":"Bearer "+t,"Content-Type":"application/json","Prefer":"resolution=merge-duplicates,return=minimal"},
+    body:JSON.stringify({user_id:s.user_id,data:snap(),updated_at:ts})})
+   .then(function(r){if(!r.ok)throw 0;localStorage.setItem("sync_at",ts);if(localStorage.getItem("sync_dirty")===n)localStorage.removeItem("sync_dirty")})
+  }).catch(function(){})}
+ function mark(){
+  if(!on())return;
+  localStorage.setItem("sync_dirty",String((+localStorage.getItem("sync_dirty")||0)+1));
+  clearTimeout(timer);timer=setTimeout(function(){push()},2000)}
+ function start(){
+  if(!on()||busy)return;
+  var dirty=localStorage.getItem("sync_dirty"),last=+sessionStorage.getItem("sync_t")||0;
+  if(!dirty&&localStorage.getItem("sync_at")&&Date.now()-last<180000)return;
+  busy=true;sessionStorage.setItem("sync_t",String(Date.now()));
+  token().then(function(t){
+   var c=jget("sb_conf"),s=jget("sb_session");
+   return fetch(c.u+"/rest/v1/user_data?select=data,updated_at&user_id=eq."+encodeURIComponent(s.user_id),{headers:{"apikey":c.k,"Authorization":"Bearer "+t}})
+   .then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(rows){
+    var row=rows[0],first=!localStorage.getItem("sync_at"),d=localStorage.getItem("sync_dirty");
+    if(!row)return push();
+    var rd=row.data||{};
+    if(d||first){var before=JSON.stringify(snap());apply(merge(rd,snap()));var ch=before!==JSON.stringify(snap());return push().then(function(){if(ch)location.reload()})}
+    if(row.updated_at===localStorage.getItem("sync_at"))return;
+    var ch2=apply(rd);localStorage.setItem("sync_at",row.updated_at);if(ch2)location.reload()})
+  }).catch(function(){}).then(function(){busy=false})}
+ window.syncMark=mark;
+ window.syncOn=on;
+ window.syncBeforeLogout=function(){return Promise.race([localStorage.getItem("sync_dirty")?push():Promise.resolve(),new Promise(function(r){setTimeout(r,2500)})])};
+ document.addEventListener("visibilitychange",function(){if(document.visibilityState==="hidden"&&localStorage.getItem("sync_dirty"))push(true)});
+ setTimeout(start,800)})();

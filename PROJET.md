@@ -6,7 +6,7 @@ Mise à jour : archive **v128** (connexion Supabase prête : voir `supabase/LISE
 ## État actuel
 - 57 cours de collège (id 1 à 58), 1 cours de primaire, 1 fiche pédagogique (id 10001), 3 annales vraies (20002 BEPC juillet 2025 Dictée-Questions, 20003 BEPC blanc mai 2025 Dictée-Questions, 20004 BEPC juillet 2025 Expression écrite) ; prochaine : an 5 (id 20005), 21 séries d’exercices (id 30001 à 30021 : 6e, 5e, 4e et 3e), prochaine : ex 22 (id 30022), 3 évaluations modèles (40001 et 40002 en 6e, 40003 en 3e ; réservées aux enseignants), prochaine : ev 4 (id 40004).
 - Dernier id de cours : **58**. Commande pour le vérifier : `ls contenu/cours/*/ | sort -n | tail -3`
-- Version du cache : `VERSION` dans `sw.js` (actuellement `v128`).
+- Version du cache : `VERSION` dans `sw.js` (actuellement `v133`).
 - Accès gratuit pour l'instant ; paiements à venir (prix par cycle dans `PRIX_CYCLE`, `data.js`).
 
 ## Connexion (Supabase)
@@ -36,3 +36,8 @@ Mise à jour : archive **v128** (connexion Supabase prête : voir `supabase/LISE
 - Évaluations : `GUIDE-EVALUATIONS.md` (modèles : `evaluation-1.json`, `evaluation-3.json`)
 - Exercices : `GUIDE-EXERCICES.md` (modèle : `contenu/exercices/college/exercice-1.json`)
 - Annales : `GUIDE-ANNALES.md` (modèle : `contenu/annales/college/annale-2.json`)
+
+## Sauvegarde du compte (v133)
+- `supabase/02-user-data.sql` crée la table `user_data` (une ligne par utilisateur, accessible seulement à lui-même).
+- Fin de `data.js` : copie des clés `SYNC_KEYS` (favs, cart, studied, parts, scores, rates) vers cette table. Les achats/abonnements ne sont jamais envoyés.
+- `login-app.html` mémorise l’URL et la clé dans `sb_conf` pour que `data.js` puisse parler à Supabase. Clés de suivi : `sync_at`, `sync_dirty`.

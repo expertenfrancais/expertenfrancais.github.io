@@ -416,7 +416,7 @@ $("save").onclick=function(){
 $("theme").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;
  try{if(b.dataset.v==="auto")localStorage.removeItem("theme");else localStorage.setItem("theme",b.dataset.v)}catch(x){}
  applyTheme();render()};
-$("logout").onclick=function(){if(!confirm("Se déconnecter effacera vos favoris, achats, abonnement et progression enregistrés sur cet appareil. Continuer ?"))return;["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","scores","user_cycle","view_cycle","rates","sb_session","auth_mode"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});location.href="login-app.html"};
+$("logout").onclick=function(){if(!confirm(window.syncOn&&syncOn()?"Se déconnecter efface les données de cet appareil. Vos favoris, panier et progression sont sauvegardés sur votre compte et reviendront à votre prochaine connexion. Continuer ?":"Se déconnecter effacera vos favoris, achats, abonnement et progression enregistrés sur cet appareil. Continuer ?"))return;(window.syncBeforeLogout?syncBeforeLogout():Promise.resolve()).then(function(){["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","parts","scores","user_cycle","view_cycle","rates","sb_session","sb_conf","auth_mode","sync_at","sync_dirty"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});location.href="login-app.html"})};
 $("nav").onclick=navClick;
 /* Installation et mode hors ligne */
 function appCard(){
