@@ -6,12 +6,13 @@
 Tu travailles sur mon application de cours de français (PWA statique, GitHub Pages : https://expertenfrancais.github.io). Mes crédits IA sont limités : économise-les.
 
 Règles d'économie :
-- Lis d'abord PROJET.md, rien d'autre tant que je n'ai pas donné la tâche. Puis lis uniquement le guide du type de contenu concerné : GUIDE-IA.md (cours et interface), GUIDE-FICHES.md (fiches), GUIDE-ANNALES.md (annales), GUIDE-EXERCICES.md (exercices), GUIDE-EVALUATIONS.md (évaluations). Ne lis jamais les guides ni les dossiers des autres types.
+- Lis d'abord PROJET.md, rien d'autre tant que je n'ai pas donné la tâche. Puis lis uniquement le guide du type de contenu concerné : GUIDE-IA.md (cours et interface), GUIDE-FICHES.md (fiches), GUIDE-ANNALES.md (annales), GUIDE-EXERCICES.md (exercices), GUIDE-EVALUATIONS.md (évaluations), GUIDE-PROGRAMMES.md (programmes). Ne lis jamais les guides ni les dossiers des autres types.
 - N'analyse jamais tout le projet. N'ouvre que les fichiers que le guide cite pour la tâche.
 - N'ouvre jamais data.js, cours/, fiches/, annales/, sitemap.xml, robots.txt : ils sont générés ou trop gros.
 - Ne réécris jamais un fichier entier si tu peux modifier seulement les lignes concernées.
 - Avant de commencer, liste les fichiers que tu vas ouvrir ou modifier.
 - Ne fais rien d'autre que la tâche demandée.
+- Connexion et base de données déjà en place (Supabase) : ne touche ni à login-app.html, ni au bloc de sauvegarde à la fin de data.js, ni aux dossiers supabase/, ni aux clés localStorage (sb_*, sync_*), sauf si la tâche le dit. Ne me demande jamais de clé secrète (service_role) ni de mot de passe.
 
 Fin de chaque tâche : lance node outils/generer-pages.js https://expertenfrancais.github.io (toujours avec l'adresse du site), puis node outils/valider-contenu.js (0 erreur attendu), augmente VERSION dans sw.js de 1, puis donne-moi l'archive mise à jour (francais-app-gratuit-maj-vNNN.zip) et mets à jour les chiffres de PROJET.md (nombre de cours, dernier id, version).
 
@@ -121,7 +122,7 @@ Page concernée : [index / catalogue / favoris / panier / abonnement / profil / 
 Modification demandée : [description précise]
 
 Fichiers à lire : GUIDE-IA.md (tâche C et INTERDITS) et uniquement le fichier de cette page (voir la carte du projet dans GUIDE-IA.md).
-Ne touche pas au stockage (localStorage), au bouton Retour ni à la mise à jour sans que je le demande. Pas de bibliothèque ni de framework, JavaScript simple compatible vieux téléphones.
+Ne touche pas au stockage (localStorage), à la connexion Supabase (login-app.html, supabase/), au bouton Retour ni à la mise à jour sans que je le demande. Pas de bibliothèque ni de framework, JavaScript simple compatible vieux téléphones.
 Si la modification concerne l'aspect des pages de cours ou de fiches : modifie outils/generer-pages.js puis relance le générateur, jamais les pages une par une.
 ```
 
@@ -139,7 +140,7 @@ Fichier à modifier : data.js, uniquement la ligne concernée (PRIX_CYCLE ou ALL
 
 ---
 
-## 9. NOUVEAU TYPE DE CONTENU (programmes… ; les exercices et les évaluations existent déjà : voir 11 à 14)
+## 9. NOUVEAU TYPE DE CONTENU (les exercices, évaluations et programmes existent déjà : voir 11 à 14 et 16)
 
 ```
 Tâche : ajouter un nouveau type de contenu : [Programmes].
@@ -215,4 +216,30 @@ Tâche : modifier une évaluation.
 Fichiers à lire : PROJET.md, GUIDE-EVALUATIONS.md.
 Fichier à modifier : uniquement contenu/evaluations/<cycle>/evaluation-<ev>.json (trouve-le avec ls), en modifiant seulement les lignes concernées.
 Ne touche ni aux cours, ni aux fiches, ni aux annales, ni aux exercices, ni à data.js.
+```
+
+---
+
+## 15. BASE DE DONNÉES / CONNEXION (Supabase)
+
+```
+Tâche : [ex. enregistrer le pseudo et le cycle dans la table profiles quand ils changent / envoyer les messages du formulaire de contact dans une table Supabase / autre].
+
+Fichiers à lire : PROJET.md (section « Connexion et base de données »), supabase/LISEZMOI.md, puis uniquement les fichiers de la tâche (supabase/*.sql utile, la page concernée, et au besoin la fin de data.js, bloc « Sauvegarde du compte »).
+Contraintes : le site est statique (GitHub Pages), l'application parle à Supabase avec la clé publique seulement ; chaque nouvelle table doit avoir des règles de sécurité (RLS) : chacun ne voit que ses lignes. Les achats/abonnements ne sont jamais écrits depuis l'application. Écris tout nouveau script SQL dans supabase/NN-nom.sql, relançable sans risque, et dis-moi exactement quoi coller et où cliquer dans Supabase (je suis sur téléphone).
+Teste la logique avant de me rendre l'archive, augmente VERSION dans sw.js et mets PROJET.md à jour.
+```
+
+---
+
+## 16. PROGRAMMES (répartition mensuelle ou guide pédagogique, enseignants seulement)
+
+```
+Tâche : remplir [la répartition / le guide pédagogique] du programme [APS / PPO], niveau [6e / 5e / 4e / 3e].
+Contenu officiel : [colle ici le texte ou joins les photos : mois, semaines, savoirs ou objets d'apprentissage, durées…]
+
+Fichiers à lire : PROJET.md, GUIDE-PROGRAMMES.md (il donne le tableau des 8 fichiers : numéro du fichier à modifier et format des colonnes). Rien d'autre.
+Fichier à modifier : uniquement le programme-<pg>.json indiqué dans ce tableau (n'ouvre pas les autres programmes).
+Fichier à modifier à part ça : sw.js (VERSION seulement). N'ouvre ni data.js, ni les pages générées, ni les autres dossiers de contenu.
+Recopie fidèlement mon contenu, n'invente rien. Mot illisible : [à vérifier] et dis-le-moi. Information manquante : pose-moi une seule question.
 ```

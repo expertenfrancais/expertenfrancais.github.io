@@ -276,11 +276,13 @@ $("clrCache").onclick=function(){
 $("clrProg").onclick=function(){
  if(!confirm("Réinitialiser votre progression ? Cette action est définitive."))return;
  ["studied","parts","scores","rates"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
+ if(window.syncMark)syncMark();
  toast("Progression réinitialisée ✓")};
 
 $("logout").onclick=function(){
- ["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","scores","user_cycle","view_cycle","rates","settings","sb_session","auth_mode"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
- location.href="login-app.html"};
+ (window.syncBeforeLogout?syncBeforeLogout():Promise.resolve()).then(function(){
+ ["user_name","user_role","user_photo","user_cover","user_profile","favs","cart","bought","pending","sub","subpending","studied","parts","scores","user_cycle","view_cycle","rates","settings","sb_session","sb_conf","auth_mode","sync_at","sync_dirty"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});
+ location.href="login-app.html"})};
 
 $("back").onclick=function(){if(history.length>1)history.back();else location.href="index.html"};
 $("nav").onclick=navClick;

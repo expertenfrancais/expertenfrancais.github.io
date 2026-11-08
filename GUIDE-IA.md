@@ -7,7 +7,7 @@ Application de cours de français (PWA : pages HTML + JavaScript, sans framework
 **Ne parcours pas et n'analyse pas tout le projet.** Ouvre uniquement les fichiers que ce guide
 indique pour la tâche demandée. Ne réécris jamais un fichier en entier : modifie seulement les lignes concernées.
 Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
-**Économie de crédits : n'ouvre jamais `data.js` pour ajouter ou remplir un cours** (il est gros et son catalogue est généré). Pour connaître le dernier id : `ls contenu/cours/*/ | sort -n | tail -3`. Chaque type de contenu a son propre guide et son propre dossier : **cours** → ce guide ; **fiches** → `GUIDE-FICHES.md` ; **annales** → `GUIDE-ANNALES.md` ; **exercices** → `GUIDE-EXERCICES.md` ; **évaluations** → `GUIDE-EVALUATIONS.md`. Pour une tâche sur un type, lis seulement le guide de ce type et son dossier `contenu/<type>/`, jamais ceux des autres types. Ne lis jamais `cours/`, `fiches/`, `annales/`, `exercices/` ni `evaluations/` (pages générées).
+**Économie de crédits : n'ouvre jamais `data.js` pour ajouter ou remplir un cours** (il est gros et son catalogue est généré). Pour connaître le dernier id : `ls contenu/cours/*/ | sort -n | tail -3`. Chaque type de contenu a son propre guide et son propre dossier : **cours** → ce guide ; **fiches** → `GUIDE-FICHES.md` ; **annales** → `GUIDE-ANNALES.md` ; **exercices** → `GUIDE-EXERCICES.md` ; **évaluations** → `GUIDE-EVALUATIONS.md` ; **programmes** → `GUIDE-PROGRAMMES.md`. Pour une tâche sur un type, lis seulement le guide de ce type et son dossier `contenu/<type>/`, jamais ceux des autres types. Ne lis jamais `cours/`, `fiches/`, `annales/`, `exercices/` ni `evaluations/` (pages générées).
 
 ## CARTE DU PROJET
 
@@ -17,6 +17,7 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `contenu/fiches/<cycle>/fiche-<n>.json` | Une fiche pédagogique (voir `GUIDE-FICHES.md`) + sa clé `meta` | OUI pour les fiches |
 | `contenu/annales/<cycle>/annale-<an>.json` | Une annale (sujet d'examen + corrigé) + sa clé `meta` (voir `GUIDE-ANNALES.md`) | OUI pour les annales |
 | `contenu/exercices/<cycle>/exercice-<ex>.json` | Une série d'exercices pour une notion (rappel, exercices, corrigés) + sa clé `meta` (voir `GUIDE-EXERCICES.md`) | OUI pour les exercices |
+| `contenu/programmes/<cycle>/programme-<pg>.json` | Un programme : répartition annuelle/mensuelle ou guide pédagogique, réservé aux enseignants, + sa clé `meta` (voir `GUIDE-PROGRAMMES.md`) | OUI pour les programmes |
 | `contenu/evaluations/<cycle>/evaluation-<ev>.json` | Une évaluation (énoncé, corrigé, barème), réservée aux enseignants, + sa clé `meta` (voir `GUIDE-EVALUATIONS.md`) | OUI pour les évaluations |
 | `contenu/SPEC.md` | Format des blocs (p, h, list, ex, def, tip, warn, retenir, schema, test, table, quiz, exercise) | Lire seulement |
 | `contenu/_exemple.json` | Exemple de tous les blocs | Lire seulement |
@@ -25,15 +26,18 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `fiches/<cycle>/<id>-<titre>.html` | Page de présentation d'une fiche pédagogique (type `Fiches`) | **NON : générée** par `outils/generer-pages.js` |
 | `annales/<cycle>/annale-<an>-<titre>.html` | Page de présentation d'une annale (type `Annales`) | **NON : générée** par `outils/generer-pages.js` |
 | `exercices/<cycle>/exercice-<ex>-<titre>.html` | Page de présentation d'une série d'exercices (type `Exercices`) | **NON : générée** par `outils/generer-pages.js` |
+| `programmes/<cycle>/programme-<pg>-<titre>.html` | Page de présentation d'un programme (type `Programmes`) | **NON : générée** par `outils/generer-pages.js` |
 | `evaluations/<cycle>/evaluation-<ev>-<titre>.html` | Page de présentation d'une évaluation (type `Évaluations`) | **NON : générée** par `outils/generer-pages.js` |
-| `sw.js` | Cache hors ligne + numéro `VERSION` | Seulement `VERSION` (listes COURS/CONTENU = automatiques) |
+| `sw.js` | Cache hors ligne + numéro `VERSION` | Seulement `VERSION` (listes COURS/CONTENU = automatiques ; elles ne sont plus préchargées, voir `PROJET.md`) |
+| `supabase/` | Scripts SQL (`01-auth.sql`, `02-user-data.sql`) et mode d'emploi (`LISEZMOI.md`) de la base de données | NON, sauf tâche « base de données » demandée |
 | `sitemap.xml`, `robots.txt` | Référencement | **NON : générés** |
 | `lecon.html` | Page de lecture d'une partie (lit le fichier de contenu, via `contentFile(d)` de `data.js`) | Seulement si on change l'affichage de la lecture |
 | `blocs.js` | Affichage des blocs (quiz, exercices, tableaux…) | Seulement pour créer un **nouveau type de bloc** |
 | `course.js` / `course.css` | Comportement et style de la page d'un cours | Seulement pour changer cette page |
 | `index.html` | Accueil | Seulement pour changer l'accueil |
 | `catalogue.html` | Catalogue, recherche, filtres | Seulement pour changer le catalogue |
-| `favoris.html`, `panier.html`, `abonnement.html`, `profil.html`, `parametres.html`, `cycles.html`, `login-app.html`, `contact.html`, `pdf.html` | Une page chacune | Seulement la page demandée |
+| `favoris.html`, `panier.html`, `abonnement.html`, `profil.html`, `parametres.html`, `cycles.html`, `contact.html`, `pdf.html` | Une page chacune | Seulement la page demandée |
+| `login-app.html` | Inscription, connexion, mot de passe oublié (Supabase : URL et clé déjà renseignées) | NON, sauf demande explicite sur la connexion |
 | `cours.html` | Simple page de redirection (noindex) | NON |
 | `manifest.json`, `logo.png`, `icon-*.png` | Installation de l'application (PWA) et icônes | NON, sauf demande explicite |
 | `outils/generer-pages.js` | Reconstruit le catalogue de `data.js`, puis génère les pages `cours/…` et `fiches/…`, sitemap, robots, listes de `sw.js` | À lancer, pas à modifier |
@@ -77,16 +81,20 @@ Si la modification concerne l'aspect d'une page de cours : modifier `outils/gene
 **jamais les fichiers de `cours/`, `fiches/`, `annales/`, `exercices/` ou `evaluations/` un par un**.
 
 ## NOUVEAU TYPE DE CONTENU (programmes… ; exercices et évaluations déjà faits)
-Procédure rodée avec les annales. Chaque type a son dossier, son guide et sa numérotation (cours : 1, 2, 3… ; fiches : 10000 + n ; annales : 20000 + n ; exercices : 30000 + n ; évaluations : 40000 + n ; prochain type : 50000…) :
+Procédure rodée avec les annales. Chaque type a son dossier, son guide et sa numérotation (cours : 1, 2, 3… ; fiches : 10000 + n ; annales : 20000 + n ; exercices : 30000 + n ; évaluations : 40000 + n ; programmes : 50000 + n ; prochain type : 60000…) :
 1. Créer `contenu/<type>/<cycle>/<nom>-<n>.json` (clé `meta` + `sections`) et un premier fichier modèle complet (comme `annale-2.json`).
 2. `outils/catalogue.js` : ajouter le type dans `TYPE_DIR` et sa règle (numéro `meta.<xx>` et `id`), comme pour `Annales`.
-3. `data.js` : adapter `docFile` et `contentFile` (comme pour `Annales`). Le type doit figurer dans `ALLOWED_TYPES` (déjà le cas d'`Exercices`, `Évaluations`, `Programmes`). Les types déjà en place : `Cours`, `Fiches`, `Annales`, `Exercices`, `Évaluations`.
+3. `data.js` : adapter `docFile` et `contentFile` (comme pour `Annales`). Le type doit figurer dans `ALLOWED_TYPES` (déjà le cas d'`Exercices`, `Évaluations`, `Programmes`). Les types déjà en place : `Cours`, `Fiches`, `Annales`, `Exercices`, `Évaluations`, `Programmes`.
 4. `outils/generer-pages.js` : ajouter le dossier à `DIRS` et une ligne `Allow` dans `robots.txt`. `outils/valider-contenu.js` : nom de fichier attendu.
 5. Écrire `GUIDE-<TYPE>.md` (court, sur le modèle de `GUIDE-ANNALES.md`), puis mettre à jour `PROJET.md`, `PROMPTS.md` et la carte ci-dessus.
 
 ## INTERDITS
 - Ne jamais éditer à la main les fichiers de `cours/`, de `fiches/`, d'`annales/`, d'`exercices/`, d'`evaluations/`, `sitemap.xml`, `robots.txt`.
-- Ne pas toucher aux clés de stockage (`localStorage` : user_name, favs, cart, bought, sub, parts, studied, settings…) sans demande explicite.
+- Ne pas toucher aux clés de stockage (`localStorage` : user_name, favs, cart, bought, sub, parts, studied, settings, sb_session, sb_conf, auth_mode, sync_at, sync_dirty…) sans demande explicite.
+- Ne pas modifier le bloc « Sauvegarde du compte » à la fin de `data.js` (`SYNC_KEYS`, envoi vers `user_data`) ni `login-app.html` sans demande explicite. N'ajouter jamais `bought`, `sub`, `pending` ni `subpending` aux données envoyées à Supabase.
+- Ne jamais demander, afficher ni écrire une clé `service_role` / « secret » Supabase, ni un mot de passe de base ou d'application. Seule la clé publique (`sb_publishable_…`) peut apparaître dans le code.
+- Ne pas remettre de boutons de connexion Google/Apple/Facebook, ni réactiver la confirmation d'e-mail, sans demande explicite.
+- Ne pas ajouter `COURS` ni `CONTENU` à la liste préchargée de `sw.js` (`PAGES`).
 - Ne pas ajouter de bibliothèque ni de framework. Le code reste en JavaScript simple (compatible vieux téléphones : pas de syntaxe très récente).
 - Ne pas modifier le comportement du bouton Retour (`course.js`) ni la mise à jour (`parametres.html`, `sw.js`) sauf demande explicite.
 - Ne pas mettre de vrais contenus payants si l'on n'a pas de serveur : `contenu/*.json` est public (site statique sur GitHub Pages). Cette règle sera à revoir le jour où les paiements et un serveur seront en place : ne pas la contourner avant.
