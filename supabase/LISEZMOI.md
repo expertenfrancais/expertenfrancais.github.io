@@ -29,3 +29,14 @@ Vérification côté Supabase : « Authentication -> Users » et « Table Editor
 - Le rôle (enseignant / élève / particulier) est choisi à l'inscription : il n'est pas vérifié. Tant que les fiches et évaluations sont des fichiers publics, cela ne protège rien ; la vraie protection viendra avec le contenu payant stocké dans Supabase.
 - La déconnexion efface la session sur l'appareil ; la protection du contenu payant (achat, abonnement) reste à faire côté serveur.
 - Sans clés dans `login-app.html`, l'application reste en mode démonstration (connexion simulée).
+
+
+## 8. Abonnements par codes d'activation
+1. Supabase -> SQL Editor -> New query : collez `supabase/03-abonnement-codes.sql`, puis Run (« Success »).
+2. Créez votre compte dans l'application, puis dans le SQL Editor exécutez (avec votre adresse) :
+   `insert into public.admins(user_id) select id from auth.users where email = 'votre@adresse.com' on conflict do nothing;`
+3. Ouvrez `admin.html` connecté avec ce compte : choisissez le profil (enseignant ou élève), la formule, un nombre, « Générer », puis copiez les codes. Donnez un code libre au client après son paiement ; notez son nom dans le champ « Note ».
+4. Test : générez 1 code, activez-le depuis un autre compte dans la page Abonnement, vérifiez « Abonnement actif ». Réessayez le même code : « Code invalide ou déjà utilisé ».
+
+## 7. Sauvegarde des favoris, du panier et de la progression
+Supabase -> SQL Editor -> New query : collez `supabase/02-user-data.sql`, puis Run (« Success »). Les données de chaque compte sont alors retrouvées sur n'importe quel appareil.
