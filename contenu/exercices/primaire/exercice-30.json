@@ -1,0 +1,227 @@
+{
+ "id": 30030,
+ "meta": {
+  "t": "Les types de phrases : exercices",
+  "k": "Exercices",
+  "n": "CM2",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ex": 30
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Les types de phrases",
+     "text": "Le **type** d’une phrase dépend de l’intention de celui qui parle ou qui écrit. Il y a quatre types : la phrase **déclarative**, **interrogative**, **impérative** et **exclamative**."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre types",
+     "head": [
+      "Type",
+      "Pour…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Déclarative",
+       "informer, raconter",
+       "Le marché ouvre à six heures."
+      ],
+      [
+       "Interrogative",
+       "poser une question",
+       "Où vas-tu ?"
+      ],
+      [
+       "Impérative",
+       "ordonner, conseiller",
+       "Range ta chambre."
+      ],
+      [
+       "Exclamative",
+       "exprimer un sentiment",
+       "Quel beau cadeau !"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Ne regarde pas seulement la ponctuation : « Viens ici ! » est impérative, et « Quelle chaleur ! » est exclamative."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le type de chaque phrase.",
+     "items": [
+      "Mon frère lit un livre.",
+      "Quelle heure est-il ?",
+      "Range ta chambre.",
+      "Quel beau cadeau !"
+     ],
+     "corrige": [
+      "Mon frère lit un livre. : phrase **déclarative**.",
+      "Quelle heure est-il ? : phrase **interrogative**.",
+      "Range ta chambre. : phrase **impérative**.",
+      "Quel beau cadeau ! : phrase **exclamative**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le type de la phrase « Sors de la classe ! » ?",
+     "options": [
+      "Déclarative",
+      "Impérative",
+      "Exclamative"
+     ],
+     "answer": 1,
+     "explain": "La phrase donne un ordre : c’est une phrase impérative, même si elle se termine par un point d’exclamation."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie chaque phrase avec le bon signe de ponctuation final (. ? !).",
+     "items": [
+      "Où vas-tu",
+      "Il fait beau aujourd’hui",
+      "Comme ce paysage est magnifique"
+     ],
+     "corrige": [
+      "Où vas-tu **?**",
+      "Il fait beau aujourd’hui**.**",
+      "Comme ce paysage est magnifique**!**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase déclarative en phrase interrogative.",
+     "items": [
+      "Tu aimes les mangues.",
+      "Ils partent demain.",
+      "Awa chante bien."
+     ],
+     "corrige": [
+      "Réponses possibles : **Est-ce que** tu aimes les mangues ? / Aimes-tu les mangues ?",
+      "Réponses possibles : **Est-ce qu’**ils partent demain ? / Partent-ils demain ?",
+      "Réponses possibles : **Est-ce qu’**Awa chante bien ? / Awa chante-t-elle bien ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque phrase à l’impératif.",
+     "items": [
+      "Tu fermes la porte.",
+      "Tu manges ta soupe.",
+      "Vous écoutez le maître.",
+      "Nous partons maintenant."
+     ],
+     "corrige": [
+      "**Ferme** la porte. (pas de -s au singulier pour les verbes en -er)",
+      "**Mange** ta soupe.",
+      "**Écoutez** le maître.",
+      "**Partons** maintenant."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces phrases est exclamative ?",
+     "options": [
+      "Viens vite !",
+      "Comme tu as grandi !",
+      "Viens-tu ?"
+     ],
+     "answer": 1,
+     "explain": "« Comme tu as grandi ! » exprime un sentiment (la surprise) : c’est une phrase exclamative. « Viens vite ! » est un ordre, « Viens-tu ? » est une question."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève dans ce texte une phrase de chaque type : « Ce matin, Awa se réveille tôt. Quel beau temps ! Elle appelle sa sœur. « Viens vite ! Veux-tu jouer avec moi ? » Les deux fillettes courent dans la cour. »",
+     "corrige": [
+      "Phrase déclarative : **Ce matin, Awa se réveille tôt.** (ou : Elle appelle sa sœur. / Les deux fillettes courent dans la cour.)",
+      "Phrase exclamative : **Quel beau temps !**",
+      "Phrase impérative : **Viens vite !**",
+      "Phrase interrogative : **Veux-tu jouer avec moi ?**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "À partir de la phrase « Marie range sa chambre. », écris une phrase interrogative, une phrase impérative et une phrase exclamative.",
+     "corrige": [
+      "Réponses possibles :",
+      "Interrogative : **Marie range-t-elle sa chambre ?**",
+      "Impérative : **Marie, range ta chambre.**",
+      "Exclamative : **Comme Marie range bien sa chambre !**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige quatre phrases sur ton quartier : une de chaque type (déclarative, interrogative, impérative, exclamative).",
+     "corrige": "Exemple : « Mon quartier est près du fleuve. Connais-tu mon quartier ? Viens le visiter. Comme il est animé le samedi ! » Vérifiez la majuscule et la ponctuation de chaque phrase, et que chaque type est bien représenté."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Il y a quatre types de phrases : déclarative, interrogative, impérative et exclamative.",
+      "Le type dépend de l’intention : informer, questionner, ordonner ou exprimer un sentiment.",
+      "Il ne faut pas se fier seulement à la ponctuation pour trouver le type."
+     ]
+    }
+   ]
+  }
+ ]
+}
