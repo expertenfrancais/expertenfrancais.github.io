@@ -1,0 +1,435 @@
+{
+ "id": 64,
+ "meta": {
+  "t": "Les champs sémantiques",
+  "k": "Cours",
+  "n": "4e",
+  "m": "Vocabulaire",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un champ sémantique ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mot **feuille** n’a pas toujours le même sens : *une feuille d’arbre*, *une feuille de papier*, *une feuille de métal*. Tous ces sens forment le **champ sémantique** du mot *feuille*."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir le champ sémantique",
+      "Distinguer polysémie et homonymie",
+      "Trouver le sens d’un mot dans son contexte",
+      "Distinguer champ sémantique et champ lexical"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Champ sémantique",
+     "text": "Le **champ sémantique** d’un mot est l’ensemble des **sens** que ce mot peut avoir. Un mot qui a plusieurs sens est dit **polysémique**."
+    },
+    {
+     "type": "table",
+     "title": "Le champ sémantique du mot *feuille*",
+     "head": [
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "partie d’un arbre",
+       "Une feuille tombe de l’arbre."
+      ],
+      [
+       "morceau de papier",
+       "Écris sur une feuille."
+      ],
+      [
+       "mince plaque de métal",
+       "Une feuille d’aluminium."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Un mot qui prête à confusion",
+     "text": "Certains manuels emploient *champ sémantique* au sens de *champ lexical* (les mots d’un même thème). Dans ce cours, le **champ sémantique** est l’ensemble des **sens d’un seul mot**. Le **champ lexical** est l’ensemble des **mots d’un même thème**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot a plusieurs sens ?",
+     "options": [
+      "hippopotame",
+      "table",
+      "manguier"
+     ],
+     "answer": 1,
+     "explain": "*Table* a plusieurs sens : table à manger, table de multiplication, table des matières. *Hippopotame* et *manguier* n’ont qu’un seul sens."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne au moins deux sens de chaque mot.",
+     "items": [
+      "pièce",
+      "carte",
+      "tête",
+      "pied"
+     ],
+     "corrige": [
+      "Réponses possibles : **pièce** de monnaie, **pièce** d’une maison, **pièce** de théâtre.",
+      "Réponses possibles : **carte** à jouer, **carte** géographique, **carte** postale.",
+      "Réponses possibles : **tête** (partie du corps), **tête** d’une liste (la première place), **tête** de l’équipe (le chef).",
+      "Réponses possibles : **pied** (partie du corps), **pied** de table (support), **pied** d’une montagne (le bas)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Polysémie et homonymie",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Deux mots peuvent s’écrire de la même façon sans avoir le même statut. Il faut distinguer la **polysémie** et l’**homonymie**."
+    },
+    {
+     "type": "table",
+     "title": "Polysémie et homonymie",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Polysémie",
+       "un seul mot, plusieurs sens liés entre eux",
+       "*feuille* (arbre, papier)"
+      ],
+      [
+       "Homonymie",
+       "deux mots différents, qui s’écrivent pareil, sans lien de sens",
+       "*avocat* (fruit) et *avocat* (juriste)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**pièce** : monnaie, chambre, théâtre → un seul mot (**polysémie**).\n**livre** (objet à lire) et **livre** (unité de poids) → **homonymes** : deux mots différents.\n**avocat** (fruit) et **avocat** (qui plaide) → **homonymes**."
+    },
+    {
+     "type": "tip",
+     "label": "Un test",
+     "text": "Dans un dictionnaire, un mot polysémique a **une seule entrée** avec plusieurs sens numérotés. Des homonymes ont **plusieurs entrées** séparées."
+    },
+    {
+     "type": "quiz",
+     "question": "*Avocat* (le fruit) et *avocat* (le juriste) sont :",
+     "options": [
+      "un mot polysémique",
+      "deux homonymes",
+      "des synonymes"
+     ],
+     "answer": 1,
+     "explain": "Ce sont deux mots différents, sans lien de sens, qui s’écrivent de la même façon : des homonymes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque cas est un mot polysémique ou des homonymes.",
+     "items": [
+      "pièce : pièce de monnaie, pièce de la maison",
+      "livre (à lire) et livre (de poids)",
+      "feuille d’arbre, feuille de papier",
+      "avocat (fruit) et avocat (juriste)"
+     ],
+     "corrige": [
+      "**mot polysémique** (un seul mot, plusieurs sens liés).",
+      "**homonymes** (deux mots différents).",
+      "**mot polysémique**.",
+      "**homonymes**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sens dans le contexte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour savoir **quel sens** un mot polysémique a dans une phrase, on regarde le **contexte** : les mots qui l’entourent."
+    },
+    {
+     "type": "table",
+     "title": "Un mot, plusieurs sens selon le contexte",
+     "head": [
+      "Mot",
+      "Sens",
+      "Phrase"
+     ],
+     "rows": [
+      [
+       "voler",
+       "se déplacer dans l’air",
+       "L’oiseau **vole** dans le ciel."
+      ],
+      [
+       "voler",
+       "prendre ce qui n’est pas à soi",
+       "Le voleur a **volé** un sac."
+      ],
+      [
+       "voler",
+       "passer très vite (sens figuré)",
+       "Le temps **vole**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Chercher le contexte",
+     "text": "Pose-toi la question : **de quoi parle-t-on ?** Les mots autour du mot étudié (le sujet, le complément) indiquent son sens."
+    },
+    {
+     "type": "ex",
+     "label": "Dans un dictionnaire",
+     "text": "**pièce** (n. f.) : 1. Morceau, élément. 2. Chambre d’une maison. 3. Petit disque de métal servant de monnaie. 4. Œuvre de théâtre.\nChaque numéro est un **sens** du mot : l’ensemble forme son **champ sémantique**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il met une pièce dans sa tirelire », *pièce* signifie :",
+     "options": [
+      "une chambre",
+      "une pièce de monnaie",
+      "une œuvre de théâtre"
+     ],
+     "answer": 1,
+     "explain": "Le contexte (« tirelire ») montre qu’il s’agit d’une pièce de monnaie."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le sens du mot *pièce* dans chaque phrase.",
+     "items": [
+      "Nous avons une maison de cinq pièces.",
+      "Il met une pièce dans sa tirelire.",
+      "Ce théâtre joue une pièce.",
+      "Elle recoud une pièce sur son pantalon."
+     ],
+     "corrige": [
+      "**pièce** = chambre, salle de la maison.",
+      "**pièce** = pièce de monnaie.",
+      "**pièce** = œuvre de théâtre.",
+      "**pièce** = morceau de tissu."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Champ sémantique et champ lexical",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il ne faut pas confondre le **champ sémantique** et le **champ lexical**. Ils parlent tous les deux de sens, mais ce ne sont pas les mêmes ensembles."
+    },
+    {
+     "type": "table",
+     "title": "Deux notions à distinguer",
+     "head": [
+      "Critère",
+      "Champ sémantique",
+      "Champ lexical"
+     ],
+     "rows": [
+      [
+       "Ce que c’est",
+       "les sens d’un seul mot",
+       "les mots d’un même thème"
+      ],
+      [
+       "Exemple",
+       "*feuille* : arbre, papier, métal",
+       "*école* : élève, maître, classe, cahier"
+      ],
+      [
+       "Question",
+       "Que peut signifier ce mot ?",
+       "Quels mots parlent de ce thème ?"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un test rapide",
+     "text": "Si on étudie **un seul mot** et ses différents sens, c’est le **champ sémantique**. Si on étudie **plusieurs mots** autour d’un thème, c’est le **champ lexical**."
+    },
+    {
+     "type": "quiz",
+     "question": "« feuille : arbre, papier, métal » est :",
+     "options": [
+      "un champ sémantique",
+      "un champ lexical",
+      "une famille de mots"
+     ],
+     "answer": 0,
+     "explain": "Il s’agit des différents sens d’un seul mot : c’est un champ sémantique."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque série est un champ lexical ou un champ sémantique.",
+     "items": [
+      "classe, élève, maître, cahier",
+      "classe : salle de cours / groupe d’élèves / catégorie",
+      "mer, vague, plage, voilier",
+      "marché : lieu de vente / accord conclu"
+     ],
+     "corrige": [
+      "**champ lexical** (thème : l’école).",
+      "**champ sémantique** (sens d’un seul mot, *classe*).",
+      "**champ lexical** (thème : la mer).",
+      "**champ sémantique** (sens du mot *marché*)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **analyse**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève dans chaque série le mot qui a plusieurs sens.",
+     "items": [
+      "arbre, feuille, baobab",
+      "manguier, table, hippopotame",
+      "pied, genou, coude"
+     ],
+     "corrige": [
+      "Le mot polysémique est **feuille**.",
+      "Le mot polysémique est **table**.",
+      "Le mot polysémique est **pied**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase emploie *voler* au sens de « se déplacer dans les airs » ?",
+     "options": [
+      "Il a volé un téléphone.",
+      "L’avion vole au-dessus de la ville.",
+      "Le temps vole."
+     ],
+     "answer": 1,
+     "explain": "Dans « L’avion vole au-dessus de la ville », *voler* signifie se déplacer dans les airs."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le sens du mot en gras dans chaque phrase.",
+     "items": [
+      "Il lit une **carte** de géographie.",
+      "Elle tire une **carte** du jeu.",
+      "Il est en **tête** de la course.",
+      "Il a mal à la **tête**."
+     ],
+     "corrige": [
+      "**carte** = carte géographique.",
+      "**carte** = carte à jouer.",
+      "**tête** = première place.",
+      "**tête** = partie du corps."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque série est un champ lexical ou le champ sémantique d’un mot.",
+     "items": [
+      "pied : partie du corps / bas d’une montagne / support",
+      "docteur, malade, médicament, soigner",
+      "carte : à jouer / géographique / postale"
+     ],
+     "corrige": [
+      "**champ sémantique** du mot *pied*.",
+      "**champ lexical** (thème : la santé).",
+      "**champ sémantique** du mot *carte*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases où le mot *feuille* a deux sens différents.",
+     "corrige": "Réponses possibles : « Une **feuille** tombe de l’arbre. » ; « J’écris ma rédaction sur une **feuille** blanche. » Vérifiez que le contexte permet de comprendre chaque sens."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le champ sémantique d’un mot est l’ensemble des sens qu’il peut avoir.",
+      "Un mot qui a plusieurs sens liés entre eux est polysémique ; deux mots différents qui s’écrivent pareil sont des homonymes.",
+      "Le contexte permet de trouver le bon sens d’un mot dans une phrase.",
+      "Il ne faut pas confondre champ sémantique (les sens d’un mot) et champ lexical (les mots d’un thème)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "À savoir",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Champ sémantique",
+       "les sens d’un seul mot",
+       "feuille : arbre, papier, métal"
+      ],
+      [
+       "Polysémie",
+       "un mot, plusieurs sens liés",
+       "pièce"
+      ],
+      [
+       "Homonymie",
+       "deux mots différents, même forme",
+       "avocat (fruit / juriste)"
+      ],
+      [
+       "Champ lexical",
+       "les mots d’un même thème",
+       "école, élève, maître, cahier"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que forme l’ensemble des sens du mot *pièce* ?",
+     "options": [
+      "Une famille de mots",
+      "Un champ sémantique",
+      "Un champ lexical"
+     ],
+     "answer": 1,
+     "explain": "L’ensemble des sens d’un seul mot forme son champ sémantique."
+    }
+   ]
+  }
+ ]
+}

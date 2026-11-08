@@ -1,0 +1,631 @@
+{
+ "id": 65,
+ "meta": {
+  "t": "Les champs lexicaux",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un champ lexical ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis ces mots : **mer, vague, plage, sable, nager, bateau, marin, salé**. Ils ne se ressemblent pas, mais ils parlent tous du **même sujet** : la mer. On dit qu’ils forment un **champ lexical**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre ce qu’est un champ lexical",
+      "Trouver le thème qui réunit plusieurs mots",
+      "Reconnaître l’intrus dans une liste de mots"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Champ lexical",
+     "text": "Un **champ lexical** est l’ensemble des mots qui se rapportent à **un même thème**, à une même idée ou à un même sujet. Le mot *lexical* vient de *lexique*, qui veut dire « les mots »."
+    },
+    {
+     "type": "test",
+     "title": "Trouver le thème commun",
+     "lines": [
+      "cahier, stylo, maître, classe, élève → le thème est **l’école**.",
+      "pluie, orage, nuage, tonnerre, éclair → le thème est **le mauvais temps**.",
+      "ballon, joueur, but, arbitre, marquer → le thème est **le football**."
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Champ lexical de la mer : *mer, vague, plage, sable, nager, bateau, marin, salé, naviguer, océan.*",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Un thème, pas un mot",
+     "text": "Pour trouver un champ lexical, ne cherche pas des mots qui se ressemblent. Cherche des mots qui **parlent de la même chose**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot n’appartient pas au champ lexical de l’école ?",
+     "options": [
+      "cahier",
+      "tableau",
+      "volcan",
+      "élève"
+     ],
+     "answer": 2,
+     "explain": "*Volcan* parle de la nature, pas de l’école. C’est l’intrus."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve le thème commun à chaque liste de mots.",
+     "items": [
+      "médecin, malade, soigner, hôpital, médicament",
+      "tente, feu de camp, sac de couchage, randonnée",
+      "chaud, soleil, canicule, transpirer, étouffant",
+      "pain, boulanger, four, croissant, farine"
+     ],
+     "corrige": [
+      "1. la santé (ou la médecine)",
+      "2. le camping",
+      "3. la chaleur",
+      "4. la boulangerie"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Des mots de natures différentes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un champ lexical, on ne trouve pas seulement des **noms**. On peut aussi y mettre des **verbes**, des **adjectifs** et même des **adverbes**. Plus on cherche des natures différentes, plus le champ lexical est riche."
+    },
+    {
+     "type": "table",
+     "title": "Le champ lexical de la cuisine",
+     "head": [
+      "Nature",
+      "Mots du champ lexical"
+     ],
+     "rows": [
+      [
+       "noms",
+       "*casserole, recette, four, assiette, cuisinier*"
+      ],
+      [
+       "verbes",
+       "*cuire, mélanger, éplucher, goûter, griller*"
+      ],
+      [
+       "adjectifs",
+       "*salé, épicé, délicieux, croustillant, brûlant*"
+      ],
+      [
+       "adverbes",
+       "*doucement, longuement, rapidement* (dans une recette)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le cuisinier **épluche** les légumes, **mélange** la farine et laisse la soupe **mijoter** dans la **casserole**. Tous les mots en gras appartiennent au champ lexical de la cuisine.",
+     "label": "Exemple dans une phrase"
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas oublier les verbes et les adjectifs",
+     "text": "Beaucoup d’élèves ne pensent qu’aux noms. Pense aussi à ce que l’on **fait** (les verbes) et à comment sont les choses (les adjectifs)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans le champ lexical de la pluie, quel mot est un verbe ?",
+     "options": [
+      "averse",
+      "tomber",
+      "mouillé",
+      "nuage"
+     ],
+     "answer": 1,
+     "explain": "*Tomber* (la pluie tombe) est un verbe. *Averse* et *nuage* sont des noms, *mouillé* est un adjectif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe ces mots du champ lexical du froid dans le tableau : *neige, trembler, glacé, gelée, grelotter, frisquet, hiver, geler*.",
+     "items": [
+      "noms",
+      "verbes",
+      "adjectifs"
+     ],
+     "corrige": [
+      "noms : *neige, gelée, hiver*",
+      "verbes : *trembler, grelotter, geler*",
+      "adjectifs : *glacé, frisquet*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Champ lexical et famille de mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il ne faut pas confondre un **champ lexical** avec une **famille de mots**. Ce sont deux manières différentes de regrouper des mots."
+    },
+    {
+     "type": "def",
+     "label": "Famille de mots",
+     "text": "Une **famille de mots** regroupe des mots formés à partir du **même radical** (la même racine). Exemple : *dent, dentiste, dentier, denture, édenté*. Ils se ressemblent par leur forme."
+    },
+    {
+     "type": "table",
+     "title": "Deux façons de regrouper les mots",
+     "head": [
+      "Critère",
+      "Famille de mots",
+      "Champ lexical"
+     ],
+     "rows": [
+      [
+       "On regroupe…",
+       "des mots qui ont le **même radical**",
+       "des mots qui ont le **même thème**"
+      ],
+      [
+       "Ils se ressemblent ?",
+       "oui, à l’écrit",
+       "pas forcément"
+      ],
+      [
+       "Exemple",
+       "*mer, marin, maritime, marée*",
+       "*mer, plage, bateau, vague, sable*"
+      ],
+      [
+       "Natures",
+       "variées, mais même racine",
+       "variées, racines différentes"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*Plage* et *sable* n’ont aucun radical commun, mais ils sont dans le même champ lexical : celui du bord de mer.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Dans une famille de mots, on **voit** la ressemblance. Dans un champ lexical, on **comprend** le lien grâce au sens."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle liste est une famille de mots ?",
+     "options": [
+      "lait, laitier, laiterie, allaiter",
+      "lait, vache, ferme, fromage",
+      "lait, café, sucre, tasse",
+      "lait, blanc, froid, bol"
+     ],
+     "answer": 0,
+     "explain": "Les mots de la première liste ont tous le radical *lait*. Les autres listes réunissent des mots du même thème."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque liste, écris « famille de mots » ou « champ lexical ».",
+     "items": [
+      "jardin, jardinier, jardiner, jardinage",
+      "jardin, fleur, arrosoir, bêche, semer",
+      "chant, chanter, chanteur, chansonnette",
+      "musique, note, instrument, orchestre, chanson"
+     ],
+     "corrige": [
+      "1. famille de mots (radical *jardin*)",
+      "2. champ lexical (le jardinage)",
+      "3. famille de mots (radical *chant*)",
+      "4. champ lexical (la musique)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les champs lexicaux courants",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains thèmes reviennent très souvent en classe, dans les textes et dans les rédactions. Les connaître t’aide à **trouver des mots** rapidement."
+    },
+    {
+     "type": "table",
+     "title": "Quelques champs lexicaux à connaître",
+     "head": [
+      "Thème",
+      "Noms",
+      "Verbes",
+      "Adjectifs"
+     ],
+     "rows": [
+      [
+       "la peur",
+       "*frayeur, cri, ombre, cauchemar*",
+       "*trembler, frissonner, fuir*",
+       "*terrifié, pâle, effrayant*"
+      ],
+      [
+       "la joie",
+       "*rire, sourire, fête, bonheur*",
+       "*rire, danser, se réjouir*",
+       "*heureux, content, ravi*"
+      ],
+      [
+       "la mer",
+       "*vague, plage, marin, bateau*",
+       "*nager, naviguer, plonger*",
+       "*salé, profond, agité*"
+      ],
+      [
+       "l’école",
+       "*cahier, classe, maître, leçon*",
+       "*apprendre, écrire, lire*",
+       "*attentif, studieux*"
+      ],
+      [
+       "le marché",
+       "*étal, vendeur, prix, fruits*",
+       "*acheter, vendre, marchander*",
+       "*frais, mûr, bon marché*"
+      ],
+      [
+       "la forêt",
+       "*arbre, feuille, branche, sentier*",
+       "*se promener, ramasser*",
+       "*touffu, sombre, silencieux*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les sentiments aussi",
+     "text": "La **peur**, la **joie**, la **tristesse** et la **colère** ont chacune leur champ lexical. Ils servent beaucoup pour décrire ce que ressent un personnage."
+    },
+    {
+     "type": "ex",
+     "text": "Champ lexical de la tristesse : *larmes, pleurer, chagrin, malheureux, sombre, soupir, gorge nouée.*",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot appartient au champ lexical du marché ?",
+     "options": [
+      "étal",
+      "tableau",
+      "voile",
+      "ballon"
+     ],
+     "answer": 0,
+     "explain": "Un *étal* est la table où le vendeur présente ses produits au marché."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque liste avec deux mots du même champ lexical.",
+     "items": [
+      "la peur : trembler, cri, ___, ___",
+      "la joie : rire, fête, ___, ___",
+      "la forêt : arbre, feuille, ___, ___",
+      "l’école : cahier, maître, ___, ___"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. frissonner, ombre",
+      "2. sourire, heureux",
+      "3. branche, sentier",
+      "4. leçon, classe"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Repérer un champ lexical dans un texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un texte, les mots d’un même thème sont souvent **répétés ou rappelés** plusieurs fois. L’auteur les choisit pour faire sentir une **ambiance** : la peur, la joie, la chaleur… Repérer le champ lexical, c’est comprendre ce que l’auteur veut montrer."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Lis le texte en entier une première fois.",
+      "Repère les mots qui parlent de la même chose et souligne-les.",
+      "Regroupe-les par nature (noms, verbes, adjectifs).",
+      "Donne un nom au thème : « le champ lexical de… »."
+     ],
+     "label": "Méthode en 4 étapes",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "*La nuit tombait. Un vent glacé hurlait dans la forêt. Moussa **tremblait**, serrait sa lampe et **n’osait plus bouger**. Une **ombre** passa derrière un arbre. Son **cœur battait** à tout rompre.*\nLes mots en gras forment le champ lexical de **la peur**.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Ne relève pas tous les mots",
+     "text": "On ne relève que les mots qui appartiennent au **thème demandé**. *Forêt*, *arbre* et *lampe* ne parlent pas de la peur : on les laisse de côté."
+    },
+    {
+     "type": "tip",
+     "label": "Pourquoi l’auteur fait-il cela ?",
+     "text": "Quand les mots d’un même champ lexical s’accumulent, le lecteur **ressent** l’impression voulue. Ici, on sent que Moussa a très peur."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans la phrase « Le soleil brûlait, la terre était sèche, Awa avait très soif », quel est le champ lexical ?",
+     "options": [
+      "la peur",
+      "la chaleur",
+      "la mer",
+      "l’école"
+     ],
+     "answer": 1,
+     "explain": "*Brûlait*, *sèche* et *soif* évoquent la chaleur."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis le texte puis relève le champ lexical de la joie : *« Le jour de la fête, Awa riait aux éclats. Tout le monde dansait dans la cour, les enfants chantaient et les tambours résonnaient. Elle était si heureuse qu’elle ne voulait pas rentrer. »*",
+     "items": [
+      "Relève au moins cinq mots ou expressions.",
+      "Donne leur nature."
+     ],
+     "corrige": [
+      "1. *riait aux éclats, dansait, chantaient, heureuse, la fête* (réponses possibles aussi : *les tambours*)",
+      "2. *fête* (nom), *riait* (verbe), *dansait* (verbe), *chantaient* (verbe), *heureuse* (adjectif)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Utiliser les champs lexicaux pour mieux écrire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Connaître les champs lexicaux sert aussi à **écrire de beaux textes**. Au lieu de répéter toujours le même mot, on pioche dans le champ lexical du thème."
+    },
+    {
+     "type": "h",
+     "text": "Éviter les répétitions"
+    },
+    {
+     "type": "table",
+     "title": "Enrichir une phrase avec le champ lexical",
+     "head": [
+      "Phrase pauvre",
+      "Phrase enrichie"
+     ],
+     "rows": [
+      [
+       "Il y a du vent. Il y a de la pluie.",
+       "Le **vent souffle** fort et la **pluie tombe** à grosses gouttes."
+      ],
+      [
+       "Le chat a peur.",
+       "Le chat **tremble**, **se cache** sous le lit et **n’ose plus bouger**."
+      ],
+      [
+       "On mange au marché.",
+       "On **achète** des **fruits mûrs**, on **goûte** et on **marchande** devant les **étals**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Préparer une rédaction"
+    },
+    {
+     "type": "p",
+     "text": "Avant d’écrire, fais une **banque de mots** : note sur ton brouillon dix mots du thème (noms, verbes, adjectifs). Ensuite, utilise-les dans ton texte."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce de rédaction",
+     "text": "Si le sujet est « Une tempête en mer », ta banque de mots peut contenir : *vague, vent, mât, tanguer, rugir, trempé, effrayant, naviguer, déchaîné, marin.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi utiliser un champ lexical dans une rédaction ?",
+     "options": [
+      "Pour écrire plus long",
+      "Pour éviter les répétitions et créer une ambiance",
+      "Pour faire moins de fautes",
+      "Pour écrire des phrases courtes"
+     ],
+     "answer": 1,
+     "explain": "Un champ lexical donne des mots précis et variés, qui créent l’ambiance voulue."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque phrase en utilisant des mots du champ lexical indiqué.",
+     "items": [
+      "Il fait chaud. (la chaleur)",
+      "Les enfants sont contents. (la joie)",
+      "Il y a du bruit en ville. (la ville)"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *Le soleil brûle, la chaleur est étouffante et je transpire.*",
+      "2. *Les enfants rient, dansent et sautent de joie.*",
+      "3. *Les klaxons retentissent, les voitures roulent vite et la foule se presse sur le trottoir.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **classer et compléter**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le thème de chaque liste de mots.",
+     "items": [
+      "feuille, branche, tronc, racine, forêt",
+      "balle, filet, joueur, arbitre, terrain",
+      "tonnerre, éclair, orage, averse, nuage",
+      "médicament, infirmier, hôpital, malade"
+     ],
+     "corrige": [
+      "1. l’arbre (ou la forêt)",
+      "2. le sport (ou le football)",
+      "3. l’orage (ou le mauvais temps)",
+      "4. la santé"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’intrus dans le champ lexical de la musique ?",
+     "options": [
+      "chanson",
+      "orchestre",
+      "tambour",
+      "ballon"
+     ],
+     "answer": 3,
+     "explain": "*Ballon* appartient au champ lexical du sport."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer et compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque liste, trouve l’intrus et barre-le.",
+     "items": [
+      "ferme : vache, champ, poule, avion, tracteur",
+      "voyage : valise, billet, gare, cahier, départ",
+      "cuisine : poêle, éplucher, tableau, sel"
+     ],
+     "corrige": [
+      "1. *avion*",
+      "2. *cahier*",
+      "3. *tableau*"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « famille de mots » ou « champ lexical » pour chaque liste.",
+     "items": [
+      "fleur, fleurir, fleuriste, floraison",
+      "fleur, jardin, parfum, bouquet, pétale",
+      "forêt, forestier, déforestation",
+      "forêt, sentier, branche, mousse, sombre"
+     ],
+     "corrige": [
+      "1. famille de mots",
+      "2. champ lexical",
+      "3. famille de mots",
+      "4. champ lexical"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans le texte, relève le champ lexical de la mer : *« Le bateau tanguait sur les vagues. Le marin tenait la barre, les voiles claquaient et l’eau salée giclait sur le pont. »*",
+     "items": [
+      "Relève les mots du champ lexical.",
+      "Donne la nature de chacun."
+     ],
+     "corrige": [
+      "1. *bateau, vagues, marin, barre, voiles, eau salée, pont, tanguait*",
+      "2. *bateau, vagues, marin, barre, voiles, pont* (noms) ; *tanguait* (verbe) ; *salée* (adjectif)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque champ lexical demandé.",
+     "items": [
+      "cinq mots du champ lexical de l’école",
+      "cinq mots du champ lexical de la peur",
+      "cinq mots du champ lexical du marché"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *cahier, leçon, maître, cartable, récréation*",
+      "2. *trembler, cri, ombre, frisson, effrayé*",
+      "3. *étal, vendeur, acheter, fruits, marchander*"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases sur le thème « La fête au village » en utilisant au moins quatre mots du champ lexical de la joie.",
+     "items": [
+      "Souligne les mots du champ lexical dans tes phrases."
+     ],
+     "corrige": "Réponse possible : *Le jour de la fête, tout le village **chante** et **danse**. Les enfants **rient aux éclats**, les musiciens jouent et tout le monde est **heureux**.*"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **champ lexical** est l’ensemble des mots qui se rapportent à **un même thème**.",
+      "On y trouve des mots de **natures différentes** : noms, verbes, adjectifs, adverbes.",
+      "Une **famille de mots** réunit des mots de **même radical** ; un champ lexical réunit des mots de **même thème**.",
+      "Les mots d’un champ lexical ne se **ressemblent pas** forcément.",
+      "Pour trouver le champ lexical d’un texte : **lire**, **souligner** les mots du thème, **regrouper**, puis **nommer** le thème.",
+      "Les champs lexicaux servent à **éviter les répétitions** et à **créer une ambiance** quand on écrit."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "champ lexical",
+       "mots du même **thème**",
+       "*mer, plage, vague, bateau*"
+      ],
+      [
+       "famille de mots",
+       "mots du même **radical**",
+       "*mer, marin, maritime*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est vraie ?",
+     "options": [
+      "Un champ lexical ne contient que des noms.",
+      "Les mots d’un champ lexical ont tous le même radical.",
+      "Un champ lexical regroupe des mots qui parlent du même thème.",
+      "Un champ lexical ne sert que dans les poèmes."
+     ],
+     "answer": 2,
+     "explain": "Un champ lexical réunit des mots du même thème, de natures variées."
+    }
+   ]
+  }
+ ]
+}

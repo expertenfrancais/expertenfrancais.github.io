@@ -1,0 +1,652 @@
+{
+ "id": 62,
+ "meta": {
+  "t": "La composition",
+  "k": "Cours",
+  "n": "4e",
+  "m": "Vocabulaire",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la composition ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un **porte-monnaie**, un **chou-fleur** ou un **arc-en-ciel** sont des mots formés de plusieurs mots réunis en un seul. On dit qu’ils sont formés par **composition**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir la composition",
+      "Reconnaître les différentes écritures des mots composés",
+      "Analyser la formation d’un mot composé",
+      "Distinguer composition et dérivation"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Composition",
+     "text": "La **composition** est la formation d’un mot nouveau en **réunissant deux mots ou plus** qui existent chacun dans la langue. Le mot obtenu, le **mot composé**, a un **sens unique**."
+    },
+    {
+     "type": "table",
+     "title": "Dérivation et composition",
+     "head": [
+      "Critère",
+      "Dérivation",
+      "Composition"
+     ],
+     "rows": [
+      [
+       "On ajoute…",
+       "un préfixe ou un suffixe",
+       "un autre mot"
+      ],
+      [
+       "Exemple",
+       "**mal**heureux, chant**eur**",
+       "**porte**-**monnaie**, **chou**-**fleur**"
+      ],
+      [
+       "L’élément ajouté",
+       "ne s’emploie pas seul",
+       "s’emploie seul comme mot"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un mot composé décortiqué",
+     "cells": [
+      {
+       "mot": "porte",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "-",
+       "role": "trait d’union"
+      },
+      {
+       "mot": "monnaie",
+       "role": "nom"
+      }
+     ],
+     "note": "*Porte-monnaie* est formé du verbe *porte* et du nom *monnaie*, reliés par un trait d’union. Il désigne un objet précis."
+    },
+    {
+     "type": "test",
+     "title": "Un seul sens",
+     "lines": [
+      "Un chou-fleur n’est ni un chou ni une fleur : c’est un légume.",
+      "Un arc-en-ciel n’est ni un arc ni du ciel : c’est un phénomène lumineux.",
+      "→ le mot composé a un **sens unique**, différent de la somme des mots."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un mot composé ?",
+     "options": [
+      "jardinier",
+      "porte-clés",
+      "malheur"
+     ],
+     "answer": 1,
+     "explain": "*Porte-clés* est formé de *porte* (verbe) et *clés* (nom), deux mots qui existent seuls. *Jardinier* et *malheur* sont des dérivés."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque mot est formé par dérivation ou par composition.",
+     "items": [
+      "chou-fleur",
+      "malheureux",
+      "portemanteau",
+      "lenteur",
+      "arc-en-ciel"
+     ],
+     "corrige": [
+      "chou-fleur : **composition**.",
+      "malheureux : **dérivation** (préfixe mal- et suffixe -eux).",
+      "portemanteau : **composition** (porte + manteau).",
+      "lenteur : **dérivation** (lent + -eur).",
+      "arc-en-ciel : **composition**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’écriture des mots composés",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les mots composés ne s’écrivent pas tous de la même façon. Il faut **apprendre** leur orthographe, en s’aidant du dictionnaire."
+    },
+    {
+     "type": "table",
+     "title": "Les trois façons d’écrire un mot composé",
+     "head": [
+      "Écriture",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "avec un trait d’union",
+       "porte-monnaie, chou-fleur, arc-en-ciel, grand-mère"
+      ],
+      [
+       "en un seul mot (soudure)",
+       "portemanteau, bonhomme, passeport, contremaître"
+      ],
+      [
+       "en plusieurs mots, sans trait d’union",
+       "pomme de terre, chemin de fer, machine à laver"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de règle simple",
+     "text": "Rien ne dit à l’avance comment un mot composé s’écrit : *porte-monnaie* a un trait d’union mais *portemanteau* n’en a pas. En cas de doute, on cherche dans le **dictionnaire**."
+    },
+    {
+     "type": "tip",
+     "label": "Le trait d’union relie",
+     "text": "Le trait d’union montre que les mots forment **un seul mot** : *un chou-fleur* (légume) n’est pas *un chou fleur*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot composé s’écrit en un seul mot ?",
+     "options": [
+      "porte-monnaie",
+      "portemanteau",
+      "pomme de terre"
+     ],
+     "answer": 1,
+     "explain": "*Portemanteau* s’écrit en un seul mot (soudure). *Porte-monnaie* a un trait d’union et *pomme de terre* s’écrit en trois mots."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque mot composé correctement.",
+     "items": [
+      "chou fleur",
+      "grand mère",
+      "arc en ciel",
+      "porte clés"
+     ],
+     "corrige": [
+      "**chou-fleur**",
+      "**grand-mère**",
+      "**arc-en-ciel**",
+      "**porte-clés**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les natures des mots composés",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un mot composé est formé de mots de **natures différentes**. Pour l’analyser, on donne la nature de chacun de ses éléments."
+    },
+    {
+     "type": "table",
+     "title": "Quelques types de mots composés",
+     "head": [
+      "Formation",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "nom + nom",
+       "chou-fleur, timbre-poste"
+      ],
+      [
+       "nom + adjectif",
+       "coffre-fort, rouge-gorge"
+      ],
+      [
+       "adjectif + nom",
+       "grand-mère, beau-père"
+      ],
+      [
+       "verbe + nom",
+       "porte-monnaie, tire-bouchon, gratte-ciel"
+      ],
+      [
+       "préposition + nom",
+       "sous-sol, avant-garde"
+      ],
+      [
+       "adjectif + adjectif",
+       "sourd-muet, aigre-doux"
+      ],
+      [
+       "verbe + verbe",
+       "savoir-faire, laissez-passer"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "La nature du mot composé",
+     "text": "On donne deux informations : la **nature du mot composé** (nom, adjectif…) et la **nature de ses éléments**. *Porte-monnaie* est un **nom** formé d’un **verbe** et d’un **nom**."
+    },
+    {
+     "type": "quiz",
+     "question": "De quels éléments est formé *porte-monnaie* ?",
+     "options": [
+      "Un nom et un adjectif",
+      "Un verbe et un nom",
+      "Deux noms"
+     ],
+     "answer": 1,
+     "explain": "*Porte* est le verbe *porter* et *monnaie* est un nom : verbe + nom."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la formation de chaque mot composé (nature de ses éléments).",
+     "items": [
+      "tire-bouchon",
+      "coffre-fort",
+      "grand-père",
+      "sous-sol",
+      "sourd-muet",
+      "gratte-ciel"
+     ],
+     "corrige": [
+      "tire-bouchon : **verbe + nom**.",
+      "coffre-fort : **nom + adjectif**.",
+      "grand-père : **adjectif + nom**.",
+      "sous-sol : **préposition + nom**.",
+      "sourd-muet : **adjectif + adjectif**.",
+      "gratte-ciel : **verbe + nom**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le pluriel des mots composés",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le pluriel d’un mot composé demande de la **prudence**. On regarde la **nature** des éléments."
+    },
+    {
+     "type": "table",
+     "title": "Les règles de base",
+     "head": [
+      "Formation",
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "nom + nom, nom + adjectif, adjectif + nom",
+       "les deux éléments prennent la marque du pluriel",
+       "des choux-fleurs, des coffres-forts, des grands-pères"
+      ],
+      [
+       "verbe, adverbe, préposition",
+       "ces éléments restent invariables",
+       "des sous-sols (sous : invariable)"
+      ],
+      [
+       "verbe + nom",
+       "le verbe reste invariable ; le nom varie selon le sens",
+       "des tire-bouchons, des gratte-ciel"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Se fier au sens et au dictionnaire",
+     "text": "Dans *verbe + nom*, le nom prend ou non un *s* selon le sens : un **tire-bouchon** sert à tirer *plusieurs* bouchons ; un **gratte-ciel** gratte *le* ciel. En cas de doute, on consulte le **dictionnaire**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de *coffre-fort* ?",
+     "options": [
+      "coffre-forts",
+      "coffres-forts",
+      "coffres-fort"
+     ],
+     "answer": 1,
+     "explain": "*Coffre-fort* est formé d’un nom et d’un adjectif : les deux éléments prennent le pluriel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque mot composé au pluriel.",
+     "items": [
+      "un chou-fleur",
+      "un coffre-fort",
+      "un grand-père",
+      "un tire-bouchon",
+      "un gratte-ciel",
+      "un sous-sol"
+     ],
+     "corrige": [
+      "des **choux-fleurs**",
+      "des **coffres-forts**",
+      "des **grands-pères**",
+      "des **tire-bouchons**",
+      "des **gratte-ciel**",
+      "des **sous-sols**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La composition savante",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains mots sont formés avec des éléments venus du **grec** ou du **latin**. Ces éléments ne s’emploient pas seuls : c’est la **composition savante**."
+    },
+    {
+     "type": "def",
+     "label": "Composition savante",
+     "text": "La **composition savante** forme des mots avec des éléments **grecs ou latins** : *télé-* (loin) + *-phone* (voix) → *téléphone*."
+    },
+    {
+     "type": "table",
+     "title": "Quelques éléments savants",
+     "head": [
+      "Élément",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "télé-",
+       "loin",
+       "télévision, téléphone"
+      ],
+      [
+       "micro-",
+       "petit",
+       "microscope"
+      ],
+      [
+       "bio-",
+       "vie",
+       "biologie"
+      ],
+      [
+       "-logie",
+       "étude, science",
+       "biologie, géologie"
+      ],
+      [
+       "-graphe / -graphie",
+       "écrire, décrire",
+       "photographie, géographie"
+      ],
+      [
+       "auto-",
+       "soi-même",
+       "autobiographie, autobus"
+      ],
+      [
+       "géo-",
+       "terre",
+       "géographie"
+      ],
+      [
+       "-phone",
+       "voix, son",
+       "téléphone, microphone"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Décoder un mot savant",
+     "text": "Pour comprendre un mot savant, **découpe-le** et cherche le sens de chaque élément : *bio / logie* = étude de la vie."
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie l’élément *télé-* dans *télévision* ?",
+     "options": [
+      "loin",
+      "petit",
+      "vie"
+     ],
+     "answer": 0,
+     "explain": "*Télé-* vient du grec et signifie « loin » : la télévision, c’est voir de loin."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Découpe chaque mot et explique son sens.",
+     "items": [
+      "téléphone",
+      "biologie",
+      "photographie",
+      "autobiographie"
+     ],
+     "corrige": [
+      "**télé** (loin) + **phone** (voix) : transmettre la voix de loin.",
+      "**bio** (vie) + **logie** (étude) : étude de la vie.",
+      "**photo** (lumière) + **graphie** (écriture) : écrire (dessiner) avec la lumière.",
+      "**auto** (soi-même) + **bio** (vie) + **graphie** (écriture) : récit de sa propre vie."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Composition ou dérivation ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour savoir si un mot est formé par **composition** ou par **dérivation**, il faut regarder ce que l’on a ajouté au mot."
+    },
+    {
+     "type": "table",
+     "title": "Le test à faire",
+     "head": [
+      "Question",
+      "Si oui",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "L’élément ajouté peut-il s’employer seul comme un mot ?",
+       "composition",
+       "*porte* + *monnaie* → porte-monnaie"
+      ],
+      [
+       "L’élément ajouté est-il un préfixe ou un suffixe (il ne s’emploie pas seul) ?",
+       "dérivation",
+       "*dé-* + *faire* → défaire"
+      ],
+      [
+       "Les éléments sont-ils grecs ou latins ?",
+       "composition savante",
+       "*géo* + *graphie* → géographie"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "*Dé-*, *re-*, *-eur*, *-able* ne s’emploient **jamais seuls** : ce sont des affixes. *Porte*, *monnaie*, *chou*, *fleur* existent seuls : ce sont des mots."
+    },
+    {
+     "type": "quiz",
+     "question": "Le mot *défaire* est formé par :",
+     "options": [
+      "dérivation",
+      "composition",
+      "composition savante"
+     ],
+     "answer": 0,
+     "explain": "*Dé-* est un préfixe : il ne s’emploie pas seul. *Défaire* est donc un dérivé."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque mot est formé par dérivation, par composition ou par composition savante.",
+     "items": [
+      "défaire",
+      "chou-fleur",
+      "lenteur",
+      "tire-bouchon",
+      "géographie"
+     ],
+     "corrige": [
+      "défaire : **dérivation** (préfixe dé-).",
+      "chou-fleur : **composition**.",
+      "lenteur : **dérivation** (suffixe -eur).",
+      "tire-bouchon : **composition**.",
+      "géographie : **composition savante** (géo + graphie)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **analyse** et on **accorde**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les mots composés dans chaque phrase.",
+     "items": [
+      "Mon grand-père range son parapluie dans le portemanteau.",
+      "Le chou-fleur et la pomme de terre cuisent dans la marmite.",
+      "Elle regarde l’arc-en-ciel."
+     ],
+     "corrige": [
+      "Mon **grand-père** range son parapluie dans le **portemanteau**.",
+      "Le **chou-fleur** et la **pomme de terre** cuisent dans la marmite.",
+      "Elle regarde l’**arc-en-ciel**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot n’est pas un mot composé ?",
+     "options": [
+      "grand-mère",
+      "chanteur",
+      "tire-bouchon"
+     ],
+     "answer": 1,
+     "explain": "*Chanteur* est un dérivé (chant + -eur). Les deux autres sont formés de deux mots."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser et accorder"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la formation de chaque mot composé.",
+     "items": [
+      "coffre-fort",
+      "porte-clés",
+      "sourd-muet",
+      "chef-lieu"
+     ],
+     "corrige": [
+      "coffre-fort : **nom + adjectif**.",
+      "porte-clés : **verbe + nom**.",
+      "sourd-muet : **adjectif + adjectif**.",
+      "chef-lieu : **nom + nom**."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris au pluriel : un chou-fleur ; un arc-en-ciel ; un grand-père ; un coffre-fort.",
+     "corrige": [
+      "des **choux-fleurs**",
+      "des **arcs-en-ciel**",
+      "des **grands-pères**",
+      "des **coffres-forts**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "Une phrase avec un mot composé verbe + nom.",
+      "Une phrase avec un mot composé nom + adjectif.",
+      "Une phrase avec un mot formé d’éléments grecs ou latins."
+     ],
+     "corrige": [
+      "Réponses possibles : **Mon père range le tire-bouchon dans le tiroir.**",
+      "Réponses possibles : **Le coffre-fort est dans le bureau.**",
+      "Réponses possibles : **J’étudie la géographie du Congo.**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La composition forme un mot nouveau en réunissant deux mots ou plus qui existent seuls ; le mot composé a un sens unique.",
+      "Un mot composé s’écrit avec un trait d’union, en un seul mot ou en plusieurs mots : il faut vérifier dans le dictionnaire.",
+      "Pour le pluriel, on regarde la nature des éléments : nom, adjectif varient ; verbe, adverbe, préposition restent invariables.",
+      "La composition savante utilise des éléments grecs ou latins (télé-, bio-, -logie, -graphie…)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "À savoir",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Composition",
+       "deux mots réunis, sens unique",
+       "porte-monnaie"
+      ],
+      [
+       "Écriture",
+       "trait d’union, soudure ou plusieurs mots",
+       "chou-fleur, portemanteau, pomme de terre"
+      ],
+      [
+       "Pluriel",
+       "nom et adjectif varient",
+       "des coffres-forts"
+      ],
+      [
+       "Composition savante",
+       "éléments grecs ou latins",
+       "téléphone, biologie"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est formé par composition savante ?",
+     "options": [
+      "chanteur",
+      "géographie",
+      "porte-monnaie"
+     ],
+     "answer": 1,
+     "explain": "*Géographie* est formé des éléments grecs *géo-* (terre) et *-graphie* (description)."
+    }
+   ]
+  }
+ ]
+}

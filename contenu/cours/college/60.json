@@ -1,0 +1,688 @@
+{
+ "id": 60,
+ "meta": {
+  "t": "La conjonction",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une conjonction ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Awa **et** Fatou jouent », « Il pleut **mais** nous sortons » ou « Je reste **parce qu’**il pleut », les mots en gras servent à **relier**. Ce sont des **conjonctions**. Dans ce cours, tu vas apprendre à les définir, à distinguer la **coordination** de la **subordination**, et à bien les employer."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir la conjonction",
+      "Distinguer les conjonctions de coordination et de subordination",
+      "Reconnaître le sens qu’elles expriment",
+      "Employer correctement la conjonction dans la phrase"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Conjonction",
+     "text": "La **conjonction** est un mot **invariable** qui **relie** deux mots, deux groupes de mots ou deux propositions. Il en existe deux sortes : les conjonctions de **coordination** et les conjonctions de **subordination**."
+    },
+    {
+     "type": "table",
+     "title": "Les deux sortes de conjonctions",
+     "head": [
+      "Sorte",
+      "Ce qu’elle fait",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Coordination",
+       "relie des éléments de même nature ou de même fonction",
+       "mais, ou, et, donc, or, ni, car"
+      ],
+      [
+       "Subordination",
+       "rattache une proposition subordonnée à une principale",
+       "que, quand, parce que, pour que, si, bien que"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une conjonction de subordination",
+     "cells": [
+      {
+       "mot": "Je reste",
+       "role": "proposition principale",
+       "noyau": true
+      },
+      {
+       "mot": "parce que",
+       "role": "conjonction de subordination"
+      },
+      {
+       "mot": "il pleut",
+       "role": "proposition subordonnée"
+      }
+     ],
+     "note": "*Parce que* rattache la subordonnée *il pleut* à la principale *Je reste*."
+    },
+    {
+     "type": "test",
+     "title": "Une conjonction ne change jamais",
+     "lines": [
+      "Awa et Fatou chantent.",
+      "Awa et ses amies chantent.",
+      "Nous chantons et nous dansons. → *et* ne prend jamais ni -e, ni -s."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est une conjonction dans « Il travaille mais il est fatigué » ?",
+     "options": [
+      "travaille",
+      "mais",
+      "fatigué"
+     ],
+     "answer": 1,
+     "explain": "« mais » relie deux propositions et ne change jamais de forme : c’est une conjonction de coordination."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la conjonction de chaque phrase.",
+     "items": [
+      "Awa et Fatou jouent.",
+      "Je reste parce qu’il pleut.",
+      "Tu viens ou tu restes ?",
+      "Il sort bien qu’il pleuve."
+     ],
+     "corrige": [
+      "Awa **et** Fatou jouent.",
+      "Je reste **parce qu’**il pleut.",
+      "Tu viens **ou** tu restes ?",
+      "Il sort **bien qu’**il pleuve."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les conjonctions de coordination",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les conjonctions de coordination relient des éléments qui ont **la même nature** ou **la même fonction** : deux noms, deux adjectifs, deux verbes ou deux propositions."
+    },
+    {
+     "type": "def",
+     "label": "Conjonction de coordination",
+     "text": "La **conjonction de coordination** relie deux éléments de même nature ou de même fonction. Il y en a sept : **mais, ou, et, donc, or, ni, car**."
+    },
+    {
+     "type": "tip",
+     "label": "Pour les retenir",
+     "text": "Retiens la phrase : **« Mais où est donc Ornicar ? »** → *mais, ou, et, donc, or, ni, car*."
+    },
+    {
+     "type": "table",
+     "title": "Les sept conjonctions de coordination",
+     "head": [
+      "Conjonction",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "mais",
+       "opposition",
+       "Il pleut **mais** nous sortons."
+      ],
+      [
+       "ou",
+       "choix",
+       "Tu viens **ou** tu restes."
+      ],
+      [
+       "et",
+       "addition",
+       "Awa chante **et** Fatou danse."
+      ],
+      [
+       "donc",
+       "conséquence",
+       "Il pleut, **donc** nous restons."
+      ],
+      [
+       "or",
+       "fait nouveau qui amène une conclusion",
+       "Il devait venir, **or** il est absent."
+      ],
+      [
+       "ni",
+       "négation",
+       "Il ne mange **ni** riz **ni** manioc."
+      ],
+      [
+       "car",
+       "cause, explication",
+       "Nous restons, **car** il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "La virgule",
+     "text": "On place souvent une **virgule** devant *mais*, *donc*, *or* et *car* quand ils relient deux propositions : « Il est tard**,** donc nous rentrons. »"
+    },
+    {
+     "type": "warn",
+     "label": "*Ni … ni*",
+     "text": "Avec *ni … ni*, le verbe prend **ne** : « Il **ne** mange **ni** riz **ni** manioc. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction de coordination exprime la cause ?",
+     "options": [
+      "mais",
+      "car",
+      "donc"
+     ],
+     "answer": 1,
+     "explain": "« car » introduit la cause : « Nous restons, car il pleut. » « donc » exprime la conséquence et « mais » l’opposition."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la conjonction de coordination qui convient : *mais, ou, donc, car, ni*.",
+     "items": [
+      "Il pleut, ____ nous restons à la maison.",
+      "Tu préfères le thé ____ le café ?",
+      "Il est fatigué, ____ il continue de travailler.",
+      "Nous restons, ____ il pleut.",
+      "Il ne parle ____ anglais ____ espagnol."
+     ],
+     "corrige": [
+      "Il pleut, **donc** nous restons à la maison.",
+      "Tu préfères le thé **ou** le café ?",
+      "Il est fatigué, **mais** il continue de travailler.",
+      "Nous restons, **car** il pleut.",
+      "Il ne parle **ni** anglais **ni** espagnol."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les conjonctions de subordination",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une conjonction de subordination ne relie pas deux éléments égaux : elle **rattache** une proposition **subordonnée** à une proposition **principale**."
+    },
+    {
+     "type": "def",
+     "label": "Conjonction de subordination",
+     "text": "La **conjonction de subordination** introduit une proposition subordonnée et la rattache à la principale. Elle peut être **simple** (un seul mot) ou former une **locution conjonctive** (plusieurs mots)."
+    },
+    {
+     "type": "table",
+     "title": "Conjonctions simples et locutions conjonctives",
+     "head": [
+      "Sorte",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Conjonctions simples",
+       "que, quand, lorsque, comme, si, puisque, quoique"
+      ],
+      [
+       "Locutions conjonctives",
+       "parce que, pour que, afin que, bien que, dès que, tandis que, alors que, jusqu’à ce que, à condition que"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Nous sortons **quand** la pluie cesse.\nJe pense **que** tu as raison.\nIl reste chez lui **parce qu’**il est malade.\n**Si** tu veux, nous partons."
+    },
+    {
+     "type": "warn",
+     "label": "Le mot *que*",
+     "text": "*Que* peut être une **conjonction** : « Je sais **que** tu viens. » (il ne remplace aucun mot). Il peut être un **pronom relatif** : « Le livre **que** je lis. » (il remplace *le livre*)."
+    },
+    {
+     "type": "warn",
+     "label": "Toujours un verbe",
+     "text": "Après une conjonction de subordination, il y a toujours une proposition avec un **verbe conjugué**. Devant un simple nom, on a une préposition : « **à cause de** la pluie » (préposition) mais « **parce qu’**il pleut » (conjonction)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je sais qu’il pleut », que fait *qu’* ?",
+     "options": [
+      "Il relie la principale à la subordonnée.",
+      "Il remplace un nom.",
+      "Il exprime un lieu."
+     ],
+     "answer": 0,
+     "explain": "« qu’ » introduit la subordonnée « il pleut » et ne remplace aucun nom : c’est une conjonction de subordination."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la conjonction de subordination de chaque phrase.",
+     "items": [
+      "Nous sortons quand la pluie cesse.",
+      "Je pense qu’il viendra.",
+      "Il reste chez lui parce qu’il est malade.",
+      "Comme il pleuvait, nous sommes restés.",
+      "Si tu veux, nous partons."
+     ],
+     "corrige": [
+      "Nous sortons **quand** la pluie cesse.",
+      "Je pense **qu’**il viendra.",
+      "Il reste chez lui **parce qu’**il est malade.",
+      "**Comme** il pleuvait, nous sommes restés.",
+      "**Si** tu veux, nous partons."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Ce qu’expriment les conjonctions de subordination",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Chaque conjonction de subordination apporte un **sens** à la subordonnée : le temps, la cause, le but… Elle impose aussi parfois le **mode** du verbe."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs des conjonctions de subordination",
+     "head": [
+      "Valeur",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps",
+       "quand, lorsque, dès que, avant que, pendant que",
+       "**Quand** la nuit tombe, nous rentrons."
+      ],
+      [
+       "cause",
+       "parce que, puisque, comme",
+       "Il reste **parce qu’**il est malade."
+      ],
+      [
+       "conséquence",
+       "si bien que, de sorte que",
+       "Il a plu, **si bien que** la route est inondée."
+      ],
+      [
+       "but",
+       "pour que, afin que",
+       "Je parle lentement **pour que** tu comprennes."
+      ],
+      [
+       "condition",
+       "si, à condition que",
+       "**Si** tu travailles, tu réussiras."
+      ],
+      [
+       "concession (opposition)",
+       "bien que, quoique, alors que",
+       "Il sort **bien qu’**il pleuve."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le mode du verbe après la conjonction",
+     "head": [
+      "Mode",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "indicatif",
+       "parce que, puisque, quand, lorsque, dès que, si bien que",
+       "Je reste parce qu’il **pleut**."
+      ],
+      [
+       "subjonctif",
+       "pour que, afin que, bien que, quoique, avant que, jusqu’à ce que, à condition que",
+       "Il sort bien qu’il **pleuve**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Cause ou but ?",
+     "text": "*Parce que* donne la **cause** (le pourquoi) : « Il court **parce qu’**il est en retard. » *Pour que* donne le **but** (ce que l’on veut obtenir) : « Il court **pour qu’**on l’attende. »"
+    },
+    {
+     "type": "tip",
+     "label": "Le subjonctif",
+     "text": "Les conjonctions qui expriment le **but** (*pour que, afin que*) et la **concession** (*bien que, quoique*) sont suivies du **subjonctif**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle valeur exprime *bien que* dans « Il sort bien qu’il pleuve » ?",
+     "options": [
+      "Le temps",
+      "La concession (l’opposition)",
+      "La cause"
+     ],
+     "answer": 1,
+     "explain": "« bien que » indique que l’action a lieu malgré un obstacle (la pluie) : c’est une concession, suivie du subjonctif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur de la conjonction en gras : temps, cause, but, condition ou concession.",
+     "items": [
+      "**Quand** la nuit tombe, nous rentrons.",
+      "Il reste à la maison **parce qu’**il est malade.",
+      "Je parle lentement **pour que** tu comprennes.",
+      "**Si** tu travailles, tu réussiras.",
+      "Il sort **bien qu’**il pleuve."
+     ],
+     "corrige": [
+      "**Quand** : temps.",
+      "**parce que** : cause.",
+      "**pour que** : but.",
+      "**Si** : condition.",
+      "**bien que** : concession (opposition)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis le verbe qui convient : indicatif ou subjonctif.",
+     "items": [
+      "Je reste parce qu’il (pleut / pleuve).",
+      "Je parle fort pour qu’il (entend / entende).",
+      "Il sort bien qu’il (pleut / pleuve).",
+      "Dès qu’il (a fini / ait fini), il sort."
+     ],
+     "corrige": [
+      "Je reste parce qu’il **pleut** (indicatif après *parce que*).",
+      "Je parle fort pour qu’il **entende** (subjonctif après *pour que*).",
+      "Il sort bien qu’il **pleuve** (subjonctif après *bien que*).",
+      "Dès qu’il **a fini**, il sort (indicatif après *dès que*)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rôle et emploi de la conjonction dans la phrase",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Un mot de liaison"
+    },
+    {
+     "type": "def",
+     "label": "Rôle de la conjonction",
+     "text": "La conjonction **relie** : deux mots (*Awa **et** Fatou*), deux groupes de mots (*du thé **ou** du café*) ou deux propositions (*Il pleut **mais** nous sortons*). Elle ne remplit aucune fonction par elle-même : elle sert de **lien**."
+    },
+    {
+     "type": "h",
+     "text": "Coordination ou subordination ? Le test du déplacement"
+    },
+    {
+     "type": "p",
+     "text": "Pour savoir si une conjonction est de coordination ou de subordination, essaie de **déplacer** la proposition qu’elle introduit. Une subordonnée peut souvent se placer **avant** la principale, une coordonnée non."
+    },
+    {
+     "type": "test",
+     "title": "Le test du déplacement",
+     "lines": [
+      "Nous restons parce qu’il pleut. → Parce qu’il pleut, nous restons. (on peut déplacer : **subordination**)",
+      "Il pleut mais nous sortons. → *Mais nous sortons, il pleut.* (impossible : **coordination**)"
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "*Car* et *parce que*",
+     "text": "*Car* est une conjonction de **coordination** : elle ne peut pas commencer la phrase. On ne dit pas « Car il pleut, nous restons. » mais « Parce qu’il pleut, nous restons. »"
+    },
+    {
+     "type": "table",
+     "title": "Les mots qui se ressemblent",
+     "head": [
+      "Mot",
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "et / est",
+       "conjonction / verbe être",
+       "Awa **et** Fatou jouent. Il **est** malade."
+      ],
+      [
+       "ou / où",
+       "conjonction / adverbe de lieu",
+       "Tu viens **ou** tu restes ? **Où** habites-tu ?"
+      ],
+      [
+       "mais / mes",
+       "conjonction / déterminant",
+       "Il veut, **mais** il ne peut pas. **Mes** cahiers."
+      ],
+      [
+       "quand / quant à / qu’en",
+       "conjonction / préposition / que + en",
+       "**Quand** il vient… **Quant à** moi… **Qu’en** penses-tu ?"
+      ],
+      [
+       "parce que / par ce que",
+       "conjonction / préposition + pronom",
+       "Je reste **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot complète « ___ habites-tu ? » ?",
+     "options": [
+      "Ou",
+      "Où",
+      "Et"
+     ],
+     "answer": 1,
+     "explain": "On demande le lieu : on écrit *où* avec un accent. *Ou* sans accent est une conjonction de coordination (choix)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le mot qui convient : *et, est, ou, où, mais, mes, quand, quant*.",
+     "items": [
+      "Awa ___ Fatou jouent.",
+      "Il ___ malade.",
+      "Tu viens ___ tu restes ?",
+      "___ habites-tu ?",
+      "Il veut venir, ___ il n’a pas le temps.",
+      "___ cahiers sont dans mon sac.",
+      "___ à moi, je reste.",
+      "Nous sortirons ___ la pluie cessera."
+     ],
+     "corrige": [
+      "Awa **et** Fatou jouent.",
+      "Il **est** malade.",
+      "Tu viens **ou** tu restes ?",
+      "**Où** habites-tu ?",
+      "Il veut venir, **mais** il n’a pas le temps.",
+      "**Mes** cahiers sont dans mon sac.",
+      "**Quant** à moi, je reste.",
+      "Nous sortirons **quand** la pluie cessera."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **relie et complète**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la conjonction de chaque phrase et dis si elle est de coordination (C) ou de subordination (S).",
+     "items": [
+      "Il pleut mais nous sortons.",
+      "Nous restons parce qu’il pleut.",
+      "Tu viens ou tu restes ?",
+      "Quand la nuit tombe, nous rentrons.",
+      "Je sais que tu viens."
+     ],
+     "corrige": [
+      "**mais** : C.",
+      "**parce que** : S.",
+      "**ou** : C.",
+      "**Quand** : S.",
+      "**que** : S."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une conjonction de coordination ?",
+     "options": [
+      "Je pense qu’il viendra.",
+      "Il est fatigué mais il travaille.",
+      "Quand il pleut, je reste."
+     ],
+     "answer": 1,
+     "explain": "« mais » est l’une des sept conjonctions de coordination. « qu’ » et « Quand » sont des conjonctions de subordination."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : relier et compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie les deux phrases avec la conjonction indiquée.",
+     "items": [
+      "Il pleut. Nous restons à la maison. (parce que)",
+      "Il est fatigué. Il continue. (mais)",
+      "Tu travailles. Tu réussiras. (si)",
+      "Je parle lentement. Tu comprends. (pour que)"
+     ],
+     "corrige": [
+      "Nous restons à la maison **parce qu’**il pleut.",
+      "Il est fatigué **mais** il continue.",
+      "**Si** tu travailles, tu réussiras.",
+      "Je parle lentement **pour que** tu comprennes."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la conjonction qui convient : *donc, car, mais, bien que, pour que*.",
+     "items": [
+      "Il est absent ____ il est malade.",
+      "Il sort ____ il pleuve.",
+      "Il étudie ____ il réussisse.",
+      "Il est tard, ____ nous rentrons.",
+      "Il veut sortir ____ il n’a pas fini."
+     ],
+     "corrige": [
+      "Il est absent **car** il est malade.",
+      "Il sort **bien qu’**il pleuve.",
+      "Il étudie **pour qu’**il réussisse. (réponses possibles : *afin qu’*)",
+      "Il est tard, **donc** nous rentrons.",
+      "Il veut sortir **mais** il n’a pas fini."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "Une phrase avec une conjonction de coordination qui exprime l’opposition.",
+      "Une phrase avec une subordonnée de cause.",
+      "Une phrase avec une subordonnée de but.",
+      "Une phrase avec une subordonnée de condition."
+     ],
+     "corrige": [
+      "Réponses possibles : **Il fait chaud mais nous restons dehors.**",
+      "Réponses possibles : **Je reste à la maison parce qu’il pleut.**",
+      "Réponses possibles : **Je parle fort pour que tout le monde entende.**",
+      "Réponses possibles : **Si tu travailles, tu réussiras.**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La conjonction est un mot invariable qui relie des mots, des groupes de mots ou des propositions.",
+      "Les conjonctions de coordination sont mais, ou, et, donc, or, ni, car.",
+      "Les conjonctions de subordination introduisent une subordonnée : elles expriment le temps, la cause, la conséquence, le but, la condition ou la concession.",
+      "Pour but et concession, la subordonnée est au subjonctif ; pour la cause et le temps, elle est à l’indicatif."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "À savoir",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Définition",
+       "mot invariable qui relie",
+       "Awa et Fatou"
+      ],
+      [
+       "Coordination",
+       "mais, ou, et, donc, or, ni, car",
+       "Il pleut mais nous sortons."
+      ],
+      [
+       "Subordination",
+       "que, quand, parce que, pour que, si, bien que…",
+       "Je reste parce qu’il pleut."
+      ],
+      [
+       "Rôle",
+       "relier deux mots, deux groupes ou deux propositions",
+       "du thé ou du café"
+      ],
+      [
+       "Emploi",
+       "exprimer un sens et imposer le mode",
+       "pour qu’il comprenne"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction est de subordination ?",
+     "options": [
+      "donc",
+      "parce que",
+      "mais"
+     ],
+     "answer": 1,
+     "explain": "« donc » et « mais » sont des conjonctions de coordination ; « parce que » introduit une subordonnée de cause."
+    }
+   ]
+  }
+ ]
+}

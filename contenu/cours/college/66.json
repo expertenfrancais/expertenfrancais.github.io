@@ -1,0 +1,703 @@
+{
+ "id": 66,
+ "meta": {
+  "t": "Les champs sémantiques",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un champ sémantique ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mot **feuille** peut désigner la feuille d’un arbre, une feuille de papier ou une feuille de salade. Un même mot a donc **plusieurs sens**. L’ensemble de ces sens s’appelle le **champ sémantique** du mot."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre le mot *sémantique*",
+      "Savoir ce qu’est le champ sémantique d’un mot",
+      "Trouver plusieurs sens d’un même mot"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Champ sémantique",
+     "text": "Le **champ sémantique** d’un mot est l’ensemble de **tous les sens** que ce mot peut avoir. Le mot *sémantique* vient du grec et veut dire « qui concerne le sens »."
+    },
+    {
+     "type": "table",
+     "title": "Le champ sémantique du mot « feuille »",
+     "head": [
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "partie d’un arbre ou d’une plante",
+       "*Une **feuille** tombe de l’arbre.*"
+      ],
+      [
+       "morceau de papier",
+       "*Écris sur une **feuille** blanche.*"
+      ],
+      [
+       "légume vert",
+       "*Une **feuille** de salade.*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le champ sémantique du mot *pied* : le pied de l’enfant (partie du corps), le pied de la table (support), le pied de la montagne (le bas).",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Attention au vocabulaire",
+     "text": "Certains livres emploient « champ sémantique » pour parler d’un thème de mots (comme *mer, plage, vague*). Dans ce cours, on garde la règle simple : le **champ lexical** regroupe des **mots d’un même thème**, le **champ sémantique** regroupe les **sens d’un même mot**."
+    },
+    {
+     "type": "quiz",
+     "question": "Le champ sémantique du mot « souris » comprend…",
+     "options": [
+      "tous les mots qui parlent des animaux",
+      "tous les sens du mot souris",
+      "tous les mots qui riment avec souris",
+      "tous les mots de la famille de souris"
+     ],
+     "answer": 1,
+     "explain": "Le champ sémantique d’un mot, ce sont tous ses sens : l’animal, mais aussi l’objet d’ordinateur."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne deux sens de chacun de ces mots.",
+     "items": [
+      "carte",
+      "pièce",
+      "souris"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *carte* : carte à jouer ; carte de géographie ; carte postale ; carte du restaurant",
+      "2. *pièce* : pièce d’une maison ; pièce de monnaie ; pièce de théâtre",
+      "3. *souris* : petit animal ; objet pour l’ordinateur"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Un mot, plusieurs sens",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand un mot a plusieurs sens, on dit qu’il est **polysémique** (du grec *poly* : plusieurs, et *sème* : sens). C’est très fréquent en français : beaucoup de mots courants sont polysémiques."
+    },
+    {
+     "type": "def",
+     "label": "Polysémie",
+     "text": "La **polysémie** est le fait qu’un mot possède **plusieurs sens** qui ont **un lien entre eux**. Exemple : *manche* d’une chemise, *manche* d’une guitare (les deux sont des parties longues et étroites)."
+    },
+    {
+     "type": "table",
+     "title": "Quelques mots polysémiques",
+     "head": [
+      "Mot",
+      "Sens 1",
+      "Sens 2",
+      "Sens 3"
+     ],
+     "rows": [
+      [
+       "*pied*",
+       "partie du corps",
+       "support d’un meuble",
+       "bas d’une montagne"
+      ],
+      [
+       "*tête*",
+       "partie du corps",
+       "début d’une file (*en tête*)",
+       "esprit (*avoir la tête dure*)"
+      ],
+      [
+       "*feuille*",
+       "d’un arbre",
+       "de papier",
+       "de salade"
+      ],
+      [
+       "*souris*",
+       "animal",
+       "objet d’ordinateur",
+       "—"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*La **souris** a mangé le fromage.* / *Clique avec la **souris** sur l’icône.* Le mot est le même, mais le sens change.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre avec les homonymes",
+     "text": "Les **homonymes** sont des mots qui s’écrivent et se prononcent de la même façon mais n’ont **aucun lien de sens**. Exemple : *un **avocat*** (le fruit) et *un **avocat*** (celui qui défend en justice). Ce sont deux mots différents, alors que *feuille* d’arbre et *feuille* de papier ont un lien : leur forme plate."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est polysémique ?",
+     "options": [
+      "cahier",
+      "pied",
+      "ordinateur",
+      "cartable"
+     ],
+     "answer": 1,
+     "explain": "*Pied* a plusieurs sens liés : le pied du corps, le pied de la table, le pied de la montagne."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens du mot en gras dans chaque phrase.",
+     "items": [
+      "Le **pied** de la montagne est couvert de forêt.",
+      "Il a mal au **pied**.",
+      "Elle s’est assise au **pied** de l’arbre.",
+      "La table a quatre **pieds**."
+     ],
+     "corrige": [
+      "1. le bas de la montagne",
+      "2. la partie du corps au bout de la jambe",
+      "3. le bas du tronc, là où l’arbre touche le sol",
+      "4. les supports de la table"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Sens propre et sens figuré",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans le champ sémantique d’un mot, on distingue souvent le **sens propre** (le sens de base, concret) et le **sens figuré** (un sens imagé, qui vient du premier)."
+    },
+    {
+     "type": "def",
+     "label": "Sens propre",
+     "text": "Le **sens propre** est le sens **premier**, concret, que l’on peut souvent **voir ou toucher**. Exemple : *Il **mange** une mangue.*"
+    },
+    {
+     "type": "def",
+     "label": "Sens figuré",
+     "text": "Le **sens figuré** est un sens **imagé**, qui s’appuie sur une ressemblance. Exemple : *Il **dévore** un livre.* (Il ne mange pas le livre : il le lit très vite avec grand plaisir.)"
+    },
+    {
+     "type": "table",
+     "title": "Sens propre et sens figuré",
+     "head": [
+      "Mot",
+      "Sens propre",
+      "Sens figuré"
+     ],
+     "rows": [
+      [
+       "*dévorer*",
+       "*Le lion dévore sa proie.*",
+       "*Awa dévore un roman.*"
+      ],
+      [
+       "*froid*",
+       "*L’eau est froide.*",
+       "*Un accueil froid.* (peu aimable)"
+      ],
+      [
+       "*brûler*",
+       "*Le feu brûle le bois.*",
+       "*Il brûle d’impatience.*"
+      ],
+      [
+       "*cœur*",
+       "*Le cœur bat dans la poitrine.*",
+       "*Elle a bon cœur.* (elle est généreuse)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Comment reconnaître le sens figuré ?",
+     "text": "Pose-toi la question : « Est-ce que cela se passe **vraiment** comme cela ? » Si la réponse est non, c’est un sens figuré. *Avoir un cœur de pierre*, ce n’est pas avoir un cœur en pierre !"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Moussa brûle d’envie de jouer », le verbe *brûler* est employé…",
+     "options": [
+      "au sens propre",
+      "au sens figuré",
+      "comme un nom",
+      "comme un adjectif"
+     ],
+     "answer": 1,
+     "explain": "Moussa ne prend pas feu : il a très envie de jouer. C’est un sens figuré."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « sens propre » ou « sens figuré » pour chaque phrase.",
+     "items": [
+      "Il a bu de l’eau glacée.",
+      "Elle m’a lancé un regard glacé.",
+      "Le soleil a brûlé la peau de Moussa.",
+      "Il brûle de colère."
+     ],
+     "corrige": [
+      "1. sens propre",
+      "2. sens figuré",
+      "3. sens propre",
+      "4. sens figuré"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Trouver le bon sens grâce au contexte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un mot polysémique n’a qu’**un seul sens à la fois** dans une phrase. Pour trouver lequel, on regarde le **contexte** : les autres mots de la phrase."
+    },
+    {
+     "type": "def",
+     "label": "Contexte",
+     "text": "Le **contexte** est l’ensemble des mots, des phrases et des situations qui entourent un mot. Il permet de **choisir le bon sens** parmi tous les sens possibles."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Lis toute la phrase (et la phrase d’avant, si besoin).",
+      "Repère les mots qui accompagnent le mot difficile.",
+      "Pose-toi la question : « De quoi parle-t-on ? »",
+      "Choisis le sens qui convient et remplace le mot par une explication."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "*Awa range ses livres dans son **cartable**. Elle a une **carte** de géographie à rendre.* → Ici, le mot *carte* est entouré de *géographie* : c’est le dessin d’un pays, pas une carte à jouer.",
+     "label": "Exemple"
+    },
+    {
+     "type": "table",
+     "title": "Même mot, contexte différent",
+     "head": [
+      "Phrase",
+      "Sens du mot « carte »"
+     ],
+     "rows": [
+      [
+       "*Le serveur apporte la **carte**.*",
+       "la liste des plats au restaurant"
+      ],
+      [
+       "*Il pioche une **carte** et gagne.*",
+       "une carte à jouer"
+      ],
+      [
+       "*J’envoie une **carte** postale à ma tante.*",
+       "une carte postale (papier illustré)"
+      ],
+      [
+       "*Cherche la ville sur la **carte**.*",
+       "une carte de géographie"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Un seul sens à la fois",
+     "text": "On ne peut pas jouer sur plusieurs sens en même temps (sauf pour faire un jeu de mots volontaire). Dans la phrase *Il joue aux cartes*, *cartes* ne veut dire que « cartes à jouer »."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le **pied** de la table est cassé », *pied* signifie…",
+     "options": [
+      "la partie du corps",
+      "le support de la table",
+      "le bas de la montagne",
+      "une mesure"
+     ],
+     "answer": 1,
+     "explain": "Le contexte (*table*, *cassé*) montre qu’il s’agit du support."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le sens du mot **pièce** dans chaque phrase.",
+     "items": [
+      "Cette maison a cinq **pièces**.",
+      "Il a trouvé une **pièce** de deux euros.",
+      "Nous allons voir une **pièce** de théâtre.",
+      "Il manque une **pièce** à mon puzzle."
+     ],
+     "corrige": [
+      "1. une chambre, une salle de la maison",
+      "2. une monnaie en métal",
+      "3. un spectacle de théâtre",
+      "4. un morceau, un élément du puzzle"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Champ sémantique et champ lexical",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces deux expressions se ressemblent, mais elles ne disent **pas la même chose**. Il faut bien les distinguer."
+    },
+    {
+     "type": "table",
+     "title": "Champ lexical ou champ sémantique ?",
+     "head": [
+      "Critère",
+      "Champ lexical",
+      "Champ sémantique"
+     ],
+     "rows": [
+      [
+       "On regroupe…",
+       "**plusieurs mots**",
+       "**plusieurs sens** d’un seul mot"
+      ],
+      [
+       "Le point commun",
+       "le **thème**",
+       "le **mot** lui-même"
+      ],
+      [
+       "Exemple",
+       "*mer, plage, vague, sable, bateau*",
+       "*feuille* : d’arbre, de papier, de salade"
+      ],
+      [
+       "On se demande…",
+       "« De quoi parlent ces mots ? »",
+       "« Que peut vouloir dire ce mot ? »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Champ lexical de l’arbre : *tronc, branche, racine, feuille, écorce.* Champ sémantique du mot *feuille* : feuille d’arbre, feuille de papier, feuille de salade.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Le truc pour ne pas se tromper",
+     "text": "Pense à **un seul mot, plusieurs sens** pour le champ sémantique, et à **plusieurs mots, un seul thème** pour le champ lexical."
+    },
+    {
+     "type": "warn",
+     "label": "Le mot *feuille* est dans les deux !",
+     "text": "Le mot *feuille* fait partie du champ lexical de l’arbre. Mais quand on étudie **tous ses sens**, on parle de son champ sémantique. Ce sont deux points de vue différents sur le même mot."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle liste est un champ lexical ?",
+     "options": [
+      "pied : partie du corps, support, bas d’une montagne",
+      "pluie, orage, nuage, averse, éclair",
+      "feuille : arbre, papier, salade",
+      "souris : animal, objet de l’ordinateur"
+     ],
+     "answer": 1,
+     "explain": "Les mots *pluie, orage, nuage, averse, éclair* parlent du même thème : le mauvais temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « champ lexical » ou « champ sémantique » pour chaque cas.",
+     "items": [
+      "Les mots *cuisinier, four, recette, assiette*.",
+      "Les différents sens du mot *carte*.",
+      "Les mots *ballon, joueur, but, arbitre*.",
+      "Les différents sens du mot *tête*."
+     ],
+     "corrige": [
+      "1. champ lexical (la cuisine)",
+      "2. champ sémantique",
+      "3. champ lexical (le football)",
+      "4. champ sémantique"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Utiliser le dictionnaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **dictionnaire** est l’outil idéal pour découvrir le champ sémantique d’un mot. Quand un mot a plusieurs sens, le dictionnaire les range **par numéros**."
+    },
+    {
+     "type": "h",
+     "text": "Lire un article de dictionnaire"
+    },
+    {
+     "type": "table",
+     "title": "Les abréviations à connaître",
+     "head": [
+      "Abréviation",
+      "Signification"
+     ],
+     "rows": [
+      [
+       "*n. m.*",
+       "nom masculin"
+      ],
+      [
+       "*n. f.*",
+       "nom féminin"
+      ],
+      [
+       "*v.*",
+       "verbe"
+      ],
+      [
+       "*adj.*",
+       "adjectif"
+      ],
+      [
+       "*fig.*",
+       "sens figuré"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**pied** *n. m.*\n1. Partie du corps au bout de la jambe : *Il a mal au pied.*\n2. Support d’un objet : *Le pied de la lampe.*\n3. Bas d’une chose : *Le pied de la montagne.*\n4. *fig.* *Mettre à pied* : renvoyer quelqu’un de son travail pour un temps.",
+     "label": "Article de dictionnaire (simplifié)"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Cherche le mot dans l’ordre alphabétique.",
+      "Repère la nature du mot (*n. m.*, *v.*…).",
+      "Lis tous les sens numérotés.",
+      "Choisis celui qui correspond au contexte de ta phrase."
+     ],
+     "label": "Comment s’en servir",
+     "ordered": true
+    },
+    {
+     "type": "tip",
+     "label": "Les exemples aident",
+     "text": "Après chaque sens, le dictionnaire donne souvent un **exemple** en italique. Compare-le avec ta phrase pour trouver le bon sens."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un dictionnaire, comment sont présentés les différents sens d’un mot ?",
+     "options": [
+      "en désordre",
+      "numérotés, 1, 2, 3…",
+      "tous dans la même phrase",
+      "dans un autre livre"
+     ],
+     "answer": 1,
+     "explain": "Les sens d’un mot sont numérotés pour qu’on puisse les distinguer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Voici un article simplifié : **manche** *n. f.* : 1. Partie d’un vêtement qui couvre le bras. 2. Chacune des parties d’un jeu ou d’un match. — **manche** *n. m.* : partie par laquelle on tient un outil. Retrouve le sens de **manche** dans chaque phrase.",
+     "items": [
+      "Awa a une chemise à **manches** longues.",
+      "Le **manche** de la pioche est cassé.",
+      "Notre équipe a gagné la première **manche**."
+     ],
+     "corrige": [
+      "1. *n. f.* sens 1 : la partie du vêtement",
+      "2. *n. m.* : la partie qu’on tient de l’outil",
+      "3. *n. f.* sens 2 : une partie du match"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **expliquer et comparer**, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne au moins deux sens différents de chaque mot.",
+     "items": [
+      "feuille",
+      "tête",
+      "pied"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *feuille* : d’arbre ; de papier ; de salade",
+      "2. *tête* : partie du corps ; début d’une file ; esprit",
+      "3. *pied* : partie du corps ; support d’un meuble ; bas d’une montagne"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est polysémique ?",
+     "options": [
+      "cahier",
+      "souris",
+      "tableau noir",
+      "stylo"
+     ],
+     "answer": 1,
+     "explain": "*Souris* désigne un animal et un objet d’ordinateur."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : expliquer et comparer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « sens propre » ou « sens figuré » pour le mot en gras.",
+     "items": [
+      "Il **dévore** son repas.",
+      "Il **dévore** les livres de la bibliothèque.",
+      "L’eau du ruisseau est **glacée**.",
+      "Elle m’a reçu avec un sourire **glacé**."
+     ],
+     "corrige": [
+      "1. sens propre",
+      "2. sens figuré",
+      "3. sens propre",
+      "4. sens figuré"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens du mot **carte** dans chaque phrase.",
+     "items": [
+      "Le serveur me donne la **carte**.",
+      "Je joue une **carte** et je gagne.",
+      "J’envoie une **carte** postale à ma grand-mère.",
+      "Montre-moi Dakar sur la **carte**."
+     ],
+     "corrige": [
+      "1. la liste des plats",
+      "2. une carte à jouer",
+      "3. une carte postale (papier illustré)",
+      "4. une carte de géographie"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « champ lexical » ou « champ sémantique » pour chaque cas.",
+     "items": [
+      "Les mots *neige, froid, hiver, grelotter*.",
+      "Les trois sens du mot *feuille*.",
+      "Les mots *école, classe, maître, cahier*."
+     ],
+     "corrige": [
+      "1. champ lexical (le froid)",
+      "2. champ sémantique",
+      "3. champ lexical (l’école)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases pour montrer deux sens différents du mot indiqué.",
+     "items": [
+      "le mot *souris*",
+      "le mot *pièce*"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *La souris se cache dans un trou.* — *Je déplace la souris pour ouvrir le fichier.*",
+      "2. *Ma maison a trois pièces.* — *J’ai une pièce de monnaie dans la poche.*"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase avec le verbe **brûler** au sens propre et une phrase avec **brûler** au sens figuré.",
+     "items": [
+      "Souligne le verbe dans chaque phrase."
+     ],
+     "corrige": "Réponses possibles : *Le feu **brûle** le papier.* (sens propre) — *Moussa **brûle** d’envie de partir en vacances.* (sens figuré)"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **champ sémantique** d’un mot est l’ensemble de **tous les sens** de ce mot.",
+      "Un mot qui a plusieurs sens liés entre eux est **polysémique** : *feuille, pied, tête, souris, carte…*",
+      "Le **sens propre** est le sens **premier**, concret ; le **sens figuré** est un sens **imagé**.",
+      "Pour trouver le bon sens d’un mot, on regarde le **contexte** : les mots qui l’entourent.",
+      "Le **champ lexical** regroupe **plusieurs mots** d’un même **thème** ; le champ sémantique regroupe **plusieurs sens** d’un **même mot**.",
+      "Le **dictionnaire** classe les sens d’un mot par **numéros**, avec des exemples."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "champ sémantique",
+       "tous les **sens** d’un mot",
+       "*feuille* : arbre, papier, salade"
+      ],
+      [
+       "champ lexical",
+       "mots d’un même **thème**",
+       "*pluie, orage, nuage, éclair*"
+      ],
+      [
+       "sens propre",
+       "sens **premier**, concret",
+       "*Le feu brûle le bois.*"
+      ],
+      [
+       "sens figuré",
+       "sens **imagé**",
+       "*Il brûle d’impatience.*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase utilise le mot « brûler » au sens figuré ?",
+     "options": [
+      "Le feu brûle le bois sec.",
+      "La soupe brûle ma langue.",
+      "Awa brûle de joie de te revoir.",
+      "Le soleil brûle la peau."
+     ],
+     "answer": 2,
+     "explain": "Awa ne prend pas feu : elle est très joyeuse. C’est un sens figuré."
+    }
+   ]
+  }
+ ]
+}

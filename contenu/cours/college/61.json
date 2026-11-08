@@ -1,0 +1,631 @@
+{
+ "id": 61,
+ "meta": {
+  "t": "La dérivation",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la dérivation ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À partir du mot **chant**, on peut former *chanter*, *chanteur*, *chanson*, *déchanter*… Ces mots sont nés du même mot par **dérivation**. Dans ce cours, tu vas apprendre à former des mots nouveaux et à les analyser."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir la dérivation",
+      "Distinguer le radical, le préfixe et le suffixe",
+      "Reconnaître une famille de mots",
+      "Distinguer dérivation propre et dérivation impropre"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Dérivation",
+     "text": "La **dérivation** est la formation d’un mot nouveau, le **dérivé**, à partir d’un **mot de base** auquel on ajoute un **préfixe** (avant), un **suffixe** (après), ou les deux."
+    },
+    {
+     "type": "table",
+     "title": "Le vocabulaire de la dérivation",
+     "head": [
+      "Terme",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Radical (mot de base)",
+       "partie qui porte le sens",
+       "**chant**"
+      ],
+      [
+       "Préfixe",
+       "élément placé avant le radical",
+       "**dé**chanter"
+      ],
+      [
+       "Suffixe",
+       "élément placé après le radical",
+       "chant**eur**"
+      ],
+      [
+       "Dérivé",
+       "mot formé avec un préfixe ou un suffixe",
+       "déchanter, chanteur"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Un mot décortiqué",
+     "cells": [
+      {
+       "mot": "mal-",
+       "role": "préfixe"
+      },
+      {
+       "mot": "heur",
+       "role": "radical",
+       "noyau": true
+      },
+      {
+       "mot": "-eux",
+       "role": "suffixe"
+      }
+     ],
+     "note": "*Malheureux* est formé du préfixe *mal-*, du radical *heur* (chance) et du suffixe *-eux*."
+    },
+    {
+     "type": "test",
+     "title": "Des mots du même radical",
+     "lines": [
+      "chant → chanter, chanteur, chanson",
+      "chanter → rechanter, déchanter",
+      "→ tous ces mots ont en commun le radical *chant*."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le radical de *rangement* ?",
+     "options": [
+      "range",
+      "rang",
+      "ment"
+     ],
+     "answer": 1,
+     "explain": "On enlève le suffixe *-ement* : il reste *rang*, qui porte le sens (comme dans *ranger*, *rangée*)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque mot, donne le radical (ou le mot de base), le préfixe et le suffixe s’il y en a.",
+     "items": [
+      "refaire",
+      "lenteur",
+      "impossible",
+      "jardinier"
+     ],
+     "corrige": [
+      "refaire : préfixe **re-**, mot de base **faire**.",
+      "lenteur : mot de base **lent**, suffixe **-eur**.",
+      "impossible : préfixe **im-**, mot de base **possible**.",
+      "jardinier : mot de base **jardin**, suffixe **-ier**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les préfixes et les suffixes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les préfixes et les suffixes forment la **dérivation propre**. Chacun apporte un sens précis."
+    },
+    {
+     "type": "table",
+     "title": "Quelques préfixes",
+     "head": [
+      "Préfixe",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "in- / im- / il- / ir-",
+       "le contraire",
+       "**in**utile, **im**possible, **il**lisible, **ir**réel"
+      ],
+      [
+       "dé- / dés-",
+       "le contraire, l’enlèvement",
+       "**dé**faire, **dés**obéir"
+      ],
+      [
+       "re-",
+       "la répétition",
+       "**re**lire"
+      ],
+      [
+       "pré-",
+       "avant",
+       "**pré**histoire"
+      ],
+      [
+       "mal-",
+       "mal, contraire",
+       "**mal**heureux"
+      ],
+      [
+       "sur-",
+       "au-dessus, en excès",
+       "**sur**charger"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques suffixes",
+     "head": [
+      "Suffixe",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "-eur / -euse",
+       "celui qui fait",
+       "chant**eur**, dans**euse**"
+      ],
+      [
+       "-ier / -ière",
+       "le métier, l’arbre",
+       "jardin**ier**, pomm**ier**"
+      ],
+      [
+       "-ette",
+       "le petit",
+       "maisonn**ette**"
+      ],
+      [
+       "-age / -ment",
+       "l’action",
+       "lav**age**, range**ment**"
+      ],
+      [
+       "-able / -ible",
+       "qui peut être",
+       "mange**able**, lis**ible**"
+      ],
+      [
+       "-eux / -euse",
+       "qui a, plein de",
+       "danger**eux**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le préfixe ne change pas la classe, le suffixe si",
+     "text": "Un **préfixe** ne change pas la **classe** du mot : *faire* → *défaire* (verbe). Un **suffixe** peut la changer : *chanter* (verbe) → *chanteur* (nom)."
+    },
+    {
+     "type": "tip",
+     "label": "*In-* devant b, m, p",
+     "text": "Devant **b, m, p**, *in-* devient **im-** : *im*possible, *im*mobile, *im*battable. Devant **l**, il devient **il-** et devant **r**, **ir-** : *il*lisible, *ir*réel."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel préfixe exprime le contraire dans *impossible* ?",
+     "options": [
+      "im-",
+      "pos-",
+      "-ible"
+     ],
+     "answer": 0,
+     "explain": "*Im-* (variante de *in-*) exprime le contraire de *possible*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme le contraire de chaque mot avec un préfixe.",
+     "items": [
+      "heureux",
+      "possible",
+      "faire",
+      "lisible",
+      "réel"
+     ],
+     "corrige": [
+      "**mal**heureux",
+      "**im**possible",
+      "**dé**faire",
+      "**il**lisible",
+      "**ir**réel"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La famille de mots",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Famille de mots",
+     "text": "Une **famille de mots** est formée de tous les mots qui ont le **même radical** et un sens proche : ils sont dérivés du même mot de base."
+    },
+    {
+     "type": "table",
+     "title": "La famille du mot *terre*",
+     "head": [
+      "Mot",
+      "Formation"
+     ],
+     "rows": [
+      [
+       "terrain",
+       "terr + -ain"
+      ],
+      [
+       "terrasse",
+       "terr + -asse"
+      ],
+      [
+       "enterrer",
+       "en- + terr + -er"
+      ],
+      [
+       "déterrer",
+       "dé- + terr + -er"
+      ],
+      [
+       "souterrain",
+       "sous- + terr + -ain"
+      ],
+      [
+       "territoire",
+       "terr + -itoire"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Des mots qui se ressemblent sans être de la même famille",
+     "text": "Deux mots peuvent se ressembler sans avoir la même origine : *mer* et *amer* (goût), ne sont pas de la même famille. Il faut aussi que le **sens** soit proche."
+    },
+    {
+     "type": "tip",
+     "label": "Le radical varie parfois",
+     "text": "Le radical peut changer légèrement : *terre*, *terr-*, *enterr-*. Cherche toujours la partie commune qui porte le sens."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot n’appartient pas à la famille du mot *dent* ?",
+     "options": [
+      "dentiste",
+      "dentier",
+      "dense"
+     ],
+     "answer": 2,
+     "explain": "*Dentiste* et *dentier* viennent de *dent*. *Dense* n’a rien à voir avec les dents : il n’est pas de la même famille."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque série, trouve l’intrus (le mot qui n’est pas de la même famille).",
+     "items": [
+      "terrain, terrasse, terrible, enterrer",
+      "chanter, chanteur, champ, chanson",
+      "jardin, jardinier, jardiner, jarre",
+      "fleur, fleuriste, fleurir, flou"
+     ],
+     "corrige": [
+      "L’intrus est **terrible** (famille de *terre* pour les autres).",
+      "L’intrus est **champ** (famille de *chant* pour les autres).",
+      "L’intrus est **jarre** (famille de *jardin* pour les autres).",
+      "L’intrus est **flou** (famille de *fleur* pour les autres)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La dérivation impropre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Parfois, un mot change de **classe** sans qu’on lui ajoute de préfixe ni de suffixe. C’est la **dérivation impropre** (ou **conversion**)."
+    },
+    {
+     "type": "def",
+     "label": "Dérivation impropre",
+     "text": "La **dérivation impropre** est le passage d’un mot d’une classe à une autre **sans changer sa forme** : un verbe devient un nom, un adjectif devient un nom ou un adverbe…"
+    },
+    {
+     "type": "table",
+     "title": "Exemples de dérivation impropre",
+     "head": [
+      "Mot",
+      "Classe d’origine",
+      "Nouvelle classe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "rire",
+       "verbe",
+       "nom",
+       "Le **rire** est le propre de l’homme."
+      ],
+      [
+       "dîner",
+       "verbe",
+       "nom",
+       "Le **dîner** est prêt."
+      ],
+      [
+       "pauvre",
+       "adjectif",
+       "nom",
+       "Un **pauvre** demande l’aumône."
+      ],
+      [
+       "fort",
+       "adjectif",
+       "adverbe",
+       "Il parle **fort**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test du déterminant",
+     "text": "Un mot précédé d’un **déterminant** (*le, un, mon…*) est un **nom** : « **le** rire », « **un** pauvre ». Si c’est un verbe à l’origine, il y a eu dérivation impropre."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le rire est communicatif », le mot *rire* est :",
+     "options": [
+      "un verbe",
+      "un nom",
+      "un adjectif"
+     ],
+     "answer": 1,
+     "explain": "Précédé de l’article *le*, *rire* est ici un nom, alors que c’est à l’origine un verbe : c’est une dérivation impropre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la classe de départ et la classe d’arrivée du mot en gras.",
+     "items": [
+      "Le **rire** est communicatif.",
+      "Un **pauvre** passe dans la rue.",
+      "Le **dîner** est prêt.",
+      "Il chante **faux**.",
+      "Un **sourire** éclaire son visage."
+     ],
+     "corrige": [
+      "**rire** : verbe → nom.",
+      "**pauvre** : adjectif → nom.",
+      "**dîner** : verbe → nom.",
+      "**faux** : adjectif → adverbe.",
+      "**sourire** : verbe → nom."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les mots dérivés et leur classe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La dérivation permet de passer d’une classe de mots à une autre. C’est très utile pour **enrichir son vocabulaire**."
+    },
+    {
+     "type": "table",
+     "title": "Passer d’une classe à une autre",
+     "head": [
+      "De…",
+      "à…",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "nom",
+       "verbe",
+       "jardin → jardiner, danse → danser"
+      ],
+      [
+       "verbe",
+       "nom",
+       "chanter → chanteur, laver → lavage"
+      ],
+      [
+       "adjectif",
+       "nom",
+       "lent → lenteur, triste → tristesse"
+      ],
+      [
+       "nom",
+       "adjectif",
+       "danger → dangereux, joie → joyeux"
+      ],
+      [
+       "adjectif",
+       "verbe",
+       "rouge → rougir, grand → grandir"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le suffixe indique la classe",
+     "text": "*-er* et *-ir* forment des **verbes**, *-eur*, *-age*, *-ment* des **noms**, *-eux*, *-able* des **adjectifs**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel suffixe forme un nom à partir de l’adjectif *lent* ?",
+     "options": [
+      "-eux",
+      "-eur",
+      "-able"
+     ],
+     "answer": 1,
+     "explain": "*Lent* + *-eur* donne *lenteur*, un nom."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme un mot dérivé de la classe demandée.",
+     "items": [
+      "danger (adjectif)",
+      "lent (nom)",
+      "jardin (nom de métier)",
+      "rouge (verbe)",
+      "chanter (nom : celui qui)"
+     ],
+     "corrige": [
+      "danger → **dangereux**.",
+      "lent → **lenteur**.",
+      "jardin → **jardinier**.",
+      "rouge → **rougir**.",
+      "chanter → **chanteur**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **forme** des mots, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne le préfixe et le suffixe de chaque mot.",
+     "items": [
+      "déchargement",
+      "imbattable",
+      "malheureusement"
+     ],
+     "corrige": [
+      "**dé**-charge-**ment** : préfixe dé-, radical charg(e), suffixe -ment.",
+      "**im**-batt-**able** : préfixe im-, radical batt(re), suffixe -able.",
+      "**mal**-heur-eus-**ement** : préfixe mal-, radical heur, suffixes -eux (-eus-) et -ment (-ement)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un dérivé de *jardin* ?",
+     "options": [
+      "jardinier",
+      "jarre",
+      "jargon"
+     ],
+     "answer": 0,
+     "explain": "*Jardinier* est formé de *jardin* + le suffixe *-ier*. Les deux autres n’ont pas de rapport avec *jardin*."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : former des mots"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec un dérivé du mot entre parenthèses.",
+     "items": [
+      "Mon frère est un grand ____ . (chanter)",
+      "Cette route est ____ . (danger)",
+      "Le ____ de ce meuble est facile. (monter)",
+      "Ce mot est ____ . (lire)"
+     ],
+     "corrige": [
+      "Mon frère est un grand **chanteur**.",
+      "Cette route est **dangereuse**.",
+      "Le **montage** de ce meuble est facile.",
+      "Ce mot est **illisible**."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois mots de la famille de *terre*, puis trois mots de la famille de *chant*.",
+     "corrige": "Réponses possibles : **terrain, enterrer, souterrain** ; **chanter, chanteur, chanson**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "Une phrase avec un mot formé avec le préfixe *re-*.",
+      "Une phrase avec un mot formé avec le suffixe *-eur*.",
+      "Une phrase avec un mot qui change de classe sans changer de forme."
+     ],
+     "corrige": [
+      "Réponses possibles : **Je relis ma leçon.**",
+      "Réponses possibles : **Mon oncle est un excellent chanteur.**",
+      "Réponses possibles : **Le rire des enfants résonne dans la cour.**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La dérivation forme un mot nouveau à partir d’un mot de base, en ajoutant un préfixe, un suffixe ou les deux.",
+      "Les mots qui ont le même radical forment une famille de mots.",
+      "Le préfixe ne change pas la classe du mot ; le suffixe peut la changer.",
+      "La dérivation impropre change la classe d’un mot sans changer sa forme (le rire, un pauvre)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "À savoir",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Dérivation propre",
+       "préfixe ou suffixe + radical",
+       "dé-faire, chant-eur"
+      ],
+      [
+       "Famille de mots",
+       "même radical, sens proche",
+       "terre, terrain, enterrer"
+      ],
+      [
+       "Dérivation impropre",
+       "changement de classe sans changer de forme",
+       "le rire, un pauvre"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un mot formé par dérivation impropre ?",
+     "options": [
+      "Il relit son cahier.",
+      "Le dîner est prêt.",
+      "Elle est chanteuse."
+     ],
+     "answer": 1,
+     "explain": "« dîner » est un verbe devenu nom, sans préfixe ni suffixe ajouté."
+    }
+   ]
+  }
+ ]
+}
