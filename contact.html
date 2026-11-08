@@ -145,8 +145,8 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 
     <h2 class="sec">Questions fréquentes</h2>
     <div class="group faq">
-      <details><summary>Comment acheter un cours ?</summary><p>Pour le moment, tous les cours et toutes les ressources sont gratuits : ouvrez simplement le cours de votre choix. Les paiements seront bientôt disponibles.</p></details>
-      <details><summary>Comment m’abonner ?</summary><p>Écrivez-nous avec ce formulaire (sujet « Paiement ou abonnement »). Après votre paiement, nous vous envoyons un code d’activation personnel et à usage unique. Saisissez-le dans la page Abonnement : votre abonnement démarre aussitôt. Pour le moment, l’accès à tout le contenu reste gratuit.</p></details>
+      <details><summary>Comment acheter un cours ?</summary><p>Pour le moment, les cours sont gratuits : ouvrez simplement le cours de votre choix. Les fiches pédagogiques complètes sont réservées aux abonnés (voir la page Abonnement). Il n’y a pas d’achat à l’unité.</p></details>
+      <details><summary>Comment m’abonner ?</summary><p>Écrivez-nous avec ce formulaire (sujet « Paiement ou abonnement »). Après votre paiement, nous vous envoyons un code d’activation personnel et à usage unique. Saisissez-le dans la page Abonnement : votre abonnement démarre aussitôt. Les cours restent gratuits ; l’abonnement donne accès aux fiches pédagogiques complètes.</p></details>
       <details><summary>Comment installer l’application ?</summary><p>Sur Android, ouvrez le menu de votre navigateur et choisissez « Installer l’application » ou « Ajouter à l’écran d’accueil ». Sur iPhone, touchez Partager, puis « Sur l’écran d’accueil ».</p></details>
       <details><summary>Puis-je lire sans internet ?</summary><p>Oui, pour les pages que vous avez déjà ouvertes avec une connexion. Ouvrez un cours une première fois en ligne pour le retrouver ensuite hors connexion.</p></details>
       <details><summary>J’ai changé de téléphone : où sont mes achats ?</summary><p>Pour l’instant, vos achats, favoris et progression sont enregistrés sur l’appareil. Écrivez-nous en indiquant votre nom et vos achats, nous vous aiderons à les retrouver.</p></details>
@@ -192,7 +192,11 @@ $("send").onclick=function(){
  else if(CONTACT.email){location.href="mailto:"+CONTACT.email+"?subject="+encodeURIComponent($("subj").value+" — Expert en français")+"&body="+encodeURIComponent(txt)}
  else toast("Contact non configuré pour l’instant")};
 $("nav").onclick=navClick;drawNav(-1);
-if(/[?&]sujet=abonnement/.test(location.search)){var sj=document.getElementById("subj");if(sj)sj.selectedIndex=1}
+if(/[?&]sujet=abonnement/.test(location.search)){var sj=document.getElementById("subj");if(sj)sj.selectedIndex=1;
+ var pm=/[?&]plan=([a-z]+)/.exec(location.search),pn=pm&&PLANS.filter(function(x){return x.id===pm[1]})[0];
+ if(pn){var hc=homeCycle(),
+  lines=["Bonjour,","Je souhaite souscrire à l’abonnement « "+pn.n+" » ("+pn.d+" jours) au tarif de "+price(pn.pr)+".","Profil : "+ROLES[ROLE]+(hc?" · Cycle : "+hc:""),"Paiement souhaité : Mobile Money.","Merci de m’indiquer comment payer pour recevoir mon code d’activation."];
+  $("msg").value=lines.join("\n")}}
 </script>
 </body>
 </html>

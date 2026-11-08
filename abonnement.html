@@ -136,7 +136,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
       <div id="plans"></div>
       <h3 class="sec">Comment s’abonner ?</h3>
       <ol class="steps">
-        <li>Contactez-nous et choisissez votre formule.</li>
+        <li>Touchez la formule choisie : la page Contact s’ouvre avec un message déjà rédigé.</li>
         <li>Payez par Mobile Money comme convenu avec nous.</li>
         <li>Vous recevez un <b>code d’activation</b> personnel, valable une seule fois.</li>
         <li>Saisissez-le ci-dessous : l’abonnement démarre aussitôt.</li>
@@ -163,8 +163,10 @@ function nav(){drawNav(4)}
 function renderStatut(){
  var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0];
  $("statut").innerHTML=on?'<b>Abonnement actif ✓</b><small>'+(pl?esc(pl.n)+' · ':'')+'jusqu’au '+esc(fmtDate(s.end))+'</small>':'<b>Aucun abonnement actif</b><small>Activez un code pour accéder à tout le contenu.</small>'}
-$("plans").innerHTML=PLANS.map(function(x){return '<div class="card plan"><div class="r"><b>'+esc(x.n)+'</b><b>'+esc(price(x.pr))+'</b></div><small>'+x.d+' jours</small></div>'}).join("");
+$("plans").innerHTML=PLANS.map(function(x){return '<button type="button" class="card plan" data-p="'+x.id+'"><div class="r"><b>'+esc(x.n)+'</b><b>'+esc(price(x.pr))+'</b></div><small>'+x.d+' jours · Choisir cette formule ›</small></button>'}).join("");
+Array.prototype.forEach.call(document.querySelectorAll("#plans .plan"),function(b){b.onclick=function(){location.href="contact.html?sujet=abonnement&plan="+encodeURIComponent(b.getAttribute("data-p"))}});
 $("gratuit").hidden=!GRATUIT;
+if(GRATUIT&&FICHES_VERROU)$("gratuit").textContent="Pendant la période de lancement, les cours restent gratuits. Pour les fiches pédagogiques, l’en-tête et les deux premières étapes sont gratuits ; les autres étapes, la page de l’apprenant, le corrigé et le PDF sont réservés aux abonnés.";
 renderStatut();
 subRefresh(true).then(renderStatut);
 $("bell").onclick=function(){toast("Aucune nouvelle notification")};

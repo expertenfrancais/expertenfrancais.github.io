@@ -241,7 +241,7 @@ function render(){
    '<span class="tag">'+((({Cours:"Cours"})[d.k]||d.k.replace(/s$/,"")))+'</span><span class="subj">'+esc(d.m)+'</span>'+
    '<button class="fav" data-f="'+d.id+'" aria-pressed="'+f+'" aria-label="Favori">'+ico("heart")+'</button></div>'+
    '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">Niveau '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:#7a5cd0;text-decoration:none">Voir les détails ›</a>'+
-   '<div class="r2"><div class="price"><small>Prix</small><b>'+(canAccess(d.id)?(GRATUIT?"Gratuit":isSubscribed()?"Inclus":"Acheté"):(ACHAT?price(d.pr):"Abonnés"))+'</b></div>'+
+   '<div class="r2"><div class="price"><small>Prix</small><b>'+(canAccess(d.id)?accesLabel(d):(ACHAT?price(d.pr):"Abonnés"))+'</b></div>'+
    '<span class="rate">'+ico("star")+d.r.toFixed(1)+'</span>'+
    (canAccess(d.id)||!ACHAT?'<button class="add in" data-o="'+d.id+'">'+(canAccess(d.id)?"Ouvrir":"Voir")+'</button>':'<button class="add'+(c?" in":"")+'" data-c="'+d.id+'">'+(c?"Ajouté ✓":"Ajouter")+'</button>')+'</div></div></article>'}
  /* Rangement par catégorie : plusieurs groupes = une rangée par groupe ; un seul groupe = liste avec « Afficher plus » */

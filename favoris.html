@@ -120,7 +120,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 <div class="app">
   <header class="top">
     <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small>Vos coups de cœur</small><b>Mes favoris</b></div></div>
-    <button class="ib" id="bell" type="button" aria-label="Notifications"></button>
+    <button class="ib" id="set" type="button" aria-label="Paramètres"></button>
   </header>
   <main>
     <section id="vList">
@@ -139,7 +139,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 </div>
 <script src="data.js"></script>
 <script>
-$("bell").innerHTML=ico("bell");
+$("set").innerHTML=ico("gear");
 $("bigHeart").innerHTML=ico("heart",40);
 var n=userName();if(n)$("av").textContent=n.charAt(0).toUpperCase();
 
@@ -152,7 +152,7 @@ function render(){
  nav()}
 
 bindCards($("list"),function(k){if(k==="fav")render();else nav()});
-$("bell").onclick=function(){toast("Aucune nouvelle notification")};
+$("set").onclick=function(){location.href="parametres.html"};
 $("goCat").onclick=function(){location.href="catalogue.html"};
 $("nav").onclick=navClick;
 render();

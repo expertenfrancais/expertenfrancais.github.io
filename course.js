@@ -50,7 +50,7 @@ paintLessons();
 if(acc){
  /* Accès : prix remplacé par l’état, sections lisibles, bouton de téléchargement */
  var stl=ls("studied",[]);if(stl.indexOf(d.id)<0){stl.push(d.id);sv("studied",stl)}
- var pr=$("price");pr.className="pill r own";pr.innerHTML=svg(IC.check)+(GRATUIT?"Gratuit":inc?"Inclus":"Acheté");
+ var pr=$("price");pr.className="pill r own";pr.innerHTML=svg(IC.check)+accesLabel(d);
  var sl=$("subLink");if(sl)sl.remove();
  if(logged){$("lessons").insertAdjacentHTML("afterend",rateBox(d.id));bindRate(P,d.id)}
  go.innerHTML='<span>Télécharger</span><i>'+svg(IC.dl)+'</i>';

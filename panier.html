@@ -113,7 +113,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 <div class="app" id="app">
   <header class="top">
     <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small>Paiements</small><b>Mon panier</b></div></div>
-    <button class="ib" id="bell" type="button" aria-label="Notifications"><svg width="22" height="22" viewBox="0 0 24 24"><path id="p-bell"/></svg></button>
+    <button class="ib" id="set" type="button" aria-label="Paramètres"><svg width="22" height="22" viewBox="0 0 24 24"><path id="p-gear"/></svg></button>
   </header>
   <main>
     <section id="vFull">
@@ -141,9 +141,10 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 
     <section id="vEmpty" class="center" hidden>
       <div class="okc"><svg width="40" height="40" viewBox="0 0 24 24"><path id="p-cart"/></svg></div>
-      <h3>Bientôt disponible</h3>
-      <p>Les paiements seront bientôt disponibles. En attendant, tous les cours et toutes les ressources sont gratuits.</p>
-      <button class="btn" id="goCat" type="button">Voir le catalogue</button>
+      <h3>Pas d’achat à l’unité</h3>
+      <p>L’accès aux contenus réservés se fait par abonnement : saisissez votre code d’activation. Les cours restent gratuits.</p>
+      <button class="btn" id="goAbo" type="button">Voir l’abonnement</button>
+      <button class="btn" id="goCat" type="button" style="margin-top:10px">Voir le catalogue</button>
     </section>
 
     <section id="vDone" class="center" hidden>
@@ -167,7 +168,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 var PAY={charge:function(provider,phone,amount,ids){return new Promise(function(ok){setTimeout(ok,1500)})}};
 
 var prov="MTN",busyPay=false;
-$("p-bell").setAttribute("d",IC.bell);$("p-cart").setAttribute("d",IC.cart);
+$("p-gear").setAttribute("d",IC.gear);$("p-cart").setAttribute("d",IC.cart);
 var p=$("p-ok");p.setAttribute("d",IC.ok);p.setAttribute("fill","none");p.setAttribute("stroke","#fff");p.setAttribute("stroke-width","3");p.setAttribute("stroke-linecap","round");p.setAttribute("stroke-linejoin","round");
 var name="";try{name=localStorage.getItem("user_name")||""}catch(e){}
 if(name)$("av").textContent=name.charAt(0).toUpperCase();
@@ -192,7 +193,8 @@ function render(){
 function nav(){drawNav(3)}
 
 /* Événements */
-$("bell").onclick=function(){toast("Aucune nouvelle notification")};
+$("set").onclick=function(){location.href="parametres.html"};
+if($("goAbo"))$("goAbo").onclick=function(){location.href="abonnement.html"};
 $("list").onclick=function(e){var b=e.target.closest(".rm");if(!b)return;
  var id=+b.dataset.r,i=cart.indexOf(id);if(i>-1)cart.splice(i,1);sv("cart",cart);render();toast("Retiré du panier")};
 $("prov").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;prov=b.dataset.p;

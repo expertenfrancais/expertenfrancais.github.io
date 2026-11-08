@@ -191,7 +191,7 @@ function paintAccount(){
  $("nm").textContent=n||"Mon compte";$("av").textContent=(n||"E").charAt(0).toUpperCase();
  $("role").textContent=ROLES[ROLE]+" · Voir mon profil";
  var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0];
- $("subTxt").textContent=GRATUIT?"Bientôt disponible":on?"Actif"+(pl?" · "+pl.n:"")+" · jusqu’au "+fmtDate(s.end):"Aucun abonnement actif";
+ $("subTxt").textContent=on?"Actif"+(pl?" · "+pl.n:"")+" · jusqu’au "+fmtDate(s.end):"Aucun abonnement actif · Activer un code";
  $("cycTxt").textContent=homeCycle()?(canSwitchCycle()&&activeCycle()!==homeCycle()?homeCycle()+" (affiché : "+activeCycle()+")":homeCycle()):"Non choisi";
  paintAvatars()}
 

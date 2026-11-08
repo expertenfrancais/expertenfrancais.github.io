@@ -290,8 +290,8 @@ if(homeCycle())$("fSubject").placeholder="Ex. "+CYCLES[homeCycle()].slice(0,2).j
 function nav(){drawNav(4)}
 function paintSub(){
  var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0],ds=on?Math.ceil((Date.parse(s.end)-Date.now())/864e5):0;
- var bs=$("bSub");bs.textContent=GRATUIT?"Accès gratuit":on?"Abonné":"Sans abonnement";bs.className="bd1"+(GRATUIT||on?"":" off");
- $("subc").innerHTML=GRATUIT?"<b>Abonnement</b><span>Bientôt disponible. En attendant, tout le contenu est gratuit.</span>":"<b>"+(on?"Abonnement actif ✓ · "+esc(pl?pl.n:""):"Pas d’abonnement")+"</b><span>"+(on?"Valable jusqu’au "+fmtDate(s.end)+" · "+ds+" jour"+(ds>1?"s":"")+" restant"+(ds>1?"s":""):"Accédez à tout le contenu sans achat à l’unité.")+"</span><em>"+(on?"Gérer ›":"Voir les formules ›")+"</em>";
+ var bs=$("bSub");bs.textContent=on?"Abonné":"Sans abonnement";bs.className="bd1"+(on?"":" off");
+ $("subc").innerHTML="<b>"+(on?"Abonnement actif ✓ · "+esc(pl?pl.n:""):"Pas d’abonnement")+"</b><span>"+(on?"Valable jusqu’au "+fmtDate(s.end)+" · "+ds+" jour"+(ds>1?"s":"")+" restant"+(ds>1?"s":""):(GRATUIT?"Les cours sont gratuits ; l’abonnement donne accès aux fiches pédagogiques complètes.":"Accédez à tout le contenu sans achat à l’unité."))+"</span><em>"+(on?"Gérer ›":"Voir les formules ›")+"</em>";
  var ok=DOCS.map(function(d){return d.id}),inOk=function(i){return ok.indexOf(i)>-1},bought=ls("bought",[]).filter(inOk),studied=ls("studied",[]).filter(function(i){return inOk(i)&&canAccess(i)});
  var mine=DOCS.filter(function(d){return canAccess(d.id)&&(bought.indexOf(d.id)>-1||studied.indexOf(d.id)>-1)});
  $("mine").innerHTML=mine.length?mine.map(function(d){var g=G[d.k]||G.Cours,stu=studied.indexOf(d.id)>-1;

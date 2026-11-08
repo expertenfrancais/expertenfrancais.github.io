@@ -1,7 +1,7 @@
 /* ===== sw.js : service worker (fonctionnement hors ligne) =====
    Placez ce fichier au même endroit que les pages. Quand vous modifiez une page,
    changez le numéro de VERSION pour que les utilisateurs reçoivent la mise à jour. */
-var VERSION = "v162";
+var VERSION = "v165";
 var CACHE="ressources-"+VERSION;
 var IMAGES="ressources-images";
 /* Les fiches pédagogiques (dossier fiches/) ne sont pas préchargées : elles sont gardées hors ligne à la première ouverture. */

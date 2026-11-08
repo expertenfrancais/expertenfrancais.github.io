@@ -22,6 +22,14 @@ var EST_ELEVE=userRole()!=="enseignant"; /* élève, étudiant et particulier : 
 var PLANS=[{id:"mois",n:"Mensuel",d:30,pr:EST_ELEVE?1000:2500},{id:"trim",n:"Trimestriel",d:90,pr:EST_ELEVE?2000:5000},{id:"an",n:"Annuel",d:365,pr:EST_ELEVE?3000:10000}]; /* élève : 1000 / 2000 / 3000 ; enseignant : 2500 / 5000 / 10000. À garder identiques à public.formule() dans supabase/03-abonnement-codes.sql */
 function isSubscribed(){var s=ls("sub",{});return !!s.end&&Date.parse(s.end)>Date.now()}
 function canAccess(id){return GRATUIT||isSubscribed()||ls("bought",[]).indexOf(id)>-1}
+/* ===== Fiches pédagogiques : accès par étape =====
+   Gratuit : l’en-tête et les FICHES_LIBRES premières étapes de la fiche du professeur (I et II).
+   Réservé aux abonnés : les autres étapes (III, IV, V), la page de l’apprenant, le corrigé et le PDF.
+   FICHES_VERROU=true : ce verrou s’applique AUSSI quand GRATUIT est true (les cours restent gratuits, seules les fiches sont verrouillées : sert à tester l’abonnement).
+   FICHES_VERROU=false : les fiches suivent GRATUIT comme le reste. */
+var FICHES_VERROU=true,FICHES_LIBRES=2;
+function accesLabel(d){if(isSubscribed())return "Inclus";if(d.k==="Fiches"&&FICHES_VERROU&&!ficheAcces(d.id))return "Aperçu gratuit";return GRATUIT?"Gratuit":"Acheté"}
+function ficheAcces(id){return (GRATUIT&&!FICHES_VERROU)||isSubscribed()||ls("bought",[]).indexOf(id)>-1}
 function fmtDate(iso){return new Date(iso).toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})}
 function activateSub(id){var p=PLANS.filter(function(x){return x.id===id})[0],s=ls("sub",{}),b=Math.max(Date.now(),s.end?Date.parse(s.end):0);
  sv("sub",{plan:id,end:new Date(b+p.d*864e5).toISOString()});cart=[];sv("cart",cart)}
@@ -54,14 +62,14 @@ function scoreSum(s){var r={nq:0,qa:0,qo:0,ne:0,ea:0,eo:0},k;if(!s)return r;r.nq
 function openDoc(id){var d=ALLDOCS.filter(function(x){return x.id===id})[0];location.href=d?docUrl(d):BASE+"catalogue.html"}
 /* Annulation d’abonnement (avec un serveur : l’annulation doit aussi être enregistrée côté serveur) */
 function cancelSub(){try{localStorage.removeItem("sub");localStorage.removeItem("subpending")}catch(e){}}
-function subBanner(id){if(GRATUIT||isSubscribed())return;var r=$(id);if(!r)return;
- r.insertAdjacentHTML("beforebegin",'<a href="abonnement.html" style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 0 14px;padding:14px 16px;border-radius:20px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;text-decoration:none;font-weight:600;font-size:14px"><span>Abonnez-vous : tout le contenu, sans achat à l’unité</span><b style="white-space:nowrap">Voir ›</b></a>')}
+function subBanner(id){if((GRATUIT&&!FICHES_VERROU)||isSubscribed())return;var r=$(id);if(!r)return;
+ r.insertAdjacentHTML("beforebegin",'<a href="abonnement.html" style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 0 14px;padding:14px 16px;border-radius:20px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;text-decoration:none;font-weight:600;font-size:14px"><span>'+(GRATUIT?"Abonnez-vous : fiches pédagogiques complètes":"Abonnez-vous : tout le contenu, sans achat à l’unité")+'</span><b style="white-space:nowrap">Voir ›</b></a>')}
 /* ===== Fiche détail d’un document : descriptions génériques par type (une description propre au document, d.d / d.obj / d.s, les remplace) ===== */
 var INFO={
  "Cours":{desc:"Cours de français ({m}) pour le niveau {n} : notions essentielles, méthodes et exemples commentés.",obj:["Comprendre les notions essentielles du chapitre","Appliquer les méthodes sur des exemples guidés","Se préparer aux évaluations"],plan:["Objectifs et prérequis","Notions clés","Méthodes et exemples commentés","Exercices d’application","À retenir"]},
  "Programmes":{desc:"Programme et progression de français pour le niveau {n}, à utiliser pour préparer l’année.",obj:["Planifier l’année","Répartir les séquences"],plan:["Objectifs de l’année","Progression par période"]},
  "Évaluations":{desc:"Évaluation de français ({m}), niveau {n}, prête à l’emploi, avec barème.",obj:["Évaluer les acquis","Disposer d’un barème"],plan:["Sujet","Barème et corrigé"]},
- "Fiches":{desc:"Fiche pédagogique de français ({m}), niveau {n} : une séance prête à enseigner, avec la fiche du professeur, la page de l’apprenant et le corrigé.",obj:["Préparer la séance avec ses objectifs, ses étapes et son temps","Disposer de la page de l’apprenant à distribuer","Évaluer avec un corrigé et un barème"],plan:[]},
+ "Fiches":{desc:"Fiche pédagogique PPO de français ({m}), niveau {n} : une séance prête à enseigner, avec la fiche du professeur, la page de l’apprenant et le corrigé.",obj:["Préparer la séance avec ses objectifs, ses étapes et son temps","Disposer de la page de l’apprenant à distribuer","Évaluer avec un corrigé et un barème"],plan:[]},
  "Exercices":{desc:"Exercices de français ({m}), niveau {n} : séries progressives avec corrigés, pour s’entraîner en classe ou à la maison.",obj:["S’entraîner de façon progressive","Consolider le cours par la pratique","Vérifier ses réponses grâce aux corrigés"],plan:["Rappels de cours","Exercices d’échauffement","Exercices d’approfondissement","Exercices de synthèse","Corrigés"]},
  "Annales":{desc:"Annales de français ({m}), niveau {n} : sujets d’examen des années précédentes ou sujets entièrement traités, avec corrigés détaillés et méthode.",obj:["Découvrir le format de l’examen","S’entraîner dans les conditions de l’épreuve","Apprendre la méthode grâce aux corrigés détaillés"],plan:["Énoncés des sujets","Corrigés détaillés","Barème et conseils de méthode"]}
 };
@@ -471,7 +479,7 @@ function cardHTML(d){
   '<span class="rate">'+ico("star",12)+d.r.toFixed(1)+'</span><span class="tag">'+esc(d.m)+'</span>'+
   '<button class="fav" data-f="'+d.id+'" aria-pressed="'+f+'" aria-label="Favori">'+ico("heart",18)+'</button></div>'+
   '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">'+esc(d.k)+' · '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:#7a5cd0;text-decoration:none">Voir les détails ›</a>'+
-  '<div class="r2">'+(acc?'<div class="price"><b>'+(GRATUIT?"Gratuit":inc?"Inclus":"Acheté")+'</b></div><button class="add in" data-o="'+d.id+'" aria-label="Ouvrir">'+ico("dl",20)+'</button>':'<div class="price"><b>'+(ACHAT?price(d.pr):"Abonnés")+'</b></div>'+
+  '<div class="r2">'+(acc?'<div class="price"><b>'+accesLabel(d)+'</b></div><button class="add in" data-o="'+d.id+'" aria-label="Ouvrir">'+ico("dl",20)+'</button>':'<div class="price"><b>'+(ACHAT?price(d.pr):"Abonnés")+'</b></div>'+
   (ACHAT?'<button class="add'+(c?" in":"")+'" data-c="'+d.id+'" aria-label="'+(c?"Retirer du panier":"Ajouter au panier")+'">'+ico(c?"check":"plus",20)+'</button>':'<button class="add in" data-o="'+d.id+'" aria-label="Voir">'+ico("dl",20)+'</button>'))+'</div></div></article>'}
 
 /* ===== Rangement par catégorie =====
