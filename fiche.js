@@ -121,7 +121,8 @@ function init(){
  document.documentElement.className="f-page";
  if(!d||d.k!=="Fiches")return msg(root,"Fiche introuvable","Cette fiche pédagogique n’existe pas ou n’est plus disponible.","Voir le catalogue","catalogue.html");
  if(ALLOWED_TYPES.indexOf("Fiches")<0)return msg(root,"Réservé aux enseignants","Les fiches pédagogiques sont réservées au profil enseignant.","Voir le catalogue","catalogue.html");
- if(!canAccess(d.id))return msg(root,"Fiche réservée","Cette fiche est réservée aux abonnés et à ceux qui l’ont achetée.","Retour à la fiche",docUrl(d));
+ var paid=canAccess(d.id); /* La fiche du professeur est gratuite ; la page de l’apprenant et le corrigé sont réservés aux abonnés */
+  function lk(){return paid?"":'<span class="f-lk">'+(typeof ico==="function"&&window.IC&&IC.lock?ico("lock",13):"")+'</span>'}
  document.title=d.t+" | Fiche pédagogique | Expert en français";
  if(!window.fetch)return msg(root,"Navigateur trop ancien","Ouvrez l’application dans un navigateur à jour pour afficher la fiche.","Retour",docUrl(d));
  fetch(BASE+contentFile(d)).then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(function(j){
@@ -130,11 +131,20 @@ function init(){
   function tab(){var t=(location.hash||"").replace("#","");return t==="apprenant"||t==="corrige"?t:"prof"}
   function pdfHref(t){var p=t==="prof"?"prof":"apprenant";return"pdf.html?n="+d.fn+"&p="+p+"&g="+encodeURIComponent(vals.g)+"&f="+encodeURIComponent(vals.f)+"&t="+encodeURIComponent(vals.t)+"&d="+encodeURIComponent(vals.date)}
   function draw(){
-   var t=tab(),body=t==="prof"?prof(j,vals,"edit"):t==="apprenant"?apprenant(j,vals):corrige(j);
+   var t=tab();
+    if(!paid&&t!=="prof"){location.replace(BASE+(userName()?"abonnement.html":"login-app.html?next="+encodeURIComponent("abonnement.html")));return}
+    var body=t==="prof"?prof(j,vals,"edit"):t==="apprenant"?apprenant(j,vals):corrige(j);
    root.innerHTML='<div class="fx"><div class="f-bar"><a class="f-back" id="fBack" href="'+docUrl(d)+'" aria-label="Retour à la fiche"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+BACK+'"/></svg></a><div class="f-ttl"><small>Fiche n° '+e(h.numero)+' · '+e(h.niveau)+' · '+e(h.sousDiscipline)+'</small><b>'+f(h.titre)+'</b></div>'+
     '<a class="f-pdf" id="fPdf" href="'+pdfHref(t)+'"><span class="f-l">Enregistrer en&nbsp;</span>PDF</a>'+
-    '<nav class="f-tabs" aria-label="Parties de la fiche"><a href="#prof" class="'+(t==="prof"?"on":"")+'">Fiche du professeur</a><a href="#apprenant" class="'+(t==="apprenant"?"on":"")+'">Page de l’apprenant</a><a href="#corrige" class="'+(t==="corrige"?"on":"")+'">Corrigé</a></nav></div>'+body+'</div>';
+    '<nav class="f-tabs" aria-label="Parties de la fiche"><a href="#prof" class="'+(t==="prof"?"on":"")+'">Fiche du professeur</a><a href="#apprenant" class="'+(t==="apprenant"?"on":"")+'">Page de l’apprenant'+lk()+'</a><a href="#corrige" class="'+(t==="corrige"?"on":"")+'">Corrigé'+lk()+'</a></nav></div>'+body+'</div>';
    if(t==="prof")bindFill();
+   /* Retour : revient réellement en arrière si l’on vient du site, sinon ouvre la page de présentation en remplaçant cet écran (pas de boucle) */
+   var bk=document.getElementById("fBack");
+   if(bk)bk.onclick=function(ev){ev.preventDefault();var ok=false;try{ok=history.length>1&&document.referrer&&new URL(document.referrer).origin===location.origin}catch(x){}
+    if(ok)history.back();else location.replace(docUrl(d))};
+   /* Changer d’onglet ne crée pas d’entrée d’historique : un seul « retour » suffit */
+   var tb=root.querySelectorAll(".f-tabs a");
+   for(var z=0;z<tb.length;z++)tb[z].onclick=function(ev){ev.preventDefault();location.replace(this.getAttribute("href"))};
    window.scrollTo(0,0)}
   function bindFill(){
    [["iG","g","vG"],["iF","f","vF"],["iT","t","vT"],["iD","date","vD"]].forEach(function(a){

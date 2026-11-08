@@ -42,8 +42,9 @@ body.pdfpage{display:block;min-height:100vh;background:var(--page);color:var(--i
 
 /* Fiches pédagogiques : A4 paysage (règle ajoutée par le script, voir showFiche) */
 .f-mode .wrap{max-width:1180px}
-.ptabs{display:flex;flex:1;gap:6px;justify-content:center;flex-wrap:wrap}
-.ptabs .pt{display:inline-flex;align-items:center;height:38px;padding:0 14px;border-radius:19px;background:var(--card);color:var(--link);font-size:12.5px;font-weight:600;text-decoration:none}
+.ptool{flex-wrap:wrap}
+.ptabs{display:flex;flex:1 1 100%;order:3;gap:6px;justify-content:center;flex-wrap:wrap}
+.ptabs .pt{display:inline-flex;align-items:center;justify-content:center;text-align:center;line-height:1.25;min-height:38px;padding:6px 14px;border-radius:19px;background:var(--card);color:var(--link);font-size:12.5px;font-weight:600;text-decoration:none}
 .ptabs .pt.on{background:var(--p2);color:#fff}
 @page{size:A4;margin:16mm 14mm 20mm}
 @page{@bottom-right{content:counter(page) " / " counter(pages);font-size:9pt;color:#6b6490}}
@@ -92,14 +93,17 @@ function msg(t,p,label,href){
  P.innerHTML='<div class="pmsg"><h1>'+t+'</h1><p>'+p+'</p><a class="pbtn" href="'+href+'">'+label+'</a></div>';
  pp.hidden=true;$("phint").hidden=true;$("pback").hidden=true}
 if(!d)return msg("Cours introuvable","Ce cours n’existe pas ou n’est plus disponible.","Voir le catalogue","catalogue.html");
-if(!canAccess(d.id))return msg("Téléchargement réservé","Le PDF est réservé aux abonnés et à ceux qui ont acheté ce cours.","Retour au cours",docUrl(d));
+if(!canAccess(d.id)&&!(nf&&q.get("p")!=="apprenant"))return nf?msg("Page réservée aux abonnés","La page de l’apprenant et le corrigé sont réservés aux abonnés. La fiche du professeur reste gratuite.","S’abonner",BASE+"abonnement.html"):msg("Téléchargement réservé","Le PDF est réservé aux abonnés et à ceux qui ont acheté ce cours.","Retour au cours",docUrl(d));
 if(d.k==="Fiches"&&ALLOWED_TYPES.indexOf("Fiches")<0)return msg("Réservé aux enseignants","Les fiches pédagogiques sont réservées au profil enseignant.","Voir le catalogue","catalogue.html");
 document.title=d.t+" | PDF | Expert en français";
 
 /* Retour : revient à la page du cours si l’on en vient, sinon l’ouvre */
 $("pback").href=docUrl(d);
 $("pback").onclick=function(e){
- if(window.history.length>1&&document.referrer&&/\/(cours|fiches)\//.test(document.referrer)){e.preventDefault();history.back()}};
+ /* Si l’on vient d’une page du site : vrai retour en arrière (jamais un nouvel aller vers la page de départ, sinon on tourne en rond). Sinon : on remplace cet écran par la fiche ou le cours. */
+ var ok=false;try{ok=window.history.length>1&&document.referrer&&new URL(document.referrer).origin===location.origin}catch(x){}
+ e.preventDefault();
+ if(ok)history.back();else location.replace(d.k==="Fiches"?BASE+"fiche.html?n="+d.fn:docUrl(d))};
 
 /* Fiche pédagogique : deux sorties, A4 paysage. p=prof : la fiche du professeur ; p=apprenant : page de l’apprenant, puis corrigé sur une feuille séparée.
    Date et effectif arrivent dans l’adresse (g, f, t, d) depuis fiche.html ; rien n’est enregistré. */
@@ -112,6 +116,8 @@ function showFiche(j){
  var base="pdf.html?n="+d.fn+"&g="+encodeURIComponent(v.g)+"&f="+encodeURIComponent(v.f)+"&t="+encodeURIComponent(v.t)+"&d="+encodeURIComponent(v.date),tb=$("ptabs");
  tb.hidden=false;
  tb.innerHTML='<a class="pt'+(p==="prof"?" on":"")+'" href="'+base+'&p=prof">Fiche du professeur</a><a class="pt'+(p==="apprenant"?" on":"")+'" href="'+base+'&p=apprenant">Page de l’apprenant + corrigé</a>';
+ var pts=tb.querySelectorAll("a.pt");
+ for(var z=0;z<pts.length;z++)pts[z].onclick=function(e){e.preventDefault();location.replace(this.getAttribute("href"))}; /* changer d’onglet ne crée pas d’entrée d’historique */
  P.innerHTML='<article class="sheet fx f-force">'+(p==="prof"?FICHE.prof(j,v,"print"):FICHE.apprenant(j,v)+'<div class="f-pagebreak"></div>'+FICHE.corrige(j))+'</article>';
  var ft=("Expert en français · "+d.t+(userName()?" · "+userName():"")).replace(/[\\"]/g,"").replace(/[\r\n]+/g," "),st=document.createElement("style");
  st.textContent='@page{@bottom-left{content:"'+ft+'";font-size:8.5pt;color:#6b6490}}';document.head.appendChild(st);

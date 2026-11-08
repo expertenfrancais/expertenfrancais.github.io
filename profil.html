@@ -380,7 +380,8 @@ function userCover(){try{return localStorage.getItem("user_cover")||""}catch(e){
 function paintCover(){
  var c=userCover(),h=$("hero");
  if(c){h.style.backgroundImage='linear-gradient(180deg,rgba(0,0,0,.28),rgba(0,0,0,0) 55%),url("'+c+'")';h.classList.add("ph")}
- else{h.style.backgroundImage="";h.classList.remove("ph")}
+ else{h.style.backgroundImage="";h.classList.remove("ph");
+  landDefault("c",function(u){if(userCover())return;h.style.backgroundImage='linear-gradient(180deg,rgba(0,0,0,.28),rgba(0,0,0,0) 55%),url("'+u+'")';h.classList.add("ph")})}
  $("uncover").hidden=!c}
 function readCover(file){
  if(!file)return;

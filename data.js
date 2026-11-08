@@ -187,6 +187,16 @@ var ALLDOCS=[
  {id:74,img:IMG.b,t:"Les consonnes doubles",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Pourquoi y a-t-il des consonnes doubles ?"},{t:"Les mots commençant par ap-, ac-, af-, ef-, of-, at-"},{t:"Les préfixes négatifs : il-, im-, ir-, inn-"},{t:"Les consonnes doubles à l’intérieur des mots"},{t:"Les verbes qui doublent la consonne"},{t:"Astuces pour retenir les consonnes doubles"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:75,img:IMG.c,t:"Les homophones ce / se, ces / ses",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Quatre mots, deux paires à ne pas confondre"},{t:"ce : déterminant ou pronom"},{t:"se : pronom personnel"},{t:"ces : déterminant démonstratif pluriel"},{t:"ses : déterminant possessif pluriel"},{t:"Les quatre ensemble : comment choisir ?"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:10001,fn:1,img:IMG.e,t:"Le groupe verbal : verbe + cc",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10002,fn:2,img:IMG.a,t:"Fiche modèle n° 1 (test)",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
+ {id:10003,fn:3,img:IMG.b,t:"Fiche modèle n° 2 (test)",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
+ {id:10004,fn:4,img:IMG.c,t:"Fiche modèle n° 3 (test)",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
+ {id:10005,fn:5,img:IMG.d,t:"Fiche modèle n° 4 (test)",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
+ {id:10006,fn:6,img:IMG.e,t:"Fiche modèle n° 5 (test)",k:"Fiches",n:"3e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10007,fn:7,img:IMG.f,t:"Fiche modèle n° 6 (test)",k:"Fiches",n:"3e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10008,fn:8,img:IMG.g,t:"Fiche modèle n° 7 (test)",k:"Fiches",n:"3e",m:"Orthographe",pr:25,r:4.8},
+ {id:10009,fn:9,img:IMG.h,t:"Fiche modèle n° 8 (test)",k:"Fiches",n:"3e",m:"Orthographe",pr:25,r:4.8},
+ {id:10010,fn:10,img:IMG.a,t:"Fiche modèle n° 9 (test)",k:"Fiches",n:"3e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10011,fn:11,img:IMG.b,t:"Fiche modèle n° 10 (test)",k:"Fiches",n:"3e",m:"Vocabulaire",pr:25,r:4.8},
  {id:20002,an:2,img:IMG.b,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20003,an:3,img:IMG.b,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20004,an:4,img:IMG.b,t:"BEPC · Expression écrite · Session juillet 2025",k:"Annales",n:"3e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
@@ -424,10 +434,25 @@ cart=cart.filter(function(i){return !canAccess(i)});
 /* Informations de profil et photo (stockées sur l’appareil) */
 function userProfile(){return ls("user_profile",{})}
 function userPhoto(){try{return localStorage.getItem("user_photo")||""}catch(e){return""}}
+/* Images par défaut : paysages libres de droits (licence Unsplash), appelés par lien direct ; rien n’est copié ni stocké (ni sur le site, ni dans Supabase).
+   Chaque utilisateur en reçoit une, toujours la même, choisie d’après son nom. Si l’image ne se charge pas (hors ligne, lien retiré), on garde le dégradé d’origine. */
+var LANDS=["1506905925346-21bda4d32df4","1500964757637-c85e8a162699","1519414442781-fbd745c5b497","1490682143684-14369e18dce8","1642761684233-9d2d6b0cb4d8","1647974794666-20c41a4a3a4a","1686012391110-66768cd0a0ac","1692199336368-9f4ed1971c43","1494548162494-384bba4ab999","1686012216030-aa93a1283560"],_landOk={};
+function landHash(s){var h=0;for(var i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))>>>0;return h}
+function landDefault(kind,cb){ /* kind : "a" = photo de profil (carrée), "c" = couverture (bandeau) ; cb(url) n’est appelée que si l’image est bien chargée */
+ var w=kind==="c"?900:240,h=kind==="c"?360:240,k=landHash((userName()||"")+kind),n=0;
+ if(_landOk[kind])return cb(_landOk[kind]);
+ (function essai(){
+  if(n>=2||typeof Image==="undefined")return;
+  var im=new Image(),u="https://images.unsplash.com/photo-"+LANDS[(k+n)%LANDS.length]+"?auto=format&fit=crop&w="+w+"&h="+h+"&q=60";
+  im.onload=function(){_landOk[kind]=u;cb(u)};
+  im.onerror=function(){n++;essai()};
+  im.src=u})()}
 function paintAvatars(){var ph=userPhoto();
  document.querySelectorAll(".av,.big").forEach(function(a){
   if(ph){a.style.background='url("'+ph+'") center/cover no-repeat';a.classList.add("ph")}
-  else{a.style.background="";a.classList.remove("ph")}})}
+  else{a.style.background="";a.classList.remove("ph")}});
+ if(!ph)landDefault("a",function(u){if(userPhoto())return;
+  document.querySelectorAll(".av,.big").forEach(function(a){a.style.background='url("'+u+'") center/cover no-repeat';a.classList.add("ph")})})}
 paintAvatars();
 
 /* Thème : "auto" (par défaut), "light" ou "dark" */
