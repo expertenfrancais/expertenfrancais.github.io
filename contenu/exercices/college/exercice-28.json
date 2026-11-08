@@ -1,0 +1,230 @@
+{
+ "id": 30028,
+ "meta": {
+  "t": "La phrase et ses constituants : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "ex": 28
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La phrase",
+     "text": "Une **phrase** est une suite de mots ordonnés qui a un sens. Elle commence par une majuscule et se termine par un point (. ? ! …). Elle est **verbale** si elle contient un verbe conjugué, **non verbale** dans le cas contraire."
+    },
+    {
+     "type": "table",
+     "title": "Les constituants de la phrase",
+     "head": [
+      "Constituant",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "Le sujet",
+       "Il dit qui fait l’action ou de qui l’on parle."
+      ],
+      [
+       "Le prédicat",
+       "Il dit ce que l’on affirme du sujet (verbe et compléments du verbe)."
+      ],
+      [
+       "Le complément de phrase",
+       "Il précise les circonstances (temps, lieu, manière…) ; on peut le supprimer et le déplacer."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver le sujet, pose la question « Qui est-ce qui… ? » devant le verbe : « Qui est-ce qui chante ? » → *l’oiseau*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque suite de mots est une phrase ou non.",
+     "items": [
+      "Maman prépare le repas.",
+      "Tous les matins à la maison",
+      "Quel beau jour !",
+      "Lisons ce texte."
+     ],
+     "corrige": [
+      "Maman prépare le repas. : **phrase** (verbale).",
+      "Tous les matins à la maison : **pas une phrase** (ni verbe conjugué, ni sens complet, ni ponctuation).",
+      "Quel beau jour ! : **phrase** (non verbale).",
+      "Lisons ce texte. : **phrase** (verbale)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces phrases est non verbale ?",
+     "options": [
+      "Il pleut beaucoup.",
+      "Quelle belle journée !",
+      "Les élèves écoutent."
+     ],
+     "answer": 1,
+     "explain": "« Quelle belle journée ! » ne contient aucun verbe conjugué : c’est une phrase non verbale. Les deux autres contiennent « pleut » et « écoutent »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe conjugué de chaque phrase.",
+     "items": [
+      "Les élèves lisent un conte.",
+      "Mon père travaille à Pointe-Noire.",
+      "Nous chantons en chœur.",
+      "Le vent souffle fort."
+     ],
+     "corrige": [
+      "Les élèves **lisent** un conte.",
+      "Mon père **travaille** à Pointe-Noire.",
+      "Nous **chantons** en chœur.",
+      "Le vent **souffle** fort."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le type de chaque phrase (déclarative, interrogative, injonctive ou exclamative).",
+     "items": [
+      "Le soleil se lève tôt.",
+      "Où habites-tu ?",
+      "Ferme la porte.",
+      "Comme ce fruit est sucré !",
+      "Viens ici."
+     ],
+     "corrige": [
+      "Le soleil se lève tôt. : **déclarative**.",
+      "Où habites-tu ? : **interrogative**.",
+      "Ferme la porte. : **injonctive**.",
+      "Comme ce fruit est sucré ! : **exclamative**.",
+      "Viens ici. : **injonctive**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Récris chaque phrase à la forme négative.",
+     "items": [
+      "Il pleut.",
+      "Nous aimons le poisson.",
+      "Tu connais ce chemin.",
+      "Elle sort ce soir."
+     ],
+     "corrige": [
+      "Il **ne** pleut **pas**.",
+      "Nous **n’**aimons **pas** le poisson.",
+      "Tu **ne** connais **pas** ce chemin.",
+      "Elle **ne** sort **pas** ce soir."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon voisin répare son vélo dans la cour. », quel est le sujet du verbe ?",
+     "options": [
+      "Mon voisin",
+      "son vélo",
+      "dans la cour"
+     ],
+     "answer": 0,
+     "explain": "On pose la question « Qui est-ce qui répare ? » : c’est « Mon voisin ». « son vélo » complète le verbe et « dans la cour » est un complément de phrase."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sépare le sujet et le prédicat de chaque phrase.",
+     "items": [
+      "Les élèves de la 6e A visitent le musée.",
+      "Ma grand-mère prépare du manioc.",
+      "Le chien du voisin aboie toute la nuit.",
+      "Nous partons demain."
+     ],
+     "corrige": [
+      "**Les élèves de la 6e A** (sujet) | visitent le musée (prédicat).",
+      "**Ma grand-mère** (sujet) | prépare du manioc (prédicat).",
+      "**Le chien du voisin** (sujet) | aboie toute la nuit (prédicat).",
+      "**Nous** (sujet) | partons demain (prédicat)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans la phrase « Demain, mon cousin offrira un ballon à sa sœur. », relève : le sujet, le verbe, les compléments du verbe et le complément de phrase.",
+     "corrige": [
+      "Sujet : **mon cousin**.",
+      "Verbe : **offrira**.",
+      "Compléments du verbe : **un ballon** (COD) et **à sa sœur** (COI).",
+      "Complément de phrase : **Demain** (on peut le supprimer et le déplacer : « Mon cousin offrira un ballon à sa sœur demain. »)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois phrases sur ton école : une déclarative, une interrogative et une injonctive. Souligne le sujet dans chaque phrase.",
+     "corrige": "Exemple : « **Notre école** est située près du marché. **Les élèves** arrivent-ils à l’heure ? **Range** ton cahier dans ton sac. » Vérifiez la ponctuation et la majuscule, et que le sujet souligné répond bien à « Qui est-ce qui… ? » (dans la phrase injonctive, le sujet n’est pas exprimé)."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une phrase a un sens, commence par une majuscule et se termine par un signe de ponctuation.",
+      "Une phrase verbale contient un verbe conjugué ; une phrase non verbale n’en contient pas.",
+      "La phrase se compose d’un sujet, d’un prédicat et, parfois, de compléments de phrase."
+     ]
+    }
+   ]
+  }
+ ]
+}

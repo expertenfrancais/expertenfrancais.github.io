@@ -1,0 +1,233 @@
+{
+ "id": 30035,
+ "meta": {
+  "t": "La notion de verbe : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ex": 35
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le verbe",
+     "text": "Le **verbe** exprime une **action** (*manger*), un **état** (*être*) ou un **fait** (*pleuvoir*). Il se **conjugue** : il change de forme selon la personne, le nombre et le temps. Il est le noyau de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Verbe d’action et verbe d’état",
+     "head": [
+      "Sorte de verbe",
+      "Il exprime",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Verbe d’action",
+       "ce que fait le sujet",
+       "courir, manger, écrire"
+      ],
+      [
+       "Verbe d’état",
+       "comment est le sujet",
+       "être, devenir, sembler, rester"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver l’infinitif, place « Il faut » devant le verbe : « Il faut **finir** », « Il faut **prendre** »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe de chaque phrase.",
+     "items": [
+      "Awa mange une mangue.",
+      "Les enfants jouent dans la cour.",
+      "Le ciel devient gris.",
+      "Nous écrivons une lettre."
+     ],
+     "corrige": [
+      "Awa **mange** une mangue.",
+      "Les enfants **jouent** dans la cour.",
+      "Le ciel **devient** gris.",
+      "Nous **écrivons** une lettre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La marche est longue. », le mot « marche » est :",
+     "options": [
+      "un verbe",
+      "un nom",
+      "un adjectif"
+     ],
+     "answer": 1,
+     "explain": "« marche » est précédé du déterminant « La » : c’est un nom. Le verbe de la phrase est « est »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le verbe en gras est un verbe d’action ou un verbe d’état.",
+     "items": [
+      "Mon frère **semble** fatigué.",
+      "Les élèves **écrivent** une lettre.",
+      "Le chat **dort** sur le toit.",
+      "Fatou **reste** calme."
+     ],
+     "corrige": [
+      "**semble** : verbe d’**état**.",
+      "**écrivent** : verbe d’**action**.",
+      "**dort** : verbe d’**action**.",
+      "**reste** : verbe d’**état**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’infinitif de chaque verbe.",
+     "items": [
+      "nous finissons",
+      "il prend",
+      "tu chantais",
+      "ils iront",
+      "je vois"
+     ],
+     "corrige": [
+      "nous finissons → **finir**",
+      "il prend → **prendre**",
+      "tu chantais → **chanter**",
+      "ils iront → **aller**",
+      "je vois → **voir**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sépare le radical et la terminaison de chaque verbe conjugué.",
+     "items": [
+      "ils jouent",
+      "nous dansons",
+      "vous écoutez",
+      "tu parles"
+     ],
+     "corrige": [
+      "ils **jou** – **ent**",
+      "nous **dans** – **ons**",
+      "vous **écout** – **ez**",
+      "tu **parl** – **es**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "À quelle personne est le verbe dans « nous chantons » ?",
+     "options": [
+      "1re personne du singulier",
+      "1re personne du pluriel",
+      "3e personne du pluriel"
+     ],
+     "answer": 1,
+     "explain": "Le sujet « nous » correspond à la 1re personne du pluriel."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si le verbe en gras est au passé, au présent ou au futur.",
+     "items": [
+      "Autrefois, mon grand-père **pêchait** dans ce fleuve.",
+      "Maintenant, les enfants **dorment**.",
+      "Bientôt, nous **partirons** en vacances.",
+      "Hier soir, nous **avons regardé** un film."
+     ],
+     "corrige": [
+      "**pêchait** : **passé**.",
+      "**dorment** : **présent**.",
+      "**partirons** : **futur**.",
+      "**avons regardé** : **passé**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur d’accord du verbe. Attention aux mots placés entre le sujet et le verbe.",
+     "items": [
+      "Les élèves de la classe écoute le maître.",
+      "Awa et Fatou chante une chanson.",
+      "Le chat de mes voisins dorment sur le mur."
+     ],
+     "corrige": [
+      "Les élèves de la classe **écoutent** le maître (le sujet est « les élèves »).",
+      "Awa et Fatou **chantent** une chanson (deux sujets).",
+      "Le chat de mes voisins **dort** sur le mur (le sujet est « le chat »)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige quatre phrases : une avec un verbe d’action, une avec un verbe d’état, une au passé et une au futur. Souligne chaque verbe.",
+     "corrige": "Exemple : « Awa **court** vers l’école. Le ciel **devient** gris. Hier, nous **avons mangé** du manioc. Demain, je **partirai** au village. » Vérifiez que chaque verbe est bien accordé avec son sujet."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le verbe exprime une action, un état ou un fait ; il se conjugue.",
+      "Le verbe s’accorde avec son sujet en personne et en nombre.",
+      "L’infinitif est le nom du verbe ; le temps situe l’action dans le passé, le présent ou le futur."
+     ]
+    }
+   ]
+  }
+ ]
+}

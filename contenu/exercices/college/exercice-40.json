@@ -1,0 +1,239 @@
+{
+ "id": 30040,
+ "meta": {
+  "t": "Les termes génériques et spécifiques : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "g",
+  "r": 4.8,
+  "ex": 40
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Terme générique et terme spécifique",
+     "text": "Un **terme générique** (hyperonyme) est un mot **général** qui désigne une catégorie : *fruit*. Un **terme spécifique** (hyponyme) est un mot **précis** qui désigne un élément de cette catégorie : *mangue*, *banane*."
+    },
+    {
+     "type": "table",
+     "title": "Du général au précis",
+     "head": [
+      "Terme générique",
+      "Termes spécifiques"
+     ],
+     "rows": [
+      [
+       "fruit",
+       "*mangue, banane, ananas, papaye*"
+      ],
+      [
+       "animal",
+       "*lion, éléphant, chèvre, poule*"
+      ],
+      [
+       "véhicule",
+       "*voiture, bus, vélo, pirogue*"
+      ],
+      [
+       "meuble",
+       "*table, chaise, lit, armoire*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test à faire",
+     "text": "Pour vérifier, dis : « Un(e) **spécifique** est un(e) **générique** ». *Une mangue est un fruit* : cela marche. *Un fruit est une mangue* : cela ne marche pas."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve le terme générique de chaque liste.",
+     "items": [
+      "mangue, banane, ananas",
+      "chaise, table, lit",
+      "lion, éléphant, girafe",
+      "football, basket, natation"
+     ],
+     "corrige": [
+      "**fruit**",
+      "**meuble**",
+      "**animal**",
+      "**sport**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un terme spécifique de « légume » ?",
+     "options": [
+      "viande",
+      "carotte",
+      "boisson"
+     ],
+     "answer": 1,
+     "explain": "La *carotte* est un légume précis. *Viande* et *boisson* sont d’autres catégories."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque liste, trouve l’intrus.",
+     "items": [
+      "chien, chat, cheval, voiture",
+      "rouge, bleu, vert, table",
+      "marteau, scie, tournevis, assiette"
+     ],
+     "corrige": [
+      "**voiture** (ce n’est pas un animal)",
+      "**table** (ce n’est pas une couleur)",
+      "**assiette** (ce n’est pas un outil)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois termes spécifiques pour chaque terme générique.",
+     "items": [
+      "instrument de musique",
+      "fruit",
+      "sport",
+      "métier"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *guitare, tambour, flûte*",
+      "2. *mangue, orange, papaye*",
+      "3. *football, course, natation*",
+      "4. *maçon, médecin, boulanger*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace chaque terme général en gras par un terme plus précis.",
+     "items": [
+      "Il a mangé un **fruit**.",
+      "Elle a acheté un **animal**.",
+      "Il a pris un **véhicule**.",
+      "Nous avons cueilli des **fleurs**."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Il a mangé une **mangue**.",
+      "2. Elle a acheté une **chèvre**.",
+      "3. Il a pris un **bus**.",
+      "4. Nous avons cueilli des **roses**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Par rapport à « perroquet », le mot « oiseau » est un terme…",
+     "options": [
+      "générique",
+      "spécifique",
+      "contraire"
+     ],
+     "answer": 0,
+     "explain": "*Oiseau* est plus général que *perroquet* : c’est un terme générique."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Range chaque série du plus général au plus précis.",
+     "items": [
+      "chien – animal – mammifère",
+      "rose – plante – fleur",
+      "taxi – véhicule – voiture"
+     ],
+     "corrige": [
+      "**animal** → **mammifère** → **chien**",
+      "**plante** → **fleur** → **rose**",
+      "**véhicule** → **voiture** → **taxi**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis le texte : *« Au marché, Moussa a acheté des carottes, des aubergines et du manioc. Il a aussi pris des bananes et un poisson. »*",
+     "items": [
+      "Relève les termes spécifiques du mot *légume*.",
+      "Relève le terme spécifique du mot *fruit*.",
+      "Relève le terme spécifique du mot *animal* (ou du mot *poisson*)."
+     ],
+     "corrige": [
+      "1. **carottes, aubergines, manioc**",
+      "2. **bananes**",
+      "3. **poisson**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases sur le marché en utilisant des termes précis (pas de mots comme *chose* ou *truc*).",
+     "items": [
+      "Souligne les termes spécifiques que tu as employés."
+     ],
+     "corrige": "Réponse possible : *Au marché, la vendeuse propose des **mangues** mûres, des **tomates** rouges et du **poisson** frais.*"
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **terme générique** (hyperonyme) désigne une **catégorie** : *fruit, animal, meuble*.",
+      "Un **terme spécifique** (hyponyme) désigne un élément **précis** de cette catégorie : *mangue, lion, table*.",
+      "Test : « Un(e) **spécifique** est un(e) **générique** » (*une mangue est un fruit*).",
+      "Un mot peut être **générique** et **spécifique** selon le niveau : *oiseau* est spécifique de *animal* et générique de *perroquet*.",
+      "Employer des termes **précis** rend un texte plus clair et plus riche."
+     ]
+    }
+   ]
+  }
+ ]
+}

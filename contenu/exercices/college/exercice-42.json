@@ -1,0 +1,246 @@
+{
+ "id": 30042,
+ "meta": {
+  "t": "Les valeurs et l’emploi du présent : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8,
+  "ex": 42
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Valeur d’un temps",
+     "text": "La **valeur** d’un temps, c’est ce qu’il **exprime** dans la phrase. Le **présent** a plusieurs valeurs : action en cours, habitude, vérité générale, narration, futur proche."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du présent",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "action en cours (énonciation)",
+       "*Regarde, il **pleut**.*"
+      ],
+      [
+       "habitude",
+       "*Chaque matin, je me **lève** à six heures.*"
+      ],
+      [
+       "vérité générale",
+       "*La Terre **tourne** autour du Soleil.*"
+      ],
+      [
+       "narration (récit passé)",
+       "*Soudain, le chien **bondit** et **aboie**.*"
+      ],
+      [
+       "futur proche",
+       "*Le train **part** dans cinq minutes.*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les indices",
+     "text": "Un **mot de fréquence** (*chaque jour, souvent, toujours*) indique une **habitude**. Une **date ou un moment proche** (*dans cinq minutes*) indique un **futur proche**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la valeur du présent dans chaque phrase.",
+     "items": [
+      "Regarde, il pleut.",
+      "Chaque dimanche, nous allons au marché.",
+      "L’eau bout à 100 degrés.",
+      "Le train part dans deux minutes."
+     ],
+     "corrige": [
+      "1. **action en cours** (maintenant)",
+      "2. **habitude**",
+      "3. **vérité générale**",
+      "4. **futur proche**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La Terre tourne autour du Soleil », le présent exprime…",
+     "options": [
+      "une habitude",
+      "une vérité générale",
+      "un futur proche"
+     ],
+     "answer": 1,
+     "explain": "C’est un fait **toujours vrai**, qui ne dépend d’aucun moment précis."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le mot ou le groupe de mots qui indique l’habitude.",
+     "items": [
+      "Chaque matin, Awa se lève à six heures.",
+      "Moussa joue souvent au football.",
+      "Le dimanche, nous visitons notre grand-mère.",
+      "Tous les soirs, je lis une histoire."
+     ],
+     "corrige": [
+      "**Chaque matin**",
+      "**souvent**",
+      "**Le dimanche**",
+      "**Tous les soirs**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque vérité générale avec le verbe au présent.",
+     "items": [
+      "Le soleil (se lever) à l’est.",
+      "Les oiseaux (avoir) des plumes.",
+      "L’eau (geler) à 0 degré.",
+      "Deux et deux (faire) quatre."
+     ],
+     "corrige": [
+      "Le soleil **se lève** à l’est.",
+      "Les oiseaux **ont** des plumes.",
+      "L’eau **gèle** à 0 degré.",
+      "Deux et deux **font** quatre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque verbe au présent de narration.",
+     "items": [
+      "Moussa traversa la cour.",
+      "Il aperçut un chien.",
+      "Le chien aboya.",
+      "Moussa s’enfuit."
+     ],
+     "corrige": [
+      "Moussa **traverse** la cour.",
+      "Il **aperçoit** un chien.",
+      "Le chien **aboie**.",
+      "Moussa **s’enfuit**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Dans cinq minutes, le bus arrive », le présent exprime…",
+     "options": [
+      "une habitude",
+      "un futur proche",
+      "une vérité générale"
+     ],
+     "answer": 1,
+     "explain": "L’action va se passer **très bientôt** : c’est un futur proche."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase au présent pour chaque valeur demandée.",
+     "items": [
+      "une habitude",
+      "une vérité générale",
+      "une action en cours",
+      "un futur proche"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *Chaque soir, je range mon cartable.*",
+      "2. *Le feu brûle.*",
+      "3. *En ce moment, j’écris dans mon cahier.*",
+      "4. *Le cours commence dans deux minutes.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis : *« Chaque matin, Awa prend son cartable. Elle sait que le travail paie toujours. L’examen commence dans dix minutes. »* Donne la valeur du présent des verbes suivants.",
+     "items": [
+      "prend",
+      "paie",
+      "commence"
+     ],
+     "corrige": [
+      "**prend** : habitude (*chaque matin*)",
+      "**paie** : vérité générale (*toujours*)",
+      "**commence** : futur proche (*dans dix minutes*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Raconte au présent de narration, en trois ou quatre phrases, un événement imprévu (une panne, un orage, une rencontre).",
+     "items": [
+      "Commence par *Soudain…*"
+     ],
+     "corrige": "Réponse possible : *Nous marchons vers l’école quand, soudain, l’orage éclate. La pluie tombe à grosses gouttes. Nous courons vers l’abri et nous rions.*"
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **présent** a **plusieurs valeurs** : on la trouve grâce au **contexte**.",
+      "**Action en cours** : elle a lieu maintenant. **Habitude** : elle se répète (*chaque jour, souvent*).",
+      "**Vérité générale** : le fait est toujours vrai (proverbes, lois, définitions).",
+      "**Narration** : un fait passé raconté au présent pour le rendre vivant.",
+      "**Futur proche** : un fait qui va se produire très bientôt."
+     ]
+    }
+   ]
+  }
+ ]
+}

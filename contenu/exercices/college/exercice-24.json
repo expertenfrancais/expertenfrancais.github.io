@@ -1,0 +1,221 @@
+{
+ "id": 30024,
+ "meta": {
+  "t": "Les groupes de verbes : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "d",
+  "r": 4.8,
+  "ex": 24
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Les trois groupes de verbes",
+     "text": "Les verbes se classent en **trois groupes**. **1er groupe** : infinitif en **-er** (sauf *aller*). **2e groupe** : infinitif en **-ir**, avec **-iss-** à *nous* (finir → nous finissons). **3e groupe** : tous les autres verbes (*aller*, les verbes en -ir comme *partir*, les verbes en -oir et en -re)."
+    },
+    {
+     "type": "table",
+     "title": "Les groupes de verbes",
+     "head": [
+      "Groupe",
+      "Infinitif",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "1er groupe",
+       "-er (sauf aller)",
+       "chanter, manger, jouer"
+      ],
+      [
+       "2e groupe",
+       "-ir, nous -issons",
+       "finir, grandir, choisir"
+      ],
+      [
+       "3e groupe",
+       "-ir (autres), -oir, -re, aller",
+       "partir, voir, prendre, aller"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour distinguer un verbe en -ir du 2e groupe, conjuguez-le avec « nous » : **nous finissons** (2e groupe), mais **nous partons** (3e groupe)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’infinitif et le groupe de chaque verbe conjugué.",
+     "items": [
+      "nous chantons",
+      "ils finissent",
+      "je prends",
+      "tu joues",
+      "elle grandit"
+     ],
+     "corrige": [
+      "**chanter** : 1er groupe",
+      "**finir** : 2e groupe",
+      "**prendre** : 3e groupe",
+      "**jouer** : 1er groupe",
+      "**grandir** : 2e groupe"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est du 3e groupe ?",
+     "options": [
+      "manger",
+      "aller",
+      "choisir"
+     ],
+     "answer": 1,
+     "explain": "« aller » est du 3e groupe, même s’il se termine par -er. « manger » est du 1er groupe et « choisir » du 2e groupe."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe ces verbes dans le tableau : danser, réussir, voir, ranger, remplir, venir.",
+     "corrige": [
+      "1er groupe : **danser**, **ranger**.",
+      "2e groupe : **réussir**, **remplir** (nous réussissons, nous remplissons).",
+      "3e groupe : **voir**, **venir**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve l’infinitif du verbe en gras et donne son groupe.",
+     "items": [
+      "Les élèves **réfléchissent**.",
+      "Nous **partons** demain.",
+      "Il **mange** du riz.",
+      "Je **dis** la vérité."
+     ],
+     "corrige": [
+      "**réfléchir** : 2e groupe (nous réfléchissons).",
+      "**partir** : 3e groupe (nous partons).",
+      "**manger** : 1er groupe.",
+      "**dire** : 3e groupe."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi « partir » est-il un verbe du 3e groupe ?",
+     "options": [
+      "Il se termine par -ir mais fait « nous partons », sans -iss-",
+      "Il se termine par -er",
+      "C’est un verbe sans sujet"
+     ],
+     "answer": 0,
+     "explain": "Les verbes du 2e groupe font « nous -issons ». « Nous partons » n’a pas -iss- : « partir » est du 3e groupe."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris l’infinitif de chaque verbe, puis son groupe.",
+     "items": [
+      "ils bâtissent",
+      "vous voulez",
+      "elles lavent",
+      "tu attends"
+     ],
+     "corrige": [
+      "**bâtir** : 2e groupe",
+      "**vouloir** : 3e groupe",
+      "**laver** : 1er groupe",
+      "**attendre** : 3e groupe"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe appartient au 2e groupe ?",
+     "options": [
+      "ouvrir",
+      "grandir",
+      "courir"
+     ],
+     "answer": 1,
+     "explain": "« grandir » fait « nous grandissons ». « ouvrir » (nous ouvrons) et « courir » (nous courons) sont du 3e groupe."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les verbes conjugués de la phrase, puis donne leur infinitif et leur groupe : « Les enfants choisissent un jeu, puis ils courent dans la cour et chantent. »",
+     "corrige": [
+      "**choisissent** : infinitif choisir, 2e groupe.",
+      "**courent** : infinitif courir, 3e groupe.",
+      "**chantent** : infinitif chanter, 1er groupe."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases, chacune avec un verbe d’un groupe différent. Indique le groupe de chaque verbe.",
+     "corrige": "Exemple : « Nous **chantons** en classe (1er groupe). Les fleurs **grandissent** vite (2e groupe). Je **prends** mon cahier (3e groupe). » Vérifiez que les trois verbes appartiennent à trois groupes différents."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "1er groupe : infinitif en -er (sauf aller).",
+      "2e groupe : infinitif en -ir et « nous -issons » (finir, grandir).",
+      "3e groupe : tous les autres verbes (aller, partir, prendre, voir…)."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "id": 30045,
+ "meta": {
+  "t": "Les champs lexicaux : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "d",
+  "r": 4.8,
+  "ex": 45
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Champ lexical",
+     "text": "Un **champ lexical** est l’ensemble des mots qui se rapportent à **un même thème**. On y trouve des **noms**, des **verbes**, des **adjectifs**…"
+    },
+    {
+     "type": "table",
+     "title": "Champ lexical ou famille de mots ?",
+     "head": [
+      "Notion",
+      "Ce qui réunit les mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "champ lexical",
+       "le **thème**",
+       "*mer, plage, vague, bateau*"
+      ],
+      [
+       "famille de mots",
+       "le **radical**",
+       "*mer, marin, maritime, marée*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour trouver un champ lexical",
+     "text": "Ne cherche pas des mots qui se ressemblent : cherche des mots qui **parlent de la même chose**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve le thème commun à chaque liste de mots.",
+     "items": [
+      "poisson, filet, pêcheur, canne à pêche",
+      "livre, page, lire, bibliothèque",
+      "froid, neige, gelée, hiver",
+      "pompier, feu, flammes, incendie"
+     ],
+     "corrige": [
+      "**la pêche**",
+      "**la lecture**",
+      "**le froid**",
+      "**l’incendie** (ou le feu)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est l’intrus dans le champ lexical de la musique ?",
+     "options": [
+      "tambour",
+      "chanteur",
+      "mangue",
+      "guitare"
+     ],
+     "answer": 2,
+     "explain": "*Mangue* est un fruit : il n’appartient pas au champ lexical de la musique."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « famille de mots » ou « champ lexical » pour chaque liste.",
+     "items": [
+      "lait, laitier, laiterie",
+      "lait, vache, ferme, fromage",
+      "fleur, fleuriste, fleurir",
+      "fleur, rose, bouquet, jardin"
+     ],
+     "corrige": [
+      "1. **famille de mots** (radical *lait*)",
+      "2. **champ lexical** (la ferme)",
+      "3. **famille de mots** (radical *fleur*)",
+      "4. **champ lexical** (les fleurs)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans le champ lexical de l’école, donne la nature de chaque mot.",
+     "items": [
+      "élève",
+      "apprendre",
+      "attentif",
+      "cahier",
+      "écrire"
+     ],
+     "corrige": [
+      "**nom**",
+      "**verbe**",
+      "**adjectif**",
+      "**nom**",
+      "**verbe**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque liste, trouve l’intrus.",
+     "items": [
+      "ferme : vache, champ, poule, avion, tracteur",
+      "voyage : valise, billet, gare, cahier, départ",
+      "cuisine : poêle, éplucher, tableau, sel"
+     ],
+     "corrige": [
+      "**avion**",
+      "**cahier**",
+      "**tableau**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "« Le tonnerre gronde, l’éclair déchire le ciel, la pluie s’abat. » Quel est le champ lexical ?",
+     "options": [
+      "la mer",
+      "l’orage",
+      "la fête"
+     ],
+     "answer": 1,
+     "explain": "*Tonnerre*, *éclair* et *pluie* appartiennent au champ lexical de l’orage."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour le thème « le marché », écris deux noms, deux verbes et deux adjectifs.",
+     "items": [
+      "deux noms",
+      "deux verbes",
+      "deux adjectifs"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *étal, vendeur*",
+      "2. *acheter, marchander*",
+      "3. *frais, mûr*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis le texte : *« Dans la cave sombre, Awa retenait son souffle. Un bruit étrange la fit sursauter. Ses mains tremblaient et son cœur battait très fort. »*",
+     "items": [
+      "Quel est le champ lexical dominant ?",
+      "Relève au moins cinq mots ou expressions de ce champ lexical."
+     ],
+     "corrige": [
+      "1. **la peur**",
+      "2. **sombre, retenait son souffle, bruit étrange, sursauter, tremblaient, son cœur battait très fort**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un petit paragraphe de trois phrases sur le thème « un orage ».",
+     "items": [
+      "Emploie au moins cinq mots du champ lexical de l’orage.",
+      "Souligne-les."
+     ],
+     "corrige": "Réponse possible : *Le **ciel** devient noir et le **tonnerre** gronde. Un **éclair** déchire les **nuages** et la **pluie** tombe à grosses gouttes. Tout le village court se mettre à l’abri.*"
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **champ lexical** est l’ensemble des mots qui se rapportent à **un même thème**.",
+      "On y trouve des mots de **natures différentes** : noms, verbes, adjectifs, adverbes.",
+      "Une **famille de mots** réunit des mots de **même radical** ; un champ lexical, des mots de **même thème**.",
+      "Pour trouver le champ lexical d’un texte : **lire**, **souligner**, **regrouper**, **nommer** le thème.",
+      "Les champs lexicaux servent à **éviter les répétitions** et à **créer une ambiance**."
+     ]
+    }
+   ]
+  }
+ ]
+}

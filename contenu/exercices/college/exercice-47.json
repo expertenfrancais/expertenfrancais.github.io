@@ -1,0 +1,258 @@
+{
+ "id": 30047,
+ "meta": {
+  "t": "La dérivation : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "f",
+  "r": 4.8,
+  "ex": 47
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Dérivation",
+     "text": "La **dérivation** forme un mot nouveau, le **dérivé**, à partir d’un **mot de base** (le **radical**) auquel on ajoute un **préfixe** (avant), un **suffixe** (après), ou les deux."
+    },
+    {
+     "type": "table",
+     "title": "Le vocabulaire de la dérivation",
+     "head": [
+      "Élément",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "radical",
+       "partie qui porte le sens",
+       "**chant**"
+      ],
+      [
+       "préfixe",
+       "placé avant le radical",
+       "**dé**chanter"
+      ],
+      [
+       "suffixe",
+       "placé après le radical",
+       "chant**eur**"
+      ],
+      [
+       "famille de mots",
+       "mots de même radical",
+       "*terre, terrain, enterrer*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Préfixe et classe",
+     "text": "Le **préfixe** ne change pas la classe du mot (*faire* → *défaire*, deux verbes). Le **suffixe** peut la changer (*chanter* → *chanteur*, un verbe devient un nom)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Entoure le radical de chaque mot.",
+     "items": [
+      "chanteur",
+      "défaire",
+      "jardinier",
+      "impossible"
+     ],
+     "corrige": [
+      "**chant**eur",
+      "dé**faire**",
+      "**jardin**ier",
+      "im**possible**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « relire », *re-* est…",
+     "options": [
+      "un suffixe",
+      "un préfixe",
+      "un radical"
+     ],
+     "answer": 1,
+     "explain": "*Re-* est placé **avant** le radical *lire* : c’est un préfixe."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « préfixe » ou « suffixe » pour chaque élément.",
+     "items": [
+      "-eur",
+      "in-",
+      "-ette",
+      "dé-",
+      "-ment",
+      "re-"
+     ],
+     "corrige": [
+      "-eur : **suffixe**",
+      "in- : **préfixe**",
+      "-ette : **suffixe**",
+      "dé- : **préfixe**",
+      "-ment : **suffixe**",
+      "re- : **préfixe**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme le contraire de chaque mot avec un préfixe.",
+     "items": [
+      "possible",
+      "lisible",
+      "faire",
+      "heureux"
+     ],
+     "corrige": [
+      "**im**possible",
+      "**il**lisible",
+      "**dé**faire",
+      "**mal**heureux"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Ajoute le suffixe indiqué pour former un nouveau mot.",
+     "items": [
+      "jardin + -ier",
+      "chanter + -eur",
+      "danse + -euse",
+      "pomme + -ier"
+     ],
+     "corrige": [
+      "**jardinier**",
+      "**chanteur**",
+      "**danseuse**",
+      "**pommier**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot appartient à la famille du mot « terre » ?",
+     "options": [
+      "terrasse",
+      "terminer",
+      "tarif"
+     ],
+     "answer": 0,
+     "explain": "*Terrasse* est formé sur le radical **terr-** : il appartient à la famille de *terre*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux mots de la famille de chaque mot.",
+     "items": [
+      "lait",
+      "fleur",
+      "dent"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *laitier, laiterie, allaiter*",
+      "2. *fleuriste, fleurir, floraison*",
+      "3. *dentiste, dentier, édenté*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque phrase, indique la classe d’origine et la nouvelle classe du mot en gras (dérivation impropre).",
+     "items": [
+      "Le **rire** est le propre de l’homme.",
+      "Un **pauvre** demande l’aumône.",
+      "Il parle **fort**.",
+      "Le **dîner** est prêt."
+     ],
+     "corrige": [
+      "1. *rire* : verbe → **nom**",
+      "2. *pauvre* : adjectif → **nom**",
+      "3. *fort* : adjectif → **adverbe**",
+      "4. *dîner* : verbe → **nom**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme un mot en changeant de classe, comme indiqué.",
+     "items": [
+      "jardin (nom → verbe)",
+      "triste (adjectif → nom)",
+      "rouge (adjectif → verbe)",
+      "danger (nom → adjectif)"
+     ],
+     "corrige": [
+      "**jardiner**",
+      "**tristesse**",
+      "**rougir**",
+      "**dangereux**"
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **dérivation** forme un mot nouveau à partir d’un **mot de base** en ajoutant un **préfixe**, un **suffixe** ou les deux.",
+      "Les mots qui ont le **même radical** forment une **famille de mots**.",
+      "Le **préfixe** ne change pas la classe du mot ; le **suffixe** peut la changer.",
+      "La **dérivation impropre** change la classe d’un mot **sans changer sa forme** (*le rire*, *un pauvre*)."
+     ]
+    }
+   ]
+  }
+ ]
+}

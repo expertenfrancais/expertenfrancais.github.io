@@ -1,0 +1,259 @@
+{
+ "id": 30038,
+ "meta": {
+  "t": "Les temps simples : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "ex": 38
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Temps simple et temps composé",
+     "text": "Un **temps simple** s’écrit en **un seul mot** : *il chante*, *il chantait*, *il chantera*. Un **temps composé** s’écrit avec l’**auxiliaire** *avoir* ou *être* et un **participe passé** : *il a chanté*, *il est parti*."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre temps simples de l’indicatif",
+     "head": [
+      "Temps",
+      "Il exprime…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "ce qui se passe maintenant, une habitude, une vérité générale",
+       "*Awa **chante**.*"
+      ],
+      [
+       "imparfait",
+       "une description, une habitude passée, une action qui dure",
+       "*Awa **chantait** tous les soirs.*"
+      ],
+      [
+       "passé simple",
+       "une action passée, courte et terminée (récit écrit)",
+       "*Awa **chanta** devant tous.*"
+      ],
+      [
+       "futur simple",
+       "une action à venir, certaine",
+       "*Awa **chantera** demain.*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Comment reconnaître un temps simple ?",
+     "text": "Si le verbe est **un seul mot** (*il mange*, *il mangeait*), c’est un temps simple. Si l’on voit *avoir* ou *être* + un participe passé (*il a mangé*), c’est un temps composé."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « temps simple » ou « temps composé » pour chaque verbe.",
+     "items": [
+      "il chante",
+      "nous avons fini",
+      "elle dormait",
+      "ils sont partis",
+      "tu mangeras"
+     ],
+     "corrige": [
+      "il chante : **temps simple**",
+      "nous avons fini : **temps composé** (*avons* + *fini*)",
+      "elle dormait : **temps simple**",
+      "ils sont partis : **temps composé** (*sont* + *partis*)",
+      "tu mangeras : **temps simple**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le chat dormait sur le toit », quel est le temps du verbe ?",
+     "options": [
+      "présent",
+      "imparfait",
+      "futur simple"
+     ],
+     "answer": 1,
+     "explain": "*Dormait* a la terminaison **-ait** et décrit une action qui dure : c’est l’imparfait."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le temps de chaque verbe en gras (présent, imparfait, passé simple ou futur simple).",
+     "items": [
+      "Nous **jouerons** demain.",
+      "Il **ouvrit** la porte.",
+      "Les enfants **jouent** dans la cour.",
+      "Quand j’**étais** petit, je **courais** vite."
+     ],
+     "corrige": [
+      "1. **futur simple**",
+      "2. **passé simple**",
+      "3. **présent**",
+      "4. **imparfait** (*étais* et *courais*)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue chaque verbe au présent de l’indicatif.",
+     "items": [
+      "chanter (nous)",
+      "finir (ils)",
+      "aller (tu)",
+      "faire (vous)"
+     ],
+     "corrige": [
+      "nous **chantons**",
+      "ils **finissent**",
+      "tu **vas**",
+      "vous **faites**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue chaque verbe à l’imparfait de l’indicatif.",
+     "items": [
+      "jouer (je)",
+      "finir (nous)",
+      "avoir (ils)",
+      "être (tu)"
+     ],
+     "corrige": [
+      "je **jouais**",
+      "nous **finissions**",
+      "ils **avaient**",
+      "tu **étais**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue chaque verbe au futur simple de l’indicatif.",
+     "items": [
+      "parler (je)",
+      "finir (tu)",
+      "aller (elle)",
+      "avoir (nous)"
+     ],
+     "corrige": [
+      "je **parlerai**",
+      "tu **finiras**",
+      "elle **ira**",
+      "nous **aurons**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un verbe au passé simple ?",
+     "options": [
+      "Il ouvrait la porte.",
+      "Il ouvrit la porte.",
+      "Il a ouvert la porte."
+     ],
+     "answer": 1,
+     "explain": "*Ouvrit* est au passé simple (action courte et terminée). *Ouvrait* est à l’imparfait et *a ouvert* est au passé composé."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque phrase au temps demandé.",
+     "items": [
+      "Awa range sa chambre. (imparfait)",
+      "Les enfants jouent dans la cour. (futur simple)",
+      "Le chien aboie. (passé simple)",
+      "Je finis mon travail. (imparfait)"
+     ],
+     "corrige": [
+      "Awa **rangeait** sa chambre.",
+      "Les enfants **joueront** dans la cour.",
+      "Le chien **aboya**.",
+      "Je **finissais** mon travail."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "une phrase au présent qui exprime une habitude",
+      "une phrase à l’imparfait qui décrit un lieu",
+      "une phrase au futur simple",
+      "une phrase au passé simple"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *Chaque matin, je **mange** du pain.*",
+      "2. *La cour **était** grande et calme.*",
+      "3. *Demain, nous **irons** au marché.*",
+      "4. *Soudain, le vent **souffla** très fort.*"
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **temps simple** s’écrit en **un seul mot** ; un **temps composé** utilise un **auxiliaire** et un **participe passé**.",
+      "Le **présent** exprime ce qui se passe maintenant, une habitude ou une vérité générale.",
+      "L’**imparfait** décrit et exprime l’habitude : **-ais, -ais, -ait, -ions, -iez, -aient**.",
+      "Le **passé simple** raconte une action courte et terminée dans un récit écrit : *il ouvrit*, *elle chanta*.",
+      "Le **futur simple** exprime une action à venir : **-rai, -ras, -ra, -rons, -rez, -ront**."
+     ]
+    }
+   ]
+  }
+ ]
+}

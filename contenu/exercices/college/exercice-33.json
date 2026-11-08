@@ -1,0 +1,235 @@
+{
+ "id": 30033,
+ "meta": {
+  "t": "La phrase complexe : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "ex": 33
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La phrase complexe",
+     "text": "Une **phrase complexe** contient **deux verbes conjugués ou plus** : elle est formée de plusieurs **propositions**. Une proposition est un groupe de mots organisé autour d’un verbe conjugué."
+    },
+    {
+     "type": "table",
+     "title": "Comment relier deux propositions ?",
+     "head": [
+      "Lien",
+      "Moyen",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Juxtaposition",
+       "un signe de ponctuation",
+       "Il pleut, nous restons."
+      ],
+      [
+       "Coordination",
+       "une conjonction de coordination",
+       "Il pleut **mais** nous restons."
+      ],
+      [
+       "Subordination",
+       "une conjonction de subordination ou un pronom relatif",
+       "Nous restons **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Un infinitif ne compte pas comme verbe conjugué, et un temps composé (« a mangé ») compte pour un seul verbe."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase est simple ou complexe.",
+     "items": [
+      "Je veux partir.",
+      "Awa chante et danse.",
+      "Il a fini son travail.",
+      "Il pleut, nous restons."
+     ],
+     "corrige": [
+      "Je veux partir. : **simple** (un seul verbe conjugué : veux).",
+      "Awa chante et danse. : **complexe** (deux verbes conjugués : chante, danse).",
+      "Il a fini son travail. : **simple** (« a fini » est un seul verbe).",
+      "Il pleut, nous restons. : **complexe** (pleut, restons)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de verbes conjugués y a-t-il dans « Il a mangé et il est parti. » ?",
+     "options": [
+      "Un",
+      "Deux",
+      "Quatre"
+     ],
+     "answer": 1,
+     "explain": "« a mangé » et « est parti » sont deux temps composés : chacun compte pour un seul verbe conjugué, donc deux verbes en tout."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les verbes conjugués de chaque phrase et indique le nombre de propositions.",
+     "items": [
+      "Le chat dort, le chien aboie.",
+      "Nous sortons quand la pluie cesse.",
+      "Les enfants jouent dans la cour.",
+      "Je pense qu’il viendra."
+     ],
+     "corrige": [
+      "**dort**, **aboie** : 2 propositions.",
+      "**sortons**, **cesse** : 2 propositions.",
+      "**jouent** : 1 proposition (phrase simple).",
+      "**pense**, **viendra** : 2 propositions."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique comment les propositions sont reliées : juxtaposition, coordination ou subordination.",
+     "items": [
+      "Il pleut, nous restons.",
+      "Il pleut mais nous sortons.",
+      "Nous restons parce qu’il pleut.",
+      "Tu viens ou tu restes ?",
+      "Je sais qu’il viendra.",
+      "Awa chante ; Fatou danse."
+     ],
+     "corrige": [
+      "**juxtaposition** (virgule).",
+      "**coordination** (mais).",
+      "**subordination** (parce que).",
+      "**coordination** (ou).",
+      "**subordination** (que).",
+      "**juxtaposition** (point-virgule)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec la conjonction de coordination qui convient : mais, ou, donc, car.",
+     "items": [
+      "Il a très faim, ____ il mange deux assiettes.",
+      "Tu viens avec nous ____ tu restes ici ?",
+      "Nous restons à la maison, ____ il pleut.",
+      "Il est fatigué, ____ il continue de travailler."
+     ],
+     "corrige": [
+      "Il a très faim, **donc** il mange deux assiettes. (conséquence)",
+      "Tu viens avec nous **ou** tu restes ici ? (choix)",
+      "Nous restons à la maison, **car** il pleut. (cause)",
+      "Il est fatigué, **mais** il continue de travailler. (opposition)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "« Je veux partir. » est une phrase :",
+     "options": [
+      "simple",
+      "complexe",
+      "non verbale"
+     ],
+     "answer": 0,
+     "explain": "« partir » est à l’infinitif : il n’y a qu’un seul verbe conjugué (« veux »). C’est donc une phrase simple."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque proposition entre crochets et souligne la principale.",
+     "items": [
+      "Nous sortons quand la pluie cesse.",
+      "Je crois qu’il a raison.",
+      "L’élève qui travaille réussit.",
+      "Si tu veux, nous partons."
+     ],
+     "corrige": [
+      "[**Nous sortons**] [quand la pluie cesse].",
+      "[**Je crois**] [qu’il a raison].",
+      "[**L’élève** … **réussit**] [qui travaille].",
+      "[Si tu veux], [**nous partons**]."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la phrase « Le maître explique la leçon et les élèves écoutent parce qu’ils veulent comprendre. » : relève les verbes conjugués, puis indique comment sont reliées les propositions.",
+     "corrige": [
+      "Verbes conjugués : **explique**, **écoutent**, **veulent** (« comprendre » est un infinitif) : 3 propositions.",
+      "« Le maître explique la leçon » et « les élèves écoutent » sont reliées par **et** : **coordination**.",
+      "« parce qu’ils veulent comprendre » dépend de « les élèves écoutent » : **subordination**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois phrases complexes sur ton village ou ton quartier : une avec des propositions juxtaposées, une avec des propositions coordonnées et une avec une subordonnée. Souligne le mot ou le signe de liaison.",
+     "corrige": "Exemple : « Le marché ouvre à six heures**,** les vendeurs arrivent tôt. Le fleuve est calme **mais** le vent souffle. Nous restons à la maison **parce qu’**il pleut. » Vérifiez que chaque phrase contient au moins deux verbes conjugués."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une phrase complexe contient au moins deux verbes conjugués, donc plusieurs propositions.",
+      "Les propositions sont reliées par juxtaposition, coordination ou subordination.",
+      "Un infinitif ne compte pas ; un temps composé compte pour un seul verbe."
+     ]
+    }
+   ]
+  }
+ ]
+}

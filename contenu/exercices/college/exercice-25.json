@@ -1,0 +1,223 @@
+{
+ "id": 30025,
+ "meta": {
+  "t": "Les voix active et passive : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8,
+  "ex": 25
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Voix active et voix passive",
+     "text": "À la **voix active**, le sujet **fait** l’action : « Le chat mange la souris. » À la **voix passive**, le sujet **subit** l’action : « La souris est mangée par le chat. » Le verbe passif se forme avec **être + participe passé**, qui s’accorde avec le sujet. Celui qui fait l’action est le **complément d’agent** (introduit par *par* ou *de*)."
+    },
+    {
+     "type": "table",
+     "title": "Passer de l’actif au passif",
+     "head": [
+      "Voix active",
+      "Voix passive"
+     ],
+     "rows": [
+      [
+       "Le maçon construit la maison.",
+       "La maison est construite par le maçon."
+      ],
+      [
+       "Les élèves ont lu le conte.",
+       "Le conte a été lu par les élèves."
+      ],
+      [
+       "Awa lave les assiettes.",
+       "Les assiettes sont lavées par Awa."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour passer à la voix passive : le **COD** de l’actif devient le **sujet** du passif, le **sujet** de l’actif devient le **complément d’agent**, et le **temps** du verbe ne change pas."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si chaque phrase est à la voix active ou à la voix passive.",
+     "items": [
+      "Le pêcheur répare son filet.",
+      "Le filet est réparé par le pêcheur.",
+      "Les enfants chantent une chanson.",
+      "La chanson est chantée par les enfants.",
+      "Le chien a mordu le voleur."
+     ],
+     "corrige": [
+      "Voix **active**.",
+      "Voix **passive**.",
+      "Voix **active**.",
+      "Voix **passive**.",
+      "Voix **active**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la voix passive ?",
+     "options": [
+      "Les élèves écoutent le maître.",
+      "Le maître est écouté par les élèves.",
+      "Le maître écoute les élèves."
+     ],
+     "answer": 1,
+     "explain": "« est écouté » est formé avec être + participe passé, et le sujet « le maître » subit l’action."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément d’agent de chaque phrase.",
+     "items": [
+      "La maison est construite par le maçon.",
+      "Le village est entouré de collines.",
+      "Le voleur a été arrêté par la police.",
+      "Cette lettre est écrite par ma sœur."
+     ],
+     "corrige": [
+      "**par le maçon**",
+      "**de collines**",
+      "**par la police**",
+      "**par ma sœur**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme ces phrases à la voix passive.",
+     "items": [
+      "Le cuisinier prépare le repas.",
+      "Les élèves ont lu le conte.",
+      "Le vent emportera les feuilles.",
+      "Papa répare la voiture."
+     ],
+     "corrige": [
+      "Le repas **est préparé par le cuisinier**.",
+      "Le conte **a été lu par les élèves**.",
+      "Les feuilles **seront emportées par le vent**.",
+      "La voiture **est réparée par papa**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme ces phrases à la voix active.",
+     "items": [
+      "La porte est ouverte par le gardien.",
+      "Les champs sont labourés par les paysans.",
+      "Le ballon a été lancé par Jean.",
+      "Le gâteau sera mangé par les invités."
+     ],
+     "corrige": [
+      "Le gardien **ouvre** la porte.",
+      "Les paysans **labourent** les champs.",
+      "Jean **a lancé** le ballon.",
+      "Les invités **mangeront** le gâteau."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les fleurs sont arrosées par ma mère. », quel est le sujet du verbe ?",
+     "options": [
+      "ma mère",
+      "Les fleurs",
+      "arrosées"
+     ],
+     "answer": 1,
+     "explain": "Le sujet est « Les fleurs » (le verbe s’accorde avec lui : « sont arrosées »). « ma mère » est le complément d’agent."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La lettre a été envoyée hier. », avec quoi s’accorde le participe passé « envoyée » ?",
+     "options": [
+      "avec le sujet « lettre »",
+      "avec « hier »",
+      "il ne s’accorde pas"
+     ],
+     "answer": 0,
+     "explain": "À la voix passive, le participe passé s’accorde avec le sujet : « lettre » est féminin singulier, d’où « envoyée »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la voix de la phrase, puis transforme-la : « Le directeur félicite les élèves. »",
+     "corrige": [
+      "Voix **active** (le sujet « le directeur » fait l’action).",
+      "Voix passive : « Les élèves **sont félicités par le directeur**. »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases sur une scène du village : l’une à la voix active, l’autre à la voix passive.",
+     "corrige": "Exemple : « Les paysans récoltent le maïs. » (voix active) ; « Le maïs est récolté par les paysans. » (voix passive). Vérifiez l’emploi de être + participe passé accordé dans la phrase passive."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Voix active : le sujet fait l’action. Voix passive : le sujet subit l’action.",
+      "Le passif se forme avec être + participe passé accordé avec le sujet.",
+      "Le COD de l’actif devient le sujet du passif ; le sujet de l’actif devient le complément d’agent."
+     ]
+    }
+   ]
+  }
+ ]
+}

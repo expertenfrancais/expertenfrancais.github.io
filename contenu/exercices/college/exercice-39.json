@@ -1,0 +1,253 @@
+{
+ "id": 30039,
+ "meta": {
+  "t": "La conjugaison : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8,
+  "ex": 39
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Conjuguer",
+     "text": "**Conjuguer** un verbe, c’est lui donner la forme qui correspond à la **personne**, au **temps** et au **mode**. Les verbes se rangent en **trois groupes**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois groupes de verbes",
+     "head": [
+      "Groupe",
+      "Infinitif",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "1er groupe",
+       "en **-er** (sauf *aller*)",
+       "*chanter, manger, jouer*"
+      ],
+      [
+       "2e groupe",
+       "en **-ir**, avec **-issons** au présent (nous)",
+       "*finir, grandir, réussir*"
+      ],
+      [
+       "3e groupe",
+       "tous les autres verbes",
+       "*aller, prendre, partir, faire, dire*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "À apprendre par cœur",
+     "text": "Les verbes **être** et **avoir** sont à connaître par cœur : ils servent aussi d’**auxiliaires** pour former les temps composés."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le groupe de chaque verbe.",
+     "items": [
+      "chanter",
+      "finir",
+      "prendre",
+      "aller",
+      "grandir"
+     ],
+     "corrige": [
+      "chanter : **1er groupe**",
+      "finir : **2e groupe**",
+      "prendre : **3e groupe**",
+      "aller : **3e groupe**",
+      "grandir : **2e groupe**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est du 2e groupe ?",
+     "options": [
+      "partir",
+      "réussir",
+      "courir"
+     ],
+     "answer": 1,
+     "explain": "*Réussir* fait *nous réussissons*. *Partir* (*nous partons*) et *courir* (*nous courons*) sont du 3e groupe."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le verbe *être* ou *avoir* au présent.",
+     "items": [
+      "Nous ___ contents.",
+      "Tu ___ une idée.",
+      "Ils ___ en retard.",
+      "Vous ___ des amis."
+     ],
+     "corrige": [
+      "Nous **sommes** contents.",
+      "Tu **as** une idée.",
+      "Ils **sont** en retard.",
+      "Vous **avez** des amis."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue chaque verbe au présent de l’indicatif.",
+     "items": [
+      "jouer (tu)",
+      "finir (nous)",
+      "prendre (ils)",
+      "dire (vous)"
+     ],
+     "corrige": [
+      "tu **joues**",
+      "nous **finissons**",
+      "ils **prennent**",
+      "vous **dites**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque verbe au passé composé.",
+     "items": [
+      "manger (je)",
+      "partir (elle)",
+      "finir (nous)",
+      "aller (ils)"
+     ],
+     "corrige": [
+      "j’**ai mangé**",
+      "elle **est partie**",
+      "nous **avons fini**",
+      "ils **sont allés**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque phrase à l’impératif présent, à la 2e personne du singulier.",
+     "items": [
+      "Tu ouvres la fenêtre.",
+      "Tu finis ton travail.",
+      "Tu manges ta soupe.",
+      "Tu vas au tableau."
+     ],
+     "corrige": [
+      "**Ouvre** la fenêtre. (pas de *s* au 1er groupe)",
+      "**Finis** ton travail.",
+      "**Mange** ta soupe.",
+      "**Va** au tableau."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est écrite au futur simple ?",
+     "options": [
+      "Il mangera du riz.",
+      "Il mangeait du riz.",
+      "Il a mangé du riz."
+     ],
+     "answer": 0,
+     "explain": "*Mangera* a la terminaison **-ra** : c’est le futur simple. *Mangeait* est à l’imparfait et *a mangé* au passé composé."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque phrase en remplaçant *je* par *nous*.",
+     "items": [
+      "Je finis mon travail.",
+      "Je prends le bus.",
+      "Je vais au marché.",
+      "J’ai faim."
+     ],
+     "corrige": [
+      "**Nous finissons** notre travail.",
+      "**Nous prenons** le bus.",
+      "**Nous allons** au marché.",
+      "**Nous avons** faim."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le verbe entre parenthèses au temps indiqué.",
+     "items": [
+      "Hier, Moussa ___ au marché. (aller, passé composé)",
+      "Chaque matin, il ___ tôt. (se lever, présent)",
+      "Demain, il ___ son devoir. (finir, futur simple)",
+      "Autrefois, nous ___ au bord du fleuve. (jouer, imparfait)"
+     ],
+     "corrige": [
+      "Hier, Moussa **est allé** au marché.",
+      "Chaque matin, il **se lève** tôt.",
+      "Demain, il **finira** son devoir.",
+      "Autrefois, nous **jouions** au bord du fleuve."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Conjuguer**, c’est donner au verbe sa forme selon la **personne**, le **temps** et le **mode**.",
+      "Il y a **trois groupes** : **-er** (1er), **-ir / -issons** (2e), tous les autres (3e).",
+      "**Être** et **avoir** s’apprennent par cœur : ce sont les **auxiliaires**.",
+      "Le **passé composé** = auxiliaire au présent + **participe passé**.",
+      "L’**impératif** n’a que trois personnes (*tu, nous, vous*) et s’emploie **sans sujet**."
+     ]
+    }
+   ]
+  }
+ ]
+}

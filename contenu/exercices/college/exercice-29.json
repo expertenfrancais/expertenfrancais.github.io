@@ -1,0 +1,229 @@
+{
+ "id": 30029,
+ "meta": {
+  "t": "Le groupe verbal : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8,
+  "ex": 29
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le groupe verbal (GV)",
+     "text": "Le **groupe verbal** est formé du **verbe conjugué** et de ses **compléments**, s’il en a. Il dit ce que l’on affirme du sujet : c’est le prédicat de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Les trois groupes de verbes",
+     "head": [
+      "Groupe",
+      "Reconnaissance",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "1er groupe",
+       "Infinitif en -er (sauf aller)",
+       "chanter, jouer, manger"
+      ],
+      [
+       "2e groupe",
+       "Infinitif en -ir, avec -issons au présent (nous)",
+       "finir, grandir, choisir"
+      ],
+      [
+       "3e groupe",
+       "Tous les autres verbes",
+       "aller, prendre, partir, venir"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver l’infinitif, remplace le verbe conjugué par « Il faut… » : « il finit » → « il faut **finir** »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe conjugué de chaque phrase et donne son infinitif.",
+     "items": [
+      "Les enfants jouent.",
+      "Nous finissons le travail.",
+      "Tu prends ton sac.",
+      "Ils vont au marché."
+     ],
+     "corrige": [
+      "**jouent** → infinitif : jouer.",
+      "**finissons** → infinitif : finir.",
+      "**prends** → infinitif : prendre.",
+      "**vont** → infinitif : aller."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "À quel groupe appartient le verbe « grandir » ?",
+     "options": [
+      "Au 1er groupe",
+      "Au 2e groupe",
+      "Au 3e groupe"
+     ],
+     "answer": 1,
+     "explain": "« grandir » a un infinitif en -ir et fait « nous grandissons » : c’est un verbe du 2e groupe."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au présent de l’indicatif.",
+     "items": [
+      "nous (chanter)",
+      "vous (finir)",
+      "ils (aller)",
+      "tu (prendre)"
+     ],
+     "corrige": [
+      "nous **chantons**",
+      "vous **finissez**",
+      "ils **vont**",
+      "tu **prends**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe ces verbes selon leur groupe : aimer, choisir, partir, danser, réussir, venir.",
+     "corrige": [
+      "1er groupe : **aimer**, **danser**.",
+      "2e groupe : **choisir**, **réussir**.",
+      "3e groupe : **partir**, **venir**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur d’accord du verbe dans chaque phrase.",
+     "items": [
+      "Les enfants joue dans la cour.",
+      "Nous chantez une chanson.",
+      "Ma sœur et moi allez au marché.",
+      "Les oiseaux vole au-dessus du fleuve."
+     ],
+     "corrige": [
+      "Les enfants **jouent** dans la cour.",
+      "Nous **chantons** une chanson.",
+      "Ma sœur et moi **allons** au marché (« ma sœur et moi » = nous).",
+      "Les oiseaux **volent** au-dessus du fleuve."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon frère semble fatigué », quelle est la fonction du mot « fatigué » ?",
+     "options": [
+      "COD",
+      "Attribut du sujet",
+      "Complément circonstanciel"
+     ],
+     "answer": 1,
+     "explain": "« semble » est un verbe d’état : le mot qui suit exprime une qualité du sujet, c’est un attribut du sujet."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le groupe verbal de chaque phrase.",
+     "items": [
+      "Les élèves écoutent attentivement le maître.",
+      "Ma mère achète du poisson au marché.",
+      "Le ciel devient gris.",
+      "Les enfants dorment."
+     ],
+     "corrige": [
+      "Les élèves **écoutent attentivement le maître**.",
+      "Ma mère **achète du poisson au marché**.",
+      "Le ciel **devient gris**.",
+      "Les enfants **dorment**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque phrase, relève le verbe conjugué, donne son infinitif et son groupe.",
+     "items": [
+      "Les élèves choisissent un sujet.",
+      "Nous mangeons à la cantine.",
+      "Tu viens avec nous."
+     ],
+     "corrige": [
+      "**choisissent** : infinitif choisir, **2e groupe**.",
+      "**mangeons** : infinitif manger, **1er groupe**.",
+      "**viens** : infinitif venir, **3e groupe**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige deux phrases : l’une dont le groupe verbal est un verbe seul, l’autre dont le groupe verbal contient un verbe et deux compléments. Souligne chaque groupe verbal.",
+     "corrige": "Exemple : « Le bébé **dort**. Mon père **offre un cadeau à ma mère**. » Vérifiez que le verbe est bien conjugué et que, dans la seconde phrase, le groupe verbal contient un COD et un COI."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le groupe verbal est formé du verbe conjugué et de ses compléments.",
+      "Les verbes se classent en trois groupes d’après leur infinitif et leur conjugaison.",
+      "Le verbe s’accorde en personne et en nombre avec son sujet."
+     ]
+    }
+   ]
+  }
+ ]
+}

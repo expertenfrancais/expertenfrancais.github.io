@@ -1,0 +1,226 @@
+{
+ "id": 30032,
+ "meta": {
+  "t": "La nature et la fonction des mots : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "ex": 32
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Nature et fonction",
+     "text": "La **nature** d’un mot, c’est ce qu’il est (nom, verbe, adjectif…) ; on la trouve dans le dictionnaire. La **fonction**, c’est le rôle du mot ou du groupe de mots dans la phrase (sujet, COD, complément circonstanciel…)."
+    },
+    {
+     "type": "table",
+     "title": "Mots variables et mots invariables",
+     "head": [
+      "Sorte de mots",
+      "Natures"
+     ],
+     "rows": [
+      [
+       "Mots variables",
+       "nom, déterminant, adjectif qualificatif, pronom, verbe"
+      ],
+      [
+       "Mots invariables",
+       "adverbe, préposition, conjonction, interjection"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "La nature d’un mot dépend de la phrase : regarde toujours les mots qui l’entourent avant de répondre."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature du mot en gras.",
+     "items": [
+      "Les **enfants** jouent.",
+      "**Mon** frère est grand.",
+      "Le chat dort **sur** le canapé.",
+      "Il parle **doucement**."
+     ],
+     "corrige": [
+      "**enfants** : nom commun.",
+      "**Mon** : déterminant (possessif).",
+      "**sur** : préposition.",
+      "**doucement** : adverbe."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nature du mot « belle » dans « Une belle robe » ?",
+     "options": [
+      "Nom",
+      "Adjectif qualificatif",
+      "Adverbe"
+     ],
+     "answer": 1,
+     "explain": "« belle » donne une qualité au nom « robe » et s’accorde avec lui : c’est un adjectif qualificatif."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque mot est variable ou invariable, puis donne sa nature.",
+     "items": [
+      "maison",
+      "très",
+      "elle",
+      "avec",
+      "vert"
+     ],
+     "corrige": [
+      "maison : **variable** (nom).",
+      "très : **invariable** (adverbe).",
+      "elle : **variable** (pronom).",
+      "avec : **invariable** (préposition).",
+      "vert : **variable** (adjectif qualificatif)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature de chaque mot de la phrase « Mon petit frère mange lentement sa soupe chaude. »",
+     "corrige": [
+      "**Mon** : déterminant possessif.",
+      "**petit** : adjectif qualificatif.",
+      "**frère** : nom.",
+      "**mange** : verbe.",
+      "**lentement** : adverbe.",
+      "**sa** : déterminant possessif.",
+      "**soupe** : nom.",
+      "**chaude** : adjectif qualificatif."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature du mot en gras : un même mot peut avoir deux natures.",
+     "items": [
+      "**La** porte est ouverte.",
+      "Je **la** ferme.",
+      "**Le** soleil brille.",
+      "Tu **le** vois ?"
+     ],
+     "corrige": [
+      "**La** : déterminant (article défini), il accompagne le nom « porte ».",
+      "**la** : pronom personnel, il remplace « la porte ».",
+      "**Le** : déterminant (article défini), il accompagne le nom « soleil ».",
+      "**le** : pronom personnel, il est placé devant le verbe « vois »."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nature du mot « tôt » dans « Ils partent tôt » ?",
+     "options": [
+      "Adjectif qualificatif",
+      "Adverbe",
+      "Préposition"
+     ],
+     "answer": 1,
+     "explain": "« tôt » ne change jamais de forme et précise le verbe « partent » : c’est un adverbe."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du groupe en gras.",
+     "items": [
+      "**Les élèves** lisent un poème.",
+      "Les élèves lisent **un poème**.",
+      "Les élèves lisent un poème **dans la classe**.",
+      "Le poème est **magnifique**."
+     ],
+     "corrige": [
+      "**Les élèves** : sujet.",
+      "**un poème** : COD.",
+      "**dans la classe** : complément circonstanciel de lieu.",
+      "**magnifique** : attribut du sujet."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans la phrase « Chaque jour, ma tante vend des légumes frais au marché. », donne la fonction de chaque groupe de mots, puis la nature du mot « frais ».",
+     "corrige": [
+      "**Chaque jour** : complément circonstanciel de temps.",
+      "**ma tante** : sujet.",
+      "**vend** : verbe.",
+      "**des légumes frais** : COD.",
+      "**au marché** : complément circonstanciel de lieu.",
+      "**frais** : adjectif qualificatif."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige une phrase qui contient un déterminant, un nom, un adjectif qualificatif, un verbe et un adverbe. Donne ensuite la nature de chaque mot.",
+     "corrige": "Exemple : « Ma petite sœur chante joyeusement. » : **Ma** (déterminant possessif), **petite** (adjectif qualificatif), **sœur** (nom), **chante** (verbe), **joyeusement** (adverbe). Toute phrase correcte contenant ces cinq natures est acceptée."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La nature dit ce qu’est un mot ; la fonction dit son rôle dans la phrase.",
+      "Les mots variables sont le nom, le déterminant, l’adjectif qualificatif, le pronom et le verbe ; les autres sont invariables.",
+      "La nature d’un mot se découvre dans la phrase : un même mot peut avoir deux natures."
+     ]
+    }
+   ]
+  }
+ ]
+}

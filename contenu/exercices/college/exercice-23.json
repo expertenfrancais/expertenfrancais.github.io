@@ -1,0 +1,225 @@
+{
+ "id": 30023,
+ "meta": {
+  "t": "La phrase simple : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ex": 23
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La phrase simple",
+     "text": "Une **phrase simple** contient **un seul verbe conjugué** : elle est formée d’une seule proposition. Elle commence par une majuscule et se termine par un point (ou un point d’interrogation ou d’exclamation)."
+    },
+    {
+     "type": "table",
+     "title": "Phrase simple ou phrase complexe ?",
+     "head": [
+      "Phrase",
+      "Verbes conjugués",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "Le chat dort.",
+       "1",
+       "phrase simple"
+      ],
+      [
+       "Mon frère lit un livre intéressant.",
+       "1",
+       "phrase simple"
+      ],
+      [
+       "Elle veut partir.",
+       "1 (« veut »)",
+       "phrase simple"
+      ],
+      [
+       "L’enfant joue et il rit.",
+       "2",
+       "phrase complexe"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour savoir si une phrase est simple, **comptez les verbes conjugués** : un seul verbe conjugué, c’est une phrase simple. Un verbe à l’infinitif ne compte pas."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Compte les verbes conjugués de chaque phrase.",
+     "items": [
+      "Les enfants jouent dans la cour.",
+      "Le soleil brille et les oiseaux chantent.",
+      "Mon père veut acheter un vélo.",
+      "Quand la pluie cesse, nous sortons."
+     ],
+     "corrige": [
+      "**jouent** : 1 verbe conjugué.",
+      "**brille**, **chantent** : 2 verbes conjugués.",
+      "**veut** : 1 verbe conjugué (« acheter » est à l’infinitif).",
+      "**cesse**, **sortons** : 2 verbes conjugués."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une phrase simple ?",
+     "options": [
+      "Il pleut et nous restons dedans.",
+      "Ma mère prépare le repas.",
+      "Je pense que tu as raison."
+     ],
+     "answer": 1,
+     "explain": "« Ma mère prépare le repas » n’a qu’un verbe conjugué (« prépare »). Les deux autres en ont deux."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie uniquement les phrases simples : 1) La cloche sonne. 2) Les élèves entrent quand elle sonne. 3) Papa répare la radio. 4) Je chante et tu danses. 5) Awa lit un conte.",
+     "corrige": [
+      "Phrases simples : **1) La cloche sonne.** **3) Papa répare la radio.** **5) Awa lit un conte.**",
+      "Les phrases 2 et 4 ont deux verbes conjugués : ce sont des phrases complexes."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe conjugué de chaque phrase.",
+     "items": [
+      "Les élèves rangent leurs cahiers.",
+      "Demain, nous irons au marché.",
+      "Le vieux pêcheur regarde la rivière.",
+      "Tu dois finir ton travail."
+     ],
+     "corrige": [
+      "Les élèves **rangent** leurs cahiers.",
+      "Demain, nous **irons** au marché.",
+      "Le vieux pêcheur **regarde** la rivière.",
+      "Tu **dois** finir ton travail. (« finir » est à l’infinitif.)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase complexe en deux phrases simples.",
+     "items": [
+      "Le vent souffle et les feuilles tombent.",
+      "Je ris car tu es drôle.",
+      "Il pleut donc nous restons ici."
+     ],
+     "corrige": [
+      "Le vent souffle. Les feuilles tombent.",
+      "Je ris. Tu es drôle.",
+      "Il pleut. Nous restons ici."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "« Elle aime chanter. » Cette phrase est :",
+     "options": [
+      "une phrase simple : un seul verbe conjugué",
+      "une phrase complexe : deux verbes",
+      "pas une phrase"
+     ],
+     "answer": 0,
+     "explain": "« aime » est conjugué ; « chanter » est à l’infinitif et ne compte pas : il n’y a qu’un verbe conjugué."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase simple avec un verbe conjugué de ton choix.",
+     "items": [
+      "Le chien ... dans la cour.",
+      "Mes amis ... au football.",
+      "Ma grand-mère ... un gâteau."
+     ],
+     "corrige": [
+      "Réponses possibles : Le chien **aboie** / **dort** dans la cour.",
+      "Mes amis **jouent** au football.",
+      "Ma grand-mère **prépare** / **cuit** un gâteau.",
+      "Toute phrase correcte avec un seul verbe conjugué est acceptée."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase du texte est simple ou complexe : « La nuit tombe. Les villageois rentrent chez eux et ils allument un feu. Les enfants écoutent le conte du vieux sage. »",
+     "corrige": [
+      "« La nuit tombe. » : phrase **simple** (1 verbe : tombe).",
+      "« Les villageois rentrent chez eux et ils allument un feu. » : phrase **complexe** (2 verbes : rentrent, allument).",
+      "« Les enfants écoutent le conte du vieux sage. » : phrase **simple** (1 verbe : écoutent)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois phrases simples sur ton école. Souligne le verbe conjugué de chaque phrase.",
+     "corrige": "Exemple : « Les élèves **entrent** en classe. Le maître **écrit** au tableau. La cloche **sonne**. » Vérifiez que chaque phrase n’a qu’un seul verbe conjugué."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La phrase simple n’a qu’un seul verbe conjugué.",
+      "Un verbe à l’infinitif ne compte pas comme verbe conjugué.",
+      "Pour reconnaître une phrase simple, on compte les verbes conjugués."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "id": 30044,
+ "meta": {
+  "t": "L’analyse du sujet et la recherche des idées : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "c",
+  "r": 4.8,
+  "ex": 44
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Analyser le sujet",
+     "text": "**Analyser le sujet**, c’est lire l’énoncé pour comprendre **ce qu’il faut faire** (la **consigne**), **de quoi il faut parler** (le **thème**) et **comment le faire** (les **contraintes**)."
+    },
+    {
+     "type": "table",
+     "title": "Les trois éléments d’un sujet",
+     "head": [
+      "Élément",
+      "Question à se poser",
+      "Exemple dans « Raconte en dix lignes un voyage en pirogue. »"
+     ],
+     "rows": [
+      [
+       "consigne",
+       "Que dois-je faire ?",
+       "**Raconte** (écrire un récit)"
+      ],
+      [
+       "thème",
+       "De quoi dois-je parler ?",
+       "**un voyage en pirogue**"
+      ],
+      [
+       "contraintes",
+       "Quelles règles dois-je respecter ?",
+       "**en dix lignes**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Chercher des idées",
+     "text": "Pose-toi les questions : **Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?** Pour une description, utilise aussi les **cinq sens** : vue, ouïe, odorat, goût, toucher."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe de la consigne et dis ce qu’il faut écrire.",
+     "items": [
+      "Raconte une journée au marché.",
+      "Décris ton école.",
+      "Explique pourquoi il faut lire.",
+      "Écris une lettre à un ami."
+     ],
+     "corrige": [
+      "1. **Raconte** → un récit",
+      "2. **Décris** → une description",
+      "3. **Explique** → une explication",
+      "4. **Écris une lettre** → une lettre"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Raconte ta plus belle journée de vacances en dix lignes. », « en dix lignes » est…",
+     "options": [
+      "la consigne",
+      "le thème",
+      "une contrainte"
+     ],
+     "answer": 2,
+     "explain": "« En dix lignes » indique la **longueur** à respecter : c’est une contrainte."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le thème de chaque sujet.",
+     "items": [
+      "Décris le marché de ton quartier.",
+      "Raconte un voyage en bateau.",
+      "Explique comment on prépare le thé."
+     ],
+     "corrige": [
+      "**le marché de ton quartier**",
+      "**un voyage en bateau**",
+      "**la préparation du thé**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis le sujet : *« Raconte, à la première personne et au passé, une dispute entre deux amis. Tu écriras dix lignes. »* Réponds aux questions.",
+     "items": [
+      "Qui raconte ?",
+      "À quel temps faut-il écrire ?",
+      "Combien de lignes faut-il écrire ?"
+     ],
+     "corrige": [
+      "1. **à la première personne** (*je*)",
+      "2. **au passé**",
+      "3. **dix lignes**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sujet : « Un jour de pluie à l’école ». Cherche des idées en répondant aux questions.",
+     "items": [
+      "Qui ?",
+      "Où ?",
+      "Quand ?",
+      "Quoi ?",
+      "Comment ?"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. les élèves et le maître",
+      "2. dans la cour et dans la classe",
+      "3. le matin, pendant la récréation",
+      "4. la pluie empêche de jouer dehors",
+      "5. les enfants courent, se mouillent, rient"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Pour chercher des idées sur un sujet de description, on peut utiliser…",
+     "options": [
+      "les cinq sens",
+      "seulement le dictionnaire",
+      "une règle de grammaire"
+     ],
+     "answer": 0,
+     "explain": "La vue, l’ouïe, l’odorat, le goût et le toucher donnent beaucoup de détails à décrire."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sujet : « Décris ta salle de classe. » Barre les idées qui ne conviennent pas.",
+     "items": [
+      "les tables en bois",
+      "mon cousin joue au football",
+      "le tableau vert",
+      "la fenêtre ouverte sur la cour",
+      "mon repas préféré"
+     ],
+     "corrige": [
+      "à garder : **les tables en bois**, **le tableau vert**, **la fenêtre ouverte sur la cour**",
+      "à barrer : **mon cousin joue au football**, **mon repas préféré** (hors sujet)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sujet : « Raconte ta journée d’hier. » Remets ces idées dans l’ordre du temps.",
+     "items": [
+      "Je me suis couché tôt.",
+      "Je me suis levé à six heures.",
+      "J’ai fait mes devoirs.",
+      "J’ai pris le bus pour aller à l’école."
+     ],
+     "corrige": [
+      "1. **Je me suis levé à six heures.**",
+      "2. **J’ai pris le bus pour aller à l’école.**",
+      "3. **J’ai fait mes devoirs.**",
+      "4. **Je me suis couché tôt.**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse ce sujet : *« Raconte, en une dizaine de lignes, une fête dans ton village. Tu utiliseras le passé. »*",
+     "items": [
+      "Quelle est la consigne ?",
+      "Quel est le thème ?",
+      "Quelles sont les contraintes ?"
+     ],
+     "corrige": [
+      "1. **Raconte** → il faut écrire un récit",
+      "2. **une fête dans ton village**",
+      "3. **une dizaine de lignes** et **le passé**"
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Analyser le sujet**, c’est comprendre ce qu’on demande **avant d’écrire**.",
+      "Je repère la **consigne**, le **thème** et les **contraintes**.",
+      "Le **verbe de la consigne** indique le type de texte : *raconter, décrire, expliquer…*",
+      "Pour chercher des idées : **Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?** et les cinq sens.",
+      "Je **trie** les idées (je garde ce qui convient au sujet) puis je les **range** dans un ordre logique."
+     ]
+    }
+   ]
+  }
+ ]
+}

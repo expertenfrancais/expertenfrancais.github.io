@@ -1,0 +1,239 @@
+{
+ "id": 30026,
+ "meta": {
+  "t": "La suffixation : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "g",
+  "r": 4.8,
+  "ex": 26
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le suffixe",
+     "text": "Un **suffixe** est un élément ajouté **à la fin** d’un mot, le **radical**, pour former un nouveau mot. Il change souvent la **nature** du mot : *lent* (adjectif) → *lentement* (adverbe) ; *chanter* (verbe) → *chanteur* (nom). Un mot formé avec un suffixe est un **mot dérivé**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques suffixes",
+     "head": [
+      "Suffixe",
+      "Sens ou nature formée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "-eur / -euse",
+       "celui qui fait l’action (nom)",
+       "danser → danseur"
+      ],
+      [
+       "-ment",
+       "manière (adverbe)",
+       "lent → lentement"
+      ],
+      [
+       "-able",
+       "qui peut être (adjectif)",
+       "regretter → regrettable"
+      ],
+      [
+       "-ation",
+       "action, résultat (nom)",
+       "décorer → décoration"
+      ],
+      [
+       "-ette",
+       "petit (nom)",
+       "fille → fillette"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver le radical d’un mot dérivé, **enlevez le suffixe** : *jardinier* → *jardin*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le suffixe de chaque mot.",
+     "items": [
+      "chanteur",
+      "lentement",
+      "lavable",
+      "fillette",
+      "décoration"
+     ],
+     "corrige": [
+      "chant**eur** : suffixe -eur",
+      "lente**ment** : suffixe -ment",
+      "lav**able** : suffixe -able",
+      "fill**ette** : suffixe -ette",
+      "décor**ation** : suffixe -ation"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel suffixe permet de former un adverbe ?",
+     "options": [
+      "-eur",
+      "-ment",
+      "-ette"
+     ],
+     "answer": 1,
+     "explain": "Le suffixe -ment forme des adverbes de manière : lent → lentement."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve le radical de chaque mot dérivé.",
+     "items": [
+      "jardinier",
+      "fillette",
+      "bijoutier",
+      "dentiste"
+     ],
+     "corrige": [
+      "**jardin**",
+      "**fille**",
+      "**bijou**",
+      "**dent**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme un mot nouveau en ajoutant le suffixe indiqué.",
+     "items": [
+      "danser + -eur",
+      "chat + -on",
+      "regretter + -able",
+      "fille + -ette"
+     ],
+     "corrige": [
+      "**danseur**",
+      "**chaton**",
+      "**regrettable**",
+      "**fillette**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Que forme le suffixe « -ette » dans « maisonnette » ?",
+     "options": [
+      "un nom qui désigne un petit objet",
+      "un adverbe",
+      "un verbe"
+     ],
+     "answer": 0,
+     "explain": "Le suffixe -ette indique souvent quelque chose de petit : une maisonnette est une petite maison."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la nature du mot de départ et celle du mot dérivé.",
+     "items": [
+      "joli → joliment",
+      "chanter → chanteur",
+      "laver → lavable",
+      "colère → coléreux"
+     ],
+     "corrige": [
+      "adjectif → **adverbe**",
+      "verbe → **nom**",
+      "verbe → **adjectif**",
+      "nom → **adjectif**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est formé avec un suffixe ?",
+     "options": [
+      "refaire",
+      "jardinier",
+      "impossible"
+     ],
+     "answer": 1,
+     "explain": "« jardinier » = jardin + -ier. « refaire » (re-) et « impossible » (im-) sont formés avec des préfixes."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève quatre mots dérivés avec suffixe et donne leur radical : « Le jardinier arrose lentement les fleurs. La fillette admire la belle décoration de la maison. »",
+     "corrige": [
+      "**jardinier** : radical jardin.",
+      "**lentement** : radical lent.",
+      "**fillette** : radical fille.",
+      "**décoration** : radical décorer (ou décor)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige deux phrases contenant chacune un mot formé avec un suffixe différent. Souligne le suffixe.",
+     "corrige": "Exemple : « Le chant**eur** est arrivé. Il parle lente**ment**. » Vérifiez que les deux suffixes sont différents et que chaque mot a bien un radical reconnaissable."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un suffixe se place à la fin d’un mot (le radical).",
+      "Il permet de former un mot dérivé et change souvent sa nature.",
+      "Pour trouver le radical, on enlève le suffixe."
+     ]
+    }
+   ]
+  }
+ ]
+}

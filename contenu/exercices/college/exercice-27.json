@@ -1,0 +1,228 @@
+{
+ "id": 30027,
+ "meta": {
+  "t": "Les présentatifs : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "h",
+  "r": 4.8,
+  "ex": 27
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le présentatif",
+     "text": "Un **présentatif** est un mot ou une expression qui sert à **présenter** ou à **signaler** une personne, un animal ou une chose : **voici**, **voilà**, **c’est**, **ce sont**, **il y a**."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux présentatifs",
+     "head": [
+      "Présentatif",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "voici",
+       "présente ce qui est proche",
+       "Voici mon cahier."
+      ],
+      [
+       "voilà",
+       "présente ce qui est éloigné",
+       "Voilà le bus !"
+      ],
+      [
+       "c’est / ce sont",
+       "présentent (singulier / pluriel)",
+       "C’est mon frère. Ce sont mes amis."
+      ],
+      [
+       "il y a",
+       "signale l’existence de quelqu’un ou de quelque chose",
+       "Il y a un oiseau sur l’arbre."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le présentatif se place le plus souvent **avant** le groupe nominal qu’il présente : **Voici** *mon cahier*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le présentatif de chaque phrase.",
+     "items": [
+      "Voici mon ami Paul.",
+      "Voilà le bus qui arrive.",
+      "C’est ma maison.",
+      "Il y a un chat dans le jardin.",
+      "Ce sont mes cousins."
+     ],
+     "corrige": [
+      "**Voici** mon ami Paul.",
+      "**Voilà** le bus qui arrive.",
+      "**C’est** ma maison.",
+      "**Il y a** un chat dans le jardin.",
+      "**Ce sont** mes cousins."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel présentatif convient : « ... mes parents. » ?",
+     "options": [
+      "C’est",
+      "Ce sont",
+      "Il y a"
+     ],
+     "answer": 1,
+     "explain": "« mes parents » est au pluriel : on emploie « Ce sont »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec voici ou voilà.",
+     "items": [
+      "(tu tends un livre à ton ami) ... le livre que tu cherchais.",
+      "(le bus est loin, au bout de la rue) ... le bus qui part !",
+      "(tu montres ton cahier, dans ta main) ... mon cahier."
+     ],
+     "corrige": [
+      "**Voici** le livre que tu cherchais. (proche)",
+      "**Voilà** le bus qui part ! (éloigné)",
+      "**Voici** mon cahier. (proche)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec c’est, ce sont ou il y a.",
+     "items": [
+      "... une fleur rouge dans le vase.",
+      "... mes sœurs Awa et Mireille.",
+      "... mon père, il est professeur.",
+      "... beaucoup de monde sur la place."
+     ],
+     "corrige": [
+      "**Il y a** une fleur rouge dans le vase.",
+      "**Ce sont** mes sœurs Awa et Mireille.",
+      "**C’est** mon père, il est professeur.",
+      "**Il y a** beaucoup de monde sur la place."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Voilà le car ! », quel est le rôle de « voilà » ?",
+     "options": [
+      "il présente le car",
+      "il exprime une action passée",
+      "il relie deux phrases"
+     ],
+     "answer": 0,
+     "explain": "« voilà » est un présentatif : il montre et présente le car."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase avec le présentatif demandé pour présenter ce qui est entre parenthèses.",
+     "items": [
+      "(ton livre) voici",
+      "(le bus, au loin) voilà",
+      "(ton ami Paul) c’est"
+     ],
+     "corrige": [
+      "Réponses possibles : **Voici** mon livre de français.",
+      "**Voilà** le bus qui arrive au loin.",
+      "**C’est** mon ami Paul.",
+      "Toute phrase correcte avec le bon présentatif est acceptée."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un présentatif ?",
+     "options": [
+      "Il y a un cahier sur la table.",
+      "Il mange un fruit.",
+      "Nous allons au marché."
+     ],
+     "answer": 0,
+     "explain": "« Il y a » signale l’existence d’un cahier : c’est un présentatif. Les autres phrases contiennent de simples verbes."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève tous les présentatifs du texte : « Voici ma famille. C’est mon père, voilà ma mère et ce sont mes deux sœurs. Il y a aussi mon petit frère. »",
+     "corrige": [
+      "**Voici**, **C’est**, **voilà**, **ce sont**, **Il y a**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Présente ta classe en quatre phrases, avec voici, c’est, il y a et ce sont.",
+     "corrige": "Exemple : « **Voici** ma classe. **C’est** une grande salle. **Il y a** quarante élèves. **Ce sont** mes camarades. » Vérifiez que chaque présentatif est bien employé."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le présentatif sert à présenter ou à signaler quelqu’un ou quelque chose.",
+      "Voici : ce qui est proche ; voilà : ce qui est éloigné.",
+      "C’est devient ce sont devant un pluriel ; il y a signale l’existence."
+     ]
+    }
+   ]
+  }
+ ]
+}

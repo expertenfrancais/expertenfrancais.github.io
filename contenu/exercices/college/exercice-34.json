@@ -1,0 +1,231 @@
+{
+ "id": 30034,
+ "meta": {
+  "t": "La proposition principale et la proposition subordonnée : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "ex": 34
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Principale et subordonnée",
+     "text": "La proposition **principale** est celle dont dépend une autre proposition. La proposition **subordonnée** dépend de la principale : elle est introduite par un **mot subordonnant** et ne peut pas former une phrase à elle seule."
+    },
+    {
+     "type": "table",
+     "title": "Les trois subordonnées",
+     "head": [
+      "Subordonnée",
+      "Mot subordonnant",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Relative",
+       "pronom relatif (qui, que, dont, où)",
+       "L’élève **qui travaille** réussit."
+      ],
+      [
+       "Complétive",
+       "que",
+       "Je pense **qu’il viendra**."
+      ],
+      [
+       "Circonstancielle",
+       "conjonction (quand, parce que, si…)",
+       "Nous restons **parce qu’**il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "La principale est celle qui reste quand on enlève la subordonnée et son mot subordonnant."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la proposition subordonnée dans chaque phrase.",
+     "items": [
+      "Je reste parce qu’il pleut.",
+      "L’élève qui travaille réussit.",
+      "Je pense qu’il viendra.",
+      "Quand tu arriveras, nous mangerons."
+     ],
+     "corrige": [
+      "Je reste **parce qu’il pleut**.",
+      "L’élève **qui travaille** réussit.",
+      "Je pense **qu’il viendra**.",
+      "**Quand tu arriveras**, nous mangerons."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quand tu arriveras, nous mangerons. », quelle est la proposition principale ?",
+     "options": [
+      "Quand tu arriveras",
+      "nous mangerons",
+      "Les deux"
+     ],
+     "answer": 1,
+     "explain": "La principale n’est pas toujours la première : « Quand tu arriveras » est la subordonnée, car elle commence par « Quand » et dépend de « nous mangerons »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le mot subordonnant de chaque phrase et donne sa nature (conjonction ou pronom relatif).",
+     "items": [
+      "Je pense que tu as raison.",
+      "Nous sortons quand la pluie cesse.",
+      "Le livre que je lis est passionnant.",
+      "Il reste chez lui parce qu’il est malade."
+     ],
+     "corrige": [
+      "**que** : conjonction de subordination.",
+      "**quand** : conjonction de subordination.",
+      "**que** : pronom relatif (il remplace « le livre »).",
+      "**parce que** : conjonction de subordination."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sépare la principale et la subordonnée avec des crochets.",
+     "items": [
+      "Je reste chez moi parce qu’il pleut.",
+      "Le livre que tu m’as prêté est passionnant.",
+      "Si tu veux, nous partons.",
+      "Awa croit que son frère viendra."
+     ],
+     "corrige": [
+      "[**Je reste chez moi**] [parce qu’il pleut].",
+      "[**Le livre** … **est passionnant**] [que tu m’as prêté] (la principale est coupée par la subordonnée).",
+      "[Si tu veux], [**nous partons**].",
+      "[**Awa croit**] [que son frère viendra]."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la nature de chaque subordonnée en gras : relative, complétive ou circonstancielle.",
+     "items": [
+      "L’élève **qui travaille** réussit.",
+      "Je crois **qu’il a raison**.",
+      "Nous restons **parce qu’il pleut**.",
+      "J’aime le livre **que tu m’as prêté**."
+     ],
+     "corrige": [
+      "**relative** (pronom relatif « qui »).",
+      "**complétive** (introduite par « que », elle complète le verbe « crois »).",
+      "**circonstancielle** de cause (« parce que »).",
+      "**relative** (pronom relatif « que », antécédent « le livre »)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le livre que je lis est passionnant », que est :",
+     "options": [
+      "une conjonction",
+      "un pronom relatif",
+      "un adverbe"
+     ],
+     "answer": 1,
+     "explain": "« que » remplace « le livre » (c’est le COD de « lis ») : c’est un pronom relatif."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le rôle du pronom relatif en gras dans la relative.",
+     "items": [
+      "L’élève **qui** travaille réussit.",
+      "Le livre **que** je lis est passionnant.",
+      "La ville **où** j’habite est grande.",
+      "L’élève **dont** je parle est absent."
+     ],
+     "corrige": [
+      "**qui** : sujet de « travaille ».",
+      "**que** : COD de « lis ».",
+      "**où** : complément circonstanciel de lieu de « habite ».",
+      "**dont** : complément introduit par « de » (« je parle de cet élève »)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la phrase « Quand la nuit tombe, les villageois qui rentrent des champs préparent le repas. » : relève la principale, puis donne la nature et la fonction de chaque subordonnée.",
+     "corrige": [
+      "Principale : **les villageois … préparent le repas** (coupée par une subordonnée).",
+      "« Quand la nuit tombe » : subordonnée **circonstancielle** de temps, complément circonstanciel de la principale.",
+      "« qui rentrent des champs » : subordonnée **relative**, complément de l’antécédent « villageois »."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois phrases, chacune avec une subordonnée différente : une relative, une complétive et une circonstancielle. Entoure la subordonnée.",
+     "corrige": "Exemple : « Le fruit [qui tombe de l’arbre] est mûr. Je crois [que la pluie arrive]. [Quand le soleil se couche], les enfants rentrent. » Vérifiez le mot subordonnant de chaque phrase."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La principale commande la subordonnée ; la subordonnée ne peut pas rester seule.",
+      "La subordonnée est introduite par une conjonction de subordination ou un pronom relatif.",
+      "Il y a trois sortes de subordonnées : relative, complétive et circonstancielle."
+     ]
+    }
+   ]
+  }
+ ]
+}

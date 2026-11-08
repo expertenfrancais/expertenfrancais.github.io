@@ -1,0 +1,250 @@
+{
+ "id": 30049,
+ "meta": {
+  "t": "Le groupe nominal : déterminant, nom et complément du nom : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "h",
+  "r": 4.8,
+  "ex": 49
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Groupe nominal",
+     "text": "Un **groupe nominal** est organisé autour d’un **nom**, le **noyau**. Le **déterminant** se place devant le nom. Le **complément du nom** vient après le nom et le **précise** ; il est souvent introduit par une préposition."
+    },
+    {
+     "type": "table",
+     "title": "Les trois éléments",
+     "head": [
+      "Élément",
+      "Place",
+      "Exemple : la maison de Paul"
+     ],
+     "rows": [
+      [
+       "déterminant",
+       "devant le nom",
+       "**la**"
+      ],
+      [
+       "nom (noyau)",
+       "au centre",
+       "**maison**"
+      ],
+      [
+       "complément du nom",
+       "après le nom",
+       "**de Paul**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les prépositions fréquentes",
+     "text": "Le complément du nom est souvent introduit par **de, à, en, pour** : *la maison **de** Paul, une tasse **à** thé, une chaise **en** bois, une salle **pour** les fêtes*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le déterminant de chaque groupe nominal.",
+     "items": [
+      "la maison de Paul",
+      "mes cahiers",
+      "ces fleurs",
+      "trois élèves",
+      "une tasse à thé"
+     ],
+     "corrige": [
+      "**la**",
+      "**mes**",
+      "**ces**",
+      "**trois**",
+      "**une**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « la maison de Paul », quel est le complément du nom ?",
+     "options": [
+      "la",
+      "maison",
+      "de Paul"
+     ],
+     "answer": 2,
+     "explain": "*De Paul* précise le nom *maison* : c’est le complément du nom."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le nom noyau de chaque groupe nominal.",
+     "items": [
+      "la route du village",
+      "un sac en cuir",
+      "mon ami d’enfance",
+      "une salle pour les fêtes"
+     ],
+     "corrige": [
+      "la **route** du village",
+      "un **sac** en cuir",
+      "mon **ami** d’enfance",
+      "une **salle** pour les fêtes"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la préposition *de*, *à*, *en* ou *pour*.",
+     "items": [
+      "une chaise ___ bois",
+      "une tasse ___ thé",
+      "la maison ___ mon oncle",
+      "une salle ___ les fêtes"
+     ],
+     "corrige": [
+      "une chaise **en** bois",
+      "une tasse **à** thé",
+      "la maison **de** mon oncle",
+      "une salle **pour** les fêtes"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque groupe nominal, relève le déterminant, le nom et le complément du nom.",
+     "items": [
+      "la voiture de mon oncle",
+      "un panier de mangues",
+      "des chaussures en cuir",
+      "le chien du voisin"
+     ],
+     "corrige": [
+      "**la** (déterminant) – **voiture** (nom) – **de mon oncle** (complément du nom)",
+      "**un** – **panier** – **de mangues**",
+      "**des** – **chaussures** – **en cuir**",
+      "**le** – **chien** – **du voisin**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe nominal contient un complément du nom ?",
+     "options": [
+      "la grande maison",
+      "la maison du maître",
+      "ils chantent"
+     ],
+     "answer": 1,
+     "explain": "*Du maître* est un complément du nom. *Grande* est un adjectif ; *ils chantent* n’est pas un groupe nominal."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets les mots dans l’ordre pour former un groupe nominal.",
+     "items": [
+      "de / la / maison / mon / grand-père",
+      "en / sac / un / cuir",
+      "thé / à / une / tasse"
+     ],
+     "corrige": [
+      "**la maison de mon grand-père**",
+      "**un sac en cuir**",
+      "**une tasse à thé**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis chaque groupe nominal en ajoutant un complément du nom.",
+     "items": [
+      "Je mange une mangue.",
+      "Il porte un sac.",
+      "Voici la salle.",
+      "Elle ouvre la porte."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Je mange une mangue **du jardin de ma grand-mère**.",
+      "2. Il porte un sac **en cuir**.",
+      "3. Voici la salle **de lecture**.",
+      "4. Elle ouvre la porte **de la classe**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases avec un groupe nominal contenant un complément du nom.",
+     "items": [
+      "Utilise *de*, *à* ou *en*.",
+      "Souligne le complément du nom."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "*Awa range le cahier **de son frère**.*",
+      "*Nous buvons une tasse **à thé**.*",
+      "*Il s’assoit sur une chaise **en bois**.*"
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **groupe nominal** est organisé autour d’un **nom**, le noyau.",
+      "Le **déterminant** se place devant le nom et le présente.",
+      "Le **complément du nom** se place après le nom et le précise.",
+      "Il est souvent introduit par **de, à, en, pour**.",
+      "Pour analyser : je cherche le **nom**, puis le **déterminant**, puis le **complément du nom**."
+     ]
+    }
+   ]
+  }
+ ]
+}

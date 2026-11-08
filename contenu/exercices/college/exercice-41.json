@@ -1,0 +1,249 @@
+{
+ "id": 30041,
+ "meta": {
+  "t": "La phrase déclarative : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "h",
+  "r": 4.8,
+  "ex": 41
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Phrase déclarative",
+     "text": "La **phrase déclarative** donne une **information** : elle **affirme** ou **nie**, raconte, décrit ou explique. Elle commence par une **majuscule** et se termine le plus souvent par un **point**."
+    },
+    {
+     "type": "table",
+     "title": "Forme affirmative et forme négative",
+     "head": [
+      "Forme",
+      "Exemple",
+      "Mots de négation"
+     ],
+     "rows": [
+      [
+       "affirmative",
+       "*Awa mange du riz.*",
+       "—"
+      ],
+      [
+       "négative",
+       "*Awa **ne** mange **pas** de riz.*",
+       "ne … pas"
+      ],
+      [
+       "négative",
+       "*Il **ne** vient **jamais**.*",
+       "ne … jamais"
+      ],
+      [
+       "négative",
+       "*Je **ne** vois **personne**.*",
+       "ne … personne, ne … rien, ne … plus"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Devant une voyelle",
+     "text": "*Ne* devient **n’** devant une voyelle ou un *h* muet : *Il **n’**aime **pas** le café.*"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le type de chaque phrase : déclarative, interrogative, exclamative ou impérative.",
+     "items": [
+      "Il pleut ce matin.",
+      "Où vas-tu ?",
+      "Quelle belle journée !",
+      "Ferme la porte.",
+      "Awa lit un livre."
+     ],
+     "corrige": [
+      "1. **déclarative**",
+      "2. **interrogative**",
+      "3. **exclamative**",
+      "4. **impérative**",
+      "5. **déclarative**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Par quel signe se termine le plus souvent une phrase déclarative ?",
+     "options": [
+      "le point",
+      "le point d’interrogation",
+      "le point d’exclamation"
+     ],
+     "answer": 0,
+     "explain": "La phrase déclarative se termine le plus souvent par un **point**."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie chaque phrase avec la majuscule et le point.",
+     "items": [
+      "le soleil se lève",
+      "les enfants jouent dans la cour",
+      "nous mangeons du riz"
+     ],
+     "corrige": [
+      "**L**e soleil se lève**.**",
+      "**L**es enfants jouent dans la cour**.**",
+      "**N**ous mangeons du riz**.**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque phrase à la forme négative avec *ne … pas*.",
+     "items": [
+      "Il pleut.",
+      "Awa chante.",
+      "Nous sommes en retard.",
+      "J’aime le café."
+     ],
+     "corrige": [
+      "Il **ne** pleut **pas**.",
+      "Awa **ne** chante **pas**.",
+      "Nous **ne** sommes **pas** en retard.",
+      "Je **n’**aime **pas** le café."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le mot de négation indiqué entre parenthèses.",
+     "items": [
+      "Il ___ mange ___ le matin. (ne … jamais)",
+      "Je ___ vois ___ dans la cour. (ne … personne)",
+      "Elle ___ dit ___ . (ne … rien)",
+      "Il ___ pleut ___ . (ne … plus)"
+     ],
+     "corrige": [
+      "Il **ne** mange **jamais** le matin.",
+      "Je **ne** vois **personne** dans la cour.",
+      "Elle **ne** dit **rien**.",
+      "Il **ne** pleut **plus**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la forme négative ?",
+     "options": [
+      "Il ne vient plus.",
+      "Il vient souvent.",
+      "Vient-il ?"
+     ],
+     "answer": 0,
+     "explain": "*Il ne vient plus* contient les mots de négation **ne … plus**."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque phrase à la forme affirmative.",
+     "items": [
+      "Il n’est pas content.",
+      "Nous ne partons pas.",
+      "Tu n’as pas de cahier.",
+      "Elle ne chante plus."
+     ],
+     "corrige": [
+      "Il **est** content.",
+      "Nous **partons**.",
+      "Tu **as** un cahier.",
+      "Elle chante **encore**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets les mots dans l’ordre pour former une phrase déclarative.",
+     "items": [
+      "au marché / Moussa / va / ce matin",
+      "dans l’arbre / les oiseaux / chantent",
+      "ne / pas / mange / il / de viande"
+     ],
+     "corrige": [
+      "**Moussa va au marché ce matin.** (ou *Ce matin, Moussa va au marché.*)",
+      "**Les oiseaux chantent dans l’arbre.**",
+      "**Il ne mange pas de viande.**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris quatre phrases déclaratives pour décrire ta classe : deux à la forme affirmative et deux à la forme négative.",
+     "items": [
+      "Pense à la majuscule et au point."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "*Notre classe est grande.* *Les murs sont blancs.* *Il n’y a pas de ventilateur.* *Le maître ne parle jamais fort.*"
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **phrase déclarative** donne une **information** : elle affirme ou nie, raconte, décrit, explique.",
+      "Elle commence par une **majuscule** et se termine le plus souvent par un **point**.",
+      "À la **forme négative**, on ajoute des mots de négation autour du verbe : *ne … pas, ne … jamais, ne … plus, ne … rien, ne … personne*.",
+      "*Ne* devient **n’** devant une voyelle ou un *h* muet.",
+      "L’ordre habituel est **sujet – verbe – compléments**."
+     ]
+    }
+   ]
+  }
+ ]
+}

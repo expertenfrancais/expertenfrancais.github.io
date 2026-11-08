@@ -1,0 +1,230 @@
+{
+ "id": 30036,
+ "meta": {
+  "t": "Les degrés de qualification : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8,
+  "ex": 36
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Les degrés de qualification",
+     "text": "Les **degrés de qualification** indiquent à quel point une qualité est possédée. Un adjectif peut être au **positif**, au **comparatif** ou au **superlatif**."
+    },
+    {
+     "type": "table",
+     "title": "Les degrés",
+     "head": [
+      "Degré",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Positif",
+       "Awa est grande."
+      ],
+      [
+       "Comparatif de supériorité / d’égalité / d’infériorité",
+       "Awa est **plus** / **aussi** / **moins** grande **que** Fatou."
+      ],
+      [
+       "Superlatif relatif",
+       "Awa est **la plus** grande de la classe."
+      ],
+      [
+       "Superlatif absolu",
+       "Awa est **très** grande."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le comparatif met deux éléments face à face ; le superlatif relatif choisit un élément dans un groupe ; le superlatif absolu ne compare rien."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le degré de l’adjectif en gras.",
+     "items": [
+      "Awa est **grande**.",
+      "Awa est **plus grande** que Fatou.",
+      "Awa est **la plus grande** de la classe.",
+      "Awa est **très grande**."
+     ],
+     "corrige": [
+      "positif.",
+      "comparatif de supériorité.",
+      "superlatif relatif (de supériorité).",
+      "superlatif absolu."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il est aussi rapide que son frère », quel est le degré de l’adjectif ?",
+     "options": [
+      "Comparatif de supériorité",
+      "Comparatif d’égalité",
+      "Superlatif relatif"
+     ],
+     "answer": 1,
+     "explain": "« aussi … que » exprime l’égalité : c’est un comparatif d’égalité."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec plus, moins ou aussi pour former le comparatif demandé.",
+     "items": [
+      "Ce fruit est ____ sucré que celui-là. (supériorité)",
+      "Awa est ____ grande que Fatou. (égalité)",
+      "Ce chemin est ____ long que l’autre. (infériorité)",
+      "Il court ____ vite que moi. (supériorité)"
+     ],
+     "corrige": [
+      "Ce fruit est **plus** sucré que celui-là.",
+      "Awa est **aussi** grande que Fatou.",
+      "Ce chemin est **moins** long que l’autre.",
+      "Il court **plus** vite que moi."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets l’adjectif entre parenthèses au superlatif relatif de supériorité.",
+     "items": [
+      "Awa est (grand) de la classe.",
+      "Ce sont les élèves (sérieux) de l’école.",
+      "Cette histoire est (amusant) du livre.",
+      "Mes cousins sont (rapide) de la famille."
+     ],
+     "corrige": [
+      "Awa est **la plus grande** de la classe.",
+      "Ce sont les élèves **les plus sérieux** de l’école.",
+      "Cette histoire est **la plus amusante** du livre.",
+      "Mes cousins sont **les plus rapides** de la famille."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur dans chaque phrase.",
+     "items": [
+      "Ce riz est plus bon que celui d’hier.",
+      "Awa est le plus grande.",
+      "Il court plus vite de moi.",
+      "Il chante plus bien que moi."
+     ],
+     "corrige": [
+      "Ce riz est **meilleur** que celui d’hier.",
+      "Awa est **la** plus grande.",
+      "Il court plus vite **que** moi.",
+      "Il chante **mieux** que moi."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elle chante meilleur que moi.",
+      "Elle chante mieux que moi.",
+      "Elle chante plus bien que moi."
+     ],
+     "answer": 1,
+     "explain": "« chante » est un verbe : on emploie l’adverbe « mieux ». « Meilleur » est un adjectif et « plus bien » n’existe pas."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Exprime un très haut degré, sans comparer, avec un adverbe d’intensité, un préfixe ou le suffixe -issime.",
+     "items": [
+      "Ce film est connu.",
+      "Cette soupe est chaude.",
+      "Cet homme est riche."
+     ],
+     "corrige": [
+      "Réponses possibles : **très** connu / **archi**connu.",
+      "Réponses possibles : **extrêmement** chaude / **très** chaude.",
+      "Réponses possibles : **riche**ssime (richissime) / **très** riche."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève l’adjectif de chaque phrase et indique son degré : « Mon frère est plus âgé que moi. » ; « Fatou est la plus gentille de la classe. » ; « Ce bébé est adorable. » ; « Ce gâteau est extrêmement sucré. »",
+     "corrige": [
+      "**âgé** : comparatif de supériorité.",
+      "**gentille** : superlatif relatif de supériorité.",
+      "**adorable** : positif.",
+      "**sucré** : superlatif absolu (extrêmement)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Compare deux amis ou deux objets de ton choix en rédigeant quatre phrases : un comparatif de supériorité, un comparatif d’égalité, un comparatif d’infériorité et un superlatif relatif. Souligne les mots qui marquent le degré.",
+     "corrige": "Exemple : « Paul est **plus** grand **que** Jean. Marie est **aussi** rapide **que** Awa. Mon cartable est **moins** lourd **que** le tien. Awa est **la plus** studieuse de la classe. » Vérifiez la présence de « que » pour les comparatifs et de « de » pour le groupe du superlatif."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le positif donne la qualité seule ; le comparatif compare deux éléments avec « que ».",
+      "Le superlatif relatif se forme avec le / la / les plus (ou moins) et un groupe de comparaison.",
+      "Le superlatif absolu exprime un très haut degré sans comparer. Meilleur et mieux sont les formes de bon et de bien."
+     ]
+    }
+   ]
+  }
+ ]
+}

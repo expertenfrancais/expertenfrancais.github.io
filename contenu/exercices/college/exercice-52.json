@@ -1,0 +1,273 @@
+{
+ "id": 30052,
+ "meta": {
+  "t": "La conjonction : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "ex": 52
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Conjonction",
+     "text": "La **conjonction** est un mot **invariable** qui **relie** deux mots, deux groupes de mots ou deux propositions. Il y a des conjonctions de **coordination** (*mais, ou, et, donc, or, ni, car*) et des conjonctions de **subordination** (*que, quand, parce que, pour que, si, bien que…*)."
+    },
+    {
+     "type": "table",
+     "title": "Les sept conjonctions de coordination",
+     "head": [
+      "Conjonction",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "mais",
+       "opposition",
+       "Il pleut **mais** nous sortons."
+      ],
+      [
+       "ou",
+       "choix",
+       "Tu viens **ou** tu restes."
+      ],
+      [
+       "et",
+       "addition",
+       "Awa chante **et** Fatou danse."
+      ],
+      [
+       "donc",
+       "conséquence",
+       "Il pleut, **donc** nous restons."
+      ],
+      [
+       "or",
+       "fait nouveau",
+       "Il devait venir, **or** il est absent."
+      ],
+      [
+       "ni",
+       "négation",
+       "Il ne mange **ni** riz **ni** manioc."
+      ],
+      [
+       "car",
+       "cause",
+       "Nous restons, **car** il pleut."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour les retenir",
+     "text": "Récite la liste : **mais, ou, et, donc, or, ni, car**. Après *pour que*, *afin que*, *bien que*, le verbe se met au **subjonctif**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la conjonction de coordination de chaque phrase.",
+     "items": [
+      "Il pleut mais nous sortons.",
+      "Tu viens ou tu restes ?",
+      "Awa chante et Fatou danse.",
+      "Il ne mange ni riz ni manioc."
+     ],
+     "corrige": [
+      "**mais**",
+      "**ou**",
+      "**et**",
+      "**ni … ni**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Combien y a-t-il de conjonctions de coordination ?",
+     "options": [
+      "cinq",
+      "sept",
+      "neuf"
+     ],
+     "answer": 1,
+     "explain": "Il y en a sept : *mais, ou, et, donc, or, ni, car*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec *mais*, *ou*, *donc*, *car*.",
+     "items": [
+      "Il pleut, ___ nous restons à la maison.",
+      "Tu veux du thé ___ du café ?",
+      "Il est fatigué, ___ il a beaucoup travaillé.",
+      "Je voulais sortir, ___ il pleuvait."
+     ],
+     "corrige": [
+      "Il pleut, **donc** nous restons à la maison.",
+      "Tu veux du thé **ou** du café ?",
+      "Il est fatigué, **car** il a beaucoup travaillé.",
+      "Je voulais sortir, **mais** il pleuvait."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « coordination » ou « subordination » pour la conjonction en gras.",
+     "items": [
+      "Awa chante **et** Fatou danse.",
+      "Je reste **parce qu’**il pleut.",
+      "Il part **quand** la nuit tombe.",
+      "Il veut venir **mais** il ne peut pas."
+     ],
+     "corrige": [
+      "**coordination**",
+      "**subordination**",
+      "**subordination**",
+      "**coordination**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique ce qu’exprime la conjonction de subordination en gras (temps, cause, but ou condition).",
+     "items": [
+      "Je reste **parce que** je suis malade.",
+      "Je parle lentement **pour que** tu comprennes.",
+      "**Quand** la nuit tombe, nous rentrons.",
+      "**Si** tu viens, je serai content."
+     ],
+     "corrige": [
+      "**cause**",
+      "**but**",
+      "**temps**",
+      "**condition**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Après « pour que », le verbe est à quel mode ?",
+     "options": [
+      "l’indicatif",
+      "le subjonctif",
+      "l’impératif"
+     ],
+     "answer": 1,
+     "explain": "*Pour que* est suivi du **subjonctif** : *pour que tu comprennes*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au mode qui convient.",
+     "items": [
+      "Je reste parce qu’il (pleuvoir).",
+      "Il sort bien qu’il (pleuvoir).",
+      "Parle fort pour qu’on t’(entendre).",
+      "Dès qu’il (arriver), nous mangerons."
+     ],
+     "corrige": [
+      "Je reste parce qu’il **pleut**. (indicatif)",
+      "Il sort bien qu’il **pleuve**. (subjonctif)",
+      "Parle fort pour qu’on t’**entende**. (subjonctif)",
+      "Dès qu’il **arrive**, nous mangerons. (indicatif)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec *et*, *est*, *ou*, *où*, *mais* ou *mes*.",
+     "items": [
+      "Awa ___ Fatou jouent.",
+      "Il ___ malade.",
+      "___ habites-tu ?",
+      "Tu veux du riz ___ du manioc ?",
+      "Il veut venir, ___ il ne peut pas."
+     ],
+     "corrige": [
+      "Awa **et** Fatou jouent. (conjonction)",
+      "Il **est** malade. (verbe être)",
+      "**Où** habites-tu ? (adverbe de lieu)",
+      "Tu veux du riz **ou** du manioc ? (conjonction)",
+      "Il veut venir, **mais** il ne peut pas. (conjonction)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie les deux phrases avec la conjonction indiquée.",
+     "items": [
+      "Il pleut. Nous sortons. (mais)",
+      "Je reste à la maison. Je suis malade. (parce que)",
+      "Parle plus fort. On t’entend. (pour que)",
+      "Il ne mange pas de riz. Il ne mange pas de manioc. (ni … ni)"
+     ],
+     "corrige": [
+      "Il pleut **mais** nous sortons.",
+      "Je reste à la maison **parce que** je suis malade.",
+      "Parle plus fort **pour qu’**on t’entende.",
+      "Il ne mange **ni** riz **ni** manioc."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **conjonction** est un mot **invariable** qui relie des mots, des groupes de mots ou des propositions.",
+      "Les conjonctions de **coordination** sont : **mais, ou, et, donc, or, ni, car**.",
+      "Les conjonctions de **subordination** introduisent une subordonnée et expriment le **temps**, la **cause**, la **conséquence**, le **but**, la **condition** ou la **concession**.",
+      "Après *pour que*, *afin que*, *bien que*, le verbe est au **subjonctif**.",
+      "Ne pas confondre : *et / est*, *ou / où*, *mais / mes*."
+     ]
+    }
+   ]
+  }
+ ]
+}

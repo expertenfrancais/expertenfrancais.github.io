@@ -1,0 +1,248 @@
+{
+ "id": 30037,
+ "meta": {
+  "t": "Les modes personnels et impersonnels : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "c",
+  "r": 4.8,
+  "ex": 37
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Le mode",
+     "text": "Le **mode** est la manière dont le verbe présente l’action. Les **modes personnels** ont une forme pour chaque personne : indicatif, subjonctif, conditionnel et impératif. Les **modes impersonnels** n’en ont pas : infinitif et participe."
+    },
+    {
+     "type": "table",
+     "title": "Les six modes",
+     "head": [
+      "Mode",
+      "Sert à exprimer",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Indicatif",
+       "le réel",
+       "Il chante."
+      ],
+      [
+       "Subjonctif",
+       "le voulu, le douteux",
+       "Il faut qu’il chante."
+      ],
+      [
+       "Conditionnel",
+       "le possible",
+       "Il chanterait."
+      ],
+      [
+       "Impératif",
+       "l’ordre",
+       "Chante !"
+      ],
+      [
+       "Infinitif",
+       "le nom du verbe",
+       "chanter"
+      ],
+      [
+       "Participe",
+       "forme en -ant ou participe passé",
+       "chantant, chanté"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Un verbe sans sujet qui donne un ordre est à l’impératif ; un verbe sans personne (chanter, chantant) est à un mode impersonnel."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le mode du verbe en gras.",
+     "items": [
+      "Tu **chantes** bien.",
+      "Il faut que tu **chantes**.",
+      "**Chante** plus fort !",
+      "Tu **chanterais** mieux."
+     ],
+     "corrige": [
+      "**indicatif**.",
+      "**subjonctif** (après « il faut que »).",
+      "**impératif** (ordre, sans sujet).",
+      "**conditionnel** (terminaison -rais)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mode n’a pas de forme propre à chaque personne ?",
+     "options": [
+      "L’indicatif",
+      "L’infinitif",
+      "L’impératif"
+     ],
+     "answer": 1,
+     "explain": "L’infinitif est un mode impersonnel : on ne peut pas lui associer de pronom sujet."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque forme verbale est d’un mode personnel ou impersonnel.",
+     "items": [
+      "chanter",
+      "nous chantons",
+      "chantant",
+      "Chante !",
+      "ayant chanté"
+     ],
+     "corrige": [
+      "chanter : **impersonnel** (infinitif).",
+      "nous chantons : **personnel** (indicatif).",
+      "chantant : **impersonnel** (participe présent).",
+      "Chante ! : **personnel** (impératif).",
+      "ayant chanté : **impersonnel** (participe)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si le verbe en gras est à l’indicatif ou au subjonctif.",
+     "items": [
+      "Je sais que tu **viens**.",
+      "Je veux que tu **viennes**.",
+      "Il sort bien qu’il **pleuve**.",
+      "Je pense qu’il **vient**."
+     ],
+     "corrige": [
+      "**indicatif** (fait certain).",
+      "**subjonctif** (volonté).",
+      "**subjonctif** (après « bien que »).",
+      "**indicatif** (fait certain)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le verbe entre parenthèses à l’impératif présent.",
+     "items": [
+      "Tu (ouvrir) la fenêtre.",
+      "Nous (partir) maintenant.",
+      "Vous (prendre) vos cahiers.",
+      "Tu (être) sage."
+     ],
+     "corrige": [
+      "**Ouvre** la fenêtre. (pas de -s pour ouvrir)",
+      "**Partons** maintenant.",
+      "**Prenez** vos cahiers.",
+      "**Sois** sage."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces formes est un conditionnel ?",
+     "options": [
+      "je chanterai",
+      "je chanterais",
+      "je chante"
+     ],
+     "answer": 1,
+     "explain": "« je chanterais » est un conditionnel (terminaison -ais). « je chanterai » est un futur de l’indicatif."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le mode et le temps du verbe en gras.",
+     "items": [
+      "Hier, nous **avons mangé** du riz.",
+      "Demain, il **partira**.",
+      "Il faut que tu **viennes**.",
+      "Si j’étais riche, je **voyagerais**."
+     ],
+     "corrige": [
+      "**indicatif**, passé composé.",
+      "**indicatif**, futur simple.",
+      "**subjonctif**, présent.",
+      "**conditionnel**, présent."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les verbes conjugués du texte et donne leur mode : « Il faut que tu fermes la porte. Ferme-la vite, sinon le chat sortira. »",
+     "corrige": [
+      "**fermes** : subjonctif présent (après « il faut que »).",
+      "**Ferme** : impératif présent (ordre).",
+      "**sortira** : indicatif futur simple."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige quatre phrases contenant chacune un verbe à un mode différent : indicatif, subjonctif, impératif et infinitif. Indique le mode du verbe de chaque phrase.",
+     "corrige": "Exemple : « Awa chante tous les soirs (indicatif). Il faut qu’elle chante plus fort (subjonctif). Chante avec nous (impératif). J’aime chanter (infinitif). » Vérifiez que chaque verbe correspond bien au mode annoncé."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les modes personnels sont l’indicatif, le subjonctif, le conditionnel et l’impératif.",
+      "Les modes impersonnels sont l’infinitif et le participe.",
+      "Le mode dépend du sens : réel, voulu, possible, ordre, ou forme sans personne."
+     ]
+    }
+   ]
+  }
+ ]
+}

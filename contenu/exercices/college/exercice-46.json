@@ -1,0 +1,237 @@
+{
+ "id": 30046,
+ "meta": {
+  "t": "Les champs sémantiques : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "ex": 46
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Champ sémantique",
+     "text": "Le **champ sémantique** d’un mot est l’ensemble de **tous les sens** que ce mot peut avoir. Un mot qui a plusieurs sens liés entre eux est **polysémique**."
+    },
+    {
+     "type": "table",
+     "title": "Le champ sémantique du mot « feuille »",
+     "head": [
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "d’un arbre",
+       "*Une **feuille** jaune tombe.*"
+      ],
+      [
+       "de papier",
+       "*Écris sur une **feuille**.*"
+      ],
+      [
+       "de salade",
+       "*Une **feuille** de salade.*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Ne pas confondre",
+     "text": "Le **champ lexical** regroupe **plusieurs mots** d’un même thème. Le **champ sémantique** regroupe **plusieurs sens** d’un même mot. Le **contexte** permet de choisir le bon sens."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne deux sens différents de chaque mot.",
+     "items": [
+      "bureau",
+      "queue",
+      "clé"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. *bureau* : meuble pour écrire ; pièce où l’on travaille",
+      "2. *queue* : partie de l’animal ; file d’attente",
+      "3. *clé* : objet qui ouvre une porte ; signe de musique (clé de sol)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est polysémique ?",
+     "options": [
+      "stylo",
+      "tableau",
+      "cartable"
+     ],
+     "answer": 1,
+     "explain": "*Tableau* a plusieurs sens : tableau noir, tableau de peinture, tableau de chiffres."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens du mot **queue** dans chaque phrase.",
+     "items": [
+      "Le chat remue la **queue**.",
+      "Les clients font la **queue**.",
+      "La **queue** de la casserole est chaude."
+     ],
+     "corrige": [
+      "1. la partie de l’animal, au bout de son corps",
+      "2. la file d’attente",
+      "3. le manche de la casserole"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « sens propre » ou « sens figuré » pour chaque phrase.",
+     "items": [
+      "Le cœur pompe le sang.",
+      "Il a un cœur d’or.",
+      "Elle est tombée dans un trou profond.",
+      "J’ai dévoré ce roman en une soirée."
+     ],
+     "corrige": [
+      "1. **sens propre**",
+      "2. **sens figuré** (il est très généreux)",
+      "3. **sens propre**",
+      "4. **sens figuré** (je l’ai lu très vite)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens du mot **feuille** grâce au contexte.",
+     "items": [
+      "Une feuille jaune tombe de l’arbre.",
+      "Passe-moi une feuille de papier.",
+      "Maman lave les feuilles de salade."
+     ],
+     "corrige": [
+      "1. la feuille d’une plante",
+      "2. la feuille de papier",
+      "3. la feuille de salade (un légume)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Pour trouver le bon sens d’un mot dans une phrase, on regarde…",
+     "options": [
+      "la première lettre",
+      "le contexte",
+      "le nombre de syllabes"
+     ],
+     "answer": 1,
+     "explain": "Les mots qui entourent le mot difficile (le **contexte**) montrent son sens."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « champ lexical » ou « champ sémantique » pour chaque cas.",
+     "items": [
+      "Les mots *neige, froid, hiver, grelotter*.",
+      "Les trois sens du mot *feuille*.",
+      "Les mots *école, classe, maître, cahier*.",
+      "Les différents sens du mot *tête*."
+     ],
+     "corrige": [
+      "1. **champ lexical** (le froid)",
+      "2. **champ sémantique**",
+      "3. **champ lexical** (l’école)",
+      "4. **champ sémantique**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Voici un article de dictionnaire simplifié : **clé** *n. f.* 1. Objet qui sert à ouvrir ou fermer une serrure. 2. Signe placé au début d’une portée de musique : *la clé de sol*. 3. *fig.* Ce qui permet de comprendre : *la clé du mystère*. Dans chaque phrase, indique le numéro du sens.",
+     "items": [
+      "Il a perdu la clé de la maison.",
+      "La clé de sol se place au début de la portée.",
+      "Voici la clé du mystère."
+     ],
+     "corrige": [
+      "1. sens **1**",
+      "2. sens **2**",
+      "3. sens **3** (sens figuré)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases avec le mot **pied** employé dans trois sens différents.",
+     "items": [
+      "Souligne le mot **pied** dans chaque phrase."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "*Il a mal au **pied**.* (partie du corps)",
+      "*Le **pied** de la table est cassé.* (support)",
+      "*Nous campons au **pied** de la montagne.* (le bas)"
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **champ sémantique** d’un mot est l’ensemble de **tous ses sens**.",
+      "Un mot **polysémique** a plusieurs sens liés entre eux : *feuille, pied, tête, queue…*",
+      "Le **sens propre** est le sens premier, concret ; le **sens figuré** est un sens imagé.",
+      "Le **contexte** (les mots autour) permet de trouver le bon sens.",
+      "Le **champ lexical** regroupe **plusieurs mots** d’un thème ; le champ sémantique regroupe **plusieurs sens** d’un mot."
+     ]
+    }
+   ]
+  }
+ ]
+}

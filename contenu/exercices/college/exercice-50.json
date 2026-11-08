@@ -1,0 +1,250 @@
+{
+ "id": 30050,
+ "meta": {
+  "t": "Le groupe nominal : déterminant, nom et adjectif qualificatif : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ex": 50
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Adjectif qualificatif",
+     "text": "L’**adjectif qualificatif** précise le nom en lui donnant une **qualité** (couleur, taille, caractère…). Il s’accorde en **genre** et en **nombre** avec le nom. Il se place **avant** ou **après** le nom."
+    },
+    {
+     "type": "table",
+     "title": "Règle d’accord de l’adjectif",
+     "head": [
+      "Le nom est…",
+      "L’adjectif est…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "masculin singulier",
+       "masculin singulier",
+       "un garçon **content**"
+      ],
+      [
+       "féminin singulier",
+       "féminin (+ e)",
+       "une fille **contente**"
+      ],
+      [
+       "masculin pluriel",
+       "masculin + s",
+       "des garçons **contents**"
+      ],
+      [
+       "féminin pluriel",
+       "féminin + s",
+       "des filles **contentes**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Avant ou après ?",
+     "text": "Certains adjectifs se placent avant le nom (*une **belle** maison, un **petit** chat*), d’autres après (*une maison **blanche**, un chat **noir***). Les adjectifs de couleur se placent après le nom."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève l’adjectif qualificatif de chaque groupe nominal.",
+     "items": [
+      "une belle maison",
+      "un chat noir",
+      "des élèves attentifs",
+      "la route poussiéreuse"
+     ],
+     "corrige": [
+      "une **belle** maison",
+      "un chat **noir**",
+      "des élèves **attentifs**",
+      "la route **poussiéreuse**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Combien y a-t-il d’adjectifs qualificatifs dans « un petit chat noir » ?",
+     "options": [
+      "un",
+      "deux",
+      "trois"
+     ],
+     "answer": 1,
+     "explain": "*Petit* et *noir* sont deux adjectifs qui précisent le nom *chat*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde l’adjectif entre parenthèses avec le nom.",
+     "items": [
+      "une fille (content)",
+      "des garçons (grand)",
+      "des fleurs (parfumé)",
+      "une robe (blanc)"
+     ],
+     "corrige": [
+      "une fille **contente**",
+      "des garçons **grands**",
+      "des fleurs **parfumées**",
+      "une robe **blanche**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si l’adjectif est placé avant ou après le nom.",
+     "items": [
+      "une belle maison",
+      "un chat noir",
+      "un petit garçon",
+      "une robe bleue"
+     ],
+     "corrige": [
+      "**avant** le nom",
+      "**après** le nom",
+      "**avant** le nom",
+      "**après** le nom"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le genre et le nombre de chaque groupe nominal.",
+     "items": [
+      "un garçon courageux",
+      "des filles curieuses",
+      "les garçons curieux",
+      "une fille courageuse"
+     ],
+     "corrige": [
+      "**masculin singulier**",
+      "**féminin pluriel**",
+      "**masculin pluriel**",
+      "**féminin singulier**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe nominal est correctement accordé ?",
+     "options": [
+      "des filles contents",
+      "des filles contentes",
+      "des filles content"
+     ],
+     "answer": 1,
+     "explain": "*Filles* est féminin pluriel : l’adjectif prend la marque du féminin et du pluriel, **contentes**."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur d’accord dans chaque phrase.",
+     "items": [
+      "Des fleurs rouge poussent dans le jardin.",
+      "Une histoire amusant.",
+      "Les petits chat dorment.",
+      "Une fille courageux."
+     ],
+     "corrige": [
+      "Des fleurs **rouges** poussent dans le jardin.",
+      "Une histoire **amusante**.",
+      "Les petits **chats** dorment.",
+      "Une fille **courageuse**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis chaque phrase avec un ou deux adjectifs qualificatifs.",
+     "items": [
+      "J’ai une robe.",
+      "Voici un chat.",
+      "Il porte un sac.",
+      "Elle cueille des mangues."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. J’ai une **belle** robe **bleue**.",
+      "2. Voici un **petit** chat **noir**.",
+      "3. Il porte un **lourd** sac.",
+      "4. Elle cueille des mangues **mûres**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris ta salle de classe en trois phrases en utilisant au moins quatre adjectifs qualificatifs.",
+     "items": [
+      "Souligne les adjectifs.",
+      "Vérifie leur accord."
+     ],
+     "corrige": "Réponse possible : *Notre classe est **grande** et **claire**. Les murs **blancs** sont décorés de **beaux** dessins. Les tables **vertes** sont **bien** rangées.*"
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **groupe nominal** est organisé autour d’un **nom**, le noyau.",
+      "L’**adjectif qualificatif** donne une **qualité** au nom.",
+      "Il peut se placer **avant** ou **après** le nom.",
+      "Il **s’accorde** en genre et en nombre avec le nom.",
+      "Pour analyser : je cherche le **nom**, puis le **déterminant**, puis l’**adjectif**."
+     ]
+    }
+   ]
+  }
+ ]
+}

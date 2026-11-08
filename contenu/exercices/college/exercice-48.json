@@ -1,0 +1,256 @@
+{
+ "id": 30048,
+ "meta": {
+  "t": "Les temps composés : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "g",
+  "r": 4.8,
+  "ex": 48
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Temps composé",
+     "text": "Un **temps composé** se forme avec l’**auxiliaire** *avoir* ou *être*, conjugué à un **temps simple**, suivi du **participe passé** du verbe : *il a chanté*, *elle est partie*."
+    },
+    {
+     "type": "table",
+     "title": "Chaque temps composé a un temps simple « jumeau »",
+     "head": [
+      "Temps composé",
+      "Auxiliaire conjugué au…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "passé composé",
+       "présent",
+       "*il a chanté*"
+      ],
+      [
+       "plus-que-parfait",
+       "imparfait",
+       "*il avait chanté*"
+      ],
+      [
+       "futur antérieur",
+       "futur simple",
+       "*il aura chanté*"
+      ],
+      [
+       "passé antérieur",
+       "passé simple",
+       "*il eut chanté*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Avoir ou être ?",
+     "text": "On emploie **être** avec les verbes **pronominaux** et quelques verbes de mouvement (*aller, arriver, partir, tomber…*). On emploie **avoir** avec presque tous les autres. Avec **être**, le participe passé s’accorde avec le **sujet**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève l’auxiliaire et le participe passé de chaque verbe.",
+     "items": [
+      "il a chanté",
+      "nous sommes partis",
+      "elle avait fini",
+      "tu auras mangé"
+     ],
+     "corrige": [
+      "auxiliaire **a** ; participe passé **chanté**",
+      "auxiliaire **sommes** ; participe passé **partis**",
+      "auxiliaire **avait** ; participe passé **fini**",
+      "auxiliaire **auras** ; participe passé **mangé**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le participe passé du verbe « prendre » ?",
+     "options": [
+      "pris",
+      "prendu",
+      "prenu"
+     ],
+     "answer": 0,
+     "explain": "Le participe passé de *prendre* est **pris** (comme *mettre* → *mis*)."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque verbe au passé composé.",
+     "items": [
+      "manger (je)",
+      "finir (tu)",
+      "voir (nous)",
+      "faire (ils)"
+     ],
+     "corrige": [
+      "j’**ai mangé**",
+      "tu **as fini**",
+      "nous **avons vu**",
+      "ils **ont fait**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec l’auxiliaire *avoir* ou *être* au présent.",
+     "items": [
+      "Awa ___ partie.",
+      "Nous ___ mangé du riz.",
+      "Ils ___ arrivés hier.",
+      "Tu ___ fini ton devoir."
+     ],
+     "corrige": [
+      "Awa **est** partie.",
+      "Nous **avons** mangé du riz.",
+      "Ils **sont** arrivés hier.",
+      "Tu **as** fini ton devoir."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque verbe au plus-que-parfait.",
+     "items": [
+      "chanter (je)",
+      "partir (tu, masculin)",
+      "finir (nous)",
+      "aller (elles)"
+     ],
+     "corrige": [
+      "j’**avais chanté**",
+      "tu **étais parti**",
+      "nous **avions fini**",
+      "elles **étaient allées**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le temps de « il aura fini » ?",
+     "options": [
+      "le passé composé",
+      "le futur antérieur",
+      "le plus-que-parfait"
+     ],
+     "answer": 1,
+     "explain": "*Aura* est l’auxiliaire *avoir* au **futur simple** : le temps composé est le **futur antérieur**."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le temps de chaque verbe.",
+     "items": [
+      "il avait chanté",
+      "il a chanté",
+      "il aura chanté",
+      "il eut chanté"
+     ],
+     "corrige": [
+      "**plus-que-parfait** (auxiliaire à l’imparfait)",
+      "**passé composé** (auxiliaire au présent)",
+      "**futur antérieur** (auxiliaire au futur simple)",
+      "**passé antérieur** (auxiliaire au passé simple)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé entre parenthèses.",
+     "items": [
+      "Les filles sont (partir) tôt.",
+      "Awa est (tomber) dans la cour.",
+      "Moussa et Paul sont (arriver) en retard.",
+      "Elles étaient (rester) à la maison."
+     ],
+     "corrige": [
+      "Les filles sont **parties** tôt.",
+      "Awa est **tombée** dans la cour.",
+      "Moussa et Paul sont **arrivés** en retard.",
+      "Elles étaient **restées** à la maison."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque verbe à son temps composé « jumeau ».",
+     "items": [
+      "il mange",
+      "il mangeait",
+      "il mangera",
+      "il mangea"
+     ],
+     "corrige": [
+      "il **a mangé** (passé composé)",
+      "il **avait mangé** (plus-que-parfait)",
+      "il **aura mangé** (futur antérieur)",
+      "il **eut mangé** (passé antérieur)"
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **temps composé** = **auxiliaire** (*avoir* ou *être*) à un temps simple + **participe passé**.",
+      "Quatre temps composés de l’indicatif : **passé composé**, **plus-que-parfait**, **futur antérieur**, **passé antérieur**.",
+      "On emploie **être** avec les verbes pronominaux et quelques verbes de mouvement ; **avoir** avec presque tous les autres.",
+      "Avec **être**, le participe passé s’**accorde avec le sujet**.",
+      "Participes passés fréquents : *chanté, fini, vendu, pris, mis, fait, ouvert, été, eu*."
+     ]
+    }
+   ]
+  }
+ ]
+}

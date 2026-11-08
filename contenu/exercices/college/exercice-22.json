@@ -1,0 +1,248 @@
+{
+ "id": 30022,
+ "meta": {
+  "t": "Les conjonctions : exercices",
+  "k": "Exercices",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ex": 22
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La conjonction",
+     "text": "Une **conjonction** est un mot **invariable** qui relie deux mots, deux groupes de mots ou deux propositions. On distingue les conjonctions de **coordination** (mais, ou, et, donc, or, ni, car) et les conjonctions de **subordination** (que, quand, comme, si, parce que, lorsque…)."
+    },
+    {
+     "type": "table",
+     "title": "Quelques conjonctions et leur sens",
+     "head": [
+      "Conjonction",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "et",
+       "addition",
+       "Fatou et Jean jouent."
+      ],
+      [
+       "mais",
+       "opposition",
+       "Il est petit mais fort."
+      ],
+      [
+       "ou",
+       "choix",
+       "Veux-tu du riz ou du manioc ?"
+      ],
+      [
+       "donc",
+       "conséquence",
+       "Il pleut, donc je reste."
+      ],
+      [
+       "car",
+       "cause",
+       "Je reste car il pleut."
+      ],
+      [
+       "parce que",
+       "cause (subordination)",
+       "Elle pleure parce qu’elle a mal."
+      ],
+      [
+       "quand",
+       "temps (subordination)",
+       "Il sort quand la pluie cesse."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour retenir les sept conjonctions de coordination, pensez à : **Mais où est donc Ornicar ?** (mais, ou, et, donc, or, ni, car)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la conjonction de coordination dans chaque phrase.",
+     "items": [
+      "Marie et Paul vont à l’école.",
+      "Je voulais sortir, mais il pleuvait.",
+      "Veux-tu du thé ou du café ?",
+      "Il n’a ni faim ni soif."
+     ],
+     "corrige": [
+      "Marie **et** Paul vont à l’école.",
+      "Je voulais sortir, **mais** il pleuvait.",
+      "Veux-tu du thé **ou** du café ?",
+      "Il n’a **ni** faim **ni** soif."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une conjonction de coordination qui exprime l’opposition ?",
+     "options": [
+      "Il rit et il chante.",
+      "Il est fatigué mais il continue.",
+      "Il reste car il pleut."
+     ],
+     "answer": 1,
+     "explain": "« mais » exprime l’opposition : être fatigué et continuer s’opposent. « et » ajoute, « car » explique une cause."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec la conjonction qui convient : et, mais, car, ou, donc.",
+     "items": [
+      "Je prends un stylo ... un cahier. (addition)",
+      "Elle est petite, ... elle court très vite. (opposition)",
+      "Je reste à la maison, ... il pleut. (cause)",
+      "Veux-tu partir maintenant ... demain ? (choix)",
+      "Il a raté le bus, ... il arrive en retard. (conséquence)"
+     ],
+     "corrige": [
+      "Je prends un stylo **et** un cahier.",
+      "Elle est petite, **mais** elle court très vite.",
+      "Je reste à la maison, **car** il pleut.",
+      "Veux-tu partir maintenant **ou** demain ?",
+      "Il a raté le bus, **donc** il arrive en retard."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la conjonction de chaque phrase et dis si elle est de coordination ou de subordination.",
+     "items": [
+      "Je lis quand il fait nuit.",
+      "Il pleure parce qu’il a mal.",
+      "Il a étudié, donc il a réussi.",
+      "Dis-moi que tu viens.",
+      "Si tu viens, nous jouerons."
+     ],
+     "corrige": [
+      "**quand** : conjonction de subordination (temps).",
+      "**parce que** : conjonction de subordination (cause).",
+      "**donc** : conjonction de coordination (conséquence).",
+      "**que** : conjonction de subordination.",
+      "**Si** : conjonction de subordination (condition)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il dort car il est fatigué », que exprime la conjonction « car » ?",
+     "options": [
+      "la cause",
+      "l’opposition",
+      "le choix"
+     ],
+     "answer": 0,
+     "explain": "« car » introduit la raison pour laquelle il dort : il exprime la cause."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie les deux phrases avec la conjonction indiquée entre parenthèses.",
+     "items": [
+      "Il est malade. Il va à l’école. (mais)",
+      "Je suis content. J’ai gagné. (car)",
+      "Tu viens. Tu restes. (ou)",
+      "Il pleut. Nous restons dedans. (donc)"
+     ],
+     "corrige": [
+      "Il est malade **mais** il va à l’école.",
+      "Je suis content **car** j’ai gagné.",
+      "Tu viens **ou** tu restes ?",
+      "Il pleut, **donc** nous restons dedans."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction convient : « Il n’a pas répondu ... il n’a pas entendu. » ?",
+     "options": [
+      "parce qu’",
+      "donc",
+      "mais"
+     ],
+     "answer": 0,
+     "explain": "Il n’a pas répondu parce qu’il n’a pas entendu : la deuxième proposition donne la cause de la première."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les trois conjonctions de coordination du texte : « Awa voulait jouer, mais elle devait d’abord finir ses devoirs car sa mère l’exigeait. Elle les a terminés vite et elle est sortie. »",
+     "corrige": [
+      "**mais** (opposition), **car** (cause), **et** (addition)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige deux phrases : l’une avec « mais », l’autre avec « car ». Souligne la conjonction.",
+     "corrige": "Exemple : « J’aime le football **mais** je préfère la course. Je prends mon parapluie **car** le ciel est gris. » Vérifiez que la conjonction relie bien deux idées et que le sens est logique."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La conjonction est un mot invariable qui relie des mots ou des propositions.",
+      "Les sept conjonctions de coordination : mais, ou, et, donc, or, ni, car.",
+      "Les conjonctions de subordination (que, quand, si, parce que…) introduisent une proposition subordonnée."
+     ]
+    }
+   ]
+  }
+ ]
+}

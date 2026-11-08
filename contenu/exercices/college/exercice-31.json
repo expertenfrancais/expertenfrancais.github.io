@@ -1,0 +1,241 @@
+{
+ "id": 30031,
+ "meta": {
+  "t": "Les fonctions grammaticales : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ex": 31
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La fonction",
+     "text": "La **fonction** d’un mot ou d’un groupe de mots est le **rôle** qu’il joue dans la phrase. Elle ne se confond pas avec la **nature** (ce qu’est le mot : nom, verbe, adjectif…)."
+    },
+    {
+     "type": "table",
+     "title": "Les principales fonctions",
+     "head": [
+      "Fonction",
+      "Comment la reconnaître"
+     ],
+     "rows": [
+      [
+       "Sujet",
+       "Il répond à « Qui est-ce qui ? » devant le verbe."
+      ],
+      [
+       "COD",
+       "Il complète le verbe sans préposition (« qui ? quoi ? »)."
+      ],
+      [
+       "COI",
+       "Il complète le verbe avec une préposition (à, de…)."
+      ],
+      [
+       "Attribut du sujet",
+       "Il suit un verbe d’état (être, devenir, sembler…)."
+      ],
+      [
+       "Complément circonstanciel",
+       "Il précise le temps, le lieu, la manière, la cause… ; on peut le supprimer et le déplacer."
+      ],
+      [
+       "Épithète",
+       "L’adjectif est directement joint au nom."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour une même phrase, on se pose deux questions différentes : « Quelle est la **nature** du mot ? » puis « Quelle est sa **fonction** ? »"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du groupe en gras.",
+     "items": [
+      "**Les élèves** écoutent le maître.",
+      "Le maître explique **la leçon**.",
+      "Ma mère parle **à ses voisins**.",
+      "Mon cousin est **fatigué**."
+     ],
+     "corrige": [
+      "**Les élèves** : sujet du verbe écoutent.",
+      "**la leçon** : COD du verbe explique.",
+      "**à ses voisins** : COI du verbe parle.",
+      "**fatigué** : attribut du sujet (verbe d’état « est »)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Un chien fidèle dort sous l’arbre », quelle est la fonction de « fidèle » ?",
+     "options": [
+      "Épithète",
+      "Attribut du sujet",
+      "COD"
+     ],
+     "answer": 0,
+     "explain": "« fidèle » est joint directement au nom « chien » sans verbe d’état : c’est une épithète."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la circonstance exprimée par le complément circonstanciel en gras (temps, lieu, manière ou cause).",
+     "items": [
+      "**Hier**, nous avons visité le musée.",
+      "Les enfants jouent **dans la cour**.",
+      "Il marche **lentement**.",
+      "Il reste à la maison **à cause de la pluie**."
+     ],
+     "corrige": [
+      "**Hier** : complément circonstanciel de **temps**.",
+      "**dans la cour** : complément circonstanciel de **lieu**.",
+      "**lentement** : complément circonstanciel de **manière**.",
+      "**à cause de la pluie** : complément circonstanciel de **cause**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du groupe en gras dans le groupe nominal.",
+     "items": [
+      "Les enfants **du village** chantent.",
+      "Cette **grande** maison est ancienne.",
+      "Cette maison est **ancienne**.",
+      "Mon oncle, **un excellent cuisinier**, prépare le repas."
+     ],
+     "corrige": [
+      "**du village** : complément du nom « enfants ».",
+      "**grande** : épithète du nom « maison ».",
+      "**ancienne** : attribut du sujet « maison ».",
+      "**un excellent cuisinier** : apposition au nom « oncle »."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le groupe en gras est un COD ou un COI.",
+     "items": [
+      "Il téléphone **à son père**.",
+      "Elle lit **un roman**.",
+      "Nous parlons **de nos vacances**.",
+      "Tu as vu **mes clés** ?"
+     ],
+     "corrige": [
+      "**à son père** : **COI** (préposition « à »).",
+      "**un roman** : **COD** (aucune préposition).",
+      "**de nos vacances** : **COI** (préposition « de »).",
+      "**mes clés** : **COD** (aucune préposition)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Sa sœur devient médecin », quelle est la fonction de « médecin » ?",
+     "options": [
+      "COD",
+      "Attribut du sujet",
+      "Complément circonstanciel"
+     ],
+     "answer": 1,
+     "explain": "« devient » est un verbe d’état : « médecin » est un attribut du sujet « Sa sœur »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le groupe en gras est un complément circonstanciel (CC) ou un complément du verbe (COD ou COI). Aide-toi du test de la suppression.",
+     "items": [
+      "Le facteur distribue le courrier **le matin**.",
+      "Le facteur distribue **le courrier** le matin.",
+      "Elle pense **à son avenir**.",
+      "Nous mangeons **sous le manguier**."
+     ],
+     "corrige": [
+      "**le matin** : **CC de temps** (on peut le supprimer et le déplacer).",
+      "**le courrier** : **COD** (on ne peut pas le supprimer sans changer le sens).",
+      "**à son avenir** : **COI** (on ne peut pas le supprimer).",
+      "**sous le manguier** : **CC de lieu** (on peut le supprimer et le déplacer)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la phrase « Chaque matin, le vieux pêcheur répare ses filets près du fleuve. » : relève le sujet, le verbe, le COD, les compléments circonstanciels (avec leur sorte) et l’épithète.",
+     "corrige": [
+      "Sujet : **le vieux pêcheur**.",
+      "Verbe : **répare**.",
+      "COD : **ses filets**.",
+      "Compléments circonstanciels : **Chaque matin** (temps) et **près du fleuve** (lieu).",
+      "Épithète : **vieux** (du nom « pêcheur »)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige une phrase qui contient : un sujet, un COD, un COI, un complément circonstanciel de lieu et une épithète. Souligne chacun de ces éléments et indique sa fonction.",
+     "corrige": "Exemple : « Le **petit** garçon donne un cadeau à sa mère dans le salon. » : sujet « Le petit garçon », épithète « petit », COD « un cadeau », COI « à sa mère », CC de lieu « dans le salon ». Toute phrase correcte contenant ces cinq éléments est acceptée."
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La fonction est le rôle d’un mot ou d’un groupe de mots dans la phrase ; la nature est ce qu’il est.",
+      "Le COD se construit sans préposition, le COI avec une préposition, l’attribut après un verbe d’état.",
+      "Le complément circonstanciel se supprime et se déplace ; l’épithète est jointe au nom."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "id": 30051,
+ "meta": {
+  "t": "Le groupe verbal : verbe et complément circonstanciel : exercices",
+  "k": "Exercices",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ex": 51
+ },
+ "sections": [
+  {
+   "t": "Rappel de cours",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Groupe verbal et complément circonstanciel",
+     "text": "Le **groupe verbal** est organisé autour d’un **verbe**. Il peut contenir un **complément circonstanciel** (CC), qui précise les **circonstances** de l’action : lieu, temps, manière, cause, but…"
+    },
+    {
+     "type": "table",
+     "title": "Les principaux compléments circonstanciels",
+     "head": [
+      "Sorte de CC",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "lieu",
+       "où ?",
+       "Les enfants jouent **dans le jardin**."
+      ],
+      [
+       "temps",
+       "quand ?",
+       "Nous partirons **demain matin**."
+      ],
+      [
+       "manière",
+       "comment ?",
+       "Elle répond **avec politesse**."
+      ],
+      [
+       "cause",
+       "pourquoi ?",
+       "Il reste chez lui **à cause de la pluie**."
+      ],
+      [
+       "but",
+       "dans quel but ?",
+       "Il travaille **pour réussir**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un CC est mobile",
+     "text": "Le complément circonstanciel peut être **supprimé** et **déplacé** dans la phrase. Un complément d’objet, lui, ne peut pas être supprimé ni déplacé librement."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’échauffement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe de chaque phrase.",
+     "items": [
+      "Le chat dort sur le canapé.",
+      "Nous mangeons à midi.",
+      "Elles chantaient dans la rue.",
+      "Les enfants jouent."
+     ],
+     "corrige": [
+      "Le chat **dort** sur le canapé.",
+      "Nous **mangeons** à midi.",
+      "Elles **chantaient** dans la rue.",
+      "Les enfants **jouent**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver un complément circonstanciel de lieu ?",
+     "options": [
+      "où ?",
+      "quand ?",
+      "comment ?"
+     ],
+     "answer": 0,
+     "explain": "On pose la question **où ?** après le verbe pour trouver le lieu."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément circonstanciel de chaque phrase.",
+     "items": [
+      "Les enfants jouent dans le jardin.",
+      "Nous partirons demain matin.",
+      "Elle répond avec politesse."
+     ],
+     "corrige": [
+      "**dans le jardin**",
+      "**demain matin**",
+      "**avec politesse**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’approfondissement",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la sorte de complément circonstanciel (lieu, temps, manière, cause ou but).",
+     "items": [
+      "Il est resté chez lui à cause de la pluie.",
+      "Il travaille pour réussir.",
+      "Ils habitent à Pointe-Noire.",
+      "Elle marche lentement."
+     ],
+     "corrige": [
+      "**cause**",
+      "**but**",
+      "**lieu**",
+      "**manière**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris « CC » ou « COD » pour le groupe en gras.",
+     "items": [
+      "Awa lit **le soir**.",
+      "Awa lit **un livre**.",
+      "Il mange **du riz**.",
+      "Il mange **à midi**."
+     ],
+     "corrige": [
+      "1. **CC** (de temps)",
+      "2. **COD**",
+      "3. **COD**",
+      "4. **CC** (de temps)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 6"
+    },
+    {
+     "type": "quiz",
+     "question": "Un complément circonstanciel peut être…",
+     "options": [
+      "supprimé et déplacé",
+      "toujours obligatoire",
+      "jamais déplacé"
+     ],
+     "answer": 0,
+     "explain": "Le CC est **mobile** : on peut le déplacer ou le supprimer sans que la phrase perde son sens."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 7"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Déplace le complément circonstanciel au début de la phrase.",
+     "items": [
+      "Nous partirons demain matin.",
+      "Les enfants jouent dans le jardin.",
+      "Elle répond avec politesse.",
+      "Il étudie pour réussir."
+     ],
+     "corrige": [
+      "**Demain matin**, nous partirons.",
+      "**Dans le jardin**, les enfants jouent.",
+      "**Avec politesse**, elle répond.",
+      "**Pour réussir**, il étudie."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices de synthèse",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 8"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la forme de chaque complément circonstanciel en gras.",
+     "items": [
+      "Il joue **dans la cour**.",
+      "Elle marche **lentement**.",
+      "Nous rentrons **quand la nuit tombe**.",
+      "Il étudie **pour réussir**."
+     ],
+     "corrige": [
+      "**groupe nominal avec préposition**",
+      "**adverbe**",
+      "**proposition subordonnée**",
+      "**groupe à l’infinitif**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 9"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec un complément circonstanciel du type demandé.",
+     "items": [
+      "Les élèves jouent ___. (lieu)",
+      "Nous partirons ___. (temps)",
+      "Il répond ___. (manière)",
+      "Elle reste à la maison ___. (cause)"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Les élèves jouent **dans la cour**.",
+      "2. Nous partirons **demain**.",
+      "3. Il répond **avec calme**.",
+      "4. Elle reste à la maison **à cause de la fièvre**."
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **groupe verbal** est organisé autour d’un **verbe**, son noyau.",
+      "Le **complément circonstanciel** (CC) précise les circonstances de l’action : **lieu, temps, manière, cause, but**.",
+      "Pour le trouver : **où ? quand ? comment ? pourquoi ?** après le verbe.",
+      "Le CC peut être **supprimé** et **déplacé** ; placé au début de la phrase, il est séparé du reste par une **virgule**.",
+      "Il peut être un **groupe nominal**, un **adverbe**, un **groupe à l’infinitif** ou une **proposition subordonnée**."
+     ]
+    }
+   ]
+  }
+ ]
+}
