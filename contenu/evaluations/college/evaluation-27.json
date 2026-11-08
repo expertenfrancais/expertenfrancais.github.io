@@ -1,0 +1,224 @@
+{
+ "id": 40027,
+ "meta": {
+  "t": "Devoir n° 27 : L’adjectif qualificatif et ses fonctions",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "ev": 27
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Relever les adjectifs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie les adjectifs qualificatifs de chaque phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le petit garçon porte un sac rouge.",
+      "La rivière profonde est très froide.",
+      "Ces enfants courageux aident leur vieille voisine.",
+      "Une brise légère souffle sur la colline verte."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Épithète ou attribut (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si l’adjectif en gras est **épithète** ou **attribut du sujet**. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le **vieux** chêne résiste au vent.",
+      "Cette route est **dangereuse**.",
+      "Awa porte une robe **neuve**.",
+      "Les élèves semblent **contents**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Accorder l’adjectif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Accorde l’adjectif entre parenthèses. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les fleurs (parfumé) embaument la maison.",
+      "Mes amies sont (curieux).",
+      "Une (long) histoire a été racontée.",
+      "Ces rues semblent (désert)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Enrichir des groupes nominaux (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Ajoute un adjectif qualificatif épithète à chaque nom, en l’accordant. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un livre",
+      "des fleurs",
+      "la maison",
+      "les enfants"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Rédiger (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Écris une phrase avec un adjectif épithète et souligne-le. (2 pts)\n**2.** Écris une phrase avec un adjectif attribut du sujet et souligne-le. (2 pts)"
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "petit, rouge",
+      "profonde, froide",
+      "courageux, vieille",
+      "légère, verte"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "« vieux » : épithète (il accompagne directement le nom « chêne »)",
+      "« dangereuse » : attribut du sujet « route » (après le verbe être)",
+      "« neuve » : épithète du nom « robe »",
+      "« contents » : attribut du sujet « élèves » (après le verbe d’état « sembler »)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les fleurs parfumées embaument la maison.",
+      "Mes amies sont curieuses.",
+      "Une longue histoire a été racontée.",
+      "Ces rues semblent désertes."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles : un livre intéressant ; des fleurs jaunes ; la maison blanche ; les enfants joyeux. Accepter tout adjectif bien accordé et cohérent."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Exemple : « La *jolie* fille chante. » (épithète directement accolé au nom).\n**2.** Exemple : « La fille est *contente*. » (attribut relié au sujet par le verbe être ou un verbe d’état).\nAccorder 1 point pour la phrase correcte et 1 point pour le bon repérage de la fonction."
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "L’adjectif épithète accompagne directement le nom ; l’adjectif attribut est relié au sujet par un verbe d’état (être, sembler, paraître, devenir, rester)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Un adjectif attribut s’accorde avec le **sujet**, pas avec le verbe."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Relever les adjectifs",
+       "4"
+      ],
+      [
+       "2. Épithète ou attribut",
+       "4"
+      ],
+      [
+       "3. Accorder l’adjectif",
+       "4"
+      ],
+      [
+       "4. Enrichir des groupes nominaux",
+       "4"
+      ],
+      [
+       "5. Rédiger",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans les exercices 1 à 4.",
+      "À l’exercice 5, accorder 1 point pour chaque phrase correcte et 1 point pour la fonction bien identifiée.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

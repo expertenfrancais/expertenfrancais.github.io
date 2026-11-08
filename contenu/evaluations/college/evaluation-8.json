@@ -1,0 +1,247 @@
+{
+  "id": 40008,
+  "meta": {
+    "t": "Devoir n° 8 : Les pronoms",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Grammaire",
+    "img": "e",
+    "r": 4.8,
+    "ev": 8
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Les familles de pronoms (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la sorte de pronom en gras : personnel, possessif, démonstratif, relatif ou interrogatif. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Le mien** est neuf.",
+            "Le livre **que** je lis est amusant.",
+            "**Celui-ci** est plus cher.",
+            "**Qui** chante ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Remplacer par un pronom personnel (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Remplace le groupe en gras par un pronom (le, la, les, lui, leur, y, en) et recopie la phrase. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle mange **les fruits**.",
+            "Je parle **à mes amis**.",
+            "Nous pensons **à ce projet**.",
+            "Il mange **du riz**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Les pronoms relatifs (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par qui, que, où ou dont. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Le garçon ___ chante est mon frère.",
+            "Le livre ___ je lis est amusant.",
+            "La ville ___ j’habite est grande.",
+            "La fille ___ je parle est ma cousine."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Les pronoms possessifs (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Remplace le groupe en gras par un pronom possessif. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Ton cahier est neuf ; **mon cahier** est vieux.",
+            "Ma maison est grande ; **votre maison** est petite.",
+            "Mes crayons sont rouges ; **tes crayons** sont bleus.",
+            "Notre école est ancienne ; **leur école** est neuve."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Éviter les répétitions (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Voici un texte : lis-le, puis réponds."
+        },
+        {
+          "type": "ex",
+          "text": "Kofi a trouvé un portefeuille. Kofi a rapporté le portefeuille au directeur. Le directeur a remercié Kofi."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Récris le texte en remplaçant par des pronoms les mots répétés. (3 pts)",
+            "Relève un pronom personnel sujet dans ton texte. (1 pt)"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "pronom possessif",
+            "pronom relatif",
+            "pronom démonstratif",
+            "pronom interrogatif"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle **les** mange.",
+            "Je **leur** parle.",
+            "Nous **y** pensons.",
+            "Il **en** mange."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**qui** (sujet de « chante »)",
+            "**que** (COD de « lis »)",
+            "**où** (lieu)",
+            "**dont** (on dit « parler de »)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**le mien**",
+            "**la vôtre**",
+            "**les tiens**",
+            "**la leur**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Réponse possible : « Kofi a trouvé un portefeuille. **Il l’**a rapporté au directeur. **Celui-ci l’**a remercié. » (1 point par groupe de phrase correctement transformé.)",
+            "« il » (ou « celui-ci », pronom démonstratif, si l’élève a choisi cette forme)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Un pronom remplace un nom ou un groupe nominal : pour éviter une répétition, cherche d’abord le mot répété, puis choisis le pronom selon sa fonction (sujet, COD, COI)."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Ne confonds pas « le », article ou déterminant devant un nom (le chat), et « le », pronom devant un verbe (je le vois)."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Les familles de pronoms",
+              "4"
+            ],
+            [
+              "2. Remplacer par un pronom personnel",
+              "4"
+            ],
+            [
+              "3. Les pronoms relatifs",
+              "4"
+            ],
+            [
+              "4. Les pronoms possessifs",
+              "4"
+            ],
+            [
+              "5. Éviter les répétitions",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, plusieurs réponses sont possibles : accepter tout texte correct qui évite les répétitions.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

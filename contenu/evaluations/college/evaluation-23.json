@@ -1,0 +1,245 @@
+{
+  "id": 40023,
+  "meta": {
+    "t": "Devoir n° 23 : Les valeurs modales de l’indicatif",
+    "k": "Évaluations",
+    "n": "3e",
+    "m": "Conjugaison",
+    "img": "d",
+    "r": 4.8,
+    "ev": 23
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Les valeurs modales des temps (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne le temps et la valeur modale du verbe en gras. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tu **ranges** ta chambre, tout de suite.",
+            "Je vous **demanderai** de patienter.",
+            "Il n’a pas répondu : il **aura oublié**.",
+            "Un pas de plus, et il **tombait**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Les phrases en « si » (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au temps qui convient. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Si j’(avoir) le temps, je lirais davantage.",
+            "Si j’(savoir), je serais venu.",
+            "Si tu (venir), tu verras.",
+            "Je (venir) vous demander un renseignement. (imparfait d’atténuation)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Indicatif ou subjonctif ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Choisis la bonne forme du verbe. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je pense qu’il (viendra / vienne).",
+            "Je souhaite qu’il (réussira / réussisse).",
+            "J’espère qu’il (réussira / réussisse).",
+            "Avant qu’il (part / parte), dis-lui merci."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Corriger les fautes (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Chaque phrase contient une faute de mode ou de temps. Recopie la phrase corrigée. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Si j’aurais su, je serais venu.",
+            "Après qu’il soit parti, la pièce s’est vidée.",
+            "J’espère qu’il vienne demain.",
+            "Je doute qu’il viendra."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Écrire des phrases (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Les questions 1 et 2 valent 1 point chacune ; la question 3 vaut 2 points."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Écris une phrase avec un futur simple à valeur d’ordre atténué ou de politesse.",
+            "Écris une phrase avec un futur antérieur à valeur de supposition.",
+            "Écris une phrase d’hypothèse non réalisée dans le passé, avec une proposition en « si » et un verbe principal au conditionnel."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "présent à valeur d’ordre",
+            "futur simple à valeur de politesse (ordre atténué)",
+            "futur antérieur à valeur de supposition (probabilité)",
+            "imparfait à valeur d’imminence"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**avais** (imparfait après « si » : hypothèse sur le présent)",
+            "**avais su** (plus-que-parfait après « si » : hypothèse non réalisée)",
+            "**viens** (présent après « si »)",
+            "**venais**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**viendra** (indicatif : opinion affirmative)",
+            "**réussisse** (subjonctif : souhaiter que)",
+            "**réussira** (indicatif : espérer que)",
+            "**parte** (subjonctif : avant que)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Si j’**avais su**, je serais venu. » (jamais de conditionnel après « si » d’hypothèse)",
+            "« Après qu’il **est parti**, la pièce s’est vidée. » (indicatif après « après que »)",
+            "« J’espère qu’il **viendra** demain. » (indicatif après « espérer que »)",
+            "« Je doute qu’il **vienne**. » (subjonctif après « douter que »)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Exemple : « Vous **patienterez** un instant. »",
+            "Exemple : « Il n’a pas téléphoné : il **aura perdu** mon numéro. »",
+            "Exemple : « Si j’**avais** étudié, j’**aurais réussi**. » (1 point pour le plus-que-parfait après « si », 1 point pour le conditionnel passé dans la principale)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Un temps de l’indicatif peut exprimer autre chose que le temps de l’horloge : ordre, politesse, supposition, atténuation, hypothèse."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Après « si » d’hypothèse, on emploie l’indicatif (imparfait ou plus-que-parfait) ; le conditionnel se trouve dans l’autre proposition."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Les valeurs modales des temps",
+              "4"
+            ],
+            [
+              "2. Les phrases en « si »",
+              "4"
+            ],
+            [
+              "3. Indicatif ou subjonctif ?",
+              "4"
+            ],
+            [
+              "4. Corriger les fautes",
+              "4"
+            ],
+            [
+              "5. Écrire des phrases",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, accepter toute phrase correcte qui respecte la valeur modale demandée.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

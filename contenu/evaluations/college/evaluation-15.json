@@ -1,0 +1,231 @@
+{
+  "id": 40015,
+  "meta": {
+    "t": "Devoir n° 15 : L’imparfait de l’indicatif",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Conjugaison",
+    "img": "d",
+    "r": 4.8,
+    "ev": 15
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Conjuguer à l’imparfait (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses à l’imparfait de l’indicatif. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je (chanter) tous les jours.",
+            "Nous (finir) à midi.",
+            "Ils (prendre) le bus.",
+            "Vous (aller) au marché."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Les verbes particuliers (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses à l’imparfait de l’indicatif. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’(être) fatigué.",
+            "Je (commencer) à lire.",
+            "Il (manger) du riz.",
+            "Nous (étudier) la leçon."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Les emplois de l’imparfait (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Dis si l’imparfait exprime une description, une habitude ou une action qui dure. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Chaque matin, nous allions au marché.",
+            "Le ciel était gris et le vent soufflait.",
+            "Pendant que Fatou lisait, la pluie tombait.",
+            "Autrefois, il se levait à cinq heures."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Imparfait ou passé composé ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète avec les deux verbes, à l’imparfait ou au passé composé. (1 pt par verbe)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Il (pleuvoir) quand Awa (sortir) de l’école.",
+            "Nous (jouer) dans la cour quand la cloche (sonner)."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Transformer un texte (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Récris le texte à l’imparfait. (1 pt par verbe qui change)"
+        },
+        {
+          "type": "ex",
+          "text": "Je me lève à six heures. Je prends mon petit-déjeuner et je pars à l’école. Mes amis m’attendent devant le portail."
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je **chantais**",
+            "Nous **finissions**",
+            "Ils **prenaient**",
+            "Vous **alliez**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’**étais** (radical ét-)",
+            "Je **commençais** (ç devant a)",
+            "Il **mangeait** (e devant a)",
+            "Nous **étudiions** (deux i)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "habitude",
+            "description",
+            "action qui dure",
+            "habitude"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Il **pleuvait** (imparfait : le décor) quand Awa **est sortie** (passé composé : l’action qui arrive)",
+            "Nous **jouions** (imparfait) quand la cloche **a sonné** (passé composé)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "p",
+          "text": "Je me **levais** à six heures. Je **prenais** mon petit-déjeuner et je **partais** à l’école. Mes amis m’**attendaient** devant le portail."
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour former l’imparfait : prends le radical de « nous » au présent, enlève -ons, puis ajoute -ais, -ais, -ait, -ions, -iez, -aient."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "À l’imparfait, « je » et « tu » ont la même terminaison -ais ; ne confonds pas « je chantais » (imparfait) avec « je chanterai » (futur)."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Conjuguer à l’imparfait",
+              "4"
+            ],
+            [
+              "2. Les verbes particuliers",
+              "4"
+            ],
+            [
+              "3. Les emplois de l’imparfait",
+              "4"
+            ],
+            [
+              "4. Imparfait ou passé composé ?",
+              "4"
+            ],
+            [
+              "5. Transformer un texte",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par verbe correctement conjugué.",
+            "À l’exercice 5, 1 point par verbe correct (4 verbes).",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

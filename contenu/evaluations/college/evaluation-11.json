@@ -1,0 +1,247 @@
+{
+  "id": 40011,
+  "meta": {
+    "t": "Devoir n° 11 : La proposition principale et la proposition subordonnée",
+    "k": "Évaluations",
+    "n": "5e",
+    "m": "Grammaire",
+    "img": "h",
+    "r": 4.8,
+    "ev": 11
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Compter les propositions (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Recopie les verbes conjugués de chaque phrase et indique combien elle contient de propositions. (1 pt par phrase)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Le soleil brille.",
+            "Je pense qu’il viendra.",
+            "Awa chante pendant que sa sœur danse.",
+            "Le livre que tu m’as prêté est passionnant."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Reconnaître la subordonnée (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Recopie la proposition subordonnée de chaque phrase et encadre le mot subordonnant. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je reste parce qu’il pleut.",
+            "L’élève qui travaille réussit.",
+            "Je sais que tu viens.",
+            "Quand il pleut, nous restons à la maison."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Indépendante, principale ou subordonnée ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la nature de chaque proposition en gras : indépendante, principale ou subordonnée. (1 pt par phrase ; 0,5 pt par proposition quand il y en a deux à nommer)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Les enfants jouent dans la cour.**",
+            "**Je crois** que tu as raison. (Donne aussi la nature de « que tu as raison ».)",
+            "Parce qu’il pleut, **je reste à la maison**. (Donne aussi la nature de « Parce qu’il pleut ».)",
+            "Le livre **que tu m’as prêté** est passionnant. (Donne aussi la nature de « Le livre … est passionnant ».)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Nature et fonction de la subordonnée (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la nature (relative, conjonctive complétive, conjonctive circonstancielle) et la fonction de la subordonnée en gras. (0,5 pt pour la nature, 0,5 pt pour la fonction)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "L’élève **qui travaille** réussit.",
+            "Je pense **qu’il viendra**.",
+            "Nous restons **parce qu’il pleut**.",
+            "La ville **où j’habite** est grande."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Compléter et analyser (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Réponds aux questions. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Complète par une subordonnée complétive : « Je pense … »",
+            "Complète par une subordonnée circonstancielle de cause : « Nous restons à la maison … »",
+            "Complète par une subordonnée relative : « Le garçon … est mon cousin. »",
+            "Dans « Je sais que tu viendras si tu peux. », de quelle proposition dépend « si tu peux » ?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "brille : **1** proposition",
+            "pense, viendra : **2** propositions",
+            "chante, danse : **2** propositions",
+            "as prêté, est : **2** propositions"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**parce qu’il pleut** (mot subordonnant : parce que)",
+            "**qui travaille** (mot subordonnant : le pronom relatif qui)",
+            "**que tu viens** (mot subordonnant : que)",
+            "**Quand il pleut** (mot subordonnant : quand)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "indépendante",
+            "« Je crois » : principale ; « que tu as raison » : subordonnée",
+            "« je reste à la maison » : principale ; « Parce qu’il pleut » : subordonnée",
+            "« que tu m’as prêté » : subordonnée ; « Le livre … est passionnant » : principale (coupée par la subordonnée)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "relative ; complément de l’antécédent « élève »",
+            "conjonctive complétive ; COD du verbe « pense »",
+            "conjonctive circonstancielle ; complément circonstanciel (de cause) de « restons »",
+            "relative ; complément de l’antécédent « ville »"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Exemple : « Je pense **qu’il viendra**. »",
+            "Exemple : « Nous restons à la maison **parce qu’il pleut**. »",
+            "Exemple : « Le garçon **qui chante** est mon cousin. »",
+            "« si tu peux » dépend de « tu viendras » : c’est une subordonnée de la subordonnée, et non de la principale « Je sais »."
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour trouver les propositions, compte d’abord les verbes conjugués ; puis repère le mot subordonnant qui introduit chaque subordonnée."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Une subordonnée ne peut pas former une phrase à elle seule ; une proposition indépendante, si."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Compter les propositions",
+              "4"
+            ],
+            [
+              "2. Reconnaître la subordonnée",
+              "4"
+            ],
+            [
+              "3. Indépendante, principale ou subordonnée ?",
+              "4"
+            ],
+            [
+              "4. Nature et fonction de la subordonnée",
+              "4"
+            ],
+            [
+              "5. Compléter et analyser",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 et 2 : 1 point par phrase.",
+            "À l’exercice 5, accepter toute subordonnée correcte de la nature demandée.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

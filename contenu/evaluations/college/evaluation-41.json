@@ -1,0 +1,230 @@
+{
+ "id": 40041,
+ "meta": {
+  "t": "Devoir n° 41 : L’accord du participe passé",
+  "k": "Évaluations",
+  "n": "4e",
+  "m": "Orthographe",
+  "img": "b",
+  "r": 4.8,
+  "ev": 41
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Participe passé employé seul (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le participe passé entre parenthèses avec la bonne terminaison. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les élèves, (fatiguer), rentrent chez eux.",
+      "Une porte (fermer) à clé résiste.",
+      "Des fruits (mûrir) au soleil tombent.",
+      "Les devoirs (terminer), Awa sort."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Avec l’auxiliaire être (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le participe passé entre parenthèses avec la bonne terminaison. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les filles sont (partir) tôt.",
+      "Ma sœur est (arriver) hier.",
+      "Les voisins sont (venir) nous voir.",
+      "Elle est (tomber) dans l’escalier."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Avec l’auxiliaire avoir (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le participe passé entre parenthèses avec la bonne terminaison. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les lettres que j’ai (écrire) sont parties.",
+      "Il a (voir) Awa hier.",
+      "La mangue qu’il a (manger) était mûre.",
+      "Elle a (prendre) ses clés."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Les verbes pronominaux (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le participe passé entre parenthèses avec la bonne terminaison. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Elle s’est (laver) les mains.",
+      "Ils se sont (regarder).",
+      "Les enfants se sont (réveiller) tôt.",
+      "Elle s’est (blesser)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Expliquer l’accord (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Phrase : « Les fleurs que Paul a **cueillies** sont **fanées**. »\n**1.** Explique pourquoi « cueillies » est au féminin pluriel. (2 pts)\n**2.** Explique pourquoi « fanées » est au féminin pluriel. (2 pts)"
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "fatigués (il s’accorde avec « élèves »)",
+      "fermée (avec « porte »)",
+      "mûris (avec « fruits »)",
+      "terminés (avec « devoirs »)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "parties",
+      "arrivée",
+      "venus",
+      "tombée"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "écrites (COD « que » = les lettres, placé avant)",
+      "vu (COD « Awa » placé après : pas d’accord)",
+      "mangée (COD « que » = la mangue, placé avant)",
+      "pris (COD « ses clés » placé après : pas d’accord)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "lavé (« se » est COI ; le COD « les mains » est placé après)",
+      "regardés (« se » est COD, placé avant)",
+      "réveillés (« se » est COD)",
+      "blessée (« se » est COD)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Le participe passé « cueillies » est employé avec l’auxiliaire avoir. Il s’accorde avec le COD « que » (qui remplace « les fleurs »), placé avant le verbe : féminin pluriel.\n**2.** « fanées » est un participe passé employé avec l’auxiliaire être (ou comme adjectif attribut) : il s’accorde avec le sujet « les fleurs » : féminin pluriel."
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Méthode : 1) repère l’auxiliaire ; 2) avec être, accorde avec le sujet ; 3) avec avoir, accorde avec le COD seulement s’il est placé avant le verbe."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Avec avoir, un COD placé après le verbe n’entraîne aucun accord."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Participe passé employé seul",
+       "4"
+      ],
+      [
+       "2. Avec l’auxiliaire être",
+       "4"
+      ],
+      [
+       "3. Avec l’auxiliaire avoir",
+       "4"
+      ],
+      [
+       "4. Les verbes pronominaux",
+       "4"
+      ],
+      [
+       "5. Expliquer l’accord",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans les exercices 1 à 4 ; à l’exercice 5, 1 point par règle bien énoncée et 1 point par accord bien justifié.",
+      "À l’exercice 4, ne compter le point que pour la forme correcte du participe passé.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

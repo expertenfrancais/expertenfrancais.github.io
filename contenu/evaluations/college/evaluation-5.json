@@ -1,0 +1,243 @@
+{
+  "id": 40005,
+  "meta": {
+    "t": "Devoir n° 5 : Les compléments d’objet (COD et COI)",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Grammaire",
+    "img": "b",
+    "r": 4.8,
+    "ev": 5
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Repérer le complément d’objet (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Dis si le groupe en gras est un COD ou un COI. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Les enfants ramassent **des mangues**.",
+            "Les élèves obéissent **au maître**.",
+            "Nous cultivons **du manioc**.",
+            "Nous parlons **de notre projet**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Poser la bonne question (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Pour chaque phrase, écris la question posée après le verbe, puis la réponse. (1 pt par phrase)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Le cuisinier prépare le repas.",
+            "Je pense à mes vacances.",
+            "Papa téléphone à ma tante.",
+            "Tu lis un livre."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Remplacer par un pronom (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Remplace le complément en gras par le pronom qui convient (le, la, l’, les, lui, leur, y, en). (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Il lit **un livre**.",
+            "Je parle **à Awa**.",
+            "Nous pensons **à nos vacances**.",
+            "Elle écoute **les conseils**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : La nature du COD (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la nature du COD en gras : nom propre, groupe nominal, pronom ou verbe à l’infinitif. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’appelle **Awa**.",
+            "Il aime **chanter**.",
+            "Il **le** lit.",
+            "Elle mange **une orange**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : COD et COI dans la même phrase (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Relève le COD et le COI de chaque phrase. (2 pts par phrase : 1 pt pour le COD, 1 pt pour le COI)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle envoie une lettre à sa cousine.",
+            "Le maître donne un cahier à chaque élève."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "COD (ramassent quoi ? des mangues)",
+            "COI (obéissent à qui ? au maître)",
+            "COD (cultivons quoi ? du manioc ; « du » est ici un article partitif, pas une préposition)",
+            "COI (parlons de quoi ? de notre projet)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Le cuisinier prépare quoi ? **le repas**",
+            "Je pense à quoi ? **à mes vacances**",
+            "Papa téléphone à qui ? **à ma tante**",
+            "Tu lis quoi ? **un livre**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Il **le** lit.",
+            "Je **lui** parle.",
+            "Nous **y** pensons.",
+            "Elle **les** écoute."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "nom propre",
+            "verbe à l’infinitif",
+            "pronom (personnel)",
+            "groupe nominal"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "COD : **une lettre** ; COI : **à sa cousine**",
+            "COD : **un cahier** ; COI : **à chaque élève**"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour distinguer COD et COI, essaie le pronom : le, la, les remplacent un COD ; lui, leur, y, en remplacent un COI."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "« Du », « de la », « des » peuvent être des articles partitifs : dans « Nous cultivons du manioc », il n’y a pas de préposition, c’est donc un COD."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Repérer le complément d’objet",
+              "4"
+            ],
+            [
+              "2. Poser la bonne question",
+              "4"
+            ],
+            [
+              "3. Remplacer par un pronom",
+              "4"
+            ],
+            [
+              "4. La nature du COD",
+              "4"
+            ],
+            [
+              "5. COD et COI dans la même phrase",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, accorder 1 point par complément correctement relevé.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+ "id": 40026,
+ "meta": {
+  "t": "Devoir n° 26 : Les présentatifs",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "ev": 26
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Relever les présentatifs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie le présentatif de chaque phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Voici mon cahier de français.",
+      "Voilà le bus qui arrive !",
+      "C’est un beau jour pour jouer.",
+      "Il y a trois mangues sur la table."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Compléter par un présentatif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète avec le présentatif qui convient : *voici, voilà, c’est, il y a.* (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "___ mon ami Paul, que je te présente.",
+      "___ le soleil qui se couche, là-bas.",
+      "___ trois poules dans la cour.",
+      "___ moi qui ai fait ce dessin."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Les présentatifs : fonction (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Dis à quoi sert un présentatif. (2 pts)\n**2.** Donne les quatre présentatifs étudiés en classe. (2 pts)"
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Transformer des phrases (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Remplace le verbe en gras par un présentatif pour que la phrase présente quelqu’un ou quelque chose. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Mon frère **arrive** là-bas.",
+      "Une cage **se trouve** dans la cour.",
+      "Ma maison **est** ici.",
+      "Nos amis **sont** là."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Employer les présentatifs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris quatre phrases, chacune avec un présentatif différent : *voici, voilà, c’est, il y a.* (1 pt par phrase)"
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "voici",
+      "voilà",
+      "c’est",
+      "il y a"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Voici (ou voilà : on présente quelqu’un)",
+      "Voilà (ou voici : on montre quelque chose)",
+      "Il y a",
+      "C’est"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Un présentatif sert à **présenter** ou à **montrer** une personne, un animal ou une chose.\n**2.** voici, voilà, c’est, il y a (on accepte aussi « ce sont » et « il y avait »). 2 points pour quatre bons présentatifs, 1 point pour deux ou trois."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "p",
+     "text": "Plusieurs réponses sont possibles ; en voici une par phrase :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Voilà mon frère.",
+      "Il y a une cage dans la cour.",
+      "Voici ma maison.",
+      "Voilà nos amis."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles : « Voici mon livre. » ; « Voilà le directeur qui entre. » ; « C’est mon cousin. » ; « Il y a un mouton dans le champ. » Accepter toute phrase correcte et bien construite."
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "« Voici » annonce ce qui est proche ou ce qu’on va dire ; « voilà » montre ce qui est plus loin ou ce qu’on vient de dire."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne pas écrire « il y à » : dans « il y a », le mot « a » est le verbe avoir, sans accent."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Relever les présentatifs",
+       "4"
+      ],
+      [
+       "2. Compléter par un présentatif",
+       "4"
+      ],
+      [
+       "3. Les présentatifs : fonction",
+       "4"
+      ],
+      [
+       "4. Transformer des phrases",
+       "4"
+      ],
+      [
+       "5. Employer les présentatifs",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans les exercices 1, 2 et 4 ; à l’exercice 5, accorder 1 point par phrase correcte avec le bon présentatif.",
+      "À l’exercice 3, appliquer le barème indiqué dans le corrigé.",
+      "Retirer 0,5 point maximum pour une copie mal présentée.",
+      "À l’exercice 2, accepter « voici » ou « voilà » pour les phrases 1 et 2."
+     ]
+    }
+   ]
+  }
+ ]
+}

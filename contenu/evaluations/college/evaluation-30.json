@@ -1,0 +1,246 @@
+{
+ "id": 40030,
+ "meta": {
+  "t": "Devoir n° 30 : Les formes de phrases",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8,
+  "ev": 30
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Forme négative (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets chaque phrase à la forme négative. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le chien aboie.",
+      "Nous avons fini nos devoirs.",
+      "Il voit quelqu’un.",
+      "Elle mange toujours du riz."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Forme passive (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets chaque phrase à la forme passive. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le maître lit la leçon.",
+      "Les élèves ont rangé les livres.",
+      "Le vent renverse les arbres.",
+      "Un voisin a trouvé mon cahier."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Forme emphatique (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets en relief le groupe indiqué avec « c’est… qui » ou « c’est… que ». (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Paul a cassé la vitre. (Paul)",
+      "J’ai lu ce livre hier. (ce livre)",
+      "Tu m’as aidé. (tu)",
+      "Nous visiterons Pointe-Noire en août. (en août)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Forme impersonnelle (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Transforme chaque phrase avec le pronom impersonnel « il ». (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Un accident est arrivé hier.",
+      "Des nuages se forment.",
+      "Quelques élèves manquent.",
+      "Un problème survient."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Identifier la forme (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne la forme de chaque phrase : **négative**, **passive**, **emphatique** ou **impersonnelle**. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le ballon est lancé par l’enfant.",
+      "Il ne sait rien.",
+      "C’est Awa qui a gagné.",
+      "Il faut finir ce travail."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le chien n’aboie pas.",
+      "Nous n’avons pas fini nos devoirs.",
+      "Il ne voit personne.",
+      "Elle ne mange jamais de riz."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "La leçon est lue par le maître.",
+      "Les livres ont été rangés par les élèves.",
+      "Les arbres sont renversés par le vent.",
+      "Mon cahier a été trouvé par un voisin."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "C’est Paul qui a cassé la vitre.",
+      "C’est ce livre que j’ai lu hier.",
+      "C’est toi qui m’as aidé.",
+      "C’est en août que nous visiterons Pointe-Noire."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est arrivé un accident hier.",
+      "Il se forme des nuages.",
+      "Il manque quelques élèves.",
+      "Il survient un problème."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "passive (verbe être + participe passé + complément d’agent)",
+      "négative (ne… rien)",
+      "emphatique (c’est… qui)",
+      "impersonnelle (« il » ne désigne personne)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour passer à la forme passive : l’objet devient sujet, le verbe devient « être + participe passé », et l’ancien sujet devient complément d’agent (par…)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "À la forme négative, « ne » devient « n’ » devant une voyelle ; on ne l’oublie jamais à l’écrit."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Forme négative",
+       "4"
+      ],
+      [
+       "2. Forme passive",
+       "4"
+      ],
+      [
+       "3. Forme emphatique",
+       "4"
+      ],
+      [
+       "4. Forme impersonnelle",
+       "4"
+      ],
+      [
+       "5. Identifier la forme",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par phrase correcte dans les exercices 1 à 5 ; n’accepter que les transformations sans faute de sens.",
+      "À l’exercice 4, le temps du verbe doit rester le même que dans la phrase de départ.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

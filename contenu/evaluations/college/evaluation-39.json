@@ -1,0 +1,246 @@
+{
+ "id": 40039,
+ "meta": {
+  "t": "Devoir n° 39 : Le discours direct et le discours indirect",
+  "k": "Évaluations",
+  "n": "4e",
+  "m": "Grammaire",
+  "img": "h",
+  "r": 4.8,
+  "ev": 39
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Reconnaître le discours rapporté (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque phrase est au **discours direct** ou au **discours indirect**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Paul dit : « Je viens demain. »",
+      "Paul dit qu’il vient demain.",
+      "Elle demande : « Où est mon livre ? »",
+      "Elle demande où est son livre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Du direct à l’indirect (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Transforme chaque phrase au discours indirect. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Awa dit : « Je suis fatiguée. »",
+      "Paul répond : « Je pars demain. »",
+      "Le maître déclare : « Les élèves ont bien travaillé. »",
+      "Maman dit : « Ma sœur arrive ce soir. »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : De l’indirect au direct (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Transforme chaque phrase au discours direct, avec la ponctuation correcte. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il dit qu’il a faim.",
+      "Elle répond qu’elle ne sait pas.",
+      "Le chef demande à Paul s’il est prêt.",
+      "Paul affirme qu’il viendra demain."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : La ponctuation du discours direct (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie chaque phrase avec les deux-points, les guillemets, la majuscule et la ponctuation finale qui conviennent. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le professeur dit écoutez bien",
+      "Awa demande où est mon cahier",
+      "Paul s’écrie quelle belle surprise",
+      "Maman répond je rentre à midi"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Les verbes introducteurs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète avec le verbe introducteur qui convient : *demande, ordonne, répond, s’exclame.* (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le maître ___ aux élèves de se taire.",
+      "Awa ___ si l’école est fermée.",
+      "Paul ___ qu’il ne sait pas.",
+      "Elle ___ : « Quelle belle journée ! »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "discours direct (deux-points et guillemets)",
+      "discours indirect (proposition introduite par « que »)",
+      "discours direct",
+      "discours indirect (interrogation indirecte)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Awa dit qu’elle est fatiguée.",
+      "Paul répond qu’il part demain.",
+      "Le maître déclare que les élèves ont bien travaillé.",
+      "Maman dit que sa sœur arrive ce soir."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il dit : « J’ai faim. »",
+      "Elle répond : « Je ne sais pas. »",
+      "Le chef demande à Paul : « Es-tu prêt ? »",
+      "Paul affirme : « Je viendrai demain. »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le professeur dit : « Écoutez bien. »",
+      "Awa demande : « Où est mon cahier ? »",
+      "Paul s’écrie : « Quelle belle surprise ! »",
+      "Maman répond : « Je rentre à midi. »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "ordonne",
+      "demande",
+      "répond",
+      "s’exclame"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Au discours direct, on garde les paroles telles quelles (deux-points, guillemets). Au discours indirect, elles passent dans une subordonnée : les pronoms et les repères changent, la ponctuation de dialogue disparaît."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Au discours indirect, une question n’a plus de point d’interrogation : « Elle demande où est son livre. »"
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Reconnaître le discours rapporté",
+       "4"
+      ],
+      [
+       "2. Du direct à l’indirect",
+       "4"
+      ],
+      [
+       "3. De l’indirect au direct",
+       "4"
+      ],
+      [
+       "4. La ponctuation du discours direct",
+       "4"
+      ],
+      [
+       "5. Les verbes introducteurs",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par phrase correcte dans chaque exercice ; accepter des variantes de formulation qui conservent le sens.",
+      "À l’exercice 3, accepter « Es-tu prêt ? » ou « Est-ce que tu es prêt ? ».",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

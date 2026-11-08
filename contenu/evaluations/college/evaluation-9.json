@@ -1,0 +1,255 @@
+{
+  "id": 40009,
+  "meta": {
+    "t": "Devoir n° 9 : Les fonctions grammaticales",
+    "k": "Évaluations",
+    "n": "5e",
+    "m": "Grammaire",
+    "img": "f",
+    "r": 4.8,
+    "ev": 9
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Nature ou fonction ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Classe chaque terme dans la colonne qui convient : nature ou fonction. (0,5 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "nom",
+            "sujet",
+            "adverbe",
+            "COD",
+            "déterminant",
+            "épithète",
+            "pronom",
+            "attribut du sujet"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : La fonction d’un groupe nominal (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la fonction du groupe en gras. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Le chat** dort.",
+            "Je nourris **le chat**.",
+            "Je parle **au chat**.",
+            "Les élèves semblent **attentifs**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Les compléments circonstanciels (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Pour chaque phrase, indique la circonstance exprimée et la nature du complément circonstanciel en gras. (0,5 pt pour la circonstance, 0,5 pt pour la nature)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle marche **avec prudence**.",
+            "**Ce soir**, nous partons.",
+            "Il parle **doucement**.",
+            "**Quand il pleut**, nous restons à la maison."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Les fonctions dans le groupe nominal (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la fonction du mot ou du groupe en gras : épithète, complément du nom ou apposition. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "une **grande** maison",
+            "le sac **de mon frère**",
+            "Awa, **ma voisine**, chante.",
+            "un panier **de mangues**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Analyse d’une phrase (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Phrase : « Ce matin, les enfants de mon quartier ont offert des fleurs à la directrice. » Relève dans cette phrase : (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "le sujet du verbe ;",
+            "le COD ;",
+            "le COI ;",
+            "le complément circonstanciel (avec la circonstance)."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "nom : **nature**",
+            "sujet : **fonction**",
+            "adverbe : **nature**",
+            "COD : **fonction**",
+            "déterminant : **nature**",
+            "épithète : **fonction**",
+            "pronom : **nature**",
+            "attribut du sujet : **fonction**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "sujet",
+            "COD",
+            "COI",
+            "attribut du sujet (il suit le verbe d’état « semblent »)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "manière ; groupe introduit par une préposition",
+            "temps ; groupe nominal",
+            "manière ; adverbe",
+            "temps ; proposition subordonnée"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "épithète",
+            "complément du nom",
+            "apposition (séparée par des virgules)",
+            "complément du nom"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**les enfants de mon quartier** (« de mon quartier » est complément du nom « enfants »)",
+            "**des fleurs**",
+            "**à la directrice**",
+            "**Ce matin** : complément circonstanciel de temps"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "La nature dit ce qu’est un mot et se trouve dans le dictionnaire ; la fonction dit son rôle dans la phrase et change avec la phrase."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Un même groupe nominal change de fonction selon la phrase : « le chat » est sujet dans « Le chat dort » et COD dans « Je nourris le chat »."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Nature ou fonction ?",
+              "4"
+            ],
+            [
+              "2. La fonction d’un groupe nominal",
+              "4"
+            ],
+            [
+              "3. Les compléments circonstanciels",
+              "4"
+            ],
+            [
+              "4. Les fonctions dans le groupe nominal",
+              "4"
+            ],
+            [
+              "5. Analyse d’une phrase",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercice 1 : 0,5 point par réponse (8 réponses).",
+            "Exercice 3 : 0,5 point pour la circonstance et 0,5 point pour la nature.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

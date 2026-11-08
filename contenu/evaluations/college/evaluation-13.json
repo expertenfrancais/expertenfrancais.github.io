@@ -1,0 +1,245 @@
+{
+  "id": 40013,
+  "meta": {
+    "t": "Devoir n° 13 : La proposition subordonnée complétive",
+    "k": "Évaluations",
+    "n": "3e",
+    "m": "Grammaire",
+    "img": "b",
+    "r": 4.8,
+    "ev": 13
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Reconnaître la complétive (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Recopie la proposition subordonnée complétive de chaque phrase et le mot qui l’introduit. (1 pt par phrase)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je sais que tu viendras.",
+            "Je me demande si tu viendras demain.",
+            "Il faut que nous partions.",
+            "Dis-moi ce que tu fais."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : La fonction de la complétive (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la fonction de la subordonnée complétive en gras. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je crois **que tu as raison**.",
+            "Il faut **que tu partes**.",
+            "Mon souhait est **que tu réussisses**.",
+            "Je suis content **que tu sois là**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Choisir le mode du verbe (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au mode qui convient (indicatif ou subjonctif). (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je sais que tu (venir) demain.",
+            "Je veux que tu (venir) demain.",
+            "Elle regrette que tu (être) parti.",
+            "Il affirme que tu (mentir)."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : L’interrogative indirecte (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Transforme la question directe en interrogation indirecte, en commençant par les mots donnés. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Viendras-tu demain ? » → Je me demande …",
+            "« Où habites-tu ? » → Je voudrais savoir …",
+            "« Que fais-tu ? » → Dis-moi …",
+            "« Qui est venu ? » → Je demande …"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Complétive ou relative ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Les questions 1 et 2 valent 1 point chacune ; la question 3 vaut 2 points."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Dans « Je sais que Lina est partie. », « que » est-il une conjonction ou un pronom relatif ? Justifie.",
+            "Même question dans « Le cadeau que Kofi a reçu est beau. »",
+            "Dans « Il pense que le livre que tu lis est utile. », donne la nature de chacun des deux « que » et de chaque subordonnée."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**que tu viendras** ; mot introducteur : que",
+            "**si tu viendras demain** ; mot introducteur : si (interrogative indirecte)",
+            "**que nous partions** ; mot introducteur : que",
+            "**ce que tu fais** ; mot introducteur : ce que (interrogative indirecte)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "COD du verbe « crois »",
+            "sujet réel du verbe impersonnel « faut »",
+            "attribut du sujet « souhait »",
+            "complément de l’adjectif « content »"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**viendras** (indicatif : certitude)",
+            "**viennes** (subjonctif : volonté)",
+            "**sois** (subjonctif : sentiment)",
+            "**mens** (indicatif : déclaration)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Je me demande **si tu viendras demain**. »",
+            "« Je voudrais savoir **où tu habites**. »",
+            "« Dis-moi **ce que tu fais**. »",
+            "« Je demande **qui est venu**. »"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "conjonction de subordination : elle ne reprend aucun mot et la proposition peut être remplacée par « cela » (« Je sais cela. »)",
+            "pronom relatif : il reprend l’antécédent « cadeau » et il est COD de « a reçu »",
+            "Le premier « que » est une conjonction : il introduit la complétive « que le livre que tu lis est utile » (COD de « pense »). Le second « que » est un pronom relatif : il reprend « livre » et introduit la relative « que tu lis ». (1 point pour chaque « que » bien analysé)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour distinguer la complétive de la relative, essaie de remplacer la proposition par « cela » : c’est possible avec une complétive, impossible avec une relative."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Après un verbe de certitude ou de déclaration (savoir, affirmer), on emploie l’indicatif ; après un verbe de volonté ou de sentiment (vouloir, regretter), le subjonctif."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Reconnaître la complétive",
+              "4"
+            ],
+            [
+              "2. La fonction de la complétive",
+              "4"
+            ],
+            [
+              "3. Choisir le mode du verbe",
+              "4"
+            ],
+            [
+              "4. L’interrogative indirecte",
+              "4"
+            ],
+            [
+              "5. Complétive ou relative ?",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, la justification doit accompagner la nature du mot « que ».",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

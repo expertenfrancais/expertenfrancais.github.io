@@ -1,0 +1,246 @@
+{
+ "id": 40036,
+ "meta": {
+  "t": "Devoir n° 36 : L’accord du verbe avec son sujet",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "ev": 36
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Sujet éloigné du verbe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les élèves de la classe (chanter) en chœur.",
+      "Le chien de mes voisins (aboyer) toute la nuit.",
+      "Mon frère, malgré la pluie, (partir) à l’école.",
+      "Les fruits que tu m’as donnés (être) délicieux."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Sujet placé après le verbe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Dans la cour (jouer) les enfants.",
+      "Là-bas (se dresser) une haute tour.",
+      "Sur la table (se trouver) les livres.",
+      "Où (aller) tes amis ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Le sujet « qui » (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "C’est toi qui (être) le gagnant.",
+      "C’est moi qui (partir) le premier.",
+      "Ce sont eux qui (finir) le travail.",
+      "Les enfants qui (jouer) dans la cour sont heureux."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Plusieurs sujets (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Awa et Paul (aimer) lire.",
+      "Toi et moi (aller) au marché.",
+      "Lui et toi (être) en retard.",
+      "Le chien et le chat (dormir) au soleil."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Sujets collectifs et indéfinis (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Tout le monde (être) content.",
+      "Chacun de vous (savoir) sa leçon.",
+      "Personne ne (vouloir) partir.",
+      "La plupart des élèves (réussir)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "chantent (sujet : « les élèves »)",
+      "aboie (sujet : « le chien »)",
+      "part (sujet : « mon frère »)",
+      "sont (sujet : « les fruits »)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "jouent",
+      "se dresse",
+      "se trouvent",
+      "vont"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "es (le pronom « qui » reprend « toi »)",
+      "pars (« qui » reprend « moi »)",
+      "finissent (« qui » reprend « eux »)",
+      "jouent (« qui » reprend « enfants »)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "aiment",
+      "allons (toi et moi = nous)",
+      "êtes (lui et toi = vous)",
+      "dorment"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "est",
+      "sait",
+      "veut",
+      "réussissent"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour accorder le verbe : trouve d’abord son sujet avec la question « Qui est-ce qui… ? » ; le verbe prend la personne et le nombre du sujet, même s’il est éloigné ou placé après."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Avec « qui » sujet, le verbe s’accorde avec l’antécédent de « qui » (celui que « qui » remplace)."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Sujet éloigné du verbe",
+       "4"
+      ],
+      [
+       "2. Sujet placé après le verbe",
+       "4"
+      ],
+      [
+       "3. Le sujet « qui »",
+       "4"
+      ],
+      [
+       "4. Plusieurs sujets",
+       "4"
+      ],
+      [
+       "5. Sujets collectifs et indéfinis",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "Dans les exercices avec « qui », vérifier que l’élève a trouvé l’antécédent du pronom relatif.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

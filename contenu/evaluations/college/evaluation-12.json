@@ -1,0 +1,245 @@
+{
+  "id": 40012,
+  "meta": {
+    "t": "Devoir n° 12 : La proposition subordonnée relative",
+    "k": "Évaluations",
+    "n": "4e",
+    "m": "Grammaire",
+    "img": "a",
+    "r": 4.8,
+    "ev": 12
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Antécédent et pronom relatif (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Relève l’antécédent et le pronom relatif de chaque phrase. (1 pt par phrase)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’ai vu le film que tu m’as conseillé.",
+            "La ville où j’habite est grande.",
+            "L’enfant qui chante est mon frère.",
+            "Le film dont je parle est drôle."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Fonction du pronom relatif (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la fonction du pronom relatif en gras dans la subordonnée. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "L’enfant **qui** chante est mon frère.",
+            "Le livre **que** je lis est passionnant.",
+            "Le film **dont** je parle est drôle.",
+            "La ville **où** j’habite est grande."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Choisir le pronom relatif (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par qui, que, dont, où, laquelle ou lequel. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Le garçon ___ tu as rencontré est mon cousin.",
+            "Le film ___ je te parle est drôle.",
+            "La maison dans ___ il vit est ancienne.",
+            "Le jour ___ nous sommes arrivés était un lundi."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Relier deux phrases (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Relie les deux phrases par un pronom relatif pour n’en faire qu’une. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Le livre est passionnant. Je lis ce livre.",
+            "J’ai rencontré une fille. Cette fille habite à Pointe-Noire.",
+            "Voici le cahier. J’ai besoin de ce cahier.",
+            "La ville est grande. J’habite dans cette ville."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Déterminative ou explicative ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Les questions 1 et 2 valent 1 point chacune ; la question 3 vaut 2 points."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Dis si la relative est déterminative ou explicative : « Le garçon qui porte un chapeau rouge est mon cousin. »",
+            "Même question : « Mon frère, qui habite à Brazzaville, viendra demain. »",
+            "Explique la différence de sens entre « Les élèves qui ont triché seront punis. » et « Les élèves, qui ont triché, seront punis. »"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "antécédent : **film** ; pronom relatif : **que**",
+            "antécédent : **ville** ; pronom relatif : **où**",
+            "antécédent : **enfant** ; pronom relatif : **qui**",
+            "antécédent : **film** ; pronom relatif : **dont**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "sujet du verbe « chante »",
+            "COD du verbe « lis »",
+            "complément introduit par « de » (on dit « parler de »)",
+            "complément circonstanciel de lieu"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**que** (COD de « as rencontré »)",
+            "**dont** (« parler de »)",
+            "**laquelle** (après la préposition « dans », avec un nom féminin)",
+            "**où** (complément de temps)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Le livre **que** je lis est passionnant. »",
+            "« J’ai rencontré une fille **qui** habite à Pointe-Noire. »",
+            "« Voici le cahier **dont** j’ai besoin. »",
+            "« La ville **où** j’habite est grande. » (ou « dans laquelle j’habite »)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "déterminative : elle précise l’antécédent, elle est indispensable et n’est pas entre virgules",
+            "explicative : elle ajoute une information, elle est entre virgules et peut être supprimée",
+            "Dans la première phrase, seuls les élèves qui ont triché seront punis. Dans la seconde, tous les élèves ont triché et tous seront punis. (1 point pour chaque sens bien expliqué)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour choisir le pronom relatif, repère sa fonction dans la subordonnée : sujet (qui), COD (que), complément introduit par de (dont), lieu ou temps (où)."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Ne confonds pas « que » pronom relatif (il reprend un nom) et « que » conjonction (il ne reprend rien) : « Le livre que je lis » ≠ « Je pense que tu as raison »."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Antécédent et pronom relatif",
+              "4"
+            ],
+            [
+              "2. Fonction du pronom relatif",
+              "4"
+            ],
+            [
+              "3. Choisir le pronom relatif",
+              "4"
+            ],
+            [
+              "4. Relier deux phrases",
+              "4"
+            ],
+            [
+              "5. Déterminative ou explicative ?",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 4, accepter une reformulation différente si le pronom relatif est correct.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

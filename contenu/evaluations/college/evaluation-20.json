@@ -1,0 +1,235 @@
+{
+  "id": 40020,
+  "meta": {
+    "t": "Devoir n° 20 : Le plus-que-parfait",
+    "k": "Évaluations",
+    "n": "5e",
+    "m": "Conjugaison",
+    "img": "a",
+    "r": 4.8,
+    "ev": 20
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Former le plus-que-parfait (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au plus-que-parfait. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tu (finir) ton travail.",
+            "Nous (chanter) hier.",
+            "Elles (arriver) tôt.",
+            "Elle se (lever) avant le jour."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Reconnaître les temps (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne le nom du temps de chaque verbe : passé composé, imparfait ou plus-que-parfait. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’ai fini.",
+            "J’avais fini.",
+            "Il finissait.",
+            "Elle était partie."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Exprimer l’antériorité (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par le verbe au plus-que-parfait. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Quand nous sommes arrivés, le train (partir) déjà.",
+            "Il était triste parce qu’il (perdre) son cahier.",
+            "Awa a ouvert la porte : les invités (arriver) déjà.",
+            "Il a gagné le match parce qu’il (s’entraîner) toute l’année."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Négation et transformation (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Réponds aux consignes. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Mets à la forme négative : « J’avais fini. »",
+            "Mets à la forme négative : « Elle était venue. »",
+            "Mets au plus-que-parfait : « Il a mangé. »",
+            "Mets au plus-que-parfait : « Elles sont parties. »"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Un récit au passé (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète le texte avec les verbes entre parenthèses, à l’imparfait, au passé composé ou au plus-que-parfait. (1 pt par verbe)"
+        },
+        {
+          "type": "ex",
+          "text": "Il (faire) nuit quand Kofi (arriver) chez lui. Il (oublier) ses clés à l’école. Il (frapper) à la porte."
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tu **avais fini**",
+            "Nous **avions chanté**",
+            "Elles **étaient arrivées**",
+            "Elle s’**était levée**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "passé composé",
+            "plus-que-parfait",
+            "imparfait",
+            "plus-que-parfait"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**était parti**",
+            "**avait perdu**",
+            "**étaient arrivés**",
+            "**s’était entraîné**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Je **n’**avais **pas** fini. »",
+            "« Elle **n’**était **pas** venue. »",
+            "« Il **avait mangé**. »",
+            "« Elles **étaient parties**. »"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "p",
+          "text": "Il **faisait** nuit (imparfait : le décor) quand Kofi **est arrivé** (passé composé : l’action principale) chez lui. Il **avait oublié** ses clés à l’école (plus-que-parfait : ce qui s’est passé avant). Il **a frappé** à la porte (passé composé)."
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Le plus-que-parfait s’emploie pour une action passée terminée avant une autre action passée : l’auxiliaire est à l’imparfait."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Ne confonds pas « il a fini » (passé composé) et « il avait fini » (plus-que-parfait) : l’auxiliaire n’est pas au même temps."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Former le plus-que-parfait",
+              "4"
+            ],
+            [
+              "2. Reconnaître les temps",
+              "4"
+            ],
+            [
+              "3. Exprimer l’antériorité",
+              "4"
+            ],
+            [
+              "4. Négation et transformation",
+              "4"
+            ],
+            [
+              "5. Un récit au passé",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, 1 point par verbe correct (4 verbes).",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

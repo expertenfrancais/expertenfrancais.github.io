@@ -1,0 +1,230 @@
+{
+ "id": 40037,
+ "meta": {
+  "t": "Devoir n° 37 : La proposition indépendante",
+  "k": "Évaluations",
+  "n": "4e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8,
+  "ev": 37
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Compter les propositions (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne le nombre de propositions de chaque phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le soleil se lève.",
+      "Il pleut, nous restons à la maison.",
+      "Je pense que tu as raison.",
+      "Awa chante et Paul danse."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Types de propositions indépendantes (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque proposition indépendante est **déclarative**, **interrogative**, **injonctive** ou **exclamative**. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Quelle belle journée !",
+      "Viens ici.",
+      "Où vas-tu ?",
+      "Le soleil brille."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Juxtaposées ou coordonnées (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si les propositions indépendantes sont **juxtaposées** ou **coordonnées**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il entre, il s’assoit, il lit.",
+      "Il pleut, mais nous sortons.",
+      "Awa range sa chambre et Paul lave la vaisselle.",
+      "Le vent souffle ; les feuilles tombent."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Analyser une phrase (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Phrase : « Le vent se lève, les nuages arrivent et la pluie tombe. »\n**1.** Combien y a-t-il de propositions ? (1 pt)\n**2.** Recopie chacune d’elles. (2 pts)\n**3.** Donne le mot qui coordonne. (1 pt)"
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Indépendante, principale ou subordonnée (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si la proposition en gras est **indépendante**, **principale** ou **subordonnée**. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Il dort** et le chien veille.",
+      "**Je sais** que tu viendras.",
+      "Je sais **que tu viendras**.",
+      "**Le coq chante** ; le jour se lève."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "1 proposition (un verbe conjugué : se lève)",
+      "2 propositions (pleut ; restons)",
+      "2 propositions (pense ; as)",
+      "2 propositions (chante ; danse)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "exclamative",
+      "injonctive (elle exprime un ordre)",
+      "interrogative",
+      "déclarative"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "juxtaposées (séparées par des virgules)",
+      "coordonnées (par « mais »)",
+      "coordonnées (par « et »)",
+      "juxtaposées (séparées par un point-virgule)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Il y a trois propositions (trois verbes conjugués : se lève, arrivent, tombe).\n**2.** « Le vent se lève » ; « les nuages arrivent » ; « la pluie tombe ». (2 points si les trois sont bien recopiées ; 1 point pour deux.)\n**3.** Le mot de coordination est « et »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "indépendante (coordonnée à une autre indépendante)",
+      "principale (une subordonnée dépend d’elle)",
+      "subordonnée (introduite par « que »)",
+      "indépendante (juxtaposée à une autre)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Une proposition indépendante ne dépend d’aucune autre et ne commande aucune subordonnée ; elle peut être seule ou reliée par juxtaposition ou coordination."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne pas confondre proposition indépendante et proposition principale : la principale a au moins une subordonnée."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Compter les propositions",
+       "4"
+      ],
+      [
+       "2. Types de propositions indépendantes",
+       "4"
+      ],
+      [
+       "3. Juxtaposées ou coordonnées",
+       "4"
+      ],
+      [
+       "4. Analyser une phrase",
+       "4"
+      ],
+      [
+       "5. Indépendante, principale ou subordonnée",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse, sauf à l’exercice 4 (barème indiqué dans le corrigé).",
+      "Compter une proposition par verbe conjugué ; ne pas pénaliser une réponse qui nomme correctement les verbes.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

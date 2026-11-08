@@ -1,0 +1,230 @@
+{
+ "id": 40033,
+ "meta": {
+  "t": "Devoir n° 33 : Les voix active et passive",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ev": 33
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Reconnaître la voix (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque verbe en gras est à la **voix active** ou à la **voix passive**. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le facteur **distribue** le courrier.",
+      "Le courrier **est distribué** par le facteur.",
+      "Les clés **ont été retrouvées**.",
+      "Mon frère **a réparé** la porte."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : De l’actif au passif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets chaque phrase à la voix passive. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le fermier récolte le maïs.",
+      "Les élèves ont écouté le conte.",
+      "Le directeur ouvrira la salle.",
+      "Un orage a détruit la toiture."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Du passif à l’actif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets chaque phrase à la voix active. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le gâteau est préparé par Maman.",
+      "Les champs ont été inondés par la crue.",
+      "La lettre sera lue par le maître.",
+      "Ce poème est récité par tous les élèves."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Analyser une phrase passive (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Phrase : « La classe a été nettoyée par les élèves. »\n**1.** Donne le sujet du verbe. (1 pt)\n**2.** Donne le complément d’agent. (1 pt)\n**3.** Donne le temps du verbe. (1 pt)\n**4.** Donne l’infinitif du verbe. (1 pt)"
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Accorder le participe passé (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le participe passé entre parenthèses avec la bonne terminaison. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les lettres sont (écrire) par Awa.",
+      "La porte a été (fermer) hier.",
+      "Les enfants ont été (récompenser).",
+      "Ces fruits seront (vendre) demain."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "voix active (le sujet fait l’action)",
+      "voix passive (le sujet subit l’action)",
+      "voix passive",
+      "voix active"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le maïs est récolté par le fermier.",
+      "Le conte a été écouté par les élèves.",
+      "La salle sera ouverte par le directeur.",
+      "La toiture a été détruite par un orage."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Maman prépare le gâteau.",
+      "La crue a inondé les champs.",
+      "Le maître lira la lettre.",
+      "Tous les élèves récitent ce poème."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Le sujet est « la classe ».\n**2.** Le complément d’agent est « par les élèves ».\n**3.** Le verbe est au passé composé de la voix passive (a été nettoyée).\n**4.** L’infinitif est « nettoyer »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "écrites",
+      "fermée",
+      "récompensés",
+      "vendus"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "À la voix passive, le participe passé de l’auxiliaire être s’accorde avec le sujet."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne pas oublier que le temps du verbe reste le même quand on passe de l’actif au passif : seul l’auxiliaire « être » prend ce temps."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Reconnaître la voix",
+       "4"
+      ],
+      [
+       "2. De l’actif au passif",
+       "4"
+      ],
+      [
+       "3. Du passif à l’actif",
+       "4"
+      ],
+      [
+       "4. Analyser une phrase passive",
+       "4"
+      ],
+      [
+       "5. Accorder le participe passé",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans les exercices 1, 2, 3 et 5 ; à l’exercice 4, 1 point par question.",
+      "N’accepter une transformation que si le temps du verbe est conservé.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

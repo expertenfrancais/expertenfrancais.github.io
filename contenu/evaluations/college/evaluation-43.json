@@ -1,0 +1,230 @@
+{
+ "id": 40043,
+ "meta": {
+  "t": "Devoir n° 43 : Les formes interrogatives et interro-négatives",
+  "k": "Évaluations",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "d",
+  "r": 4.8,
+  "ev": 43
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Les trois manières de poser une question (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Phrase : « Tu viens ce soir. »\n**1.** Pose la question avec la seule intonation. (1 pt)\n**2.** Pose la question avec « est-ce que ». (1 pt)\n**3.** Pose la question avec l’inversion du sujet. (1 pt)\n**4.** Dis laquelle de ces trois formes est la plus soutenue. (1 pt)"
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : L’inversion du pronom sujet (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Pose chaque question avec l’inversion du sujet. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Vous avez fini.",
+      "Il mange du riz.",
+      "Elles arrivent demain.",
+      "Tu iras au marché."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : L’inversion avec un sujet nom (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Pose chaque question avec l’inversion : reprends le nom sujet par un pronom. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Paul viendra ce soir.",
+      "Les enfants dorment.",
+      "Awa a fini son travail.",
+      "Ma sœur chante."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : La forme interro-négative (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets chaque phrase à la forme interro-négative, avec inversion du sujet. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Tu ne viens pas.",
+      "Il n’a pas répondu.",
+      "Vous ne partez pas.",
+      "Elle n’a rien dit."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Répondre : oui, non ou si (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque réponse avec **oui, non** ou **si**. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "« Tu viens ? » : « ___, je viens. »",
+      "« Tu ne viens pas ? » : « ___, je viens. »",
+      "« Il n’est pas là ? » : « ___, il est parti. »",
+      "« N’as-tu pas faim ? » : « ___, j’ai très faim. »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Tu viens ce soir ?\n**2.** Est-ce que tu viens ce soir ?\n**3.** Viens-tu ce soir ?\n**4.** L’inversion du sujet est la forme la plus soutenue."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Avez-vous fini ?",
+      "Mange-t-il du riz ? (le « t » évite l’hiatus)",
+      "Arrivent-elles demain ?",
+      "Iras-tu au marché ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Paul viendra-t-il ce soir ?",
+      "Les enfants dorment-ils ?",
+      "Awa a-t-elle fini son travail ?",
+      "Ma sœur chante-t-elle ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Ne viens-tu pas ?",
+      "N’a-t-il pas répondu ?",
+      "Ne partez-vous pas ?",
+      "N’a-t-elle rien dit ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Oui (réponse affirmative à une question affirmative)",
+      "Si (réponse affirmative à une question négative)",
+      "Non (réponse négative à une question négative)",
+      "Si (réponse affirmative à une question négative)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Avec l’inversion, on met un trait d’union entre le verbe et le pronom sujet ; si le verbe finit par une voyelle à la 3e personne, on ajoute -t- : « mange-t-il »."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Pour répondre « oui » à une question négative, on dit « si » (« Tu ne viens pas ? — Si, je viens. »)."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Les trois manières de poser une question",
+       "4"
+      ],
+      [
+       "2. L’inversion du pronom sujet",
+       "4"
+      ],
+      [
+       "3. L’inversion avec un sujet nom",
+       "4"
+      ],
+      [
+       "4. La forme interro-négative",
+       "4"
+      ],
+      [
+       "5. Répondre : oui, non ou si",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 2, exiger les traits d’union et le « t » euphonique pour la troisième personne du singulier.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

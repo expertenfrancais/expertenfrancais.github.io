@@ -1,0 +1,235 @@
+{
+  "id": 40016,
+  "meta": {
+    "t": "Devoir n° 16 : Le futur simple",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Conjugaison",
+    "img": "e",
+    "r": 4.8,
+    "ev": 16
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Conjuguer au futur simple (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au futur simple. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je (chanter) demain.",
+            "Tu (finir) ton devoir.",
+            "Il (prendre) le train.",
+            "Nous (jouer) dehors."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Les radicaux irréguliers (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au futur simple. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je (être) à l’heure.",
+            "Tu (avoir) un cadeau.",
+            "Nous (aller) au musée.",
+            "Ils (faire) leurs devoirs."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : L’orthographe des verbes (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au futur simple. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’(appeler) mon ami.",
+            "Tu (acheter) du pain.",
+            "Il (nettoyer) la cour.",
+            "Ils (crier) de joie."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Reconnaître le temps (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Dis si le verbe est au présent, à l’imparfait ou au futur simple. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Nous chanterons demain.",
+            "Il chantait souvent.",
+            "Tu partiras ce soir.",
+            "Ils jouaient dehors."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Transformer un texte (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Récris le texte au futur simple. (1 pt par verbe qui change)"
+        },
+        {
+          "type": "ex",
+          "text": "Demain, je me lève tôt. Je prends mon sac et je vais au marché. Ma mère m’attend à la maison."
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je **chanterai**",
+            "Tu **finiras**",
+            "Il **prendra** (le -e de « prendre » disparaît)",
+            "Nous **jouerons** (le -e reste à l’écrit)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je **serai**",
+            "Tu **auras**",
+            "Nous **irons**",
+            "Ils **feront**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’**appellerai** (ll devant le e muet)",
+            "Tu **achèteras** (è devant le e muet)",
+            "Il **nettoiera** (y devient i)",
+            "Ils **crieront** (le -e reste à l’écrit)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "futur simple",
+            "imparfait",
+            "futur simple",
+            "imparfait"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "p",
+          "text": "Demain, je me **lèverai** tôt. Je **prendrai** mon sac et j’**irai** au marché. Ma mère m’**attendra** à la maison."
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour former le futur simple, pars de l’infinitif et ajoute -ai, -as, -a, -ons, -ez, -ont ; pour les verbes en -re, le -e final disparaît."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Au futur, « je chanterai » s’entend avec le son [r] ; ne l’écris pas comme l’imparfait « je chantais »."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Conjuguer au futur simple",
+              "4"
+            ],
+            [
+              "2. Les radicaux irréguliers",
+              "4"
+            ],
+            [
+              "3. L’orthographe des verbes",
+              "4"
+            ],
+            [
+              "4. Reconnaître le temps",
+              "4"
+            ],
+            [
+              "5. Transformer un texte",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, 1 point par verbe correctement transformé (me lèverai, prendrai, irai, attendra).",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

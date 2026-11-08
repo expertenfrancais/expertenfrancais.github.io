@@ -1,0 +1,245 @@
+{
+  "id": 40019,
+  "meta": {
+    "t": "Devoir n° 19 : Les temps composés",
+    "k": "Évaluations",
+    "n": "5e",
+    "m": "Conjugaison",
+    "img": "h",
+    "r": 4.8,
+    "ev": 19
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Reconnaître le temps composé (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne le nom de chaque temps : passé composé, plus-que-parfait, futur antérieur ou passé antérieur. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Il a chanté.",
+            "Il avait chanté.",
+            "Il aura chanté.",
+            "Il eut chanté."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Choisir l’auxiliaire et accorder (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au passé composé. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle (sortir) son cahier.",
+            "Elle (sortir) à midi.",
+            "Les filles se (lever) tôt.",
+            "Les enfants (arriver) en retard."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Le plus-que-parfait (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au plus-que-parfait. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’(finir) mon devoir.",
+            "Elle (partir) tôt.",
+            "Nous (prendre) le bus.",
+            "Ils (tomber) de vélo."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : L’action antérieure (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par le verbe au temps composé qui convient (plus-que-parfait, futur antérieur ou passé antérieur). (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Quand je suis arrivé, le film (commencer) déjà.",
+            "Il était triste : il (perdre) son livre.",
+            "Demain, quand tu (finir) ton devoir, tu pourras sortir.",
+            "Dès qu’il (ouvrir) la lettre, il pâlit."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Négation et accord (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Les questions 1 et 2 valent 1 point chacune ; la question 3 vaut 2 points."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Mets à la forme négative : « Elle a chanté. »",
+            "Mets à la forme négative : « Ils étaient partis. »",
+            "Complète : « Les filles ont (manger) puis elles sont (partir). »"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "passé composé (auxiliaire au présent)",
+            "plus-que-parfait (auxiliaire à l’imparfait)",
+            "futur antérieur (auxiliaire au futur simple)",
+            "passé antérieur (auxiliaire au passé simple)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle **a sorti** son cahier (avec un COD, on emploie avoir)",
+            "Elle **est sortie** à midi (sans COD, on emploie être)",
+            "Les filles se **sont levées** tôt (verbe pronominal)",
+            "Les enfants **sont arrivés** en retard"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’**avais fini**",
+            "Elle **était partie**",
+            "Nous **avions pris**",
+            "Ils **étaient tombés**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**avait commencé** (plus-que-parfait)",
+            "**avait perdu** (plus-que-parfait)",
+            "**auras fini** (futur antérieur)",
+            "**eut ouvert** (passé antérieur)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Elle **n’**a **pas** chanté. »",
+            "« Ils **n’**étaient **pas** partis. »",
+            "« Les filles ont **mangé** (pas d’accord avec avoir) puis elles sont **parties** (accord avec le sujet, avec être). » (1 point pour chaque participe)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Un temps composé = auxiliaire (avoir ou être) conjugué à un temps simple + participe passé ; le temps de l’auxiliaire donne le nom du temps composé."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Ne confonds pas le participe passé (« chanté ») et l’infinitif (« chanter ») : « Il a chanté », mais « Il va chanter »."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Reconnaître le temps composé",
+              "4"
+            ],
+            [
+              "2. Choisir l’auxiliaire et accorder",
+              "4"
+            ],
+            [
+              "3. Le plus-que-parfait",
+              "4"
+            ],
+            [
+              "4. L’action antérieure",
+              "4"
+            ],
+            [
+              "5. Négation et accord",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, la question 3 est notée 1 point par participe passé correct.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": 40021,
+  "meta": {
+    "t": "Devoir n° 21 : Les modes personnels et impersonnels",
+    "k": "Évaluations",
+    "n": "5e",
+    "m": "Conjugaison",
+    "img": "b",
+    "r": 4.8,
+    "ev": 21
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Les modes (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Réponds aux questions. (2 pts pour la question 1 ; 1 pt pour chacune des questions 2 et 3)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Cite les quatre modes personnels.",
+            "Cite les deux modes impersonnels.",
+            "Pourquoi dit-on que certains modes sont « personnels » ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Reconnaître le mode (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne le mode de chaque verbe en gras. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tu **chantes**.",
+            "Il faut que tu **chantes**.",
+            "Tu **chanterais**.",
+            "**Chante** !"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : L’impératif (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe à l’impératif présent, à la personne demandée. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "chanter (2e personne du singulier)",
+            "finir (1re personne du pluriel)",
+            "être (2e personne du singulier)",
+            "prendre (2e personne du pluriel)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Choisir le mode (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au mode et au temps qui conviennent. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je veux que tu (venir).",
+            "Je sais que tu (venir) demain.",
+            "Si j’avais le temps, je (venir).",
+            "Il faut que nous (finir) tôt."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : L’infinitif et le participe (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la forme impersonnelle de chaque mot : infinitif présent, infinitif passé, participe présent ou participe passé. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "chanter",
+            "avoir chanté",
+            "chantant",
+            "Des fleurs **cueillies**."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "l’**indicatif**, le **subjonctif**, le **conditionnel** et l’**impératif**",
+            "l’**infinitif** et le **participe**",
+            "Parce qu’ils ont des formes différentes pour chaque personne (je, tu, il, nous, vous, ils) ; les modes impersonnels n’en ont pas."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "indicatif",
+            "subjonctif (après « il faut que »)",
+            "conditionnel (terminaison -rais)",
+            "impératif (ordre sans sujet)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Chante** (sans -s pour un verbe du 1er groupe)",
+            "**Finissons**",
+            "**Sois**",
+            "**Prenez**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**viennes** (subjonctif présent)",
+            "**viendras** (indicatif, futur simple)",
+            "**viendrais** (conditionnel présent)",
+            "**finissions** (subjonctif présent)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "infinitif présent",
+            "infinitif passé",
+            "participe présent (invariable)",
+            "participe passé employé comme adjectif (il s’accorde avec « fleurs »)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour reconnaître le mode, regarde le sens : le réel (indicatif), le voulu (subjonctif), le possible (conditionnel), l’ordre (impératif)."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "À la 2e personne du singulier de l’impératif, les verbes du 1er groupe n’ont pas de -s : « Chante ! », mais « Chantes-en un »."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Les modes",
+              "4"
+            ],
+            [
+              "2. Reconnaître le mode",
+              "4"
+            ],
+            [
+              "3. L’impératif",
+              "4"
+            ],
+            [
+              "4. Choisir le mode",
+              "4"
+            ],
+            [
+              "5. L’infinitif et le participe",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercice 1 : 2 points pour les quatre modes personnels, 1 point pour les modes impersonnels, 1 point pour l’explication.",
+            "Exercices 2 à 5 : 1 point par bonne réponse.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

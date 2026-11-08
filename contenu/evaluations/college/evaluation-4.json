@@ -1,0 +1,245 @@
+{
+  "id": 40004,
+  "meta": {
+    "t": "Devoir n° 4 : La phrase et ses constituants",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Grammaire",
+    "img": "a",
+    "r": 4.8,
+    "ev": 4
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Les types de phrases (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Indique le type de chaque phrase : déclarative, interrogative, injonctive ou exclamative. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Range ta chambre avant de sortir.",
+            "Quelle belle surprise !",
+            "Où vas-tu après l’école ?",
+            "Le soleil se lève à six heures."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Phrase verbale ou non verbale (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Dis si chaque phrase est verbale ou non verbale. Justifie en une courte phrase. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Attention, travaux !",
+            "Les enfants jouent dans la cour.",
+            "Quel beau temps !",
+            "Il pleut."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Trouver le sujet (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Recopie le sujet de chaque phrase. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Les oiseaux chantent dans le manguier.",
+            "Hier, Awa a visité le musée.",
+            "Où habite ta cousine ?",
+            "Sur la table se trouve un cadeau."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Les compléments (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la fonction du groupe de mots en gras : COD, COI, attribut du sujet ou complément de phrase. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Ma mère prépare **le repas**.",
+            "Les élèves obéissent **au maître**.",
+            "Ce garçon semble **fatigué**.",
+            "**Hier**, nous avons visité le musée."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Transformer et écrire (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Les questions 1 et 2 valent 1 point chacune ; la question 3 vaut 2 points."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Mets à la forme négative : « Le marché est ouvert. »",
+            "Transforme en phrase interrogative : « Tu viens demain. »",
+            "Écris une phrase qui contient un sujet, un COD et un complément de phrase, puis identifie ces trois éléments."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "injonctive (elle donne un ordre)",
+            "exclamative (elle exprime une émotion)",
+            "interrogative (elle pose une question)",
+            "déclarative (elle donne une information)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "non verbale : elle ne contient aucun verbe conjugué",
+            "verbale : elle contient le verbe conjugué « jouent »",
+            "non verbale : elle ne contient aucun verbe conjugué",
+            "verbale : elle contient le verbe conjugué « pleut »"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Les oiseaux**",
+            "**Awa**",
+            "**ta cousine** (le sujet est placé après le verbe)",
+            "**un cadeau** (le sujet est placé après le verbe)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "COD (on demande : prépare quoi ?)",
+            "COI (on demande : obéissent à qui ?)",
+            "attribut du sujet (il suit le verbe d’état « semble »)",
+            "complément de phrase de temps (il peut être supprimé et déplacé)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Le marché **n’**est **pas** ouvert. »",
+            "« Viens-tu demain ? » ou « Est-ce que tu viens demain ? » (la forme « Tu viens demain ? » est acceptée)",
+            "Exemple : « **Les enfants** (sujet) ramassent **des mangues** (COD) **dans le jardin** (complément de phrase). » 1 point pour la phrase correcte, 1 point pour l’identification des trois éléments."
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour trouver le sujet, pose la question « Qui est-ce qui ? » ou « Qu’est-ce qui ? » devant le verbe, même quand le sujet est placé après lui."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Ne confonds pas le complément de phrase (qu’on peut supprimer et déplacer) avec le complément du verbe (COD, COI, attribut) qui est indispensable."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Les types de phrases",
+              "4"
+            ],
+            [
+              "2. Phrase verbale ou non verbale",
+              "4"
+            ],
+            [
+              "3. Trouver le sujet",
+              "4"
+            ],
+            [
+              "4. Les compléments",
+              "4"
+            ],
+            [
+              "5. Transformer et écrire",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, la question 3 est notée 1 point pour la phrase, 1 point pour l’identification des constituants.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

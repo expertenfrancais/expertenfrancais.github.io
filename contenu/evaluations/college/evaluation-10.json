@@ -1,0 +1,247 @@
+{
+  "id": 40010,
+  "meta": {
+    "t": "Devoir n° 10 : Le sujet et ses différentes formes",
+    "k": "Évaluations",
+    "n": "5e",
+    "m": "Grammaire",
+    "img": "g",
+    "r": 4.8,
+    "ev": 10
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Trouver le sujet (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Recopie le sujet de chaque phrase. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Mes deux cousines arrivent demain.",
+            "Personne ne répond.",
+            "Où va ton frère ?",
+            "Voyager m’enrichit."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : La nature du sujet (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la nature du sujet en gras : nom propre, groupe nominal, pronom personnel ou autre pronom. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Awa** chante.",
+            "**Le petit garçon** rit.",
+            "**Nous** partons demain.",
+            "**Chacun** rentre chez soi."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Accorder le verbe avec son sujet (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "L’équipe (gagner) le match.",
+            "Mon frère et moi (aller) au marché.",
+            "La foule (applaudir) le chanteur.",
+            "Toi et ton frère (partir) demain."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Sujet sous-entendu et sujet impersonnel (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Dis quel est le sujet de chaque verbe en gras. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Ferme** la porte !",
+            "**Mangeons** ensemble.",
+            "**Il pleut** depuis ce matin.",
+            "**Prenez** vos cahiers !"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Écrire des phrases (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Écris une phrase pour chaque consigne. (1 pt par phrase)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Le sujet est un groupe nominal avec un adjectif.",
+            "Le sujet est un pronom indéfini.",
+            "Le sujet est placé après le verbe.",
+            "Le sujet est un verbe à l’infinitif."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Mes deux cousines**",
+            "**Personne**",
+            "**ton frère** (sujet placé après le verbe)",
+            "**Voyager** (verbe à l’infinitif)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "nom propre",
+            "groupe nominal",
+            "pronom personnel",
+            "autre pronom (pronom indéfini)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "L’équipe **gagne** (nom collectif : le verbe reste au singulier)",
+            "Mon frère et moi **allons** (= nous)",
+            "La foule **applaudit** (nom collectif)",
+            "Toi et ton frère **partez** (= vous)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "sujet sous-entendu : **tu**",
+            "sujet sous-entendu : **nous**",
+            "sujet : **il**, sujet apparent d’un verbe impersonnel (il ne désigne personne)",
+            "sujet sous-entendu : **vous**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Exemple : « **Les petits oiseaux** chantent. »",
+            "Exemple : « **Tout le monde** applaudit. » ou « **Chacun** range son cahier. »",
+            "Exemple : « Où va **ton frère** ? »",
+            "Exemple : « **Chanter** est agréable. »"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour trouver le sujet, pose « Qui est-ce qui ? » ou « Qu’est-ce qui ? » devant le verbe, ou encadre-le par « c’est … qui »."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Un nom collectif (équipe, foule, famille) désigne plusieurs êtres, mais le verbe reste au singulier."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Trouver le sujet",
+              "4"
+            ],
+            [
+              "2. La nature du sujet",
+              "4"
+            ],
+            [
+              "3. Accorder le verbe avec son sujet",
+              "4"
+            ],
+            [
+              "4. Sujet sous-entendu et sujet impersonnel",
+              "4"
+            ],
+            [
+              "5. Écrire des phrases",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, accepter toute phrase correcte qui respecte la consigne.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

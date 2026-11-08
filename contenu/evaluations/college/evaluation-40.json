@@ -1,0 +1,246 @@
+{
+ "id": 40040,
+ "meta": {
+  "t": "Devoir n° 40 : Les figures de style",
+  "k": "Évaluations",
+  "n": "4e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ev": 40
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Comparaison ou métaphore (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque phrase contient une **comparaison** ou une **métaphore**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est fort comme un lion.",
+      "Cet homme est un lion.",
+      "Elle est rapide comme l’éclair.",
+      "Ce garçon est un roc."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Exagérer ou atténuer (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque phrase contient une **hyperbole**, un **euphémisme** ou une **litote**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je meurs de faim.",
+      "Il nous a quittés. (pour dire qu’il est mort)",
+      "Ce n’est pas bête. (pour dire « c’est très intelligent »)",
+      "J’ai attendu une éternité."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Antithèse ou oxymore (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque expression est une **antithèse** (deux idées opposées dans une même phrase) ou un **oxymore** (deux mots contraires associés). (1 pt par expression)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Un silence assourdissant.",
+      "Il est petit de taille mais grand de cœur.",
+      "Une obscure clarté.",
+      "Il est riche en paroles et pauvre en actes."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Métonymie ou périphrase (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque expression est une **métonymie** ou une **périphrase**. (1 pt par expression)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Boire un verre.",
+      "Le roi des animaux. (pour dire « le lion »)",
+      "Lire du Molière.",
+      "La Ville lumière. (pour dire « Paris »)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Répéter et construire (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque phrase contient une **anaphore**, une **gradation** ou une **accumulation**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Rien ne bouge, rien ne parle, rien ne vit.",
+      "Il marche, il court, il vole.",
+      "Il a acheté des mangues, des bananes, des oranges, des ananas, des papayes.",
+      "J’aime la pluie, j’aime le vent, j’aime la nuit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "comparaison (outil de comparaison : « comme »)",
+      "métaphore (comparaison sans outil)",
+      "comparaison (« comme »)",
+      "métaphore (il est solide comme un roc, sans outil)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "hyperbole (exagération)",
+      "euphémisme (adoucir une réalité dure)",
+      "litote (dire moins pour faire entendre plus)",
+      "hyperbole"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "oxymore (silence + assourdissant)",
+      "antithèse (petit / grand)",
+      "oxymore (obscure + clarté)",
+      "antithèse (riche / pauvre)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "métonymie (le contenant pour le contenu)",
+      "périphrase (plusieurs mots à la place d’un seul)",
+      "métonymie (l’auteur pour son œuvre)",
+      "périphrase"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "anaphore (répétition de « rien ne » en début de proposition)",
+      "gradation (l’intensité augmente)",
+      "accumulation (liste de mots de même nature)",
+      "anaphore (répétition de « j’aime »)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour reconnaître une figure de style : repère un écart avec la façon normale de dire (exagération, image, opposition…), puis cherche l’effet produit."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne pas confondre comparaison (avec « comme », « pareil à »…) et métaphore (sans outil de comparaison)."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Comparaison ou métaphore",
+       "4"
+      ],
+      [
+       "2. Exagérer ou atténuer",
+       "4"
+      ],
+      [
+       "3. Antithèse ou oxymore",
+       "4"
+      ],
+      [
+       "4. Métonymie ou périphrase",
+       "4"
+      ],
+      [
+       "5. Répéter et construire",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 1, accepter « comparaison » si l’élève cite le mot « comme » comme outil.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": 40007,
+  "meta": {
+    "t": "Devoir n° 7 : Les déterminants",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Grammaire",
+    "img": "d",
+    "r": 4.8,
+    "ev": 7
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Reconnaître les déterminants (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Recopie le déterminant en gras et donne sa famille : article défini, article partitif, démonstratif, numéral… (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Le** maître arrive.",
+            "Je prends **ces** livres.",
+            "Je mange **du** riz.",
+            "J’ai **trois** mangues."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Les articles contractés (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par au, aux, du ou des. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je vais ___ marché.",
+            "Il revient ___ marché.",
+            "Les enfants jouent ___ billes.",
+            "Nous écoutons les chants ___ oiseaux."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Les déterminants possessifs (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par le déterminant possessif qui convient. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Awa range ___ cahier.",
+            "Awa range ___ trousse.",
+            "Les élèves écoutent ___ maîtresse.",
+            "Tu as oublié ___ cahiers."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Les déterminants démonstratifs (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par ce, cet, cette ou ces. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "___ garçon court.",
+            "___ arbre est vieux.",
+            "___ fille chante.",
+            "___ enfants jouent."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Déterminant ou pronom ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Dis si le mot en gras est un déterminant ou un pronom. Justifie par sa place ou son rôle. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Mes** amis arrivent.",
+            "Je **les** vois.",
+            "**Ce** livre est neuf.",
+            "Il **leur** parle."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« le » : article défini",
+            "« ces » : déterminant démonstratif",
+            "« du » : article partitif",
+            "« trois » : déterminant numéral"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**au** (à + le)",
+            "**du** (de + le)",
+            "**aux** (à + les)",
+            "**des** (de + les)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**son** (cahier est masculin singulier)",
+            "**sa** (trousse est féminin singulier)",
+            "**leur** (un seul nom, plusieurs possesseurs)",
+            "**tes** (cahiers est au pluriel ; le possesseur est « tu »)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**Ce**",
+            "**Cet** (devant une voyelle)",
+            "**Cette**",
+            "**Ces**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "déterminant : il accompagne le nom « amis »",
+            "pronom : il remplace un nom et se place devant le verbe",
+            "déterminant : il accompagne le nom « livre »",
+            "pronom : il remplace un nom (complément du verbe « parle »)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour savoir si un mot est un déterminant, regarde s’il est devant un nom commun qu’il accompagne et qu’on peut remplacer par un autre déterminant (le livre → mon livre)."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Le déterminant possessif s’accorde avec le nom qui suit, et non avec le possesseur : « Awa range sa trousse »."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Reconnaître les déterminants",
+              "4"
+            ],
+            [
+              "2. Les articles contractés",
+              "4"
+            ],
+            [
+              "3. Les déterminants possessifs",
+              "4"
+            ],
+            [
+              "4. Les déterminants démonstratifs",
+              "4"
+            ],
+            [
+              "5. Déterminant ou pronom ?",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Accorder 1 point par bonne réponse dans chaque exercice.",
+            "À l’exercice 5, la justification doit être donnée pour obtenir le point.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

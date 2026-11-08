@@ -1,0 +1,247 @@
+{
+  "id": 40006,
+  "meta": {
+    "t": "Devoir n° 6 : Les compléments circonstanciels",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Grammaire",
+    "img": "c",
+    "r": 4.8,
+    "ev": 6
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Repérer le complément circonstanciel (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Recopie le complément circonstanciel de chaque phrase. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Les enfants jouent sur la place.",
+            "Demain, nous visiterons le musée.",
+            "Elle répond poliment.",
+            "Il ouvre la porte avec une clé."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Identifier la circonstance (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Indique la circonstance exprimée par le complément en gras : lieu, temps, manière, cause, but ou moyen. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Il court **pour attraper le bus**.",
+            "Elle est en retard **à cause de la pluie**.",
+            "Nous voyageons **en train**.",
+            "Il pleut **depuis hier**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Complément circonstanciel ou COI ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Dis si le groupe en gras est un complément circonstanciel (CC) ou un COI. Justifie par un test (suppression ou déplacement). (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Nous mangeons **à la cantine**.",
+            "Les élèves obéissent **au maître**.",
+            "Il joue **après l’école**.",
+            "Je pense **à mes vacances**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : La nature du complément circonstanciel (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la nature du complément circonstanciel en gras : adverbe, groupe nominal, verbe à l’infinitif ou proposition subordonnée. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Nous partons **demain**.",
+            "**Ce matin**, il pleut.",
+            "Il court **pour attraper le bus**.",
+            "**Dès que la cloche sonne**, nous sortons."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Enrichir une phrase (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Enrichis la phrase « Le marin pêche. » comme demandé. (1 pt par question)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Ajoute un complément circonstanciel de lieu.",
+            "Ajoute un complément circonstanciel de temps.",
+            "Ajoute un complément circonstanciel de manière.",
+            "Écris de nouveau la phrase de la question 2 en plaçant le complément au début, avec la ponctuation qui convient."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**sur la place**",
+            "**Demain**",
+            "**poliment**",
+            "**avec une clé**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "but (dans quel but ?)",
+            "cause (pourquoi ?)",
+            "moyen (par quel moyen ?)",
+            "temps (depuis quand ?)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "CC de lieu : on peut le déplacer (« À la cantine, nous mangeons. »)",
+            "COI : il ne peut pas être déplacé ni supprimé sans changer le sens du verbe",
+            "CC de temps : on peut le déplacer (« Après l’école, il joue. »)",
+            "COI : il est indispensable au verbe « penser à »"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "adverbe",
+            "groupe nominal",
+            "verbe à l’infinitif (introduit par « pour »)",
+            "proposition subordonnée (elle a son propre verbe conjugué)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Réponses possibles : « Le marin pêche **près de la côte**. » ; « Le marin pêche **sur la rivière**. »",
+            "Réponses possibles : « Le marin pêche **ce matin**. » ; « Le marin pêche **chaque jour**. »",
+            "Réponses possibles : « Le marin pêche **patiemment**. » ; « Le marin pêche **avec patience**. »",
+            "« **Ce matin**, le marin pêche. » (la virgule suit le complément placé au début ; adapter selon la réponse de la question 2)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour reconnaître un CC, fais trois tests : on peut le supprimer, on peut le déplacer, on peut poser une question comme où ? quand ? comment ? pourquoi ?"
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Un CC placé au début de la phrase est suivi d’une virgule : « Demain, nous partons. » À la fin de la phrase, on n’en met pas en général."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Repérer le complément circonstanciel",
+              "4"
+            ],
+            [
+              "2. Identifier la circonstance",
+              "4"
+            ],
+            [
+              "3. Complément circonstanciel ou COI ?",
+              "4"
+            ],
+            [
+              "4. La nature du complément circonstanciel",
+              "4"
+            ],
+            [
+              "5. Enrichir une phrase",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, accepter toute expansion correcte ; vérifier la virgule à la question 4.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

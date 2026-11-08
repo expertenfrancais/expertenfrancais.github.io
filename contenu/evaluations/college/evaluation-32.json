@@ -1,0 +1,246 @@
+{
+ "id": 40032,
+ "meta": {
+  "t": "Devoir n° 32 : L’accord de l’adjectif qualificatif",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8,
+  "ev": 32
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Le féminin de l’adjectif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris chaque groupe nominal au féminin. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un élève attentif",
+      "un chat blanc",
+      "un garçon heureux",
+      "un homme discret"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Le pluriel de l’adjectif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris chaque groupe nominal au pluriel. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un beau cheval",
+      "un exercice facile",
+      "un enfant joyeux",
+      "un travail original"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Épithète et attribut (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Accorde l’adjectif entre parenthèses. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Ces fleurs semblent (fané).",
+      "Les enfants (fatigué) dorment.",
+      "La route et le chemin sont (boueux).",
+      "Elle a acheté une voiture et une moto (neuf)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Les adjectifs de couleur (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Accorde l’adjectif de couleur quand c’est nécessaire. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "des chemises (bleu clair)",
+      "des rubans (rouge)",
+      "des robes (orange)",
+      "des yeux (marron)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Corriger les erreurs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie chaque phrase en corrigeant l’erreur d’accord. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les filles sont contents.",
+      "Elle raconte une histoire amusants.",
+      "Des fruits mûr sont tombés.",
+      "Ces maisons semblent vide."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "une élève attentive",
+      "une chatte blanche",
+      "une fille heureuse",
+      "une femme discrète"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "de beaux chevaux",
+      "des exercices faciles",
+      "des enfants joyeux (« joyeux » ne change pas)",
+      "des travaux originaux"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "fanées (attribut du sujet « fleurs »)",
+      "fatigués (épithète de « enfants »)",
+      "boueux (deux noms de genres différents : masculin pluriel)",
+      "neuves (les deux noms sont féminins : féminin pluriel)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "des chemises bleu clair (adjectif composé : invariable)",
+      "des rubans rouges",
+      "des robes orange (nom employé comme adjectif : invariable)",
+      "des yeux marron (nom employé comme adjectif : invariable)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les filles sont contentes.",
+      "Elle raconte une histoire amusante.",
+      "Des fruits mûrs sont tombés.",
+      "Ces maisons semblent vides."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "L’adjectif s’accorde en genre et en nombre avec le nom auquel il se rapporte ; l’adjectif attribut s’accorde avec le sujet."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Quand un adjectif se rapporte à des noms de genres différents, il se met au masculin pluriel."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Le féminin de l’adjectif",
+       "4"
+      ],
+      [
+       "2. Le pluriel de l’adjectif",
+       "4"
+      ],
+      [
+       "3. Épithète et attribut",
+       "4"
+      ],
+      [
+       "4. Les adjectifs de couleur",
+       "4"
+      ],
+      [
+       "5. Corriger les erreurs",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 3, la justification n’est pas demandée ; elle sert à la correction collective.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

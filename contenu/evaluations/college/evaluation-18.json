@@ -1,0 +1,239 @@
+{
+  "id": 40018,
+  "meta": {
+    "t": "Devoir n° 18 : Les valeurs et l’emploi du présent",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Conjugaison",
+    "img": "g",
+    "r": 4.8,
+    "ev": 18
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Reconnaître la valeur du présent (1) (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la valeur du présent dans chaque phrase : instant présent, habitude, vérité générale, narration, futur proche ou passé récent. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "L’eau bout à 100 °C.",
+            "Chaque matin, il prie.",
+            "En ce moment, il pleut.",
+            "Je viens de finir mon devoir."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Reconnaître la valeur du présent (2) (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Donne la valeur du présent dans chaque phrase. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "En 1960, le Congo devient indépendant.",
+            "Demain, je pars.",
+            "Petit à petit, l’oiseau fait son nid.",
+            "Le soir, nous veillons près du feu."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Conjuguer au présent (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au présent de l’indicatif. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tous les matins, il (balayer) la cour.",
+            "Écoute, on (frapper) à la porte.",
+            "Un verbe (exprimer) une action.",
+            "Aujourd’hui, nous (étudier) le présent."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Le présent de narration (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Récris le texte au présent de narration. (3 pts, 1 point par verbe) Puis réponds : quel effet produit ce présent ? (1 pt)"
+        },
+        {
+          "type": "ex",
+          "text": "Un soir, la pluie a commencé. Le roi est entré. Il a regardé le ciel."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Futur proche et passé récent (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Récris la phrase avec « aller + infinitif » ou « venir de + infinitif », selon le sens. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Je pars dans cinq minutes.",
+            "J’ai fini mon devoir à l’instant.",
+            "Il a mangé à l’instant.",
+            "Nous arriverons dans un instant."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "vérité générale",
+            "habitude",
+            "instant présent",
+            "passé récent"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "narration (un fait passé raconté au présent)",
+            "futur proche",
+            "vérité générale (proverbe)",
+            "habitude"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Il **balaie**",
+            "On **frappe**",
+            "Un verbe **exprime**",
+            "Nous **étudions**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Un soir, la pluie **commence**. Le roi **entre**. Il **regarde** le ciel. »",
+            "Le présent de narration donne de la vivacité au récit : on a l’impression de voir les faits se dérouler sous ses yeux."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Je **vais partir** dans cinq minutes. »",
+            "« Je **viens de finir** mon devoir. »",
+            "« Il **vient de manger**. »",
+            "« Nous **allons arriver** dans un instant. »"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Pour trouver la valeur du présent, cherche un indicateur (maintenant, chaque jour, une date passée, demain…) et demande-toi si le fait est actuel, répété, toujours vrai, passé ou à venir."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Une même forme comme « il part » peut avoir plusieurs valeurs : le contexte et les mots de fréquence aident à choisir."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Reconnaître la valeur du présent (1)",
+              "4"
+            ],
+            [
+              "2. Reconnaître la valeur du présent (2)",
+              "4"
+            ],
+            [
+              "3. Conjuguer au présent",
+              "4"
+            ],
+            [
+              "4. Le présent de narration",
+              "4"
+            ],
+            [
+              "5. Futur proche et passé récent",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 3 et 5 : 1 point par bonne réponse.",
+            "À l’exercice 4, les trois verbes sont notés chacun sur 1 point, la réponse à la dernière question sur 1 point.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}

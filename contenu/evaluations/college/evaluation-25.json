@@ -1,0 +1,230 @@
+{
+ "id": 40025,
+ "meta": {
+  "t": "Devoir n° 25 : Les conjonctions",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ev": 25
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement et réponds par des phrases quand c’est demandé. Tout exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Reconnaître les conjonctions (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie la conjonction de coordination de chaque phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il pleut, mais nous sortons.",
+      "Veux-tu du thé ou du café ?",
+      "Awa chante et Paul danse.",
+      "Il n’a pas faim, donc il ne mange pas."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Les sept conjonctions de coordination (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "**1.** Écris les sept conjonctions de coordination. (3 pts)\n**2.** Donne le moyen qui aide à les retenir. (1 pt)"
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Relier deux phrases (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Relie les deux phrases avec la conjonction demandée. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est fatigué. Il continue de travailler. (mais)",
+      "Je prends un parapluie. Il pleut. (car)",
+      "Tu viens avec moi. Tu restes à la maison. (ou)",
+      "Il a menti. Il est puni. (donc)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Le rôle de la conjonction (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis ce qu’exprime chaque conjonction en gras : **l’opposition**, **la cause**, **la conséquence** ou **le choix**. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je veux jouer **mais** je dois travailler.",
+      "Il reste à la maison **car** il est malade.",
+      "Veux-tu du riz **ou** des pâtes ?",
+      "Il a étudié, **donc** il a réussi."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Conjonction de coordination ou de subordination (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque phrase avec la conjonction qui convient : *que, quand, et, mais.* (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je sais ___ tu as raison.",
+      "Nous partirons ___ la pluie cessera.",
+      "Il est petit ___ très fort.",
+      "Fatou range sa chambre ___ elle lave la vaisselle."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "mais",
+      "ou",
+      "et",
+      "donc"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "p",
+     "text": "**1.** mais, ou, et, donc, or, ni, car. (3 points si les sept sont écrites ; 2 points pour cinq ou six ; 1 point pour trois ou quatre.)\n**2.** On peut les retenir avec la phrase « Mais où est donc Ornicar ? »."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est fatigué mais il continue de travailler.",
+      "Je prends un parapluie car il pleut.",
+      "Tu viens avec moi ou tu restes à la maison.",
+      "Il a menti donc il est puni."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "« mais » : l’opposition",
+      "« car » : la cause",
+      "« ou » : le choix",
+      "« donc » : la conséquence"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "que",
+      "quand",
+      "mais",
+      "et"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Une conjonction de coordination relie deux mots ou deux groupes de **même nature** ou de **même fonction** ; une conjonction de subordination (que, quand…) introduit une proposition subordonnée."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« Ou » (choix) ne prend pas d’accent, contrairement à « où » (lieu ou temps)."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Reconnaître les conjonctions",
+       "4"
+      ],
+      [
+       "2. Les sept conjonctions de coordination",
+       "4"
+      ],
+      [
+       "3. Relier deux phrases",
+       "4"
+      ],
+      [
+       "4. Le rôle de la conjonction",
+       "4"
+      ],
+      [
+       "5. Conjonction de coordination ou de subordination",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse, sauf à l’exercice 2 (barème indiqué dans le corrigé).",
+      "À l’exercice 5, n’accepter qu’une réponse par phrase, celle qui respecte le sens.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

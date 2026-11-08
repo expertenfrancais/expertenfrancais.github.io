@@ -1,0 +1,245 @@
+{
+  "id": 40017,
+  "meta": {
+    "t": "Devoir n° 17 : Le passé composé",
+    "k": "Évaluations",
+    "n": "6e",
+    "m": "Conjugaison",
+    "img": "f",
+    "r": 4.8,
+    "ev": 17
+  },
+  "sections": [
+    {
+      "t": "Énoncé de l’évaluation",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; tout exercice se fait sur la copie."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 1 : Les verbes avec l’auxiliaire avoir (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au passé composé. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’(chanter) hier.",
+            "Tu (finir) ton devoir.",
+            "Nous (prendre) le bus.",
+            "Ils (faire) leurs devoirs."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2 : Les verbes avec l’auxiliaire être (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Conjugue le verbe entre parenthèses au passé composé et accorde le participe passé. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle (partir) tôt.",
+            "Ils (arriver) hier.",
+            "Les mangues (tomber) de l’arbre.",
+            "Marie et Awa (aller) au marché."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3 : Avoir ou être ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par l’auxiliaire qui convient, au présent. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Hier, je ___ allé au marché.",
+            "Elle ___ mangé du riz.",
+            "Ils ___ venus me voir.",
+            "Nous ___ fini notre devoir."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4 : Participe passé ou infinitif ? (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Complète par la terminaison qui convient : -é ou -er. (1 pt par réponse)"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’ai mang… du riz.",
+            "Je vais mang… du riz.",
+            "Elle a chant… hier.",
+            "Elle veut chant… demain."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5 : Transformer des phrases (4 points)"
+        },
+        {
+          "type": "p",
+          "text": "Les questions 1 et 2 valent 1 point chacune ; la question 3 vaut 2 points."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Mets à la forme négative : « J’ai chanté. »",
+            "Mets à la forme négative : « Elle est venue. »",
+            "Récris au passé composé : « Il ouvre la porte, puis il entre. »"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Corrigé détaillé",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "J’**ai chanté**",
+            "Tu **as fini**",
+            "Nous **avons pris**",
+            "Ils **ont fait**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Elle **est partie**",
+            "Ils **sont arrivés**",
+            "Les mangues **sont tombées**",
+            "Marie et Awa **sont allées**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**suis** (aller se conjugue avec être)",
+            "**a** (manger se conjugue avec avoir)",
+            "**sont** (venir se conjugue avec être)",
+            "**avons** (finir se conjugue avec avoir)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "mang**é** (participe passé après avoir)",
+            "mang**er** (infinitif après « vais »)",
+            "chant**é** (participe passé)",
+            "chant**er** (infinitif après « veut »)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "« Je **n’**ai **pas** chanté. »",
+            "« Elle **n’**est **pas** venue. »",
+            "« Il **a ouvert** la porte, puis il **est entré**. » (1 point par verbe)"
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Au passé composé, l’auxiliaire avoir ou être est au présent, suivi du participe passé ; avec être, le participe passé s’accorde avec le sujet."
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Avec l’auxiliaire avoir, le participe passé ne s’accorde pas avec le sujet : on écrit « Les filles ont mangé », et non « mangées »."
+        }
+      ]
+    },
+    {
+      "t": "Barème et grille de correction",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Répartition des points",
+          "head": [
+            "Exercice",
+            "Points"
+          ],
+          "rows": [
+            [
+              "1. Les verbes avec l’auxiliaire avoir",
+              "4"
+            ],
+            [
+              "2. Les verbes avec l’auxiliaire être",
+              "4"
+            ],
+            [
+              "3. Avoir ou être ?",
+              "4"
+            ],
+            [
+              "4. Participe passé ou infinitif ?",
+              "4"
+            ],
+            [
+              "5. Transformer des phrases",
+              "4"
+            ],
+            [
+              "Total",
+              "20"
+            ]
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "Conseils au correcteur",
+          "items": [
+            "Exercices 1 à 4 : 1 point par bonne réponse.",
+            "À l’exercice 5, accepter « Elle n’est pas venue » avec l’accord correct.",
+            "Retirer 0,5 point maximum pour une copie mal présentée.",
+            "Faire corriger les erreurs fréquentes en classe après la remise des copies."
+          ]
+        }
+      ]
+    }
+  ]
+}
