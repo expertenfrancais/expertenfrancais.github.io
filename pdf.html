@@ -93,7 +93,8 @@ function msg(t,p,label,href){
  P.innerHTML='<div class="pmsg"><h1>'+t+'</h1><p>'+p+'</p><a class="pbtn" href="'+href+'">'+label+'</a></div>';
  pp.hidden=true;$("phint").hidden=true;$("pback").hidden=true}
 if(!d)return msg("Cours introuvable","Ce cours n’existe pas ou n’est plus disponible.","Voir le catalogue","catalogue.html");
-if(!canAccess(d.id)&&!(nf&&q.get("p")!=="apprenant"))return nf?msg("Page réservée aux abonnés","La page de l’apprenant et le corrigé sont réservés aux abonnés. La fiche du professeur reste gratuite.","S’abonner",BASE+"abonnement.html"):msg("Téléchargement réservé","Le PDF est réservé aux abonnés et à ceux qui ont acheté ce cours.","Retour au cours",docUrl(d));
+if(d.k==="Fiches"&&!ficheAcces(d.id))return msg("PDF réservé aux abonnés","Le PDF de la fiche contient toutes les étapes, la page de l’apprenant et le corrigé : il est réservé aux abonnés.","S’abonner",BASE+"abonnement.html");
+if(d.k!=="Fiches"&&!canAccess(d.id))return msg("Téléchargement réservé","Le PDF est réservé aux abonnés et à ceux qui ont acheté ce cours.","Retour au cours",docUrl(d));
 if(d.k==="Fiches"&&ALLOWED_TYPES.indexOf("Fiches")<0)return msg("Réservé aux enseignants","Les fiches pédagogiques sont réservées au profil enseignant.","Voir le catalogue","catalogue.html");
 document.title=d.t+" | PDF | Expert en français";
 

@@ -15,6 +15,9 @@ function fmtDate(v){var m=/^(\d{4})-(\d{2})-(\d{2})$/.exec(v||"");return m?m[3]+
 function dots(v,n){return v&&String(v).trim()?e(v):(n||"......")}
 function steps(j){return arr(j.etapes)}
 function nbEtapes(j){return steps(j).length}
+/* Étapes réservées aux abonnés : à partir de l’étape numéro lockFrom (0 = la première). 1e9 = rien n’est verrouillé. lockHref = page où l’on envoie le non-abonné. */
+var lockFrom=1e9,lockHref="";
+function lockIco(n){return typeof ico==="function"&&window.IC&&IC.lock?ico("lock",n):""}
 
 /* ----- en-tête ----- */
 function head(j,v,edit){
@@ -57,6 +60,7 @@ function cardBody(s,label){
  return h}
 function cardStep(s,i){
  var r=roman(s.titre),t=total(s),sub="",body="";
+ if(i>=lockFrom)return'<a class="f-step f-locked" href="'+lockHref+'"><span class="f-num">'+e(r.n)+'</span><span class="f-st"><b>'+f(r.t)+'</b><small>Réservé aux abonnés · S’abonner</small></span><span class="f-time">'+t+' min</span><span class="f-lkic">'+lockIco(18)+'</span></a>';
  if(s.sousEtapes){
   sub=s.sousEtapes.map(function(x){return roman(x.titre).t}).join(" · ");
   body=s.sousEtapes.map(function(x,k){var a=roman(x.titre);
@@ -74,13 +78,15 @@ function actCell(s){
  return(s.activite?"<p>"+f(s.activite)+"</p>":"")+arr(s.reponses).map(function(r){return'<p class="f-qq">R'+r.n+'- '+f(r.r)+'</p>'}).join("")}
 function tableHTML(j){
  var rows=[];
- steps(j).forEach(function(s){
+ steps(j).forEach(function(s,si){
+  if(si>=lockFrom){rows.push({lock:s});return}
   if(s.sousEtapes){rows.push({iv:s});s.sousEtapes.forEach(function(x){rows.push({s:x,sub:true})})}
   else rows.push({s:s})});
  var h='<div class="f-tabscroll"><table class="f-tab"><thead><tr><th class="c-oo">O.O</th><th class="c-st">Stratégies d’enseignement</th><th class="c-ac">Activités d’apprentissage</th><th class="c-ev">Mode d’évaluation</th><th class="c-tp">Temps</th><th class="c-ob">Observ.</th></tr></thead><tbody>';
  rows.forEach(function(r,i){
   /* Pas de rowspan : un tableau à cellule fusionnée ne se coupe pas entre deux pages à l’impression. La colonne O.O est donc faite de cellules sans bordure intérieure. */
   var first='<td class="c-oo'+(i===0?" oo-f":"")+(i===rows.length-1?" oo-l":"")+'">'+(i===0?f(j.oo):"")+'</td>';
+  if(r.lock){var rl=roman(r.lock.titre);h+='<tr class="f-lockrow">'+first+'<td colspan="5"><a href="'+lockHref+'"><span class="f-lkic">'+lockIco(16)+'</span><b>'+e(rl.n)+' · '+f(rl.t)+'</b> · '+total(r.lock)+' min — réservé aux abonnés. <u>S’abonner</u></a></td></tr>';return}
   if(r.iv){h+='<tr class="f-ivh">'+first+'<td colspan="5">'+f(r.iv.titre)+' · '+total(r.iv)+' min</td></tr>';return}
   var s=r.s,rm=roman(s.titre);
   h+='<tr>'+first+'<td>'+stratCell(s,r.sub?s.titre:s.titre,r.sub?"Corpus":(/^I-/.test(s.titre)?"Au tableau":"Texte"))+'</td><td>'+actCell(s)+'</td><td>'+(s.evaluation?evalHTML(s.evaluation):"")+'</td><td class="c-tp">'+(+s.temps||0)+' min</td><td class="c-ob">'+(s.observ?f(s.observ):"")+'</td></tr>'});
@@ -121,8 +127,10 @@ function init(){
  document.documentElement.className="f-page";
  if(!d||d.k!=="Fiches")return msg(root,"Fiche introuvable","Cette fiche pédagogique n’existe pas ou n’est plus disponible.","Voir le catalogue","catalogue.html");
  if(ALLOWED_TYPES.indexOf("Fiches")<0)return msg(root,"Réservé aux enseignants","Les fiches pédagogiques sont réservées au profil enseignant.","Voir le catalogue","catalogue.html");
- var paid=canAccess(d.id); /* La fiche du professeur est gratuite ; la page de l’apprenant et le corrigé sont réservés aux abonnés */
-  function lk(){return paid?"":'<span class="f-lk">'+(typeof ico==="function"&&window.IC&&IC.lock?ico("lock",13):"")+'</span>'}
+ var paid=ficheAcces(d.id); /* Gratuit : l’en-tête et les FICHES_LIBRES premières étapes. Abonnés : les autres étapes, la page de l’apprenant, le corrigé et le PDF (voir data.js) */
+ lockFrom=paid?1e9:(typeof FICHES_LIBRES==="number"?FICHES_LIBRES:2);
+ lockHref=BASE+(userName()?"abonnement.html":"login-app.html?next="+encodeURIComponent("abonnement.html"));
+  function lk(){return paid?"":'<span class="f-lk">'+lockIco(13)+'</span>'}
  document.title=d.t+" | Fiche pédagogique | Expert en français";
  if(!window.fetch)return msg(root,"Navigateur trop ancien","Ouvrez l’application dans un navigateur à jour pour afficher la fiche.","Retour",docUrl(d));
  fetch(BASE+contentFile(d)).then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(function(j){
@@ -135,7 +143,7 @@ function init(){
     if(!paid&&t!=="prof"){location.replace(BASE+(userName()?"abonnement.html":"login-app.html?next="+encodeURIComponent("abonnement.html")));return}
     var body=t==="prof"?prof(j,vals,"edit"):t==="apprenant"?apprenant(j,vals):corrige(j);
    root.innerHTML='<div class="fx"><div class="f-bar"><a class="f-back" id="fBack" href="'+docUrl(d)+'" aria-label="Retour à la fiche"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+BACK+'"/></svg></a><div class="f-ttl"><small>Fiche n° '+e(h.numero)+' · '+e(h.niveau)+' · '+e(h.sousDiscipline)+'</small><b>'+f(h.titre)+'</b></div>'+
-    '<a class="f-pdf" id="fPdf" href="'+pdfHref(t)+'"><span class="f-l">Enregistrer en&nbsp;</span>PDF</a>'+
+    '<a class="f-pdf" id="fPdf" href="'+pdfHref(t)+'"><span class="f-l">Enregistrer en&nbsp;</span>PDF'+lk()+'</a>'+
     '<nav class="f-tabs" aria-label="Parties de la fiche"><a href="#prof" class="'+(t==="prof"?"on":"")+'">Fiche du professeur</a><a href="#apprenant" class="'+(t==="apprenant"?"on":"")+'">Page de l’apprenant'+lk()+'</a><a href="#corrige" class="'+(t==="corrige"?"on":"")+'">Corrigé'+lk()+'</a></nav></div>'+body+'</div>';
    if(t==="prof")bindFill();
    /* Retour : revient réellement en arrière si l’on vient du site, sinon ouvre la page de présentation en remplaçant cet écran (pas de boucle) */

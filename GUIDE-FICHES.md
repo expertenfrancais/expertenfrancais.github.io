@@ -17,6 +17,8 @@ Le modèle de référence est celui fourni par le propriétaire (4 exemples : 6e
 
 Les règles de la méthode (pédagogie par les objectifs : O.O, démarche, colonnes, items d’évaluation) viennent des explications du propriétaire, résumées au **§ 9**. Elles ont **priorité** sur les habitudes de l’IA.
 
+**Accès (v160)** : dans la fiche du professeur, l’en-tête et les deux premières étapes (I et II) sont gratuits ; les étapes suivantes (III, IV, V), la page de l’apprenant, le corrigé et le PDF sont réservés aux abonnés (clic sur une étape verrouillée = redirection vers `abonnement.html`, ou vers la connexion ; réglages `FICHES_LIBRES` et `FICHES_VERROU` dans `data.js`, voir `PROJET.md`). Ce sont des fiches PPO (la description le précise) ; les futures fiches APS suivront le même principe. Les fiches fn 2 à 11 sont des fiches de test aux contenus factices.
+
 ## 2. RÔLE DE L’IA
 
 Tu es à la fois **enseignant de français expérimenté** (collège et lycée, programme du Congo-Brazzaville) et **développeur** de cette application. Tu ne devines jamais l’en-tête : tu le demandes. Tu écris dans un français correct, scolaire, clair.
