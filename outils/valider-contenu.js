@@ -176,7 +176,7 @@ for(const name of listeJson(dir,[]).sort((a,b)=>(parseInt(base(a))||0)-(parseInt
  if(!demo){
   const d=ALLDOCS.find(x=>x.id===j.id);
   if(!d){err(name,"id "+j.id+" absent du catalogue (lancer node outils/generer-pages.js)");continue}
-  const attendu=d.k==="Annales"?"annale-"+d.an+".json":d.k==="Exercices"?"exercice-"+d.ex+".json":d.k==="Évaluations"?"evaluation-"+d.ev+".json":j.id+".json";
+  const attendu=d.k==="Annales"?"annale-"+d.an+".json":d.k==="Exercices"?"exercice-"+d.ex+".json":d.k==="Évaluations"?"evaluation-"+d.ev+".json":d.k==="Programmes"?"programme-"+d.pg+".json":j.id+".json";
   if(base(name)!==attendu)err(name,"le nom du fichier doit être "+attendu);
   if(d.k==="Annales"&&j.sections.length<2)warn(name,"une annale a normalement au moins 2 parties (énoncé, corrigé)");
   if(d.k==="Exercices"&&j.sections.length<2)warn(name,"une série d’exercices a normalement au moins 2 parties (exercices, corrigés)");

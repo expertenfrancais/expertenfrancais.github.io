@@ -6,10 +6,11 @@
      contenu/annales/<cycle>/annale-<an>.json   (type Annales ; id = 20000 + an)
      contenu/exercices/<cycle>/exercice-<ex>.json (type Exercices ; id = 30000 + ex)
      contenu/evaluations/<cycle>/evaluation-<ev>.json (type Évaluations ; id = 40000 + ev)
+     contenu/programmes/<cycle>/programme-<pg>.json (type Programmes ; id = 50000 + pg)
    Pour ajouter un document : déposer son fichier dans le bon dossier, puis lancer  node outils/generer-pages.js
    (le générateur réécrit le bloc /*CATALOGUE-AUTO:DEBUT*\/ … /*CATALOGUE-AUTO:FIN*\/ de data.js : ne pas le modifier à la main). */
 const fs=require("fs"),path=require("path");
-const TYPE_DIR={Cours:"cours",Fiches:"fiches",Annales:"annales",Exercices:"exercices","Évaluations":"evaluations"};   /* type -> dossier de contenu/ (à compléter avec les futurs types) */
+const TYPE_DIR={Cours:"cours",Fiches:"fiches",Annales:"annales",Exercices:"exercices","Évaluations":"evaluations",Programmes:"programmes"};   /* type -> dossier de contenu/ (à compléter avec les futurs types) */
 const DEB="/*CATALOGUE-AUTO:DEBUT",FIN="/*CATALOGUE-AUTO:FIN*/";
 
 function walk(dir,out){
@@ -38,6 +39,8 @@ function lireCatalogue(root){
    if(j.id!==30000+m.ex){errs.push([rel,"id : 30000 + meta.ex attendu (soit "+(30000+m.ex)+")"]);return}d.ex=m.ex}
   if(k==="Évaluations"){if(!Number.isInteger(m.ev)||m.ev<1){errs.push([rel,"meta.ev : numéro d’évaluation (1, 2, 3…) attendu"]);return}
    if(j.id!==40000+m.ev){errs.push([rel,"id : 40000 + meta.ev attendu (soit "+(40000+m.ev)+")"]);return}d.ev=m.ev}
+  if(k==="Programmes"){if(!Number.isInteger(m.pg)||m.pg<1){errs.push([rel,"meta.pg : numéro de programme (1, 2, 3…) attendu"]);return}
+   if(j.id!==50000+m.pg){errs.push([rel,"id : 50000 + meta.pg attendu (soit "+(50000+m.pg)+")"]);return}d.pg=m.pg}
   if(k!=="Fiches"&&Array.isArray(j.sections))d.s=j.sections.map(s=>String(s&&s.t||""));
   docs.push(d)}));
  docs.sort((a,b)=>a.id-b.id);
@@ -51,6 +54,7 @@ function ligne(d){
  if(d.an!==undefined)p.push("an:"+d.an);
  if(d.ex!==undefined)p.push("ex:"+d.ex);
  if(d.ev!==undefined)p.push("ev:"+d.ev);
+ if(d.pg!==undefined)p.push("pg:"+d.pg);
  p.push("img:IMG."+d.img,"t:"+q(d.t),"k:"+q(d.k),"n:"+q(d.n),"m:"+q(d.m),"pr:25","r:"+d.r);
  if(d.s)p.push("s:["+d.s.map(t=>"{t:"+q(t)+"}").join(",")+"]");
  return " {"+p.join(",")+"}"}

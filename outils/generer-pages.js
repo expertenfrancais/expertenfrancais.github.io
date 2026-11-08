@@ -144,7 +144,7 @@ function pageFiche(d,html){
  out=out.replace('<script src="../../course.js"></script>','<script src="../../course.js"></script>\n<script>/* Fiche : le bouton du bas ouvre la fiche, pas le PDF d’un cours */\ntry{if(canAccess(DOC_ID)){var g=document.getElementById("go");if(g){g.innerHTML=\'<span>Ouvrir la fiche</span><i>\'+\''+svg(CHEV).replace(/'/g,"\\'")+'\'+\'</i>\';g.onclick=function(){location.href=PAGE_BASE+"fiche.html?n="+FICHE_N}}}}catch(e){}</script>');
  return out}
 
-const DIRS=["cours","fiches","annales","exercices","evaluations"].map(n=>path.join(root,n));DIRS.forEach(x=>fs.mkdirSync(x,{recursive:true}));
+const DIRS=["cours","fiches","annales","exercices","evaluations","programmes"].map(n=>path.join(root,n));DIRS.forEach(x=>fs.mkdirSync(x,{recursive:true}));
 const keep=new Set(ALLDOCS.map(docFile));
 /* Supprime les pages qui ne sont plus dans le catalogue (aussi celles de l’ancien dossier à plat), puis les dossiers vides */
 function clean(d){
@@ -163,8 +163,8 @@ fs.writeFileSync(swp,sw);
 
 if(SITE){
  const root_pages=["index.html","catalogue.html","abonnement.html"];
- const urls=root_pages.map(p=>SITE+"/"+p).concat(ALLDOCS.filter(d=>d.k!=="Fiches"&&d.k!=="Évaluations").map(d=>SITE+"/"+docFile(d)));
+ const urls=root_pages.map(p=>SITE+"/"+p).concat(ALLDOCS.filter(d=>d.k!=="Fiches"&&d.k!=="Évaluations"&&d.k!=="Programmes").map(d=>SITE+"/"+docFile(d)));
  fs.writeFileSync(path.join(root,"sitemap.xml"),'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+urls.map(u=>"  <url><loc>"+esc(u)+"</loc></url>").join("\n")+"\n</urlset>\n");
- fs.writeFileSync(path.join(root,"robots.txt"),"User-agent: *\nAllow: /cours/\nAllow: /annales/\nAllow: /exercices/\nDisallow: /evaluations/\nDisallow: /cycles.html\nDisallow: /lecon.html\nDisallow: /fiche.html\nDisallow: /fiches/\nDisallow: /pdf.html\nDisallow: /profil.html\nDisallow: /panier.html\nDisallow: /login-app.html\n\nSitemap: "+SITE+"/sitemap.xml\n");
+ fs.writeFileSync(path.join(root,"robots.txt"),"User-agent: *\nAllow: /cours/\nAllow: /annales/\nAllow: /exercices/\nDisallow: /evaluations/\nDisallow: /programmes/\nDisallow: /cycles.html\nDisallow: /lecon.html\nDisallow: /fiche.html\nDisallow: /fiches/\nDisallow: /pdf.html\nDisallow: /profil.html\nDisallow: /panier.html\nDisallow: /login-app.html\n\nSitemap: "+SITE+"/sitemap.xml\n");
 }
-console.log(ALLDOCS.length+" pages générées dans cours/, fiches/, annales/, exercices/ et evaluations/ ("+Object.keys(CYCLE_INFO).map(c=>CYCLE_INFO[c].dir+": "+ALLDOCS.filter(d=>d.c===c).length).join(", ")+")"+(SITE?" + sitemap.xml et robots.txt":" (aucune adresse de site donnée : pas de sitemap.xml)"));
+console.log(ALLDOCS.length+" pages générées dans cours/, fiches/, annales/, exercices/, evaluations/ et programmes/ ("+Object.keys(CYCLE_INFO).map(c=>CYCLE_INFO[c].dir+": "+ALLDOCS.filter(d=>d.c===c).length).join(", ")+")"+(SITE?" + sitemap.xml et robots.txt":" (aucune adresse de site donnée : pas de sitemap.xml)"));
