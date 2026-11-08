@@ -99,9 +99,9 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .cbtn{display:flex;align-items:center;gap:14px;min-height:64px;padding:10px 0;color:inherit;text-decoration:none;width:100%}
 .cbtn+.cbtn{border-top:1px solid rgba(140,111,224,.14)}
 .mf label{display:block;margin:14px 4px 6px;font-size:12px;font-weight:600;color:var(--sub)}
-.mf select,.mf textarea{width:100%;border:2px solid transparent;border-radius:20px;background:var(--card);color:var(--ink);font:inherit;font-size:14.5px;padding:12px 14px;outline:0;box-shadow:0 6px 14px rgba(90,60,170,.08)}
+.mf input,.mf select,.mf textarea{width:100%;border:2px solid transparent;border-radius:20px;background:var(--card);color:var(--ink);font:inherit;font-size:14.5px;padding:12px 14px;outline:0;box-shadow:0 6px 14px rgba(90,60,170,.08)}
 .mf textarea{min-height:120px;resize:vertical;line-height:1.45}
-.mf select:focus,.mf textarea:focus{border-color:var(--p1)}
+.mf input:focus,.mf select:focus,.mf textarea:focus{border-color:var(--p1)}
 .send{width:100%;height:50px;margin-top:14px;border:0;border-radius:25px;font-weight:600;font-size:15px;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2));box-shadow:0 6px 12px rgba(130,100,220,.4)}
 .faq details{border-top:1px solid rgba(140,111,224,.14);padding:2px 0}
 .faq details:first-child{border-top:0}
@@ -125,6 +125,10 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 
     <h2 class="sec">Écrire un message</h2>
     <div class="mf">
+      <label for="cfirst">Prénom</label>
+      <input id="cfirst" type="text" maxlength="40" autocomplete="given-name" placeholder="Votre prénom">
+      <label for="clast">Nom</label>
+      <input id="clast" type="text" maxlength="40" autocomplete="family-name" placeholder="Votre nom de famille">
       <label for="subj">Sujet</label>
       <select id="subj">
         <option>Question sur un cours</option>
@@ -142,7 +146,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
     <h2 class="sec">Questions fréquentes</h2>
     <div class="group faq">
       <details><summary>Comment acheter un cours ?</summary><p>Pour le moment, tous les cours et toutes les ressources sont gratuits : ouvrez simplement le cours de votre choix. Les paiements seront bientôt disponibles.</p></details>
-      <details><summary>Comment m’abonner ?</summary><p>Les abonnements seront bientôt disponibles. En attendant, l’accès à tout le contenu est gratuit.</p></details>
+      <details><summary>Comment m’abonner ?</summary><p>Écrivez-nous avec ce formulaire (sujet « Paiement ou abonnement »). Après votre paiement, nous vous envoyons un code d’activation personnel et à usage unique. Saisissez-le dans la page Abonnement : votre abonnement démarre aussitôt. Pour le moment, l’accès à tout le contenu reste gratuit.</p></details>
       <details><summary>Comment installer l’application ?</summary><p>Sur Android, ouvrez le menu de votre navigateur et choisissez « Installer l’application » ou « Ajouter à l’écran d’accueil ». Sur iPhone, touchez Partager, puis « Sur l’écran d’accueil ».</p></details>
       <details><summary>Puis-je lire sans internet ?</summary><p>Oui, pour les pages que vous avez déjà ouvertes avec une connexion. Ouvrez un cours une première fois en ligne pour le retrouver ensuite hors connexion.</p></details>
       <details><summary>J’ai changé de téléphone : où sont mes achats ?</summary><p>Pour l’instant, vos achats, favoris et progression sont enregistrés sur l’appareil. Écrivez-nous en indiquant votre nom et vos achats, nous vous aiderons à les retrouver.</p></details>
@@ -177,15 +181,18 @@ $("ways").innerHTML=W.length?W.map(function(w){
  return '<a class="cbtn" href="'+esc(w[0])+'"'+(w[1]==="chat"?' target="_blank" rel="noopener"':"")+'><span class="ri">'+ic(w[1])+'</span><span class="rt"><b>'+w[2]+'</b><small>'+esc(w[3])+'</small></span><span class="chev">'+ico("chev",22)+'</span></a>'}).join(""):
  '<p class="soon">Nos coordonnées de contact seront bientôt disponibles. En attendant, consultez les questions fréquentes ci-dessous.</p>';
 
+var cp=userProfile();$("cfirst").value=cp.first||"";$("clast").value=cp.last||"";
 $("send").onclick=function(){
  var m=$("msg").value.trim();
  if(!m)return toast("Écrivez votre message");
- var who=(userName()||"")+" ("+ROLES[ROLE]+")",
+ var full=($("cfirst").value.trim()+" "+$("clast").value.trim()).trim(),
+     who=(full||userName()||"")+(full&&userName()&&userName()!==full?" (affiché : "+userName()+")":"")+" ("+ROLES[ROLE]+")",
      txt="["+$("subj").value+"] "+m+"\n\n— "+who;
  if(CONTACT.whatsapp){window.open("https://wa.me/"+CONTACT.whatsapp.replace(/\D/g,"")+"?text="+encodeURIComponent(txt),"_blank")}
  else if(CONTACT.email){location.href="mailto:"+CONTACT.email+"?subject="+encodeURIComponent($("subj").value+" — Expert en français")+"&body="+encodeURIComponent(txt)}
  else toast("Contact non configuré pour l’instant")};
-drawNav(-1);
+$("nav").onclick=navClick;drawNav(-1);
+if(/[?&]sujet=abonnement/.test(location.search)){var sj=document.getElementById("subj");if(sj)sj.selectedIndex=1}
 </script>
 </body>
 </html>

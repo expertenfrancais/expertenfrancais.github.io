@@ -12,13 +12,14 @@ var BASE=(typeof PAGE_BASE!=="undefined")?PAGE_BASE:"";
    ATTENTION : ce filtrage se fait sur l’appareil. Avec un serveur, le rôle doit venir du compte
    et l’accès aux documents doit être contrôlé côté serveur. */
 var GRATUIT=true; /* true = tout est gratuit pour tout le monde, paiements et abonnements « bientôt disponibles ». Mettre false pour réactiver achats et abonnements. */
+var ACHAT=false; /* false = pas d’achat à l’unité : seul l’abonnement par code d’activation donne accès aux parties payantes */
 var DEMO=true; /* mettre false avec un vrai serveur : les achats restent « en attente » jusqu’à confirmation du paiement */
 /* ===== Abonnement =====
    Formules prépayées (pas de renouvellement automatique). À brancher sur le serveur : l’état « sub » doit venir du compte. */
 /* Prix selon le profil de l’appareil (élève et étudiant = même profil « eleve »).
-   Élève / étudiant : mensuel 1000, trimestriel 2500, annuel 5000. Enseignant : mensuel 2500, trimestriel 5000, annuel 10000. */
+   Élève / étudiant : mensuel 1000, trimestriel 2000, annuel 3000. Enseignant : mensuel 2500, trimestriel 5000, annuel 10000. */
 var EST_ELEVE=userRole()!=="enseignant"; /* élève, étudiant et particulier : mêmes tarifs */
-var PLANS=[{id:"mois",n:"Mensuel",d:30,pr:EST_ELEVE?1000:2500},{id:"trim",n:"Trimestriel",d:90,pr:EST_ELEVE?2500:5000},{id:"an",n:"Annuel",d:365,pr:EST_ELEVE?5000:10000}];
+var PLANS=[{id:"mois",n:"Mensuel",d:30,pr:EST_ELEVE?1000:2500},{id:"trim",n:"Trimestriel",d:90,pr:EST_ELEVE?2000:5000},{id:"an",n:"Annuel",d:365,pr:EST_ELEVE?3000:10000}]; /* élève : 1000 / 2000 / 3000 ; enseignant : 2500 / 5000 / 10000. À garder identiques à public.formule() dans supabase/03-abonnement-codes.sql */
 function isSubscribed(){var s=ls("sub",{});return !!s.end&&Date.parse(s.end)>Date.now()}
 function canAccess(id){return GRATUIT||isSubscribed()||ls("bought",[]).indexOf(id)>-1}
 function fmtDate(iso){return new Date(iso).toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})}
@@ -168,6 +169,23 @@ var ALLDOCS=[
  {id:56,img:IMG.g,t:"La proposition subordonnée complétive",k:"Cours",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’une proposition subordonnée complétive ?"},{t:"La complétive introduite par « que »"},{t:"Les fonctions de la complétive"},{t:"Le mode du verbe : indicatif ou subjonctif ?"},{t:"La complétive interrogative indirecte"},{t:"Ne pas confondre complétive et relative"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:57,img:IMG.h,t:"Les valeurs modales : l’indicatif",k:"Cours",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un mode et que dit-il du locuteur ?"},{t:"L’indicatif, le mode du réel et du certain"},{t:"Le présent et le futur : leurs valeurs modales"},{t:"L’imparfait et le plus-que-parfait : valeurs modales"},{t:"L’indicatif dans la proposition subordonnée"},{t:"Indicatif ou subjonctif ? Choisir le bon mode"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:58,img:IMG.b,t:"Les formes verbales : formes interrogatives et interro-négatives",k:"Cours",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel : la phrase interrogative et ses formes"},{t:"Les trois manières de poser une question"},{t:"L’inversion du sujet : les règles"},{t:"L’interrogation aux temps composés, avec pronoms et verbes pronominaux"},{t:"La forme interro-négative"},{t:"Répondre à une question : oui, non, si"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:59,img:IMG.f,t:"La préposition",k:"Cours",n:"CM2",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’une préposition ?"},{t:"Les principales prépositions"},{t:"Le rôle de la préposition"},{t:"L’emploi de la préposition dans la phrase"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:60,img:IMG.b,t:"La conjonction",k:"Cours",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’une conjonction ?"},{t:"Les conjonctions de coordination"},{t:"Les conjonctions de subordination"},{t:"Ce qu’expriment les conjonctions de subordination"},{t:"Rôle et emploi de la conjonction dans la phrase"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:61,img:IMG.c,t:"La dérivation",k:"Cours",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Qu’est-ce que la dérivation ?"},{t:"Les préfixes et les suffixes"},{t:"La famille de mots"},{t:"La dérivation impropre"},{t:"Les mots dérivés et leur classe"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:62,img:IMG.d,t:"La composition",k:"Cours",n:"4e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Qu’est-ce que la composition ?"},{t:"L’écriture des mots composés"},{t:"Les natures des mots composés"},{t:"Le pluriel des mots composés"},{t:"La composition savante"},{t:"Composition ou dérivation ?"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:63,img:IMG.e,t:"Les champs lexicaux",k:"Cours",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un champ lexical ?"},{t:"Champ lexical et famille de mots"},{t:"Les champs lexicaux courants"},{t:"Le champ lexical dans un texte"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:64,img:IMG.f,t:"Les champs sémantiques",k:"Cours",n:"4e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un champ sémantique ?"},{t:"Polysémie et homonymie"},{t:"Le sens dans le contexte"},{t:"Champ sémantique et champ lexical"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:65,img:IMG.b,t:"Les champs lexicaux",k:"Cours",n:"6e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un champ lexical ?"},{t:"Des mots de natures différentes"},{t:"Champ lexical et famille de mots"},{t:"Les champs lexicaux courants"},{t:"Repérer un champ lexical dans un texte"},{t:"Utiliser les champs lexicaux pour mieux écrire"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:66,img:IMG.c,t:"Les champs sémantiques",k:"Cours",n:"6e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un champ sémantique ?"},{t:"Un mot, plusieurs sens"},{t:"Sens propre et sens figuré"},{t:"Trouver le bon sens grâce au contexte"},{t:"Champ sémantique et champ lexical"},{t:"Utiliser le dictionnaire"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:67,img:IMG.c,t:"Les homophones grammaticaux : a / à, et / est, son / sont, on / ont, ou / où",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un homophone grammatical ?"},{t:"a ou à ?"},{t:"et ou est ?"},{t:"son ou sont ?"},{t:"on ou ont ?"},{t:"ou ou où ?"},{t:"Les cinq tests réunis"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:68,img:IMG.d,t:"L’accord des déterminants et des noms",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"L’accord dans le groupe nominal"},{t:"Le genre des noms"},{t:"Le féminin des noms"},{t:"Le pluriel des noms : la règle générale"},{t:"Le pluriel des noms en -al, -ail et les cas particuliers"},{t:"L’accord des déterminants avec le nom"},{t:"Les déterminants numéraux et indéfinis"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:69,img:IMG.e,t:"Les terminaisons verbales en -é, -er, -ait, -ez",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Un même son, plusieurs écritures"},{t:"L’infinitif en -er ou le participe passé en -é ?"},{t:"Après quels mots écrit-on l’infinitif ?"},{t:"La terminaison -ez"},{t:"-ait, -aient et l’imparfait"},{t:"La méthode pour ne plus se tromper"},{t:"Pièges à éviter"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:70,img:IMG.f,t:"Les homophones lexicaux : mer / mère / maire, ver / verre / vert / vers",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un homophone lexical ?"},{t:"mer, mère, maire"},{t:"ver, verre, vert, vers"},{t:"sain, saint, sein"},{t:"cent, sans, sang, s’en"},{t:"cour, cours, court / mur, mûr, mûre"},{t:"Autres homophones fréquents"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:71,img:IMG.g,t:"L’accord du verbe avec son sujet",k:"Cours",n:"5e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Le principe de l’accord sujet-verbe"},{t:"Le sujet éloigné du verbe"},{t:"Le sujet placé après le verbe"},{t:"Le sujet est un pronom relatif (qui)"},{t:"Plusieurs sujets"},{t:"Sujets collectifs, indéfinis et quantités"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:72,img:IMG.h,t:"L’accord du participe passé",k:"Cours",n:"4e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Qu’est-ce que le participe passé ?"},{t:"Le participe passé employé seul"},{t:"Le participe passé avec l’auxiliaire être"},{t:"Le participe passé avec l’auxiliaire avoir"},{t:"Le participe passé des verbes pronominaux"},{t:"Quelques cas particuliers"},{t:"La méthode pour accorder le participe passé"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:73,img:IMG.a,t:"Les mots invariables : adverbes, prépositions, conjonctions",k:"Cours",n:"5e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Qu’est-ce qu’un mot invariable ?"},{t:"Les adverbes"},{t:"Les prépositions"},{t:"Les conjonctions"},{t:"Les mots invariables piégeux"},{t:"Mémoriser les mots invariables"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:74,img:IMG.b,t:"Les consonnes doubles",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Pourquoi y a-t-il des consonnes doubles ?"},{t:"Les mots commençant par ap-, ac-, af-, ef-, of-, at-"},{t:"Les préfixes négatifs : il-, im-, ir-, inn-"},{t:"Les consonnes doubles à l’intérieur des mots"},{t:"Les verbes qui doublent la consonne"},{t:"Astuces pour retenir les consonnes doubles"},{t:"Exercices d’application"},{t:"À retenir"}]},
+ {id:75,img:IMG.c,t:"Les homophones ce / se, ces / ses",k:"Cours",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Quatre mots, deux paires à ne pas confondre"},{t:"ce : déterminant ou pronom"},{t:"se : pronom personnel"},{t:"ces : déterminant démonstratif pluriel"},{t:"ses : déterminant possessif pluriel"},{t:"Les quatre ensemble : comment choisir ?"},{t:"Exercices d’application"},{t:"À retenir"}]},
  {id:10001,fn:1,img:IMG.e,t:"Le groupe verbal : verbe + cc",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
  {id:20002,an:2,img:IMG.b,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20003,an:3,img:IMG.b,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
@@ -193,9 +211,80 @@ var ALLDOCS=[
  {id:30019,ex:19,img:IMG.b,t:"La préfixation : exercices",k:"Exercices",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
  {id:30020,ex:20,img:IMG.c,t:"La proposition subordonnée complétive : exercices",k:"Exercices",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
  {id:30021,ex:21,img:IMG.d,t:"Le passé antérieur : exercices",k:"Exercices",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30022,ex:22,img:IMG.a,t:"Les conjonctions : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30023,ex:23,img:IMG.b,t:"La phrase simple : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30024,ex:24,img:IMG.d,t:"Les groupes de verbes : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30025,ex:25,img:IMG.f,t:"Les voix active et passive : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30026,ex:26,img:IMG.g,t:"La suffixation : exercices",k:"Exercices",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30027,ex:27,img:IMG.h,t:"Les présentatifs : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30028,ex:28,img:IMG.e,t:"La phrase et ses constituants : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30029,ex:29,img:IMG.f,t:"Le groupe verbal : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30030,ex:30,img:IMG.b,t:"Les types de phrases : exercices",k:"Exercices",n:"CM2",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30031,ex:31,img:IMG.a,t:"Les fonctions grammaticales : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30032,ex:32,img:IMG.d,t:"La nature et la fonction des mots : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30033,ex:33,img:IMG.e,t:"La phrase complexe : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30034,ex:34,img:IMG.d,t:"La proposition principale et la proposition subordonnée : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30035,ex:35,img:IMG.a,t:"La notion de verbe : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30036,ex:36,img:IMG.g,t:"Les degrés de qualification : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30037,ex:37,img:IMG.c,t:"Les modes personnels et impersonnels : exercices",k:"Exercices",n:"5e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30038,ex:38,img:IMG.e,t:"Les temps simples : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30039,ex:39,img:IMG.f,t:"La conjugaison : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30040,ex:40,img:IMG.g,t:"Les termes génériques et spécifiques : exercices",k:"Exercices",n:"6e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30041,ex:41,img:IMG.h,t:"La phrase déclarative : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30042,ex:42,img:IMG.a,t:"Les valeurs et l’emploi du présent : exercices",k:"Exercices",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30043,ex:43,img:IMG.b,t:"La phrase exclamative : exercices",k:"Exercices",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30044,ex:44,img:IMG.c,t:"L’analyse du sujet et la recherche des idées : exercices",k:"Exercices",n:"6e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30045,ex:45,img:IMG.d,t:"Les champs lexicaux : exercices",k:"Exercices",n:"6e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30046,ex:46,img:IMG.e,t:"Les champs sémantiques : exercices",k:"Exercices",n:"6e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30047,ex:47,img:IMG.f,t:"La dérivation : exercices",k:"Exercices",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30048,ex:48,img:IMG.g,t:"Les temps composés : exercices",k:"Exercices",n:"5e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30049,ex:49,img:IMG.h,t:"Le groupe nominal : déterminant, nom et complément du nom : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30050,ex:50,img:IMG.a,t:"Le groupe nominal : déterminant, nom et adjectif qualificatif : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30051,ex:51,img:IMG.b,t:"Le groupe verbal : verbe et complément circonstanciel : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
+ {id:30052,ex:52,img:IMG.c,t:"La conjonction : exercices",k:"Exercices",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Rappel de cours"},{t:"Exercices d’échauffement"},{t:"Exercices d’approfondissement"},{t:"Exercices de synthèse"}]},
  {id:40001,ev:1,img:IMG.d,t:"Devoir n° 1 : Le groupe nominal",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
  {id:40002,ev:2,img:IMG.e,t:"Devoir n° 2 : Le présent de l’indicatif",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
  {id:40003,ev:3,img:IMG.f,t:"Composition du 1er trimestre : La phrase complexe",k:"Évaluations",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40004,ev:4,img:IMG.a,t:"Devoir n° 4 : La phrase et ses constituants",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40005,ev:5,img:IMG.b,t:"Devoir n° 5 : Les compléments d’objet (COD et COI)",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40006,ev:6,img:IMG.c,t:"Devoir n° 6 : Les compléments circonstanciels",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40007,ev:7,img:IMG.d,t:"Devoir n° 7 : Les déterminants",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40008,ev:8,img:IMG.e,t:"Devoir n° 8 : Les pronoms",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40009,ev:9,img:IMG.f,t:"Devoir n° 9 : Les fonctions grammaticales",k:"Évaluations",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40010,ev:10,img:IMG.g,t:"Devoir n° 10 : Le sujet et ses différentes formes",k:"Évaluations",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40011,ev:11,img:IMG.h,t:"Devoir n° 11 : La proposition principale et la proposition subordonnée",k:"Évaluations",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40012,ev:12,img:IMG.a,t:"Devoir n° 12 : La proposition subordonnée relative",k:"Évaluations",n:"4e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40013,ev:13,img:IMG.b,t:"Devoir n° 13 : La proposition subordonnée complétive",k:"Évaluations",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40014,ev:14,img:IMG.c,t:"Devoir n° 14 : Les groupes de verbes",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40015,ev:15,img:IMG.d,t:"Devoir n° 15 : L’imparfait de l’indicatif",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40016,ev:16,img:IMG.e,t:"Devoir n° 16 : Le futur simple",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40017,ev:17,img:IMG.f,t:"Devoir n° 17 : Le passé composé",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40018,ev:18,img:IMG.g,t:"Devoir n° 18 : Les valeurs et l’emploi du présent",k:"Évaluations",n:"6e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40019,ev:19,img:IMG.h,t:"Devoir n° 19 : Les temps composés",k:"Évaluations",n:"5e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40020,ev:20,img:IMG.a,t:"Devoir n° 20 : Le plus-que-parfait",k:"Évaluations",n:"5e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40021,ev:21,img:IMG.b,t:"Devoir n° 21 : Les modes personnels et impersonnels",k:"Évaluations",n:"5e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40022,ev:22,img:IMG.c,t:"Devoir n° 22 : Le passé antérieur",k:"Évaluations",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40023,ev:23,img:IMG.d,t:"Devoir n° 23 : Les valeurs modales de l’indicatif",k:"Évaluations",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40024,ev:24,img:IMG.a,t:"Devoir n° 24 : Les prépositions",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40025,ev:25,img:IMG.b,t:"Devoir n° 25 : Les conjonctions",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40026,ev:26,img:IMG.c,t:"Devoir n° 26 : Les présentatifs",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40027,ev:27,img:IMG.d,t:"Devoir n° 27 : L’adjectif qualificatif et ses fonctions",k:"Évaluations",n:"6e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40028,ev:28,img:IMG.e,t:"Devoir n° 28 : Le sens propre et le sens figuré",k:"Évaluations",n:"6e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40029,ev:29,img:IMG.f,t:"Devoir n° 29 : Les homophones grammaticaux",k:"Évaluations",n:"6e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40030,ev:30,img:IMG.g,t:"Devoir n° 30 : Les formes de phrases",k:"Évaluations",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40031,ev:31,img:IMG.h,t:"Devoir n° 31 : Les degrés de qualification",k:"Évaluations",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40032,ev:32,img:IMG.a,t:"Devoir n° 32 : L’accord de l’adjectif qualificatif",k:"Évaluations",n:"5e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40033,ev:33,img:IMG.b,t:"Devoir n° 33 : Les voix active et passive",k:"Évaluations",n:"5e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40034,ev:34,img:IMG.c,t:"Devoir n° 34 : La préfixation",k:"Évaluations",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40035,ev:35,img:IMG.d,t:"Devoir n° 35 : La suffixation",k:"Évaluations",n:"5e",m:"Vocabulaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40036,ev:36,img:IMG.e,t:"Devoir n° 36 : L’accord du verbe avec son sujet",k:"Évaluations",n:"5e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40037,ev:37,img:IMG.f,t:"Devoir n° 37 : La proposition indépendante",k:"Évaluations",n:"4e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40038,ev:38,img:IMG.g,t:"Devoir n° 38 : La coordination, la juxtaposition et la subordination",k:"Évaluations",n:"4e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40039,ev:39,img:IMG.h,t:"Devoir n° 39 : Le discours direct et le discours indirect",k:"Évaluations",n:"4e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40040,ev:40,img:IMG.a,t:"Devoir n° 40 : Les figures de style",k:"Évaluations",n:"4e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40041,ev:41,img:IMG.b,t:"Devoir n° 41 : L’accord du participe passé",k:"Évaluations",n:"4e",m:"Orthographe",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40042,ev:42,img:IMG.c,t:"Devoir n° 42 : Le discours direct, le discours indirect et le discours indirect libre",k:"Évaluations",n:"3e",m:"Grammaire",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
+ {id:40043,ev:43,img:IMG.d,t:"Devoir n° 43 : Les formes interrogatives et interro-négatives",k:"Évaluations",n:"3e",m:"Conjugaison",pr:25,r:4.8,s:[{t:"Énoncé de l’évaluation"},{t:"Corrigé détaillé"},{t:"Barème et grille de correction"}]},
  {id:50001,pg:1,img:IMG.e,t:"Programme APS 6e · Répartition annuelle",k:"Programmes",n:"6e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"}]},
  {id:50002,pg:2,img:IMG.e,t:"Programme APS 6e · Guide pédagogique",k:"Programmes",n:"6e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation du guide"}]},
  {id:50003,pg:3,img:IMG.e,t:"Programme APS 5e · Répartition annuelle",k:"Programmes",n:"5e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"}]},
@@ -357,8 +446,8 @@ function cardHTML(d){
   '<span class="rate">'+ico("star",12)+d.r.toFixed(1)+'</span><span class="tag">'+esc(d.m)+'</span>'+
   '<button class="fav" data-f="'+d.id+'" aria-pressed="'+f+'" aria-label="Favori">'+ico("heart",18)+'</button></div>'+
   '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">'+esc(d.k)+' · '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:#7a5cd0;text-decoration:none">Voir les détails ›</a>'+
-  '<div class="r2">'+(acc?'<div class="price"><b>'+(GRATUIT?"Gratuit":inc?"Inclus":"Acheté")+'</b></div><button class="add in" data-o="'+d.id+'" aria-label="Ouvrir">'+ico("dl",20)+'</button>':'<div class="price"><b>'+price(d.pr)+'</b></div>'+
-  '<button class="add'+(c?" in":"")+'" data-c="'+d.id+'" aria-label="'+(c?"Retirer du panier":"Ajouter au panier")+'">'+ico(c?"check":"plus",20)+'</button>')+'</div></div></article>'}
+  '<div class="r2">'+(acc?'<div class="price"><b>'+(GRATUIT?"Gratuit":inc?"Inclus":"Acheté")+'</b></div><button class="add in" data-o="'+d.id+'" aria-label="Ouvrir">'+ico("dl",20)+'</button>':'<div class="price"><b>'+(ACHAT?price(d.pr):"Abonnés")+'</b></div>'+
+  (ACHAT?'<button class="add'+(c?" in":"")+'" data-c="'+d.id+'" aria-label="'+(c?"Retirer du panier":"Ajouter au panier")+'">'+ico(c?"check":"plus",20)+'</button>':'<button class="add in" data-o="'+d.id+'" aria-label="Voir">'+ico("dl",20)+'</button>'))+'</div></div></article>'}
 
 /* ===== Rangement par catégorie =====
    Les documents ne sont plus empilés dans une seule longue liste : ils sont rangés par catégorie (type)
@@ -494,7 +583,32 @@ var SYNC_KEYS=["favs","cart","studied","parts","scores","rates"];
     var ch2=apply(rd);localStorage.setItem("sync_at",row.updated_at);if(ch2)location.reload()})
   }).catch(function(){}).then(function(){busy=false})}
  window.syncMark=mark;
- window.syncOn=on;
+ window.syncOn=on;window.sbToken=token;
  window.syncBeforeLogout=function(){return Promise.race([localStorage.getItem("sync_dirty")?push():Promise.resolve(),new Promise(function(r){setTimeout(r,2500)})])};
  document.addEventListener("visibilitychange",function(){if(document.visibilityState==="hidden"&&localStorage.getItem("sync_dirty"))push(true)});
  if(typeof setTimeout==="function"&&typeof sessionStorage!=="undefined")setTimeout(start,800)})();
+
+/* ===== Abonnement par codes d'activation (Supabase) =====
+   L'abonnement est enregistré sur le compte (table abonnements, script supabase/03-abonnement-codes.sql) ; l'appareil n'en garde qu'une copie.
+   ATTENTION : tant que les parties payantes restent des fichiers publics, cette copie locale protège l'interface, pas les fichiers. */
+(function(){
+ function jget(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}}
+ window.sbRpc=function(name,args){
+  if(!window.syncOn||!syncOn()||!window.sbToken)return Promise.reject(new Error("connexion"));
+  var c=jget("sb_conf");
+  return sbToken().then(function(t){return fetch(c.u+"/rest/v1/rpc/"+name,{method:"POST",headers:{"apikey":c.k,"Authorization":"Bearer "+t,"Content-Type":"application/json"},body:JSON.stringify(args||{})})})
+   .then(function(r){if(!r.ok)throw new Error("http"+r.status);return r.json()})};
+ /* Relit l'abonnement du compte (au plus toutes les 3 min, sauf force) ; renvoie true si la copie locale a changé */
+ window.subRefresh=function(force){
+  if(!window.syncOn||!syncOn()||!window.sbToken)return Promise.resolve(false);
+  var last=+sessionStorage.getItem("sub_t")||0;
+  if(!force&&Date.now()-last<180000)return Promise.resolve(false);
+  sessionStorage.setItem("sub_t",String(Date.now()));
+  return sbToken().then(function(t){var c=jget("sb_conf"),s=jget("sb_session");
+   return fetch(c.u+"/rest/v1/abonnements?select=plan,fin&user_id=eq."+encodeURIComponent(s.user_id),{headers:{"apikey":c.k,"Authorization":"Bearer "+t}})})
+   .then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(rows){
+    var old=localStorage.getItem("sub"),n=rows[0]?JSON.stringify({plan:rows[0].plan,end:rows[0].fin}):null;
+    if(old===n)return false;
+    if(n===null)localStorage.removeItem("sub");else localStorage.setItem("sub",n);return true})
+   .catch(function(){return false})};
+ if(typeof setTimeout==="function"&&typeof sessionStorage!=="undefined"&&typeof PAGE_ABO==="undefined")setTimeout(function(){subRefresh().then(function(ch){if(ch)location.reload()})},1200)})();

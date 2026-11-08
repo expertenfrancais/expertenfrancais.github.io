@@ -144,7 +144,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 <div class="app">
   <header class="top">
     <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small>Explorez le</small><b>Catalogue</b></div></div>
-    <button class="ib" id="bell" type="button" aria-label="Notifications"><svg id="i-bell" width="22" height="22" viewBox="0 0 24 24"></svg></button>
+    <button class="ib" id="set" type="button" aria-label="Paramètres"><svg id="i-gear" width="22" height="22" viewBox="0 0 24 24"></svg></button>
   </header>
   <main>
     <div class="search">
@@ -181,7 +181,7 @@ var MATS=DOCS.map(function(d){return d.m}).filter(function(m,i,a){return a.index
 var st={type:"Tous",cyc:myCyc(),niv:myNiv(),mats:[],sort:"pert",q:"",shown:PAGE};
 
 /* En-tête */
-["bell","search","flt"].forEach(function(n){$("i-"+n).innerHTML='<path d="'+IC[n]+'"/>'});
+["gear","search","flt"].forEach(function(n){$("i-"+n).innerHTML='<path d="'+IC[n]+'"/>'});
 var name="";try{name=localStorage.getItem("user_name")||""}catch(e){}
 if(name)$("av").textContent=name.charAt(0).toUpperCase();
 
@@ -259,7 +259,7 @@ $("flt").onclick=function(){var h=$("panel").hidden;$("panel").hidden=!h;this.se
 $("reset").onclick=function(){st={type:"Tous",cyc:canSwitchCycle()?"Tous":activeCycle(),niv:"Tous",mats:[],sort:"pert",q:"",shown:PAGE};$("q").value="";render()};
 $("more").onclick=function(){st.shown+=PAGE;render()};
 $("list").addEventListener("click",function(e){seeGroup(e,function(k,m){if(k)st.type=k;st.mats=[m];st.shown=PAGE;render()})});
-$("bell").onclick=function(){toast("Aucune nouvelle notification")};
+$("set").onclick=function(){location.href="parametres.html"};
 bindCards($("list"),function(k){if(k==="cart")nav()});
 $("nav").onclick=navClick;
 if(ALLOWED_TYPES.length<2)$("types").hidden=true;

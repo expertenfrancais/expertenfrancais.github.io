@@ -81,8 +81,8 @@ if(open){
   (rich||(paras.length?paras.map(function(t){return "<p>"+esc(t)+"</p>"}).join(""):'<p class="soon">Le contenu de cette partie arrive bientôt.</p>'))+'</div>'+(nq||ne?'<div class="lscore" id="lscore"></div>':"");
  if(i===N-1&&logged)h+=rateBox(d.id);
 }else{
- h+='<div class="lock2"><div class="okc">'+svg(IC.lock)+'</div><h3>Partie réservée</h3><p>Abonnez-vous pour lire toutes les parties de ce cours, ou achetez-le à l’unité.</p>'+
-  (logged?'<a class="btn2" href="abonnement.html">S’abonner</a><a class="btn2 alt" href="#" id="buy">Acheter le cours · '+esc(price(d.pr))+'</a>':'<a class="btn2" href="login-app.html">Se connecter</a>')+
+ h+='<div class="lock2"><div class="okc">'+svg(IC.lock)+'</div><h3>Partie réservée</h3><p>Abonnez-vous pour lire toutes les parties de ce cours.'+(ACHAT?' Vous pouvez aussi l’acheter à l’unité.':'')+'</p>'+
+  (logged?'<a class="btn2" href="abonnement.html">S’abonner</a>'+(ACHAT?'<a class="btn2 alt" href="#" id="buy">Acheter le cours · '+esc(price(d.pr))+'</a>':'')+'':'<a class="btn2" href="login-app.html">Se connecter</a>')+
   '<a class="btn2 alt" href="'+docUrl(d)+'">Retour au cours</a></div>';
 }
 h+='</article>';

@@ -1,13 +1,13 @@
 # PROJET : état en bref (à lire en premier, avant GUIDE-IA.md)
 
 Application de cours de français (PWA statique, GitHub Pages : https://expertenfrancais.github.io). Pas de serveur, pas de framework.
-Mise à jour : archive **v135** (connexion Supabase active + sauvegarde du compte ; voir `supabase/LISEZMOI.md`).
+Mise à jour : archive **v154** (20 évaluations ajoutées, n° 24 à 43, collège) ; avant : v153 (codes d’activation : tarifs enseignant et élève) ; avant : v152 (abonnement par codes, phase 1) ; avant : v151 (20 évaluations ajoutées) ; avant : v150 (connexion Supabase active + sauvegarde du compte ; voir `supabase/LISEZMOI.md`).
 
 ## État actuel
-- 57 cours de collège (id 1 à 58), 1 cours de primaire, 1 fiche pédagogique (id 10001), 3 annales vraies (20002 BEPC juillet 2025 Dictée-Questions, 20003 BEPC blanc mai 2025 Dictée-Questions, 20004 BEPC juillet 2025 Expression écrite) ; prochaine : an 5 (id 20005), 21 séries d’exercices (id 30001 à 30021 : 6e, 5e, 4e et 3e), prochaine : ex 22 (id 30022), 3 évaluations modèles (40001 et 40002 en 6e, 40003 en 3e ; réservées aux enseignants), prochaine : ev 4 (id 40004).
-- Dernier id de cours : **58**. Commande pour le vérifier : `ls contenu/cours/*/ | sort -n | tail -3`
-- Version du cache : `VERSION` dans `sw.js` (actuellement `v135`).
-- Accès gratuit pour l'instant ; paiements à venir (prix par cycle dans `PRIX_CYCLE`, `data.js`).
+- 73 cours de collège (id 1 à 58, plus les n° 60 « La conjonction » 5e, 61 « La dérivation » 5e, 62 « La composition » 4e, 63 « Les champs lexicaux » 5e, 64 « Les champs sémantiques » 4e, 65 « Les champs lexicaux » 6e, 66 « Les champs sémantiques » 6e, 67 « Les homophones grammaticaux » 6e, 68 « L’accord des déterminants et des noms » 6e et 69 « Les terminaisons verbales en -é, -er, -ait, -ez » 6e, 70 « Les homophones lexicaux » 6e, 71 « L’accord du verbe avec son sujet » 5e et 72 « L’accord du participe passé » 4e, 73 « Les mots invariables » 5e, 74 « Les consonnes doubles » 6e et 75 « Les homophones ce / se, ces / ses » 6e), 2 cours de primaire (dont le n° 59, CM2 « La préposition »), 1 fiche pédagogique (id 10001), 3 annales vraies (20002 BEPC juillet 2025 Dictée-Questions, 20003 BEPC blanc mai 2025 Dictée-Questions, 20004 BEPC juillet 2025 Expression écrite) ; prochaine : an 5 (id 20005), 52 séries d’exercices (id 30001 à 30052 : CM2, 6e, 5e, 4e et 3e), prochaine : ex 53 (id 30053) ; reste des cours sans série à compléter par lots, 43 évaluations (40001 à 40003 : modèles ; 40004 à 40013 : 10 devoirs de grammaire en 6e, 5e, 4e et 3e ; 40014 à 40023 : 10 devoirs de conjugaison en 6e, 5e et 3e ; 40024 à 40043 : 20 devoirs de grammaire, vocabulaire, orthographe et conjugaison en 6e, 5e, 4e et 3e ; réservées aux enseignants), prochaine : ev 44 (id 40044).
+- Dernier id de cours : **75**. Commande pour le vérifier : `ls contenu/cours/*/ | sort -n | tail -3`
+- Version du cache : `VERSION` dans `sw.js` (actuellement `v154`).
+- Accès gratuit pour l'instant ; abonnement par codes d'activation en place (voir la section dédiée plus bas).
 
 ## Connexion et base de données (Supabase) : déjà en place, ne pas refaire
 - Projet Supabase actif ; `SUPABASE_URL` et `SUPABASE_ANON_KEY` (clé publique `sb_publishable_…`) sont **déjà renseignées** dans `login-app.html`. Ne jamais demander ni écrire la clé `service_role` / « secret ».
@@ -18,6 +18,13 @@ Mise à jour : archive **v135** (connexion Supabase active + sauvegarde du compt
 - Accès **gratuit** : `GRATUIT = true` dans `data.js` (abonnements et paiements « bientôt disponibles », volontairement laissés de côté pendant le développement).
 - Plan Supabase gratuit : pause après 7 jours d'inactivité (passer au plan Pro avant le lancement public).
 - Pas encore fait (idées) : mise à jour de `profiles` quand pseudo/cycle changent ; formulaire de contact → table Supabase ; protection des contenus payants et paiements (chantier futur) ; bouton « Valider mon adresse e-mail ».
+
+## Abonnement par codes d'activation (phase 1 faite ; pas de PawaPay : pas d'entreprise enregistrée)
+- Formules : mensuel 30 j, trimestriel 90 j, annuel 365 j. Enseignants 2 500 / 5 000 / 10 000 FCFA ; élèves 1 000 / 2 000 / 3 000 FCFA. Le tarif est lié au **code** (colonne `profil`), choisi par l’administrateur dans `admin.html`. À garder identiques dans `PLANS` (`data.js`), `TARIFS` (`admin.html`) et `public.formule()` (`supabase/03-abonnement-codes.sql`).
+- Parcours : le client contacte l'administrateur (`contact.html?sujet=abonnement`), paie en Mobile Money, reçoit un code (ex. `K7QM-4XPD-9TWE`, usage unique) et le saisit dans `abonnement.html` ; la fonction SQL `activer_code` (atomique) crée ou prolonge son abonnement (table `abonnements`). Max 5 essais ratés / 10 min.
+- Administrateur : `admin.html` (générer, lister, noter, annuler des codes ; réservé aux comptes de la table `admins`, voir `supabase/LISEZMOI.md` §8). Pas de lien depuis les menus : on l'ouvre par son adresse.
+- `ACHAT=false` dans `data.js` : pas d'achat à l'unité (panier désactivé, boutons « S'abonner »). `GRATUIT=true` reste actif tant qu'on ne l'a pas mis à `false`.
+- `data.js` : `sbRpc()` et `subRefresh()` ; la copie locale `sub` est relue depuis Supabase (3 min). **Phase 2 à faire** : les parties payantes sont encore des fichiers publics (`contenu/`) ; il faut les déplacer dans Supabase, lisibles seulement par les abonnés, avant de passer `GRATUIT` à `false` pour de vrai.
 
 ## Hors ligne (sw.js)
 - Au premier lancement, **seules ~26 pages essentielles** sont préchargées (`PAGES`). Les cours (`COURS`, `CONTENU`) sont gardés hors ligne **à la première ouverture**, pas préchargés : ne pas rajouter `.concat(COURS).concat(CONTENU)` à `PAGES` (cela ralentissait le premier lancement des nouveaux inscrits).

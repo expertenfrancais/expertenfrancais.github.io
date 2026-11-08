@@ -37,6 +37,7 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `index.html` | Accueil | Seulement pour changer l'accueil |
 | `catalogue.html` | Catalogue, recherche, filtres | Seulement pour changer le catalogue |
 | `favoris.html`, `panier.html`, `abonnement.html`, `profil.html`, `parametres.html`, `cycles.html`, `contact.html`, `pdf.html` | Une page chacune | Seulement la page demandée |
+| `admin.html` | Page administrateur : générer et gérer les codes d'activation (voir `PROJET.md`) | Seulement pour la gestion des codes |
 | `login-app.html` | Inscription, connexion, mot de passe oublié (Supabase : URL et clé déjà renseignées) | NON, sauf demande explicite sur la connexion |
 | `cours.html` | Simple page de redirection (noindex) | NON |
 | `manifest.json`, `logo.png`, `icon-*.png` | Installation de l'application (PWA) et icônes | NON, sauf demande explicite |

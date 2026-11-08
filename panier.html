@@ -202,6 +202,7 @@ $("tel").oninput=function(){var d=this.value.replace(/\D/g,"").slice(0,9);
 function fail(m){$("err").textContent=m;var a=$("app");a.classList.remove("shake");void a.offsetWidth;a.classList.add("shake");vib([30,40,30])}
 $("pay").onclick=function(){
  if(busyPay)return;
+ if(!ACHAT){fail("Les achats à l’unité ne sont pas disponibles. Abonnez-vous avec un code d’activation.");return}
  var tel=$("tel").value.replace(/\D/g,"");
  if(tel.length!==9)return fail("Saisissez un numéro à 9 chiffres.");
  var b=$("pay");busyPay=true;b.disabled=true;b.classList.add("load");vib(15);

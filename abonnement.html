@@ -114,35 +114,74 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .cxlbtns{display:flex;gap:8px}
 .mini{flex:1;height:46px;border:0;border-radius:23px;font-weight:600;font-size:14px}
 .mini.keep{background:var(--card);color:var(--ink)}.mini.del{background:#d0426a;color:#fff}.mini:disabled{opacity:.7}
+<style>
+.sec{margin:22px 4px 10px;font-size:16px;color:var(--ink)}
+.st{padding:16px;margin-bottom:6px}.st b{display:block;font-size:16px;color:var(--ink)}.st small{color:var(--sub)}
+.steps{margin:0 0 14px;padding:0 4px 0 22px;color:var(--ink);font-size:14px;line-height:1.6}
+.codebox{padding:14px}.codebox input{width:100%;box-sizing:border-box;height:52px;border:2px solid transparent;border-radius:16px;background:var(--field);color:var(--ink);font:600 18px/1 ui-monospace,Menlo,monospace;letter-spacing:2px;text-align:center;text-transform:uppercase;margin-bottom:12px}
+.codebox input:focus{outline:0;border-color:#8c6fe0}.codebox .err{min-height:18px;margin:10px 0 0;font-size:13.5px;color:#d0426a;text-align:center}
+.hint{margin:14px 4px 0;font-size:13px;color:var(--sub);text-align:center}
 </style>
 </head>
 <body>
 <div class="app" id="app">
   <header class="top">
-    <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small>Bientôt disponible</small><b>Abonnement</b></div></div>
+    <div class="who"><div class="av" id="av">E</div><div style="min-width:0"><small>Mon compte</small><b>Abonnement</b></div></div>
     <button class="ib" id="bell" type="button" aria-label="Notifications"><svg width="22" height="22" viewBox="0 0 24 24"><path id="p-bell"/></svg></button>
   </header>
   <main>
-    <section id="vSoon" class="center">
-      <div class="okc"><svg width="40" height="40" viewBox="0 0 24 24"><path id="p-ok"/></svg></div>
-      <h3>Bientôt disponible</h3>
-      <p>Les abonnements et les paiements seront bientôt disponibles. En attendant, tous les cours et toutes les ressources sont gratuits.</p>
-      <div id="plans" style="width:100%;margin:0 0 14px"></div>
-      <button class="btn" id="goCat" type="button">Voir le catalogue</button>
+    <section id="vAbo">
+      <div class="card st" id="statut"></div>
+      <h3 class="sec">Les formules</h3>
+      <div id="plans"></div>
+      <h3 class="sec">Comment s’abonner ?</h3>
+      <ol class="steps">
+        <li>Contactez-nous et choisissez votre formule.</li>
+        <li>Payez par Mobile Money comme convenu avec nous.</li>
+        <li>Vous recevez un <b>code d’activation</b> personnel, valable une seule fois.</li>
+        <li>Saisissez-le ci-dessous : l’abonnement démarre aussitôt.</li>
+      </ol>
+      <button class="btn" id="goContact" type="button">Nous contacter</button>
+      <h3 class="sec">J’ai un code</h3>
+      <div class="card codebox">
+        <input id="code" type="text" inputmode="text" autocapitalize="characters" autocomplete="off" spellcheck="false" maxlength="20" placeholder="XXXX-XXXX-XXXX">
+        <button class="btn" id="activer" type="button">Activer mon abonnement</button>
+        <p class="err" id="cerr" role="alert"></p>
+      </div>
+      <p class="hint" id="gratuit" hidden>Pendant la période de lancement, tous les cours et toutes les ressources restent gratuits.</p>
     </section>
   </main>
   <nav class="nav" id="nav"></nav>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
 </div>
+<script>var PAGE_ABO=1;</script>
 <script src="data.js"></script>
 <script>
 $("p-bell").setAttribute("d",IC.bell);
-var ok=$("p-ok");ok.setAttribute("d",IC.ok);ok.setAttribute("fill","none");ok.setAttribute("stroke","#fff");ok.setAttribute("stroke-width","3");ok.setAttribute("stroke-linecap","round");ok.setAttribute("stroke-linejoin","round");
 var n0=userName();if(n0)$("av").textContent=n0.charAt(0).toUpperCase();
 function nav(){drawNav(4)}
-$("plans").innerHTML=PLANS.map(function(x){return '<div class="card plan"><div class="r"><b>'+x.n+'</b><b>Bientôt disponible</b></div><small>'+x.d+' jours</small></div>'}).join("");
+function renderStatut(){
+ var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0];
+ $("statut").innerHTML=on?'<b>Abonnement actif ✓</b><small>'+(pl?esc(pl.n)+' · ':'')+'jusqu’au '+esc(fmtDate(s.end))+'</small>':'<b>Aucun abonnement actif</b><small>Activez un code pour accéder à tout le contenu.</small>'}
+$("plans").innerHTML=PLANS.map(function(x){return '<div class="card plan"><div class="r"><b>'+esc(x.n)+'</b><b>'+esc(price(x.pr))+'</b></div><small>'+x.d+' jours</small></div>'}).join("");
+$("gratuit").hidden=!GRATUIT;
+renderStatut();
+subRefresh(true).then(renderStatut);
 $("bell").onclick=function(){toast("Aucune nouvelle notification")};
-$("goCat").onclick=function(){location.href="catalogue.html"};
+$("goContact").onclick=function(){location.href="contact.html?sujet=abonnement"};
+$("code").oninput=function(){$("cerr").textContent=""};
+var busyA=false;
+$("activer").onclick=function(){
+ if(busyA)return;
+ var v=$("code").value.trim(),e=$("cerr");e.style.color="#d0426a";
+ if(v.replace(/[^A-Za-z0-9]/g,"").length<12){e.textContent="Saisissez le code complet (12 caractères).";return}
+ if(!window.syncOn||!syncOn()){e.textContent="Connectez-vous avec votre compte pour activer un code.";return}
+ var b=$("activer");busyA=true;b.disabled=true;e.textContent="";
+ sbRpc("activer_code",{p_code:v}).then(function(r){
+  if(r&&r.ok){$("code").value="";return subRefresh(true).then(function(){renderStatut();toast("Abonnement activé ✓");vib(15)})}
+  e.textContent=r&&r.erreur==="trop"?"Trop d’essais. Réessayez dans 10 minutes.":r&&r.erreur==="connexion"?"Connectez-vous d’abord.":"Code invalide ou déjà utilisé."})
+ .catch(function(){e.textContent="Impossible de joindre le serveur. Vérifiez votre connexion et réessayez."})
+ .then(function(){busyA=false;b.disabled=false})};
 $("nav").onclick=navClick;
 nav();
 </script>

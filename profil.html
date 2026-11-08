@@ -215,6 +215,12 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
           <button class="sbtn" id="pickCover" type="button">Changer la couverture</button>
           <button class="sbtn danger" id="uncover" type="button" hidden>Retirer la couverture</button>
         </div>
+        <label class="l" for="fFirst">Prénom</label>
+        <div class="field"><input id="fFirst" type="text" maxlength="40" autocomplete="given-name" placeholder="Votre prénom"></div>
+        <label class="l" for="fLast">Nom de famille</label>
+        <div class="field"><input id="fLast" type="text" maxlength="40" autocomplete="family-name" placeholder="Votre nom de famille"></div>
+        <label class="l" for="fEmail">E-mail</label>
+        <div class="field"><input id="fEmail" type="email" inputmode="email" maxlength="80" autocomplete="email" placeholder="exemple@gmail.com"></div>
         <label class="l" for="fName">Nom affiché</label>
         <div class="field"><input id="fName" type="text" maxlength="30" autocomplete="nickname" placeholder="Votre nom"></div>
         <label class="l" for="fTel">Téléphone</label>
@@ -315,9 +321,16 @@ function paintResults(){
   return '<a class="wk" href="'+partUrl(w.d,w.i)+'"><div><b>Partie '+(w.i+1)+' · '+esc(t)+'</b><small>'+esc(w.d.t)+'</small></div><em>'+Math.round(100*w.r)+' %</em></a>'}).join("")}
  el.innerHTML=h}
 
+/* E-mail du compte (lecture seule, venant de la connexion) */
+function accountEmail(){try{var s=JSON.parse(localStorage.getItem("sb_session")||"null");return(s&&s.email)||""}catch(e){return""}}
+
 /* Informations affichées */
 function infoRows(){
  var p=userProfile(),rows=[];
+ if(p.first)rows.push(["Prénom",p.first]);
+ if(p.last)rows.push(["Nom de famille",p.last]);
+ var em=p.email||accountEmail();
+ if(em)rows.push(["E-mail",em]);
  if(p.tel)rows.push(["Téléphone",p.tel]);
  if(p.city)rows.push(["Ville",p.city]);
  if(p.school)rows.push(["Établissement",p.school]);
@@ -400,7 +413,7 @@ $("share").onclick=function(){
 /* Modification des informations */
 function openEdit(){
  var p=userProfile();
- $("fName").value=userName();$("fTel").value=p.tel||"";$("fCity").value=p.city||"";$("fSchool").value=p.school||"";
+ $("fName").value=userName();$("fFirst").value=p.first||"";$("fLast").value=p.last||"";$("fEmail").value=p.email||accountEmail();$("fTel").value=p.tel||"";$("fCity").value=p.city||"";$("fSchool").value=p.school||"";
  $("fSubject").value=p.subject||"";$("fGrade").value=p.grade||"";
  $("edit").hidden=false;$("editBtn").hidden=true}
 function closeEdit(){$("edit").hidden=true;$("editBtn").hidden=false}
@@ -408,7 +421,9 @@ $("editBtn").onclick=openEdit;$("cancel").onclick=closeEdit;
 $("save").onclick=function(){
  var name=$("fName").value.trim();
  if(!name)return toast("Saisissez un nom");
- var p={tel:$("fTel").value.trim(),city:$("fCity").value.trim(),school:$("fSchool").value.trim()};
+ var em=$("fEmail").value.trim();
+ if(em&&!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em))return toast("Adresse e-mail invalide");
+ var p={first:$("fFirst").value.trim(),last:$("fLast").value.trim(),email:em,tel:$("fTel").value.trim(),city:$("fCity").value.trim(),school:$("fSchool").value.trim()};
  if(teacher)p.subject=$("fSubject").value.trim();else p.grade=$("fGrade").value;
  try{localStorage.setItem("user_name",name)}catch(e){}
  sv("user_profile",p);closeEdit();render();toast("Profil enregistré ✓")};

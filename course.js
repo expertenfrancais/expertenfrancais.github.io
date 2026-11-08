@@ -56,10 +56,11 @@ if(acc){
  go.innerHTML='<span>Télécharger</span><i>'+svg(IC.dl)+'</i>';
  go.onclick=function(){location.href=BASE+"pdf.html?id="+d.id};
 }else{
- var label=!logged?"Se connecter pour acheter":inCart?"Aller au panier":"Acheter · "+price(d.pr);
+ var label=!ACHAT?(logged?"S’abonner":"Se connecter pour s’abonner"):!logged?"Se connecter pour acheter":inCart?"Aller au panier":"Acheter · "+price(d.pr);
  go.innerHTML='<span>'+esc(label)+'</span><i>'+svg(logged?IC.cart:CHEV)+'</i>';
  go.onclick=function(){
   if(!logged){location.href=BASE+"login-app.html?next="+encodeURIComponent(docFile(d));return}
+  if(!ACHAT){location.href=BASE+"abonnement.html";return}
   if(cart.indexOf(d.id)<0){cart.push(d.id);sv("cart",cart)}
   location.href=BASE+"panier.html"};
 }
