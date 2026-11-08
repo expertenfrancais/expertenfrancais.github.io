@@ -1,0 +1,1111 @@
+{
+ "id": 50001,
+ "meta": {
+  "t": "Programme APS 6e · Répartition annuelle",
+  "k": "Programmes",
+  "n": "6e",
+  "m": "APS",
+  "img": "e",
+  "r": 4.8,
+  "pg": 1
+ },
+ "sections": [
+  {
+   "t": "Présentation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Programme APS, 6e : répartition annuelle.** Elle indique à l’enseignant les notions à enseigner, mois par mois et semaine par semaine, avec leur durée. Cette page résume les textes introductifs du programme officiel *Programmes éducatifs et guides pédagogiques, Français, Collège 6e-5e* (République du Congo) pour bien comprendre comment lire la répartition."
+    },
+    {
+     "type": "h",
+     "text": "1. L’approche pédagogique"
+    },
+    {
+     "type": "p",
+     "text": "**Approche par situations.** Un élève construit ses compétences en traitant des situations. Par exemple, arriver à temps à l’école est une situation : il faut choisir le moyen de transport et l’itinéraire selon la distance, le trafic, l’état de la route. Parce qu’il la traite bien, l’élève est déclaré compétent. Le programme propose donc une **banque de situations**, organisée en grandes catégories appelées **familles de situations**, avec des exemples pour chacune."
+    },
+    {
+     "type": "def",
+     "label": "Savoir essentiel",
+     "text": "Une **ressource** (un moyen, un outil) que l’élève utilise pour traiter une situation. Exemple : « lire l’heure » est une ressource pour arriver à temps à l’école. Les savoirs essentiels relèvent des disciplines scolaires."
+    },
+    {
+     "type": "p",
+     "text": "**Activités de l’élève.** L’élève doit être actif : il ne fait pas n’importe quoi, il pose **une action sur un savoir essentiel**. Toutes les actions possibles en classe sont décrites dans les **tableaux de spécifications** du programme."
+    },
+    {
+     "type": "p",
+     "text": "**Évaluation.** Elle porte sur deux dimensions : la vérification de la **maîtrise des savoirs essentiels** (des exemples d’items sont proposés) et la vérification de la **compétence** de l’élève (traitement de la situation, ou d’une situation proche)."
+    },
+    {
+     "type": "h",
+     "text": "2. L’organisation du programme"
+    },
+    {
+     "type": "p",
+     "text": "Le programme vise l’activité de l’élève dans des situations. Il donne à l’enseignant quatre outils :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**une liste des savoirs essentiels** : les savoirs emblématiques de la discipline, assez généraux pour permettre d’en déduire d’autres ;",
+      "**un canevas des savoirs essentiels** : une liste établie en tenant compte du volume horaire de chaque discipline du régime pédagogique ;",
+      "**une banque de situations** : les familles de situations illustrées par des exemples, qui correspondent aux situations proposées aux élèves ;",
+      "**des matrices codifiées** : elles décrivent le traitement qu’un élève peut réaliser d’une situation (l’action de l’élève et le contenu de cette action)."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Chaque matrice comprend : une **codification**, une **catégorie de savoirs** (un ensemble de savoirs essentiels), un ou des **savoirs essentiels**, une **compétence**, un **exemple de situation**, un **tableau de spécifications** et une **évaluation**."
+    },
+    {
+     "type": "table",
+     "title": "Codification du français en 6e et 5e",
+     "head": [
+      "Code",
+      "M",
+      "F",
+      "Niveau",
+      "Catégorie",
+      "Matrice"
+     ],
+     "rows": [
+      [
+       "MF6.1.1",
+       "Matrice",
+       "Français",
+       "6 = 6e",
+       "1 = Lecture",
+       "1 = 1re matrice"
+      ],
+      [
+       "MF5.2.1",
+       "Matrice",
+       "Français",
+       "5 = 5e",
+       "2 = Grammaire",
+       "1 = 1re matrice"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "C’est ce code (MF6… pour la 6e, MF5… pour la 5e) que tu retrouveras dans la colonne « Catégorie des savoirs essentiels » de la répartition."
+    },
+    {
+     "type": "h",
+     "text": "3. Les finalités de l’éducation en République du Congo"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Loi scolaire** (loi n° 25-95 du 17 novembre 1995, qui modifie la loi n° 008/90 du 6 septembre 1990) : toute personne a droit à l’éducation ; tout enfant vivant au Congo y a droit, sans discrimination ; la scolarité est obligatoire jusqu’à 16 ans ; l’organisation de l’enseignement est un devoir de l’État ; l’enseignement est dispensé dans les établissements publics et privés ; l’enseignement religieux ne peut pas être dispensé dans les établissements publics.",
+      "**Constitution de 2015** (article 29) : droit à l’éducation et à l’égal accès à l’épanouissement et à la formation ; scolarité obligatoire jusqu’à seize ans.",
+      "**Plan national de développement 2018-2022** : offrir une éducation de base inclusive et de qualité, étendue à dix ans (primaire et 1er cycle du secondaire), développer l’éducation de la petite enfance, relever le niveau d’alphabétisation, répondre aux besoins en ressources humaines et rendre plus efficace le pilotage du système éducatif.",
+      "**Stratégie sectorielle de l’éducation 2015-2025, révisée 2021-2030** : offrir une éducation de base de qualité à tous (socle de 10 ans), rendre plus efficace le pilotage et la gestion du système, mieux répondre aux besoins en ressources humaines d’une économie émergente.",
+      "**Agendas internationaux** : le Congo s’aligne notamment sur Jomtien (1990), Dakar (2000), les objectifs du millénaire pour le développement, Kigali (2008) et l’objectif de développement durable n° 4 (2015-2030)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "4. L’organisation du système éducatif"
+    },
+    {
+     "type": "p",
+     "text": "Le système éducatif formel comporte quatre niveaux :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**l’éducation préscolaire**, de trois ans ;",
+      "**l’enseignement primaire**, de six ans, sanctionné par le Certificat d’Études Primaires Élémentaires (CEPE) à la suite d’un examen d’État au terme du CM2 ;",
+      "**l’enseignement secondaire**, de six ou sept ans, en deux cycles : le premier cycle (quatre ans, de la 6e à la 3e) est sanctionné par le Brevet d’Études du Premier Cycle ; le second cycle (deux ou trois ans) est sanctionné par le Baccalauréat ;",
+      "**l’enseignement supérieur**, dispensé dans les écoles, les instituts et les facultés."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Le premier cycle du secondaire général vise l’élargissement et l’approfondissement de la formation générale reçue au primaire, en vue de la poursuite des études. Les examens d’État sont organisés par le Ministère de l’Éducation nationale, seul habilité à délivrer les diplômes d’État."
+    },
+    {
+     "type": "h",
+     "text": "5. Le régime pédagogique"
+    },
+    {
+     "type": "p",
+     "text": "Le décret n° 96-174 du 15 avril 1996 fixe au minimum **28 heures hebdomadaires** au secondaire 1er degré (30 heures au 2e cycle) et **24 heures** par enseignant au 1er cycle (18 heures au 2e cycle). **Pour le français, six heures hebdomadaires sont retenues de la 6e à la 3e.**"
+    },
+    {
+     "type": "table",
+     "title": "Masse horaire hebdomadaire en 6e",
+     "head": [
+      "Discipline",
+      "Heures par semaine",
+      "Part"
+     ],
+     "rows": [
+      [
+       "Français",
+       "6 h",
+       "21,43 %"
+      ],
+      [
+       "Histoire, Géographie, ECMP",
+       "4 h",
+       "14,29 %"
+      ],
+      [
+       "Anglais",
+       "4 h",
+       "14,29 %"
+      ],
+      [
+       "Mathématiques",
+       "5 h",
+       "17,86 %"
+      ],
+      [
+       "Sciences physiques",
+       "3 h",
+       "10,71 %"
+      ],
+      [
+       "SVT",
+       "2 h",
+       "7,14 %"
+      ],
+      [
+       "Dessin",
+       "1 h",
+       "3,57 %"
+      ],
+      [
+       "Musique",
+       "1 h",
+       "3,57 %"
+      ],
+      [
+       "EPS",
+       "2 h",
+       "7,14 %"
+      ],
+      [
+       "Total",
+       "28 h",
+       "100 %"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "6. Les langues dans l’enseignement"
+    },
+    {
+     "type": "p",
+     "text": "Le français est la langue officielle et la langue d’enseignement. Les langues nationales (lingala et kituba) et/ou les langues du milieu sont utilisées comme médium d’enseignement. Certaines langues étrangères (anglais, espagnol, russe, allemand, arabe, chinois) sont enseignées comme disciplines."
+    },
+    {
+     "type": "h",
+     "text": "7. Les modalités d’évaluation"
+    },
+    {
+     "type": "p",
+     "text": "L’évaluation des élèves se fait par :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "des interrogations orales et écrites ;",
+      "des devoirs à domicile ;",
+      "des devoirs surveillés ;",
+      "des devoirs départementaux ;",
+      "des compositions trimestrielles ou semestrielles ;",
+      "des examens blancs ;",
+      "des examens de fin de cycle ;",
+      "des examens de passage."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Octobre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Octobre",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "Contrôle des acquis antérieurs",
+       "—",
+       "6 h"
+      ],
+      [
+       "2",
+       "MF6.1.1 Le respect des règles de la prosodie",
+       "Le respect des signes de ponctuation (1)",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.1 Les constituants de la phrase",
+       "Le groupe nominal",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.3.1 Les règles d’accord",
+       "L’accord de l’adjectif qualificatif",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.6.1 L’écoute d’un discours",
+       "L’émetteur et le message d’un discours",
+       "1 h"
+      ],
+      [
+       "2",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.1.1 Le respect des règles de la prosodie",
+       "Le respect du groupe de souffle (1)",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF6.2.1 Les constituants de la phrase",
+       "Le groupe verbal",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.7.1 La méthodologie de la rédaction",
+       "L’analyse du sujet et la recherche des idées (1)",
+       "1 h"
+      ],
+      [
+       "3",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.1.1 Le respect des règles de la prosodie",
+       "Le respect de la diction (1)",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF6.2.1 Les constituants de la phrase",
+       "Le présentatif (la phrase à présentatif)",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.6.1 L’écoute d’un discours",
+       "Le type de discours",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation : Orthographe (dictée et questions)",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Novembre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Novembre",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF6.1.2 Les supports iconographiques",
+       "Les composantes d’une image",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF6.2.2 Les types de phrases",
+       "La phrase impérative",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.4.1 Les temps de l’indicatif",
+       "Les valeurs et l’emploi du présent",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.5.1 La formation des mots",
+       "La préfixation et la suffixation",
+       "1 h"
+      ],
+      [
+       "1",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.1.2 Les supports iconographiques",
+       "Le message de l’image",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.2 Les types de phrases",
+       "La phrase déclarative",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.7.1 La méthodologie de la rédaction",
+       "L’analyse du sujet et la recherche des idées (2)",
+       "2 h"
+      ],
+      [
+       "2",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.1.3 Les types de textes",
+       "Les caractéristiques du texte narratif (1)",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF6.2.2 Les types de phrases",
+       "La phrase exclamative",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.7.1 La méthodologie de la rédaction",
+       "L’introduction",
+       "2 h"
+      ],
+      [
+       "3",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.1.3 Les types de textes",
+       "Les caractéristiques du texte descriptif",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF6.2.2 Les types de phrases",
+       "La phrase interrogative",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.6.2 Le dialogue",
+       "Les règles de présentation d’un dialogue (1)",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation : Expression écrite",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Décembre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Décembre",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF6.1.3 Les types de textes",
+       "Les caractéristiques du texte poétique",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF6.2.3 Les formes de phrases",
+       "La forme affirmative",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.7.1 La méthodologie de la rédaction",
+       "Le développement",
+       "2 h"
+      ],
+      [
+       "1",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.1.3 Les types de textes",
+       "Les caractéristiques du texte narratif (2)",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.3 Les formes de phrases",
+       "La forme négative",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.5.1 La formation des mots",
+       "La préfixation et la suffixation",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.7.1 La méthodologie de la rédaction",
+       "La conclusion",
+       "2 h"
+      ],
+      [
+       "—",
+       "Évaluation du 1er trimestre",
+       "—",
+       "—"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Janvier",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Janvier",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF6.1.1 Le respect des règles de la prosodie",
+       "Le respect des signes de ponctuation (2)",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF6.2.4 Les fonctions du nom",
+       "Le sujet",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.3.1 Les règles d’accord",
+       "L’accord du participe passé employé seul",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.6.2 Le dialogue",
+       "Les règles de présentation d’un dialogue (2)",
+       "1 h"
+      ],
+      [
+       "1",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.1.1 Le respect des règles de la prosodie",
+       "Le respect du groupe de souffle (2)",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.4 Les fonctions du nom",
+       "Le complément d’objet direct",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.7.2 La production de textes",
+       "La rédaction d’un paragraphe descriptif à partir d’une image",
+       "2 h"
+      ],
+      [
+       "2",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.1.1 Le respect des règles de la prosodie",
+       "Le respect de la diction (2)",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF6.2.4 Les fonctions du nom",
+       "Le complément d’objet indirect",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.4.1 Les temps de l’indicatif",
+       "Les valeurs et l’emploi du futur simple (1)",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.5.2 Les niveaux de langue",
+       "Les différents niveaux de langue",
+       "1 h"
+      ],
+      [
+       "3",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.1.4 L’étude de l’œuvre intégrale",
+       "La présentation de l’auteur (biographie et bibliographie)",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF6.2.5 Les types de discours",
+       "Le discours direct et le discours indirect",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.3.1 Les règles d’accord",
+       "Le participe employé avec l’auxiliaire « être »",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation : Orthographe (dictée et questions)",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Février",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Février",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF6.1.4 L’étude de l’œuvre intégrale",
+       "La présentation (situation) de l’œuvre",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF6.2.6 La phrase complexe",
+       "La juxtaposition",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.7.2 La production de textes",
+       "La rédaction d’un dialogue à partir d’une image",
+       "[à vérifier]"
+      ],
+      [
+       "1",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.1.4 L’étude de l’œuvre intégrale",
+       "Le résumé de l’œuvre",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.6 La phrase complexe",
+       "La coordination",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.4.1 Les temps de l’indicatif",
+       "Les valeurs et l’emploi du futur simple (2)",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.6.2 Le dialogue",
+       "Les règles de présentation d’un dialogue",
+       "1 h"
+      ],
+      [
+       "2",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "L’étude des personnages (1)",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF6.2.6 La phrase complexe",
+       "La subordonnée relative",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.7.2 La production de textes",
+       "La rédaction d’un paragraphe narratif à partir d’un sujet de narration",
+       "2 h"
+      ],
+      [
+       "3",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "L’étude des personnages (2)",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF6.2.7 Les conjonctions",
+       "Les conjonctions de subordination",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.4.1 Les temps de l’indicatif",
+       "Les valeurs et l’emploi de l’imparfait (1)",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation : Expression écrite",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Mars",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Mars",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "L’étude des personnages (3)",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF6.2.10 Les fonctions grammaticales",
+       "Les fonctions de l’adjectif qualificatif (1)",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.2.10 Les fonctions grammaticales",
+       "Les fonctions de l’adjectif qualificatif (2)",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.3.1 Les règles d’accord",
+       "Le participe passé employé avec l’auxiliaire « avoir »",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.5.3 Le vocabulaire des TIC",
+       "La présentation des composant(e)s de l’ordinateur",
+       "1 h"
+      ],
+      [
+       "1",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "Les thèmes majeurs dans l’œuvre (1)",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.9 Les compléments circonstanciels",
+       "Le complément circonstanciel de lieu",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.4.1 Les temps de l’indicatif",
+       "Les valeurs et l’emploi de l’imparfait (2)",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.7.2 La production de textes",
+       "La lettre personnelle",
+       "2 h"
+      ],
+      [
+       "2",
+       "Évaluation du 2e trimestre",
+       "—",
+       "—"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Avril",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Avril",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "Les thèmes majeurs dans l’œuvre (2)",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF6.2.9 Les compléments circonstanciels",
+       "Le complément circonstanciel de temps",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.3.1 Les règles d’accord",
+       "Le pluriel des noms en -s",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.4.1 Les temps de l’indicatif",
+       "Les valeurs et l’emploi du passé simple",
+       "1 h"
+      ],
+      [
+       "1",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "Les thèmes majeurs dans l’œuvre (3)",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.9 Les compléments circonstanciels",
+       "Le complément circonstanciel de cause",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.4.1 Les temps de l’indicatif",
+       "L’emploi des temps composés de l’indicatif",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.5.3 Le vocabulaire des TIC",
+       "Les périphériques de l’ordinateur",
+       "1 h"
+      ],
+      [
+       "2",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "Les thèmes majeurs dans l’œuvre (4)",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF6.2.8 La notion d’énonciation",
+       "Les marques de l’énonciation",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.7.3 La production d’un compte rendu de lecture",
+       "La fiche de lecture",
+       "1 h"
+      ],
+      [
+       "3",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "L’espace et le temps dans l’œuvre (1)",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF6.2.8 La notion d’énonciation",
+       "La situation de communication (le schéma de la communication)",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF6.5.4 Les figures de style",
+       "La comparaison",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation : Orthographe (dictée et questions)",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Mai",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Mai",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "L’espace et le temps dans l’œuvre (2)",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.2.6 La phrase complexe",
+       "La juxtaposition",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF6.3.2 La graphie des mots",
+       "Les homophones (grammaticaux et lexicaux)",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF6.4.2 Les verbes du 3e groupe",
+       "Le verbe « aller »",
+       "1 h"
+      ],
+      [
+       "1",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "Le schéma actanciel",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF6.2.6 La phrase complexe",
+       "La subordonnée relative",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.3.3 La ponctuation",
+       "Les signes de ponctuation",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF6.4.3 Le subjonctif",
+       "Le présent du subjonctif (1)",
+       "1 h"
+      ],
+      [
+       "2",
+       "Remédiation/Régulation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.1.5 La construction de sens d’une œuvre intégrale",
+       "La leçon de morale",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF6.2.5 Les différents types de discours",
+       "Le discours direct et le discours indirect",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.4.3 Les temps simples du subjonctif",
+       "Le présent du subjonctif (2)",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF6.7.2 La production de textes",
+       "Le message électronique",
+       "2 h"
+      ],
+      [
+       "4",
+       "Révisions générales",
+       "—",
+       "6 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Juin",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Juin",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "Révisions générales",
+       "—",
+       "[à vérifier]"
+      ],
+      [
+       "1",
+       "Évaluations de fin d’année",
+       "—",
+       "6 h"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
