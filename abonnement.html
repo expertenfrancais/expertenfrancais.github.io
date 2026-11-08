@@ -159,7 +159,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 <script>
 $("p-bell").setAttribute("d",IC.bell);
 var n0=userName();if(n0)$("av").textContent=n0.charAt(0).toUpperCase();
-function nav(){drawNav(4)}
+function nav(){drawNav(3)}
 function renderStatut(){
  var on=isSubscribed(),s=ls("sub",{}),pl=PLANS.filter(function(x){return x.id===s.plan})[0];
  $("statut").innerHTML=on?'<b>Abonnement actif ✓</b><small>'+(pl?esc(pl.n)+' · ':'')+'jusqu’au '+esc(fmtDate(s.end))+'</small>':'<b>Aucun abonnement actif</b><small>Activez un code pour accéder à tout le contenu.</small>'}

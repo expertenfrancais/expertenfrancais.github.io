@@ -113,9 +113,9 @@ main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
 .shelf-h{display:flex;justify-content:space-between;align-items:baseline;margin:0 0 8px}
 .shelf-h h3{margin:0;font-size:16px;color:var(--ink)}
 .shelf-h .shelf-go{border:0;background:none;padding:0;font-size:13px;font-weight:600;color:var(--link)}
-.rail{scroll-padding:0 20px;display:flex;gap:12px;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -20px;padding:2px 20px 14px}
+.rail{scroll-padding:0 20px;display:flex;gap:16px;align-items:stretch;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -20px;padding:2px 20px 14px}
 .rail::-webkit-scrollbar{display:none}
-.rail>.doc{flex:0 0 min(calc(50% - 16px),200px);scroll-snap-align:start}
+.rail>.doc{flex:0 0 min(66%,240px);scroll-snap-align:start}
 .rail>.shelf-more{flex:0 0 92px;border:0;border-radius:24px;background:var(--card);color:var(--link);font-weight:600;font-size:13px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;box-shadow:0 8px 24px rgba(90,60,170,.08);scroll-snap-align:start}
 .rail>.shelf-more b{font-size:22px}
 .empty{grid-column:1/-1;text-align:center;color:var(--sub);padding:30px 10px;font-size:14px}

@@ -57,7 +57,7 @@ if(acc){
  go.onclick=function(){location.href=BASE+"pdf.html?id="+d.id};
 }else{
  var label=!ACHAT?(logged?"S’abonner":"Se connecter pour s’abonner"):!logged?"Se connecter pour acheter":inCart?"Aller au panier":"Acheter · "+price(d.pr);
- go.innerHTML='<span>'+esc(label)+'</span><i>'+svg(logged?IC.cart:CHEV)+'</i>';
+ go.innerHTML='<span>'+esc(label)+'</span><i>'+svg(logged?(ACHAT?IC.cart:IC.crown):CHEV)+'</i>';
  go.onclick=function(){
   if(!logged){location.href=BASE+"login-app.html?next="+encodeURIComponent(docFile(d));return}
   if(!ACHAT){location.href=BASE+"abonnement.html";return}

@@ -21,7 +21,8 @@ var DEMO=true; /* mettre false avec un vrai serveur : les achats restent « en a
 var EST_ELEVE=userRole()!=="enseignant"; /* élève, étudiant et particulier : mêmes tarifs */
 var PLANS=[{id:"mois",n:"Mensuel",d:30,pr:EST_ELEVE?1000:2500},{id:"trim",n:"Trimestriel",d:90,pr:EST_ELEVE?2000:5000},{id:"an",n:"Annuel",d:365,pr:EST_ELEVE?3000:10000}]; /* élève : 1000 / 2000 / 3000 ; enseignant : 2500 / 5000 / 10000. À garder identiques à public.formule() dans supabase/03-abonnement-codes.sql */
 function isSubscribed(){var s=ls("sub",{});return !!s.end&&Date.parse(s.end)>Date.now()}
-function canAccess(id){return GRATUIT||isSubscribed()||ls("bought",[]).indexOf(id)>-1}
+function achete(id){return ACHAT&&ls("bought",[]).indexOf(id)>-1} /* les anciens achats « démo » restés dans l’appareil ne comptent plus tant que l’achat à l’unité est désactivé (ACHAT=false) */
+function canAccess(id){return GRATUIT||isSubscribed()||achete(id)}
 /* ===== Fiches pédagogiques : accès par étape =====
    Gratuit : l’en-tête et les FICHES_LIBRES premières étapes de la fiche du professeur (I et II).
    Réservé aux abonnés : les autres étapes (III, IV, V), la page de l’apprenant, le corrigé et le PDF.
@@ -29,7 +30,7 @@ function canAccess(id){return GRATUIT||isSubscribed()||ls("bought",[]).indexOf(i
    FICHES_VERROU=false : les fiches suivent GRATUIT comme le reste. */
 var FICHES_VERROU=true,FICHES_LIBRES=2;
 function accesLabel(d){if(isSubscribed())return "Inclus";if(d.k==="Fiches"&&FICHES_VERROU&&!ficheAcces(d.id))return "Aperçu gratuit";return GRATUIT?"Gratuit":"Acheté"}
-function ficheAcces(id){return (GRATUIT&&!FICHES_VERROU)||isSubscribed()||ls("bought",[]).indexOf(id)>-1}
+function ficheAcces(id){return (GRATUIT&&!FICHES_VERROU)||isSubscribed()||achete(id)}
 function fmtDate(iso){return new Date(iso).toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})}
 function activateSub(id){var p=PLANS.filter(function(x){return x.id===id})[0],s=ls("sub",{}),b=Math.max(Date.now(),s.end?Date.parse(s.end):0);
  sv("sub",{plan:id,end:new Date(b+p.d*864e5).toISOString()});cart=[];sv("cart",cart)}
@@ -103,7 +104,7 @@ function activeCycle(){var h=homeCycle();if(!h)return"Tous";if(!canSwitchCycle()
 function setHomeCycle(c){if(!CYCLES[c])return;try{localStorage.setItem("user_cycle",c);localStorage.setItem("view_cycle",c)}catch(e){}}
 function setViewCycle(c){if(!CYCLES[c]||accessibleCycles().indexOf(c)<0)return false;try{localStorage.setItem("view_cycle",c)}catch(e){}return true}
 /* Un document est visible si son cycle est accessible, ou s’il a déjà été acheté. Les visiteurs non connectés ne sont pas filtrés (aperçu public). */
-function cycleOK(d){return !userName()||accessibleCycles().indexOf(d.c)>-1||ls("bought",[]).indexOf(d.id)>-1}
+function cycleOK(d){return !userName()||accessibleCycles().indexOf(d.c)>-1||achete(d.id)}
 function levelChips(cyc,niv){var h="";
  if(canSwitchCycle())h=["Tous"].concat(Object.keys(CYCLES)).map(function(c){return '<button class="chip'+(c===cyc?" on":"")+'" data-cy="'+esc(c)+'">'+(c==="Tous"?"Tous les cycles":esc(c))+'</button>'}).join("");
  if(cyc!=="Tous")h+=["Tous"].concat(CYCLES[cyc]).map(function(n){return '<button class="chip'+(n===niv?" on":"")+'" data-n="'+esc(n)+'">'+(n==="Tous"?"Tous niveaux":esc(n))+'</button>'}).join("");return h};
@@ -328,6 +329,7 @@ var IC={
  heart:"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54z",
  star:"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z",
  home:"M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z",
+ crown:"M5 16L3 5l5.5 5L12 4l3.5 6L21 5l-2 11H5zm14 3c0 .6-.4 1-1 1H6c-.6 0-1-.4-1-1v-1h14v1z",
  cart:"M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42a.25.25 0 0 1-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49A1 1 0 0 0 20 4H5.21l-.94-2zm10 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z",
  user:"M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z",
  grid:"M3 3h8v8H3zm10 0h8v8h-8zM3 13h8v8H3zm10 0h8v8h-8z",
@@ -469,7 +471,7 @@ function applyTheme(){var t="";try{t=localStorage.getItem("theme")||""}catch(e){
 applyTheme();
 
 /* Repère visuel des fiches pédagogiques : bandeau bleu en haut de la carte + contour bleu (catalogue, favoris, accueil) */
-try{var _fs=document.createElement("style");_fs.textContent=".doc.fiche{box-shadow:0 0 0 2px #5f84e6,0 8px 24px rgba(90,60,170,.08)}.fband{display:flex;align-items:center;gap:6px;background:linear-gradient(90deg,#4a6fdc,#7d9cf0);color:#fff;font-size:12px;font-weight:700;padding:7px 12px;border-radius:14px;margin-bottom:8px}.fband svg{width:14px;height:14px;flex:0 0 auto}";document.head.appendChild(_fs)}catch(e){}
+try{var _fs=document.createElement("style");_fs.textContent=".doc.fiche{box-shadow:0 0 0 2px #5f84e6,0 8px 24px rgba(90,60,170,.08)}.fband{display:flex;align-items:center;gap:6px;background:linear-gradient(90deg,#4a6fdc,#7d9cf0);color:#fff;font-size:12px;font-weight:700;padding:7px 12px;border-radius:14px;margin-bottom:8px}.fband svg{width:14px;height:14px;flex:0 0 auto}.fband{white-space:nowrap;min-height:34px;box-sizing:border-box;overflow:hidden}.doc{overflow:hidden}.doc .cov{height:132px;flex:0 0 auto}.doc .body{padding:12px 8px 6px;min-width:0}.doc .body h3{min-height:2.6em;margin-bottom:6px}.doc .meta{margin-bottom:8px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.doc .body>a{display:block;margin-bottom:12px}.doc .r2{gap:8px;min-height:40px;padding-top:2px;min-width:0}.doc .price{flex:1 1 auto;min-width:0;margin-right:0}.doc .price b{display:block;font-size:13.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.doc .add{flex:0 0 40px;width:40px;height:40px}";document.head.appendChild(_fs)}catch(e){}
 function docClass(d){return d.k==="Fiches"?"doc fiche":"doc"}
 function ficheBand(d){return d.k==="Fiches"?'<div class="fband"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm-1 7V3.5L18.5 9zM8 13h8v2H8zm0 4h8v2H8z"/></svg>Fiche pédagogique</div>':""}
 /* Carte de document (catalogue, favoris) */
@@ -513,12 +515,12 @@ function bindCards(el,cb){
   if(c){var id2=+c.dataset.c,j=cart.indexOf(id2);j>-1?cart.splice(j,1):cart.push(id2);sv("cart",cart);
    c.classList.toggle("in",j<0);c.innerHTML=ico(j<0?"check":"plus",20);c.setAttribute("aria-label",j<0?"Retirer du panier":"Ajouter au panier");toast(j<0?"Ajouté au panier":"Retiré du panier");if(cb)cb("cart")}}}
 
-/* Barre de navigation du bas : drawNav(0..4) = Accueil, Catalogue, Favoris, Panier, Profil */
-var NAVITEMS=[["home","Accueil","index.html"],["grid","Catalogue","catalogue.html"],["heart","Favoris","favoris.html"],["cart","Panier","panier.html"],["user","Profil","profil.html"]];
+/* Barre de navigation du bas : drawNav(0..4) = Accueil, Catalogue, Favoris, Abonnement, Profil */
+var NAVITEMS=[["home","Accueil","index.html"],["grid","Catalogue","catalogue.html"],["heart","Favoris","favoris.html"],["crown","Abonnement","abonnement.html"],["user","Profil","profil.html"]];
 function drawNav(a){
  var nv=$("nav");nv.style.setProperty("--cx",(a*20+10)+"%");
  nv.innerHTML='<div class="bar"></div>'+NAVITEMS.map(function(n,i){return '<button type="button" data-h="'+BASE+n[2]+'" aria-label="'+n[1]+'" title="'+n[1]+'"'+(i===a?' class="on" aria-current="page"':'')+'><span class="ic">'+ico(n[0],24)+'</span>'+
-  (n[1]==="Panier"&&cart.length?'<span class="bd">'+cart.length+'</span>':"")+'</button>'}).join("")}
+  ""+'</button>'}).join("")}
 function navClick(e){var b=e.target.closest("button");if(b&&b.dataset.h&&b.getAttribute("aria-current")!=="page")location.href=b.dataset.h}
 
 /* ===== Application installable et mode hors ligne ===== */

@@ -344,7 +344,7 @@ function render(){
  $("nm").textContent=n||ROLES[ROLE];
  $("bigL").textContent=l;
  $("role").textContent=ROLES[ROLE];
- $("acc").textContent=teacher?"Accès gratuit à toutes les ressources : cours, fiches, programmes, évaluations et exercices.":"Accès gratuit à l’ensemble des cours.";
+ $("acc").textContent=teacher?(isSubscribed()?"Accès à toutes les ressources : cours, fiches complètes, programmes, évaluations et exercices.":"Cours, programmes, évaluations et exercices gratuits. Fiches pédagogiques : deux premières étapes gratuites, le reste réservé aux abonnés."):"Accès gratuit à l’ensemble des cours.";
  var rows=infoRows();
  $("info").innerHTML=rows.length?rows.map(function(r){return '<div class="irow"><span>'+esc(r[0])+'</span><b>'+esc(r[1])+'</b></div>'}).join(""):
   '<p class="none">Complétez votre profil pour personnaliser votre espace.</p>';
