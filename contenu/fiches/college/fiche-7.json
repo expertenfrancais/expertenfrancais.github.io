@@ -1,0 +1,313 @@
+{
+ "id": 10007,
+ "meta": {
+  "t": "Fiche modèle n° 6 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8,
+  "fn": 7
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "Amener l’apprenant à employer correctement les temps et les modes du verbe (modèle de test).",
+  "objectifSpecifique": "Conjuguer des verbes au conditionnel présent (modèle de test).",
+  "titre": "Le conditionnel présent",
+  "theme": "",
+  "objet": "Le conditionnel présent",
+  "numero": 6,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « Le conditionnel présent », l’élève doit être capable de conjuguer cinq verbes au conditionnel présent, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et dire ce qui les distingue.",
+   "texte": "Je vais au marché.\nJ’irais au marché si j’avais le temps.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Dans quelle phrase l’action est-elle certaine ?"
+    },
+    {
+     "n": 2,
+     "q": "Dans quelle phrase l’action dépend-elle d’une condition ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Dans la première : « Je vais au marché »."
+    },
+    {
+     "n": 2,
+     "r": "Dans la deuxième : elle dépend de la condition « si j’avais le temps »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à conjuguer les verbes au conditionnel présent. À la fin, tu devras réussir au moins 4 verbes sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Comment écrit-on le futur simple de « chanter » avec « je » ?"
+    },
+    {
+     "n": 4,
+     "q": "Comment écrit-on l’imparfait de « avoir » avec « tu » ?"
+    },
+    {
+     "n": 5,
+     "q": "Quelles sont les terminaisons de l’imparfait ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "On écrit « je chanterai »."
+    },
+    {
+     "n": 4,
+     "r": "On écrit « tu avais »."
+    },
+    {
+     "n": 5,
+     "r": "Ce sont -ais, -ais, -ait, -ions, -iez, -aient."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Si j’avais de l’argent, j’achèterais un vélo. 2. Si tu travaillais, tu réussirais. 3. Nous voudrions visiter le musée. 4. Pourriez-vous m’aider, s’il vous plaît ?",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quel est le verbe de la proposition principale dans la phrase 1 ?"
+      },
+      {
+       "n": 7,
+       "q": "Quel est le verbe qui suit « si » dans la phrase 1 ?"
+      },
+      {
+       "n": 8,
+       "q": "Que remarque-t-on sur la fin de « achèterais » et de « réussirais » ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "C’est « achèterais »."
+      },
+      {
+       "n": 7,
+       "r": "C’est « avais », à l’imparfait."
+      },
+      {
+       "n": 8,
+       "r": "Ils se terminent par -rais : le radical du futur plus la terminaison de l’imparfait."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Si j’avais de l’argent, j’achèterais un vélo. 2. Si tu travaillais, tu réussirais. 3. Nous voudrions visiter le musée. 4. Pourriez-vous m’aider, s’il vous plaît ?",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Comment le conditionnel présent est-il formé ?"
+      },
+      {
+       "n": 10,
+       "q": "Quand l’emploie-t-on ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "Il est formé du radical du futur simple et des terminaisons de l’imparfait."
+      },
+      {
+       "n": 10,
+       "r": "On l’emploie pour exprimer une hypothèse, un souhait ou une demande polie."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : le conditionnel présent se forme avec le radical du futur simple et les terminaisons de l’imparfait : -ais, -ais, -ait, -ions, -iez, -aient. Il exprime une hypothèse, un souhait ou une demande polie.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Conjuguer chacun des cinq verbes au conditionnel présent.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à conjuguer les verbes au conditionnel présent.",
+    "tache": "Conjuguer cinq verbes au conditionnel présent.",
+    "consigne": "Sur ta feuille de copie, conjugue chaque verbe entre parenthèses au conditionnel présent.",
+    "items": [
+     "Si j’avais le temps, je (visiter) le musée.",
+     "Si tu étudiais, tu (réussir).",
+     "Nous (vouloir) un peu d’eau.",
+     "Ils (aller) au village s’il faisait beau.",
+     "Vous (pouvoir) m’aider ?"
+    ],
+    "cle": [
+     "visiterais",
+     "réussirais",
+     "voudrions",
+     "iraient",
+     "pourriez"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le conditionnel présent",
+  "intro": "Dans cette leçon, tu apprends à conjuguer les verbes au conditionnel présent.",
+  "corpus": [
+   "Si j’avais de l’argent, j’achèterais un vélo.",
+   "Si tu travaillais, tu réussirais.",
+   "Nous voudrions visiter le musée.",
+   "Pourriez-vous m’aider, s’il vous plaît ?"
+  ],
+  "retenir": "Le **conditionnel présent** dit une hypothèse, un souhait ou une demande polie.\nJe prends le radical du **futur** : j’achèter-.\nJ’ajoute les terminaisons de l’**imparfait** : -ais, -ais, -ait, -ions, -iez, -aient.\nAttention : futur « je viendrai », conditionnel « je viendrais ».\nExemple : Si tu travaillais, tu **réussirais**.",
+  "tableau": {
+   "head": [
+    "Pronom",
+    "Terminaison",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "je",
+     "-ais",
+     "j’achèterais"
+    ],
+    [
+     "tu",
+     "-ais",
+     "tu réussirais"
+    ],
+    [
+     "nous",
+     "-ions",
+     "nous voudrions"
+    ],
+    [
+     "vous",
+     "-iez",
+     "vous pourriez"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je conjugue le verbe au conditionnel présent.",
+    "items": [
+     "Je (chanter) si j’avais une belle voix.",
+     "Tu (finir) plus vite si tu travaillais.",
+     "Elle (venir) si elle pouvait.",
+     "Nous (prendre) le bus s’il pleuvait.",
+     "Vous (faire) un gâteau si vous aviez des œufs."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si le verbe en gras est au futur simple ou au conditionnel présent.",
+    "items": [
+     "Demain, je **viendrai**.",
+     "Si j’avais le temps, je **viendrais**.",
+     "Tu **finiras** ce soir.",
+     "Tu **finirais** plus vite si tu t’appliquais."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. chanterais 2. finirais 3. viendrait 4. prendrions 5. feriez",
+  "Exercice 2 : 1. futur simple 2. conditionnel présent 3. futur simple 4. conditionnel présent",
+  "Évaluation (étape V) : 1. visiterais 2. réussirais 3. voudrions 4. iraient 5. pourriez",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

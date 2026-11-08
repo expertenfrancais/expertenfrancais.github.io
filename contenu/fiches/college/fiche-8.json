@@ -1,0 +1,318 @@
+{
+ "id": 10008,
+ "meta": {
+  "t": "Fiche modèle n° 7 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "g",
+  "r": 4.8,
+  "fn": 8
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "Amener l’apprenant à écrire correctement les accords dans la phrase (modèle de test).",
+  "objectifSpecifique": "Accorder le participe passé employé avec avoir (modèle de test).",
+  "titre": "L’accord du participe passé employé avec avoir",
+  "theme": "",
+  "objet": "L’accord du participe passé employé avec avoir",
+  "numero": 7,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « L’accord du participe passé employé avec avoir », l’élève doit être capable d’accorder correctement cinq participes passés employés avec avoir, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et regarder la fin du participe passé.",
+   "texte": "Marie a mangé la mangue.\nLa mangue que Marie a mangée était mûre.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Comment s’écrit « mangé » dans la première phrase ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment s’écrit-il dans la deuxième phrase ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il s’écrit sans accord : « mangé »."
+    },
+    {
+     "n": 2,
+     "r": "Il s’écrit avec un e : « mangée »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à accorder le participe passé employé avec avoir. À la fin, tu devras réussir au moins 4 participes sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un COD ?"
+    },
+    {
+     "n": 4,
+     "q": "Quel auxiliaire emploie-t-on dans « Nous avons mangé » ?"
+    },
+    {
+     "n": 5,
+     "q": "Comment trouve-t-on le genre et le nombre d’un nom ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est le complément qui répond à « qui ? » ou « quoi ? » après le verbe."
+    },
+    {
+     "n": 4,
+     "r": "On emploie l’auxiliaire avoir."
+    },
+    {
+     "n": 5,
+     "r": "On regarde s’il est masculin ou féminin, singulier ou pluriel."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Les mangues que j’ai cueillies sont mûres. 2. Nous avons mangé les mangues. 3. La lettre que Paul a écrite est longue. 4. Les enfants ont joué dans la cour.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quel est le COD dans la phrase 2 et où est-il placé ?"
+      },
+      {
+       "n": 7,
+       "q": "Où est le COD dans la phrase 1 ?"
+      },
+      {
+       "n": 8,
+       "q": "Comment s’écrit le participe passé dans chacune de ces deux phrases ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Le COD est « les mangues », placé après le verbe."
+      },
+      {
+       "n": 7,
+       "r": "Il est placé avant le verbe : « que » remplace « les mangues »."
+      },
+      {
+       "n": 8,
+       "r": "« Mangé » reste invariable ; « cueillies » prend le genre et le nombre du COD."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Les mangues que j’ai cueillies sont mûres. 2. Nous avons mangé les mangues. 3. La lettre que Paul a écrite est longue. 4. Les enfants ont joué dans la cour.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Que fait le participe passé employé avec avoir quand le COD est placé après lui ?"
+      },
+      {
+       "n": 10,
+       "q": "Que fait-il quand le COD est placé avant lui ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "Il ne s’accorde pas."
+      },
+      {
+       "n": 10,
+       "r": "Il s’accorde en genre et en nombre avec ce COD."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : avec l’auxiliaire avoir, le participe passé s’accorde en genre et en nombre avec le COD seulement si ce COD est placé avant le verbe. Si le COD est placé après le verbe, ou s’il n’y a pas de COD, le participe passé reste invariable.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Accorder correctement chacun des cinq participes passés employés avec avoir.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à accorder le participe passé employé avec avoir.",
+    "tache": "Accorder correctement cinq participes passés employés avec avoir.",
+    "consigne": "Sur ta feuille de copie, écris chaque participe passé entre parenthèses avec la bonne orthographe.",
+    "items": [
+     "Les lettres que j’ai (écrire) sont courtes.",
+     "Elle a (cueillir) les fleurs.",
+     "La robe que ma mère a (acheter) est belle.",
+     "Nous avons (finir) nos devoirs.",
+     "Les films que tu as (voir) étaient longs."
+    ],
+    "cle": [
+     "écrites",
+     "cueilli",
+     "achetée",
+     "fini",
+     "vus"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’accord du participe passé employé avec avoir",
+  "intro": "Dans cette leçon, tu apprends à bien écrire la fin du participe passé avec avoir.",
+  "corpus": [
+   "Les mangues que j’ai cueillies sont mûres.",
+   "Nous avons mangé les mangues.",
+   "La lettre que Paul a écrite est longue.",
+   "Les enfants ont joué dans la cour."
+  ],
+  "retenir": "Avec **avoir**, je cherche le **COD**.\nSi le COD est **avant** le verbe, j’accorde le participe passé.\nSi le COD est **après** le verbe, je n’accorde pas.\nS’il n’y a pas de COD, je n’accorde pas.\nExemple : Les mangues que j’ai **cueillies** sont mûres.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "COD",
+    "Place du COD",
+    "Participe passé"
+   ],
+   "rows": [
+    [
+     "Les mangues que j’ai cueillies sont mûres.",
+     "que (les mangues)",
+     "avant le verbe",
+     "cueillies (accordé)"
+    ],
+    [
+     "Nous avons mangé les mangues.",
+     "les mangues",
+     "après le verbe",
+     "mangé (invariable)"
+    ],
+    [
+     "La lettre que Paul a écrite est longue.",
+     "que (la lettre)",
+     "avant le verbe",
+     "écrite (accordé)"
+    ],
+    [
+     "Les enfants ont joué dans la cour.",
+     "pas de COD",
+     "aucune",
+     "joué (invariable)"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec le participe passé qui convient.",
+    "items": [
+     "Les élèves ont (lire) la leçon.",
+     "La leçon que les élèves ont (lire) est facile.",
+     "Ma mère a (préparer) les repas.",
+     "Les repas que ma mère a (préparer) sont bons.",
+     "Nous avons (regarder) un film."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si le COD est placé avant ou après le verbe.",
+    "items": [
+     "Les fruits que j’ai cueillis sont frais.",
+     "J’ai cueilli des fruits.",
+     "La chanson que tu as chantée est belle.",
+     "Tu as chanté une belle chanson."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. lu 2. lue 3. préparé 4. préparés 5. regardé",
+  "Exercice 2 : 1. avant 2. après 3. avant 4. après",
+  "Évaluation (étape V) : 1. écrites 2. cueilli 3. achetée 4. fini 5. vus",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

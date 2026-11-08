@@ -1,0 +1,308 @@
+{
+ "id": 10010,
+ "meta": {
+  "t": "Fiche modèle n° 9 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8,
+  "fn": 10
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "objectifGeneral": "Amener l’apprenant à enrichir son vocabulaire et à l’adapter à la situation (modèle de test).",
+  "objectifSpecifique": "Classer des phrases selon leur niveau de langue (modèle de test).",
+  "titre": "Les niveaux de langue",
+  "theme": "",
+  "objet": "Les niveaux de langue",
+  "numero": 9,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « Les niveaux de langue », l’élève doit être capable de classer cinq phrases selon leur niveau de langue, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et dire à qui elles s’adressent.",
+   "texte": "À un ami : « Passe-moi ton bouquin. »\nAu directeur : « Pourriez-vous me prêter votre livre ? »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Parle-t-on de la même façon à un ami et au directeur ?"
+    },
+    {
+     "n": 2,
+     "q": "Pourquoi change-t-on de façon de parler ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non, on choisit des mots différents."
+    },
+    {
+     "n": 2,
+     "r": "Parce que la situation et la personne à qui l’on parle ne sont pas les mêmes."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à reconnaître les trois niveaux de langue. À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un synonyme ?"
+    },
+    {
+     "n": 4,
+     "q": "Donne un synonyme de « grand »."
+    },
+    {
+     "n": 5,
+     "q": "À qui parle-t-on avec politesse ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un mot de sens proche d’un autre mot."
+    },
+    {
+     "n": 4,
+     "r": "Réponse possible : « immense » ou « haut »."
+    },
+    {
+     "n": 5,
+     "r": "On parle avec politesse à une personne plus âgée, à un supérieur ou à une personne que l’on ne connaît pas."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. J’ai la dalle. 2. J’ai faim. 3. Je suis affamé. 4. Mon père m’a donné de la bouffe.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quelles phrases disent à peu près la même chose ?"
+      },
+      {
+       "n": 7,
+       "q": "Quelles phrases utilisent des mots de la vie de tous les jours entre amis ?"
+      },
+      {
+       "n": 8,
+       "q": "Quelle phrase utilise un mot recherché ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Les phrases 1, 2 et 3 : elles expriment l’idée d’avoir faim."
+      },
+      {
+       "n": 7,
+       "r": "Ce sont les phrases 1 et 4 (« la dalle », « la bouffe »)."
+      },
+      {
+       "n": 8,
+       "r": "C’est la phrase 3 (« affamé »)."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. J’ai la dalle. 2. J’ai faim. 3. Je suis affamé. 4. Mon père m’a donné de la bouffe.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Dans quelle situation emploie-t-on le niveau familier ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans quelle situation emploie-t-on le niveau soutenu ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "On l’emploie entre amis ou en famille, surtout à l’oral."
+      },
+      {
+       "n": 10,
+       "r": "On l’emploie à l’écrit soigné ou dans un discours officiel."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : il existe trois niveaux de langue : le niveau familier (entre amis), le niveau courant (en classe, au quotidien) et le niveau soutenu (à l’écrit soigné, dans un discours officiel). On choisit le niveau selon la situation et la personne à qui l’on parle.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Classer chacune des cinq phrases selon son niveau de langue.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à reconnaître les trois niveaux de langue.",
+    "tache": "Classer cinq phrases selon leur niveau de langue.",
+    "consigne": "Sur ta feuille de copie, classe chaque phrase : écris familier, courant ou soutenu.",
+    "items": [
+     "Il a plein de fric.",
+     "Il a beaucoup d’argent.",
+     "Il possède une grande fortune.",
+     "Mon frère a bossé toute la journée.",
+     "Mon frère a travaillé toute la journée."
+    ],
+    "cle": [
+     "familier",
+     "courant",
+     "soutenu",
+     "familier",
+     "courant"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les niveaux de langue",
+  "intro": "Dans cette leçon, tu apprends à choisir les bons mots selon la situation.",
+  "corpus": [
+   "J’ai la dalle.",
+   "J’ai faim.",
+   "Je suis affamé.",
+   "Mon père m’a donné de la bouffe."
+  ],
+  "retenir": "Le niveau **familier** s’emploie entre amis ou en famille.\nLe niveau **courant** s’emploie en classe et au quotidien.\nLe niveau **soutenu** s’emploie à l’écrit soigné et dans les discours.\nJe choisis le niveau selon la situation.\nExemple : J’ai la dalle (familier) ; j’ai faim (courant) ; je suis affamé (soutenu).",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Niveau de langue"
+   ],
+   "rows": [
+    [
+     "J’ai la dalle.",
+     "familier"
+    ],
+    [
+     "J’ai faim.",
+     "courant"
+    ],
+    [
+     "Je suis affamé.",
+     "soutenu"
+    ],
+    [
+     "Mon père m’a donné de la bouffe.",
+     "familier"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis le niveau de langue de chaque phrase.",
+    "items": [
+     "J’ai trop la trouille.",
+     "J’ai peur.",
+     "Je suis saisi d’effroi.",
+     "Il est vachement fort.",
+     "Il est très fort."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je choisis le mot du niveau courant.",
+    "items": [
+     "(bagnole / voiture)",
+     "(gosse / enfant)",
+     "(bouquin / livre)",
+     "(toubib / médecin)"
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. familier 2. courant 3. soutenu 4. familier 5. courant",
+  "Exercice 2 : 1. voiture 2. enfant 3. livre 4. médecin",
+  "Évaluation (étape V) : 1. familier 2. courant 3. soutenu 4. familier 5. courant",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

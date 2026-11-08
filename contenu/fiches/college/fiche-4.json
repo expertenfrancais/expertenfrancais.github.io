@@ -1,0 +1,300 @@
+{
+ "id": 10004,
+ "meta": {
+  "t": "Fiche modèle n° 3 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "fn": 4
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "Amener l’apprenant à rapporter des paroles de façon correcte (modèle de test).",
+  "objectifSpecifique": "Transformer des phrases du discours direct au discours indirect (modèle de test).",
+  "titre": "Le discours direct et le discours indirect",
+  "theme": "",
+  "objet": "Le discours direct et le discours indirect",
+  "numero": 3,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « Le discours direct et le discours indirect », l’élève doit être capable de transformer cinq phrases du discours direct au discours indirect, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et dire comment les paroles sont rapportées.",
+   "texte": "Ma mère dit : « Viens manger. »\nMa mère dit de venir manger.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Comment voit-on que c’est la mère qui parle dans la première phrase ?"
+    },
+    {
+     "n": 2,
+     "q": "Peut-on rapporter les mêmes paroles autrement ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "On le voit grâce aux deux-points et aux guillemets."
+    },
+    {
+     "n": 2,
+     "r": "Oui : « Ma mère dit de venir manger. »"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à rapporter les paroles de quelqu’un de deux façons. À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "À quoi servent les guillemets ?"
+    },
+    {
+     "n": 4,
+     "q": "Quels sont les pronoms personnels de la première et de la deuxième personne du singulier ?"
+    },
+    {
+     "n": 5,
+     "q": "À quel temps est conjugué « Marie dit » ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Ils servent à encadrer les paroles de quelqu’un."
+    },
+    {
+     "n": 4,
+     "r": "Ce sont « je » (première personne) et « tu » (deuxième personne)."
+    },
+    {
+     "n": 5,
+     "r": "Il est conjugué au présent de l’indicatif."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Marie dit : « J’aime ce livre. » 2. Marie dit qu’elle aime ce livre. 3. Paul me demande : « Où vas-tu ? » 4. Paul me demande où je vais.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quels signes de ponctuation trouve-t-on dans les phrases 1 et 3 ?"
+      },
+      {
+       "n": 7,
+       "q": "Ces signes existent-ils dans les phrases 2 et 4 ?"
+      },
+      {
+       "n": 8,
+       "q": "Quel mot relie « Marie dit » à la suite dans la phrase 2 ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "On trouve les deux-points et les guillemets."
+      },
+      {
+       "n": 7,
+       "r": "Non, ils ont disparu."
+      },
+      {
+       "n": 8,
+       "r": "C’est le mot « que »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Marie dit : « J’aime ce livre. » 2. Marie dit qu’elle aime ce livre. 3. Paul me demande : « Où vas-tu ? » 4. Paul me demande où je vais.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Que devient « J’aime » dans la phrase 2 ?"
+      },
+      {
+       "n": 10,
+       "q": "Que devient « Où vas-tu ? » dans la phrase 4 ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "Il devient « elle aime » : le pronom change."
+      },
+      {
+       "n": 10,
+       "r": "Il devient « où je vais » : il n’y a plus de point d’interrogation ni d’inversion du sujet."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : au discours direct, on rapporte les paroles telles qu’elles sont dites, avec deux-points et guillemets. Au discours indirect, on les rapporte avec un verbe introducteur et un mot de liaison (que, si, où…), sans guillemets. Les pronoms changent.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Transformer chacune des cinq phrases du discours direct au discours indirect.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à rapporter des paroles au discours direct et au discours indirect.",
+    "tache": "Transformer cinq phrases du discours direct au discours indirect.",
+    "consigne": "Sur ta feuille de copie, transforme chaque phrase au discours indirect.",
+    "items": [
+     "Léa dit : « Je suis fatiguée. »",
+     "Papa me dit : « Tu pars demain. »",
+     "Awa dit : « J’ai faim. »",
+     "Jean me demande : « Où habites-tu ? »",
+     "Ma mère dit : « Il fait chaud. »"
+    ],
+    "cle": [
+     "Léa dit qu’elle est fatiguée.",
+     "Papa me dit que je pars demain.",
+     "Awa dit qu’elle a faim.",
+     "Jean me demande où j’habite.",
+     "Ma mère dit qu’il fait chaud."
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le discours direct et le discours indirect",
+  "intro": "Dans cette leçon, tu apprends à rapporter ce que quelqu’un a dit.",
+  "corpus": [
+   "Marie dit : « J’aime ce livre. »",
+   "Marie dit qu’elle aime ce livre.",
+   "Paul me demande : « Où vas-tu ? »",
+   "Paul me demande où je vais."
+  ],
+  "retenir": "Au **discours direct**, on écrit les paroles entre guillemets, après les deux-points.\nAu **discours indirect**, il n’y a plus de guillemets.\nOn ajoute un mot de liaison : **que**, **si**, **où**…\nLes pronoms changent : « j’aime » devient « elle aime ».\nExemple : Marie dit : « J’aime ce livre. » devient Marie dit qu’elle aime ce livre.",
+  "tableau": {
+   "head": [
+    "Discours direct",
+    "Discours indirect"
+   ],
+   "rows": [
+    [
+     "Marie dit : « J’aime ce livre. »",
+     "Marie dit qu’elle aime ce livre."
+    ],
+    [
+     "Paul me demande : « Où vas-tu ? »",
+     "Paul me demande où je vais."
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis si la phrase est au discours direct ou au discours indirect.",
+    "items": [
+     "Awa dit : « J’ai faim. »",
+     "Awa dit qu’elle a faim.",
+     "Paul me demande : « Où vas-tu ? »",
+     "Paul me demande où je vais.",
+     "Mon père dit : « Il pleut. »"
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je complète le discours indirect avec le mot qui convient.",
+    "items": [
+     "Léa dit : « Je chante. » devient Léa dit … elle chante.",
+     "Marc dit : « Tout est prêt. » devient Marc dit … tout est prêt.",
+     "Sara me demande : « Où habites-tu ? » devient Sara me demande … j’habite.",
+     "Tom dit : « Je suis content. » devient Tom dit … il est content."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. direct 2. indirect 3. direct 4. indirect 5. direct",
+  "Exercice 2 : 1. qu’ 2. que 3. où 4. qu’",
+  "Évaluation (étape V) : 1. Léa dit qu’elle est fatiguée. 2. Papa me dit que je pars demain. 3. Awa dit qu’elle a faim. 4. Jean me demande où j’habite. 5. Ma mère dit qu’il fait chaud.",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

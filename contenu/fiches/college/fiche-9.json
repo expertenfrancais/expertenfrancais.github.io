@@ -1,0 +1,303 @@
+{
+ "id": 10009,
+ "meta": {
+  "t": "Fiche modèle n° 8 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "h",
+  "r": 4.8,
+  "fn": 9
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "Amener l’apprenant à écrire correctement les mots qui se prononcent de la même façon (modèle de test).",
+  "objectifSpecifique": "Choisir entre quel(le)(s) et qu’elle(s) (modèle de test).",
+  "titre": "Quel(le)(s) et qu’elle(s)",
+  "theme": "",
+  "objet": "Quel(le)(s) et qu’elle(s)",
+  "numero": 8,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « Quel(le)(s) et qu’elle(s) », l’élève doit être capable de choisir la bonne orthographe entre quel(le)(s) et qu’elle(s) dans cinq phrases, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et prononcer les mots en gras à voix haute.",
+   "texte": "Quelle heure est-il ?\nJe crois qu’elle est partie.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quels mots se prononcent de la même façon dans ces phrases ?"
+    },
+    {
+     "n": 2,
+     "q": "Ont-ils le même sens ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Les mots « quelle » et « qu’elle » se prononcent de la même façon."
+    },
+    {
+     "n": 2,
+     "r": "Non, ils n’ont pas le même sens ni le même emploi."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à écrire correctement quel(le)(s) et qu’elle(s). À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un pronom personnel ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’une conjonction de subordination ?"
+    },
+    {
+     "n": 5,
+     "q": "Par quel mot peut-on remplacer « elle » dans « Elle chante » ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un mot qui remplace un nom : il, elle, ils, elles."
+    },
+    {
+     "n": 4,
+     "r": "C’est un mot qui relie une proposition subordonnée à la proposition principale : que, quand, parce que."
+    },
+    {
+     "n": 5,
+     "r": "On peut le remplacer par un nom : « Marie chante »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Quelle belle journée ! 2. Je pense qu’elle viendra. 3. Quels livres as-tu lus ? 4. Il faut qu’elles partent.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, avec quel mot « quelle » s’accorde-t-il ?"
+      },
+      {
+       "n": 7,
+       "q": "Par quels mots peut-on remplacer « qu’elle » dans la phrase 2 ?"
+      },
+      {
+       "n": 8,
+       "q": "Avec quel mot « quels » s’accorde-t-il dans la phrase 3 ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Il s’accorde avec le nom « journée »."
+      },
+      {
+       "n": 7,
+       "r": "On peut écrire « qu’il » : « Je pense qu’il viendra »."
+      },
+      {
+       "n": 8,
+       "r": "Il s’accorde avec le nom « livres »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Quelle belle journée ! 2. Je pense qu’elle viendra. 3. Quels livres as-tu lus ? 4. Il faut qu’elles partent.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Quand écrit-on quel, quelle, quels ou quelles en un seul mot ?"
+      },
+      {
+       "n": 10,
+       "q": "Quand écrit-on qu’elle ou qu’elles ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "On l’écrit en un seul mot quand il est placé devant un nom : il s’accorde avec ce nom."
+      },
+      {
+       "n": 10,
+       "r": "On l’écrit quand on peut le remplacer par « qu’il » ou « qu’ils » : c’est « que » plus « elle(s) »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : quel, quelle, quels, quelles s’écrivent en un seul mot et s’accordent avec le nom. Qu’elle et qu’elles s’écrivent avec une apostrophe : c’est « que » plus « elle(s) ». On peut les remplacer par « qu’il » et « qu’ils ».",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Choisir la bonne orthographe dans chacune des cinq phrases.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à distinguer quel(le)(s) de qu’elle(s).",
+    "tache": "Choisir la bonne orthographe entre quel(le)(s) et qu’elle(s) dans cinq phrases.",
+    "consigne": "Sur ta feuille de copie, choisis et écris le bon mot dans chaque phrase.",
+    "items": [
+     "(Quelle / Qu’elle) heure est-il ?",
+     "Je crois (quelle / qu’elle) est partie.",
+     "(Quels / Qu’elles) beaux chants !",
+     "Il faut (quelles / qu’elles) viennent.",
+     "(Quel / Qu’elle) temps fait-il ?"
+    ],
+    "cle": [
+     "Quelle",
+     "qu’elle",
+     "Quels",
+     "qu’elles",
+     "Quel"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Quel(le)(s) et qu’elle(s)",
+  "intro": "Dans cette leçon, tu apprends à ne plus confondre quelle et qu’elle.",
+  "corpus": [
+   "Quelle belle journée !",
+   "Je pense qu’elle viendra.",
+   "Quels livres as-tu lus ?",
+   "Il faut qu’elles partent."
+  ],
+  "retenir": "**Quel, quelle, quels, quelles** s’écrivent en un mot.\nIls vont devant un nom et s’accordent avec lui.\n**Qu’elle, qu’elles** s’écrivent avec une apostrophe : que + elle(s).\nTest : je peux mettre « qu’il » ou « qu’ils » à la place.\nExemple : Je pense **qu’elle** viendra (je pense qu’il viendra).",
+  "tableau": {
+   "head": [
+    "Mot",
+    "Sens",
+    "Test"
+   ],
+   "rows": [
+    [
+     "quel, quelle, quels, quelles",
+     "il accompagne un nom",
+     "on l’accorde avec le nom"
+    ],
+    [
+     "qu’elle, qu’elles",
+     "que + elle(s)",
+     "on peut mettre qu’il, qu’ils"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je choisis entre quelle(s) et qu’elle(s).",
+    "items": [
+     "(Quelle / Qu’elle) belle fleur !",
+     "Je sais (quelle / qu’elle) viendra.",
+     "(Quelles / Qu’elles) sont tes idées ?",
+     "Il faut (quelles / qu’elles) rentrent.",
+     "Je veux savoir (quelle / qu’elle) heure il est."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si je peux remplacer le mot en gras par « qu’il » (oui ou non).",
+    "items": [
+     "Je pense **qu’elle** viendra.",
+     "**Quelle** belle journée !",
+     "Il faut **qu’elle** parte.",
+     "**Quelle** heure est-il ?"
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. Quelle 2. qu’elle 3. Quelles 4. qu’elles 5. quelle",
+  "Exercice 2 : 1. oui 2. non 3. oui 4. non",
+  "Évaluation (étape V) : 1. Quelle 2. qu’elle 3. Quels 4. qu’elles 5. Quel",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

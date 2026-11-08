@@ -1,0 +1,313 @@
+{
+ "id": 10003,
+ "meta": {
+  "t": "Fiche modèle n° 2 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "fn": 3
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "Amener l’apprenant à construire et à analyser des phrases de plus en plus riches (modèle de test).",
+  "objectifSpecifique": "Distinguer la phrase simple de la phrase complexe (modèle de test).",
+  "titre": "La phrase simple et la phrase complexe",
+  "theme": "",
+  "objet": "La phrase simple et la phrase complexe",
+  "numero": 2,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « La phrase simple et la phrase complexe », l’élève doit être capable de classer cinq phrases en phrases simples ou complexes, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et compter les verbes conjugués.",
+   "texte": "Les enfants jouent.\nLes enfants jouent pendant que leur mère prépare le repas.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Combien de verbes conjugués y a-t-il dans chaque phrase ?"
+    },
+    {
+     "n": 2,
+     "q": "Quelle phrase donne le plus de renseignements ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "La première phrase a un verbe conjugué, la seconde en a deux."
+    },
+    {
+     "n": 2,
+     "r": "La seconde : elle dit que deux actions se passent en même temps."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à reconnaître la phrase simple et la phrase complexe. À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un verbe conjugué ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’une phrase ?"
+    },
+    {
+     "n": 5,
+     "q": "Quel est le verbe conjugué dans « Mon père rentre tard. » ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un verbe dont la forme change selon le sujet et le temps."
+    },
+    {
+     "n": 4,
+     "r": "Une phrase est un ensemble de mots qui a un sens, qui commence par une majuscule et qui finit par un point."
+    },
+    {
+     "n": 5,
+     "r": "Le verbe conjugué est « rentre »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Les élèves lisent. 2. Le maître explique la leçon et les élèves écoutent. 3. Je pense que tu as raison. 4. Nous sortirons quand la pluie s’arrêtera.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Combien de verbes conjugués y a-t-il dans la phrase 1 ?"
+      },
+      {
+       "n": 7,
+       "q": "Combien de verbes conjugués contient la phrase 2 ?"
+      },
+      {
+       "n": 8,
+       "q": "Quels mots relient les deux idées dans les phrases 2, 3 et 4 ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Il y en a un seul : « lisent »."
+      },
+      {
+       "n": 7,
+       "r": "Elle en contient deux : « explique » et « écoutent »."
+      },
+      {
+       "n": 8,
+       "r": "Ce sont « et » dans la phrase 2, « que » dans la phrase 3 et « quand » dans la phrase 4."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Les élèves lisent. 2. Le maître explique la leçon et les élèves écoutent. 3. Je pense que tu as raison. 4. Nous sortirons quand la pluie s’arrêtera.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Comment appelle-t-on un groupe de mots organisé autour d’un verbe conjugué ?"
+      },
+      {
+       "n": 10,
+       "q": "Quelles phrases du corpus sont des phrases complexes ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "On l’appelle une proposition."
+      },
+      {
+       "n": 10,
+       "r": "Ce sont les phrases 2, 3 et 4, car elles contiennent plusieurs propositions."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : la phrase simple contient une seule proposition, donc un seul verbe conjugué. La phrase complexe contient plusieurs propositions, donc plusieurs verbes conjugués. Les propositions sont reliées par un mot de liaison.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Classer chacune des cinq phrases en phrase simple ou en phrase complexe.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à distinguer la phrase simple de la phrase complexe.",
+    "tache": "Classer cinq phrases en phrases simples ou complexes.",
+    "consigne": "Sur ta feuille de copie, classe chaque phrase : écris « simple » ou « complexe ».",
+    "items": [
+     "Mon frère dort.",
+     "Le soleil se lève et les oiseaux chantent.",
+     "Je sais que tu viendras.",
+     "Les enfants jouent dans la cour.",
+     "Il reste à la maison parce qu’il pleut."
+    ],
+    "cle": [
+     "simple",
+     "complexe",
+     "complexe",
+     "simple",
+     "complexe"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La phrase simple et la phrase complexe",
+  "intro": "Dans cette leçon, tu apprends à compter les verbes pour reconnaître le type de phrase.",
+  "corpus": [
+   "Les élèves lisent.",
+   "Le maître explique la leçon et les élèves écoutent.",
+   "Je pense que tu as raison.",
+   "Nous sortirons quand la pluie s’arrêtera."
+  ],
+  "retenir": "Une **proposition** est un groupe de mots autour d’un verbe conjugué.\nLa **phrase simple** a une seule proposition.\nLa **phrase complexe** a plusieurs propositions.\nPour la reconnaître, je compte les verbes conjugués.\nExemple : Je **pense** que tu **as** raison (deux verbes : phrase complexe).",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbes conjugués",
+    "Type de phrase"
+   ],
+   "rows": [
+    [
+     "Les élèves lisent.",
+     "lisent",
+     "simple"
+    ],
+    [
+     "Le maître explique la leçon et les élèves écoutent.",
+     "explique, écoutent",
+     "complexe"
+    ],
+    [
+     "Je pense que tu as raison.",
+     "pense, as",
+     "complexe"
+    ],
+    [
+     "Nous sortirons quand la pluie s’arrêtera.",
+     "sortirons, s’arrêtera",
+     "complexe"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis si la phrase est simple ou complexe.",
+    "items": [
+     "Ma sœur chante.",
+     "Je mange et tu bois.",
+     "Nous savons que la pluie arrive.",
+     "Le chien aboie dans le jardin.",
+     "Elle sourit parce qu’elle est contente."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je recopie le mot qui relie les deux propositions.",
+    "items": [
+     "Je pense que tu as raison.",
+     "Il pleut et nous restons ici.",
+     "Elle pleure parce qu’elle a mal.",
+     "Nous partirons quand tu seras prêt."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. simple 2. complexe 3. complexe 4. simple 5. complexe",
+  "Exercice 2 : 1. que 2. et 3. parce que 4. quand",
+  "Évaluation (étape V) : 1. simple 2. complexe 3. complexe 4. simple 5. complexe",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

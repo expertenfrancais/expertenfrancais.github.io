@@ -1,0 +1,313 @@
+{
+ "id": 10006,
+ "meta": {
+  "t": "Fiche modèle n° 5 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 6
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "Amener l’apprenant à employer correctement les temps et les modes du verbe (modèle de test).",
+  "objectifSpecifique": "Conjuguer des verbes au subjonctif présent (modèle de test).",
+  "titre": "Le subjonctif présent",
+  "theme": "",
+  "objet": "Le subjonctif présent",
+  "numero": 5,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « Le subjonctif présent », l’élève doit être capable de conjuguer cinq verbes au subjonctif présent, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et comparer la forme du verbe « venir ».",
+   "texte": "Tu viens demain.\nIl faut que tu viennes demain.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle forme du verbe « venir » voit-on dans la deuxième phrase ?"
+    },
+    {
+     "n": 2,
+     "q": "Quel mot précède cette forme ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "On voit « viennes » à la place de « viens »."
+    },
+    {
+     "n": 2,
+     "r": "C’est le mot « que »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à conjuguer les verbes au subjonctif présent. À la fin, tu devras réussir au moins 4 verbes sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Conjugue « finir » au présent de l’indicatif avec « nous »."
+    },
+    {
+     "n": 4,
+     "q": "Quels sont les trois groupes de verbes ?"
+    },
+    {
+     "n": 5,
+     "q": "Quelle est la terminaison de « ils chantent » au présent ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Nous finissons."
+    },
+    {
+     "n": 4,
+     "r": "Le premier groupe (verbes en -er), le deuxième groupe (verbes comme « finir », avec -issons) et le troisième groupe."
+    },
+    {
+     "n": 5,
+     "r": "La terminaison est « -ent »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Il faut que tu viennes demain. 2. Je veux que nous partions tôt. 3. Il faut que je finisse mon travail. 4. Elle souhaite que vous mangiez ensemble.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quel mot se trouve avant le verbe conjugué dans chaque phrase ?"
+      },
+      {
+       "n": 7,
+       "q": "Quels sont les verbes au subjonctif présent dans le corpus ?"
+      },
+      {
+       "n": 8,
+       "q": "Qu’expriment « il faut » et « je veux » ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "C’est le mot « que »."
+      },
+      {
+       "n": 7,
+       "r": "Ce sont « viennes », « partions », « finisse » et « mangiez »."
+      },
+      {
+       "n": 8,
+       "r": "Ils expriment une obligation ou un souhait."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Il faut que tu viennes demain. 2. Je veux que nous partions tôt. 3. Il faut que je finisse mon travail. 4. Elle souhaite que vous mangiez ensemble.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Quelles sont les terminaisons des verbes avec « tu », « nous » et « vous » ?"
+      },
+      {
+       "n": 10,
+       "q": "Quelle est la terminaison du verbe avec « je » ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "Ce sont -es avec « tu », -ions avec « nous » et -iez avec « vous »."
+      },
+      {
+       "n": 10,
+       "r": "C’est la terminaison -e : « que je finisse »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : le subjonctif présent s’emploie après des verbes ou des expressions de volonté, de souhait ou d’obligation (il faut que, je veux que). Ses terminaisons sont : -e, -es, -e, -ions, -iez, -ent.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Conjuguer chacun des cinq verbes au subjonctif présent.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à conjuguer les verbes au subjonctif présent.",
+    "tache": "Conjuguer cinq verbes au subjonctif présent.",
+    "consigne": "Sur ta feuille de copie, conjugue chaque verbe entre parenthèses au subjonctif présent.",
+    "items": [
+     "Il faut que tu (finir) ton travail.",
+     "Je veux que nous (partir) tôt.",
+     "Il faut que vous (manger) avant midi.",
+     "Elle souhaite que je (venir) demain.",
+     "Il faut qu’ils (faire) attention."
+    ],
+    "cle": [
+     "finisses",
+     "partions",
+     "mangiez",
+     "vienne",
+     "fassent"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le subjonctif présent",
+  "intro": "Dans cette leçon, tu apprends à conjuguer les verbes au subjonctif présent.",
+  "corpus": [
+   "Il faut que tu viennes demain.",
+   "Je veux que nous partions tôt.",
+   "Il faut que je finisse mon travail.",
+   "Elle souhaite que vous mangiez ensemble."
+  ],
+  "retenir": "Le **subjonctif présent** s’emploie après « il faut que » ou « je veux que ».\nIl y a toujours le mot **que** avant le verbe.\nTerminaisons : **-e, -es, -e, -ions, -iez, -ent**.\nAttention : « que nous partions » n’est pas « nous partons ».\nExemple : Il faut que tu **viennes** demain.",
+  "tableau": {
+   "head": [
+    "Pronom",
+    "Terminaison",
+    "Exemple"
+   ],
+   "rows": [
+    [
+     "je",
+     "-e",
+     "que je finisse"
+    ],
+    [
+     "tu",
+     "-es",
+     "que tu viennes"
+    ],
+    [
+     "nous",
+     "-ions",
+     "que nous partions"
+    ],
+    [
+     "vous",
+     "-iez",
+     "que vous mangiez"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec le verbe au subjonctif présent.",
+    "items": [
+     "Il faut que je (chanter) plus fort.",
+     "Il faut que tu (dormir) tôt.",
+     "Je veux qu’elle (réussir).",
+     "Il faut que nous (lire) ce texte.",
+     "Il faut que vous (écrire) la date."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si le verbe en gras est au subjonctif présent ou à l’indicatif présent.",
+    "items": [
+     "Il faut que tu **viennes**.",
+     "Tu **viens** demain.",
+     "Je veux que nous **partions**.",
+     "Nous **partons** demain."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. chante 2. dormes 3. réussisse 4. lisions 5. écriviez",
+  "Exercice 2 : 1. subjonctif présent 2. indicatif présent 3. subjonctif présent 4. indicatif présent",
+  "Évaluation (étape V) : 1. finisses 2. partions 3. mangiez 4. vienne 5. fassent",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

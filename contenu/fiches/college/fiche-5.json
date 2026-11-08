@@ -1,0 +1,303 @@
+{
+ "id": 10005,
+ "meta": {
+  "t": "Fiche modèle n° 4 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "fn": 5
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "Amener l’apprenant à varier la construction de ses phrases (modèle de test).",
+  "objectifSpecifique": "Transformer une phrase active en phrase passive (modèle de test).",
+  "titre": "La phrase active et la phrase passive",
+  "theme": "",
+  "objet": "La phrase active et la phrase passive",
+  "numero": 4,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « La phrase active et la phrase passive », l’élève doit être capable de transformer cinq phrases de la voix active à la voix passive, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et dire ce qu’elles racontent.",
+   "texte": "Le chat mange la souris.\nLa souris est mangée par le chat.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que disent ces deux phrases ?"
+    },
+    {
+     "n": 2,
+     "q": "Qu’est-ce qui change entre les deux phrases ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Elles disent la même chose : le chat attrape la souris."
+    },
+    {
+     "n": 2,
+     "r": "L’ordre des mots et la forme du verbe changent."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à passer de la phrase active à la phrase passive. À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Quel est le sujet dans « Le chat mange la souris » ?"
+    },
+    {
+     "n": 4,
+     "q": "Quel est le COD dans cette phrase ?"
+    },
+    {
+     "n": 5,
+     "q": "Comment s’écrit le verbe être au présent avec « il » et avec « ils » ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Le sujet est « le chat »."
+    },
+    {
+     "n": 4,
+     "r": "Le COD est « la souris »."
+    },
+    {
+     "n": 5,
+     "r": "On écrit « il est » et « ils sont »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Le chat mange la souris. 2. La souris est mangée par le chat. 3. Les élèves écoutent le maître. 4. Le maître est écouté par les élèves.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quel est le sujet de la phrase 1 ?"
+      },
+      {
+       "n": 7,
+       "q": "Quel est le sujet de la phrase 2 ?"
+      },
+      {
+       "n": 8,
+       "q": "Quel mot introduit « le chat » dans la phrase 2 ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Le sujet est « le chat »."
+      },
+      {
+       "n": 7,
+       "r": "Le sujet est « la souris »."
+      },
+      {
+       "n": 8,
+       "r": "C’est le mot « par »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Le chat mange la souris. 2. La souris est mangée par le chat. 3. Les élèves écoutent le maître. 4. Le maître est écouté par les élèves.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Que devient le COD de la phrase 1 dans la phrase 2 ?"
+      },
+      {
+       "n": 10,
+       "q": "Comment le verbe de la phrase 2 est-il formé ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "Il devient le sujet : « la souris »."
+      },
+      {
+       "n": 10,
+       "r": "Il est formé de l’auxiliaire « être » et du participe passé : « est mangée »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : à la voix active, le sujet fait l’action. À la voix passive, le sujet subit l’action : le verbe est formé de l’auxiliaire être et du participe passé, et le complément d’agent est introduit par « par ». Le COD de la phrase active devient le sujet de la phrase passive.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Transformer chacune des cinq phrases de la voix active à la voix passive.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à passer de la phrase active à la phrase passive.",
+    "tache": "Transformer cinq phrases de la voix active à la voix passive.",
+    "consigne": "Sur ta feuille de copie, transforme chaque phrase à la voix passive.",
+    "items": [
+     "Le chien poursuit le voleur.",
+     "Les enfants lisent un livre.",
+     "La directrice félicite les élèves.",
+     "Mon oncle construit la maison.",
+     "Le facteur apporte le courrier."
+    ],
+    "cle": [
+     "Le voleur est poursuivi par le chien.",
+     "Un livre est lu par les enfants.",
+     "Les élèves sont félicités par la directrice.",
+     "La maison est construite par mon oncle.",
+     "Le courrier est apporté par le facteur."
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La phrase active et la phrase passive",
+  "intro": "Dans cette leçon, tu apprends à dire la même chose avec une phrase active ou une phrase passive.",
+  "corpus": [
+   "Le chat mange la souris.",
+   "La souris est mangée par le chat.",
+   "Les élèves écoutent le maître.",
+   "Le maître est écouté par les élèves."
+  ],
+  "retenir": "À la **voix active**, le sujet fait l’action.\nÀ la **voix passive**, le sujet subit l’action.\nLe verbe passif = **être** + participe passé.\nLe complément d’agent est introduit par **par**.\nExemple : Le chat mange la souris devient La souris **est mangée par** le chat.",
+  "tableau": {
+   "head": [
+    "Phrase active",
+    "Phrase passive",
+    "Complément d’agent"
+   ],
+   "rows": [
+    [
+     "Le chat mange la souris.",
+     "La souris est mangée par le chat.",
+     "par le chat"
+    ],
+    [
+     "Les élèves écoutent le maître.",
+     "Le maître est écouté par les élèves.",
+     "par les élèves"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis si la phrase est active ou passive.",
+    "items": [
+     "Le cuisinier prépare le repas.",
+     "Le repas est préparé par le cuisinier.",
+     "Les oiseaux construisent leur nid.",
+     "La leçon est expliquée par le maître.",
+     "Ma sœur ferme la porte."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je recopie le sujet de chaque phrase passive.",
+    "items": [
+     "La porte est ouverte par le gardien.",
+     "Les mangues sont vendues par la marchande.",
+     "Le match est gagné par notre équipe.",
+     "Les devoirs sont corrigés par le professeur."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. active 2. passive 3. active 4. passive 5. active",
+  "Exercice 2 : 1. La porte 2. Les mangues 3. Le match 4. Les devoirs",
+  "Évaluation (étape V) : 1. Le voleur est poursuivi par le chien. 2. Un livre est lu par les enfants. 3. Les élèves sont félicités par la directrice. 4. La maison est construite par mon oncle. 5. Le courrier est apporté par le facteur.",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

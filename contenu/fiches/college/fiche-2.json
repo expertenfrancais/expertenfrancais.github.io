@@ -1,0 +1,318 @@
+{
+ "id": 10002,
+ "meta": {
+  "t": "Fiche modèle n° 1 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "fn": 2
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "Amener l’apprenant à construire des phrases complexes correctes (modèle de test).",
+  "objectifSpecifique": "Identifier le pronom relatif et son antécédent (modèle de test).",
+  "titre": "Le pronom relatif : qui, que, dont, où",
+  "theme": "",
+  "objet": "Le pronom relatif : qui, que, dont, où",
+  "numero": 1,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « Le pronom relatif : qui, que, dont, où », l’élève doit être capable d’identifier le pronom relatif et son antécédent dans cinq phrases, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et dire ce qu’elles ont en commun.",
+   "texte": "Le livre est sur la table.\nLe livre appartient à Paul.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que remarquez-vous dans ces deux phrases ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment peut-on les réunir en une seule phrase sans répéter « le livre » ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Elles parlent du même objet : le livre."
+    },
+    {
+     "n": 2,
+     "r": "On peut écrire : « Le livre qui est sur la table appartient à Paul. »"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à trouver le pronom relatif et le nom qu’il remplace. À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un pronom ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’une proposition ?"
+    },
+    {
+     "n": 5,
+     "q": "Combien y a-t-il de verbes conjugués dans la phrase : « Le chat dort quand il pleut. » ?"
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Un pronom est un mot qui remplace un nom ou un groupe nominal."
+    },
+    {
+     "n": 4,
+     "r": "Une proposition est un groupe de mots organisé autour d’un verbe conjugué."
+    },
+    {
+     "n": 5,
+     "r": "Il y en a deux : « dort » et « pleut »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Le livre qui est sur la table appartient à Paul. 2. Le cahier que j’ai acheté hier est neuf. 3. Le village où je suis né est près du fleuve. 4. La dame dont tu parles est ma voisine.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quel mot de la phrase 1 remplace « le livre » dans la seconde idée ?"
+      },
+      {
+       "n": 7,
+       "q": "À quel nom le mot « que » renvoie-t-il dans la phrase 2 ?"
+      },
+      {
+       "n": 8,
+       "q": "Quels sont les pronoms des phrases 3 et 4 ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "C’est le mot « qui »."
+      },
+      {
+       "n": 7,
+       "r": "Il renvoie au nom « cahier »."
+      },
+      {
+       "n": 8,
+       "r": "C’est « où » dans la phrase 3 et « dont » dans la phrase 4."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Le livre qui est sur la table appartient à Paul. 2. Le cahier que j’ai acheté hier est neuf. 3. Le village où je suis né est près du fleuve. 4. La dame dont tu parles est ma voisine.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Que représente le pronom relatif dans chaque phrase ?"
+      },
+      {
+       "n": 10,
+       "q": "Que fait le pronom relatif avec les mots qui le suivent ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "Il représente un nom déjà cité, appelé antécédent : livre, cahier, village, dame."
+      },
+      {
+       "n": 10,
+       "r": "Il introduit une proposition subordonnée relative qui complète l’antécédent."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : le pronom relatif (qui, que, dont, où) remplace un nom appelé antécédent et introduit une proposition subordonnée relative. Qui est sujet, que est complément d’objet direct, où indique le lieu ou le temps, dont remplace un complément introduit par « de ».",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Souligner le pronom relatif et encadrer son antécédent dans chacune des cinq phrases.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à reconnaître le pronom relatif et son antécédent.",
+    "tache": "Identifier le pronom relatif et son antécédent dans cinq phrases.",
+    "consigne": "Sur ta feuille de copie, souligne le pronom relatif et encadre son antécédent dans chaque phrase.",
+    "items": [
+     "Le stylo que tu m’as prêté écrit bien.",
+     "La maison où j’habite est grande.",
+     "L’élève qui travaille réussit.",
+     "Le film dont il parle est drôle.",
+     "Le marché où ma mère vend des mangues ouvre à six heures."
+    ],
+    "cle": [
+     "que / stylo",
+     "où / maison",
+     "qui / élève",
+     "dont / film",
+     "où / marché"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le pronom relatif : qui, que, dont, où",
+  "intro": "Dans cette leçon, tu apprends à reconnaître le pronom relatif et le nom qu’il remplace.",
+  "corpus": [
+   "Le livre qui est sur la table appartient à Paul.",
+   "Le cahier que j’ai acheté hier est neuf.",
+   "Le village où je suis né est près du fleuve.",
+   "La dame dont tu parles est ma voisine."
+  ],
+  "retenir": "Le **pronom relatif** relie deux idées dans une seule phrase.\nIl remplace un nom déjà cité : c’est l’**antécédent**.\n**Qui** est sujet. **Que** est complément d’objet direct.\n**Où** dit le lieu ou le temps. **Dont** remplace un complément avec « de ».\nExemple : Le livre **qui** est sur la table (antécédent : livre) appartient à Paul.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Pronom relatif",
+    "Antécédent",
+    "Rôle"
+   ],
+   "rows": [
+    [
+     "Le livre qui est sur la table appartient à Paul.",
+     "qui",
+     "livre",
+     "sujet"
+    ],
+    [
+     "Le cahier que j’ai acheté hier est neuf.",
+     "que",
+     "cahier",
+     "complément d’objet direct"
+    ],
+    [
+     "Le village où je suis né est près du fleuve.",
+     "où",
+     "village",
+     "lieu"
+    ],
+    [
+     "La dame dont tu parles est ma voisine.",
+     "dont",
+     "dame",
+     "complément introduit par « de »"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le pronom relatif dans chaque phrase.",
+    "items": [
+     "La fille qui chante est ma sœur.",
+     "Le sac que j’ai perdu est bleu.",
+     "La ville où nous allons est belle.",
+     "Le médecin dont je t’ai parlé arrive demain.",
+     "Le fruit que tu manges vient du jardin."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je complète avec qui, que, où ou dont.",
+    "items": [
+     "Le garçon … joue au ballon s’appelle Jean.",
+     "Le livre … tu lis est passionnant.",
+     "La rue … se trouve l’école est calme.",
+     "L’histoire … elle se souvient est triste."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. qui 2. que 3. où 4. dont 5. que",
+  "Exercice 2 : 1. qui 2. que 3. où 4. dont",
+  "Évaluation (étape V) : 1. que / stylo 2. où / maison 3. qui / élève 4. dont / film 5. où / marché",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}

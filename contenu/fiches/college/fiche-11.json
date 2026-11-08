@@ -1,0 +1,313 @@
+{
+ "id": 10011,
+ "meta": {
+  "t": "Fiche modèle n° 10 (test)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "b",
+  "r": 4.8,
+  "fn": 11
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "objectifGeneral": "Amener l’apprenant à enrichir son expression par des images (modèle de test).",
+  "objectifSpecifique": "Distinguer la comparaison de la métaphore (modèle de test).",
+  "titre": "La comparaison et la métaphore",
+  "theme": "",
+  "objet": "La comparaison et la métaphore",
+  "numero": 10,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus écrit au tableau et cahier de l’élève (modèle de test)",
+  "documentation": "Programme de français de 3e (modèle de test)"
+ },
+ "oo": "À la fin de la séance portant sur « La comparaison et la métaphore », l’élève doit être capable de distinguer la comparaison de la métaphore dans cinq phrases, à partir d’un exercice écrit individuel, avec au moins 4 réussites sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer les deux phrases écrites au tableau et dire ce qu’elles veulent dire.",
+   "texte": "Awa est rapide comme une gazelle.\nAwa est une gazelle.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que veut-on dire dans ces phrases ?"
+    },
+    {
+     "n": 2,
+     "q": "Quelle différence voit-on entre les deux phrases ?"
+    }
+   ],
+   "activite": "Observation et réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "On veut dire qu’Awa court très vite."
+    },
+    {
+     "n": 2,
+     "r": "La première utilise le mot « comme » ; la seconde n’en utilise pas."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : aujourd’hui, tu vas apprendre à reconnaître la comparaison et la métaphore. À la fin, tu devras réussir au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux questions posées par l’enseignant.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un adjectif qualificatif ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce que le sens figuré d’un mot ?"
+    },
+    {
+     "n": 5,
+     "q": "Donne un exemple de sens figuré."
+    }
+   ],
+   "activite": "Réponses aux questions",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un mot qui donne une qualité au nom."
+    },
+    {
+     "n": 4,
+     "r": "C’est un sens imagé, différent du sens propre."
+    },
+    {
+     "n": 5,
+     "r": "Réponse possible : « avoir un cœur d’or »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus, puis suivre la lecture dirigée par l’enseignant et répondre aux questions de repérage.",
+     "texte": "1. Il est fort comme un lion. 2. Cet homme est un lion. 3. Ses yeux brillent comme des étoiles. 4. Ses yeux sont des étoiles.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Quel mot relie les deux éléments dans les phrases 1 et 3 ?"
+      },
+      {
+       "n": 7,
+       "q": "Y a-t-il un mot de comparaison dans les phrases 2 et 4 ?"
+      },
+      {
+       "n": 8,
+       "q": "Que veut-on dire par « fort comme un lion » ?"
+      }
+     ],
+     "activite": "Lecture silencieuse et lecture dirigée du corpus",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "C’est le mot « comme »."
+      },
+      {
+       "n": 7,
+       "r": "Non, il n’y a aucun mot de comparaison."
+      },
+      {
+       "n": 8,
+       "r": "On veut dire que la personne est très forte."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R / Débat",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Étudier le corpus en sous-groupes, répondre aux questions, puis présenter les résultats en plénière.",
+     "texte": "1. Il est fort comme un lion. 2. Cet homme est un lion. 3. Ses yeux brillent comme des étoiles. 4. Ses yeux sont des étoiles.",
+     "questions": [
+      {
+       "n": 9,
+       "q": "Comment s’appelle la phrase 1 ?"
+      },
+      {
+       "n": 10,
+       "q": "Comment s’appelle la phrase 2 ?"
+      }
+     ],
+     "activite": "Manipulation du corpus et échange en plénière",
+     "reponses": [
+      {
+       "n": 9,
+       "r": "C’est une comparaison."
+      },
+      {
+       "n": 10,
+       "r": "C’est une métaphore."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Copier et retenir la règle formulée avec l’enseignant.",
+     "texte": "",
+     "questions": [],
+     "activite": "Formulation et copie de la règle : la comparaison rapproche deux éléments avec un mot de comparaison (comme, tel, pareil à…). La métaphore rapproche deux éléments sans mot de comparaison. Ce sont deux figures de style qui rendent le texte plus imagé.",
+     "reponses": [],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Distinguer la comparaison de la métaphore dans chacune des cinq phrases.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’apprendre à reconnaître la comparaison et la métaphore.",
+    "tache": "Distinguer la comparaison de la métaphore dans cinq phrases.",
+    "consigne": "Sur ta feuille de copie, écris comparaison ou métaphore pour chaque phrase.",
+    "items": [
+     "Cette route est un serpent.",
+     "Il court comme un lièvre.",
+     "Le professeur est un puits de science.",
+     "Sa voix est douce comme le miel.",
+     "Cette nuit est un tapis noir."
+    ],
+    "cle": [
+     "métaphore",
+     "comparaison",
+     "métaphore",
+     "comparaison",
+     "métaphore"
+    ],
+    "bareme": "1 point par item entièrement réussi",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La comparaison et la métaphore",
+  "intro": "Dans cette leçon, tu apprends à reconnaître deux images : la comparaison et la métaphore.",
+  "corpus": [
+   "Il est fort comme un lion.",
+   "Cet homme est un lion.",
+   "Ses yeux brillent comme des étoiles.",
+   "Ses yeux sont des étoiles."
+  ],
+  "retenir": "La **comparaison** rapproche deux choses avec **comme**.\nLa **métaphore** rapproche deux choses sans mot de comparaison.\nCe sont des **figures de style**.\nElles rendent un texte plus beau et plus imagé.\nExemple : Il est fort **comme** un lion (comparaison) ; cet homme est un lion (métaphore).",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Mot de comparaison",
+    "Figure de style"
+   ],
+   "rows": [
+    [
+     "Il est fort comme un lion.",
+     "comme",
+     "comparaison"
+    ],
+    [
+     "Cet homme est un lion.",
+     "aucun",
+     "métaphore"
+    ],
+    [
+     "Ses yeux brillent comme des étoiles.",
+     "comme",
+     "comparaison"
+    ],
+    [
+     "Ses yeux sont des étoiles.",
+     "aucun",
+     "métaphore"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris comparaison ou métaphore.",
+    "items": [
+     "Ses joues sont des pommes.",
+     "Elle est belle comme une fleur.",
+     "Le soleil est une boule de feu.",
+     "Il est têtu comme une mule.",
+     "Ma grand-mère est un trésor."
+    ],
+    "seuil": "4 sur 5",
+    "rappel": "Il me faut au moins 4 réponses justes sur 5."
+   },
+   {
+    "enonce": "Exercice 2 : Je complète les comparaisons connues.",
+    "items": [
+     "Il est rusé comme un …",
+     "Elle est légère comme une …",
+     "Il est têtu comme une …",
+     "Il est fort comme un …"
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. métaphore 2. comparaison 3. métaphore 4. comparaison 5. métaphore",
+  "Exercice 2 : 1. renard 2. plume 3. mule 4. lion",
+  "Évaluation (étape V) : 1. métaphore 2. comparaison 3. métaphore 4. comparaison 5. métaphore",
+  "Barème : 1 point par réponse juste. Seuils : 4 sur 5 pour l’exercice 1 et pour l’évaluation, 3 sur 4 pour l’exercice 2.",
+  "Remarque : contenu de test, à vérifier et à remplacer avant la publication."
+ ]
+}
