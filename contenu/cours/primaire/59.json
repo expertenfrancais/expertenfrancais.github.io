@@ -1,0 +1,582 @@
+{
+ "id": 59,
+ "meta": {
+  "t": "La préposition",
+  "k": "Cours",
+  "n": "CM2",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une préposition ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Je vais **à** l’école », « le cahier **de** Paul » ou « un gâteau **pour** toi », les petits mots en gras servent à **relier** des mots entre eux. Ce sont des **prépositions**. Dans ce cours, tu vas apprendre à les reconnaître, à connaître les principales et à bien les employer."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir la préposition",
+      "Connaître les principales prépositions",
+      "Comprendre son rôle dans la phrase",
+      "Choisir la bonne préposition"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Préposition",
+     "text": "La **préposition** est un petit mot **invariable** qui **relie** un mot ou un groupe de mots à un autre mot. Elle est toujours suivie d’un **nom**, d’un **pronom** ou d’un **verbe à l’infinitif** : *dans la cour*, *avec lui*, *pour jouer*."
+    },
+    {
+     "type": "schema",
+     "title": "Une préposition dans une phrase",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "joue",
+       "role": "verbe",
+       "noyau": true
+      },
+      {
+       "mot": "dans",
+       "role": "préposition"
+      },
+      {
+       "mot": "la cour",
+       "role": "nom (complément)"
+      }
+     ],
+     "note": "*Dans* relie le verbe *joue* à son complément *la cour*. Le groupe *dans la cour* est un groupe prépositionnel."
+    },
+    {
+     "type": "test",
+     "title": "Une préposition ne change jamais",
+     "lines": [
+      "Je parle avec mon ami.",
+      "Je parle avec mes amis.",
+      "Nous parlons avec elles. → *avec* ne prend jamais ni -e, ni -s."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour la reconnaître",
+     "text": "Une préposition **ne change jamais de forme** et n’est jamais seule : elle introduit un mot ou un groupe de mots. Essaie de la remplacer par une autre préposition : *dans* la cour → *sur* la cour, *devant* la cour."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est une préposition dans « Le chat dort sous la table » ?",
+     "options": [
+      "chat",
+      "sous",
+      "dort"
+     ],
+     "answer": 1,
+     "explain": "« sous » est un petit mot invariable qui relie le verbe « dort » au groupe « la table » : c’est une préposition."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la préposition de chaque phrase.",
+     "items": [
+      "Nous allons au marché avec maman.",
+      "Le livre est sur la table.",
+      "Il travaille pour sa famille.",
+      "Le chien dort devant la porte."
+     ],
+     "corrige": [
+      "Nous allons au marché **avec** maman. (aussi : **au** = à + le, article contracté)",
+      "Le livre est **sur** la table.",
+      "Il travaille **pour** sa famille.",
+      "Le chien dort **devant** la porte."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les principales prépositions",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il existe beaucoup de prépositions, mais quelques-unes reviennent sans cesse. Il faut bien les connaître."
+    },
+    {
+     "type": "table",
+     "title": "Les prépositions les plus fréquentes",
+     "head": [
+      "Préposition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "à",
+       "Je vais **à** l’école."
+      ],
+      [
+       "de",
+       "Le cahier **de** Paul."
+      ],
+      [
+       "dans",
+       "Il joue **dans** la cour."
+      ],
+      [
+       "en",
+       "Nous voyageons **en** voiture."
+      ],
+      [
+       "sur / sous",
+       "Le livre est **sur** la table, le chat est **sous** la table."
+      ],
+      [
+       "devant / derrière",
+       "Le ballon est **devant** la maison, l’arbre est **derrière**."
+      ],
+      [
+       "avec / sans",
+       "Elle écrit **avec** un stylo, **sans** gomme."
+      ],
+      [
+       "pour / par",
+       "Ce cadeau est **pour** toi, passe **par** ici."
+      ],
+      [
+       "chez / vers / entre",
+       "Je vais **chez** ma tante, **vers** midi, **entre** deux cours."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Nous mangeons **avec** nos mains.\nLe bateau passe **sur** le fleuve.\nIl part **sans** son sac.\nElle habite **chez** sa grand-mère."
+    },
+    {
+     "type": "warn",
+     "label": "*À* ou *a* ?",
+     "text": "*À* avec un accent est une **préposition** : « Je vais **à** Pointe-Noire. » *A* sans accent est le verbe **avoir** : « Il **a** un frère. » Si tu peux dire *avait*, écris *a* sans accent."
+    },
+    {
+     "type": "tip",
+     "label": "Un petit truc de mémoire",
+     "text": "Les prépositions les plus utilisées sont *à*, *de*, *dans*, *en*, *par*, *pour*, *sur*, *avec*, *sans*, *sous*. Récite-les plusieurs fois : tu les reconnaîtras plus vite."
+    },
+    {
+     "type": "quiz",
+     "question": "Choisis *a* ou *à* : « Il ___ un grand chien. »",
+     "options": [
+      "a",
+      "à"
+     ],
+     "answer": 0,
+     "explain": "On peut dire « Il avait un grand chien » : c’est le verbe avoir, donc *a* sans accent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec la préposition qui convient : *à, de, dans, avec, pour, sans*.",
+     "items": [
+      "Le cartable ___ Awa est neuf.",
+      "Nous allons ___ l’école.",
+      "Il boit son thé ___ sucre.",
+      "Ce livre est ___ toi.",
+      "Je joue ___ mes amis."
+     ],
+     "corrige": [
+      "Le cartable **de** Awa est neuf.",
+      "Nous allons **à** l’école.",
+      "Il boit son thé **sans** sucre.",
+      "Ce livre est **pour** toi.",
+      "Je joue **avec** mes amis."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le rôle de la préposition",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Relier deux mots"
+    },
+    {
+     "type": "def",
+     "label": "Rôle de la préposition",
+     "text": "La préposition **relie** deux éléments de la phrase : elle relie un **verbe** à son complément (*parler **à** Paul*), un **nom** à son complément (*la maison **de** ma tante*) ou un **adjectif** à son complément (*fier **de** son fils*)."
+    },
+    {
+     "type": "table",
+     "title": "Ce que la préposition relie",
+     "head": [
+      "Elle relie…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "un verbe à son complément",
+       "Il pense **à** son frère."
+      ],
+      [
+       "un nom à son complément",
+       "Une table **en** bois."
+      ],
+      [
+       "un adjectif à son complément",
+       "Elle est contente **de** sa note."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le groupe prépositionnel"
+    },
+    {
+     "type": "p",
+     "text": "La préposition et le mot qui la suit forment un **groupe prépositionnel** : *à l’école*, *avec mes amis*, *pour jouer*. Ce groupe a une **fonction** dans la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Les fonctions du groupe prépositionnel",
+     "head": [
+      "Fonction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "complément circonstanciel",
+       "Nous jouons **dans la cour**."
+      ],
+      [
+       "complément d’objet indirect (COI)",
+       "Il parle **à son ami**."
+      ],
+      [
+       "complément du nom",
+       "La maison **de ma tante** est grande."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver la fonction, regarde **ce que la préposition relie** : un verbe, un nom ou un adjectif."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La maison de ma tante est grande », que relie la préposition *de* ?",
+     "options": [
+      "Le verbe à un nom",
+      "Le nom maison à ma tante",
+      "Un adjectif à un nom"
+     ],
+     "answer": 1,
+     "explain": "« de » relie le nom « maison » à son complément « ma tante » : le groupe « de ma tante » est complément du nom."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la préposition et dis ce qu’elle relie.",
+     "items": [
+      "Il pense à son frère.",
+      "Une table en bois.",
+      "Elle est contente de sa note."
+     ],
+     "corrige": [
+      "**à** relie le verbe « pense » à « son frère ».",
+      "**en** relie le nom « table » à « bois ».",
+      "**de** relie l’adjectif « contente » à « sa note »."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’emploi de la préposition dans la phrase",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Une préposition, un sens"
+    },
+    {
+     "type": "p",
+     "text": "La préposition n’est pas seulement un mot de liaison : elle indique aussi un **rapport de sens**. Pour le trouver, pose une question."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux sens",
+     "head": [
+      "Sens",
+      "Question",
+      "Prépositions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "lieu",
+       "où ?",
+       "dans, sur, sous, devant, derrière, chez",
+       "Le livre est **sur** la table."
+      ],
+      [
+       "temps",
+       "quand ?",
+       "avant, après, pendant, depuis",
+       "Il joue **après** l’école."
+      ],
+      [
+       "moyen",
+       "avec quoi ?",
+       "avec, par, en",
+       "Il ouvre **avec** une clé."
+      ],
+      [
+       "but",
+       "pour quoi faire ?",
+       "pour",
+       "Il court **pour** gagner."
+      ],
+      [
+       "manière",
+       "comment ?",
+       "avec, sans",
+       "Elle répond **avec** politesse."
+      ],
+      [
+       "accompagnement",
+       "avec qui ?",
+       "avec",
+       "Je sors **avec** ma sœur."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le sens dépend de la phrase",
+     "text": "Une même préposition peut avoir plusieurs sens : *Il vient **vers** la maison* (lieu), *Il vient **vers** midi* (temps)."
+    },
+    {
+     "type": "h",
+     "text": "À et de avec le, les : les articles contractés"
+    },
+    {
+     "type": "def",
+     "label": "Articles contractés",
+     "text": "Quand **à** ou **de** est suivi de *le* ou *les*, ils s’unissent : **à + le = au** ; **à + les = aux** ; **de + le = du** ; **de + les = des**. Mais on garde *à la*, *de la*, *à l’*, *de l’*."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Je vais **au** marché. (à + le)\nIl parle **aux** enfants. (à + les)\nLe chien **du** voisin aboie. (de + le)\nLe toit **de la** maison est rouge."
+    },
+    {
+     "type": "warn",
+     "label": "Répéter la préposition",
+     "text": "Quand on coordonne deux compléments, on répète souvent la préposition : « Il parle **à** Paul et **à** Marie. », « Je viens **de** l’école et **du** marché. »"
+    },
+    {
+     "type": "warn",
+     "label": "*Sur* et *sûr*",
+     "text": "*Sur* sans accent est une **préposition** : « Le livre est **sur** la table. » *Sûr* avec accent est un **adjectif** : « Je suis **sûr** de ma réponse. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel sens a la préposition *pendant* dans « Il dort pendant la journée » ?",
+     "options": [
+      "Le lieu",
+      "Le temps",
+      "Le moyen"
+     ],
+     "answer": 1,
+     "explain": "« pendant » répond à la question « quand ? » : elle exprime le temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le sens exprimé par la préposition en gras : lieu, temps, moyen, but ou manière.",
+     "items": [
+      "Le chat dort **sous** la table.",
+      "Nous partons **après** le repas.",
+      "Elle écrit **avec** un stylo.",
+      "Il travaille **pour** réussir.",
+      "Il répond **sans** colère."
+     ],
+     "corrige": [
+      "**sous** : lieu.",
+      "**après** : temps.",
+      "**avec** : moyen.",
+      "**pour** : but.",
+      "**sans** : manière."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec *au, aux, du* ou *des*.",
+     "items": [
+      "Nous allons ___ marché.",
+      "Le chien ___ voisin aboie.",
+      "Il parle ___ enfants.",
+      "Les cahiers ___ élèves sont rangés."
+     ],
+     "corrige": [
+      "Nous allons **au** marché.",
+      "Le chien **du** voisin aboie.",
+      "Il parle **aux** enfants.",
+      "Les cahiers **des** élèves sont rangés."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on commence par **repérer**, puis on **choisit** la bonne préposition, et on termine par **écrire**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les prépositions de chaque phrase.",
+     "items": [
+      "Les enfants jouent dans la cour avec leur ballon.",
+      "Awa revient de l’école à midi.",
+      "Le cartable de mon frère est sous la chaise."
+     ],
+     "corrige": [
+      "Les enfants jouent **dans** la cour **avec** leur ballon.",
+      "Awa revient **de** l’école **à** midi.",
+      "Le cartable **de** mon frère est **sous** la chaise."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une préposition ?",
+     "options": [
+      "Il chante bien.",
+      "Il chante avec joie.",
+      "Il chante et danse."
+     ],
+     "answer": 1,
+     "explain": "« avec » est une préposition : elle relie le verbe « chante » à « joie ». Dans les autres phrases, « bien » est un adverbe et « et » est une conjonction."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : choisir la bonne préposition"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la préposition qui convient : *à, de, dans, en, avec, pour, sans, sur*.",
+     "items": [
+      "Nous voyageons ___ voiture.",
+      "Le poisson nage ___ l’eau.",
+      "Il part ___ son manteau, il aura froid.",
+      "Ce cadeau est ___ ma mère.",
+      "Le livre est posé ___ la table.",
+      "Elle pense ___ ses vacances."
+     ],
+     "corrige": [
+      "Nous voyageons **en** voiture.",
+      "Le poisson nage **dans** l’eau.",
+      "Il part **sans** son manteau, il aura froid.",
+      "Ce cadeau est **pour** ma mère.",
+      "Le livre est posé **sur** la table.",
+      "Elle pense **à** ses vacances."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la fonction du groupe prépositionnel en gras : complément circonstanciel, COI ou complément du nom.",
+     "items": [
+      "Il parle **à son ami**.",
+      "La maison **de ma tante** est grande.",
+      "Nous jouons **dans la cour**."
+     ],
+     "corrige": [
+      "**à son ami** : COI.",
+      "**de ma tante** : complément du nom.",
+      "**dans la cour** : complément circonstanciel de lieu."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque consigne.",
+     "items": [
+      "Une phrase avec la préposition *dans*.",
+      "Une phrase avec la préposition *avec*.",
+      "Une phrase avec l’article contracté *au*."
+     ],
+     "corrige": [
+      "Réponses possibles : **Le livre est dans mon cartable.**",
+      "Réponses possibles : **Je joue avec mes amis.**",
+      "Réponses possibles : **Nous allons au marché.**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La préposition est un mot invariable qui relie un mot ou un groupe de mots à un autre.",
+      "Les principales prépositions sont à, de, dans, en, par, pour, sur, sous, avec, sans, chez.",
+      "Elle relie un verbe, un nom ou un adjectif à son complément, et elle indique un sens (lieu, temps, moyen, but, manière).",
+      "À + le = au, à + les = aux, de + le = du, de + les = des."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "À savoir",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Définition",
+       "petit mot invariable qui relie",
+       "dans la cour"
+      ],
+      [
+       "Principales",
+       "à, de, dans, en, par, pour, sur, sous, avec, sans, chez",
+       "pour toi"
+      ],
+      [
+       "Rôle",
+       "relier un verbe, un nom ou un adjectif à son complément",
+       "la maison de ma tante"
+      ],
+      [
+       "Emploi",
+       "exprimer un sens : lieu, temps, moyen, but, manière",
+       "Il court pour gagner."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un article contracté ?",
+     "options": [
+      "Je vais à l’école.",
+      "Je vais au marché.",
+      "Je vais chez ma tante."
+     ],
+     "answer": 1,
+     "explain": "« au » est formé de « à + le » : c’est un article contracté."
+    }
+   ]
+  }
+ ]
+}
