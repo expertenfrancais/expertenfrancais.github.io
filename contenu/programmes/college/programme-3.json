@@ -1,0 +1,900 @@
+{
+ "id": 50003,
+ "meta": {
+  "t": "Programme APS 5e · Répartition annuelle",
+  "k": "Programmes",
+  "n": "5e",
+  "m": "APS",
+  "img": "e",
+  "r": 4.8,
+  "pg": 3
+ },
+ "sections": [
+  {
+   "t": "Présentation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Programme APS, 5e : répartition annuelle.** Elle indique à l’enseignant les notions à enseigner, mois par mois et semaine par semaine, avec leur durée. Elle reprend le canevas des savoirs essentiels codifiés du programme officiel *Programmes éducatifs et guides pédagogiques, Français, Collège 6e-5e* (République du Congo)."
+    },
+    {
+     "type": "p",
+     "text": "**Comment la lire.** Dans la colonne « Catégorie des savoirs essentiels », le code **MF5…** désigne la matrice de français de la 5e (par exemple MF5.2.1 : Grammaire, 1re matrice). Chaque semaine compte 6 h ; les lignes « Synthèse et remédiation » et « Évaluation » ferment la semaine concernée. Pour le détail de l’approche pédagogique, de l’organisation du programme et du système éducatif, voir la présentation de la répartition annuelle de la 6e."
+    }
+   ]
+  },
+  {
+   "t": "Octobre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Octobre",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "Contrôle des acquis antérieurs",
+       "—",
+       "6 h"
+      ],
+      [
+       "2",
+       "MF5.1.1 Le respect des règles de la prosodie",
+       "Le respect des signes de ponctuation",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF5.2.1 Les constituants de la phrase simple",
+       "Le groupe nominal composé d’un déterminant + un nom + un adjectif qualificatif",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.3.1 Les graphies difficiles",
+       "L’écriture des verbes en *-yer*",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.6.1 L’exposé oral",
+       "La technique de présentation d’un exposé oral",
+       "1 h"
+      ],
+      [
+       "2",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.1.1 Le respect des règles de la prosodie",
+       "Le respect de la diction",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF5.2.1 Les constituants de la phrase simple",
+       "Le groupe nominal composé d’un déterminant + un nom + un complément du nom",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.5.1 Le sens des mots",
+       "Le sens propre des mots",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.7.1 La méthodologie de la rédaction",
+       "Le travail préliminaire",
+       "1 h"
+      ],
+      [
+       "3",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.1.1 Le respect des règles de la prosodie",
+       "Le respect des groupes de souffle",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF5.2.1 Les constituants de la phrase simple",
+       "Le groupe verbal composé d’un verbe + un complément circonstanciel",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.6.1 L’exposé oral",
+       "La technique de présentation d’un exposé oral",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Novembre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Novembre",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF5.1.2 Les types de textes",
+       "Les caractéristiques du texte descriptif : le portrait physique",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF5.2.1 Les constituants de la phrase simple",
+       "Le groupe verbal composé d’un verbe + un adjectif qualificatif attribut du sujet",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.5.1 Le sens des mots",
+       "Le sens figuré des mots",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.7.1 La méthodologie de la rédaction",
+       "La rédaction de l’introduction",
+       "1 h"
+      ],
+      [
+       "1",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.1.2 Les types de textes",
+       "Les caractéristiques du texte descriptif : le portrait moral",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF5.2.2 Le pluriel des noms",
+       "Le pluriel des noms composés : nom + nom",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.4.1 Le mode subjonctif",
+       "Les valeurs du mode subjonctif",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.6.1 L’exposé oral",
+       "La technique de présentation d’un exposé oral",
+       "1 h"
+      ],
+      [
+       "2",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.1.2 Les types de textes",
+       "Les caractéristiques du texte informatif : l’article de journal",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF5.2.2 Le pluriel des noms",
+       "Le pluriel des noms composés : nom + adjectif qualificatif",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.3.2 Les homophones",
+       "L’écriture des homophones (1)",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.7.1 La méthodologie de la rédaction",
+       "La rédaction du développement",
+       "1 h"
+      ],
+      [
+       "3",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.1.2 Les types de textes",
+       "Les caractéristiques du texte informatif : la lettre privée",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF5.2.3 Les pronoms",
+       "La pronominalisation",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.6.1 L’exposé oral",
+       "La technique de présentation d’un exposé oral",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Décembre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Décembre",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF5.1.2 Les types de textes",
+       "Les caractéristiques du texte fonctionnel : la recette de cuisine",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF5.4.1 Le mode subjonctif",
+       "Les verbes du 1er groupe au présent du subjonctif",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.3.2 Les homophones",
+       "L’écriture des homophones (2)",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.7.1 La méthodologie de la rédaction",
+       "La rédaction de la conclusion",
+       "1 h"
+      ],
+      [
+       "1",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2, 3, 4",
+       "Évaluation des acquis du 1er trimestre et congés",
+       "—",
+       "—"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Janvier",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Janvier",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF5.1.3 Le texte poétique",
+       "Les caractéristiques du poème en vers libres",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF5.2.4 Les types de discours",
+       "Le discours indirect",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.4.3 Les voix verbales",
+       "La voix active",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.6.2 L’écoute d’un message oral",
+       "Les éléments de la communication orale",
+       "1 h"
+      ],
+      [
+       "1",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.1.4 La lecture du support iconographique",
+       "L’analyse des couleurs d’une image (1)",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF5.2.4 Les types de discours",
+       "Le discours indirect libre",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.3.3 Le féminin des noms",
+       "Le féminin des noms masculins en *-ail*, *-eil* et *-euil*",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.7.2 La production de textes",
+       "La rédaction du portrait physique",
+       "1 h"
+      ],
+      [
+       "2",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.1.4 La lecture du support iconographique",
+       "L’analyse des couleurs d’une image (2)",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF5.2.5 L’adjectif qualificatif",
+       "L’adjectif qualificatif attribut du complément d’objet direct",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.4.3 Les voix verbales",
+       "La voix passive",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.6.2 L’écoute d’un message oral",
+       "Les éléments de la communication orale",
+       "1 h"
+      ],
+      [
+       "3",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "La présentation de l’œuvre",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF5.2.5 L’adjectif qualificatif",
+       "L’adjectif qualificatif mis en apposition",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.7.2 La production de textes",
+       "La rédaction du portrait moral",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Février",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Février",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "L’analyse de la structure de l’œuvre",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF5.2.5 L’adjectif qualificatif",
+       "Le superlatif relatif de supériorité",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.4.4 Les verbes pronominaux",
+       "Les verbes essentiellement pronominaux",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.6.2 L’écoute d’un message oral",
+       "Les éléments de la communication orale",
+       "1 h"
+      ],
+      [
+       "1",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "L’intrigue et la narration",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF5.4.4 Les verbes pronominaux",
+       "Les verbes accidentellement pronominaux",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.5.1 Le sens des mots",
+       "Les antonymes des noms",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.7.2 La production de textes",
+       "La rédaction d’un article de journal",
+       "1 h"
+      ],
+      [
+       "2",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "L’étude de l’espace et du temps dans l’œuvre",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF5.2.5 L’adjectif qualificatif",
+       "Le superlatif relatif d’infériorité",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.3.4 Les accords",
+       "L’accord des adjectifs de couleur",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.6.1 L’exposé oral",
+       "La technique de présentation d’un exposé oral",
+       "1 h"
+      ],
+      [
+       "3",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "L’analyse du corps du texte",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF5.4.4 Les verbes pronominaux",
+       "Le sens réfléchi des verbes pronominaux",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.7.2 La production de textes",
+       "La rédaction d’une lettre privée",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Mars",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Mars",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "Les personnages de l’œuvre",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF5.2.6 La nominalisation",
+       "La nominalisation du verbe",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.4.4 Les verbes pronominaux",
+       "Le sens réciproque des verbes pronominaux",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.5.1 Le sens des mots",
+       "Les antonymes des verbes",
+       "1 h"
+      ],
+      [
+       "1",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2, 3, 4",
+       "Évaluation des acquis du 2e trimestre et congés",
+       "—",
+       "—"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Avril",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Avril",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "Les niveaux de langue utilisés dans l’œuvre",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF5.4.4 Les verbes pronominaux",
+       "Le sens passif des verbes pronominaux",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.5.1 Le sens des mots",
+       "Les antonymes des adjectifs qualificatifs",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.7.2 La production de textes",
+       "La rédaction d’une recette de cuisine",
+       "1 h"
+      ],
+      [
+       "1",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "Le résumé de l’œuvre",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF5.4.1 Le mode subjonctif",
+       "Les verbes du 2e groupe au présent du subjonctif",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.3.4 Les accords",
+       "L’accord du participe passé des verbes essentiellement pronominaux et des verbes pronominaux de sens passif",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.5.2 La formation des mots",
+       "La formation des mots par préfixation",
+       "1 h"
+      ],
+      [
+       "2",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "L’intérêt de l’œuvre",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF5.2.6 La nominalisation",
+       "La nominalisation de l’adjectif qualificatif",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.5.3 Les catégories lexicales",
+       "Les termes génériques",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.7.2 La production de textes",
+       "La rédaction du portrait physique et du portrait moral (révision)",
+       "1 h"
+      ],
+      [
+       "3",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.1.5 L’étude d’une œuvre intégrale",
+       "La conclusion de l’étude de l’œuvre",
+       "2 h"
+      ],
+      [
+       "4",
+       "MF5.2.7 La phrase complexe",
+       "La proposition subordonnée complétive introduite par *que*",
+       "1 h"
+      ],
+      [
+       "4",
+       "MF5.6.1 L’exposé oral",
+       "La technique de présentation d’un exposé oral (révision)",
+       "1 h"
+      ],
+      [
+       "4",
+       "Évaluation",
+       "—",
+       "2 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Mai",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Mai",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "MF5.1.1 Le respect des règles de la prosodie",
+       "Le respect des signes de ponctuation (révision)",
+       "2 h"
+      ],
+      [
+       "1",
+       "MF5.4.2 Le mode impératif",
+       "Les valeurs du mode impératif",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.5.3 Les catégories lexicales",
+       "Les termes spécifiques",
+       "1 h"
+      ],
+      [
+       "1",
+       "MF5.7.2 La production de textes",
+       "La rédaction d’une lettre privée (révision)",
+       "1 h"
+      ],
+      [
+       "1",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.1.1 Le respect des règles de la prosodie",
+       "Le respect de la diction (révision)",
+       "2 h"
+      ],
+      [
+       "2",
+       "MF5.3.4 Les accords",
+       "L’accord du participe passé des verbes pronominaux de sens réfléchi et de sens réciproque",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.4.2 Le mode impératif",
+       "Les verbes du 1er groupe au présent de l’impératif",
+       "1 h"
+      ],
+      [
+       "2",
+       "MF5.5.4 Les figures de style",
+       "La métaphore",
+       "1 h"
+      ],
+      [
+       "2",
+       "Synthèse et remédiation",
+       "—",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.1.1 Le respect des règles de la prosodie",
+       "Le respect des signes de ponctuation, de la diction et des groupes de souffle (révision)",
+       "2 h"
+      ],
+      [
+       "3",
+       "MF5.4.2 Le mode impératif",
+       "Les verbes du 2e groupe au présent de l’impératif",
+       "1 h"
+      ],
+      [
+       "3",
+       "MF5.5.5 Les outils de communication",
+       "Le lexique d’Internet",
+       "1 h"
+      ],
+      [
+       "3",
+       "Évaluation",
+       "—",
+       "2 h"
+      ],
+      [
+       "4",
+       "Révision générale",
+       "—",
+       "6 h"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Juin",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Juin",
+     "head": [
+      "Sem.",
+      "Catégorie des savoirs essentiels",
+      "Savoir essentiel",
+      "Durée"
+     ],
+     "rows": [
+      [
+       "1",
+       "Révision générale",
+       "—",
+       "6 h"
+      ],
+      [
+       "2, 3, 4",
+       "Évaluation de fin d’année",
+       "—",
+       "—"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
