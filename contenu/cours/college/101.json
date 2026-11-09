@@ -1,0 +1,415 @@
+{
+ "id": 101,
+ "meta": {
+  "t": "Le respect de la diction",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : se faire comprendre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au concours de lecture, Estelle parle trop vite et avale la fin des mots. Le jury ne comprend pas tout. Le président lui conseille : « Soigne ta **diction** : articule bien chaque mot. »"
+    },
+    {
+     "type": "list",
+     "label": "Savoir essentiel",
+     "items": [
+      "Respecter la **diction**",
+      "Bien **articuler** et **prononcer**",
+      "Adapter le **volume** et le **débit**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La diction",
+     "text": "La **diction** est la **manière de prononcer** les mots à voix haute : l’**articulation**, la **prononciation**, le **volume** et le **débit**."
+    },
+    {
+     "type": "quiz",
+     "question": "La diction, c’est…",
+     "options": [
+      "la façon de prononcer les mots",
+      "l’écriture des mots",
+      "le sens des mots",
+      "la conjugaison"
+     ],
+     "answer": 0,
+     "explain": "Elle concerne la prononciation à voix haute."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie ce qui fait partie de la diction.",
+     "items": [
+      "l’articulation",
+      "l’orthographe",
+      "le volume de la voix",
+      "le débit"
+     ],
+     "corrige": [
+      "l’articulation",
+      "le volume de la voix",
+      "le débit"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Bien articuler",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Articuler**, c’est **ouvrir la bouche** et bien former chaque **son** pour que les mots soient **clairs**."
+    },
+    {
+     "type": "table",
+     "title": "Pour bien articuler",
+     "head": [
+      "Conseil",
+      "Pourquoi ?"
+     ],
+     "rows": [
+      [
+       "**ouvrir** suffisamment la bouche",
+       "pour que les voyelles soient claires"
+      ],
+      [
+       "bien prononcer les **consonnes**",
+       "pour ne pas « avaler » les mots"
+      ],
+      [
+       "ne pas **manger** la fin des mots",
+       "pour que tout le monde comprenne"
+      ],
+      [
+       "**détendre** le visage",
+       "pour parler sans effort"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Un virelangue pour s’entraîner : « Un chasseur sachant chasser sait chasser sans son chien. »"
+    },
+    {
+     "type": "tip",
+     "label": "L’astuce du crayon",
+     "text": "Pour t’exercer, tiens un **crayon** entre les dents et lis une phrase : tu t’appliques à **articuler** !"
+    },
+    {
+     "type": "quiz",
+     "question": "Pour bien articuler, il faut…",
+     "options": [
+      "ouvrir la bouche",
+      "parler les dents serrées",
+      "parler très vite",
+      "chuchoter"
+     ],
+     "answer": 0,
+     "explain": "Ouvrir la bouche rend les sons plus clairs."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les mauvaises habitudes à éviter.",
+     "items": [
+      "avaler les mots",
+      "ouvrir la bouche",
+      "parler trop vite",
+      "bien prononcer les consonnes"
+     ],
+     "corrige": [
+      "avaler les mots",
+      "parler trop vite"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Prononcer les sons difficiles",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains **sons** sont plus **difficiles** à prononcer. Il faut s’entraîner à les distinguer."
+    },
+    {
+     "type": "table",
+     "title": "Des sons à ne pas confondre",
+     "head": [
+      "Sons",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**s** et **ch**",
+       "seau / chaud, sac / chat"
+      ],
+      [
+       "**s** et **z**",
+       "poisson / poison, dessert / désert"
+      ],
+      [
+       "**j** et **ch**",
+       "jeune / cheval"
+      ],
+      [
+       "**in**, **an**, **on**",
+       "vin / vent / vont"
+      ],
+      [
+       "**r**",
+       "rire, rouge, terre"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "S’entraîner",
+     "text": "Répète lentement des **paires de mots** : *poisson / poison*, *vin / vent / vont*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quels mots se prononcent différemment ?",
+     "options": [
+      "vin / vent",
+      "foi / fois",
+      "mer / mère",
+      "pain / pin"
+     ],
+     "answer": 0,
+     "explain": "Vin et vent ne se prononcent pas pareil (in / an)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis à voix haute ces paires et dis ce qui change.",
+     "items": [
+      "seau / chaud",
+      "poisson / poison"
+     ],
+     "corrige": [
+      "Le son initial change : s / ch",
+      "Le son du milieu change : s / z"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les liaisons",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **liaison** consiste à prononcer une **consonne finale** devant une **voyelle** : *les_enfants*, *un_ami*."
+    },
+    {
+     "type": "table",
+     "title": "Liaisons obligatoires et interdites",
+     "head": [
+      "Cas",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**obligatoire** : déterminant + nom",
+       "les_enfants, un_ami"
+      ],
+      [
+       "**obligatoire** : pronom + verbe",
+       "ils_ont, nous_avons"
+      ],
+      [
+       "**interdite** après **et**",
+       "Marie et / Ali"
+      ],
+      [
+       "**interdite** devant un **h aspiré**",
+       "les / héros"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Liaison fautive",
+     "text": "On ne dit pas « les z’héros ». On dit « les / héros » (h aspiré)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle liaison est obligatoire ?",
+     "options": [
+      "les_enfants",
+      "et_Ali",
+      "les héros",
+      "aucune liaison"
+     ],
+     "answer": 0,
+     "explain": "Après un déterminant pluriel, on fait la liaison : les_enfants."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Liaison à faire (oui) ou à ne pas faire (non) ?",
+     "items": [
+      "des_amis",
+      "Marie et / Ali",
+      "les / héros"
+     ],
+     "corrige": [
+      "oui",
+      "non",
+      "non"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le volume et le débit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour être **entendu** et **compris**, il faut adapter son **volume** et son **débit**."
+    },
+    {
+     "type": "table",
+     "title": "Bien régler sa voix",
+     "head": [
+      "Réglage",
+      "Conseil"
+     ],
+     "rows": [
+      [
+       "volume",
+       "assez **fort** pour être entendu au fond de la classe, sans **crier**"
+      ],
+      [
+       "débit",
+       "ni trop **vite**, ni trop **lent**"
+      ],
+      [
+       "pauses",
+       "marquer les **pauses** pour laisser le temps de comprendre"
+      ],
+      [
+       "regard",
+       "**regarder** les auditeurs"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le fond de la classe",
+     "text": "Parle comme si tu devais être entendu par l’élève qui est **au fond de la classe**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un bon volume est…",
+     "options": [
+      "assez fort pour être entendu",
+      "toujours très faible",
+      "toujours très fort",
+      "silencieux"
+     ],
+     "answer": 0,
+     "explain": "Il faut être entendu sans crier."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les bons conseils pour la voix.",
+     "items": [
+      "Je crie.",
+      "Je parle assez fort.",
+      "Je regarde mes camarades.",
+      "Je parle très vite."
+     ],
+     "corrige": [
+      "Je parle assez fort.",
+      "Je regarde mes camarades."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **s’entraîne**, puis on **lit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est un défaut de diction ?",
+     "options": [
+      "articuler",
+      "avaler la fin des mots",
+      "respirer aux pauses",
+      "regarder l’auditoire"
+     ],
+     "answer": 1,
+     "explain": "Avaler la fin des mots rend la parole confuse."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : s’entraîner"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis chaque virelangue lentement, puis plus vite.",
+     "items": [
+      "Un chasseur sachant chasser sait chasser sans son chien.",
+      "Papa peut-il payer pour six poissons ?"
+     ],
+     "corrige": [
+      "Lecture lente d’abord, puis plus rapide, en articulant bien."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : lire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis à voix haute : « Les enfants arrivent à l’école avec leurs amis. » Vérifie les liaisons.",
+     "items": [
+      "Lecture"
+     ],
+     "corrige": [
+      "les_enfants, leurs_amis : liaisons à faire ; articuler chaque mot."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **diction** est la manière de prononcer les mots à voix haute.",
+      "Bien **articuler** : ouvrir la bouche, prononcer toutes les consonnes.",
+      "Les **liaisons** : obligatoires (*les_enfants*), interdites après *et* et devant un *h aspiré*.",
+      "Régler le **volume** et le **débit** : ni trop fort, ni trop vite.",
+      "S’entraîner avec des **virelangues**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que faut-il éviter pour une bonne diction ?",
+     "options": [
+      "articuler",
+      "avaler les mots",
+      "parler assez fort",
+      "regarder l’auditoire"
+     ],
+     "answer": 1,
+     "explain": "Avaler les mots est un défaut."
+    }
+   ]
+  }
+ ]
+}

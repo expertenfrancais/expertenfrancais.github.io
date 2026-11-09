@@ -1,0 +1,421 @@
+{
+ "id": 126,
+ "meta": {
+  "t": "Les périphériques de l’ordinateur",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : brancher ce qui entoure l’ordinateur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour imprimer ton devoir, tu branches une imprimante. Pour enregistrer ta voix, un microphone. Pour sauvegarder tes fichiers, une clé USB. Tous ces appareils **autour de l’ordinateur** s’appellent des **périphériques**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un **périphérique**",
+      "Distinguer **entrée**, **sortie** et **stockage**",
+      "Connaître leurs **usages**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le périphérique",
+     "text": "Un **périphérique** est un **appareil relié** à l’ordinateur. Il **envoie** des informations (entrée), **reçoit** des informations (sortie) ou **conserve** des données (stockage)."
+    },
+    {
+     "type": "quiz",
+     "question": "Une imprimante est…",
+     "options": [
+      "un périphérique",
+      "un logiciel",
+      "une mémoire",
+      "un fichier"
+     ],
+     "answer": 0,
+     "explain": "Elle se branche à l’ordinateur."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les périphériques.",
+     "items": [
+      "imprimante",
+      "dossier",
+      "clavier",
+      "traitement de texte"
+     ],
+     "corrige": [
+      "imprimante",
+      "clavier"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les périphériques d’entrée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ils **envoient** des informations **vers** l’ordinateur."
+    },
+    {
+     "type": "table",
+     "title": "Entrées",
+     "head": [
+      "Périphérique",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "**le clavier**",
+       "saisir du texte"
+      ],
+      [
+       "**la souris**",
+       "pointer et cliquer"
+      ],
+      [
+       "**le scanner**",
+       "transformer un document papier en fichier"
+      ],
+      [
+       "**le microphone**",
+       "enregistrer la voix"
+      ],
+      [
+       "**la webcam**",
+       "filmer, faire une visioconférence"
+      ],
+      [
+       "**l’appareil photo**",
+       "transférer des photos"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Avec le **scanner**, on copie une photo de papier et on l’enregistre dans l’ordinateur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel périphérique enregistre la voix ?",
+     "options": [
+      "l’imprimante",
+      "le microphone",
+      "l’écran",
+      "le scanner"
+     ],
+     "answer": 1,
+     "explain": "Le microphone capte les sons."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel périphérique transforme un cahier en fichier ?",
+     "items": [
+      "Périphérique"
+     ],
+     "corrige": [
+      "Le scanner."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les périphériques de sortie",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ils **reçoivent** les informations **de** l’ordinateur et les **montrent** ou les **produisent**."
+    },
+    {
+     "type": "table",
+     "title": "Sorties",
+     "head": [
+      "Périphérique",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "**l’écran**",
+       "afficher"
+      ],
+      [
+       "**l’imprimante**",
+       "imprimer sur papier"
+      ],
+      [
+       "**les haut-parleurs**",
+       "diffuser le son"
+      ],
+      [
+       "**le casque**",
+       "écouter sans gêner les autres"
+      ],
+      [
+       "**le vidéoprojecteur**",
+       "projeter sur un mur ou un écran"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "En classe, le **vidéoprojecteur** affiche la leçon sur le mur."
+    },
+    {
+     "type": "tip",
+     "label": "Une question",
+     "text": "Pose-toi : l’appareil **donne** à l’ordinateur (entrée) ou **reçoit** de lui (sortie) ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Le vidéoprojecteur est…",
+     "options": [
+      "une entrée",
+      "une sortie",
+      "un stockage",
+      "un logiciel"
+     ],
+     "answer": 1,
+     "explain": "Il affiche ce que l’ordinateur envoie."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : scanner, imprimante, casque, webcam.",
+     "items": [
+      "Entrées",
+      "Sorties"
+     ],
+     "corrige": [
+      "Entrées : scanner, webcam",
+      "Sorties : imprimante, casque"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les périphériques de stockage",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ils servent à **conserver** les fichiers, à les **transporter** ou à les **sauvegarder**."
+    },
+    {
+     "type": "table",
+     "title": "Stockage",
+     "head": [
+      "Périphérique",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "**la clé USB**",
+       "petit support pour emporter ses fichiers"
+      ],
+      [
+       "**le disque dur externe**",
+       "grande capacité, pour sauvegarder"
+      ],
+      [
+       "**la carte mémoire**",
+       "dans un téléphone ou un appareil photo"
+      ],
+      [
+       "**le CD / DVD**",
+       "disque lu par un lecteur (plus ancien)"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Sauvegarder",
+     "text": "Une **clé USB** peut se **perdre** ou **tomber en panne**. Fais toujours **deux copies** de tes fichiers importants."
+    },
+    {
+     "type": "tip",
+     "label": "Éjecter",
+     "text": "Avant de retirer une clé USB, on clique sur **« Éjecter »** pour ne pas abîmer les fichiers."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel périphérique permet d’emporter ses fichiers ?",
+     "options": [
+      "la clé USB",
+      "l’écran",
+      "la souris",
+      "l’imprimante"
+     ],
+     "answer": 0,
+     "explain": "La clé USB."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pourquoi faire deux copies de ses fichiers ?",
+     "items": [
+      "Réponse"
+     ],
+     "corrige": [
+      "Pour ne pas les perdre en cas de panne ou de perte."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Brancher et utiliser",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les périphériques se branchent par des **câbles** ou par **ondes** (sans fil)."
+    },
+    {
+     "type": "table",
+     "title": "Les connexions",
+     "head": [
+      "Mot",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "**port USB**",
+       "prise où l’on branche clé, souris, imprimante"
+      ],
+      [
+       "**câble**",
+       "fil qui relie deux appareils"
+      ],
+      [
+       "**sans fil**",
+       "connexion par ondes (Bluetooth, Wi-Fi)"
+      ],
+      [
+       "**brancher / débrancher**",
+       "relier / retirer un appareil"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **branche** ma clé USB dans le **port USB** de l’ordinateur, j’**ouvre** mon dossier, puis je **copie** mon devoir."
+    },
+    {
+     "type": "tip",
+     "label": "Sécurité",
+     "text": "Éteins ou **éjecte** avant de **débrancher** un appareil. Évite de toucher les prises avec les mains mouillées."
+    },
+    {
+     "type": "quiz",
+     "question": "Que veut dire « sans fil » ?",
+     "options": [
+      "sans électricité",
+      "sans câble",
+      "sans écran",
+      "sans clavier"
+     ],
+     "answer": 1,
+     "explain": "La connexion se fait par ondes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète : « Je ____ ma clé USB dans le port. » (brancher)",
+     "items": [
+      "Mot"
+     ],
+     "corrige": [
+      "branche"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Un périphérique est…",
+     "options": [
+      "un appareil relié à l’ordinateur",
+      "un logiciel",
+      "un dossier",
+      "un mot"
+     ],
+     "answer": 0,
+     "explain": "C’est un appareil relié à l’ordinateur."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : souris, imprimante, clé USB, microphone.",
+     "items": [
+      "Entrée",
+      "Sortie",
+      "Stockage"
+     ],
+     "corrige": [
+      "Entrée : souris, microphone",
+      "Sortie : imprimante",
+      "Stockage : clé USB"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : expliquer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique en deux phrases comment tu imprimes un devoir.",
+     "items": [
+      "Explication"
+     ],
+     "corrige": [
+      "Exemple : Je termine mon devoir, puis j’allume l’imprimante. Je clique sur « Imprimer » et je récupère la feuille."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **périphérique** est un appareil relié à l’ordinateur.",
+      "**Entrées** : clavier, souris, scanner, microphone, webcam.",
+      "**Sorties** : écran, imprimante, haut-parleurs, casque, vidéoprojecteur.",
+      "**Stockage** : clé USB, disque dur externe, carte mémoire.",
+      "On branche par **câble** (port USB) ou **sans fil**, et on **éjecte** avant de retirer."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "L’imprimante est…",
+     "options": [
+      "une entrée",
+      "une sortie",
+      "un stockage",
+      "une mémoire vive"
+     ],
+     "answer": 1,
+     "explain": "Elle produit un résultat sur papier."
+    }
+   ]
+  }
+ ]
+}

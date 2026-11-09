@@ -1,0 +1,391 @@
+{
+ "id": 124,
+ "meta": {
+  "t": "La rédaction d’un paragraphe narratif",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : raconter ce qui s’est passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ta maîtresse te donne ce sujet : « Raconte un événement qui t’a marqué ». Tu vas écrire un **paragraphe** qui raconte une scène : une **petite histoire** avec un début, un milieu et une fin. C’est un **paragraphe narratif**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un **paragraphe narratif**",
+      "**Organiser** les actions dans l’ordre",
+      "**Rédiger** avec les bons temps et connecteurs"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le paragraphe narratif",
+     "text": "Un **paragraphe narratif** **raconte** un ou plusieurs **événements** dans l’**ordre**, avec des **personnages**, un **lieu** et un **temps**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un paragraphe narratif sert à…",
+     "options": [
+      "raconter",
+      "décrire seulement",
+      "donner des ordres",
+      "démontrer"
+     ],
+     "answer": 0,
+     "explain": "Il raconte des événements."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle phrase raconte ?",
+     "items": [
+      "Hier, nous avons visité le marché.",
+      "La table est grande.",
+      "Viens ici."
+     ],
+     "corrige": [
+      "Hier, nous avons visité le marché."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Préparer son récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant d’écrire, on **prépare**. On répond à des **questions**."
+    },
+    {
+     "type": "table",
+     "title": "Les questions",
+     "head": [
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Qui ?**",
+       "moi et mon frère"
+      ],
+      [
+       "**Où ?**",
+       "au bord du fleuve"
+      ],
+      [
+       "**Quand ?**",
+       "un samedi matin"
+      ],
+      [
+       "**Que se passe-t-il ?**",
+       "nous trouvons une pirogue abandonnée"
+      ],
+      [
+       "**Comment cela finit-il ?**",
+       "nous la rendons au pêcheur"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le brouillon",
+     "text": "Note tes idées dans l’**ordre** où les actions se sont passées."
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on avant d’écrire ?",
+     "options": [
+      "on prépare ses idées",
+      "on corrige",
+      "on recopie",
+      "on dessine"
+     ],
+     "answer": 0,
+     "explain": "On prépare."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Ordonne : a) Je rends la pirogue. b) Je trouve une pirogue. c) Je cherche son propriétaire.",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "b, c, a"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les temps du récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un récit se raconte **au passé**. On choisit deux temps."
+    },
+    {
+     "type": "table",
+     "title": "Passé simple ou passé composé ?",
+     "head": [
+      "Temps",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**passé composé**",
+       "récit oral, proche du vécu",
+       "Hier, j’ai trouvé une pirogue."
+      ],
+      [
+       "**passé simple**",
+       "récit écrit, littéraire",
+       "Il trouva une pirogue."
+      ],
+      [
+       "**imparfait**",
+       "décor, habitude, arrière-plan",
+       "Il faisait beau. Les oiseaux chantaient."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "L’imparfait pour le décor",
+     "text": "L’**imparfait** installe le **décor** ; le **passé composé** (ou le **passé simple**) fait **avancer** l’action."
+    },
+    {
+     "type": "ex",
+     "text": "Il **faisait** beau (décor). Je **suis allé** au fleuve (action). J’**ai trouvé** une pirogue (action)."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas mélanger",
+     "text": "Choisis **un seul temps** pour les actions principales : tout au **passé composé** ou tout au **passé simple**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps décrit le décor ?",
+     "options": [
+      "l’imparfait",
+      "le futur",
+      "l’impératif",
+      "le conditionnel"
+     ],
+     "answer": 0,
+     "explain": "L’imparfait pour le décor."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au passé composé : « Nous marchons jusqu’au fleuve. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Nous avons marché jusqu’au fleuve."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs temporels",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour **enchaîner** les actions, on utilise des **mots de liaison** de temps."
+    },
+    {
+     "type": "table",
+     "title": "Les connecteurs de temps",
+     "head": [
+      "Moment",
+      "Connecteurs"
+     ],
+     "rows": [
+      [
+       "**début**",
+       "un jour, un matin, au début"
+      ],
+      [
+       "**milieu**",
+       "puis, ensuite, alors, soudain"
+      ],
+      [
+       "**fin**",
+       "enfin, finalement, à la fin"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Un samedi matin**, j’ai suivi le fleuve. **Soudain**, j’ai vu une pirogue. **Alors**, j’ai cherché son propriétaire. **Finalement**, je la lui ai rendue."
+    },
+    {
+     "type": "tip",
+     "label": "Varier",
+     "text": "Ne répète pas « puis » à chaque phrase. Alterne les connecteurs."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot signale une surprise ?",
+     "options": [
+      "puis",
+      "soudain",
+      "d’abord",
+      "enfin"
+     ],
+     "answer": 1,
+     "explain": "« Soudain » marque l’événement inattendu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : d’abord, ensuite, enfin. « ______ j’ai lavé le linge. ______ je l’ai étendu. ______ je suis rentré. »",
+     "items": [
+      "1",
+      "2",
+      "3"
+     ],
+     "corrige": [
+      "D’abord",
+      "Ensuite",
+      "Enfin"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger le paragraphe narratif",
+   "blocs": [
+    {
+     "type": "list",
+     "label": "Le plan",
+     "items": [
+      "Une **phrase de début** : le temps et le lieu.",
+      "Les **actions** dans l’ordre, avec des connecteurs.",
+      "Un **événement important** (soudain…).",
+      "Une **phrase de fin** : la conséquence ou ce que tu ressens."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "**Un samedi matin**, mon frère et moi marchions au bord du fleuve. **Soudain**, nous avons aperçu une pirogue abandonnée. **Alors**, nous avons cherché son propriétaire. **Finalement**, un vieux pêcheur nous l’a réclamée. Il nous a remerciés avec un grand sourire."
+    },
+    {
+     "type": "tip",
+     "label": "Relire",
+     "text": "Relis : l’**ordre** est-il bon ? Les **temps** sont-ils cohérents ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Une phrase de fin donne…",
+     "options": [
+      "la conséquence ou le sentiment final",
+      "un nouveau sujet",
+      "une définition",
+      "un ordre"
+     ],
+     "answer": 0,
+     "explain": "Elle termine l’histoire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe narratif de cinq phrases : « Un jour de pluie à l’école ».",
+     "items": [
+      "Paragraphe"
+     ],
+     "corrige": [
+      "Exemple : Un matin, il pleuvait très fort. Les élèves sont arrivés trempés. Soudain, le toit a fui. Alors, nous avons déplacé les tables. Finalement, la pluie s’est arrêtée."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps fait avancer l’action ?",
+     "options": [
+      "l’imparfait",
+      "le passé composé",
+      "le présent seulement",
+      "le futur"
+     ],
+     "answer": 1,
+     "explain": "Le passé composé (ou passé simple)."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le bon temps : « Il (faire) beau quand nous (partir). »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Il faisait beau quand nous sommes partis."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Raconte en cinq phrases un voyage que tu as fait.",
+     "items": [
+      "Paragraphe"
+     ],
+     "corrige": [
+      "Exemple : L’an dernier, je suis allé voir ma grand-mère. Nous avons pris le train. Soudain, une panne nous a arrêtés. Alors, nous avons attendu. Finalement, nous sommes arrivés le soir."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **paragraphe narratif** raconte des événements dans l’**ordre**.",
+      "On prépare : **qui, où, quand, quoi, fin**.",
+      "**Imparfait** pour le décor ; **passé composé** ou **passé simple** pour les actions.",
+      "Les **connecteurs de temps** relient les actions : un jour, puis, soudain, enfin.",
+      "On termine par une **phrase de fin**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur ouvre le récit ?",
+     "options": [
+      "finalement",
+      "un jour",
+      "enfin",
+      "soudain"
+     ],
+     "answer": 1,
+     "explain": "« Un jour » ouvre le récit."
+    }
+   ]
+  }
+ ]
+}

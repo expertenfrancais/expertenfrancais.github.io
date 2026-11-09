@@ -1,0 +1,548 @@
+{
+ "id": 88,
+ "meta": {
+  "t": "La distinction entre peu, peut et peux",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Trois mots, une seule prononciation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il mange **peu**. Il **peut** venir. Tu **peux** rester. » Ces trois mots se prononcent de la **même façon** : [pø]. Pourtant, ils ne s’écrivent **pas** pareil et ils n’ont **pas** le même sens."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer **peu**, **peut** et **peux**",
+      "Choisir la bonne orthographe grâce à des astuces",
+      "Ne pas confondre **peut-être** et **peut être**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "peu",
+     "text": "**Peu** est un **adverbe** de quantité. Il est **invariable** (il ne change jamais). Il signifie **pas beaucoup**."
+    },
+    {
+     "type": "def",
+     "label": "peut, peux",
+     "text": "**Peut** et **peux** sont deux formes du **verbe pouvoir** au **présent** de l’indicatif : **je peux, tu peux, il peut**."
+    },
+    {
+     "type": "table",
+     "title": "Comparer les trois mots",
+     "head": [
+      "Mot",
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "peu",
+       "adverbe",
+       "Il mange **peu**."
+      ],
+      [
+       "peux",
+       "verbe pouvoir (je, tu)",
+       "Je **peux** venir. — Tu **peux** rester."
+      ],
+      [
+       "peut",
+       "verbe pouvoir (il, elle, on)",
+       "Il **peut** venir. — On **peut** jouer."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un adverbe invariable ?",
+     "options": [
+      "peut",
+      "peux",
+      "peu",
+      "pouvons"
+     ],
+     "answer": 2,
+     "explain": "« Peu » est un adverbe : il ne change jamais."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les mots qui sont des formes du verbe pouvoir.",
+     "items": [
+      "Il mange peu.",
+      "Elle peut courir.",
+      "Je peux t’aider.",
+      "Il a peu d’amis."
+     ],
+     "corrige": [
+      "Elle peut courir.",
+      "Je peux t’aider."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’adverbe « peu »",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Peu** sert à indiquer une **petite quantité**. Il est **invariable** : on écrit toujours **peu**, sans **-t** ni **-x**."
+    },
+    {
+     "type": "table",
+     "title": "Expressions avec peu",
+     "head": [
+      "Expression",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "peu de + nom",
+       "Il y a **peu de** riz."
+      ],
+      [
+       "un peu (de)",
+       "Je veux **un peu de** sauce."
+      ],
+      [
+       "à peu près",
+       "Il y a **à peu près** dix élèves."
+      ],
+      [
+       "peu à peu",
+       "Il apprend **peu à peu**."
+      ],
+      [
+       "trop peu, très peu",
+       "J’ai **très peu** dormi."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il pleut **peu** en saison sèche. — Il a **peu** d’amis. — Attends **un peu**."
+    },
+    {
+     "type": "tip",
+     "label": "Son contraire",
+     "text": "Le contraire de **peu** est **beaucoup** : *Il mange **peu** ≠ Il mange **beaucoup**.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase écrit-on « peu » ?",
+     "options": [
+      "Il ... de temps.",
+      "Il ... dormir.",
+      "Je ... venir.",
+      "Tu ... sortir."
+     ],
+     "answer": 0,
+     "explain": "On peut dire « beaucoup de temps » : c’est l’adverbe peu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec peu ou peut.",
+     "items": [
+      "Nous avons … d’eau.",
+      "Il … sortir ce soir.",
+      "J’ai très … mangé.",
+      "Elle … dormir."
+     ],
+     "corrige": [
+      "Nous avons peu d’eau.",
+      "Il peut sortir ce soir.",
+      "J’ai très peu mangé.",
+      "Elle peut dormir."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le verbe pouvoir : peux et peut",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Peux** et **peut** viennent du verbe **pouvoir**, qui exprime la **capacité** ou la **permission**."
+    },
+    {
+     "type": "table",
+     "title": "Pouvoir au présent de l’indicatif",
+     "head": [
+      "Personne",
+      "Forme"
+     ],
+     "rows": [
+      [
+       "je",
+       "peu**x**"
+      ],
+      [
+       "tu",
+       "peu**x**"
+      ],
+      [
+       "il, elle, on",
+       "peu**t**"
+      ],
+      [
+       "nous",
+       "pouvons"
+      ],
+      [
+       "vous",
+       "pouvez"
+      ],
+      [
+       "ils, elles",
+       "peuvent"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **peux** porter ce sac. — Tu **peux** venir demain. — Elle **peut** chanter. — On **peut** entrer ?"
+    },
+    {
+     "type": "tip",
+     "label": "Une règle simple",
+     "text": "Avec **je** et **tu**, on écrit **peux** (avec un **x**). Avec **il, elle, on**, on écrit **peut** (avec un **t**)."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de -s",
+     "text": "On n’écrit **jamais** « je peus » ni « tu peus » : c’est **peux**, avec **-x**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je peut venir.",
+      "Je peux venir.",
+      "Je peu venir.",
+      "Je peus venir."
+     ],
+     "answer": 1,
+     "explain": "Avec « je », on écrit peux."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec peu, peut ou peux.",
+     "items": [
+      "Tu … m’aider ?",
+      "Elle … de temps.",
+      "Je … courir vite.",
+      "On … jouer dehors."
+     ],
+     "corrige": [
+      "Tu peux m’aider ?",
+      "Elle a peu de temps.",
+      "Je peux courir vite.",
+      "On peut jouer dehors."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les astuces pour ne plus se tromper",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour choisir entre **peu**, **peut** et **peux**, tu as **trois astuces** très efficaces."
+    },
+    {
+     "type": "table",
+     "title": "Les trois astuces",
+     "head": [
+      "Test",
+      "Si ça marche…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "remplacer par **beaucoup**",
+       "on écrit **peu**",
+       "Il mange peu / beaucoup → **peu**"
+      ],
+      [
+       "remplacer par **pouvait** ou **pourrait**",
+       "on écrit **peut** ou **peux**",
+       "Il peut venir / pouvait venir → **peut**"
+      ],
+      [
+       "changer de personne (**nous**)",
+       "on écrit **peut** ou **peux** (nous **pouvons**)",
+       "Nous pouvons venir → **peux/peut**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il ne mange pas **beaucoup** → il mange **peu**. — Il **pouvait** venir → il **peut** venir."
+    },
+    {
+     "type": "tip",
+     "label": "Choisir entre peut et peux",
+     "text": "Regarde le **sujet** : **je, tu** → **peux** ; **il, elle, on** (ou un nom) → **peut**."
+    },
+    {
+     "type": "warn",
+     "label": "Peu n’a pas de sujet",
+     "text": "Si tu ne peux pas mettre un **sujet** (je, tu, il…) devant le mot, c’est **peu** : *Il mange **peu***, *un **peu** de sel*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot complète la phrase : « Il y a … de monde. » ?",
+     "options": [
+      "peu",
+      "peut",
+      "peux",
+      "peus"
+     ],
+     "answer": 0,
+     "explain": "On peut dire « beaucoup de monde » : c’est l’adverbe peu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis peu, peut ou peux avec l’astuce du remplacement.",
+     "items": [
+      "Mon frère … beaucoup manger.",
+      "Papa a … de temps.",
+      "Tu … me prêter ton stylo ?",
+      "Il fait … de bruit."
+     ],
+     "corrige": [
+      "Mon frère peut beaucoup manger.",
+      "Papa a peu de temps.",
+      "Tu peux me prêter ton stylo ?",
+      "Il fait peu de bruit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Peut-être et peut être",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Attention à **peut-être** avec un **trait d’union** et à **peut être** sans trait d’union : ils ne s’emploient pas de la même manière."
+    },
+    {
+     "type": "table",
+     "title": "Deux écritures, deux sens",
+     "head": [
+      "Écriture",
+      "Nature",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**peut-être**",
+       "adverbe",
+       "sans doute, probablement",
+       "Il viendra **peut-être** demain."
+      ],
+      [
+       "**peut être**",
+       "verbe pouvoir + verbe être",
+       "il est possible qu’il soit",
+       "Il **peut être** malade."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Peut-être** qu’il pleuvra. — Le chef **peut être** content."
+    },
+    {
+     "type": "tip",
+     "label": "Le test du remplacement",
+     "text": "Si tu peux remplacer par **sans doute** ou **probablement**, écris **peut-être** (avec un trait d’union). Si tu peux remplacer par **pouvait être**, écris **peut être** (sans trait d’union)."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de « peux-être »",
+     "text": "L’adverbe s’écrit toujours **peut-être**, avec **-t** : on n’écrit jamais « peux-être » ni « peu-être »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il peut-être malade.",
+      "Il peut être malade.",
+      "Il peu être malade.",
+      "Il peux-être malade."
+     ],
+     "answer": 1,
+     "explain": "On peut remplacer par « pouvait être » : il peut être malade."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec peut-être ou peut être.",
+     "items": [
+      "Il viendra … demain.",
+      "Ce chemin … dangereux.",
+      "… qu’il a oublié.",
+      "Le temps … beau demain."
+     ],
+     "corrige": [
+      "Il viendra peut-être demain.",
+      "Ce chemin peut être dangereux.",
+      "Peut-être qu’il a oublié.",
+      "Le temps peut être beau demain."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **complète**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la nature du mot en gras : adverbe (A) ou verbe pouvoir (V).",
+     "items": [
+      "Il mange **peu**.",
+      "Tu **peux** venir.",
+      "Elle **peut** chanter.",
+      "J’ai **peu** dormi."
+     ],
+     "corrige": [
+      "A",
+      "V",
+      "V",
+      "A"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Tu peut rester.",
+      "Tu peux rester.",
+      "Tu peu rester.",
+      "Tu peus rester."
+     ],
+     "answer": 1,
+     "explain": "Avec « tu », on écrit peux."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec peu, peut, peux ou peut-être / peut être.",
+     "items": [
+      "Je … t’aider ce soir.",
+      "Il y a … de monde ici.",
+      "Il … être déjà parti.",
+      "Elle viendra … cette semaine.",
+      "On … jouer ici ?",
+      "Tu … rester un …."
+     ],
+     "corrige": [
+      "Je peux t’aider ce soir.",
+      "Il y a peu de monde ici.",
+      "Il peut être déjà parti.",
+      "Elle viendra peut-être cette semaine.",
+      "On peut jouer ici ?",
+      "Tu peux rester un peu."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases : une avec peu, une avec peux et une avec peut.",
+     "items": [
+      "Phrase avec peu",
+      "Phrase avec peux",
+      "Phrase avec peut"
+     ],
+     "corrige": [
+      "Exemples : Il pleut peu en juillet.",
+      "Je peux t’aider.",
+      "Elle peut chanter."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**peu** : adverbe de quantité, **invariable** ; contraire de **beaucoup**.",
+      "**peux** : verbe **pouvoir** avec **je** et **tu**.",
+      "**peut** : verbe **pouvoir** avec **il, elle, on**.",
+      "Astuce : remplacer par **beaucoup** → **peu** ; par **pouvait** → **peut / peux**.",
+      "**peut-être** (avec trait d’union) = **sans doute** ; **peut être** = **pouvait être**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Peu, peut, peux",
+     "head": [
+      "Mot",
+      "Quand l’écrire ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "peu",
+       "= pas beaucoup",
+       "Il mange peu."
+      ],
+      [
+       "peux",
+       "avec je, tu",
+       "Tu peux venir."
+      ],
+      [
+       "peut",
+       "avec il, elle, on",
+       "Il peut venir."
+      ],
+      [
+       "peut-être",
+       "= sans doute",
+       "Il viendra peut-être."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il peu venir.",
+      "Il peut venir.",
+      "Il peux venir.",
+      "Il peus venir."
+     ],
+     "answer": 1,
+     "explain": "Avec « il », on écrit peut."
+    }
+   ]
+  }
+ ]
+}

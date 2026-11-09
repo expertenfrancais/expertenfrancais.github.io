@@ -1,0 +1,431 @@
+{
+ "id": 108,
+ "meta": {
+  "t": "Les composantes d’une image",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : lire une image",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Sur le mur de ta classe, une affiche montre un marché de Brazzaville : des vendeuses, des fruits, des pagnes colorés et un grand soleil. Avant même de lire le titre, tu **comprends** déjà la scène. Une image se **lit** comme un texte."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est une **image** (un support iconographique)",
+      "Reconnaître ses **composantes**",
+      "Décrire une image avec un vocabulaire précis"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "L’image",
+     "text": "Une **image** est un support **visuel** (photographie, dessin, affiche, bande dessinée, tableau…) qui transmet un **message**. On l’appelle aussi **support iconographique**."
+    },
+    {
+     "type": "quiz",
+     "question": "Une affiche est…",
+     "options": [
+      "un texte sans image",
+      "un support iconographique",
+      "une dictée",
+      "un poème"
+     ],
+     "answer": 1,
+     "explain": "L’affiche est une image qui transmet un message."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les supports qui sont des images.",
+     "items": [
+      "une photographie",
+      "une dictée",
+      "un dessin",
+      "une affiche",
+      "une conjugaison"
+     ],
+     "corrige": [
+      "une photographie",
+      "un dessin",
+      "une affiche"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sujet, le titre et la légende",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour comprendre une image, on commence par ce que l’on **voit** tout de suite et par les **mots** qui l’accompagnent."
+    },
+    {
+     "type": "table",
+     "title": "Les éléments qui aident à lire",
+     "head": [
+      "Élément",
+      "Ce que c’est",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le sujet**",
+       "ce que l’image représente",
+       "un marché au bord du fleuve"
+      ],
+      [
+       "**le titre**",
+       "le nom donné à l’image",
+       "« Jour de marché »"
+      ],
+      [
+       "**la légende**",
+       "la phrase courte écrite sous l’image",
+       "Les vendeuses installent leurs étals."
+      ],
+      [
+       "**la source**",
+       "l’auteur, la date ou le lieu",
+       "photographie prise à Pointe-Noire, 2024"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Titre** : « Le retour de la pêche ». **Légende** : Les pêcheurs ramènent leurs filets au lever du jour. **Sujet** : des pêcheurs sur la rive."
+    },
+    {
+     "type": "tip",
+     "label": "Les mots aident l’image",
+     "text": "Le **titre** et la **légende** disent souvent ce que l’image veut montrer. Lis-les avant de la décrire."
+    },
+    {
+     "type": "quiz",
+     "question": "La phrase écrite sous une image s’appelle…",
+     "options": [
+      "le titre",
+      "la légende",
+      "la source",
+      "le cadre"
+     ],
+     "answer": 1,
+     "explain": "La légende explique ou précise l’image."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne un titre et une légende à une photo montrant des enfants qui jouent au football dans la cour.",
+     "items": [
+      "Titre",
+      "Légende"
+     ],
+     "corrige": [
+      "Exemple : Titre : « La récréation ». Légende : Les élèves jouent au football dans la cour de l’école."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les plans et le cadrage",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le photographe ou le dessinateur choisit **de quelle distance** il montre la scène. C’est le **plan**. Chaque plan a un effet différent."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux plans",
+     "head": [
+      "Plan",
+      "Ce qu’on voit",
+      "Effet produit"
+     ],
+     "rows": [
+      [
+       "**plan d’ensemble**",
+       "tout le lieu (le village, le marché)",
+       "situer la scène"
+      ],
+      [
+       "**plan moyen**",
+       "les personnages en entier",
+       "montrer une action"
+      ],
+      [
+       "**gros plan**",
+       "le visage ou un détail",
+       "montrer une émotion ou un objet important"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Un **plan d’ensemble** montre tout le village. Un **gros plan** montre le sourire d’une grand-mère."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "Le **plan** désigne la **distance** de la prise de vue. Il ne faut pas le confondre avec le **premier plan** (ce qui est devant) et l’**arrière-plan** (ce qui est derrière)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel plan montre le visage d’un personnage en très grand ?",
+     "options": [
+      "le plan d’ensemble",
+      "le plan moyen",
+      "le gros plan",
+      "l’arrière-plan"
+     ],
+     "answer": 2,
+     "explain": "Le gros plan s’approche d’un visage ou d’un détail."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe : a) tout le village b) un enfant en entier c) les yeux d’un enfant. Quel est le plan ?",
+     "items": [
+      "a",
+      "b",
+      "c"
+     ],
+     "corrige": [
+      "a : plan d’ensemble",
+      "b : plan moyen",
+      "c : gros plan"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les plans de l’image : premier plan et arrière-plan",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une image, les éléments ne sont pas tous à la même place. On les **repère** grâce aux **plans** de la profondeur."
+    },
+    {
+     "type": "table",
+     "title": "Où sont les éléments ?",
+     "head": [
+      "Place",
+      "Nom",
+      "Exemple (le marché)"
+     ],
+     "rows": [
+      [
+       "devant",
+       "**le premier plan**",
+       "les paniers de mangues"
+      ],
+      [
+       "au milieu",
+       "**le second plan**",
+       "les vendeuses et les clientes"
+      ],
+      [
+       "au fond",
+       "**l’arrière-plan**",
+       "le fleuve et le ciel"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Au **premier plan**, un enfant porte un panier. Au **second plan**, des femmes discutent. À l’**arrière-plan**, on aperçoit les collines."
+    },
+    {
+     "type": "tip",
+     "label": "Pour bien décrire",
+     "text": "Décris toujours **dans un ordre** : du **premier plan** vers l’**arrière-plan**, ou de **gauche à droite**."
+    },
+    {
+     "type": "quiz",
+     "question": "Ce qui se trouve tout au fond de l’image est…",
+     "options": [
+      "au premier plan",
+      "à l’arrière-plan",
+      "dans la légende",
+      "au centre"
+     ],
+     "answer": 1,
+     "explain": "L’arrière-plan est la partie la plus éloignée."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans l’image « un chien devant une case, des montagnes au loin », indique le plan de chaque élément.",
+     "items": [
+      "le chien",
+      "la case",
+      "les montagnes"
+     ],
+     "corrige": [
+      "le chien : premier plan",
+      "la case : second plan",
+      "les montagnes : arrière-plan"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les couleurs, la lumière et les formes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **couleurs**, la **lumière** et les **formes** donnent à l’image son **atmosphère**."
+    },
+    {
+     "type": "table",
+     "title": "Ce que disent les couleurs",
+     "head": [
+      "Couleurs",
+      "Impression"
+     ],
+     "rows": [
+      [
+       "**chaudes** (rouge, orange, jaune)",
+       "la joie, la chaleur, l’énergie"
+      ],
+      [
+       "**froides** (bleu, vert, gris)",
+       "le calme, la tristesse, la fraîcheur"
+      ],
+      [
+       "**sombres** (noir, brun)",
+       "la peur, le mystère"
+      ],
+      [
+       "**claires** (blanc, jaune pâle)",
+       "la paix, la douceur"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Un ciel **orange** au coucher du soleil donne une impression de **chaleur** et de **calme**."
+    },
+    {
+     "type": "list",
+     "label": "À observer",
+     "items": [
+      "la **lumière** : vive, douce, faible",
+      "les **formes** : rondes (douceur), pointues (danger)",
+      "les **lignes** : droites (ordre), courbes (mouvement)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelles couleurs sont dites « chaudes » ?",
+     "options": [
+      "bleu et vert",
+      "rouge, orange et jaune",
+      "gris et noir",
+      "blanc seulement"
+     ],
+     "answer": 1,
+     "explain": "Le rouge, l’orange et le jaune sont des couleurs chaudes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle impression donne une image toute grise et sombre ?",
+     "items": [
+      "Impression"
+     ],
+     "corrige": [
+      "Elle donne une impression de tristesse, de peur ou de mystère."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **classe**, puis on **décrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel élément donne le nom de l’image ?",
+     "options": [
+      "la légende",
+      "le titre",
+      "la source",
+      "le plan"
+     ],
+     "answer": 1,
+     "explain": "Le titre est le nom de l’image."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : un visage en très grand, tout le marché vu de loin, trois enfants en entier.",
+     "items": [
+      "gros plan",
+      "plan d’ensemble",
+      "plan moyen"
+     ],
+     "corrige": [
+      "un visage en très grand : gros plan",
+      "tout le marché vu de loin : plan d’ensemble",
+      "trois enfants en entier : plan moyen"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : décrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris en quatre phrases une photo de ton village ou de ton quartier : sujet, plans, couleurs, impression.",
+     "items": [
+      "Description"
+     ],
+     "corrige": [
+      "Exemple : La photo montre une rue de mon quartier. Au premier plan, des enfants jouent. À l’arrière-plan, on voit des manguiers. Les couleurs sont chaudes et donnent une impression de joie."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une **image** est un support **iconographique** qui transmet un message.",
+      "Le **titre** et la **légende** aident à la comprendre.",
+      "Le **plan** (d’ensemble, moyen, gros plan) dit **de quelle distance** on regarde.",
+      "On distingue le **premier plan**, le **second plan** et l’**arrière-plan**.",
+      "Les **couleurs** (chaudes ou froides), la **lumière** et les **formes** créent l’atmosphère."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’effet d’un gros plan sur un visage ?",
+     "options": [
+      "il situe le lieu",
+      "il montre une émotion",
+      "il cache l’image",
+      "il remplace le titre"
+     ],
+     "answer": 1,
+     "explain": "Le gros plan insiste sur une émotion ou un détail."
+    }
+   ]
+  }
+ ]
+}

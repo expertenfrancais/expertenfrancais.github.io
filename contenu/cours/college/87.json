@@ -1,0 +1,704 @@
+{
+ "id": 87,
+ "meta": {
+  "t": "Les phrases impérative et négative",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Donner un ordre, dire non",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans la cour, le directeur dit : « **Rangez-vous** en deux files ! **Ne courez pas** ! » La première phrase donne un **ordre** : c’est une **phrase impérative**. La seconde **refuse** ou **interdit** : c’est une **phrase négative**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la phrase impérative et la phrase négative",
+      "Employer les différentes négations (ne … pas, ne … jamais, ne … plus, ne … rien…)",
+      "Transformer une phrase affirmative en phrase négative"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La phrase impérative",
+     "text": "La **phrase impérative** exprime un **ordre**, un **conseil**, une **interdiction** ou une **demande**. Le verbe est à l’**impératif** et **sans sujet**."
+    },
+    {
+     "type": "def",
+     "label": "La phrase négative",
+     "text": "La **phrase négative** **nie** ou **interdit** quelque chose. Elle contient une **négation** : *ne … pas*, *ne … jamais*, *ne … plus*, etc."
+    },
+    {
+     "type": "table",
+     "title": "Impérative ou négative ?",
+     "head": [
+      "Phrase",
+      "Type"
+     ],
+     "rows": [
+      [
+       "Prends ton cahier.",
+       "impérative (affirmative)"
+      ],
+      [
+       "Il ne prend pas son cahier.",
+       "négative"
+      ],
+      [
+       "Ne prends pas ton cahier.",
+       "impérative et négative"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une phrase négative ?",
+     "options": [
+      "Ouvre la porte.",
+      "Il ne ferme pas la porte.",
+      "Quelle porte !",
+      "Où est la porte ?"
+     ],
+     "answer": 1,
+     "explain": "« Ne … pas » entoure le verbe : c’est une négation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases négatives.",
+     "items": [
+      "Je ne sais pas.",
+      "Viens ici.",
+      "Il n’a jamais menti.",
+      "Nous mangeons du riz."
+     ],
+     "corrige": [
+      "Je ne sais pas.",
+      "Il n’a jamais menti."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La phrase impérative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **phrase impérative** commence souvent directement par le **verbe**. Il n’y a **pas de sujet** exprimé."
+    },
+    {
+     "type": "table",
+     "title": "Ce qu’exprime la phrase impérative",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "un ordre",
+       "**Range** ta chambre !"
+      ],
+      [
+       "un conseil",
+       "**Mange** des fruits."
+      ],
+      [
+       "une interdiction",
+       "**Ne touche pas** à ce fil."
+      ],
+      [
+       "une demande polie",
+       "**Passe**-moi le sel, s’il te plaît."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Écoutez** bien. — **Sortons** vite ! — **Viens** ici."
+    },
+    {
+     "type": "warn",
+     "label": "Le verbe à l’impératif",
+     "text": "Le verbe est à la **2e personne du singulier**, à la **1re personne du pluriel** ou à la **2e personne du pluriel** : *Chante ! Chantons ! Chantez !* (voir le cours « L’impératif présent »)."
+    },
+    {
+     "type": "tip",
+     "label": "La ponctuation",
+     "text": "Elle se termine par un **point** (ordre calme, consigne) ou un **point d’exclamation** (ordre vif)."
+    },
+    {
+     "type": "tip",
+     "label": "L’infinitif pour une consigne",
+     "text": "Dans une **recette** ou une **notice**, on emploie souvent l’**infinitif** : « **Mélanger** la farine et l’eau. » « **Ne pas toucher.** »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase le verbe est-il à l’impératif ?",
+     "options": [
+      "Tu ranges ta chambre.",
+      "Range ta chambre.",
+      "Ranger sa chambre est utile.",
+      "Il rangeait sa chambre."
+     ],
+     "answer": 1,
+     "explain": "Sans sujet et pour donner un ordre : c’est l’impératif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme ces phrases en phrases impératives.",
+     "items": [
+      "Tu fermes la fenêtre.",
+      "Vous écoutez le maître.",
+      "Nous partons maintenant."
+     ],
+     "corrige": [
+      "Ferme la fenêtre !",
+      "Écoutez le maître !",
+      "Partons maintenant !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La phrase négative avec ne … pas",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour mettre une phrase à la **forme négative**, on place **ne** **avant le verbe** et **pas** **après le verbe**."
+    },
+    {
+     "type": "table",
+     "title": "Du positif au négatif",
+     "head": [
+      "Affirmative",
+      "Négative"
+     ],
+     "rows": [
+      [
+       "Il mange du riz.",
+       "Il **ne** mange **pas** de riz."
+      ],
+      [
+       "Je sais.",
+       "Je **ne** sais **pas**."
+      ],
+      [
+       "Elle aime le chou.",
+       "Elle **n’**aime **pas** le chou."
+      ],
+      [
+       "Nous partons.",
+       "Nous **ne** partons **pas**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne devient n’",
+     "text": "Devant une **voyelle** ou un **h muet**, **ne** devient **n’** : *Il **n’**ouvre **pas**. Elle **n’**habite **pas** ici.*"
+    },
+    {
+     "type": "tip",
+     "label": "Avec un pronom",
+     "text": "Le pronom complément reste **avant le verbe**, entre **ne** et le verbe : *Il **ne** **le** voit **pas**.* *Je **ne** **lui** parle **pas**.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il n’aime pas le riz.",
+      "Il ne aime pas le riz.",
+      "Il aime ne pas le riz.",
+      "Il n’aime le riz pas."
+     ],
+     "answer": 0,
+     "explain": "Ne devient n’ devant une voyelle, et pas se place après le verbe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ces phrases à la forme négative.",
+     "items": [
+      "Je comprends.",
+      "Elle arrive.",
+      "Nous habitons ici.",
+      "Il le voit."
+     ],
+     "corrige": [
+      "Je ne comprends pas.",
+      "Elle n’arrive pas.",
+      "Nous n’habitons pas ici.",
+      "Il ne le voit pas."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les autres négations",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La négation **ne … pas** n’est pas la seule. D’autres **mots négatifs** s’emploient avec **ne**."
+    },
+    {
+     "type": "table",
+     "title": "Les principales négations",
+     "head": [
+      "Négation",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "ne … pas",
+       "négation simple",
+       "Il **ne** dort **pas**."
+      ],
+      [
+       "ne … plus",
+       "ce qui s’est arrêté",
+       "Il **ne** pleut **plus**."
+      ],
+      [
+       "ne … jamais",
+       "à aucun moment",
+       "Je **ne** mens **jamais**."
+      ],
+      [
+       "ne … rien",
+       "aucune chose",
+       "Il **ne** dit **rien**."
+      ],
+      [
+       "ne … personne",
+       "aucune personne",
+       "Je **ne** vois **personne**."
+      ],
+      [
+       "ne … aucun(e)",
+       "pas un seul",
+       "Il **n’**a **aucun** ami ici."
+      ],
+      [
+       "ne … que",
+       "seulement (sens restrictif)",
+       "Il **ne** reste **que** deux mangues."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **ne** connais **personne** ici. — Il **ne** boit **jamais** de lait. — Nous **n’**avons **plus** de riz."
+    },
+    {
+     "type": "warn",
+     "label": "Ne … que n’est pas une négation",
+     "text": "« Il **ne** mange **que** du riz » veut dire « il mange **seulement** du riz ». La phrase n’est pas négative : c’est une **restriction**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il ne reste que deux mangues. », que veut dire « ne … que » ?",
+     "options": [
+      "aucune mangue",
+      "seulement deux mangues",
+      "plusieurs mangues",
+      "jamais de mangues"
+     ],
+     "answer": 1,
+     "explain": "« Ne … que » exprime la restriction : seulement."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réponds par la négation entre parenthèses.",
+     "items": [
+      "Tu vois quelqu’un ? (ne … personne)",
+      "Il dit quelque chose ? (ne … rien)",
+      "Tu manges de la viande ? (ne … jamais)",
+      "Il pleut encore ? (ne … plus)"
+     ],
+     "corrige": [
+      "Je ne vois personne.",
+      "Il ne dit rien.",
+      "Je ne mange jamais de viande.",
+      "Il ne pleut plus."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La négation aux temps composés",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Aux **temps composés** (passé composé…), la négation entoure l’**auxiliaire** (*avoir* ou *être*), et non le participe passé."
+    },
+    {
+     "type": "table",
+     "title": "Passé composé : affirmatif et négatif",
+     "head": [
+      "Affirmative",
+      "Négative"
+     ],
+     "rows": [
+      [
+       "Il a mangé.",
+       "Il **n’**a **pas** mangé."
+      ],
+      [
+       "Elle est venue.",
+       "Elle **n’**est **pas** venue."
+      ],
+      [
+       "J’ai vu quelqu’un.",
+       "Je **n’**ai vu **personne**."
+      ],
+      [
+       "Il a tout dit.",
+       "Il **n’**a **rien** dit."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Nous **n’**avons **jamais** visité ce village. — Il **n’**est **plus** revenu."
+    },
+    {
+     "type": "warn",
+     "label": "Place de personne",
+     "text": "**Personne** se place **après le participe passé** : *Je n’ai vu **personne***. **Pas, plus, jamais, rien** se placent **entre l’auxiliaire et le participe** : *Je n’ai **rien** vu*."
+    },
+    {
+     "type": "tip",
+     "label": "Repère",
+     "text": "Dans *Je n’ai pas mangé*, **ne** et **pas** entourent « ai » (l’auxiliaire), pas « mangé »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je ai pas vu personne.",
+      "Je n’ai vu personne.",
+      "Je n’ai personne vu.",
+      "Je ne ai vu personne."
+     ],
+     "answer": 1,
+     "explain": "Personne se place après le participe passé, et ne devient n’ devant l’auxiliaire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ces phrases à la forme négative.",
+     "items": [
+      "Il a fini.",
+      "Nous sommes arrivés.",
+      "Tu as vu quelqu’un.",
+      "Elle a tout compris."
+     ],
+     "corrige": [
+      "Il n’a pas fini.",
+      "Nous ne sommes pas arrivés.",
+      "Tu n’as vu personne.",
+      "Elle n’a rien compris."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Pas de, pas d’ : article et négation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À la forme négative, les articles **un, une, des, du, de la** deviennent souvent **de** ou **d’**."
+    },
+    {
+     "type": "table",
+     "title": "L’article après une négation",
+     "head": [
+      "Affirmative",
+      "Négative"
+     ],
+     "rows": [
+      [
+       "J’ai **un** frère.",
+       "Je n’ai **pas de** frère."
+      ],
+      [
+       "Il mange **du** riz.",
+       "Il ne mange **pas de** riz."
+      ],
+      [
+       "Elle a **des** amis.",
+       "Elle n’a **pas d’**amis."
+      ],
+      [
+       "Nous buvons **de la** limonade.",
+       "Nous ne buvons **pas de** limonade."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je n’ai **pas de** cahier. — Il n’y a **plus d’**eau. — Elle ne mange **jamais de** viande."
+    },
+    {
+     "type": "warn",
+     "label": "Exceptions",
+     "text": "Après le verbe **être**, l’article reste : *C’est un chat* → *Ce n’est **pas un** chat.* Dans « ne … que », on garde aussi l’article : *Il ne mange **que du** riz.*"
+    },
+    {
+     "type": "tip",
+     "label": "Repère",
+     "text": "**Pas de** exprime l’**absence** : *pas de pain* = aucun pain."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je n’ai pas des frères.",
+      "Je n’ai pas de frères.",
+      "Je n’ai pas du frère.",
+      "Je n’ai pas les frères."
+     ],
+     "answer": 1,
+     "explain": "Après une négation, des devient de."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative.",
+     "items": [
+      "Il a un stylo.",
+      "Nous avons des mangues.",
+      "Elle boit de l’eau.",
+      "C’est un livre."
+     ],
+     "corrige": [
+      "Il n’a pas de stylo.",
+      "Nous n’avons pas de mangues.",
+      "Elle ne boit pas d’eau.",
+      "Ce n’est pas un livre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La phrase impérative négative et la langue orale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut combiner les deux : un **ordre négatif** est une **interdiction**."
+    },
+    {
+     "type": "table",
+     "title": "Impératif affirmatif et négatif",
+     "head": [
+      "Affirmatif",
+      "Négatif"
+     ],
+     "rows": [
+      [
+       "Cours.",
+       "**Ne** cours **pas**."
+      ],
+      [
+       "Mangeons ici.",
+       "**Ne** mangeons **pas** ici."
+      ],
+      [
+       "Ouvrez la porte.",
+       "**N’**ouvrez **pas** la porte."
+      ],
+      [
+       "Prends-le.",
+       "**Ne** le prends **pas**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Ne** parle **pas** si fort ! — **Ne** touchez **jamais** à ce fil ! — **N’**oublie **rien**."
+    },
+    {
+     "type": "warn",
+     "label": "À l’oral, on oublie « ne »",
+     "text": "À l’oral, on dit souvent : « Je sais **pas** », « Il vient **pas** ». À l’**écrit**, on **n’oublie jamais** le **ne**."
+    },
+    {
+     "type": "tip",
+     "label": "Interdictions sur les panneaux",
+     "text": "Les panneaux emploient l’infinitif ou des formules : « **Défense de** fumer », « **Ne pas** marcher sur la pelouse »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est la mieux écrite ?",
+     "options": [
+      "Cours pas !",
+      "Ne cours pas !",
+      "Ne pas cours !",
+      "Cours ne pas !"
+     ],
+     "answer": 1,
+     "explain": "À l’impératif négatif, ne … pas entoure le verbe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en interdiction.",
+     "items": [
+      "Cours dans le couloir.",
+      "Parlons en classe.",
+      "Ouvrez vos cahiers.",
+      "Mange le fruit."
+     ],
+     "corrige": [
+      "Ne cours pas dans le couloir.",
+      "Ne parlons pas en classe.",
+      "N’ouvrez pas vos cahiers.",
+      "Ne mange pas le fruit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **transforme**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si chaque phrase est impérative (I), négative (N) ou les deux (I+N).",
+     "items": [
+      "Range ta chambre.",
+      "Il ne dort pas.",
+      "Ne cours pas.",
+      "Nous mangeons."
+     ],
+     "corrige": [
+      "I",
+      "N",
+      "I+N",
+      "ni l’un ni l’autre (phrase déclarative affirmative)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une négation restrictive ?",
+     "options": [
+      "Il ne mange pas.",
+      "Il ne mange que du riz.",
+      "Il ne mange jamais.",
+      "Il ne mange plus."
+     ],
+     "answer": 1,
+     "explain": "« Ne … que » veut dire seulement."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative avec la négation entre parenthèses.",
+     "items": [
+      "Je vois quelqu’un. (ne … personne)",
+      "Il comprend. (ne … pas)",
+      "Tu manges de la viande. (ne … jamais)",
+      "Ils ont fini. (ne … pas)"
+     ],
+     "corrige": [
+      "Je ne vois personne.",
+      "Il ne comprend pas.",
+      "Tu ne manges jamais de viande.",
+      "Ils n’ont pas fini."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois interdictions pour le règlement de ta classe, avec un impératif négatif.",
+     "items": [
+      "Règle 1",
+      "Règle 2",
+      "Règle 3"
+     ],
+     "corrige": [
+      "Exemples : Ne bavardez pas pendant le cours.",
+      "Ne jetez pas de papiers par terre.",
+      "N’arrivez jamais en retard."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **phrase impérative** exprime un **ordre, un conseil, une interdiction** ; le verbe est à l’**impératif**, sans sujet.",
+      "La **phrase négative** contient une **négation** : *ne … pas, ne … plus, ne … jamais, ne … rien, ne … personne*.",
+      "**ne** devient **n’** devant une voyelle ou un h muet.",
+      "Aux temps composés, la négation entoure l’**auxiliaire** : *Il n’a pas mangé*.",
+      "Après une négation, **un, des, du** deviennent **de, d’** : *pas de riz*.",
+      "**ne … que** veut dire **seulement** : ce n’est pas une négation.",
+      "À l’**écrit**, on n’oublie jamais le **ne**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les négations",
+     "head": [
+      "Négation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "ne … pas",
+       "Il ne vient pas."
+      ],
+      [
+       "ne … plus",
+       "Il ne vient plus."
+      ],
+      [
+       "ne … jamais",
+       "Il ne vient jamais."
+      ],
+      [
+       "ne … rien",
+       "Il ne dit rien."
+      ],
+      [
+       "ne … personne",
+       "Il ne voit personne."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne écriture ?",
+     "options": [
+      "Ne cours pas !",
+      "Cours ne pas !",
+      "Ne pas cours !",
+      "Cours pas !"
+     ],
+     "answer": 0,
+     "explain": "L’ordre négatif : ne + verbe + pas."
+    }
+   ]
+  }
+ ]
+}

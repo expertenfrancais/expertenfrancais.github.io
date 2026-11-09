@@ -1,0 +1,443 @@
+{
+ "id": 99,
+ "meta": {
+  "t": "Le respect des signes de ponctuation",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : lire à voix haute",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pendant la lecture, Marie lit un conte devant la classe. Sa voix reste toujours la même, sans pause. Les camarades ne comprennent pas bien. Le maître lui dit : « Respecte les **signes de ponctuation** pour que l’on comprenne ton texte. »"
+    },
+    {
+     "type": "list",
+     "label": "Savoir essentiel",
+     "items": [
+      "Respecter la **prosodie**",
+      "Lire en tenant compte de la **ponctuation**",
+      "Varier la **voix** selon le sens"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La prosodie",
+     "text": "La **prosodie**, c’est la **mélodie** de la voix : le **rythme**, les **pauses** et l’**intonation**. La ponctuation indique comment la respecter."
+    },
+    {
+     "type": "quiz",
+     "question": "La prosodie est…",
+     "options": [
+      "la mélodie de la voix",
+      "la longueur d’un texte",
+      "le sens d’un mot",
+      "une forme de conjugaison"
+     ],
+     "answer": 0,
+     "explain": "Elle regroupe le rythme, les pauses et l’intonation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie ce qui fait partie de la prosodie.",
+     "items": [
+      "les pauses",
+      "la couleur du cahier",
+      "l’intonation",
+      "le rythme"
+     ],
+     "corrige": [
+      "les pauses",
+      "l’intonation",
+      "le rythme"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les pauses et les signes de ponctuation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Chaque signe de ponctuation indique une **pause** ou une **intonation** particulière."
+    },
+    {
+     "type": "table",
+     "title": "Que fait la voix ?",
+     "head": [
+      "Signe",
+      "Pause",
+      "Voix"
+     ],
+     "rows": [
+      [
+       "la virgule ( , )",
+       "pause **courte**",
+       "voix qui reste en l’air"
+      ],
+      [
+       "le point ( . )",
+       "pause **longue**",
+       "voix qui **descend**"
+      ],
+      [
+       "le point d’interrogation ( ? )",
+       "pause",
+       "voix qui **monte**"
+      ],
+      [
+       "le point d’exclamation ( ! )",
+       "pause",
+       "voix **expressive**, plus forte"
+      ],
+      [
+       "les points de suspension ( … )",
+       "pause **suspendue**",
+       "voix qui s’**arrête** doucement"
+      ],
+      [
+       "les deux-points ( : )",
+       "pause **courte**",
+       "voix qui **annonce** ce qui suit"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le point-virgule",
+     "text": "Le **point-virgule** ( ; ) marque une pause **un peu plus longue** que la virgule, mais **moins longue** que le point."
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait la voix à la fin d’une phrase terminée par un point ?",
+     "options": [
+      "elle monte",
+      "elle descend",
+      "elle crie",
+      "elle s’arrête sans pause"
+     ],
+     "answer": 1,
+     "explain": "Au point, la voix descend et on marque une pause longue."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe le signe à l’effet sur la voix : virgule, point, point d’interrogation.",
+     "items": [
+      "pause courte",
+      "pause longue, voix qui descend",
+      "voix qui monte"
+     ],
+     "corrige": [
+      "la virgule",
+      "le point",
+      "le point d’interrogation"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’intonation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**intonation** est la façon de **monter** ou de **descendre** la voix. Elle change le **sens** de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Trois intonations",
+     "head": [
+      "Intonation",
+      "Quand ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "montante",
+       "une **question**",
+       "Tu viens ?"
+      ],
+      [
+       "descendante",
+       "une **affirmation**",
+       "Je viens."
+      ],
+      [
+       "expressive",
+       "une **exclamation**",
+       "Quelle belle journée !"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Tu viens. » (affirmation) ≠ « Tu viens ? » (question) ≠ « Tu viens ! » (ordre ou surprise)."
+    },
+    {
+     "type": "tip",
+     "label": "L’émotion",
+     "text": "Une voix **joyeuse**, **triste** ou **inquiète** donne un **sens** supplémentaire au texte."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle intonation convient à « Où vas-tu ? »",
+     "options": [
+      "montante",
+      "descendante",
+      "plate",
+      "aucune"
+     ],
+     "answer": 0,
+     "explain": "Pour une question, la voix monte."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si l’intonation est montante (M), descendante (D) ou expressive (E).",
+     "items": [
+      "Il pleut.",
+      "Viens-tu avec moi ?",
+      "Attention, le chien mord !"
+     ],
+     "corrige": [
+      "D",
+      "M",
+      "E"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le rythme et le débit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **rythme** est la vitesse à laquelle on lit. Le **débit** doit s’adapter au **texte**."
+    },
+    {
+     "type": "table",
+     "title": "Adapter le rythme",
+     "head": [
+      "Texte",
+      "Rythme"
+     ],
+     "rows": [
+      [
+       "un moment **calme**",
+       "plutôt **lent**"
+      ],
+      [
+       "une **course**, une **peur**",
+       "plus **rapide**"
+      ],
+      [
+       "une **description**",
+       "régulier, posé"
+      ],
+      [
+       "un **dialogue**",
+       "vivant, avec des changements de voix"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ni trop vite, ni trop lentement",
+     "text": "Si l’on lit **trop vite**, on ne comprend pas. Si l’on lit **trop lentement**, on perd l’attention des auditeurs."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un texte où un personnage a peur, le rythme est…",
+     "options": [
+      "plus rapide",
+      "toujours très lent",
+      "sans pause",
+      "muet"
+     ],
+     "answer": 0,
+     "explain": "La peur s’exprime par un rythme plus rapide."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rythme lent ou rapide ?",
+     "items": [
+      "Le village dormait paisiblement.",
+      "Il courut de toutes ses forces pour échapper au lion."
+     ],
+     "corrige": [
+      "lent",
+      "rapide"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "S’entraîner à lire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un court texte à lire à voix haute. Respecte chaque **signe de ponctuation**."
+    },
+    {
+     "type": "ex",
+     "text": "Le soir tombait sur le village. Les enfants, fatigués, rentraient chez eux : la journée avait été longue. « Où est ma mère ? » demanda Mbou. Soudain, un cri retentit… Tout le monde se tut."
+    },
+    {
+     "type": "table",
+     "title": "Ce qu’il faut faire",
+     "head": [
+      "Signe",
+      "Ce que je fais en lisant"
+     ],
+     "rows": [
+      [
+       "virgule après « enfants »",
+       "pause **courte**"
+      ],
+      [
+       "deux-points après « eux »",
+       "pause courte, voix qui **annonce**"
+      ],
+      [
+       "point d’interrogation",
+       "voix qui **monte**"
+      ],
+      [
+       "points de suspension",
+       "voix **suspendue**"
+      ],
+      [
+       "point final",
+       "pause **longue**, voix qui **descend**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour progresser",
+     "text": "Lis d’abord **en silence**, entoure les signes, puis lis **à voix haute** deux ou trois fois."
+    },
+    {
+     "type": "quiz",
+     "question": "Après les points de suspension, la voix…",
+     "options": [
+      "monte beaucoup",
+      "reste suspendue",
+      "crie",
+      "s’arrête brutalement sans pause"
+     ],
+     "answer": 1,
+     "explain": "Les points de suspension laissent la voix en suspens."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase avec les pauses marquées par « / » : « Le vieux pêcheur prit sa pirogue et partit sur le fleuve. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Le vieux pêcheur / prit sa pirogue / et partit sur le fleuve."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **choisit**, puis on **lit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Nomme le signe de ponctuation qui indique une pause longue et une voix qui descend.",
+     "items": [
+      "Signe ?"
+     ],
+     "corrige": [
+      "le point"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase demande une intonation montante ?",
+     "options": [
+      "Il fait beau.",
+      "Quelle joie !",
+      "Est-ce que tu viens ?",
+      "Le soleil brille."
+     ],
+     "answer": 2,
+     "explain": "La question demande une intonation montante."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : lire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique, pour chaque phrase, l’intonation à employer.",
+     "items": [
+      "Où habites-tu ?",
+      "Quel beau jour !",
+      "Il rentre à la maison."
+     ],
+     "corrige": [
+      "montante",
+      "expressive",
+      "descendante"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : s’exprimer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis à voix haute ce texte en respectant la ponctuation : « Écoute, dit Mbou, as-tu entendu ? Un lion rôde… »",
+     "items": [
+      "Lecture à voix haute"
+     ],
+     "corrige": [
+      "Voix expressive pour « Écoute », voix qui monte à « as-tu entendu ? », voix suspendue aux points de suspension."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **prosodie** est la mélodie de la voix : **rythme, pauses, intonation**.",
+      "**Virgule** : pause courte ; **point** : pause longue, voix qui descend.",
+      "**?** : voix qui monte ; **!** : voix expressive ; **…** : voix suspendue.",
+      "Le **rythme** s’adapte au texte (lent pour le calme, rapide pour l’action).",
+      "Pour bien lire : **lire en silence d’abord**, repérer les signes, puis lire à voix haute."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel signe indique une pause courte ?",
+     "options": [
+      "le point",
+      "la virgule",
+      "le point d’exclamation",
+      "les points de suspension"
+     ],
+     "answer": 1,
+     "explain": "La virgule marque une pause courte."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,559 @@
+{
+ "id": 94,
+ "meta": {
+  "t": "Les mots de la même famille",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une famille de mots ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Observe ces mots : **terre**, **terrain**, **terrasse**, **enterrer**, **atterrir**, **territoire**. Ils ont tous quelque chose en commun : le morceau **terr-** et une idée liée à la **terre**. Ils appartiennent à la **même famille de mots**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le radical commun d’une famille de mots",
+      "Trouver des mots de la même famille",
+      "Utiliser la famille de mots pour bien écrire un mot"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le radical",
+     "text": "Le **radical** est la partie **commune** à tous les mots d’une même famille. Il porte le **sens principal** du mot."
+    },
+    {
+     "type": "def",
+     "label": "La famille de mots",
+     "text": "Une **famille de mots** est un ensemble de mots qui ont le **même radical** et un **sens proche**. On les forme avec des **préfixes** (avant le radical) et des **suffixes** (après le radical)."
+    },
+    {
+     "type": "table",
+     "title": "La famille du mot « dent »",
+     "head": [
+      "Mot",
+      "Construction"
+     ],
+     "rows": [
+      [
+       "dent",
+       "mot de base"
+      ],
+      [
+       "dentiste",
+       "dent + -iste"
+      ],
+      [
+       "dentaire",
+       "dent + -aire"
+      ],
+      [
+       "denture",
+       "dent + -ure"
+      ],
+      [
+       "dentifrice",
+       "dent + i + -frice"
+      ],
+      [
+       "édenté",
+       "é- + dent + -é"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le radical commun de « chanter, chanteur, chanson » ?",
+     "options": [
+      "chan",
+      "chant",
+      "chante",
+      "ch"
+     ],
+     "answer": 1,
+     "explain": "Chant- est la partie commune aux trois mots."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les mots qui appartiennent à la famille de « terre ».",
+     "items": [
+      "terrain",
+      "terrasse",
+      "terrible",
+      "territoire",
+      "tirer"
+     ],
+     "corrige": [
+      "terrain",
+      "terrasse",
+      "territoire"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Trouver les mots d’une famille",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver les mots d’une même famille, on **garde le radical** et on ajoute ou on change des **préfixes** et des **suffixes**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques familles",
+     "head": [
+      "Radical",
+      "Mots de la famille"
+     ],
+     "rows": [
+      [
+       "chant",
+       "chanter, chanteur, chanson, chantonner, enchanter"
+      ],
+      [
+       "port",
+       "porter, portable, transport, importer, exportateur"
+      ],
+      [
+       "lait",
+       "laitier, laiterie, laitage, allaiter"
+      ],
+      [
+       "mer",
+       "marin, maritime, marée, amerrir, outre-mer"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le **chant**eur **chant**e une **chan**son. (Chant, chanteur et chanson sont de la même famille.)"
+    },
+    {
+     "type": "tip",
+     "label": "Une méthode",
+     "text": "1) Cherche le **mot de base**. 2) Ajoute un **suffixe** (*-eur, -ier, -ion, -able*). 3) Ajoute un **préfixe** (*re-, dé-, in-, trans-*)."
+    },
+    {
+     "type": "warn",
+     "label": "Le radical peut un peu changer",
+     "text": "Parfois le radical change légèrement : *mer → marin, maritime* ; *main → manuel* ; *fleur → floral*. Ces mots sont quand même de la **même famille**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot appartient à la famille de « lait » ?",
+     "options": [
+      "laid",
+      "laitier",
+      "lait de poule",
+      "latin"
+     ],
+     "answer": 1,
+     "explain": "Laitier vient de lait. Laid (pas beau) est un autre mot."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve trois mots de la famille du mot donné.",
+     "items": [
+      "fleur",
+      "port",
+      "lait"
+     ],
+     "corrige": [
+      "fleurir, fleuriste, fleuri",
+      "porter, portable, transport",
+      "laitier, laiterie, laitage"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Attention aux intrus",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Des mots peuvent **se ressembler** ou **se prononcer** de la même façon **sans** être de la même famille. Ce sont des **intrus**."
+    },
+    {
+     "type": "table",
+     "title": "Des intrus à repérer",
+     "head": [
+      "Famille",
+      "Mots de la famille",
+      "Intrus"
+     ],
+     "rows": [
+      [
+       "mer",
+       "marin, maritime, marée",
+       "mère, maire"
+      ],
+      [
+       "lait",
+       "laitier, laiterie, laitage",
+       "laid, laide"
+      ],
+      [
+       "dent",
+       "dentiste, dentaire",
+       "danse, dense"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Mer** (la grande étendue d’eau) et **mère** (la maman) se prononcent presque de la même façon, mais ne sont **pas de la même famille**."
+    },
+    {
+     "type": "tip",
+     "label": "Le test du sens",
+     "text": "Deux mots sont de la même famille s’ils ont **le même radical** et **un sens lié**. Vérifie toujours le **sens**."
+    },
+    {
+     "type": "warn",
+     "label": "Mots qui se ressemblent",
+     "text": "*Vers* (préposition), *ver* (animal), *vert* (couleur), *verre* (objet) se prononcent pareil mais n’ont **aucun lien de sens**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot n’est pas de la famille de « mer » ?",
+     "options": [
+      "marin",
+      "maritime",
+      "mère",
+      "marée"
+     ],
+     "answer": 2,
+     "explain": "Mère (la maman) n’a aucun lien de sens avec la mer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie l’intrus de chaque série.",
+     "items": [
+      "dent, dentiste, dentaire, danse",
+      "lait, laitier, laid, laiterie",
+      "mer, marin, mère, maritime"
+     ],
+     "corrige": [
+      "danse",
+      "laid",
+      "mère"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La famille de mots aide à écrire la lettre finale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La famille de mots est très utile en **orthographe**. Beaucoup de mots se terminent par une **lettre muette** (qu’on n’entend pas). Pour la trouver, on cherche un **mot de la même famille** où cette lettre se **prononce**."
+    },
+    {
+     "type": "table",
+     "title": "Trouver la lettre muette",
+     "head": [
+      "Mot",
+      "Mot de la famille",
+      "Lettre muette"
+     ],
+     "rows": [
+      [
+       "grand",
+       "grandeur, grandir",
+       "**d**"
+      ],
+      [
+       "froid",
+       "froideur",
+       "**d**"
+      ],
+      [
+       "long",
+       "longueur, longue",
+       "**g**"
+      ],
+      [
+       "sang",
+       "sanglant, sanguin",
+       "**g**"
+      ],
+      [
+       "plomb",
+       "plomber, plombier",
+       "**b**"
+      ],
+      [
+       "tard",
+       "tarder, tardif",
+       "**d**"
+      ],
+      [
+       "repos",
+       "reposer",
+       "**s**"
+      ],
+      [
+       "pays",
+       "paysage, paysan",
+       "**s**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le **grand** arbre → la **grand**eur. — Il est **tard** → il va **tard**er."
+    },
+    {
+     "type": "tip",
+     "label": "L’astuce du féminin",
+     "text": "Pour trouver la lettre finale d’un **adjectif**, on peut aussi regarder le **féminin** : *grand → grande*, *froid → froide*, *long → longue*."
+    },
+    {
+     "type": "warn",
+     "label": "Pas toujours possible",
+     "text": "Quelques mots n’ont **pas** de mot de la famille qui fait entendre la lettre finale. Dans ce cas, il faut **consulter le dictionnaire**."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment s’écrit l’adjectif de la même famille que « grandeur » ?",
+     "options": [
+      "gran",
+      "grand",
+      "grant",
+      "grans"
+     ],
+     "answer": 1,
+     "explain": "Grandeur et grandir font entendre le d : on écrit grand."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète la lettre finale en cherchant un mot de la même famille.",
+     "items": [
+      "un froi…",
+      "le lon…",
+      "le plom…",
+      "un petit retar…"
+     ],
+     "corrige": [
+      "un froid (froideur)",
+      "le long (longueur)",
+      "le plomb (plomber)",
+      "un petit retard (retarder)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Famille de mots ou champ lexical ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il ne faut pas confondre **famille de mots** et **champ lexical**."
+    },
+    {
+     "type": "table",
+     "title": "Deux notions différentes",
+     "head": [
+      "Notion",
+      "Famille de mots",
+      "Champ lexical"
+     ],
+     "rows": [
+      [
+       "critère",
+       "même **radical**",
+       "même **thème**"
+      ],
+      [
+       "exemple pour « cuisine »",
+       "cuisinier, cuisiner, cuisinière",
+       "casserole, four, poêle, recette"
+      ],
+      [
+       "exemple pour « mer »",
+       "marin, maritime, marée",
+       "vague, plage, bateau, poisson"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Famille de **forêt** : forestier, déforestation, reforestation. Champ lexical de la forêt : arbre, feuille, tronc, branche."
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Dans une **famille de mots**, tous les mots **ont le même radical**. Dans un **champ lexical**, ils **parlent du même sujet**, mais n’ont pas forcément le même radical."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas mélanger",
+     "text": "*Poisson* est dans le **champ lexical** de la mer, mais ce **n’est pas** un mot de la **famille** de *mer* (le radical est différent)."
+    },
+    {
+     "type": "quiz",
+     "question": "« Casserole, four, poêle » forment…",
+     "options": [
+      "une famille de mots",
+      "un champ lexical",
+      "un radical",
+      "un préfixe"
+     ],
+     "answer": 1,
+     "explain": "Ces mots parlent de la même thématique : la cuisine."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Famille de mots (F) ou champ lexical (C) ?",
+     "items": [
+      "jardin, jardinier, jardiner",
+      "pluie, nuage, orage, tonnerre",
+      "danse, danseur, danser",
+      "école, cahier, tableau, maître"
+     ],
+     "corrige": [
+      "F",
+      "C",
+      "F",
+      "C"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **trouve**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le radical de chaque série.",
+     "items": [
+      "chanter, chanteur, chanson",
+      "porter, portable, transport",
+      "dentiste, dentaire, denture"
+     ],
+     "corrige": [
+      "chant",
+      "port",
+      "dent"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est de la même famille que « terre » ?",
+     "options": [
+      "tarte",
+      "terrain",
+      "terrible",
+      "tirer"
+     ],
+     "answer": 1,
+     "explain": "Terrain contient le radical terr- et un sens lié à la terre."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : trouver"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris la lettre finale muette en cherchant un mot de la même famille.",
+     "items": [
+      "un chan… (chanter)",
+      "le froi… (froideur)",
+      "un retar… (retarder)",
+      "le lon… (longueur)"
+     ],
+     "corrige": [
+      "chant",
+      "froid",
+      "retard",
+      "long"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase avec deux mots de la famille de « chant ».",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Exemple : Le chanteur chante une belle chanson."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les mots d’une **même famille** ont le **même radical** et un **sens lié**.",
+      "On forme les mots avec des **préfixes** et des **suffixes**.",
+      "Attention aux **intrus** : *mer / mère*, *lait / laid*.",
+      "La famille de mots aide à trouver la **lettre finale muette** (*grand → grandeur*).",
+      "**Famille de mots** = même radical ; **champ lexical** = même thème."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques familles",
+     "head": [
+      "Radical",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "chant",
+       "chanter, chanteur, chanson"
+      ],
+      [
+       "terr",
+       "terre, terrain, territoire"
+      ],
+      [
+       "dent",
+       "dentiste, dentaire, denture"
+      ],
+      [
+       "lait",
+       "laitier, laiterie, allaiter"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "un froit",
+      "un froid",
+      "un froi",
+      "un froids"
+     ],
+     "answer": 1,
+     "explain": "Froideur fait entendre le d : froid."
+    }
+   ]
+  }
+ ]
+}

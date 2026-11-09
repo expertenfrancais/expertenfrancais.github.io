@@ -1,0 +1,437 @@
+{
+ "id": 103,
+ "meta": {
+  "t": "Le schéma narratif",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : raconter une histoire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un petit conte : « Mbou vivait près d’une rivière. Un jour, la rivière a débordé et a emporté le pont. Mbou a appelé les villageois. Tous ensemble, ils ont construit un nouveau pont avec des troncs d’arbres. Depuis ce jour, tout le monde traverse la rivière en toute sécurité. » Tous les récits suivent à peu près **le même chemin** : c’est le **schéma narratif**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les **étapes** d’un récit",
+      "Les **repérer** dans un texte",
+      "Résumer un récit grâce au schéma"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le schéma narratif",
+     "text": "Le **schéma narratif** est le **plan** d’un récit. Il comporte **cinq étapes** : la **situation initiale**, l’**élément perturbateur**, les **péripéties**, le **dénouement** (élément de résolution) et la **situation finale**."
+    },
+    {
+     "type": "quiz",
+     "question": "Le schéma narratif sert à…",
+     "options": [
+      "conjuguer un verbe",
+      "organiser les étapes d’un récit",
+      "écrire une lettre",
+      "faire un calcul"
+     ],
+     "answer": 1,
+     "explain": "Il montre comment un récit est organisé."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Combien d’étapes comporte le schéma narratif ?",
+     "items": [
+      "Nombre d’étapes"
+     ],
+     "corrige": [
+      "cinq"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les cinq étapes du récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Chaque étape a un **rôle précis**."
+    },
+    {
+     "type": "table",
+     "title": "Les cinq étapes",
+     "head": [
+      "Étape",
+      "Rôle",
+      "Dans le conte de Mbou"
+     ],
+     "rows": [
+      [
+       "situation initiale",
+       "présente les **personnages**, le **lieu**, le **moment**",
+       "Mbou vivait près d’une rivière."
+      ],
+      [
+       "élément perturbateur",
+       "un **événement** qui **change** la situation",
+       "La rivière a débordé et a emporté le pont."
+      ],
+      [
+       "péripéties",
+       "les **actions** pour résoudre le problème",
+       "Mbou a appelé les villageois ; ils ont cherché des troncs."
+      ],
+      [
+       "dénouement",
+       "le problème est **résolu**",
+       "Ils ont construit un nouveau pont."
+      ],
+      [
+       "situation finale",
+       "la **nouvelle situation**, stable",
+       "Tout le monde traverse en sécurité."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour s’en souvenir",
+     "text": "Un récit passe d’un **équilibre** (situation initiale) à un **déséquilibre** (élément perturbateur), puis revient à un **nouvel équilibre** (situation finale)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle étape présente les personnages et le lieu ?",
+     "options": [
+      "le dénouement",
+      "la situation initiale",
+      "les péripéties",
+      "la situation finale"
+     ],
+     "answer": 1,
+     "explain": "La situation initiale installe le décor et les personnages."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe l’étape : « La rivière a débordé. »",
+     "items": [
+      "Étape ?"
+     ],
+     "corrige": [
+      "l’élément perturbateur"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les marques de chaque étape",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On repère les étapes grâce à des **mots** et à des **temps verbaux** particuliers."
+    },
+    {
+     "type": "table",
+     "title": "Indices dans le texte",
+     "head": [
+      "Étape",
+      "Indices fréquents"
+     ],
+     "rows": [
+      [
+       "situation initiale",
+       "**Il était une fois**, **autrefois**, un verbe à l’**imparfait**"
+      ],
+      [
+       "élément perturbateur",
+       "**un jour**, **soudain**, **tout à coup**"
+      ],
+      [
+       "péripéties",
+       "**alors**, **ensuite**, **puis**, **mais**"
+      ],
+      [
+       "dénouement",
+       "**enfin**, **finalement**, **heureusement**"
+      ],
+      [
+       "situation finale",
+       "**depuis ce jour**, **désormais**, **et depuis**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Il était une fois** un roi qui vivait dans un grand palais. **Un jour**, un voleur entra… **Enfin**, le roi le capture. **Depuis**, le palais est bien gardé."
+    },
+    {
+     "type": "warn",
+     "label": "Les temps du récit",
+     "text": "La **situation initiale** est souvent à l’**imparfait**. Les **événements** sont au **passé simple** (ou au passé composé)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot annonce souvent l’élément perturbateur ?",
+     "options": [
+      "Il était une fois",
+      "Soudain",
+      "Depuis ce jour",
+      "Enfin"
+     ],
+     "answer": 1,
+     "explain": "« Soudain » annonce un événement qui change tout."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Étape ou indice ? Donne l’étape annoncée.",
+     "items": [
+      "Il était une fois…",
+      "Un jour…",
+      "Depuis ce jour…"
+     ],
+     "corrige": [
+      "situation initiale",
+      "élément perturbateur",
+      "situation finale"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Repérer le schéma dans un texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis ce court récit, puis repère les étapes."
+    },
+    {
+     "type": "ex",
+     "text": "Autrefois, un lion régnait sur la savane. Tous les animaux le respectaient. Un jour, il perdit sa voix et ne put plus rugir. Les animaux se moquèrent de lui. Le lion consulta le vieux singe, qui lui donna une herbe magique. Il la mâcha et retrouva sa voix. Depuis, le lion rugit chaque matin, et personne ne se moque de lui."
+    },
+    {
+     "type": "table",
+     "title": "Les étapes du récit",
+     "head": [
+      "Étape",
+      "Phrase"
+     ],
+     "rows": [
+      [
+       "situation initiale",
+       "Un lion régnait sur la savane ; tous le respectaient."
+      ],
+      [
+       "élément perturbateur",
+       "Il perdit sa voix."
+      ],
+      [
+       "péripéties",
+       "Les animaux se moquèrent ; il consulta le vieux singe."
+      ],
+      [
+       "dénouement",
+       "Il mâcha l’herbe et retrouva sa voix."
+      ],
+      [
+       "situation finale",
+       "Il rugit chaque matin ; personne ne se moque."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans ce récit, quel est l’élément perturbateur ?",
+     "options": [
+      "le lion règne",
+      "le lion perd sa voix",
+      "le singe donne une herbe",
+      "le lion rugit"
+     ],
+     "answer": 1,
+     "explain": "C’est l’événement qui change la situation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans le récit du lion, donne la situation finale.",
+     "items": [
+      "Situation finale ?"
+     ],
+     "corrige": [
+      "Le lion rugit chaque matin et personne ne se moque de lui."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Résumer un récit avec le schéma",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le schéma narratif aide à **résumer** un récit : on écrit **une phrase** pour **chaque étape**."
+    },
+    {
+     "type": "table",
+     "title": "Un résumé en cinq phrases",
+     "head": [
+      "Étape",
+      "Phrase de résumé"
+     ],
+     "rows": [
+      [
+       "situation initiale",
+       "Mbou vivait près d’une rivière."
+      ],
+      [
+       "élément perturbateur",
+       "Une crue emporta le pont."
+      ],
+      [
+       "péripéties",
+       "Mbou appela les villageois à l’aide."
+      ],
+      [
+       "dénouement",
+       "Ils construisirent un nouveau pont."
+      ],
+      [
+       "situation finale",
+       "Tout le monde peut de nouveau traverser."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un bon résumé",
+     "text": "Un résumé est **court**, écrit avec **tes propres mots**, et il **respecte l’ordre** des événements."
+    },
+    {
+     "type": "quiz",
+     "question": "Un bon résumé est…",
+     "options": [
+      "aussi long que le texte",
+      "court et dans le bon ordre",
+      "plein de détails inutiles",
+      "écrit dans le désordre"
+     ],
+     "answer": 1,
+     "explain": "Il garde l’essentiel, dans l’ordre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Résume en une phrase la situation initiale : « Autrefois, un lion régnait sur la savane. Tous les animaux le respectaient. »",
+     "items": [
+      "Résumé"
+     ],
+     "corrige": [
+      "Un lion respecté régnait sur la savane."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **classe**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’étape du schéma narratif.",
+     "items": [
+      "Il était une fois un pêcheur pauvre.",
+      "Soudain, un grand poisson surgit.",
+      "Il le captura enfin.",
+      "Depuis ce jour, il n’eut plus jamais faim."
+     ],
+     "corrige": [
+      "situation initiale",
+      "élément perturbateur",
+      "dénouement",
+      "situation finale"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle étape vient après l’élément perturbateur ?",
+     "options": [
+      "la situation initiale",
+      "les péripéties",
+      "la situation finale",
+      "le titre"
+     ],
+     "answer": 1,
+     "explain": "Après le problème, on raconte les actions pour le résoudre."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets ces phrases dans l’ordre du schéma : a) Il retrouva son troupeau. b) Un berger gardait ses moutons. c) Un jour, les moutons disparurent. d) Il les chercha toute la nuit.",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "b, c, d, a"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un petit récit de cinq phrases (une par étape) : un élève perd son cartable.",
+     "items": [
+      "situation initiale",
+      "élément perturbateur",
+      "péripéties",
+      "dénouement",
+      "situation finale"
+     ],
+     "corrige": [
+      "Exemple : Paul allait chaque jour à l’école. / Un matin, il perdit son cartable. / Il le chercha partout. / Son ami le retrouva. / Depuis, Paul veille sur ses affaires."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **schéma narratif** organise un récit en **cinq étapes**.",
+      "**Situation initiale** : personnages, lieu, temps (imparfait).",
+      "**Élément perturbateur** : un événement change tout (*un jour, soudain*).",
+      "**Péripéties** : les actions pour résoudre le problème.",
+      "**Dénouement** : le problème est résolu (*enfin*).",
+      "**Situation finale** : la nouvelle situation (*depuis ce jour*)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle étape décrit la nouvelle situation à la fin ?",
+     "options": [
+      "l’élément perturbateur",
+      "le dénouement",
+      "la situation finale",
+      "les péripéties"
+     ],
+     "answer": 2,
+     "explain": "La situation finale termine le récit."
+    }
+   ]
+  }
+ ]
+}

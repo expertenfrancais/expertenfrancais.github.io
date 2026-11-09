@@ -1,0 +1,410 @@
+{
+ "id": 112,
+ "meta": {
+  "t": "Le développement",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : le cœur de la rédaction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tu as écrit une belle introduction sur le sujet « Raconte une journée au village ». Maintenant, il faut dire **tout ce que tu as à dire**. C’est la partie la plus longue de ta rédaction : le **développement**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est le **développement**",
+      "L’organiser en **paragraphes**",
+      "Utiliser des **connecteurs** pour enchaîner les idées"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le développement",
+     "text": "Le **développement** est la **partie centrale** de la rédaction, entre l’introduction et la conclusion. Il **explique**, **raconte** ou **décrit** en détail, en plusieurs **paragraphes**."
+    },
+    {
+     "type": "quiz",
+     "question": "Où se place le développement ?",
+     "options": [
+      "avant l’introduction",
+      "entre l’introduction et la conclusion",
+      "après la conclusion",
+      "nulle part"
+     ],
+     "answer": 1,
+     "explain": "Il se trouve au milieu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets dans l’ordre : conclusion, introduction, développement.",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "introduction, développement, conclusion"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Un paragraphe, une idée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le développement est fait de **paragraphes**. Chaque paragraphe contient **une seule idée principale**."
+    },
+    {
+     "type": "table",
+     "title": "Dans un paragraphe",
+     "head": [
+      "Partie",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**l’idée**",
+       "dire ce dont on parle",
+       "Le matin, le village s’éveille."
+      ],
+      [
+       "**l’explication**",
+       "détailler",
+       "Les coqs chantent et les femmes vont puiser de l’eau."
+      ],
+      [
+       "**l’exemple**",
+       "illustrer",
+       "Ma mère part au puits avec sa jarre."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Aller à la ligne",
+     "text": "On **passe à la ligne** et on laisse un **petit espace** au début de chaque nouveau paragraphe (un **alinéa**)."
+    },
+    {
+     "type": "warn",
+     "label": "Une seule idée",
+     "text": "Si tu mets **deux idées** dans le même paragraphe, le lecteur se perd. Une idée nouvelle = un nouveau paragraphe."
+    },
+    {
+     "type": "quiz",
+     "question": "Un paragraphe contient…",
+     "options": [
+      "plusieurs idées sans lien",
+      "une seule idée principale",
+      "seulement un titre",
+      "une conclusion"
+     ],
+     "answer": 1,
+     "explain": "Un paragraphe, une idée."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Combien de paragraphes pour : a) le matin au village b) le travail aux champs c) le repas du soir ?",
+     "items": [
+      "Nombre"
+     ],
+     "corrige": [
+      "Trois paragraphes : une idée par paragraphe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs : relier les idées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **connecteurs** sont des petits mots qui **relient** les phrases et les paragraphes. Ils guident le lecteur."
+    },
+    {
+     "type": "table",
+     "title": "Les connecteurs utiles",
+     "head": [
+      "Pour…",
+      "Connecteurs"
+     ],
+     "rows": [
+      [
+       "**ordonner**",
+       "d’abord, ensuite, puis, enfin"
+      ],
+      [
+       "**ajouter**",
+       "de plus, aussi, en outre"
+      ],
+      [
+       "**opposer**",
+       "mais, cependant, pourtant"
+      ],
+      [
+       "**expliquer**",
+       "car, parce que, c’est pourquoi"
+      ],
+      [
+       "**situer dans le temps**",
+       "le matin, plus tard, à la fin"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**D’abord**, nous avons marché jusqu’au champ. **Ensuite**, nous avons planté le manioc. **Enfin**, nous sommes rentrés fatigués **mais** heureux."
+    },
+    {
+     "type": "tip",
+     "label": "Le bon dosage",
+     "text": "Utilise des connecteurs **variés** : ne répète pas toujours « et puis »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur exprime la cause ?",
+     "options": [
+      "mais",
+      "parce que",
+      "ensuite",
+      "enfin"
+     ],
+     "answer": 1,
+     "explain": "« Parce que » explique la cause."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : d’abord, ensuite, enfin. « ______ je me lève. ______ je me lave. ______ je pars à l’école. »",
+     "items": [
+      "1",
+      "2",
+      "3"
+     ],
+     "corrige": [
+      "D’abord",
+      "Ensuite",
+      "Enfin"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Organiser le développement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant d’écrire, on prépare un **plan**. Il dit **combien** de paragraphes on écrit et **quelle idée** dans chacun."
+    },
+    {
+     "type": "table",
+     "title": "Un plan simple",
+     "head": [
+      "Paragraphe",
+      "Idée",
+      "Exemple (journée au village)"
+     ],
+     "rows": [
+      [
+       "**1**",
+       "le matin",
+       "le lever, le puits, le petit déjeuner"
+      ],
+      [
+       "**2**",
+       "la journée",
+       "les champs, le marché"
+      ],
+      [
+       "**3**",
+       "le soir",
+       "le repas, les contes sous le manguier"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Pour préparer",
+     "items": [
+      "Je **note** mes idées au brouillon.",
+      "Je les **classe** (par ordre ou par thème).",
+      "Je **range** les idées en paragraphes.",
+      "J’**écris** en reliant avec des connecteurs."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Pour « Décris ta maison » : paragraphe 1 = l’extérieur, paragraphe 2 = les pièces, paragraphe 3 = ce que j’aime le plus."
+    },
+    {
+     "type": "tip",
+     "label": "Le brouillon",
+     "text": "Le brouillon sert à **trier tes idées**. Ne t’en passe pas."
+    },
+    {
+     "type": "quiz",
+     "question": "À quoi sert un plan ?",
+     "options": [
+      "à remplacer la rédaction",
+      "à ranger ses idées avant d’écrire",
+      "à corriger les fautes",
+      "à écrire la conclusion"
+     ],
+     "answer": 1,
+     "explain": "Il organise les idées."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe ces idées en deux paragraphes : le jardin, les fleurs, les chambres, le salon.",
+     "items": [
+      "Paragraphe 1",
+      "Paragraphe 2"
+     ],
+     "corrige": [
+      "Paragraphe 1 : le jardin, les fleurs",
+      "Paragraphe 2 : les chambres, le salon"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Soigner son développement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un bon développement est **précis**, **clair** et **agréable à lire**."
+    },
+    {
+     "type": "list",
+     "label": "Quelques conseils",
+     "items": [
+      "Écris des **phrases courtes** et **correctes**.",
+      "Ajoute des **détails** : couleurs, bruits, odeurs, sentiments.",
+      "Utilise des **exemples** pour illustrer.",
+      "Évite les **répétitions** : cherche des synonymes.",
+      "Relis pour corriger l’**orthographe** et la **ponctuation**."
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Sans détails** : « Nous sommes allés au marché. » **Avec détails** : « Nous sommes allés au grand marché, où les mangues sentaient bon et où les vendeuses appelaient les clients. »"
+    },
+    {
+     "type": "tip",
+     "label": "Montrer plutôt que dire",
+     "text": "Au lieu de « c’était beau », **décris** ce qui était beau."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel ajout rend une phrase plus riche ?",
+     "options": [
+      "un détail précis",
+      "une faute",
+      "une répétition",
+      "un espace"
+     ],
+     "answer": 0,
+     "explain": "Les détails enrichissent le texte."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis la phrase : « Il fait chaud. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Exemple : Il fait très chaud : le soleil brûle le sol et les enfants cherchent l’ombre du manguier."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **relie**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Combien d’idées principales dans un paragraphe ?",
+     "options": [
+      "une",
+      "deux",
+      "trois",
+      "aucune"
+     ],
+     "answer": 0,
+     "explain": "Une seule."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : relier"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie avec un connecteur : « Il pleut. Nous restons à la maison. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Il pleut, c’est pourquoi nous restons à la maison. (ou : Il pleut donc nous restons…)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un paragraphe de quatre phrases sur le matin dans ton quartier, avec deux connecteurs.",
+     "items": [
+      "Paragraphe"
+     ],
+     "corrige": [
+      "Exemple : Le matin, mon quartier se réveille. D’abord, les marchands installent leurs étals. Ensuite, les enfants partent à l’école. Enfin, les bruits de la rue emplissent l’air."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **développement** est la **partie centrale** de la rédaction.",
+      "Il est organisé en **paragraphes** : **une idée par paragraphe**.",
+      "Les **connecteurs** relient les idées (d’abord, ensuite, mais, car…).",
+      "On prépare un **plan** au brouillon.",
+      "On soigne le texte avec des **détails** et des **exemples**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le rôle des connecteurs ?",
+     "options": [
+      "relier les idées",
+      "remplacer la conclusion",
+      "corriger l’orthographe",
+      "annoncer le titre"
+     ],
+     "answer": 0,
+     "explain": "Ils relient et ordonnent les idées."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,571 @@
+{
+ "id": 80,
+ "meta": {
+  "t": "Relire et améliorer sa rédaction",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "h",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Pourquoi relire sa rédaction ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un texte n’est jamais terminé quand on écrit le dernier mot. Les écrivains **relisent** et **corrigent** leurs textes plusieurs fois. En 6e, la relecture te permet de **gagner des points** et de rendre ton texte plus agréable à lire."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre l’utilité de la relecture",
+      "Savoir ce qu’on cherche en relisant",
+      "Adopter une méthode de relecture en trois temps"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Relecture",
+     "text": "La **relecture** consiste à lire son texte **après l’avoir écrit**, pour repérer ce qui est faux, confus ou maladroit, et le **corriger**."
+    },
+    {
+     "type": "ex",
+     "text": "Texte écrit trop vite : *hier je suis aller au marché il y avait beaucoup de monde.*\nTexte relu et corrigé : *Hier, je suis allé au marché. Il y avait beaucoup de monde.*",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Prévoir le temps",
+     "text": "Pendant un devoir, **garde toujours dix minutes** à la fin pour relire. Une rédaction relue vaut mieux qu’une rédaction plus longue mais pleine d’erreurs."
+    },
+    {
+     "type": "table",
+     "title": "Ce qu’on cherche en relisant",
+     "head": [
+      "On vérifie…",
+      "Question à se poser"
+     ],
+     "rows": [
+      [
+       "le **sens**",
+       "Mon texte répond-il au sujet ?"
+      ],
+      [
+       "la **construction**",
+       "Mes idées sont-elles bien rangées en paragraphes ?"
+      ],
+      [
+       "la **langue**",
+       "L’orthographe, la grammaire et la ponctuation sont-elles correctes ?"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quand faut-il relire sa rédaction ?",
+     "options": [
+      "Jamais, c’est une perte de temps",
+      "Après l’avoir écrite",
+      "Avant de lire le sujet",
+      "Seulement si on a le temps"
+     ],
+     "answer": 1,
+     "explain": "On relit **après** avoir écrit, pour repérer les erreurs. Il faut prévoir ce temps dès le début."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relis cette phrase et dis ce qui ne va pas : *les enfants joue dans la cour il fait beau.*",
+     "items": [
+      "les enfants joue dans la cour il fait beau."
+     ],
+     "corrige": [
+      "Il manque : une *majuscule* au début (*Les*), l’*accord* du verbe (*jouent*), et un *point* après *cour* suivi d’une majuscule (*Il*). → *Les enfants jouent dans la cour. Il fait beau.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Relire en trois temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour ne rien oublier, **relis ton texte trois fois**, avec un objectif différent à chaque lecture."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**1re lecture : le sens.** Mon texte répond-il au sujet ? Est-il clair ? Ai-je respecté les consignes (nombre de lignes, personnage, temps) ?",
+      "**2e lecture : la construction.** Mes idées sont-elles dans l’ordre ? Y a-t-il des paragraphes ? Ai-je utilisé des connecteurs ?",
+      "**3e lecture : la langue.** Orthographe, accords, conjugaison, ponctuation."
+     ],
+     "label": "Trois lectures",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Sujet : « Raconte une sortie scolaire en parlant à la 1re personne. »\n**Lecture 1** : j’ai écrit *je*, c’est bien un récit à la 1re personne ✔.\n**Lecture 2** : j’ai trois paragraphes et des connecteurs (*d’abord*, *ensuite*, *enfin*) ✔.\n**Lecture 3** : je vérifie les accords et les points.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Relire à voix basse",
+     "text": "Lis ton texte **à voix basse** (ou dans ta tête, en articulant). Tu entendras les phrases qui sonnent mal ou les mots oubliés."
+    },
+    {
+     "type": "warn",
+     "label": "Une chose à la fois",
+     "text": "Si tu essaies de tout vérifier en même temps, tu oublieras des erreurs. **Un objectif par lecture**."
+    },
+    {
+     "type": "quiz",
+     "question": "Que vérifie-t-on à la troisième lecture ?",
+     "options": [
+      "Le sens du sujet",
+      "La construction des paragraphes",
+      "L’orthographe et la ponctuation",
+      "Le titre"
+     ],
+     "answer": 2,
+     "explain": "La dernière lecture porte sur la **langue** : orthographe, accords, ponctuation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans quel ordre fais-tu ces vérifications ? Numérote de 1 à 3.",
+     "items": [
+      "a) corriger l’orthographe",
+      "b) vérifier que le texte répond au sujet",
+      "c) vérifier les paragraphes et les connecteurs"
+     ],
+     "corrige": [
+      "b) → 1",
+      "c) → 2",
+      "a) → 3"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Chasser les fautes d’orthographe et de grammaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici les erreurs les plus fréquentes en 6e. Apprends à les repérer."
+    },
+    {
+     "type": "table",
+     "title": "Les contrôles à faire",
+     "head": [
+      "Je vérifie…",
+      "Comment ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "l’**accord du verbe** avec son sujet",
+       "je cherche le sujet : *qui est-ce qui … ?*",
+       "Les enfants *jouent* (et non *joue*)."
+      ],
+      [
+       "l’**accord de l’adjectif** et du nom",
+       "je regarde le genre et le nombre du nom",
+       "des *grandes* maisons"
+      ],
+      [
+       "le **pluriel des noms**",
+       "je pense au *s* final",
+       "les *enfants*"
+      ],
+      [
+       "les **homophones**",
+       "je remplace par un autre mot",
+       "*a* / *à* ; *et* / *est* ; *on* / *ont* ; *son* / *sont*"
+      ],
+      [
+       "la **terminaison** des verbes (é, er, ez…)",
+       "je remplace par *vendre* ou *prendre*",
+       "Il a *mangé* ; Il veut *manger*"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Trois tests pratiques",
+     "lines": [
+      "**a / à** : on remplace par *avait* → *Il a faim* (Il avait faim) ; *Il va à l’école* (pas de remplacement possible).",
+      "**et / est** : on remplace par *était* → *Il est content* (Il était content) ; *Pierre et Paul* (pas de remplacement).",
+      "**-é / -er** : on remplace par *vendu / vendre* → *J’ai mangé* (vendu) ; *Je veux manger* (vendre)."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Les accords",
+     "text": "La plupart des fautes viennent de l’**oubli d’un accord**. Après avoir trouvé le sujet, **vérifie le verbe**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Les enfants joue dans la cour.",
+      "Les enfants jouent dans la cour.",
+      "Les enfant jouent dans la cour.",
+      "Les enfant joue dans la cour."
+     ],
+     "answer": 1,
+     "explain": "Le sujet *Les enfants* est pluriel : *jouent*, et *enfants* prend un *s*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "a) Mes frère ont acheter des mangue.",
+      "b) Elle est contente car il a gagner."
+     ],
+     "corrige": [
+      "a) *Mes frères ont acheté des mangues.*",
+      "b) *Elle est contente car il a gagné.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Améliorer son style",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après les fautes, on améliore le **style** : on choisit des mots **plus précis**, on évite les **répétitions**, on rend le texte plus **vivant**."
+    },
+    {
+     "type": "table",
+     "title": "Quatre moyens d’améliorer son texte",
+     "head": [
+      "Moyen",
+      "Avant",
+      "Après"
+     ],
+     "rows": [
+      [
+       "remplacer un **mot vague**",
+       "Il a **fait** un dessin.",
+       "Il a **réalisé** un dessin."
+      ],
+      [
+       "éviter une **répétition**",
+       "Le chien est **grand**, le jardin est **grand**.",
+       "Le chien est **grand**, le jardin est **immense**."
+      ],
+      [
+       "ajouter un **adjectif** précis",
+       "Il a mangé une mangue.",
+       "Il a mangé une mangue **juteuse**."
+      ],
+      [
+       "varier le **début** des phrases",
+       "Il se lève. Il se lave. Il part.",
+       "Il se lève, **puis** il se lave. **Quelques minutes plus tard**, il part."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Avant :** Il y a un arbre. Il y a des oiseaux. Il y a un nid.\n**Après :** Un grand manguier se dresse dans la cour. Des oiseaux chantent dans ses branches et un nid est caché au milieu des feuilles.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Les mots à surveiller",
+     "text": "*il y a*, *c’est*, *très*, *faire*, *chose*, *beaucoup* sont des mots **passe-partout** : remplace-les quand c’est possible (voir le cours sur les synonymes)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est la mieux écrite ?",
+     "options": [
+      "Il y a un garçon. Il y a un chien. Il y a une balle.",
+      "Un garçon joue avec son chien et une balle.",
+      "Le garçon fait des choses avec le chien.",
+      "C’est un garçon, c’est un chien."
+     ],
+     "answer": 1,
+     "explain": "La deuxième phrase relie les informations et évite les répétitions de *il y a*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Améliore la phrase en remplaçant les mots vagues.",
+     "items": [
+      "Il y a une chose très belle dans la rue. Il fait beaucoup de bruit."
+     ],
+     "corrige": [
+      "Exemple : *Un magnifique camion décoré passe dans la rue. Il fait un bruit assourdissant.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La ponctuation et la présentation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un texte bien **ponctué** et bien **présenté** se lit facilement. Une mauvaise ponctuation peut changer le sens d’une phrase !"
+    },
+    {
+     "type": "table",
+     "title": "Les règles à vérifier",
+     "head": [
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**majuscule** au début de chaque phrase et aux noms propres",
+       "*Awa* habite à *Abidjan*."
+      ],
+      [
+       "**point** à la fin d’une phrase",
+       "Il pleut."
+      ],
+      [
+       "**virgule** pour séparer les éléments d’une liste ou les connecteurs",
+       "*D’abord*, j’ai mangé, puis j’ai dormi."
+      ],
+      [
+       "**guillemets** et **tirets** pour un dialogue",
+       "« Viens ici », dit maman."
+      ],
+      [
+       "**alinéa** à chaque nouveau paragraphe",
+       "petit retrait au début de la ligne"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "La virgule change le sens",
+     "text": "« Allons manger, Papa ! » et « Allons manger Papa ! » n’ont pas du tout le même sens. La **ponctuation** est importante."
+    },
+    {
+     "type": "h",
+     "text": "Soigner la présentation"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Écris **lisiblement**.",
+      "Laisse une **marge** et saute des lignes entre les parties.",
+      "Mets un **titre** quand le sujet le demande.",
+      "Barre proprement avec **une seule ligne** : ne fais pas de ratures qui tachent la copie."
+     ],
+     "label": "Quatre conseils"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle ponctuation termine une phrase interrogative ?",
+     "options": [
+      "un point",
+      "un point d’exclamation",
+      "un point d’interrogation",
+      "des points de suspension"
+     ],
+     "answer": 2,
+     "explain": "On termine une question par un **point d’interrogation**."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Ponctue et mets les majuscules.",
+     "items": [
+      "hier awa est allée au marché elle a acheté des mangues des bananes et du manioc"
+     ],
+     "corrige": [
+      "*Hier, Awa est allée au marché. Elle a acheté des mangues, des bananes et du manioc.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Ma grille de relecture",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici une **liste de contrôle** que tu peux utiliser pour chaque rédaction."
+    },
+    {
+     "type": "table",
+     "title": "Grille de relecture",
+     "head": [
+      "Je vérifie…",
+      "✔"
+     ],
+     "rows": [
+      [
+       "J’ai respecté le **sujet** et les **consignes**.",
+       "☐"
+      ],
+      [
+       "Mon texte est organisé en **paragraphes** avec des **alinéas**.",
+       "☐"
+      ],
+      [
+       "J’ai utilisé des **connecteurs** variés.",
+       "☐"
+      ],
+      [
+       "Chaque phrase commence par une **majuscule** et finit par un **point**.",
+       "☐"
+      ],
+      [
+       "J’ai vérifié les **accords** (sujet-verbe, nom-adjectif).",
+       "☐"
+      ],
+      [
+       "J’ai vérifié les **homophones** (a/à, et/est, on/ont, son/sont).",
+       "☐"
+      ],
+      [
+       "J’ai évité les **répétitions** et les mots vagues.",
+       "☐"
+      ],
+      [
+       "Mon texte est **lisible** et propre.",
+       "☐"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Utilise ta grille",
+     "text": "Après chaque rédaction, coche les cases. Si tu en oublies une, **recommence** cette vérification."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle case de la grille vérifie le sens du texte ?",
+     "options": [
+      "J’ai vérifié les accords.",
+      "J’ai respecté le sujet et les consignes.",
+      "Mon texte est lisible.",
+      "Chaque phrase commence par une majuscule."
+     ],
+     "answer": 1,
+     "explain": "Respecter le sujet et les consignes, c’est vérifier le **sens**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : corriger un texte"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs d’orthographe, d’accord et de ponctuation de ce texte.",
+     "items": [
+      "hier les enfant sont allé au marché. il y avait beaucoup de monde. Fatou a acheter des mangues et ses frère a manger des bananes. Ils était très contents."
+     ],
+     "corrige": [
+      "*Hier, les enfants sont allés au marché. Il y avait beaucoup de monde. Fatou a acheté des mangues et ses frères ont mangé des bananes. Ils étaient très contents.*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : homophones"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec a ou à, et ou est, on ou ont, son ou sont.",
+     "items": [
+      "Il … faim. Il va … l’école.",
+      "Paul … Marie … contents.",
+      "… va jouer. Ils … gagné.",
+      "… frère et ses sœurs … arrivés."
+     ],
+     "corrige": [
+      "Il *a* faim. Il va *à* l’école.",
+      "Paul *et* Marie *sont* contents.",
+      "*On* va jouer. Ils *ont* gagné.",
+      "*Son* frère et ses sœurs *sont* arrivés."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : améliorer le style"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris sans répétition et avec des mots plus précis.",
+     "items": [
+      "Il y a un chat. Il y a un chien. Le chat fait un bruit. Le chien fait un bruit."
+     ],
+     "corrige": [
+      "Exemple : *Un chat et un chien se disputent dans la cour. Le chat miaule furieusement ; le chien aboie de toutes ses forces.*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : se relire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un paragraphe de quatre phrases sur « Mon école », puis relis-le avec la grille de relecture et corrige-le.",
+     "items": [
+      "Sujet : Mon école"
+     ],
+     "corrige": [
+      "Exemple : *Mon école est grande et accueillante. D’abord, il y a une cour avec un manguier. Ensuite, on trouve des salles de classe claires. Enfin, j’aime mes camarades.* (À corriger avec la grille.)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Relire** son texte est indispensable : on y repère les erreurs et on l’améliore.",
+      "On relit **en trois temps** : le **sens**, la **construction**, la **langue**.",
+      "On chasse les fautes : **accords**, **pluriels**, **homophones**, **terminaisons des verbes**.",
+      "On améliore le style en remplaçant les **mots vagues**, en évitant les **répétitions**, en variant les débuts de phrases.",
+      "On soigne la **ponctuation** et la **présentation**.",
+      "Une **grille de relecture** aide à ne rien oublier."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ma méthode en 3 temps",
+     "head": [
+      "Je relis…",
+      "Pour vérifier…"
+     ],
+     "rows": [
+      [
+       "1. le sens",
+       "le sujet et les consignes"
+      ],
+      [
+       "2. la construction",
+       "paragraphes et connecteurs"
+      ],
+      [
+       "3. la langue",
+       "orthographe, accords, ponctuation"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est vraie ?",
+     "options": [
+      "La relecture est inutile si on écrit bien.",
+      "On relit son texte une seule fois en cherchant tout en même temps.",
+      "On relit en trois temps : sens, construction, langue.",
+      "On ne corrige que l’orthographe."
+     ],
+     "answer": 2,
+     "explain": "Relire en trois temps permet de ne rien oublier."
+    }
+   ]
+  }
+ ]
+}

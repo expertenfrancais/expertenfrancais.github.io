@@ -1,0 +1,601 @@
+{
+ "id": 79,
+ "meta": {
+  "t": "Rédiger un paragraphe et utiliser les connecteurs",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un paragraphe ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand tu rédiges un texte, tu ne l’écris pas d’un seul bloc. Tu le découpes en **paragraphes**. Chaque paragraphe donne une **idée** au lecteur et lui permet de reprendre son souffle."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre ce qu’est un paragraphe",
+      "Savoir pourquoi on découpe un texte",
+      "Repérer l’alinéa qui annonce un nouveau paragraphe"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Paragraphe",
+     "text": "Un **paragraphe** est une partie de texte qui développe **une seule idée**. Il commence par un **alinéa** : on laisse un **petit blanc** au début de la première ligne, et on revient à la ligne à la fin du paragraphe."
+    },
+    {
+     "type": "ex",
+     "text": "**Premier paragraphe :** Hier matin, je me suis levé tôt pour aller au marché avec ma mère.\n**Deuxième paragraphe :** Nous avons d’abord acheté des légumes, puis des fruits.\n**Troisième paragraphe :** Sur le chemin du retour, nous avons rencontré mon oncle.",
+     "label": "Un texte en trois paragraphes"
+    },
+    {
+     "type": "table",
+     "title": "Paragraphe, phrase, texte",
+     "head": [
+      "Élément",
+      "Définition"
+     ],
+     "rows": [
+      [
+       "la **phrase**",
+       "commence par une majuscule et se termine par un point"
+      ],
+      [
+       "le **paragraphe**",
+       "plusieurs phrases qui parlent de la même idée"
+      ],
+      [
+       "le **texte**",
+       "plusieurs paragraphes qui se suivent"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un paragraphe, une idée",
+     "text": "Quand tu changes d’**idée**, de **lieu**, de **moment** ou de **personnage**, tu fais un nouveau paragraphe."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment reconnaît-on le début d’un paragraphe ?",
+     "options": [
+      "Par un titre",
+      "Par un alinéa",
+      "Par un point d’exclamation",
+      "Par un tiret"
+     ],
+     "answer": 1,
+     "explain": "Un nouveau paragraphe commence par un **alinéa** : un petit retrait en début de ligne."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Combien de paragraphes y a-t-il ? Explique pourquoi.",
+     "items": [
+      "Le matin, Awa part à l’école. Elle marche vingt minutes. Elle retrouve ses amies devant le portail.\n\nÀ midi, elle déjeune à la cantine. Elle mange du riz et du poisson."
+     ],
+     "corrige": [
+      "Il y a **2 paragraphes** : le premier raconte le *matin* (le trajet), le second raconte *midi* (le repas). On change de moment, donc de paragraphe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Construire un paragraphe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un bon paragraphe n’est pas une simple suite de phrases. Il a une **construction**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois parties d’un paragraphe",
+     "head": [
+      "Partie",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "la **phrase d’annonce**",
+       "dit l’idée du paragraphe",
+       "Notre village est très animé le samedi."
+      ],
+      [
+       "le **développement**",
+       "donne des précisions, des détails",
+       "Les marchands installent leurs étals dès l’aube."
+      ],
+      [
+       "l’**exemple** ou le **détail**",
+       "rend l’idée concrète",
+       "Je sens déjà l’odeur du poisson grillé."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Mon grand-père est un homme très généreux.** *(idée)* Il offre toujours des fruits à ses voisins. *(développement)* Hier encore, il a donné un panier de mangues à la voisine malade. *(exemple)*",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Évite la liste de phrases",
+     "text": "Un paragraphe où chaque phrase parle d’une chose différente est **confus**. Chaque phrase doit se rattacher à **l’idée du paragraphe**."
+    },
+    {
+     "type": "tip",
+     "label": "Longueur",
+     "text": "En 6e, un paragraphe compte souvent **trois à cinq phrases**. Ni trop court, ni trop long."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase peut servir de phrase d’annonce ?",
+     "options": [
+      "Il a fait beau.",
+      "Ma classe est très accueillante.",
+      "Parce que j’ai faim.",
+      "Puis nous sommes partis."
+     ],
+     "answer": 1,
+     "explain": "*Ma classe est très accueillante* annonce une idée qu’on pourra développer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un paragraphe de trois phrases sur le thème « Ma meilleure amie » : une phrase d’annonce, une phrase de développement, une phrase d’exemple.",
+     "items": [
+      "Thème : ma meilleure amie"
+     ],
+     "corrige": [
+      "Exemple : *Ma meilleure amie Fatou est très serviable. Elle aide toujours ses camarades en classe. Hier, elle a prêté son cahier à un élève qui avait oublié le sien.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs chronologiques",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour raconter, il faut montrer **l’ordre** des événements. Les **connecteurs chronologiques** (ou de temps) servent à relier les phrases dans l’ordre du temps."
+    },
+    {
+     "type": "def",
+     "label": "Connecteur",
+     "text": "Un **connecteur** est un mot ou un groupe de mots qui **relie** des phrases ou des paragraphes et qui précise le **rapport** entre eux (temps, cause, opposition…)."
+    },
+    {
+     "type": "table",
+     "title": "Les connecteurs de temps",
+     "head": [
+      "Pour…",
+      "Connecteurs"
+     ],
+     "rows": [
+      [
+       "commencer",
+       "d’abord, tout d’abord, au début, au départ"
+      ],
+      [
+       "continuer",
+       "ensuite, puis, après, un peu plus tard"
+      ],
+      [
+       "indiquer un moment précis",
+       "le lendemain, deux heures plus tard, ce matin-là"
+      ],
+      [
+       "marquer un événement soudain",
+       "soudain, tout à coup, brusquement"
+      ],
+      [
+       "indiquer la simultanéité",
+       "pendant ce temps, au même moment"
+      ],
+      [
+       "terminer",
+       "enfin, finalement, à la fin"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**D’abord**, j’ai préparé mon sac. **Ensuite**, j’ai mangé. **Enfin**, je suis parti à l’école.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Pas de « et puis » à chaque phrase",
+     "text": "Ne répète pas *et puis…, et puis…* sans arrêt. **Varie** les connecteurs : *ensuite*, *après*, *quelques minutes plus tard*…"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur marque un événement qui arrive brusquement ?",
+     "options": [
+      "enfin",
+      "soudain",
+      "ensuite",
+      "d’abord"
+     ],
+     "answer": 1,
+     "explain": "*Soudain* exprime un événement imprévu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : d’abord, ensuite, enfin, soudain.",
+     "items": [
+      "… , j’ai ouvert la porte.",
+      "… , j’ai allumé la lumière.",
+      "… , un bruit a retenti.",
+      "… , j’ai compris : c’était le vent !"
+     ],
+     "corrige": [
+      "*D’abord*, j’ai ouvert la porte.",
+      "*Ensuite*, j’ai allumé la lumière.",
+      "*Soudain*, un bruit a retenti.",
+      "*Enfin*, j’ai compris : c’était le vent !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs logiques",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **connecteurs logiques** montrent le **lien de sens** entre deux idées : on explique, on ajoute, on oppose."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux connecteurs logiques",
+     "head": [
+      "Rapport",
+      "Connecteurs",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**cause** (pourquoi ?)",
+       "car, parce que, en effet, puisque",
+       "Je reste chez moi **parce qu’**il pleut."
+      ],
+      [
+       "**conséquence** (résultat)",
+       "donc, alors, c’est pourquoi, par conséquent",
+       "Il pleut, **donc** je reste chez moi."
+      ],
+      [
+       "**opposition**",
+       "mais, pourtant, cependant, en revanche",
+       "Il est petit **mais** très fort."
+      ],
+      [
+       "**addition**",
+       "et, de plus, aussi, en outre",
+       "Il est gentil, **de plus** il est drôle."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il est tombé **parce qu’**il courait trop vite. Il courait trop vite, **donc** il est tombé.",
+     "label": "La cause et la conséquence"
+    },
+    {
+     "type": "tip",
+     "label": "Cause ou conséquence ?",
+     "text": "La **cause** répond à *pourquoi ?*, la **conséquence** répond à *qu’est-ce qui en résulte ?* Les connecteurs ne sont pas interchangeables : **car** annonce la cause, **donc** annonce la conséquence."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur exprime l’opposition ?",
+     "options": [
+      "donc",
+      "parce que",
+      "cependant",
+      "de plus"
+     ],
+     "answer": 2,
+     "explain": "*Cependant* oppose deux idées."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le connecteur qui convient : donc, car, mais, de plus.",
+     "items": [
+      "Je suis fatigué, … je vais dormir.",
+      "Il n’est pas venu … il était malade.",
+      "Elle est intelligente, … paresseuse.",
+      "Cet élève est sérieux ; … il est poli."
+     ],
+     "corrige": [
+      "*donc*",
+      "*car*",
+      "*mais*",
+      "*de plus*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs spatiaux (pour décrire)",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on **décrit**, on organise les éléments dans l’**espace**. Les **connecteurs spatiaux** guident le regard du lecteur."
+    },
+    {
+     "type": "table",
+     "title": "Les connecteurs de lieu",
+     "head": [
+      "Pour dire…",
+      "Connecteurs"
+     ],
+     "rows": [
+      [
+       "ce qui est devant",
+       "devant, au premier plan, en face"
+      ],
+      [
+       "ce qui est derrière",
+       "derrière, au fond, à l’arrière-plan"
+      ],
+      [
+       "la droite et la gauche",
+       "à gauche, à droite, de chaque côté"
+      ],
+      [
+       "le milieu",
+       "au centre, au milieu"
+      ],
+      [
+       "la proximité ou la distance",
+       "près de, à côté de, au loin, plus loin"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Au premier plan**, des enfants jouent au ballon. **À droite**, une vieille dame vend des mangues. **Au loin**, on aperçoit la colline.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Un chemin pour le regard",
+     "text": "Décris toujours dans un **ordre** : de **gauche à droite**, de **près à loin**, ou de **haut en bas**. Ne saute pas de droite à gauche au hasard."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur indique un lieu éloigné ?",
+     "options": [
+      "devant",
+      "au loin",
+      "au centre",
+      "près de"
+     ],
+     "answer": 1,
+     "explain": "*Au loin* indique ce qui est éloigné."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris cette cour d’école en utilisant trois connecteurs spatiaux.",
+     "items": [
+      "Éléments : un manguier (au centre), des élèves qui jouent (à gauche), le bâtiment de la classe (au fond)."
+     ],
+     "corrige": [
+      "Exemple : *Au centre de la cour se dresse un grand manguier. À gauche, des élèves jouent. Au fond, on aperçoit le bâtiment des classes.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Éviter les erreurs fréquentes",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Erreurs et corrections",
+     "head": [
+      "Erreur",
+      "Pourquoi ?",
+      "Correction"
+     ],
+     "rows": [
+      [
+       "*Il est venu et il a mangé et il a dormi.*",
+       "trop de *et*",
+       "Il est venu, a mangé, **puis** il a dormi."
+      ],
+      [
+       "*Le matin je me suis levé je me suis lavé.*",
+       "pas de ponctuation ni de connecteur",
+       "Le matin, je me suis levé, **puis** je me suis lavé."
+      ],
+      [
+       "*Il pleut, mais je prends mon parapluie.*",
+       "*mais* est mal choisi : il n’y a pas d’opposition",
+       "Il pleut, **donc** je prends mon parapluie."
+      ],
+      [
+       "*Un paragraphe de 12 phrases sur trois idées.*",
+       "plusieurs idées dans un paragraphe",
+       "Un paragraphe **par idée**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Connecteur mal choisi",
+     "text": "Un connecteur doit exprimer le **bon rapport**. Si tu mets *mais* au lieu de *donc*, tu changes le sens de ta phrase."
+    },
+    {
+     "type": "tip",
+     "label": "Dans le doute",
+     "text": "Remplace le connecteur par un autre et relis : si la phrase garde son sens, c’est bon ; sinon, change de connecteur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur convient : « Il avait faim, … il a mangé » ?",
+     "options": [
+      "mais",
+      "donc",
+      "pourtant",
+      "cependant"
+     ],
+     "answer": 1,
+     "explain": "La faim est la cause, manger est la conséquence : on emploie *donc*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les phrases.",
+     "items": [
+      "a) Il avait soif, mais il a bu.",
+      "b) Elle reste au lit, donc elle est malade.",
+      "c) Je me lève et je me lave et je m’habille et je pars."
+     ],
+     "corrige": [
+      "a) *Il avait soif, donc il a bu.*",
+      "b) *Elle reste au lit parce qu’elle est malade.*",
+      "c) *Je me lève, je me lave, je m’habille, puis je pars.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : paragraphes"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sépare ce texte en trois paragraphes (indique où tu fais les retours à la ligne).",
+     "items": [
+      "Le samedi, nous allons au marché. Nous achetons du poisson et des légumes. Ma mère discute avec les marchands. L’après-midi, mon père répare le vélo. Je l’aide à serrer les écrous. Le soir, toute la famille dîne dans la cour."
+     ],
+     "corrige": [
+      "Premier paragraphe : *le marché* (3 phrases).",
+      "Deuxième paragraphe : *l’après-midi, le vélo* (2 phrases).",
+      "Troisième paragraphe : *le soir, le dîner* (1 phrase)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : connecteurs de temps"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie les phrases avec des connecteurs variés : d’abord, ensuite, enfin.",
+     "items": [
+      "Je lave le riz. Je le mets à cuire. Je sers le repas."
+     ],
+     "corrige": [
+      "*D’abord*, je lave le riz. *Ensuite*, je le mets à cuire. *Enfin*, je sers le repas."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : connecteurs logiques"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie chaque paire de phrases avec le connecteur indiqué.",
+     "items": [
+      "a) (donc) Il a beaucoup travaillé. Il a réussi.",
+      "b) (parce que) Elle est fière. Elle a gagné.",
+      "c) (mais) Il est jeune. Il est très sage."
+     ],
+     "corrige": [
+      "a) *Il a beaucoup travaillé, donc il a réussi.*",
+      "b) *Elle est fière parce qu’elle a gagné.*",
+      "c) *Il est jeune, mais il est très sage.*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe de cinq phrases sur le thème « Ma journée de samedi » en utilisant au moins trois connecteurs de temps.",
+     "items": [
+      "Sujet : Ma journée de samedi"
+     ],
+     "corrige": [
+      "Exemple : *Samedi, je me suis levé tôt. D’abord, j’ai aidé ma mère à ranger la maison. Ensuite, je suis allé au marché. Un peu plus tard, j’ai joué au football avec mes amis. Enfin, le soir, j’ai fait mes devoirs.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **paragraphe** développe **une idée** et commence par un **alinéa**.",
+      "Un paragraphe se construit : **phrase d’annonce**, **développement**, **exemple**.",
+      "Les **connecteurs chronologiques** ordonnent le temps : *d’abord, ensuite, puis, enfin, soudain*.",
+      "Les **connecteurs logiques** relient les idées : *car, donc, mais, de plus*.",
+      "Les **connecteurs spatiaux** organisent la description : *devant, au fond, à gauche, au loin*.",
+      "Il faut **varier** les connecteurs et choisir celui qui correspond au **bon rapport**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Type",
+      "Rôle",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "temps",
+       "ordonner les événements",
+       "d’abord, ensuite, enfin"
+      ],
+      [
+       "cause",
+       "expliquer pourquoi",
+       "car, parce que"
+      ],
+      [
+       "conséquence",
+       "donner le résultat",
+       "donc, alors"
+      ],
+      [
+       "opposition",
+       "opposer deux idées",
+       "mais, cependant"
+      ],
+      [
+       "lieu",
+       "situer dans l’espace",
+       "devant, au loin"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est vraie ?",
+     "options": [
+      "Un paragraphe peut contenir dix idées différentes.",
+      "Un connecteur relie des phrases et précise leur rapport.",
+      "On n’utilise des connecteurs que dans les poèmes.",
+      "L’alinéa sert à terminer un paragraphe."
+     ],
+     "answer": 1,
+     "explain": "Un connecteur relie les phrases et précise le rapport entre elles."
+    }
+   ]
+  }
+ ]
+}

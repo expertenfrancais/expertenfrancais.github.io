@@ -1,0 +1,560 @@
+{
+ "id": 77,
+ "meta": {
+  "t": "Les antonymes",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un antonyme ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le matin, la rue est **calme** ; à midi, elle est **bruyante**. Ces deux mots expriment des idées **opposées**. On dit que ce sont des **antonymes**, ou des **contraires**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre ce qu’est un antonyme",
+      "Trouver le contraire d’un mot",
+      "Employer les antonymes pour mieux s’exprimer"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Antonyme",
+     "text": "Deux mots sont **antonymes** quand leurs sens sont **contraires**. Ils appartiennent à la **même nature grammaticale**. Le mot *antonyme* vient du grec : « qui a le nom opposé »."
+    },
+    {
+     "type": "table",
+     "title": "Quelques paires d’antonymes",
+     "head": [
+      "Mot",
+      "Antonyme",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "grand",
+       "petit",
+       "adjectif"
+      ],
+      [
+       "ouvrir",
+       "fermer",
+       "verbe"
+      ],
+      [
+       "joie",
+       "tristesse",
+       "nom"
+      ],
+      [
+       "souvent",
+       "rarement",
+       "adverbe"
+      ],
+      [
+       "avec",
+       "sans",
+       "préposition"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Remplacer un mot par son contraire",
+     "lines": [
+      "La porte est **ouverte**. → La porte est **fermée**.",
+      "Il fait **chaud**. → Il fait **froid**.",
+      "Le voyage est **long**. → Le voyage est **court**."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Même nature",
+     "text": "Un antonyme est de la **même nature** que le mot de départ : le contraire d’un verbe est un verbe, le contraire d’un adjectif est un adjectif."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est l’antonyme de « courageux » ?",
+     "options": [
+      "brave",
+      "peureux",
+      "fort",
+      "calme"
+     ],
+     "answer": 1,
+     "explain": "*Peureux* est le contraire de *courageux*. *Brave* en est un synonyme."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris l’antonyme de chaque mot.",
+     "items": [
+      "lourd",
+      "monter",
+      "début",
+      "jamais"
+     ],
+     "corrige": [
+      "lourd → *léger*",
+      "monter → *descendre*",
+      "début → *fin*",
+      "jamais → *toujours*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les différentes sortes de contraires",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tous les contraires ne fonctionnent pas de la même façon. On peut les ranger en **trois groupes**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois sortes d’antonymes",
+     "head": [
+      "Sorte",
+      "Explication",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "les contraires **absolus**",
+       "il n’y a rien entre les deux",
+       "vrai / faux, vivant / mort, présent / absent"
+      ],
+      [
+       "les contraires **graduels**",
+       "il existe des degrés entre les deux",
+       "chaud / froid (avec *tiède* entre les deux), grand / petit"
+      ],
+      [
+       "les contraires **réciproques**",
+       "l’un suppose l’autre : deux points de vue sur la même action",
+       "acheter / vendre, donner / recevoir, prêter / emprunter"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Quand Kofi **vend** son vélo à Awa, Awa **achète** le vélo de Kofi : une seule action, vue de deux côtés.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Le milieu",
+     "text": "Entre deux contraires graduels, il y a des mots intermédiaires : *brûlant – chaud – tiède – frais – froid – glacial*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quels mots sont des contraires réciproques ?",
+     "options": [
+      "grand et petit",
+      "vivant et mort",
+      "prêter et emprunter",
+      "jour et nuit"
+     ],
+     "answer": 2,
+     "explain": "Si je te prête un livre, tu m’empruntes ce livre : c’est la même action vue de deux côtés."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque paire est formée de contraires absolus, graduels ou réciproques.",
+     "items": [
+      "a) vrai – faux",
+      "b) riche – pauvre",
+      "c) enseigner – apprendre",
+      "d) présent – absent"
+     ],
+     "corrige": [
+      "a) absolus",
+      "b) graduels (il y a *aisé*, *modeste*…)",
+      "c) réciproques",
+      "d) absolus"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Former un antonyme avec un préfixe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup d’antonymes se forment en ajoutant un **préfixe** de sens négatif **au début** d’un mot."
+    },
+    {
+     "type": "table",
+     "title": "Les préfixes qui forment des contraires",
+     "head": [
+      "Préfixe",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**in-**",
+       "connu → *in*connu ; utile → *in*utile ; actif → *in*actif"
+      ],
+      [
+       "**im-** (devant b, m, p)",
+       "possible → *im*possible ; mobile → *im*mobile ; poli → *im*poli"
+      ],
+      [
+       "**il-** (devant l)",
+       "lisible → *il*lisible ; légal → *il*légal"
+      ],
+      [
+       "**ir-** (devant r)",
+       "réel → *ir*réel ; régulier → *ir*régulier"
+      ],
+      [
+       "**dé-** / **dés-**",
+       "faire → *dé*faire ; couvrir → *dé*couvrir ; obéir → *dés*obéir"
+      ],
+      [
+       "**mal-** / **mé-**",
+       "honnête → *mal*honnête ; content → *mé*content"
+      ],
+      [
+       "**a-**",
+       "normal → *a*normal ; symétrique → *a*symétrique"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention !",
+     "text": "Tous les mots qui commencent par **in-**, **dé-** ou **im-** ne sont pas des contraires : *inviter*, *insecte*, *incendie*, *décembre* ne sont pas formés avec un préfixe négatif."
+    },
+    {
+     "type": "tip",
+     "label": "Pour savoir",
+     "text": "Retire le préfixe : s’il reste un mot qui existe et dont le sens est l’inverse, c’est bien un antonyme (*im-possible* → *possible*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’antonyme de « lisible » ?",
+     "options": [
+      "délisible",
+      "illisible",
+      "inlisible",
+      "mallisible"
+     ],
+     "answer": 1,
+     "explain": "Devant la lettre *l*, le préfixe *in-* devient *il-* : *lisible* → *illisible*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme l’antonyme de chaque mot avec le bon préfixe.",
+     "items": [
+      "possible",
+      "régulier",
+      "couvrir",
+      "honnête",
+      "mobile"
+     ],
+     "corrige": [
+      "*impossible*",
+      "*irrégulier*",
+      "*découvrir*",
+      "*malhonnête*",
+      "*immobile*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Un mot peut avoir plusieurs contraires",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand un mot a **plusieurs sens**, il a souvent **plusieurs antonymes**. C’est le **contexte** qui permet de choisir le bon."
+    },
+    {
+     "type": "table",
+     "title": "Le mot « doux » selon le contexte",
+     "head": [
+      "Phrase",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "Un temps **doux**",
+       "un temps *rude* ou *froid*"
+      ],
+      [
+       "Une peau **douce**",
+       "une peau *rugueuse*"
+      ],
+      [
+       "Un fruit **doux**",
+       "un fruit *amer* ou *acide*"
+      ],
+      [
+       "Un caractère **doux**",
+       "un caractère *brutal*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Léger :** un sac *léger* ≠ un sac *lourd* ; un repas *léger* ≠ un repas *copieux* ; un café *léger* ≠ un café *fort*.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Attention au contexte",
+     "text": "Il ne suffit pas de connaître un contraire du mot : il faut qu’il convienne **dans la phrase**. On ne dit pas « un sac *copieux* ». Relis toujours la phrase avec le contraire choisi."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’antonyme de « sec » dans « un linge sec » ?",
+     "options": [
+      "mouillé",
+      "amer",
+      "doux",
+      "salé"
+     ],
+     "answer": 0,
+     "explain": "Dans cette phrase, le contraire de *sec* est *mouillé* ou *humide*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve un antonyme de « bon » adapté à chaque phrase.",
+     "items": [
+      "Il est un *bon* élève.",
+      "Ce fruit est *bon*.",
+      "Elle a un *bon* cœur.",
+      "Ce film est *bon*."
+     ],
+     "corrige": [
+      "*mauvais* (élève) ou *médiocre*",
+      "*mauvais* ou *pourri*",
+      "*mauvais* ou *méchant*",
+      "*mauvais* ou *ennuyeux*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À quoi servent les antonymes ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les antonymes enrichissent le vocabulaire et permettent de **mettre en valeur une opposition**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Pour **comparer** : *Le lièvre est rapide, la tortue est lente.*",
+      "Pour **souligner un contraste** : *Elle est petite, mais courageuse.*",
+      "Pour **atténuer** : *Ce n’est pas facile* (on dit moins fort que *C’est difficile*).",
+      "Pour **mieux comprendre un mot** : savoir son contraire aide à bien le comprendre."
+     ],
+     "label": "Quatre usages"
+    },
+    {
+     "type": "ex",
+     "text": "« **Hier** triste, **aujourd’hui** joyeux : voilà la différence entre le **début** et la **fin** de l’histoire. »",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "Antonymes et synonymes : ne pas confondre"
+    },
+    {
+     "type": "table",
+     "title": "Synonyme ou antonyme ?",
+     "head": [
+      "Mots",
+      "Rapport"
+     ],
+     "rows": [
+      [
+       "joyeux / heureux",
+       "**synonymes** (sens proche)"
+      ],
+      [
+       "joyeux / triste",
+       "**antonymes** (sens contraire)"
+      ],
+      [
+       "rapide / vite",
+       "**synonymes** (mais natures différentes : adjectif et adverbe)"
+      ],
+      [
+       "rapide / lent",
+       "**antonymes**"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Fort » et « faible » sont…",
+     "options": [
+      "des synonymes",
+      "des antonymes",
+      "des homonymes",
+      "des mots de la même famille"
+     ],
+     "answer": 1,
+     "explain": "Leurs sens sont contraires : ce sont des antonymes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris S si les deux mots sont synonymes et A s’ils sont antonymes.",
+     "items": [
+      "a) silencieux – bruyant",
+      "b) rire – pleurer",
+      "c) construire – détruire",
+      "d) ancien – vieux"
+     ],
+     "corrige": [
+      "a) A",
+      "b) A",
+      "c) A",
+      "d) S"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : trouver le contraire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris l’antonyme de chaque mot.",
+     "items": [
+      "a) fragile",
+      "b) accepter",
+      "c) la victoire",
+      "d) souvent",
+      "e) devant"
+     ],
+     "corrige": [
+      "a) *solide*",
+      "b) *refuser*",
+      "c) *la défaite*",
+      "d) *rarement*",
+      "e) *derrière*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : le préfixe"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris l’antonyme en ajoutant un préfixe.",
+     "items": [
+      "a) patient",
+      "b) lisible",
+      "c) agréable",
+      "d) réel",
+      "e) attacher"
+     ],
+     "corrige": [
+      "a) *impatient*",
+      "b) *illisible*",
+      "c) *désagréable*",
+      "d) *irréel*",
+      "e) *détacher*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : l’intrus"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans cette liste, trouve le mot qui n’est pas un antonyme de « sale ».",
+     "items": [
+      "propre – net – impeccable – crasseux"
+     ],
+     "corrige": [
+      "*crasseux* (synonyme de *sale*, pas son contraire)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : réécriture"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris la phrase en remplaçant les mots soulignés par leurs contraires.",
+     "items": [
+      "Le *matin*, la rue est *calme* et les magasins sont *fermés*."
+     ],
+     "corrige": [
+      "Le *soir*, la rue est *bruyante* et les magasins sont *ouverts*."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les **antonymes** sont des mots de **sens contraire** et de **même nature**.",
+      "On distingue les contraires **absolus**, **graduels** et **réciproques**.",
+      "On forme beaucoup d’antonymes avec un **préfixe** : *in-, im-, il-, ir-, dé-, mal-, mé-, a-*.",
+      "Un mot peut avoir **plusieurs antonymes** : le **contexte** décide.",
+      "Les antonymes servent à **comparer**, à **opposer** et à **mieux comprendre** le sens des mots."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "antonyme",
+       "mot de sens contraire",
+       "*grand* / *petit*"
+      ],
+      [
+       "préfixe négatif",
+       "élément ajouté au début du mot",
+       "*possible* / *im*possible"
+      ],
+      [
+       "synonyme",
+       "mot de sens proche",
+       "*grand* / *vaste*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est l’antonyme de « possible » ?",
+     "options": [
+      "improbable",
+      "impossible",
+      "irréel",
+      "inconnu"
+     ],
+     "answer": 1,
+     "explain": "On forme *impossible* avec le préfixe *im-* devant *p*."
+    }
+   ]
+  }
+ ]
+}

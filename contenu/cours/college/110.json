@@ -1,0 +1,433 @@
+{
+ "id": 110,
+ "meta": {
+  "t": "Les caractéristiques du texte narratif",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : raconter une histoire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le soir, sous le grand arbre du village, ton grand-père raconte comment la tortue a gagné la course contre l’antilope. Tout le monde écoute : il y a des **personnages**, des **actions**, un **lieu** et une **fin**. Ton grand-père fait un **récit**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un **texte narratif**",
+      "Reconnaître ses **éléments**",
+      "Repérer les **temps** et les **indices** du récit"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le texte narratif",
+     "text": "Le **texte narratif** **raconte** une histoire réelle ou imaginaire : des **personnages** vivent des **événements** dans un **lieu** et à un **moment** donnés."
+    },
+    {
+     "type": "quiz",
+     "question": "Un texte narratif sert à…",
+     "options": [
+      "décrire un objet",
+      "raconter des événements",
+      "donner une recette",
+      "convaincre"
+     ],
+     "answer": 1,
+     "explain": "Il raconte une histoire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases qui racontent une action.",
+     "items": [
+      "La tortue partit au lever du jour.",
+      "La case est ronde.",
+      "L’antilope courut très vite.",
+      "Ferme la porte."
+     ],
+     "corrige": [
+      "La tortue partit au lever du jour.",
+      "L’antilope courut très vite."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les éléments d’un récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour raconter, on a besoin de plusieurs éléments. On peut les retrouver dans tout récit en se posant des **questions**."
+    },
+    {
+     "type": "table",
+     "title": "Les éléments du récit",
+     "head": [
+      "Élément",
+      "Question",
+      "Exemple (la tortue et l’antilope)"
+     ],
+     "rows": [
+      [
+       "**les personnages**",
+       "Qui ?",
+       "la tortue, l’antilope"
+      ],
+      [
+       "**le lieu**",
+       "Où ?",
+       "la forêt, au bord du fleuve"
+      ],
+      [
+       "**le temps**",
+       "Quand ?",
+       "au lever du jour"
+      ],
+      [
+       "**les actions**",
+       "Que se passe-t-il ?",
+       "elles courent, la tortue arrive la première"
+      ],
+      [
+       "**la fin**",
+       "Comment cela finit-il ?",
+       "la tortue gagne grâce à sa patience"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Hier matin**, **au marché**, **Moussa** a perdu son panier. Un vendeur le lui a rapporté."
+    },
+    {
+     "type": "tip",
+     "label": "Les questions du récit",
+     "text": "Pour trouver les éléments, pose les questions : **qui ? où ? quand ? que fait-il ? comment cela finit-il ?**"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question donne le lieu ?",
+     "options": [
+      "Qui ?",
+      "Où ?",
+      "Quand ?",
+      "Pourquoi ?"
+     ],
+     "answer": 1,
+     "explain": "« Où ? » demande le lieu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans « Un soir, dans la cour, Awa a retrouvé son stylo », trouve le temps, le lieu et le personnage.",
+     "items": [
+      "temps",
+      "lieu",
+      "personnage"
+     ],
+     "corrige": [
+      "temps : un soir",
+      "lieu : dans la cour",
+      "personnage : Awa"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les personnages et le narrateur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un récit, on distingue ceux qui **agissent** et celui qui **raconte**."
+    },
+    {
+     "type": "table",
+     "title": "Qui est qui ?",
+     "head": [
+      "Mot",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le personnage principal**",
+       "il est au centre de l’histoire",
+       "la tortue"
+      ],
+      [
+       "**les personnages secondaires**",
+       "ils aident ou gênent",
+       "le lièvre, le singe"
+      ],
+      [
+       "**le narrateur**",
+       "celui qui raconte l’histoire",
+       "le conteur, ou l’auteur"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« **Je** suis allé au fleuve avec mon frère. » Le narrateur est un personnage : il dit **je**."
+    },
+    {
+     "type": "warn",
+     "label": "Narrateur et auteur",
+     "text": "Le **narrateur** n’est pas toujours l’**auteur**. L’auteur écrit le livre ; le narrateur est la **voix** qui raconte dans le texte."
+    },
+    {
+     "type": "quiz",
+     "question": "Qui raconte l’histoire ?",
+     "options": [
+      "le héros",
+      "le narrateur",
+      "le lecteur",
+      "le titre"
+     ],
+     "answer": 1,
+     "explain": "Le narrateur est celui qui raconte."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans « Nous marchions vers l’école », quel pronom montre que le narrateur fait partie de l’histoire ?",
+     "items": [
+      "Pronom"
+     ],
+     "corrige": [
+      "Le pronom « nous » : le narrateur est l’un des personnages."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les temps et les marques du récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un récit s’écrit le plus souvent au **passé** : on emploie le **passé simple** pour les actions principales et l’**imparfait** pour le décor. Le **présent** est possible, mais plus rare."
+    },
+    {
+     "type": "table",
+     "title": "Qui fait quoi ?",
+     "head": [
+      "Temps",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**passé simple**",
+       "les actions qui font avancer l’histoire",
+       "Il **ouvrit** la porte et **sortit**."
+      ],
+      [
+       "**imparfait**",
+       "le décor, les habitudes",
+       "Il **faisait** nuit. Les grillons **chantaient**."
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Les marques du récit",
+     "items": [
+      "les **indicateurs de temps** : un jour, soudain, le lendemain, enfin",
+      "les **verbes d’action** : courir, saisir, partir, arriver",
+      "les **connecteurs** qui font avancer : puis, alors, ensuite"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Un matin**, Kimbé **prit** sa pirogue. Le fleuve **était** calme. **Soudain**, un orage **éclata**."
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce",
+     "text": "Le **passé simple** dit : « il se passe quelque chose ». L’**imparfait** dit : « voici comment c’était »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps décrit le décor ?",
+     "options": [
+      "le passé simple",
+      "l’imparfait",
+      "le futur",
+      "l’impératif"
+     ],
+     "answer": 1,
+     "explain": "L’imparfait décrit le décor et les habitudes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne les verbes d’action : « Il faisait nuit. Awa sortit, courut vers le puits et remplit sa jarre. »",
+     "items": [
+      "Verbes"
+     ],
+     "corrige": [
+      "sortit, courut, remplit"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le plan du récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un récit bien construit suit un **plan** simple, en plusieurs étapes."
+    },
+    {
+     "type": "table",
+     "title": "Les étapes",
+     "head": [
+      "Étape",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**situation initiale**",
+       "présenter les personnages et le lieu",
+       "Un jeune pêcheur vit près du fleuve."
+      ],
+      [
+       "**élément déclencheur**",
+       "un événement change tout",
+       "Un jour, sa pirogue disparaît."
+      ],
+      [
+       "**péripéties**",
+       "les actions qui s’enchaînent",
+       "Il cherche, demande de l’aide, traverse la forêt."
+      ],
+      [
+       "**dénouement**",
+       "la solution",
+       "Il retrouve sa pirogue."
+      ],
+      [
+       "**situation finale**",
+       "ce qui reste à la fin",
+       "Il vit de nouveau en paix."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Dans l’ordre",
+     "text": "On peut raconter **dans l’ordre** des faits (récit chronologique). Les mots **d’abord, puis, enfin** aident le lecteur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel événement change la situation de départ ?",
+     "options": [
+      "la situation finale",
+      "l’élément déclencheur",
+      "le titre",
+      "la morale"
+     ],
+     "answer": 1,
+     "explain": "L’élément déclencheur lance l’histoire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets dans l’ordre : a) Il retrouve sa pirogue. b) Un pêcheur vit près du fleuve. c) Sa pirogue disparaît.",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "b, c, a"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **classe**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’élément qui répond à la question « Quand ? » ?",
+     "options": [
+      "le lieu",
+      "le temps",
+      "le personnage",
+      "la fin"
+     ],
+     "answer": 1,
+     "explain": "« Quand ? » donne le temps."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans « Un jour, Ngoma quitta le village. Il faisait chaud. », classe : passé simple ou imparfait ?",
+     "items": [
+      "quitta",
+      "faisait"
+     ],
+     "corrige": [
+      "quitta : passé simple (action)",
+      "faisait : imparfait (décor)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un petit récit de quatre phrases : un personnage, un lieu, un événement et une fin.",
+     "items": [
+      "Récit"
+     ],
+     "corrige": [
+      "Exemple : Un matin, Awa alla au marché. Soudain, elle perdit son argent. Un vendeur le retrouva et le lui rendit. Elle le remercia avec joie."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **texte narratif** raconte une histoire.",
+      "Il comporte des **personnages**, un **lieu**, un **temps**, des **actions** et une **fin**.",
+      "Le **narrateur** est celui qui raconte.",
+      "Le récit emploie surtout le **passé simple** (actions) et l’**imparfait** (décor).",
+      "Le plan : **situation initiale, élément déclencheur, péripéties, dénouement, situation finale**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps fait avancer l’histoire ?",
+     "options": [
+      "l’imparfait",
+      "le passé simple",
+      "le conditionnel",
+      "l’infinitif"
+     ],
+     "answer": 1,
+     "explain": "Le passé simple raconte les actions principales."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "id": 85,
+ "meta": {
+  "t": "Le futur proche et le passé récent",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Parler de ce qui va arriver et de ce qui vient d’arriver",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au marché, Papa dit : « Je **vais acheter** du poisson. » Plus tard, il ajoute : « Je **viens de payer**. » La première phrase parle de ce qui **va arriver** très bientôt, la seconde de ce qui s’est passé **il y a un instant**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le futur proche et le passé récent",
+      "Former ces deux tournures",
+      "Les employer à bon escient"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le futur proche",
+     "text": "Le **futur proche** exprime une action qui **va se produire bientôt**. On le forme avec **aller** (au présent) + un **verbe à l’infinitif** : *Je **vais chanter**.*"
+    },
+    {
+     "type": "def",
+     "label": "Le passé récent",
+     "text": "Le **passé récent** exprime une action qui **vient de se terminer**. On le forme avec **venir** (au présent) + **de** + un **verbe à l’infinitif** : *Je **viens de chanter**.*"
+    },
+    {
+     "type": "table",
+     "title": "En un coup d’œil",
+     "head": [
+      "Tournure",
+      "Formation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "futur proche",
+       "**aller** + infinitif",
+       "Il **va partir**."
+      ],
+      [
+       "passé récent",
+       "**venir de** + infinitif",
+       "Il **vient de partir**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase exprime un passé récent ?",
+     "options": [
+      "Je vais partir.",
+      "Je viens de partir.",
+      "Je partirai.",
+      "Je suis parti hier."
+     ],
+     "answer": 1,
+     "explain": "« Je viens de partir » = venir de + infinitif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases au futur proche.",
+     "items": [
+      "Nous allons jouer.",
+      "Il vient de sortir.",
+      "Elle va lire un conte.",
+      "Ils viennent de manger."
+     ],
+     "corrige": [
+      "Nous allons jouer.",
+      "Elle va lire un conte."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Former le futur proche",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour former le futur proche, on conjugue **aller au présent**, puis on ajoute **l’infinitif** du verbe."
+    },
+    {
+     "type": "table",
+     "title": "Aller + chanter",
+     "head": [
+      "Personne",
+      "Futur proche"
+     ],
+     "rows": [
+      [
+       "je",
+       "**vais** chanter"
+      ],
+      [
+       "tu",
+       "**vas** chanter"
+      ],
+      [
+       "il, elle, on",
+       "**va** chanter"
+      ],
+      [
+       "nous",
+       "**allons** chanter"
+      ],
+      [
+       "vous",
+       "**allez** chanter"
+      ],
+      [
+       "ils, elles",
+       "**vont** chanter"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **vais ranger** ma chambre. — Nous **allons partir** à midi. — Les enfants **vont jouer**."
+    },
+    {
+     "type": "warn",
+     "label": "Aller verbe de mouvement ou auxiliaire ?",
+     "text": "Dans « Je **vais au marché** », *aller* est un verbe de mouvement : ce n’est pas un futur proche. Dans « Je **vais acheter** du riz », *aller* est suivi d’un **infinitif** : c’est un futur proche."
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Après *aller*, cherche un **verbe à l’infinitif** (*acheter, partir, finir*…). S’il y en a un, c’est un futur proche."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase y a-t-il un futur proche ?",
+     "options": [
+      "Je vais au marché.",
+      "Je vais acheter du riz.",
+      "Je viens du marché.",
+      "J’irai demain."
+     ],
+     "answer": 1,
+     "explain": "« Vais acheter » = aller + infinitif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ces phrases au futur proche.",
+     "items": [
+      "Je mange.",
+      "Nous partons.",
+      "Elle lit un conte.",
+      "Ils jouent."
+     ],
+     "corrige": [
+      "Je vais manger.",
+      "Nous allons partir.",
+      "Elle va lire un conte.",
+      "Ils vont jouer."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Former le passé récent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour former le passé récent, on conjugue **venir au présent**, puis on ajoute **de** et **l’infinitif** du verbe."
+    },
+    {
+     "type": "table",
+     "title": "Venir de + finir",
+     "head": [
+      "Personne",
+      "Passé récent"
+     ],
+     "rows": [
+      [
+       "je",
+       "**viens de** finir"
+      ],
+      [
+       "tu",
+       "**viens de** finir"
+      ],
+      [
+       "il, elle, on",
+       "**vient de** finir"
+      ],
+      [
+       "nous",
+       "**venons de** finir"
+      ],
+      [
+       "vous",
+       "**venez de** finir"
+      ],
+      [
+       "ils, elles",
+       "**viennent de** finir"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **viens de manger**. — Le train **vient de partir**. — Nous **venons d’arriver**."
+    },
+    {
+     "type": "warn",
+     "label": "de devient d’",
+     "text": "Devant une **voyelle** ou un **h muet**, **de** devient **d’** : *Il vient **d’**arriver.* *Nous venons **d’**habiter ici.*"
+    },
+    {
+     "type": "warn",
+     "label": "Venir de + nom ou + infinitif ?",
+     "text": "« Il vient **de Pointe-Noire** » indique une **origine** (venir de + nom de lieu). « Il vient **de partir** » est un **passé récent** (venir de + infinitif)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase y a-t-il un passé récent ?",
+     "options": [
+      "Il vient de Kinshasa.",
+      "Il vient de partir.",
+      "Il vient demain.",
+      "Il vient chez nous."
+     ],
+     "answer": 1,
+     "explain": "« Vient de partir » = venir de + infinitif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ces phrases au passé récent.",
+     "items": [
+      "Je finis mon devoir.",
+      "Nous arrivons.",
+      "Elle sort.",
+      "Ils mangent."
+     ],
+     "corrige": [
+      "Je viens de finir mon devoir.",
+      "Nous venons d’arriver.",
+      "Elle vient de sortir.",
+      "Ils viennent de manger."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du futur proche et du passé récent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le futur proche et le passé récent permettent de parler de **l’avenir** et du **passé** tout en restant **proche du moment présent**."
+    },
+    {
+     "type": "table",
+     "title": "Comparer les tournures",
+     "head": [
+      "Tournure",
+      "Ce qu’elle exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "futur proche",
+       "une action qui va arriver **bientôt**, presque **sûre**",
+       "Attention, tu **vas tomber** !"
+      ],
+      [
+       "futur simple",
+       "une action de l’avenir, plus **lointaine**",
+       "L’an prochain, je **serai** en 5e."
+      ],
+      [
+       "passé récent",
+       "une action qui **vient** de finir",
+       "Le train **vient de partir**."
+      ],
+      [
+       "passé composé",
+       "une action passée, sans précision de durée",
+       "Hier, j’**ai fini** ce livre."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Regarde ces nuages : il **va pleuvoir**. — Chut ! Le bébé **vient de s’endormir**."
+    },
+    {
+     "type": "tip",
+     "label": "Une question à te poser",
+     "text": "L’action est-elle **tout près** de maintenant ? Alors on emploie **aller + infinitif** (futur proche) ou **venir de + infinitif** (passé récent)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase l’action est-elle la plus proche du moment où l’on parle ?",
+     "options": [
+      "Je mangerai.",
+      "Je vais manger.",
+      "J’ai mangé hier.",
+      "Je mangeais."
+     ],
+     "answer": 1,
+     "explain": "« Je vais manger » = futur proche, juste après le moment présent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Futur proche ou passé récent ?",
+     "items": [
+      "Regarde, il va pleuvoir !",
+      "Le maître vient d’entrer.",
+      "Nous allons partir.",
+      "Elle vient de finir."
+     ],
+     "corrige": [
+      "futur proche",
+      "passé récent",
+      "futur proche",
+      "passé récent"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Être sur le point de et être en train de",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres tournures expriment aussi le moment **tout proche** ou l’action **en cours**."
+    },
+    {
+     "type": "table",
+     "title": "Deux tournures utiles",
+     "head": [
+      "Tournure",
+      "Ce qu’elle exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "être **sur le point de** + infinitif",
+       "l’action est **imminente** (elle commence dans un instant)",
+       "Le match est **sur le point de** commencer."
+      ],
+      [
+       "être **en train de** + infinitif",
+       "l’action est **en cours**",
+       "Je suis **en train de** lire."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le train est **sur le point de** partir. — Maman est **en train de** cuisiner."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "*Je vais lire* (action **à venir**) et *je suis en train de lire* (action **en cours**)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle tournure montre une action en cours ?",
+     "options": [
+      "je vais lire",
+      "je viens de lire",
+      "je suis en train de lire",
+      "je lirai"
+     ],
+     "answer": 2,
+     "explain": "« Être en train de » exprime une action qui se déroule en ce moment."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec « sur le point de » ou « en train de ».",
+     "items": [
+      "Le soleil est … se coucher.",
+      "Chut ! Je suis … écouter la radio.",
+      "Le chef est … parler."
+     ],
+     "corrige": [
+      "Le soleil est sur le point de se coucher.",
+      "Chut ! Je suis en train d’écouter la radio.",
+      "Le chef est sur le point de parler. / Le chef est en train de parler."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La négation et la question",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À la **forme négative**, **ne … pas** entoure le verbe **aller** ou **venir** (le verbe conjugué). L’**infinitif** reste après."
+    },
+    {
+     "type": "table",
+     "title": "Forme négative et interrogative",
+     "head": [
+      "Forme",
+      "Futur proche",
+      "Passé récent"
+     ],
+     "rows": [
+      [
+       "affirmative",
+       "Je **vais** sortir.",
+       "Je **viens de** sortir."
+      ],
+      [
+       "négative",
+       "Je **ne vais pas** sortir.",
+       "Je **ne viens pas de** sortir."
+      ],
+      [
+       "interrogative",
+       "**Vas-tu** sortir ?",
+       "**Viens-tu de** sortir ?"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **ne va pas** pleuvoir. — **Allez-vous** partir ? — Nous **n’allons pas** rester."
+    },
+    {
+     "type": "tip",
+     "label": "Où mettre la négation ?",
+     "text": "Avec le futur proche, **ne … pas** entoure **aller** : *Il **ne va pas** pleuvoir.* On ne le place jamais autour de l’infinitif."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je vais pas partir.",
+      "Je ne vais pas partir.",
+      "Je ne pas vais partir.",
+      "Je vais ne pas partir."
+     ],
+     "answer": 1,
+     "explain": "On place ne … pas autour du verbe aller."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets ces phrases à la forme négative.",
+     "items": [
+      "Nous allons sortir.",
+      "Il va pleuvoir.",
+      "Tu vas rester."
+     ],
+     "corrige": [
+      "Nous n’allons pas sortir.",
+      "Il ne va pas pleuvoir.",
+      "Tu ne vas pas rester."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Employer le futur proche et le passé récent dans les textes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces tournures sont très fréquentes à l’**oral**, dans les **dialogues** et dans les **lettres**. Dans un texte plus **soutenu**, on préfère souvent le **futur simple** et le **passé composé**."
+    },
+    {
+     "type": "table",
+     "title": "Du langage courant au langage soutenu",
+     "head": [
+      "Langage courant",
+      "Langage soutenu"
+     ],
+     "rows": [
+      [
+       "Demain, je vais venir.",
+       "Demain, je viendrai."
+      ],
+      [
+       "Il vient de partir.",
+       "Il est parti à l’instant."
+      ],
+      [
+       "Ils vont arriver.",
+       "Ils arriveront bientôt."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "— Où est papa ? — Il vient de sortir, il va rentrer dans cinq minutes."
+    },
+    {
+     "type": "tip",
+     "label": "Dans un dialogue",
+     "text": "Pour écrire un dialogue **naturel**, emploie le futur proche et le passé récent : c’est ainsi que l’on parle."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un dialogue entre amis, quelle phrase est la plus naturelle ?",
+     "options": [
+      "Je partirai prochainement.",
+      "Je vais partir.",
+      "Je partirais.",
+      "Je partis."
+     ],
+     "answer": 1,
+     "explain": "Le futur proche est la tournure naturelle à l’oral."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris avec un futur proche ou un passé récent.",
+     "items": [
+      "Dans un instant, la pluie tombera.",
+      "Le maître est entré il y a une minute."
+     ],
+     "corrige": [
+      "Dans un instant, la pluie va tomber.",
+      "Le maître vient d’entrer."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **conjugue**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si la phrase exprime un futur proche (FP) ou un passé récent (PR).",
+     "items": [
+      "Je vais ranger ma chambre.",
+      "Nous venons de finir.",
+      "Elle va sortir.",
+      "Ils viennent d’arriver."
+     ],
+     "corrige": [
+      "FP",
+      "PR",
+      "FP",
+      "PR"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il va chanter.",
+      "Il va chantait.",
+      "Il vais chanter.",
+      "Il va chanté."
+     ],
+     "answer": 0,
+     "explain": "Après aller, on emploie l’infinitif : Il va chanter."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au futur proche ou au passé récent, selon l’indication.",
+     "items": [
+      "Tu (aller + finir) ton travail. (futur proche)",
+      "Nous (venir de + manger). (passé récent)",
+      "Ils (aller + partir). (futur proche)",
+      "Je (venir de + lire) ce livre. (passé récent)"
+     ],
+     "corrige": [
+      "Tu vas finir ton travail.",
+      "Nous venons de manger.",
+      "Ils vont partir.",
+      "Je viens de lire ce livre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases au futur proche et deux phrases au passé récent pour raconter ta journée.",
+     "items": [
+      "Phrase 1",
+      "Phrase 2",
+      "Phrase 3",
+      "Phrase 4"
+     ],
+     "corrige": [
+      "Exemples : Je vais aller à l’école. / Je vais jouer au ballon. / Je viens de manger. / Je viens de finir mes devoirs."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **futur proche** : **aller** (présent) + **infinitif** : *Je vais chanter*.",
+      "Le **passé récent** : **venir de** (présent) + **infinitif** : *Je viens de chanter*.",
+      "Futur proche : action **qui va arriver bientôt**. Passé récent : action **qui vient de finir**.",
+      "**de** devient **d’** devant une voyelle : *Il vient d’arriver*.",
+      "Négation : *Je ne vais pas partir*.",
+      "**Être sur le point de** : action imminente ; **être en train de** : action en cours."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les deux tournures",
+     "head": [
+      "Personne",
+      "Futur proche",
+      "Passé récent"
+     ],
+     "rows": [
+      [
+       "je",
+       "vais chanter",
+       "viens de chanter"
+      ],
+      [
+       "tu",
+       "vas chanter",
+       "viens de chanter"
+      ],
+      [
+       "il",
+       "va chanter",
+       "vient de chanter"
+      ],
+      [
+       "nous",
+       "allons chanter",
+       "venons de chanter"
+      ],
+      [
+       "vous",
+       "allez chanter",
+       "venez de chanter"
+      ],
+      [
+       "ils",
+       "vont chanter",
+       "viennent de chanter"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne forme : « Nous … de finir. »",
+     "options": [
+      "venons",
+      "viens",
+      "vient",
+      "viennent"
+     ],
+     "answer": 0,
+     "explain": "Avec « nous », le verbe venir s’écrit « venons »."
+    }
+   ]
+  }
+ ]
+}

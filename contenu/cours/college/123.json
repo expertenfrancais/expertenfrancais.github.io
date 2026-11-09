@@ -1,0 +1,375 @@
+{
+ "id": 123,
+ "meta": {
+  "t": "La rédaction d’un dialogue à partir d’une image",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : faire parler une image",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une image montre deux élèves devant un tableau d’affichage : l’un montre du doigt une note, l’autre sourit. Que se disent-ils ? Tu peux le **deviner** : cela donne un **dialogue**. Tu vas apprendre à **faire parler** les personnages d’une image."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "**Observer** une image pour imaginer des paroles",
+      "**Écrire** des répliques cohérentes",
+      "**Présenter** correctement le dialogue"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le dialogue à partir d’une image",
+     "text": "C’est un texte où l’on **fait parler les personnages** d’une image, en respectant ce que l’on **voit** (lieu, attitudes, émotions) et les **règles de présentation** du dialogue."
+    },
+    {
+     "type": "quiz",
+     "question": "Pour écrire ce dialogue, on s’appuie sur…",
+     "options": [
+      "l’image",
+      "un autre texte",
+      "rien",
+      "un poème"
+     ],
+     "answer": 0,
+     "explain": "L’image donne la situation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Que fait-on en premier ?",
+     "items": [
+      "on écrit les paroles",
+      "on observe l’image",
+      "on corrige",
+      "on dessine"
+     ],
+     "corrige": [
+      "on observe l’image"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Observer et imaginer",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant d’écrire, on **observe** et on **imagine** ce que chaque personnage pense et dit."
+    },
+    {
+     "type": "table",
+     "title": "Les questions",
+     "head": [
+      "Question",
+      "Exemple (deux élèves devant une affiche)"
+     ],
+     "rows": [
+      [
+       "**Qui sont les personnages ?**",
+       "Awa et Moussa, deux élèves"
+      ],
+      [
+       "**Où sont-ils ?**",
+       "dans la cour devant le tableau d’affichage"
+      ],
+      [
+       "**Que ressentent-ils ?**",
+       "Awa est joyeuse, Moussa est inquiet"
+      ],
+      [
+       "**Que disent-ils ?**",
+       "Awa : « J’ai réussi ! » Moussa : « Et moi ? »"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les expressions du visage",
+     "text": "Le **sourire**, le **regard**, les **gestes** montrent l’émotion : ils guident les paroles."
+    },
+    {
+     "type": "quiz",
+     "question": "Un sourire sur une image suggère…",
+     "options": [
+      "la joie",
+      "la colère",
+      "la peur",
+      "le sommeil"
+     ],
+     "answer": 0,
+     "explain": "Le sourire exprime la joie."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Une enfant a les sourcils froncés et les bras croisés. Quelle émotion ?",
+     "items": [
+      "Émotion"
+     ],
+     "corrige": [
+      "La colère ou le mécontentement."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Écrire des répliques adaptées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Chaque **réplique** doit être **cohérente** avec le personnage et la situation."
+    },
+    {
+     "type": "table",
+     "title": "Pour de bonnes répliques",
+     "head": [
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "une **phrase courte**",
+       "« Où vas-tu ? »"
+      ],
+      [
+       "adaptée à l’**émotion**",
+       "« Quelle chance ! » (joie)"
+      ],
+      [
+       "adaptée au **niveau de langue**",
+       "« Bonjour, Madame. » (à une adulte)"
+      ],
+      [
+       "qui **répond** à la précédente",
+       "« Je vais au marché. »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "— Où vas-tu, Awa ?\n— Je vais au marché avec ma mère. Et toi ?"
+    },
+    {
+     "type": "warn",
+     "label": "Pas de hors-sujet",
+     "text": "Ne fais pas dire n’importe quoi aux personnages : la **suite** doit se **comprendre** à partir de l’image."
+    },
+    {
+     "type": "quiz",
+     "question": "Une réplique répond…",
+     "options": [
+      "à la réplique précédente",
+      "à rien",
+      "à l’auteur",
+      "au titre"
+     ],
+     "answer": 0,
+     "explain": "Elle s’enchaîne avec la précédente."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris la réponse à « Quelle heure est-il ? » (dans la cour de l’école).",
+     "items": [
+      "Réplique"
+     ],
+     "corrige": [
+      "Exemple : « Il est midi, la cloche va sonner. »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Présenter le dialogue",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On applique les **règles de présentation** : **deux-points**, **guillemets** ou **tirets**, **un retour à la ligne** à chaque parole."
+    },
+    {
+     "type": "table",
+     "title": "Les deux présentations",
+     "head": [
+      "Présentation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**avec guillemets** (dans un récit)",
+       "Awa demande : « Où vas-tu ? »\nMoussa répond : « Au marché. »"
+      ],
+      [
+       "**avec tirets** (dialogue en lignes)",
+       "— Où vas-tu ?\n— Au marché."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Ajouter une phrase narrative",
+     "text": "On peut ajouter une **phrase de récit** pour dire ce que fait le personnage : « Moussa baisse la tête. »"
+    },
+    {
+     "type": "ex",
+     "text": "Awa sourit en regardant l’affiche.\n— J’ai réussi mon examen !\nMoussa soupire :\n— Pas moi…"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel signe change de locuteur dans un dialogue en lignes ?",
+     "options": [
+      "le tiret",
+      "la virgule",
+      "le point",
+      "la parenthèse"
+     ],
+     "answer": 0,
+     "explain": "Le tiret."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets en forme avec tirets : Awa demande Tu viens Moussa répond Oui j’arrive",
+     "items": [
+      "Dialogue"
+     ],
+     "corrige": [
+      "— Tu viens ?\n— Oui, j’arrive !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger le dialogue complet",
+   "blocs": [
+    {
+     "type": "list",
+     "label": "Les étapes",
+     "items": [
+      "Je **décris** brièvement l’image (qui, où).",
+      "Je choisis **qui commence**.",
+      "J’écris **quatre à six répliques** cohérentes.",
+      "Je termine par une **réplique ou une phrase de fin**."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Deux élèves se rencontrent devant le tableau d’affichage.\n— Tu as vu les résultats ? demande Awa.\n— Non, répond Moussa en s’approchant. Montre-moi !\n— Regarde : tu es reçu, toi aussi !\n— Quelle joie ! s’écrie Moussa en riant."
+    },
+    {
+     "type": "tip",
+     "label": "Vérifier",
+     "text": "Relis : **chaque réplique** est-elle claire ? La **ponctuation** est-elle bonne ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de répliques environ ?",
+     "options": [
+      "une seule",
+      "quatre à six",
+      "cinquante",
+      "aucune"
+     ],
+     "answer": 1,
+     "explain": "Un dialogue court suffit."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un dialogue de quatre répliques entre un vendeur et une cliente au marché.",
+     "items": [
+      "Dialogue"
+     ],
+     "corrige": [
+      "Exemple :\n— Bonjour, Madame, vos mangues sont-elles fraîches ?\n— Oui, elles viennent d’être cueillies.\n— Combien le kilo ?\n— Cinq cents francs."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Que doit respecter le dialogue ?",
+     "options": [
+      "l’image et les règles de présentation",
+      "rien",
+      "seulement l’orthographe",
+      "le hasard"
+     ],
+     "answer": 0,
+     "explain": "Il s’appuie sur l’image et suit les règles."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige : Awa dit je suis contente",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Awa dit : « Je suis contente. »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Imagine une image : deux enfants regardent un arc-en-ciel. Écris leur dialogue (quatre répliques).",
+     "items": [
+      "Dialogue"
+     ],
+     "corrige": [
+      "Exemple :\n— Regarde, un arc-en-ciel !\n— Il est magnifique !\n— Combien de couleurs vois-tu ?\n— J’en compte sept."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "On **observe** d’abord l’image : personnages, lieu, émotions.",
+      "Les **répliques** sont courtes, cohérentes et adaptées à la situation.",
+      "On applique les **règles du dialogue** : deux-points, guillemets ou tirets, retour à la ligne.",
+      "On peut ajouter une **phrase narrative** pour les gestes.",
+      "On **relit** pour vérifier la cohérence et la ponctuation."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que doit refléter le dialogue ?",
+     "options": [
+      "la situation de l’image",
+      "n’importe quoi",
+      "l’avis du lecteur",
+      "le titre"
+     ],
+     "answer": 0,
+     "explain": "La situation de l’image."
+    }
+   ]
+  }
+ ]
+}

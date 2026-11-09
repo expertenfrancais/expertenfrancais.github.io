@@ -1,0 +1,423 @@
+{
+ "id": 115,
+ "meta": {
+  "t": "Le texte poétique",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : quand les mots chantent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À la fête de l’école, une élève récite : « Mon village au bord du fleuve, / Où chantent les oiseaux… » Ce n’est ni un conte ni une lettre : c’est un **poème**. Les mots y sont choisis pour leur **sonorité** et pour les **émotions** qu’ils éveillent."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un **texte poétique**",
+      "Reconnaître **vers**, **strophes** et **rimes**",
+      "Repérer les **procédés** de la poésie"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le texte poétique",
+     "text": "Le **texte poétique** (ou **poème**) exprime des **émotions**, des **sentiments** ou des **images** avec des mots choisis pour leur **musique** et leur **beauté**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un poème exprime surtout…",
+     "options": [
+      "des ordres",
+      "des émotions et des images",
+      "des recettes",
+      "des règles de grammaire"
+     ],
+     "answer": 1,
+     "explain": "La poésie traduit des émotions et des images."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel texte peut être un poème ?",
+     "items": [
+      "un horaire de bus",
+      "« Ô mon pays, doux comme un fruit mûr »",
+      "un règlement"
+     ],
+     "corrige": [
+      "« Ô mon pays, doux comme un fruit mûr »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les vers et les strophes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un poème n’est pas écrit en lignes continues. Il est découpé en **vers** et en **strophes**."
+    },
+    {
+     "type": "table",
+     "title": "La forme du poème",
+     "head": [
+      "Mot",
+      "Ce que c’est",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le vers**",
+       "une ligne du poème",
+       "« Le soleil se lève sur le fleuve »"
+      ],
+      [
+       "**la strophe**",
+       "un groupe de vers séparés des autres par un blanc",
+       "un groupe de quatre vers"
+      ],
+      [
+       "**le titre**",
+       "le nom du poème",
+       "« Mon village »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Un poème de **deux strophes** de **quatre vers** a **huit vers** en tout."
+    },
+    {
+     "type": "tip",
+     "label": "Compter",
+     "text": "Pour compter les **vers**, compte les **lignes**. Pour les **strophes**, compte les **groupes** séparés par un blanc."
+    },
+    {
+     "type": "warn",
+     "label": "Majuscule",
+     "text": "Au début de chaque vers, on met souvent une **majuscule**, même au milieu d’une phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "Un groupe de vers séparé par un blanc est…",
+     "options": [
+      "une strophe",
+      "un titre",
+      "un paragraphe",
+      "un chapitre"
+     ],
+     "answer": 0,
+     "explain": "C’est une strophe."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Un poème a trois strophes de quatre vers. Combien de vers ?",
+     "items": [
+      "Total"
+     ],
+     "corrige": [
+      "Douze vers (3 × 4)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les rimes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **rimes** sont des **sons identiques** à la fin des vers. Elles créent la **musique** du poème."
+    },
+    {
+     "type": "table",
+     "title": "Quelques rimes",
+     "head": [
+      "Mot",
+      "Mot qui rime"
+     ],
+     "rows": [
+      [
+       "jour",
+       "amour"
+      ],
+      [
+       "nuit",
+       "bruit"
+      ],
+      [
+       "fleuve",
+       "neuve"
+      ],
+      [
+       "chanter",
+       "danser"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les dispositions de rimes",
+     "head": [
+      "Disposition",
+      "Schéma",
+      "Exemple de lettres"
+     ],
+     "rows": [
+      [
+       "**rimes suivies**",
+       "AABB",
+       "jour / amour / nuit / bruit"
+      ],
+      [
+       "**rimes croisées**",
+       "ABAB",
+       "jour / nuit / amour / bruit"
+      ],
+      [
+       "**rimes embrassées**",
+       "ABBA",
+       "jour / nuit / bruit / amour"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Entendre",
+     "text": "Une rime se **prononce** : « fleuve » rime avec « neuve ». Ne te fie pas à l’orthographe seule."
+    },
+    {
+     "type": "quiz",
+     "question": "Les rimes sont…",
+     "options": [
+      "des majuscules",
+      "des sons identiques à la fin des vers",
+      "des titres",
+      "des chiffres"
+     ],
+     "answer": 1,
+     "explain": "Elles reprennent le même son."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel mot rime avec « soleil » ?",
+     "items": [
+      "merveille",
+      "chanson",
+      "maison"
+     ],
+     "corrige": [
+      "merveille"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les images et les procédés poétiques",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour créer des **images**, le poète emploie des **procédés**."
+    },
+    {
+     "type": "table",
+     "title": "Les procédés",
+     "head": [
+      "Procédé",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**la comparaison**",
+       "rapprocher deux éléments avec « comme »",
+       "Le fleuve brille **comme** un miroir."
+      ],
+      [
+       "**la métaphore**",
+       "rapprocher sans mot de comparaison",
+       "Le fleuve est un **miroir**."
+      ],
+      [
+       "**la personnification**",
+       "donner des traits humains à une chose",
+       "Le vent **chante** dans les palmiers."
+      ],
+      [
+       "**la répétition**",
+       "reprendre un mot ou un son",
+       "Doux, si doux est mon village."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Le soleil **sourit** aux enfants » : le soleil est **personnifié**."
+    },
+    {
+     "type": "warn",
+     "label": "Comparer n’est pas être",
+     "text": "Dans la **comparaison**, on a **comme**, **tel**, **pareil à**. Dans la **métaphore**, on dit directement : « le fleuve **est** un miroir »."
+    },
+    {
+     "type": "quiz",
+     "question": "« Le vent chante » est…",
+     "options": [
+      "une comparaison",
+      "une personnification",
+      "une rime",
+      "une strophe"
+     ],
+     "answer": 1,
+     "explain": "Le vent est présenté comme un être qui chante."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la comparaison : « Ses yeux brillent comme des étoiles. »",
+     "items": [
+      "Comparaison"
+     ],
+     "corrige": [
+      "« brillent comme des étoiles » (outil : comme)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Lire et dire un poème",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un poème se **lit à voix haute** : le **rythme**, les **pauses** et la **voix** font vivre le texte."
+    },
+    {
+     "type": "list",
+     "label": "Pour bien dire un poème",
+     "items": [
+      "Je lis d’abord **en silence** pour comprendre.",
+      "Je repère les **pauses** (virgules, fins de vers).",
+      "Je mets de l’**expression** : douceur, joie, tristesse.",
+      "Je lis **sans me presser**."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le sentiment",
+     "text": "Demande-toi : **quelle émotion** le poète veut-il faire naître ? La joie, la nostalgie, l’admiration ?"
+    },
+    {
+     "type": "ex",
+     "text": "« Mon village » : le poète exprime son **amour** pour son pays natal. Le ton est **tendre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un poème se lit…",
+     "options": [
+      "très vite",
+      "avec expression et sans se presser",
+      "en criant toujours",
+      "en silence uniquement"
+     ],
+     "answer": 1,
+     "explain": "On lit avec expression, sans se presser."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle émotion exprime : « Je pleure au bord du fleuve ; tu es parti, mon ami. » ?",
+     "items": [
+      "Émotion"
+     ],
+     "corrige": [
+      "La tristesse (le chagrin de la séparation)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **analyse**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Une ligne d’un poème s’appelle…",
+     "options": [
+      "un vers",
+      "une strophe",
+      "un titre",
+      "un couplet"
+     ],
+     "answer": 0,
+     "explain": "C’est un vers."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la personnification : « La lune dort sur la rivière. »",
+     "items": [
+      "Personnification"
+     ],
+     "corrige": [
+      "« La lune dort » : la lune est présentée comme une personne qui dort."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux vers qui riment sur ton école.",
+     "items": [
+      "Vers"
+     ],
+     "corrige": [
+      "Exemple : Mon école est un jardin / Où je grandis chaque matin."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **texte poétique** exprime des **émotions** et des **images**.",
+      "Il est écrit en **vers** groupés en **strophes**.",
+      "Les **rimes** (suivies, croisées, embrassées) créent sa musique.",
+      "Le poète emploie la **comparaison**, la **métaphore**, la **personnification**, la **répétition**.",
+      "On **lit un poème** à voix haute, avec expression."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel procédé donne des traits humains à une chose ?",
+     "options": [
+      "la rime",
+      "la personnification",
+      "la strophe",
+      "la ponctuation"
+     ],
+     "answer": 1,
+     "explain": "C’est la personnification."
+    }
+   ]
+  }
+ ]
+}

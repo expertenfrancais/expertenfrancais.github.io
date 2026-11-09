@@ -1,0 +1,411 @@
+{
+ "id": 114,
+ "meta": {
+  "t": "Les règles de présentation d’un dialogue",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : faire parler des personnages",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Deux amis se rencontrent devant l’école. Awa dit : « Bonjour, comment vas-tu ? » Moussa répond : « Très bien, merci. » Quand des personnages **se parlent**, on écrit un **dialogue**. Pour qu’on s’y retrouve, on suit des **règles de présentation**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un **dialogue**",
+      "Connaître les **signes** du dialogue (tiret, guillemets, deux-points)",
+      "Présenter correctement les **paroles**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le dialogue",
+     "text": "Le **dialogue** est un **échange de paroles** entre **deux personnages ou plus**. On rapporte exactement ce que chacun dit."
+    },
+    {
+     "type": "quiz",
+     "question": "Un dialogue est…",
+     "options": [
+      "un échange de paroles",
+      "une description",
+      "un poème",
+      "un résumé"
+     ],
+     "answer": 0,
+     "explain": "Les personnages se parlent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases qui sont des paroles de personnages.",
+     "items": [
+      "« Viens ici ! » cria Awa.",
+      "La nuit tombait.",
+      "« Où vas-tu ? » demanda Moussa.",
+      "Il faisait chaud."
+     ],
+     "corrige": [
+      "« Viens ici ! » cria Awa.",
+      "« Où vas-tu ? » demanda Moussa."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les signes du dialogue",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour écrire un dialogue, on emploie des **signes** précis."
+    },
+    {
+     "type": "table",
+     "title": "Les signes",
+     "head": [
+      "Signe",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**les deux-points ( : )**",
+       "annoncent les paroles",
+       "Awa dit :"
+      ],
+      [
+       "**les guillemets ( « » )**",
+       "encadrent les paroles (dialogue dans un récit)",
+       "« Bonjour ! »"
+      ],
+      [
+       "**le tiret ( — )**",
+       "change de locuteur (dialogue présenté en lignes)",
+       "— Bonjour !"
+      ],
+      [
+       "**le retour à la ligne**",
+       "nouvelle parole = nouvelle ligne",
+       "à chaque changement de personnage"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Awa dit : « Bonjour, Moussa ! »\nMoussa répond : « Bonjour, Awa ! »"
+    },
+    {
+     "type": "tip",
+     "label": "Les deux présentations",
+     "text": "Dans un **récit**, on emploie les **guillemets**. Dans un **texte de théâtre** ou un dialogue en lignes, on emploie le **tiret**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel signe annonce les paroles ?",
+     "options": [
+      "le point",
+      "les deux-points",
+      "la virgule",
+      "le tiret bas"
+     ],
+     "answer": 1,
+     "explain": "Les deux-points annoncent la parole."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Ajoute les signes : Awa dit Bonjour Moussa",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Awa dit : « Bonjour, Moussa ! »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes de parole et la ponctuation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour dire qui parle, on utilise des **verbes de parole** (verbes qui disent *comment* on parle). On les place **avant** ou **après** la parole."
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes de parole",
+     "head": [
+      "Sens",
+      "Verbes"
+     ],
+     "rows": [
+      [
+       "parler normalement",
+       "dire, répondre, répliquer, ajouter"
+      ],
+      [
+       "demander",
+       "demander, interroger, questionner"
+      ],
+      [
+       "parler fort",
+       "crier, s’écrier, hurler"
+      ],
+      [
+       "parler doucement",
+       "murmurer, chuchoter, souffler"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Où placer le verbe ?",
+     "head": [
+      "Place",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**avant** la parole",
+       "Awa dit : « Je suis contente. »"
+      ],
+      [
+       "**après** la parole",
+       "« Je suis contente », dit Awa."
+      ],
+      [
+       "**au milieu**",
+       "« Je suis contente, dit Awa, car j’ai réussi. »"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Majuscules et ponctuation",
+     "text": "La parole commence par une **majuscule** quand elle suit les deux-points. Quand le verbe de parole est **après**, la parole se termine par une **virgule** (et non un point) : « Je suis contente », dit Awa."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe indique qu’on parle très fort ?",
+     "options": [
+      "murmurer",
+      "crier",
+      "ajouter",
+      "répondre"
+     ],
+     "answer": 1,
+     "explain": "Crier = parler fort."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Place le verbe « répondit » après la parole : « Je viens » Moussa",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "« Je viens », répondit Moussa."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Écrire un dialogue dans un récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand le dialogue s’insère dans un **récit**, on suit un **ordre simple**."
+    },
+    {
+     "type": "list",
+     "label": "Les étapes",
+     "items": [
+      "Je commence le **récit** par une phrase d’introduction.",
+      "J’annonce la parole avec les **deux-points** et j’ouvre les **guillemets**.",
+      "Je termine la parole et je **ferme les guillemets**.",
+      "Je **passe à la ligne** pour la parole suivante."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Ce matin, Awa rencontre Moussa devant l’école.\nAwa lui dit : « Tu as fait tes devoirs ? »\nMoussa répond : « Oui, mais l’exercice trois était difficile. »\nAwa sourit : « Je t’aiderai ! »"
+    },
+    {
+     "type": "tip",
+     "label": "Varier les verbes",
+     "text": "Ne répète pas toujours « dit ». Utilise des verbes **précis** : s’écria, murmura, demanda."
+    },
+    {
+     "type": "quiz",
+     "question": "Quand passe-t-on à la ligne ?",
+     "options": [
+      "à chaque phrase",
+      "quand un nouveau personnage parle",
+      "jamais",
+      "à la fin du texte seulement"
+     ],
+     "answer": 1,
+     "explain": "Un nouveau locuteur = une nouvelle ligne."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets en dialogue : Awa demande à Moussa s’il vient. Il répond oui.",
+     "items": [
+      "Dialogue"
+     ],
+     "corrige": [
+      "Awa demande : « Tu viens ? »\nMoussa répond : « Oui, j’arrive ! »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Écrire un dialogue de théâtre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une **scène de théâtre**, on écrit **sans guillemets**. On indique le **nom du personnage** avant ses paroles, et on met les indications scéniques entre **parenthèses**."
+    },
+    {
+     "type": "table",
+     "title": "La présentation de théâtre",
+     "head": [
+      "Élément",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le nom du personnage**",
+       "AWA :"
+      ],
+      [
+       "**la parole**",
+       "Bonjour, Moussa !"
+      ],
+      [
+       "**l’indication scénique**",
+       "(Elle sourit.)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "AWA (souriante) : Bonjour, Moussa !\nMOUSSA : Bonjour, Awa. Où vas-tu ?"
+    },
+    {
+     "type": "tip",
+     "label": "Parenthèses",
+     "text": "Les **indications scéniques** (gestes, ton, mouvements) se mettent **entre parenthèses**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un dialogue de théâtre, on indique d’abord…",
+     "options": [
+      "le nom du personnage",
+      "les guillemets",
+      "le verbe de parole",
+      "la date"
+     ],
+     "answer": 0,
+     "explain": "Le nom du locuteur précède chaque réplique."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets en forme théâtrale : Awa dit bonjour en souriant. Moussa répond bonjour.",
+     "items": [
+      "Scène"
+     ],
+     "corrige": [
+      "AWA (souriante) : Bonjour !\nMOUSSA : Bonjour !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **corrige**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quels signes encadrent les paroles dans un récit ?",
+     "options": [
+      "les parenthèses",
+      "les guillemets",
+      "les points de suspension",
+      "les crochets"
+     ],
+     "answer": 1,
+     "explain": "Ce sont les guillemets."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige la ponctuation : Awa dit bonjour Moussa",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Awa dit : « Bonjour, Moussa ! »"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un dialogue de quatre répliques entre deux amis qui se retrouvent à la sortie de l’école.",
+     "items": [
+      "Dialogue"
+     ],
+     "corrige": [
+      "Exemple : Awa demande : « Comment as-tu trouvé le contrôle ? »\nMoussa répond : « Plutôt facile ! »\nAwa s’écrie : « Moi, j’ai eu peur ! »\nMoussa la rassure : « Ne t’inquiète pas, tu auras une bonne note. »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **dialogue** est un échange de paroles entre personnages.",
+      "Dans un récit, on emploie les **deux-points** et les **guillemets** (« »).",
+      "On **change de ligne** à chaque nouveau locuteur.",
+      "On emploie des **verbes de parole** variés (dire, demander, crier, murmurer…).",
+      "Au théâtre, on écrit le **nom du personnage**, ses paroles et des **indications scéniques entre parenthèses**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel signe annonce une parole ?",
+     "options": [
+      "la virgule",
+      "les deux-points",
+      "le point",
+      "le point-virgule"
+     ],
+     "answer": 1,
+     "explain": "On écrit : Awa dit : « … »."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "id": 100,
+ "meta": {
+  "t": "Le respect du groupe de souffle",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : lire sans s’essouffler",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "En lisant, Paul prend sa respiration au milieu des mots : « Le vieux / pêcheur prit sa / pirogue… ». Ses camarades rient : cela n’a pas de sens. Le maître explique : « Pour bien lire, il faut **respecter le groupe de souffle**. »"
+    },
+    {
+     "type": "list",
+     "label": "Savoir essentiel",
+     "items": [
+      "Respecter le **groupe de souffle**",
+      "Lire par **groupes de mots** ayant un sens",
+      "Bien **respirer** en lisant"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le groupe de souffle",
+     "text": "Le **groupe de souffle** est un **groupe de mots** que l’on dit **d’une seule émission de voix**, entre **deux pauses**. Il a un **sens** : on ne coupe pas au milieu."
+    },
+    {
+     "type": "quiz",
+     "question": "Un groupe de souffle est…",
+     "options": [
+      "un seul mot",
+      "un groupe de mots dit d’un seul souffle",
+      "une phrase entière toujours",
+      "une lettre"
+     ],
+     "answer": 1,
+     "explain": "On dit tous les mots du groupe sans reprendre sa respiration."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie le bon découpage.",
+     "items": [
+      "Le vieux pêcheur / prit sa pirogue.",
+      "Le vieux / pêcheur prit sa / pirogue."
+     ],
+     "corrige": [
+      "Le vieux pêcheur / prit sa pirogue."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Repérer les groupes de souffle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour repérer les groupes de souffle, on cherche les **groupes de mots** qui **vont ensemble** (groupe nominal, groupe verbal…). On marque une **pause** avec une barre ( **/** )."
+    },
+    {
+     "type": "table",
+     "title": "Un exemple découpé",
+     "head": [
+      "Phrase",
+      "Groupes de souffle"
+     ],
+     "rows": [
+      [
+       "Le petit garçon prend son cartable.",
+       "Le petit garçon / prend son cartable."
+      ],
+      [
+       "Les élèves entrent dans la classe en silence.",
+       "Les élèves / entrent dans la classe / en silence."
+      ],
+      [
+       "Un matin, le chef du village réunit les habitants.",
+       "Un matin, / le chef du village / réunit les habitants."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "La règle d’or",
+     "text": "On ne **coupe jamais** entre un **déterminant** et son **nom** (*le / chat*), ni entre un **adjectif** et son **nom**, ni entre le **verbe** et son **pronom**."
+    },
+    {
+     "type": "warn",
+     "label": "Les virgules",
+     "text": "Une **virgule** indique souvent la **fin d’un groupe** : on y marque une pause."
+    },
+    {
+     "type": "quiz",
+     "question": "Où peut-on faire une pause ?",
+     "options": [
+      "le / chat",
+      "le chat / dort",
+      "le gros / chat",
+      "je / le vois"
+     ],
+     "answer": 1,
+     "explain": "On coupe entre le groupe nominal et le groupe verbal."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Place les barres de pause.",
+     "items": [
+      "Le soleil se lève sur la forêt.",
+      "Les enfants jouent dans la cour."
+     ],
+     "corrige": [
+      "Le soleil / se lève / sur la forêt.",
+      "Les enfants / jouent / dans la cour."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Bien respirer pour bien lire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour lire sans s’essouffler, il faut **respirer au bon moment** et **calmement**."
+    },
+    {
+     "type": "table",
+     "title": "Les bons gestes",
+     "head": [
+      "Geste",
+      "Pourquoi ?"
+     ],
+     "rows": [
+      [
+       "se tenir **droit**",
+       "pour bien respirer"
+      ],
+      [
+       "**inspirer** par le nez",
+       "pour remplir les poumons"
+      ],
+      [
+       "**respirer** aux pauses (virgules, fins de groupes)",
+       "pour ne pas couper les mots"
+      ],
+      [
+       "**souffler** doucement en parlant",
+       "pour garder du souffle jusqu’à la fin"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un exercice",
+     "text": "Inspire profondément par le nez, puis dis la phrase suivante **d’un seul souffle** : « Le vieux pêcheur prit sa pirogue. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Où est-il le plus naturel de respirer ?",
+     "options": [
+      "au milieu d’un mot",
+      "après une virgule ou un groupe de souffle",
+      "entre le déterminant et le nom",
+      "au milieu d’un groupe nominal"
+     ],
+     "answer": 1,
+     "explain": "On respire aux pauses naturelles."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les bonnes habitudes pour lire.",
+     "items": [
+      "Je respire aux virgules.",
+      "Je lis très vite sans respirer.",
+      "Je me tiens droit.",
+      "Je coupe les mots."
+     ],
+     "corrige": [
+      "Je respire aux virgules.",
+      "Je me tiens droit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certaines erreurs de lecture **changent le sens** de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Erreurs fréquentes",
+     "head": [
+      "Erreur",
+      "Exemple",
+      "Pourquoi c’est faux"
+     ],
+     "rows": [
+      [
+       "couper un groupe nominal",
+       "Le / grand arbre",
+       "le déterminant est séparé du nom"
+      ],
+      [
+       "couper entre le verbe et son pronom",
+       "Il / le voit",
+       "ils vont ensemble"
+      ],
+      [
+       "ne jamais s’arrêter",
+       "lecture sans pause",
+       "on ne comprend plus"
+      ],
+      [
+       "trop de pauses",
+       "Il / mange / du / riz",
+       "la phrase devient hachée"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Elle mange / du riz / avec ses amis. » (lecture correcte)"
+    },
+    {
+     "type": "warn",
+     "label": "Le sens avant tout",
+     "text": "Un bon **découpage** suit toujours le **sens** de la phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle lecture est correcte ?",
+     "options": [
+      "Elle / mange du riz",
+      "Elle mange / du riz",
+      "Elle mange du / riz",
+      "Elle mange du riz sans pause du tout"
+     ],
+     "answer": 1,
+     "explain": "On coupe après le groupe verbal, avant le complément."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige le découpage fautif.",
+     "items": [
+      "Le petit / garçon prend / son cartable."
+     ],
+     "corrige": [
+      "Le petit garçon / prend son cartable."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "S’entraîner",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un texte à lire par groupes de souffle. Pose des barres, puis lis à voix haute."
+    },
+    {
+     "type": "ex",
+     "text": "Le soir, / le village s’endort / doucement. / Les étoiles / brillent / dans le ciel noir. / Au loin, / un chien aboie."
+    },
+    {
+     "type": "tip",
+     "label": "Trois étapes",
+     "text": "1) **Lire en silence**. 2) **Marquer** les pauses avec des barres. 3) **Lire à voix haute** en respectant les barres."
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de groupes de souffle dans « Les étoiles / brillent / dans le ciel noir. » ?",
+     "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "answer": 2,
+     "explain": "Il y a trois groupes marqués par les barres."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Découpe en groupes de souffle : « Mon grand frère répare le vélo de mon cousin devant la maison. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Mon grand frère / répare le vélo de mon cousin / devant la maison."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **découpe**, puis on **lit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle règle est vraie ?",
+     "options": [
+      "On coupe entre le déterminant et le nom.",
+      "On coupe après un groupe de mots qui a un sens.",
+      "On ne respire jamais.",
+      "On lit sans pause."
+     ],
+     "answer": 1,
+     "explain": "Un groupe de souffle a un sens complet."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : découper"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Découpe en groupes de souffle.",
+     "items": [
+      "Les enfants jouent dans la cour de l’école.",
+      "Un matin, Mbou part au marché avec sa mère."
+     ],
+     "corrige": [
+      "Les enfants / jouent / dans la cour de l’école.",
+      "Un matin, / Mbou part au marché / avec sa mère."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : lire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis le texte à voix haute : « Le vieux pêcheur prit sa pirogue / et partit sur le fleuve. / Il pêcha toute la journée. »",
+     "items": [
+      "Lecture"
+     ],
+     "corrige": [
+      "Lecture avec respiration aux barres, sans couper les groupes."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **groupe de souffle** est un groupe de mots dit d’un **seul souffle**, entre deux pauses.",
+      "On le repère grâce au **sens** de la phrase et à la **ponctuation**.",
+      "On ne coupe **jamais** entre un déterminant et son nom, ni entre un verbe et son pronom.",
+      "On **respire** aux pauses, **droit** et **calmement**.",
+      "Un bon découpage **aide à comprendre** le texte."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Où place-t-on une pause ?",
+     "options": [
+      "entre le et chat",
+      "après un groupe de mots qui a un sens",
+      "au milieu d’un mot",
+      "entre un adjectif et son nom"
+     ],
+     "answer": 1,
+     "explain": "On marque la pause après un groupe de mots complet."
+    }
+   ]
+  }
+ ]
+}

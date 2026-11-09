@@ -1,0 +1,693 @@
+{
+ "id": 84,
+ "meta": {
+  "t": "La phrase interrogative",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "À quoi sert la phrase interrogative ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À la rentrée, la maîtresse demande : « Comment t’appelles-tu ? Où habites-tu ? Aimes-tu le français ? » Chaque phrase pose une **question**. Ce sont des **phrases interrogatives**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître une phrase interrogative",
+      "Poser une question de plusieurs façons",
+      "Écrire correctement une phrase interrogative (inversion, trait d’union, point d’interrogation)"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La phrase interrogative",
+     "text": "La **phrase interrogative** sert à **poser une question** pour obtenir une **information**. À l’écrit, elle se termine par un **point d’interrogation** ( **?** )."
+    },
+    {
+     "type": "table",
+     "title": "Deux grandes sortes de questions",
+     "head": [
+      "Sorte",
+      "Réponse attendue",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "interrogation totale",
+       "**oui**, **non** ou **si**",
+       "Viens-tu avec nous ?"
+      ],
+      [
+       "interrogation partielle",
+       "une **information précise**",
+       "**Où** vas-tu ?"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour la reconnaître",
+     "text": "Une phrase interrogative se termine par **?** et on peut y **répondre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est interrogative ?",
+     "options": [
+      "Ferme la porte.",
+      "Quelle belle journée !",
+      "Où est ton cahier ?",
+      "Il pleut."
+     ],
+     "answer": 2,
+     "explain": "« Où est ton cahier ? » pose une question et se termine par un point d’interrogation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases interrogatives.",
+     "items": [
+      "Tu aimes les mangues ?",
+      "Passe-moi le sel.",
+      "Pourquoi pleures-tu ?",
+      "Il fait chaud aujourd’hui."
+     ],
+     "corrige": [
+      "Tu aimes les mangues ?",
+      "Pourquoi pleures-tu ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’interrogation totale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**interrogation totale** porte sur **toute la phrase**. On y répond par **oui** ou par **non**. Il existe **trois façons** de la poser."
+    },
+    {
+     "type": "table",
+     "title": "Trois façons de poser la même question",
+     "head": [
+      "Façon",
+      "Exemple",
+      "Emploi"
+     ],
+     "rows": [
+      [
+       "avec l’**intonation**",
+       "Tu viens ?",
+       "oral, langue familière"
+      ],
+      [
+       "avec **est-ce que**",
+       "**Est-ce que** tu viens ?",
+       "langue courante"
+      ],
+      [
+       "avec l’**inversion** du sujet",
+       "Viens-**tu** ?",
+       "langue soutenue, écrit"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Tu as fini ? — Est-ce que tu as fini ? — As-tu fini ?"
+    },
+    {
+     "type": "warn",
+     "label": "Est-ce qu’",
+     "text": "Devant une voyelle, **est-ce que** devient **est-ce qu’** : *Est-ce qu’il vient ?* *Est-ce qu’elle chante ?*"
+    },
+    {
+     "type": "def",
+     "label": "Les réponses",
+     "text": "On répond par **oui** ou **non**. Quand la question est **négative**, on répond **si** pour dire oui (voir la partie 6)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une interrogation totale ?",
+     "options": [
+      "Où vas-tu ?",
+      "Viens-tu avec nous ?",
+      "Pourquoi cries-tu ?",
+      "Quand pars-tu ?"
+     ],
+     "answer": 1,
+     "explain": "On peut répondre à « Viens-tu avec nous ? » par oui ou par non."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque question avec « est-ce que ».",
+     "items": [
+      "Tu aimes le poisson ?",
+      "Ils jouent dehors ?",
+      "Elle a fini ?"
+     ],
+     "corrige": [
+      "Est-ce que tu aimes le poisson ?",
+      "Est-ce qu’ils jouent dehors ?",
+      "Est-ce qu’elle a fini ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’interrogation partielle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**interrogation partielle** ne porte que sur **une partie** de la phrase : le lieu, le temps, la cause, la personne… Elle commence par un **mot interrogatif**."
+    },
+    {
+     "type": "table",
+     "title": "Les mots interrogatifs",
+     "head": [
+      "Mot",
+      "On demande…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "qui",
+       "la **personne**",
+       "**Qui** frappe à la porte ?"
+      ],
+      [
+       "que, quoi",
+       "la **chose**",
+       "**Que** veux-tu ?"
+      ],
+      [
+       "où",
+       "le **lieu**",
+       "**Où** habites-tu ?"
+      ],
+      [
+       "quand",
+       "le **moment**",
+       "**Quand** pars-tu ?"
+      ],
+      [
+       "comment",
+       "la **manière**",
+       "**Comment** vas-tu ?"
+      ],
+      [
+       "pourquoi",
+       "la **cause**",
+       "**Pourquoi** pleures-tu ?"
+      ],
+      [
+       "combien",
+       "la **quantité**",
+       "**Combien** coûte ce pagne ?"
+      ],
+      [
+       "quel, quelle, quels, quelles",
+       "un **choix**",
+       "**Quelle** heure est-il ?"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Où** est la gare ? — **Quand** commence le match ? — **Pourquoi** es-tu en retard ?"
+    },
+    {
+     "type": "tip",
+     "label": "À l’oral",
+     "text": "À l’oral, on place parfois le mot interrogatif **à la fin** : « Tu vas **où** ? ». À l’écrit, on le met **au début**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Combien de mangues veux-tu ? », que demande-t-on ?",
+     "options": [
+      "la quantité",
+      "le lieu",
+      "la cause",
+      "la personne"
+     ],
+     "answer": 0,
+     "explain": "« Combien » interroge sur la quantité."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le mot interrogatif qui convient (où, pourquoi, quand, combien).",
+     "items": [
+      "… habites-tu ? — À Brazzaville.",
+      "… pleures-tu ? — Parce que j’ai mal.",
+      "… arrive le train ? — À midi.",
+      "… de mangues as-tu ? — Cinq."
+     ],
+     "corrige": [
+      "Où habites-tu ?",
+      "Pourquoi pleures-tu ?",
+      "Quand arrive le train ?",
+      "Combien de mangues as-tu ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’inversion du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans l’**inversion**, le **pronom sujet** se place **après le verbe** et on les **relie par un trait d’union** : *tu chantes* → **chantes-tu** ?"
+    },
+    {
+     "type": "table",
+     "title": "Quelques exemples",
+     "head": [
+      "Phrase",
+      "Question avec inversion"
+     ],
+     "rows": [
+      [
+       "Tu chantes.",
+       "Chantes-**tu** ?"
+      ],
+      [
+       "Il part.",
+       "Part-**il** ?"
+      ],
+      [
+       "Nous mangeons.",
+       "Mangeons-**nous** ?"
+      ],
+      [
+       "Ils arrivent.",
+       "Arrivent-**ils** ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le « -t- » de liaison",
+     "text": "Quand le verbe se termine par **a** ou **e** et que le sujet est **il, elle, on**, on ajoute **-t-** entre deux traits d’union : *Parle**-t-**il ?* *A**-t-**elle faim ?* *Mange**-t-**on ici ?*"
+    },
+    {
+     "type": "tip",
+     "label": "Si le sujet est un nom",
+     "text": "On garde le nom au début et on ajoute le **pronom** après le verbe : *Ton frère vient-**il** ?* *Les enfants jouent-**ils** ?*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "Chante il ?",
+      "Chante-t-il ?",
+      "Chante-il ?",
+      "Chantet-il ?"
+     ],
+     "answer": 1,
+     "explain": "Le verbe finit par -e : on ajoute -t- entre deux traits d’union."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque phrase en question avec inversion du sujet.",
+     "items": [
+      "Tu parles français.",
+      "Elle chante bien.",
+      "Ils ont faim.",
+      "Le chef arrive."
+     ],
+     "corrige": [
+      "Parles-tu français ?",
+      "Chante-t-elle bien ?",
+      "Ont-ils faim ?",
+      "Le chef arrive-t-il ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Qui, que, quoi et quel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il ne faut pas confondre **qui**, **que**, **quoi** et **quel**. Chacun a son rôle."
+    },
+    {
+     "type": "table",
+     "title": "Bien choisir le mot",
+     "head": [
+      "Mot",
+      "Quand l’employer ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "qui",
+       "on demande **une personne**",
+       "**Qui** est là ? — Avec **qui** joues-tu ?"
+      ],
+      [
+       "que (qu’)",
+       "on demande **une chose**, au début de la phrase",
+       "**Que** dis-tu ? — **Qu’**as-tu dit ?"
+      ],
+      [
+       "quoi",
+       "on demande **une chose**, après une préposition ou à la fin",
+       "À **quoi** penses-tu ? — Tu fais **quoi** ?"
+      ],
+      [
+       "quel, quelle, quels, quelles",
+       "on demande **un choix** (accord avec le nom)",
+       "**Quelle** heure est-il ? — **Quels** livres lis-tu ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Quel s’accorde",
+     "text": "Le mot **quel** s’accorde avec le **nom** : *quel garçon, quelle fille, quels livres, quelles fleurs*."
+    },
+    {
+     "type": "tip",
+     "label": "Que devient qu’",
+     "text": "Devant une **voyelle**, **que** devient **qu’** : *Qu’**as**-tu fait ?*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot convient : « … joues-tu ? — Avec mon cousin. »",
+     "options": [
+      "Avec quoi",
+      "Avec qui",
+      "Que",
+      "Où"
+     ],
+     "answer": 1,
+     "explain": "Mon cousin est une personne : on emploie « qui »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec qui, que, quoi ou quel(le)(s).",
+     "items": [
+      "… fais-tu ce soir ?",
+      "… heure est-il ?",
+      "Avec … parles-tu ? (une personne)",
+      "À … penses-tu ? (une chose)",
+      "… livres lis-tu ?"
+     ],
+     "corrige": [
+      "Que fais-tu ce soir ?",
+      "Quelle heure est-il ?",
+      "Avec qui parles-tu ?",
+      "À quoi penses-tu ?",
+      "Quels livres lis-tu ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La question à la forme négative et la réponse « si »",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut aussi poser une question à la **forme négative** : *Tu n’as pas faim ?* La réponse dépend de ce que l’on pense."
+    },
+    {
+     "type": "table",
+     "title": "Question négative et réponses",
+     "head": [
+      "Question",
+      "Réponse positive",
+      "Réponse négative"
+     ],
+     "rows": [
+      [
+       "Tu ne viens pas ?",
+       "**Si**, je viens.",
+       "**Non**, je ne viens pas."
+      ],
+      [
+       "N’as-tu pas faim ?",
+       "**Si**, j’ai faim.",
+       "**Non**, je n’ai pas faim."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le mot « si »",
+     "text": "Après une **question négative**, on répond **si** pour dire **oui** et contredire la question."
+    },
+    {
+     "type": "warn",
+     "label": "Où placer ne … pas ?",
+     "text": "Avec l’inversion, **ne** se place **avant le verbe** et **pas** **après le pronom** : *N’aimes-tu **pas** le riz ?* *Ne vient-il **pas** ?*"
+    },
+    {
+     "type": "quiz",
+     "question": "On te demande : « Tu n’as pas faim ? » Tu as faim. Que réponds-tu ?",
+     "options": [
+      "Si, j’ai faim.",
+      "Non, j’ai faim.",
+      "Si, je n’ai pas faim.",
+      "Non, je n’ai pas faim."
+     ],
+     "answer": 0,
+     "explain": "Pour contredire une question négative, on répond « si »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets chaque question à la forme négative.",
+     "items": [
+      "Viens-tu avec nous ?",
+      "Est-ce que tu aimes le chou ?",
+      "Mange-t-il du poisson ?"
+     ],
+     "corrige": [
+      "Ne viens-tu pas avec nous ?",
+      "Est-ce que tu n’aimes pas le chou ?",
+      "Ne mange-t-il pas de poisson ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Ponctuation et niveaux de langue",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La phrase interrogative commence par une **majuscule** et se termine par un **point d’interrogation**. En français, on met une **espace** avant le point d’interrogation : *Où vas-tu ?*"
+    },
+    {
+     "type": "table",
+     "title": "Une même question dans trois niveaux de langue",
+     "head": [
+      "Niveau",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "familier",
+       "Tu vas où ?"
+      ],
+      [
+       "courant",
+       "Où est-ce que tu vas ?"
+      ],
+      [
+       "soutenu",
+       "Où vas-tu ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de point d’interrogation ?",
+     "text": "Quand la question est **rapportée** (interrogation indirecte), on **n’écrit pas** de point d’interrogation : *Je me demande où tu vas.* *Dis-moi quand tu pars.*"
+    },
+    {
+     "type": "tip",
+     "label": "Quel niveau choisir ?",
+     "text": "À l’**oral** entre amis, on emploie le niveau **familier** ou **courant**. À l’**écrit** (lettre, rédaction), on préfère le niveau **soutenu** avec l’inversion."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question appartient à la langue soutenue ?",
+     "options": [
+      "Tu fais quoi ?",
+      "Qu’est-ce que tu fais ?",
+      "Que fais-tu ?",
+      "Tu fais quoi, toi ?"
+     ],
+     "answer": 2,
+     "explain": "L’inversion du sujet est la marque de la langue soutenue."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris ces questions familières en langue soutenue.",
+     "items": [
+      "Tu viens quand ?",
+      "Il habite où ?",
+      "Vous voulez quoi ?"
+     ],
+     "corrige": [
+      "Quand viens-tu ?",
+      "Où habite-t-il ?",
+      "Que voulez-vous ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **transforme**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases interrogatives et dis si l’interrogation est totale ou partielle.",
+     "items": [
+      "Aimes-tu la musique ?",
+      "Où cours-tu ?",
+      "Passe-moi ce livre.",
+      "Est-ce que tu viens ?"
+     ],
+     "corrige": [
+      "Aimes-tu la musique ? : totale",
+      "Où cours-tu ? : partielle",
+      "Est-ce que tu viens ? : totale"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correctement écrite ?",
+     "options": [
+      "Viens tu ?",
+      "Viens-tu ?",
+      "Viens-t-tu ?",
+      "Vient-tu ?"
+     ],
+     "answer": 1,
+     "explain": "Le pronom sujet est relié au verbe par un trait d’union : Viens-tu ?"
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pose une question sur le groupe en gras.",
+     "items": [
+      "Elle habite **à Pointe-Noire**.",
+      "Ils partent **demain**.",
+      "Il pleure **parce qu’il a mal**.",
+      "Il a **trois** frères."
+     ],
+     "corrige": [
+      "Où habite-t-elle ?",
+      "Quand partent-ils ?",
+      "Pourquoi pleure-t-il ?",
+      "Combien de frères a-t-il ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Tu interviewes un ami. Écris quatre questions avec inversion : son nom, son âge, sa ville, son sport préféré.",
+     "items": [
+      "Question 1",
+      "Question 2",
+      "Question 3",
+      "Question 4"
+     ],
+     "corrige": [
+      "Exemple : Comment t’appelles-tu ?",
+      "Exemple : Quel âge as-tu ?",
+      "Exemple : Où habites-tu ?",
+      "Exemple : Quel sport préfères-tu ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **phrase interrogative** pose une question et se termine par **?**.",
+      "**Interrogation totale** : réponse par oui, non ou si.",
+      "**Interrogation partielle** : elle commence par un mot interrogatif (*qui, que, où, quand, comment, pourquoi, combien, quel*).",
+      "Trois façons de poser une question : **intonation**, **est-ce que**, **inversion** (*Viens-tu ?*).",
+      "Avec l’inversion : **trait d’union**, et **-t-** après un verbe en -a ou -e (*Parle-t-il ?*).",
+      "Après une question **négative**, on répond **si**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les mots interrogatifs",
+     "head": [
+      "Mot",
+      "On demande"
+     ],
+     "rows": [
+      [
+       "qui",
+       "une personne"
+      ],
+      [
+       "que, quoi",
+       "une chose"
+      ],
+      [
+       "où",
+       "le lieu"
+      ],
+      [
+       "quand",
+       "le moment"
+      ],
+      [
+       "pourquoi",
+       "la cause"
+      ],
+      [
+       "comment",
+       "la manière"
+      ],
+      [
+       "combien",
+       "la quantité"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne écriture ?",
+     "options": [
+      "Aime-il le riz ?",
+      "Aime-t-il le riz ?",
+      "Aimet-il le riz ?",
+      "Aime t’il le riz ?"
+     ],
+     "answer": 1,
+     "explain": "Le verbe se termine par -e et le sujet est « il » : on ajoute -t-."
+    }
+   ]
+  }
+ ]
+}

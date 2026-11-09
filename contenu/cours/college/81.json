@@ -1,0 +1,631 @@
+{
+ "id": 81,
+ "meta": {
+  "t": "Les verbes pronominaux",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un verbe pronominal ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis ces phrases : « Fatou **se lave** les mains », « Les élèves **se disputent** », « Le chien **s’enfuit** ». Dans chacune, le verbe est accompagné d’un petit mot : **se**. Ce sont des **verbes pronominaux**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un verbe pronominal",
+      "Repérer le pronom qui accompagne le verbe",
+      "Savoir pourquoi on les appelle « pronominaux »"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Verbe pronominal",
+     "text": "Un **verbe pronominal** est un verbe qui se conjugue avec **deux pronoms de la même personne** : le **sujet** et un **pronom personnel complément** qui le suit (*me, te, se, nous, vous*). Ce pronom désigne **la même personne** que le sujet."
+    },
+    {
+     "type": "table",
+     "title": "Les pronoms des verbes pronominaux",
+     "head": [
+      "Sujet",
+      "Pronom",
+      "Exemple (se laver)"
+     ],
+     "rows": [
+      [
+       "je",
+       "me (m’)",
+       "je **me** lave"
+      ],
+      [
+       "tu",
+       "te (t’)",
+       "tu **te** laves"
+      ],
+      [
+       "il / elle / on",
+       "se (s’)",
+       "il **se** lave"
+      ],
+      [
+       "nous",
+       "nous",
+       "nous **nous** lavons"
+      ],
+      [
+       "vous",
+       "vous",
+       "vous **vous** lavez"
+      ],
+      [
+       "ils / elles",
+       "se (s’)",
+       "ils **se** lavent"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **me** lève à six heures. Tu **t’**habilles vite. Elle **se** promène dans le jardin.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Pour les repérer",
+     "text": "À l’**infinitif**, un verbe pronominal commence par **se** ou **s’** : *se laver*, *s’habiller*, *se souvenir*. Ce pronom change avec le sujet, mais il est **toujours présent**."
+    },
+    {
+     "type": "warn",
+     "label": "Ne confonds pas",
+     "text": "« Il **le** lave » : *le* désigne **une autre personne** que le sujet, ce n’est pas un verbe pronominal. « Il **se** lave » : *se* désigne **le même** que le sujet, c’est un verbe pronominal."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un verbe pronominal ?",
+     "options": [
+      "Le maître nous écoute.",
+      "Les élèves se dépêchent.",
+      "Elle lui parle.",
+      "Je les vois."
+     ],
+     "answer": 1,
+     "explain": "Dans *les élèves se dépêchent*, le pronom *se* renvoie au sujet *les élèves*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Souligne le verbe pronominal et son pronom, puis donne l’infinitif.",
+     "items": [
+      "Nous nous reposons après le match.",
+      "Tu t’inquiètes trop.",
+      "Les oiseaux s’envolent."
+     ],
+     "corrige": [
+      "*nous nous reposons* → se reposer",
+      "*tu t’inquiètes* → s’inquiéter",
+      "*s’envolent* → s’envoler"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Conjuguer au présent et à l’impératif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On conjugue d’abord le verbe comme d’habitude, mais **le pronom change avec le sujet** et se place **devant le verbe**."
+    },
+    {
+     "type": "table",
+     "title": "Le présent de se laver et de s’habiller",
+     "head": [
+      "Se laver",
+      "S’habiller"
+     ],
+     "rows": [
+      [
+       "je **me** lave",
+       "je **m’**habille"
+      ],
+      [
+       "tu **te** laves",
+       "tu **t’**habilles"
+      ],
+      [
+       "il / elle **se** lave",
+       "il / elle **s’**habille"
+      ],
+      [
+       "nous **nous** lavons",
+       "nous **nous** habillons"
+      ],
+      [
+       "vous **vous** lavez",
+       "vous **vous** habillez"
+      ],
+      [
+       "ils / elles **se** lavent",
+       "ils / elles **s’**habillent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Élision",
+     "text": "Devant une voyelle ou un *h* muet, *me*, *te* et *se* deviennent **m’**, **t’** et **s’** : *je m’habille*, *il s’évanouit*."
+    },
+    {
+     "type": "h",
+     "text": "À l’impératif"
+    },
+    {
+     "type": "p",
+     "text": "À l’impératif affirmatif, le pronom se place **après le verbe**, relié par un **trait d’union**, et *te* devient *toi*. À l’impératif négatif, il reste **devant** le verbe."
+    },
+    {
+     "type": "table",
+     "title": "L’impératif de se laver",
+     "head": [
+      "Affirmatif",
+      "Négatif"
+     ],
+     "rows": [
+      [
+       "lave-**toi**",
+       "ne **te** lave pas"
+      ],
+      [
+       "lavons-**nous**",
+       "ne **nous** lavons pas"
+      ],
+      [
+       "lavez-**vous**",
+       "ne **vous** lavez pas"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on l’impératif de « se dépêcher » à la 2e personne du singulier ?",
+     "options": [
+      "Dépêche-te !",
+      "Dépêche-toi !",
+      "Te dépêche !",
+      "Dépêches-toi !"
+     ],
+     "answer": 1,
+     "explain": "À l’impératif affirmatif, le pronom *te* devient *toi* et suit le verbe : *dépêche-toi*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au présent.",
+     "items": [
+      "Je (se lever) à sept heures.",
+      "Nous (s’amuser) beaucoup.",
+      "Ils (se reposer) sous le manguier."
+     ],
+     "corrige": [
+      "Je *me lève* à sept heures.",
+      "Nous *nous amusons* beaucoup.",
+      "Ils *se reposent* sous le manguier."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les sortes de verbes pronominaux",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les verbes pronominaux n’ont pas tous le même sens. On distingue **quatre sortes** principales."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre sortes de verbes pronominaux",
+     "head": [
+      "Sorte",
+      "Explication",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**réfléchi**",
+       "l’action **retombe sur le sujet** : il fait l’action sur lui-même",
+       "Paul **se lave**. Je **me regarde** dans le miroir."
+      ],
+      [
+       "**réciproque**",
+       "plusieurs sujets font l’action **les uns sur les autres** (sujet pluriel)",
+       "Les deux amis **se saluent**. Nous **nous écrivons**."
+      ],
+      [
+       "**essentiellement pronominal**",
+       "le verbe n’existe **qu’à la forme pronominale** (ou avec un autre sens)",
+       "Il **s’évanouit**. Elle **se souvient**. Ils **s’enfuient**."
+      ],
+      [
+       "**à sens passif**",
+       "l’action est **subie** par le sujet (le sujet est une chose)",
+       "Ce livre **se vend** bien. Les fruits **se mangent** frais."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Réfléchi :** Fatou se coiffe. → elle coiffe **elle-même**.\n**Réciproque :** Fatou et Awa se coiffent. → *l’une coiffe l’autre*.",
+     "label": "La même forme, deux sens"
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Pour un verbe **réfléchi**, on peut ajouter **« lui-même / elle-même »**. Pour un verbe **réciproque**, on peut ajouter **« l’un l’autre »**. Pour un verbe **essentiellement pronominal**, aucun de ces tests n’est possible : *il s’évanouit* ne veut pas dire *il évanouit lui-même*."
+    },
+    {
+     "type": "warn",
+     "label": "Verbes essentiellement pronominaux",
+     "text": "Quelques exemples : *s’évanouir, se souvenir, s’enfuir, se méfier, se moquer, s’écrier, se repentir*. Ces verbes **n’existent pas** sans le pronom (on ne dit pas *évanouir quelqu’un* au sens de ce verbe)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les enfants se saluent », le verbe est…",
+     "options": [
+      "réfléchi",
+      "réciproque",
+      "essentiellement pronominal",
+      "à sens passif"
+     ],
+     "answer": 1,
+     "explain": "Chaque enfant salue les autres : l’action est faite **les uns sur les autres**."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque verbe est réfléchi, réciproque ou essentiellement pronominal.",
+     "items": [
+      "a) Tu te peignes.",
+      "b) Les deux frères se disputent.",
+      "c) Elle s’évanouit.",
+      "d) Je me souviens de toi."
+     ],
+     "corrige": [
+      "a) *réfléchi*",
+      "b) *réciproque*",
+      "c) *essentiellement pronominal*",
+      "d) *essentiellement pronominal*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les temps composés : l’auxiliaire être",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Aux temps composés, **tous les verbes pronominaux** se conjuguent avec l’auxiliaire **être**, jamais avec avoir."
+    },
+    {
+     "type": "table",
+     "title": "Le passé composé de se laver",
+     "head": [
+      "Sujet",
+      "Forme"
+     ],
+     "rows": [
+      [
+       "je",
+       "je **me suis** lavé(e)"
+      ],
+      [
+       "tu",
+       "tu **t’es** lavé(e)"
+      ],
+      [
+       "il / elle / on",
+       "il **s’est** lavé / elle **s’est** lavée"
+      ],
+      [
+       "nous",
+       "nous **nous sommes** lavé(e)s"
+      ],
+      [
+       "vous",
+       "vous **vous êtes** lavé(e)(s)"
+      ],
+      [
+       "ils / elles",
+       "ils **se sont** lavés / elles **se sont** lavées"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas d’avoir !",
+     "text": "On ne dit **jamais** *il s’a lavé*. On dit **il s’est lavé**. Le pronom reste **devant** l’auxiliaire."
+    },
+    {
+     "type": "ex",
+     "text": "Hier, je **me suis levé** tôt. Elles **se sont réveillées** à cinq heures. Nous **nous sommes dépêchés**.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "L’accord du participe passé"
+    },
+    {
+     "type": "p",
+     "text": "Le participe passé d’un verbe pronominal **s’accorde avec le sujet** (comme avec l’auxiliaire *être*)."
+    },
+    {
+     "type": "ex",
+     "text": "Elle s’est **lavée**. Ils se sont **lavés**. Elles se sont **évanouies**.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "label": "Cas particulier",
+     "text": "Quand le verbe est suivi d’un **complément d’objet direct** (*les mains*, *les dents*…), le participe passé **ne s’accorde pas** : *Elle s’est lavé **les mains**.* Tu étudieras cette règle plus en détail en 4e."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est correcte ?",
+     "options": [
+      "Elles se sont lavé.",
+      "Elles se sont lavés.",
+      "Elles se sont lavées.",
+      "Elles s’ont lavées."
+     ],
+     "answer": 2,
+     "explain": "Le sujet *elles* est féminin pluriel : on accorde le participe : *lavées*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris au passé composé.",
+     "items": [
+      "Il se lève tôt.",
+      "Nous nous promenons.",
+      "Elles s’habillent vite."
+     ],
+     "corrige": [
+      "Il *s’est levé* tôt.",
+      "Nous *nous sommes promenés* (ou *promenées*).",
+      "Elles *se sont habillées* vite."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La négation et l’interrogation",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "La négation"
+    },
+    {
+     "type": "p",
+     "text": "À la forme négative, les deux mots de la négation **encadrent** le groupe « pronom + verbe »."
+    },
+    {
+     "type": "table",
+     "title": "La négation",
+     "head": [
+      "Affirmatif",
+      "Négatif"
+     ],
+     "rows": [
+      [
+       "Je me lave.",
+       "Je **ne** me lave **pas**."
+      ],
+      [
+       "Il s’est levé.",
+       "Il **ne** s’est **pas** levé."
+      ],
+      [
+       "Nous nous reposons.",
+       "Nous **ne** nous reposons **jamais**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "L’interrogation"
+    },
+    {
+     "type": "table",
+     "title": "Trois façons de poser la question",
+     "head": [
+      "Formulation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "avec **est-ce que**",
+       "**Est-ce que** tu te lèves tôt ?"
+      ],
+      [
+       "avec l’**inversion** du sujet",
+       "**Te lèves-tu** tôt ?"
+      ],
+      [
+       "par l’**intonation**",
+       "Tu te lèves tôt ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Place du pronom",
+     "text": "Avec l’inversion, le pronom (*te, se, nous…*) reste **devant le verbe** : *Te lèves-tu ?* (et non *Lèves-tu te ?*). Au passé composé, on inverse le sujet et l’auxiliaire : *T’es-tu levé ?*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il ne se pas lave.",
+      "Il ne se lave pas.",
+      "Il se ne lave pas.",
+      "Il ne lave se pas."
+     ],
+     "answer": 1,
+     "explain": "La négation encadre « pronom + verbe » : *ne se lave pas*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative, puis pose la question avec est-ce que.",
+     "items": [
+      "Tu te souviens de lui.",
+      "Ils se sont disputés."
+     ],
+     "corrige": [
+      "Tu *ne te souviens pas* de lui. → *Est-ce que tu te souviens de lui ?*",
+      "Ils *ne se sont pas disputés*. → *Est-ce qu’ils se sont disputés ?*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque phrase, dis si le verbe est pronominal. Si oui, donne l’infinitif.",
+     "items": [
+      "a) Awa se coiffe.",
+      "b) Maman coiffe sa fille.",
+      "c) Les élèves se dépêchent.",
+      "d) Tu leur parles."
+     ],
+     "corrige": [
+      "a) oui → *se coiffer*",
+      "b) non",
+      "c) oui → *se dépêcher*",
+      "d) non (*leur* ne désigne pas le sujet)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au présent.",
+     "items": [
+      "a) Tu (se laver) les mains.",
+      "b) Nous (se promener) au bord du fleuve.",
+      "c) Je (s’évanouir) quand j’ai peur.",
+      "d) Elles (se souvenir) de leurs vacances."
+     ],
+     "corrige": [
+      "a) *te laves*",
+      "b) *nous promenons*",
+      "c) *m’évanouis*",
+      "d) *se souviennent*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : passé composé"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris les phrases au passé composé.",
+     "items": [
+      "a) Elle se réveille à six heures.",
+      "b) Ils se dépêchent.",
+      "c) Je m’amuse beaucoup."
+     ],
+     "corrige": [
+      "a) *Elle s’est réveillée à six heures.*",
+      "b) *Ils se sont dépêchés.*",
+      "c) *Je me suis beaucoup amusé* (ou *amusée*)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe ces verbes en réfléchis, réciproques ou essentiellement pronominaux : se peigner, se téléphoner, s’enfuir, se regarder (dans le miroir), s’écrier.",
+     "items": [
+      "Liste : se peigner, se téléphoner, s’enfuir, se regarder, s’écrier"
+     ],
+     "corrige": [
+      "*réfléchis* : se peigner, se regarder",
+      "*réciproque* : se téléphoner",
+      "*essentiellement pronominaux* : s’enfuir, s’écrier"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **verbe pronominal** se conjugue avec un pronom (**me, te, se, nous, vous, se**) qui désigne **la même personne** que le sujet.",
+      "Il commence par **se** ou **s’** à l’**infinitif**.",
+      "Il peut être **réfléchi**, **réciproque**, **essentiellement pronominal** ou **à sens passif**.",
+      "Aux **temps composés**, il se conjugue avec **être** : *il s’est levé*.",
+      "Le participe passé **s’accorde avec le sujet** : *elles se sont lavées* (sauf si un COD suit : *elle s’est lavé les mains*).",
+      "À l’**impératif affirmatif**, le pronom suit le verbe : *lave-toi* ; à la **négation**, la négation encadre le pronom et le verbe : *il ne se lave pas*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Sorte",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "réfléchi",
+       "l’action revient sur le sujet",
+       "*Je me lave.*"
+      ],
+      [
+       "réciproque",
+       "l’action se fait entre plusieurs sujets",
+       "*Ils se saluent.*"
+      ],
+      [
+       "essentiellement pronominal",
+       "existe seulement avec le pronom",
+       "*Elle s’évanouit.*"
+      ],
+      [
+       "sens passif",
+       "l’action est subie par le sujet",
+       "*Ce livre se vend bien.*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel auxiliaire emploie-t-on avec un verbe pronominal aux temps composés ?",
+     "options": [
+      "avoir",
+      "être",
+      "avoir ou être selon les cas",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "Tous les verbes pronominaux se conjuguent avec **être** aux temps composés."
+    }
+   ]
+  }
+ ]
+}

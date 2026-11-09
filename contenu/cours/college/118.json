@@ -1,0 +1,390 @@
+{
+ "id": 118,
+ "meta": {
+  "t": "La présentation de l’auteur",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : qui a écrit ce livre ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ta maîtresse te donne un livre à lire en classe. Avant d’ouvrir la première page, tu regardes la couverture : un **titre**, un **nom d’auteur**. Qui est cette personne ? Où est-elle née ? Qu’a-t-elle écrit d’autre ? Présenter l’**auteur**, c’est répondre à ces questions."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir **présenter un auteur**",
+      "Distinguer **biographie** et **bibliographie**",
+      "Rédiger une courte **fiche** sur l’auteur"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La présentation de l’auteur",
+     "text": "**Présenter l’auteur**, c’est dire **qui il est** (sa vie) et **ce qu’il a écrit** (ses œuvres). Cela aide à mieux comprendre le livre."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi présente-t-on l’auteur ?",
+     "options": [
+      "pour décorer",
+      "pour mieux comprendre le livre",
+      "pour changer le titre",
+      "pour compter les pages"
+     ],
+     "answer": 1,
+     "explain": "Connaître l’auteur éclaire l’œuvre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie ce qui concerne l’auteur.",
+     "items": [
+      "son nom",
+      "la couleur de la couverture",
+      "son lieu de naissance",
+      "le prix du livre"
+     ],
+     "corrige": [
+      "son nom",
+      "son lieu de naissance"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La biographie",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **biographie** raconte la **vie** de l’auteur. On y trouve des **informations essentielles**."
+    },
+    {
+     "type": "table",
+     "title": "Que contient une biographie ?",
+     "head": [
+      "Information",
+      "Question",
+      "Exemple (auteur inventé)"
+     ],
+     "rows": [
+      [
+       "**le nom**",
+       "Qui est-il ?",
+       "Amadou Nkounkou"
+      ],
+      [
+       "**la naissance**",
+       "Quand et où est-il né ?",
+       "en 1950, à Dolisie"
+      ],
+      [
+       "**la formation**",
+       "Qu’a-t-il étudié ?",
+       "des études de lettres"
+      ],
+      [
+       "**le métier**",
+       "Que fait-il dans la vie ?",
+       "enseignant, puis écrivain"
+      ],
+      [
+       "**les faits marquants**",
+       "Quels événements ont compté ?",
+       "un long voyage, un prix littéraire"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Dates et lieux",
+     "text": "Dans une biographie, les **dates** et les **lieux** sont importants. On les note avec précision."
+    },
+    {
+     "type": "warn",
+     "label": "Un auteur vivant ou disparu ?",
+     "text": "Si l’auteur est **vivant**, on écrit « il est né en… ». S’il est **mort**, on écrit « il est né en… et mort en… »."
+    },
+    {
+     "type": "quiz",
+     "question": "La biographie parle…",
+     "options": [
+      "de la vie de l’auteur",
+      "du prix du livre",
+      "de l’imprimeur",
+      "du papier"
+     ],
+     "answer": 0,
+     "explain": "C’est le récit de la vie."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète : « Amadou Nkounkou est ____ en 1950 à Dolisie. »",
+     "items": [
+      "Mot"
+     ],
+     "corrige": [
+      "né"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La bibliographie",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **bibliographie** est la **liste des œuvres** de l’auteur : romans, contes, poèmes, pièces de théâtre…"
+    },
+    {
+     "type": "table",
+     "title": "Comment présenter une œuvre ?",
+     "head": [
+      "Élément",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le titre** (en italique ou souligné)",
+       "*Les contes du fleuve*"
+      ],
+      [
+       "**le genre**",
+       "recueil de contes"
+      ],
+      [
+       "**la date de publication**",
+       "1985"
+      ],
+      [
+       "**la maison d’édition**",
+       "Éditions du Bassin"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Œuvres** : *Les contes du fleuve* (contes, 1985) ; *La voix du village* (roman, 1992) ; *Chants du matin* (poèmes, 2001)."
+    },
+    {
+     "type": "tip",
+     "label": "Dans l’ordre",
+     "text": "On classe les œuvres **par date** : de la plus ancienne à la plus récente."
+    },
+    {
+     "type": "quiz",
+     "question": "La bibliographie est…",
+     "options": [
+      "la vie de l’auteur",
+      "la liste de ses œuvres",
+      "son adresse",
+      "un résumé"
+     ],
+     "answer": 1,
+     "explain": "Elle recense les œuvres."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Range par date : « Chants du matin » (2001), « Les contes du fleuve » (1985), « La voix du village » (1992).",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "Les contes du fleuve (1985), La voix du village (1992), Chants du matin (2001)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Où trouver les informations ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour présenter un auteur, il faut des **sources fiables**."
+    },
+    {
+     "type": "list",
+     "label": "Les sources",
+     "items": [
+      "la **quatrième de couverture** (le dos du livre)",
+      "la **page de présentation** au début ou à la fin du livre",
+      "le **dictionnaire** ou l’**encyclopédie**",
+      "la **bibliothèque** de l’école",
+      "des **sites sérieux** (avec l’aide d’un adulte)"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "La **quatrième de couverture** présente souvent l’auteur en quelques lignes et résume l’histoire."
+    },
+    {
+     "type": "warn",
+     "label": "Ne rien inventer",
+     "text": "Une présentation ne contient que des **faits vérifiés**. Si tu ne sais pas, cherche ou écris « date inconnue »."
+    },
+    {
+     "type": "quiz",
+     "question": "Où trouve-t-on souvent une courte présentation de l’auteur ?",
+     "options": [
+      "sur la quatrième de couverture",
+      "sur le calendrier",
+      "dans le cartable",
+      "sur le tableau"
+     ],
+     "answer": 0,
+     "explain": "Le dos du livre présente l’auteur."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Cite deux sources pour trouver des informations sur un auteur.",
+     "items": [
+      "Sources"
+     ],
+     "corrige": [
+      "Exemple : la quatrième de couverture et la bibliothèque de l’école."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger la présentation de l’auteur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On rédige la présentation en **un court paragraphe**, du plus important au moins important."
+    },
+    {
+     "type": "list",
+     "label": "Les étapes",
+     "items": [
+      "Je donne le **nom** et la **profession**.",
+      "Je dis **quand** et **où** il est né.",
+      "Je résume sa **vie** en une ou deux phrases.",
+      "Je cite ses **principales œuvres**."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "**Amadou Nkounkou** est un écrivain congolais, né en 1950 à Dolisie. Ancien enseignant, il publie des contes et des romans inspirés de la vie du village. Parmi ses œuvres : *Les contes du fleuve* (1985) et *La voix du village* (1992). (Auteur inventé pour l’exemple.)"
+    },
+    {
+     "type": "tip",
+     "label": "Au présent",
+     "text": "On présente un auteur **au présent** (« il écrit », « il vit »), sauf pour les faits passés."
+    },
+    {
+     "type": "quiz",
+     "question": "Une présentation commence par…",
+     "options": [
+      "la morale du livre",
+      "le nom et la profession",
+      "la couleur du livre",
+      "le prix"
+     ],
+     "answer": 1,
+     "explain": "On donne d’abord le nom et la profession."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en trois phrases la présentation d’un auteur de ton choix.",
+     "items": [
+      "Présentation"
+     ],
+     "corrige": [
+      "Exemple : (Nom) est un écrivain né en… à… Il a écrit… Parmi ses œuvres, on trouve…"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **classe**, puis on **rédige**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot désigne la liste des œuvres ?",
+     "options": [
+      "biographie",
+      "bibliographie",
+      "légende",
+      "source"
+     ],
+     "answer": 1,
+     "explain": "C’est la bibliographie."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : a) né à Pointe-Noire en 1960 b) « Les chants du soir » (poèmes, 1998)",
+     "items": [
+      "a",
+      "b"
+     ],
+     "corrige": [
+      "a : biographie",
+      "b : bibliographie"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe de quatre phrases sur un auteur que tu connais.",
+     "items": [
+      "Paragraphe"
+     ],
+     "corrige": [
+      "Exemple : (Nom) est un auteur né en… Il a étudié… Il a publié… Ses livres parlent de…"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Présenter l’auteur**, c’est dire **qui il est** et **ce qu’il a écrit**.",
+      "La **biographie** raconte sa **vie** (nom, naissance, formation, métier).",
+      "La **bibliographie** est la **liste de ses œuvres**.",
+      "On cherche des informations fiables (quatrième de couverture, bibliothèque).",
+      "On rédige un court paragraphe, **au présent**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "La biographie et la bibliographie sont…",
+     "options": [
+      "identiques",
+      "deux choses différentes",
+      "des titres de livres",
+      "des dates"
+     ],
+     "answer": 1,
+     "explain": "Vie de l’auteur d’un côté, liste des œuvres de l’autre."
+    }
+   ]
+  }
+ ]
+}

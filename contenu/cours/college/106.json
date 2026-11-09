@@ -1,0 +1,462 @@
+{
+ "id": 106,
+ "meta": {
+  "t": "La lettre personnelle et la lettre formelle",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : écrire une lettre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ton cousin habite loin et tu veux lui donner de tes nouvelles : tu lui écris une lettre **personnelle**. Un autre jour, tu veux demander une autorisation au directeur de l’école : tu écris une lettre **formelle**. Chaque lettre a ses **règles**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les **parties** d’une lettre",
+      "Distinguer lettre **personnelle** et lettre **formelle**",
+      "Employer les **formules** adaptées"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La lettre",
+     "text": "La **lettre** est un **message écrit** adressé à une personne. Elle comprend le **lieu et la date**, une **formule d’appel**, un **corps** (le message), une **formule finale** et une **signature**."
+    },
+    {
+     "type": "table",
+     "title": "Deux sortes de lettres",
+     "head": [
+      "Lettre",
+      "À qui ?",
+      "Ton"
+     ],
+     "rows": [
+      [
+       "personnelle",
+       "un **ami**, un **parent**",
+       "**familier**, chaleureux"
+      ],
+      [
+       "formelle (administrative)",
+       "un **directeur**, une **autorité**",
+       "**poli**, soutenu"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Une lettre au directeur de l’école est…",
+     "options": [
+      "personnelle",
+      "formelle",
+      "un poème",
+      "un conte"
+     ],
+     "answer": 1,
+     "explain": "On s’adresse à une autorité : ton formel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Personnelle (P) ou formelle (F) ?",
+     "items": [
+      "Une lettre à ma grand-mère.",
+      "Une demande d’autorisation au directeur.",
+      "Une lettre à mon meilleur ami."
+     ],
+     "corrige": [
+      "P",
+      "F",
+      "P"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les parties d’une lettre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Toute lettre est organisée de la **même façon**."
+    },
+    {
+     "type": "table",
+     "title": "La structure d’une lettre",
+     "head": [
+      "Partie",
+      "Contenu",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**lieu et date**",
+       "en haut, à **droite**",
+       "Brazzaville, le 8 novembre 2026"
+      ],
+      [
+       "**formule d’appel**",
+       "pour saluer, suivie d’une **virgule**",
+       "Cher Jean, / Madame la directrice,"
+      ],
+      [
+       "**corps** de la lettre",
+       "le message, en **paragraphes**",
+       "Je t’écris pour…"
+      ],
+      [
+       "**formule finale**",
+       "pour conclure poliment",
+       "Je t’embrasse. / Je vous prie d’agréer…"
+      ],
+      [
+       "**signature**",
+       "le **nom** de l’expéditeur",
+       "Paul Mouanda"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le lieu et la date",
+     "text": "On écrit le **lieu** avec une **majuscule**, le **mois** avec une **minuscule** : *Brazzaville, le 8 novembre 2026*."
+    },
+    {
+     "type": "quiz",
+     "question": "Où place-t-on le lieu et la date ?",
+     "options": [
+      "en haut, à droite",
+      "en bas, à gauche",
+      "au milieu",
+      "à la fin du texte"
+     ],
+     "answer": 0,
+     "explain": "Le lieu et la date sont en haut à droite."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets dans l’ordre : signature, corps, lieu et date, formule d’appel, formule finale.",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "lieu et date, formule d’appel, corps, formule finale, signature"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La lettre personnelle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une lettre **personnelle**, on écrit comme on **parle** à un proche : avec **chaleur** et **sincérité**."
+    },
+    {
+     "type": "table",
+     "title": "Formules de la lettre personnelle",
+     "head": [
+      "Partie",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**appel**",
+       "Cher Jean, / Chère maman, / Mon cher cousin,"
+      ],
+      [
+       "**début**",
+       "Comment vas-tu ? Je t’écris pour te donner de mes nouvelles."
+      ],
+      [
+       "**fin**",
+       "Je t’embrasse. / Écris-moi vite. / À bientôt."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Brazzaville, le 8 novembre 2026\nCher Jean,\nComment vas-tu ? Moi, je vais bien. Hier, j’ai gagné le match de football avec mon équipe. Écris-moi vite !\nJe t’embrasse.\nPaul"
+    },
+    {
+     "type": "tip",
+     "label": "Le ton",
+     "text": "On peut dire **tu**, employer des mots **simples** et parler de ses **sentiments**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle formule convient à une lettre personnelle ?",
+     "options": [
+      "Je vous prie d’agréer…",
+      "Je t’embrasse.",
+      "Veuillez recevoir…",
+      "Respectueusement"
+     ],
+     "answer": 1,
+     "explain": "« Je t’embrasse » est une formule affectueuse."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une formule d’appel pour : ta grand-mère ; ton ami Jean.",
+     "items": [
+      "Appel"
+     ],
+     "corrige": [
+      "Chère grand-mère, / Cher Jean,"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La lettre formelle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une lettre **formelle**, on emploie le **vouvoiement** et un **langage poli**. On précise souvent l’**objet** de la lettre."
+    },
+    {
+     "type": "table",
+     "title": "La lettre formelle",
+     "head": [
+      "Partie",
+      "Contenu / exemple"
+     ],
+     "rows": [
+      [
+       "**expéditeur**",
+       "nom et adresse, en haut à **gauche**"
+      ],
+      [
+       "**destinataire**",
+       "nom et titre, en haut à **droite**"
+      ],
+      [
+       "**objet**",
+       "le sujet : *Objet : demande d’autorisation*"
+      ],
+      [
+       "**appel**",
+       "Madame la directrice, / Monsieur le directeur,"
+      ],
+      [
+       "**formule finale**",
+       "Je vous prie d’agréer, Madame, l’expression de mes salutations distinguées."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Madame la directrice, / Je viens respectueusement vous demander l’autorisation de m’absenter jeudi pour raison familiale. / Je vous prie d’agréer, Madame, l’expression de mes salutations respectueuses."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de familiarité",
+     "text": "Dans une lettre formelle, on **vouvoie**, on n’emploie **pas** de mots familiers et on **n’écrit pas** « Je t’embrasse »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle formule convient à une lettre au directeur ?",
+     "options": [
+      "Salut !",
+      "Je vous prie d’agréer mes salutations distinguées.",
+      "Bisous",
+      "À plus"
+     ],
+     "answer": 1,
+     "explain": "Elle est polie et adaptée à une autorité."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les expressions adaptées à une lettre formelle.",
+     "items": [
+      "Monsieur le directeur,",
+      "Salut !",
+      "Je vous prie d’agréer…",
+      "Je t’embrasse."
+     ],
+     "corrige": [
+      "Monsieur le directeur,",
+      "Je vous prie d’agréer…"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Bien présenter sa lettre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une lettre bien **présentée** se lit **facilement**."
+    },
+    {
+     "type": "table",
+     "title": "Conseils de présentation",
+     "head": [
+      "Conseil",
+      "Pourquoi ?"
+     ],
+     "rows": [
+      [
+       "écrire **proprement**",
+       "pour être lisible"
+      ],
+      [
+       "laisser des **marges**",
+       "pour aérer la page"
+      ],
+      [
+       "faire des **paragraphes**",
+       "pour séparer les idées"
+      ],
+      [
+       "**relire** pour corriger les fautes",
+       "pour être sérieux"
+      ],
+      [
+       "bien **adresser** l’enveloppe",
+       "pour que la lettre arrive"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les erreurs à éviter",
+     "text": "Oublier la **date**, la **signature** ou la **formule de politesse** ; mélanger **tu** et **vous**."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi relire sa lettre ?",
+     "options": [
+      "pour la rendre plus longue",
+      "pour corriger les fautes",
+      "pour l’oublier",
+      "pour la plier"
+     ],
+     "answer": 1,
+     "explain": "La relecture permet de corriger."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les bonnes habitudes.",
+     "items": [
+      "Relire sa lettre.",
+      "Oublier de signer.",
+      "Faire des paragraphes.",
+      "Mélanger tu et vous."
+     ],
+     "corrige": [
+      "Relire sa lettre.",
+      "Faire des paragraphes."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **complète**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la partie de la lettre.",
+     "items": [
+      "Brazzaville, le 8 novembre 2026",
+      "Cher Jean,",
+      "Je t’embrasse.",
+      "Paul"
+     ],
+     "corrige": [
+      "lieu et date",
+      "formule d’appel",
+      "formule finale",
+      "signature"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans une lettre formelle, on emploie…",
+     "options": [
+      "tu",
+      "vous",
+      "des abréviations familières",
+      "des smileys"
+     ],
+     "answer": 1,
+     "explain": "On vouvoie le destinataire."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète la lettre avec : Brazzaville, Cher, Je t’embrasse.",
+     "items": [
+      "… , le 12 mars 2026",
+      "… Jean,",
+      "Merci pour ton cadeau. …"
+     ],
+     "corrige": [
+      "Brazzaville, le 12 mars 2026",
+      "Cher Jean,",
+      "Merci pour ton cadeau. Je t’embrasse."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une lettre à un ami pour l’inviter à ton anniversaire (quatre à cinq lignes).",
+     "items": [
+      "Lettre"
+     ],
+     "corrige": [
+      "Exemple : Brazzaville, le 8 novembre 2026. Cher Jean, Mon anniversaire a lieu samedi à quinze heures. Viens fêter ça avec nous ! Je t’embrasse. Paul"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Une lettre comprend : **lieu et date**, **appel**, **corps**, **formule finale**, **signature**.",
+      "Lettre **personnelle** : ton familier, on **tutoie**, *Je t’embrasse*.",
+      "Lettre **formelle** : ton poli, on **vouvoie**, *Je vous prie d’agréer…*",
+      "La lettre formelle précise l’**objet** et l’**adresse** de l’expéditeur et du destinataire.",
+      "Soigne la **présentation** et **relis**-toi."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle partie termine une lettre ?",
+     "options": [
+      "la date",
+      "la signature",
+      "l’appel",
+      "l’objet"
+     ],
+     "answer": 1,
+     "explain": "La signature se place à la fin."
+    }
+   ]
+  }
+ ]
+}

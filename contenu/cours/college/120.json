@@ -1,0 +1,374 @@
+{
+ "id": 120,
+ "meta": {
+  "t": "Le résumé de l’œuvre",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : raconter en peu de mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tu as lu un conte de dix pages. Ton ami te demande : « De quoi ça parle ? » Tu ne peux pas tout redire. Tu choisis l’**essentiel** : qui, où, quoi, comment cela finit. Tu fais un **résumé**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un **résumé**",
+      "Repérer l’**essentiel**",
+      "Rédiger un **résumé court et clair**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le résumé",
+     "text": "Le **résumé** raconte **l’essentiel** d’un texte ou d’une œuvre **en moins de mots**, avec **tes propres mots** et sans changer le sens."
+    },
+    {
+     "type": "quiz",
+     "question": "Un résumé est…",
+     "options": [
+      "plus long que l’œuvre",
+      "plus court que l’œuvre",
+      "identique à l’œuvre",
+      "un dessin"
+     ],
+     "answer": 1,
+     "explain": "Il est plus court."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Un résumé garde : a) l’essentiel b) tous les détails.",
+     "items": [
+      "Choix"
+     ],
+     "corrige": [
+      "a : l’essentiel"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Trouver l’essentiel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour résumer, on **trie** : on garde ce qui est **important**, on enlève le reste."
+    },
+    {
+     "type": "table",
+     "title": "À garder et à enlever",
+     "head": [
+      "On garde",
+      "On enlève"
+     ],
+     "rows": [
+      [
+       "les **personnages principaux**",
+       "les personnages secondaires peu utiles"
+      ],
+      [
+       "les **événements importants**",
+       "les petits détails"
+      ],
+      [
+       "le **dénouement** (la fin)",
+       "les descriptions longues"
+      ],
+      [
+       "les **liens de cause**",
+       "les dialogues complets"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les questions",
+     "text": "Pose-toi : **qui ? où ? quand ? que se passe-t-il ? comment cela finit-il ?**"
+    },
+    {
+     "type": "ex",
+     "text": "Texte long : un pêcheur part pêcher, il rencontre un orage, il survit grâce à sa pirogue. **Essentiel** : un pêcheur survit à un orage grâce à sa pirogue."
+    },
+    {
+     "type": "warn",
+     "label": "Pas d’avis",
+     "text": "Un résumé **ne contient pas ton opinion**. Tu dis seulement ce qui se passe."
+    },
+    {
+     "type": "quiz",
+     "question": "Que garde-t-on dans un résumé ?",
+     "options": [
+      "les détails inutiles",
+      "les événements importants",
+      "les dialogues entiers",
+      "tout"
+     ],
+     "answer": 1,
+     "explain": "On garde l’essentiel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Barre le détail inutile : « Le pêcheur partit (il portait une chemise bleue) et ramena un grand poisson. »",
+     "items": [
+      "Détail"
+     ],
+     "corrige": [
+      "il portait une chemise bleue"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les temps et les mots du résumé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour résumer un récit, on emploie le **présent de narration**."
+    },
+    {
+     "type": "table",
+     "title": "Règles d’écriture",
+     "head": [
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "écrire au **présent**",
+       "Le pêcheur part, il rencontre un orage."
+      ],
+      [
+       "écrire à la **3e personne**",
+       "il, elle, ils, elles"
+      ],
+      [
+       "relier avec des **connecteurs**",
+       "d’abord, puis, alors, finalement"
+      ],
+      [
+       "utiliser ses **propres mots**",
+       "sans recopier de phrases entières"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Texte** : « Il partit au lever du jour. » **Résumé** : Il part très tôt."
+    },
+    {
+     "type": "tip",
+     "label": "Les connecteurs",
+     "text": "**Au début** : « d’abord ». **Au milieu** : « puis, alors ». **À la fin** : « enfin, finalement »."
+    },
+    {
+     "type": "quiz",
+     "question": "Un résumé de récit s’écrit…",
+     "options": [
+      "au futur",
+      "au présent",
+      "à l’imparfait toujours",
+      "à l’impératif"
+     ],
+     "answer": 1,
+     "explain": "On emploie le présent de narration."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au présent : « Il traversa le fleuve et atteignit l’autre rive. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Il traverse le fleuve et atteint l’autre rive."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La longueur et la forme",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un bon résumé est **court** : environ **le quart** ou **le cinquième** de l’œuvre (pour un texte, une dizaine de lignes au plus)."
+    },
+    {
+     "type": "list",
+     "label": "Les critères",
+     "items": [
+      "un **seul paragraphe** (ou deux)",
+      "des phrases **courtes**",
+      "pas de **répétitions**",
+      "un **ordre** respecté : début, milieu, fin"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Résumé** : Un jeune pêcheur part seul sur le fleuve. Pris dans un orage, il perd ses filets, mais sa pirogue résiste. Il rentre au village, plus prudent et plus fier."
+    },
+    {
+     "type": "tip",
+     "label": "Les trois temps",
+     "text": "Pense à **trois temps** : la **situation**, le **problème**, la **fin**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un résumé de roman est…",
+     "options": [
+      "très long",
+      "court",
+      "en vers",
+      "un tableau"
+     ],
+     "answer": 1,
+     "explain": "Il est bref."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Combien de parties dans un résumé : situation, problème, fin ?",
+     "items": [
+      "Nombre"
+     ],
+     "corrige": [
+      "Trois parties."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un résumé pas à pas",
+   "blocs": [
+    {
+     "type": "list",
+     "label": "La méthode",
+     "items": [
+      "Je **lis** le texte en entier.",
+      "Je **souligne** les idées importantes.",
+      "Je **note** les événements dans l’ordre.",
+      "J’**écris** avec mes mots, au présent.",
+      "Je **relis** et je vérifie la longueur."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "**Conte** : la tortue et l’antilope se défient à la course. **Étapes** : (1) le défi ; (2) l’antilope se repose, la tortue avance ; (3) la tortue arrive la première. **Résumé** : La tortue défie l’antilope. Sûre d’elle, l’antilope se repose, mais la tortue avance sans s’arrêter et gagne la course."
+    },
+    {
+     "type": "tip",
+     "label": "Se corriger",
+     "text": "Relis ton résumé : manque-t-il quelque chose d’important ? A-t-il une idée inutile ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on en premier ?",
+     "options": [
+      "écrire",
+      "lire le texte entier",
+      "corriger",
+      "compter les mots"
+     ],
+     "answer": 1,
+     "explain": "On lit d’abord."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Résume en deux phrases : « Awa perd son cahier. Elle le cherche partout. Moussa le retrouve dans la cour et le lui rend. »",
+     "items": [
+      "Résumé"
+     ],
+     "corrige": [
+      "Awa perd son cahier. Moussa le retrouve dans la cour et le lui rend."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Un résumé ne contient pas…",
+     "options": [
+      "l’essentiel",
+      "d’avis personnel",
+      "d’ordre",
+      "de verbes"
+     ],
+     "answer": 1,
+     "explain": "Il ne donne pas d’opinion."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : trier"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Garde l’essentiel : a) Le chasseur part. b) Il porte un grand chapeau. c) Il tue un lion.",
+     "items": [
+      "Phrases à garder"
+     ],
+     "corrige": [
+      "a et c"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Résume en trois phrases un conte que tu connais.",
+     "items": [
+      "Résumé"
+     ],
+     "corrige": [
+      "Exemple : Un lièvre se moque de la tortue. Elle le défie à la course. La tortue gagne par sa persévérance."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **résumé** dit **l’essentiel** en peu de mots.",
+      "On garde les **événements importants** et on enlève les détails.",
+      "On écrit **au présent**, **avec ses mots**, à la **3e personne**.",
+      "On utilise des **connecteurs** : d’abord, puis, enfin.",
+      "On **ne donne pas son avis**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un bon résumé est…",
+     "options": [
+      "plus long que le texte",
+      "court et fidèle",
+      "un commentaire",
+      "un dessin"
+     ],
+     "answer": 1,
+     "explain": "Il est bref et fidèle."
+    }
+   ]
+  }
+ ]
+}

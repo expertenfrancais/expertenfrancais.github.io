@@ -1,0 +1,616 @@
+{
+ "id": 97,
+ "meta": {
+  "t": "Les subordonnées circonstancielles de cause et de conséquence",
+  "k": "Cours",
+  "n": "4e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "La cause et la conséquence",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Comme il pleuvait, nous sommes restés à la maison. » « Il pleuvait si fort que nous sommes restés à la maison. » Ces deux phrases parlent de la **pluie** et du fait de **rester à la maison**. Dans la première, on explique la **cause**. Dans la seconde, on exprime la **conséquence**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître une subordonnée de cause et une subordonnée de conséquence",
+      "Connaître les conjonctions qui les introduisent",
+      "Choisir le bon mode (indicatif ou subjonctif)"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La cause",
+     "text": "La **cause** explique **pourquoi** un fait a lieu. Elle répond à la question **Pourquoi ?**"
+    },
+    {
+     "type": "def",
+     "label": "La conséquence",
+     "text": "La **conséquence** est le **résultat** d’un fait. Elle répond à la question **Avec quel résultat ?**"
+    },
+    {
+     "type": "table",
+     "title": "Cause et conséquence",
+     "head": [
+      "Notion",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "cause",
+       "Pourquoi ?",
+       "Nous sommes restés **parce qu’il pleuvait**."
+      ],
+      [
+       "conséquence",
+       "Avec quel résultat ?",
+       "Il pleuvait **si fort que nous sommes restés**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a faim parce qu’il n’a pas mangé. », que exprime « parce qu’il n’a pas mangé » ?",
+     "options": [
+      "la cause",
+      "la conséquence",
+      "le but",
+      "le temps"
+     ],
+     "answer": 0,
+     "explain": "Elle explique pourquoi il a faim : c’est la cause."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Cause (C) ou conséquence (CQ) ?",
+     "items": [
+      "Il est en retard parce qu’il a raté le bus.",
+      "Il a tellement couru qu’il est épuisé.",
+      "Comme il fait chaud, j’ai soif."
+     ],
+     "corrige": [
+      "C",
+      "CQ",
+      "C"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La proposition subordonnée circonstancielle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une **proposition subordonnée circonstancielle** apporte une **précision** sur la **principale** : le temps, la cause, la conséquence, le but…"
+    },
+    {
+     "type": "def",
+     "label": "La subordonnée circonstancielle",
+     "text": "La **subordonnée circonstancielle** est **introduite** par une **conjonction de subordination** (*parce que, comme, si bien que…*). Elle joue le rôle d’un **complément circonstanciel** de la proposition principale."
+    },
+    {
+     "type": "table",
+     "title": "Reconnaître une circonstancielle",
+     "head": [
+      "Critère",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "introduite par une conjonction",
+       "**parce que** tu viens"
+      ],
+      [
+       "supprimable",
+       "Je suis content (parce que tu viens)."
+      ],
+      [
+       "déplaçable",
+       "**Parce que tu viens**, je suis content."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je suis content **parce que tu viens**. — **Parce que tu viens**, je suis content."
+    },
+    {
+     "type": "tip",
+     "label": "Supprimer et déplacer",
+     "text": "Une subordonnée circonstancielle peut **souvent** être **supprimée** ou **déplacée** sans que la phrase ne devienne incorrecte."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Comme il pleut, nous restons. », quelle est la conjonction de subordination ?",
+     "options": [
+      "il",
+      "comme",
+      "nous",
+      "restons"
+     ],
+     "answer": 1,
+     "explain": "« Comme » introduit la subordonnée de cause."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la conjonction de subordination.",
+     "items": [
+      "Je reste parce que j’ai peur.",
+      "Comme il fait nuit, nous rentrons.",
+      "Il court si vite que personne ne le rattrape."
+     ],
+     "corrige": [
+      "parce que",
+      "Comme",
+      "si … que"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La subordonnée circonstancielle de cause",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La subordonnée de **cause** explique **pourquoi** l’action de la principale a lieu. Elle est introduite par des **conjonctions de cause**."
+    },
+    {
+     "type": "table",
+     "title": "Conjonctions de cause",
+     "head": [
+      "Conjonction",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "parce que",
+       "cause **nouvelle**, répond à *pourquoi ?*",
+       "Il pleure **parce qu’**il a mal."
+      ],
+      [
+       "puisque",
+       "cause **déjà connue** ou évidente",
+       "**Puisque** tu es là, aide-moi."
+      ],
+      [
+       "comme",
+       "en **début de phrase**",
+       "**Comme** il pleuvait, nous sommes restés."
+      ],
+      [
+       "étant donné que, vu que",
+       "cause **connue**, registre soutenu",
+       "**Vu que** tu es malade, reste chez toi."
+      ],
+      [
+       "sous prétexte que",
+       "fausse cause",
+       "Il est parti **sous prétexte qu’**il était fatigué."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je reste à la maison **parce qu’**il pleut. — **Comme** tu es en retard, nous partons."
+    },
+    {
+     "type": "tip",
+     "label": "Le mode",
+     "text": "Après **parce que, puisque, comme, vu que**, le verbe est à l’**indicatif** : *parce qu’il **pleut***."
+    },
+    {
+     "type": "warn",
+     "label": "Parce que, puisque, comme",
+     "text": "**Parce que** donne une cause **inconnue** de l’interlocuteur. **Puisque** donne une cause **déjà connue**. **Comme** se place **au début** de la phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction convient : « … il pleut, nous restons. » (en début de phrase)",
+     "options": [
+      "Parce que",
+      "Comme",
+      "Si bien que",
+      "Pour que"
+     ],
+     "answer": 1,
+     "explain": "Comme s’emploie en début de phrase pour introduire la cause."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec parce que, puisque ou comme.",
+     "items": [
+      "Il pleure … il a mal.",
+      "… tu es là, aide-moi.",
+      "… il pleuvait, nous sommes restés."
+     ],
+     "corrige": [
+      "Il pleure parce qu’il a mal.",
+      "Puisque tu es là, aide-moi.",
+      "Comme il pleuvait, nous sommes restés."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La subordonnée circonstancielle de conséquence",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La subordonnée de **conséquence** exprime le **résultat** de ce qui est dit dans la principale. Elle est introduite par des **conjonctions** ou des **systèmes corrélatifs** (*si … que, tellement … que*)."
+    },
+    {
+     "type": "table",
+     "title": "Conjonctions de conséquence",
+     "head": [
+      "Expression",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "si … que",
+       "Il est **si** fatigué **qu’**il s’endort."
+      ],
+      [
+       "tellement … que",
+       "Il a **tellement** couru **qu’**il est épuisé."
+      ],
+      [
+       "tant … que",
+       "Il a **tant** mangé **qu’**il a mal au ventre."
+      ],
+      [
+       "si bien que",
+       "Il a plu, **si bien que** la route est inondée."
+      ],
+      [
+       "de sorte que",
+       "Il a plu, **de sorte que** la route est coupée."
+      ],
+      [
+       "au point que",
+       "Il a ri **au point qu’**il pleurait."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le bruit était **tel** **que** nous n’avons pas dormi. — Il pleuvait **tellement que** le fleuve a débordé."
+    },
+    {
+     "type": "tip",
+     "label": "Le mode",
+     "text": "La conséquence **réelle** est à l’**indicatif** : *si bien que la route **est** inondée*. Avec **assez … pour que** et **trop … pour que**, on emploie le **subjonctif** : *Il est trop tard pour que nous **partions**.*"
+    },
+    {
+     "type": "warn",
+     "label": "De sorte que",
+     "text": "**De sorte que** + **indicatif** exprime une **conséquence** ; **de sorte que** + **subjonctif** exprime un **but**. Ne pas confondre."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a tellement mangé qu’il a mal au ventre. », « qu’il a mal au ventre » exprime…",
+     "options": [
+      "la cause",
+      "la conséquence",
+      "le but",
+      "la condition"
+     ],
+     "answer": 1,
+     "explain": "C’est le résultat de « tellement mangé » : la conséquence."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la subordonnée de conséquence.",
+     "items": [
+      "Il pleut si fort que la route est inondée.",
+      "Il a tant couru qu’il est épuisé.",
+      "Le bruit était tel que nous n’avons pas dormi."
+     ],
+     "corrige": [
+      "que la route est inondée",
+      "qu’il est épuisé",
+      "que nous n’avons pas dormi"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Distinguer la cause et la conséquence",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **cause** et la **conséquence** sont **liées**, mais **dans des sens opposés**. La cause **explique**, la conséquence **est le résultat**."
+    },
+    {
+     "type": "table",
+     "title": "Comment distinguer ?",
+     "head": [
+      "Question",
+      "Si oui…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Peut-on ajouter « pourquoi ? »",
+       "c’est la **cause**",
+       "Il pleure (pourquoi ?) **parce qu’il a mal**."
+      ],
+      [
+       "Peut-on dire « avec quel résultat ? »",
+       "c’est la **conséquence**",
+       "Il a mal (résultat ?) **si bien qu’il pleure**."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Même fait, deux constructions",
+     "head": [
+      "Cause",
+      "Conséquence"
+     ],
+     "rows": [
+      [
+       "Il est malade **parce qu’**il a trop mangé.",
+       "Il a trop mangé **si bien qu’**il est malade."
+      ],
+      [
+       "**Comme** il pleut, nous restons.",
+       "Il pleut **tellement que** nous restons."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Cause : Il est en retard **parce qu’**il a raté le bus. → Conséquence : Il a raté le bus, **si bien qu’**il est en retard."
+    },
+    {
+     "type": "tip",
+     "label": "Cause avant, conséquence après",
+     "text": "Dans la réalité, la **cause** **précède** et la **conséquence** **suit** : *Il pleut (cause) → nous restons (conséquence).*"
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "*Il pleure parce qu’il a mal* (**cause** de ses pleurs). *Il a mal si bien qu’il pleure* (**conséquence** du mal)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase exprime une conséquence ?",
+     "options": [
+      "Il pleure parce qu’il a mal.",
+      "Comme il a mal, il pleure.",
+      "Il a si mal qu’il pleure.",
+      "Puisqu’il a mal, il pleure."
+     ],
+     "answer": 2,
+     "explain": "« Si … que » exprime la conséquence."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme la cause en conséquence (avec « si bien que »).",
+     "items": [
+      "Il est fatigué parce qu’il a trop travaillé.",
+      "Je suis en retard parce que j’ai raté le bus."
+     ],
+     "corrige": [
+      "Il a trop travaillé, si bien qu’il est fatigué.",
+      "J’ai raté le bus, si bien que je suis en retard."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "D’autres moyens d’exprimer la cause et la conséquence",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut aussi exprimer la **cause** ou la **conséquence** sans subordonnée, avec des **conjonctions de coordination**, des **adverbes** ou la **juxtaposition**."
+    },
+    {
+     "type": "table",
+     "title": "Autres moyens",
+     "head": [
+      "Valeur",
+      "Expressions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "cause",
+       "car, en effet, puisque",
+       "Je reste, **car** il pleut. — Il pleut. **En effet**, le ciel est noir."
+      ],
+      [
+       "conséquence",
+       "donc, alors, aussi, c’est pourquoi, par conséquent",
+       "Il pleut, **donc** nous restons."
+      ],
+      [
+       "juxtaposition",
+       "deux-points, virgule",
+       "Il pleut : nous restons."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il a raté son bus ; **par conséquent**, il est en retard. — Je ne viens pas, **car** je suis malade."
+    },
+    {
+     "type": "tip",
+     "label": "Car, donc",
+     "text": "**Car** introduit une **cause** (coordination) ; **donc** introduit une **conséquence**."
+    },
+    {
+     "type": "warn",
+     "label": "Parce que ≠ car",
+     "text": "*Parce que* introduit une **subordonnée** (elle peut se placer devant). *Car* **coordonne** et ne peut pas commencer la phrase : « Car il pleut, nous restons » est **incorrect**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot exprime une conséquence ?",
+     "options": [
+      "car",
+      "donc",
+      "puisque",
+      "parce que"
+     ],
+     "answer": 1,
+     "explain": "Donc introduit la conséquence."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec car ou donc.",
+     "items": [
+      "Il pleut, … nous restons.",
+      "Nous restons, … il pleut.",
+      "Il a faim, … il mange."
+     ],
+     "corrige": [
+      "Il pleut, donc nous restons.",
+      "Nous restons, car il pleut.",
+      "Il a faim, donc il mange."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **complète**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si la subordonnée exprime la cause (C) ou la conséquence (CQ).",
+     "items": [
+      "Il est parti parce qu’il était fatigué.",
+      "Il est si fatigué qu’il s’endort.",
+      "Comme il pleuvait, nous sommes restés.",
+      "Il a tellement ri qu’il pleurait."
+     ],
+     "corrige": [
+      "C",
+      "CQ",
+      "C",
+      "CQ"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction exprime la conséquence ?",
+     "options": [
+      "parce que",
+      "puisque",
+      "si bien que",
+      "comme"
+     ],
+     "answer": 2,
+     "explain": "« Si bien que » introduit une subordonnée de conséquence."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la conjonction qui convient (parce que, puisque, comme, si bien que, tellement … que).",
+     "items": [
+      "… il fait nuit, rentrons.",
+      "Il a … faim … il mange tout.",
+      "Je reste … je suis malade.",
+      "Il pleut, … nous annulons le match."
+     ],
+     "corrige": [
+      "Puisqu’il fait nuit, rentrons.",
+      "Il a tellement faim qu’il mange tout.",
+      "Je reste parce que je suis malade.",
+      "Il pleut, si bien que nous annulons le match."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase de cause et une phrase de conséquence à partir du fait : « Le village est inondé. »",
+     "items": [
+      "Cause",
+      "Conséquence"
+     ],
+     "corrige": [
+      "Exemple : Le village est inondé parce que le fleuve a débordé.",
+      "Exemple : Le fleuve a tellement débordé que le village est inondé."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **cause** répond à **Pourquoi ?** ; la **conséquence** répond à **Avec quel résultat ?**",
+      "Conjonctions de **cause** : **parce que, puisque, comme, vu que, étant donné que** (+ indicatif).",
+      "Conjonctions de **conséquence** : **si … que, tellement … que, tant … que, si bien que, de sorte que, au point que** (+ indicatif).",
+      "**Assez … pour que**, **trop … pour que** : subjonctif.",
+      "**Car** (cause) et **donc** (conséquence) sont des conjonctions de **coordination**.",
+      "La cause **précède** la conséquence dans la réalité."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Cause et conséquence",
+     "head": [
+      "Cause",
+      "Conséquence"
+     ],
+     "rows": [
+      [
+       "parce que, puisque, comme",
+       "si bien que, de sorte que"
+      ],
+      [
+       "car, en effet",
+       "donc, par conséquent, c’est pourquoi"
+      ],
+      [
+       "Il pleure parce qu’il a mal.",
+       "Il a si mal qu’il pleure."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Car il pleut, nous restons.",
+      "Comme il pleut, nous restons.",
+      "Donc il pleut, nous restons.",
+      "Si bien il pleut, nous restons."
+     ],
+     "answer": 1,
+     "explain": "« Comme » peut introduire une subordonnée de cause en début de phrase ; « car » ne le peut pas."
+    }
+   ]
+  }
+ ]
+}

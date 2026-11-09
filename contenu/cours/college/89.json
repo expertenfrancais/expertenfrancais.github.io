@@ -1,0 +1,534 @@
+{
+ "id": 89,
+ "meta": {
+  "t": "La distinction entre leur et leurs",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Deux mots, deux emplois",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je **leur** donne **leurs** cahiers. » Dans cette phrase, on trouve **leur** et **leurs**, mais ils ne jouent **pas** le même rôle. Le premier est un **pronom**, le second est un **déterminant**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître **leur** pronom personnel et **leur(s)** déterminant possessif",
+      "Savoir quand ajouter le **-s**",
+      "Utiliser des astuces pour ne plus se tromper"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "leur, pronom personnel",
+     "text": "**Leur** est un **pronom personnel** complément. Il remplace **à eux, à elles**. Il se place **devant un verbe** et ne prend **jamais de -s**."
+    },
+    {
+     "type": "def",
+     "label": "leur(s), déterminant possessif",
+     "text": "**Leur** ou **leurs** est un **déterminant possessif**. Il se place **devant un nom** et indique que ce nom appartient à **plusieurs personnes**. Il s’accorde avec le **nom**."
+    },
+    {
+     "type": "table",
+     "title": "Comparer",
+     "head": [
+      "Mot",
+      "Nature",
+      "Place",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "leur",
+       "pronom personnel",
+       "devant un **verbe**",
+       "Je **leur** parle."
+      ],
+      [
+       "leur",
+       "déterminant possessif",
+       "devant un **nom** singulier",
+       "Ils aiment **leur** village."
+      ],
+      [
+       "leurs",
+       "déterminant possessif",
+       "devant un **nom** pluriel",
+       "Ils aiment **leurs** voisins."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il leur écrit une lettre. », que représente « leur » ?",
+     "options": [
+      "un déterminant",
+      "un pronom personnel",
+      "un nom",
+      "un adjectif"
+     ],
+     "answer": 1,
+     "explain": "« Leur » est devant le verbe « écrit » et remplace « à eux » : c’est un pronom."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si « leur » est un pronom (P) ou un déterminant (D).",
+     "items": [
+      "Je leur prête mon livre.",
+      "Ils rangent leur chambre.",
+      "Elle leur sourit.",
+      "Les enfants ont perdu leur ballon."
+     ],
+     "corrige": [
+      "P",
+      "D",
+      "P",
+      "D"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Leur, pronom personnel : toujours sans « s »",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le pronom **leur** remplace un groupe introduit par **à** et représentant des **personnes** : *à eux, à elles*. Il est **invariable**."
+    },
+    {
+     "type": "table",
+     "title": "Remplacer par un pronom",
+     "head": [
+      "Phrase",
+      "Avec le pronom leur"
+     ],
+     "rows": [
+      [
+       "Je parle **aux élèves**.",
+       "Je **leur** parle."
+      ],
+      [
+       "Il donne du pain **aux enfants**.",
+       "Il **leur** donne du pain."
+      ],
+      [
+       "Elle téléphone **à ses amies**.",
+       "Elle **leur** téléphone."
+      ],
+      [
+       "Nous obéissons **aux parents**.",
+       "Nous **leur** obéissons."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **leur** ai dit la vérité. — Le maître **leur** explique la leçon. — Tu **leur** as répondu ?"
+    },
+    {
+     "type": "tip",
+     "label": "L’astuce du remplacement",
+     "text": "Remplace **leur** par **lui** : si la phrase reste correcte, c’est le **pronom** (*Je leur parle → Je **lui** parle*). Il ne prend **jamais** de **-s**."
+    },
+    {
+     "type": "warn",
+     "label": "Jamais de s",
+     "text": "On n’écrit **jamais** « Je leurs parle ». Le pronom **leur** reste **invariable**, même s’il remplace plusieurs personnes."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je leurs parle souvent.",
+      "Je leur parle souvent.",
+      "Je leures parle souvent.",
+      "Je leurs parles souvent."
+     ],
+     "answer": 1,
+     "explain": "Le pronom leur est invariable : Je leur parle."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace le groupe en gras par le pronom « leur ».",
+     "items": [
+      "Je téléphone **à mes cousins**.",
+      "Il écrit **aux voisines**.",
+      "Nous donnons des fruits **aux oiseaux**.",
+      "Elle sourit **à ses élèves**."
+     ],
+     "corrige": [
+      "Je leur téléphone.",
+      "Il leur écrit.",
+      "Nous leur donnons des fruits.",
+      "Elle leur sourit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Leur et leurs, déterminants possessifs",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand **leur** ou **leurs** est placé **devant un nom**, c’est un **déterminant possessif**. On écrit **leur** devant un nom **singulier** et **leurs** devant un nom **pluriel**."
+    },
+    {
+     "type": "table",
+     "title": "Accord avec le nom",
+     "head": [
+      "Nom",
+      "Déterminant",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "singulier",
+       "**leur**",
+       "**leur** maison, **leur** ami"
+      ],
+      [
+       "pluriel",
+       "**leurs**",
+       "**leurs** maisons, **leurs** amis"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Les enfants gardent **leur** calme. — Les élèves rangent **leurs** cahiers. — Elles aiment **leur** village et **leurs** voisins."
+    },
+    {
+     "type": "tip",
+     "label": "L’astuce du remplacement",
+     "text": "Remplace **leur(s)** par **son, sa, ses** : *leur maison → **sa** maison* ; *leurs amis → **ses** amis*. Si c’est possible, c’est un déterminant ; il s’accorde avec le **nom**."
+    },
+    {
+     "type": "warn",
+     "label": "Un seul possesseur ?",
+     "text": "Si un seul possesseur, on écrit **son, sa, ses**, pas **leur** : *Paul range **sa** chambre*, mais *Paul et Marie rangent **leur** chambre*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Les filles ont mis leur robes.",
+      "Les filles ont mis leurs robes.",
+      "Les filles ont mis leurs robe.",
+      "Les filles ont mis leures robes."
+     ],
+     "answer": 1,
+     "explain": "« Robes » est au pluriel : on écrit leurs."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris leur ou leurs.",
+     "items": [
+      "Les garçons ont perdu … ballon.",
+      "Les voisins arrosent … fleurs.",
+      "Les élèves écoutent … maître.",
+      "Les chasseurs prennent … fusils."
+     ],
+     "corrige": [
+      "Les garçons ont perdu leur ballon.",
+      "Les voisins arrosent leurs fleurs.",
+      "Les élèves écoutent leur maître.",
+      "Les chasseurs prennent leurs fusils."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les phrases pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une même phrase, on peut trouver **leur pronom** et **leur(s) déterminant**. Il faut les **distinguer**."
+    },
+    {
+     "type": "table",
+     "title": "Phrases avec les deux",
+     "head": [
+      "Phrase",
+      "Analyse"
+     ],
+     "rows": [
+      [
+       "Je **leur** donne **leurs** cahiers.",
+       "leur = pronom ; leurs = déterminant (devant « cahiers »)"
+      ],
+      [
+       "Elle **leur** prête **leur** livre.",
+       "leur = pronom ; leur = déterminant (devant « livre »)"
+      ],
+      [
+       "Nous **leur** montrons **leurs** erreurs.",
+       "leur = pronom ; leurs = déterminant (devant « erreurs »)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le maître **leur** rend **leurs** copies."
+    },
+    {
+     "type": "tip",
+     "label": "Une méthode en deux temps",
+     "text": "1) Regarde ce qui suit **leur** : un **verbe** (pronom, pas de s) ou un **nom** (déterminant). 2) Si c’est un nom, vérifie s’il est **singulier** (*leur*) ou **pluriel** (*leurs*)."
+    },
+    {
+     "type": "warn",
+     "label": "Leur devant un verbe",
+     "text": "Si **leur** est **devant un verbe**, il est **toujours sans s** : *Ils **leur** parlent. Je **leur** ai écrit.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il leur rend leurs livres. », quels sont les rôles de « leur » et « leurs » ?",
+     "options": [
+      "pronom et pronom",
+      "déterminant et déterminant",
+      "pronom et déterminant",
+      "déterminant et pronom"
+     ],
+     "answer": 2,
+     "explain": "« Leur » (devant « rend ») est un pronom ; « leurs » (devant « livres ») est un déterminant."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec leur ou leurs.",
+     "items": [
+      "Je … prête mes stylos.",
+      "Elle … rend … cahiers.",
+      "Nous … parlons de … projets.",
+      "Le maître … explique … erreurs."
+     ],
+     "corrige": [
+      "Je leur prête mes stylos.",
+      "Elle leur rend leurs cahiers.",
+      "Nous leur parlons de leurs projets.",
+      "Le maître leur explique leurs erreurs."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le leur, la leur, les leurs",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il existe aussi des **pronoms possessifs** : **le leur**, **la leur**, **les leurs**. Ils remplacent un **groupe nominal**. Ici, **leurs** prend un **-s** quand il remplace un **nom pluriel**."
+    },
+    {
+     "type": "table",
+     "title": "Les pronoms possessifs de la 3e personne du pluriel",
+     "head": [
+      "Nom remplacé",
+      "Pronom",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "masculin singulier",
+       "**le leur**",
+       "Notre village est grand, **le leur** est petit."
+      ],
+      [
+       "féminin singulier",
+       "**la leur**",
+       "Notre case est ici, **la leur** est là-bas."
+      ],
+      [
+       "pluriel",
+       "**les leurs**",
+       "Nos cahiers sont bleus, **les leurs** sont rouges."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Nous avons fini nos devoirs, mais ils n’ont pas fini **les leurs**."
+    },
+    {
+     "type": "tip",
+     "label": "Repère",
+     "text": "Dans **le leur, la leur, les leurs**, il y a toujours un **article** (*le, la, les*) devant **leur(s)** et **aucun nom** derrière."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "**Le leur** (avec un article) est un **pronom possessif**. **Leur** sans article, devant un verbe (*Je leur parle*), est un **pronom personnel** invariable."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un pronom possessif ?",
+     "options": [
+      "Il leur parle.",
+      "Ils aiment leur village.",
+      "Voici mon cahier, voici le leur.",
+      "Je vois leurs amis."
+     ],
+     "answer": 2,
+     "explain": "« Le leur » remplace « leur cahier » : c’est un pronom possessif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le leur, la leur ou les leurs.",
+     "items": [
+      "Voici nos chaises ; … sont là-bas.",
+      "Notre classe est grande, … est petite.",
+      "Mon cahier est vert, … est bleu."
+     ],
+     "corrige": [
+      "Voici nos chaises ; les leurs sont là-bas.",
+      "Notre classe est grande, la leur est petite.",
+      "Mon cahier est vert, le leur est bleu."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **complète**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la nature de « leur » ou « leurs » : pronom (P) ou déterminant (D).",
+     "items": [
+      "Je leur parle.",
+      "Ils ont ouvert leurs cahiers.",
+      "Elle leur sourit.",
+      "Ils aiment leur école."
+     ],
+     "corrige": [
+      "P",
+      "D",
+      "P",
+      "D"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je leurs ai répondu.",
+      "Je leur ai répondu.",
+      "Je leures ai répondu.",
+      "Je leur ais répondu."
+     ],
+     "answer": 1,
+     "explain": "Le pronom leur reste invariable."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris leur ou leurs.",
+     "items": [
+      "Je … prête mon vélo.",
+      "Ils ont pris … cartables.",
+      "Nous … avons dit la vérité.",
+      "Les élèves rangent … affaires.",
+      "Elle … rend … copies."
+     ],
+     "corrige": [
+      "Je leur prête mon vélo.",
+      "Ils ont pris leurs cartables.",
+      "Nous leur avons dit la vérité.",
+      "Les élèves rangent leurs affaires.",
+      "Elle leur rend leurs copies."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase avec « leur » pronom et une phrase avec « leurs » déterminant.",
+     "items": [
+      "Phrase 1 : leur pronom",
+      "Phrase 2 : leurs déterminant"
+     ],
+     "corrige": [
+      "Exemples : Je leur parle.",
+      "Ils aiment leurs voisins."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**leur** pronom personnel : devant un **verbe**, **sans -s** (*Je leur parle*). Test : *lui*.",
+      "**leur(s)** déterminant possessif : devant un **nom** ; **leur** (singulier) ou **leurs** (pluriel).",
+      "Test : remplacer par **son, sa, ses**.",
+      "**le leur, la leur, les leurs** : pronoms possessifs (*Voici le leur*).",
+      "Si **leur** est devant un verbe, **jamais de s**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Leur et leurs",
+     "head": [
+      "Mot",
+      "Devant…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "leur",
+       "un verbe",
+       "Je leur parle."
+      ],
+      [
+       "leur",
+       "un nom singulier",
+       "leur maison"
+      ],
+      [
+       "leurs",
+       "un nom pluriel",
+       "leurs maisons"
+      ],
+      [
+       "les leurs",
+       "pas de nom",
+       "Voici les leurs."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je leur donne leurs livres.",
+      "Je leurs donne leur livres.",
+      "Je leur donne leur livres.",
+      "Je leurs donne leurs livres."
+     ],
+     "answer": 0,
+     "explain": "Le premier « leur » est un pronom (invariable), « leurs » est devant « livres » (pluriel)."
+    }
+   ]
+  }
+ ]
+}

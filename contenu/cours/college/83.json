@@ -1,0 +1,807 @@
+{
+ "id": 83,
+ "meta": {
+  "t": "L’impératif présent",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "À quoi sert l’impératif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant d’aller à l’école, maman te dit : « **Lave-toi**, **mange** ton petit déjeuner et **prends** ton cartable. » Ces verbes expriment un **ordre**. Ils sont à l’**impératif présent**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître l’impératif dans une phrase",
+      "Conjuguer les verbes à l’impératif présent",
+      "Employer l’impératif pour donner un ordre, un conseil ou une consigne"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "L’impératif",
+     "text": "L’**impératif** est un **mode** qui sert à **donner un ordre**, un **conseil**, une **consigne** ou à faire une **demande**. Il se conjugue **sans pronom sujet**."
+    },
+    {
+     "type": "table",
+     "title": "Ce que peut exprimer l’impératif",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "un ordre",
+       "**Range** ta chambre !"
+      ],
+      [
+       "un conseil",
+       "**Bois** de l’eau, c’est bon pour la santé."
+      ],
+      [
+       "une défense",
+       "**Ne cours pas** dans la classe."
+      ],
+      [
+       "une prière, une demande",
+       "**Aide**-moi, s’il te plaît."
+      ],
+      [
+       "une consigne",
+       "**Recopiez** les phrases."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour le reconnaître",
+     "text": "À l’impératif, on **ne dit pas** le pronom sujet : on dit « **Mange** ! » et non « Tu mange ! »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase le verbe est-il à l’impératif ?",
+     "options": [
+      "Tu ouvres la porte.",
+      "Ouvre la porte.",
+      "Il ouvrait la porte.",
+      "Nous avons ouvert la porte."
+     ],
+     "answer": 1,
+     "explain": "« Ouvre la porte » est un ordre, sans pronom sujet : c’est l’impératif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les phrases qui contiennent un verbe à l’impératif.",
+     "items": [
+      "Prends ton cahier.",
+      "Je prends mon cahier.",
+      "Écoutez la maîtresse.",
+      "Ils écoutent le conte."
+     ],
+     "corrige": [
+      "Prends ton cahier.",
+      "Écoutez la maîtresse."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les personnes de l’impératif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’impératif présent n’a que **trois personnes**. Il n’a pas de 1re personne du singulier ni de 3e personne."
+    },
+    {
+     "type": "table",
+     "title": "Les trois personnes",
+     "head": [
+      "Personne",
+      "Qui parle à qui ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "2e personne du singulier (tu)",
+       "on parle à **une** personne",
+       "**Chante** !"
+      ],
+      [
+       "1re personne du pluriel (nous)",
+       "on s’inclut dans l’ordre",
+       "**Chantons** !"
+      ],
+      [
+       "2e personne du pluriel (vous)",
+       "on parle à **plusieurs** personnes ou par politesse",
+       "**Chantez** !"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Viens** ici ! — **Partons** avant la pluie. — **Fermez** vos cahiers."
+    },
+    {
+     "type": "def",
+     "label": "Le « nous » de l’impératif",
+     "text": "Avec **nous**, celui qui parle **fait partie du groupe** : « **Jouons** ensemble ! » veut dire « Jouez avec moi ! »"
+    },
+    {
+     "type": "tip",
+     "label": "Comme au présent",
+     "text": "Les formes de l’impératif sont presque les mêmes que celles du **présent** : *tu chantes → chante ; nous chantons → chantons ; vous chantez → chantez.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est à la 1re personne du pluriel de l’impératif ?",
+     "options": [
+      "Mangez",
+      "Mange",
+      "Mangeons",
+      "Mangeaient"
+     ],
+     "answer": 2,
+     "explain": "Mangeons correspond à « nous ». Mangez est la 2e personne du pluriel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la personne de chaque verbe à l’impératif.",
+     "items": [
+      "Lis ce texte.",
+      "Lisons ce texte.",
+      "Lisez ce texte.",
+      "Travaillons ensemble."
+     ],
+     "corrige": [
+      "tu",
+      "nous",
+      "vous",
+      "nous"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’impératif des verbes du 1er groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour conjuguer un verbe du **1er groupe** (en **-er**), on prend le **présent** et on **supprime le pronom sujet**. Mais à la 2e personne du singulier, on **enlève le -s**."
+    },
+    {
+     "type": "table",
+     "title": "Chanter à l’impératif",
+     "head": [
+      "Personne",
+      "Présent",
+      "Impératif"
+     ],
+     "rows": [
+      [
+       "tu",
+       "tu chantes",
+       "chant**e**"
+      ],
+      [
+       "nous",
+       "nous chantons",
+       "chant**ons**"
+      ],
+      [
+       "vous",
+       "vous chantez",
+       "chant**ez**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Écoute** la radio. — **Mangeons** du poisson. — **Regardez** le tableau."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de -s au 1er groupe",
+     "text": "On écrit **Mange** (et non « Manges ») ; **Parle** (et non « Parles »). Pareil avec *ouvrir, offrir, cueillir* : **ouvre, offre, cueille**."
+    },
+    {
+     "type": "tip",
+     "label": "Le -s qui revient",
+     "text": "Devant **y** et **en**, on **remet le -s** pour la prononciation : **Vas-y**, **Penses-y**, **Manges-en**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correctement écrite ?",
+     "options": [
+      "Parles plus fort.",
+      "Parle plus fort.",
+      "Parlent plus fort.",
+      "Parler plus fort."
+     ],
+     "answer": 1,
+     "explain": "À l’impératif, les verbes du 1er groupe perdent le -s à la 2e personne du singulier."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris les verbes à l’impératif présent, à la personne demandée.",
+     "items": [
+      "(tu) (porter) ce sac",
+      "(nous) (danser) ce soir",
+      "(vous) (fermer) la fenêtre",
+      "(tu) (ouvrir) la porte"
+     ],
+     "corrige": [
+      "Porte ce sac.",
+      "Dansons ce soir.",
+      "Fermez la fenêtre.",
+      "Ouvre la porte."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’impératif des verbes du 2e et du 3e groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour les verbes du **2e groupe** et du **3e groupe**, on suit la même méthode : on prend le **présent** sans le pronom. Le **-s** de la 2e personne du singulier **reste**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes à l’impératif",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "finir",
+       "finis",
+       "finissons",
+       "finissez"
+      ],
+      [
+       "prendre",
+       "prends",
+       "prenons",
+       "prenez"
+      ],
+      [
+       "partir",
+       "pars",
+       "partons",
+       "partez"
+      ],
+      [
+       "dire",
+       "dis",
+       "disons",
+       "dites"
+      ],
+      [
+       "faire",
+       "fais",
+       "faisons",
+       "faites"
+      ],
+      [
+       "venir",
+       "viens",
+       "venons",
+       "venez"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Finis** ton devoir. — **Prenons** le bus. — **Dites** la vérité. — **Faites** attention."
+    },
+    {
+     "type": "warn",
+     "label": "Dites et faites",
+     "text": "À la 2e personne du pluriel, **dire** et **faire** font **dites** et **faites** (et non « disez », « faisez »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte de « prendre » à la 2e personne du singulier ?",
+     "options": [
+      "Prend",
+      "Prends",
+      "Prendre",
+      "Prent"
+     ],
+     "answer": 1,
+     "explain": "Prendre est du 3e groupe : il conserve son -s à l’impératif : Prends."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris les verbes à l’impératif présent.",
+     "items": [
+      "(tu) (finir) ton assiette",
+      "(nous) (partir) tôt",
+      "(vous) (dire) bonjour",
+      "(tu) (faire) tes exercices"
+     ],
+     "corrige": [
+      "Finis ton assiette.",
+      "Partons tôt.",
+      "Dites bonjour.",
+      "Fais tes exercices."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Être, avoir, aller, savoir et vouloir",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quelques verbes très fréquents ont un impératif **particulier**. Il faut les apprendre par cœur."
+    },
+    {
+     "type": "table",
+     "title": "Les verbes irréguliers",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "être",
+       "sois",
+       "soyons",
+       "soyez"
+      ],
+      [
+       "avoir",
+       "aie",
+       "ayons",
+       "ayez"
+      ],
+      [
+       "aller",
+       "va",
+       "allons",
+       "allez"
+      ],
+      [
+       "savoir",
+       "sache",
+       "sachons",
+       "sachez"
+      ],
+      [
+       "vouloir",
+       "veuille",
+       "veuillons",
+       "veuillez"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Sois** gentil avec ta sœur. — **Ayez** du courage. — **Allons** au marché. — **Veuillez** vous asseoir."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "**Va** s’écrit sans -s, comme au 1er groupe ; mais on écrit **Vas-y**. **Aie** s’écrit avec un **e** final, pas **ait**."
+    },
+    {
+     "type": "tip",
+     "label": "Ne pas confondre",
+     "text": "À l’impératif, on écrit **sois** avec un **s** : *Sois sage !* L’écriture **soit** (avec un **t**) est une autre forme du verbe : *Il faut que ce soit propre.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte de « être » à la 2e personne du pluriel ?",
+     "options": [
+      "Soyez",
+      "Soyer",
+      "Soyé",
+      "Sois"
+     ],
+     "answer": 0,
+     "explain": "Être fait : sois, soyons, soyez."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris les verbes à l’impératif présent.",
+     "items": [
+      "(tu) (être) poli",
+      "(vous) (avoir) confiance",
+      "(tu) (aller) chercher du pain",
+      "(nous) (être) courageux"
+     ],
+     "corrige": [
+      "Sois poli.",
+      "Ayez confiance.",
+      "Va chercher du pain.",
+      "Soyons courageux."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’impératif négatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour **défendre** de faire quelque chose, on emploie la **forme négative** de l’impératif. On place **ne … pas** autour du verbe."
+    },
+    {
+     "type": "table",
+     "title": "Forme affirmative et forme négative",
+     "head": [
+      "Affirmative",
+      "Négative"
+     ],
+     "rows": [
+      [
+       "Mange vite.",
+       "**Ne** mange **pas** vite."
+      ],
+      [
+       "Chantons fort.",
+       "**Ne** chantons **pas** fort."
+      ],
+      [
+       "Ouvrez la porte.",
+       "**N’**ouvrez **pas** la porte."
+      ],
+      [
+       "Sois en retard.",
+       "**Ne** sois **pas** en retard."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Ne cours pas** dans le couloir. — **N’oublie pas** ton cahier. — **Ne parlons pas** en classe."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de -s non plus",
+     "text": "À la forme négative, le verbe du 1er groupe reste **sans -s** : *Ne mange pas*, *Ne parle pas*. Le -s de *Manges-en* ou *Vas-y* n’existe qu’à la forme affirmative."
+    },
+    {
+     "type": "tip",
+     "label": "Autre façon de donner une consigne",
+     "text": "Pour une consigne écrite, on emploie souvent l’**infinitif** : « **Ne pas toucher.** » ; « **Ne pas jeter** sur la voie publique. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Ne mange pas ce fruit.",
+      "Ne manges pas ce fruit.",
+      "Mange ne pas ce fruit.",
+      "Ne mange ce fruit pas."
+     ],
+     "answer": 0,
+     "explain": "À la forme négative, on garde l’impératif sans -s : Ne mange pas."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les phrases à la forme négative.",
+     "items": [
+      "Ouvre la fenêtre.",
+      "Chantons en classe.",
+      "Courez dans la cour.",
+      "Sois en retard."
+     ],
+     "corrige": [
+      "N’ouvre pas la fenêtre.",
+      "Ne chantons pas en classe.",
+      "Ne courez pas dans la cour.",
+      "Ne sois pas en retard."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’impératif et les pronoms",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand l’impératif est accompagné d’un **pronom complément** (*moi, toi, le, la, lui, les…*), la **place** du pronom change selon que la phrase est **affirmative** ou **négative**."
+    },
+    {
+     "type": "table",
+     "title": "La place du pronom",
+     "head": [
+      "Phrase",
+      "Place du pronom",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "affirmative",
+       "**après** le verbe, avec un **trait d’union**",
+       "Prends-**le**. — Donne-**moi** ce livre."
+      ],
+      [
+       "négative",
+       "**avant** le verbe",
+       "Ne **le** prends pas. — Ne **me** donne pas ce livre."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Regarde-moi**. — **Lève-toi**. — **Dis-lui** merci. — **Ne te lève pas**. — **Ne le dis pas**."
+    },
+    {
+     "type": "warn",
+     "label": "Me devient moi, te devient toi",
+     "text": "À l’affirmative, **me** devient **moi** et **te** devient **toi** : « Donne-**moi** », « Lève-**toi** » ; mais à la négative : « Ne **me** donne pas », « Ne **te** lève pas »."
+    },
+    {
+     "type": "tip",
+     "label": "Le trait d’union",
+     "text": "Tu n’as qu’à retenir : verbe + **trait d’union** + pronom, **sans** « ne … pas ». Avec « ne … pas », le pronom **revient devant** le verbe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Donne-moi le livre.",
+      "Donne me le livre.",
+      "Me donne le livre.",
+      "Donne-me le livre."
+     ],
+     "answer": 0,
+     "explain": "À l’affirmative, le pronom est placé après le verbe, relié par un trait d’union, et me devient moi."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace le groupe en gras par un pronom (le, la, les) en gardant l’impératif.",
+     "items": [
+      "Prends **le cahier**.",
+      "Écoute **le maître**.",
+      "Ne prends pas **ce fruit**."
+     ],
+     "corrige": [
+      "Prends-le.",
+      "Écoute-le.",
+      "Ne le prends pas."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Employer l’impératif à bon escient",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’impératif exprime parfois un ordre sec. Pour **adoucir** une demande, on peut ajouter une formule de politesse ou employer d’autres tournures."
+    },
+    {
+     "type": "table",
+     "title": "Ordre ou demande polie ?",
+     "head": [
+      "Ordre sec",
+      "Demande polie"
+     ],
+     "rows": [
+      [
+       "Donne-moi de l’eau.",
+       "Donne-moi de l’eau, s’il te plaît."
+      ],
+      [
+       "Asseyez-vous.",
+       "**Veuillez** vous asseoir."
+      ],
+      [
+       "Tais-toi.",
+       "Peux-tu te taire, s’il te plaît ?"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Mélangez** la farine et l’eau. **Ajoutez** une pincée de sel. **Laissez** reposer dix minutes. (recette)"
+    },
+    {
+     "type": "list",
+     "label": "Où trouve-t-on l’impératif ?",
+     "items": [
+      "dans les **recettes de cuisine**",
+      "dans les **notices** et **modes d’emploi**",
+      "dans les **consignes** d’exercices",
+      "dans les **conseils** et les **slogans** (*Lavez-vous les mains !*)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Ponctuation",
+     "text": "Après un verbe à l’impératif, on met souvent un **point d’exclamation** (pour un ordre vif) ou un **point** (pour une consigne calme)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel texte trouve-t-on le plus souvent des verbes à l’impératif ?",
+     "options": [
+      "une recette de cuisine",
+      "un conte raconté au passé",
+      "une biographie",
+      "un article de journal sur un accident"
+     ],
+     "answer": 0,
+     "explain": "Une recette donne des consignes à suivre : elle emploie l’impératif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rends ces ordres plus polis.",
+     "items": [
+      "Ferme la porte.",
+      "Apportez-moi un verre d’eau.",
+      "Écoute-moi."
+     ],
+     "corrige": [
+      "Ferme la porte, s’il te plaît.",
+      "Apportez-moi un verre d’eau, s’il vous plaît. / Veuillez m’apporter un verre d’eau.",
+      "Écoute-moi, s’il te plaît."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **conjugue**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les verbes à l’impératif.",
+     "items": [
+      "Range tes affaires.",
+      "Il range ses affaires.",
+      "Écoutons le maître.",
+      "Vous écoutez le maître."
+     ],
+     "corrige": [
+      "Range tes affaires.",
+      "Écoutons le maître."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte pour donner un ordre à une seule personne ?",
+     "options": [
+      "Ouvres la fenêtre.",
+      "Ouvre la fenêtre.",
+      "Ouvrez la fenêtre, tu.",
+      "Ouvrons la fenêtre, tu."
+     ],
+     "answer": 1,
+     "explain": "Les verbes comme ouvrir se conjuguent comme ceux du 1er groupe à l’impératif : Ouvre."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris les verbes à l’impératif présent.",
+     "items": [
+      "(tu) (lire) ce livre",
+      "(nous) (prendre) un taxi",
+      "(vous) (venir) vite",
+      "(tu) (être) attentif",
+      "(vous) (faire) silence",
+      "(tu) (aller) en classe"
+     ],
+     "corrige": [
+      "Lis ce livre.",
+      "Prenons un taxi.",
+      "Venez vite.",
+      "Sois attentif.",
+      "Faites silence.",
+      "Va en classe."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois consignes à ton petit frère pour bien se laver les mains. Emploie l’impératif.",
+     "items": [
+      "Consigne 1",
+      "Consigne 2",
+      "Consigne 3"
+     ],
+     "corrige": [
+      "Exemple : Mouille tes mains.",
+      "Exemple : Frotte-les avec du savon.",
+      "Exemple : Rince-les et essuie-les."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**impératif** sert à donner un **ordre**, un **conseil**, une **consigne** ou à faire une **demande**.",
+      "Il se conjugue **sans pronom sujet** et n’a que **3 personnes** : *tu, nous, vous*.",
+      "**1er groupe** (et *ouvrir, offrir…*) : **pas de -s** à la 2e personne du singulier : *Mange, Ouvre*.",
+      "**Être** : *sois, soyons, soyez* ; **avoir** : *aie, ayons, ayez* ; **aller** : *va, allons, allez*.",
+      "Forme **négative** : *Ne mange pas.*",
+      "Avec un pronom : **après** le verbe, avec un trait d’union (*Prends-le*) ; à la négative, **avant** (*Ne le prends pas*)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois personnes de l’impératif",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chante",
+       "chantons",
+       "chantez"
+      ],
+      [
+       "finir",
+       "finis",
+       "finissons",
+       "finissez"
+      ],
+      [
+       "prendre",
+       "prends",
+       "prenons",
+       "prenez"
+      ],
+      [
+       "être",
+       "sois",
+       "soyons",
+       "soyez"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte : « … attention ! » (faire, 2e personne du pluriel)",
+     "options": [
+      "Faisez",
+      "Faites",
+      "Fait",
+      "Faîtes"
+     ],
+     "answer": 1,
+     "explain": "À la 2e personne du pluriel, faire donne « faites »."
+    }
+   ]
+  }
+ ]
+}

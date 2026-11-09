@@ -1,0 +1,905 @@
+{
+ "id": 82,
+ "meta": {
+  "t": "Le passé simple",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "À quoi sert le passé simple ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le soir, au village, grand-mère raconte un conte : « Il était une fois un vieux pêcheur. Un matin, il **prit** sa pirogue et **partit** sur le fleuve. Soudain, un poisson géant **surgit** devant lui. » Les verbes en gras sont au **passé simple**, le temps du récit."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le passé simple dans un texte",
+      "Savoir dans quels textes on l’emploie",
+      "Conjuguer les verbes au passé simple, surtout à la 3e personne"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le passé simple",
+     "text": "Le **passé simple** est un temps **simple** de l’indicatif. Il exprime une action **passée**, **brève** et **terminée**. On le trouve surtout dans les **contes**, les **romans**, les **récits** et les textes d’**histoire**."
+    },
+    {
+     "type": "table",
+     "title": "Le passé simple et les autres temps du passé",
+     "head": [
+      "Temps",
+      "Exemple",
+      "Emploi"
+     ],
+     "rows": [
+      [
+       "passé simple",
+       "Il **ouvrit** la porte.",
+       "récit écrit, action terminée"
+      ],
+      [
+       "passé composé",
+       "Il **a ouvert** la porte.",
+       "conversation, langue de tous les jours"
+      ],
+      [
+       "imparfait",
+       "Il **ouvrait** la porte.",
+       "description, action qui dure ou se répète"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Le passé simple s’emploie **presque toujours à l’écrit**. À l’oral, on dit plutôt : « Il **a pris** sa pirogue. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel texte trouve-t-on le plus souvent le passé simple ?",
+     "options": [
+      "un message envoyé à un ami",
+      "un conte",
+      "une conversation au marché",
+      "une liste de courses"
+     ],
+     "answer": 1,
+     "explain": "Le passé simple est le temps du récit écrit : contes, romans, textes d’histoire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les verbes conjugués au passé simple.",
+     "items": [
+      "Le chasseur entra dans la forêt.",
+      "Mon frère mange du manioc.",
+      "Soudain, un lion bondit.",
+      "Nous jouions au ballon."
+     ],
+     "corrige": [
+      "Le chasseur entra dans la forêt.",
+      "Soudain, un lion bondit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le passé simple des verbes du 1er groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les verbes du **1er groupe** (infinitif en **-er**) ont tous les **mêmes terminaisons** au passé simple. On enlève **-er** et on ajoute les terminaisons."
+    },
+    {
+     "type": "table",
+     "title": "Chanter au passé simple",
+     "head": [
+      "Personne",
+      "Passé simple"
+     ],
+     "rows": [
+      [
+       "je",
+       "chant**ai**"
+      ],
+      [
+       "tu",
+       "chant**as**"
+      ],
+      [
+       "il, elle, on",
+       "chant**a**"
+      ],
+      [
+       "nous",
+       "chant**âmes**"
+      ],
+      [
+       "vous",
+       "chant**âtes**"
+      ],
+      [
+       "ils, elles",
+       "chant**èrent**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le pêcheur **jeta** son filet. — Les enfants **marchèrent** longtemps. — Nous **arrivâmes** au village à midi."
+    },
+    {
+     "type": "warn",
+     "label": "Attention aux accents",
+     "text": "Aux personnes **nous** et **vous**, on écrit un **accent circonflexe** : *nous chantâmes*, *vous chantâtes*. À la 3e personne du pluriel, on écrit **-èrent** (avec un accent grave)."
+    },
+    {
+     "type": "tip",
+     "label": "Ne pas confondre",
+     "text": "*je chantai* (passé simple) et *je chanterai* (futur simple) : au futur, on entend le **r** avant la terminaison."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte du verbe « regarder » à la 3e personne du singulier ?",
+     "options": [
+      "il regardait",
+      "il regarda",
+      "il regardera",
+      "il regardat"
+     ],
+     "answer": 1,
+     "explain": "Au passé simple, les verbes en -er se terminent par -a à la 3e personne du singulier."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes au passé simple.",
+     "items": [
+      "Le garçon (appeler) son chien.",
+      "Les voyageurs (traverser) le fleuve.",
+      "Nous (écouter) le conte.",
+      "Tu (ramasser) les mangues."
+     ],
+     "corrige": [
+      "Le garçon appela son chien.",
+      "Les voyageurs traversèrent le fleuve.",
+      "Nous écoutâmes le conte.",
+      "Tu ramassas les mangues."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le passé simple des verbes du 2e groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les verbes du **2e groupe** (infinitif en **-ir**, participe présent en **-issant**) se conjuguent avec les terminaisons **-is, -is, -it, -îmes, -îtes, -irent**."
+    },
+    {
+     "type": "table",
+     "title": "Finir au passé simple",
+     "head": [
+      "Personne",
+      "Passé simple"
+     ],
+     "rows": [
+      [
+       "je",
+       "fin**is**"
+      ],
+      [
+       "tu",
+       "fin**is**"
+      ],
+      [
+       "il, elle, on",
+       "fin**it**"
+      ],
+      [
+       "nous",
+       "fin**îmes**"
+      ],
+      [
+       "vous",
+       "fin**îtes**"
+      ],
+      [
+       "ils, elles",
+       "fin**irent**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le chef **réunit** les villageois. — Les enfants **grandirent** vite. — Elle **choisit** un pagne bleu."
+    },
+    {
+     "type": "warn",
+     "label": "Accent circonflexe",
+     "text": "Comme au 1er groupe, on met un **accent circonflexe** à *nous* et à *vous* : *nous finîmes*, *vous finîtes*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte du verbe « choisir » à la 3e personne du pluriel ?",
+     "options": [
+      "ils choisirent",
+      "ils choisissent",
+      "ils choisèrent",
+      "ils choisirons"
+     ],
+     "answer": 0,
+     "explain": "Au passé simple, la 3e personne du pluriel du 2e groupe se termine par -irent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes au passé simple.",
+     "items": [
+      "Le tisserand (finir) son travail.",
+      "Nous (réussir) l’épreuve.",
+      "Les fleurs (jaunir) en quelques jours.",
+      "Tu (bâtir) une case."
+     ],
+     "corrige": [
+      "Le tisserand finit son travail.",
+      "Nous réussîmes l’épreuve.",
+      "Les fleurs jaunirent en quelques jours.",
+      "Tu bâtis une case."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Être, avoir, aller et faire au passé simple",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les verbes **être** et **avoir** sont **irréguliers**. Il faut apprendre leurs formes par cœur, car on les rencontre sans cesse dans les récits."
+    },
+    {
+     "type": "table",
+     "title": "Être et avoir",
+     "head": [
+      "Personne",
+      "être",
+      "avoir"
+     ],
+     "rows": [
+      [
+       "je",
+       "je **fus**",
+       "j’**eus**"
+      ],
+      [
+       "tu",
+       "tu **fus**",
+       "tu **eus**"
+      ],
+      [
+       "il, elle, on",
+       "il **fut**",
+       "il **eut**"
+      ],
+      [
+       "nous",
+       "nous **fûmes**",
+       "nous **eûmes**"
+      ],
+      [
+       "vous",
+       "vous **fûtes**",
+       "vous **eûtes**"
+      ],
+      [
+       "ils, elles",
+       "ils **furent**",
+       "ils **eurent**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le roi **fut** très content. — Le chasseur **eut** peur. — Les villageois **furent** surpris."
+    },
+    {
+     "type": "table",
+     "title": "Aller et faire",
+     "head": [
+      "Personne",
+      "aller",
+      "faire"
+     ],
+     "rows": [
+      [
+       "je",
+       "j’**allai**",
+       "je **fis**"
+      ],
+      [
+       "il, elle, on",
+       "il **alla**",
+       "il **fit**"
+      ],
+      [
+       "nous",
+       "nous **allâmes**",
+       "nous **fîmes**"
+      ],
+      [
+       "ils, elles",
+       "ils **allèrent**",
+       "ils **firent**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Aller est un verbe en -er",
+     "text": "*Aller* se conjugue au passé simple comme les verbes du 1er groupe : *il alla*, *ils allèrent*. Ne dis pas « il ira » (futur), ni « il allit »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte : « Le chef … un grand discours » ?",
+     "options": [
+      "fit",
+      "fait",
+      "fis",
+      "firent"
+     ],
+     "answer": 0,
+     "explain": "Le sujet « le chef » est à la 3e personne du singulier : il fit."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes au passé simple.",
+     "items": [
+      "Le roi (être) généreux.",
+      "Nous (avoir) beaucoup de chance.",
+      "Les enfants (aller) au marché.",
+      "Tu (faire) un beau dessin."
+     ],
+     "corrige": [
+      "Le roi fut généreux.",
+      "Nous eûmes beaucoup de chance.",
+      "Les enfants allèrent au marché.",
+      "Tu fis un beau dessin."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes du 3e groupe : -is, -it",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au **3e groupe**, beaucoup de verbes ont les terminaisons **-is, -is, -it, -îmes, -îtes, -irent**, comme les verbes du 2e groupe. On les reconnaît car le **radical** change souvent."
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes en -is, -it",
+     "head": [
+      "Infinitif",
+      "Je",
+      "Il",
+      "Ils"
+     ],
+     "rows": [
+      [
+       "prendre",
+       "je pris",
+       "il prit",
+       "ils prirent"
+      ],
+      [
+       "mettre",
+       "je mis",
+       "il mit",
+       "ils mirent"
+      ],
+      [
+       "dire",
+       "je dis",
+       "il dit",
+       "ils dirent"
+      ],
+      [
+       "voir",
+       "je vis",
+       "il vit",
+       "ils virent"
+      ],
+      [
+       "partir",
+       "je partis",
+       "il partit",
+       "ils partirent"
+      ],
+      [
+       "écrire",
+       "j’écrivis",
+       "il écrivit",
+       "ils écrivirent"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **prit** son bâton et **partit**. — Elle **vit** un éléphant et **dit** un mot au chef."
+    },
+    {
+     "type": "warn",
+     "label": "Attention au -s et au -t",
+     "text": "À la 3e personne du singulier, on écrit **-it** : *il prit*, *il mit*, *il dit*. Le **-s** est réservé à *je* et à *tu* : *je pris*, *tu pris*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le passé simple de « mettre » à la 3e personne du singulier ?",
+     "options": [
+      "il mit",
+      "il mettit",
+      "il met",
+      "il mis"
+     ],
+     "answer": 0,
+     "explain": "Mettre fait : je mis, tu mis, il mit."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes au passé simple.",
+     "items": [
+      "Le voyageur (prendre) le bateau.",
+      "Les enfants (voir) un arc-en-ciel.",
+      "Il (dire) bonjour.",
+      "Les invités (partir) avant la nuit."
+     ],
+     "corrige": [
+      "Le voyageur prit le bateau.",
+      "Les enfants virent un arc-en-ciel.",
+      "Il dit bonjour.",
+      "Les invités partirent avant la nuit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes du 3e groupe : -us, -ut",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres verbes du 3e groupe font leur passé simple en **-us, -us, -ut, -ûmes, -ûtes, -urent**. Le radical vient souvent du **participe passé** (*voulu → voulut*)."
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes en -us, -ut",
+     "head": [
+      "Infinitif",
+      "Je",
+      "Il",
+      "Ils"
+     ],
+     "rows": [
+      [
+       "vouloir",
+       "je voulus",
+       "il voulut",
+       "ils voulurent"
+      ],
+      [
+       "pouvoir",
+       "je pus",
+       "il put",
+       "ils purent"
+      ],
+      [
+       "savoir",
+       "je sus",
+       "il sut",
+       "ils surent"
+      ],
+      [
+       "lire",
+       "je lus",
+       "il lut",
+       "ils lurent"
+      ],
+      [
+       "boire",
+       "je bus",
+       "il but",
+       "ils burent"
+      ],
+      [
+       "courir",
+       "je courus",
+       "il courut",
+       "ils coururent"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Autres verbes à connaître",
+     "head": [
+      "Infinitif",
+      "Il"
+     ],
+     "rows": [
+      [
+       "connaître",
+       "il connut"
+      ],
+      [
+       "vivre",
+       "il vécut"
+      ],
+      [
+       "recevoir",
+       "il reçut"
+      ],
+      [
+       "falloir",
+       "il fallut"
+      ],
+      [
+       "mourir",
+       "il mourut"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le garçon **courut** vers la maison. — Il **voulut** parler, mais il ne **put** pas. — Nous **lûmes** toute la nuit."
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce",
+     "text": "Si le participe passé finit par **-u** (*lu, bu, voulu, pu*), le passé simple est très souvent en **-us, -ut**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le passé simple de « pouvoir » à la 3e personne du singulier ?",
+     "options": [
+      "il pouvait",
+      "il put",
+      "il pourra",
+      "il peut"
+     ],
+     "answer": 1,
+     "explain": "Pouvoir fait : je pus, tu pus, il put. « Il pouvait » est à l’imparfait, « il pourra » au futur, « il peut » au présent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes au passé simple.",
+     "items": [
+      "Le maître (lire) un conte.",
+      "Les enfants (boire) de l’eau fraîche.",
+      "Elle (vouloir) rester.",
+      "Il (falloir) partir."
+     ],
+     "corrige": [
+      "Le maître lut un conte.",
+      "Les enfants burent de l’eau fraîche.",
+      "Elle voulut rester.",
+      "Il fallut partir."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Venir, tenir et leurs composés",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les verbes **venir** et **tenir** (et leurs composés : *devenir, revenir, obtenir, retenir…*) ont un passé simple à part, en **-ins, -ins, -int, -înmes, -întes, -inrent**."
+    },
+    {
+     "type": "table",
+     "title": "Venir et tenir",
+     "head": [
+      "Personne",
+      "venir",
+      "tenir"
+     ],
+     "rows": [
+      [
+       "je",
+       "je **vins**",
+       "je **tins**"
+      ],
+      [
+       "tu",
+       "tu **vins**",
+       "tu **tins**"
+      ],
+      [
+       "il, elle, on",
+       "il **vint**",
+       "il **tint**"
+      ],
+      [
+       "nous",
+       "nous **vînmes**",
+       "nous **tînmes**"
+      ],
+      [
+       "vous",
+       "vous **vîntes**",
+       "vous **tîntes**"
+      ],
+      [
+       "ils, elles",
+       "ils **vinrent**",
+       "ils **tinrent**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le voyageur **revint** au village. — Les invités **vinrent** nombreux. — Il **tint** sa promesse."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "*il vint* (passé simple) et *il vient* (présent) se prononcent presque pareil, mais s’écrivent différemment. Pour choisir, remplace par un verbe du 1er groupe : *il chanta* (passé) ou *il chante* (présent)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au passé simple ?",
+     "options": [
+      "Il vient demain.",
+      "Il viendra demain.",
+      "Il vint hier.",
+      "Il venait souvent."
+     ],
+     "answer": 2,
+     "explain": "« Il vint » est la 3e personne du singulier du passé simple de venir."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes au passé simple.",
+     "items": [
+      "Le prince (devenir) roi.",
+      "Les enfants (venir) en courant.",
+      "Il (obtenir) un prix.",
+      "Nous (revenir) à la maison."
+     ],
+     "corrige": [
+      "Le prince devint roi.",
+      "Les enfants vinrent en courant.",
+      "Il obtint un prix.",
+      "Nous revînmes à la maison."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Employer le passé simple dans un récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un récit, on emploie le **passé simple** pour les **actions principales** qui font avancer l’histoire. On emploie l’**imparfait** pour les **descriptions** et les actions de **second plan**."
+    },
+    {
+     "type": "table",
+     "title": "Passé simple ou imparfait ?",
+     "head": [
+      "Temps",
+      "Rôle dans le récit",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "passé simple",
+       "action principale, brève, terminée",
+       "Le lion **bondit**."
+      ],
+      [
+       "imparfait",
+       "décor, description, action qui dure",
+       "Il **faisait** nuit et le vent **soufflait**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **faisait** nuit. Le village **dormait**. Soudain, un cri **retentit** et tout le monde **sortit** des cases."
+    },
+    {
+     "type": "def",
+     "label": "La 3e personne",
+     "text": "Au passé simple, on emploie surtout la **3e personne** (*il, elle, ils, elles*), car le récit raconte des événements arrivés à **d’autres personnes**."
+    },
+    {
+     "type": "tip",
+     "label": "Pour reconnaître",
+     "text": "Le passé simple répond à la question : « Que **se passa-t-il** ensuite ? » L’imparfait répond à : « **Comment** était la scène ? »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La pluie tombait quand le chasseur arriva. », quel verbe est au passé simple ?",
+     "options": [
+      "tombait",
+      "arriva",
+      "les deux",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "« Tombait » est à l’imparfait (décor). « Arriva » est au passé simple (action principale)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les verbes et indique leur temps : imparfait ou passé simple.",
+     "items": [
+      "Le soleil brillait quand le pêcheur sortit.",
+      "Il jeta son filet et attendit.",
+      "Les oiseaux chantaient.",
+      "Un poisson mordit à l’hameçon."
+     ],
+     "corrige": [
+      "brillait : imparfait ; sortit : passé simple",
+      "jeta, attendit : passé simple",
+      "chantaient : imparfait",
+      "mordit : passé simple"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **conjugue**, puis on **réécrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les verbes au passé simple.",
+     "items": [
+      "Le chef parla longuement.",
+      "Nous mangeons du poisson.",
+      "Elle prit son panier et partit.",
+      "Ils jouaient dans la cour."
+     ],
+     "corrige": [
+      "parla",
+      "prit, partit"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est au passé simple ?",
+     "options": [
+      "Il lisait.",
+      "Il lut.",
+      "Il lira.",
+      "Il lit."
+     ],
+     "answer": 1,
+     "explain": "« Il lut » est la forme du passé simple de lire."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes au passé simple.",
+     "items": [
+      "Le roi (appeler) ses fils.",
+      "Nous (finir) notre travail.",
+      "Elle (être) heureuse.",
+      "Ils (prendre) la route.",
+      "Tu (venir) trop tard.",
+      "Il (vouloir) répondre."
+     ],
+     "corrige": [
+      "Le roi appela ses fils.",
+      "Nous finîmes notre travail.",
+      "Elle fut heureuse.",
+      "Ils prirent la route.",
+      "Tu vins trop tard.",
+      "Il voulut répondre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : réécrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le texte au passé simple : « Le pêcheur prend sa pirogue. Il rame longtemps. Il voit un poisson et lance son filet. »",
+     "items": [
+      "Le pêcheur prend sa pirogue.",
+      "Il rame longtemps.",
+      "Il voit un poisson et lance son filet."
+     ],
+     "corrige": [
+      "Le pêcheur prit sa pirogue.",
+      "Il rama longtemps.",
+      "Il vit un poisson et lança son filet."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **passé simple** exprime une action **passée, brève et terminée**.",
+      "On l’emploie surtout à l’**écrit**, dans les récits, à la **3e personne**.",
+      "1er groupe : **-ai, -as, -a, -âmes, -âtes, -èrent**.",
+      "2e groupe et beaucoup de verbes du 3e : **-is, -is, -it, -îmes, -îtes, -irent**.",
+      "Autres verbes du 3e : **-us, -us, -ut, -ûmes, -ûtes, -urent**.",
+      "**Venir, tenir** : *vins, vint, vinrent* ; **être** : *fus* ; **avoir** : *eus*.",
+      "Passé simple = **action principale** ; imparfait = **décor** ou action qui dure."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les terminaisons du passé simple",
+     "head": [
+      "Groupe",
+      "je",
+      "il",
+      "nous",
+      "ils"
+     ],
+     "rows": [
+      [
+       "1er groupe",
+       "-ai",
+       "-a",
+       "-âmes",
+       "-èrent"
+      ],
+      [
+       "2e groupe",
+       "-is",
+       "-it",
+       "-îmes",
+       "-irent"
+      ],
+      [
+       "3e groupe (-is)",
+       "-is",
+       "-it",
+       "-îmes",
+       "-irent"
+      ],
+      [
+       "3e groupe (-us)",
+       "-us",
+       "-ut",
+       "-ûmes",
+       "-urent"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte : « Les enfants … le conte » ?",
+     "options": [
+      "écoutèrent",
+      "écoutarent",
+      "écoutèrons",
+      "écoutèrens"
+     ],
+     "answer": 0,
+     "explain": "La 3e personne du pluriel du 1er groupe se termine par -èrent."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+ "id": 121,
+ "meta": {
+  "t": "L’étude des personnages",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : qui sont-ils vraiment ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans le conte de la tortue et de l’antilope, la tortue est **patiente** et **rusée**, l’antilope est **rapide** mais **orgueilleuse**. En lisant, tu **découvres** leur caractère à travers ce qu’ils font et disent. C’est **l’étude des personnages**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un **personnage**",
+      "Distinguer **personnage principal** et **secondaire**",
+      "Décrire un personnage : **portrait physique et moral**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le personnage",
+     "text": "Le **personnage** est un être (humain, animal, objet) qui **agit** et **parle** dans une histoire. Il a un **nom**, un **aspect** et un **caractère**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un personnage peut être…",
+     "options": [
+      "seulement un homme",
+      "un humain ou un animal",
+      "seulement un roi",
+      "un lieu"
+     ],
+     "answer": 1,
+     "explain": "Un personnage peut être un humain, un animal ou un objet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les personnages : le lion, la forêt, la tortue, le fleuve.",
+     "items": [
+      "Personnages"
+     ],
+     "corrige": [
+      "le lion",
+      "la tortue"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Personnages principaux et secondaires",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tous les personnages n’ont pas la même **importance**."
+    },
+    {
+     "type": "table",
+     "title": "Les rôles",
+     "head": [
+      "Personnage",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**principal**",
+       "au centre de l’histoire, il agit le plus",
+       "la tortue"
+      ],
+      [
+       "**secondaire**",
+       "il aide ou gêne le principal",
+       "le singe qui encourage"
+      ],
+      [
+       "**figurant**",
+       "il apparaît à peine",
+       "les spectateurs de la course"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les rôles dans l’intrigue",
+     "head": [
+      "Rôle",
+      "Définition"
+     ],
+     "rows": [
+      [
+       "**le héros**",
+       "celui qui accomplit l’action principale"
+      ],
+      [
+       "**l’adjuvant**",
+       "celui qui l’aide"
+      ],
+      [
+       "**l’opposant**",
+       "celui qui s’oppose à lui"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Dans le conte, la **tortue** est le héros, le **singe** est l’adjuvant, l’**antilope orgueilleuse** est l’opposant."
+    },
+    {
+     "type": "quiz",
+     "question": "Qui aide le héros ?",
+     "options": [
+      "l’opposant",
+      "l’adjuvant",
+      "le narrateur",
+      "le lecteur"
+     ],
+     "answer": 1,
+     "explain": "L’adjuvant aide le héros."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans « Moussa veut atteindre le sommet ; Awa l’encourage ; la tempête le ralentit », qui est l’adjuvant ?",
+     "items": [
+      "Adjuvant"
+     ],
+     "corrige": [
+      "Awa."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le portrait physique",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **portrait physique** décrit l’**aspect extérieur** : ce que l’on **voit**."
+    },
+    {
+     "type": "table",
+     "title": "Que décrit-on ?",
+     "head": [
+      "Élément",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**l’âge**",
+       "un vieil homme"
+      ],
+      [
+       "**la taille et la silhouette**",
+       "grand et mince"
+      ],
+      [
+       "**le visage**",
+       "des yeux vifs, un sourire"
+      ],
+      [
+       "**les vêtements**",
+       "un boubou bleu"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Portrait** : Grand-père est petit et mince. Ses cheveux sont blancs, ses yeux brillent. Il porte un boubou bleu."
+    },
+    {
+     "type": "tip",
+     "label": "Des indices",
+     "text": "L’auteur donne les traits physiques avec des **adjectifs** et des **compléments** : « les yeux vifs », « le dos voûté »."
+    },
+    {
+     "type": "quiz",
+     "question": "Le portrait physique décrit…",
+     "options": [
+      "le caractère",
+      "l’aspect extérieur",
+      "les sentiments",
+      "le passé"
+     ],
+     "answer": 1,
+     "explain": "Il décrit ce que l’on voit."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les traits physiques : « Awa est grande, a les cheveux tressés et un large sourire. »",
+     "items": [
+      "Traits"
+     ],
+     "corrige": [
+      "grande ; cheveux tressés ; large sourire"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le portrait moral",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **portrait moral** décrit le **caractère** : les **qualités**, les **défauts**, les **sentiments**."
+    },
+    {
+     "type": "table",
+     "title": "Qualités et défauts",
+     "head": [
+      "Qualités",
+      "Défauts"
+     ],
+     "rows": [
+      [
+       "courageux, généreux, patient",
+       "lâche, égoïste, impatient"
+      ],
+      [
+       "honnête, travailleur, poli",
+       "menteur, paresseux, grossier"
+      ],
+      [
+       "rusé, curieux, gentil",
+       "orgueilleux, jaloux, méchant"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Comment le connaître ?",
+     "text": "Le caractère se découvre par ce que le personnage **fait**, **dit** et **pense**, et par ce que les autres **disent** de lui."
+    },
+    {
+     "type": "ex",
+     "text": "Moussa **partage** son repas avec un voyageur : il est **généreux**."
+    },
+    {
+     "type": "warn",
+     "label": "Il faut une preuve",
+     "text": "Ne dis pas seulement « il est gentil » : **justifie** avec un fait du texte."
+    },
+    {
+     "type": "quiz",
+     "question": "« Il partage tout » montre qu’il est…",
+     "options": [
+      "égoïste",
+      "généreux",
+      "paresseux",
+      "jaloux"
+     ],
+     "answer": 1,
+     "explain": "Partager montre la générosité."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel défaut montre : « Elle ne veut jamais prêter son cahier. » ?",
+     "items": [
+      "Défaut"
+     ],
+     "corrige": [
+      "Elle est égoïste."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger le portrait d’un personnage",
+   "blocs": [
+    {
+     "type": "list",
+     "label": "Les étapes",
+     "items": [
+      "Je donne le **nom** et le **rôle**.",
+      "Je décris le **physique**.",
+      "Je décris le **moral** (avec une preuve).",
+      "Je dis **ce qu’il apporte** à l’histoire."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "**Awa** est le personnage principal. C’est une fillette de dix ans, grande, aux cheveux tressés. Elle est **courageuse** : elle traverse seule la forêt pour chercher de l’aide. Grâce à elle, le village est sauvé. (Exemple inventé.)"
+    },
+    {
+     "type": "tip",
+     "label": "Au présent",
+     "text": "On présente un personnage **au présent**."
+    },
+    {
+     "type": "quiz",
+     "question": "Une bonne preuve du caractère est…",
+     "options": [
+      "un fait du texte",
+      "une impression vague",
+      "le titre",
+      "le prix"
+     ],
+     "answer": 0,
+     "explain": "On s’appuie sur le texte."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en trois phrases le portrait d’un personnage de ton choix.",
+     "items": [
+      "Portrait"
+     ],
+     "corrige": [
+      "Exemple : (Nom) est un vieux sage au regard doux. Il aide toujours les enfants du village. Il est généreux et patient."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Le héros est…",
+     "options": [
+      "celui qui agit le plus",
+      "celui qui lit",
+      "l’opposant",
+      "le narrateur"
+     ],
+     "answer": 0,
+     "explain": "Le héros accomplit l’action principale."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : a) « Il a une cicatrice sur la joue » b) « Il est très courageux »",
+     "items": [
+      "a",
+      "b"
+     ],
+     "corrige": [
+      "a : portrait physique",
+      "b : portrait moral"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Fais le portrait d’un personnage d’un livre étudié en classe (physique et moral, quatre phrases).",
+     "items": [
+      "Portrait"
+     ],
+     "corrige": [
+      "Exemple : (Nom) est un jeune garçon de douze ans, maigre et vif. Il est curieux et courageux : il explore la forêt malgré la peur."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **personnage** agit et parle dans l’histoire.",
+      "Il peut être **principal**, **secondaire** ou **figurant** ; il peut être **héros**, **adjuvant** ou **opposant**.",
+      "Le **portrait physique** décrit l’aspect extérieur.",
+      "Le **portrait moral** décrit le caractère (qualités, défauts).",
+      "On **prouve** le caractère avec un fait du texte."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le portrait moral décrit…",
+     "options": [
+      "le caractère",
+      "la taille",
+      "les vêtements",
+      "la maison"
+     ],
+     "answer": 0,
+     "explain": "Il décrit les qualités et les défauts."
+    }
+   ]
+  }
+ ]
+}

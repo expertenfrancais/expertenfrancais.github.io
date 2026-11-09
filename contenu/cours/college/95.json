@@ -1,0 +1,596 @@
+{
+ "id": 95,
+ "meta": {
+  "t": "Les valeurs de l’imparfait et du passé composé",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Deux temps pour raconter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il **pleuvait** quand je **suis sorti**. » Dans cette phrase, il y a deux temps du passé : l’**imparfait** (*pleuvait*) et le **passé composé** (*suis sorti*). Ils ne servent pas à la même chose."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les valeurs de l’imparfait",
+      "Connaître les valeurs du passé composé",
+      "Choisir le bon temps dans un récit"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "L’imparfait",
+     "text": "L’**imparfait** exprime une action **qui dure**, qui se **répète** ou qui sert de **décor** (description). On ne voit pas le **début** ni la **fin** de l’action."
+    },
+    {
+     "type": "def",
+     "label": "Le passé composé",
+     "text": "Le **passé composé** exprime une action **passée**, **terminée**, souvent **ponctuelle** ou **qui fait avancer l’histoire**."
+    },
+    {
+     "type": "table",
+     "title": "En un coup d’œil",
+     "head": [
+      "Temps",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "imparfait",
+       "décor, durée, habitude",
+       "Le soleil **brillait**."
+      ],
+      [
+       "passé composé",
+       "action terminée, événement",
+       "Un chien **a aboyé**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps exprime une action qui sert de décor ?",
+     "options": [
+      "le passé composé",
+      "l’imparfait",
+      "le futur",
+      "le présent"
+     ],
+     "answer": 1,
+     "explain": "L’imparfait décrit le décor, l’ambiance."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les verbes à l’imparfait.",
+     "items": [
+      "Le village dormait.",
+      "Soudain, un cri a retenti.",
+      "Il faisait nuit.",
+      "Le chef est sorti."
+     ],
+     "corrige": [
+      "dormait",
+      "faisait"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs de l’imparfait",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’imparfait a **plusieurs valeurs**. Voici les principales."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs de l’imparfait",
+     "head": [
+      "Valeur",
+      "Ce qu’elle exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "description",
+       "le **décor**, l’aspect d’un lieu ou d’une personne",
+       "La forêt **était** sombre."
+      ],
+      [
+       "habitude",
+       "une action qui se **répète**",
+       "Chaque matin, il **allait** au marché."
+      ],
+      [
+       "durée",
+       "une action qui **dure**, qui est **en cours**",
+       "Les enfants **jouaient** dans la cour."
+      ],
+      [
+       "état, sentiment",
+       "une **pensée**, un **état d’esprit**",
+       "Il **avait** peur."
+      ],
+      [
+       "cause",
+       "la **raison** d’une action",
+       "Il est rentré car il **pleuvait**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Autrefois, grand-père **racontait** des histoires. — Le ciel **était** gris et le vent **soufflait**."
+    },
+    {
+     "type": "tip",
+     "label": "Les indices de temps",
+     "text": "Des mots comme **chaque jour**, **tous les soirs**, **souvent**, **toujours**, **autrefois** annoncent souvent l’**imparfait**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Chaque matin, il allait au marché. », quelle est la valeur de l’imparfait ?",
+     "options": [
+      "une description",
+      "une habitude",
+      "une cause",
+      "un état"
+     ],
+     "answer": 1,
+     "explain": "« Chaque matin » indique une action répétée."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur de l’imparfait.",
+     "items": [
+      "Il y avait un grand arbre.",
+      "Tous les jours, elle puisait de l’eau.",
+      "Elle avait peur.",
+      "Les oiseaux chantaient."
+     ],
+     "corrige": [
+      "description",
+      "habitude",
+      "état, sentiment",
+      "durée"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du passé composé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le passé composé sert à exprimer des **actions terminées**. Il a lui aussi **plusieurs valeurs**."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du passé composé",
+     "head": [
+      "Valeur",
+      "Ce qu’elle exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "action achevée",
+       "une action **terminée** à un moment précis",
+       "Hier, j’**ai fini** mon devoir."
+      ],
+      [
+       "événement",
+       "un fait qui **fait avancer** le récit",
+       "Soudain, un chien **a aboyé**."
+      ],
+      [
+       "succession",
+       "des actions qui se **suivent**",
+       "Il **a ouvert** la porte, **est entré** et **s’est assis**."
+      ],
+      [
+       "résultat dans le présent",
+       "le **résultat** compte maintenant",
+       "J’**ai mangé** : je n’ai plus faim."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le chef **est arrivé**, **a salué** tout le monde et **s’est assis**."
+    },
+    {
+     "type": "tip",
+     "label": "Les indices de temps",
+     "text": "Des mots comme **soudain**, **tout à coup**, **un jour**, **hier**, **alors** annoncent souvent le **passé composé**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a ouvert la porte et il est entré. », quelle est la valeur du passé composé ?",
+     "options": [
+      "une description",
+      "une habitude",
+      "une succession d’actions",
+      "une cause"
+     ],
+     "answer": 2,
+     "explain": "Les deux actions se suivent : c’est une succession."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du passé composé.",
+     "items": [
+      "Hier, j’ai lu un livre.",
+      "Tout à coup, la porte a claqué.",
+      "Il a pris son sac, a fermé la porte et est parti.",
+      "J’ai fini : je peux sortir."
+     ],
+     "corrige": [
+      "action achevée",
+      "événement",
+      "succession",
+      "résultat dans le présent"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Imparfait et passé composé dans un récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un récit, les deux temps **travaillent ensemble**. L’**imparfait** met en place le **décor** (arrière-plan), le **passé composé** raconte les **événements** (premier plan)."
+    },
+    {
+     "type": "table",
+     "title": "Arrière-plan et premier plan",
+     "head": [
+      "Temps",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "imparfait",
+       "**arrière-plan** : décor, durée",
+       "Il **pleuvait** et le vent **soufflait**."
+      ],
+      [
+       "passé composé",
+       "**premier plan** : événements",
+       "Un voyageur **a frappé** à la porte."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **faisait** nuit. Les villageois **dormaient** quand un cri **a retenti**. Tout le monde **est sorti**."
+    },
+    {
+     "type": "tip",
+     "label": "Une action interrompue",
+     "text": "L’imparfait peut être **interrompu** par un passé composé : *Je **lisais** quand le téléphone **a sonné**.* L’action **qui dure** est à l’imparfait, l’action **qui l’interrompt** est au passé composé."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "*Il **pleuvait*** (la pluie durait, on ne sait pas quand elle a commencé ni fini) ≠ *Il **a plu*** (la pluie est terminée)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je dormais quand le tonnerre a grondé. », quel verbe est au premier plan ?",
+     "options": [
+      "dormais",
+      "a grondé",
+      "les deux",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "« A grondé » est l’événement qui interrompt ; « dormais » est l’arrière-plan."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie l’imparfait (arrière-plan) et le passé composé (premier plan).",
+     "items": [
+      "Le soleil brillait quand un voleur a surgi.",
+      "Les enfants jouaient quand la pluie est tombée."
+     ],
+     "corrige": [
+      "brillait : imparfait ; a surgi : passé composé",
+      "jouaient : imparfait ; est tombée : passé composé"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Comment choisir le bon temps ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour choisir entre l’**imparfait** et le **passé composé**, pose-toi **quelques questions**."
+    },
+    {
+     "type": "table",
+     "title": "Les tests",
+     "head": [
+      "Question",
+      "Réponse",
+      "Temps"
+     ],
+     "rows": [
+      [
+       "Peut-on ajouter « tous les jours » ?",
+       "oui",
+       "**imparfait**"
+      ],
+      [
+       "Peut-on ajouter « soudain » ?",
+       "oui",
+       "**passé composé**"
+      ],
+      [
+       "L’action est-elle **terminée** et précise ?",
+       "oui",
+       "**passé composé**"
+      ],
+      [
+       "L’action **dure**, est-elle un **décor** ?",
+       "oui",
+       "**imparfait**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Tous les jours, il **allait** au marché. — Soudain, il **a vu** un lion."
+    },
+    {
+     "type": "tip",
+     "label": "Imparfait : « à ce moment-là, ça durait »",
+     "text": "Si l’action **dure** et que tu ne sais pas quand elle commence ou finit, c’est l’**imparfait**."
+    },
+    {
+     "type": "warn",
+     "label": "Les verbes d’état",
+     "text": "Les verbes d’**état** (*être, avoir, sembler, paraître*) sont très souvent à l’**imparfait** dans un récit : *Il **avait** faim. La nuit **était** noire.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un imparfait d’habitude ?",
+     "options": [
+      "Un jour, il est parti.",
+      "Chaque soir, il lisait un conte.",
+      "Soudain, il a crié.",
+      "Hier, il a fini."
+     ],
+     "answer": 1,
+     "explain": "« Chaque soir » indique une répétition : imparfait d’habitude."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis le temps qui convient (imparfait ou passé composé).",
+     "items": [
+      "Chaque matin, il (aller) à l’école.",
+      "Soudain, un chien (aboyer).",
+      "La nuit (être) noire.",
+      "Hier, nous (visiter) le musée."
+     ],
+     "corrige": [
+      "allait",
+      "a aboyé",
+      "était",
+      "avons visité"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Réécrire un texte au passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour **raconter** un événement, on met souvent un texte du **présent** au **passé**. Il faut choisir entre **imparfait** et **passé composé**."
+    },
+    {
+     "type": "table",
+     "title": "Du présent au passé",
+     "head": [
+      "Texte au présent",
+      "Texte au passé"
+     ],
+     "rows": [
+      [
+       "Il fait nuit.",
+       "Il **faisait** nuit."
+      ],
+      [
+       "Le chef arrive.",
+       "Le chef **est arrivé**."
+      ],
+      [
+       "Les enfants jouent quand la pluie tombe.",
+       "Les enfants **jouaient** quand la pluie **est tombée**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Présent : « Le village dort. Soudain, un cri retentit. » → Passé : « Le village **dormait**. Soudain, un cri **a retenti**. »"
+    },
+    {
+     "type": "tip",
+     "label": "Une méthode",
+     "text": "1) Repère les verbes de **décor** (→ imparfait). 2) Repère les **événements** (→ passé composé). 3) Conjugue chaque verbe."
+    },
+    {
+     "type": "warn",
+     "label": "Les participes passés",
+     "text": "Au passé composé, n’oublie pas l’**accord** du participe passé : *elle est **partie**, ils sont **arrivés**, les mangues qu’il a **cueillies***."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrire « Elle arrive. » au passé composé ?",
+     "options": [
+      "Elle arrivait.",
+      "Elle est arrivée.",
+      "Elle a arrivé.",
+      "Elle arrivera."
+     ],
+     "answer": 1,
+     "explain": "Arriver se conjugue avec être : elle est arrivée."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris au passé (imparfait et passé composé) : « Il fait beau. Les enfants jouent. Soudain, un orage éclate. »",
+     "items": [
+      "Il fait beau.",
+      "Les enfants jouent.",
+      "Soudain, un orage éclate."
+     ],
+     "corrige": [
+      "Il faisait beau.",
+      "Les enfants jouaient.",
+      "Soudain, un orage a éclaté."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **choisit**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si le verbe en gras est à l’imparfait (I) ou au passé composé (PC).",
+     "items": [
+      "Il **pleuvait**.",
+      "Il **est sorti**.",
+      "Nous **jouions**.",
+      "Elle **a crié**."
+     ],
+     "corrige": [
+      "I",
+      "PC",
+      "I",
+      "PC"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un décor ?",
+     "options": [
+      "Il est entré.",
+      "La nuit tombait.",
+      "Il a ouvert.",
+      "Elle a chanté."
+     ],
+     "answer": 1,
+     "explain": "« Tombait » (imparfait) décrit le décor."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : choisir"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes à l’imparfait ou au passé composé.",
+     "items": [
+      "Il (faire) nuit quand le voyageur (arriver).",
+      "Chaque jour, elle (puiser) de l’eau.",
+      "Soudain, un lion (surgir).",
+      "Les enfants (dormir) quand le tonnerre (gronder)."
+     ],
+     "corrige": [
+      "faisait ; est arrivé",
+      "puisait",
+      "a surgi",
+      "dormaient ; a grondé"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un petit récit de quatre phrases avec des verbes à l’imparfait et au passé composé.",
+     "items": [
+      "Phrase 1 (décor)",
+      "Phrase 2 (décor)",
+      "Phrase 3 (événement)",
+      "Phrase 4 (événement)"
+     ],
+     "corrige": [
+      "Exemple : Il faisait nuit. Le village dormait. Soudain, un cri a retenti. Tout le monde est sorti."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Imparfait** : décor, description, habitude, durée, état.",
+      "**Passé composé** : action **terminée**, événement, succession d’actions.",
+      "Dans un récit : **imparfait** = arrière-plan ; **passé composé** = premier plan.",
+      "L’imparfait peut être **interrompu** par un passé composé (*Je lisais quand il a appelé*).",
+      "Indices : **chaque jour, souvent, toujours** → imparfait ; **soudain, tout à coup, hier** → passé composé."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Imparfait ou passé composé ?",
+     "head": [
+      "Imparfait",
+      "Passé composé"
+     ],
+     "rows": [
+      [
+       "Le ciel était gris.",
+       "Un éclair a déchiré le ciel."
+      ],
+      [
+       "Chaque jour, il lisait.",
+       "Hier, il a lu un livre."
+      ],
+      [
+       "Il avait peur.",
+       "Il a crié."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il pleuvait quand je suis sorti.",
+      "Il a plu quand je sortais.",
+      "Il pleut quand je suis sorti.",
+      "Il pleuvait quand je sortais soudain."
+     ],
+     "answer": 0,
+     "explain": "Décor à l’imparfait (pleuvait), événement au passé composé (suis sorti)."
+    }
+   ]
+  }
+ ]
+}

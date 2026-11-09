@@ -1,0 +1,525 @@
+{
+ "id": 90,
+ "meta": {
+  "t": "La distinction entre quel, quelle, quels et quelles",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Quatre formes pour un même mot",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« **Quel** âge as-tu ? **Quelle** heure est-il ? **Quels** livres préfères-tu ? **Quelles** belles fleurs ! » Ces quatre mots sont les **formes** d’un même mot : **quel**. Il change selon le **nom** auquel il se rapporte."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les quatre formes de **quel**",
+      "Accorder **quel** avec le nom",
+      "Ne pas confondre **quelle** et **qu’elle**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Quel",
+     "text": "**Quel** est un **déterminant interrogatif** ou **exclamatif**. Il s’accorde en **genre** et en **nombre** avec le **nom** qu’il accompagne."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre formes",
+     "head": [
+      "Genre",
+      "Singulier",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "masculin",
+       "**quel**",
+       "**quels**"
+      ],
+      [
+       "féminin",
+       "**quelle**",
+       "**quelles**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Quel** garçon ? — **Quelle** fille ? — **Quels** garçons ? — **Quelles** filles ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme convient : « … heure est-il ? »",
+     "options": [
+      "Quel",
+      "Quelle",
+      "Quels",
+      "Quelles"
+     ],
+     "answer": 1,
+     "explain": "Heure est un nom féminin singulier : on écrit « quelle »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris la forme de « quel » qui convient.",
+     "items": [
+      "… âge as-tu ?",
+      "… livres lis-tu ?",
+      "… couleur préfères-tu ?",
+      "… amies invites-tu ?"
+     ],
+     "corrige": [
+      "Quel âge as-tu ?",
+      "Quels livres lis-tu ?",
+      "Quelle couleur préfères-tu ?",
+      "Quelles amies invites-tu ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Quel dans une question",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une **phrase interrogative**, **quel** sert à **poser une question** sur le nom qui suit : on veut **choisir** ou **connaître** quelque chose."
+    },
+    {
+     "type": "table",
+     "title": "Quel interrogatif",
+     "head": [
+      "Question",
+      "Genre et nombre du nom"
+     ],
+     "rows": [
+      [
+       "**Quel** fruit préfères-tu ?",
+       "fruit : masculin singulier"
+      ],
+      [
+       "**Quelle** saison aimes-tu ?",
+       "saison : féminin singulier"
+      ],
+      [
+       "**Quels** pays as-tu visités ?",
+       "pays : masculin pluriel"
+      ],
+      [
+       "**Quelles** chansons connais-tu ?",
+       "chansons : féminin pluriel"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Quel** jour sommes-nous ? — **Quelle** est ta ville natale ? — **Quels** sont tes amis ?"
+    },
+    {
+     "type": "warn",
+     "label": "Quel séparé du nom",
+     "text": "Quand **quel** est séparé du nom par le verbe **être**, il s’accorde quand même avec ce **nom** : *Quelle **est** ta classe ? Quels **sont** tes livres ?*"
+    },
+    {
+     "type": "tip",
+     "label": "La méthode",
+     "text": "1) Trouve le **nom**. 2) Cherche son **genre** et son **nombre**. 3) Écris **quel, quelle, quels** ou **quelles**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Quel est ta classe ?",
+      "Quelle est ta classe ?",
+      "Quels est ta classe ?",
+      "Quelles est ta classe ?"
+     ],
+     "answer": 1,
+     "explain": "Classe est féminin singulier : on écrit « quelle »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quel, quelle, quels ou quelles.",
+     "items": [
+      "… sont tes jeux préférés ?",
+      "… est ton nom ?",
+      "À … heure commence le cours ?",
+      "… livres veux-tu emprunter ?"
+     ],
+     "corrige": [
+      "Quels sont tes jeux préférés ?",
+      "Quel est ton nom ?",
+      "À quelle heure commence le cours ?",
+      "Quels livres veux-tu emprunter ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Quel dans une exclamation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Quel** s’emploie aussi dans une **phrase exclamative** pour exprimer une **admiration**, une **surprise** ou une **colère**."
+    },
+    {
+     "type": "table",
+     "title": "Quel exclamatif",
+     "head": [
+      "Exemple",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "**Quel** beau paysage !",
+       "paysage (masc. sing.)"
+      ],
+      [
+       "**Quelle** belle journée !",
+       "journée (fém. sing.)"
+      ],
+      [
+       "**Quels** beaux chants !",
+       "chants (masc. plur.)"
+      ],
+      [
+       "**Quelles** jolies fleurs !",
+       "fleurs (fém. plur.)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Quelle** chance ! — **Quel** bruit ! — **Quels** enfants polis !"
+    },
+    {
+     "type": "tip",
+     "label": "Où est le nom ?",
+     "text": "Même avec un **adjectif** entre **quel** et le nom, **quel** s’accorde avec le **nom** : *Quelle **belle** journée ! Quels **beaux** jours !*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Quel belle journée !",
+      "Quelle belle journée !",
+      "Quelles belle journée !",
+      "Quels belle journée !"
+     ],
+     "answer": 1,
+     "explain": "Journée est féminin singulier : on écrit « quelle »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète les exclamations.",
+     "items": [
+      "… joli village !",
+      "… belles histoires !",
+      "… courage !",
+      "… bons fruits !"
+     ],
+     "corrige": [
+      "Quel joli village !",
+      "Quelles belles histoires !",
+      "Quel courage !",
+      "Quels bons fruits !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Quelle ou qu’elle ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Quelle** (déterminant) ne doit pas être confondu avec **qu’elle** (**que** + **elle**). Ils se prononcent de la **même façon**."
+    },
+    {
+     "type": "table",
+     "title": "Quelle ou qu’elle ?",
+     "head": [
+      "Écriture",
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**quelle**",
+       "déterminant, devant un **nom** (ou le verbe être)",
+       "**Quelle** heure est-il ?"
+      ],
+      [
+       "**qu’elle**",
+       "**que** + **elle** (conjonction + pronom)",
+       "Je sais **qu’elle** viendra."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je pense **qu’elle** est partie. — **Quelle** heure est-il ? — Il faut **qu’elle** vienne."
+    },
+    {
+     "type": "tip",
+     "label": "L’astuce",
+     "text": "Remplace par **qu’il** : si la phrase reste correcte, écris **qu’elle** : *Je sais **qu’il** viendra → **qu’elle** viendra*. Sinon, écris **quelle**."
+    },
+    {
+     "type": "warn",
+     "label": "Qu’elles",
+     "text": "Le pluriel de **qu’elle** est **qu’elles** (que + elles) ; le pluriel de **quelle** est **quelles**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture convient : « Je crois … est malade. »",
+     "options": [
+      "quelle",
+      "qu’elle",
+      "quel",
+      "qu’elles"
+     ],
+     "answer": 1,
+     "explain": "On peut dire « je crois qu’il est malade » : c’est que + elle."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quelle ou qu’elle.",
+     "items": [
+      "… heure est-il ?",
+      "Je veux … vienne.",
+      "… joie !",
+      "On dit … est gentille."
+     ],
+     "corrige": [
+      "Quelle heure est-il ?",
+      "Je veux qu’elle vienne.",
+      "Quelle joie !",
+      "On dit qu’elle est gentille."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Quels, quelles ou qu’elles ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au pluriel, il faut distinguer **quels**, **quelles** et **qu’elles**."
+    },
+    {
+     "type": "table",
+     "title": "Au pluriel",
+     "head": [
+      "Écriture",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**quels**",
+       "déterminant (masc. plur.)",
+       "**Quels** garçons ?"
+      ],
+      [
+       "**quelles**",
+       "déterminant (fém. plur.)",
+       "**Quelles** filles ?"
+      ],
+      [
+       "**qu’elles**",
+       "**que** + **elles**",
+       "Je sais **qu’elles** sont là."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Quelles** sont tes amies ? — Je pense **qu’elles** viendront."
+    },
+    {
+     "type": "tip",
+     "label": "Même astuce",
+     "text": "Remplace par **qu’ils** : *Je sais qu’**ils** viennent → qu’**elles** viennent*. Si ça marche, écris **qu’elles**."
+    },
+    {
+     "type": "warn",
+     "label": "Quelque ?",
+     "text": "Ne confonds pas **quel** avec **quelque** : *quelque chose, quelques amis*. C’est un autre mot."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture convient : « … sont tes cousines ? »",
+     "options": [
+      "Quels",
+      "Quelles",
+      "Qu’elles",
+      "Quel"
+     ],
+     "answer": 1,
+     "explain": "Cousines est féminin pluriel : on écrit « quelles »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quels, quelles ou qu’elles.",
+     "items": [
+      "… fruits aimes-tu ?",
+      "… fleurs sont rouges ?",
+      "Je veux … restent.",
+      "… sont ces histoires ?"
+     ],
+     "corrige": [
+      "Quels fruits aimes-tu ?",
+      "Quelles fleurs sont rouges ?",
+      "Je veux qu’elles restent.",
+      "Quelles sont ces histoires ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **complète**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le genre et le nombre du nom, puis écris la bonne forme de quel.",
+     "items": [
+      "… saison préfères-tu ?",
+      "… pays visites-tu ?",
+      "… fleur cueilles-tu ?",
+      "… amis invites-tu ?"
+     ],
+     "corrige": [
+      "Quelle saison (fém. sing.)",
+      "Quel pays (masc. sing.)",
+      "Quelle fleur (fém. sing.)",
+      "Quels amis (masc. plur.)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Quel belle fleur !",
+      "Quelle belle fleur !",
+      "Quelles belle fleur !",
+      "Quels belle fleur !"
+     ],
+     "answer": 1,
+     "explain": "Fleur est féminin singulier : quelle belle fleur !"
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quel(le)(s) ou qu’elle(s).",
+     "items": [
+      "… heure est-il ?",
+      "Je sais … viendra.",
+      "… beaux jours !",
+      "… sont tes chansons préférées ?",
+      "Il faut … soient prêtes.",
+      "… idée !"
+     ],
+     "corrige": [
+      "Quelle heure est-il ?",
+      "Je sais qu’elle viendra.",
+      "Quels beaux jours !",
+      "Quelles sont tes chansons préférées ?",
+      "Il faut qu’elles soient prêtes.",
+      "Quelle idée !"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une question avec « quel » et une exclamation avec « quelle ».",
+     "items": [
+      "Question avec quel",
+      "Exclamation avec quelle"
+     ],
+     "corrige": [
+      "Exemples : Quel jour sommes-nous ?",
+      "Quelle belle journée !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Quel** est un **déterminant** (interrogatif ou exclamatif) : **quel, quelle, quels, quelles**.",
+      "Il s’accorde avec le **nom** (genre et nombre), même avec **être** entre les deux.",
+      "**Qu’elle(s)** = **que** + **elle(s)** : test avec **qu’il(s)**.",
+      "Ne pas confondre **quel** et **quelque**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quel, quelle, quels, quelles",
+     "head": [
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quel",
+       "Quel âge as-tu ?"
+      ],
+      [
+       "quelle",
+       "Quelle heure est-il ?"
+      ],
+      [
+       "quels",
+       "Quels livres lis-tu ?"
+      ],
+      [
+       "quelles",
+       "Quelles belles fleurs !"
+      ],
+      [
+       "qu’elle",
+       "Je sais qu’elle vient."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "Quelle sont tes amies ?",
+      "Quelles sont tes amies ?",
+      "Quels sont tes amies ?",
+      "Quel sont tes amies ?"
+     ],
+     "answer": 1,
+     "explain": "Amies est féminin pluriel : quelles."
+    }
+   ]
+  }
+ ]
+}

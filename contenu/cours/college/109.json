@@ -1,0 +1,387 @@
+{
+ "id": 109,
+ "meta": {
+  "t": "Le message de l’image",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : que veut dire cette image ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une affiche montre un enfant qui jette un papier dans une poubelle, devant une rue propre. Sous l’image, on lit : « Ma ville, je la protège ». Tu comprends sans qu’on te l’explique : l’affiche demande de **garder la ville propre**. Voilà son **message**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer ce que l’on **voit** et ce que l’image **veut dire**",
+      "Trouver le **message** d’une image",
+      "Reconnaître l’**intention** de l’auteur"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le message de l’image",
+     "text": "Le **message** est l’**idée** que l’auteur veut faire comprendre avec son image. On le trouve en observant les éléments, puis en se demandant : **pourquoi** a-t-il fait cette image ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Le message d’une image est…",
+     "options": [
+      "la couleur dominante",
+      "l’idée que l’auteur veut transmettre",
+      "le nom de l’appareil photo",
+      "la taille du cadre"
+     ],
+     "answer": 1,
+     "explain": "Le message, c’est ce que l’image veut faire comprendre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel est le message d’une affiche montrant un enfant qui se lave les mains avant de manger ?",
+     "items": [
+      "Message"
+     ],
+     "corrige": [
+      "Il faut se laver les mains avant de manger pour rester en bonne santé."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Décrire d’abord, interpréter ensuite",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver le message, on suit **deux étapes**. On ne saute pas la première."
+    },
+    {
+     "type": "table",
+     "title": "Deux étapes de lecture",
+     "head": [
+      "Étape",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**1. Décrire**",
+       "Que vois-je ?",
+       "un enfant, une poubelle, une rue propre"
+      ],
+      [
+       "**2. Interpréter**",
+       "Que veut dire l’image ?",
+       "il faut jeter ses déchets à la poubelle"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Je vois** : un enfant qui plante un arbre. **Je comprends** : il faut protéger la nature."
+    },
+    {
+     "type": "warn",
+     "label": "Deux choses différentes",
+     "text": "**Décrire**, c’est dire ce que l’on **voit**. **Interpréter**, c’est dire ce que l’on **comprend**. Ne mélange pas les deux."
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on en premier pour lire une image ?",
+     "options": [
+      "on interprète",
+      "on décrit ce qu’on voit",
+      "on invente une histoire",
+      "on cherche le prix"
+     ],
+     "answer": 1,
+     "explain": "On décrit d’abord, puis on interprète."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Sépare : a) Un enfant tient un livre. b) Il faut aimer la lecture. Qui décrit ? Qui interprète ?",
+     "items": [
+      "a",
+      "b"
+     ],
+     "corrige": [
+      "a : décrit",
+      "b : interprète"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les messages que l’on rencontre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Toutes les images n’ont pas le même but. L’auteur peut vouloir **informer**, **convaincre**, **émouvoir** ou **faire rire**."
+    },
+    {
+     "type": "table",
+     "title": "Les intentions de l’image",
+     "head": [
+      "Intention",
+      "But",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**informer**",
+       "faire connaître un fait",
+       "une photo de presse sur une inondation"
+      ],
+      [
+       "**convaincre**",
+       "pousser à agir",
+       "une affiche sur la vaccination"
+      ],
+      [
+       "**émouvoir**",
+       "toucher le cœur",
+       "la photo d’une mère et de son bébé"
+      ],
+      [
+       "**amuser**",
+       "faire sourire",
+       "un dessin humoristique"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Une affiche qui dit « Ne gaspillons pas l’eau » veut **convaincre**."
+    },
+    {
+     "type": "tip",
+     "label": "L’indice",
+     "text": "Pose-toi la question : **à qui** parle l’image et **que lui demande-t-elle** ? La réponse donne l’intention."
+    },
+    {
+     "type": "quiz",
+     "question": "Une affiche de prévention contre le paludisme veut surtout…",
+     "options": [
+      "amuser",
+      "convaincre",
+      "décrire un paysage",
+      "raconter un conte"
+     ],
+     "answer": 1,
+     "explain": "Elle pousse les gens à se protéger."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’intention : a) une photo de journal sur un match b) une affiche « Vaccinons nos enfants ».",
+     "items": [
+      "a",
+      "b"
+     ],
+     "corrige": [
+      "a : informer",
+      "b : convaincre"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les indices qui mènent au message",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le message se cache dans les **détails**. Chaque élément de l’image peut être un **indice**."
+    },
+    {
+     "type": "list",
+     "label": "Les indices",
+     "items": [
+      "le **titre** et la **légende** (les mots)",
+      "les **personnages** (leur attitude, leur regard)",
+      "les **couleurs** (joyeuses ou tristes)",
+      "le **plan** (gros plan = émotion)",
+      "les **objets** mis en avant"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Un enfant au **regard triste** devant un **tableau vide** : l’image parle peut-être de la **faim** ou du **manque d’école**."
+    },
+    {
+     "type": "warn",
+     "label": "Pas d’invention",
+     "text": "Tout ce que tu dis doit s’appuyer sur **ce que l’on voit**. Ne raconte pas une histoire qui n’est pas dans l’image."
+    },
+    {
+     "type": "quiz",
+     "question": "Un gros plan sur des larmes veut surtout montrer…",
+     "options": [
+      "une émotion",
+      "un paysage",
+      "un prix",
+      "un calendrier"
+     ],
+     "answer": 0,
+     "explain": "Le gros plan insiste sur l’émotion."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quels indices montrent que cette image est joyeuse : enfants qui rient, soleil, couleurs vives, ciel clair ?",
+     "items": [
+      "Indices"
+     ],
+     "corrige": [
+      "Les enfants qui rient, le soleil, les couleurs vives et le ciel clair."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exprimer le message à l’écrit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour **dire** le message, on écrit une ou deux phrases claires. On utilise des mots qui montrent qu’on **interprète**."
+    },
+    {
+     "type": "table",
+     "title": "Pour formuler le message",
+     "head": [
+      "Je peux écrire",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "L’image **montre**…",
+       "L’image montre un enfant qui plante un arbre."
+      ],
+      [
+       "Elle **veut dire** que…",
+       "Elle veut dire qu’il faut protéger la nature."
+      ],
+      [
+       "L’auteur **veut nous faire comprendre** que…",
+       "L’auteur veut nous faire comprendre que chacun peut agir."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une phrase, une idée",
+     "text": "Donne **une idée par phrase**. Le message tient en une ou deux phrases courtes."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle formule introduit le message ?",
+     "options": [
+      "L’image montre…",
+      "Il pleut.",
+      "Mon voisin rit.",
+      "Je mange."
+     ],
+     "answer": 0,
+     "explain": "« L’image montre » ou « elle veut dire » présentent la lecture."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le message d’une affiche montrant un enfant qui ferme un robinet.",
+     "items": [
+      "Message"
+     ],
+     "corrige": [
+      "Exemple : L’image montre un enfant qui ferme un robinet. Elle veut dire qu’il ne faut pas gaspiller l’eau."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **décrit**, on **repère l’intention**, puis on **rédige le message**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne méthode ?",
+     "options": [
+      "interpréter puis décrire",
+      "décrire puis interpréter",
+      "ne rien regarder",
+      "lire seulement la source"
+     ],
+     "answer": 1,
+     "explain": "On décrit d’abord ce que l’on voit."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Une affiche montre un enfant qui dort sous une moustiquaire. Quelle est l’intention ? Quel est le message ?",
+     "items": [
+      "Intention",
+      "Message"
+     ],
+     "corrige": [
+      "Intention : convaincre",
+      "Message : il faut dormir sous une moustiquaire pour se protéger du paludisme."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Imagine une affiche pour l’école : décris-la en deux phrases, puis écris son message.",
+     "items": [
+      "Description",
+      "Message"
+     ],
+     "corrige": [
+      "Exemple : L’affiche montre des élèves qui lèvent la main. Message : il faut participer en classe pour mieux apprendre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **message** est l’idée que l’auteur veut faire comprendre.",
+      "On **décrit** d’abord ce que l’on voit, puis on **interprète**.",
+      "L’image peut **informer**, **convaincre**, **émouvoir** ou **amuser**.",
+      "Les **indices** : titre, légende, personnages, couleurs, plan.",
+      "On s’appuie toujours sur **ce que l’on voit**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne formule pour exprimer le message ?",
+     "options": [
+      "L’image veut dire que…",
+      "Je ne sais pas.",
+      "C’est joli.",
+      "Il y a du bleu."
+     ],
+     "answer": 0,
+     "explain": "On exprime l’idée comprise : « elle veut dire que… »."
+    }
+   ]
+  }
+ ]
+}

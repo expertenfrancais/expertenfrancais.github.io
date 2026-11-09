@@ -1,0 +1,811 @@
+{
+ "id": 93,
+ "meta": {
+  "t": "L’orthographe des nombres en lettres",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Pourquoi écrire les nombres en lettres ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Sur un chèque, un reçu, un acte de naissance, on écrit les nombres **en lettres** pour éviter les erreurs. Dans un texte, on écrit aussi en lettres les petits nombres : « Il a **trois** frères. »"
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Écrire correctement les nombres en lettres",
+      "Employer les traits d’union et le mot « et » à bon escient",
+      "Connaître les accords de **vingt**, **cent**, **mille**, **million**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Écrire un nombre en lettres",
+     "text": "**Écrire un nombre en lettres**, c’est l’écrire avec des **mots** au lieu des **chiffres** : 12 → *douze*."
+    },
+    {
+     "type": "table",
+     "title": "De 0 à 19",
+     "head": [
+      "Nombre",
+      "Lettres",
+      "Nombre",
+      "Lettres"
+     ],
+     "rows": [
+      [
+       "0",
+       "zéro",
+       "10",
+       "dix"
+      ],
+      [
+       "1",
+       "un",
+       "11",
+       "onze"
+      ],
+      [
+       "2",
+       "deux",
+       "12",
+       "douze"
+      ],
+      [
+       "3",
+       "trois",
+       "13",
+       "treize"
+      ],
+      [
+       "4",
+       "quatre",
+       "14",
+       "quatorze"
+      ],
+      [
+       "5",
+       "cinq",
+       "15",
+       "quinze"
+      ],
+      [
+       "6",
+       "six",
+       "16",
+       "seize"
+      ],
+      [
+       "7",
+       "sept",
+       "17",
+       "dix-sept"
+      ],
+      [
+       "8",
+       "huit",
+       "18",
+       "dix-huit"
+      ],
+      [
+       "9",
+       "neuf",
+       "19",
+       "dix-neuf"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les dizaines",
+     "head": [
+      "Nombre",
+      "Lettres"
+     ],
+     "rows": [
+      [
+       "20",
+       "vingt"
+      ],
+      [
+       "30",
+       "trente"
+      ],
+      [
+       "40",
+       "quarante"
+      ],
+      [
+       "50",
+       "cinquante"
+      ],
+      [
+       "60",
+       "soixante"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Comment s’écrit 16 en lettres ?",
+     "options": [
+      "sèze",
+      "seize",
+      "seise",
+      "sèse"
+     ],
+     "answer": 1,
+     "explain": "16 s’écrit seize."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en lettres.",
+     "items": [
+      "4",
+      "8",
+      "13",
+      "15"
+     ],
+     "corrige": [
+      "quatre",
+      "huit",
+      "treize",
+      "quinze"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "De 21 à 69",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "De **21 à 69**, on relie les **dizaines** et les **unités** par un **trait d’union**. Quand l’unité est **un**, on écrit **et un** (sans trait d’union)."
+    },
+    {
+     "type": "table",
+     "title": "Exemples",
+     "head": [
+      "Nombre",
+      "Lettres",
+      "Remarque"
+     ],
+     "rows": [
+      [
+       "21",
+       "vingt **et** un",
+       "« et » sans trait d’union"
+      ],
+      [
+       "22",
+       "vingt**-**deux",
+       "trait d’union"
+      ],
+      [
+       "31",
+       "trente **et** un",
+       "« et » sans trait d’union"
+      ],
+      [
+       "45",
+       "quarante**-**cinq",
+       "trait d’union"
+      ],
+      [
+       "61",
+       "soixante **et** un",
+       "« et » sans trait d’union"
+      ],
+      [
+       "68",
+       "soixante**-**huit",
+       "trait d’union"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Mon grand-père a **soixante-trois** ans. — Il y a **vingt et un** élèves."
+    },
+    {
+     "type": "warn",
+     "label": "Un seul « et »",
+     "text": "On écrit « et un » uniquement pour **21, 31, 41, 51, 61** (et **71**). Pour **22, 23…** on écrit un **trait d’union**."
+    },
+    {
+     "type": "tip",
+     "label": "Réforme de 1990",
+     "text": "Depuis la **réforme de 1990**, on peut aussi mettre des **traits d’union partout** : *vingt-et-un*, *soixante-et-onze*. L’une et l’autre écriture sont acceptées."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment s’écrit 41 ?",
+     "options": [
+      "quarante un",
+      "quarante et un",
+      "quarante-et-un-un",
+      "quarante-un"
+     ],
+     "answer": 1,
+     "explain": "41 s’écrit quarante et un (ou quarante-et-un avec la réforme de 1990)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en lettres.",
+     "items": [
+      "21",
+      "34",
+      "56",
+      "61",
+      "68"
+     ],
+     "corrige": [
+      "vingt et un",
+      "trente-quatre",
+      "cinquante-six",
+      "soixante et un",
+      "soixante-huit"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "De 70 à 99",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "En français standard, on compte de **70 à 99** de façon particulière : **soixante-dix**, **quatre-vingts**, **quatre-vingt-dix**."
+    },
+    {
+     "type": "table",
+     "title": "De 70 à 99",
+     "head": [
+      "Nombre",
+      "Lettres"
+     ],
+     "rows": [
+      [
+       "70",
+       "soixante-dix"
+      ],
+      [
+       "71",
+       "soixante **et** onze"
+      ],
+      [
+       "72",
+       "soixante-douze"
+      ],
+      [
+       "79",
+       "soixante-dix-neuf"
+      ],
+      [
+       "80",
+       "quatre-vingt**s**"
+      ],
+      [
+       "81",
+       "quatre-vingt-un"
+      ],
+      [
+       "85",
+       "quatre-vingt-cinq"
+      ],
+      [
+       "90",
+       "quatre-vingt-dix"
+      ],
+      [
+       "91",
+       "quatre-vingt-onze"
+      ],
+      [
+       "99",
+       "quatre-vingt-dix-neuf"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le livre a **soixante-quinze** pages. — Il a **quatre-vingt-trois** ans."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de « et » après quatre-vingt",
+     "text": "On écrit **quatre-vingt-un**, **quatre-vingt-onze** (sans **et**), mais **soixante et onze**."
+    },
+    {
+     "type": "tip",
+     "label": "Une règle utile",
+     "text": "**Quatre-vingts** prend un **-s** quand il est **seul** (80). Il n’en prend **pas** quand un autre nombre le suit : *quatre-vingt-deux*."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment s’écrit 80 ?",
+     "options": [
+      "quatre-vingt",
+      "quatre-vingts",
+      "quatre vingts",
+      "octante"
+     ],
+     "answer": 1,
+     "explain": "80 s’écrit quatre-vingts (avec s quand il est seul)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en lettres.",
+     "items": [
+      "70",
+      "71",
+      "80",
+      "84",
+      "99"
+     ],
+     "corrige": [
+      "soixante-dix",
+      "soixante et onze",
+      "quatre-vingts",
+      "quatre-vingt-quatre",
+      "quatre-vingt-dix-neuf"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Vingt et cent : quand prennent-ils un s ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Vingt** et **cent** prennent un **-s** quand ils sont **multipliés** (précédés d’un nombre) et **terminent** le nombre. S’ils sont **suivis d’un autre nombre**, ils restent **invariables**."
+    },
+    {
+     "type": "table",
+     "title": "Vingt et cent",
+     "head": [
+      "Cas",
+      "Exemple",
+      "Règle"
+     ],
+     "rows": [
+      [
+       "80 (seul)",
+       "quatre-vingt**s**",
+       "multiplié, rien après : **s**"
+      ],
+      [
+       "82",
+       "quatre-vingt-deux",
+       "suivi d’un autre nombre : pas de s"
+      ],
+      [
+       "200",
+       "deux cent**s**",
+       "multiplié, rien après : **s**"
+      ],
+      [
+       "203",
+       "deux cent trois",
+       "suivi d’un autre nombre : pas de s"
+      ],
+      [
+       "300 000",
+       "trois cent mille",
+       "suivi de **mille** (un nombre) : pas de s"
+      ],
+      [
+       "100",
+       "cent",
+       "pas multiplié : pas de s"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Nous avons **deux cents** élèves. — Il a **trois cent quarante** livres. — Cela coûte **quatre cent mille** francs."
+    },
+    {
+     "type": "warn",
+     "label": "Cent seul",
+     "text": "On écrit **cent** sans s quand il n’est **pas multiplié** : *cent francs*, *cent un*."
+    },
+    {
+     "type": "tip",
+     "label": "L’astuce",
+     "text": "Cherche **deux choses** : le mot est-il **multiplié** (*deux cent, trois cent*) ? Est-ce qu’il **termine** le nombre ? Si oui aux deux, il prend un **s**."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment s’écrit 300 ?",
+     "options": [
+      "trois cent",
+      "trois cents",
+      "troi cents",
+      "trois-cent"
+     ],
+     "answer": 1,
+     "explain": "Trois cents : cent est multiplié et termine le nombre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en lettres.",
+     "items": [
+      "200",
+      "230",
+      "400",
+      "450",
+      "101"
+     ],
+     "corrige": [
+      "deux cents",
+      "deux cent trente",
+      "quatre cents",
+      "quatre cent cinquante",
+      "cent un"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Mille, million et milliard",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Mille** est **invariable** : il ne prend **jamais de -s**. **Million** et **milliard** sont des **noms** : ils prennent un **-s** au pluriel."
+    },
+    {
+     "type": "table",
+     "title": "Mille, million, milliard",
+     "head": [
+      "Nombre",
+      "Lettres",
+      "Règle"
+     ],
+     "rows": [
+      [
+       "1 000",
+       "mille",
+       "invariable"
+      ],
+      [
+       "2 000",
+       "deux mille",
+       "pas de s à mille"
+      ],
+      [
+       "3 500",
+       "trois mille cinq cents",
+       "mille invariable"
+      ],
+      [
+       "1 000 000",
+       "un million",
+       "nom"
+      ],
+      [
+       "2 000 000",
+       "deux million**s**",
+       "nom au pluriel : s"
+      ],
+      [
+       "1 000 000 000",
+       "un milliard",
+       "nom"
+      ],
+      [
+       "3 000 000 000",
+       "trois milliard**s**",
+       "nom au pluriel : s"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Cette ville a **deux millions** d’habitants. — Le livre coûte **trois mille** francs. — L’indépendance a eu lieu en **mille neuf cent soixante**."
+    },
+    {
+     "type": "warn",
+     "label": "Mille ou mil ?",
+     "text": "Dans une **date**, on peut écrire **mil** (ancienne orthographe), mais on emploie surtout **mille** : *l’an **deux mille** vingt-six*. **Mille** reste sans **s** dans tous les cas."
+    },
+    {
+     "type": "tip",
+     "label": "Million + de",
+     "text": "Après **million** et **milliard**, on met la préposition **de** : *deux millions **de** francs*, *un milliard **d’**étoiles*."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment s’écrit 2 000 ?",
+     "options": [
+      "deux milles",
+      "deux mille",
+      "deux mil",
+      "deux-mille-s"
+     ],
+     "answer": 1,
+     "explain": "Mille est invariable : deux mille."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en lettres.",
+     "items": [
+      "1 500",
+      "2 000",
+      "3 400",
+      "1 000 000",
+      "5 000 000"
+     ],
+     "corrige": [
+      "mille cinq cents",
+      "deux mille",
+      "trois mille quatre cents",
+      "un million",
+      "cinq millions"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les nombres ordinaux",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **nombres ordinaux** indiquent l’**ordre** ou le **rang** : *premier, deuxième, troisième…* On les forme avec le suffixe **-ième**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques ordinaux",
+     "head": [
+      "Nombre",
+      "Ordinal",
+      "Remarque"
+     ],
+     "rows": [
+      [
+       "1",
+       "premier, première",
+       "forme particulière"
+      ],
+      [
+       "2",
+       "deuxième ou second(e)",
+       "second : quand il n’y a que deux"
+      ],
+      [
+       "3",
+       "troisième",
+       ""
+      ],
+      [
+       "4",
+       "quatrième",
+       "on enlève le -e : quatr + ième"
+      ],
+      [
+       "5",
+       "cinquième",
+       "on ajoute un **u**"
+      ],
+      [
+       "9",
+       "neuvième",
+       "f devient **v**"
+      ],
+      [
+       "11",
+       "onzième",
+       "on enlève le -e"
+      ],
+      [
+       "21",
+       "vingt et unième",
+       ""
+      ],
+      [
+       "100",
+       "centième",
+       ""
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "C’est le **premier** jour. — Il est **cinquième** de la classe. — Le **neuvième** mois."
+    },
+    {
+     "type": "warn",
+     "label": "Premier et dernier",
+     "text": "**Premier** et **dernier** ne prennent pas **-ième**. Mais dans un nombre composé, on écrit **vingt et unième**, **trente et unième** (et non « vingt-premier »)."
+    },
+    {
+     "type": "tip",
+     "label": "Les abréviations",
+     "text": "On écrit : **1er** (premier), **1re** (première), **2e** (deuxième), **3e**, **4e**… Ce sont les niveaux que tu connais : la 6e, la 5e, la 4e, la 3e."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel ordinal est correct ?",
+     "options": [
+      "cinquième",
+      "cinqième",
+      "cinquiéme",
+      "cinqueme"
+     ],
+     "answer": 0,
+     "explain": "Cinq prend un u : cinquième."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris l’ordinal en lettres.",
+     "items": [
+      "5",
+      "9",
+      "21",
+      "11"
+     ],
+     "corrige": [
+      "cinquième",
+      "neuvième",
+      "vingt et unième",
+      "onzième"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **écrit**, puis on **corrige**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs dans ces nombres.",
+     "items": [
+      "quatre vingts deux",
+      "deux cent trois",
+      "trois milles",
+      "vingt un"
+     ],
+     "corrige": [
+      "quatre-vingt-deux",
+      "deux cent trois (correct)",
+      "trois mille",
+      "vingt et un"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Comment s’écrit 71 ?",
+     "options": [
+      "soixante-onze",
+      "soixante et onze",
+      "soixante-et-onze-un",
+      "septante un"
+     ],
+     "answer": 1,
+     "explain": "71 s’écrit soixante et onze (ou soixante-et-onze avec la réforme de 1990)."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris ces nombres en lettres.",
+     "items": [
+      "25",
+      "72",
+      "80",
+      "96",
+      "250",
+      "1 960"
+     ],
+     "corrige": [
+      "vingt-cinq",
+      "soixante-douze",
+      "quatre-vingts",
+      "quatre-vingt-seize",
+      "deux cent cinquante",
+      "mille neuf cent soixante"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris en lettres la somme et la date : « Reçu la somme de 1 250 francs, le 15 août 1960. »",
+     "items": [
+      "somme",
+      "date"
+     ],
+     "corrige": [
+      "mille deux cent cinquante francs",
+      "le quinze août mille neuf cent soixante"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "De **21 à 69** : trait d’union (*vingt-deux*), sauf avec **et un** (*vingt et un*).",
+      "**70** : *soixante-dix* ; **71** : *soixante et onze* ; **80** : *quatre-vingts* ; **81** : *quatre-vingt-un*.",
+      "**Vingt** et **cent** prennent **-s** quand ils sont **multipliés** et **terminent** le nombre : *quatre-vingts, deux cents* ; mais *quatre-vingt-deux, deux cent trois*.",
+      "**Mille** est **invariable** : *trois mille*.",
+      "**Million** et **milliard** sont des **noms** : *deux millions*.",
+      "**Ordinaux** : *premier, deuxième… cinquième, neuvième, vingt et unième*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les règles en un coup d’œil",
+     "head": [
+      "Nombre",
+      "Lettres"
+     ],
+     "rows": [
+      [
+       "21",
+       "vingt et un"
+      ],
+      [
+       "80",
+       "quatre-vingts"
+      ],
+      [
+       "83",
+       "quatre-vingt-trois"
+      ],
+      [
+       "200",
+       "deux cents"
+      ],
+      [
+       "203",
+       "deux cent trois"
+      ],
+      [
+       "2 000",
+       "deux mille"
+      ],
+      [
+       "2 000 000",
+       "deux millions"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "quatre-vingts-deux",
+      "quatre-vingt-deux",
+      "quatre vingt deux",
+      "quatres-vingt-deux"
+     ],
+     "answer": 1,
+     "explain": "Suivi d’un autre nombre, quatre-vingt ne prend pas de s."
+    }
+   ]
+  }
+ ]
+}

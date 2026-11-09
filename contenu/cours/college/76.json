@@ -1,0 +1,588 @@
+{
+ "id": 76,
+ "meta": {
+  "t": "Les synonymes",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un synonyme ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour dire qu’un élève est **content**, on peut aussi dire qu’il est **heureux**, **ravi** ou **joyeux**. Ces mots sont différents, mais ils ont un **sens très proche**. On dit que ce sont des **synonymes**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre ce qu’est un synonyme",
+      "Reconnaître des mots de sens proche",
+      "Savoir remplacer un mot par un synonyme"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Synonyme",
+     "text": "Deux mots sont **synonymes** quand ils ont un **sens proche** et qu’ils appartiennent à la **même nature grammaticale** (nom, verbe, adjectif…). Le mot *synonyme* vient du grec : « qui a le même nom »."
+    },
+    {
+     "type": "test",
+     "title": "Remplacer un mot par un synonyme",
+     "lines": [
+      "Cette maison est **grande**. → Cette maison est **vaste**.",
+      "Le chien **court** dans le jardin. → Le chien **galope** dans le jardin.",
+      "Ce **bruit** m’a fait peur. → Ce **vacarme** m’a fait peur."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques synonymes courants",
+     "head": [
+      "Mot",
+      "Synonymes",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "beau",
+       "joli, magnifique, splendide",
+       "adjectif"
+      ],
+      [
+       "commencer",
+       "débuter, entamer",
+       "verbe"
+      ],
+      [
+       "maison",
+       "habitation, demeure",
+       "nom"
+      ],
+      [
+       "vite",
+       "rapidement, promptement",
+       "adverbe"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Même nature",
+     "text": "Un synonyme est toujours de la **même nature** que le mot qu’il remplace : un verbe remplace un verbe, un adjectif remplace un adjectif."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un synonyme de « commencer » ?",
+     "options": [
+      "finir",
+      "débuter",
+      "arrêter",
+      "continuer"
+     ],
+     "answer": 1,
+     "explain": "*Débuter* a le même sens que *commencer*. Les autres mots sont des contraires ou ont un autre sens."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un synonyme de chaque mot.",
+     "items": [
+      "joli",
+      "peur",
+      "parler",
+      "maison"
+     ],
+     "corrige": [
+      "joli → *beau*, *charmant*",
+      "peur → *frayeur*, *crainte*",
+      "parler → *dire*, *s’exprimer*",
+      "maison → *habitation*, *demeure*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Des synonymes qui ne disent pas tout à fait la même chose",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Deux synonymes ne sont presque jamais **exactement identiques**. Souvent, l’un est **plus fort** que l’autre, ou l’un exprime une **nuance** que l’autre n’a pas."
+    },
+    {
+     "type": "table",
+     "title": "Synonymes classés du plus faible au plus fort",
+     "head": [
+      "Faible",
+      "Moyen",
+      "Fort"
+     ],
+     "rows": [
+      [
+       "petit",
+       "minuscule",
+       "microscopique"
+      ],
+      [
+       "content",
+       "heureux",
+       "ravi"
+      ],
+      [
+       "froid",
+       "glacial",
+       "polaire"
+      ],
+      [
+       "fatigué",
+       "las",
+       "épuisé"
+      ],
+      [
+       "jolie",
+       "belle",
+       "splendide"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Un enfant **content** a reçu un cadeau. Un enfant **ravi** a reçu le cadeau dont il rêvait : sa joie est plus forte.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "Les niveaux de langue"
+    },
+    {
+     "type": "p",
+     "text": "Les synonymes peuvent aussi appartenir à des **niveaux de langue** différents : **courant**, **familier** ou **soutenu**. On choisit le mot selon la situation."
+    },
+    {
+     "type": "table",
+     "title": "Trois niveaux de langue",
+     "head": [
+      "Familier",
+      "Courant",
+      "Soutenu"
+     ],
+     "rows": [
+      [
+       "bouquin",
+       "livre",
+       "ouvrage"
+      ],
+      [
+       "bagnole",
+       "voiture",
+       "automobile"
+      ],
+      [
+       "bouffer",
+       "manger",
+       "se restaurer"
+      ],
+      [
+       "gosse",
+       "enfant",
+       "bambin"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention au niveau de langue",
+     "text": "On écrit « Mon père m’a offert une belle **voiture** » dans une rédaction, pas « une belle **bagnole** ». Dans un devoir, évite les mots **familiers**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est le plus fort ?",
+     "options": [
+      "chaud",
+      "tiède",
+      "brûlant",
+      "doux"
+     ],
+     "answer": 2,
+     "explain": "*Brûlant* exprime une chaleur très forte, bien plus que *chaud*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe ces trois synonymes du plus faible au plus fort.",
+     "items": [
+      "a) gentil – adorable – aimable",
+      "b) peur – terreur – inquiétude",
+      "c) fâché – furieux – mécontent"
+     ],
+     "corrige": [
+      "a) *aimable – gentil – adorable*",
+      "b) *inquiétude – peur – terreur*",
+      "c) *mécontent – fâché – furieux*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le bon synonyme dépend du contexte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un même mot peut avoir **plusieurs sens**. Son synonyme change alors selon la phrase : c’est le **contexte** qui décide."
+    },
+    {
+     "type": "table",
+     "title": "Le mot « fort » selon le contexte",
+     "head": [
+      "Phrase",
+      "Sens de « fort »",
+      "Synonyme possible"
+     ],
+     "rows": [
+      [
+       "Cet homme est **fort**.",
+       "qui a de la force",
+       "robuste, puissant"
+      ],
+      [
+       "Il y a une **forte** pluie.",
+       "abondante",
+       "violente, intense"
+      ],
+      [
+       "Ce café est **fort**.",
+       "très concentré",
+       "corsé"
+      ],
+      [
+       "Il est **fort** en maths.",
+       "doué",
+       "habile, compétent"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Il a **pris** un livre » → *saisi*. « Il a **pris** le train » → *emprunté*. « Il a **pris** froid » → *attrapé*.",
+     "label": "Exemple"
+    },
+    {
+     "type": "test",
+     "title": "Un synonyme ne convient pas toujours",
+     "lines": [
+      "J’ai **cassé** mon stylo. → J’ai **brisé** mon stylo. ✔",
+      "J’ai **cassé** ma tirelire… → J’ai **brisé** ma tirelire. ✔",
+      "Il a **brisé** le silence. → Il a **cassé** le silence. ✘"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour vérifier un synonyme, **relis la phrase** avec le nouveau mot. Si le sens a changé ou si la phrase sonne mal, le synonyme ne convient pas."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a pris un taxi », quel synonyme de « pris » convient ?",
+     "options": [
+      "attrapé un rhume",
+      "emprunté",
+      "saisi",
+      "volé"
+     ],
+     "answer": 1,
+     "explain": "On *emprunte* un taxi pour se déplacer. Les autres synonymes ne conviennent pas à cette phrase."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace « faire » ou « mettre » par un verbe plus précis.",
+     "items": [
+      "Maman fait un gâteau.",
+      "Il fait un voyage en Afrique.",
+      "Mets la table.",
+      "Il met son manteau."
+     ],
+     "corrige": [
+      "Maman *prépare* un gâteau.",
+      "Il *effectue* un voyage en Afrique.",
+      "*Dresse* la table.",
+      "Il *enfile* son manteau."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les synonymes pour éviter les répétitions",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on écrit, répéter plusieurs fois le même mot alourdit le texte. Les synonymes permettent de **varier le vocabulaire**."
+    },
+    {
+     "type": "ex",
+     "text": "**Mauvais :** Le garçon **dit** bonjour. Puis il **dit** qu’il a faim et **dit** à sa mère de se dépêcher.\n**Mieux :** Le garçon **salue**. Puis il **explique** qu’il a faim et **demande** à sa mère de se dépêcher.",
+     "label": "Exemple de réécriture"
+    },
+    {
+     "type": "h",
+     "text": "Les verbes « passe-partout »"
+    },
+    {
+     "type": "p",
+     "text": "Certains mots sont trop vagues : **dire**, **faire**, **mettre**, **chose**, **très**. On les remplace par des mots plus précis."
+    },
+    {
+     "type": "table",
+     "title": "Remplacer les mots vagues",
+     "head": [
+      "Mot vague",
+      "Mots plus précis"
+     ],
+     "rows": [
+      [
+       "dire",
+       "affirmer, répondre, murmurer, s’écrier"
+      ],
+      [
+       "faire",
+       "créer, fabriquer, construire, réaliser"
+      ],
+      [
+       "mettre",
+       "poser, placer, déposer, ranger"
+      ],
+      [
+       "une chose",
+       "un objet, un élément, un sujet"
+      ],
+      [
+       "très grand",
+       "immense, gigantesque, énorme"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Les pronoms aussi !",
+     "text": "Pour éviter une répétition, on peut aussi utiliser un **pronom** (il, elle, lui…) ou un **groupe nominal** : *Kofi… le garçon… le jeune homme…*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe remplace le mieux « dire » dans « Il dit en criant : Au secours ! » ?",
+     "options": [
+      "murmura",
+      "s’écria",
+      "expliqua",
+      "affirma"
+     ],
+     "answer": 1,
+     "explain": "*S’écrier* signifie dire en criant."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris la phrase en évitant les répétitions de « grand ».",
+     "items": [
+      "Nous habitons une grande maison avec un grand jardin et un grand portail."
+     ],
+     "corrige": [
+      "Nous habitons une *vaste* maison avec un *immense* jardin et un *grand* portail."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Trouver des synonymes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand un mot ne te vient pas, voici comment trouver un synonyme."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Chercher dans un **dictionnaire des synonymes**.",
+      "Chercher dans un **dictionnaire ordinaire** : après le mot, on trouve parfois l’indication *syn.*",
+      "Se demander quel mot je pourrais **dire à la place** sans changer le sens de la phrase.",
+      "Vérifier la **nature** du mot, le **niveau de langue** et le **contexte**."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "tip",
+     "label": "Dans le dictionnaire",
+     "text": "Dans les dictionnaires, *syn.* signifie « synonyme » et *contr.* ou *ant.* signifie « contraire »."
+    },
+    {
+     "type": "test",
+     "title": "Trouver le synonyme qui convient",
+     "lines": [
+      "Un exercice **difficile** → *compliqué*, *ardu*.",
+      "Un exercice **facile** → *simple*, *aisé*.",
+      "Un **gentil** garçon → *aimable*, *serviable*."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un dictionnaire, que signifie l’abréviation « syn. » ?",
+     "options": [
+      "syllabe",
+      "synonyme",
+      "syntaxe",
+      "sens"
+     ],
+     "answer": 1,
+     "explain": "*Syn.* est l’abréviation de *synonyme*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un synonyme de chaque mot souligné, en respectant la nature du mot.",
+     "items": [
+      "Nous avons *aperçu* un lion.",
+      "C’est un chemin *dangereux*.",
+      "Elle a *acheté* une robe.",
+      "Il est très *courageux*."
+     ],
+     "corrige": [
+      "*vu*",
+      "*risqué*, *périlleux*",
+      "*acquis*",
+      "*brave*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : relier les synonymes"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe chaque mot à son synonyme : a) rapide b) regarder c) bruit d) aider.",
+     "items": [
+      "1. vacarme",
+      "2. secourir",
+      "3. véloce",
+      "4. observer"
+     ],
+     "corrige": [
+      "a) rapide → 3 (*véloce*)",
+      "b) regarder → 4 (*observer*)",
+      "c) bruit → 1 (*vacarme*)",
+      "d) aider → 2 (*secourir*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : l’intrus"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans chaque liste, trouve le mot qui n’est pas un synonyme des autres.",
+     "items": [
+      "a) joyeux – gai – triste – content",
+      "b) cesser – arrêter – interrompre – poursuivre",
+      "c) lent – rapide – vif – prompt"
+     ],
+     "corrige": [
+      "a) *triste*",
+      "b) *poursuivre*",
+      "c) *lent*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : réécriture"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris le texte en remplaçant les mots soulignés par des synonymes.",
+     "items": [
+      "Le *petit* garçon est *très* content. Il *dit* qu’il a *fait* un beau dessin. Il le *met* sur le mur."
+     ],
+     "corrige": [
+      "Le *minuscule* garçon est *extrêmement* content. Il *affirme* qu’il a *réalisé* un beau dessin. Il le *colle* sur le mur."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : choisir selon le contexte"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec le synonyme de « grand » qui convient : immense, important, haut, adulte.",
+     "items": [
+      "Le sommet est très … .",
+      "Il a pris une décision … .",
+      "Mon frère est … maintenant.",
+      "Cet océan est … ."
+     ],
+     "corrige": [
+      "Le sommet est très *haut*.",
+      "Il a pris une décision *importante*.",
+      "Mon frère est *adulte* maintenant.",
+      "Cet océan est *immense*."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les **synonymes** sont des mots de **sens proche** et de **même nature**.",
+      "Deux synonymes ne sont presque jamais **identiques** : l’un peut être plus fort, ou d’un autre **niveau de langue**.",
+      "Le bon synonyme dépend du **contexte** : on relit la phrase pour vérifier.",
+      "Les synonymes permettent d’**éviter les répétitions** et de **préciser sa pensée**.",
+      "On trouve des synonymes dans un **dictionnaire des synonymes**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "synonyme",
+       "mot de sens proche, de même nature",
+       "*beau* / *joli*"
+      ],
+      [
+       "nuance",
+       "différence de force ou de sens",
+       "*content* / *ravi*"
+      ],
+      [
+       "niveau de langue",
+       "familier, courant, soutenu",
+       "*bouquin* / *livre* / *ouvrage*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est vraie ?",
+     "options": [
+      "Deux synonymes sont toujours exactement identiques.",
+      "Un synonyme change de nature grammaticale.",
+      "Le bon synonyme dépend du contexte.",
+      "On ne peut pas utiliser de synonymes à l’écrit."
+     ],
+     "answer": 2,
+     "explain": "Le contexte permet de choisir le synonyme qui convient."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,419 @@
+{
+ "id": 105,
+ "meta": {
+  "t": "Le texte descriptif",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : faire voir par les mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ton cousin ne connaît pas ton village. Tu lui écris pour lui **décrire** ta case, le manguier devant la porte et la rivière qui coule tout près. Grâce à tes mots, il peut **imaginer** l’endroit."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est une **description**",
+      "Organiser une description",
+      "Utiliser un vocabulaire **précis**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le texte descriptif",
+     "text": "Le **texte descriptif** **décrit** un **lieu**, une **personne**, un **objet** ou un **animal**. Il fait **voir**, **entendre**, **sentir** ce dont on parle."
+    },
+    {
+     "type": "quiz",
+     "question": "Un texte descriptif sert à…",
+     "options": [
+      "raconter des actions",
+      "décrire",
+      "donner des ordres",
+      "convaincre"
+     ],
+     "answer": 1,
+     "explain": "Il montre comment est ce dont on parle."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase descriptive.",
+     "items": [
+      "La case est ronde et couverte de paille.",
+      "Il courut vers la case.",
+      "Ferme la porte."
+     ],
+     "corrige": [
+      "La case est ronde et couverte de paille."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Organiser une description",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une bonne description suit un **ordre**. On ne dit pas tout dans le désordre."
+    },
+    {
+     "type": "table",
+     "title": "Un plan de description",
+     "head": [
+      "Étape",
+      "Ce que je fais",
+      "Exemple (ma case)"
+     ],
+     "rows": [
+      [
+       "1. **vue d’ensemble**",
+       "je présente l’objet ou le lieu en général",
+       "Ma case est au bord du fleuve."
+      ],
+      [
+       "2. **détails**",
+       "je décris les parties l’une après l’autre",
+       "Les murs sont en terre, le toit est en paille."
+      ],
+      [
+       "3. **impression**",
+       "je donne mon avis, ce que je ressens",
+       "J’aime y entrer : il y fait frais."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Du général au particulier",
+     "text": "On commence par ce qui se voit en premier (**vue d’ensemble**), puis on passe aux **détails**."
+    },
+    {
+     "type": "warn",
+     "label": "L’ordre",
+     "text": "On suit un **ordre logique** : **de gauche à droite**, **de haut en bas**, **du plus proche au plus loin**."
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on en premier dans une description ?",
+     "options": [
+      "les détails",
+      "la vue d’ensemble",
+      "la conclusion",
+      "la morale"
+     ],
+     "answer": 1,
+     "explain": "On commence par une vue d’ensemble."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets dans l’ordre : a) Les murs sont en terre. b) Ma case est au bord du fleuve. c) J’aime y entrer.",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "b, a, c"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le vocabulaire de la description",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour bien décrire, il faut employer des **mots précis**."
+    },
+    {
+     "type": "table",
+     "title": "Les outils de la description",
+     "head": [
+      "Outil",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**adjectifs** qualificatifs",
+       "grand, rond, sombre, doux, épais"
+      ],
+      [
+       "**noms** précis",
+       "manguier (et non « arbre »), pirogue (et non « bateau »)"
+      ],
+      [
+       "**comparaisons**",
+       "rond **comme** une balle ; haut **comme** une tour"
+      ],
+      [
+       "les **cinq sens**",
+       "vue, ouïe, odorat, goût, toucher"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "La case est **ronde comme** une balle. Une **odeur** de fumée flotte. On **entend** le chant du coq."
+    },
+    {
+     "type": "tip",
+     "label": "Les cinq sens",
+     "text": "Une description riche utilise la **vue**, l’**ouïe** (bruits), l’**odorat** (odeurs), le **toucher** et parfois le **goût**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est le plus précis ?",
+     "options": [
+      "arbre",
+      "manguier",
+      "chose",
+      "truc"
+     ],
+     "answer": 1,
+     "explain": "Manguier est un nom précis."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace par un mot plus précis : « Un arbre donne de l’ombre. » (arbre : manguier, baobab, palmier)",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Un manguier donne de l’ombre. (ou : Un baobab …)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les indicateurs de lieu et les temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour **situer** les éléments, on emploie des **indicateurs de lieu**. On décrit au **présent** ou à l’**imparfait**."
+    },
+    {
+     "type": "table",
+     "title": "Indicateurs de lieu",
+     "head": [
+      "Position",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "devant, derrière",
+       "devant la porte, derrière la case"
+      ],
+      [
+       "à gauche, à droite",
+       "à gauche du manguier"
+      ],
+      [
+       "au fond, au milieu",
+       "au fond de la cour, au milieu du village"
+      ],
+      [
+       "en haut, en bas",
+       "en haut de la colline"
+      ],
+      [
+       "près, loin",
+       "près de la rivière, loin de la route"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Devant** la case se dresse un manguier. **À gauche**, un puits. **Au fond**, la rivière scintille."
+    },
+    {
+     "type": "warn",
+     "label": "Les temps de la description",
+     "text": "On décrit au **présent** si l’on décrit ce que l’on voit **maintenant**, à l’**imparfait** si l’on décrit un **souvenir**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un indicateur de lieu ?",
+     "options": [
+      "soudain",
+      "au fond",
+      "hier",
+      "ensuite"
+     ],
+     "answer": 1,
+     "explain": "« Au fond » situe un élément dans l’espace."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec un indicateur de lieu : devant, derrière, à gauche.",
+     "items": [
+      "… la maison, on voit un jardin.",
+      "… de la route, il y a un puits."
+     ],
+     "corrige": [
+      "Derrière la maison, on voit un jardin. (ou Devant)",
+      "À gauche de la route, il y a un puits."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Décrire une personne",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour décrire une **personne**, on fait son **portrait** : **physique** et **moral**."
+    },
+    {
+     "type": "table",
+     "title": "Le portrait",
+     "head": [
+      "Partie",
+      "Ce qu’on décrit",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "portrait **physique**",
+       "taille, visage, cheveux, vêtements",
+       "Il est grand, mince, avec un large sourire."
+      ],
+      [
+       "portrait **moral**",
+       "caractère, qualités, défauts",
+       "Il est gentil, courageux, un peu timide."
+      ],
+      [
+       "**attitude**",
+       "gestes, façon de marcher, de parler",
+       "Il marche lentement, en souriant."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Ma grand-mère est petite et un peu ronde. Elle a les cheveux blancs et un visage plein de rides. Elle est très douce et raconte de belles histoires."
+    },
+    {
+     "type": "tip",
+     "label": "Un bon portrait",
+     "text": "Mélange le **physique** et le **moral** : cela rend la personne **vivante**."
+    },
+    {
+     "type": "quiz",
+     "question": "« Il est courageux et généreux » est un portrait…",
+     "options": [
+      "physique",
+      "moral",
+      "de lieu",
+      "d’objet"
+     ],
+     "answer": 1,
+     "explain": "Il décrit le caractère."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Physique (P) ou moral (M) ?",
+     "items": [
+      "Elle est grande et mince.",
+      "Il est généreux.",
+      "Elle a les yeux noirs.",
+      "Il est timide."
+     ],
+     "corrige": [
+      "P",
+      "M",
+      "P",
+      "M"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **enrichit**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le bon ordre ?",
+     "options": [
+      "détails, vue d’ensemble, impression",
+      "vue d’ensemble, détails, impression",
+      "impression, détails, vue d’ensemble",
+      "détails seulement"
+     ],
+     "answer": 1,
+     "explain": "On va du général au particulier, puis on donne son impression."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : enrichir"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis la phrase « Le chat dort. » avec des adjectifs et un lieu.",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Exemple : Le petit chat noir dort paisiblement sur la natte, devant la porte."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris ta classe en cinq phrases : vue d’ensemble, deux détails, un son ou une odeur, ton impression.",
+     "items": [
+      "Description"
+     ],
+     "corrige": [
+      "Exemple : Ma classe est grande et claire. Les murs sont blancs. Les tables sont alignées. On entend les oiseaux dehors. J’aime y apprendre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **texte descriptif** décrit un lieu, une personne, un objet.",
+      "On va de la **vue d’ensemble** aux **détails**, puis à l’**impression**.",
+      "On emploie des **adjectifs**, des **noms précis**, des **comparaisons**, les **cinq sens**.",
+      "Les **indicateurs de lieu** (*devant, à gauche, au fond*) situent les éléments.",
+      "On décrit au **présent** ou à l’**imparfait**.",
+      "Un **portrait** associe le **physique** et le **moral**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps emploie-t-on pour décrire ce que l’on voit en ce moment ?",
+     "options": [
+      "le passé simple",
+      "le présent",
+      "le futur",
+      "le conditionnel"
+     ],
+     "answer": 1,
+     "explain": "On décrit au présent ce que l’on voit maintenant."
+    }
+   ]
+  }
+ ]
+}

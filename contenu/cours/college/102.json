@@ -1,0 +1,443 @@
+{
+ "id": 102,
+ "meta": {
+  "t": "Le type de discours",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : plusieurs façons de parler",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au village, grand-mère **raconte** un conte. Le maître **explique** une leçon. Un ami **décrit** son nouveau vélo. Le chef **donne un conseil**. Chacun parle pour une **raison différente** : ce sont des **types de discours**."
+    },
+    {
+     "type": "list",
+     "label": "Savoir essentiel",
+     "items": [
+      "Reconnaître le **type de discours**",
+      "Savoir **à quoi il sert**",
+      "Employer le type de discours qui convient"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le type de discours",
+     "text": "Le **type de discours** dépend de l’**intention** de celui qui parle : **raconter**, **décrire**, **expliquer**, **donner un ordre ou un conseil**, **convaincre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Grand-mère raconte un conte : le type de discours est…",
+     "options": [
+      "narratif",
+      "descriptif",
+      "explicatif",
+      "injonctif"
+     ],
+     "answer": 0,
+     "explain": "Raconter une histoire, c’est le discours narratif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle est l’intention de chaque émetteur ?",
+     "items": [
+      "Le conteur raconte une histoire.",
+      "Le maître explique la leçon.",
+      "Un ami décrit son vélo."
+     ],
+     "corrige": [
+      "raconter",
+      "expliquer",
+      "décrire"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le discours narratif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **discours narratif** sert à **raconter** des **événements** qui se suivent."
+    },
+    {
+     "type": "table",
+     "title": "Reconnaître le discours narratif",
+     "head": [
+      "Indice",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "des **actions** qui se suivent",
+       "Il ouvrit la porte, entra et s’assit."
+      ],
+      [
+       "des **verbes d’action**",
+       "partit, arriva, découvrit"
+      ],
+      [
+       "des **marques de temps**",
+       "un jour, soudain, ensuite, enfin"
+      ],
+      [
+       "les **temps du passé**",
+       "passé simple, imparfait, passé composé"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Un matin, le vieux pêcheur prit sa pirogue. Soudain, un poisson géant surgit."
+    },
+    {
+     "type": "tip",
+     "label": "Où le trouve-t-on ?",
+     "text": "Dans les **contes**, les **romans**, les **récits de vie**, les **faits divers**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel indice montre un discours narratif ?",
+     "options": [
+      "un conseil",
+      "des actions qui se suivent",
+      "des définitions",
+      "une liste d’ordres"
+     ],
+     "answer": 1,
+     "explain": "Le narratif enchaîne des événements."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase narrative.",
+     "items": [
+      "La forêt est grande et sombre.",
+      "Il se leva, prit son sac et sortit.",
+      "Ouvrez vos cahiers."
+     ],
+     "corrige": [
+      "Il se leva, prit son sac et sortit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le discours descriptif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **discours descriptif** sert à **décrire** un lieu, une personne, un objet ou un animal : on dit **comment il est**."
+    },
+    {
+     "type": "table",
+     "title": "Reconnaître le discours descriptif",
+     "head": [
+      "Indice",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "des **adjectifs**",
+       "grand, sombre, rouge, épais"
+      ],
+      [
+       "des **verbes d’état**",
+       "est, paraît, semble"
+      ],
+      [
+       "des **indicateurs de lieu**",
+       "au fond, à gauche, devant"
+      ],
+      [
+       "le **présent** ou l’**imparfait**",
+       "La case est ronde. / La case était ronde."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Ma case est ronde. Le toit est en paille. Devant la porte, un grand manguier donne de l’ombre."
+    },
+    {
+     "type": "tip",
+     "label": "Où le trouve-t-on ?",
+     "text": "Dans les **portraits**, les **descriptions de paysages**, les **fiches** sur un animal."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le chat est noir et très doux. », le discours est…",
+     "options": [
+      "narratif",
+      "descriptif",
+      "injonctif",
+      "argumentatif"
+     ],
+     "answer": 1,
+     "explain": "On dit comment est le chat."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase descriptive.",
+     "items": [
+      "Il courut vers la rivière.",
+      "La rivière est large et calme.",
+      "Viens ici !"
+     ],
+     "corrige": [
+      "La rivière est large et calme."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le discours explicatif et le discours injonctif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **discours explicatif** sert à **faire comprendre** quelque chose. Le **discours injonctif** sert à **donner un ordre**, un **conseil** ou une **consigne**."
+    },
+    {
+     "type": "table",
+     "title": "Deux types de discours",
+     "head": [
+      "Type",
+      "But",
+      "Indices",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "explicatif",
+       "faire **comprendre**",
+       "parce que, car, c’est pourquoi, donc",
+       "On porte un chapeau **parce qu’il** y a du soleil."
+      ],
+      [
+       "injonctif",
+       "faire **agir**",
+       "impératif, infinitif, il faut",
+       "**Ferme** la porte. **Mélanger** la farine."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Où le trouve-t-on ?",
+     "text": "L’**explicatif** : leçons, exposés. L’**injonctif** : recettes, notices, règlements, consignes."
+    },
+    {
+     "type": "quiz",
+     "question": "« Mélangez la farine et l’eau » est un discours…",
+     "options": [
+      "narratif",
+      "descriptif",
+      "explicatif",
+      "injonctif"
+     ],
+     "answer": 3,
+     "explain": "C’est une consigne : discours injonctif."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explicatif (E) ou injonctif (I) ?",
+     "items": [
+      "Il pleut parce que le ciel est chargé de nuages.",
+      "Rangez vos affaires.",
+      "Les plantes ont besoin d’eau car elles boivent par les racines."
+     ],
+     "corrige": [
+      "E",
+      "I",
+      "E"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le discours argumentatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **discours argumentatif** sert à **convaincre** quelqu’un en donnant des **arguments**."
+    },
+    {
+     "type": "table",
+     "title": "Reconnaître le discours argumentatif",
+     "head": [
+      "Indice",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "une **opinion** (thèse)",
+       "Je pense qu’il faut protéger la forêt."
+      ],
+      [
+       "des **arguments**",
+       "Elle donne de l’ombre, de l’air pur, des fruits."
+      ],
+      [
+       "des **connecteurs**",
+       "d’abord, ensuite, enfin, en effet, donc"
+      ],
+      [
+       "des **exemples**",
+       "Par exemple, la forêt du Mayombe…"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je pense qu’il faut lire chaque jour : d’abord, cela enrichit le vocabulaire ; ensuite, cela aide à mieux écrire."
+    },
+    {
+     "type": "quiz",
+     "question": "Le but du discours argumentatif est de…",
+     "options": [
+      "raconter",
+      "décrire",
+      "convaincre",
+      "ordonner"
+     ],
+     "answer": 2,
+     "explain": "On cherche à convaincre l’auditeur."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase qui exprime une opinion.",
+     "items": [
+      "Il pleut.",
+      "Je pense qu’il faut protéger la forêt.",
+      "Va chercher de l’eau."
+     ],
+     "corrige": [
+      "Je pense qu’il faut protéger la forêt."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **classe**, puis on **produit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le type de discours.",
+     "items": [
+      "Il était une fois un lion très fier.",
+      "La mangue est jaune et sucrée.",
+      "Pour faire un gâteau, mélange le sucre et la farine.",
+      "Je pense qu’il faut lire chaque jour."
+     ],
+     "corrige": [
+      "narratif",
+      "descriptif",
+      "injonctif",
+      "argumentatif"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel type de discours explique pourquoi quelque chose se produit ?",
+     "options": [
+      "narratif",
+      "explicatif",
+      "descriptif",
+      "injonctif"
+     ],
+     "answer": 1,
+     "explain": "L’explicatif fait comprendre."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : produire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase de chaque type : narratif, descriptif, injonctif.",
+     "items": [
+      "narratif",
+      "descriptif",
+      "injonctif"
+     ],
+     "corrige": [
+      "Exemple : Un matin, le chasseur partit dans la forêt.",
+      "Exemple : La forêt est dense et sombre.",
+      "Exemple : Prends ton sac et pars."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **type de discours** dépend de l’**intention** de l’émetteur.",
+      "**Narratif** : raconter (actions, temps du passé).",
+      "**Descriptif** : décrire (adjectifs, verbes d’état, lieux).",
+      "**Explicatif** : faire comprendre (parce que, car, donc).",
+      "**Injonctif** : ordonner, conseiller (impératif, infinitif).",
+      "**Argumentatif** : convaincre (opinion, arguments, connecteurs)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les types de discours",
+     "head": [
+      "Type",
+      "But"
+     ],
+     "rows": [
+      [
+       "narratif",
+       "raconter"
+      ],
+      [
+       "descriptif",
+       "décrire"
+      ],
+      [
+       "explicatif",
+       "expliquer"
+      ],
+      [
+       "injonctif",
+       "ordonner, conseiller"
+      ],
+      [
+       "argumentatif",
+       "convaincre"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel type de discours trouve-t-on dans une recette ?",
+     "options": [
+      "narratif",
+      "descriptif",
+      "injonctif",
+      "argumentatif"
+     ],
+     "answer": 2,
+     "explain": "Une recette donne des consignes : discours injonctif."
+    }
+   ]
+  }
+ ]
+}

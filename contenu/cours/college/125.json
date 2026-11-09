@@ -1,0 +1,432 @@
+{
+ "id": 125,
+ "meta": {
+  "t": "La présentation des composants de l’ordinateur",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : découvrir l’ordinateur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans la salle informatique, la maîtresse allume un ordinateur. Tu vois un écran, un clavier, une souris, une grosse boîte… Chaque pièce a un **nom** et un **rôle**. Pour bien parler de l’ordinateur, il faut connaître son **vocabulaire**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les **principaux composants** de l’ordinateur",
+      "Savoir **à quoi sert** chacun",
+      "Employer le **vocabulaire** correct"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "L’ordinateur",
+     "text": "L’**ordinateur** est une machine électronique qui **reçoit** des informations, les **traite**, les **stocke** et les **affiche**. Il est formé de **composants** (les pièces) et de **logiciels** (les programmes)."
+    },
+    {
+     "type": "quiz",
+     "question": "Un ordinateur sert à…",
+     "options": [
+      "traiter des informations",
+      "cuisiner",
+      "labourer",
+      "peindre un mur"
+     ],
+     "answer": 0,
+     "explain": "Il reçoit, traite et affiche des informations."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les mots du vocabulaire informatique.",
+     "items": [
+      "clavier",
+      "manguier",
+      "écran",
+      "pirogue"
+     ],
+     "corrige": [
+      "clavier",
+      "écran"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’unité centrale et ses éléments",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**unité centrale** est la **boîte** qui contient les pièces les plus importantes."
+    },
+    {
+     "type": "table",
+     "title": "Dans l’unité centrale",
+     "head": [
+      "Composant",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "**le processeur**",
+       "le « cerveau » : il calcule et commande"
+      ],
+      [
+       "**la mémoire vive (RAM)**",
+       "garde les informations pendant le travail"
+      ],
+      [
+       "**le disque dur**",
+       "conserve les fichiers (documents, photos)"
+      ],
+      [
+       "**la carte mère**",
+       "relie tous les composants"
+      ],
+      [
+       "**l’alimentation**",
+       "apporte l’électricité"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une image",
+     "text": "Le **processeur** est comme le **cerveau**. Le **disque dur** est comme une **armoire** où l’on range ses affaires."
+    },
+    {
+     "type": "warn",
+     "label": "RAM et disque dur",
+     "text": "La **mémoire vive** **s’efface** quand on éteint l’ordinateur. Le **disque dur** **garde** les fichiers."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel composant est le « cerveau » ?",
+     "options": [
+      "le disque dur",
+      "le processeur",
+      "l’écran",
+      "la souris"
+     ],
+     "answer": 1,
+     "explain": "Le processeur calcule et commande."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Qui garde les fichiers après extinction ?",
+     "items": [
+      "Composant"
+     ],
+     "corrige": [
+      "Le disque dur."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’écran, le clavier et la souris",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ce sont les pièces que l’on **voit** et que l’on **utilise** le plus."
+    },
+    {
+     "type": "table",
+     "title": "Les pièces de base",
+     "head": [
+      "Pièce",
+      "Rôle",
+      "Type"
+     ],
+     "rows": [
+      [
+       "**l’écran (le moniteur)**",
+       "affiche les images et les textes",
+       "sortie"
+      ],
+      [
+       "**le clavier**",
+       "permet d’écrire des lettres, chiffres, signes",
+       "entrée"
+      ],
+      [
+       "**la souris**",
+       "déplace le pointeur et permet de cliquer",
+       "entrée"
+      ],
+      [
+       "**les haut-parleurs**",
+       "produisent le son",
+       "sortie"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "On **tape** un texte au **clavier**, on le voit à l’**écran**, on **clique** avec la **souris**."
+    },
+    {
+     "type": "tip",
+     "label": "Entrée et sortie",
+     "text": "Ce qu’on utilise pour **donner** des informations est une **entrée** (clavier, souris). Ce qui les **montre** est une **sortie** (écran, haut-parleur)."
+    },
+    {
+     "type": "quiz",
+     "question": "Le clavier est une…",
+     "options": [
+      "sortie",
+      "entrée",
+      "mémoire",
+      "alimentation"
+     ],
+     "answer": 1,
+     "explain": "Il sert à entrer des informations."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : écran, souris, haut-parleur, clavier.",
+     "items": [
+      "Entrées",
+      "Sorties"
+     ],
+     "corrige": [
+      "Entrées : souris, clavier",
+      "Sorties : écran, haut-parleur"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le système et les logiciels",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un ordinateur a aussi des **composants invisibles** : les **logiciels**."
+    },
+    {
+     "type": "table",
+     "title": "Les logiciels",
+     "head": [
+      "Mot",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le système d’exploitation**",
+       "le logiciel principal qui fait marcher l’ordinateur",
+       "Windows, Linux"
+      ],
+      [
+       "**un logiciel (une application)**",
+       "un programme pour une tâche précise",
+       "un traitement de texte"
+      ],
+      [
+       "**un fichier**",
+       "un document enregistré",
+       "une lettre, une photo"
+      ],
+      [
+       "**un dossier**",
+       "un « tiroir » qui range les fichiers",
+       "le dossier « Cours »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Pour écrire une lettre, on ouvre un **logiciel de traitement de texte**, puis on **enregistre** le **fichier** dans un **dossier**."
+    },
+    {
+     "type": "tip",
+     "label": "Matériel et logiciel",
+     "text": "Le **matériel** se **touche** (écran, clavier). Le **logiciel** ne se touche pas : c’est un **programme**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un traitement de texte est…",
+     "options": [
+      "un matériel",
+      "un logiciel",
+      "une sortie",
+      "un câble"
+     ],
+     "answer": 1,
+     "explain": "C’est un programme."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : disque dur, traitement de texte, souris, système d’exploitation.",
+     "items": [
+      "Matériel",
+      "Logiciel"
+     ],
+     "corrige": [
+      "Matériel : disque dur, souris",
+      "Logiciel : traitement de texte, système d’exploitation"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Employer le vocabulaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour bien parler d’informatique, on emploie les **mots justes** et des **verbes** précis."
+    },
+    {
+     "type": "table",
+     "title": "Des verbes de l’informatique",
+     "head": [
+      "Verbe",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "**allumer / éteindre**",
+       "mettre en marche / arrêter"
+      ],
+      [
+       "**cliquer**",
+       "appuyer sur la souris"
+      ],
+      [
+       "**saisir / taper**",
+       "écrire au clavier"
+      ],
+      [
+       "**enregistrer**",
+       "garder un fichier"
+      ],
+      [
+       "**ouvrir / fermer**",
+       "accéder / quitter un fichier"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**J’allume** l’ordinateur, **j’ouvre** un document, **je tape** mon texte, puis **j’enregistre** et **j’éteins**."
+    },
+    {
+     "type": "warn",
+     "label": "Attention aux mots",
+     "text": "On dit **un ordinateur** (pas « une ordinateur »), **un écran**, **une souris**, **un clavier**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe signifie « écrire au clavier » ?",
+     "options": [
+      "cliquer",
+      "taper",
+      "éteindre",
+      "fermer"
+     ],
+     "answer": 1,
+     "explain": "« Taper » ou « saisir »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète : « J’____ l’ordinateur pour commencer. » (allumer)",
+     "items": [
+      "Mot"
+     ],
+     "corrige": [
+      "allume"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel composant relie tous les autres ?",
+     "options": [
+      "la carte mère",
+      "la souris",
+      "l’écran",
+      "le clavier"
+     ],
+     "answer": 0,
+     "explain": "La carte mère."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : associer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe : processeur / écran / clavier — calculer / afficher / écrire.",
+     "items": [
+      "Association"
+     ],
+     "corrige": [
+      "processeur : calculer",
+      "écran : afficher",
+      "clavier : écrire"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : expliquer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique en deux phrases comment tu écris un texte sur ordinateur.",
+     "items": [
+      "Explication"
+     ],
+     "corrige": [
+      "Exemple : J’allume l’ordinateur et j’ouvre le traitement de texte. Je tape mon texte au clavier, puis je l’enregistre dans un dossier."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**unité centrale** contient le **processeur**, la **mémoire vive**, le **disque dur** et la **carte mère**.",
+      "L’**écran**, les **haut-parleurs** sont des **sorties** ; le **clavier**, la **souris** sont des **entrées**.",
+      "Le **matériel** se touche ; le **logiciel** est un **programme**.",
+      "On range les **fichiers** dans des **dossiers**.",
+      "On emploie les verbes justes : **allumer, cliquer, taper, enregistrer**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le disque dur sert à…",
+     "options": [
+      "conserver les fichiers",
+      "afficher les images",
+      "écrire",
+      "calculer"
+     ],
+     "answer": 0,
+     "explain": "Il conserve les fichiers."
+    }
+   ]
+  }
+ ]
+}

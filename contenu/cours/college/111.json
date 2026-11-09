@@ -1,0 +1,393 @@
+{
+ "id": 111,
+ "meta": {
+  "t": "L’introduction",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : bien commencer sa rédaction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tu dois écrire sur le sujet : « Raconte une journée de marché ». Tu ouvres ton cahier et tu ne sais pas comment commencer. Un bon début donne envie de lire la suite. Ce début s’appelle l’**introduction**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est une **introduction**",
+      "Connaître ses **trois rôles**",
+      "Rédiger une introduction **courte et claire**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "L’introduction",
+     "text": "L’**introduction** est la **première partie** d’une rédaction. Elle **présente le sujet** et **prépare le lecteur** à ce qui va suivre."
+    },
+    {
+     "type": "quiz",
+     "question": "L’introduction se place…",
+     "options": [
+      "à la fin",
+      "au début",
+      "au milieu",
+      "n’importe où"
+     ],
+     "answer": 1,
+     "explain": "C’est la première partie de la rédaction."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les mots qui complètent : L’introduction est la ______ partie d’une rédaction.",
+     "items": [
+      "première",
+      "dernière",
+      "seconde"
+     ],
+     "corrige": [
+      "première"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les trois rôles de l’introduction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une bonne introduction fait **trois choses** dans l’ordre."
+    },
+    {
+     "type": "table",
+     "title": "Ce que fait l’introduction",
+     "head": [
+      "Rôle",
+      "Ce que j’écris",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**amener le sujet**",
+       "une phrase générale sur le thème",
+       "Le marché est un lieu très animé."
+      ],
+      [
+       "**poser le sujet**",
+       "je dis précisément de quoi je vais parler",
+       "Je vais raconter ma dernière visite au marché."
+      ],
+      [
+       "**annoncer le plan**",
+       "je dis ce qui va suivre",
+       "Je dirai d’abord comment nous sommes arrivés, puis ce que nous avons vu."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le marché est un lieu très animé. **Je vais raconter** ma dernière visite avec ma mère. **D’abord**, je dirai notre arrivée, **ensuite** ce que nous avons acheté."
+    },
+    {
+     "type": "tip",
+     "label": "Ne dis pas tout",
+     "text": "L’introduction **annonce**, elle ne **raconte pas** déjà toute l’histoire."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le premier rôle de l’introduction ?",
+     "options": [
+      "annoncer la fin",
+      "amener le sujet",
+      "donner la morale",
+      "corriger les fautes"
+     ],
+     "answer": 1,
+     "explain": "On commence par amener le sujet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : a) Le football passionne beaucoup d’enfants. b) Je vais parler de mon dernier match.",
+     "items": [
+      "a",
+      "b"
+     ],
+     "corrige": [
+      "a : amener le sujet",
+      "b : poser le sujet"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certaines introductions ratent leur but. Voici les erreurs les plus courantes."
+    },
+    {
+     "type": "table",
+     "title": "Ce qu’il faut éviter",
+     "head": [
+      "Erreur",
+      "Exemple",
+      "Correction"
+     ],
+     "rows": [
+      [
+       "**recopier le sujet**",
+       "Le sujet est : raconte une journée de marché.",
+       "Reformuler avec ses propres mots."
+      ],
+      [
+       "**commencer par « Bonjour »**",
+       "Bonjour, je vais parler du marché.",
+       "Entrer directement dans le thème."
+      ],
+      [
+       "**raconter trop tôt**",
+       "Hier, nous sommes allés au marché et nous avons acheté des tomates…",
+       "Annoncer seulement."
+      ],
+      [
+       "**être trop longue**",
+       "dix lignes d’introduction",
+       "Trois ou quatre phrases suffisent."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Reformuler, pas recopier",
+     "text": "Écris le sujet **avec tes propres mots**. Ne copie pas l’énoncé tel quel."
+    },
+    {
+     "type": "quiz",
+     "question": "Une introduction doit être…",
+     "options": [
+      "très longue",
+      "courte et claire",
+      "vide",
+      "écrite à la fin"
+     ],
+     "answer": 1,
+     "explain": "Trois ou quatre phrases suffisent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige : « Bonjour, le sujet est : décris ton école. » Écris un meilleur début.",
+     "items": [
+      "Début"
+     ],
+     "corrige": [
+      "Exemple : L’école est un lieu où l’on apprend et où l’on se fait des amis. Je vais décrire la mienne : ses bâtiments, sa cour et ses classes."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les mots pour introduire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quelques mots et expressions rendent l’introduction **fluide**."
+    },
+    {
+     "type": "table",
+     "title": "Des expressions utiles",
+     "head": [
+      "Pour…",
+      "On peut écrire"
+     ],
+     "rows": [
+      [
+       "amener le sujet",
+       "De nos jours… ; Chacun sait que… ; Il arrive que…"
+      ],
+      [
+       "poser le sujet",
+       "Je vais parler de… ; Je vais raconter… ; Nous allons voir…"
+      ],
+      [
+       "annoncer le plan",
+       "D’abord… ensuite… enfin… ; Dans un premier temps…"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Chacun sait que** l’eau est précieuse. **Je vais expliquer** pourquoi il faut la protéger. **D’abord**, je dirai à quoi elle sert, **ensuite** comment l’économiser."
+    },
+    {
+     "type": "tip",
+     "label": "Varie tes débuts",
+     "text": "Ne commence pas toujours par « Un jour… ». Essaie une phrase générale, une question ou une image."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle expression annonce le plan ?",
+     "options": [
+      "Je vais parler de…",
+      "D’abord… ensuite…",
+      "Chacun sait que…",
+      "Bonjour"
+     ],
+     "answer": 1,
+     "explain": "« D’abord… ensuite… » annonce les étapes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : je vais raconter / chacun sait que / d’abord. « ______ la lecture est utile. ______ une belle histoire. ______, le début. »",
+     "items": [
+      "1",
+      "2",
+      "3"
+     ],
+     "corrige": [
+      "Chacun sait que",
+      "Je vais raconter",
+      "D’abord"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger une introduction pas à pas",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici une **méthode** simple pour écrire ton introduction."
+    },
+    {
+     "type": "list",
+     "label": "Les étapes",
+     "items": [
+      "Je lis le sujet et je **souligne les mots importants**.",
+      "J’écris une phrase **générale** sur le thème.",
+      "Je **reformule** le sujet avec mes mots.",
+      "J’**annonce** les grandes parties."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "**Sujet** : « Décris le marché de ton quartier. » → Le marché est le cœur de la vie du quartier. Je vais le décrire en trois temps : l’aspect général, les marchands, puis les odeurs et les bruits."
+    },
+    {
+     "type": "tip",
+     "label": "Relire",
+     "text": "Relis ton introduction : donne-t-elle envie de lire la suite ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on en premier ?",
+     "options": [
+      "écrire la conclusion",
+      "lire le sujet et souligner les mots importants",
+      "annoncer le plan",
+      "relire la copie"
+     ],
+     "answer": 1,
+     "explain": "On commence par bien comprendre le sujet."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une introduction de trois phrases pour le sujet : « Raconte une fête dans ton village ».",
+     "items": [
+      "Introduction"
+     ],
+     "corrige": [
+      "Exemple : Les fêtes rassemblent tous les habitants d’un village. Je vais raconter celle de l’an dernier. J’évoquerai les préparatifs, puis la danse et le repas."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **corrige**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le rôle de « Je vais raconter mon voyage » ?",
+     "options": [
+      "amener le sujet",
+      "poser le sujet",
+      "annoncer la fin",
+      "faire la morale"
+     ],
+     "answer": 1,
+     "explain": "Elle dit précisément de quoi l’on va parler."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets dans l’ordre les phrases d’une introduction : a) D’abord, le départ, puis l’arrivée. b) Les voyages font rêver. c) Je vais raconter ma visite à Brazzaville.",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "b, c, a"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige l’introduction du sujet : « Parle de ton meilleur ami ».",
+     "items": [
+      "Introduction"
+     ],
+     "corrige": [
+      "Exemple : Un ami est un trésor. Je vais vous présenter le mien. Je dirai d’abord comment nous nous sommes connus, puis pourquoi je l’aime."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**introduction** est la première partie de la rédaction.",
+      "Elle **amène le sujet**, le **pose** et **annonce le plan**.",
+      "Elle est **courte** (trois ou quatre phrases) et **claire**.",
+      "On **reformule** le sujet : on ne le recopie pas.",
+      "On évite « Bonjour » et on ne raconte pas déjà toute l’histoire."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait l’introduction en dernier ?",
+     "options": [
+      "amène le sujet",
+      "annonce le plan",
+      "pose la conclusion",
+      "raconte la fin"
+     ],
+     "answer": 1,
+     "explain": "Elle termine en annonçant le plan."
+    }
+   ]
+  }
+ ]
+}

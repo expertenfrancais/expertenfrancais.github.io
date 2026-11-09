@@ -1,0 +1,415 @@
+{
+ "id": 119,
+ "meta": {
+  "t": "La présentation de l’œuvre",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : faire connaître un livre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tu as aimé un livre et tu veux le **faire découvrir** à ton ami. Tu lui dis son **titre**, qui l’a écrit, de quoi il parle et pourquoi il est beau. Sans le savoir, tu viens de **présenter une œuvre**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir **présenter une œuvre**",
+      "Repérer les **éléments de la couverture**",
+      "Rédiger une **situation de l’œuvre**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La présentation de l’œuvre",
+     "text": "**Présenter une œuvre**, c’est donner ses **informations essentielles** (titre, auteur, genre, éditeur, date) et dire **de quoi elle parle**, sans tout raconter."
+    },
+    {
+     "type": "quiz",
+     "question": "Présenter une œuvre, c’est…",
+     "options": [
+      "la recopier",
+      "donner ses informations essentielles",
+      "la jeter",
+      "la colorier"
+     ],
+     "answer": 1,
+     "explain": "On donne les repères principaux."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie ce qui est une information sur l’œuvre.",
+     "items": [
+      "le titre",
+      "le temps qu’il fait",
+      "le nom de l’auteur",
+      "l’heure"
+     ],
+     "corrige": [
+      "le titre",
+      "le nom de l’auteur"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Lire la couverture et les premières pages",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **couverture** et les premières pages donnent beaucoup de renseignements."
+    },
+    {
+     "type": "table",
+     "title": "Les éléments à repérer",
+     "head": [
+      "Élément",
+      "Ce qu’il indique",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le titre**",
+       "le nom de l’œuvre",
+       "*Les contes du fleuve*"
+      ],
+      [
+       "**l’auteur**",
+       "celui qui a écrit",
+       "Amadou Nkounkou (auteur inventé)"
+      ],
+      [
+       "**l’illustration**",
+       "une image de l’histoire",
+       "un pêcheur dans sa pirogue"
+      ],
+      [
+       "**la maison d’édition**",
+       "celle qui a publié",
+       "Éditions du Bassin"
+      ],
+      [
+       "**la collection**",
+       "la série à laquelle le livre appartient",
+       "Bibliothèque des jeunes"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Observer avant de lire",
+     "text": "Avant de lire, **formule une idée** : de quoi peut parler ce livre d’après le titre et l’image ?"
+    },
+    {
+     "type": "warn",
+     "label": "Titre et sujet",
+     "text": "Le **titre** ne dit pas toujours tout. Il faut lire le livre ou la quatrième de couverture pour comprendre."
+    },
+    {
+     "type": "quiz",
+     "question": "L’éditeur est…",
+     "options": [
+      "celui qui écrit",
+      "celui qui publie le livre",
+      "celui qui lit",
+      "l’illustrateur"
+     ],
+     "answer": 1,
+     "explain": "La maison d’édition publie le livre."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le titre et l’auteur : « Chants du matin, d’Amadou Nkounkou, Éditions du Bassin ».",
+     "items": [
+      "Titre",
+      "Auteur"
+     ],
+     "corrige": [
+      "Titre : Chants du matin",
+      "Auteur : Amadou Nkounkou"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le genre de l’œuvre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Chaque œuvre appartient à un **genre**. Le genre dit **ce que l’on va lire**."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux genres",
+     "head": [
+      "Genre",
+      "Caractéristique",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**le roman**",
+       "long récit imaginaire",
+       "une histoire de plusieurs chapitres"
+      ],
+      [
+       "**le conte**",
+       "histoire courte, souvent avec une leçon",
+       "la tortue et l’antilope"
+      ],
+      [
+       "**la nouvelle**",
+       "récit bref avec peu de personnages",
+       "une aventure d’une journée"
+      ],
+      [
+       "**le poème**",
+       "texte en vers qui exprime des émotions",
+       "« Mon village »"
+      ],
+      [
+       "**la pièce de théâtre**",
+       "texte à jouer, dialogues",
+       "une scène entre deux amis"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*Les contes du fleuve* est un **recueil de contes** : plusieurs histoires courtes dans un même livre."
+    },
+    {
+     "type": "tip",
+     "label": "Le genre",
+     "text": "Le **genre** se trouve sur la couverture ou la page de titre (roman, contes, poèmes…)."
+    },
+    {
+     "type": "quiz",
+     "question": "Un livre de plusieurs histoires courtes est…",
+     "options": [
+      "un roman",
+      "un recueil de contes",
+      "une pièce",
+      "un dictionnaire"
+     ],
+     "answer": 1,
+     "explain": "C’est un recueil de contes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel est le genre d’un texte à jouer sur scène ?",
+     "items": [
+      "Genre"
+     ],
+     "corrige": [
+      "Une pièce de théâtre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La situation de l’œuvre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **situation de l’œuvre** donne le **cadre** de l’histoire sans la raconter en détail."
+    },
+    {
+     "type": "table",
+     "title": "Que dit-on ?",
+     "head": [
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Où** se passe l’histoire ?",
+       "dans un village au bord du fleuve"
+      ],
+      [
+       "**Quand** ?",
+       "il y a longtemps"
+      ],
+      [
+       "**Qui** sont les personnages principaux ?",
+       "un jeune pêcheur et son grand-père"
+      ],
+      [
+       "**De quoi** parle le livre ?",
+       "du courage et du respect de la nature"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Ce livre se déroule dans un village au bord du fleuve. Il raconte l’histoire d’un jeune pêcheur qui apprend le courage grâce à son grand-père. »"
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas révéler la fin",
+     "text": "Dans une présentation, on **ne dévoile pas la fin** : on donne envie de lire."
+    },
+    {
+     "type": "quiz",
+     "question": "Que ne dit-on pas dans la présentation ?",
+     "options": [
+      "le titre",
+      "le genre",
+      "la fin de l’histoire",
+      "le lieu"
+     ],
+     "answer": 2,
+     "explain": "On ne dévoile pas la fin."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase de situation pour une histoire se déroulant dans une école.",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Exemple : Ce livre se déroule dans une école de village où une élève découvre le plaisir de lire."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger la fiche de présentation",
+   "blocs": [
+    {
+     "type": "list",
+     "label": "Les étapes",
+     "items": [
+      "Je donne le **titre** et l’**auteur**.",
+      "Je précise le **genre**, l’**éditeur** et la **date**.",
+      "Je donne la **situation** : lieu, époque, personnages.",
+      "Je **donne mon avis** en une phrase."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "***Les contes du fleuve*** est un recueil de contes d’Amadou Nkounkou (Éditions du Bassin, 1985). Les histoires se passent dans un village au bord du fleuve. J’ai aimé ce livre, car il enseigne le respect de la nature. (Œuvre inventée pour l’exemple.)"
+    },
+    {
+     "type": "tip",
+     "label": "Donner son avis",
+     "text": "Un petit **avis** à la fin donne envie aux autres de lire : « J’ai aimé… car… »"
+    },
+    {
+     "type": "quiz",
+     "question": "Que met-on en italique ou souligné ?",
+     "options": [
+      "le titre de l’œuvre",
+      "le nom de la ville",
+      "la date",
+      "l’avis"
+     ],
+     "answer": 0,
+     "explain": "Le titre d’une œuvre est écrit en italique ou souligné."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige la présentation d’un livre de ton choix en trois phrases.",
+     "items": [
+      "Présentation"
+     ],
+     "corrige": [
+      "Exemple : (Titre) est un roman de (Auteur). L’histoire se passe… J’ai aimé ce livre car…"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Qui publie un livre ?",
+     "options": [
+      "l’auteur seul",
+      "la maison d’édition",
+      "le lecteur",
+      "le libraire"
+     ],
+     "answer": 1,
+     "explain": "La maison d’édition."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : a) roman b) Éditions du Bassin c) conte.",
+     "items": [
+      "a",
+      "b",
+      "c"
+     ],
+     "corrige": [
+      "a : genre",
+      "b : éditeur",
+      "c : genre"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Présente en quatre phrases un livre que tu as lu à l’école.",
+     "items": [
+      "Présentation"
+     ],
+     "corrige": [
+      "Exemple : (Titre) est un roman de (Auteur). L’histoire se passe… Les personnages principaux sont… J’ai aimé ce livre car…"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Présenter une œuvre**, c’est donner ses informations et dire de quoi elle parle.",
+      "On repère le **titre**, l’**auteur**, le **genre**, l’**éditeur** et la **date**.",
+      "La **situation de l’œuvre** donne le lieu, l’époque et les personnages.",
+      "On **ne dévoile pas la fin**.",
+      "On peut terminer par son **avis**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que ne faut-il pas faire dans une présentation ?",
+     "options": [
+      "donner le titre",
+      "dévoiler la fin",
+      "donner son avis",
+      "dire le genre"
+     ],
+     "answer": 1,
+     "explain": "On garde le suspense."
+    }
+   ]
+  }
+ ]
+}

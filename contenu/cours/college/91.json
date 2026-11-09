@@ -1,0 +1,629 @@
+{
+ "id": 91,
+ "meta": {
+  "t": "La majuscule",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "À quoi servent les majuscules ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis cette phrase : « Mouanda est parti de Brazzaville le matin. » Les mots **Mouanda** et **Brazzaville** commencent par une **lettre capitale**. On l’appelle la **majuscule**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir quand mettre une majuscule",
+      "Distinguer noms propres et noms communs",
+      "Écrire les majuscules accentuées"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La majuscule",
+     "text": "La **majuscule** est la **grande lettre** que l’on écrit au **début d’une phrase** et au **début d’un nom propre**. Le contraire de la majuscule est la **minuscule**."
+    },
+    {
+     "type": "table",
+     "title": "Quand utiliser la majuscule ?",
+     "head": [
+      "Cas",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "début de phrase",
+       "**L**e soleil se lève."
+      ],
+      [
+       "nom de personne",
+       "**M**arie, **M**ouanda"
+      ],
+      [
+       "nom de lieu",
+       "**B**razzaville, le **C**ongo"
+      ],
+      [
+       "nom de fête",
+       "**N**oël, **P**âques"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot prend toujours une majuscule ?",
+     "options": [
+      "maison",
+      "Brazzaville",
+      "chien",
+      "rivière"
+     ],
+     "answer": 1,
+     "explain": "Brazzaville est un nom propre : il prend une majuscule."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie en mettant les majuscules.",
+     "items": [
+      "marie habite à pointe-noire.",
+      "mon frère s’appelle jean."
+     ],
+     "corrige": [
+      "Marie habite à Pointe-Noire.",
+      "Mon frère s’appelle Jean."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La majuscule en début de phrase",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On met une **majuscule** au **premier mot** d’une **phrase** et après un **point**, un **point d’interrogation**, un **point d’exclamation** ou des **points de suspension** qui terminent la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Quand mettre la majuscule ?",
+     "head": [
+      "Situation",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "début d’un texte",
+       "**L**e soir tombe sur le village."
+      ],
+      [
+       "après un point",
+       "Il pleut. **L**es enfants rentrent."
+      ],
+      [
+       "après ? ou !",
+       "Quelle heure est-il ? **I**l est midi."
+      ],
+      [
+       "début d’une réplique (guillemets)",
+       "Il dit : « **V**iens ici ! »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "La nuit est tombée. **L**e chef parle. — Où vas-tu ? **J**e vais au marché."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de majuscule après les deux-points",
+     "text": "Après les **deux-points**, on met une **minuscule**, sauf si on **cite** une parole : *Il a acheté trois choses : du riz, du sel et du sucre.* mais *Il dit : « **V**iens ! »*"
+    },
+    {
+     "type": "tip",
+     "label": "Après la virgule ou le point-virgule",
+     "text": "Après une **virgule** ou un **point-virgule**, on écrit une **minuscule** : *Il pleut, nous restons.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correctement ponctuée ?",
+     "options": [
+      "Il pleut. les enfants rentrent.",
+      "Il pleut. Les enfants rentrent.",
+      "il pleut. Les enfants rentrent.",
+      "Il pleut, Les enfants rentrent."
+     ],
+     "answer": 1,
+     "explain": "Après un point, on met une majuscule ; au début du texte aussi."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les majuscules et la ponctuation qui manquent.",
+     "items": [
+      "la pluie tombe. nous restons à la maison",
+      "où vas-tu. je vais au marché"
+     ],
+     "corrige": [
+      "La pluie tombe. Nous restons à la maison.",
+      "Où vas-tu ? Je vais au marché."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les noms propres",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un **nom propre** désigne **un être ou un lieu unique**. Il prend toujours une **majuscule**."
+    },
+    {
+     "type": "table",
+     "title": "Les noms propres",
+     "head": [
+      "Sorte",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "personnes",
+       "**M**arie, **N**gouabi, **M**onsieur **O**ndongo"
+      ],
+      [
+       "animaux",
+       "le chien **M**irza"
+      ],
+      [
+       "villes, villages",
+       "**B**razzaville, **O**wando, **D**olisie"
+      ],
+      [
+       "pays, continents",
+       "le **C**ongo, la **F**rance, l’**A**frique"
+      ],
+      [
+       "fleuves, montagnes",
+       "le **C**ongo, l’**O**ubangui, le **K**ilimandjaro"
+      ],
+      [
+       "fêtes",
+       "**N**oël, **P**âques"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le fleuve **C**ongo sépare **B**razzaville et **K**inshasa. — Nous fêtons **N**oël en décembre."
+    },
+    {
+     "type": "tip",
+     "label": "Les noms de lieux composés",
+     "text": "Dans un nom de lieu composé, chaque mot prend une majuscule : *Pointe-**N**oire*, *Saint-**L**ouis*."
+    },
+    {
+     "type": "warn",
+     "label": "Peuples et habitants",
+     "text": "Les **noms d’habitants** prennent une majuscule : *les **C**ongolais, un **F**rançais*. Mais les **adjectifs** correspondants n’en prennent pas : *le peuple **c**ongolais*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correctement écrite ?",
+     "options": [
+      "Les congolais aiment la musique.",
+      "Les Congolais aiment la musique.",
+      "les Congolais aiment la musique.",
+      "Les Congolais aiment la Musique."
+     ],
+     "answer": 1,
+     "explain": "Congolais, nom d’habitants, prend une majuscule ; musique est un nom commun."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie en mettant les majuscules nécessaires.",
+     "items": [
+      "mon cousin habite à dolisie.",
+      "le fleuve congo est très large.",
+      "nous parlons le français et le lingala.",
+      "les congolais aiment le football."
+     ],
+     "corrige": [
+      "Mon cousin habite à Dolisie.",
+      "Le fleuve Congo est très large.",
+      "Nous parlons le français et le lingala.",
+      "Les Congolais aiment le football."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Majuscule ou minuscule ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains mots **ne prennent pas** de majuscule, même si on a l’impression qu’ils sont importants."
+    },
+    {
+     "type": "table",
+     "title": "Les mots qui prennent une minuscule",
+     "head": [
+      "Catégorie",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "jours de la semaine",
+       "lundi, mardi, dimanche"
+      ],
+      [
+       "mois de l’année",
+       "janvier, août, novembre"
+      ],
+      [
+       "saisons",
+       "le printemps, l’été"
+      ],
+      [
+       "langues",
+       "le français, le lingala, l’anglais"
+      ],
+      [
+       "adjectifs de nationalité",
+       "un village congolais, la cuisine française"
+      ],
+      [
+       "points cardinaux",
+       "le nord, le sud, l’est, l’ouest"
+      ],
+      [
+       "titres et fonctions",
+       "le directeur, le maire, le président"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Nous partons **lundi** 15 **août**. — On parle le **lingala** au marché. — La maîtresse est **congolaise**."
+    },
+    {
+     "type": "warn",
+     "label": "Nom d’habitant ou langue ?",
+     "text": "*Un **F**rançais* (habitant : majuscule) ≠ *le **f**rançais* (langue : minuscule). De même : *un **C**ongolais* ≠ *le lingala*."
+    },
+    {
+     "type": "tip",
+     "label": "Pour une région",
+     "text": "Un point cardinal prend une majuscule seulement quand il fait **partie du nom** : *le **N**ord-Kivu, l’**A**frique du **S**ud*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Nous partons Lundi en Août.",
+      "Nous partons lundi en août.",
+      "nous partons Lundi en août.",
+      "Nous partons lundi en Août."
+     ],
+     "answer": 1,
+     "explain": "Les jours et les mois s’écrivent avec une minuscule."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les majuscules fautives.",
+     "items": [
+      "Mon Frère parle le Lingala.",
+      "Je vais à l’école le Lundi.",
+      "La Cuisine Congolaise est délicieuse.",
+      "Il fait chaud en Août."
+     ],
+     "corrige": [
+      "Mon frère parle le lingala.",
+      "Je vais à l’école le lundi.",
+      "La cuisine congolaise est délicieuse.",
+      "Il fait chaud en août."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les titres, les lettres et les adresses",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La majuscule intervient aussi dans les **titres d’œuvres**, les **lettres** et les **adresses**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques cas",
+     "head": [
+      "Cas",
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "titre d’un texte",
+       "majuscule au **premier mot**",
+       "**L**e lion et la souris"
+      ],
+      [
+       "formule d’appel",
+       "majuscule au **premier mot**",
+       "**M**adame la directrice,"
+      ],
+      [
+       "date en tête de lettre",
+       "ville avec majuscule, mois en minuscule",
+       "**B**razzaville, le 8 novembre 2026"
+      ],
+      [
+       "rue, avenue",
+       "majuscule au **nom propre**",
+       "avenue **M**arien **N**gouabi"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Brazzaville**, le 8 novembre 2026 — **Madame** la directrice, — Je vous prie d’agréer, **Madame**, mes salutations distinguées."
+    },
+    {
+     "type": "warn",
+     "label": "Les formules de politesse",
+     "text": "À l’intérieur d’une phrase, **Madame**, **Monsieur** prennent une **majuscule** quand on s’adresse à la personne : *Je vous remercie, **Monsieur**.*"
+    },
+    {
+     "type": "tip",
+     "label": "Les sigles",
+     "text": "Les **sigles** s’écrivent en **majuscules** : *l’ONU, la RDC, le BEPC*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle date est correctement écrite en tête d’une lettre ?",
+     "options": [
+      "brazzaville, le 8 Novembre 2026",
+      "Brazzaville, le 8 novembre 2026",
+      "Brazzaville, Le 8 Novembre 2026",
+      "brazzaville le 8 novembre 2026"
+     ],
+     "answer": 1,
+     "explain": "Ville avec majuscule, mois en minuscule."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris correctement.",
+     "items": [
+      "pointe-noire, le 12 juillet 2026",
+      "madame la directrice,",
+      "le bepc se passe en juillet"
+     ],
+     "corrige": [
+      "Pointe-Noire, le 12 juillet 2026",
+      "Madame la directrice,",
+      "Le BEPC se passe en juillet."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les majuscules accentuées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **majuscules** peuvent et doivent porter les **accents**, la **cédille** et le **tréma** quand le mot en a besoin."
+    },
+    {
+     "type": "table",
+     "title": "Accents sur les majuscules",
+     "head": [
+      "Mot",
+      "Écriture correcte"
+     ],
+     "rows": [
+      [
+       "école",
+       "**É**cole"
+      ],
+      [
+       "État",
+       "**É**tat"
+      ],
+      [
+       "à Brazzaville",
+       "**À** Brazzaville"
+      ],
+      [
+       "ça va ?",
+       "**Ç**a va ?"
+      ],
+      [
+       "île",
+       "**Î**le"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**É**cole primaire — **À** demain ! — **Ç**a, c’est bien."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas oublier l’accent",
+     "text": "On écrit **École**, pas « Ecole » ; **État**, pas « Etat » ; **À** bientôt, pas « A bientôt »."
+    },
+    {
+     "type": "tip",
+     "label": "Tout en majuscules",
+     "text": "Un mot écrit **tout en majuscules** garde aussi ses accents : *ÉCOLE, FÊTE, ÎLE*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "Ecole primaire",
+      "École primaire",
+      "ECOLE primaire",
+      "école Primaire"
+     ],
+     "answer": 1,
+     "explain": "La majuscule É garde son accent : École."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie en mettant l’accent sur la majuscule.",
+     "items": [
+      "Etat civil",
+      "A demain",
+      "Ecouter",
+      "Ile de la Réunion"
+     ],
+     "corrige": [
+      "État civil",
+      "À demain",
+      "Écouter",
+      "Île de la Réunion"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **corrige**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les mots qui doivent prendre une majuscule.",
+     "items": [
+      "dolisie",
+      "lundi",
+      "marie",
+      "chien",
+      "noël",
+      "août"
+     ],
+     "corrige": [
+      "Dolisie",
+      "Marie",
+      "Noël"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correctement écrite ?",
+     "options": [
+      "Le chef parle lingala.",
+      "Le Chef parle Lingala.",
+      "Le chef parle Lingala.",
+      "Le Chef parle lingala."
+     ],
+     "answer": 0,
+     "explain": "Chef et lingala sont des noms communs (langue) : minuscule."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les majuscules.",
+     "items": [
+      "mon cousin habite à brazzaville.",
+      "nous allons à l’école le lundi.",
+      "les congolais fêtent noël en décembre.",
+      "quelle heure est-il ? il est midi."
+     ],
+     "corrige": [
+      "Mon cousin habite à Brazzaville.",
+      "Nous allons à l’école le lundi.",
+      "Les Congolais fêtent Noël en décembre.",
+      "Quelle heure est-il ? Il est midi."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases sur ta ville avec au moins un nom propre dans chacune.",
+     "items": [
+      "Phrase 1",
+      "Phrase 2",
+      "Phrase 3"
+     ],
+     "corrige": [
+      "Exemples : J’habite à Brazzaville.",
+      "Le fleuve Congo passe près de ma ville.",
+      "Mon ami Jean vit à Pointe-Noire."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "On met une **majuscule** au **début d’une phrase**, après **. ? !**.",
+      "Les **noms propres** (personnes, lieux, fêtes, fleuves) prennent une **majuscule**.",
+      "Les **jours, mois, saisons, langues, adjectifs de nationalité** : **minuscule**.",
+      "*Un **C**ongolais* (habitant) ≠ *le **c**ongolais* (adjectif / langue).",
+      "Titre d’œuvre : majuscule au **premier mot**.",
+      "Les majuscules gardent leurs **accents** : **É**cole, **À** demain."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Majuscule ou minuscule ?",
+     "head": [
+      "Majuscule",
+      "Minuscule"
+     ],
+     "rows": [
+      [
+       "Marie, Brazzaville",
+       "lundi, août"
+      ],
+      [
+       "Noël, Pâques",
+       "le français, le lingala"
+      ],
+      [
+       "Les Congolais",
+       "la culture congolaise"
+      ],
+      [
+       "École, État",
+       "le directeur, le maire"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Les Congolais parlent le français.",
+      "Les congolais parlent le Français.",
+      "les Congolais parlent le français.",
+      "Les Congolais Parlent le français."
+     ],
+     "answer": 0,
+     "explain": "Congolais (habitants) prend une majuscule ; français (langue), une minuscule."
+    }
+   ]
+  }
+ ]
+}

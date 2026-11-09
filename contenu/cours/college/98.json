@@ -1,0 +1,441 @@
+{
+ "id": 98,
+ "meta": {
+  "t": "L’émetteur et le message d’un discours",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : écouter une annonce",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le lundi matin, le directeur s’adresse à tous les élèves dans la cour : « Chers élèves, le match de football aura lieu vendredi à quinze heures. Soyez à l’heure ! » Chacun écoute, comprend le message, puis réagit. C’est une **situation de communication orale**."
+    },
+    {
+     "type": "list",
+     "label": "Savoir essentiel",
+     "items": [
+      "Écouter un discours",
+      "Identifier **qui parle** (l’émetteur)",
+      "Retrouver **ce qui est dit** (le message)"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le discours",
+     "text": "Un **discours** est un ensemble de **paroles** prononcées par une personne devant un ou plusieurs auditeurs, pour **informer**, **raconter**, **expliquer** ou **convaincre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans l’annonce du directeur, qui est l’émetteur ?",
+     "options": [
+      "les élèves",
+      "le directeur",
+      "le match",
+      "la cour"
+     ],
+     "answer": 1,
+     "explain": "L’émetteur est celui qui parle : le directeur."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase qui est un discours oral.",
+     "items": [
+      "Le directeur parle aux élèves dans la cour.",
+      "Le cahier est sur la table.",
+      "Le texte est écrit au tableau."
+     ],
+     "corrige": [
+      "Le directeur parle aux élèves dans la cour."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les éléments de la communication",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Chaque fois que l’on communique, on retrouve **plusieurs éléments**."
+    },
+    {
+     "type": "table",
+     "title": "La situation de communication",
+     "head": [
+      "Élément",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "émetteur",
+       "celui qui **parle**",
+       "le directeur"
+      ],
+      [
+       "récepteur",
+       "celui qui **écoute**",
+       "les élèves"
+      ],
+      [
+       "message",
+       "ce qui est **dit**",
+       "« Le match aura lieu vendredi. »"
+      ],
+      [
+       "canal",
+       "le moyen de **transmission**",
+       "la voix"
+      ],
+      [
+       "code",
+       "la **langue** utilisée",
+       "le français"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un mot à retenir",
+     "text": "L’**émetteur** envoie le message ; le **récepteur** le reçoit. On peut être **émetteur** quand on parle et **récepteur** quand on écoute."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La maîtresse explique la leçon aux élèves », qui est le récepteur ?",
+     "options": [
+      "la maîtresse",
+      "la leçon",
+      "les élèves",
+      "le tableau"
+     ],
+     "answer": 2,
+     "explain": "Les élèves reçoivent le message : ils sont les récepteurs."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe : émetteur, récepteur ou message.",
+     "items": [
+      "Papa raconte un conte à ses enfants. (Papa)",
+      "Papa raconte un conte à ses enfants. (ses enfants)",
+      "Papa raconte un conte à ses enfants. (un conte)"
+     ],
+     "corrige": [
+      "émetteur",
+      "récepteur",
+      "message"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Identifier l’émetteur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour bien comprendre un discours, il faut savoir **qui parle** et **pourquoi il parle**."
+    },
+    {
+     "type": "table",
+     "title": "Qui parle ? Pourquoi ?",
+     "head": [
+      "Émetteur",
+      "Intention",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "un conteur",
+       "**raconter**",
+       "Il était une fois un vieux pêcheur…"
+      ],
+      [
+       "un maître",
+       "**expliquer**",
+       "Aujourd’hui, nous allons étudier le verbe."
+      ],
+      [
+       "un directeur",
+       "**informer**",
+       "Le match aura lieu vendredi."
+      ],
+      [
+       "un ami",
+       "**convaincre**",
+       "Viens, tu vas aimer ce jeu !"
+      ],
+      [
+       "un invité",
+       "**remercier**",
+       "Merci pour votre accueil."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Trois questions",
+     "text": "**Qui** parle ? **À qui** parle-t-il ? **Pour quoi faire** : informer, raconter, expliquer, convaincre, remercier ?"
+    },
+    {
+     "type": "warn",
+     "label": "Le ton aussi compte",
+     "text": "Le **ton** de la voix (joyeux, sérieux, fâché) aide à comprendre l’**intention** de l’émetteur, même sans voir son visage."
+    },
+    {
+     "type": "quiz",
+     "question": "Un conteur au village veut surtout…",
+     "options": [
+      "raconter",
+      "ordonner",
+      "calculer",
+      "vendre"
+     ],
+     "answer": 0,
+     "explain": "Le conteur raconte une histoire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’intention de l’émetteur : informer, raconter, expliquer ou convaincre.",
+     "items": [
+      "« Il était une fois un lion très fier. »",
+      "« Demain, il n’y aura pas classe. »",
+      "« Pour faire cuire le riz, on met d’abord de l’eau. »"
+     ],
+     "corrige": [
+      "raconter",
+      "informer",
+      "expliquer"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Retrouver le message",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **message** est ce que l’émetteur veut faire comprendre. Pour le retrouver, on pose des **questions**."
+    },
+    {
+     "type": "table",
+     "title": "Les questions pour comprendre",
+     "head": [
+      "Question",
+      "Elle donne…"
+     ],
+     "rows": [
+      [
+       "Qui ?",
+       "les personnes"
+      ],
+      [
+       "Quoi ?",
+       "le sujet, l’idée principale"
+      ],
+      [
+       "Quand ?",
+       "le moment"
+      ],
+      [
+       "Où ?",
+       "le lieu"
+      ],
+      [
+       "Pourquoi ?",
+       "la raison"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Le match aura lieu **vendredi** à **quinze heures** sur le **terrain de l’école**. » → Quoi : un match ; quand : vendredi à quinze heures ; où : sur le terrain."
+    },
+    {
+     "type": "def",
+     "label": "L’idée principale",
+     "text": "L’**idée principale** est l’idée la plus **importante** du message. Les autres idées sont des **détails**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Demain, la classe de 6e visitera le musée à neuf heures », quelle est l’idée principale ?",
+     "options": [
+      "la classe visitera le musée",
+      "il est neuf heures",
+      "c’est demain",
+      "la 6e est sérieuse"
+     ],
+     "answer": 0,
+     "explain": "L’idée principale est que la classe visitera le musée."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Retrouve : qui, quoi, quand.",
+     "items": [
+      "« Samedi, les élèves de 6e nettoieront la cour de l’école. »"
+     ],
+     "corrige": [
+      "Qui : les élèves de 6e ; quoi : nettoyer la cour ; quand : samedi"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Bien écouter un discours",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Écouter, ce n’est pas seulement **entendre**. C’est **faire attention** pour comprendre le message."
+    },
+    {
+     "type": "table",
+     "title": "Avant, pendant, après",
+     "head": [
+      "Moment",
+      "Ce que je fais"
+     ],
+     "rows": [
+      [
+       "avant",
+       "je me **tais**, je me **prépare** à écouter, je regarde l’émetteur"
+      ],
+      [
+       "pendant",
+       "j’écoute **sans couper**, je retiens les **mots importants**"
+      ],
+      [
+       "après",
+       "je **reformule** le message avec mes mots, je pose une question si besoin"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le bon auditeur",
+     "text": "Un bon auditeur **regarde** celui qui parle, **ne bavarde pas** et **respecte** les paroles de l’émetteur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle attitude montre une bonne écoute ?",
+     "options": [
+      "parler avec son voisin",
+      "regarder l’émetteur",
+      "jouer avec son stylo",
+      "dormir"
+     ],
+     "answer": 1,
+     "explain": "Regarder celui qui parle montre que l’on écoute."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les bonnes attitudes d’un bon auditeur.",
+     "items": [
+      "Je regarde le maître.",
+      "Je coupe la parole à mon camarade.",
+      "Je retiens les mots importants.",
+      "Je reformule le message."
+     ],
+     "corrige": [
+      "Je regarde le maître.",
+      "Je retiens les mots importants.",
+      "Je reformule le message."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **analyse**, puis on **réutilise**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Qui est l’émetteur ? Qui est le récepteur ?",
+     "items": [
+      "Le maître dit aux élèves : « Ouvrez vos cahiers. »"
+     ],
+     "corrige": [
+      "Émetteur : le maître ; récepteur : les élèves"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le message est…",
+     "options": [
+      "celui qui parle",
+      "celui qui écoute",
+      "ce qui est dit",
+      "la langue"
+     ],
+     "answer": 2,
+     "explain": "Le message est le contenu transmis."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Retrouve l’idée principale : « Le chef du village a réuni les habitants. Il a parlé de l’eau potable. Chacun a donné son avis. »",
+     "items": [
+      "Idée principale ?"
+     ],
+     "corrige": [
+      "Le chef a parlé de l’eau potable aux habitants."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : réutiliser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "À ton tour, émetteur : prépare une annonce de deux phrases pour ta classe (qui, quoi, quand).",
+     "items": [
+      "Annonce"
+     ],
+     "corrige": [
+      "Exemple : Chers camarades, la fête de l’école aura lieu samedi à dix heures. Venez nombreux !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **discours** est une parole adressée à des auditeurs.",
+      "**Émetteur** : celui qui parle ; **récepteur** : celui qui écoute ; **message** : ce qui est dit.",
+      "Il y a aussi le **canal** (la voix) et le **code** (la langue).",
+      "Pour comprendre un message : **qui ? quoi ? quand ? où ? pourquoi ?**",
+      "Un bon auditeur **se tait**, **regarde**, **retient** et **reformule**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver le lieu ?",
+     "options": [
+      "Qui ?",
+      "Quand ?",
+      "Où ?",
+      "Pourquoi ?"
+     ],
+     "answer": 2,
+     "explain": "Où ? donne le lieu."
+    }
+   ]
+  }
+ ]
+}

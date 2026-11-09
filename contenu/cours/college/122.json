@@ -1,0 +1,392 @@
+{
+ "id": 122,
+ "meta": {
+  "t": "La rédaction d’un paragraphe descriptif à partir d’une image",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : décrire ce que l’on voit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ta maîtresse affiche au tableau une photo : un marché au bord du fleuve. Elle demande : « Écris un paragraphe pour décrire cette image. » Tu dois **regarder avec attention**, puis **mettre en mots** ce que tu vois."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "**Observer** une image avant d’écrire",
+      "**Organiser** les éléments à décrire",
+      "**Rédiger** un paragraphe descriptif clair"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le paragraphe descriptif",
+     "text": "Un **paragraphe descriptif** **décrit** un lieu, une personne ou une scène, en disant **ce que l’on voit** dans un **ordre logique**."
+    },
+    {
+     "type": "quiz",
+     "question": "Décrire une image, c’est…",
+     "options": [
+      "raconter une histoire inventée",
+      "dire ce que l’on voit",
+      "donner des ordres",
+      "écrire un poème"
+     ],
+     "answer": 1,
+     "explain": "On décrit ce que l’on voit."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle phrase décrit ?",
+     "items": [
+      "Les enfants courent vers le fleuve.",
+      "Au premier plan, des enfants jouent.",
+      "Viens vite !"
+     ],
+     "corrige": [
+      "Au premier plan, des enfants jouent."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Observer l’image",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant d’écrire, on **observe** longuement. On se pose des **questions**."
+    },
+    {
+     "type": "table",
+     "title": "Les questions à se poser",
+     "head": [
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Que montre l’image ?**",
+       "un marché"
+      ],
+      [
+       "**Où ?**",
+       "au bord du fleuve"
+      ],
+      [
+       "**Quand ?**",
+       "le matin"
+      ],
+      [
+       "**Qui ?**",
+       "des vendeuses, des enfants"
+      ],
+      [
+       "**Que font-ils ?**",
+       "ils vendent, achètent, jouent"
+      ],
+      [
+       "**Quelles couleurs ?**",
+       "jaune, rouge, vert"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Prendre des notes",
+     "text": "Fais une **liste de mots** au brouillon avant de rédiger : **lieu**, **personnages**, **objets**, **couleurs**."
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on avant d’écrire ?",
+     "options": [
+      "on observe l’image",
+      "on corrige",
+      "on recopie",
+      "on dessine"
+     ],
+     "answer": 0,
+     "explain": "On observe d’abord."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Note trois éléments d’une image de classe : tableau, élèves, cartable… Écris-en trois autres.",
+     "items": [
+      "Liste"
+     ],
+     "corrige": [
+      "Exemple : table, fenêtre, livre"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Organiser la description",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour décrire clairement, on suit un **ordre**. Les **indicateurs de lieu** aident le lecteur."
+    },
+    {
+     "type": "table",
+     "title": "Les indicateurs de lieu",
+     "head": [
+      "Pour dire…",
+      "On écrit"
+     ],
+     "rows": [
+      [
+       "devant",
+       "au premier plan, devant, en avant"
+      ],
+      [
+       "au milieu",
+       "au centre, au milieu, entre"
+      ],
+      [
+       "au fond",
+       "à l’arrière-plan, au fond, au loin"
+      ],
+      [
+       "à côté",
+       "à gauche, à droite, près de, à côté de"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Au premier plan**, des mangues sont empilées. **Au centre**, une vendeuse sourit. **À l’arrière-plan**, le fleuve scintille."
+    },
+    {
+     "type": "tip",
+     "label": "L’ordre",
+     "text": "Décris **de l’avant vers l’arrière**, ou **de gauche à droite**. Ne saute pas partout."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot situe quelque chose au fond de l’image ?",
+     "options": [
+      "au premier plan",
+      "à l’arrière-plan",
+      "au centre",
+      "devant"
+     ],
+     "answer": 1,
+     "explain": "« À l’arrière-plan » situe le fond."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète : « ______, un chien dort. ______, des enfants jouent. »",
+     "items": [
+      "Avant",
+      "Après"
+     ],
+     "corrige": [
+      "Au premier plan",
+      "Au fond"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Enrichir la description",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une description devient **vivante** quand elle emploie des **adjectifs**, des **comparaisons** et les **cinq sens**."
+    },
+    {
+     "type": "table",
+     "title": "Pour enrichir",
+     "head": [
+      "Moyen",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**adjectifs précis**",
+       "un grand manguier, une eau limpide"
+      ],
+      [
+       "**comparaison**",
+       "le fleuve brille comme un miroir"
+      ],
+      [
+       "**cinq sens**",
+       "on entend les cris, on sent l’odeur du poisson"
+      ],
+      [
+       "**verbes variés**",
+       "les vendeuses s’agitent, appellent, rient"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le soleil **éclatant** fait **briller** le fleuve **comme** un miroir. On **entend** les cris des vendeuses."
+    },
+    {
+     "type": "warn",
+     "label": "Rester fidèle",
+     "text": "On décrit **ce que l’image montre**. Pour les sons ou odeurs, on peut les **imaginer**, mais sans changer la scène."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est enrichie ?",
+     "options": [
+      "Il y a un arbre.",
+      "Un grand manguier étend ses branches.",
+      "Arbre.",
+      "Un."
+     ],
+     "answer": 1,
+     "explain": "Elle utilise un adjectif et un verbe précis."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis : « Le marché est grand. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Exemple : Le marché est vaste et très animé : les vendeuses crient et les couleurs éclatent partout."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger le paragraphe",
+   "blocs": [
+    {
+     "type": "list",
+     "label": "Le plan",
+     "items": [
+      "Une **phrase d’introduction** : ce que montre l’image.",
+      "Le **premier plan**, le **second plan**, l’**arrière-plan**.",
+      "Les **couleurs** et l’**ambiance**.",
+      "Une **phrase de fin** : impression générale."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Cette photo montre un marché au bord du fleuve. **Au premier plan**, des paniers de mangues attirent le regard. **Au centre**, des vendeuses discutent avec les clientes. **À l’arrière-plan**, le fleuve brille sous le soleil. **L’ensemble** donne une impression de joie et d’activité."
+    },
+    {
+     "type": "tip",
+     "label": "Au présent",
+     "text": "On décrit **au présent** (« on voit », « se trouve »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Une phrase de fin donne…",
+     "options": [
+      "une impression générale",
+      "un ordre",
+      "un nouveau sujet",
+      "la date"
+     ],
+     "answer": 0,
+     "explain": "Elle termine par l’impression d’ensemble."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige quatre phrases pour décrire une photo de ta cour de récréation.",
+     "items": [
+      "Paragraphe"
+     ],
+     "corrige": [
+      "Exemple : La photo montre la cour de récréation. Au premier plan, des élèves jouent au ballon. Au fond, on voit le bâtiment de l’école. L’ambiance est joyeuse."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot situe ce qui est devant ?",
+     "options": [
+      "au premier plan",
+      "au fond",
+      "à l’arrière",
+      "loin"
+     ],
+     "answer": 0,
+     "explain": "« Au premier plan »."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : enrichir"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Enrichis : « Il y a des enfants. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Exemple : Des enfants joyeux jouent autour du puits."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris en cinq phrases une image de ton choix (plans, couleurs, impression).",
+     "items": [
+      "Paragraphe"
+     ],
+     "corrige": [
+      "Exemple : Cette photo montre un village au lever du jour. Au premier plan, des poules picorent. Au centre, des femmes puisent de l’eau. À l’arrière-plan, les collines sont bleutées. L’image dégage un grand calme."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Observer** l’image avant d’écrire : lieu, personnages, objets, couleurs.",
+      "Décrire dans un **ordre** (premier plan, centre, arrière-plan).",
+      "Utiliser des **indicateurs de lieu**.",
+      "**Enrichir** avec adjectifs, comparaisons, cinq sens.",
+      "Écrire **au présent** et terminer par une **impression générale**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le paragraphe descriptif s’écrit…",
+     "options": [
+      "au futur",
+      "au présent",
+      "à l’impératif",
+      "au conditionnel"
+     ],
+     "answer": 1,
+     "explain": "On décrit au présent."
+    }
+   ]
+  }
+ ]
+}

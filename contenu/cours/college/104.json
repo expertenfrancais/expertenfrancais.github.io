@@ -1,0 +1,472 @@
+{
+ "id": 104,
+ "meta": {
+  "t": "Les genres littéraires",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Littérature",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un genre littéraire ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À la bibliothèque, on trouve des **contes**, des **poèmes**, des **pièces de théâtre**, des **romans**. Ces livres ne se ressemblent pas : ils appartiennent à des **genres littéraires** différents."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les grands genres littéraires",
+      "Reconnaître un conte, une fable, un poème, une pièce de théâtre",
+      "Distinguer leurs caractéristiques"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le genre littéraire",
+     "text": "Un **genre littéraire** est une **catégorie d’œuvres** qui ont des **caractéristiques communes** de **forme** et de **contenu**."
+    },
+    {
+     "type": "table",
+     "title": "Trois grands genres",
+     "head": [
+      "Genre",
+      "Caractéristique",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "le **récit**",
+       "il **raconte** une histoire",
+       "conte, fable, nouvelle, roman"
+      ],
+      [
+       "la **poésie**",
+       "il joue avec les **mots**, le **rythme**, les **images**",
+       "poème, chanson"
+      ],
+      [
+       "le **théâtre**",
+       "il est fait pour être **joué**",
+       "pièce, comédie, tragédie"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un poème appartient au genre…",
+     "options": [
+      "récit",
+      "poésie",
+      "théâtre",
+      "article"
+     ],
+     "answer": 1,
+     "explain": "Le poème est un texte poétique."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les genres littéraires.",
+     "items": [
+      "conte",
+      "recette",
+      "poème",
+      "pièce de théâtre"
+     ],
+     "corrige": [
+      "conte",
+      "poème",
+      "pièce de théâtre"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le récit : conte, fable, nouvelle, roman",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **récit** raconte une **histoire** avec des **personnages** et des **événements**. Il existe plusieurs **formes** de récits."
+    },
+    {
+     "type": "table",
+     "title": "Les formes du récit",
+     "head": [
+      "Forme",
+      "Caractéristiques"
+     ],
+     "rows": [
+      [
+       "le **conte**",
+       "histoire **imaginaire** ; souvent transmise **oralement** ; commence par *Il était une fois*"
+      ],
+      [
+       "la **fable**",
+       "récit **court**, souvent avec des **animaux**, qui se termine par une **morale**"
+      ],
+      [
+       "la **nouvelle**",
+       "récit **court** avec peu de personnages et une **chute**"
+      ],
+      [
+       "le **roman**",
+       "récit **long** avec de nombreux personnages et événements"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Les contes d’Afrique se transmettent souvent à la veillée, grâce au conteur. La Fontaine a écrit des fables comme « Le Lièvre et la Tortue »."
+    },
+    {
+     "type": "tip",
+     "label": "La morale",
+     "text": "Une **fable** se termine par une **leçon de vie** appelée **morale**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel récit se termine par une morale ?",
+     "options": [
+      "le roman",
+      "la fable",
+      "la chanson",
+      "la lettre"
+     ],
+     "answer": 1,
+     "explain": "La fable donne une morale."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conte, fable ou roman ?",
+     "items": [
+      "Un récit court avec des animaux et une morale.",
+      "Un récit long avec de nombreux personnages.",
+      "Une histoire imaginaire qui commence par « Il était une fois »."
+     ],
+     "corrige": [
+      "fable",
+      "roman",
+      "conte"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La poésie",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **poésie** utilise les **mots** pour créer des **images**, des **sons** et des **émotions**. Un poème est écrit en **vers**, regroupés en **strophes**."
+    },
+    {
+     "type": "table",
+     "title": "Le vocabulaire du poème",
+     "head": [
+      "Mot",
+      "Définition"
+     ],
+     "rows": [
+      [
+       "le **vers**",
+       "une **ligne** du poème"
+      ],
+      [
+       "la **strophe**",
+       "un **groupe de vers**"
+      ],
+      [
+       "la **rime**",
+       "le même **son** à la fin de deux vers"
+      ],
+      [
+       "le **rythme**",
+       "la **musique** des vers"
+      ],
+      [
+       "l’**image**",
+       "une **comparaison** ou une **métaphore** pour faire voir et sentir"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Exemple d’image : « Le soleil est une grosse mangue dorée. » (comparaison)"
+    },
+    {
+     "type": "tip",
+     "label": "Poètes congolais",
+     "text": "Le Congo compte de grands poètes, comme **Tchicaya U Tam’si**, dont les poèmes parlent du fleuve, de l’exil et de l’Afrique."
+    },
+    {
+     "type": "quiz",
+     "question": "Un groupe de vers s’appelle…",
+     "options": [
+      "une strophe",
+      "une scène",
+      "un acte",
+      "un chapitre"
+     ],
+     "answer": 0,
+     "explain": "La strophe regroupe plusieurs vers."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Vers, strophe ou rime ?",
+     "items": [
+      "Une ligne du poème.",
+      "Un groupe de vers.",
+      "Le même son à la fin de deux vers."
+     ],
+     "corrige": [
+      "vers",
+      "strophe",
+      "rime"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le théâtre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **théâtre** est un genre fait pour être **joué** devant un **public**. Le texte est écrit pour des **comédiens**."
+    },
+    {
+     "type": "table",
+     "title": "Le vocabulaire du théâtre",
+     "head": [
+      "Mot",
+      "Définition"
+     ],
+     "rows": [
+      [
+       "la **pièce**",
+       "l’œuvre théâtrale"
+      ],
+      [
+       "l’**acte**",
+       "une **grande partie** de la pièce"
+      ],
+      [
+       "la **scène**",
+       "une **partie** d’un acte"
+      ],
+      [
+       "la **réplique**",
+       "ce que dit un personnage à son tour"
+      ],
+      [
+       "la **didascalie**",
+       "une **indication** de l’auteur (gestes, décor) écrite en **italique**"
+      ],
+      [
+       "la **tirade**",
+       "une **longue réplique**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "MBOU, *(entrant en courant)* : Au secours ! Le pont est tombé !"
+    },
+    {
+     "type": "tip",
+     "label": "Un dramaturge congolais",
+     "text": "**Sony Labou Tansi**, écrivain congolais, a écrit des romans et des **pièces de théâtre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Que contient une didascalie ?",
+     "options": [
+      "la morale",
+      "des indications de jeu et de décor",
+      "la rime",
+      "le titre"
+     ],
+     "answer": 1,
+     "explain": "Elle précise gestes, ton, décor."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Acte, scène ou réplique ?",
+     "items": [
+      "Ce que dit un personnage.",
+      "Une grande partie de la pièce.",
+      "Une partie d’un acte."
+     ],
+     "corrige": [
+      "réplique",
+      "acte",
+      "scène"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître le genre d’un texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour reconnaître le genre, on observe la **forme** du texte et son **contenu**."
+    },
+    {
+     "type": "table",
+     "title": "Indices de reconnaissance",
+     "head": [
+      "Genre",
+      "Indices"
+     ],
+     "rows": [
+      [
+       "récit",
+       "narrateur, personnages, passé, paragraphes"
+      ],
+      [
+       "conte",
+       "*Il était une fois*, éléments merveilleux, formule finale"
+      ],
+      [
+       "fable",
+       "animaux qui parlent, morale à la fin"
+      ],
+      [
+       "poème",
+       "vers, strophes, rimes, images"
+      ],
+      [
+       "théâtre",
+       "noms de personnages en tête de réplique, didascalies, actes et scènes"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "PAUL : Où vas-tu ? / MARIE *(sortant)* : Au marché. → **théâtre** (noms de personnages, didascalie)."
+    },
+    {
+     "type": "quiz",
+     "question": "Un texte avec des vers, des strophes et des rimes est…",
+     "options": [
+      "un poème",
+      "un roman",
+      "un conte",
+      "une lettre"
+     ],
+     "answer": 0,
+     "explain": "C’est la forme du poème."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le genre.",
+     "items": [
+      "Un jour, le lièvre défia la tortue. La morale : rien ne sert de courir.",
+      "Le soleil / sur la rivière / danse. / L’eau chante…",
+      "MARIE : Viens ! / PAUL : J’arrive."
+     ],
+     "corrige": [
+      "fable",
+      "poème",
+      "théâtre"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **classe**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel genre est fait pour être joué ?",
+     "options": [
+      "le roman",
+      "la poésie",
+      "le théâtre",
+      "la fable"
+     ],
+     "answer": 2,
+     "explain": "Le théâtre est écrit pour la scène."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : classer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : récit (R), poésie (P) ou théâtre (T).",
+     "items": [
+      "fable",
+      "strophe",
+      "didascalie",
+      "roman",
+      "rime",
+      "scène"
+     ],
+     "corrige": [
+      "R",
+      "P",
+      "T",
+      "R",
+      "P",
+      "T"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux vers qui riment pour décrire la rivière.",
+     "items": [
+      "Vers 1",
+      "Vers 2"
+     ],
+     "corrige": [
+      "Exemple : La rivière brille au soleil, / Elle chante un air de merveille."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **genre littéraire** regroupe des œuvres qui se ressemblent.",
+      "**Récit** : conte, fable (morale), nouvelle, roman.",
+      "**Poésie** : vers, strophes, rimes, images.",
+      "**Théâtre** : pièce, actes, scènes, répliques, didascalies.",
+      "On reconnaît un genre à sa **forme** et à son **contenu**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel genre contient des actes et des scènes ?",
+     "options": [
+      "la poésie",
+      "le récit",
+      "le théâtre",
+      "la fable"
+     ],
+     "answer": 2,
+     "explain": "Les actes et les scènes sont propres au théâtre."
+    }
+   ]
+  }
+ ]
+}

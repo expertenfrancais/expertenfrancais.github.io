@@ -1,0 +1,396 @@
+{
+ "id": 117,
+ "meta": {
+  "t": "Les niveaux de langue",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : parler comme il faut, là où il faut",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avec tes amis, tu dis : « Il est trop **zarbi**, ce mec ! » Devant le directeur, tu dis : « Ce **monsieur** est **étrange**. » Tu changes de **façon de parler** selon la **personne** et la **situation**. On appelle cela les **niveaux de langue**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce que sont les **niveaux de langue**",
+      "Reconnaître les **trois niveaux** : familier, courant, soutenu",
+      "Choisir le niveau **adapté** à la situation"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Les niveaux de langue",
+     "text": "Les **niveaux de langue** sont les **manières de parler** (ou d’écrire) qui changent selon la **situation**, la **personne** à qui l’on parle et le **but**. Il y en a **trois** : le **familier**, le **courant** et le **soutenu**."
+    },
+    {
+     "type": "quiz",
+     "question": "Les niveaux de langue sont au nombre de…",
+     "options": [
+      "deux",
+      "trois",
+      "quatre",
+      "dix"
+     ],
+     "answer": 1,
+     "explain": "Familier, courant et soutenu."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Cite les trois niveaux de langue.",
+     "items": [
+      "Niveaux"
+     ],
+     "corrige": [
+      "Familier, courant, soutenu."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le niveau familier",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **niveau familier** s’emploie **entre amis** ou **en famille**, à l’oral surtout. Il est **détendu**."
+    },
+    {
+     "type": "list",
+     "label": "Ses caractéristiques",
+     "items": [
+      "des **mots populaires** : bouquin, gosse, bagnole, boulot",
+      "des phrases **courtes**, parfois incomplètes",
+      "des **abréviations** : prof, ciné, appart",
+      "des phrases sans **ne** : « J’sais pas »"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Familier** : « J’ai pas envie d’aller à l’école, c’est nul ! »"
+    },
+    {
+     "type": "warn",
+     "label": "À éviter à l’écrit",
+     "text": "Dans une **rédaction**, une **lettre officielle** ou devant un **adulte**, on évite le niveau **familier**."
+    },
+    {
+     "type": "quiz",
+     "question": "Le niveau familier s’emploie…",
+     "options": [
+      "avec le président",
+      "entre amis",
+      "dans un discours officiel",
+      "dans une loi"
+     ],
+     "answer": 1,
+     "explain": "Il convient aux échanges détendus."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle phrase est familière ?",
+     "items": [
+      "Je suis fatigué.",
+      "J’suis crevé.",
+      "Je suis harassé."
+     ],
+     "corrige": [
+      "J’suis crevé."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le niveau courant",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **niveau courant** est le **niveau de tous les jours**. Il est **correct**, **simple** et **compris de tous**. On l’emploie à l’école, dans les journaux, avec des inconnus."
+    },
+    {
+     "type": "list",
+     "label": "Ses caractéristiques",
+     "items": [
+      "des **mots usuels** : livre, voiture, travail, enfant",
+      "des **phrases complètes** et correctes",
+      "un ton **neutre**"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Courant** : « Je n’ai pas envie d’aller à l’école. Je trouve cela ennuyeux. »"
+    },
+    {
+     "type": "tip",
+     "label": "Le niveau par défaut",
+     "text": "En cas de doute, choisis le **niveau courant** : il convient presque partout."
+    },
+    {
+     "type": "quiz",
+     "question": "Le niveau courant est…",
+     "options": [
+      "réservé aux poètes",
+      "correct et compris de tous",
+      "uniquement oral",
+      "interdit à l’école"
+     ],
+     "answer": 1,
+     "explain": "C’est le niveau neutre et correct."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle phrase est du niveau courant ?",
+     "items": [
+      "Il a un bouquin.",
+      "Il a un livre.",
+      "Il possède un ouvrage."
+     ],
+     "corrige": [
+      "Il a un livre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le niveau soutenu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **niveau soutenu** est **élégant** et **recherché**. On l’emploie dans les **textes littéraires**, les **discours** et les situations **solennelles**."
+    },
+    {
+     "type": "list",
+     "label": "Ses caractéristiques",
+     "items": [
+      "des **mots rares** ou **précis** : s’enquérir, demeure, aïeul",
+      "des phrases **bien construites**",
+      "un vocabulaire **riche**",
+      "l’**inversion** : « Puis-je entrer ? »"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Soutenu** : « Je n’éprouve nulle envie de me rendre à l’école. »"
+    },
+    {
+     "type": "table",
+     "title": "Un même sens, trois niveaux",
+     "head": [
+      "Familier",
+      "Courant",
+      "Soutenu"
+     ],
+     "rows": [
+      [
+       "bagnole",
+       "voiture",
+       "automobile"
+      ],
+      [
+       "bouquin",
+       "livre",
+       "ouvrage"
+      ],
+      [
+       "gosse",
+       "enfant",
+       "bambin"
+      ],
+      [
+       "boulot",
+       "travail",
+       "labeur"
+      ],
+      [
+       "pioncer",
+       "dormir",
+       "sommeiller"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un discours officiel utilise surtout le niveau…",
+     "options": [
+      "familier",
+      "courant",
+      "soutenu",
+      "argotique"
+     ],
+     "answer": 2,
+     "explain": "Le soutenu convient aux situations solennelles."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel est le mot familier qui correspond à « livre » ?",
+     "items": [
+      "Mot"
+     ],
+     "corrige": [
+      "bouquin"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Choisir le bon niveau",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On choisit le niveau de langue selon **qui parle**, **à qui** et **pour quoi faire**."
+    },
+    {
+     "type": "table",
+     "title": "Quel niveau pour quelle situation ?",
+     "head": [
+      "Situation",
+      "Niveau conseillé"
+     ],
+     "rows": [
+      [
+       "parler à un ami dans la cour",
+       "familier"
+      ],
+      [
+       "parler à son enseignant",
+       "courant"
+      ],
+      [
+       "écrire une lettre à l’inspecteur",
+       "courant ou soutenu"
+      ],
+      [
+       "lire un discours officiel",
+       "soutenu"
+      ],
+      [
+       "rédiger un devoir",
+       "courant (parfois soutenu)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une règle d’or",
+     "text": "Plus la situation est **officielle**, plus le niveau de langue est **soigné**."
+    },
+    {
+     "type": "warn",
+     "label": "Rester cohérent",
+     "text": "Ne **mélange pas** les niveaux dans une même phrase : « Monsieur le Directeur, ce truc est vraiment inconvenant. »"
+    },
+    {
+     "type": "quiz",
+     "question": "À qui peut-on dire « Salut, ça roule ? »",
+     "options": [
+      "au ministre",
+      "à un ami",
+      "à l’inspecteur",
+      "au président"
+     ],
+     "answer": 1,
+     "explain": "Ce niveau est familier : il convient à un ami."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis le niveau adapté pour demander la permission au directeur : a) « Je peux sortir ? » b) « Puis-je sortir, Monsieur ? » c) « Dis, je sors ! »",
+     "items": [
+      "Choix"
+     ],
+     "corrige": [
+      "b ou a (niveaux soutenu ou courant) ; jamais c (familier)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **transpose**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "« Mon père a une belle bagnole » est du niveau…",
+     "options": [
+      "soutenu",
+      "familier",
+      "courant",
+      "officiel"
+     ],
+     "answer": 1,
+     "explain": "« Bagnole » est un mot familier."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : transposer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transpose au niveau courant : « J’ai pas de fric. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Je n’ai pas d’argent."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris la même demande à ton ami, puis à ton directeur : tu veux emprunter un livre.",
+     "items": [
+      "Ami",
+      "Directeur"
+     ],
+     "corrige": [
+      "Ami : Tu me prêtes ton bouquin ?",
+      "Directeur : Monsieur, puis-je emprunter un livre, s’il vous plaît ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Il y a **trois niveaux de langue** : **familier**, **courant**, **soutenu**.",
+      "Le **familier** : entre amis, détendu, mots populaires.",
+      "Le **courant** : correct et neutre, compris de tous.",
+      "Le **soutenu** : élégant, recherché, pour les situations solennelles.",
+      "On choisit le niveau selon la **situation** et la **personne**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel niveau convient le mieux à une rédaction ?",
+     "options": [
+      "familier",
+      "courant",
+      "argot",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "On écrit en langue correcte : le niveau courant."
+    }
+   ]
+  }
+ ]
+}

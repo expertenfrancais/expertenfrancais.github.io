@@ -1,0 +1,790 @@
+{
+ "id": 86,
+ "meta": {
+  "t": "Le conditionnel présent",
+  "k": "Cours",
+  "n": "4e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "À quoi sert le conditionnel présent ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Si j’avais des ailes, je **volerais** jusqu’au fleuve et je **verrais** toute la ville d’en haut. » Les verbes en gras sont au **conditionnel présent**. Ils expriment ce qui **arriverait** si une condition était remplie."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le conditionnel présent",
+      "Le conjuguer correctement, y compris les verbes irréguliers",
+      "Connaître ses principales valeurs : hypothèse, politesse, souhait, information incertaine"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le conditionnel présent",
+     "text": "Le **conditionnel présent** est un temps du **mode conditionnel**. Il exprime une action **possible ou imaginée**, qui dépend d’une **condition**, d’un **souhait** ou d’une **hypothèse**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques emplois",
+     "head": [
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "hypothèse",
+       "Si j’avais le temps, je **viendrais**."
+      ],
+      [
+       "politesse",
+       "Je **voudrais** un verre d’eau."
+      ],
+      [
+       "souhait",
+       "J’**aimerais** visiter Brazzaville."
+      ],
+      [
+       "information incertaine",
+       "Il y **aurait** deux blessés."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour le reconnaître",
+     "text": "Le verbe se termine par **-rais, -rait, -rions, -riez, -raient** : on entend un **r** devant la terminaison."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est au conditionnel présent ?",
+     "options": [
+      "Il chantait.",
+      "Il chantera.",
+      "Il chanterait.",
+      "Il chanta."
+     ],
+     "answer": 2,
+     "explain": "« Chanterait » est formé du radical du futur et de la terminaison -ait."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les verbes au conditionnel présent.",
+     "items": [
+      "Je voudrais du riz.",
+      "Je mangerai demain.",
+      "Nous partirions bientôt.",
+      "Il jouait au ballon."
+     ],
+     "corrige": [
+      "Je voudrais du riz.",
+      "Nous partirions bientôt."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La formation du conditionnel présent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le conditionnel présent se forme avec le **radical du futur simple** + les **terminaisons de l’imparfait** : **-ais, -ais, -ait, -ions, -iez, -aient**."
+    },
+    {
+     "type": "table",
+     "title": "Chanter au conditionnel présent",
+     "head": [
+      "Personne",
+      "Futur simple",
+      "Conditionnel présent"
+     ],
+     "rows": [
+      [
+       "je",
+       "chanter**ai**",
+       "chanter**ais**"
+      ],
+      [
+       "tu",
+       "chanter**as**",
+       "chanter**ais**"
+      ],
+      [
+       "il, elle, on",
+       "chanter**a**",
+       "chanter**ait**"
+      ],
+      [
+       "nous",
+       "chanter**ons**",
+       "chanter**ions**"
+      ],
+      [
+       "vous",
+       "chanter**ez**",
+       "chanter**iez**"
+      ],
+      [
+       "ils, elles",
+       "chanter**ont**",
+       "chanter**aient**"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **chanterais** si je savais la chanson. — Nous **finirions** plus tôt. — Ils **partiraient** demain."
+    },
+    {
+     "type": "warn",
+     "label": "Futur ou conditionnel ?",
+     "text": "*Je chanter**ai*** (futur) et *je chanter**ais*** (conditionnel) se ressemblent. La **terminaison** change : **-ai** pour le futur, **-ais** pour le conditionnel."
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce",
+     "text": "Remplace *je* par *nous* : si tu peux écrire **-ions** (*nous chanterions*), c’est un **conditionnel**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte du verbe « finir » à la 3e personne du pluriel ?",
+     "options": [
+      "ils finiraient",
+      "ils finirons",
+      "ils finissaient",
+      "ils finiront"
+     ],
+     "answer": 0,
+     "explain": "Radical du futur (finir-) + terminaison -aient."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au conditionnel présent.",
+     "items": [
+      "Tu (aimer) venir.",
+      "Nous (finir) ce travail.",
+      "Ils (prendre) le bus.",
+      "Elle (lire) ce livre."
+     ],
+     "corrige": [
+      "Tu aimerais venir.",
+      "Nous finirions ce travail.",
+      "Ils prendraient le bus.",
+      "Elle lirait ce livre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes à radical particulier",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup de verbes ont un **radical irrégulier** au futur simple. On retrouve **le même radical** au conditionnel présent."
+    },
+    {
+     "type": "table",
+     "title": "Les radicaux à connaître",
+     "head": [
+      "Infinitif",
+      "Radical",
+      "Conditionnel (je / il)"
+     ],
+     "rows": [
+      [
+       "être",
+       "ser-",
+       "je serais, il serait"
+      ],
+      [
+       "avoir",
+       "aur-",
+       "j’aurais, il aurait"
+      ],
+      [
+       "aller",
+       "ir-",
+       "j’irais, il irait"
+      ],
+      [
+       "faire",
+       "fer-",
+       "je ferais, il ferait"
+      ],
+      [
+       "pouvoir",
+       "pourr-",
+       "je pourrais, il pourrait"
+      ],
+      [
+       "vouloir",
+       "voudr-",
+       "je voudrais, il voudrait"
+      ],
+      [
+       "venir",
+       "viendr-",
+       "je viendrais, il viendrait"
+      ],
+      [
+       "voir",
+       "verr-",
+       "je verrais, il verrait"
+      ],
+      [
+       "savoir",
+       "saur-",
+       "je saurais, il saurait"
+      ],
+      [
+       "devoir",
+       "devr-",
+       "je devrais, il devrait"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **voudrais** y aller. — Tu **pourrais** m’aider. — Nous **serions** contents."
+    },
+    {
+     "type": "warn",
+     "label": "Les verbes à double r",
+     "text": "**Courir** et **mourir** prennent **deux r** : *je courrais, il mourrait*. **Voir** aussi : *je verrais*."
+    },
+    {
+     "type": "tip",
+     "label": "Même radical qu’au futur",
+     "text": "Si tu connais le futur (*je ferai, je pourrai, je viendrai*), tu connais le conditionnel : *je ferais, je pourrais, je viendrais*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte : « Si tu avais faim, tu … manger. »",
+     "options": [
+      "pourrais",
+      "pouvais",
+      "pourras",
+      "pouvrais"
+     ],
+     "answer": 0,
+     "explain": "Pouvoir : radical pourr- + -ais."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au conditionnel présent.",
+     "items": [
+      "Je (être) heureux.",
+      "Tu (avoir) chaud.",
+      "Nous (aller) au marché.",
+      "Ils (faire) des progrès."
+     ],
+     "corrige": [
+      "Je serais heureux.",
+      "Tu aurais chaud.",
+      "Nous irions au marché.",
+      "Ils feraient des progrès."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes du 1er groupe qui changent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains verbes en **-er** ont un petit changement au **futur** et au **conditionnel**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques cas particuliers",
+     "head": [
+      "Type de verbe",
+      "Infinitif",
+      "Conditionnel présent (je)"
+     ],
+     "rows": [
+      [
+       "-ier, -uer, -ouer",
+       "crier",
+       "je **crierais**"
+      ],
+      [
+       "-ier, -uer, -ouer",
+       "continuer",
+       "je **continuerais**"
+      ],
+      [
+       "-yer",
+       "employer",
+       "j’**emploierais**"
+      ],
+      [
+       "-yer",
+       "nettoyer",
+       "je **nettoierais**"
+      ],
+      [
+       "-eler, -eter (double lettre)",
+       "appeler",
+       "j’**appellerais**"
+      ],
+      [
+       "-eler, -eter (double lettre)",
+       "jeter",
+       "je **jetterais**"
+      ],
+      [
+       "-eler, -eter (accent)",
+       "acheter",
+       "j’**achèterais**"
+      ],
+      [
+       "-eler, -eter (accent)",
+       "geler",
+       "il **gèlerait**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le « e » muet",
+     "text": "On garde le **e** de l’infinitif : *je cri**e**rais, tu continu**e**rais, nous mang**e**rions, je commenc**e**rais*."
+    },
+    {
+     "type": "tip",
+     "label": "Envoyer",
+     "text": "**Envoyer** a un radical particulier : *j’**enverrais***, comme au futur (*j’enverrai*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte du verbe « appeler » à la 1re personne du singulier ?",
+     "options": [
+      "j’appelerais",
+      "j’appellerais",
+      "j’appèlerais",
+      "j’appelrais"
+     ],
+     "answer": 1,
+     "explain": "Appeler double le l au futur et au conditionnel : j’appellerais."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au conditionnel présent.",
+     "items": [
+      "Je (crier) plus fort.",
+      "Nous (employer) ce mot.",
+      "Il (jeter) ce papier.",
+      "Tu (acheter) du pain."
+     ],
+     "corrige": [
+      "Je crierais plus fort.",
+      "Nous emploierions ce mot.",
+      "Il jetterait ce papier.",
+      "Tu achèterais du pain."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’hypothèse : si + imparfait, conditionnel présent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le conditionnel présent sert d’abord à exprimer une **hypothèse** : ce qui **se passerait** si une **condition** était remplie. Il est souvent employé avec **si**."
+    },
+    {
+     "type": "table",
+     "title": "Si + temps de la subordonnée → temps de la principale",
+     "head": [
+      "Si + …",
+      "Principale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "si + **présent**",
+       "**futur simple**",
+       "Si tu viens, je **serai** content."
+      ],
+      [
+       "si + **imparfait**",
+       "**conditionnel présent**",
+       "Si tu venais, je **serais** content."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Si j’avais un vélo, j’**irais** à l’école plus vite. — Si nous avions le temps, nous **visiterions** le musée."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de conditionnel après si",
+     "text": "On **n’écrit jamais** « Si j’aurais … ». Après **si** (hypothèse), on emploie l’**imparfait** : *Si j’**avais** de l’argent, j’**achèterais** ce livre.*"
+    },
+    {
+     "type": "tip",
+     "label": "Deux verbes, deux temps",
+     "text": "**Si** + imparfait pour la condition ; **conditionnel** pour la conséquence."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Si j’aurais le temps, je viendrais.",
+      "Si j’avais le temps, je viendrais.",
+      "Si j’avais le temps, je viendrai.",
+      "Si j’ai le temps, je viendrais."
+     ],
+     "answer": 1,
+     "explain": "Si + imparfait dans la condition, conditionnel présent dans la conséquence."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes à l’imparfait ou au conditionnel présent.",
+     "items": [
+      "Si tu (travailler) plus, tu (réussir).",
+      "Si nous (partir) tôt, nous (arriver) à l’heure.",
+      "Si elle (savoir), elle (répondre)."
+     ],
+     "corrige": [
+      "Si tu travaillais plus, tu réussirais.",
+      "Si nous partions tôt, nous arriverions à l’heure.",
+      "Si elle savait, elle répondrait."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les autres valeurs du conditionnel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le conditionnel présent n’exprime pas seulement l’hypothèse. Il a **d’autres valeurs**."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du conditionnel présent",
+     "head": [
+      "Valeur",
+      "Ce qu’elle exprime",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "hypothèse",
+       "ce qui arriverait sous une condition",
+       "Si j’étais riche, je **voyagerais**."
+      ],
+      [
+       "politesse",
+       "une demande adoucie",
+       "**Pourriez**-vous m’aider ?"
+      ],
+      [
+       "souhait",
+       "un désir",
+       "J’**aimerais** devenir médecin."
+      ],
+      [
+       "conseil",
+       "une recommandation douce",
+       "Tu **devrais** te reposer."
+      ],
+      [
+       "information incertaine",
+       "un fait non confirmé (journal, radio)",
+       "Le chef **serait** malade."
+      ],
+      [
+       "futur dans le passé",
+       "un futur vu depuis le passé",
+       "Il a dit qu’il **viendrait**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je **voudrais** un cahier, s’il vous plaît. — On dit que le ministre **viendrait** demain."
+    },
+    {
+     "type": "tip",
+     "label": "Politesse",
+     "text": "Comparer : « Donne-moi de l’eau. » (ordre) et « **Pourrais**-tu me donner de l’eau ? » (demande polie)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il y aurait trois blessés. », quelle est la valeur du conditionnel ?",
+     "options": [
+      "politesse",
+      "souhait",
+      "information incertaine",
+      "hypothèse"
+     ],
+     "answer": 2,
+     "explain": "Le journaliste n’est pas sûr de l’information : il emploie le conditionnel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du conditionnel.",
+     "items": [
+      "Pourriez-vous fermer la porte ?",
+      "J’aimerais voyager.",
+      "Si j’avais des ailes, je volerais.",
+      "Tu devrais dormir."
+     ],
+     "corrige": [
+      "politesse",
+      "souhait",
+      "hypothèse",
+      "conseil"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Bien écrire le conditionnel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’orthographe du conditionnel pose quelques problèmes. Voici les pièges à éviter."
+    },
+    {
+     "type": "table",
+     "title": "Les pièges",
+     "head": [
+      "Piège",
+      "Exemple",
+      "Solution"
+     ],
+     "rows": [
+      [
+       "-ais ou -ait ?",
+       "je finirais / il finirait",
+       "**-ais** pour je et tu, **-ait** pour il, elle, on"
+      ],
+      [
+       "-ait ou -aient ?",
+       "il partirait / ils partiraient",
+       "**-aient** pour ils, elles"
+      ],
+      [
+       "serais ou serait",
+       "Tu serais / Il serait",
+       "regarde la personne"
+      ],
+      [
+       "un seul r ou deux r",
+       "je courrais, je verrais",
+       "**deux r** pour courir, mourir, voir"
+      ],
+      [
+       "futur ou conditionnel",
+       "je ferai / je ferais",
+       "**-ai** = futur ; **-ais** = conditionnel"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Tu **serais** content. — Il **serait** content. — Ils **seraient** contents."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "*je chanterai* (futur) et *je chanterais* (conditionnel) : à l’oral, on entend une **différence** de voyelle (« é » / « è »)."
+    },
+    {
+     "type": "tip",
+     "label": "La technique du remplacement",
+     "text": "Remplace par un verbe du 3e groupe (*prendre*) pour trouver la bonne terminaison : *tu prendr**ais*** → *tu chanter**ais***."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Ils viendrait demain.",
+      "Ils viendraient demain.",
+      "Ils viendrons demain.",
+      "Ils viendraies demain."
+     ],
+     "answer": 1,
+     "explain": "Pour ils / elles, la terminaison est -aient."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris la bonne forme du conditionnel.",
+     "items": [
+      "Tu (pouvoir) m’aider.",
+      "Il (falloir) partir.",
+      "Elles (vouloir) rester.",
+      "Je (courir) plus vite."
+     ],
+     "corrige": [
+      "Tu pourrais m’aider.",
+      "Il faudrait partir.",
+      "Elles voudraient rester.",
+      "Je courrais plus vite."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **conjugue**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie les verbes au conditionnel présent.",
+     "items": [
+      "Je viendrais demain.",
+      "Nous mangeons du riz.",
+      "Il pleuvrait ce soir.",
+      "Tu chantais bien."
+     ],
+     "corrige": [
+      "Je viendrais demain.",
+      "Il pleuvrait ce soir."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est au futur simple ?",
+     "options": [
+      "Il lirait.",
+      "Il lira.",
+      "Il lisait.",
+      "Il lut."
+     ],
+     "answer": 1,
+     "explain": "« Il lira » est au futur ; « il lirait » est au conditionnel."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au conditionnel présent.",
+     "items": [
+      "Je (vouloir) un livre.",
+      "Nous (voir) mieux avec des lunettes.",
+      "Ils (savoir) la réponse.",
+      "Tu (devoir) partir.",
+      "Elle (envoyer) une lettre.",
+      "Vous (aller) au village."
+     ],
+     "corrige": [
+      "Je voudrais un livre.",
+      "Nous verrions mieux avec des lunettes.",
+      "Ils sauraient la réponse.",
+      "Tu devrais partir.",
+      "Elle enverrait une lettre.",
+      "Vous iriez au village."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète librement avec un verbe au conditionnel présent : « Si j’étais président(e), je … »",
+     "items": [
+      "Phrase 1",
+      "Phrase 2",
+      "Phrase 3"
+     ],
+     "corrige": [
+      "Exemples : Si j’étais président, je construirais des écoles.",
+      "Si j’étais président, je protégerais la forêt.",
+      "Si j’étais président, j’aiderais les familles."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **conditionnel présent** exprime une action **possible ou imaginée**.",
+      "Formation : **radical du futur** + **-ais, -ais, -ait, -ions, -iez, -aient**.",
+      "Radicaux particuliers : *ser-, aur-, ir-, fer-, pourr-, voudr-, viendr-, verr-, saur-, devr-*.",
+      "**Si** + imparfait → **conditionnel présent** (*Si j’avais le temps, je viendrais*).",
+      "Valeurs : **hypothèse, politesse, souhait, conseil, information incertaine**.",
+      "Ne pas confondre : *je chanterai* (futur) et *je chanterais* (conditionnel)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Conditionnel présent de quelques verbes",
+     "head": [
+      "Verbe",
+      "je",
+      "il",
+      "nous",
+      "ils"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chanterais",
+       "chanterait",
+       "chanterions",
+       "chanteraient"
+      ],
+      [
+       "être",
+       "serais",
+       "serait",
+       "serions",
+       "seraient"
+      ],
+      [
+       "avoir",
+       "aurais",
+       "aurait",
+       "aurions",
+       "auraient"
+      ],
+      [
+       "aller",
+       "irais",
+       "irait",
+       "irions",
+       "iraient"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne forme : « Si j’avais le temps, je … au marché. »",
+     "options": [
+      "irai",
+      "irais",
+      "irait",
+      "irions"
+     ],
+     "answer": 1,
+     "explain": "Après « si j’avais », on emploie le conditionnel présent : j’irais."
+    }
+   ]
+  }
+ ]
+}

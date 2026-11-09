@@ -1,0 +1,391 @@
+{
+ "id": 113,
+ "meta": {
+  "t": "La conclusion",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : bien terminer",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tu as raconté ta journée au village. Ton texte s’arrête d’un coup : « …et puis voilà. » Le lecteur reste sur sa faim. Il manque une **fin** qui boucle le texte : la **conclusion**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est une **conclusion**",
+      "Connaître ses **rôles**",
+      "Rédiger une conclusion **courte et réussie**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La conclusion",
+     "text": "La **conclusion** est la **dernière partie** de la rédaction. Elle **termine** le texte en rappelant l’essentiel et en laissant une **bonne impression**."
+    },
+    {
+     "type": "quiz",
+     "question": "La conclusion est…",
+     "options": [
+      "la première partie",
+      "la dernière partie",
+      "la partie centrale",
+      "le titre"
+     ],
+     "answer": 1,
+     "explain": "Elle termine la rédaction."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase qui peut conclure un récit.",
+     "items": [
+      "Ce jour-là, j’ai compris le prix de l’amitié.",
+      "Il était une fois.",
+      "D’abord, nous sommes partis."
+     ],
+     "corrige": [
+      "Ce jour-là, j’ai compris le prix de l’amitié."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les rôles de la conclusion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une bonne conclusion fait **deux choses**, parfois **trois**."
+    },
+    {
+     "type": "table",
+     "title": "Les rôles",
+     "head": [
+      "Rôle",
+      "Ce que j’écris",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**résumer**",
+       "je rappelle l’essentiel en une phrase",
+       "J’ai passé une journée heureuse au village."
+      ],
+      [
+       "**donner son avis**",
+       "je dis ce que je pense, ce que je ressens",
+       "J’ai adoré cette vie simple."
+      ],
+      [
+       "**ouvrir**",
+       "je regarde vers l’avenir (facultatif)",
+       "J’espère y retourner bientôt."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**J’ai passé une journée heureuse au village.** J’ai aimé la simplicité des gens. **J’espère y retourner bientôt.**"
+    },
+    {
+     "type": "tip",
+     "label": "Court mais fort",
+     "text": "Trois ou quatre phrases suffisent. La dernière phrase doit **marquer** le lecteur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est un rôle de la conclusion ?",
+     "options": [
+      "annoncer le plan",
+      "résumer l’essentiel",
+      "poser le sujet",
+      "commencer l’histoire"
+     ],
+     "answer": 1,
+     "explain": "Elle rappelle l’essentiel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : a) J’ai passé une belle journée. b) J’espère revenir bientôt.",
+     "items": [
+      "a",
+      "b"
+     ],
+     "corrige": [
+      "a : résumer",
+      "b : ouvrir"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une conclusion ratée gâche une bonne rédaction."
+    },
+    {
+     "type": "table",
+     "title": "Ce qu’il faut éviter",
+     "head": [
+      "Erreur",
+      "Exemple",
+      "Correction"
+     ],
+     "rows": [
+      [
+       "**apporter une idée nouvelle**",
+       "Au fait, j’ai aussi vu un éléphant.",
+       "Garder les idées déjà développées."
+      ],
+      [
+       "**s’arrêter brusquement**",
+       "Et puis voilà.",
+       "Écrire une vraie phrase de fin."
+      ],
+      [
+       "**répéter l’introduction**",
+       "Je viens de vous parler de mon village.",
+       "Reformuler autrement."
+      ],
+      [
+       "**écrire « Fin »**",
+       "Fin.",
+       "Terminer par une phrase."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Rien de nouveau",
+     "text": "La conclusion **ne contient pas d’idée nouvelle**. Tout est déjà dit dans le développement."
+    },
+    {
+     "type": "quiz",
+     "question": "Que ne faut-il pas faire dans la conclusion ?",
+     "options": [
+      "donner son avis",
+      "ajouter une idée nouvelle",
+      "résumer",
+      "ouvrir sur l’avenir"
+     ],
+     "answer": 1,
+     "explain": "Les idées nouvelles se placent dans le développement."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige : « Et puis voilà. » Écris une meilleure fin pour une histoire de pêche.",
+     "items": [
+      "Fin"
+     ],
+     "corrige": [
+      "Exemple : Ce jour-là, j’ai compris que la patience est la clé de la pêche. J’y retournerai dès demain."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les mots de la conclusion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Des mots et expressions **signalent** la conclusion."
+    },
+    {
+     "type": "table",
+     "title": "Des expressions utiles",
+     "head": [
+      "Pour…",
+      "On peut écrire"
+     ],
+     "rows": [
+      [
+       "marquer la fin",
+       "En conclusion… ; Pour terminer… ; Enfin…"
+      ],
+      [
+       "résumer",
+       "En somme… ; Bref… ; Finalement…"
+      ],
+      [
+       "donner son avis",
+       "Pour ma part… ; Je pense que… ; J’ai appris que…"
+      ],
+      [
+       "ouvrir",
+       "À l’avenir… ; J’espère que… ; Peut-être un jour…"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Pour terminer**, je dirai que le marché est un lieu de rencontre. **Pour ma part**, j’y retourne toujours avec plaisir."
+    },
+    {
+     "type": "tip",
+     "label": "Pas trop d’expressions",
+     "text": "Choisis une ou deux expressions. Ne les accumule pas."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle expression marque la fin ?",
+     "options": [
+      "D’abord",
+      "Pour terminer",
+      "Ensuite",
+      "Un jour"
+     ],
+     "answer": 1,
+     "explain": "« Pour terminer » annonce la fin."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : pour terminer / j’espère que. « ______, je dirai que j’ai aimé cette journée. ______ je reviendrai bientôt. »",
+     "items": [
+      "1",
+      "2"
+     ],
+     "corrige": [
+      "Pour terminer",
+      "J’espère que"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger une conclusion pas à pas",
+   "blocs": [
+    {
+     "type": "list",
+     "label": "Les étapes",
+     "items": [
+      "Je **relis** mon développement.",
+      "J’écris **une phrase de résumé**.",
+      "J’ajoute mon **avis** ou ma **réflexion**.",
+      "Je termine par une **phrase qui marque** (souhait, leçon, projet)."
+     ],
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "**Sujet** : « Décris ton école ». **Conclusion** : Mon école est un lieu où je me sens bien. J’y apprends et j’y ai des amis. J’espère y rester longtemps."
+    },
+    {
+     "type": "tip",
+     "label": "Ne pas se précipiter",
+     "text": "Garde du temps pour la conclusion : **ne la bâcle pas** à la fin de l’épreuve."
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on avant d’écrire la conclusion ?",
+     "options": [
+      "on relit le développement",
+      "on change le sujet",
+      "on recopie l’introduction",
+      "on corrige le titre"
+     ],
+     "answer": 0,
+     "explain": "On relit ce qui a été écrit."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une conclusion de trois phrases pour : « Raconte une fête dans ton village ».",
+     "items": [
+      "Conclusion"
+     ],
+     "corrige": [
+      "Exemple : Cette fête restera gravée dans ma mémoire. J’ai aimé la joie de tous. J’espère qu’elle se répétera l’an prochain."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **corrige**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase peut être une conclusion ?",
+     "options": [
+      "Il était une fois un roi.",
+      "Pour finir, j’ai appris que la persévérance paie.",
+      "D’abord, nous sommes partis.",
+      "Bonjour tout le monde."
+     ],
+     "answer": 1,
+     "explain": "Elle termine et tire une leçon."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Cette fin contient une erreur : « J’ai aimé la fête. Au fait, il y avait aussi un orchestre. » Laquelle ?",
+     "items": [
+      "Erreur"
+     ],
+     "corrige": [
+      "Une idée nouvelle apparaît dans la conclusion (l’orchestre)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige la conclusion du sujet : « Parle de ton meilleur ami ».",
+     "items": [
+      "Conclusion"
+     ],
+     "corrige": [
+      "Exemple : Mon ami est pour moi un frère. Je suis heureux de l’avoir rencontré. J’espère que notre amitié durera toute la vie."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **conclusion** est la **dernière partie** de la rédaction.",
+      "Elle **résume** l’essentiel et donne **son avis**, parfois elle **ouvre** sur l’avenir.",
+      "Elle est **courte** (trois ou quatre phrases).",
+      "Elle ne contient **aucune idée nouvelle**.",
+      "On ne termine pas brusquement : on écrit une **vraie phrase de fin**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Une conclusion bien faite…",
+     "options": [
+      "ajoute des idées nouvelles",
+      "termine le texte avec une vraie phrase de fin",
+      "répète toute la rédaction",
+      "n’existe pas"
+     ],
+     "answer": 1,
+     "explain": "Elle clôt le texte proprement."
+    }
+   ]
+  }
+ ]
+}

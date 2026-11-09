@@ -1,0 +1,611 @@
+{
+ "id": 96,
+ "meta": {
+  "t": "La concordance des temps",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la concordance des temps ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare : « Je pense qu’il **viendra**. » et « Je pensais qu’il **viendrait**. » Le verbe de la subordonnée **change** quand le verbe de la principale **change**. C’est la **concordance des temps**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Comprendre le principe de la concordance des temps",
+      "Choisir le bon temps dans la subordonnée",
+      "Transformer un discours direct en discours indirect"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La concordance des temps",
+     "text": "La **concordance des temps** est la **règle** qui relie le **temps du verbe de la subordonnée** à celui du **verbe de la principale**, selon que l’action est **simultanée**, **antérieure** ou **postérieure**."
+    },
+    {
+     "type": "table",
+     "title": "Les trois relations",
+     "head": [
+      "Relation",
+      "Sens",
+      "Exemple (principale au présent)"
+     ],
+     "rows": [
+      [
+       "simultanéité",
+       "les deux actions ont lieu **en même temps**",
+       "Je pense qu’il **vient**."
+      ],
+      [
+       "antériorité",
+       "l’action de la subordonnée a eu lieu **avant**",
+       "Je pense qu’il **est venu**."
+      ],
+      [
+       "postériorité",
+       "l’action de la subordonnée aura lieu **après**",
+       "Je pense qu’il **viendra**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je sais qu’il est parti. », l’action de la subordonnée est…",
+     "options": [
+      "simultanée",
+      "antérieure",
+      "postérieure",
+      "impossible à dire"
+     ],
+     "answer": 1,
+     "explain": "Il est parti avant le moment où je parle : c’est une action antérieure."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la relation : simultanéité (S), antériorité (A), postériorité (P).",
+     "items": [
+      "Je crois qu’il arrive.",
+      "Je crois qu’il est arrivé.",
+      "Je crois qu’il arrivera."
+     ],
+     "corrige": [
+      "S",
+      "A",
+      "P"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Quand la principale est au présent ou au futur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand le verbe de la principale est au **présent** ou au **futur**, le verbe de la subordonnée s’emploie ainsi :"
+    },
+    {
+     "type": "table",
+     "title": "Principale au présent ou au futur",
+     "head": [
+      "Relation",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "simultanéité",
+       "**présent**",
+       "Je dis qu’il **pleut**."
+      ],
+      [
+       "antériorité",
+       "**passé composé** (ou imparfait)",
+       "Je dis qu’il **a plu**. / qu’il **pleuvait**."
+      ],
+      [
+       "postériorité",
+       "**futur simple**",
+       "Je dis qu’il **pleuvra**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il pense que tu **dis** la vérité. — Il pense que tu **as menti**. — Il pense que tu **partiras**."
+    },
+    {
+     "type": "tip",
+     "label": "Le principe",
+     "text": "Principale au **présent** → on reste dans le **présent** : *présent, passé composé, futur*."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas mélanger",
+     "text": "On n’écrit pas « Je pense qu’il viendrait demain » : après une principale au **présent**, on emploie le **futur** (*il viendra*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je pense qu’il viendrait demain.",
+      "Je pense qu’il viendra demain.",
+      "Je pense qu’il venait demain.",
+      "Je pense qu’il serait venu demain."
+     ],
+     "answer": 1,
+     "explain": "Principale au présent, action postérieure : futur simple."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le temps qui convient.",
+     "items": [
+      "Je sais qu’il (être) malade en ce moment.",
+      "Je sais qu’il (partir) hier.",
+      "Je sais qu’il (revenir) demain."
+     ],
+     "corrige": [
+      "Je sais qu’il est malade en ce moment.",
+      "Je sais qu’il est parti hier.",
+      "Je sais qu’il reviendra demain."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Quand la principale est au passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand le verbe de la principale est au **passé** (passé composé, imparfait, passé simple), le verbe de la subordonnée **change** aussi de temps."
+    },
+    {
+     "type": "table",
+     "title": "Principale au passé",
+     "head": [
+      "Relation",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "simultanéité",
+       "**imparfait**",
+       "Il a dit qu’il **pleuvait**."
+      ],
+      [
+       "antériorité",
+       "**plus-que-parfait**",
+       "Il a dit qu’il **avait plu**."
+      ],
+      [
+       "postériorité",
+       "**conditionnel présent**",
+       "Il a dit qu’il **pleuvrait**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je savais que tu **étais** là. — Je savais que tu **étais venu**. — Je savais que tu **viendrais**."
+    },
+    {
+     "type": "tip",
+     "label": "Le principe",
+     "text": "Principale au **passé** → on se place **dans le passé** : *imparfait, plus-que-parfait, conditionnel présent*."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de futur simple",
+     "text": "On n’écrit pas « Il a dit qu’il viendra ». On écrit : « Il a dit qu’il **viendrait** » (conditionnel présent = futur dans le passé)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il a dit qu’il viendra.",
+      "Il a dit qu’il viendrait.",
+      "Il a dit qu’il vient demain.",
+      "Il a dit qu’il est venu demain."
+     ],
+     "answer": 1,
+     "explain": "Principale au passé composé, action postérieure : conditionnel présent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le temps qui convient.",
+     "items": [
+      "Elle a dit qu’elle (être) fatiguée. (simultané)",
+      "Elle a dit qu’elle (finir) son travail. (antérieur)",
+      "Elle a dit qu’elle (partir) demain. (postérieur)"
+     ],
+     "corrige": [
+      "Elle a dit qu’elle était fatiguée.",
+      "Elle a dit qu’elle avait fini son travail.",
+      "Elle a dit qu’elle partirait demain."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La concordance dans l’hypothèse (si)",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avec une **hypothèse** introduite par **si**, le temps de la principale dépend de celui de la subordonnée."
+    },
+    {
+     "type": "table",
+     "title": "Les trois constructions",
+     "head": [
+      "Condition (si + …)",
+      "Conséquence",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "si + **présent**",
+       "**futur simple**",
+       "Si tu viens, je **serai** content."
+      ],
+      [
+       "si + **imparfait**",
+       "**conditionnel présent**",
+       "Si tu venais, je **serais** content."
+      ],
+      [
+       "si + **plus-que-parfait**",
+       "**conditionnel passé**",
+       "Si tu étais venu, j’**aurais été** content."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Si j’ai le temps, j’**irai**. — Si j’avais le temps, j’**irais**. — Si j’avais eu le temps, je **serais allé**."
+    },
+    {
+     "type": "warn",
+     "label": "Jamais de conditionnel après si",
+     "text": "On n’écrit **jamais** « Si j’aurais le temps ». Après **si** (hypothèse), on emploie le **présent**, l’**imparfait** ou le **plus-que-parfait**, jamais le **conditionnel**."
+    },
+    {
+     "type": "tip",
+     "label": "Réel, irréel, regret",
+     "text": "*Si + présent* exprime une hypothèse **possible**. *Si + imparfait* exprime une hypothèse **imaginée**. *Si + plus-que-parfait* exprime un **regret** (c’est trop tard)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Si j’aurais su, je serais venu.",
+      "Si j’avais su, je serais venu.",
+      "Si je savais, je serais venu.",
+      "Si j’avais su, je viendrais hier."
+     ],
+     "answer": 1,
+     "explain": "Si + plus-que-parfait (avais su), conditionnel passé (serais venu)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes qui conviennent.",
+     "items": [
+      "Si tu (travailler), tu (réussir).",
+      "Si nous (partir) plus tôt, nous (arriver) à l’heure.",
+      "Si j’(savoir), je (répondre)."
+     ],
+     "corrige": [
+      "Si tu travailles, tu réussiras. / Si tu travaillais, tu réussirais.",
+      "Si nous partions plus tôt, nous arriverions à l’heure.",
+      "Si je savais, je répondrais. / Si j’avais su, j’aurais répondu."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Du discours direct au discours indirect",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on rapporte des paroles au **discours indirect**, on applique la **concordance des temps**. Les temps changent si le verbe introducteur est **au passé**."
+    },
+    {
+     "type": "table",
+     "title": "Les changements de temps",
+     "head": [
+      "Discours direct",
+      "Discours indirect (verbe introducteur au passé)"
+     ],
+     "rows": [
+      [
+       "« Je **mange**. »",
+       "Il a dit qu’il **mangeait**."
+      ],
+      [
+       "« J’**ai mangé**. »",
+       "Il a dit qu’il **avait mangé**."
+      ],
+      [
+       "« Je **mangerai**. »",
+       "Il a dit qu’il **mangerait**."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les changements de repères",
+     "head": [
+      "Discours direct",
+      "Discours indirect (passé)"
+     ],
+     "rows": [
+      [
+       "demain",
+       "le lendemain"
+      ],
+      [
+       "hier",
+       "la veille"
+      ],
+      [
+       "maintenant",
+       "alors, à ce moment-là"
+      ],
+      [
+       "ici",
+       "là"
+      ],
+      [
+       "aujourd’hui",
+       "ce jour-là"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Je viendrai **demain**. » → Il a dit qu’il viendrait **le lendemain**."
+    },
+    {
+     "type": "tip",
+     "label": "Si le verbe introducteur est au présent",
+     "text": "Si le verbe introducteur est au **présent** (*Il dit que…*), les **temps ne changent pas** : *Il dit qu’il mangera demain.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Comment transformer : Il a dit : « Je partirai demain. » ?",
+     "options": [
+      "Il a dit qu’il partira demain.",
+      "Il a dit qu’il partirait le lendemain.",
+      "Il a dit qu’il partait le lendemain.",
+      "Il a dit qu’il était parti le lendemain."
+     ],
+     "answer": 1,
+     "explain": "Futur → conditionnel présent ; demain → le lendemain."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au discours indirect (verbe introducteur au passé composé).",
+     "items": [
+      "Il a dit : « J’ai faim. »",
+      "Elle a dit : « Je viendrai demain. »",
+      "Ils ont dit : « Nous sommes partis hier. »"
+     ],
+     "corrige": [
+      "Il a dit qu’il avait faim.",
+      "Elle a dit qu’elle viendrait le lendemain.",
+      "Ils ont dit qu’ils étaient partis la veille."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La concordance et le subjonctif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après certains verbes et certaines conjonctions (**il faut que**, **je veux que**, **bien que**, **pour que**), on emploie le **subjonctif**. Le temps du subjonctif dépend aussi de la **relation** entre les actions."
+    },
+    {
+     "type": "table",
+     "title": "Subjonctif présent et passé",
+     "head": [
+      "Relation",
+      "Temps",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "simultanéité ou postériorité",
+       "**subjonctif présent**",
+       "Il faut que tu **viennes** demain."
+      ],
+      [
+       "antériorité",
+       "**subjonctif passé**",
+       "Je suis content que tu **sois venu** hier."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Je veux que tu **fasses** ton devoir. — Je regrette que tu **aies perdu** ton cahier."
+    },
+    {
+     "type": "tip",
+     "label": "Le subjonctif imparfait",
+     "text": "Dans la langue **littéraire**, on emploie encore le **subjonctif imparfait** (*Il fallait qu’il vînt*). Dans la langue **courante**, on emploie le **subjonctif présent** : *Il fallait qu’il **vienne**.*"
+    },
+    {
+     "type": "warn",
+     "label": "Le subjonctif, pas le futur",
+     "text": "Après **il faut que**, **pour que**, **bien que**, on n’écrit **pas** le futur : on écrit **que tu viennes**, et non « que tu viendras »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il faut que tu viendras.",
+      "Il faut que tu viennes.",
+      "Il faut que tu viens.",
+      "Il faut que tu viendrais."
+     ],
+     "answer": 1,
+     "explain": "Après il faut que, on emploie le subjonctif présent."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le subjonctif qui convient.",
+     "items": [
+      "Il faut que tu (faire) attention.",
+      "Je suis content que tu (venir) hier.",
+      "Bien qu’il (pleuvoir), nous sortons."
+     ],
+     "corrige": [
+      "Il faut que tu fasses attention.",
+      "Je suis content que tu sois venu hier.",
+      "Bien qu’il pleuve, nous sortons."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **conjugue**, puis on **transforme**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la relation entre les deux actions : simultanéité, antériorité ou postériorité.",
+     "items": [
+      "Je pensais qu’il dormait.",
+      "Je pensais qu’il était parti.",
+      "Je pensais qu’il reviendrait."
+     ],
+     "corrige": [
+      "simultanéité",
+      "antériorité",
+      "postériorité"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase respecte la concordance des temps ?",
+     "options": [
+      "Il pensait qu’elle viendra.",
+      "Il pensait qu’elle viendrait.",
+      "Il pense qu’elle viendrait.",
+      "Il pensera qu’elle viendrait."
+     ],
+     "answer": 1,
+     "explain": "Principale au passé (imparfait), action postérieure : conditionnel présent."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : conjuguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes à la forme qui convient.",
+     "items": [
+      "Il a dit qu’il (venir) le lendemain.",
+      "Nous savions qu’elle (avoir) raison.",
+      "Je pense qu’il (réussir) demain.",
+      "Elle disait qu’elle (finir) déjà son travail."
+     ],
+     "corrige": [
+      "Il a dit qu’il viendrait le lendemain.",
+      "Nous savions qu’elle avait raison.",
+      "Je pense qu’il réussira demain.",
+      "Elle disait qu’elle avait déjà fini son travail."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au discours indirect avec un verbe introducteur au passé.",
+     "items": [
+      "Elle a dit : « Je suis fatiguée. »",
+      "Il a répondu : « Je viendrai demain. »",
+      "Ils ont dit : « Nous avons fini hier. »"
+     ],
+     "corrige": [
+      "Elle a dit qu’elle était fatiguée.",
+      "Il a répondu qu’il viendrait le lendemain.",
+      "Ils ont dit qu’ils avaient fini la veille."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **concordance des temps** relie le temps de la subordonnée à celui de la principale.",
+      "Principale au **présent / futur** : subordonnée au **présent, passé composé, futur**.",
+      "Principale au **passé** : subordonnée à l’**imparfait, plus-que-parfait, conditionnel présent**.",
+      "Hypothèse : **si + présent → futur** ; **si + imparfait → conditionnel présent** ; **si + plus-que-parfait → conditionnel passé**.",
+      "Discours indirect : les **temps** et les **repères** changent si le verbe introducteur est au passé.",
+      "Subjonctif : **présent** (simultané ou postérieur), **passé** (antérieur)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Principale au présent / au passé",
+     "head": [
+      "Relation",
+      "Principale au présent",
+      "Principale au passé"
+     ],
+     "rows": [
+      [
+       "simultanéité",
+       "présent",
+       "imparfait"
+      ],
+      [
+       "antériorité",
+       "passé composé",
+       "plus-que-parfait"
+      ],
+      [
+       "postériorité",
+       "futur simple",
+       "conditionnel présent"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il a dit qu’il viendra.",
+      "Il a dit qu’il viendrait.",
+      "Il dit qu’il viendrait.",
+      "Il dira qu’il viendrait."
+     ],
+     "answer": 1,
+     "explain": "Après une principale au passé, une action postérieure se met au conditionnel présent."
+    }
+   ]
+  }
+ ]
+}

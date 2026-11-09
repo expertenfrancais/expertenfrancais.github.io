@@ -1,0 +1,533 @@
+{
+ "id": 78,
+ "meta": {
+  "t": "Les homonymes",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un homonyme ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis ces deux phrases : « Le **vers** de ce poème est beau » et « Le **ver** de terre sort de la terre ». Les mots *vers* et *ver* se prononcent de la même façon, mais ils n’ont pas le même sens ni la même orthographe. Ce sont des **homonymes**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Comprendre ce qu’est un homonyme",
+      "Distinguer homophones et homographes",
+      "Choisir le bon mot grâce au contexte"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Homonymes",
+     "text": "Les **homonymes** sont des mots qui **se prononcent** ou **s’écrivent de la même façon**, mais qui ont des **sens différents**. Le mot *homonyme* vient du grec : « qui porte le même nom »."
+    },
+    {
+     "type": "table",
+     "title": "Les deux grandes familles d’homonymes",
+     "head": [
+      "Famille",
+      "Définition",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "les **homophones**",
+       "même prononciation, orthographe souvent différente",
+       "*mer* / *mère* / *maire*"
+      ],
+      [
+       "les **homographes**",
+       "même orthographe, sens différents",
+       "*avocat* (le fruit) / *avocat* (le défenseur)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Retenir",
+     "text": "*Phone* veut dire « son » : les **homo**phones ont le même **son**. *Graphe* veut dire « écriture » : les **homo**graphes ont la même **écriture**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est un homonyme de « mer » ?",
+     "options": [
+      "merci",
+      "mère",
+      "mairie",
+      "mur"
+     ],
+     "answer": 1,
+     "explain": "*Mer* et *mère* se prononcent de la même façon, mais n’ont pas le même sens."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Entoure le mot qui convient.",
+     "items": [
+      "Le (vert / ver / verre) est dans le jardin.",
+      "Je bois un (vert / ver / verre) d’eau.",
+      "Le feu est (vert / ver / verre)."
+     ],
+     "corrige": [
+      "Le *ver* est dans le jardin.",
+      "Je bois un *verre* d’eau.",
+      "Le feu est *vert*."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les homophones",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **homophones** se prononcent de la même façon, mais s’écrivent presque toujours **différemment**. Chacun a son sens."
+    },
+    {
+     "type": "table",
+     "title": "Des familles d’homophones",
+     "head": [
+      "Prononciation",
+      "Mots",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "[mɛʀ]",
+       "**mer**, **mère**, **maire**",
+       "étendue d’eau, femme qui a un enfant, responsable de la mairie"
+      ],
+      [
+       "[vɛʀ]",
+       "**ver**, **verre**, **vert**, **vers**",
+       "petit animal, objet pour boire, couleur, poème ou direction"
+      ],
+      [
+       "[sɑ̃]",
+       "**sang**, **sans**, **cent**",
+       "liquide rouge, absence de, nombre"
+      ],
+      [
+       "[ʃɑ̃]",
+       "**champ**, **chant**",
+       "terrain cultivé, chanson"
+      ],
+      [
+       "[fwa]",
+       "**foi**, **foie**, **fois**",
+       "confiance, organe, occasion"
+      ],
+      [
+       "[sɛ̃]",
+       "**sain**, **saint**, **sein**",
+       "en bonne santé, personne vénérée, poitrine"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le **maire** et sa **mère** regardent la **mer**.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Pas d’erreur !",
+     "text": "Comme ils se prononcent pareil, on ne peut pas les distinguer à l’oral. **À l’écrit**, il faut choisir le bon mot grâce au **sens de la phrase**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot complète : « Nous avons mangé du pain … beurre » ?",
+     "options": [
+      "sang",
+      "sans",
+      "cent",
+      "sens"
+     ],
+     "answer": 1,
+     "explain": "On cherche le mot qui signifie « absence de » : *sans*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le bon homophone : mer, mère, maire.",
+     "items": [
+      "La … de Fatou est infirmière.",
+      "Le … a ouvert la fête du village.",
+      "Les enfants se baignent dans la … ."
+     ],
+     "corrige": [
+      "La *mère* de Fatou est infirmière.",
+      "Le *maire* a ouvert la fête du village.",
+      "Les enfants se baignent dans la *mer*."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les homographes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **homographes** s’écrivent de la même façon, mais ils ont des **sens différents**. Parfois ils se prononcent aussi pareil, parfois non."
+    },
+    {
+     "type": "table",
+     "title": "Deux sortes d’homographes",
+     "head": [
+      "Sorte",
+      "Explication",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "homographes **homophones**",
+       "écriture et prononciation identiques",
+       "*avocat* (fruit / défenseur) ; *voler* (dans l’air / dérober) ; *louer* (prendre en location / faire l’éloge)"
+      ],
+      [
+       "homographes **non homophones**",
+       "écriture identique, prononciation différente",
+       "*Les poules du couvent couvent* ; *les fils* (de l’un / à coudre) ; *est* (verbe / point cardinal) ; *content* (adjectif) / *ils content* (verbe conter)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« L’**avocat** défend son client. » / « J’ai mangé un **avocat** au déjeuner. »",
+     "label": "Même écriture, même prononciation"
+    },
+    {
+     "type": "ex",
+     "text": "« Les **poules** du **couvent** **couvent**. » : *couvent* (nom) ne se prononce pas comme *couvent* (verbe).",
+     "label": "Même écriture, prononciation différente"
+    },
+    {
+     "type": "tip",
+     "label": "Truc",
+     "text": "Pour savoir quel sens a un homographe, **lis toute la phrase** : le contexte (les mots autour) te donne la réponse."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase « fils » ne se prononce-t-il pas comme dans « Le fils de Paul est grand » ?",
+     "options": [
+      "Son fils est ingénieur.",
+      "Les fils électriques sont coupés.",
+      "Il est le fils unique.",
+      "Mon fils dort."
+     ],
+     "answer": 1,
+     "explain": "Dans *les fils électriques* (pluriel de *fil*), on prononce le *l* ; dans les autres phrases, *fils* désigne un garçon et se prononce [fis]."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases pour montrer les deux sens du mot « voler ».",
+     "items": [
+      "voler (dans les airs)",
+      "voler (dérober)"
+     ],
+     "corrige": [
+      "*Les oiseaux migrateurs volent vers le sud.*",
+      "*Le voleur a volé un téléphone.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Des homonymes qui changent de genre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains homographes parfaits ne se distinguent que par le **genre**. Le **déterminant** (le, la…) change le sens du mot."
+    },
+    {
+     "type": "table",
+     "title": "Un mot, deux genres, deux sens",
+     "head": [
+      "Masculin",
+      "Féminin"
+     ],
+     "rows": [
+      [
+       "**le tour** : promenade, tour de magie",
+       "**la tour** : bâtiment très haut"
+      ],
+      [
+       "**le livre** : on le lit",
+       "**la livre** : unité de poids ou monnaie"
+      ],
+      [
+       "**le poêle** : appareil de chauffage",
+       "**la poêle** : ustensile de cuisine"
+      ],
+      [
+       "**le vase** : récipient pour les fleurs",
+       "**la vase** : boue au fond de l’eau"
+      ],
+      [
+       "**le mousse** : jeune marin",
+       "**la mousse** : plante verte, écume"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Le** tour de magie du clown était étonnant. / **La** tour de la cathédrale est très haute.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Observe bien",
+     "text": "Dans ces mots, c’est le **déterminant** qui t’indique le sens. Fais très attention à *le* et *la*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot complète : « Maman fait cuire les œufs dans … poêle » ?",
+     "options": [
+      "le",
+      "la",
+      "les",
+      "un"
+     ],
+     "answer": 1,
+     "explain": "Une *poêle* qui sert à cuire est un mot féminin : *la poêle*."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec « le » ou « la ».",
+     "items": [
+      "… livre de grammaire est ouvert.",
+      "… vase est tombé sur le sol.",
+      "… tour Eiffel est célèbre.",
+      "… mousse couvre la pierre."
+     ],
+     "corrige": [
+      "*Le* livre de grammaire est ouvert.",
+      "*Le* vase est tombé sur le sol.",
+      "*La* tour Eiffel est célèbre.",
+      "*La* mousse couvre la pierre."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître le bon homonyme et utiliser le dictionnaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour ne pas se tromper, voici trois méthodes."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Lire toute la phrase** : le sens général indique le bon mot.",
+      "**Chercher un mot de la même famille** : *le vert* → *verdure* ; *le ver* → *vermisseau*.",
+      "**Remplacer** par un synonyme ou une définition : *je bois dans un ... (récipient)* → *verre*."
+     ],
+     "label": "Trois méthodes",
+     "ordered": true
+    },
+    {
+     "type": "h",
+     "text": "Homonymes et polysémie"
+    },
+    {
+     "type": "p",
+     "text": "Attention à ne pas confondre **homonymes** et **mots polysémiques**. Un mot **polysémique** est un seul mot qui a plusieurs sens **liés entre eux**."
+    },
+    {
+     "type": "table",
+     "title": "Homonymie ou polysémie ?",
+     "head": [
+      "Cas",
+      "Explication",
+      "Dans le dictionnaire"
+     ],
+     "rows": [
+      [
+       "**avocat** (fruit) / **avocat** (juriste)",
+       "deux mots différents, sens sans rapport",
+       "**deux entrées** séparées"
+      ],
+      [
+       "**feuille** d’arbre / **feuille** de papier",
+       "un seul mot, sens liés par la forme",
+       "**une seule entrée**, plusieurs sens"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Dans le dictionnaire",
+     "text": "Les homonymes ont **chacun leur entrée**, souvent marquée d’un numéro (*avocat 1*, *avocat 2*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est polysémique ?",
+     "options": [
+      "vers / ver",
+      "mer / mère",
+      "feuille",
+      "tour / tour"
+     ],
+     "answer": 2,
+     "explain": "*Feuille* est un seul mot qui a plusieurs sens liés (feuille d’arbre, feuille de papier)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque exemple montre deux homonymes ou un mot polysémique.",
+     "items": [
+      "a) souris (animal) / souris (de l’ordinateur)",
+      "b) louer (une maison) / louer (faire des louanges)",
+      "c) pied d’un homme / pied d’une table"
+     ],
+     "corrige": [
+      "a) *mot polysémique* (la souris d’ordinateur ressemble à l’animal)",
+      "b) *homonymes*",
+      "c) *mot polysémique*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1 : choisir le bon homophone"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le mot qui convient : cent, sans, sang.",
+     "items": [
+      "Il y a … élèves dans la cour.",
+      "Ne pars pas … ton cartable.",
+      "Elle a donné son … à l’hôpital."
+     ],
+     "corrige": [
+      "Il y a *cent* élèves dans la cour.",
+      "Ne pars pas *sans* ton cartable.",
+      "Elle a donné son *sang* à l’hôpital."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : champ ou chant"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec « champ » ou « chant ».",
+     "items": [
+      "Le paysan travaille dans son … .",
+      "Les élèves apprennent un … pour la fête.",
+      "Le … de l’oiseau réveille la forêt."
+     ],
+     "corrige": [
+      "*champ*",
+      "*chant*",
+      "*chant*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : le sens du mot"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase pour chaque sens.",
+     "items": [
+      "a) la mousse (la plante)",
+      "b) le mousse (le jeune marin)",
+      "c) la tour (le bâtiment)",
+      "d) le tour (une promenade)"
+     ],
+     "corrige": [
+      "a) *La mousse pousse sur le tronc.*",
+      "b) *Le mousse nettoie le pont du bateau.*",
+      "c) *La tour domine la ville.*",
+      "d) *Nous avons fait un tour dans le parc.*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : corriger les erreurs"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’homophone mal choisi.",
+     "items": [
+      "Le maire de la ville a mangé du pain sang beurre.",
+      "Nous avons nagé dans la mère.",
+      "Une foi par semaine, nous allons à la bibliothèque."
+     ],
+     "corrige": [
+      "Le maire de la ville a mangé du pain *sans* beurre.",
+      "Nous avons nagé dans la *mer*.",
+      "Une *fois* par semaine, nous allons à la bibliothèque."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les **homonymes** sont des mots qui se **prononcent** ou s’**écrivent** de la même façon, mais ont des sens **différents**.",
+      "Les **homophones** ont le même **son** : *mer, mère, maire*.",
+      "Les **homographes** ont la même **écriture** : *avocat* (fruit) / *avocat* (juriste).",
+      "Certains homonymes ne se distinguent que par le **genre** : *le tour / la tour*.",
+      "Un mot **polysémique** est un **seul** mot à plusieurs sens liés ; les homonymes sont des mots **différents**.",
+      "On choisit le bon homonyme grâce au **contexte** et au **dictionnaire**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Tableau récapitulatif",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "homophones",
+       "même prononciation",
+       "*vert / verre / ver / vers*"
+      ],
+      [
+       "homographes",
+       "même écriture",
+       "*avocat / avocat*"
+      ],
+      [
+       "polysémie",
+       "un mot, plusieurs sens liés",
+       "*feuille*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est vraie ?",
+     "options": [
+      "Les homophones ont la même orthographe.",
+      "Les homographes ont la même écriture mais pas le même sens.",
+      "Un mot polysémique est formé de deux mots.",
+      "Les homonymes ont toujours le même sens."
+     ],
+     "answer": 1,
+     "explain": "Les homographes s’écrivent pareil mais ont des sens différents."
+    }
+   ]
+  }
+ ]
+}

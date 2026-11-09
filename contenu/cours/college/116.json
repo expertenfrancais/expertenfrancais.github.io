@@ -1,0 +1,426 @@
+{
+ "id": 116,
+ "meta": {
+  "t": "La forme affirmative et la forme négative",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : dire oui ou dire non",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ta maman demande : « Tu as fini tes devoirs ? » Tu peux répondre : « **J’ai fini** mes devoirs. » ou « **Je n’ai pas fini** mes devoirs. » La première phrase **affirme**, la seconde **nie**. C’est la différence entre la forme **affirmative** et la forme **négative**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer la forme **affirmative** et la forme **négative**",
+      "Construire une phrase **négative**",
+      "Connaître les **mots de la négation**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La forme affirmative",
+     "text": "Une phrase à la **forme affirmative** dit qu’une chose **existe**, **est vraie** ou **se fait**. Exemple : **Awa aime la lecture.**"
+    },
+    {
+     "type": "def",
+     "label": "La forme négative",
+     "text": "Une phrase à la **forme négative** dit qu’une chose **n’existe pas**, **n’est pas vraie** ou **ne se fait pas**. Exemple : **Awa n’aime pas la lecture.**"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la forme négative ?",
+     "options": [
+      "Il pleut.",
+      "Il ne pleut pas.",
+      "Pleut-il ?",
+      "Qu’il pleuve !"
+     ],
+     "answer": 1,
+     "explain": "« ne… pas » marque la négation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : a) Je viens. b) Je ne viens pas.",
+     "items": [
+      "a",
+      "b"
+     ],
+     "corrige": [
+      "a : affirmative",
+      "b : négative"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Construire la forme négative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour mettre une phrase à la forme négative, on entoure le **verbe** avec **deux mots** : **ne** (ou **n’**) avant le verbe, **pas** après."
+    },
+    {
+     "type": "table",
+     "title": "La négation avec « ne… pas »",
+     "head": [
+      "Forme affirmative",
+      "Forme négative"
+     ],
+     "rows": [
+      [
+       "Il mange.",
+       "Il **ne** mange **pas**."
+      ],
+      [
+       "Nous avons fini.",
+       "Nous **n’**avons **pas** fini."
+      ],
+      [
+       "Elle est partie.",
+       "Elle **n’**est **pas** partie."
+      ],
+      [
+       "Tu connais la réponse.",
+       "Tu **ne** connais **pas** la réponse."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Devant une voyelle",
+     "text": "Devant une **voyelle** ou un **h muet**, **ne** devient **n’** : *il **n’**aime pas, elle **n’**habite pas ici*."
+    },
+    {
+     "type": "warn",
+     "label": "À l’oral",
+     "text": "À l’oral, on oublie souvent **ne**. À l’**écrit**, il est **obligatoire** : *Je **ne** sais **pas**.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Quels sont les deux mots de la négation ?",
+     "options": [
+      "et… ou",
+      "ne… pas",
+      "si… alors",
+      "de… à"
+     ],
+     "answer": 1,
+     "explain": "On emploie « ne… pas »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative : « Awa chante. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Awa ne chante pas."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les autres mots de la négation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il existe **d’autres mots** pour nier. Ils remplacent **pas** et ont des sens différents."
+    },
+    {
+     "type": "table",
+     "title": "Les autres négations",
+     "head": [
+      "Mot",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**ne… jamais**",
+       "à aucun moment",
+       "Il **ne** ment **jamais**."
+      ],
+      [
+       "**ne… plus**",
+       "la fin d’une action",
+       "Elle **ne** pleure **plus**."
+      ],
+      [
+       "**ne… rien**",
+       "aucune chose",
+       "Je **ne** vois **rien**."
+      ],
+      [
+       "**ne… personne**",
+       "aucune personne",
+       "Je **ne** connais **personne**."
+      ],
+      [
+       "**ne… aucun**",
+       "pas un seul",
+       "Il **n’**a **aucun** livre."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **ne** pleut **plus** : la pluie est terminée."
+    },
+    {
+     "type": "tip",
+     "label": "Deux parties",
+     "text": "La négation a **deux parties** : **ne** avant le verbe, et **pas / jamais / plus / rien / personne** après."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle négation indique que quelque chose est fini ?",
+     "options": [
+      "ne… jamais",
+      "ne… plus",
+      "ne… rien",
+      "ne… personne"
+     ],
+     "answer": 1,
+     "explain": "« ne… plus » marque l’arrêt."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec jamais, plus ou rien : « Il ne voit ______ . » (aucune chose)",
+     "items": [
+      "Mot"
+     ],
+     "corrige": [
+      "rien"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Passer de la forme affirmative à la forme négative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour transformer une phrase, on **encadre le verbe** conjugué. Aux **temps composés**, on encadre l’**auxiliaire**."
+    },
+    {
+     "type": "table",
+     "title": "Temps simple et temps composé",
+     "head": [
+      "Temps",
+      "Affirmative",
+      "Négative"
+     ],
+     "rows": [
+      [
+       "présent",
+       "Il joue.",
+       "Il **ne** joue **pas**."
+      ],
+      [
+       "passé composé",
+       "Il a joué.",
+       "Il **n’**a **pas** joué."
+      ],
+      [
+       "futur",
+       "Il jouera.",
+       "Il **ne** jouera **pas**."
+      ],
+      [
+       "impératif",
+       "Viens !",
+       "**Ne** viens **pas** !"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "L’article",
+     "text": "Après la négation, **un, une, des** deviennent souvent **de** ou **d’** : *J’ai un livre* → *Je n’ai **pas de** livre.*"
+    },
+    {
+     "type": "ex",
+     "text": "J’ai **des** crayons. → Je n’ai **pas de** crayons. Il y a **du** pain. → Il n’y a **pas de** pain."
+    },
+    {
+     "type": "quiz",
+     "question": "« Je n’ai pas ____ stylo. »",
+     "options": [
+      "un",
+      "de",
+      "des",
+      "le"
+     ],
+     "answer": 1,
+     "explain": "Après « pas », « un » devient « de »."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative : « Nous avons un cahier. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Nous n’avons pas de cahier."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les emplois de la forme négative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On emploie la forme négative pour **refuser**, **interdire**, **contredire** ou **décrire** ce qui **manque**."
+    },
+    {
+     "type": "table",
+     "title": "Pourquoi nier ?",
+     "head": [
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**refuser**",
+       "Je ne veux pas partir."
+      ],
+      [
+       "**interdire**",
+       "Ne courez pas dans les couloirs !"
+      ],
+      [
+       "**contredire**",
+       "Non, ce n’est pas vrai."
+      ],
+      [
+       "**dire un manque**",
+       "Il n’y a plus d’eau."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Dire non, poliment",
+     "text": "Pour refuser avec politesse, ajoute un mot : *Non, merci, je n’ai pas faim.*"
+    },
+    {
+     "type": "quiz",
+     "question": "« Ne courez pas ! » exprime…",
+     "options": [
+      "un refus",
+      "une interdiction",
+      "une question",
+      "une demande"
+     ],
+     "answer": 1,
+     "explain": "C’est un ordre négatif : une interdiction."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une phrase d’interdiction pour la cour de l’école.",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Exemple : Ne jetez pas de papiers par terre !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours : on **repère**, on **transforme**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot complète « ne… » pour dire « aucune personne » ?",
+     "options": [
+      "pas",
+      "plus",
+      "personne",
+      "jamais"
+     ],
+     "answer": 2,
+     "explain": "« ne… personne »."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative : 1) Elle travaille. 2) J’ai mangé. 3) Il y a du lait.",
+     "items": [
+      "1",
+      "2",
+      "3"
+     ],
+     "corrige": [
+      "Elle ne travaille pas.",
+      "Je n’ai pas mangé.",
+      "Il n’y a pas de lait."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris quatre phrases négatives sur ce qu’on ne doit pas faire en classe.",
+     "items": [
+      "Phrases"
+     ],
+     "corrige": [
+      "Exemple : Ne parlez pas en même temps. Ne jetez rien par la fenêtre. Ne dérangez pas vos camarades. N’arrivez jamais en retard."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **forme affirmative** dit que quelque chose est vrai ou se fait.",
+      "La **forme négative** dit le contraire, avec **ne… pas** (ou **ne… plus, jamais, rien, personne, aucun**).",
+      "**Ne** devient **n’** devant une voyelle ou un **h** muet.",
+      "On **encadre le verbe** (ou l’**auxiliaire** aux temps composés).",
+      "Après « pas », **un / une / des / du** deviennent **de** ou **d’**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que devient « ne » devant une voyelle ?",
+     "options": [
+      "na",
+      "n’",
+      "nu",
+      "ni"
+     ],
+     "answer": 1,
+     "explain": "« ne » devient « n’ » : il n’aime pas."
+    }
+   ]
+  }
+ ]
+}

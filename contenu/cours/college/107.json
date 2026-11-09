@@ -1,0 +1,542 @@
+{
+ "id": 107,
+ "meta": {
+  "t": "Le texte argumentatif",
+  "k": "Cours",
+  "n": "4e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : défendre une opinion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "En classe, le maître pose la question : « Faut-il lire un peu chaque jour ? » Des élèves répondent oui, d’autres non. Chacun doit **expliquer** sa position et **convaincre** ses camarades. Pour cela, il faut **argumenter**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est un texte argumentatif",
+      "Trouver une **thèse**, des **arguments** et des **exemples**",
+      "Organiser son texte avec des **connecteurs**"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le texte argumentatif",
+     "text": "Le **texte argumentatif** cherche à **convaincre** ou à **persuader** le lecteur en défendant une **opinion** (la **thèse**) à l’aide d’**arguments** et d’**exemples**."
+    },
+    {
+     "type": "table",
+     "title": "Les éléments",
+     "head": [
+      "Élément",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**thèse**",
+       "l’**opinion** défendue",
+       "Il faut lire chaque jour."
+      ],
+      [
+       "**argument**",
+       "une **raison** qui soutient la thèse",
+       "La lecture enrichit le vocabulaire."
+      ],
+      [
+       "**exemple**",
+       "un **fait précis** qui illustre l’argument",
+       "Après un mois de lecture, Marie utilise plus de mots."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "La thèse est…",
+     "options": [
+      "l’opinion défendue",
+      "un exemple",
+      "la conclusion seulement",
+      "un titre"
+     ],
+     "answer": 0,
+     "explain": "La thèse est la position que l’on défend."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la thèse.",
+     "items": [
+      "Il faut lire chaque jour.",
+      "La lecture enrichit le vocabulaire.",
+      "Marie lit un livre par semaine."
+     ],
+     "corrige": [
+      "Il faut lire chaque jour."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La thèse et la thèse adverse",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un débat, il y a souvent **deux positions** opposées."
+    },
+    {
+     "type": "table",
+     "title": "Deux positions",
+     "head": [
+      "Position",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "la **thèse** défendue",
+       "Il faut lire chaque jour."
+      ],
+      [
+       "la **thèse adverse** (opposée)",
+       "Il n’est pas nécessaire de lire chaque jour."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Réfuter",
+     "text": "**Réfuter**, c’est montrer que la **thèse adverse** est **fausse** ou **insuffisante**, en donnant des **contre-arguments**."
+    },
+    {
+     "type": "tip",
+     "label": "Reformuler",
+     "text": "Avant de défendre ta thèse, **reformule** le sujet avec tes propres mots : *Certains pensent que… ; moi, je pense que…*"
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "**Convaincre** : s’adresser à la **raison** avec des arguments. **Persuader** : toucher aussi les **émotions**."
+    },
+    {
+     "type": "quiz",
+     "question": "Réfuter une thèse, c’est…",
+     "options": [
+      "la répéter",
+      "montrer qu’elle est fausse",
+      "l’oublier",
+      "la copier"
+     ],
+     "answer": 1,
+     "explain": "On répond par des contre-arguments."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la thèse adverse de : « Il faut interdire le téléphone en classe. »",
+     "items": [
+      "Thèse adverse"
+     ],
+     "corrige": [
+      "Il ne faut pas interdire le téléphone en classe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les arguments et les exemples",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un **argument** est une **raison** qui soutient la thèse. Il doit être **précis** et **illustré par un exemple**."
+    },
+    {
+     "type": "table",
+     "title": "Un argument = une idée + un exemple",
+     "head": [
+      "Argument",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "La lecture enrichit le **vocabulaire**.",
+       "Un élève qui lit trouve de nouveaux mots."
+      ],
+      [
+       "La lecture **détend**.",
+       "Après l’école, lire un conte repose."
+      ],
+      [
+       "La lecture aide à **mieux écrire**.",
+       "Les bons lecteurs font moins de fautes."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Trois types d’arguments",
+     "text": "Argument de **logique** (raisonnement), d’**autorité** (un spécialiste), d’**expérience** (ce que j’ai vécu)."
+    },
+    {
+     "type": "ex",
+     "text": "Je pense qu’il faut lire chaque jour. **En effet**, la lecture enrichit le vocabulaire : **par exemple**, un élève qui lit découvre de nouveaux mots."
+    },
+    {
+     "type": "quiz",
+     "question": "Un exemple sert à…",
+     "options": [
+      "remplacer la thèse",
+      "illustrer un argument",
+      "terminer le texte",
+      "poser une question"
+     ],
+     "answer": 1,
+     "explain": "Il rend l’argument concret."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Trouve un exemple pour l’argument : « Le sport est bon pour la santé. »",
+     "items": [
+      "Exemple"
+     ],
+     "corrige": [
+      "Exemple : Un élève qui joue au football chaque semaine est moins souvent fatigué."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs logiques",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **connecteurs logiques** relient les idées et **organisent** le texte."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux connecteurs",
+     "head": [
+      "Rôle",
+      "Connecteurs"
+     ],
+     "rows": [
+      [
+       "**énumérer**",
+       "d’abord, ensuite, enfin, en premier lieu"
+      ],
+      [
+       "**ajouter**",
+       "de plus, en outre, et"
+      ],
+      [
+       "**expliquer** (cause)",
+       "car, en effet, parce que"
+      ],
+      [
+       "**conclure** (conséquence)",
+       "donc, par conséquent, c’est pourquoi"
+      ],
+      [
+       "**opposer**",
+       "mais, pourtant, cependant"
+      ],
+      [
+       "**illustrer**",
+       "par exemple, ainsi"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**D’abord**, la lecture enrichit le vocabulaire. **Ensuite**, elle détend. **Enfin**, elle aide à écrire. **Par conséquent**, il faut lire chaque jour."
+    },
+    {
+     "type": "tip",
+     "label": "Ne pas en abuser",
+     "text": "Utilise **un connecteur par idée** : trop de connecteurs alourdit le texte."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur sert à conclure ?",
+     "options": [
+      "d’abord",
+      "par exemple",
+      "donc",
+      "mais"
+     ],
+     "answer": 2,
+     "explain": "« Donc » introduit la conséquence, la conclusion."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec un connecteur : d’abord, enfin, par exemple.",
+     "items": [
+      "…, la lecture enrichit le vocabulaire.",
+      "…, elle aide à écrire.",
+      "Elle enrichit le vocabulaire : …, on découvre de nouveaux mots."
+     ],
+     "corrige": [
+      "D’abord",
+      "Enfin",
+      "par exemple"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le plan d’un texte argumentatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un texte argumentatif a **trois parties** : l’**introduction**, le **développement** et la **conclusion**."
+    },
+    {
+     "type": "table",
+     "title": "Le plan",
+     "head": [
+      "Partie",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**introduction**",
+       "présente le **sujet** et la **thèse**",
+       "Faut-il lire chaque jour ? Je pense que oui."
+      ],
+      [
+       "**développement**",
+       "donne les **arguments** (un paragraphe par argument) et les **exemples**",
+       "D’abord… Ensuite… Enfin…"
+      ],
+      [
+       "**conclusion**",
+       "**rappelle** la thèse et **ouvre** sur une idée",
+       "Il faut donc lire chaque jour, car c’est utile et agréable."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un paragraphe = un argument",
+     "text": "Écris **un paragraphe par argument**, suivi de son **exemple**."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de hors-sujet",
+     "text": "Reste toujours **fidèle** à la **question posée** et à ta **thèse**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle partie présente-t-on la thèse ?",
+     "options": [
+      "la conclusion",
+      "l’introduction",
+      "le développement",
+      "le titre"
+     ],
+     "answer": 1,
+     "explain": "L’introduction présente le sujet et la thèse."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe : introduction, développement, conclusion.",
+     "items": [
+      "Présente le sujet et la thèse.",
+      "Donne les arguments et les exemples.",
+      "Rappelle la thèse."
+     ],
+     "corrige": [
+      "introduction",
+      "développement",
+      "conclusion"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Prendre en compte l’avis adverse",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour être **plus convaincant**, on peut **reconnaître** une idée de l’adversaire avant de la **réfuter** : c’est la **concession**."
+    },
+    {
+     "type": "table",
+     "title": "Concession et réfutation",
+     "head": [
+      "Étape",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**concession**",
+       "Il est vrai que la lecture demande du temps…"
+      ],
+      [
+       "**réfutation**",
+       "…mais quelques pages par jour suffisent."
+      ],
+      [
+       "**conclusion**",
+       "Il faut donc lire chaque jour."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Certes**, le sport fatigue ; **mais** il rend plus fort et plus joyeux."
+    },
+    {
+     "type": "tip",
+     "label": "Les mots de la concession",
+     "text": "*Certes… mais…, Il est vrai que… cependant…, Sans doute… pourtant…*"
+    },
+    {
+     "type": "quiz",
+     "question": "« Certes, c’est difficile, mais c’est utile » contient…",
+     "options": [
+      "une concession",
+      "une question",
+      "un ordre",
+      "une description"
+     ],
+     "answer": 0,
+     "explain": "« Certes » reconnaît une idée adverse avant de la nuancer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris avec une concession : « La lecture est utile. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Certes, la lecture demande des efforts, mais elle est utile."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **construit**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Thèse (T), argument (A) ou exemple (E) ?",
+     "items": [
+      "Il faut protéger la forêt.",
+      "Elle abrite de nombreux animaux.",
+      "Au Mayombe, des centaines d’espèces vivent dans la forêt."
+     ],
+     "corrige": [
+      "T",
+      "A",
+      "E"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur introduit un exemple ?",
+     "options": [
+      "mais",
+      "par exemple",
+      "donc",
+      "car"
+     ],
+     "answer": 1,
+     "explain": "« Par exemple » illustre l’argument."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : construire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète : Thèse : « Il faut faire du sport. » Donne deux arguments.",
+     "items": [
+      "Argument 1",
+      "Argument 2"
+     ],
+     "corrige": [
+      "Le sport est bon pour la santé.",
+      "Le sport apprend le travail en équipe."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris un paragraphe argumentatif de quatre phrases pour défendre : « Il faut lire chaque jour. »",
+     "items": [
+      "Paragraphe"
+     ],
+     "corrige": [
+      "Exemple : Je pense qu’il faut lire chaque jour. D’abord, la lecture enrichit le vocabulaire. Par exemple, on découvre de nouveaux mots. C’est pourquoi il faut lire."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **texte argumentatif** cherche à **convaincre** par une **thèse**, des **arguments** et des **exemples**.",
+      "Il comprend : **introduction** (sujet et thèse), **développement** (arguments), **conclusion**.",
+      "Les **connecteurs** organisent le texte : *d’abord, ensuite, enfin, car, donc, par exemple, mais*.",
+      "**Réfuter** la thèse adverse en donnant des contre-arguments.",
+      "La **concession** (*certes… mais…*) rend le texte plus nuancé."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois parties",
+     "head": [
+      "Partie",
+      "Contenu"
+     ],
+     "rows": [
+      [
+       "introduction",
+       "sujet + thèse"
+      ],
+      [
+       "développement",
+       "arguments + exemples"
+      ],
+      [
+       "conclusion",
+       "rappel de la thèse"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot introduit une conclusion ?",
+     "options": [
+      "d’abord",
+      "donc",
+      "par exemple",
+      "mais"
+     ],
+     "answer": 1,
+     "explain": "« Donc » ouvre la conclusion."
+    }
+   ]
+  }
+ ]
+}

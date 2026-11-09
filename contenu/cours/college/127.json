@@ -1,0 +1,416 @@
+{
+ "id": 127,
+ "meta": {
+  "t": "Le pluriel des noms",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : un seul ou plusieurs ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tu écris : « J’ai acheté trois mangue. » Ta maîtresse corrige : « trois **mangues** ». Quand on parle de **plusieurs** êtres ou objets, le nom prend la **marque du pluriel**. Voyons comment."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le **singulier** et le **pluriel**",
+      "Former le **pluriel des noms** (-s, -x, -aux…)",
+      "Éviter les **erreurs** courantes"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le pluriel",
+     "text": "Un nom est au **singulier** quand il désigne **un seul** être ou objet, au **pluriel** quand il en désigne **plusieurs**. Le pluriel s’écrit le plus souvent avec un **-s**."
+    },
+    {
+     "type": "quiz",
+     "question": "« Les mangues » est au…",
+     "options": [
+      "singulier",
+      "pluriel",
+      "passé",
+      "futur"
+     ],
+     "answer": 1,
+     "explain": "Plusieurs mangues : pluriel."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe : un enfant / des enfants.",
+     "items": [
+      "Singulier",
+      "Pluriel"
+     ],
+     "corrige": [
+      "Singulier : un enfant",
+      "Pluriel : des enfants"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La règle générale : le -s",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "En général, on forme le pluriel en ajoutant un **-s** au nom."
+    },
+    {
+     "type": "table",
+     "title": "La règle de base",
+     "head": [
+      "Singulier",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "un livre",
+       "des livre**s**"
+      ],
+      [
+       "une mangue",
+       "des mangue**s**"
+      ],
+      [
+       "l’enfant",
+       "les enfant**s**"
+      ],
+      [
+       "le fleuve",
+       "les fleuve**s**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le -s ne s’entend pas",
+     "text": "Le **-s** du pluriel **ne se prononce pas** : « des livres » et « un livre » se disent presque pareil. **Le déterminant** (**les, des, ces, mes**) indique le pluriel à l’oral."
+    },
+    {
+     "type": "tip",
+     "label": "Les indices",
+     "text": "Regarde le **déterminant** : **les, des, ces, mes, tes, ses, nos, vos, leurs** annoncent un pluriel."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « cahier » ?",
+     "options": [
+      "cahier",
+      "cahiers",
+      "cahiere",
+      "cahiéres"
+     ],
+     "answer": 1,
+     "explain": "On ajoute un -s."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au pluriel : « un crayon ; une table ; le cartable ».",
+     "items": [
+      "Pluriel"
+     ],
+     "corrige": [
+      "des crayons ; des tables ; les cartables"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les noms terminés par -s, -x, -z",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les noms qui se terminent **déjà** par **-s**, **-x** ou **-z** **ne changent pas** au pluriel."
+    },
+    {
+     "type": "table",
+     "title": "Pas de changement",
+     "head": [
+      "Singulier",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "un pays",
+       "des pays"
+      ],
+      [
+       "un fils",
+       "des fils"
+      ],
+      [
+       "une voix",
+       "des voix"
+      ],
+      [
+       "un nez",
+       "des nez"
+      ],
+      [
+       "un gaz",
+       "des gaz"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le déterminant change",
+     "text": "On reconnaît le pluriel au **déterminant** : « un pays » → « **des** pays »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « un nez » ?",
+     "options": [
+      "des nezs",
+      "des nez",
+      "des nezes",
+      "des neze"
+     ],
+     "answer": 1,
+     "explain": "Le nom reste identique."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au pluriel : « le pays ; la voix ; le fils ».",
+     "items": [
+      "Pluriel"
+     ],
+     "corrige": [
+      "les pays ; les voix ; les fils"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les noms en -au, -eau, -eu : le -x",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les noms terminés par **-au**, **-eau**, **-eu** prennent un **-x** au pluriel."
+    },
+    {
+     "type": "table",
+     "title": "Pluriel en -x",
+     "head": [
+      "Singulier",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "un bateau",
+       "des bateau**x**"
+      ],
+      [
+       "un tuyau",
+       "des tuyau**x**"
+      ],
+      [
+       "un cheveu",
+       "des cheveu**x**"
+      ],
+      [
+       "un feu",
+       "des feu**x**"
+      ],
+      [
+       "un gâteau",
+       "des gâteau**x**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Exceptions",
+     "text": "Quelques noms prennent un **-s** : un **landau** → des landau**s** ; un **pneu** → des pneu**s** ; un **bleu** → des bleu**s**."
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce",
+     "text": "« **Au**, **eau**, **eu** → **x** » : retiens cette courte règle."
+    },
+    {
+     "type": "quiz",
+     "question": "Le pluriel de « un gâteau » est…",
+     "options": [
+      "des gâteaus",
+      "des gâteaux",
+      "des gâteaue",
+      "des gâteau"
+     ],
+     "answer": 1,
+     "explain": "-eau → -x."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au pluriel : « un bateau ; un cheveu ; un tuyau ».",
+     "items": [
+      "Pluriel"
+     ],
+     "corrige": [
+      "des bateaux ; des cheveux ; des tuyaux"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les noms en -al, -ail et -ou",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres noms ont un pluriel **particulier**."
+    },
+    {
+     "type": "table",
+     "title": "Les pluriels particuliers",
+     "head": [
+      "Terminaison",
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**-al**",
+       "-aux",
+       "un animal → des animaux ; un journal → des journaux"
+      ],
+      [
+       "**-ail**",
+       "-s (ou -aux)",
+       "un détail → des détails ; un travail → des travaux"
+      ],
+      [
+       "**-ou**",
+       "-s (7 exceptions en -x)",
+       "un clou → des clous"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Exceptions de -ou",
+     "text": "Sept noms en -ou prennent un **-x** : **bijou, caillou, chou, genou, hibou, joujou, pou**."
+    },
+    {
+     "type": "ex",
+     "text": "Des **bijoux**, des **cailloux**, des **choux**, des **genoux**, des **hiboux**, des **joujoux**, des **poux**."
+    },
+    {
+     "type": "warn",
+     "label": "Exceptions de -al",
+     "text": "Quelques noms en **-al** prennent un **-s** : un **bal** → des bal**s** ; un **carnaval** → des carnaval**s** ; un **festival** → des festival**s**."
+    },
+    {
+     "type": "quiz",
+     "question": "Le pluriel de « un animal » est…",
+     "options": [
+      "des animals",
+      "des animaux",
+      "des animales",
+      "des animal"
+     ],
+     "answer": 1,
+     "explain": "-al → -aux."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au pluriel : « un journal ; un clou ; un bijou ».",
+     "items": [
+      "Pluriel"
+     ],
+     "corrige": [
+      "des journaux ; des clous ; des bijoux"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom ne change pas au pluriel ?",
+     "options": [
+      "un livre",
+      "un fils",
+      "un cheveu",
+      "un animal"
+     ],
+     "answer": 1,
+     "explain": "Les noms en -s, -x, -z restent identiques."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : former"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au pluriel : un fleuve, un cheval, une voix, un chou, un neveu.",
+     "items": [
+      "Pluriel"
+     ],
+     "corrige": [
+      "des fleuves, des chevaux, des voix, des choux, des neveux"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au pluriel : « Le jeune animal mange le gâteau et le beau chou. »",
+     "items": [
+      "Phrase"
+     ],
+     "corrige": [
+      "Les jeunes animaux mangent les gâteaux et les beaux choux."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "En général, le pluriel s’écrit avec un **-s**.",
+      "Les noms en **-s, -x, -z** ne changent pas : **des pays, des voix, des nez**.",
+      "Les noms en **-au, -eau, -eu** prennent **-x** : **des bateaux, des cheveux**.",
+      "Les noms en **-al** font **-aux** : **des animaux** (exceptions : bals, festivals, carnavals).",
+      "Sept noms en **-ou** prennent **-x** : **bijoux, cailloux, choux, genoux, hiboux, joujoux, poux**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « un genou » ?",
+     "options": [
+      "des genous",
+      "des genoux",
+      "des genouse",
+      "des genou"
+     ],
+     "answer": 1,
+     "explain": "Genou fait partie des sept exceptions en -x."
+    }
+   ]
+  }
+ ]
+}

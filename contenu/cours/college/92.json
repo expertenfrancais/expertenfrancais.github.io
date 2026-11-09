@@ -1,0 +1,684 @@
+{
+ "id": 92,
+ "meta": {
+  "t": "Les signes orthographiques",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "À quoi servent les signes orthographiques ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare : « Il **a** faim. » et « Il va **à** l’école. » Un petit signe sur la lettre change tout le sens du mot. Ces petits signes s’appellent les **signes orthographiques**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les signes orthographiques du français",
+      "Savoir quand les utiliser",
+      "Ne plus les oublier dans ses écrits"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Les signes orthographiques",
+     "text": "Les **signes orthographiques** sont les petits signes que l’on ajoute aux **lettres** ou entre les **mots** : les **accents**, le **tréma**, la **cédille**, l’**apostrophe** et le **trait d’union**. Ils font **partie du mot** et ne sont **pas facultatifs**."
+    },
+    {
+     "type": "table",
+     "title": "Les signes orthographiques",
+     "head": [
+      "Signe",
+      "Nom",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "´",
+       "accent aigu",
+       "été, café"
+      ],
+      [
+       "`",
+       "accent grave",
+       "père, à, où"
+      ],
+      [
+       "^",
+       "accent circonflexe",
+       "forêt, fête"
+      ],
+      [
+       "¨",
+       "tréma",
+       "Noël, maïs"
+      ],
+      [
+       "¸",
+       "cédille",
+       "garçon, leçon"
+      ],
+      [
+       "’",
+       "apostrophe",
+       "l’école, j’aime"
+      ],
+      [
+       "-",
+       "trait d’union",
+       "viens-tu, chou-fleur"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel signe se trouve dans le mot « garçon » ?",
+     "options": [
+      "l’accent aigu",
+      "la cédille",
+      "le tréma",
+      "l’apostrophe"
+     ],
+     "answer": 1,
+     "explain": "Le ç de « garçon » porte une cédille."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Nomme le signe orthographique souligné.",
+     "items": [
+      "un **é**lève",
+      "le gar**ç**on",
+      "No**ë**l",
+      "l**’**arbre"
+     ],
+     "corrige": [
+      "accent aigu",
+      "cédille",
+      "tréma",
+      "apostrophe"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les accents",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il y a **trois accents** en français : l’**accent aigu**, l’**accent grave** et l’**accent circonflexe**. Ils ne s’écrivent pas tous sur les mêmes lettres."
+    },
+    {
+     "type": "table",
+     "title": "Les trois accents",
+     "head": [
+      "Accent",
+      "Lettres",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "aigu ( ´ )",
+       "**é** seulement",
+       "école, été, café"
+      ],
+      [
+       "grave ( ` )",
+       "**è**, **à**, **ù**",
+       "père, très, à, où"
+      ],
+      [
+       "circonflexe ( ^ )",
+       "**â, ê, î, ô, û**",
+       "forêt, fête, pâte, île, côte"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Mon **p**è**re** mange du pain à la **fê**te. — L’**é**l**è**ve est **à** l’**é**cole."
+    },
+    {
+     "type": "tip",
+     "label": "Le circonflexe, un « s » disparu",
+     "text": "Souvent, l’accent circonflexe **remplace un s** de l’ancien français : *for**ê**t* (forest), *h**ô**pital* (hospital), *f**ê**te* (feste), ***î**le* (isle)."
+    },
+    {
+     "type": "warn",
+     "label": "Accent grave ou accent aigu ?",
+     "text": "On écrit **è** avant une **syllabe muette** (*père, mère, lèvre*) et **é** dans les autres cas (*été, café, école*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est bien écrit ?",
+     "options": [
+      "foret",
+      "forêt",
+      "forèt",
+      "forét"
+     ],
+     "answer": 1,
+     "explain": "Forêt s’écrit avec un accent circonflexe sur le e."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris chaque mot avec ses accents.",
+     "items": [
+      "ecole",
+      "pere",
+      "foret",
+      "tres",
+      "eleve"
+     ],
+     "corrige": [
+      "école",
+      "père",
+      "forêt",
+      "très",
+      "élève"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le tréma et la cédille",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **tréma** et la **cédille** ont chacun un rôle précis."
+    },
+    {
+     "type": "table",
+     "title": "Tréma et cédille",
+     "head": [
+      "Signe",
+      "Rôle",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "tréma ( ¨ )",
+       "indique qu’on **prononce séparément** deux voyelles",
+       "No**ë**l, ma**ï**s, na**ï**f, ha**ï**r"
+      ],
+      [
+       "cédille ( ¸ )",
+       "donne le son **[s]** au c devant **a, o, u**",
+       "gar**ç**on, le**ç**on, re**ç**u, fa**ç**ade"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Le **ma**ï**s** est cuit. — Le gar**ç**on a re**ç**u une **leç**on."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de cédille devant e et i",
+     "text": "Devant **e** ou **i**, le **c** se prononce déjà **[s]** : *ce, ci, cela, ciel*. On n’écrit **jamais** de cédille : *ç* seulement devant **a, o, u**."
+    },
+    {
+     "type": "tip",
+     "label": "Un mot sans tréma ?",
+     "text": "Sans tréma, **mais** (conjonction) et **maïs** (céréale) se prononcent différemment : *mais* [mɛ] ≠ *maïs* [mais]."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "garcon",
+      "garçon",
+      "garçeon",
+      "garçion"
+     ],
+     "answer": 1,
+     "explain": "Ç devant o : garçon."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Ajoute la cédille ou le tréma.",
+     "items": [
+      "le garcon",
+      "le mais",
+      "Noel",
+      "la facade",
+      "naif"
+     ],
+     "corrige": [
+      "le garçon",
+      "le maïs",
+      "Noël",
+      "la façade",
+      "naïf"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’apostrophe et l’élision",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**apostrophe** remplace une **voyelle supprimée** devant un mot qui commence par une **voyelle** ou un **h muet**. On appelle cela l’**élision**."
+    },
+    {
+     "type": "table",
+     "title": "Les mots qui s’élident",
+     "head": [
+      "Mot",
+      "Avec élision",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "le, la",
+       "l’",
+       "l’école, l’eau"
+      ],
+      [
+       "je",
+       "j’",
+       "j’aime"
+      ],
+      [
+       "me, te, se",
+       "m’, t’, s’",
+       "il s’habille"
+      ],
+      [
+       "de",
+       "d’",
+       "un verre d’eau"
+      ],
+      [
+       "ne",
+       "n’",
+       "il n’a pas faim"
+      ],
+      [
+       "que",
+       "qu’",
+       "qu’il vienne"
+      ],
+      [
+       "ce",
+       "c’",
+       "c’est bon"
+      ],
+      [
+       "si (devant il, ils)",
+       "s’",
+       "s’il pleut"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**L’**oiseau chante. — **J’**ai faim. — **Il n’**est pas là. — **S’**il pleut, **c’**est dommage."
+    },
+    {
+     "type": "warn",
+     "label": "Le h aspiré",
+     "text": "Devant un **h aspiré**, on ne fait **pas** d’élision : *le héros, la honte, le hibou*. Devant un **h muet**, on la fait : *l’homme, l’heure, l’hôpital*."
+    },
+    {
+     "type": "tip",
+     "label": "Quand ne pas élider",
+     "text": "On n’élide **jamais** devant une **consonne** : *le chat, la table, je pars*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "le arbre",
+      "l’arbre",
+      "la arbre",
+      "l arbre"
+     ],
+     "answer": 1,
+     "explain": "Arbre commence par une voyelle : le s’élide en l’."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris les élisions nécessaires.",
+     "items": [
+      "je aime le riz",
+      "le école est grande",
+      "ce est facile",
+      "il ne a pas faim",
+      "le héros arrive"
+     ],
+     "corrige": [
+      "j’aime le riz",
+      "l’école est grande",
+      "c’est facile",
+      "il n’a pas faim",
+      "le héros arrive (h aspiré : pas d’élision)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le trait d’union",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **trait d’union** (-) **relie** des mots ou des parties de mot. Il n’est **pas** la même chose que l’apostrophe."
+    },
+    {
+     "type": "table",
+     "title": "Quand utiliser le trait d’union ?",
+     "head": [
+      "Cas",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "pronom sujet inversé",
+       "Viens**-**tu ? Parle**-t-**il ?"
+      ],
+      [
+       "pronom après un impératif",
+       "Donne**-**moi ton cahier. Prends**-**le."
+      ],
+      [
+       "mots composés",
+       "chou**-**fleur, arc**-**en**-**ciel, porte**-**monnaie"
+      ],
+      [
+       "-ci et -là",
+       "ce livre**-**ci, cette case**-**là"
+      ],
+      [
+       "nombres composés",
+       "vingt**-**deux, soixante**-**dix"
+      ],
+      [
+       "expressions",
+       "peut**-**être, c’est**-**à**-**dire"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Où vas**-**tu ? — Donne**-**moi de l’eau. — Il habite à Pointe**-**Noire."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "L’**apostrophe** remplace une **lettre** (*l’école*). Le **trait d’union** **relie** des mots (*viens-tu*). On n’écrit pas « l-école » ni « viens’tu »."
+    },
+    {
+     "type": "tip",
+     "label": "Le « -t- »",
+     "text": "Dans *Parle**-t-**il ?*, le **t** est une **lettre de liaison** entre deux **traits d’union**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Donne moi de l’eau.",
+      "Donne-moi de l’eau.",
+      "Donne’moi de l’eau.",
+      "Donne-moi-de l’eau."
+     ],
+     "answer": 1,
+     "explain": "Le pronom « moi » est relié au verbe à l’impératif par un trait d’union."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Ajoute les traits d’union.",
+     "items": [
+      "Viens tu avec nous ?",
+      "Donne moi ton cahier.",
+      "un chou fleur",
+      "ce livre ci"
+     ],
+     "corrige": [
+      "Viens-tu avec nous ?",
+      "Donne-moi ton cahier.",
+      "un chou-fleur",
+      "ce livre-ci"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Quand l’accent change le sens du mot",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour certains mots très courts, c’est **l’accent** qui permet de les **distinguer**. Sans accent, la phrase change de sens."
+    },
+    {
+     "type": "table",
+     "title": "Mots à ne pas confondre",
+     "head": [
+      "Sans accent",
+      "Avec accent",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "a (verbe avoir)",
+       "à (préposition)",
+       "Il **a** faim. — Il va **à** l’école."
+      ],
+      [
+       "ou (= ou bien)",
+       "où (lieu)",
+       "Thé **ou** café ? — **Où** habites-tu ?"
+      ],
+      [
+       "la (article)",
+       "là (lieu)",
+       "**La** table est **là**."
+      ],
+      [
+       "sur (préposition)",
+       "sûr (certain)",
+       "**Sur** la table. — Je suis **sûr**."
+      ],
+      [
+       "mur (paroi)",
+       "mûr (fruit prêt)",
+       "Un **mur** haut. — Une mangue **mûre**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les tests",
+     "text": "**a** peut devenir **avait** (*il avait faim*). **ou** peut devenir **ou bien**. **où** se rapporte à un **lieu**."
+    },
+    {
+     "type": "warn",
+     "label": "Pas d’accent sur le verbe",
+     "text": "Le verbe **avoir** s’écrit **sans accent** : *il a, elle a*. L’accent est réservé à la **préposition** : *à Brazzaville*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il va a l’école.",
+      "Il va à l’école.",
+      "Il va à l’ecole.",
+      "Il vá à l’école."
+     ],
+     "answer": 1,
+     "explain": "Après « va », on emploie la préposition à (avec accent)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis le mot qui convient : a / à, ou / où, la / là, sur / sûr.",
+     "items": [
+      "Il … faim.",
+      "… habites-tu ?",
+      "Pose le livre …",
+      "Je suis … de moi.",
+      "Veux-tu du riz … du manioc ?"
+     ],
+     "corrige": [
+      "Il a faim.",
+      "Où habites-tu ?",
+      "Pose le livre là.",
+      "Je suis sûr de moi.",
+      "Veux-tu du riz ou du manioc ?"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces exercices reprennent tout le cours. Avance dans l’ordre : on **repère**, on **corrige**, puis on **écrit**."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Nomme le signe orthographique en gras.",
+     "items": [
+      "la for**ê**t",
+      "le gar**ç**on",
+      "l**’**eau",
+      "peut**-**être"
+     ],
+     "corrige": [
+      "accent circonflexe",
+      "cédille",
+      "apostrophe",
+      "trait d’union"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je sais que il a faim.",
+      "Je sais qu’il a faim.",
+      "Je sais quil a faim.",
+      "Je sais qu il a faim."
+     ],
+     "answer": 1,
+     "explain": "Que s’élide en qu’ devant il."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les phrases.",
+     "items": [
+      "Le garcon mange le mais.",
+      "Je aime la foret.",
+      "Ou vas tu ?",
+      "Le eleve a un cahier a la maison."
+     ],
+     "corrige": [
+      "Le garçon mange le maïs.",
+      "J’aime la forêt.",
+      "Où vas-tu ?",
+      "L’élève a un cahier à la maison."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases où tu utilises un accent, une cédille et un trait d’union.",
+     "items": [
+      "Phrase 1",
+      "Phrase 2",
+      "Phrase 3"
+     ],
+     "corrige": [
+      "Exemples : Le garçon mange du maïs.",
+      "Où vas-tu ?",
+      "Prends-le avec toi."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les **signes orthographiques** font partie du mot : accents, tréma, cédille, apostrophe, trait d’union.",
+      "**Accent aigu** : é ; **accent grave** : è, à, ù ; **accent circonflexe** : â, ê, î, ô, û.",
+      "**Tréma** : on prononce séparément deux voyelles (*Noël, maïs*).",
+      "**Cédille** : ç devant **a, o, u** (*garçon*), jamais devant e ou i.",
+      "**Apostrophe** : élision devant une voyelle ou un h muet (*l’école, j’aime*).",
+      "**Trait d’union** : *viens-tu, donne-moi, chou-fleur, peut-être*.",
+      "L’accent distingue **a / à**, **ou / où**, **la / là**, **sur / sûr**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les signes en un coup d’œil",
+     "head": [
+      "Signe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "accent aigu",
+       "été"
+      ],
+      [
+       "accent grave",
+       "père, à, où"
+      ],
+      [
+       "accent circonflexe",
+       "forêt"
+      ],
+      [
+       "tréma",
+       "maïs"
+      ],
+      [
+       "cédille",
+       "leçon"
+      ],
+      [
+       "apostrophe",
+       "l’arbre"
+      ],
+      [
+       "trait d’union",
+       "viens-tu"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle écriture est correcte ?",
+     "options": [
+      "Ou est le garcon ?",
+      "Où est le garçon ?",
+      "Ou est le garçon ?",
+      "Où est le garcon ?"
+     ],
+     "answer": 1,
+     "explain": "Où (lieu) avec accent grave et garçon avec cédille."
+    }
+   ]
+  }
+ ]
+}
