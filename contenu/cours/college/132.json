@@ -1,0 +1,674 @@
+{
+ "id": 132,
+ "meta": {
+  "t": "La rédaction de l’introduction",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : bien commencer sa rédaction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Fatou a préparé son plan pour le sujet « Fais le portrait de ta grand-mère ». Elle prend sa feuille et hésite : comment commencer ? Elle écrit : « Je vais parler de ma grand-mère. » Puis elle s’arrête, car ce début est plat et n’éveille aucune curiosité. Or le lecteur se fait une opinion du texte dès les **premières lignes**. Ce début s’appelle l’**introduction**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir l’introduction et connaître ses trois rôles",
+      "Trouver une accroche adaptée au sujet",
+      "Présenter le sujet clairement",
+      "Annoncer le plan sans en dire trop",
+      "Rédiger une introduction pas à pas, pour différents types de textes"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "L’introduction",
+     "text": "L’**introduction** est la **première partie** d’un texte. Elle **attire** le lecteur, **présente le sujet** et **annonce** ce qui va suivre. Elle est **courte** : deux à quatre phrases en général."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la place de l’introduction dans un texte ?",
+     "options": [
+      "À la fin",
+      "Au début",
+      "Au milieu",
+      "Elle n’a pas de place précise"
+     ],
+     "answer": 1,
+     "explain": "L’introduction est la première partie du texte."
+    }
+   ]
+  },
+  {
+   "t": "Les trois rôles de l’introduction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une bonne introduction remplit **trois rôles**, dans cet ordre."
+    },
+    {
+     "type": "table",
+     "title": "Les trois rôles",
+     "head": [
+      "Rôle",
+      "Question à laquelle il répond",
+      "Exemple (portrait de ma grand-mère)"
+     ],
+     "rows": [
+      [
+       "1. L’accroche",
+       "Comment donner envie de lire ?",
+       "Chaque année, j’attends les vacances avec impatience."
+      ],
+      [
+       "2. La présentation du sujet",
+       "De qui ou de quoi parle-t-on ?",
+       "C’est pour retrouver ma grand-mère, Mama Julie."
+      ],
+      [
+       "3. L’annonce du plan",
+       "Que va-t-on lire ensuite ?",
+       "Je vais la présenter : d’abord son apparence, puis son caractère."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Une introduction complète",
+     "text": "Chaque année, j’attends les vacances avec impatience pour retrouver ma grand-mère, Mama Julie. Je vais la présenter : d’abord son apparence, ensuite son caractère."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Ces trois rôles ne demandent pas forcément **trois phrases**. Une même phrase peut présenter le sujet **et** servir d’accroche."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le deuxième rôle de l’introduction ?",
+     "options": [
+      "L’accroche",
+      "La présentation du sujet",
+      "L’annonce du plan",
+      "La conclusion"
+     ],
+     "answer": 1,
+     "explain": "Après l’accroche, on présente le sujet : de qui ou de quoi on parle."
+    }
+   ]
+  },
+  {
+   "t": "Trouver une accroche",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**accroche** est la toute première phrase. Elle doit **retenir l’attention** et avoir un **lien** avec le sujet."
+    },
+    {
+     "type": "table",
+     "title": "Quelques procédés d’accroche",
+     "head": [
+      "Procédé",
+      "Exemple (portrait d’un ami)"
+     ],
+     "rows": [
+      [
+       "une question",
+       "Qui n’a jamais rêvé d’un ami toujours là quand on a besoin de lui ?"
+      ],
+      [
+       "une situation vécue",
+       "Hier encore, Kofi m’a aidé à porter mon sac sous la pluie."
+      ],
+      [
+       "un proverbe, une formule",
+       "On dit qu’un ami fidèle est un trésor : le mien s’appelle Kofi."
+      ],
+      [
+       "une comparaison",
+       "Kofi est pour moi comme un grand frère."
+      ],
+      [
+       "une phrase surprenante",
+       "Je n’aurais jamais cru qu’une rencontre dans une cour d’école changerait ma vie."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Une accroche trop longue ou sans rapport avec le sujet fait perdre le lecteur. Après une question, **n’y réponds pas** tout de suite : c’est la suite de l’introduction qui apportera la réponse."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si tu ne trouves pas d’accroche, **commence par une situation** : un moment précis, un lieu, une personne. C’est le procédé le plus simple."
+    },
+    {
+     "type": "quiz",
+     "question": "« Qui n’a jamais rêvé d’un ami fidèle ? » est une accroche par…",
+     "options": [
+      "un proverbe",
+      "une comparaison",
+      "une question",
+      "une situation vécue"
+     ],
+     "answer": 2,
+     "explain": "La phrase est une question posée au lecteur."
+    }
+   ]
+  },
+  {
+   "t": "Présenter le sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après l’accroche, il faut dire **clairement** de quoi parle le texte. Le lecteur doit comprendre le sujet dès l’introduction."
+    },
+    {
+     "type": "table",
+     "title": "Présenter le sujet selon le texte",
+     "head": [
+      "Texte",
+      "Ce que la présentation doit dire"
+     ],
+     "rows": [
+      [
+       "portrait",
+       "qui est la personne et quel est mon lien avec elle"
+      ],
+      [
+       "article de journal",
+       "l’événement en une phrase : qui, quoi, où, quand"
+      ],
+      [
+       "lettre privée",
+       "l’appel au destinataire, puis la raison d’écrire"
+      ],
+      [
+       "recette de cuisine",
+       "le nom du plat, le nombre de personnes, la difficulté"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Portrait : ma grand-mère, Mama Julie, une femme que j’admire.\nArticle : Ce samedi, la fête de l’école a réuni plus de trois cents personnes dans la cour.\nLettre : Cher Kofi, je t’écris pour te raconter mes vacances.\nRecette : Le riz au poisson est un plat très apprécié, simple à préparer pour six personnes."
+    },
+    {
+     "type": "warn",
+     "label": "Ne recopie pas le sujet",
+     "text": "Écrire « Le sujet est : le portrait de ma grand-mère » est maladroit. Présente le sujet **avec tes mots**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un article de journal, la présentation doit donner…",
+     "options": [
+      "son avis personnel",
+      "l’événement : qui, quoi, où, quand",
+      "la conclusion",
+      "un proverbe"
+     ],
+     "answer": 1,
+     "explain": "Un article informe : il présente d’abord l’essentiel de l’événement."
+    }
+   ]
+  },
+  {
+   "t": "Annoncer le plan",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La dernière phrase de l’introduction **annonce le plan** : elle dit au lecteur ce qu’il va lire, **dans l’ordre**."
+    },
+    {
+     "type": "table",
+     "title": "Des formules pour annoncer le plan",
+     "head": [
+      "Formule",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Je vais d’abord… puis…",
+       "Je vais d’abord décrire son visage, puis son caractère."
+      ],
+      [
+       "Dans un premier temps… Dans un second temps…",
+       "Dans un premier temps, je dirai qui il est ; dans un second temps, ce qu’il fait."
+      ],
+      [
+       "Nous verrons… avant d’aborder…",
+       "Nous verrons son apparence avant d’aborder ses qualités."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Respecte ton plan",
+     "text": "Annonce **uniquement** ce que tu traiteras, et **dans le même ordre** que dans le développement. Si tu annonces le caractère après le physique, traite-les dans cet ordre."
+    },
+    {
+     "type": "warn",
+     "label": "Ne raconte pas tout",
+     "text": "L’annonce du plan donne les **grandes lignes**, pas les détails : ne dis pas déjà « elle a les yeux noirs et elle est généreuse »."
+    },
+    {
+     "type": "tip",
+     "label": "Pour un texte court",
+     "text": "Si le texte est court (une lettre, une recette), l’annonce du plan peut disparaître. Elle est surtout utile pour un **portrait** ou un **article**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase annonce le plan ?",
+     "options": [
+      "Mama Julie est petite.",
+      "Je vais d’abord décrire son visage, puis son caractère.",
+      "Chaque année, j’attends les vacances.",
+      "En somme, elle est généreuse."
+     ],
+     "answer": 1,
+     "explain": "« Je vais d’abord… puis… » annonce l’ordre du texte."
+    }
+   ]
+  },
+  {
+   "t": "Les mots et les tournures pour introduire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des mots utiles pour rédiger l’introduction. Garde-les dans ton cahier."
+    },
+    {
+     "type": "table",
+     "title": "Pour l’accroche",
+     "head": [
+      "Pour…",
+      "On peut utiliser…"
+     ],
+     "rows": [
+      [
+       "situer le moment",
+       "Chaque année, Un jour, Ce matin, Hier encore, Depuis toujours"
+      ],
+      [
+       "parler de soi",
+       "J’ai toujours admiré…, Je me souviens de…, J’aime beaucoup…"
+      ],
+      [
+       "interpeller le lecteur",
+       "Qui n’a jamais…, Avez-vous déjà…, Imaginez…"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pour présenter le sujet",
+     "head": [
+      "Pour…",
+      "On peut utiliser…"
+     ],
+     "rows": [
+      [
+       "présenter une personne",
+       "Il s’agit de…, Je voudrais vous présenter…, C’est…"
+      ],
+      [
+       "présenter un événement",
+       "Ce samedi…, Hier, à…, Une cérémonie a eu lieu…"
+      ],
+      [
+       "donner la raison d’écrire",
+       "Je t’écris pour…, Je voudrais te dire…"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pour annoncer le plan",
+     "head": [
+      "Pour…",
+      "On peut utiliser…"
+     ],
+     "rows": [
+      [
+       "ordonner",
+       "d’abord, dans un premier temps, ensuite, puis"
+      ],
+      [
+       "annoncer la fin",
+       "enfin, pour finir, nous verrons aussi"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Ne reprends pas toujours les mêmes formules : varie tes introductions d’un texte à l’autre."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot sert à annoncer l’ordre des idées dans l’introduction ?",
+     "options": [
+      "d’abord",
+      "hier",
+      "car",
+      "donc"
+     ],
+     "answer": 0,
+     "explain": "« D’abord » annonce la première partie du plan."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Commencer par « Je vais parler de… »",
+     "text": "Cette formule est vide. Entre directement dans le sujet avec une accroche."
+    },
+    {
+     "type": "warn",
+     "label": "Faire une introduction trop longue",
+     "text": "Si l’introduction est aussi longue que le développement, elle raconte déjà tout. Reste à **deux ou quatre phrases**."
+    },
+    {
+     "type": "warn",
+     "label": "Faire une introduction trop courte",
+     "text": "Une seule phrase ne suffit pas : il manque la présentation ou l’annonce."
+    },
+    {
+     "type": "warn",
+     "label": "Raconter déjà le développement",
+     "text": "L’introduction **annonce**, elle ne détaille pas."
+    },
+    {
+     "type": "warn",
+     "label": "Écrire hors sujet",
+     "text": "L’accroche doit rester liée au sujet. Une histoire sans rapport égare le lecteur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle introduction est correcte pour le portrait de ta grand-mère ?",
+     "options": [
+      "Je vais parler de ma grand-mère.",
+      "Ma grand-mère est petite, elle a les cheveux blancs, elle est généreuse, elle raconte des histoires et elle prépare le repas.",
+      "Chaque année, j’attends les vacances pour retrouver ma grand-mère. Je vais la présenter : d’abord son apparence, ensuite son caractère.",
+      "Bonjour à tous."
+     ],
+     "answer": 2,
+     "explain": "La troisième réponse contient une accroche, une présentation et une annonce du plan, sans trop de détails."
+    }
+   ]
+  },
+  {
+   "t": "Rédiger une introduction pas à pas",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici une démarche en quatre temps. Sujet : « Fais le portrait de ton meilleur ami. »"
+    },
+    {
+     "type": "test",
+     "title": "Les quatre temps",
+     "lines": [
+      "1. **Relire mon plan** : introduction ; 1. physique ; 2. caractère ; conclusion.",
+      "2. **Choisir une accroche** : une situation vécue.",
+      "3. **Présenter le sujet** : qui est mon ami, depuis quand.",
+      "4. **Annoncer le plan** : le physique, puis le caractère."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Brouillon d’introduction",
+     "text": "Hier encore, Kofi m’a aidé à porter mon sac sous la pluie. Il est mon meilleur ami depuis la sixième. Je vais le présenter : d’abord son aspect, ensuite son caractère."
+    },
+    {
+     "type": "ex",
+     "label": "Autre exemple : un article de journal",
+     "text": "Sujet : « Rédige un article sur la fête de ton école. »\nCe samedi, la cour de l’école Sainte-Marie s’est transformée en scène de fête : plus de trois cents personnes ont assisté à la kermesse annuelle. Nous verrons d’abord le programme de la journée, puis les réactions du public."
+    },
+    {
+     "type": "ex",
+     "label": "Autre exemple : une lettre privée",
+     "text": "Cher Kofi,\nComment vas-tu ? Je t’écris pour te raconter mes vacances chez ma grand-mère, car j’ai vécu des moments inoubliables. Je te parlerai d’abord du village, puis des rencontres que j’ai faites."
+    },
+    {
+     "type": "tip",
+     "label": "Relis l’introduction",
+     "text": "Vérifie : ai-je une accroche, un sujet clairement présenté, un plan annoncé ? Est-elle courte ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la première chose à faire avant de rédiger l’introduction ?",
+     "options": [
+      "Écrire la conclusion",
+      "Relire son plan",
+      "Chercher des fautes",
+      "Recopier le sujet"
+     ],
+     "answer": 1,
+     "explain": "On rédige l’introduction à partir du plan préparé."
+    }
+   ]
+  },
+  {
+   "t": "Améliorer une introduction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare des introductions faibles et des introductions améliorées."
+    },
+    {
+     "type": "table",
+     "title": "Avant / Après",
+     "head": [
+      "Introduction faible",
+      "Introduction améliorée"
+     ],
+     "rows": [
+      [
+       "Je vais parler de mon ami.",
+       "Qui n’a jamais rêvé d’un ami toujours là quand on a besoin de lui ? Le mien s’appelle Kofi. Je vais le présenter : d’abord son aspect, ensuite son caractère."
+      ],
+      [
+       "Mon ami est grand et gentil et il rit tout le temps.",
+       "Chaque matin, un grand sourire m’attend à l’entrée de l’école : celui de Kofi, mon meilleur ami depuis la sixième. Je vais d’abord décrire son apparence, puis son caractère."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Ce qui a changé",
+     "lines": [
+      "L’accroche attire le lecteur.",
+      "Le sujet est présenté clairement (qui, depuis quand).",
+      "Le plan est annoncé sans détails."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Améliorer une introduction, ce n’est pas la rallonger : c’est la **rendre plus claire et plus vivante**."
+    },
+    {
+     "type": "quiz",
+     "question": "Parmi ces ajouts, lequel améliore une introduction ?",
+     "options": [
+      "Une accroche liée au sujet",
+      "Dix lignes de détails",
+      "Une phrase sans rapport avec le sujet",
+      "La conclusion"
+     ],
+     "answer": 0,
+     "explain": "Une accroche liée au sujet donne envie de lire la suite."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase est une accroche (A), une présentation du sujet (P) ou une annonce du plan (AP).",
+     "items": [
+      "Qui n’a jamais rêvé d’un ami fidèle ?",
+      "Mon ami s’appelle Kofi et nous sommes dans la même classe.",
+      "Je vais d’abord décrire son visage, puis son caractère.",
+      "Ce samedi, la cour de l’école était en fête."
+     ],
+     "corrige": [
+      "1. A (accroche par une question)",
+      "2. P (présentation du sujet)",
+      "3. AP (annonce du plan)",
+      "4. A ou P (situation : elle accroche et présente l’événement)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase peut servir d’accroche ?",
+     "options": [
+      "En somme, il est fidèle.",
+      "Hier encore, Kofi m’a aidé à porter mon sac sous la pluie.",
+      "Il est grand.",
+      "Je conclus mon texte."
+     ],
+     "answer": 1,
+     "explain": "Cette phrase décrit une situation vécue : elle attire l’attention."
+    },
+    {
+     "type": "h",
+     "text": "Corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Améliore cette introduction : « Je vais parler de ma mère. »",
+     "items": [
+      "Ajoute une accroche.",
+      "Présente la personne.",
+      "Annonce le plan (physique, puis caractère)."
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "Chaque soir, un grand sourire m’attend à la maison : celui de ma mère. Je vais la présenter : d’abord son aspect, ensuite son caractère."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige l’introduction du sujet : « Fais le portrait de ton voisin. »",
+     "items": [
+      "Une accroche",
+      "La présentation du sujet",
+      "L’annonce du plan"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "Chaque matin, je croise un homme qui me salue avec un grand sourire : c’est mon voisin, monsieur Ali. Je vais le présenter : d’abord son apparence, puis son caractère."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige l’introduction d’une lettre à un ami pour lui raconter une journée de marché.",
+     "items": [
+      "Formule d’appel",
+      "Raison d’écrire",
+      "Annonce de ce que tu vas raconter"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "Cher Kofi, comment vas-tu ? Je t’écris pour te raconter ma journée au marché, car j’ai fait de belles découvertes. Je te parlerai d’abord de l’ambiance, puis de mes achats."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis cette introduction et relève ce qui manque : « Mon voisin s’appelle monsieur Ali. Il est grand. Il porte des lunettes. Il est très gentil. »",
+     "items": [
+      "Y a-t-il une accroche ?",
+      "Le plan est-il annoncé ?",
+      "Le texte raconte-t-il déjà le développement ?"
+     ],
+     "corrige": [
+      "1. non",
+      "2. non",
+      "3. oui : on décrit déjà le physique et le caractère ; l’introduction doit seulement annoncer"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**introduction** est la première partie du texte : elle est **courte** (deux à quatre phrases).",
+      "Elle a **trois rôles** : l’**accroche**, la **présentation du sujet**, l’**annonce du plan**.",
+      "L’accroche peut être une question, une situation vécue, un proverbe, une comparaison ou une phrase surprenante.",
+      "On présente le sujet avec **ses propres mots**, selon le type de texte.",
+      "On annonce le plan **dans l’ordre** où on traitera les idées, sans entrer dans les détails.",
+      "Il faut éviter : « Je vais parler de… », l’introduction trop longue, trop courte ou hors sujet."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "L’introduction en un coup d’œil",
+     "head": [
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "accroche",
+       "Hier encore, Kofi m’a aidé à porter mon sac."
+      ],
+      [
+       "présentation",
+       "Il est mon meilleur ami depuis la sixième."
+      ],
+      [
+       "annonce du plan",
+       "Je vais d’abord décrire son aspect, puis son caractère."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quels sont les trois rôles de l’introduction ?",
+     "options": [
+      "Accroche, présentation du sujet, annonce du plan",
+      "Bilan, ouverture, remerciement",
+      "Titre, résumé, signature",
+      "Question, réponse, conclusion"
+     ],
+     "answer": 0,
+     "explain": "L’introduction accroche, présente le sujet et annonce le plan."
+    }
+   ]
+  }
+ ]
+}

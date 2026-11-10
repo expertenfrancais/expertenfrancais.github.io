@@ -1,0 +1,642 @@
+{
+ "id": 134,
+ "meta": {
+  "t": "La rédaction de la conclusion",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : bien terminer sa rédaction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Awa vient d’écrire un beau développement sur le portrait de sa grand-mère. Elle regarde l’horloge : il reste cinq minutes. Elle écrit vite : « Voilà, c’est tout. » Son texte se termine brusquement, comme une porte qui claque. Or la dernière impression compte autant que la première : le lecteur garde en mémoire la **fin** du texte. Cette fin s’appelle la **conclusion**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir la conclusion et connaître ses deux rôles",
+      "Faire un bilan sans recopier l’introduction",
+      "Trouver une ouverture adaptée (sentiment, souhait, message)",
+      "Adapter la conclusion au type de texte",
+      "Vérifier que la conclusion répond à l’introduction"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La conclusion",
+     "text": "La **conclusion** est la **dernière partie** d’un texte. Elle fait le **bilan** de ce qui a été dit et ajoute une **ouverture**. Elle est **courte** : deux à quatre phrases en général."
+    },
+    {
+     "type": "quiz",
+     "question": "Où se place la conclusion ?",
+     "options": [
+      "Au début du texte",
+      "Entre l’introduction et le développement",
+      "À la fin du texte",
+      "Au milieu du développement"
+     ],
+     "answer": 2,
+     "explain": "La conclusion est la dernière partie du texte."
+    }
+   ]
+  },
+  {
+   "t": "Les deux rôles de la conclusion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une bonne conclusion remplit **deux rôles**, dans cet ordre."
+    },
+    {
+     "type": "table",
+     "title": "Les deux rôles",
+     "head": [
+      "Rôle",
+      "Question à laquelle il répond",
+      "Exemple (portrait de ma grand-mère)"
+     ],
+     "rows": [
+      [
+       "1. Le bilan",
+       "Qu’a-t-on dit d’essentiel ?",
+       "En somme, Mama Julie est une grand-mère douce et généreuse."
+      ],
+      [
+       "2. L’ouverture",
+       "Qu’est-ce que cela m’apporte ? Qu’ajouter pour finir ?",
+       "Grâce à elle, j’ai compris l’importance de partager."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Une conclusion complète",
+     "text": "En somme, Mama Julie est une grand-mère douce et généreuse. Grâce à elle, j’ai compris l’importance de partager."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Ces deux rôles peuvent tenir en **deux phrases** : une pour le bilan, une pour l’ouverture."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le premier rôle de la conclusion ?",
+     "options": [
+      "L’ouverture",
+      "Le bilan",
+      "L’accroche",
+      "L’annonce du plan"
+     ],
+     "answer": 1,
+     "explain": "La conclusion commence par un bilan de ce qui a été dit."
+    }
+   ]
+  },
+  {
+   "t": "Faire le bilan",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **bilan** résume l’essentiel du texte en **une ou deux phrases**. On rappelle les grandes idées du développement, mais **avec d’autres mots**."
+    },
+    {
+     "type": "table",
+     "title": "Du développement au bilan",
+     "head": [
+      "Ce qu’on a dit dans le développement",
+      "Le bilan"
+     ],
+     "rows": [
+      [
+       "Mama Julie est petite, elle a les cheveux blancs, des yeux noirs et marche avec une canne. Elle est généreuse et patiente.",
+       "En somme, Mama Julie est une grand-mère à l’apparence fragile mais au cœur généreux."
+      ],
+      [
+       "Le marché est animé, les vendeurs crient, les clients marchandent, les enfants jouent.",
+       "Finalement, le marché est un lieu vivant où tout le quartier se retrouve."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne recopie pas l’introduction",
+     "text": "Reprendre les mêmes phrases que l’introduction est une faute. Reformule : choisis d’autres mots."
+    },
+    {
+     "type": "warn",
+     "label": "Pas de nouvelle idée",
+     "text": "Le bilan ne contient **aucune idée nouvelle**. Si tu as une idée en plus, elle appartient au développement."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour faire le bilan, relis les **idées de ton plan** : tes deux ou trois idées principales forment le bilan."
+    },
+    {
+     "type": "quiz",
+     "question": "Que doit contenir le bilan ?",
+     "options": [
+      "Une idée nouvelle",
+      "Un résumé des idées principales",
+      "La même phrase que l’introduction",
+      "Un proverbe obligatoire"
+     ],
+     "answer": 1,
+     "explain": "Le bilan résume l’essentiel déjà dit."
+    }
+   ]
+  },
+  {
+   "t": "L’ouverture",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après le bilan, on **ouvre** le texte : on ajoute une dernière touche qui laisse une trace chez le lecteur."
+    },
+    {
+     "type": "table",
+     "title": "Quelques types d’ouverture",
+     "head": [
+      "Type",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "un sentiment",
+       "Je suis fier(ère) d’avoir une grand-mère comme elle."
+      ],
+      [
+       "un souhait",
+       "Je souhaite que chacun puisse un jour rencontrer une personne aussi généreuse."
+      ],
+      [
+       "une leçon, un message",
+       "Grâce à elle, j’ai compris qu’il est beau de partager."
+      ],
+      [
+       "un projet, une suite possible",
+       "À la prochaine rentrée, je retournerai la voir pour l’aider à raconter ses histoires."
+      ],
+      [
+       "une question ouverte",
+       "Et vous, qui est la personne que vous admirez le plus ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "L’ouverture doit rester **liée au sujet**. N’ajoute pas un sujet nouveau (« À propos, j’aime beaucoup le football »)."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "L’ouverture la plus simple est la **phrase de sentiment ou de leçon** : « J’ai appris que… », « Grâce à… ». Elle convient à presque tous les textes."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une ouverture ?",
+     "options": [
+      "Mama Julie est petite.",
+      "Grâce à elle, j’ai compris l’importance de partager.",
+      "Tout d’abord, elle porte un pagne.",
+      "Chaque année, j’attends les vacances."
+     ],
+     "answer": 1,
+     "explain": "« Grâce à elle, j’ai compris… » exprime une leçon : c’est une ouverture."
+    }
+   ]
+  },
+  {
+   "t": "Les mots de la conclusion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quelques mots signalent au lecteur qu’on conclut. Choisis-les avec soin."
+    },
+    {
+     "type": "table",
+     "title": "Pour faire le bilan",
+     "head": [
+      "On peut utiliser…"
+     ],
+     "rows": [
+      [
+       "en somme, en résumé, en conclusion, finalement, pour finir, bref"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pour ouvrir",
+     "head": [
+      "Pour…",
+      "On peut utiliser…"
+     ],
+     "rows": [
+      [
+       "exprimer un sentiment",
+       "je suis fier(ère), je suis heureux(se), je garde en moi…"
+      ],
+      [
+       "exprimer un souhait",
+       "je souhaite que…, j’espère que…"
+      ],
+      [
+       "exprimer une leçon",
+       "grâce à…, j’ai appris que…, j’ai compris que…"
+      ],
+      [
+       "annoncer une suite",
+       "à l’avenir, bientôt, un jour…"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne commence pas ta conclusion par « Pour conclure, je vais dire… » : c’est lourd. Va directement au bilan : « En somme… »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot introduit une conclusion ?",
+     "options": [
+      "d’abord",
+      "soudain",
+      "en somme",
+      "de plus"
+     ],
+     "answer": 2,
+     "explain": "« En somme » annonce le bilan."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot ne convient pas pour une conclusion ?",
+     "options": [
+      "finalement",
+      "en résumé",
+      "tout d’abord",
+      "pour finir"
+     ],
+     "answer": 2,
+     "explain": "« Tout d’abord » annonce le début d’une liste d’idées, pas la fin."
+    }
+   ]
+  },
+  {
+   "t": "La conclusion selon le type de texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La conclusion s’adapte au **texte demandé**."
+    },
+    {
+     "type": "table",
+     "title": "Conclure selon le texte",
+     "head": [
+      "Texte",
+      "Ce que la conclusion contient",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "portrait",
+       "un bilan sur la personne et un sentiment",
+       "En somme, Kofi est un ami fidèle et drôle : je suis heureux de le compter parmi mes amis."
+      ],
+      [
+       "article de journal",
+       "un bilan des faits et la suite possible",
+       "Cette kermesse a rassemblé tout le quartier ; la prochaine édition aura lieu l’an prochain."
+      ],
+      [
+       "lettre privée",
+       "une phrase finale, puis la **formule de politesse** et la **signature**",
+       "J’espère te revoir bientôt. Je t’embrasse très fort. Awa"
+      ],
+      [
+       "recette de cuisine",
+       "un conseil de service ou de dégustation",
+       "Servez le riz chaud, accompagné de sauce pimentée. Bon appétit !"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pour une lettre",
+     "text": "La conclusion d’une lettre n’est pas un « bilan » : elle contient une **dernière phrase** (souhait, question, remerciement) et une **formule de politesse** adaptée au destinataire : « Je t’embrasse » (famille, ami), « Cordialement » (un adulte)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conclusion convient à une recette ?",
+     "options": [
+      "En conclusion, j’espère que ce portrait vous a plu.",
+      "Servez chaud, avec de la sauce pimentée. Bon appétit !",
+      "Je t’embrasse fort.",
+      "Chaque année, j’attends les vacances."
+     ],
+     "answer": 1,
+     "explain": "Une recette se termine par un conseil de service."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Terminer brusquement",
+     "text": "« Voilà, c’est tout. » ou « Fin. » n’est pas une conclusion."
+    },
+    {
+     "type": "warn",
+     "label": "Introduire une idée nouvelle",
+     "text": "La conclusion termine ; elle ne lance pas un nouveau sujet."
+    },
+    {
+     "type": "warn",
+     "label": "Recopier l’introduction",
+     "text": "Le bilan reformule, il ne répète pas."
+    },
+    {
+     "type": "warn",
+     "label": "Faire une conclusion trop longue",
+     "text": "Plus de quatre phrases : le texte traîne en longueur."
+    },
+    {
+     "type": "warn",
+     "label": "Oublier la conclusion",
+     "text": "Un texte sans conclusion paraît inachevé. Garde toujours quelques minutes pour l’écrire."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conclusion est correcte pour un portrait ?",
+     "options": [
+      "Voilà, c’est tout.",
+      "En somme, ma grand-mère est douce et généreuse. Grâce à elle, j’ai compris l’importance de partager.",
+      "Je voudrais maintenant parler de mon frère.",
+      "Je vais d’abord la présenter."
+     ],
+     "answer": 1,
+     "explain": "La deuxième réponse contient un bilan et une ouverture, sans idée nouvelle."
+    }
+   ]
+  },
+  {
+   "t": "Rédiger une conclusion pas à pas",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici une démarche en quatre temps. Sujet : « Fais le portrait de ton meilleur ami. »"
+    },
+    {
+     "type": "test",
+     "title": "Les quatre temps",
+     "lines": [
+      "1. **Relire** mon développement et mon plan.",
+      "2. **Résumer** l’essentiel en une phrase : mon ami est grand, drôle et fidèle.",
+      "3. **Choisir** une ouverture : un sentiment ou une leçon.",
+      "4. **Rédiger** deux phrases avec « en somme » ou « finalement »."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Brouillon de conclusion",
+     "text": "En somme, Kofi est un garçon grand, drôle et fidèle. Grâce à lui, j’ai compris ce que veut dire le mot « amitié »."
+    },
+    {
+     "type": "ex",
+     "label": "Autre exemple : un article de journal",
+     "text": "Finalement, la kermesse de l’école a été une grande réussite : élèves, parents et professeurs ont passé une belle journée. Rendez-vous est déjà pris pour l’an prochain."
+    },
+    {
+     "type": "ex",
+     "label": "Autre exemple : une lettre privée",
+     "text": "Voilà, je t’ai tout raconté ! J’espère que tu pourras venir me rendre visite aux prochaines vacances. Je t’embrasse très fort. Awa"
+    },
+    {
+     "type": "tip",
+     "label": "Relis la conclusion",
+     "text": "Vérifie : ai-je un bilan ? Une ouverture ? Aucune idée nouvelle ? Est-elle courte ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la première chose à faire pour rédiger une conclusion ?",
+     "options": [
+      "Inventer un nouveau sujet",
+      "Relire son développement et son plan",
+      "Écrire « Fin »",
+      "Recopier l’introduction"
+     ],
+     "answer": 1,
+     "explain": "On conclut à partir de ce qu’on a dit : il faut d’abord relire."
+    }
+   ]
+  },
+  {
+   "t": "Lien entre introduction et conclusion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La conclusion **répond** à l’introduction : si tu as annoncé « d’abord son apparence, ensuite son caractère », la conclusion rappelle l’apparence **et** le caractère."
+    },
+    {
+     "type": "table",
+     "title": "Introduction et conclusion qui se répondent",
+     "head": [
+      "Introduction",
+      "Conclusion"
+     ],
+     "rows": [
+      [
+       "Chaque année, j’attends les vacances avec impatience pour retrouver ma grand-mère, Mama Julie. Je vais la présenter : d’abord son apparence, ensuite son caractère.",
+       "En somme, Mama Julie est une grand-mère à l’apparence fragile mais au cœur généreux. Grâce à elle, j’ai compris l’importance de partager : voilà pourquoi j’attends chaque année les vacances."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Boucler le texte",
+     "lines": [
+      "Si l’introduction pose une **question**, la conclusion y **répond**.",
+      "Si l’introduction annonce **deux idées**, la conclusion les **rappelle**.",
+      "On peut reprendre une **image** de l’accroche pour terminer."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Reprendre l’accroche ne veut pas dire **recopier** : change les mots, garde l’idée."
+    },
+    {
+     "type": "quiz",
+     "question": "Une introduction posait la question « Qui est la personne que j’admire le plus ? ». La conclusion doit…",
+     "options": [
+      "l’ignorer",
+      "y répondre",
+      "poser une autre question",
+      "raconter une histoire sans rapport"
+     ],
+     "answer": 1,
+     "explain": "La conclusion répond à la question posée en introduction."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase est un bilan (B) ou une ouverture (O).",
+     "items": [
+      "En somme, Kofi est un ami fidèle et drôle.",
+      "Grâce à lui, j’ai compris le sens du mot « amitié ».",
+      "Finalement, le marché est un lieu vivant où tout le quartier se retrouve.",
+      "Je souhaite que chacun ait un ami comme lui."
+     ],
+     "corrige": [
+      "1. B",
+      "2. O (leçon)",
+      "3. B",
+      "4. O (souhait)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase ne peut pas se trouver dans une conclusion ?",
+     "options": [
+      "En somme, il est généreux.",
+      "Je suis fier de lui.",
+      "Tout d’abord, il a les yeux noirs.",
+      "J’espère le revoir bientôt."
+     ],
+     "answer": 2,
+     "explain": "« Tout d’abord » annonce un développement, pas une conclusion."
+    },
+    {
+     "type": "h",
+     "text": "Corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige cette conclusion : « Voilà, c’est tout. »",
+     "items": [
+      "Ajoute un bilan.",
+      "Ajoute une ouverture."
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "En somme, mon voisin est un homme aimable et serviable. Je suis heureux de l’avoir comme voisin."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige la conclusion du sujet : « Fais le portrait de ton voisin. »",
+     "items": [
+      "Un bilan en une phrase",
+      "Une ouverture (sentiment ou leçon)"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "En somme, monsieur Ali est un voisin grand, aimable et serviable. Grâce à lui, j’ai compris qu’un petit geste peut faire beaucoup de bien."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige la conclusion d’une lettre à un ami pour lui raconter une journée de marché.",
+     "items": [
+      "Une dernière phrase",
+      "Une formule de politesse",
+      "La signature"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "J’espère que tu pourras venir avec moi au marché la prochaine fois. Je t’embrasse très fort. Awa"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis l’introduction : « Qui n’a jamais rêvé d’un ami toujours là quand on a besoin de lui ? Le mien s’appelle Kofi. Je vais le présenter : d’abord son aspect, ensuite son caractère. » Rédige la conclusion qui lui répond.",
+     "items": [
+      "Réponds à la question de l’accroche",
+      "Rappelle l’aspect et le caractère",
+      "Termine par une ouverture"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "En somme, Kofi, grand et souriant, est un ami fidèle sur qui je peux toujours compter : c’est lui qui répond à mon rêve d’un ami toujours là. Je souhaite à chacun de rencontrer un jour un ami comme lui."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **conclusion** est la dernière partie du texte : elle est **courte** (deux à quatre phrases).",
+      "Elle a **deux rôles** : le **bilan** (l’essentiel, en d’autres mots) et l’**ouverture** (sentiment, souhait, leçon, projet).",
+      "Elle ne contient **aucune idée nouvelle** et ne **recopie pas** l’introduction.",
+      "Elle s’annonce par des mots comme **en somme**, **finalement**, **en résumé**, **pour finir**.",
+      "Elle s’adapte au texte : portrait (bilan et sentiment), article (bilan des faits), lettre (dernière phrase, formule de politesse, signature), recette (conseil de service).",
+      "Elle **répond à l’introduction** : si on a annoncé deux idées, on les rappelle."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La conclusion en un coup d’œil",
+     "head": [
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "bilan",
+       "En somme, Kofi est un ami fidèle et drôle."
+      ],
+      [
+       "ouverture",
+       "Grâce à lui, j’ai compris le sens du mot amitié."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quels sont les deux rôles de la conclusion ?",
+     "options": [
+      "Bilan et ouverture",
+      "Accroche et annonce du plan",
+      "Présentation et plan",
+      "Titre et signature"
+     ],
+     "answer": 0,
+     "explain": "La conclusion fait le bilan et ouvre sur un sentiment, un souhait ou une leçon."
+    }
+   ]
+  }
+ ]
+}

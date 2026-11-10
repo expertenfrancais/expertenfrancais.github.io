@@ -1,0 +1,688 @@
+{
+ "id": 136,
+ "meta": {
+  "t": "Le discours indirect libre",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : rapporter des paroles sans le dire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis ces trois façons de rapporter les mêmes paroles. 1. Awa dit : « Je suis fatiguée, je veux dormir. » 2. Awa dit qu’elle est fatiguée et qu’elle veut dormir. 3. Awa s’assit sur le lit. Elle était fatiguée, elle voulait dormir. Dans la troisième phrase, on entend les paroles d’Awa **sans** guillemets ni verbe comme *dire* : c’est le **discours indirect libre**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Rappeler la différence entre discours direct et discours indirect",
+      "Définir le discours indirect libre",
+      "Le reconnaître grâce à ses indices",
+      "Transformer une phrase du discours direct au discours indirect libre",
+      "Comprendre pourquoi on l’utilise dans un récit"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le discours indirect libre",
+     "text": "Le **discours indirect libre** rapporte les **paroles ou les pensées** d’un personnage **sans verbe introducteur** (comme *dire*, *penser*) et **sans guillemets**. Les paroles se **mêlent** au récit, mais on y entend la **voix** du personnage."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Awa s’assit. Elle était fatiguée, elle voulait dormir. », quelle est la forme de discours rapporté ?",
+     "options": [
+      "Discours direct",
+      "Discours indirect",
+      "Discours indirect libre",
+      "Aucun discours rapporté"
+     ],
+     "answer": 2,
+     "explain": "Aucun verbe introducteur, aucun guillemet : les pensées d’Awa se mêlent au récit."
+    }
+   ]
+  },
+  {
+   "t": "Rappel : discours direct et discours indirect",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant d’étudier le discours indirect libre, rappelle-toi les deux autres façons de rapporter des paroles."
+    },
+    {
+     "type": "table",
+     "title": "Direct et indirect",
+     "head": [
+      "Discours",
+      "Comment c’est construit",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**direct**",
+       "deux-points + guillemets (ou tirets), paroles exactes",
+       "Awa dit : « Je suis fatiguée. »"
+      ],
+      [
+       "**indirect**",
+       "verbe introducteur + *que* (ou *si*, *de*…), pas de guillemets, temps et pronoms changent",
+       "Awa dit qu’elle est fatiguée."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les changements du direct à l’indirect",
+     "head": [
+      "Direct",
+      "Indirect (récit au passé)"
+     ],
+     "rows": [
+      [
+       "je, nous",
+       "il, elle, ils, elles"
+      ],
+      [
+       "présent",
+       "imparfait"
+      ],
+      [
+       "passé composé",
+       "plus-que-parfait"
+      ],
+      [
+       "futur simple",
+       "conditionnel présent"
+      ],
+      [
+       "hier, aujourd’hui, demain",
+       "la veille, ce jour-là, le lendemain"
+      ],
+      [
+       "ici",
+       "là"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "Direct : Kofi dit : « Demain, je viendrai ici. »\nIndirect : Kofi dit que le lendemain, il viendrait là."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot introduit habituellement le discours indirect ?",
+     "options": [
+      "Les guillemets",
+      "Le mot « que »",
+      "Le tiret",
+      "Le point d’exclamation"
+     ],
+     "answer": 1,
+     "explain": "Le discours indirect est introduit par un verbe suivi de « que » (ou « si », « de »…)."
+    }
+   ]
+  },
+  {
+   "t": "Qu’est-ce que le discours indirect libre ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le discours indirect libre est un mélange : il ressemble au **discours indirect** par les temps et les pronoms, mais il est **libre** de verbe introducteur et de « que »."
+    },
+    {
+     "type": "list",
+     "label": "Les caractéristiques du discours indirect libre",
+     "items": [
+      "**Pas de verbe introducteur** (dire, demander, penser…).",
+      "**Pas de « que »**, pas de subordonnée.",
+      "**Pas de guillemets** ni de deux-points.",
+      "Les **pronoms** et les **temps** sont ceux du discours indirect (*il, elle*, imparfait…).",
+      "On garde la **ponctuation expressive** (? et !) et les mots qui font entendre la voix du personnage."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un exemple de récit",
+     "text": "Kofi rentra chez lui. Quelle journée ! Il était épuisé, il voulait dormir, mais ses devoirs l’attendaient."
+    },
+    {
+     "type": "table",
+     "title": "Analyse de l’exemple",
+     "head": [
+      "Phrase",
+      "Observation"
+     ],
+     "rows": [
+      [
+       "Quelle journée !",
+       "exclamation : on entend la pensée de Kofi"
+      ],
+      [
+       "Il était épuisé, il voulait dormir…",
+       "imparfait et pronom « il » : comme l’indirect"
+      ],
+      [
+       "(aucun verbe introducteur)",
+       "pas de « il pensa que… »"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Le discours indirect libre s’emploie surtout dans les **récits** (contes, romans, nouvelles), pour faire entendre les pensées d’un personnage."
+    },
+    {
+     "type": "quiz",
+     "question": "Qu’est-ce qui manque dans le discours indirect libre par rapport au discours indirect ?",
+     "options": [
+      "Le verbe introducteur et « que »",
+      "Les pronoms",
+      "Le verbe conjugué",
+      "Les points"
+     ],
+     "answer": 0,
+     "explain": "Le discours indirect libre n’a ni verbe introducteur ni « que »."
+    }
+   ]
+  },
+  {
+   "t": "Comment le reconnaître ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour reconnaître le discours indirect libre, cherche **quatre indices**."
+    },
+    {
+     "type": "test",
+     "title": "Quatre indices",
+     "lines": [
+      "1. **Aucun verbe introducteur** (dit, demanda, pensa…).",
+      "2. **Aucun guillemet**, aucun deux-points.",
+      "3. Une **marque de voix** : ponctuation expressive (?, !), mot familier ou exclamatif.",
+      "4. Des **pronoms** et des **temps** de narration (il, elle ; imparfait)."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Test sur un extrait",
+     "text": "Awa regarda la pluie tomber. Pourquoi fallait-il toujours qu’il pleuve le jour de la sortie ? Elle en avait assez."
+    },
+    {
+     "type": "table",
+     "title": "Les indices dans l’extrait",
+     "head": [
+      "Indice",
+      "Dans le texte"
+     ],
+     "rows": [
+      [
+       "pas de verbe introducteur",
+       "aucun « elle se demanda »"
+      ],
+      [
+       "pas de guillemets",
+       "aucun"
+      ],
+      [
+       "marque de voix",
+       "question « Pourquoi fallait-il…? »"
+      ],
+      [
+       "temps et pronoms",
+       "imparfait « fallait », « en avait assez » ; pronom « elle »"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Le discours indirect libre ne se confond pas avec la **narration** : ce sont des **paroles ou des pensées**, pas un simple récit de faits. Cherche la **voix** du personnage."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il sortit. Quelle chaleur ! », quelle phrase est au discours indirect libre ?",
+     "options": [
+      "Il sortit.",
+      "Quelle chaleur !",
+      "Aucune",
+      "Toutes"
+     ],
+     "answer": 1,
+     "explain": "« Quelle chaleur ! » fait entendre la pensée du personnage."
+    },
+    {
+     "type": "quiz",
+     "question": "Laquelle de ces phrases est au discours indirect libre ?",
+     "options": [
+      "Il pensa : « Je suis perdu. »",
+      "Il pensa qu’il était perdu.",
+      "Il était perdu. Que faire maintenant ?",
+      "Il se demanda s’il était perdu."
+     ],
+     "answer": 2,
+     "explain": "« Que faire maintenant ? » est une pensée sans verbe introducteur."
+    }
+   ]
+  },
+  {
+   "t": "Comparer les trois discours",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare les trois façons de rapporter les mêmes paroles."
+    },
+    {
+     "type": "table",
+     "title": "Un exemple : la fatigue d’Awa",
+     "head": [
+      "Discours",
+      "Phrase"
+     ],
+     "rows": [
+      [
+       "direct",
+       "Awa se dit : « Je suis fatiguée. Pourquoi ai-je tant marché ? »"
+      ],
+      [
+       "indirect",
+       "Awa se dit qu’elle était fatiguée et se demanda pourquoi elle avait tant marché."
+      ],
+      [
+       "indirect libre",
+       "Elle était fatiguée. Pourquoi avait-elle tant marché ?"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Un deuxième exemple : la décision de Kofi",
+     "head": [
+      "Discours",
+      "Phrase"
+     ],
+     "rows": [
+      [
+       "direct",
+       "Kofi pensa : « Demain, j’irai voir ma grand-mère ! »"
+      ],
+      [
+       "indirect",
+       "Kofi pensa que le lendemain, il irait voir sa grand-mère."
+      ],
+      [
+       "indirect libre",
+       "Le lendemain, il irait voir sa grand-mère !"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ce qui change d’un discours à l’autre",
+     "head": [
+      "Critère",
+      "Direct",
+      "Indirect",
+      "Indirect libre"
+     ],
+     "rows": [
+      [
+       "verbe introducteur",
+       "oui",
+       "oui",
+       "non"
+      ],
+      [
+       "« que » (subordonnée)",
+       "non",
+       "oui",
+       "non"
+      ],
+      [
+       "guillemets",
+       "oui",
+       "non",
+       "non"
+      ],
+      [
+       "pronoms et temps de narration",
+       "non",
+       "oui",
+       "oui"
+      ],
+      [
+       "ponctuation expressive (? !)",
+       "oui",
+       "non",
+       "oui"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le discours indirect libre est **à mi-chemin** : il a la forme du discours indirect (pronoms, temps) et le ton du discours direct (ponctuation, mots de la voix)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans le tableau, quelle forme de discours ne garde ni guillemets, ni verbe introducteur, ni « que » ?",
+     "options": [
+      "Direct",
+      "Indirect",
+      "Indirect libre",
+      "Aucune"
+     ],
+     "answer": 2,
+     "explain": "C’est la définition du discours indirect libre."
+    }
+   ]
+  },
+  {
+   "t": "Transformer une phrase en discours indirect libre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici une méthode pour passer du discours direct au discours indirect libre."
+    },
+    {
+     "type": "test",
+     "title": "La méthode en quatre temps",
+     "lines": [
+      "1. **Supprime** le verbe introducteur, les deux-points et les guillemets.",
+      "2. **Remplace** les pronoms de la 1re et de la 2e personne (je, tu, nous, vous) par il, elle, ils, elles.",
+      "3. **Mets** les verbes à l’imparfait, au plus-que-parfait ou au conditionnel, comme au discours indirect.",
+      "4. **Garde** la ponctuation expressive (? ou !) et adapte les mots de temps et de lieu (hier → la veille, demain → le lendemain, ici → là)."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple 1",
+     "text": "Direct : Fatou se dit : « Je suis perdue ! Où est ma maison ? »\n1. Supprime : Je suis perdue ! Où est ma maison ?\n2. Pronoms : Elle est perdue ! Où est sa maison ?\n3. Temps : Elle était perdue ! Où était sa maison ?\nIndirect libre : Elle était perdue ! Où était sa maison ?"
+    },
+    {
+     "type": "ex",
+     "label": "Exemple 2",
+     "text": "Direct : Kofi pensa : « Demain, nous irons à la plage. »\nIndirect libre : Le lendemain, ils iraient à la plage."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne garde pas « que » : « Elle pensa qu’elle était perdue » est du discours indirect, pas du discours indirect libre."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "La **première personne** disparaît : on ne trouve jamais *je* dans le discours indirect libre, car on rapporte les paroles de **quelqu’un d’autre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Transforme en discours indirect libre : Il pensa : « Je suis très en retard ! »",
+     "options": [
+      "Il pensa qu’il était très en retard.",
+      "Il était très en retard !",
+      "Je suis très en retard !",
+      "Il pensa : il est très en retard."
+     ],
+     "answer": 1,
+     "explain": "On supprime le verbe introducteur, on remplace « je » par « il » et on met l’imparfait."
+    }
+   ]
+  },
+  {
+   "t": "Pourquoi utiliser le discours indirect libre ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les écrivains emploient le discours indirect libre pour des **effets** précis."
+    },
+    {
+     "type": "list",
+     "label": "Les effets du discours indirect libre",
+     "items": [
+      "**Faire entendre les pensées** d’un personnage sans interrompre le récit.",
+      "**Rendre le récit plus vivant** : on passe de la narration à la voix du personnage.",
+      "**Créer la proximité** : le lecteur partage les émotions du personnage.",
+      "**Éviter la répétition** de « il dit que… », « elle pensa que… »",
+      "**Nuancer ou ironiser** : on peut sentir la distance ou la moquerie."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Dans un récit",
+     "text": "Awa ouvrit la porte. Quelle surprise ! Sa grand-mère était là, avec un grand panier de mangues. Pourquoi ne l’avait-elle pas prévenue ? Mais quelle joie de la voir !"
+    },
+    {
+     "type": "table",
+     "title": "Ce que le lecteur entend",
+     "head": [
+      "Phrase",
+      "Effet"
+     ],
+     "rows": [
+      [
+       "Quelle surprise !",
+       "l’étonnement d’Awa"
+      ],
+      [
+       "Pourquoi ne l’avait-elle pas prévenue ?",
+       "sa question intérieure"
+      ],
+      [
+       "Mais quelle joie de la voir !",
+       "sa joie"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "À savoir",
+     "text": "Le discours indirect libre est **moins fréquent à l’oral** : on l’emploie surtout à l’**écrit**, dans la littérature."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi un écrivain emploie-t-il le discours indirect libre ?",
+     "options": [
+      "Pour rendre les pensées du personnage vivantes",
+      "Pour supprimer toutes les phrases",
+      "Pour éviter le récit",
+      "Pour remplacer le titre"
+     ],
+     "answer": 0,
+     "explain": "Il fait entendre la voix du personnage dans le récit."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Confondre discours indirect et discours indirect libre",
+     "text": "« Elle se demanda si elle était perdue » est du discours **indirect** (verbe introducteur + « si »). « Était-elle perdue ? » est du discours indirect **libre**."
+    },
+    {
+     "type": "warn",
+     "label": "Confondre discours indirect libre et narration",
+     "text": "« Elle ouvrit la porte. » raconte un fait : ce n’est pas du discours rapporté. Cherche une **voix** (pensée, question, exclamation)."
+    },
+    {
+     "type": "warn",
+     "label": "Oublier de changer les pronoms et les temps",
+     "text": "« Où est ma maison ? » (direct) devient « Où était sa maison ? » (indirect libre). On ne peut pas laisser « est » ni « ma »."
+    },
+    {
+     "type": "warn",
+     "label": "Mettre des guillemets",
+     "text": "Dans le discours indirect libre, il n’y a **ni guillemets, ni tirets, ni deux-points**."
+    },
+    {
+     "type": "warn",
+     "label": "Mettre le point final par habitude",
+     "text": "Si la phrase est une question ou une exclamation, **garde** le point d’interrogation ou d’exclamation."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au discours indirect libre ?",
+     "options": [
+      "Elle se demanda où elle était.",
+      "Où était-elle donc ?",
+      "Elle demanda : « Où suis-je ? »",
+      "Elle pensa qu’elle était perdue."
+     ],
+     "answer": 1,
+     "explain": "Pas de verbe introducteur ni de « que » : la question appartient au personnage."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase est au discours direct (D), au discours indirect (I) ou au discours indirect libre (IL).",
+     "items": [
+      "Kofi dit : « J’ai faim. »",
+      "Kofi dit qu’il avait faim.",
+      "Kofi s’assit. Il avait faim ! Quand allait-on manger ?",
+      "Awa demanda : « Où est ma sœur ? »",
+      "Awa demanda où était sa sœur."
+     ],
+     "corrige": [
+      "1. D",
+      "2. I",
+      "3. IL (les deux dernières phrases)",
+      "4. D",
+      "5. I"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel indice prouve qu’une phrase est au discours indirect libre ?",
+     "options": [
+      "Un verbe introducteur",
+      "Des guillemets",
+      "Une ponctuation expressive sans verbe introducteur",
+      "Le mot « que »"
+     ],
+     "answer": 2,
+     "explain": "Le discours indirect libre garde la ponctuation expressive sans verbe introducteur."
+    },
+    {
+     "type": "h",
+     "text": "Transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en discours indirect libre.",
+     "items": [
+      "Fatou se dit : « Je suis très en retard ! »",
+      "Kofi pensa : « Demain, j’irai au marché. »",
+      "Awa se demanda : « Pourquoi suis-je si fatiguée ? »"
+     ],
+     "corrige": [
+      "1. Elle était très en retard !",
+      "2. Le lendemain, il irait au marché.",
+      "3. Pourquoi était-elle si fatiguée ?"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis : « La nuit tombait. Quelle peur ! Pourquoi n’était-il pas rentré plus tôt ? Il courut vers la maison. » Relève les phrases au discours indirect libre et justifie.",
+     "items": [
+      "Quelles phrases sont au discours indirect libre ?",
+      "Quels indices le prouvent ?"
+     ],
+     "corrige": [
+      "1. « Quelle peur ! » et « Pourquoi n’était-il pas rentré plus tôt ? »",
+      "2. pas de verbe introducteur, pas de guillemets, ponctuation expressive (! et ?), pronom « il » et imparfait"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases qui rapportent au discours indirect libre ce que pense un élève le jour d’une composition.",
+     "items": [
+      "Une exclamation",
+      "Une question",
+      "Une phrase à l’imparfait"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "Quel stress ! Aurait-il le temps de tout terminer ? Il avait bien révisé, mais il tremblait un peu."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **discours direct** rapporte les paroles exactes (guillemets, deux-points) ; le **discours indirect** utilise un verbe introducteur + « que » et change les pronoms et les temps.",
+      "Le **discours indirect libre** rapporte les paroles ou les pensées d’un personnage **sans verbe introducteur**, **sans « que »** et **sans guillemets**.",
+      "Il garde les **pronoms** et les **temps** du discours indirect (il, elle ; imparfait, conditionnel…).",
+      "Il conserve la **ponctuation expressive** (? et !) qui fait entendre la voix du personnage.",
+      "On le trouve surtout dans les **récits** : il rend les pensées vivantes et rapproche le lecteur du personnage.",
+      "Pour transformer du direct à l’indirect libre : supprimer le verbe introducteur, changer les pronoms, changer les temps, garder ? et !."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois discours en un coup d’œil",
+     "head": [
+      "Discours",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "direct",
+       "Awa dit : « Je suis fatiguée ! »"
+      ],
+      [
+       "indirect",
+       "Awa dit qu’elle était fatiguée."
+      ],
+      [
+       "indirect libre",
+       "Elle était fatiguée !"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au discours indirect libre ?",
+     "options": [
+      "Awa dit : « Je suis fatiguée ! »",
+      "Awa dit qu’elle était fatiguée.",
+      "Elle était fatiguée !",
+      "Awa demanda si elle était fatiguée."
+     ],
+     "answer": 2,
+     "explain": "« Elle était fatiguée ! » n’a ni verbe introducteur, ni « que », ni guillemets."
+    }
+   ]
+  }
+ ]
+}

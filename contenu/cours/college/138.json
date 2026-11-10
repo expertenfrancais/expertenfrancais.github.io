@@ -1,0 +1,602 @@
+{
+ "id": 138,
+ "meta": {
+  "t": "Les caractéristiques du texte descriptif : le portrait moral",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un portrait moral ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dire « Awa est généreuse, courageuse, mais un peu têtue », ce n’est pas décrire son visage : c’est faire son **portrait moral**. On ne le voit pas, on le **découvre** par ce que la personne dit et fait."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir le portrait moral",
+      "Reconnaître les caractéristiques du texte descriptif dans un portrait moral",
+      "Distinguer les différentes manières de révéler un caractère",
+      "Employer le vocabulaire des qualités et des défauts",
+      "Rédiger un portrait moral organisé"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Le portrait moral",
+     "text": "Le **portrait moral** est un **texte descriptif** qui présente le **caractère** d’une personne ou d’un personnage : ses qualités, ses défauts, ses goûts, ses sentiments, sa façon de se comporter."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Papa Joseph est un homme **patient et généreux**. Il accueille chacun avec bonté, mais il est **très entêté** : quand il a décidé quelque chose, personne ne peut le faire changer d’avis."
+    },
+    {
+     "type": "quiz",
+     "question": "Que décrit un portrait moral ?",
+     "options": [
+      "L’apparence extérieure",
+      "Le caractère et le comportement",
+      "Un lieu",
+      "Les vêtements"
+     ],
+     "answer": 1,
+     "explain": "Le portrait moral décrit ce qu’on ne voit pas directement : qualités, défauts, sentiments, manière d’agir."
+    }
+   ]
+  },
+  {
+   "t": "Les caractéristiques du texte descriptif dans le portrait moral",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Comme tout texte descriptif, le portrait moral a une organisation, un point de vue, un vocabulaire et des temps qui lui sont propres."
+    },
+    {
+     "type": "table",
+     "title": "Les caractéristiques du texte descriptif",
+     "head": [
+      "Caractéristique",
+      "Dans le portrait moral",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Un **objet décrit**",
+       "Le caractère d’une personne",
+       "*le caractère de Mariam*"
+      ],
+      [
+       "Un **point de vue**",
+       "Souvent subjectif : le narrateur juge",
+       "*Je la trouve admirable.*"
+      ],
+      [
+       "Des **verbes d’état**",
+       "*être, sembler, paraître, se montrer, rester*",
+       "*Il se montre généreux.*"
+      ],
+      [
+       "Un **temps** dominant",
+       "Le présent ou l’imparfait ; parfois le passé composé pour un exemple précis",
+       "*Elle aidait toujours les autres.*"
+      ],
+      [
+       "Des **adjectifs** de qualité ou de défaut",
+       "Ils nomment les traits de caractère",
+       "*honnête, jaloux, serviable*"
+      ],
+      [
+       "Des **connecteurs logiques**",
+       "Ils organisent les qualités et les défauts",
+       "*mais, pourtant, en revanche*"
+      ],
+      [
+       "Des **exemples** et des **illustrations**",
+       "Ils prouvent ce que l’on affirme",
+       "*Hier encore, elle a partagé son pain.*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un portrait moral, à quoi servent les exemples concrets ?",
+     "options": [
+      "À faire rire",
+      "À prouver et illustrer un trait de caractère",
+      "À décrire le visage",
+      "À raconter une longue histoire"
+     ],
+     "answer": 1,
+     "explain": "Un exemple concret (une action, une parole) rend crédible le trait de caractère qu’on annonce."
+    }
+   ]
+  },
+  {
+   "t": "Comment révéler le caractère ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un caractère ne se voit pas : pour le faire connaître, on dispose de plusieurs moyens. Un bon portrait en **combine plusieurs**."
+    },
+    {
+     "type": "table",
+     "title": "Les moyens de montrer un caractère",
+     "head": [
+      "Moyen",
+      "Explication",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Le **jugement direct**",
+       "On nomme la qualité ou le défaut",
+       "*Il est avare.*"
+      ],
+      [
+       "Les **actes**",
+       "On montre ce que fait la personne",
+       "*Il compte chaque pièce avant de la donner.*"
+      ],
+      [
+       "Les **paroles**",
+       "On rapporte ce qu’elle dit et sa façon de parler",
+       "*« Je n’ai pas de monnaie », répète-t-il.*"
+      ],
+      [
+       "Les **réactions** et les **gestes**",
+       "On observe ses attitudes",
+       "*Elle serre les poings quand on la contredit.*"
+      ],
+      [
+       "Le **regard des autres**",
+       "On rapporte ce que les autres pensent de lui",
+       "*Tout le village l’admire.*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce d’écrivain",
+     "text": "**Montre** plutôt que **dire** : « Elle donne son dernier pain à un inconnu » en dit plus que « Elle est généreuse »."
+    },
+    {
+     "type": "warn",
+     "label": "Piège à éviter",
+     "text": "Ne te contente pas d’une liste d’adjectifs. Sans exemple, le portrait paraît **vide** et **peu crédible**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase révèle le caractère **par les actes** ?",
+     "options": [
+      "Il est paresseux.",
+      "Il reste couché jusqu’à midi et laisse sa tâche aux autres.",
+      "Tout le monde le trouve paresseux.",
+      "Le paresseux est un défaut."
+     ],
+     "answer": 1,
+     "explain": "La deuxième phrase montre des actions concrètes qui prouvent la paresse, sans la nommer."
+    }
+   ]
+  },
+  {
+   "t": "Le vocabulaire du portrait moral",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour être juste, il faut connaître les mots des **qualités** et des **défauts**."
+    },
+    {
+     "type": "table",
+     "title": "Qualités et défauts",
+     "head": [
+      "Qualité",
+      "Défaut contraire"
+     ],
+     "rows": [
+      [
+       "*généreux*",
+       "*avare, égoïste*"
+      ],
+      [
+       "*courageux, brave*",
+       "*peureux, lâche*"
+      ],
+      [
+       "*honnête, sincère*",
+       "*menteur, hypocrite*"
+      ],
+      [
+       "*patient, calme*",
+       "*impatient, coléreux*"
+      ],
+      [
+       "*modeste*",
+       "*orgueilleux, vaniteux*"
+      ],
+      [
+       "*travailleur, appliqué*",
+       "*paresseux, négligent*"
+      ],
+      [
+       "*serviable, gentil*",
+       "*méchant, cruel*"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pour varier : noms et verbes",
+     "head": [
+      "Adjectif",
+      "Nom",
+      "Expression"
+     ],
+     "rows": [
+      [
+       "*généreux*",
+       "la générosité",
+       "*faire preuve de générosité*"
+      ],
+      [
+       "*courageux*",
+       "le courage",
+       "*se montrer courageux*"
+      ],
+      [
+       "*honnête*",
+       "l’honnêteté",
+       "*être d’une grande honnêteté*"
+      ],
+      [
+       "*patient*",
+       "la patience",
+       "*s’armer de patience*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Verbes et expressions utiles",
+     "text": "Il **fait preuve** d’un grand courage. Elle **se montre** toujours serviable. Il **a l’air** timide, mais il est surtout réservé."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le contraire de « généreux » ?",
+     "options": [
+      "Honnête",
+      "Avare",
+      "Patient",
+      "Courageux"
+     ],
+     "answer": 1,
+     "explain": "Une personne généreuse donne volontiers ; son contraire est l’avare (ou l’égoïste)."
+    }
+   ]
+  },
+  {
+   "t": "Les procédés d’écriture du portrait moral",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "1. Les mots mélioratifs et péjoratifs"
+    },
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "Un mot **mélioratif** valorise (*admirable, dévoué*) ; un mot **péjoratif** dévalorise (*mesquin, hypocrite*)."
+    },
+    {
+     "type": "h",
+     "text": "2. Les adverbes d’intensité"
+    },
+    {
+     "type": "p",
+     "text": "Ils renforcent ou nuancent un trait : *très, trop, assez, extrêmement, un peu, toujours, jamais*."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Elle est **extrêmement** patiente. Il est **un peu** vantard."
+    },
+    {
+     "type": "h",
+     "text": "3. La comparaison et la métaphore"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il est têtu **comme** une mule.\nElle est **un vrai rayon de soleil** pour toute la famille."
+    },
+    {
+     "type": "h",
+     "text": "4. L’énumération et l’opposition"
+    },
+    {
+     "type": "p",
+     "text": "L’**énumération** accumule les traits ; l’**opposition** (*mais, pourtant, cependant*) montre un caractère **nuancé**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il est **bon, patient, toujours disponible**, **mais** terriblement distrait."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il est têtu comme une mule », quel procédé est employé ?",
+     "options": [
+      "Une métaphore",
+      "Une comparaison",
+      "Une opposition",
+      "Une énumération"
+     ],
+     "answer": 1,
+     "explain": "Le mot « comme » introduit une comparaison entre l’entêtement et celui de la mule."
+    }
+   ]
+  },
+  {
+   "t": "L’organisation du portrait moral",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Comme le portrait physique, le portrait moral suit un **plan** :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Présentation** : on présente la personne et on annonce son caractère général.",
+      "**Les qualités** : on les développe avec des exemples.",
+      "**Les défauts** : on les montre avec nuance, avec « mais », « pourtant ».",
+      "**Conclusion** : on donne une impression d’ensemble ou un jugement."
+     ],
+     "label": "Un plan possible",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Connecteurs utiles",
+     "head": [
+      "Pour…",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "Ajouter",
+       "*de plus, en outre, aussi, également*"
+      ],
+      [
+       "Opposer",
+       "*mais, pourtant, cependant, en revanche, toutefois*"
+      ],
+      [
+       "Illustrer",
+       "*par exemple, ainsi, c’est ainsi que*"
+      ],
+      [
+       "Conclure",
+       "*en somme, en définitive, finalement*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un exemple organisé",
+     "text": "Tante Rose est **une femme** au grand cœur. **D’abord**, elle est généreuse : elle partage tout ce qu’elle a. **De plus**, elle est courageuse : elle a élevé seule ses quatre enfants. **Pourtant**, elle est parfois trop sévère. **En somme**, c’est une femme que tout le monde respecte."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur sert à **opposer** une qualité à un défaut ?",
+     "options": [
+      "De plus",
+      "Par exemple",
+      "Pourtant",
+      "Enfin"
+     ],
+     "answer": 2,
+     "explain": "« Pourtant » marque l’opposition et permet de nuancer un portrait."
+    }
+   ]
+  },
+  {
+   "t": "Du portrait physique au portrait moral",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un portrait complet associe souvent le **physique** et le **moral** : l’apparence peut **révéler** le caractère."
+    },
+    {
+     "type": "table",
+     "title": "Le physique qui révèle le moral",
+     "head": [
+      "Détail physique",
+      "Trait de caractère suggéré"
+     ],
+     "rows": [
+      [
+       "*des mains rugueuses*",
+       "travailleur, courageux"
+      ],
+      [
+       "*un sourire permanent*",
+       "gentil, chaleureux"
+      ],
+      [
+       "*un regard fuyant*",
+       "timide ou menteur"
+      ],
+      [
+       "*un front plissé*",
+       "soucieux, sévère"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "L’apparence peut **tromper** ! Ne conclus jamais seulement d’après le physique : c’est l’**attitude** et les **actes** qui prouvent le caractère."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un portrait complet, le portrait physique permet de…",
+     "options": [
+      "Remplacer le portrait moral",
+      "Suggérer ou confirmer le caractère",
+      "Raconter une histoire",
+      "Décrire un lieu"
+     ],
+     "answer": 1,
+     "explain": "Le physique suggère le caractère, mais le portrait moral le précise par des actes et des paroles."
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un portrait moral",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "**Choisis** la personne et décide de ton point de vue.",
+      "**Dresse** la liste de ses qualités et de ses défauts.",
+      "**Trouve** pour chaque trait un **exemple concret** (acte, parole, réaction).",
+      "**Organise** avec un plan et des connecteurs.",
+      "**Rédige** au présent ou à l’imparfait, avec des verbes d’état, des adverbes d’intensité et au moins une comparaison.",
+      "**Relis** et corrige."
+     ],
+     "label": "La méthode en 6 étapes",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "label": "Un portrait modèle",
+     "text": "Mon ami Patrick est un garçon **foncièrement honnête**. L’an dernier, il a rapporté un portefeuille trouvé dans la cour, sans rien garder. **De plus**, il se montre toujours serviable : il aide chacun à porter son cartable. **Mais** il est parfois **têtu comme une mule** et refuse d’écouter les conseils. **En somme**, c’est un ami précieux, dont les défauts ne comptent guère."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Après avoir écrit, **barre** les adjectifs sans exemple et remplace-les par une action ou une parole qui **montre** le trait."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Donne le contraire de chaque défaut ou de chaque qualité.",
+     "items": [
+      "a) courageux",
+      "b) paresseux",
+      "c) honnête",
+      "d) généreux"
+     ],
+     "corrige": [
+      "a) peureux ou lâche",
+      "b) travailleur",
+      "c) menteur ou hypocrite",
+      "d) avare ou égoïste"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Quel trait de caractère révèle chaque action ?",
+     "items": [
+      "a) Il rend l’argent trouvé à son propriétaire.",
+      "b) Elle répond toujours en criant.",
+      "c) Il aide ses voisins sans qu’on lui demande.",
+      "d) Elle attend patiemment son tour malgré le froid."
+     ],
+     "corrige": [
+      "a) honnête",
+      "b) coléreuse (ou impatiente)",
+      "c) serviable (ou généreux)",
+      "d) patiente"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Remplace chaque jugement direct par une phrase qui **montre** le trait par une action.",
+     "items": [
+      "a) Il est généreux.",
+      "b) Elle est courageuse.",
+      "c) Il est menteur."
+     ],
+     "corrige": [
+      "Réponses possibles : a) Il partage son repas avec tous ses camarades. b) Elle entre dans la maison en feu pour sauver son petit frère. c) Il invente toujours une excuse pour cacher la vérité."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige le portrait moral d’une personne que tu connais (8 à 10 lignes). Utilise un plan, des exemples concrets, des connecteurs et une comparaison.",
+     "items": [
+      "Pense à : qualités, défauts, exemples, conclusion."
+     ],
+     "corrige": [
+      "Le portrait est réussi s’il suit un plan clair, s’il illustre chaque trait par un exemple, s’il emploie des connecteurs d’opposition (mais, pourtant) et s’il est correctement écrit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **portrait moral** est un texte descriptif qui présente le **caractère** d’une personne : qualités, défauts, goûts, sentiments.",
+      "On révèle un caractère par le **jugement direct**, les **actes**, les **paroles**, les **réactions** et le **regard des autres**.",
+      "Il emploie des **verbes d’état**, des **adjectifs de qualité ou de défaut**, des **adverbes d’intensité** et des **connecteurs**.",
+      "Les mots peuvent être **mélioratifs** ou **péjoratifs**.",
+      "Il suit un plan : **présentation, qualités, défauts, conclusion**.",
+      "Il vaut mieux **montrer** (par un exemple) que seulement **dire**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Portrait physique et portrait moral",
+     "head": [
+      "Critère",
+      "Portrait physique",
+      "Portrait moral"
+     ],
+     "rows": [
+      [
+       "Objet",
+       "L’apparence extérieure",
+       "Le caractère"
+      ],
+      [
+       "Moyens",
+       "Taille, visage, vêtements, allure",
+       "Qualités, défauts, actes, paroles"
+      ],
+      [
+       "Plan",
+       "Du général au particulier",
+       "Présentation, qualités, défauts, conclusion"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Comment rend-on un portrait moral convaincant ?",
+     "options": [
+      "En ajoutant une liste d’adjectifs",
+      "En illustrant chaque trait par un exemple concret",
+      "En ne parlant que du physique",
+      "En écrivant très court"
+     ],
+     "answer": 1,
+     "explain": "Un exemple concret prouve le trait annoncé et rend le portrait vivant."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,707 @@
+{
+ "id": 133,
+ "meta": {
+  "t": "La rédaction du développement",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : le cœur de la rédaction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Kofi a écrit une bonne introduction pour « Le portrait de mon voisin ». Mais le développement lui pose problème : il a écrit « Mon voisin est grand. Il est gentil. Il porte des lunettes. Il est serviable. », tout dans un même bloc. Son texte ressemble à une liste, pas à une description. Le **développement** est la partie la plus longue et la plus importante : c’est là que le texte prend forme."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir le développement et le paragraphe",
+      "Passer du plan au développement : une idée, un paragraphe",
+      "Relier les idées par des connecteurs",
+      "Développer une idée avec des détails et des exemples",
+      "Adapter son développement au type de texte (portrait, article, lettre, recette)",
+      "Soigner la langue : temps, vocabulaire, phrases"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le développement",
+     "text": "Le **développement** est la **partie centrale** de la rédaction, entre l’introduction et la conclusion. Il **expose les idées** du plan, en **paragraphes** bien organisés."
+    },
+    {
+     "type": "quiz",
+     "question": "Où se trouve le développement dans un texte ?",
+     "options": [
+      "Avant l’introduction",
+      "Entre l’introduction et la conclusion",
+      "Après la conclusion",
+      "À la place du titre"
+     ],
+     "answer": 1,
+     "explain": "Le développement est la partie centrale du texte."
+    }
+   ]
+  },
+  {
+   "t": "Le paragraphe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le développement est formé de **paragraphes**. Chaque paragraphe est un petit bloc de texte qui traite **une seule idée**."
+    },
+    {
+     "type": "def",
+     "label": "Le paragraphe",
+     "text": "Un **paragraphe** est une partie de texte qui développe **une idée**. Il commence par un **alinéa** (un petit retrait à droite) et se termine par un passage à la ligne."
+    },
+    {
+     "type": "list",
+     "label": "Comment est construit un paragraphe ?",
+     "items": [
+      "une **phrase d’ouverture** qui annonce l’idée",
+      "des phrases d’**explication** ou de **description**",
+      "un ou deux **exemples** ou **détails**",
+      "éventuellement une **phrase de clôture** qui prépare le paragraphe suivant"
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un paragraphe construit",
+     "text": "Mama Julie est une petite femme aux cheveux blancs. Ils sont coiffés en fines tresses qui lui tombent sur les épaules. Son visage rond est éclairé par des yeux noirs pétillants de malice. Elle porte toujours un pagne coloré et marche lentement, appuyée sur sa canne."
+    },
+    {
+     "type": "table",
+     "title": "Les parties de ce paragraphe",
+     "head": [
+      "Phrase",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "Mama Julie est une petite femme aux cheveux blancs.",
+       "ouverture : annonce l’idée (l’apparence)"
+      ],
+      [
+       "Ils sont coiffés en fines tresses…",
+       "détail sur les cheveux"
+      ],
+      [
+       "Son visage rond est éclairé…",
+       "détail sur le visage"
+      ],
+      [
+       "Elle porte toujours un pagne coloré…",
+       "détail sur les vêtements"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Un paragraphe compte en général **trois à six phrases**. Un paragraphe d’une seule phrase est trop pauvre."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment commence un paragraphe ?",
+     "options": [
+      "Par une majuscule seule",
+      "Par un alinéa",
+      "Par un tiret",
+      "Par un titre"
+     ],
+     "answer": 1,
+     "explain": "Chaque nouveau paragraphe commence par un alinéa."
+    }
+   ]
+  },
+  {
+   "t": "Un paragraphe, une idée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La règle d’or du développement : **un paragraphe = une idée**."
+    },
+    {
+     "type": "table",
+     "title": "Mélange ou clarté ?",
+     "head": [
+      "Paragraphe mélangé",
+      "Deux paragraphes clairs"
+     ],
+     "rows": [
+      [
+       "Mon voisin est grand, il porte des lunettes, il est généreux, il salue tout le monde et il a une moustache.",
+       "**Paragraphe 1 (physique)** : Mon voisin est grand et porte des lunettes rondes. Sa moustache grise lui donne un air sérieux.\n**Paragraphe 2 (caractère)** : Il est généreux : il salue tout le monde et rend service."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Quand tu changes d’idée, tu changes de paragraphe. Mélanger physique et caractère dans un même paragraphe rend le texte confus."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Relis ton plan avant de rédiger : **chaque idée du plan devient un paragraphe**. Si ton plan a deux idées, ton développement aura au moins deux paragraphes."
+    },
+    {
+     "type": "quiz",
+     "question": "Un paragraphe sur le caractère de ton voisin contient aussi la couleur de ses yeux. Que faire ?",
+     "options": [
+      "Rien, c’est normal",
+      "Déplacer cette phrase dans le paragraphe sur le physique",
+      "Supprimer le paragraphe",
+      "Écrire une conclusion"
+     ],
+     "answer": 1,
+     "explain": "La couleur des yeux relève du physique : elle va dans l’autre paragraphe."
+    }
+   ]
+  },
+  {
+   "t": "Passer du plan au développement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le plan donne la **liste des idées**. Le développement les transforme en **paragraphes rédigés**."
+    },
+    {
+     "type": "table",
+     "title": "Du plan au texte",
+     "head": [
+      "Idée du plan",
+      "Paragraphe rédigé"
+     ],
+     "rows": [
+      [
+       "1. le physique de ma grand-mère : petite, cheveux blancs, canne",
+       "Mama Julie est une petite femme aux cheveux blancs. Elle marche lentement, appuyée sur sa canne."
+      ],
+      [
+       "2. son caractère : généreuse (elle partage), patiente (histoires)",
+       "Au-delà de son apparence, ma grand-mère est généreuse. Elle partage toujours son repas avec ses voisins."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Méthode en quatre temps",
+     "lines": [
+      "1. Je prends **une idée** de mon plan.",
+      "2. J’écris une **phrase d’ouverture** qui l’annonce.",
+      "3. J’ajoute des **détails** et un **exemple**.",
+      "4. Je passe à la ligne avec un **alinéa** pour l’idée suivante."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "N’invente pas de nouvelles idées en cours de rédaction si elles ne sont pas dans ton plan : tu risques de sortir du sujet."
+    },
+    {
+     "type": "quiz",
+     "question": "Que devient chaque idée du plan dans le développement ?",
+     "options": [
+      "Une phrase isolée",
+      "Un paragraphe",
+      "Une conclusion",
+      "Un titre"
+     ],
+     "answer": 1,
+     "explain": "Chaque idée du plan est développée dans un paragraphe."
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs : relier les idées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour que le texte soit fluide, on **relie** les phrases et les paragraphes avec des **connecteurs**."
+    },
+    {
+     "type": "def",
+     "label": "Connecteur",
+     "text": "Un **connecteur** est un mot ou un groupe de mots qui **relie** deux phrases ou deux paragraphes et indique le **lien logique** entre eux."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux connecteurs",
+     "head": [
+      "Rôle",
+      "Connecteurs"
+     ],
+     "rows": [
+      [
+       "ordonner",
+       "d’abord, tout d’abord, ensuite, puis, enfin"
+      ],
+      [
+       "ajouter",
+       "de plus, en outre, par ailleurs, également"
+      ],
+      [
+       "opposer",
+       "mais, cependant, pourtant, en revanche"
+      ],
+      [
+       "expliquer la cause",
+       "car, parce que, en effet"
+      ],
+      [
+       "indiquer la conséquence",
+       "donc, c’est pourquoi, ainsi"
+      ],
+      [
+       "situer dans le temps",
+       "soudain, ce jour-là, le lendemain"
+      ],
+      [
+       "situer dans l’espace",
+       "à droite, au fond, près de, devant"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Des connecteurs dans un texte",
+     "text": "**Tout d’abord**, Mama Julie est une petite femme aux cheveux blancs. **De plus**, elle porte un pagne coloré. **Au-delà de son apparence**, elle est généreuse : **en effet**, elle partage toujours son repas."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne répète pas toujours le même connecteur (« et », « puis »). Varie-les, mais choisis celui qui convient au lien entre les idées."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur ajoute une idée ?",
+     "options": [
+      "cependant",
+      "de plus",
+      "parce que",
+      "donc"
+     ],
+     "answer": 1,
+     "explain": "« De plus » ajoute une idée à la précédente."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il est généreux : en effet, il partage ses repas », « en effet » introduit…",
+     "options": [
+      "une opposition",
+      "une explication",
+      "un ordre",
+      "un lieu"
+     ],
+     "answer": 1,
+     "explain": "« En effet » explique ou prouve ce qui vient d’être dit."
+    }
+   ]
+  },
+  {
+   "t": "Développer une idée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour qu’un paragraphe soit riche, il ne suffit pas de **dire** une idée : il faut la **montrer**."
+    },
+    {
+     "type": "table",
+     "title": "Dire ou montrer ?",
+     "head": [
+      "On dit seulement",
+      "On montre avec un détail ou un exemple"
+     ],
+     "rows": [
+      [
+       "Ma grand-mère est généreuse.",
+       "Ma grand-mère est généreuse : chaque midi, elle invite les voisins à partager son repas."
+      ],
+      [
+       "Mon ami est courageux.",
+       "Mon ami est courageux : l’an dernier, il a sauté dans la rivière pour sauver un enfant."
+      ],
+      [
+       "Le marché est animé.",
+       "Le marché est animé : les vendeurs crient leurs prix et les enfants courent entre les étals."
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Comment développer une idée ?",
+     "items": [
+      "en donnant un **exemple** précis",
+      "en ajoutant un **détail** (couleur, forme, geste…)",
+      "en faisant une **comparaison** (« comme », « tel »)",
+      "en faisant appel aux **sens** (voir, entendre, sentir)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Après chaque idée, demande-toi : « Peux-tu me donner un exemple ? » Réponds par une phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase développe l’idée « Kofi est drôle » ?",
+     "options": [
+      "Kofi est drôle.",
+      "Kofi est très très drôle.",
+      "Kofi est drôle : il imite le professeur et toute la classe éclate de rire.",
+      "Il est gentil aussi."
+     ],
+     "answer": 2,
+     "explain": "La troisième phrase donne un exemple précis qui montre l’humour de Kofi."
+    }
+   ]
+  },
+  {
+   "t": "Le développement selon le type de texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Selon le texte demandé, le développement s’organise différemment."
+    },
+    {
+     "type": "table",
+     "title": "Organiser le développement",
+     "head": [
+      "Texte",
+      "Organisation",
+      "À retenir"
+     ],
+     "rows": [
+      [
+       "portrait physique",
+       "du **général au détail** : taille et silhouette, puis visage, puis vêtements",
+       "description au **présent** ; comparaisons et adjectifs précis"
+      ],
+      [
+       "portrait moral",
+       "une **qualité** (ou un défaut) par paragraphe, avec une **preuve**",
+       "chaque trait de caractère s’appuie sur un exemple"
+      ],
+      [
+       "article de journal",
+       "d’abord les **faits essentiels**, puis les détails, causes et réactions",
+       "verbes au **passé composé** ; phrases claires et informatives"
+      ],
+      [
+       "lettre privée",
+       "des **nouvelles**, puis des **questions**, puis une **demande** ou une invitation",
+       "ton adapté au destinataire ; **je / tu**"
+      ],
+      [
+       "recette de cuisine",
+       "les **ingrédients** (liste), puis la **préparation** en étapes",
+       "verbes à l’**infinitif** ou à l’**impératif** ; étapes numérotées"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un article de journal (extrait)",
+     "text": "Ce samedi, plus de trois cents personnes ont assisté à la kermesse de l’école. Les élèves ont d’abord présenté une pièce de théâtre. Ensuite, des stands de jeux ont ouvert leurs portes dans la cour. Le directeur a remercié les parents pour leur présence."
+    },
+    {
+     "type": "ex",
+     "label": "Une recette (extrait)",
+     "text": "Ingrédients : 2 tasses de riz, 500 g de poisson, 2 tomates, 1 oignon.\nPréparation :\n1. Lavez le riz.\n2. Faites revenir l’oignon et les tomates.\n3. Ajoutez le poisson et laissez cuire dix minutes."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne mélange pas les temps : dans un portrait on reste au **présent**, dans un article on raconte au **passé composé**, dans une recette on emploie l’**impératif**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel texte emploie-t-on surtout des verbes à l’impératif ?",
+     "options": [
+      "Le portrait",
+      "L’article de journal",
+      "La recette de cuisine",
+      "La lettre privée"
+     ],
+     "answer": 2,
+     "explain": "Une recette donne des ordres ou des conseils : « lavez », « faites cuire »…"
+    }
+   ]
+  },
+  {
+   "t": "Soigner la langue",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un développement réussi est aussi un développement **bien écrit**."
+    },
+    {
+     "type": "table",
+     "title": "Remplacer les mots faibles",
+     "head": [
+      "Mot faible",
+      "Mots plus précis"
+     ],
+     "rows": [
+      [
+       "faire",
+       "préparer, construire, réaliser, former"
+      ],
+      [
+       "dire",
+       "raconter, expliquer, annoncer, murmurer"
+      ],
+      [
+       "chose",
+       "objet, outil, meuble, détail (le mot juste)"
+      ],
+      [
+       "gentil",
+       "aimable, serviable, généreux, attentionné"
+      ],
+      [
+       "beau",
+       "magnifique, élégant, éclatant, charmant"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Les règles de style",
+     "items": [
+      "**Varie** la longueur des phrases (courtes et longues).",
+      "Garde le **même temps** dans tout le paragraphe.",
+      "Évite les **répétitions** : utilise des pronoms et des synonymes.",
+      "Emploie des **adjectifs précis** et des comparaisons."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Avant / Après",
+     "text": "Avant : Il est gentil. Il fait des choses pour les autres. Il est gentil avec tout le monde.\nAprès : Il est serviable : il porte les sacs des voisins et sourit à chacun."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Relis ton paragraphe à voix haute. Si tu butes sur une phrase ou si tu entends une répétition, corrige-la."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot remplace le mieux « gentil » ?",
+     "options": [
+      "chose",
+      "serviable",
+      "faire",
+      "beau"
+     ],
+     "answer": 1,
+     "explain": "« Serviable » est plus précis que « gentil »."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Mélanger les idées",
+     "text": "Une idée = un paragraphe. Le mélange rend le texte confus."
+    },
+    {
+     "type": "warn",
+     "label": "Oublier les alinéas",
+     "text": "Sans retrait à droite, on ne voit plus où commence chaque paragraphe."
+    },
+    {
+     "type": "warn",
+     "label": "Faire des paragraphes trop courts",
+     "text": "Une seule phrase par paragraphe : le texte est maigre. Développe avec des détails et des exemples."
+    },
+    {
+     "type": "warn",
+     "label": "Se répéter",
+     "text": "Répéter la même idée avec d’autres mots allonge le texte sans l’enrichir."
+    },
+    {
+     "type": "warn",
+     "label": "Oublier les connecteurs",
+     "text": "Une suite de phrases sans lien paraît décousue."
+    },
+    {
+     "type": "warn",
+     "label": "Sortir du sujet",
+     "text": "Tout ce que tu écris doit répondre au sujet : relis-le à la fin de chaque paragraphe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle erreur trouve-t-on dans « Mon ami est grand. Il est drôle. Il porte des lunettes. Il est fidèle. » ?",
+     "options": [
+      "Les idées sont mélangées et sans connecteurs",
+      "Il manque une conclusion",
+      "Il y a trop d’exemples",
+      "Les verbes sont mal accordés"
+     ],
+     "answer": 0,
+     "explain": "Physique et caractère sont mêlés, et aucune phrase n’est reliée aux autres."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase appartient au paragraphe sur le physique (P) ou sur le caractère (C) de Kofi.",
+     "items": [
+      "Il a les cheveux courts et un grand sourire.",
+      "Il est toujours prêt à rendre service.",
+      "Il mesure plus d’un mètre quatre-vingts.",
+      "Il ne se met jamais en colère."
+     ],
+     "corrige": [
+      "1. P",
+      "2. C",
+      "3. P",
+      "4. C"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec un connecteur : de plus ; mais ; car ; donc.",
+     "items": [
+      "Il est courageux, … il a sauvé un enfant.",
+      "Il est fatigué, … il ne se plaint jamais.",
+      "Il est généreux ; … il est toujours souriant.",
+      "Il pleut ; … nous restons à la maison."
+     ],
+     "corrige": [
+      "1. car (cause)",
+      "2. mais (opposition)",
+      "3. de plus (ajout)",
+      "4. donc (conséquence)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Développer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Développe chaque idée par un exemple précis.",
+     "items": [
+      "Mon ami est drôle.",
+      "Ma grand-mère est patiente.",
+      "Le marché est animé."
+     ],
+     "corrige": [
+      "Exemples de réponses :",
+      "1. Mon ami est drôle : il imite le directeur et toute la classe éclate de rire.",
+      "2. Ma grand-mère est patiente : elle explique dix fois la même histoire sans s’énerver.",
+      "3. Le marché est animé : les vendeurs crient leurs prix et les enfants courent entre les étals."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Réorganiser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris ce texte en deux paragraphes clairs : « Mon voisin est grand. Il est généreux. Il porte des lunettes rondes. Il aide tout le monde. »",
+     "items": [
+      "Paragraphe 1 : le physique",
+      "Paragraphe 2 : le caractère"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "1. Mon voisin est grand et porte des lunettes rondes.",
+      "2. Il est généreux : il aide tout le monde."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Rédiger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige le développement (deux paragraphes) du sujet : « Fais le portrait de ton meilleur ami ». Plan : 1. son physique ; 2. son caractère.",
+     "items": [
+      "Paragraphe 1 : trois phrases sur son physique",
+      "Paragraphe 2 : deux qualités avec une preuve",
+      "Utilise au moins deux connecteurs"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "Kofi est un garçon grand aux cheveux courts. Son visage rond est éclairé par un large sourire. Il porte toujours un maillot rouge.",
+      "Au-delà de son apparence, Kofi est drôle : il imite le directeur et toute la classe éclate de rire. De plus, il est fidèle, car il m’aide toujours quand j’ai un problème."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **développement** est la partie centrale : il expose les idées du plan en **paragraphes**.",
+      "**Un paragraphe = une idée** ; chaque paragraphe commence par un **alinéa**.",
+      "Chaque idée du plan devient un paragraphe : **phrase d’ouverture**, **détails**, **exemple**.",
+      "Les **connecteurs** relient les phrases et les paragraphes (*d’abord, de plus, mais, car, donc, enfin*).",
+      "Pour développer une idée, on **montre** avec un exemple, un détail, une comparaison.",
+      "L’organisation dépend du **type de texte** : portrait (du général au détail), article (faits essentiels d’abord), lettre (nouvelles, questions, demande), recette (ingrédients puis étapes).",
+      "On soigne la langue : **mots précis**, **même temps**, phrases variées, pas de répétitions."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le développement en un coup d’œil",
+     "head": [
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "une idée par paragraphe",
+       "physique / caractère"
+      ],
+      [
+       "relier avec des connecteurs",
+       "de plus, en effet, enfin"
+      ],
+      [
+       "montrer avec un exemple",
+       "généreuse : elle invite les voisins"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle règle faut-il toujours respecter dans le développement ?",
+     "options": [
+      "Une idée par paragraphe",
+      "Un seul paragraphe pour tout",
+      "Pas de connecteurs",
+      "Une phrase par paragraphe"
+     ],
+     "answer": 0,
+     "explain": "Un paragraphe développe une seule idée."
+    }
+   ]
+  }
+ ]
+}

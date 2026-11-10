@@ -1,0 +1,386 @@
+{
+ "id": 139,
+ "meta": {
+  "t": "Le pluriel des noms composés : nom + nom",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un nom composé ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « J’ai mangé du **chou-fleur** », le mot *chou-fleur* est formé de deux noms reliés par un trait d’union. C’est un **nom composé**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un nom composé formé de deux noms",
+      "Savoir quand les deux noms prennent la marque du pluriel",
+      "Appliquer le test pour décider",
+      "Écrire correctement le pluriel de ces noms"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Le nom composé",
+     "text": "Un **nom composé** est un nom formé de **plusieurs mots** qui désignent ensemble un seul être, une seule chose. Les mots sont souvent reliés par un **trait d’union**."
+    },
+    {
+     "type": "table",
+     "title": "Les grands types de noms composés",
+     "head": [
+      "Formation",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**nom + nom**",
+       "*un chou-fleur, un chef-lieu, un timbre-poste*"
+      ],
+      [
+       "nom + adjectif",
+       "*un coffre-fort, une grand-mère*"
+      ],
+      [
+       "verbe + nom",
+       "*un porte-monnaie, un tire-bouchon*"
+      ],
+      [
+       "nom + préposition + nom",
+       "*un arc-en-ciel, un chef-d’œuvre*"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Dans ce cours, nous étudions uniquement le **pluriel des noms composés formés de deux noms** (nom + nom)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est un nom composé formé de deux noms ?",
+     "options": [
+      "un porte-monnaie",
+      "un chou-fleur",
+      "un coffre-fort",
+      "un tire-bouchon"
+     ],
+     "answer": 1,
+     "explain": "« Chou-fleur » est formé de deux noms : chou + fleur."
+    }
+   ]
+  },
+  {
+   "t": "La règle : deux cas à distinguer",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le pluriel d’un nom composé *nom + nom* dépend du **lien** entre les deux noms."
+    },
+    {
+     "type": "h",
+     "text": "Cas 1 : les deux noms prennent la marque du pluriel"
+    },
+    {
+     "type": "p",
+     "text": "Quand les deux noms sont **de même importance** et que le second **précise** ou **caractérise** le premier (comme une apposition), **les deux** s’accordent."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "un chou-fleur → des **choux-fleurs**\nun chef-lieu → des **chefs-lieux**\nun oiseau-mouche → des **oiseaux-mouches**\nune porte-fenêtre → des **portes-fenêtres**\nun camion-citerne → des **camions-citernes**"
+    },
+    {
+     "type": "h",
+     "text": "Cas 2 : seul le premier nom prend la marque du pluriel"
+    },
+    {
+     "type": "p",
+     "text": "Quand le second nom est un **complément** du premier, c’est-à-dire qu’on peut **sous-entendre une préposition** (*de, pour, à, en*), **seul le premier** varie."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "un timbre-poste (timbre **de** poste) → des **timbres**-poste\nune année-lumière (année **de** lumière) → des **années**-lumière\nune pause-café (pause **pour le** café) → des **pauses**-café\nun stylo-bille (stylo **à** bille) → des **stylos**-bille"
+    },
+    {
+     "type": "tip",
+     "label": "Pourquoi ?",
+     "text": "Le second nom reste **invariable** parce qu’il est **complément** du premier : il ne représente pas plusieurs « choses », il précise seulement."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « un chef-lieu » ?",
+     "options": [
+      "des chef-lieux",
+      "des chefs-lieu",
+      "des chefs-lieux",
+      "des chefs-lieus"
+     ],
+     "answer": 2,
+     "explain": "Les deux noms varient : des chefs-lieux (« lieu » fait « lieux » au pluriel)."
+    }
+   ]
+  },
+  {
+   "t": "Le test pour décider",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour savoir si le second nom reste invariable, applique ce test."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Essaie de glisser une préposition** (*de, pour, à, en*) entre les deux noms.",
+      "Si la phrase garde son sens (*timbre **de** poste*, *pause **pour le** café*, *stylo **à** bille*) → le second nom est un **complément** : **seul le premier varie**.",
+      "Si la préposition ne marche pas et qu’on peut dire « **X qui est aussi Y** » (*une porte **qui est aussi** une fenêtre*) → **les deux noms varient**."
+     ],
+     "label": "Le test de la préposition",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Le test en action",
+     "head": [
+      "Nom composé",
+      "Test",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "un timbre-poste",
+       "timbre **de** poste ✓",
+       "des timbres-poste"
+      ],
+      [
+       "une pause-café",
+       "pause **pour le** café ✓",
+       "des pauses-café"
+      ],
+      [
+       "une porte-fenêtre",
+       "porte **de** fenêtre ✗ → porte **qui est aussi** fenêtre ✓",
+       "des portes-fenêtres"
+      ],
+      [
+       "un oiseau-mouche",
+       "oiseau **de** mouche ✗ → oiseau **comme** une mouche ✓",
+       "des oiseaux-mouches"
+      ],
+      [
+       "un camion-citerne",
+       "camion **qui est** une citerne ✓",
+       "des camions-citernes"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Précaution",
+     "text": "En cas de doute, **consulte le dictionnaire** : certains noms composés ont un pluriel particulier. Le test aide, mais le dictionnaire reste la référence."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi écrit-on « des stylos-bille » ?",
+     "options": [
+      "Parce que « bille » est un adjectif",
+      "Parce que « bille » est un complément (stylo à bille)",
+      "Parce que « stylo » est invariable",
+      "Parce que c’est un verbe"
+     ],
+     "answer": 1,
+     "explain": "On peut dire « stylo à bille » : « bille » est complément du premier nom, donc invariable."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges à éviter",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "1. Quand il y a une préposition dans le nom composé"
+    },
+    {
+     "type": "p",
+     "text": "Dans un nom composé du type **nom + préposition + nom**, **seul le premier nom** prend la marque du pluriel."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "un arc-en-ciel → des **arcs**-en-ciel\nun chef-d’œuvre → des **chefs**-d’œuvre"
+    },
+    {
+     "type": "h",
+     "text": "2. Ne pas confondre avec d’autres noms composés"
+    },
+    {
+     "type": "table",
+     "title": "Autres noms composés (à ne pas mélanger)",
+     "head": [
+      "Type",
+      "Exemple",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "verbe + nom",
+       "un porte-monnaie",
+       "des porte-monnaie (souvent invariable)"
+      ],
+      [
+       "nom + adjectif",
+       "un coffre-fort",
+       "des coffres-forts"
+      ],
+      [
+       "adjectif + nom",
+       "une grand-mère",
+       "des grands-mères"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne généralise pas une règle à tous les noms composés : chaque type a sa règle. Ici, on étudie seulement **nom + nom**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « un arc-en-ciel » ?",
+     "options": [
+      "des arcs-en-ciels",
+      "des arcs-en-ciel",
+      "des arc-en-ciel",
+      "des arc-en-ciels"
+     ],
+     "answer": 1,
+     "explain": "Seul le premier nom prend la marque du pluriel quand le nom composé contient une préposition."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Écris au pluriel ces noms composés où les deux noms varient.",
+     "items": [
+      "a) un chou-fleur",
+      "b) un oiseau-mouche",
+      "c) une porte-fenêtre",
+      "d) un camion-citerne",
+      "e) un chef-lieu"
+     ],
+     "corrige": [
+      "a) des choux-fleurs",
+      "b) des oiseaux-mouches",
+      "c) des portes-fenêtres",
+      "d) des camions-citernes",
+      "e) des chefs-lieux"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Écris au pluriel ces noms composés où seul le premier nom varie.",
+     "items": [
+      "a) un timbre-poste",
+      "b) une année-lumière",
+      "c) une pause-café",
+      "d) un stylo-bille"
+     ],
+     "corrige": [
+      "a) des timbres-poste",
+      "b) des années-lumière",
+      "c) des pauses-café",
+      "d) des stylos-bille"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Applique le test de la préposition, puis écris le pluriel.",
+     "items": [
+      "a) un timbre-poste : test → ……",
+      "b) un camion-citerne : test → ……",
+      "c) une pause-café : test → ……"
+     ],
+     "corrige": [
+      "a) timbre de poste → des timbres-poste",
+      "b) camion qui est une citerne → des camions-citernes",
+      "c) pause pour le café → des pauses-café"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Récris les phrases au pluriel.",
+     "items": [
+      "a) J’ai acheté un stylo-bille et un timbre-poste.",
+      "b) Le chef-lieu de la province est une grande ville.",
+      "c) Un oiseau-mouche butine le chou-fleur.",
+      "d) Cette année-lumière est une unité de distance."
+     ],
+     "corrige": [
+      "a) J’ai acheté des stylos-bille et des timbres-poste.",
+      "b) Les chefs-lieux des provinces sont de grandes villes.",
+      "c) Des oiseaux-mouches butinent les choux-fleurs.",
+      "d) Ces années-lumière sont des unités de distance."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **nom composé nom + nom** est formé de deux noms reliés par un trait d’union.",
+      "Si le second nom **caractérise** le premier (« X qui est aussi Y »), **les deux noms** prennent la marque du pluriel : des *choux-fleurs*, des *chefs-lieux*.",
+      "Si le second nom est un **complément** du premier (on peut ajouter *de, pour, à*), **seul le premier** varie : des *timbres-poste*, des *pauses-café*.",
+      "Dans un nom composé avec une **préposition**, seul le premier nom varie : des *arcs-en-ciel*.",
+      "En cas de doute, **vérifie dans le dictionnaire**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le pluriel nom + nom en un coup d’œil",
+     "head": [
+      "Cas",
+      "Pluriel",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Les deux noms s’accordent",
+       "nom₁ + s / nom₂ + s",
+       "*choux-fleurs, oiseaux-mouches*"
+      ],
+      [
+       "Le second est complément",
+       "nom₁ + s / nom₂ invariable",
+       "*timbres-poste, stylos-bille*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « une pause-café » ?",
+     "options": [
+      "des pauses-cafés",
+      "des pauses-café",
+      "des pause-cafés",
+      "des pause-café"
+     ],
+     "answer": 1,
+     "explain": "« Café » est complément (pause pour le café) : il reste invariable."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,590 @@
+{
+ "id": 128,
+ "meta": {
+  "t": "Le groupe verbal : verbe et adjectif qualificatif attribut du sujet",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le groupe verbal : verbe + adjectif attribut du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Awa **est contente** », le groupe verbal est formé du verbe **est** et de l’adjectif **contente**. Cet adjectif ne décrit pas une action : il dit **comment est Awa**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le verbe d’état",
+      "Repérer l’adjectif qualificatif attribut du sujet",
+      "Accorder l’attribut avec le sujet",
+      "Distinguer l’attribut de l’épithète et des autres compléments"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Groupe verbal avec un attribut du sujet",
+     "text": "Un groupe verbal peut être composé d’un **verbe d’état** suivi d’un **adjectif qualificatif**. Cet adjectif est alors **attribut du sujet**."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase décortiquée",
+     "cells": [
+      {
+       "mot": "Awa",
+       "role": "sujet"
+      },
+      {
+       "mot": "est",
+       "role": "verbe d’état (noyau)",
+       "noyau": true
+      },
+      {
+       "mot": "contente",
+       "role": "adjectif qualificatif attribut du sujet"
+      }
+     ],
+     "note": "Le groupe verbal est « est contente » : un verbe d’état suivi d’un adjectif attribut du sujet."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Le ciel **devient sombre**.\nLes enfants **semblent heureux**.\nCette soupe **est chaude**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le groupe verbal dans « Le ciel devient sombre » ?",
+     "options": [
+      "Le ciel",
+      "devient sombre",
+      "sombre",
+      "Le ciel devient"
+     ],
+     "answer": 1,
+     "explain": "Le groupe verbal est formé du verbe d’état « devient » et de l’adjectif « sombre »."
+    }
+   ]
+  },
+  {
+   "t": "Le verbe d’état",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour qu’un adjectif soit attribut du sujet, le verbe doit être un **verbe d’état**. C’est lui qui relie le sujet à sa qualité."
+    },
+    {
+     "type": "def",
+     "label": "Verbe d’état (verbe attributif)",
+     "text": "Un **verbe d’état** n’exprime pas une action : il relie le **sujet** à une **qualité** ou à un **état** qu’on lui attribue."
+    },
+    {
+     "type": "list",
+     "label": "Les principaux verbes d’état",
+     "items": [
+      "**être** : Awa est grande.",
+      "**paraître** et **sembler** : Le bébé paraît fatigué.",
+      "**devenir** : Kofi devient grand.",
+      "**rester** et **demeurer** : Mon père reste calme.",
+      "**avoir l’air** : Elles ont l’air contentes."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Trouver le verbe d’état",
+     "head": [
+      "Phrase",
+      "Verbe d’état",
+      "Attribut du sujet"
+     ],
+     "rows": [
+      [
+       "Le bébé paraît fatigué.",
+       "paraît",
+       "fatigué"
+      ],
+      [
+       "Mon père reste calme.",
+       "reste",
+       "calme"
+      ],
+      [
+       "Fatou devient grande.",
+       "devient",
+       "grande"
+      ],
+      [
+       "Elles ont l’air contentes.",
+       "ont l’air",
+       "contentes"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test du verbe être",
+     "lines": [
+      "Awa **semble** fatiguée. → Awa **est** fatiguée : la phrase garde son sens.",
+      "Kofi **devient** grand. → Kofi **est** grand : le sens reste proche.",
+      "Awa **mange** une mangue. → Awa **est** une mangue : le sens change, « manger » n’est pas un verbe d’état."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour reconnaître un verbe d’état, essaie de le remplacer par **être**. Si la phrase garde un sens proche, c’est un verbe d’état."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Tous les verbes ne relient pas le sujet à une qualité. *Manger*, *courir* et *chanter* sont des **verbes d’action** : ils n’ont pas d’attribut du sujet."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est un verbe d’état ?",
+     "options": [
+      "manger",
+      "courir",
+      "sembler",
+      "chanter"
+     ],
+     "answer": 2,
+     "explain": "« Sembler » relie le sujet à une qualité : Awa semble contente. Les autres expriment une action."
+    }
+   ]
+  },
+  {
+   "t": "L’adjectif qualificatif attribut du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Les élèves paraissent **attentifs** », l’adjectif **attentifs** apporte une qualité aux élèves, mais il est relié à eux par le verbe d’état."
+    },
+    {
+     "type": "def",
+     "label": "Attribut du sujet",
+     "text": "L’**attribut du sujet** est un mot ou un groupe de mots qui donne une **qualité** au sujet par l’intermédiaire d’un **verbe d’état**. Il peut être un **adjectif qualificatif**."
+    },
+    {
+     "type": "ex",
+     "label": "Pour le trouver",
+     "text": "Les élèves paraissent attentifs. → *Comment sont les élèves ?* → **attentifs**.\nLa route semble dangereuse. → *Comment est la route ?* → **dangereuse**."
+    },
+    {
+     "type": "test",
+     "title": "Supprimer et déplacer l’attribut",
+     "lines": [
+      "Awa semble **fatiguée**.",
+      "Suppression : Awa semble. → la phrase est incomplète.",
+      "Déplacement : Fatiguée, Awa semble. → la phrase n’est plus correcte."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "L’attribut est **indispensable** au groupe verbal : on ne peut ni le supprimer, ni le déplacer."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mes amis restent silencieux », quel mot est attribut du sujet ?",
+     "options": [
+      "Mes amis",
+      "restent",
+      "silencieux",
+      "Mes"
+     ],
+     "answer": 2,
+     "explain": "« Silencieux » répond à « comment sont mes amis ? » et suit le verbe d’état « restent »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un adjectif attribut du sujet ?",
+     "options": [
+      "Le chat noir dort.",
+      "Le chat semble fatigué.",
+      "Le chat dort sur le canapé.",
+      "Le chat mange une souris."
+     ],
+     "answer": 1,
+     "explain": "« Fatigué » est relié au sujet « le chat » par le verbe d’état « semble »."
+    }
+   ]
+  },
+  {
+   "t": "L’accord de l’attribut",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’adjectif attribut est étroitement lié au sujet : il prend son **genre** et son **nombre**."
+    },
+    {
+     "type": "def",
+     "label": "Accord de l’attribut",
+     "text": "L’adjectif qualificatif attribut du sujet **s’accorde en genre et en nombre avec le sujet**, même quand il en est éloigné."
+    },
+    {
+     "type": "table",
+     "title": "L’accord de l’attribut",
+     "head": [
+      "Sujet",
+      "Phrase",
+      "Marque d’accord"
+     ],
+     "rows": [
+      [
+       "Kofi (masculin singulier)",
+       "Kofi est **content**.",
+       "aucune"
+      ],
+      [
+       "Awa (féminin singulier)",
+       "Awa est **contente**.",
+       "-e"
+      ],
+      [
+       "Les garçons (masculin pluriel)",
+       "Les garçons sont **contents**.",
+       "-s"
+      ],
+      [
+       "Les filles (féminin pluriel)",
+       "Les filles sont **contentes**.",
+       "-es"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Bien repérer le sujet",
+     "text": "Les feuilles de l’arbre sont **jaunes**.\nL’adjectif s’accorde avec le sujet *feuilles* et non avec *arbre*."
+    },
+    {
+     "type": "warn",
+     "label": "Plusieurs sujets",
+     "text": "Quand le sujet est formé de **plusieurs noms** de genres différents, l’attribut se met au **masculin pluriel** : « Awa et Kofi sont **contents**. »"
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Repère d’abord le **sujet**, puis le verbe d’état, puis accorde l’adjectif avec le sujet, et non avec le mot placé juste avant."
+    },
+    {
+     "type": "quiz",
+     "question": "Choisis la bonne forme : « Les nuages semblent … »",
+     "options": [
+      "noir",
+      "noirs",
+      "noire",
+      "noires"
+     ],
+     "answer": 1,
+     "explain": "Le sujet « les nuages » est masculin pluriel : l’attribut s’écrit « noirs »."
+    },
+    {
+     "type": "quiz",
+     "question": "Choisis la bonne forme : « Fatou et Kofi sont … »",
+     "options": [
+      "content",
+      "contente",
+      "contents",
+      "contentes"
+     ],
+     "answer": 2,
+     "explain": "Le sujet est formé d’un nom féminin et d’un nom masculin : on accorde au masculin pluriel."
+    }
+   ]
+  },
+  {
+   "t": "Attribut ou épithète ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un même adjectif qualificatif peut avoir deux fonctions très différentes : **épithète** ou **attribut du sujet**."
+    },
+    {
+     "type": "def",
+     "label": "Épithète",
+     "text": "L’adjectif **épithète** est placé **directement à côté du nom**, dans le groupe nominal, sans verbe entre les deux. Il peut être supprimé."
+    },
+    {
+     "type": "table",
+     "title": "Épithète ou attribut ?",
+     "head": [
+      "Fonction",
+      "Place",
+      "Verbe d’état",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "épithète",
+       "dans le groupe nominal",
+       "non",
+       "Un chat **noir** dort."
+      ],
+      [
+       "attribut du sujet",
+       "après un verbe d’état",
+       "oui",
+       "Le chat est **noir**."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test de suppression",
+     "lines": [
+      "Un chat **noir** dort. → Un chat dort. : la phrase reste correcte, *noir* est **épithète**.",
+      "Le chat est **noir**. → Le chat est. : la phrase est incomplète, *noir* est **attribut**."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Le même adjectif peut changer de fonction : « Une eau **claire** » (épithète) et « L’eau est **claire** » (attribut du sujet)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les enfants fatigués dorment », « fatigués » est :",
+     "options": [
+      "attribut du sujet",
+      "épithète",
+      "verbe",
+      "sujet"
+     ],
+     "answer": 1,
+     "explain": "Il est placé juste après le nom, sans verbe d’état, et peut être supprimé : c’est une épithète."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les enfants semblent fatigués », « fatigués » est :",
+     "options": [
+      "attribut du sujet",
+      "épithète",
+      "complément d’objet",
+      "adverbe"
+     ],
+     "answer": 0,
+     "explain": "Il suit le verbe d’état « semblent » et ne peut pas être supprimé : c’est un attribut du sujet."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas confondre l’attribut avec les autres compléments",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après un verbe comme *rester* ou *être*, le mot qui suit n’est pas toujours un attribut. Pose la bonne question pour reconnaître sa fonction."
+    },
+    {
+     "type": "table",
+     "title": "Quelle est la fonction du mot ?",
+     "head": [
+      "Phrase",
+      "Mot ou groupe",
+      "Fonction"
+     ],
+     "rows": [
+      [
+       "Kofi reste **calme**.",
+       "adjectif",
+       "attribut du sujet (comment est Kofi ?)"
+      ],
+      [
+       "Kofi reste **à la maison**.",
+       "groupe nominal",
+       "CC de lieu (où ?)"
+      ],
+      [
+       "Kofi mange **une mangue**.",
+       "groupe nominal",
+       "complément d’objet direct"
+      ],
+      [
+       "Kofi mange **vite**.",
+       "adverbe",
+       "CC de manière (comment ?)"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Adjectif ou adverbe ?",
+     "text": "Un adjectif attribut **s’accorde** avec le sujet ; un adverbe est **invariable**. « Elles sont **fortes**. » (attribut) mais « Elles parlent **fort**. » (adverbe)."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Fais varier le sujet. Si le mot s’accorde (content, contente, contents), c’est un adjectif attribut."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Mon frère reste à la maison », « à la maison » est :",
+     "options": [
+      "attribut du sujet",
+      "complément d’objet",
+      "complément circonstanciel de lieu",
+      "épithète"
+     ],
+     "answer": 2,
+     "explain": "Il répond à la question « où ? » et peut être déplacé : c’est un CC de lieu."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à repérer l’attribut du sujet, à l’accorder et à ne pas le confondre avec d’autres fonctions."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le verbe d’état et l’adjectif attribut du sujet de chaque phrase.",
+     "items": [
+      "Awa semble inquiète.",
+      "Les élèves restent attentifs.",
+      "Cette route paraît dangereuse."
+     ],
+     "corrige": [
+      "1. verbe d’état : semble ; attribut : inquiète",
+      "2. verbe d’état : restent ; attribut : attentifs",
+      "3. verbe d’état : paraît ; attribut : dangereuse"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un verbe d’état suivi d’un adjectif attribut ?",
+     "options": [
+      "Il mange vite.",
+      "Elle paraît heureuse.",
+      "Nous lisons un livre.",
+      "Ils vont à l’école."
+     ],
+     "answer": 1,
+     "explain": "« Paraît » est un verbe d’état et « heureuse » est l’adjectif attribut du sujet."
+    },
+    {
+     "type": "h",
+     "text": "Accorder"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris l’adjectif entre parenthèses à la bonne forme.",
+     "items": [
+      "Les fleurs sont … (beau).",
+      "Fatou et sa sœur paraissent … (fatigué).",
+      "Cette mangue est … (mûr).",
+      "Mon cousin et ma cousine restent … (calme)."
+     ],
+     "corrige": [
+      "1. belles",
+      "2. fatiguées",
+      "3. mûre",
+      "4. calmes"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Distinguer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si l’adjectif en gras est épithète ou attribut du sujet.",
+     "items": [
+      "Ces élèves **sérieux** réussissent.",
+      "Les élèves deviennent **sérieux**.",
+      "Mes voisins semblent **aimables**."
+     ],
+     "corrige": [
+      "1. épithète (placé à côté du nom)",
+      "2. attribut du sujet (après le verbe d’état « deviennent »)",
+      "3. attribut du sujet (après le verbe d’état « semblent »)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Construire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase par un adjectif attribut du sujet bien accordé.",
+     "items": [
+      "Le soir, la mer devient …",
+      "Les enfants paraissent …",
+      "Ta sœur semble …"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. calme",
+      "2. joyeux",
+      "3. fatiguée"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **verbe d’état** (*être, paraître, sembler, devenir, rester, demeurer, avoir l’air*) relie le sujet à une qualité.",
+      "L’**adjectif qualificatif attribut du sujet** suit un verbe d’état et répond à la question « comment est le sujet ? ».",
+      "Il est **indispensable** : on ne peut ni le supprimer, ni le déplacer.",
+      "Il **s’accorde en genre et en nombre avec le sujet**.",
+      "L’**épithète** est placée à côté du nom, sans verbe d’état, et peut être supprimée.",
+      "Il ne faut pas confondre l’attribut avec un **complément d’objet**, un **complément circonstanciel** ou un **adverbe**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le groupe verbal avec attribut en un coup d’œil",
+     "head": [
+      "Élément",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "sujet",
+       "celui dont on parle",
+       "**Awa**"
+      ],
+      [
+       "verbe d’état",
+       "relie le sujet à sa qualité",
+       "**est**"
+      ],
+      [
+       "adjectif attribut",
+       "donne la qualité du sujet",
+       "**contente**"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Comment reconnaît-on un adjectif attribut du sujet ?",
+     "options": [
+      "Il suit un verbe d’état et s’accorde avec le sujet.",
+      "Il est toujours placé avant le nom.",
+      "Il ne s’accorde jamais.",
+      "Il suit n’importe quel verbe."
+     ],
+     "answer": 0,
+     "explain": "L’attribut du sujet se trouve après un verbe d’état et s’accorde en genre et en nombre avec le sujet."
+    }
+   ]
+  }
+ ]
+}

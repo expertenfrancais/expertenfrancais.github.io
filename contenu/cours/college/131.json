@@ -1,0 +1,709 @@
+{
+ "id": 131,
+ "meta": {
+  "t": "Le travail préliminaire",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : avant d’écrire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le professeur écrit au tableau : « Fais le portrait de ton meilleur ami. » Kofi prend sa plume et écrit aussitôt. Au bout de dix lignes, il s’arrête : il a déjà parlé de la taille, puis du caractère, puis encore de la taille, et il ne sait plus comment continuer. Awa, elle, a d’abord pris dix minutes pour réfléchir au brouillon. Son texte est clair et bien organisé. Ces dix minutes s’appellent le **travail préliminaire**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Savoir ce qu’est le travail préliminaire et pourquoi il est indispensable",
+      "Analyser un sujet : type de texte, mots importants, contraintes",
+      "Chercher des idées avec plusieurs techniques",
+      "Trier les idées et construire un plan détaillé",
+      "Utiliser le brouillon et gérer son temps"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le travail préliminaire",
+     "text": "Le **travail préliminaire** est la **préparation** de la rédaction. Il se fait **au brouillon**, **avant** d’écrire le texte. Il consiste à **analyser le sujet**, à **chercher des idées**, à les **trier** et à construire un **plan**."
+    },
+    {
+     "type": "quiz",
+     "question": "À quel moment fait-on le travail préliminaire ?",
+     "options": [
+      "Après avoir rédigé la conclusion",
+      "Avant de rédiger le texte",
+      "Pendant la relecture",
+      "Quand on recopie au propre"
+     ],
+     "answer": 1,
+     "explain": "Le travail préliminaire est la préparation : il précède la rédaction."
+    }
+   ]
+  },
+  {
+   "t": "Les étapes du travail préliminaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le travail préliminaire suit un ordre précis. Chaque étape prépare la suivante."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre étapes",
+     "head": [
+      "Étape",
+      "Question à se poser",
+      "Résultat au brouillon"
+     ],
+     "rows": [
+      [
+       "1. Analyser le sujet",
+       "Que me demande-t-on ?",
+       "le type de texte, les mots importants, les contraintes"
+      ],
+      [
+       "2. Chercher des idées",
+       "Que puis-je dire sur ce sujet ?",
+       "une liste d’idées en mots-clés"
+      ],
+      [
+       "3. Trier les idées",
+       "Quelles idées garder ? Dans quel ordre ?",
+       "des idées regroupées et ordonnées"
+      ],
+      [
+       "4. Faire le plan",
+       "Comment organiser mon texte ?",
+       "un plan : introduction, développement, conclusion"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Un ordre à respecter",
+     "text": "On n’écrit **pas** le plan avant d’avoir cherché des idées, et on ne cherche **pas** d’idées avant d’avoir compris le sujet. Si tu changes l’ordre, tu risques d’écrire un texte qui sort du sujet."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Garde toujours **un quart à un tiers** du temps de l’épreuve pour le travail préliminaire et la relecture. Un texte bien préparé s’écrit plus vite."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle étape vient en premier ?",
+     "options": [
+      "Faire le plan",
+      "Chercher des idées",
+      "Analyser le sujet",
+      "Trier les idées"
+     ],
+     "answer": 2,
+     "explain": "Il faut d’abord comprendre ce qu’on demande avant de chercher quoi dire."
+    }
+   ]
+  },
+  {
+   "t": "Analyser le sujet (1) : le type de texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le premier travail consiste à repérer **quel texte** on te demande d’écrire. Le verbe de la consigne te renseigne."
+    },
+    {
+     "type": "table",
+     "title": "Reconnaître le type de texte",
+     "head": [
+      "Si le sujet dit…",
+      "Le texte demandé est…",
+      "On attend…"
+     ],
+     "rows": [
+      [
+       "« Décris l’aspect de… », « Fais le portrait physique de… »",
+       "un portrait physique",
+       "la description du corps, du visage, des vêtements"
+      ],
+      [
+       "« Présente le caractère de… », « Fais le portrait moral de… »",
+       "un portrait moral",
+       "les qualités et les défauts, avec des preuves"
+      ],
+      [
+       "« Rédige un article sur… », « Informe les lecteurs… »",
+       "un article de journal",
+       "un événement raconté avec précision (qui, quoi, où, quand, pourquoi)"
+      ],
+      [
+       "« Écris une lettre à… »",
+       "une lettre privée",
+       "des nouvelles, des questions, des formules adaptées à la personne"
+      ],
+      [
+       "« Rédige la recette de… »",
+       "une recette de cuisine",
+       "la liste des ingrédients et les étapes dans l’ordre"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple",
+     "text": "Sujet : « Rédige un article de journal sur la rentrée scolaire dans ton quartier. »\n**Verbe de la consigne** : rédige. **Type de texte** : un article de journal. **Sujet** : la rentrée scolaire dans le quartier."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Souligne le **verbe** de la consigne et le **mot qui nomme le texte** (portrait, article, lettre, recette). Ce sont les deux indices les plus sûrs."
+    },
+    {
+     "type": "quiz",
+     "question": "« Écris une lettre à ton cousin pour lui raconter tes vacances. » Quel texte doit-on écrire ?",
+     "options": [
+      "Un portrait",
+      "Un article de journal",
+      "Une lettre privée",
+      "Une recette"
+     ],
+     "answer": 2,
+     "explain": "Le mot « lettre » et le destinataire (ton cousin) indiquent une lettre privée."
+    }
+   ]
+  },
+  {
+   "t": "Analyser le sujet (2) : mots importants et contraintes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après le type de texte, on relève les **mots importants** et les **contraintes**. Pose-toi des questions simples."
+    },
+    {
+     "type": "list",
+     "label": "Les questions de l’analyse",
+     "items": [
+      "**Qui ?** Qui parle ? De qui parle-t-on ? (je, mon ami, une personne du quartier…)",
+      "**Quoi ?** Que dois-je décrire ou raconter ?",
+      "**À qui ?** Quel est le destinataire ?",
+      "**Où ? Quand ?** Y a-t-il un lieu, un moment précis ?",
+      "**Combien ?** Quelle longueur ? (nombre de lignes, de paragraphes)"
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Analyse d’un sujet complet",
+     "text": "Sujet : « Écris une lettre à un ami pour lui présenter ta grand-mère. 15 lignes au minimum. »"
+    },
+    {
+     "type": "table",
+     "title": "Analyse du sujet ci-dessus",
+     "head": [
+      "Question",
+      "Réponse"
+     ],
+     "rows": [
+      [
+       "Type de texte",
+       "une lettre privée"
+      ],
+      [
+       "Qui parle ?",
+       "moi (je)"
+      ],
+      [
+       "De qui parle-t-on ?",
+       "ma grand-mère"
+      ],
+      [
+       "À qui ?",
+       "un ami"
+      ],
+      [
+       "Quoi ?",
+       "la présenter : son physique et son caractère"
+      ],
+      [
+       "Combien ?",
+       "15 lignes au minimum"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Beaucoup de textes sont **hors sujet** parce que l’élève a oublié un mot de la consigne. Relis le sujet **deux fois** avant de chercher des idées, et relis-le encore à la fin."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le destinataire dans « Écris une lettre à ton cousin pour lui raconter tes vacances » ?",
+     "options": [
+      "Moi",
+      "Les vacances",
+      "Mon cousin",
+      "Le professeur"
+     ],
+     "answer": 2,
+     "explain": "Le destinataire est la personne à qui on écrit : le cousin."
+    }
+   ]
+  },
+  {
+   "t": "Chercher des idées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une fois le sujet compris, il faut **trouver de quoi écrire**. Au brouillon, tu notes d’abord tout ce qui te vient à l’esprit, sans juger."
+    },
+    {
+     "type": "list",
+     "label": "Quatre techniques pour trouver des idées",
+     "items": [
+      "**Le remue-méninges** : noter en mots-clés tout ce qui vient à l’esprit sur le sujet.",
+      "**Les questions** : se poser des questions (Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?).",
+      "**Les cinq sens** : pour une description, penser à ce qu’on voit, entend, sent, touche, goûte.",
+      "**Les souvenirs** : se rappeler des scènes vécues qui illustrent le sujet."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Remue-méninges : « Le portrait de ma grand-mère »",
+     "text": "petite – cheveux blancs – tresses – pagne coloré – canne – rit souvent – prépare le repas – partage – raconte des histoires – patience – sent le savon de Marseille – voix douce"
+    },
+    {
+     "type": "warn",
+     "label": "Écris des mots, pas des phrases",
+     "text": "Au brouillon, note des **mots-clés** : tu gagnes du temps. Les phrases viendront à la rédaction."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Il vaut mieux trouver **trop d’idées** que pas assez : tu feras le tri ensuite. Pour un portrait, pense à **deux listes** : le physique d’un côté, le caractère de l’autre."
+    },
+    {
+     "type": "quiz",
+     "question": "Au brouillon, que note-t-on pour chercher des idées ?",
+     "options": [
+      "Des phrases complètes et soignées",
+      "Des mots-clés",
+      "La conclusion",
+      "Le texte au propre"
+     ],
+     "answer": 1,
+     "explain": "Les mots-clés sont rapides à noter ; on rédigera les phrases plus tard."
+    }
+   ]
+  },
+  {
+   "t": "Trier et organiser les idées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La liste d’idées est désordonnée. Il faut maintenant la **trier**."
+    },
+    {
+     "type": "test",
+     "title": "Trier en trois gestes",
+     "lines": [
+      "1. **Éliminer** les idées qui ne répondent pas au sujet (hors sujet) ou qui se répètent.",
+      "2. **Regrouper** les idées qui vont ensemble (physique / caractère).",
+      "3. **Ordonner** les groupes : quelle idée vient en premier, en deuxième… ?"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Exemple de tri : « Le portrait de ma grand-mère »",
+     "head": [
+      "Liste de départ",
+      "Après le tri"
+     ],
+     "rows": [
+      [
+       "petite, cheveux blancs, tresses, pagne coloré, canne",
+       "**Groupe 1 : le physique** (de la tête aux pieds)"
+      ],
+      [
+       "rit souvent, partage, raconte des histoires, patience",
+       "**Groupe 2 : le caractère** (qualités avec preuves)"
+      ],
+      [
+       "sent le savon, aime le marché",
+       "idées gardées si elles aident le portrait, sinon éliminées"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Une idée intéressante mais **sans rapport avec le sujet** doit être supprimée. Mieux vaut un texte centré sur le sujet qu’un texte riche mais hors sujet."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un portrait, quelles idées forment un même groupe ?",
+     "options": [
+      "les qualités et les défauts",
+      "la taille, le visage, les vêtements",
+      "la conclusion et la taille",
+      "l’introduction et la conclusion"
+     ],
+     "answer": 1,
+     "explain": "Ces idées décrivent l’apparence : elles forment le groupe du portrait physique."
+    }
+   ]
+  },
+  {
+   "t": "Faire le plan",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **plan** est la colonne vertébrale du texte. Il indique **ce que tu diras** et **dans quel ordre**."
+    },
+    {
+     "type": "def",
+     "label": "Le plan",
+     "text": "Le **plan** est l’organisation du texte en trois grandes parties : l’**introduction**, le **développement** (une idée par paragraphe) et la **conclusion**."
+    },
+    {
+     "type": "table",
+     "title": "Un plan type selon le texte",
+     "head": [
+      "Texte",
+      "Introduction",
+      "Développement",
+      "Conclusion"
+     ],
+     "rows": [
+      [
+       "portrait physique",
+       "présenter la personne",
+       "1. le visage ; 2. le corps ; 3. les vêtements",
+       "impression d’ensemble"
+      ],
+      [
+       "portrait moral",
+       "présenter la personne",
+       "1. une qualité + preuve ; 2. une deuxième qualité + preuve ; 3. un défaut éventuel",
+       "bilan du caractère"
+      ],
+      [
+       "article de journal",
+       "titre et chapeau : l’essentiel",
+       "1. les faits ; 2. les causes ; 3. les réactions",
+       "bilan ou suite possible"
+      ],
+      [
+       "lettre privée",
+       "formule d’appel, raison d’écrire",
+       "1. des nouvelles ; 2. des questions ; 3. une demande",
+       "formule finale"
+      ],
+      [
+       "recette de cuisine",
+       "présenter le plat",
+       "1. ingrédients ; 2. préparation étape par étape",
+       "conseil de service"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Plan détaillé : « Le portrait de ma grand-mère »",
+     "text": "**Introduction** : accroche (les vacances), présentation de Mama Julie, annonce du plan.\n**Développement 1** : son physique (petite, cheveux blancs, yeux noirs, pagne, canne).\n**Développement 2** : son caractère (généreuse : elle partage ; patiente : elle raconte des histoires).\n**Conclusion** : bilan et ce qu’elle représente pour moi."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Un bon plan est **détaillé** : sous chaque partie, note déjà les idées et les exemples que tu utiliseras."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelles sont les trois parties d’un plan de rédaction ?",
+     "options": [
+      "Début, milieu, fin sans titre",
+      "Introduction, développement, conclusion",
+      "Titre, texte, signature",
+      "Question, réponse, remerciement"
+     ],
+     "answer": 1,
+     "explain": "Toute rédaction se compose d’une introduction, d’un développement et d’une conclusion."
+    }
+   ]
+  },
+  {
+   "t": "Le brouillon et la gestion du temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le brouillon est ton espace de travail. Il doit rester **lisible** et **utile**."
+    },
+    {
+     "type": "list",
+     "label": "Bien utiliser le brouillon",
+     "items": [
+      "Écris le **sujet** et souligne le type de texte et les mots importants.",
+      "Garde de la **place** pour ajouter des idées.",
+      "Mets en forme ton **plan** clairement (titres des parties, numéros).",
+      "Ne recopie pas tout au propre : ne **rédige** au brouillon que l’introduction et la conclusion, si tu as le temps."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Répartir son temps (exemple pour 1 h)",
+     "head": [
+      "Étape",
+      "Temps conseillé"
+     ],
+     "rows": [
+      [
+       "Travail préliminaire",
+       "10 à 15 minutes"
+      ],
+      [
+       "Rédaction au propre",
+       "30 à 35 minutes"
+      ],
+      [
+       "Relecture",
+       "10 minutes"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne passe pas la moitié du temps à chercher des idées : fixe-toi une limite et passe au plan."
+    },
+    {
+     "type": "quiz",
+     "question": "Sur une heure d’épreuve, combien de temps environ consacre-t-on au travail préliminaire ?",
+     "options": [
+      "1 à 2 minutes",
+      "10 à 15 minutes",
+      "40 minutes",
+      "1 heure entière"
+     ],
+     "answer": 1,
+     "explain": "Un travail préliminaire de 10 à 15 minutes suffit à préparer un bon texte."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Écrire sans préparer",
+     "text": "Tu risques de te répéter, d’oublier des idées ou de mélanger les parties."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas lire le sujet jusqu’au bout",
+     "text": "Un mot oublié (comme « physique » ou « moral », « à un ami ») peut changer tout le sujet."
+    },
+    {
+     "type": "warn",
+     "label": "Faire une liste trop courte",
+     "text": "Avec deux idées seulement, ton texte sera trop court : cherche au moins **quatre ou cinq** idées."
+    },
+    {
+     "type": "warn",
+     "label": "Garder toutes les idées",
+     "text": "Une idée hors sujet affaiblit le texte. Apprends à **éliminer**."
+    },
+    {
+     "type": "warn",
+     "label": "Oublier le plan",
+     "text": "Sans plan, on ne sait plus où on en est. Écris au moins les titres des trois parties."
+    },
+    {
+     "type": "quiz",
+     "question": "Parmi ces conduites, laquelle est la bonne ?",
+     "options": [
+      "Écrire dès la lecture du sujet",
+      "Lire le sujet, chercher des idées, faire un plan",
+      "Faire seulement la conclusion",
+      "Garder toutes les idées, même hors sujet"
+     ],
+     "answer": 1,
+     "explain": "La bonne méthode est de lire le sujet, chercher des idées, puis faire un plan."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à chaque étape du travail préliminaire. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître le type de texte"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis quel texte on te demande d’écrire.",
+     "items": [
+      "« Décris l’aspect physique de ton voisin. »",
+      "« Rédige la recette du riz au poisson. »",
+      "« Écris à ton oncle pour le remercier de son cadeau. »",
+      "« Rédige un article sur la fête de ton école. »"
+     ],
+     "corrige": [
+      "1. un portrait physique",
+      "2. une recette de cuisine",
+      "3. une lettre privée",
+      "4. un article de journal"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Analyser un sujet"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse le sujet : « Écris une lettre à ton ami Kofi pour lui présenter ton professeur de français. 12 lignes minimum. »",
+     "items": [
+      "Quel est le type de texte ?",
+      "Qui écrit ? À qui ?",
+      "De qui parle-t-on ?",
+      "Quelle est la longueur demandée ?"
+     ],
+     "corrige": [
+      "1. une lettre privée",
+      "2. moi à mon ami Kofi",
+      "3. mon professeur de français",
+      "4. 12 lignes au minimum"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans le sujet précédent, quel mot indique le destinataire ?",
+     "options": [
+      "professeur",
+      "lettre",
+      "Kofi",
+      "français"
+     ],
+     "answer": 2,
+     "explain": "« Kofi » est la personne à qui on écrit."
+    },
+    {
+     "type": "h",
+     "text": "Chercher des idées"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour le sujet « Le portrait de ton meilleur ami », note au moins cinq idées en mots-clés : trois pour le physique et deux pour le caractère.",
+     "items": [
+      "Idées pour le physique",
+      "Idées pour le caractère"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. physique : grand, cheveux courts, sourire large",
+      "2. caractère : drôle, fidèle"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Trier"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Barre l’idée hors sujet dans la liste, puis range les autres en deux groupes (physique / caractère) pour « Le portrait de mon voisin » : grand ; moustache ; aime le football ; aimable ; serviable ; porte des lunettes.",
+     "items": [
+      "Quelle idée est hors sujet ?",
+      "Groupe physique",
+      "Groupe caractère"
+     ],
+     "corrige": [
+      "1. « aime le football » (c’est un goût, pas un trait du portrait)",
+      "2. physique : grand, moustache, lunettes",
+      "3. caractère : aimable, serviable"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Faire un plan"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le plan détaillé du sujet : « Le portrait de ton meilleur ami ».",
+     "items": [
+      "Introduction",
+      "Développement 1",
+      "Développement 2",
+      "Conclusion"
+     ],
+     "corrige": [
+      "Exemple de plan :",
+      "1. présenter mon ami et annoncer son physique et son caractère",
+      "2. son physique : grand, cheveux courts, grand sourire",
+      "3. son caractère : drôle, fidèle (avec un exemple)",
+      "4. ce que son amitié représente pour moi"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **travail préliminaire** est la préparation de la rédaction : il se fait **au brouillon**, **avant** d’écrire.",
+      "Il comporte quatre étapes : **analyser le sujet**, **chercher des idées**, **trier** les idées, **faire un plan**.",
+      "Pour analyser le sujet, on repère le **type de texte**, les **mots importants** et les **contraintes** (qui ? quoi ? à qui ? combien ?).",
+      "Pour chercher des idées, on peut faire un **remue-méninges**, se poser des **questions**, penser aux **cinq sens**, se rappeler des **souvenirs**.",
+      "Pour trier, on **élimine** le hors-sujet, on **regroupe** et on **ordonne**.",
+      "Le **plan** a trois parties : introduction, développement (une idée par paragraphe), conclusion.",
+      "Un texte bien préparé s’écrit **plus vite** et **mieux**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le travail préliminaire en un coup d’œil",
+     "head": [
+      "Étape",
+      "Je fais…"
+     ],
+     "rows": [
+      [
+       "analyser",
+       "je souligne le type de texte et les mots importants"
+      ],
+      [
+       "chercher",
+       "je note des mots-clés"
+      ],
+      [
+       "trier",
+       "j’élimine, je regroupe, j’ordonne"
+      ],
+      [
+       "planifier",
+       "j’écris introduction, développement, conclusion"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on quand on trie les idées ?",
+     "options": [
+      "On les recopie",
+      "On élimine, regroupe et ordonne",
+      "On les traduit",
+      "On les illustre"
+     ],
+     "answer": 1,
+     "explain": "Trier, c’est éliminer le hors-sujet, regrouper les idées qui vont ensemble et les ordonner."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "id": 137,
+ "meta": {
+  "t": "Les caractéristiques du texte descriptif : le portrait physique",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un portrait physique ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on dit « Mon grand-père est grand et mince, avec des cheveux blancs et des yeux malicieux », on fait le **portrait physique** de quelqu’un : on le décrit pour que le lecteur puisse **se l’imaginer**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir le portrait physique",
+      "Reconnaître les caractéristiques du texte descriptif dans un portrait",
+      "Utiliser le vocabulaire et les procédés du portrait",
+      "Rédiger un portrait physique organisé"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Le portrait physique",
+     "text": "Le **portrait physique** est un **texte descriptif** qui présente l’**apparence extérieure** d’une personne ou d’un personnage : sa taille, sa silhouette, son visage, ses vêtements, sa démarche, ses gestes."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Mama Nzuzi est une femme **petite et ronde**. Son visage **lisse** s’éclaire d’un **large sourire**. Elle porte un **pagne bleu** et marche d’un **pas lent**."
+    },
+    {
+     "type": "quiz",
+     "question": "Que décrit un portrait physique ?",
+     "options": [
+      "Le caractère d’une personne",
+      "L’apparence extérieure d’une personne",
+      "Les actions d’un personnage",
+      "Un paysage"
+     ],
+     "answer": 1,
+     "explain": "Le portrait physique décrit ce qui se voit : la taille, le visage, les vêtements, la démarche. Le caractère relève du portrait moral."
+    }
+   ]
+  },
+  {
+   "t": "Les caractéristiques du texte descriptif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un portrait physique est un texte descriptif. Il en possède donc toutes les caractéristiques : on les retrouve dans chaque portrait."
+    },
+    {
+     "type": "table",
+     "title": "Les caractéristiques du texte descriptif dans un portrait",
+     "head": [
+      "Caractéristique",
+      "Explication",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Un **objet décrit**",
+       "Ici, une personne ou un personnage",
+       "*Mon oncle Jean*"
+      ],
+      [
+       "Un **point de vue**",
+       "Celui de qui regarde : le narrateur, un personnage ou un observateur neutre",
+       "*Je le vois de loin…*"
+      ],
+      [
+       "Une **organisation**",
+       "On suit un ordre : du général au particulier, de haut en bas",
+       "*d’abord la silhouette, puis le visage*"
+      ],
+      [
+       "Des **verbes d’état**",
+       "*être, sembler, paraître, avoir l’air, rester*",
+       "*Il semble fatigué.*"
+      ],
+      [
+       "Un **temps** dominant",
+       "Le présent ou l’imparfait",
+       "*Elle portait une robe verte.*"
+      ],
+      [
+       "Des **adjectifs qualificatifs** et des **expansions du nom**",
+       "Ils apportent les détails",
+       "*des yeux **vifs et noirs***"
+      ],
+      [
+       "Des **comparaisons** et des **images**",
+       "Elles rendent la description vivante",
+       "*mince **comme** un roseau*"
+      ],
+      [
+       "Des **indicateurs de lieu**",
+       "Ils situent chaque détail sur le corps",
+       "*sur la tête, au milieu du visage*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour reconnaître un texte descriptif, cherche d’abord les **verbes d’état**, les **adjectifs** et les **mots qui situent** les détails. Les verbes d’action sont rares."
+    },
+    {
+     "type": "quiz",
+     "question": "Lequel de ces éléments est une caractéristique du texte descriptif ?",
+     "options": [
+      "Le passé simple dominant",
+      "Les verbes d’état et les adjectifs",
+      "Les dialogues",
+      "Le schéma narratif"
+     ],
+     "answer": 1,
+     "explain": "Le texte descriptif utilise surtout des verbes d’état et de nombreux adjectifs qualificatifs, avec le présent ou l’imparfait."
+    }
+   ]
+  },
+  {
+   "t": "L’organisation du portrait physique",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un bon portrait ne se fait pas au hasard : on suit un **ordre** que le lecteur peut suivre sans se perdre. On va **du général au particulier**, puis **de haut en bas**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**La présentation générale** : l’âge, la taille, la silhouette.",
+      "**Le visage** : les cheveux, le front, les yeux, le nez, la bouche, la peau.",
+      "**Le corps** : les épaules, les bras, les mains, les jambes.",
+      "**Les vêtements** et les objets que la personne porte.",
+      "**L’allure** : la démarche, les gestes, la voix.",
+      "**L’impression générale** : ce qui reste dans l’esprit du lecteur."
+     ],
+     "label": "Un plan possible",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "label": "Un exemple organisé",
+     "text": "Ma grand-mère est une vieille dame **de petite taille**, à la silhouette fine. **Son visage** ridé est encadré de cheveux blancs ; **ses yeux** brillent d’une lueur malicieuse. **Ses mains** fatiguées tiennent toujours un chapelet. **Elle porte** un pagne fleuri et marche à petits pas. **Elle dégage** une grande douceur."
+    },
+    {
+     "type": "warn",
+     "label": "Piège à éviter",
+     "text": "Ne passe pas du visage aux pieds, puis de nouveau au visage. **Un détail = un seul endroit** du portrait. Un portrait désordonné perd le lecteur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’ordre logique d’un portrait physique ?",
+     "options": [
+      "Du détail au général",
+      "Du général au particulier, de haut en bas",
+      "Dans le désordre",
+      "Des pieds à la tête, puis le visage"
+     ],
+     "answer": 1,
+     "explain": "On présente d’abord l’ensemble (âge, taille, silhouette), puis on descend vers les détails : visage, corps, vêtements."
+    }
+   ]
+  },
+  {
+   "t": "Le vocabulaire du portrait physique",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour décrire précisément, il faut des **mots justes**. Évite les mots vagues comme « beau », « joli » ou « grand » employés seuls."
+    },
+    {
+     "type": "table",
+     "title": "Quelques mots utiles",
+     "head": [
+      "Ce que l’on décrit",
+      "Mots et expressions"
+     ],
+     "rows": [
+      [
+       "La taille, la silhouette",
+       "*grand, élancé, trapu, mince, frêle, robuste, corpulent, voûté*"
+      ],
+      [
+       "Les cheveux",
+       "*crépus, tressés, bouclés, ras, grisonnants, soyeux, en bataille*"
+      ],
+      [
+       "Le visage",
+       "*ovale, rond, anguleux, ridé, lisse, joufflu, marqué, éclatant de sourire*"
+      ],
+      [
+       "Les yeux",
+       "*vifs, brillants, rieurs, perçants, cernés, en amande, enfoncés*"
+      ],
+      [
+       "La peau",
+       "*noire, brune, claire, mate, burinée par le soleil*"
+      ],
+      [
+       "La démarche",
+       "*lente, souple, assurée, hésitante, traînante, à grands pas*"
+      ],
+      [
+       "Les vêtements",
+       "*un boubou, un pagne, une chemise, un costume, une robe, des sandales*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Précise ton vocabulaire",
+     "text": "« Elle a de beaux yeux. » → « Elle a de **grands yeux noirs et brillants comme des perles**. »\n« C’est un grand homme. » → « C’est un homme **d’une taille imposante, aux épaules larges**. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est la plus précise ?",
+     "options": [
+      "Il est beau.",
+      "Il a un beau visage.",
+      "Il a un visage ovale, un front large et des yeux rieurs.",
+      "Il est bien."
+     ],
+     "answer": 2,
+     "explain": "La troisième phrase donne des détails exacts (forme du visage, front, yeux) ; les autres restent vagues."
+    }
+   ]
+  },
+  {
+   "t": "Les procédés d’écriture du portrait",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "1. L’expansion du nom"
+    },
+    {
+     "type": "p",
+     "text": "On enrichit un nom en lui ajoutant des **adjectifs**, des **compléments du nom** ou des **propositions relatives**."
+    },
+    {
+     "type": "ex",
+     "label": "De plus en plus précis",
+     "text": "Un vieillard.\nUn vieillard **maigre**.\nUn vieillard maigre, **au dos voûté**.\nUn vieillard maigre, au dos voûté, **qui s’appuyait sur une canne**."
+    },
+    {
+     "type": "h",
+     "text": "2. La comparaison et la métaphore"
+    },
+    {
+     "type": "def",
+     "label": "Les images",
+     "text": "La **comparaison** rapproche deux éléments avec un outil (*comme, tel, pareil à, semblable à*). La **métaphore** les rapproche **sans outil**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Comparaison : Ses doigts sont fins **comme** des brindilles.\nMétaphore : Ses yeux sont **deux braises**."
+    },
+    {
+     "type": "h",
+     "text": "3. Les temps et les verbes"
+    },
+    {
+     "type": "p",
+     "text": "On emploie le **présent** pour décrire une personne qu’on voit, et l’**imparfait** dans un récit au passé. Les **verbes d’état** (*être, sembler, paraître, avoir l’air*) dominent."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il **avait l’air** épuisé. Ses cheveux **étaient** gris et son regard **semblait** perdu."
+    },
+    {
+     "type": "quiz",
+     "question": "« Ses joues sont deux pommes mûres. » Quel procédé reconnaît-on ?",
+     "options": [
+      "Une comparaison",
+      "Une métaphore",
+      "Une énumération",
+      "Une question"
+     ],
+     "answer": 1,
+     "explain": "Il n’y a pas d’outil de comparaison (comme, tel…) : c’est une métaphore."
+    }
+   ]
+  },
+  {
+   "t": "Portrait objectif et portrait subjectif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Selon le **point de vue**, un même portrait peut être neutre ou chargé d’émotion."
+    },
+    {
+     "type": "table",
+     "title": "Deux types de portraits",
+     "head": [
+      "Critère",
+      "Portrait objectif",
+      "Portrait subjectif"
+     ],
+     "rows": [
+      [
+       "Le regard",
+       "Neutre, comme une photographie",
+       "Marqué par les impressions de celui qui regarde"
+      ],
+      [
+       "Le vocabulaire",
+       "Précis, factuel",
+       "Mots **mélioratifs** (valorisants) ou **péjoratifs** (dévalorisants)"
+      ],
+      [
+       "Les images",
+       "Rares",
+       "Nombreuses comparaisons et métaphores"
+      ],
+      [
+       "Exemple",
+       "*Il mesure 1,80 m. Il a les cheveux courts et noirs.*",
+       "*Il se dresse, **imposant** comme un baobab, le regard **terrible**.*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver le point de vue, cherche les **jugements** et les **sentiments** de celui qui décrit : s’il y en a, le portrait est subjectif."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel portrait trouve-t-on des mots comme « magnifique » ou « affreux » ?",
+     "options": [
+      "Le portrait objectif",
+      "Le portrait subjectif",
+      "Aucun des deux",
+      "Seulement dans un dialogue"
+     ],
+     "answer": 1,
+     "explain": "Ces mots expriment un jugement personnel : le portrait est subjectif."
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un portrait physique",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "**Choisis** la personne à décrire et ton point de vue.",
+      "**Note** ses traits : taille, visage, vêtements, allure.",
+      "**Organise** : du général au particulier, de haut en bas.",
+      "**Rédige** au présent ou à l’imparfait, avec des verbes d’état, des adjectifs et au moins une comparaison.",
+      "**Relis** : l’ordre est-il respecté ? Les mots sont-ils précis ? L’orthographe est-elle correcte ?"
+     ],
+     "label": "La méthode en 5 étapes",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "label": "Un portrait modèle",
+     "text": "Mon voisin, Papa Bienvenu, est un homme **de grande taille**, un peu voûté par l’âge. **Son visage** ridé est éclairé par des yeux vifs et rieurs ; **ses cheveux** crépus, presque blancs, sont coupés très court. **Il porte** toujours une chemise claire et un pantalon usé. **Il marche** lentement, appuyé sur sa canne. **Tout en lui** inspire le calme et la confiance."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Ne cherche pas à **tout** dire : choisis les détails les plus **marquants**. Quelques traits bien choisis valent mieux qu’une longue liste."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Dis si chaque phrase appartient à un portrait objectif ou subjectif.",
+     "items": [
+      "a) Elle mesure 1,60 m et a les cheveux tressés.",
+      "b) Son visage éclatant illumine la pièce comme un soleil.",
+      "c) Il porte une chemise blanche et un pantalon noir.",
+      "d) Quel regard affreux et glacé !"
+     ],
+     "corrige": [
+      "a) objectif",
+      "b) subjectif (jugement et comparaison)",
+      "c) objectif",
+      "d) subjectif (exclamation et mot péjoratif)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Enrichis chaque phrase avec un adjectif, un complément du nom ou une relative.",
+     "items": [
+      "a) Un enfant sourit.",
+      "b) Une femme avance.",
+      "c) Un homme attend."
+     ],
+     "corrige": [
+      "Réponses possibles : a) Un enfant joufflu, aux yeux rieurs, sourit. b) Une femme élancée, qui porte un pagne rouge, avance. c) Un homme voûté, à la barbe grise, attend."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Remets ces éléments dans l’ordre logique d’un portrait.",
+     "items": [
+      "a) Il porte un boubou bleu.",
+      "b) C’est un homme d’une cinquantaine d’années, de taille moyenne.",
+      "c) Son visage est carré, ses yeux sont perçants.",
+      "d) Il marche d’un pas assuré."
+     ],
+     "corrige": [
+      "Ordre : b, c, a, d (présentation générale → visage → vêtements → allure)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige un portrait physique de ta mère, d’un ami ou de ton enseignant (6 à 8 lignes). Utilise un plan, des verbes d’état, des adjectifs précis et une comparaison.",
+     "items": [
+      "Pense à : taille, visage, vêtements, allure, impression générale."
+     ],
+     "corrige": [
+      "Le portrait est correct s’il suit un ordre (général → détails), s’il emploie le présent ou l’imparfait, des adjectifs précis, au moins une comparaison, et s’il est exempt d’erreurs d’orthographe."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **portrait physique** est un texte descriptif qui présente l’**apparence extérieure** d’une personne.",
+      "Il suit un **ordre** : du général au particulier, de haut en bas.",
+      "Il emploie des **verbes d’état**, le **présent** ou l’**imparfait**, des **adjectifs** et des **expansions du nom**.",
+      "Il s’enrichit de **comparaisons** et de **métaphores**.",
+      "Il peut être **objectif** (neutre) ou **subjectif** (avec des jugements).",
+      "Il évite les **mots vagues** : il privilégie le vocabulaire précis."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le portrait physique en un coup d’œil",
+     "head": [
+      "Élément",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Plan",
+       "Organiser les détails",
+       "silhouette → visage → vêtements → allure"
+      ],
+      [
+       "Adjectifs et expansions",
+       "Préciser",
+       "*un homme maigre, au dos voûté*"
+      ],
+      [
+       "Comparaison",
+       "Rendre vivant",
+       "*mince comme un roseau*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne méthode pour rédiger un portrait physique ?",
+     "options": [
+      "Écrire sans plan",
+      "Choisir des traits, les organiser, puis rédiger et relire",
+      "Raconter une histoire",
+      "Donner uniquement le nom"
+     ],
+     "answer": 1,
+     "explain": "On choisit les traits marquants, on les organise du général au particulier, on rédige, puis on relit."
+    }
+   ]
+  }
+ ]
+}

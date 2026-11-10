@@ -1,0 +1,538 @@
+{
+ "id": 140,
+ "meta": {
+  "t": "Les valeurs du mode subjonctif",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le mode subjonctif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il faut que tu **viennes** demain. » Ici, le verbe *venir* est au **subjonctif** : l’action n’est pas encore faite, elle est souhaitée, nécessaire ou incertaine."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître le subjonctif",
+      "Former le subjonctif présent et passé",
+      "Distinguer ses principales valeurs",
+      "Choisir entre subjonctif et indicatif"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Le subjonctif",
+     "text": "Le **subjonctif** est un **mode personnel**. Il exprime une action **envisagée**, **souhaitée**, **voulue**, **doutée** ou **ressentie**, mais pas affirmée comme réelle. On le trouve surtout dans une **proposition subordonnée** introduite par **que**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Je veux **que tu viennes**.\nIl faut **que nous partions**.\nJe doute **qu’il réussisse**."
+    },
+    {
+     "type": "table",
+     "title": "Les temps du subjonctif",
+     "head": [
+      "Temps",
+      "Exemple",
+      "Emploi"
+     ],
+     "rows": [
+      [
+       "**Présent**",
+       "*que je chante*",
+       "courant"
+      ],
+      [
+       "**Passé**",
+       "*que j’aie chanté*",
+       "courant"
+      ],
+      [
+       "Imparfait",
+       "*que je chantasse*",
+       "littéraire (rare)"
+      ],
+      [
+       "Plus-que-parfait",
+       "*que j’eusse chanté*",
+       "littéraire (rare)"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le mode du verbe dans « Il faut que tu viennes » ?",
+     "options": [
+      "L’indicatif",
+      "Le subjonctif",
+      "L’impératif",
+      "L’infinitif"
+     ],
+     "answer": 1,
+     "explain": "« Il faut que » est suivi du subjonctif : « viennes » est au subjonctif présent."
+    }
+   ]
+  },
+  {
+   "t": "La formation du subjonctif présent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Règle** : on prend le radical de la **3e personne du pluriel** de l’indicatif présent (*ils chantent* → *chant-*), puis on ajoute les terminaisons **-e, -es, -e, -ions, -iez, -ent**."
+    },
+    {
+     "type": "table",
+     "title": "Trois verbes réguliers",
+     "head": [
+      "Personne",
+      "aimer",
+      "finir",
+      "prendre"
+     ],
+     "rows": [
+      [
+       "que je",
+       "aime",
+       "finisse",
+       "prenne"
+      ],
+      [
+       "que tu",
+       "aimes",
+       "finisses",
+       "prennes"
+      ],
+      [
+       "qu’il / elle",
+       "aime",
+       "finisse",
+       "prenne"
+      ],
+      [
+       "que nous",
+       "aimions",
+       "finissions",
+       "prenions"
+      ],
+      [
+       "que vous",
+       "aimiez",
+       "finissiez",
+       "preniez"
+      ],
+      [
+       "qu’ils / elles",
+       "aiment",
+       "finissent",
+       "prennent"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les verbes irréguliers",
+     "head": [
+      "Verbe",
+      "Subjonctif présent"
+     ],
+     "rows": [
+      [
+       "**être**",
+       "que je sois, tu sois, il soit, nous soyons, vous soyez, ils soient"
+      ],
+      [
+       "**avoir**",
+       "que j’aie, tu aies, il ait, nous ayons, vous ayez, ils aient"
+      ],
+      [
+       "**aller**",
+       "que j’aille, tu ailles, il aille, nous allions, vous alliez, ils aillent"
+      ],
+      [
+       "**faire**",
+       "que je fasse, tu fasses, il fasse, nous fassions, vous fassiez, ils fassent"
+      ],
+      [
+       "**pouvoir**",
+       "que je puisse, tu puisses, il puisse, nous puissions, vous puissiez, ils puissent"
+      ],
+      [
+       "**savoir**",
+       "que je sache, tu saches, il sache, nous sachions, vous sachiez, ils sachent"
+      ],
+      [
+       "**vouloir**",
+       "que je veuille, tu veuilles, il veuille, nous voulions, vous vouliez, ils veuillent"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Au subjonctif, les formes **nous** et **vous** sont souvent identiques à l’imparfait : *que nous aimions*, *que vous finissiez*. Ne les confonds pas : c’est le **que** qui trahit le subjonctif."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte ? « Il faut que tu … attentif. »",
+     "options": [
+      "es",
+      "sois",
+      "est",
+      "étais"
+     ],
+     "answer": 1,
+     "explain": "« Être » au subjonctif présent : que tu sois."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du subjonctif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le subjonctif n’a pas qu’un seul sens. Selon le **verbe** ou l’**expression** qui l’introduit, il prend différentes **valeurs**."
+    },
+    {
+     "type": "table",
+     "title": "Les principales valeurs",
+     "head": [
+      "Valeur",
+      "Introduit par",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Volonté, souhait**",
+       "*vouloir que, souhaiter que, désirer que, aimer que*",
+       "Je veux **que tu viennes**."
+      ],
+      [
+       "**Ordre, défense** (3e personne)",
+       "*que* seul, en proposition indépendante",
+       "**Qu’il entre** !"
+      ],
+      [
+       "**Souhait, vœu** (indépendante)",
+       "*que* seul",
+       "**Que la paix règne** sur le monde !"
+      ],
+      [
+       "**Nécessité, obligation**",
+       "*il faut que, il est nécessaire que, il importe que*",
+       "Il faut **que tu étudies**."
+      ],
+      [
+       "**Doute, incertitude**",
+       "*douter que, il est possible que, il se peut que, il n’est pas sûr que*",
+       "Je doute **qu’il vienne**."
+      ],
+      [
+       "**Sentiment** (joie, regret, crainte, surprise)",
+       "*être content que, regretter que, craindre que, s’étonner que*",
+       "Je suis content **que tu sois là**."
+      ],
+      [
+       "**But**",
+       "*pour que, afin que*",
+       "Il parle fort **pour que tout le monde l’entende**."
+      ],
+      [
+       "**Concession**",
+       "*bien que, quoique*",
+       "**Bien qu’il pleuve**, nous sortons."
+      ],
+      [
+       "**Condition, hypothèse**",
+       "*à condition que, pourvu que, à moins que*",
+       "Je viendrai **pourvu que tu m’invites**."
+      ],
+      [
+       "**Temps**",
+       "*avant que, jusqu’à ce que*",
+       "Attends **jusqu’à ce que je revienne**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la valeur du subjonctif dans « Que la paix règne ! » ?",
+     "options": [
+      "Le doute",
+      "Le souhait",
+      "La concession",
+      "Le but"
+     ],
+     "answer": 1,
+     "explain": "Cette phrase exprime un vœu : le subjonctif a une valeur de souhait."
+    }
+   ]
+  },
+  {
+   "t": "Subjonctif ou indicatif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mode du verbe de la subordonnée dépend du **sens** du verbe principal : **certitude** → indicatif ; **doute, souhait, sentiment** → subjonctif."
+    },
+    {
+     "type": "table",
+     "title": "Comparer les deux modes",
+     "head": [
+      "Indicatif (certitude)",
+      "Subjonctif (doute, souhait)"
+     ],
+     "rows": [
+      [
+       "Je **sais** qu’il **viendra**.",
+       "Je **veux** qu’il **vienne**."
+      ],
+      [
+       "Je **pense** qu’il **est** malade.",
+       "Je **ne pense pas** qu’il **soit** malade."
+      ],
+      [
+       "Il **est certain** qu’elle **a gagné**.",
+       "Il **est possible** qu’elle **ait gagné**."
+      ],
+      [
+       "Je **suis sûr** qu’il **réussit**.",
+       "Je **doute** qu’il **réussisse**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pièges à éviter",
+     "text": "**Penser que**, **croire que** et **espérer que** à la forme affirmative sont suivis de l’**indicatif** ; à la forme **négative** ou **interrogative**, on emploie souvent le **subjonctif**. Après **après que**, on emploie l’**indicatif** : *après qu’il **est parti***."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je ne crois pas qu’il vient.",
+      "Je ne crois pas qu’il vienne.",
+      "Je crois qu’il vienne.",
+      "Je crois qu’il vienne demain."
+     ],
+     "answer": 1,
+     "explain": "Après « ne pas croire que », on emploie le subjonctif : qu’il vienne."
+    }
+   ]
+  },
+  {
+   "t": "Le subjonctif passé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **subjonctif passé** exprime une action **déjà accomplie** par rapport à celle du verbe principal."
+    },
+    {
+     "type": "def",
+     "label": "Formation",
+     "text": "**Formation** : auxiliaire *avoir* ou *être* au **subjonctif présent** + **participe passé**."
+    },
+    {
+     "type": "table",
+     "title": "Exemples de conjugaison",
+     "head": [
+      "Personne",
+      "chanter (avoir)",
+      "venir (être)"
+     ],
+     "rows": [
+      [
+       "que je / j’",
+       "aie chanté",
+       "sois venu(e)"
+      ],
+      [
+       "que tu",
+       "aies chanté",
+       "sois venu(e)"
+      ],
+      [
+       "qu’il / elle",
+       "ait chanté",
+       "soit venu(e)"
+      ],
+      [
+       "que nous",
+       "ayons chanté",
+       "soyons venu(e)s"
+      ],
+      [
+       "que vous",
+       "ayez chanté",
+       "soyez venu(e)(s)"
+      ],
+      [
+       "qu’ils / elles",
+       "aient chanté",
+       "soient venu(e)s"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Je suis heureux **que tu aies réussi**.\nIl est possible **qu’elle soit déjà partie**.\n**Bien qu’il ait plu**, nous avons joué dehors."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour choisir entre présent et passé : si l’action de la subordonnée est **en même temps ou après**, on emploie le **présent** ; si elle est **avant**, on emploie le **passé**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte ? « Je regrette qu’il … déjà parti. »",
+     "options": [
+      "est",
+      "soit",
+      "ait",
+      "soit été"
+     ],
+     "answer": 1,
+     "explain": "« Partir » se conjugue avec être : qu’il soit parti (subjonctif passé)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Conjugue au subjonctif présent.",
+     "items": [
+      "a) Il faut que tu (finir) tes devoirs.",
+      "b) Je veux que vous (être) à l’heure.",
+      "c) Il est possible qu’elle (avoir) raison.",
+      "d) Bien qu’il (faire) froid, nous sortons.",
+      "e) Je souhaite que tu (prendre) ce livre."
+     ],
+     "corrige": [
+      "a) finisses",
+      "b) soyez",
+      "c) ait",
+      "d) fasse",
+      "e) prennes"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Indique la valeur du subjonctif.",
+     "items": [
+      "a) Je veux que tu viennes.",
+      "b) Je doute qu’il réussisse.",
+      "c) Je suis content que tu sois là.",
+      "d) Que la paix règne !",
+      "e) Il parle fort pour que tout le monde l’entende."
+     ],
+     "corrige": [
+      "a) volonté",
+      "b) doute",
+      "c) sentiment (joie)",
+      "d) souhait",
+      "e) but"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Indicatif ou subjonctif ? Choisis le bon mode.",
+     "items": [
+      "a) Je sais qu’il (viendra / vienne).",
+      "b) Je ne pense pas qu’il (est / soit) malade.",
+      "c) Je suis sûr qu’elle (a / ait) raison.",
+      "d) Il faut que nous (partons / partions)."
+     ],
+     "corrige": [
+      "a) viendra",
+      "b) soit",
+      "c) a",
+      "d) partions"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Conjugue au subjonctif passé.",
+     "items": [
+      "a) Je suis ravi que tu (réussir).",
+      "b) Il est possible qu’elle (partir).",
+      "c) Bien qu’ils (arriver) tard, ils sont accueillis."
+     ],
+     "corrige": [
+      "a) aies réussi",
+      "b) soit partie",
+      "c) soient arrivés"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **subjonctif** est un mode personnel qui exprime une action **souhaitée, voulue, nécessaire, doutée ou ressentie**.",
+      "Il s’emploie surtout dans une **subordonnée** introduite par **que** ou par une conjonction (*pour que, bien que, avant que…*).",
+      "**Formation du présent** : radical de *ils* + **-e, -es, -e, -ions, -iez, -ent**. Irréguliers : *être, avoir, aller, faire, pouvoir, savoir, vouloir*.",
+      "Ses **valeurs** : volonté, souhait, ordre, nécessité, doute, sentiment, but, concession, condition, temps.",
+      "**Certitude** → indicatif ; **doute, souhait, sentiment** → subjonctif.",
+      "**Subjonctif passé** : auxiliaire au subjonctif présent + participe passé."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du subjonctif en un coup d’œil",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Volonté",
+       "*Je veux que tu viennes.*"
+      ],
+      [
+       "Doute",
+       "*Je doute qu’il vienne.*"
+      ],
+      [
+       "Sentiment",
+       "*Je suis content que tu sois là.*"
+      ],
+      [
+       "But",
+       "*Parle pour que tous t’entendent.*"
+      ],
+      [
+       "Concession",
+       "*Bien qu’il pleuve, nous sortons.*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un subjonctif exprimant le doute ?",
+     "options": [
+      "Je sais qu’il viendra.",
+      "Je doute qu’il vienne.",
+      "Je veux qu’il vienne.",
+      "Il viendra demain."
+     ],
+     "answer": 1,
+     "explain": "« Je doute que » est suivi du subjonctif : « qu’il vienne » exprime l’incertitude."
+    }
+   ]
+  }
+ ]
+}

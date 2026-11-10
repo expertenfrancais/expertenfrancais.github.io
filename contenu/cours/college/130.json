@@ -1,0 +1,512 @@
+{
+ "id": 130,
+ "meta": {
+  "t": "La méthodologie de la rédaction",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Pourquoi suivre une méthode ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tu dois rédiger : « Fais le portrait de ta grand-mère. » Si tu écris tout de suite, tu risques d’oublier des idées et de mélanger les parties. Un texte réussi se **prépare**, puis s’**écrit** en parties bien distinctes."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les étapes d’une rédaction",
+      "Faire le travail préliminaire (analyser, chercher des idées, faire un plan)",
+      "Rédiger l’introduction, le développement et la conclusion",
+      "Relire son texte avant de le rendre"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Méthodologie de la rédaction",
+     "text": "La **méthodologie de la rédaction** est l’ensemble des **étapes** à suivre pour écrire un texte clair et organisé : on prépare d’abord, on rédige ensuite, on relit enfin."
+    },
+    {
+     "type": "table",
+     "title": "Les étapes d’une rédaction",
+     "head": [
+      "Étape",
+      "Ce que je fais"
+     ],
+     "rows": [
+      [
+       "1. Le travail préliminaire",
+       "j’analyse le sujet, je cherche des idées, je fais un plan"
+      ],
+      [
+       "2. L’introduction",
+       "je présente le sujet et j’annonce ce que je vais dire"
+      ],
+      [
+       "3. Le développement",
+       "j’expose mes idées, une idée par paragraphe"
+      ],
+      [
+       "4. La conclusion",
+       "je termine par un bilan"
+      ],
+      [
+       "5. La relecture",
+       "je corrige mes erreurs"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la première étape d’une rédaction ?",
+     "options": [
+      "Écrire la conclusion",
+      "Le travail préliminaire",
+      "La relecture",
+      "L’introduction"
+     ],
+     "answer": 1,
+     "explain": "Avant d’écrire, on analyse le sujet, on cherche des idées et on fait un plan : c’est le travail préliminaire."
+    }
+   ]
+  },
+  {
+   "t": "Le travail préliminaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **travail préliminaire** se fait au brouillon, **avant** de rédiger. Il comporte trois temps."
+    },
+    {
+     "type": "def",
+     "label": "Le travail préliminaire",
+     "text": "C’est la préparation de la rédaction : **analyser le sujet**, **chercher des idées** et **organiser** ces idées dans un **plan**."
+    },
+    {
+     "type": "list",
+     "label": "Les trois temps",
+     "items": [
+      "**Analyser le sujet** : relever les mots importants, repérer le type de texte demandé (portrait, article, lettre, recette…) et les contraintes (nombre de lignes, personnes concernées).",
+      "**Chercher des idées** : noter au brouillon tout ce qui vient à l’esprit sur le sujet.",
+      "**Faire un plan** : trier les idées et les ranger dans l’ordre : introduction, développement, conclusion."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple d’analyse",
+     "text": "Sujet : « Fais le portrait de ta grand-mère. »\n**Type de texte** : un portrait. **Personne** : ma grand-mère. **À décrire** : son physique et son caractère."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple de plan",
+     "text": "**Introduction** : présenter ma grand-mère.\n**Développement** : 1. son portrait physique ; 2. son portrait moral.\n**Conclusion** : dire ce qu’elle représente pour moi."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne rédige pas au propre avant d’avoir un plan. Sans plan, les idées se mélangent et le texte devient confus."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Souligne dans le sujet le **type de texte** et les **mots importants**. Ils te disent ce qu’on attend de toi."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel travail fait-on au brouillon avant de rédiger ?",
+     "options": [
+      "Analyser le sujet, chercher des idées, faire un plan",
+      "Recopier le texte au propre",
+      "Relire la conclusion",
+      "Compter les lignes"
+     ],
+     "answer": 0,
+     "explain": "Ces trois temps forment le travail préliminaire."
+    }
+   ]
+  },
+  {
+   "t": "La rédaction de l’introduction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**introduction** est le début du texte. C’est elle qui donne envie de lire la suite."
+    },
+    {
+     "type": "def",
+     "label": "L’introduction",
+     "text": "L’**introduction** est la **première partie** de la rédaction. Elle **présente le sujet** et **annonce** ce que le texte va traiter."
+    },
+    {
+     "type": "list",
+     "label": "Ce que contient une introduction",
+     "items": [
+      "une **phrase d’accroche** qui attire le lecteur",
+      "la **présentation du sujet** : de qui ou de quoi on parle",
+      "l’**annonce du plan** : ce qu’on va dire ensuite"
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple d’introduction",
+     "text": "Chaque année, j’attends les vacances avec impatience pour retrouver ma grand-mère, Mama Julie. Je vais la présenter : d’abord son apparence, ensuite son caractère."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Une bonne introduction est **courte** (deux ou trois phrases) et ne raconte pas déjà tout le texte."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne commence pas par « Dans mon texte, je vais parler de… ». Entre directement dans le sujet par une accroche."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase annonce le plan dans une introduction ?",
+     "options": [
+      "Je vais d’abord décrire son visage, puis son caractère.",
+      "Elle a les yeux noirs.",
+      "En somme, elle est généreuse.",
+      "Chaque matin, elle prépare le repas."
+     ],
+     "answer": 0,
+     "explain": "Cette phrase dit à l’avance ce que le texte va traiter : c’est l’annonce du plan."
+    }
+   ]
+  },
+  {
+   "t": "La rédaction du développement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **développement** est le cœur de la rédaction : c’est là que tu exposes tes idées."
+    },
+    {
+     "type": "def",
+     "label": "Le développement",
+     "text": "Le **développement** est la **partie centrale** de la rédaction. Il expose les **idées** du plan, en **paragraphes**."
+    },
+    {
+     "type": "list",
+     "label": "Les règles du développement",
+     "items": [
+      "**Un paragraphe = une idée.**",
+      "On passe à la ligne et on commence par un **alinéa** à chaque nouveau paragraphe.",
+      "On relie les paragraphes par des **connecteurs** : *d’abord, ensuite, de plus, enfin, par ailleurs*.",
+      "On **précise** chaque idée par des détails ou des exemples."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple de développement",
+     "text": "**Premier paragraphe** : Mama Julie est une petite femme aux cheveux blancs, coiffés en fines tresses. Son visage rond est éclairé par des yeux noirs pétillants.\n**Second paragraphe** : Au-delà de son apparence, ma grand-mère est généreuse. Elle partage toujours son repas avec ses voisins."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Relis ton plan : chaque idée du plan doit devenir **un paragraphe** dans le développement."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne mélange pas deux idées dans un même paragraphe, et n’oublie pas les connecteurs : sans eux, le texte est une suite de phrases sans lien."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans le développement, combien d’idées traite-t-on dans un paragraphe ?",
+     "options": [
+      "Une seule",
+      "Deux",
+      "Toutes",
+      "Aucune"
+     ],
+     "answer": 0,
+     "explain": "La règle est : un paragraphe, une idée."
+    }
+   ]
+  },
+  {
+   "t": "La rédaction de la conclusion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **conclusion** termine le texte. Elle laisse au lecteur une dernière impression."
+    },
+    {
+     "type": "def",
+     "label": "La conclusion",
+     "text": "La **conclusion** est la **dernière partie** de la rédaction. Elle fait le **bilan** de ce qui a été dit et peut ajouter une **ouverture** : un sentiment, un souhait, un message."
+    },
+    {
+     "type": "list",
+     "label": "Ce que contient une conclusion",
+     "items": [
+      "un **bilan** : on rappelle l’essentiel en une ou deux phrases",
+      "une **ouverture** : ce que je ressens, ce que j’ai appris, ce que je souhaite"
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple de conclusion",
+     "text": "En somme, Mama Julie est une grand-mère douce et généreuse. Grâce à elle, j’ai compris l’importance de partager."
+    },
+    {
+     "type": "tip",
+     "label": "Pour introduire la conclusion",
+     "text": "Utilise des mots comme **en somme**, **en conclusion**, **pour finir**, **finalement**."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne commence pas une **nouvelle idée** dans la conclusion. Elle sert à terminer, non à ajouter une partie."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase peut commencer une conclusion ?",
+     "options": [
+      "Tout d’abord, elle est petite.",
+      "En somme, c’est une grand-mère généreuse.",
+      "Je vais présenter ma grand-mère.",
+      "De plus, elle porte un pagne."
+     ],
+     "answer": 1,
+     "explain": "« En somme » annonce le bilan : c’est un mot de conclusion."
+    }
+   ]
+  },
+  {
+   "t": "Un exemple complet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un texte complet qui suit la méthode, pour le sujet : « Fais le portrait de ta grand-mère. »"
+    },
+    {
+     "type": "ex",
+     "label": "Introduction",
+     "text": "Chaque année, j’attends les vacances avec impatience pour retrouver ma grand-mère, Mama Julie. Je vais la présenter : d’abord son apparence, ensuite son caractère."
+    },
+    {
+     "type": "ex",
+     "label": "Développement",
+     "text": "Mama Julie est une petite femme aux cheveux blancs, coiffés en fines tresses. Son visage rond est éclairé par des yeux noirs pétillants. Elle porte un pagne coloré et marche lentement, appuyée sur sa canne.\nAu-delà de son apparence, ma grand-mère est généreuse et patiente. Elle partage toujours son repas avec ses voisins. De plus, elle raconte de belles histoires aux enfants du quartier."
+    },
+    {
+     "type": "ex",
+     "label": "Conclusion",
+     "text": "En somme, Mama Julie est une grand-mère douce et généreuse. Grâce à elle, j’ai compris l’importance de partager."
+    },
+    {
+     "type": "table",
+     "title": "Le texte et le plan",
+     "head": [
+      "Partie",
+      "Rôle",
+      "Début de la partie"
+     ],
+     "rows": [
+      [
+       "introduction",
+       "présenter et annoncer",
+       "Chaque année, j’attends…"
+      ],
+      [
+       "développement, 1er paragraphe",
+       "portrait physique",
+       "Mama Julie est une petite femme…"
+      ],
+      [
+       "développement, 2e paragraphe",
+       "portrait moral",
+       "Au-delà de son apparence…"
+      ],
+      [
+       "conclusion",
+       "bilan et ouverture",
+       "En somme, Mama Julie…"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans le texte, le second paragraphe du développement présente :",
+     "options": [
+      "le portrait physique",
+      "le portrait moral",
+      "la conclusion",
+      "l’introduction"
+     ],
+     "answer": 1,
+     "explain": "Il parle de la générosité et de la patience de la grand-mère : c’est son portrait moral."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à suivre les étapes de la méthode."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si chaque phrase appartient à l’introduction, au développement ou à la conclusion.",
+     "items": [
+      "Je vais d’abord décrire son visage, puis son caractère.",
+      "Tout d’abord, Fatou a de grands yeux noirs.",
+      "En somme, c’est une amie fidèle.",
+      "Chaque matin, je croise une fille que j’admire.",
+      "Pour finir, je dirai que son courage m’inspire."
+     ],
+     "corrige": [
+      "1. introduction (annonce du plan)",
+      "2. développement",
+      "3. conclusion",
+      "4. introduction (accroche)",
+      "5. conclusion"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot peut relier deux paragraphes du développement ?",
+     "options": [
+      "En somme",
+      "De plus",
+      "Pour finir",
+      "Je vais présenter"
+     ],
+     "answer": 1,
+     "explain": "« De plus » ajoute une idée : c’est un connecteur du développement."
+    },
+    {
+     "type": "h",
+     "text": "Ordonner"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets les étapes de la rédaction dans l’ordre.",
+     "items": [
+      "Rédiger au propre",
+      "Chercher des idées",
+      "Relire",
+      "Lire et analyser le sujet",
+      "Faire un plan"
+     ],
+     "corrige": [
+      "1. Lire et analyser le sujet",
+      "2. Chercher des idées",
+      "3. Faire un plan",
+      "4. Rédiger au propre",
+      "5. Relire"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Planifier"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète le plan pour le sujet : « Fais le portrait de ton meilleur ami. »",
+     "items": [
+      "Introduction : …",
+      "Développement, idée 1 : …",
+      "Développement, idée 2 : …",
+      "Conclusion : …"
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. présenter mon ami et annoncer son physique et son caractère",
+      "2. son portrait physique (taille, visage, vêtements)",
+      "3. son portrait moral (qualités, défauts)",
+      "4. dire ce que son amitié représente pour moi"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige une courte introduction pour le sujet : « Fais le portrait de ton meilleur ami. »",
+     "items": [
+      "Une phrase d’accroche",
+      "La présentation du sujet",
+      "L’annonce du plan"
+     ],
+     "corrige": [
+      "Exemple de réponse :",
+      "Quand j’ai besoin d’un conseil, je pense tout de suite à mon meilleur ami, Kofi. Je vais le présenter : d’abord son aspect, ensuite son caractère."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "On **prépare** avant d’écrire : analyser le sujet, chercher des idées, faire un plan (**travail préliminaire**).",
+      "L’**introduction** présente le sujet et annonce le plan ; elle est courte.",
+      "Le **développement** expose les idées : **un paragraphe, une idée**, reliés par des **connecteurs**.",
+      "La **conclusion** fait le **bilan** et peut ouvrir sur un sentiment ou un message ; elle n’ajoute pas de nouvelle idée.",
+      "On **relit** toujours son texte avant de le rendre."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La méthode en un coup d’œil",
+     "head": [
+      "Étape",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "travail préliminaire",
+       "préparer : analyser, chercher, planifier"
+      ],
+      [
+       "introduction",
+       "présenter et annoncer"
+      ],
+      [
+       "développement",
+       "exposer les idées en paragraphes"
+      ],
+      [
+       "conclusion",
+       "faire le bilan"
+      ],
+      [
+       "relecture",
+       "corriger"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel ordre se rédige un texte ?",
+     "options": [
+      "Introduction, développement, conclusion",
+      "Conclusion, développement, introduction",
+      "Développement, introduction, conclusion",
+      "Plan, conclusion, introduction"
+     ],
+     "answer": 0,
+     "explain": "Après le travail préliminaire, on rédige l’introduction, puis le développement, puis la conclusion."
+    }
+   ]
+  }
+ ]
+}

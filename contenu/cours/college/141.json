@@ -1,0 +1,1009 @@
+{
+ "id": 141,
+ "meta": {
+  "t": "L’identification des indices de sens d’un texte",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Lire pour comprendre : le texte support",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lire un texte, ce n’est pas seulement le lire à haute voix : c’est **chercher et interpréter des indices** qui en révèlent le sens. Dans ce cours, tu vas travailler sur **un seul texte**, un conte africain intitulé **« L’herboriste »**, extrait de *Contes de la savane* (Suzanne Lafage, C.I.L.F./Edicef)."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Observer les supports qui accompagnent un texte",
+      "Relever les indices textuels",
+      "Identifier le thème, le contexte et le type de texte",
+      "Dégager les idées, les personnages et les événements",
+      "Reconstituer l’enchaînement des faits",
+      "Reformuler le texte et en retrouver le message"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "h",
+     "text": "Le texte en quelques lignes"
+    },
+    {
+     "type": "p",
+     "text": "Dans un village, un **piroguier** se fait passer pour un **herboriste**, un guérisseur, et connaît un grand succès. Les **médecins**, privés d’une partie de leur clientèle, le **dénoncent au roi**. Le roi organise alors une **épreuve** : soigner des malades enfermés dans une case. Les médecins échouent. L’herboriste annonce aux malades que ceux qui ne seront pas guéris resteront dans la case, qu’il **brûlera** en partant. Pris de peur, **tous les malades se déclarent guéris**. Le roi, émerveillé, nomme l’ancien piroguier **« Grand Guérisseur du Royaume »** et chasse les médecins."
+    },
+    {
+     "type": "tip",
+     "label": "Avant de commencer",
+     "text": "Relis le texte **deux fois** : d’abord en silence pour comprendre l’ensemble, puis à voix haute en respectant la ponctuation. Note les **mots difficiles** (*herboriste, fléau, fiel, invariable…*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait-on pendant la première lecture ?",
+     "options": [
+      "On cherche le sens général du texte",
+      "On apprend le texte par cœur",
+      "On corrige l’orthographe",
+      "On cherche le titre"
+     ],
+     "answer": 0,
+     "explain": "La première lecture sert à saisir le sens général ; les indices précis se cherchent ensuite, à la relecture."
+    }
+   ]
+  },
+  {
+   "t": "Les supports iconographiques",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "Un **support iconographique** est une **image**, une photographie, un dessin, une affiche, un schéma ou toute représentation visuelle qui accompagne un texte."
+    },
+    {
+     "type": "p",
+     "text": "**Observe avant de lire.** Les questions à te poser :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Que représente l’image ?",
+      "Quels personnages ou quels objets vois-tu ?",
+      "Où la scène semble-t-elle se passer ?",
+      "Quel rapport peut-on faire entre l’image et le texte ?"
+     ],
+     "label": "Questions d’observation"
+    },
+    {
+     "type": "h",
+     "text": "Application au texte « L’herboriste »"
+    },
+    {
+     "type": "p",
+     "text": "La page du livre ne montre pas d’illustration du conte : on y trouve seulement un petit **dessin-logo** de la rubrique, un **grand titre** (*De l’image à l’expression*), le **titre du conte**, une **phrase d’introduction en italique** et une **consigne** (« Fabrique une bande dessinée »). Ces éléments donnent déjà des indices : on s’attend à un **récit** qu’on pourra **transformer en images**."
+    },
+    {
+     "type": "table",
+     "title": "Ce que la présentation de la page nous apprend",
+     "head": [
+      "Élément observé",
+      "Indice qu’il donne"
+     ],
+     "rows": [
+      [
+       "Le titre **« L’herboriste »**",
+       "Le sujet tourne autour d’un personnage qui soigne avec des plantes"
+      ],
+      [
+       "La phrase en **italique** sous le titre",
+       "Elle résume la situation de départ : un piroguier se fait passer pour guérisseur et suscite la jalousie"
+      ],
+      [
+       "La **source** en fin de texte",
+       "C’est un **conte** recueilli en Afrique (savane)"
+      ],
+      [
+       "La **consigne** (bande dessinée)",
+       "Le texte est un récit organisé en étapes qu’on peut dessiner"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "L’image **aide** à comprendre le texte, mais elle **ne remplace pas** ce que dit le texte. Vérifie toujours tes hypothèses par la lecture."
+    },
+    {
+     "type": "quiz",
+     "question": "À quoi sert d’observer le titre et la phrase d’introduction avant la lecture ?",
+     "options": [
+      "À faire des hypothèses sur le contenu",
+      "À remplacer la lecture",
+      "À recopier le texte",
+      "À trouver le message final"
+     ],
+     "answer": 0,
+     "explain": "Ces éléments permettent d’imaginer de quoi parle le texte, avant de vérifier par la lecture."
+    }
+   ]
+  },
+  {
+   "t": "Les indices textuels",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "Un **indice textuel** est un élément du texte qui t’aide à comprendre une information, une situation ou le message de l’auteur : un mot, une expression, un pronom, un temps verbal, un connecteur, un signe de ponctuation."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux indices, avec des exemples tirés du conte",
+     "head": [
+      "Type d’indice",
+      "Ce qu’il révèle",
+      "Exemples dans « L’herboriste »"
+     ],
+     "rows": [
+      [
+       "**Lexicaux**",
+       "Le sujet, l’ambiance",
+       "*jalousie, plainte, empoisonner, cruelle maladie, fléau, fiel*"
+      ],
+      [
+       "**Temporels**",
+       "Le moment, la succession",
+       "*à tour de rôle, l’un après l’autre, aussitôt, en dernier lieu*"
+      ],
+      [
+       "**Spatiaux**",
+       "Le lieu",
+       "*dans un village, la case à l’écart, là-bas, le royaume*"
+      ],
+      [
+       "**Grammaticaux**",
+       "Qui fait quoi (pronoms, temps)",
+       "*Ils, Celui-ci, lui* ; présent de narration : *le roi fait appeler*"
+      ],
+      [
+       "**Connecteurs**",
+       "Le lien entre les faits",
+       "*Alors, Ainsi, C’est pourquoi, donc*"
+      ],
+      [
+       "**Ponctuation**",
+       "Les paroles et les émotions",
+       "*guillemets (« »), points d’exclamation (« Oh ! comme je me sens mieux ! »)*"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Attention aux pronoms !"
+    },
+    {
+     "type": "p",
+     "text": "Dans le texte, **« celui-ci »** apparaît deux fois, mais **ne désigne pas la même personne** : la première fois, il remplace l’**ex-piroguier** (« Celui-ci entre dans la case ») ; la seconde, il remplace le **malade** (« celui-ci, dans son désir de ne pas périr brûlé vif, se hâte de déclarer »). C’est le **contexte** qui permet de choisir."
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Activité** : Relève dans le texte :",
+     "items": [
+      "a) trois mots qui montrent le **sentiment des médecins** ;",
+      "b) deux expressions qui indiquent **l’ordre des actions** ;",
+      "c) un signe de ponctuation qui indique des **paroles rapportées**."
+     ],
+     "corrige": [
+      "a) jalousie ; stupéfaits ; fiel (aussi : ne sont pas très satisfaits)",
+      "b) l’un après l’autre ; à tour de rôle ; en dernier lieu ; alors ; aussitôt",
+      "c) les guillemets « »"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Alors arrive le tour de l’ex-piroguier », « Alors » est un indice…",
+     "options": [
+      "De lieu",
+      "Chronologique (suite des événements)",
+      "De sentiment",
+      "De ponctuation"
+     ],
+     "answer": 1,
+     "explain": "« Alors » est un connecteur qui marque la suite des événements : après l’échec des médecins, vient le tour de l’herboriste."
+    }
+   ]
+  },
+  {
+   "t": "Le thème",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "Le **thème** est le **sujet général** du texte. Il répond à la question : **de quoi parle le texte ?**"
+    },
+    {
+     "type": "list",
+     "items": [
+      "De quoi parle principalement le texte ?",
+      "Quel sujet revient dans les différents paragraphes ?",
+      "Quelle est la préoccupation principale de l’auteur ?"
+     ],
+     "label": "Questions à te poser"
+    },
+    {
+     "type": "h",
+     "text": "Application au texte « L’herboriste »"
+    },
+    {
+     "type": "p",
+     "text": "Les mots **jalousie, plainte, maladie, guérir, peur** reviennent dans tout le texte. Le texte parle d’un **faux guérisseur** qui triomphe de médecins **jaloux**, grâce à la **peur** qu’il inspire aux malades."
+    },
+    {
+     "type": "ex",
+     "label": "Réponse possible",
+     "text": "**Thème** : la ruse d’un faux guérisseur et la jalousie des médecins.\n*(On peut aussi formuler : le pouvoir de la peur et de la ruse.)*"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Le thème n’est **pas forcément le titre** du texte : il faut le **déduire du contenu**. Ici, le titre « L’herboriste » désigne seulement le personnage."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Formule le thème en **quelques mots** ou en une courte expression, jamais en une longue phrase."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le meilleur thème du conte ?",
+     "options": [
+      "Les plantes médicinales",
+      "La ruse d’un faux guérisseur face à des médecins jaloux",
+      "Le métier de piroguier",
+      "Le voyage du roi"
+     ],
+     "answer": 1,
+     "explain": "Le texte ne s’intéresse pas aux plantes, mais à la ruse du guérisseur et à la jalousie des médecins."
+    }
+   ]
+  },
+  {
+   "t": "Le contexte",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "Le **contexte** désigne les **circonstances** dans lesquelles se déroule une situation : le **lieu**, le **temps**, les circonstances **sociales**, **historiques** ou **culturelles**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Où se déroule l’action ?",
+      "Quand se déroule-t-elle ?",
+      "Dans quelles circonstances les faits se produisent-ils ?",
+      "Quelle situation sociale ou culturelle le texte présente-t-il ?"
+     ],
+     "label": "Questions à te poser"
+    },
+    {
+     "type": "table",
+     "title": "Le contexte du conte « L’herboriste »",
+     "head": [
+      "Question",
+      "Réponse",
+      "Indice dans le texte"
+     ],
+     "rows": [
+      [
+       "**Où ?**",
+       "Dans un village, dans un royaume africain",
+       "*dans un village ; le roi ; la savane (source)*"
+      ],
+      [
+       "**Quand ?**",
+       "À une époque non précisée (temps du conte)",
+       "aucune date : récit intemporel"
+      ],
+      [
+       "**Dans quelles circonstances ?**",
+       "Une querelle entre médecins et guérisseur, tranchée par le roi",
+       "*plainte auprès du roi ; épreuve de la case*"
+      ],
+      [
+       "**Quel cadre social ?**",
+       "Une société où le roi juge les conflits et où médecins et guérisseurs se concurrencent",
+       "*le roi fait appeler ; Grand Guérisseur de mon Royaume*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel indice montre que l’action se passe dans une société organisée autour d’un roi ?",
+     "options": [
+      "Le mot « piroguier »",
+      "Le roi convoque, juge et nomme",
+      "Le mot « case »",
+      "Le mot « plainte »"
+     ],
+     "answer": 1,
+     "explain": "C’est le roi qui reçoit la plainte, organise l’épreuve et donne le titre : il détient l’autorité."
+    }
+   ]
+  },
+  {
+   "t": "Le type de texte",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "Le **type de texte** correspond à la façon dont un texte est organisé selon son **but** et son **contenu**."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux types",
+     "head": [
+      "Type",
+      "Il sert à…",
+      "Question à se poser"
+     ],
+     "rows": [
+      [
+       "**Narratif**",
+       "raconter des événements",
+       "Le texte raconte-t-il une histoire ?"
+      ],
+      [
+       "**Descriptif**",
+       "présenter les caractéristiques d’une personne, d’un lieu, d’un objet",
+       "Présente-t-il des caractéristiques ?"
+      ],
+      [
+       "**Argumentatif**",
+       "défendre une opinion avec des arguments",
+       "Défend-il une opinion ?"
+      ],
+      [
+       "**Explicatif**",
+       "faire comprendre un phénomène ou une idée",
+       "Explique-t-il un phénomène ?"
+      ],
+      [
+       "**Injonctif**",
+       "donner des consignes, des ordres, des conseils",
+       "Donne-t-il des instructions ?"
+      ],
+      [
+       "**Informatif**",
+       "transmettre des informations",
+       "Informe-t-il le lecteur ?"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Application au texte « L’herboriste »"
+    },
+    {
+     "type": "p",
+     "text": "« L’herboriste » est un **texte narratif** (un **conte**) : il **raconte une histoire** avec des personnages, des actions qui se suivent et des dialogues. **Justifie** toujours ta réponse par des indices :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "des **personnages** : le piroguier, le roi, les médecins, les malades ;",
+      "des **actions** qui se suivent : *fait appeler, examinent, entre, nomme, chasse* ;",
+      "des **dialogues** entre guillemets ;",
+      "un **dénouement** : l’herboriste est récompensé."
+     ],
+     "label": "Indices du texte narratif"
+    },
+    {
+     "type": "tip",
+     "label": "Remarque",
+     "text": "Un texte peut mêler plusieurs formes (ici, un peu de description et des dialogues), mais on cherche le **type dominant**."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi « L’herboriste » est-il un texte narratif ?",
+     "options": [
+      "Parce qu’il donne des consignes",
+      "Parce qu’il raconte une suite d’événements avec des personnages",
+      "Parce qu’il défend une opinion",
+      "Parce qu’il décrit un paysage"
+     ],
+     "answer": 1,
+     "explain": "Le texte raconte des événements qui s’enchaînent, avec des personnages et des dialogues : c’est un récit."
+    }
+   ]
+  },
+  {
+   "t": "Les idées principales et secondaires",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "L’**idée principale** exprime l’information **essentielle** d’un passage. L’**idée secondaire** apporte une **précision**, une explication, un exemple ou un complément."
+    },
+    {
+     "type": "list",
+     "items": [
+      "De quoi parle ce paragraphe ?",
+      "Quelle information est la plus importante ?",
+      "Quelles informations viennent la compléter ?"
+     ],
+     "label": "Questions à te poser"
+    },
+    {
+     "type": "table",
+     "title": "Idées principales des grands moments du conte",
+     "head": [
+      "Passage",
+      "Idée principale",
+      "Idée secondaire"
+     ],
+     "rows": [
+      [
+       "La plainte",
+       "Les médecins accusent le piroguier devant le roi",
+       "Ils ont perdu une partie de leurs clients"
+      ],
+      [
+       "Le défi du roi",
+       "Le roi organise une épreuve dans une case",
+       "Le meilleur guérisseur deviendra « Grand Guérisseur »"
+      ],
+      [
+       "L’échec des médecins",
+       "Les médecins ne parviennent pas à guérir les malades",
+       "Ils reviennent l’un après l’autre l’avouer au roi"
+      ],
+      [
+       "La ruse de l’herboriste",
+       "Il menace de brûler la case avec les malades non guéris",
+       "Il annonce que seuls les guéris pourront sortir"
+      ],
+      [
+       "La peur des malades",
+       "Tous se déclarent guéris",
+       "Chacun répète qu’il n’a jamais été aussi bien portant"
+      ],
+      [
+       "Le dénouement",
+       "Le roi nomme l’herboriste et chasse les médecins",
+       "Il les traite d’ignorants et de jaloux"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour trouver l’idée principale, pose-toi la question : **si je supprime cette phrase, le paragraphe garde-t-il son sens ?** Si oui, c’est une idée secondaire."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est l’idée principale du passage où l’herboriste entre dans la case ?",
+     "options": [
+      "Il parle d’une voix forte",
+      "Il menace de brûler les malades non guéris",
+      "La case est isolée",
+      "Il pose la main sur l’épaule"
+     ],
+     "answer": 1,
+     "explain": "La menace de brûler la case est le cœur du passage : c’est elle qui provoque les fausses guérisons."
+    }
+   ]
+  },
+  {
+   "t": "Les personnages et les événements",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Cette partie concerne surtout les **textes narratifs**, comme notre conte."
+    },
+    {
+     "type": "h",
+     "text": "A. Les personnages"
+    },
+    {
+     "type": "table",
+     "title": "Les personnages de « L’herboriste »",
+     "head": [
+      "Personnage",
+      "Rôle dans l’histoire",
+      "Relation avec les autres"
+     ],
+     "rows": [
+      [
+       "**Le piroguier / l’herboriste**",
+       "Personnage principal : il se fait passer pour guérisseur",
+       "Rival des médecins, soumis au jugement du roi"
+      ],
+      [
+       "**Les médecins**",
+       "Opposants : ils veulent éliminer leur concurrent",
+       "Jaloux de l’herboriste, subordonnés au roi"
+      ],
+      [
+       "**Le roi**",
+       "Juge : il organise l’épreuve et décide",
+       "Autorité sur tous"
+      ],
+      [
+       "**Les malades**",
+       "Victimes de la ruse, ils servent l’herboriste malgré eux",
+       "Terrorisés par la menace"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "B. Les événements"
+    },
+    {
+     "type": "table",
+     "title": "Les étapes du récit",
+     "head": [
+      "Étape",
+      "Ce qui se passe"
+     ],
+     "rows": [
+      [
+       "**Situation initiale**",
+       "Un piroguier se fait passer pour herboriste et réussit"
+      ],
+      [
+       "**Élément perturbateur**",
+       "Les médecins, jaloux, portent plainte au roi"
+      ],
+      [
+       "**Péripéties**",
+       "Le roi organise l’épreuve ; les médecins échouent ; l’herboriste menace les malades ; ils se déclarent guéris"
+      ],
+      [
+       "**Dénouement**",
+       "Le roi constate les « guérisons »"
+      ],
+      [
+       "**Situation finale**",
+       "L’herboriste est nommé Grand Guérisseur ; les médecins sont chassés"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel événement déclenche l’action ?",
+     "options": [
+      "L’épreuve de la case",
+      "La plainte des médecins auprès du roi",
+      "La nomination du Grand Guérisseur",
+      "L’échec des médecins"
+     ],
+     "answer": 1,
+     "explain": "La plainte des médecins est l’élément perturbateur : elle déclenche toute la suite."
+    }
+   ]
+  },
+  {
+   "t": "L’enchaînement des événements et des idées",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "L’**enchaînement** est la manière dont les événements (ou les idées) **se suivent** et **s’organisent**. Dans un récit, c’est la **succession des faits** ; dans un texte argumentatif ou explicatif, c’est la **progression des idées**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Quel événement se produit en premier ?",
+      "Que se passe-t-il ensuite ?",
+      "Comment les événements sont-ils liés ?",
+      "Quels connecteurs montrent cette progression ?"
+     ],
+     "label": "Questions à te poser"
+    },
+    {
+     "type": "table",
+     "title": "Les liens entre les événements",
+     "head": [
+      "Relation",
+      "Exemple dans le conte",
+      "Indice"
+     ],
+     "rows": [
+      [
+       "**Succession dans le temps**",
+       "Les médecins passent d’abord, l’herboriste en dernier",
+       "*l’un après l’autre, en dernier lieu, alors*"
+      ],
+      [
+       "**Cause**",
+       "Les médecins portent plainte parce qu’ils perdent des clients",
+       "*privés d’une partie de leur clientèle*"
+      ],
+      [
+       "**Conséquence**",
+       "Les malades, effrayés, se disent guéris",
+       "*C’est pourquoi*"
+      ],
+      [
+       "**Opposition**",
+       "Les médecins échouent, l’herboriste réussit (en apparence)",
+       "*Alors arrive le tour de l’ex-piroguier*"
+      ]
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Activité** : Remets les événements dans l’ordre.",
+     "items": [
+      "a) Le roi nomme l’herboriste « Grand Guérisseur ».",
+      "b) Les médecins échouent à soigner les malades.",
+      "c) Les médecins accusent le piroguier devant le roi.",
+      "d) Tous les malades se déclarent guéris.",
+      "e) L’herboriste menace de brûler la case."
+     ],
+     "corrige": [
+      "Ordre : c, b, e, d, a"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur de la phrase « C’est pourquoi chaque malade se déclare guéri » exprime une conséquence ?",
+     "options": [
+      "C’est pourquoi",
+      "Chaque",
+      "Se hâte",
+      "Guéri"
+     ],
+     "answer": 0,
+     "explain": "« C’est pourquoi » introduit la conséquence de la menace de l’herboriste."
+    }
+   ]
+  },
+  {
+   "t": "La reformulation",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "**Reformuler**, c’est **reprendre une information avec tes propres mots**, sans changer le sens essentiel. **Reformuler n’est pas recopier**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Remplacer certains mots par des **synonymes**.",
+      "Modifier la **construction** de la phrase.",
+      "**Simplifier** une expression compliquée.",
+      "**Regrouper** plusieurs informations.",
+      "**Supprimer** les détails non essentiels."
+     ],
+     "label": "Les procédés de reformulation"
+    },
+    {
+     "type": "table",
+     "title": "Exemples de reformulation",
+     "head": [
+      "Idée du texte",
+      "Reformulation possible"
+     ],
+     "rows": [
+      [
+       "Les médecins, très étonnés, regardent les malades sortir un à un",
+       "Les médecins sont stupéfaits de voir tous les malades quitter la case, l’un après l’autre."
+      ],
+      [
+       "L’herboriste menace de mettre le feu à la case",
+       "Il prévient qu’il brûlera la case en partant, avec ceux qui n’auront pas été soignés."
+      ],
+      [
+       "Les malades répondent tous la même chose",
+       "Chacun donne la même réponse : il se sent parfaitement bien."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Une bonne reformulation **garde le sens**. Si tu changes l’idée ou si tu recopies la phrase, ce n’est plus une reformulation."
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Activité** : Résume le conte en **deux ou trois phrases** avec tes propres mots.",
+     "items": [
+      "Pense à : le héros, le problème, la ruse, la fin."
+     ],
+     "corrige": [
+      "Exemple : Un piroguier qui se fait passer pour guérisseur est dénoncé au roi par des médecins jaloux. Il réussit l’épreuve en menaçant de brûler la case : les malades, effrayés, se disent tous guéris. Le roi le nomme Grand Guérisseur et chasse les médecins."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une bonne reformulation de « Ils portent plainte auprès du roi » ?",
+     "options": [
+      "Ils portent plainte auprès du roi.",
+      "Ils vont se plaindre au roi.",
+      "Ils chassent le roi.",
+      "Ils tuent le piroguier."
+     ],
+     "answer": 1,
+     "explain": "« Ils vont se plaindre au roi » garde le sens avec d’autres mots."
+    }
+   ]
+  },
+  {
+   "t": "Le message du texte",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Définition",
+     "text": "Le **message** est l’**idée essentielle**, l’enseignement ou la réflexion que l’auteur veut **transmettre** au lecteur."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Que veut nous faire comprendre l’auteur ?",
+      "Quelle leçon peut-on tirer du texte ?",
+      "Quelle attitude le texte encourage-t-il ou dénonce-t-il ?"
+     ],
+     "label": "Questions à te poser"
+    },
+    {
+     "type": "h",
+     "text": "Application au texte « L’herboriste »"
+    },
+    {
+     "type": "p",
+     "text": "Plusieurs messages sont possibles, à condition de les **justifier** par le texte :"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**La jalousie** rend aveugle : les médecins, par jalousie, causent leur propre perte.",
+      "**La peur** peut pousser à mentir : les malades disent ce qu’on attend d’eux.",
+      "**Les apparences trompent** : le roi se fie aux paroles et non à la réalité.",
+      "**La ruse** peut l’emporter sur la science (mais le conte invite aussi à se méfier des faux semblants)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le message n’est pas un résumé : c’est une **leçon générale**, formulée en une ou deux phrases, valable au-delà de l’histoire."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est un message possible du conte ?",
+     "options": [
+      "Il faut toujours croire les médecins",
+      "Il ne faut pas se fier aux apparences ni céder à la jalousie",
+      "Il faut construire des pirogues",
+      "Les rois sont toujours justes"
+     ],
+     "answer": 1,
+     "explain": "Le roi se laisse tromper par les paroles des malades, et les médecins sont perdus par leur jalousie."
+    }
+   ]
+  },
+  {
+   "t": "La synthèse : comprendre le texte dans son ensemble",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après avoir étudié chaque partie, tu dois **réunir** tes découvertes. Voici la synthèse du conte « L’herboriste »."
+    },
+    {
+     "type": "table",
+     "title": "Fiche de synthèse",
+     "head": [
+      "Élément",
+      "Réponse"
+     ],
+     "rows": [
+      [
+       "**Thème**",
+       "La ruse d’un faux guérisseur et la jalousie des médecins"
+      ],
+      [
+       "**Contexte**",
+       "Un village, un royaume africain ; temps du conte ; le roi juge un conflit"
+      ],
+      [
+       "**Type de texte**",
+       "Narratif (conte)"
+      ],
+      [
+       "**Idées principales**",
+       "Plainte des médecins ; épreuve du roi ; échec des médecins ; ruse de l’herboriste ; nomination"
+      ],
+      [
+       "**Personnages**",
+       "L’herboriste, les médecins, le roi, les malades"
+      ],
+      [
+       "**Événements**",
+       "Plainte → épreuve → échec des médecins → menace → fausses guérisons → nomination"
+      ],
+      [
+       "**Enchaînement**",
+       "Succession (l’un après l’autre, enfin), cause (jalousie → plainte), conséquence (peur → mensonge)"
+      ],
+      [
+       "**Reformulation**",
+       "Un faux guérisseur dénoncé par des médecins jaloux réussit l’épreuve grâce à la peur qu’il inspire"
+      ],
+      [
+       "**Message**",
+       "Les apparences trompent ; la jalousie et la peur mènent à l’erreur"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les règles de la méthode"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Justifie** toujours ta réponse par un indice du texte.",
+      "**Adapte** tes questions au type de texte : personnages et événements pour un récit ; thèse, arguments et exemples pour un texte argumentatif.",
+      "**Ne confonds pas** : le thème (sujet général), le contexte (circonstances), le type (forme), l’idée (information essentielle), l’indice (élément qui aide), la reformulation (redire autrement), le message (leçon de l’auteur)."
+     ],
+     "label": "Méthode"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle différence y a-t-il entre le thème et le message ?",
+     "options": [
+      "Le thème est le sujet général ; le message est la leçon de l’auteur",
+      "Il n’y en a pas",
+      "Le thème est la leçon ; le message est le sujet",
+      "Le thème est le titre"
+     ],
+     "answer": 0,
+     "explain": "Le thème répond à « de quoi parle le texte ? », le message à « que veut nous faire comprendre l’auteur ? »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Associe chaque question à l’opération de compréhension qui convient (thème, contexte, type, message).",
+     "items": [
+      "a) Où et quand l’histoire se passe-t-elle ?",
+      "b) De quoi parle le texte ?",
+      "c) Quelle leçon l’auteur veut-il transmettre ?",
+      "d) Le texte raconte-t-il une histoire ou donne-t-il des consignes ?"
+     ],
+     "corrige": [
+      "a) contexte",
+      "b) thème",
+      "c) message",
+      "d) type de texte"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Relève dans le texte « L’herboriste » :",
+     "items": [
+      "a) deux indices de lieu ;",
+      "b) deux indices de temps ou d’ordre ;",
+      "c) deux mots du champ lexical de la maladie ;",
+      "d) un pronom qui remplace un personnage (précise lequel)."
+     ],
+     "corrige": [
+      "a) dans un village ; la case à l’écart ; là-bas",
+      "b) l’un après l’autre ; à tour de rôle ; en dernier lieu ; aussitôt",
+      "c) maladie ; malades ; guérir ; fléau",
+      "d) Celui-ci (= l’ex-piroguier ou le malade selon le passage) ; Ils (= les médecins)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Vrai ou faux ? Justifie.",
+     "items": [
+      "a) Les médecins réussissent à guérir les malades.",
+      "b) Les malades se déclarent guéris parce qu’ils ont peur.",
+      "c) Le roi comprend la ruse de l’herboriste.",
+      "d) Les médecins sont chassés à la fin."
+     ],
+     "corrige": [
+      "a) Faux : ils échouent.",
+      "b) Vrai : ils craignent d’être brûlés vifs.",
+      "c) Faux : le roi est émerveillé, il ne comprend pas la ruse.",
+      "d) Vrai : le roi les chasse en les traitant d’ignorants."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Remplis la fiche de synthèse du conte (thème, contexte, type, idées principales, personnages, message) puis reformule l’histoire en trois phrases.",
+     "items": [
+      "Appuie-toi sur le tableau de la synthèse sans le recopier : utilise tes propres mots."
+     ],
+     "corrige": [
+      "Une bonne réponse précise un thème court, un contexte (village africain, roi), le type narratif, des idées principales dans l’ordre, les personnages et leur rôle, et un message formulé comme une leçon."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 5** : Applique la même méthode à un autre texte de ton manuel : relève les indices, donne le thème, le contexte, le type, les idées principales, puis le message.",
+     "items": [
+      "Choisis un récit court, de préférence accompagné d’une illustration."
+     ],
+     "corrige": [
+      "Travail personnel : le professeur corrige en demandant de justifier chaque réponse par un indice du texte."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Lire pour comprendre, c’est **chercher et interpréter des indices**.",
+      "Les **supports iconographiques** (image, titre, source) permettent de **faire des hypothèses** avant la lecture.",
+      "Les **indices textuels** sont lexicaux, temporels, spatiaux, grammaticaux, des connecteurs ou des signes de ponctuation.",
+      "Le **thème** est le sujet général ; le **contexte** situe le lieu, le temps et les circonstances ; le **type** est la forme dominante.",
+      "On distingue l’**idée principale** (essentielle) des **idées secondaires** (précisions, exemples).",
+      "Dans un récit, on identifie les **personnages** et les **événements** (situation initiale, élément perturbateur, péripéties, dénouement, situation finale).",
+      "L’**enchaînement** suit le temps, la cause, la conséquence, l’opposition ; la **reformulation** redit avec ses mots ; le **message** est la leçon de l’auteur.",
+      "**Justifie** toujours par un indice du texte."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les opérations de la lecture-compréhension",
+     "head": [
+      "Opération",
+      "Question",
+      "Exemple avec « L’herboriste »"
+     ],
+     "rows": [
+      [
+       "Thème",
+       "De quoi parle le texte ?",
+       "La ruse d’un faux guérisseur"
+      ],
+      [
+       "Contexte",
+       "Où, quand, dans quelles circonstances ?",
+       "Village africain, royaume, querelle de médecins"
+      ],
+      [
+       "Type",
+       "Quelle forme ?",
+       "Narratif (conte)"
+      ],
+      [
+       "Idées",
+       "Qu’est-ce qui est essentiel ?",
+       "Plainte, épreuve, échec, ruse, nomination"
+      ],
+      [
+       "Message",
+       "Quelle leçon ?",
+       "Les apparences trompent"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Pour justifier une réponse en lecture-compréhension, que faut-il faire ?",
+     "options": [
+      "Donner son opinion",
+      "Appuyer sa réponse sur des indices du texte",
+      "Recopier tout le texte",
+      "Changer le sens du texte"
+     ],
+     "answer": 1,
+     "explain": "Une réponse correcte doit toujours être justifiée par des indices précis relevés dans le texte."
+    }
+   ]
+  }
+ ]
+}

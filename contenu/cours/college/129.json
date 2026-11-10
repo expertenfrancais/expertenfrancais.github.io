@@ -1,0 +1,575 @@
+{
+ "id": 129,
+ "meta": {
+  "t": "Le sens figuré des mots",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "h",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Rappel : sens propre et sens figuré",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Le **pied** de Kofi est blessé » et « Le **pied** de la table est cassé », le mot *pied* n’a pas le même sens. Dans la première phrase, il désigne une partie du corps. Dans la seconde, il est employé **par image**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Rappeler la différence entre sens propre et sens figuré",
+      "Comprendre comment naît un sens figuré",
+      "Reconnaître un mot ou une expression au sens figuré",
+      "Employer le sens figuré pour enrichir ses phrases"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Sens propre",
+     "text": "Le **sens propre** d’un mot est son sens **premier** et **concret**. C’est celui qu’on peut se représenter ou toucher."
+    },
+    {
+     "type": "def",
+     "label": "Sens figuré",
+     "text": "Le **sens figuré** est un sens **imagé** : le mot est employé par **ressemblance** avec son sens propre pour désigner autre chose, souvent une idée, une qualité ou un sentiment."
+    },
+    {
+     "type": "table",
+     "title": "Un mot, deux sens",
+     "head": [
+      "Mot",
+      "Sens propre",
+      "Sens figuré"
+     ],
+     "rows": [
+      [
+       "pied",
+       "partie du corps : *le pied de Kofi*",
+       "support : *le pied de la table*"
+      ],
+      [
+       "bouche",
+       "organe du visage : *ouvrir la bouche*",
+       "ouverture : *la bouche du métro*"
+      ],
+      [
+       "tête",
+       "partie du corps : *mal à la tête*",
+       "premier rang : *la tête de la classe*"
+      ],
+      [
+       "bras",
+       "membre du corps : *lever le bras*",
+       "partie d’un cours d’eau : *un bras de fleuve*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La bouche du métro est fermée », le mot « bouche » est employé :",
+     "options": [
+      "au sens propre",
+      "au sens figuré"
+     ],
+     "answer": 1,
+     "explain": "Le métro n’a pas de vraie bouche : le mot désigne l’ouverture par ressemblance avec la bouche."
+    }
+   ]
+  },
+  {
+   "t": "Comment naît le sens figuré ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le sens figuré naît d’une **ressemblance** : on emploie un mot pour une chose qui ressemble à ce qu’il désigne d’abord."
+    },
+    {
+     "type": "list",
+     "label": "Trois sources de ressemblance",
+     "items": [
+      "la **forme** : *le bras d’un fauteuil*",
+      "la **fonction** : *la clé du problème* (ce qui permet de le comprendre)",
+      "l’**effet** ou la **sensation** : *un regard froid* (qui n’exprime aucune chaleur humaine)"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Du sens propre au sens figuré",
+     "head": [
+      "Ressemblance",
+      "Mot",
+      "Emploi figuré"
+     ],
+     "rows": [
+      [
+       "forme",
+       "pied",
+       "*le pied de la montagne*"
+      ],
+      [
+       "fonction",
+       "clé",
+       "*la clé du succès*"
+      ],
+      [
+       "effet, sensation",
+       "froid",
+       "*un regard froid*"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le corps, source d’images",
+     "text": "Beaucoup de sens figurés viennent des parties du corps : *pied, bras, tête, cœur, dos, œil*… Mais le sens propre reste toujours le premier."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Cherche le **point commun** entre le sens propre et le sens figuré : il explique l’image."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « la clé du succès », sur quelle ressemblance repose l’image ?",
+     "options": [
+      "la forme",
+      "la fonction",
+      "la couleur",
+      "le bruit"
+     ],
+     "answer": 1,
+     "explain": "Une clé permet d’ouvrir ; la « clé » du succès est ce qui permet de réussir : la ressemblance porte sur la fonction."
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître un mot au sens figuré",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour savoir si un mot est employé au sens figuré, on observe la phrase entière."
+    },
+    {
+     "type": "test",
+     "title": "Méthode en trois temps",
+     "lines": [
+      "1. Lis toute la phrase pour comprendre le contexte.",
+      "2. Demande-toi si on peut prendre le mot **à la lettre**.",
+      "3. Si ce n’est pas possible, c’est un sens figuré : remplace le mot par un synonyme pour le vérifier."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un exemple",
+     "text": "« Les nuages **pleurent** sur la ville. »\nÀ la lettre, *pleurer* veut dire verser des larmes : des nuages n’en versent pas. On veut dire qu’il **pleut** : le sens est figuré."
+    },
+    {
+     "type": "warn",
+     "label": "Le contexte décide",
+     "text": "« Une maison de **pierre** » (sens propre : faite de pierre) mais « un cœur de **pierre** » (sens figuré : insensible)."
+    },
+    {
+     "type": "warn",
+     "label": "Des images qu’on ne remarque plus",
+     "text": "Certaines images sont si courantes qu’on ne les voit plus : *le pied de la montagne*, *la tête du cortège*, *les bras d’un fauteuil*. Ce sont pourtant des emplois figurés."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le temps file », le verbe « filer » est employé :",
+     "options": [
+      "au sens propre",
+      "au sens figuré"
+     ],
+     "answer": 1,
+     "explain": "Le temps ne peut pas « filer » à la lettre : on veut dire qu’il passe très vite."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est employé au sens propre ou au sens figuré.",
+     "items": [
+      "Le **soleil** brille dans le ciel.",
+      "Awa est le **soleil** de la famille.",
+      "La route **serpente** entre les collines.",
+      "Les pirates cachent un **trésor**.",
+      "Cette bibliothèque est un **trésor**."
+     ],
+     "corrige": [
+      "1. sens propre",
+      "2. sens figuré (elle apporte de la joie)",
+      "3. sens figuré (elle fait des courbes comme un serpent)",
+      "4. sens propre (des pièces et des bijoux)",
+      "5. sens figuré (elle est très précieuse)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les expressions figurées",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup d’expressions sont figurées : plusieurs mots forment ensemble un seul sens."
+    },
+    {
+     "type": "def",
+     "label": "Expression figurée",
+     "text": "Une **expression figurée** est un groupe de mots **figé** dont le sens ne se déduit pas de chaque mot. On doit la comprendre **en entier**."
+    },
+    {
+     "type": "table",
+     "title": "Quelques expressions figurées",
+     "head": [
+      "Expression",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "jeter l’éponge",
+       "abandonner"
+      ],
+      [
+       "mettre les pieds dans le plat",
+       "dire une chose maladroite sans ménagement"
+      ],
+      [
+       "tourner autour du pot",
+       "éviter de dire clairement ce qu’on veut"
+      ],
+      [
+       "avoir le cœur sur la main",
+       "être très généreux"
+      ],
+      [
+       "ne pas avoir froid aux yeux",
+       "être courageux, audacieux"
+      ],
+      [
+       "prendre le taureau par les cornes",
+       "affronter un problème directement"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "On ne change pas les mots",
+     "text": "On dit « jeter l’éponge », pas « jeter la brosse » : une expression figurée est **figée**, on ne remplace pas ses mots."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Imagine d’abord la scène **à la lettre**. Si elle est absurde ou drôle, l’expression est figurée. Cherche ensuite son sens grâce au contexte ou au dictionnaire."
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie « tourner autour du pot » ?",
+     "options": [
+      "Faire le tour d’une casserole",
+      "Éviter de dire clairement ce qu’on veut",
+      "Être très généreux",
+      "Abandonner un projet"
+     ],
+     "answer": 1,
+     "explain": "Celui qui tourne autour du pot n’ose pas aller droit au but."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique chaque expression avec tes mots.",
+     "items": [
+      "Jeter l’éponge.",
+      "Ne pas avoir froid aux yeux.",
+      "Prendre le taureau par les cornes."
+     ],
+     "corrige": [
+      "1. abandonner, renoncer",
+      "2. être courageux, ne pas avoir peur",
+      "3. affronter une difficulté avec courage, sans attendre"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sens figuré pour mieux écrire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le sens figuré rend un texte plus **vivant** et plus **expressif**. Les écrivains et les poètes l’emploient souvent."
+    },
+    {
+     "type": "list",
+     "label": "À quoi sert le sens figuré ?",
+     "items": [
+      "rendre une description plus vivante",
+      "exprimer un sentiment avec force",
+      "faire comprendre une idée abstraite par une image concrète",
+      "surprendre ou amuser le lecteur"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Sans image, avec image",
+     "head": [
+      "Phrase simple",
+      "Phrase avec sens figuré"
+     ],
+     "rows": [
+      [
+       "Il pleut très fort.",
+       "Il pleut des cordes."
+      ],
+      [
+       "Il fait très noir.",
+       "La nuit est un manteau noir."
+      ],
+      [
+       "Awa est très gentille.",
+       "Awa a un cœur d’or."
+      ],
+      [
+       "Le vent souffle fort.",
+       "Le vent hurle dans les arbres."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour enrichir une description",
+     "text": "Remplace un verbe ou un adjectif banal par un mot employé au sens figuré : le vent **hurle**, une voix **de velours**."
+    },
+    {
+     "type": "warn",
+     "label": "Sans abus",
+     "text": "Trop d’images rendent un texte confus. Préfère des images simples et originales aux images trop courantes comme « rapide comme l’éclair »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est la plus expressive grâce au sens figuré ?",
+     "options": [
+      "Il fait froid.",
+      "Le froid mord nos mains.",
+      "Il y a du froid.",
+      "Il fait très froid."
+     ],
+     "answer": 1,
+     "explain": "Le verbe « mord » est employé au sens figuré : le froid ne mord pas à la lettre, mais l’image fait sentir sa force."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris chaque phrase avec un mot ou une expression au sens figuré.",
+     "items": [
+      "Il pleut beaucoup.",
+      "Awa est très généreuse.",
+      "Le vent souffle fort dans les arbres."
+     ],
+     "corrige": [
+      "Réponses possibles :",
+      "1. Il pleut à verse. / Il pleut des cordes.",
+      "2. Awa a le cœur sur la main.",
+      "3. Le vent hurle dans les arbres."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sens figuré dans le dictionnaire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un dictionnaire range les sens d’un mot en les **numérotant**. Le sens propre vient en premier ; les sens figurés suivent et sont annoncés par l’abréviation **fig.**"
+    },
+    {
+     "type": "ex",
+     "label": "Dans le dictionnaire",
+     "text": "**cœur** : 1. Organe du corps qui fait circuler le sang : *le cœur bat*. 2. (*fig.*) Centre, milieu : *au cœur de la ville*. 3. (*fig.*) Générosité, sensibilité : *avoir du cœur*."
+    },
+    {
+     "type": "tip",
+     "label": "Choisir le bon sens",
+     "text": "Lis tous les sens et leurs exemples, puis choisis celui qui convient à ta phrase."
+    },
+    {
+     "type": "warn",
+     "label": "Plusieurs sens ou plusieurs mots ?",
+     "text": "*Cœur* est **un seul mot** avec plusieurs sens liés entre eux. *Verre* et *vert* sont **deux mots différents** qui se prononcent de la même façon."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un dictionnaire, comment est annoncé un sens figuré ?",
+     "options": [
+      "fig.",
+      "adj.",
+      "v.",
+      "n.f."
+     ],
+     "answer": 0,
+     "explain": "« fig. » est l’abréviation de « figuré ». Les autres abréviations indiquent la nature du mot."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis quel sens du mot « cœur » est employé (1, 2 ou 3, comme dans l’article ci-dessus).",
+     "items": [
+      "Le médecin écoute le cœur du malade.",
+      "Le marché est au cœur de la ville.",
+      "Elle a eu du cœur pour aider ses voisins."
+     ],
+     "corrige": [
+      "1. sens 1 (sens propre)",
+      "2. sens 2 (sens figuré : le centre)",
+      "3. sens 3 (sens figuré : la générosité)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le mot en gras est employé au sens propre ou au sens figuré.",
+     "items": [
+      "Les enfants **boivent** de l’eau.",
+      "Kofi **boit** les paroles de son maître.",
+      "Il a **semé** des graines dans le jardin.",
+      "Il a **semé** la panique dans la ville.",
+      "Une **vague** de chaleur arrive sur la région."
+     ],
+     "corrige": [
+      "1. sens propre",
+      "2. sens figuré (il l’écoute avec une grande attention)",
+      "3. sens propre",
+      "4. sens figuré (il a répandu la peur)",
+      "5. sens figuré (une grande quantité de chaleur qui arrive d’un coup)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Un mur d’indifférence sépare les deux voisins », « mur » est employé :",
+     "options": [
+      "au sens propre",
+      "au sens figuré"
+     ],
+     "answer": 1,
+     "explain": "L’indifférence n’est pas un vrai mur : le mot désigne un obstacle entre les deux voisins."
+    },
+    {
+     "type": "h",
+     "text": "Expliquer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique le sens figuré des mots en gras.",
+     "items": [
+      "Le temps **s’envole** pendant les vacances.",
+      "Ce garçon **brûle** de curiosité.",
+      "Un **mur** de silence sépare les deux frères."
+     ],
+     "corrige": [
+      "1. le temps passe très vite",
+      "2. il est très curieux",
+      "3. un silence qui crée une barrière entre eux"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris deux phrases pour chaque mot : une au sens propre et une au sens figuré.",
+     "items": [
+      "pied",
+      "cœur"
+     ],
+     "corrige": [
+      "Exemples de réponses :",
+      "1. Le **pied** de l’enfant est blessé. / Le **pied** de la table est cassé.",
+      "2. Le **cœur** bat plus vite quand on court. / Le marché est au **cœur** de la ville."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Aller plus loin"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis : « La nuit étend son manteau sur le village. Les étoiles clignent de l’œil et la lune veille sur les maisons endormies. » Relève les groupes de mots au sens figuré et explique-les.",
+     "items": [
+      "Relève trois groupes de mots employés au sens figuré.",
+      "Donne le sens propre de chacun.",
+      "Explique ce que l’auteur veut faire sentir."
+     ],
+     "corrige": [
+      "1. *étend son manteau*, *clignent de l’œil*, *veille*",
+      "2. étendre un vêtement ; faire un clin d’œil ; garder quelqu’un qui dort",
+      "3. la nuit enveloppe le village comme un vêtement, les étoiles brillent par instants, la lune éclaire et protège : une nuit calme et rassurante"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **sens propre** est le sens **premier** et **concret** d’un mot.",
+      "Le **sens figuré** est un sens **imagé** qui naît d’une **ressemblance** (forme, fonction, effet).",
+      "On le reconnaît quand le mot ne peut pas se comprendre **à la lettre** ; on le vérifie avec un **synonyme**.",
+      "Le **contexte** décide du sens : *une maison de pierre* / *un cœur de pierre*.",
+      "Une **expression figurée** est **figée** : on la comprend en entier et on n’en change pas les mots.",
+      "Le sens figuré rend un texte plus **vivant** ; dans le dictionnaire, il est annoncé par **fig.**"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Sens propre et sens figuré en un coup d’œil",
+     "head": [
+      "Notion",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "sens propre",
+       "sens premier, concret",
+       "le **pied** de Kofi"
+      ],
+      [
+       "sens figuré",
+       "sens imagé, par ressemblance",
+       "le **pied** de la table"
+      ],
+      [
+       "expression figurée",
+       "groupe de mots figé",
+       "jeter l’éponge"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Comment vérifier qu’un mot est employé au sens figuré ?",
+     "options": [
+      "On ne peut pas le comprendre à la lettre et on peut le remplacer par un synonyme.",
+      "Il est toujours au pluriel.",
+      "Il est suivi de « comme ».",
+      "Il est toujours un verbe."
+     ],
+     "answer": 0,
+     "explain": "Un mot figuré ne se comprend pas à la lettre ; remplacer par un synonyme (« la nuit enveloppe ») confirme l’image."
+    }
+   ]
+  }
+ ]
+}

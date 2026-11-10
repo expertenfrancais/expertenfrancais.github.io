@@ -1,0 +1,689 @@
+{
+ "id": 135,
+ "meta": {
+  "t": "Les éléments de la communication orale",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression orale",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situation : un message qui passe… ou pas",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au marché, une vendeuse crie : « Des mangues fraîches, deux cents francs le tas ! » Un client lui répond : « Je prends deux tas. » Elle sourit et lui tend un sac. Dans ce petit échange, quelqu’un parle, quelqu’un écoute, un message passe et une réponse revient. Mais à côté, un enfant n’a rien compris : il y avait trop de bruit. Pour bien parler et bien écouter, il faut connaître les **éléments de la communication orale**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir la communication orale",
+      "Identifier l’émetteur, le récepteur, le message, le canal, le code et le contexte",
+      "Reconnaître l’intention d’un message",
+      "Repérer les obstacles à la communication et le feed-back",
+      "Écouter un message oral et en retrouver l’essentiel"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "La communication orale",
+     "text": "La **communication orale** est un échange de **paroles** entre au moins deux personnes : l’une **parle** pour transmettre un message, l’autre **écoute** et le comprend."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans l’échange du marché, qui parle en premier ?",
+     "options": [
+      "Le client",
+      "La vendeuse",
+      "L’enfant",
+      "Personne"
+     ],
+     "answer": 1,
+     "explain": "La vendeuse lance le message : « Des mangues fraîches… »"
+    }
+   ]
+  },
+  {
+   "t": "Les six éléments de la communication",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Toute communication orale repose sur **six éléments**. Il suffit qu’un seul manque ou fonctionne mal pour que le message ne passe pas."
+    },
+    {
+     "type": "schema",
+     "title": "Le schéma de la communication",
+     "cells": [
+      {
+       "mot": "Émetteur",
+       "role": "celui qui parle",
+       "noyau": true
+      },
+      {
+       "mot": "Message",
+       "role": "ce qui est dit"
+      },
+      {
+       "mot": "Récepteur",
+       "role": "celui qui écoute",
+       "noyau": true
+      }
+     ],
+     "note": "Le message circule de l’émetteur au récepteur par un canal, avec un code, dans un contexte."
+    },
+    {
+     "type": "table",
+     "title": "Les six éléments",
+     "head": [
+      "Élément",
+      "Définition",
+      "Exemple (au marché)"
+     ],
+     "rows": [
+      [
+       "l’émetteur",
+       "celui qui parle",
+       "la vendeuse"
+      ],
+      [
+       "le récepteur",
+       "celui qui écoute",
+       "le client"
+      ],
+      [
+       "le message",
+       "ce qui est dit",
+       "« Des mangues fraîches, deux cents francs ! »"
+      ],
+      [
+       "le canal",
+       "ce par quoi le message passe",
+       "la voix, dans l’air"
+      ],
+      [
+       "le code",
+       "la langue et les signes utilisés",
+       "le français, un geste de la main"
+      ],
+      [
+       "le contexte",
+       "la situation où l’on parle",
+       "le marché, le matin, du bruit"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pour analyser une situation, pose six questions : **Qui parle ? À qui ? Pour dire quoi ? Par quel moyen ? Avec quelle langue ? Dans quelle situation ?**"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel élément désigne celui qui écoute ?",
+     "options": [
+      "L’émetteur",
+      "Le récepteur",
+      "Le canal",
+      "Le code"
+     ],
+     "answer": 1,
+     "explain": "Le récepteur reçoit le message."
+    }
+   ]
+  },
+  {
+   "t": "L’émetteur et le récepteur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une conversation, les rôles **changent** sans cesse : celui qui parle devient celui qui écoute."
+    },
+    {
+     "type": "def",
+     "label": "L’émetteur",
+     "text": "L’**émetteur** est la personne qui **envoie** le message : il parle."
+    },
+    {
+     "type": "def",
+     "label": "Le récepteur",
+     "text": "Le **récepteur** est la personne (ou les personnes) qui **reçoit** le message : il écoute."
+    },
+    {
+     "type": "ex",
+     "label": "Les rôles changent",
+     "text": "Awa dit à Kofi : « Tu viens jouer ? » → Awa est émettrice, Kofi est récepteur.\nKofi répond : « Oui, j’arrive. » → Kofi devient émetteur, Awa devient réceptrice."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Un même message peut avoir **plusieurs récepteurs** : quand le directeur parle dans la cour, tous les élèves sont récepteurs. Un message peut aussi viser un **récepteur précis** (« Kofi, viens ici ! »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le directeur annonce un match à tous les élèves », qui est le récepteur ?",
+     "options": [
+      "Le directeur",
+      "Les élèves",
+      "Le match",
+      "La cour"
+     ],
+     "answer": 1,
+     "explain": "Les élèves reçoivent l’annonce."
+    }
+   ]
+  },
+  {
+   "t": "Le message et l’intention",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **message** est ce que l’émetteur veut dire. Mais on parle toujours avec une **intention**."
+    },
+    {
+     "type": "table",
+     "title": "Les intentions d’un message",
+     "head": [
+      "Intention",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "informer",
+       "Le match aura lieu vendredi."
+      ],
+      [
+       "demander",
+       "Pouvez-vous répéter, s’il vous plaît ?"
+      ],
+      [
+       "ordonner",
+       "Rangez-vous en silence !"
+      ],
+      [
+       "convaincre",
+       "Venez nombreux : c’est pour la bonne cause."
+      ],
+      [
+       "remercier",
+       "Merci beaucoup pour votre aide."
+      ],
+      [
+       "raconter",
+       "Hier, j’ai vu un éléphant au zoo."
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Ce qui accompagne le message",
+     "items": [
+      "le **ton** de la voix (joyeux, sérieux, fâché)",
+      "le **rythme** (rapide ou lent)",
+      "le **volume** (fort ou faible)",
+      "les **gestes** et les **mimiques**"
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Le même message, deux intentions",
+     "text": "« C’est bien ! » dit avec un sourire exprime un compliment. « C’est bien ! » dit d’un ton moqueur exprime une critique."
+    },
+    {
+     "type": "quiz",
+     "question": "« Rangez-vous en silence ! » a pour intention…",
+     "options": [
+      "d’informer",
+      "d’ordonner",
+      "de remercier",
+      "de raconter"
+     ],
+     "answer": 1,
+     "explain": "C’est un ordre donné aux récepteurs."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase a pour intention de remercier ?",
+     "options": [
+      "Peux-tu m’aider ?",
+      "Merci beaucoup pour ton aide.",
+      "Il pleut aujourd’hui.",
+      "Viens ici !"
+     ],
+     "answer": 1,
+     "explain": "« Merci beaucoup » exprime la reconnaissance."
+    }
+   ]
+  },
+  {
+   "t": "Le canal et le code",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour passer d’une personne à l’autre, le message utilise un **canal** et un **code**."
+    },
+    {
+     "type": "def",
+     "label": "Le canal",
+     "text": "Le **canal** est le **moyen** par lequel le message voyage : la voix dans l’air quand on parle face à face, le téléphone, la radio, le micro."
+    },
+    {
+     "type": "def",
+     "label": "Le code",
+     "text": "Le **code** est l’ensemble des **signes** que l’émetteur et le récepteur **comprennent** : la langue (français, lingala, anglais…), mais aussi les gestes et les mimiques."
+    },
+    {
+     "type": "table",
+     "title": "Canal et code dans trois situations",
+     "head": [
+      "Situation",
+      "Canal",
+      "Code"
+     ],
+     "rows": [
+      [
+       "conversation dans la cour",
+       "la voix, dans l’air",
+       "français parlé, gestes"
+      ],
+      [
+       "appel téléphonique",
+       "le téléphone",
+       "français parlé"
+      ],
+      [
+       "émission de radio",
+       "la radio",
+       "français, musique, voix"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Si l’émetteur et le récepteur ne **partagent pas le même code** (une langue que l’un ne comprend pas), le message ne passe pas."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "On adapte son **niveau de langue** : familier avec un ami (« Ça roule ? »), courant avec un enseignant (« Bonjour, comment allez-vous ? »), soutenu dans un discours officiel."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le canal quand on parle à son voisin de table ?",
+     "options": [
+      "Le français",
+      "La voix",
+      "Le contexte",
+      "Le message"
+     ],
+     "answer": 1,
+     "explain": "Le message passe par la voix, dans l’air."
+    }
+   ]
+  },
+  {
+   "t": "Le contexte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **contexte** est la **situation** dans laquelle on parle : le lieu, le moment, la relation entre les personnes."
+    },
+    {
+     "type": "list",
+     "label": "Les trois repères du contexte",
+     "items": [
+      "le **lieu** (la classe, la cour, le marché)",
+      "le **moment** (le matin, pendant une fête)",
+      "la **relation** entre les personnes (ami, enseignant, inconnu)"
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Le contexte change le sens",
+     "text": "« Bravo ! » dit à un champion après sa victoire = félicitation sincère.\n« Bravo ! » dit à quelqu’un qui vient de casser un verre = moquerie."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Un même mot peut avoir un sens différent selon le contexte. Pour comprendre un message, il faut regarder **où**, **quand** et **à qui** l’émetteur parle."
+    },
+    {
+     "type": "quiz",
+     "question": "Lequel de ces éléments fait partie du contexte ?",
+     "options": [
+      "Le lieu où l’on parle",
+      "Le verbe de la phrase",
+      "La ponctuation",
+      "Le titre"
+     ],
+     "answer": 0,
+     "explain": "Le lieu, le moment et la relation entre les personnes forment le contexte."
+    }
+   ]
+  },
+  {
+   "t": "Les obstacles et le feed-back",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un message ne passe pas toujours bien. Il peut rencontrer des **obstacles**."
+    },
+    {
+     "type": "table",
+     "title": "Les obstacles à la communication",
+     "head": [
+      "Obstacle",
+      "Exemple",
+      "Solution"
+     ],
+     "rows": [
+      [
+       "le bruit",
+       "la cour est trop bruyante",
+       "se rapprocher, parler plus fort"
+      ],
+      [
+       "la voix",
+       "parler trop vite ou trop bas",
+       "ralentir, articuler"
+      ],
+      [
+       "le code",
+       "un mot inconnu",
+       "reformuler, expliquer"
+      ],
+      [
+       "l’inattention",
+       "l’auditeur pense à autre chose",
+       "capter l’attention, poser une question"
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le feed-back (la réponse en retour)",
+     "text": "Le **feed-back** est la **réaction** du récepteur qui montre s’il a compris : une réponse, une question, un geste, un regard."
+    },
+    {
+     "type": "ex",
+     "label": "Le feed-back en action",
+     "text": "L’enseignant : « Vous avez compris ? » Un élève : « Pouvez-vous répéter la dernière phrase ? » → l’enseignant sait que le message n’est pas passé, il le **reformule**."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si tu n’as pas compris, **demande** à l’émetteur de répéter ou de reformuler. Ce n’est pas un défaut, c’est de l’écoute active."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est un obstacle à la communication orale ?",
+     "options": [
+      "Le bruit",
+      "Le sourire",
+      "Le silence respectueux",
+      "Le regard"
+     ],
+     "answer": 0,
+     "explain": "Le bruit empêche le message d’être bien entendu."
+    }
+   ]
+  },
+  {
+   "t": "L’écoute d’un message oral",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Écouter, ce n’est pas seulement entendre : il faut **comprendre** et **retenir**."
+    },
+    {
+     "type": "test",
+     "title": "Écouter en quatre temps",
+     "lines": [
+      "1. Je me **concentre** : je regarde l’émetteur, je me tais.",
+      "2. Je repère **qui parle**, **à qui**, **pourquoi**.",
+      "3. Je note les **mots-clés** (noms, chiffres, dates, lieux).",
+      "4. Je **reformule** l’essentiel dans mes propres mots."
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un message à écouter",
+     "text": "« Chers élèves, la sortie à la plage est reportée à samedi prochain. Rendez-vous à huit heures devant l’école. Apportez un chapeau et une bouteille d’eau. »"
+    },
+    {
+     "type": "table",
+     "title": "Analyse du message ci-dessus",
+     "head": [
+      "Question",
+      "Réponse"
+     ],
+     "rows": [
+      [
+       "Qui parle ?",
+       "un adulte de l’école (le directeur ou un enseignant)"
+      ],
+      [
+       "À qui ?",
+       "aux élèves"
+      ],
+      [
+       "Quand ?",
+       "samedi prochain, à huit heures"
+      ],
+      [
+       "Où ?",
+       "devant l’école"
+      ],
+      [
+       "Pourquoi ?",
+       "la sortie est reportée"
+      ],
+      [
+       "Que faut-il apporter ?",
+       "un chapeau et une bouteille d’eau"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne réponds pas avant d’avoir fini d’écouter. Ne coupe pas la parole à l’émetteur."
+    },
+    {
+     "type": "quiz",
+     "question": "Parmi ces mots, lesquels sont des mots-clés du message sur la sortie ?",
+     "options": [
+      "Chers, école",
+      "samedi, huit heures, chapeau",
+      "très, tout, aussi",
+      "bonjour, merci"
+     ],
+     "answer": 1,
+     "explain": "Les mots-clés donnent les informations importantes : la date, l’heure, l’objet."
+    },
+    {
+     "type": "quiz",
+     "question": "Que faut-il faire en écoutant un message ?",
+     "options": [
+      "Parler en même temps",
+      "Se concentrer et noter les mots-clés",
+      "Dormir",
+      "Regarder ailleurs"
+     ],
+     "answer": 1,
+     "explain": "L’écoute active demande de la concentration."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici des exercices de difficulté croissante. Essaie d’abord seul(e), puis touche « Voir le corrigé »."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dans la situation : « Le professeur dit aux élèves : Sortez vos cahiers. », identifie les éléments.",
+     "items": [
+      "Émetteur",
+      "Récepteur",
+      "Message",
+      "Intention"
+     ],
+     "corrige": [
+      "1. le professeur",
+      "2. les élèves",
+      "3. « Sortez vos cahiers. »",
+      "4. ordonner"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis quel élément est concerné : canal (CA), code (CO) ou contexte (CT).",
+     "items": [
+      "la salle de classe, le lundi matin",
+      "la voix de l’enseignant",
+      "le français parlé",
+      "le téléphone",
+      "l’heure et le lieu du discours"
+     ],
+     "corrige": [
+      "1. CT",
+      "2. CA",
+      "3. CO",
+      "4. CA",
+      "5. CT"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Analyser"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis : « Kofi, tu peux m’aider à porter ce sac ? », dit Awa dans la cour de récréation. Réponds aux questions.",
+     "items": [
+      "Qui est l’émetteur ?",
+      "Qui est le récepteur ?",
+      "Quelle est l’intention ?",
+      "Quel est le contexte ?"
+     ],
+     "corrige": [
+      "1. Awa",
+      "2. Kofi",
+      "3. demander de l’aide",
+      "4. la cour de récréation, pendant la récréation, entre deux camarades"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Corriger"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pourquoi le message ne passe-t-il pas dans chaque cas ? Propose une solution.",
+     "items": [
+      "Le conférencier parle trop vite.",
+      "Il y a du bruit dans la salle.",
+      "L’invité ne comprend pas la langue."
+     ],
+     "corrige": [
+      "1. le rythme est trop rapide : ralentir et articuler",
+      "2. le bruit : demander le silence ou se rapprocher",
+      "3. le code n’est pas partagé : traduire ou utiliser une langue commune"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "S’exercer à écouter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis à voix haute à un camarade : « Demain, mardi 12, la classe de 5e visitera le musée à neuf heures. Chaque élève apportera un cahier et un stylo. » Pose-lui ensuite les questions.",
+     "items": [
+      "Qui visite le musée ?",
+      "Quel jour et à quelle heure ?",
+      "Que faut-il apporter ?"
+     ],
+     "corrige": [
+      "1. la classe de 5e",
+      "2. mardi 12, à neuf heures",
+      "3. un cahier et un stylo"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **communication orale** est un échange de paroles : un émetteur parle, un récepteur écoute.",
+      "Il y a **six éléments** : l’**émetteur**, le **récepteur**, le **message**, le **canal**, le **code**, le **contexte**.",
+      "Un message a une **intention** : informer, demander, ordonner, convaincre, remercier, raconter.",
+      "Le **canal** est le moyen (la voix, le téléphone) ; le **code** est la langue et les signes compris par tous.",
+      "Le **contexte** (lieu, moment, relation) influence le sens du message.",
+      "Le bruit, la vitesse, un code inconnu ou l’inattention sont des **obstacles** ; le **feed-back** montre si le message est compris.",
+      "Pour **écouter**, on se concentre, on repère qui parle, on note les mots-clés et on reformule."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La communication orale en un coup d’œil",
+     "head": [
+      "Élément",
+      "Question"
+     ],
+     "rows": [
+      [
+       "émetteur",
+       "qui parle ?"
+      ],
+      [
+       "récepteur",
+       "qui écoute ?"
+      ],
+      [
+       "message",
+       "que dit-on ?"
+      ],
+      [
+       "canal",
+       "par quel moyen ?"
+      ],
+      [
+       "code",
+       "avec quelle langue ?"
+      ],
+      [
+       "contexte",
+       "où, quand, à qui ?"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Combien d’éléments compte la communication orale étudiée ici ?",
+     "options": [
+      "Trois",
+      "Quatre",
+      "Six",
+      "Dix"
+     ],
+     "answer": 2,
+     "explain": "Il y a six éléments : émetteur, récepteur, message, canal, code, contexte."
+    }
+   ]
+  }
+ ]
+}
