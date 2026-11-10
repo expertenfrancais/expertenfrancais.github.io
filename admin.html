@@ -149,8 +149,9 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
   </header>
   <main class="ad">
     <section id="vNo" class="center" hidden>
-      <h3>Accès réservé</h3>
+      <h3 id="noTtl">Accès réservé</h3>
       <p id="noMsg">Cette page est réservée à l’administrateur.</p>
+      <button class="btn" id="retry" type="button" hidden>Réessayer</button>
     </section>
     <section id="vAd" hidden>
       <div class="tabs" id="tabs"><button type="button" data-t="codes" class="on">Codes</button><button type="button" data-t="vue">Vue d’ensemble</button><button type="button" data-t="sante">Doublons et santé</button></div>
@@ -282,9 +283,23 @@ function onglet(t){
  if(t==="vue")renderVue();else if(t==="sante"&&!vu.sante){renderSante();vu.sante=1}}
 $("tabs").onclick=function(e){var b=e.target.closest("button");if(b)onglet(b.dataset.t)};
 $("bell").onclick=function(){toast("Aucune nouvelle notification")};
-function refuser(m){$("vNo").hidden=false;$("vAd").hidden=true;if(m)$("noMsg").textContent=m}
-if(!window.syncOn||!syncOn())refuser("Connectez-vous avec votre compte administrateur.");
-else sbRpc("admin_lister_codes",{p_statut:null,p_limite:1}).then(function(){$("vAd").hidden=false;charger()},function(){refuser()});
+function refuser(m){$("vNo").hidden=false;$("vAd").hidden=true;$("noTtl").textContent="Accès réservé";if(m)$("noMsg").textContent=m}
+function verifierAcces(){
+ $("vNo").hidden=false;$("vAd").hidden=true;$("noTtl").textContent="Vérification…";$("noMsg").textContent="Vérification de votre accès administrateur…";$("retry").hidden=true;
+ if(!window.syncOn||!syncOn()){refuser("Connectez-vous avec votre compte administrateur.");return}
+ var delai=new Promise(function(_,no){setTimeout(function(){no(new Error("delai"))},15000)});
+ Promise.race([sbRpc("admin_lister_codes",{p_statut:null,p_limite:1}),delai]).then(function(){
+  $("vNo").hidden=true;$("vAd").hidden=false;charger()
+ }).catch(function(e){
+  var c=String(e&&e.message||e);
+  refuser(c==="delai"?"Le serveur ne répond pas (connexion lente ?). Réessayez.":
+   c==="connexion"?"Connectez-vous avec votre compte administrateur.":
+   (c==="http401"||c==="http403")?"Ce compte n’est pas administrateur, ou la session a expiré : reconnectez-vous.":
+   c==="http404"?"La fonction admin_lister_codes est introuvable côté Supabase (voir supabase/LISEZMOI.md §8).":
+   "Impossible de vérifier l’accès ("+c+"). Réessayez.");
+  if(c!=="connexion")$("retry").hidden=false})}
+$("retry").onclick=verifierAcces;
+verifierAcces();
 $("nav").onclick=navClick;
 nav();
 </script>

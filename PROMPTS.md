@@ -27,14 +27,15 @@ Réponds en français, de façon courte. Si une information manque, pose une seu
 Tâche : créer un nouveau cours.
 Titre : [titre du cours]
 Niveau : [6e / 5e / 4e / 3e / CM2 …]
-Matière : [Grammaire / Conjugaison / Orthographe / Vocabulaire / Expression écrite / Littérature …]
+Matière : [Grammaire / Conjugaison / Orthographe / Vocabulaire / Expression écrite / Expression orale / Lecture / Littérature …]
+Source (facultatif) : [programme APS pour la 6e et la 5e, PPO pour la 4e et la 3e : code du savoir (MF…) ou objectif (O.G / O.S) ; texte support éventuel]
 
 Fichiers à lire : GUIDE-IA.md (tâche B), contenu/SPEC.md, contenu/_exemple.json.
 Fichier à créer : contenu/cours/<cycle>/<id>.json (id = plus grand id de cours + 1 ; trouve-le avec : ls contenu/cours/*/ | sort -n | tail -3).
 Fichier à modifier à part ça : sw.js (VERSION seulement).
 Ne touche à rien d'autre, n'ouvre pas data.js.
 
-Contenu : cours complet et adapté au niveau, en plusieurs parties (la partie 1 gratuite), avec définitions, exemples, exercices et un « À retenir ». Respecte les règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0).
+Contenu : cours complet et adapté au niveau, en plusieurs parties (la partie 1 gratuite), avec définitions, exemples, exercices et un « À retenir ». Respecte les règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0). Si un cours sur ce sujet et ce niveau existe déjà, dis-le-moi au lieu d'en créer un second.
 ```
 
 **Variante deux niveaux** (ex. 4e et 3e) : ajoutez à la fin du prompt ci-dessus :
@@ -142,7 +143,7 @@ Tâche : modifier [le tarif d'une formule d'abonnement / un réglage d'accès : 
 Précision : [ex. enseignant mensuel à 3 000 FCFA / passer GRATUIT à false / rendre Évaluations visible pour les élèves …]
 
 Fichiers à lire : PROJET.md (sections « Abonnement par codes » et « Fiches pédagogiques : accès par abonnement »), GUIDE-IA.md (carte du projet).
-Fichier à modifier : data.js, uniquement la ligne concernée (PLANS, GRATUIT, ACHAT, FICHES_VERROU, FICHES_LIBRES ou ALLOWED_TYPES). Ne touche jamais au bloc du catalogue (entre CATALOGUE-AUTO:DEBUT et FIN).
+Fichier à modifier : data.js, uniquement la ligne concernée (PLANS, GRATUIT, ACHAT, FICHES_VERROU, FICHES_LIBRES, ALLOWED_TYPES, ou PRIX_CYCLE : prix à l'unité, sans effet tant que ACHAT est false). Ne touche jamais au bloc du catalogue (entre CATALOGUE-AUTO:DEBUT et FIN).
 Un tarif doit rester identique aux trois endroits : PLANS (data.js), TARIFS (admin.html) et public.formule() (supabase/03-abonnement-codes.sql). Si tu changes un tarif, modifie les trois et dis-moi s'il faut relancer le script SQL dans Supabase (et quoi coller).
 Ne passe jamais GRATUIT à false sans que je le demande : les parties payantes sont encore des fichiers publics tant que la protection côté serveur (phase 2) n'est pas faite.
 ```
@@ -247,6 +248,8 @@ Teste la logique avant de me rendre l'archive, augmente VERSION dans sw.js et me
 Tâche : remplir [la répartition / le guide pédagogique] du programme [APS / PPO], niveau [6e / 5e / 4e / 3e].
 Contenu officiel : [colle ici le texte ou joins les photos : mois, semaines, savoirs ou objets d'apprentissage, durées…]
 
+État actuel : les répartitions annuelles APS 6e (programme-1) et APS 5e (programme-3) sont remplies d'octobre à juin ; les guides pédagogiques (programme-2, 4, 6, 8) et les répartitions PPO 4e et 3e (programme-5, 7) n'ont que leur partie « Présentation ». Ordre prévu : guide pédagogique 6e, puis 5e.
+
 Fichiers à lire : PROJET.md, GUIDE-PROGRAMMES.md (il donne le tableau des 8 fichiers : numéro du fichier à modifier et format des colonnes). Rien d'autre.
 Fichier à modifier : uniquement le programme-<pg>.json indiqué dans ce tableau (n'ouvre pas les autres programmes).
 Fichier à modifier à part ça : sw.js (VERSION seulement). N'ouvre ni data.js, ni les pages générées, ni les autres dossiers de contenu.
@@ -260,8 +263,21 @@ Recopie fidèlement mon contenu, n'invente rien. Mot illisible : [à vérifier] 
 ```
 Tâche : [ex. protéger côté serveur les parties payantes (phase 2) / ajouter une fonction à admin.html / corriger la page abonnement / changer la durée d'une formule].
 
-Fichiers à lire : PROJET.md (section « Abonnement par codes d'activation » et « Fiches pédagogiques : accès par abonnement »), supabase/LISEZMOI.md (sections 1 et 8), puis uniquement les fichiers de la tâche (abonnement.html, admin.html, supabase/03-abonnement-codes.sql, fiche.js, la fin de data.js : sbRpc et subRefresh).
+Fichiers à lire : PROJET.md (section « Abonnement par codes d'activation » et « Fiches pédagogiques : accès par abonnement »), supabase/LISEZMOI.md (sections 1 et 8), puis uniquement les fichiers de la tâche (abonnement.html, admin.html, supabase/03-abonnement-codes.sql, fiche.js, la fin de data.js : sbRpc et subRefresh). Pour un travail sur le tableau de bord administrateur lui-même, utilise plutôt le prompt 18.
 Contraintes : pas de PawaPay ni de paiement en ligne (pas d'entreprise enregistrée) : le client paie en Mobile Money, me contacte, reçoit un code à usage unique et le saisit dans abonnement.html. Un code utilisé n'est jamais réactivable. Le site est statique : clé publique seulement, jamais la clé service_role. Chaque table a des règles de sécurité (RLS). Tarifs identiques dans PLANS (data.js), TARIFS (admin.html) et public.formule() (script SQL).
 Tout nouveau script SQL va dans supabase/NN-nom.sql, relançable sans risque ; dis-moi exactement quoi coller et où cliquer dans Supabase (je suis sur téléphone).
 Avant de commencer, propose-moi ton plan en quelques lignes et attends mon accord si la tâche touche à la sécurité des contenus. Teste la logique avant de me rendre l'archive.
+```
+
+---
+
+## 18. TABLEAU DE BORD ADMINISTRATEUR (admin.html)
+
+```
+Tâche : [ex. ajouter à admin.html le journal des publications / ajouter un indicateur à « Vue d'ensemble » / une nouvelle vérification dans « Doublons et santé » / corriger un message d'erreur].
+
+Fichiers à lire : PROJET.md (section « Abonnement par codes d'activation » : état et étapes à venir d'admin.html), supabase/LISEZMOI.md (§ 8, administrateurs), puis uniquement admin.html. Si la tâche demande des données écrites au moment de la publication (journal des publications), lis aussi la partie concernée de outils/generer-pages.js ; si elle demande de nouvelles données dans Supabase (activité des utilisateurs, abonnements), lis supabase/03-abonnement-codes.sql comme modèle.
+État actuel : trois onglets. « Codes » (générer, lister, noter, annuler) ; « Vue d'ensemble » (pages publiées, version du site lue dans sw.js, répartition par type, niveau et matière, derniers cours, prochain numéro libre par type) ; « Doublons et santé » (titres, numéros et fichiers en double ; bouton « Vérifier les fichiers »). Les deux derniers sont calculés depuis ALLDOCS de data.js : ne change pas le format du catalogue. L'accès est réservé aux comptes de la table admins ; la page affiche « Vérification… », attend Supabase au plus 15 s, donne la raison précise d'un échec et propose « Réessayer » : conserve ce comportement.
+Contraintes : clé publique seulement, jamais la clé service_role. Pas de lien vers admin.html depuis les menus. Toute nouvelle table a des règles de sécurité (RLS) réservées aux administrateurs, avec un script supabase/NN-nom.sql relançable sans risque ; dis-moi exactement quoi coller et où cliquer dans Supabase (je suis sur téléphone). Ne touche pas aux codes déjà générés ni aux tarifs (identiques dans PLANS, TARIFS et public.formule()).
+Avant de commencer, propose-moi ton plan en quelques lignes et attends mon accord si la tâche ajoute une table Supabase.
 ```

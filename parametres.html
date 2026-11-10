@@ -202,16 +202,25 @@ $("theme").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;
  try{if(b.dataset.v==="auto")localStorage.removeItem("theme");else localStorage.setItem("theme",b.dataset.v)}catch(x){}
  applyTheme();paintTheme();paintThemeBtn&&paintThemeBtn()};
 
-/* Installation et hors ligne */
+/* Installation et hors ligne
+   Android : le bouton télécharge l’application (expertenfrancais.apk, à la racine du site) ; l’utilisateur l’ouvre ensuite pour l’installer.
+   Dans l’application elle-même (« median » dans l’agent utilisateur) : rien à installer.
+   Autres appareils : installation du navigateur (PWA) comme avant. */
+var APK="expertenfrancais.apk",UA=navigator.userAgent,ANDROID=/android/i.test(UA),INAPP=/median/i.test(UA),apkDone=false;
 function appCard(){
- var ios=/iphone|ipad|ipod/i.test(navigator.userAgent),t;
- $("installBtn").hidden=!deferredInstall;
- if(isStandalone())t="Application installée ✓ Vos pages déjà visitées restent disponibles sans internet.";
- else if(deferredInstall)t="Installez l’application : elle s’ouvre comme une application et reste disponible sans internet.";
- else if(ios)t="Sur iPhone : touchez Partager, puis « Sur l’écran d’accueil ».";
- else t="Utilisez le menu de votre navigateur (« Installer l’application » ou « Ajouter à l’écran d’accueil »).";
+ var ios=/iphone|ipad|ipod/i.test(UA),t,show;
+ if(INAPP||isStandalone()){show=false;t="Application installée ✓ Vos pages déjà visitées restent disponibles sans internet."}
+ else if(ANDROID){show=true;t=apkDone?"Téléchargement lancé. Ouvrez le fichier « expertenfrancais.apk » (notification ou dossier Téléchargements), puis touchez Installer. Si Android le demande, autorisez l’installation depuis ce navigateur.":"Téléchargez l’application Android, puis ouvrez le fichier pour l’installer."}
+ else if(deferredInstall){show=true;t="Installez l’application : elle s’ouvre comme une application et reste disponible sans internet."}
+ else if(ios){show=false;t="Sur iPhone : touchez Partager, puis « Sur l’écran d’accueil »."}
+ else{show=false;t="Utilisez le menu de votre navigateur (« Installer l’application » ou « Ajouter à l’écran d’accueil »)."}
+ $("installBtn").hidden=!show;
  $("appTxt").textContent=t}
-$("installBtn").onclick=function(){installApp().then(function(ok){if(ok)toast("Application installée ✓");appCard()})};
+$("installBtn").onclick=function(){
+ if(ANDROID&&!INAPP){
+  var a=document.createElement("a");a.href=APK;a.download=APK;a.style.display="none";document.body.appendChild(a);a.click();document.body.removeChild(a);
+  apkDone=true;toast("Téléchargement de l’application…");appCard();return}
+ installApp().then(function(ok){if(ok)toast("Application installée ✓");appCard()})};
 document.addEventListener("installready",appCard);document.addEventListener("installdone",appCard);
 
 /* Mise à jour de l’application : compare la version installée (cache du service worker) à celle du serveur (sw.js) */

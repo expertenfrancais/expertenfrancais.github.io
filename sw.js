@@ -1,7 +1,7 @@
 /* ===== sw.js : service worker (fonctionnement hors ligne) =====
    Placez ce fichier au même endroit que les pages. Quand vous modifiez une page,
    changez le numéro de VERSION pour que les utilisateurs reçoivent la mise à jour. */
-var VERSION = "v195";
+var VERSION = "v197";
 var CACHE="ressources-"+VERSION;
 var IMAGES="ressources-images";
 /* Les fiches pédagogiques (dossier fiches/) ne sont pas préchargées : elles sont gardées hors ligne à la première ouverture. */
@@ -37,6 +37,9 @@ self.addEventListener("fetch",function(e){
 
   /* sw.js lui-même : toujours demandé au serveur (sert à détecter une nouvelle version) */
   if(url.pathname.slice(-6)==="/sw.js")return;
+
+  /* Application Android (.apk, ~10 Mo) : jamais mise en cache, le navigateur la télécharge directement */
+  if(/\.apk$/i.test(url.pathname))return;
 
   /* Appels d’API : jamais mis en cache (données privées, documents payants) */
   if(url.pathname.indexOf("/api/")>-1)return;
