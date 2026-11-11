@@ -1,0 +1,229 @@
+{
+ "id": 195,
+ "meta": {
+  "t": "La concordance des temps : l’axe de temps",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Situer les actions dans le temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Hier, il **a plu**. Aujourd’hui, il **pleut**. Demain, il **pleuvra**. » Pour bien employer les temps, on se repère sur un **axe de temps** : une ligne qui va du passé au futur en passant par le moment où l’on parle."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Construire l’axe de temps",
+      "Classer les temps du passé, du présent et du futur",
+      "Choisir le temps de la subordonnée"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Axe de temps",
+     "text": "L’**axe de temps** est une ligne sur laquelle on place les actions. Le point central est le **moment où l’on parle** (le présent)."
+    },
+    {
+     "type": "schema",
+     "title": "L’axe de temps",
+     "cells": [
+      {
+       "mot": "avant",
+       "role": "passé : imparfait, passé simple, passé composé, plus-que-parfait"
+      },
+      {
+       "mot": "maintenant",
+       "role": "présent",
+       "noyau": true
+      },
+      {
+       "mot": "après",
+       "role": "futur : futur simple, futur antérieur"
+      }
+     ],
+     "note": "Le moment de la parole sépare le passé du futur."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps correspond au moment où l’on parle ?",
+     "options": [
+      "l’imparfait",
+      "le présent",
+      "le futur simple",
+      "le passé simple"
+     ],
+     "answer": 1,
+     "explain": "Le **présent** est le point central de l’axe."
+    }
+   ]
+  },
+  {
+   "t": "Les trois relations entre deux actions",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase à deux verbes, l’action de la subordonnée se place par rapport à celle de la principale. Il y a **trois relations**."
+    },
+    {
+     "type": "table",
+     "title": "Antériorité, simultanéité, postériorité",
+     "head": [
+      "Relation",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "antériorité",
+       "l’action a lieu **avant**",
+       "Je sais qu’il **est venu**."
+      ],
+      [
+       "simultanéité",
+       "l’action a lieu **en même temps**",
+       "Je vois qu’il **vient**."
+      ],
+      [
+       "postériorité",
+       "l’action a lieu **après**",
+       "Je sais qu’il **viendra**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Se poser la question",
+     "text": "Demande-toi : l’action de la subordonnée a-t-elle eu lieu **avant**, **pendant** ou **après** celle de la principale ?"
+    }
+   ]
+  },
+  {
+   "t": "Le temps de la principale décide",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le temps du verbe principal fixe le point de repère. On choisit ensuite le temps de la subordonnée en fonction de la relation."
+    },
+    {
+     "type": "table",
+     "title": "Principale au présent",
+     "head": [
+      "Relation",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "antériorité",
+       "passé composé",
+       "Je dis qu’il **est parti**."
+      ],
+      [
+       "simultanéité",
+       "présent",
+       "Je dis qu’il **part**."
+      ],
+      [
+       "postériorité",
+       "futur simple",
+       "Je dis qu’il **partira**."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Principale au passé",
+     "head": [
+      "Relation",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "antériorité",
+       "plus-que-parfait",
+       "Je disais qu’il **était parti**."
+      ],
+      [
+       "simultanéité",
+       "imparfait",
+       "Je disais qu’il **partait**."
+      ],
+      [
+       "postériorité",
+       "conditionnel présent",
+       "Je disais qu’il **partirait**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Conjugue le verbe entre parenthèses au temps qui convient.",
+     "items": [
+      "Je sais que tu (réussir) demain. (postériorité)",
+      "Il disait qu’elle (être) malade. (simultanéité)",
+      "Nous pensons qu’ils (arriver) hier. (antériorité)",
+      "Elle affirma qu’elle (revenir) le lendemain. (postériorité)"
+     ],
+     "corrige": [
+      "1. réussiras",
+      "2. était",
+      "3. sont arrivés",
+      "4. reviendrait"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il pensait qu’elle viendrait » : la subordonnée exprime :",
+     "options": [
+      "l’antériorité",
+      "la simultanéité",
+      "la postériorité",
+      "l’hypothèse"
+     ],
+     "answer": 2,
+     "explain": "Le conditionnel présent exprime le **futur dans le passé** : postériorité."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "On se repère sur un **axe de temps** : passé, présent, futur.",
+      "Trois relations : **antériorité**, **simultanéité**, **postériorité**.",
+      "Le temps de la **principale** fixe le repère.",
+      "Principale au passé : plus-que-parfait / imparfait / conditionnel présent."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Après une principale au passé, la postériorité s’exprime par :",
+     "options": [
+      "le futur simple",
+      "le conditionnel présent",
+      "le présent",
+      "le passé composé"
+     ],
+     "answer": 1,
+     "explain": "« Il disait qu’il viendrait. »"
+    }
+   ]
+  }
+ ]
+}

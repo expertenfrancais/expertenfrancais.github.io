@@ -1,0 +1,212 @@
+{
+ "id": 202,
+ "meta": {
+  "t": "Le respect des règles de la prosodie : les signes de ponctuation",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Lire à haute voix",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **prosodie** est l’art de bien lire à voix haute : respecter les pauses, le rythme et la mélodie. Les **signes de ponctuation** sont nos guides : ils indiquent où s’arrêter et comment faire varier la voix."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir la prosodie",
+      "Associer chaque signe à sa lecture",
+      "Lire un texte en respectant la ponctuation"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Prosodie",
+     "text": "La **prosodie** regroupe tout ce qui rend une lecture vivante : **pauses**, **rythme**, **intonation**, **volume**."
+    },
+    {
+     "type": "quiz",
+     "question": "Les signes de ponctuation servent à :",
+     "options": [
+      "décorer le texte",
+      "guider les pauses et l’intonation",
+      "remplacer les mots",
+      "raccourcir la lecture"
+     ],
+     "answer": 1,
+     "explain": "Ils indiquent les **pauses** et la **mélodie**."
+    }
+   ]
+  },
+  {
+   "t": "Chaque signe, une lecture",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Ponctuation et voix",
+     "head": [
+      "Signe",
+      "Lecture",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "le point .",
+       "longue pause, la voix **descend**",
+       "Il est parti."
+      ],
+      [
+       "la virgule ,",
+       "courte pause, la voix reste **en suspens**",
+       "Il entra, salua, s’assit."
+      ],
+      [
+       "le point-virgule ;",
+       "pause moyenne",
+       "Il pleut ; nous restons."
+      ],
+      [
+       "les deux-points :",
+       "pause qui **annonce** la suite",
+       "Il dit : « Viens. »"
+      ],
+      [
+       "le point d’interrogation ?",
+       "la voix **monte**",
+       "Tu viens ?"
+      ],
+      [
+       "le point d’exclamation !",
+       "voix **expressive**, plus forte",
+       "Quelle belle surprise !"
+      ],
+      [
+       "les points de suspension …",
+       "voix suspendue, pause longue",
+       "Je ne sais pas…"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Dialogues et citations",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Signes du dialogue",
+     "head": [
+      "Signe",
+      "Lecture"
+     ],
+     "rows": [
+      [
+       "les guillemets « »",
+       "on change de voix pour la parole rapportée"
+      ],
+      [
+       "le tiret —",
+       "changement de locuteur : on change de ton"
+      ],
+      [
+       "les parenthèses ( )",
+       "voix plus basse, aparté"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un narrateur, des personnages",
+     "text": "Dans un dialogue, lis la narration d’une voix **neutre** et la parole des personnages avec **leur** caractère."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne lis pas **sans t’arrêter** : l’auditeur se perd. Ne marque pas non plus un arrêt **après chaque mot**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "ignorer les virgules",
+      "lire une question avec la voix qui descend",
+      "oublier la pause du point",
+      "lire un texte triste avec une voix joyeuse"
+     ],
+     "label": "Erreurs fréquentes"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Indique la lecture qui convient.",
+     "items": [
+      "Tu viens ? (la voix…)",
+      "Il est parti. (la voix…)",
+      "Quelle chance ! (la voix…)",
+      "Il dit : « Viens. » (après les deux-points…)"
+     ],
+     "corrige": [
+      "1. monte",
+      "2. descend, longue pause",
+      "3. expressive, plus forte",
+      "4. courte pause qui annonce la parole"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Au point d’interrogation, la voix :",
+     "options": [
+      "descend",
+      "monte",
+      "reste plate",
+      "s’arrête"
+     ],
+     "answer": 1,
+     "explain": "On marque la question par une voix **montante**."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **prosodie** rend la lecture vivante.",
+      "**Point** : pause longue, voix qui descend.",
+      "**Virgule** : courte pause.",
+      "**?** : voix qui monte ; **!** : voix expressive.",
+      "Les **guillemets** et **tirets** annoncent un changement de voix."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Les points de suspension demandent :",
+     "options": [
+      "une voix qui monte",
+      "une voix suspendue",
+      "un cri",
+      "une voix plate"
+     ],
+     "answer": 1,
+     "explain": "On laisse la voix **en suspens**."
+    }
+   ]
+  }
+ ]
+}

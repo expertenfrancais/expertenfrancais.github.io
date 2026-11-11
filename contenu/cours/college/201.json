@@ -1,0 +1,221 @@
+{
+ "id": 201,
+ "meta": {
+  "t": "L’identification des indices de sens d’un discours expressif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Écouter pour comprendre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Mes chers amis, je suis si heureux de vous retrouver ce soir ! » Celui qui parle exprime sa **joie**. Pour comprendre un discours entendu, on repère des **indices** : qui parle, à qui, de quoi, dans quelle situation, pourquoi."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir le discours expressif",
+      "Repérer thème, émetteur, destinataire, contexte",
+      "Trouver l’intention de communication"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Discours expressif",
+     "text": "Un **discours expressif** est un discours oral par lequel l’émetteur **exprime ses sentiments, ses émotions ou ses impressions** (joie, colère, tristesse, remerciement…)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un discours expressif, l’émetteur :",
+     "options": [
+      "récite une leçon",
+      "exprime ses sentiments",
+      "donne un itinéraire",
+      "lit un horaire"
+     ],
+     "answer": 1,
+     "explain": "Le discours expressif traduit des **émotions**."
+    }
+   ]
+  },
+  {
+   "t": "Les indices de sens",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Cinq questions à se poser",
+     "head": [
+      "Indice",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "thème",
+       "De quoi parle-t-on ?",
+       "la fin de l’année scolaire"
+      ],
+      [
+       "émetteur",
+       "Qui parle ?",
+       "le directeur de l’école"
+      ],
+      [
+       "destinataire",
+       "À qui s’adresse-t-on ?",
+       "les élèves et leurs parents"
+      ],
+      [
+       "contexte",
+       "Où ? Quand ? Dans quelle circonstance ?",
+       "dans la cour, à la remise des bulletins"
+      ],
+      [
+       "intention",
+       "Pourquoi parle-t-il ?",
+       "remercier, féliciter, encourager"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "La situation de communication",
+     "cells": [
+      {
+       "mot": "émetteur",
+       "role": "celui qui parle",
+       "noyau": true
+      },
+      {
+       "mot": "message",
+       "role": "ce qui est dit"
+      },
+      {
+       "mot": "destinataire",
+       "role": "celui qui écoute",
+       "noyau": true
+      }
+     ],
+     "note": "Le **contexte** et l’**intention** complètent la situation."
+    }
+   ]
+  },
+  {
+   "t": "Les intentions de communication",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Quelques intentions",
+     "head": [
+      "Intention",
+      "Indices possibles",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "remercier",
+       "merci, reconnaissance",
+       "« Merci du fond du cœur. »"
+      ],
+      [
+       "féliciter",
+       "bravo, félicitations",
+       "« Bravo pour ce succès ! »"
+      ],
+      [
+       "consoler",
+       "courage, je suis avec toi",
+       "« Je suis là, courage. »"
+      ],
+      [
+       "se plaindre",
+       "c’est injuste, j’en ai assez",
+       "« Je n’en peux plus ! »"
+      ],
+      [
+       "exprimer la joie",
+       "quelle chance, je suis ravi",
+       "« Quel bonheur ! »"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Écouter la voix",
+     "text": "Le **ton**, le **rythme** et les **exclamations** révèlent le sentiment : une voix vive et haute exprime souvent la joie, une voix lente et basse la tristesse."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Texte entendu : « Chers parents, chers camarades, je tiens à vous remercier. Grâce à vous, notre fête de fin d’année a été un grand succès. Je suis fier de vous ! » (le directeur, dans la cour, à la fin de l’année)."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réponds aux questions.",
+     "items": [
+      "Qui parle ?",
+      "À qui s’adresse-t-il ?",
+      "Quel est le thème ?",
+      "Quelle est l’intention ?",
+      "Quel sentiment exprime-t-il ?"
+     ],
+     "corrige": [
+      "1. Le directeur.",
+      "2. Aux parents et aux élèves.",
+      "3. La réussite de la fête de fin d’année.",
+      "4. Remercier.",
+      "5. La fierté et la reconnaissance."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Je tiens à vous remercier » exprime l’intention de :",
+     "options": [
+      "se plaindre",
+      "remercier",
+      "menacer",
+      "informer"
+     ],
+     "answer": 1,
+     "explain": "Le verbe **remercier** indique l’intention."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Discours expressif** = discours qui exprime des sentiments.",
+      "Indices : **thème**, **émetteur**, **destinataire**, **contexte**, **intention**.",
+      "Le **ton** de la voix aide à comprendre le sentiment."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Qui est le destinataire d’un discours ?",
+     "options": [
+      "celui qui parle",
+      "celui à qui l’on parle",
+      "le sujet traité",
+      "le lieu"
+     ],
+     "answer": 1,
+     "explain": "Le destinataire est la personne visée par le message."
+    }
+   ]
+  }
+ ]
+}

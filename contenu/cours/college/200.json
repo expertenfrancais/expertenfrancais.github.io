@@ -1,0 +1,288 @@
+{
+ "id": 200,
+ "meta": {
+  "t": "Les formes verbales : les formes affirmative et négative",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Dire oui ou dire non",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il **mange**. » « Il **ne mange pas**. » La première phrase est à la **forme affirmative**, la seconde à la **forme négative**. Le verbe change d’aspect, mais pas de temps."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître les deux formes",
+      "Placer correctement la négation",
+      "Passer d’une forme à l’autre"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Forme négative",
+     "text": "La **forme négative** nie le fait exprimé par le verbe, avec un **adverbe de négation à deux éléments** : **ne … pas**, **ne … plus**, **ne … jamais**…"
+    },
+    {
+     "type": "table",
+     "title": "Les deux formes",
+     "head": [
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "affirmative",
+       "Les élèves **écoutent**."
+      ],
+      [
+       "négative",
+       "Les élèves **n’écoutent pas**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la forme négative ?",
+     "options": [
+      "Il parle.",
+      "Il ne parle jamais.",
+      "Parle-t-il ?",
+      "Quel bruit !"
+     ],
+     "answer": 1,
+     "explain": "« ne … jamais » marque la négation."
+    }
+   ]
+  },
+  {
+   "t": "Les termes de négation",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les principales négations",
+     "head": [
+      "Négation",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "ne … pas",
+       "négation simple",
+       "Je **ne** sais **pas**."
+      ],
+      [
+       "ne … plus",
+       "fin d’une action",
+       "Il **ne** pleut **plus**."
+      ],
+      [
+       "ne … jamais",
+       "aucun moment",
+       "Tu **ne** mens **jamais**."
+      ],
+      [
+       "ne … rien",
+       "aucune chose",
+       "Elle **ne** dit **rien**."
+      ],
+      [
+       "ne … personne",
+       "aucune personne",
+       "Je **ne** vois **personne**."
+      ],
+      [
+       "ne … aucun",
+       "aucun élément",
+       "Il **n’**a **aucun** doute."
+      ],
+      [
+       "ne … que",
+       "restriction (= seulement)",
+       "Il **n’**a **que** dix ans."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "**Ne … que** n’est pas une vraie négation : il signifie **seulement**. « Il n’a que dix ans » veut dire « Il a seulement dix ans »."
+    },
+    {
+     "type": "quiz",
+     "question": "« Il n’a que dix ans » signifie :",
+     "options": [
+      "Il n’a pas dix ans.",
+      "Il a seulement dix ans.",
+      "Il a plus de dix ans.",
+      "Il a dix ans passés."
+     ],
+     "answer": 1,
+     "explain": "**ne … que** exprime la restriction."
+    }
+   ]
+  },
+  {
+   "t": "La place de la négation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La négation entoure le verbe conjugué : **ne** se place devant, **pas** (ou **plus**, **jamais**…) se place derrière."
+    },
+    {
+     "type": "table",
+     "title": "Où placer ne … pas ?",
+     "head": [
+      "Cas",
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps simple",
+       "ne + verbe + pas",
+       "Il **ne chante pas**."
+      ],
+      [
+       "temps composé",
+       "ne + auxiliaire + pas + participe",
+       "Il **n’a pas chanté**."
+      ],
+      [
+       "pronom devant le verbe",
+       "ne + pronom + verbe + pas",
+       "Je **ne le** vois **pas**."
+      ],
+      [
+       "impératif",
+       "ne + verbe + pas",
+       "**Ne cours pas** !"
+      ],
+      [
+       "infinitif",
+       "ne pas + infinitif",
+       "Je préfère **ne pas partir**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Élision",
+     "text": "**Ne** devient **n’** devant une voyelle ou un *h* muet : « Il **n’**habite **pas** ici. »"
+    }
+   ]
+  },
+  {
+   "t": "Passer de l’affirmative à la négative",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les changements",
+     "head": [
+      "Forme affirmative",
+      "Forme négative"
+     ],
+     "rows": [
+      [
+       "quelqu’un",
+       "**personne** : Je ne vois personne."
+      ],
+      [
+       "quelque chose / tout",
+       "**rien** : Il ne dit rien."
+      ],
+      [
+       "toujours / souvent",
+       "**jamais** : Il ne ment jamais."
+      ],
+      [
+       "encore / toujours (temps)",
+       "**plus** : Il ne dort plus."
+      ],
+      [
+       "déjà",
+       "**pas encore** : Il n’est pas encore parti."
+      ],
+      [
+       "un, une, des, du",
+       "**de / d’** : J’ai des amis → Je **n’**ai **pas d’**amis."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Après une négation, **un / une / des / du** deviennent **de / d’** : « J’ai **des** livres » → « Je n’ai pas **de** livres ». Exception avec le verbe *être* : « Ce n’est pas **un** livre »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative.",
+     "items": [
+      "Elle chante bien.",
+      "Nous avons des amis ici.",
+      "Quelqu’un frappe à la porte.",
+      "Il a déjà fini."
+     ],
+     "corrige": [
+      "1. Elle ne chante pas bien.",
+      "2. Nous n’avons pas d’amis ici.",
+      "3. Personne ne frappe à la porte.",
+      "4. Il n’a pas encore fini."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je n’ai pas des livres.",
+      "Je n’ai pas de livres.",
+      "Je ai pas de livres.",
+      "Je n’ai des pas livres."
+     ],
+     "answer": 1,
+     "explain": "Après la négation : **de**."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **forme négative** nie le fait : **ne … pas / plus / jamais / rien / personne / aucun**.",
+      "**Ne** précède le verbe conjugué ; **pas** le suit (temps composé : autour de l’auxiliaire).",
+      "Après une négation, **un / des / du** → **de / d’**.",
+      "**Ne … que** = seulement (restriction)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il n’a pas chanté » : où est « pas » ?",
+     "options": [
+      "avant l’auxiliaire",
+      "entre l’auxiliaire et le participe",
+      "après le participe",
+      "avant « ne »"
+     ],
+     "answer": 1,
+     "explain": "Temps composé : ne + **auxiliaire + pas** + participe."
+    }
+   ]
+  }
+ ]
+}

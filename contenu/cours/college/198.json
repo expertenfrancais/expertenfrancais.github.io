@@ -1,0 +1,193 @@
+{
+ "id": 198,
+ "meta": {
+  "t": "La concordance des temps : la postériorité",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "L’action qui aura lieu après",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je sais qu’il **viendra**. » « Je savais qu’il **viendrait**. » Dans ces phrases, la venue a lieu **après** le moment de la principale : c’est la **postériorité**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître la postériorité",
+      "Employer le futur et le conditionnel présent",
+      "Éviter l’erreur du futur après un passé"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Postériorité",
+     "text": "Il y a **postériorité** quand l’action de la subordonnée a lieu **après** celle de la principale."
+    },
+    {
+     "type": "schema",
+     "title": "Une action postérieure",
+     "cells": [
+      {
+       "mot": "il viendrait",
+       "role": "conditionnel présent (après)",
+       "noyau": true
+      },
+      {
+       "mot": "je savais",
+       "role": "imparfait (repère)"
+      }
+     ],
+     "note": "Le conditionnel présent joue le rôle d’un **futur dans le passé**."
+    },
+    {
+     "type": "quiz",
+     "question": "« Elle promit qu’elle écrirait » exprime :",
+     "options": [
+      "l’antériorité",
+      "la simultanéité",
+      "la postériorité",
+      "la cause"
+     ],
+     "answer": 2,
+     "explain": "Le conditionnel présent marque l’action **postérieure**."
+    }
+   ]
+  },
+  {
+   "t": "Le tableau des temps",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Exprimer la postériorité",
+     "head": [
+      "Temps de la principale",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "futur simple",
+       "Je sais qu’il **viendra**."
+      ],
+      [
+       "passé (imparfait, passé composé, passé simple)",
+       "conditionnel présent",
+       "Il a promis qu’il **viendrait**."
+      ],
+      [
+       "futur",
+       "futur simple",
+       "Je dirai qu’elle **arrivera** demain."
+      ],
+      [
+       "verbe de volonté",
+       "subjonctif présent",
+       "Je veux qu’il **vienne** demain."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le piège du futur",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Après une principale au passé, on **n’écrit pas** le futur simple : « Il a dit qu’il **viendra** » est une faute. On écrit « qu’il **viendrait** »."
+    },
+    {
+     "type": "table",
+     "title": "Corriger",
+     "head": [
+      "Phrase fautive",
+      "Phrase correcte"
+     ],
+     "rows": [
+      [
+       "Elle annonça qu’elle **partira** demain.",
+       "Elle annonça qu’elle **partirait** le lendemain."
+      ],
+      [
+       "Je pensais qu’il **réussira**.",
+       "Je pensais qu’il **réussirait**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les repères changent",
+     "text": "Dans le discours rapporté, **demain** devient **le lendemain** et **hier** devient **la veille**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au temps qui exprime la postériorité.",
+     "items": [
+      "Je sais que tu (réussir).",
+      "Il pensait que nous (venir) plus tard.",
+      "Elle a promis qu’elle (écrire).",
+      "Nous espérons qu’il (guérir)."
+     ],
+     "corrige": [
+      "1. réussiras",
+      "2. viendrions",
+      "3. écrirait",
+      "4. guérira"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il disait qu’il viendra.",
+      "Il disait qu’il viendrait.",
+      "Il dit qu’il viendrait demain.",
+      "Il disait qu’il vient."
+     ],
+     "answer": 1,
+     "explain": "Après un passé : conditionnel présent."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Postériorité** = l’action a lieu **après** celle de la principale.",
+      "Principale au présent ou au futur → **futur simple**.",
+      "Principale au passé → **conditionnel présent** (futur dans le passé).",
+      "Jamais de futur simple après un verbe au passé."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Je savais qu’il partirait » : « partirait » est :",
+     "options": [
+      "un imparfait",
+      "un futur simple",
+      "un conditionnel présent",
+      "un subjonctif"
+     ],
+     "answer": 2,
+     "explain": "Terminaison -rait : conditionnel présent."
+    }
+   ]
+  }
+ ]
+}

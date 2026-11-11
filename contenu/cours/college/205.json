@@ -1,0 +1,191 @@
+{
+ "id": 205,
+ "meta": {
+  "t": "Le respect des règles de la prosodie : la modulation de la voix",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Faire vivre le texte",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lire toujours sur le même ton ennuie l’auditeur. Un bon lecteur **module** sa voix : il la fait varier selon ce qu’il lit. C’est la **modulation de la voix**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir la modulation",
+      "Jouer sur le volume, le débit et la hauteur",
+      "Adapter sa voix à un texte"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Modulation de la voix",
+     "text": "La **modulation** est le fait de **faire varier** sa voix (volume, débit, hauteur, pauses) pour exprimer le sens et les sentiments d’un texte."
+    },
+    {
+     "type": "quiz",
+     "question": "Moduler sa voix, c’est :",
+     "options": [
+      "parler très fort",
+      "la faire varier selon le texte",
+      "lire plus vite",
+      "chuchoter"
+     ],
+     "answer": 1,
+     "explain": "On adapte la voix à ce que l’on lit."
+    }
+   ]
+  },
+  {
+   "t": "Les éléments de la voix",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Ce que l’on peut faire varier",
+     "head": [
+      "Élément",
+      "Variation",
+      "Effet"
+     ],
+     "rows": [
+      [
+       "volume",
+       "fort / faible",
+       "insister, ou créer le mystère"
+      ],
+      [
+       "débit",
+       "rapide / lent",
+       "urgence, ou solennité"
+      ],
+      [
+       "hauteur",
+       "aiguë / grave",
+       "joie, ou gravité"
+      ],
+      [
+       "pauses",
+       "courtes / longues",
+       "suspense, mise en valeur"
+      ],
+      [
+       "accentuation",
+       "appuyer un mot",
+       "souligner une idée"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Il **n’y avait… plus… personne.** » : voix lente et basse pour créer l’inquiétude.",
+     "label": "Exemple"
+    }
+   ]
+  },
+  {
+   "t": "Adapter sa voix au texte",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Selon le type de texte",
+     "head": [
+      "Texte",
+      "Voix conseillée"
+     ],
+     "rows": [
+      [
+       "récit d’aventure",
+       "rythme vif, voix qui s’anime aux moments forts"
+      ],
+      [
+       "texte descriptif",
+       "voix calme, débit régulier"
+      ],
+      [
+       "poème",
+       "voix mélodieuse, pauses à la fin des vers"
+      ],
+      [
+       "dialogue",
+       "voix différente pour chaque personnage"
+      ],
+      [
+       "discours",
+       "voix forte, claire, appuyée"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "S’entraîner",
+     "text": "Lis ton texte **trois fois** : une première fois pour comprendre, une deuxième pour repérer les pauses, une troisième en jouant avec ta voix."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Choisis la modulation la plus adaptée.",
+     "items": [
+      "Un personnage crie au secours.",
+      "Une description calme d’un village au coucher du soleil.",
+      "Un narrateur annonce un secret."
+     ],
+     "corrige": [
+      "1. voix forte, rapide, haute",
+      "2. voix douce, débit lent et régulier",
+      "3. voix basse, pauses, suspense"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Pour créer du suspense, on :",
+     "options": [
+      "parle très vite",
+      "baisse la voix et fait des pauses",
+      "crie",
+      "lit sans s’arrêter"
+     ],
+     "answer": 1,
+     "explain": "Voix basse et pauses créent le **suspense**."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Moduler** = faire varier sa voix.",
+      "On joue sur le **volume**, le **débit**, la **hauteur** et les **pauses**.",
+      "La voix s’adapte au **type de texte** et au **sentiment**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un débit lent donne un effet de :",
+     "options": [
+      "urgence",
+      "solennité ou gravité",
+      "joie",
+      "colère"
+     ],
+     "answer": 1,
+     "explain": "Un rythme lent donne de la **gravité**."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "id": 210,
+ "meta": {
+  "t": "L’identification des indices de sens : personnages, événements et enchaînement des événements",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Comprendre un récit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour comprendre un récit, on cherche : **qui** agit (les personnages), **que se passe-t-il** (les événements) et **dans quel ordre** (l’enchaînement). Ce sont des **indices de sens**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Repérer les personnages",
+      "Relever les événements",
+      "Établir l’ordre des événements"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "p",
+     "text": "**Texte :** *Awa se leva avant l’aube. Elle devait porter un panier de manioc au marché. En chemin, elle croisa son oncle, qui lui offrit de l’aide. Ensemble, ils arrivèrent à l’heure, et Awa vendit tout avant midi.*"
+    },
+    {
+     "type": "table",
+     "title": "Les indices du texte",
+     "head": [
+      "Indice",
+      "Réponse"
+     ],
+     "rows": [
+      [
+       "personnages",
+       "Awa, son oncle"
+      ],
+      [
+       "lieu",
+       "la route, le marché"
+      ],
+      [
+       "événements",
+       "Awa se lève, porte le manioc, rencontre l’oncle, vend tout"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Qui sont les personnages du texte ?",
+     "options": [
+      "Awa seule",
+      "Awa et son oncle",
+      "l’oncle seul",
+      "les clients"
+     ],
+     "answer": 1,
+     "explain": "Awa et son oncle agissent dans le récit."
+    }
+   ]
+  },
+  {
+   "t": "Repérer les personnages",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Types de personnages",
+     "head": [
+      "Type",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "principal",
+       "il mène l’histoire"
+      ],
+      [
+       "secondaire",
+       "il aide ou gêne le principal"
+      ],
+      [
+       "adjuvant",
+       "il aide le héros"
+      ],
+      [
+       "opposant",
+       "il s’oppose au héros"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Comment les repérer ?",
+     "text": "Cherche les **noms propres**, les **pronoms** (il, elle) et les **verbes d’action**."
+    },
+    {
+     "type": "ex",
+     "text": "Dans le texte d’Awa, l’**oncle** est un **adjuvant** : il aide l’héroïne.",
+     "label": "Exemple"
+    }
+   ]
+  },
+  {
+   "t": "Relever les événements",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un **événement** est ce qui se passe. On le repère par les **verbes d’action** : *se leva, croisa, offrit, arrivèrent, vendit*."
+    },
+    {
+     "type": "table",
+     "title": "Les étapes du récit",
+     "head": [
+      "Étape",
+      "Texte d’Awa"
+     ],
+     "rows": [
+      [
+       "situation initiale",
+       "Awa se lève avant l’aube."
+      ],
+      [
+       "élément perturbateur",
+       "Elle doit porter le panier au marché."
+      ],
+      [
+       "péripétie",
+       "Elle croise son oncle."
+      ],
+      [
+       "dénouement",
+       "Ils arrivent à l’heure."
+      ],
+      [
+       "situation finale",
+       "Awa vend tout avant midi."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne confonds pas **événement** (ce qui arrive) et **description** (ce qu’on voit)."
+    }
+   ]
+  },
+  {
+   "t": "L’enchaînement des événements",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les indices de l’ordre",
+     "head": [
+      "Type d’indice",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "connecteurs temporels",
+       "d’abord, puis, ensuite, enfin, avant midi"
+      ],
+      [
+       "temps des verbes",
+       "passé simple, imparfait, plus-que-parfait"
+      ],
+      [
+       "indices de lieu",
+       "en chemin, au marché"
+      ],
+      [
+       "relations logiques",
+       "parce que, donc, alors"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Ordre : 1. Awa se lève → 2. elle prend le panier → 3. elle rencontre son oncle → 4. ils arrivent → 5. elle vend tout.",
+     "label": "Reconstituer l’ordre"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Remets les événements dans l’ordre : a) Awa vend tout. b) Awa croise son oncle. c) Awa se lève. d) Ils arrivent au marché.",
+     "items": [
+      "Quel est l’ordre ?",
+      "Quel est l’adjuvant ?",
+      "Quel connecteur de temps trouve-t-on ?"
+     ],
+     "corrige": [
+      "1. c – b – d – a",
+      "2. l’oncle",
+      "3. « avant l’aube », « avant midi »"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un événement se repère grâce aux :",
+     "options": [
+      "adjectifs",
+      "verbes d’action",
+      "déterminants",
+      "prépositions"
+     ],
+     "answer": 1,
+     "explain": "Les **verbes d’action** disent ce qui arrive."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Indices de sens : **personnages**, **événements**, **enchaînement**.",
+      "Personnages : principal, secondaires, adjuvant, opposant.",
+      "Événements : repérés par les **verbes d’action**.",
+      "L’ordre se lit grâce aux **connecteurs** et aux **temps**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Puis » et « ensuite » sont des :",
+     "options": [
+      "connecteurs temporels",
+      "adjectifs",
+      "noms",
+      "pronoms"
+     ],
+     "answer": 0,
+     "explain": "Ils marquent l’**ordre** des événements."
+    }
+   ]
+  }
+ ]
+}

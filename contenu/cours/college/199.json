@@ -1,0 +1,194 @@
+{
+ "id": 199,
+ "meta": {
+  "t": "La concordance des temps : temps simples et temps composés de l’indicatif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le temps simple et son temps composé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Quand il **arrive**, nous **mangeons**. » « Quand il **est arrivé**, nous **avons mangé**. » À chaque temps simple correspond un temps composé qui marque une action **antérieure**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Associer chaque temps simple à son temps composé",
+      "Utiliser le temps composé pour l’antériorité",
+      "Respecter la concordance dans la phrase"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Temps composé",
+     "text": "Un **temps composé** = **auxiliaire (être ou avoir) conjugué au temps simple + participe passé**. Il exprime l’action **accomplie**, donc **antérieure**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le temps composé du présent ?",
+     "options": [
+      "l’imparfait",
+      "le passé composé",
+      "le plus-que-parfait",
+      "le futur antérieur"
+     ],
+     "answer": 1,
+     "explain": "présent → passé composé."
+    }
+   ]
+  },
+  {
+   "t": "Les couples de temps",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Temps simples et temps composés",
+     "head": [
+      "Temps simple",
+      "Temps composé",
+      "Exemple composé"
+     ],
+     "rows": [
+      [
+       "présent",
+       "passé composé",
+       "il **a fini**"
+      ],
+      [
+       "imparfait",
+       "plus-que-parfait",
+       "il **avait fini**"
+      ],
+      [
+       "passé simple",
+       "passé antérieur",
+       "il **eut fini**"
+      ],
+      [
+       "futur simple",
+       "futur antérieur",
+       "il **aura fini**"
+      ],
+      [
+       "conditionnel présent",
+       "conditionnel passé",
+       "il **aurait fini**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le temps de l’auxiliaire donne le nom du temps composé : **avait** (imparfait) + participe = plus-que-parfait."
+    }
+   ]
+  },
+  {
+   "t": "Les temps dans la phrase",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "L’action antérieure",
+     "head": [
+      "Principale (temps simple)",
+      "Subordonnée (temps composé)",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "passé composé",
+       "Il sort dès qu’il **a fini**."
+      ],
+      [
+       "imparfait",
+       "plus-que-parfait",
+       "Il sortait dès qu’il **avait fini**."
+      ],
+      [
+       "passé simple",
+       "passé antérieur",
+       "Il sortit dès qu’il **eut fini**."
+      ],
+      [
+       "futur simple",
+       "futur antérieur",
+       "Il sortira dès qu’il **aura fini**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "On ne mélange pas les plans : « Dès qu’il eut fini, il **sortait** » est maladroit ; avec un passé antérieur, on emploie un **passé simple**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le temps composé qui convient.",
+     "items": [
+      "Elle sort dès qu’elle (finir).",
+      "Il partait quand il (terminer).",
+      "Tu partiras dès que tu (finir).",
+      "Dès qu’il (arriver), le train partit."
+     ],
+     "corrige": [
+      "1. a fini",
+      "2. avait terminé",
+      "3. auras fini",
+      "4. fut arrivé (passé antérieur)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le temps composé du futur simple ?",
+     "options": [
+      "le futur antérieur",
+      "le plus-que-parfait",
+      "le passé antérieur",
+      "le passé composé"
+     ],
+     "answer": 0,
+     "explain": "futur simple → futur antérieur."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Temps composé = **auxiliaire + participe passé**.",
+      "Il marque l’**antériorité** par rapport au temps simple correspondant.",
+      "Couples : présent / passé composé ; imparfait / plus-que-parfait ; passé simple / passé antérieur ; futur simple / futur antérieur."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il avait fini » est :",
+     "options": [
+      "un passé composé",
+      "un plus-que-parfait",
+      "un futur antérieur",
+      "un passé antérieur"
+     ],
+     "answer": 1,
+     "explain": "Auxiliaire à l’imparfait : plus-que-parfait."
+    }
+   ]
+  }
+ ]
+}

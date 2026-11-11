@@ -1,0 +1,221 @@
+{
+ "id": 209,
+ "meta": {
+  "t": "Le débat : thème, situation et problème",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un débat ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À l’école, dans la rue ou à la radio, des personnes échangent leurs idées sur une même question : c’est un **débat**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir le débat",
+      "Identifier le thème, la situation et le problème",
+      "Respecter les règles du débat"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Débat",
+     "text": "Un **débat** est un **échange organisé** entre plusieurs personnes qui **défendent des opinions différentes** sur un même sujet."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un débat, les participants :",
+     "options": [
+      "pensent tous la même chose",
+      "défendent des opinions différentes",
+      "se taisent",
+      "lisent un texte"
+     ],
+     "answer": 1,
+     "explain": "Un débat oppose des **points de vue**."
+    }
+   ]
+  },
+  {
+   "t": "Thème, situation et problème",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les trois repères",
+     "head": [
+      "Repère",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "thème",
+       "De quoi parle-t-on ?",
+       "le téléphone portable à l’école"
+      ],
+      [
+       "situation",
+       "Dans quel contexte ?",
+       "dans un collège, où des élèves l’utilisent en classe"
+      ],
+      [
+       "problème",
+       "Quelle question se pose ?",
+       "Faut-il l’interdire ?"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Reformuler",
+     "text": "Le problème se formule souvent par une **question** à laquelle on répond par oui ou par non, puis on **justifie**."
+    }
+   ]
+  },
+  {
+   "t": "Les rôles dans un débat",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Qui fait quoi ?",
+     "head": [
+      "Rôle",
+      "Mission"
+     ],
+     "rows": [
+      [
+       "le modérateur",
+       "donne la parole, veille au respect du temps et des règles"
+      ],
+      [
+       "les débatteurs",
+       "défendent leur position avec des arguments"
+      ],
+      [
+       "le public",
+       "écoute et peut poser des questions"
+      ],
+      [
+       "le secrétaire",
+       "note les idées principales"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les règles du débat",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "**Lever la main** pour demander la parole.",
+      "**Écouter** sans couper la parole.",
+      "**Respecter** l’autre, même si l’on n’est pas d’accord.",
+      "Donner des **arguments**, pas des insultes.",
+      "Parler **clairement** et brièvement.",
+      "Terminer par une **conclusion**."
+     ],
+     "label": "Les règles"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Critiquer une **idée** est permis ; attaquer une **personne** ne l’est pas."
+    },
+    {
+     "type": "table",
+     "title": "Pour réagir",
+     "head": [
+      "Intention",
+      "Formule"
+     ],
+     "rows": [
+      [
+       "approuver",
+       "Je suis d’accord avec toi, car…"
+      ],
+      [
+       "nuancer",
+       "Tu as raison sur ce point, mais…"
+      ],
+      [
+       "réfuter",
+       "Je ne suis pas d’accord, parce que…"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Sujet : « Les élèves doivent-ils porter l’uniforme ? »"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réponds.",
+     "items": [
+      "Quel est le thème ?",
+      "Quel est le problème posé ?",
+      "Donne une position et un argument."
+     ],
+     "corrige": [
+      "1. L’uniforme à l’école.",
+      "2. Faut-il imposer l’uniforme aux élèves ?",
+      "3. Pour : l’uniforme évite les différences entre élèves."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le modérateur :",
+     "options": [
+      "défend un camp",
+      "donne la parole et fait respecter les règles",
+      "note les fautes",
+      "gagne le débat"
+     ],
+     "answer": 1,
+     "explain": "Il **anime** et organise l’échange."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Débat** = échange organisé d’opinions différentes.",
+      "Repères : **thème**, **situation**, **problème**.",
+      "Le **modérateur** donne la parole.",
+      "On **écoute**, on **respecte**, on **argumente**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le problème d’un débat est souvent formulé par :",
+     "options": [
+      "une question",
+      "un poème",
+      "un titre",
+      "une date"
+     ],
+     "answer": 0,
+     "explain": "On le pose sous forme de **question**."
+    }
+   ]
+  }
+ ]
+}

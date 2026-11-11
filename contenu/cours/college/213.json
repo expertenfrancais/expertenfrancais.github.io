@@ -1,0 +1,193 @@
+{
+ "id": 213,
+ "meta": {
+  "t": "L’étude d’une œuvre : l’analyse et la synthèse",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Analyser puis résumer",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après avoir lu une œuvre, on l’**analyse** (on l’examine en détail) puis on en fait la **synthèse** (on en donne l’essentiel). Ces deux démarches se complètent."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir analyse et synthèse",
+      "Réaliser une fiche de lecture",
+      "Rédiger une synthèse courte"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "table",
+     "title": "Analyse et synthèse",
+     "head": [
+      "Démarche",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "analyse",
+       "décomposer, observer les détails",
+       "étudier les personnages, les lieux, les thèmes"
+      ],
+      [
+       "synthèse",
+       "regrouper l’essentiel en peu de mots",
+       "résumer l’œuvre en cinq phrases"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "La synthèse d’une œuvre :",
+     "options": [
+      "est très longue",
+      "donne l’essentiel en peu de mots",
+      "recopie le texte",
+      "ne contient que des citations"
+     ],
+     "answer": 1,
+     "explain": "Elle retient l’**essentiel**."
+    }
+   ]
+  },
+  {
+   "t": "L’analyse : les questions à se poser",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les points d’analyse",
+     "head": [
+      "Point",
+      "Question"
+     ],
+     "rows": [
+      [
+       "auteur et titre",
+       "Qui a écrit ? Que signifie le titre ?"
+      ],
+      [
+       "structure",
+       "Combien de parties ou de chapitres ? Quelle organisation ?"
+      ],
+      [
+       "personnages",
+       "Qui agit ? Comment évoluent-ils ?"
+      ],
+      [
+       "lieu et époque",
+       "Où et quand se passe l’histoire ?"
+      ],
+      [
+       "thèmes",
+       "De quoi parle l’œuvre ?"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Prendre des notes",
+     "text": "Note tes réponses dans un **tableau** ou une **fiche de lecture** pendant la lecture."
+    }
+   ]
+  },
+  {
+   "t": "La fiche de lecture",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "**Titre** et **auteur**",
+      "**Genre** de l’œuvre (roman, conte, pièce…)",
+      "**Personnages** principaux",
+      "**Lieu** et **époque**",
+      "**Résumé** en quelques phrases",
+      "**Thèmes** abordés",
+      "**Appréciation** personnelle justifiée"
+     ],
+     "label": "Les rubriques"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne raconte pas toute l’histoire dans la fiche : va à l’**essentiel**."
+    }
+   ]
+  },
+  {
+   "t": "Application : synthèse du Cri de la forêt",
+   "blocs": [
+    {
+     "type": "ex",
+     "text": "« *Le cri de la forêt* est une pièce de théâtre d’**Henri Djombo**, publiée aux éditions HEMAR. Elle porte sur la **déforestation** et ses conséquences. [Résume ici l’intrigue en deux phrases, d’après ta lecture.] La pièce aborde aussi les thèmes de **l’argent**, de la place des **jeunes** et du respect de la **nature**. [Donne ton appréciation et justifie-la.] »",
+     "label": "Modèle à compléter"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Les parties entre crochets viennent de **ta lecture** : cite les personnages et les événements tels que ton exemplaire les présente."
+    }
+   ]
+  },
+  {
+   "t": "Rédiger la synthèse",
+   "blocs": [
+    {
+     "type": "ex",
+     "text": "« *Titre* est un conte de [auteur]. Il raconte l’histoire de [héros], qui doit [but]. Après plusieurs épreuves, il [dénouement]. L’œuvre aborde le thème de [thème]. J’ai aimé ce livre parce que… »",
+     "label": "Modèle de synthèse"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige une synthèse de cinq phrases sur une œuvre étudiée en classe.",
+     "items": [
+      "1. Présenter l’œuvre et l’auteur.",
+      "2. Présenter le héros.",
+      "3. Résumer l’intrigue.",
+      "4. Citer un thème.",
+      "5. Donner ton appréciation."
+     ],
+     "corrige": [
+      "Réponse personnelle : chaque phrase correspond à un point de la liste ; on ne dévoile pas tous les détails."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Analyser** = examiner en détail ; **synthétiser** = donner l’essentiel.",
+      "L’analyse porte sur l’**auteur**, le **titre**, la **structure**, les **personnages**, les **thèmes**.",
+      "La **fiche de lecture** regroupe titre, auteur, genre, personnages, résumé, thèmes, appréciation.",
+      "La synthèse est **courte**, **claire** et **fidèle** à l’œuvre."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Une fiche de lecture contient :",
+     "options": [
+      "tout le texte recopié",
+      "les informations essentielles sur l’œuvre",
+      "seulement le titre",
+      "des dessins"
+     ],
+     "answer": 1,
+     "explain": "Elle regroupe l’**essentiel**."
+    }
+   ]
+  }
+ ]
+}

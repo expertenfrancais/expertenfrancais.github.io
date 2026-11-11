@@ -1,0 +1,202 @@
+{
+ "id": 196,
+ "meta": {
+  "t": "La concordance des temps : l’antériorité",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "L’action qui a eu lieu avant",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je sais qu’il **est venu**. » « Je savais qu’il **était venu**. » Dans ces phrases, la visite a eu lieu **avant** le moment exprimé par la principale : c’est l’**antériorité**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître l’antériorité",
+      "Choisir le temps composé qui convient",
+      "Employer le passé du subjonctif"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Antériorité",
+     "text": "Il y a **antériorité** quand l’action de la subordonnée a eu lieu **avant** celle de la principale."
+    },
+    {
+     "type": "schema",
+     "title": "Une action antérieure",
+     "cells": [
+      {
+       "mot": "il était venu",
+       "role": "plus-que-parfait (avant)",
+       "noyau": true
+      },
+      {
+       "mot": "je savais",
+       "role": "imparfait (repère)"
+      }
+     ],
+     "note": "« Je savais qu’il était venu » : il est venu avant que je le sache."
+    },
+    {
+     "type": "quiz",
+     "question": "« Je savais qu’il était venu » : la venue est :",
+     "options": [
+      "avant",
+      "en même temps",
+      "après",
+      "impossible"
+     ],
+     "answer": 0,
+     "explain": "Le plus-que-parfait marque l’action **antérieure**."
+    }
+   ]
+  },
+  {
+   "t": "Le tableau des temps",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Exprimer l’antériorité",
+     "head": [
+      "Temps de la principale",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "passé composé",
+       "Je pense qu’il **a terminé**."
+      ],
+      [
+       "présent",
+       "imparfait",
+       "Je sais qu’il **était** malade hier."
+      ],
+      [
+       "passé (imparfait, passé composé, passé simple)",
+       "plus-que-parfait",
+       "Il dit qu’il **avait fini**."
+      ],
+      [
+       "futur",
+       "futur antérieur",
+       "Je viendrai quand tu **auras fini**."
+      ],
+      [
+       "passé simple",
+       "passé antérieur",
+       "Dès qu’il **eut fini**, il partit."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Avec le subjonctif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand la subordonnée est au subjonctif et que l’action est antérieure, on emploie le **passé du subjonctif**."
+    },
+    {
+     "type": "table",
+     "title": "Subjonctif passé",
+     "head": [
+      "Phrase",
+      "Temps"
+     ],
+     "rows": [
+      [
+       "Je regrette qu’il **soit parti**.",
+       "subjonctif passé (antériorité)"
+      ],
+      [
+       "Je regrette qu’il **parte**.",
+       "subjonctif présent (simultanéité ou futur)"
+      ],
+      [
+       "Je voudrais qu’il **ait fini** avant midi.",
+       "subjonctif passé"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Après une principale au passé, on n’emploie pas le passé composé pour l’antériorité : on écrit « Il disait qu’il **avait fini** », pas « qu’il a fini »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au temps qui exprime l’antériorité.",
+     "items": [
+      "Je sais qu’il (partir) hier.",
+      "Elle disait qu’elle (finir) son travail.",
+      "Tu viendras quand j’(terminer).",
+      "Il est content que tu (réussir) l’examen."
+     ],
+     "corrige": [
+      "1. est parti",
+      "2. avait fini",
+      "3. aurai terminé",
+      "4. aies réussi"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps exprime l’antériorité après une principale au futur ?",
+     "options": [
+      "le futur simple",
+      "le futur antérieur",
+      "l’imparfait",
+      "le conditionnel présent"
+     ],
+     "answer": 1,
+     "explain": "« Je partirai quand tu **auras fini**. »"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Antériorité** = l’action a eu lieu **avant** celle de la principale.",
+      "Principale au présent → **passé composé**.",
+      "Principale au passé → **plus-que-parfait**.",
+      "Principale au futur → **futur antérieur**.",
+      "Subjonctif → **passé du subjonctif**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il disait qu’il avait fini » : le temps de la subordonnée est :",
+     "options": [
+      "le passé composé",
+      "le plus-que-parfait",
+      "l’imparfait",
+      "le passé simple"
+     ],
+     "answer": 1,
+     "explain": "« avait fini » = plus-que-parfait."
+    }
+   ]
+  }
+ ]
+}

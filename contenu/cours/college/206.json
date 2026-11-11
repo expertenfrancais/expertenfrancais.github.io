@@ -1,0 +1,179 @@
+{
+ "id": 206,
+ "meta": {
+  "t": "L’emploi de la gestuelle et des mimes",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Parler avec tout son corps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un sourire, un regard, un geste de la main : même sans mots, nous communiquons. Quand on s’exprime en public, la **gestuelle** et le **mime** accompagnent la parole et la rendent plus claire."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir gestuelle et mime",
+      "Associer un geste à un sens",
+      "Employer des gestes justes à l’oral"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Gestuelle",
+     "text": "La **gestuelle** est l’ensemble des **gestes**, **mimiques** et **postures** qui accompagnent la parole."
+    },
+    {
+     "type": "def",
+     "label": "Mime",
+     "text": "Le **mime** est l’art d’exprimer une idée, un sentiment ou une action **sans parler**, avec le corps et le visage."
+    },
+    {
+     "type": "quiz",
+     "question": "Le mime s’exprime :",
+     "options": [
+      "avec des mots",
+      "sans parole",
+      "par écrit",
+      "au téléphone"
+     ],
+     "answer": 1,
+     "explain": "Le mime utilise le **corps** et le **visage**, pas la voix."
+    }
+   ]
+  },
+  {
+   "t": "Le langage du corps",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Ce que disent le corps et le visage",
+     "head": [
+      "Élément",
+      "Exemple",
+      "Sens possible"
+     ],
+     "rows": [
+      [
+       "le regard",
+       "regarder l’auditoire",
+       "sincérité, attention"
+      ],
+      [
+       "le visage (mimique)",
+       "sourire / froncer les sourcils",
+       "joie / colère"
+      ],
+      [
+       "les mains",
+       "main levée, paume ouverte",
+       "demander le silence, accueillir"
+      ],
+      [
+       "la posture",
+       "dos droit, tête haute",
+       "assurance"
+      ],
+      [
+       "les déplacements",
+       "s’avancer vers le public",
+       "insister"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Se tenir",
+     "text": "Tiens-toi **droit**, les pieds posés, les mains libres. Ne cache pas ton visage."
+    }
+   ]
+  },
+  {
+   "t": "Les règles d’un bon geste",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "Le geste doit **correspondre** à ce que l’on dit.",
+      "Il doit être **naturel**, sans exagération.",
+      "Il accompagne les **mots importants**.",
+      "Il ne doit pas **cacher** le visage ni distraire.",
+      "On **regarde** son public."
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Trop de gestes fatiguent l’auditoire. Évite de te balancer, de jouer avec un stylo ou de croiser les bras."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Associe le geste au sentiment.",
+     "items": [
+      "sourire, mains ouvertes",
+      "sourcils froncés, poing serré",
+      "épaules baissées, regard au sol",
+      "yeux grands ouverts, mains levées"
+     ],
+     "corrige": [
+      "1. joie, accueil",
+      "2. colère",
+      "3. tristesse",
+      "4. surprise"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un bon geste est :",
+     "options": [
+      "très ample et rapide",
+      "naturel et adapté au message",
+      "toujours le même",
+      "caché derrière le dos"
+     ],
+     "answer": 1,
+     "explain": "Le geste doit être **naturel** et **juste**."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **gestuelle** accompagne la parole : gestes, mimiques, postures.",
+      "Le **mime** exprime sans parler.",
+      "Le geste doit être **naturel**, **cohérent** et **mesuré**.",
+      "On **regarde** le public."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel élément montre qu’on s’adresse au public ?",
+     "options": [
+      "le regard",
+      "le stylo",
+      "le dos tourné",
+      "les bras croisés"
+     ],
+     "answer": 0,
+     "explain": "Regarder l’auditoire marque l’**attention**."
+    }
+   ]
+  }
+ ]
+}

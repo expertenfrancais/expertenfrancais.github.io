@@ -1,0 +1,183 @@
+{
+ "id": 204,
+ "meta": {
+  "t": "Le respect des règles de la prosodie : les intonations",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "La mélodie de la voix",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Tu viens ? » dit avec trois tons différents peut vouloir dire trois choses : une vraie question, une surprise, un reproche. Cette **mélodie** de la voix s’appelle l’**intonation**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir l’intonation",
+      "Distinguer intonation montante, descendante et plate",
+      "Choisir le ton qui convient au sentiment"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Intonation",
+     "text": "L’**intonation** est la **variation de la hauteur de la voix** au cours d’une phrase. Elle traduit le sens de la phrase et les sentiments du locuteur."
+    },
+    {
+     "type": "quiz",
+     "question": "L’intonation est :",
+     "options": [
+      "le volume seul",
+      "la mélodie de la voix",
+      "la vitesse",
+      "la ponctuation"
+     ],
+     "answer": 1,
+     "explain": "C’est la **variation de hauteur** de la voix."
+    }
+   ]
+  },
+  {
+   "t": "Les trois mouvements",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Montante, descendante, plate",
+     "head": [
+      "Intonation",
+      "Quand l’employer ?",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**montante** ↗",
+       "question, suspense, phrase non terminée",
+       "Tu viens ?"
+      ],
+      [
+       "**descendante** ↘",
+       "fin d’une phrase déclarative, ordre",
+       "Il est parti."
+      ],
+      [
+       "**plate** →",
+       "énumération, ton neutre ou monotone",
+       "Il achète du riz, du sucre, du sel…"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Dans une longue phrase",
+     "text": "La voix **monte** à la fin de chaque groupe de souffle qui n’est pas le dernier, puis **descend** à la fin de la phrase."
+    }
+   ]
+  },
+  {
+   "t": "Intonation et sentiments",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Dire ses émotions",
+     "head": [
+      "Sentiment",
+      "Voix"
+     ],
+     "rows": [
+      [
+       "joie",
+       "vive, haute, rythmée"
+      ],
+      [
+       "colère",
+       "forte, rapide, appuyée"
+      ],
+      [
+       "tristesse",
+       "basse, lente, voix qui descend"
+      ],
+      [
+       "surprise",
+       "brusque montée de la voix"
+      ],
+      [
+       "peur",
+       "voix tremblante, souffle court"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Tu es là ! » : avec une voix joyeuse, c’est une joie ; avec une voix sèche, c’est un reproche.",
+     "label": "Exemple"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Indique l’intonation à employer.",
+     "items": [
+      "Viens-tu avec nous ?",
+      "La classe est terminée.",
+      "Quelle bonne nouvelle !",
+      "Il a pris le riz, l’huile, le sel…"
+     ],
+     "corrige": [
+      "1. montante",
+      "2. descendante",
+      "3. expressive (voix haute et vive)",
+      "4. plate, puis descendante à la fin"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Une phrase interrogative se dit avec une intonation :",
+     "options": [
+      "descendante",
+      "montante",
+      "plate",
+      "tremblante"
+     ],
+     "answer": 1,
+     "explain": "La voix monte à la fin de la question."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Intonation** = mélodie de la voix.",
+      "**Montante** : question ; **descendante** : fin de phrase ; **plate** : énumération.",
+      "L’intonation exprime les **sentiments** : joie, colère, tristesse, surprise, peur."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Une voix basse et lente exprime souvent :",
+     "options": [
+      "la joie",
+      "la tristesse",
+      "la colère",
+      "la surprise"
+     ],
+     "answer": 1,
+     "explain": "La tristesse se dit d’une voix **basse et lente**."
+    }
+   ]
+  }
+ ]
+}

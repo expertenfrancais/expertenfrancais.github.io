@@ -1,0 +1,199 @@
+{
+ "id": 197,
+ "meta": {
+  "t": "La concordance des temps : la simultanéité",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Deux actions en même temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je vois qu’il **pleut**. » « Je voyais qu’il **pleuvait**. » Les deux actions se passent au **même moment** : c’est la **simultanéité**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître la simultanéité",
+      "Employer le présent et l’imparfait",
+      "Éviter les erreurs de concordance"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Simultanéité",
+     "text": "Il y a **simultanéité** quand l’action de la subordonnée a lieu **en même temps** que celle de la principale."
+    },
+    {
+     "type": "schema",
+     "title": "Une action simultanée",
+     "cells": [
+      {
+       "mot": "il pleuvait",
+       "role": "imparfait (en même temps)",
+       "noyau": true
+      },
+      {
+       "mot": "je voyais",
+       "role": "imparfait (repère)"
+      }
+     ],
+     "note": "On garde le **même plan de temps** dans la principale et la subordonnée."
+    },
+    {
+     "type": "quiz",
+     "question": "« Je voyais qu’il pleuvait » exprime :",
+     "options": [
+      "l’antériorité",
+      "la simultanéité",
+      "la postériorité",
+      "la condition"
+     ],
+     "answer": 1,
+     "explain": "Les deux actions ont lieu en même temps."
+    }
+   ]
+  },
+  {
+   "t": "Le tableau des temps",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Exprimer la simultanéité",
+     "head": [
+      "Temps de la principale",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "présent",
+       "Je sais qu’il **dort**."
+      ],
+      [
+       "passé (imparfait, passé composé, passé simple)",
+       "imparfait",
+       "Elle a vu qu’il **dormait**."
+      ],
+      [
+       "futur",
+       "futur simple",
+       "Quand il **viendra**, nous **partirons**."
+      ],
+      [
+       "présent ou futur + verbe de volonté",
+       "subjonctif présent",
+       "Je veux qu’il **vienne**."
+      ],
+      [
+       "passé + verbe de volonté",
+       "subjonctif présent (usage courant)",
+       "Je voulais qu’il **vienne**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les cas particuliers",
+   "blocs": [
+    {
+     "type": "tip",
+     "label": "Vérité générale",
+     "text": "Une vérité qui reste vraie garde le présent : « Le maître a rappelé que la Terre **tourne** autour du Soleil. »"
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Après une principale au passé, on n’emploie pas le présent pour une action ordinaire : « Il **a dit** qu’il **pleuvait** », pas « qu’il pleut »."
+    },
+    {
+     "type": "table",
+     "title": "Corriger",
+     "head": [
+      "Phrase fautive",
+      "Phrase correcte"
+     ],
+     "rows": [
+      [
+       "Il a dit qu’il **est** malade.",
+       "Il a dit qu’il **était** malade."
+      ],
+      [
+       "Je savais qu’elle **dort**.",
+       "Je savais qu’elle **dormait**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au temps qui convient (simultanéité).",
+     "items": [
+      "Je vois que tu (travailler).",
+      "Elle voyait que nous (travailler).",
+      "Il a constaté qu’il (faire) froid.",
+      "Quand ils (arriver), nous mangerons."
+     ],
+     "corrige": [
+      "1. travailles",
+      "2. travaillions",
+      "3. faisait",
+      "4. arriveront"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps exprime la simultanéité après une principale à l’imparfait ?",
+     "options": [
+      "le présent",
+      "l’imparfait",
+      "le futur",
+      "le passé antérieur"
+     ],
+     "answer": 1,
+     "explain": "« Je savais qu’il **dormait**. »"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Simultanéité** = les deux actions ont lieu **en même temps**.",
+      "Principale au présent → **présent**.",
+      "Principale au passé → **imparfait**.",
+      "Principale au futur → **futur simple**.",
+      "Une **vérité générale** garde le présent."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il a dit qu’il pleut » est :",
+     "options": [
+      "correct",
+      "incorrect : il faut « pleuvait »",
+      "un futur",
+      "un subjonctif"
+     ],
+     "answer": 1,
+     "explain": "Après un passé, on emploie l’imparfait."
+    }
+   ]
+  }
+ ]
+}
