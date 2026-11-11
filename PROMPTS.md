@@ -248,7 +248,7 @@ Teste la logique avant de me rendre l'archive, augmente VERSION dans sw.js et me
 Tâche : remplir [la répartition / le guide pédagogique] du programme [APS / PPO], niveau [6e / 5e / 4e / 3e].
 Contenu officiel : [colle ici le texte ou joins les photos : mois, semaines, savoirs ou objets d'apprentissage, durées…]
 
-État actuel : les 4 répartitions annuelles (APS 6e programme-1, APS 5e programme-3, PPO 4e programme-5, PPO 3e programme-7) sont remplies d'octobre à juin ; les guides pédagogiques (programme-2, 4, 6, 8) n'ont que leur partie « Présentation ». Ordre prévu : guide pédagogique 6e, puis 5e, 4e, 3e.
+État actuel : les 4 répartitions annuelles (APS 6e programme-1, APS 5e programme-3, PPO 4e programme-5, PPO 3e programme-7) sont remplies d'octobre à juin ; les guides pédagogiques PPO 4e et 3e (programme-6 et 8) sont remplis ; les guides APS 6e et 5e (programme-2 et 4) n'ont que leur partie « Présentation ». Ordre prévu : guide pédagogique 6e, puis 5e.
 
 Fichiers à lire : PROJET.md, GUIDE-PROGRAMMES.md (il donne le tableau des 8 fichiers : numéro du fichier à modifier et format des colonnes). Rien d'autre.
 Fichier à modifier : uniquement le programme-<pg>.json indiqué dans ce tableau (n'ouvre pas les autres programmes).

@@ -487,9 +487,9 @@ var ALLDOCS=[
  {id:50003,pg:3,img:IMG.e,t:"Programme APS 5e · Répartition annuelle",k:"Programmes",n:"5e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"}]},
  {id:50004,pg:4,img:IMG.e,t:"Programme APS 5e · Guide pédagogique",k:"Programmes",n:"5e",m:"APS",pr:25,r:4.8,s:[{t:"Présentation du guide"}]},
  {id:50005,pg:5,img:IMG.e,t:"Programme PPO 4e · Répartition annuelle",k:"Programmes",n:"4e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"},{t:"Manuels et œuvre intégrale"}]},
- {id:50006,pg:6,img:IMG.e,t:"Programme PPO 4e · Guide pédagogique",k:"Programmes",n:"4e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation du guide"}]},
+ {id:50006,pg:6,img:IMG.e,t:"Programme PPO 4e · Guide pédagogique",k:"Programmes",n:"4e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation du guide"},{t:"Programme et profil de l’élève"},{t:"Objectifs généraux"},{t:"Objectifs spécifiques"},{t:"Commentaire des objectifs généraux"},{t:"Démarches didactiques"},{t:"Démarches de séance"},{t:"Évaluation"},{t:"Modèle de fiche pédagogique"},{t:"Manuels et œuvre intégrale"},{t:"Points à vérifier"}]},
  {id:50007,pg:7,img:IMG.e,t:"Programme PPO 3e · Répartition annuelle",k:"Programmes",n:"3e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation"},{t:"Octobre"},{t:"Novembre"},{t:"Décembre"},{t:"Janvier"},{t:"Février"},{t:"Mars"},{t:"Avril"},{t:"Mai"},{t:"Juin"},{t:"Manuels et œuvre intégrale"}]},
- {id:50008,pg:8,img:IMG.e,t:"Programme PPO 3e · Guide pédagogique",k:"Programmes",n:"3e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation du guide"}]}
+ {id:50008,pg:8,img:IMG.e,t:"Programme PPO 3e · Guide pédagogique",k:"Programmes",n:"3e",m:"PPO",pr:25,r:4.8,s:[{t:"Présentation du guide"},{t:"Programme et profil de l’élève"},{t:"Objectifs généraux"},{t:"Objectifs spécifiques"},{t:"Commentaire des objectifs généraux"},{t:"Démarches didactiques"},{t:"Démarches de séance"},{t:"Évaluation"},{t:"Modèle de fiche pédagogique"},{t:"Manuels et œuvre intégrale"},{t:"Points à vérifier"}]}
 /*CATALOGUE-AUTO:FIN*/
 ];
 /* Prix des documents selon le cycle (FCFA) : appliqué automatiquement à tout nouveau document */
