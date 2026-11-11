@@ -1,0 +1,253 @@
+{
+ "id": 150,
+ "meta": {
+  "t": "Le gérondif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que le gérondif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il est entré **en chantant** » ; « **En travaillant**, tu réussiras ». Le mot en gras est un **gérondif** : une forme du verbe précédée de **en**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître et former le gérondif",
+      "Le distinguer du participe présent et de l’adjectif verbal",
+      "Identifier ses valeurs (temps, manière, moyen, cause, condition, opposition)",
+      "Respecter la règle du sujet"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Gérondif",
+     "text": "Le **gérondif** est formé de la préposition **en** + le **participe présent** du verbe. Il est **invariable** et indique une **circonstance** de l’action principale."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Elle lit **en marchant**.\nIl a appris l’anglais **en regardant des films**.\n**Tout en riant**, il a répondu."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le gérondif du verbe « finir » ?",
+     "options": [
+      "finissant",
+      "en finissant",
+      "en finir",
+      "finis"
+     ],
+     "answer": 1,
+     "explain": "Gérondif = en + participe présent : « en finissant »."
+    }
+   ]
+  },
+  {
+   "t": "La formation et la différence avec le participe présent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On forme le gérondif avec **en** + le **participe présent** : « en chantant », « en finissant », « en faisant ». Les exceptions du participe présent s’appliquent : **en étant**, **en ayant**, **en sachant**."
+    },
+    {
+     "type": "table",
+     "title": "Gérondif, participe présent, adjectif verbal",
+     "head": [
+      "Forme",
+      "Exemple",
+      "Particularité"
+     ],
+     "rows": [
+      [
+       "gérondif",
+       "Il sort **en courant**.",
+       "précédé de **en**, invariable, complément circonstanciel"
+      ],
+      [
+       "participe présent",
+       "Il sort, **courant** vers l’arrêt.",
+       "sans « en », invariable, exprime une action"
+      ],
+      [
+       "adjectif verbal",
+       "Une histoire **amusante**.",
+       "s’accorde, exprime une qualité"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Si le mot est précédé de **en** (sauf « en » + nom), c’est un **gérondif**. « **Tout en** + participe présent » est aussi un gérondif."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du gérondif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le gérondif est un **complément circonstanciel**. Selon la phrase, il exprime des circonstances différentes."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du gérondif",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps (simultanéité)",
+       "**En sortant**, j’ai croisé mon voisin."
+      ],
+      [
+       "manière",
+       "Elle est partie **en pleurant**."
+      ],
+      [
+       "moyen",
+       "Il progresse **en s’entraînant**."
+      ],
+      [
+       "cause",
+       "**En travaillant dur**, il a réussi."
+      ],
+      [
+       "condition",
+       "**En partant plus tôt**, tu serais à l’heure."
+      ],
+      [
+       "opposition (avec tout en)",
+       "**Tout en étant riche**, il vit simplement."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test de la question",
+     "text": "Pose les questions **quand ? comment ? par quel moyen ? pourquoi ?** pour trouver la valeur."
+    }
+   ]
+  },
+  {
+   "t": "La règle du sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le gérondif se rapporte au **sujet du verbe principal**. Les deux actions doivent être faites par la **même personne**."
+    },
+    {
+     "type": "table",
+     "title": "Bon emploi et faute",
+     "head": [
+      "Correct",
+      "Incorrect"
+     ],
+     "rows": [
+      [
+       "**En arrivant** à la gare, j’ai vu que le train était parti.",
+       "**En arrivant** à la gare, le train était parti."
+      ],
+      [
+       "**En traversant** la rue, il a vu un accident.",
+       "**En traversant** la rue, un accident s’est produit."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Dans la phrase incorrecte, le sujet de « arrivant » serait « le train » : c’est absurde. Vérifie toujours que **celui qui fait l’action du gérondif est le sujet du verbe principal**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à former et à reconnaître."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au gérondif.",
+     "items": [
+      "Il apprend (écouter).",
+      "Elle chante (travailler).",
+      "Tu réussiras (étudier)."
+     ],
+     "corrige": [
+      "1. en écoutant",
+      "2. en travaillant",
+      "3. en étudiant"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du gérondif.",
+     "items": [
+      "En sortant, j’ai vu mon ami.",
+      "Il progresse en s’entraînant.",
+      "En partant plus tôt, tu arriverais à l’heure.",
+      "Tout en étant fatigué, il a continué."
+     ],
+     "corrige": [
+      "1. temps",
+      "2. moyen",
+      "3. condition",
+      "4. opposition"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "En marchant, la pluie a commencé.",
+      "En marchant, j’ai vu un oiseau.",
+      "En courant, la porte s’est ouverte.",
+      "En lisant, le livre est tombé."
+     ],
+     "answer": 1,
+     "explain": "Le sujet du verbe principal (« j’ ») est aussi celui qui marche."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Gérondif** = **en** + **participe présent** (en chantant, en finissant).",
+      "Il est **invariable** et joue le rôle d’un **complément circonstanciel**.",
+      "Valeurs : **temps, manière, moyen, cause, condition, opposition**.",
+      "Le gérondif se rapporte au **sujet** du verbe principal.",
+      "Exceptions de forme : **en étant, en ayant, en sachant**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a réussi en travaillant », « en travaillant » exprime :",
+     "options": [
+      "le lieu",
+      "le moyen",
+      "le but",
+      "la conséquence"
+     ],
+     "answer": 1,
+     "explain": "Il a réussi par le moyen du travail : c’est le moyen."
+    }
+   ]
+  }
+ ]
+}

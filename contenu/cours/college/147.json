@@ -1,0 +1,264 @@
+{
+ "id": 147,
+ "meta": {
+  "t": "L’expression de la circonstance d’opposition",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la circonstance d’opposition ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« **Bien qu’il soit fatigué**, il continue de travailler. » Normalement, la fatigue devrait l’arrêter : elle ne l’arrête pas. Cette idée de **contraste** ou d’**obstacle sans effet** s’appelle la circonstance d’**opposition** (ou de **concession**)."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer l’opposition de la concession",
+      "Reconnaître les mots d’opposition (mais, pourtant, bien que, alors que…)",
+      "Choisir le bon mode (indicatif ou subjonctif)",
+      "Ne pas confondre quoique et quoi que"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Opposition et concession",
+     "text": "L’**opposition** met en contraste deux faits (« Lui est calme, **alors que** son frère est nerveux »). La **concession** indique un obstacle qui n’empêche pas l’action (« **Bien qu’il pleuve**, nous sortons »)."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Malgré la pluie**, nous sommes sortis.\nElle est timide, **mais** elle parle bien.\n**Alors que** son frère aime la ville, elle préfère la campagne."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Bien qu’il pleuve, nous sortons », « Bien qu’il pleuve » exprime :",
+     "options": [
+      "la cause",
+      "la concession",
+      "la condition",
+      "le temps"
+     ],
+     "answer": 1,
+     "explain": "La pluie est un obstacle qui n’empêche pas la sortie : c’est une concession (opposition)."
+    }
+   ]
+  },
+  {
+   "t": "Les moyens d’exprimer l’opposition",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’opposition s’exprime par des **prépositions**, des **adverbes**, des **conjonctions de coordination** ou des **subordonnées**."
+    },
+    {
+     "type": "table",
+     "title": "Les moyens d’exprimer l’opposition",
+     "head": [
+      "Nature",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "conjonction de coordination",
+       "mais, or",
+       "Il est fatigué, **mais** il continue."
+      ],
+      [
+       "adverbe",
+       "pourtant, cependant, néanmoins, toutefois",
+       "Il est fatigué ; **pourtant**, il continue."
+      ],
+      [
+       "préposition",
+       "malgré, en dépit de, contre",
+       "Il sort **malgré** la pluie."
+      ],
+      [
+       "subordonnée",
+       "bien que, quoique, même si, alors que, tandis que",
+       "**Bien qu’il pleuve**, il sort."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La subordonnée d’opposition et le mode",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mode du verbe dépend de la conjonction."
+    },
+    {
+     "type": "table",
+     "title": "Conjonction et mode",
+     "head": [
+      "Mode",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "subjonctif",
+       "bien que, quoique, encore que, qui que, quoi que, quel que",
+       "**Quoique** tu **sois** jeune, tu es sérieux."
+      ],
+      [
+       "indicatif",
+       "alors que, tandis que, même si",
+       "**Alors qu’il pleuvait**, ils sont sortis."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase complexe décortiquée",
+     "cells": [
+      {
+       "mot": "Bien que",
+       "role": "conjonction de subordination",
+       "noyau": true
+      },
+      {
+       "mot": "tu sois jeune",
+       "role": "subordonnée d’opposition (subjonctif)"
+      },
+      {
+       "mot": "tu es sérieux",
+       "role": "proposition principale"
+      }
+     ],
+     "note": "« bien que » est toujours suivi du subjonctif."
+    },
+    {
+     "type": "tip",
+     "label": "Attention à « alors que »",
+     "text": "« **Alors que** » et « **tandis que** » peuvent exprimer le **temps** (« pendant que ») ou l’**opposition** : le sens de la phrase décide."
+    }
+   ]
+  },
+  {
+   "t": "Quoique ou quoi que ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces deux écritures se prononcent de la même façon, mais ont un **sens** différent."
+    },
+    {
+     "type": "table",
+     "title": "Quoique et quoi que",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quoique (un seul mot)",
+       "bien que",
+       "**Quoique** fatigué, il travaille."
+      ],
+      [
+       "quoi que (deux mots)",
+       "quelle que soit la chose que",
+       "**Quoi que** tu **fasses**, préviens-moi."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Essaie de remplacer par **bien que** : si c’est possible, on écrit **quoique** en un mot ; sinon, par **quelle que soit la chose que**, on écrit **quoi que** en deux mots."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à compléter."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le mot ou la proposition qui exprime l’opposition.",
+     "items": [
+      "Il est riche, mais il vit simplement.",
+      "Malgré la fatigue, elle a terminé.",
+      "Bien qu’il pleuve, nous sortons.",
+      "Alors que son frère se tait, elle parle sans cesse."
+     ],
+     "corrige": [
+      "1. mais",
+      "2. Malgré la fatigue",
+      "3. Bien qu’il pleuve",
+      "4. Alors que son frère se tait"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quoique ou quoi que.",
+     "items": [
+      "____ tu dises, je resterai calme.",
+      "____ jeune, il est très responsable.",
+      "____ il arrive, garde ton calme.",
+      "Il continue ____ il soit épuisé."
+     ],
+     "corrige": [
+      "1. Quoi que",
+      "2. Quoique",
+      "3. Quoi qu’il",
+      "4. quoiqu’il"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Après « bien que », le verbe se met :",
+     "options": [
+      "à l’indicatif",
+      "au subjonctif",
+      "au futur",
+      "à l’impératif"
+     ],
+     "answer": 1,
+     "explain": "« bien que » est toujours suivi du subjonctif."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**opposition** met deux faits en contraste ; la **concession** exprime un obstacle sans effet.",
+      "Mots : **mais, pourtant, cependant, malgré, bien que, quoique, même si, alors que**.",
+      "**Bien que, quoique** + **subjonctif** ; **alors que, même si** + **indicatif**.",
+      "**Quoique** = bien que ; **quoi que** = quelle que soit la chose que."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Quoi que fatigué, il travaille.",
+      "Quoique fatigué, il travaille.",
+      "Quoique tu dises, je viendrai.",
+      "Quoi qu’il soit fatigué, il travaille."
+     ],
+     "answer": 1,
+     "explain": "« Quoique » (bien que) s’écrit en un mot devant un adjectif."
+    }
+   ]
+  }
+ ]
+}

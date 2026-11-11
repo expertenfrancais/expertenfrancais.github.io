@@ -1,0 +1,548 @@
+{
+ "id": 142,
+ "meta": {
+  "t": "Les participes présents et les adjectifs verbaux",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Participe présent ou adjectif verbal ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Observe ces deux phrases : « Les élèves **écoutant** le professeur prennent des notes » et « Les élèves sont **attentifs** et la leçon est **intéressante** ». Dans la première, « écoutant » exprime une **action** ; dans la seconde, « intéressante » exprime une **qualité**. Les deux mots peuvent se terminer par **-ant**, mais ils ne s’écrivent pas de la même façon."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer le participe présent de l’adjectif verbal",
+      "Former correctement le participe présent",
+      "Écrire les graphies particulières (-quant / -cant, -guant / -gant, -ant / -ent)",
+      "Accorder l’adjectif verbal et laisser le participe présent invariable"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Participe présent",
+     "text": "Le **participe présent** est une forme du verbe qui se termine par **-ant**. Il exprime une **action** en train de se faire, peut avoir des compléments (COD, complément circonstanciel) et reste **invariable**."
+    },
+    {
+     "type": "def",
+     "label": "Adjectif verbal",
+     "text": "L’**adjectif verbal** est un adjectif issu d’un verbe. Il exprime une **qualité**, un **état**, et il **s’accorde** en genre et en nombre avec le nom auquel il se rapporte."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Des enfants **jouant** dans la cour (participe présent : action, invariable).\nDes jeux **amusants** (adjectif verbal : qualité, accord au pluriel).\nUne histoire **passionnante** (adjectif verbal, féminin singulier)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Cette histoire est passionnante », le mot « passionnante » est :",
+     "options": [
+      "un participe présent",
+      "un adjectif verbal",
+      "un gérondif",
+      "un nom"
+     ],
+     "answer": 1,
+     "explain": "« passionnante » exprime une qualité de l’histoire et s’accorde avec « histoire » : c’est un adjectif verbal."
+    }
+   ]
+  },
+  {
+   "t": "La formation du participe présent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le participe présent se forme à partir du verbe : on prend le radical de la **première personne du pluriel** du présent de l’indicatif (la forme en **nous**), on enlève **-ons** et on ajoute **-ant**."
+    },
+    {
+     "type": "table",
+     "title": "Former le participe présent",
+     "head": [
+      "Infinitif",
+      "Présent (nous)",
+      "Participe présent"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "nous chantons",
+       "chantant"
+      ],
+      [
+       "finir",
+       "nous finissons",
+       "finissant"
+      ],
+      [
+       "faire",
+       "nous faisons",
+       "faisant"
+      ],
+      [
+       "prendre",
+       "nous prenons",
+       "prenant"
+      ],
+      [
+       "manger",
+       "nous mangeons",
+       "mangeant"
+      ],
+      [
+       "commencer",
+       "nous commençons",
+       "commençant"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Trois verbes font exception",
+     "text": "Ne suivent pas cette règle : **être → étant**, **avoir → ayant**, **savoir → sachant**."
+    },
+    {
+     "type": "tip",
+     "label": "Garder le e et la cédille",
+     "text": "Les verbes en **-ger** gardent le **e** (nageant, mangeant) et les verbes en **-cer** gardent la **cédille** (commençant, lançant), pour conserver le même son."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le participe présent du verbe « finir » ?",
+     "options": [
+      "finant",
+      "finissant",
+      "finisant",
+      "finissons"
+     ],
+     "answer": 1,
+     "explain": "À partir de « nous finissons », on obtient « finissant »."
+    }
+   ]
+  },
+  {
+   "t": "Comment les distinguer ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour savoir si un mot en **-ant** est un participe présent ou un adjectif verbal, on utilise des **tests**. Ils se complètent : un seul suffit rarement."
+    },
+    {
+     "type": "table",
+     "title": "Les tests de reconnaissance",
+     "head": [
+      "Test",
+      "Participe présent",
+      "Adjectif verbal"
+     ],
+     "rows": [
+      [
+       "Sens",
+       "une **action** qui se déroule",
+       "une **qualité**, un état"
+      ],
+      [
+       "Accord",
+       "invariable",
+       "s’accorde avec le nom"
+      ],
+      [
+       "Remplacement",
+       "par « qui + verbe » : *qui jouent*",
+       "par un autre adjectif : *drôle, joyeux*"
+      ],
+      [
+       "Insertion de « très »",
+       "impossible",
+       "possible : *très amusant*"
+      ],
+      [
+       "Compléments",
+       "peut avoir un COD ou un complément circonstanciel",
+       "ne peut pas en avoir"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Des élèves **obéissant** à la consigne → *qui obéissent à la consigne* (participe présent, invariable).\nDes élèves **obéissants** → on peut dire « très obéissants » (adjectif verbal, accordé)."
+    },
+    {
+     "type": "test",
+     "title": "Phrases-tests",
+     "lines": [
+      "Des chanteuses **charmant** le public : *qui charment* → participe présent.",
+      "Des chanteuses **charmantes** : *très charmantes* → adjectif verbal.",
+      "Les enfants **riant** aux éclats : *qui rient aux éclats* → participe présent."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un réflexe",
+     "text": "Essaie toujours le **féminin** : si tu peux dire « une histoire amusante », le mot est un adjectif verbal et il s’accorde."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Ces élèves, obéissant à la consigne, se sont rangés », « obéissant » est :",
+     "options": [
+      "un adjectif verbal",
+      "un participe présent",
+      "un nom",
+      "un adverbe"
+     ],
+     "answer": 1,
+     "explain": "Il a un complément (« à la consigne ») et peut être remplacé par « qui obéissent » : c’est un participe présent, invariable."
+    }
+   ]
+  },
+  {
+   "t": "Les graphies particulières",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains verbes ont un participe présent et un adjectif verbal qui **ne s’écrivent pas de la même façon**. Il faut connaître ces couples : l’orthographe change, et pas seulement l’accord."
+    },
+    {
+     "type": "h",
+     "text": "Les verbes en -quer et en -guer"
+    },
+    {
+     "type": "p",
+     "text": "Le participe présent garde le **qu** ou le **gu** du verbe (**-quant**, **-guant**). L’adjectif verbal s’écrit avec **c** ou **g** (**-cant**, **-gant**)."
+    },
+    {
+     "type": "table",
+     "title": "-quant / -cant et -guant / -gant",
+     "head": [
+      "Verbe",
+      "Participe présent",
+      "Adjectif verbal"
+     ],
+     "rows": [
+      [
+       "provoquer",
+       "provoquant",
+       "provocant"
+      ],
+      [
+       "communiquer",
+       "communiquant",
+       "communicant"
+      ],
+      [
+       "convaincre",
+       "convainquant",
+       "convaincant"
+      ],
+      [
+       "suffoquer",
+       "suffoquant",
+       "suffocant"
+      ],
+      [
+       "fatiguer",
+       "fatiguant",
+       "fatigant"
+      ],
+      [
+       "intriguer",
+       "intriguant",
+       "intrigant"
+      ],
+      [
+       "naviguer",
+       "naviguant",
+       "navigant"
+      ],
+      [
+       "extravaguer",
+       "extravaguant",
+       "extravagant"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les verbes dont l’adjectif verbal se termine en -ent"
+    },
+    {
+     "type": "p",
+     "text": "Pour quelques verbes, le participe présent s’écrit **-ant** et l’adjectif verbal **-ent**."
+    },
+    {
+     "type": "table",
+     "title": "-ant / -ent",
+     "head": [
+      "Verbe",
+      "Participe présent",
+      "Adjectif verbal"
+     ],
+     "rows": [
+      [
+       "précéder",
+       "précédant",
+       "précédent"
+      ],
+      [
+       "différer",
+       "différant",
+       "différent"
+      ],
+      [
+       "négliger",
+       "négligeant",
+       "négligent"
+      ],
+      [
+       "exceller",
+       "excellant",
+       "excellent"
+      ],
+      [
+       "équivaloir",
+       "équivalant",
+       "équivalent"
+      ],
+      [
+       "diverger",
+       "divergeant",
+       "divergent"
+      ],
+      [
+       "violer",
+       "violant",
+       "violent"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Ce vendeur, **provoquant** la colère du client, a été renvoyé. / Une publicité **provocante**.\nEn **négligeant** ses devoirs, il a échoué. / Un élève **négligent**.\nLa page **précédant** le chapitre. / La page **précédente**."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne pas écrire « un travail fatiguant » : quand le mot est un adjectif, on écrit « un travail **fatigant** » (sans **u**). Le **u** ne se garde qu’au participe présent : « en se **fatiguant** ». Même règle pour « un personnage **intrigant** » / « en **intriguant** »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Cette affirmation est convainquante.",
+      "Cette affirmation est convaincante.",
+      "Cette affirmation est convaincant.",
+      "Cette affirmation est convainquant."
+     ],
+     "answer": 1,
+     "explain": "C’est un adjectif verbal : il s’écrit avec un c (convaincant) et s’accorde au féminin : convaincante."
+    }
+   ]
+  },
+  {
+   "t": "L’accord et les cas particuliers",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le point essentiel est simple : **le participe présent ne s’accorde jamais** ; **l’adjectif verbal s’accorde toujours** comme un adjectif qualificatif."
+    },
+    {
+     "type": "table",
+     "title": "Accorder ou ne pas accorder",
+     "head": [
+      "Mot",
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "participe présent",
+       "invariable",
+       "Des passants **traversant** la rue."
+      ],
+      [
+       "adjectif verbal",
+       "accord en genre et en nombre",
+       "Des couleurs **éclatantes**."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Le participe présent peut aussi être précédé de **en** : c’est alors le **gérondif**, lui aussi invariable. Il exprime la manière, le moyen ou le temps : « Elle chante **en marchant** »."
+    },
+    {
+     "type": "ex",
+     "label": "Comparer",
+     "text": "Elle les a vus **sortant** du cinéma. (participe présent : invariable)\nLes députés **sortants**. (adjectif verbal : accord au pluriel)."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Même après un nom pluriel, le participe présent ne prend jamais de **s** : « Les élèves **ayant** terminé peuvent sortir » ; « Les élèves **étant** présents… »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Des élèves obéissants à la consigne se sont rangés.",
+      "Des élèves obéissant à la consigne se sont rangés.",
+      "Des élèves obéissantes à la consigne se sont rangés.",
+      "Les deux phrases sont incorrectes."
+     ],
+     "answer": 1,
+     "explain": "Ici « obéissant » a un complément (« à la consigne ») : c’est un participe présent, donc invariable."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître, à écrire et à accorder."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si le mot en gras est un participe présent (PP) ou un adjectif verbal (AV).",
+     "items": [
+      "Des enfants **riant** aux éclats.",
+      "Une histoire **émouvante**.",
+      "Cet élève, **ayant** terminé, a rendu sa copie.",
+      "Des réponses **satisfaisantes**."
+     ],
+     "corrige": [
+      "1. PP : riant (action, remplaçable par « qui rient »)",
+      "2. AV : émouvante (qualité, s’accorde)",
+      "3. PP : ayant (a un complément, invariable)",
+      "4. AV : satisfaisantes (qualité, féminin pluriel)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Écrire correctement"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la forme qui convient : participe présent ou adjectif verbal.",
+     "items": [
+      "Une remarque (provoquer) ____.",
+      "Ces élèves, (négliger) ____ leurs leçons, ont des difficultés.",
+      "Un travail très (fatiguer) ____.",
+      "Un raisonnement (convaincre) ____."
+     ],
+     "corrige": [
+      "1. provocante (adjectif verbal, féminin)",
+      "2. négligeant (participe présent, invariable)",
+      "3. fatigant (adjectif verbal, masculin)",
+      "4. convaincant (adjectif verbal, masculin)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Accorder"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie en accordant, si c’est nécessaire.",
+     "items": [
+      "Des histoires (amusant) ____.",
+      "Des chanteuses (charmer) ____ le public.",
+      "Des routes (glissant) ____.",
+      "Les passants (traverser) ____ la rue."
+     ],
+     "corrige": [
+      "1. amusantes",
+      "2. charmant (participe présent, invariable)",
+      "3. glissantes",
+      "4. traversant (participe présent, invariable)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Des routes glissantes », le mot « glissantes » est :",
+     "options": [
+      "un participe présent",
+      "un adjectif verbal",
+      "un verbe conjugué",
+      "un gérondif"
+     ],
+     "answer": 1,
+     "explain": "Il exprime une qualité des routes et s’accorde : c’est un adjectif verbal."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **participe présent** exprime une action, se termine par **-ant** et reste **invariable**.",
+      "L’**adjectif verbal** exprime une qualité et **s’accorde** en genre et en nombre.",
+      "Le participe présent se forme avec le radical de « **nous** » au présent + **-ant** (sauf **étant**, **ayant**, **sachant**).",
+      "Distinguer par les tests : « qui + verbe », « très », l’accord, la présence d’un complément.",
+      "Verbes en **-quer / -guer** : participe présent en **-quant / -guant**, adjectif verbal en **-cant / -gant**.",
+      "Quelques adjectifs verbaux se terminent en **-ent** : précédent, différent, négligent, excellent."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Participe présent et adjectif verbal en un coup d’œil",
+     "head": [
+      "Critère",
+      "Participe présent",
+      "Adjectif verbal"
+     ],
+     "rows": [
+      [
+       "Sens",
+       "action",
+       "qualité, état"
+      ],
+      [
+       "Accord",
+       "invariable",
+       "variable"
+      ],
+      [
+       "Test",
+       "qui + verbe",
+       "très + adjectif"
+      ],
+      [
+       "Exemple",
+       "Des élèves **obéissant** à la consigne",
+       "Des élèves **obéissants**"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Parmi ces mots, lequel est un participe présent ?",
+     "options": [
+      "fatigante",
+      "fatiguant",
+      "intrigante",
+      "provocante"
+     ],
+     "answer": 1,
+     "explain": "« fatiguant » garde le gu du verbe « fatiguer » : c’est le participe présent. Les autres sont des adjectifs verbaux."
+    }
+   ]
+  }
+ ]
+}

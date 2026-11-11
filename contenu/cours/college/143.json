@@ -1,0 +1,553 @@
+{
+ "id": 143,
+ "meta": {
+  "t": "L’expression de la circonstance de temps",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la circonstance de temps ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « **Hier soir**, nous sommes allés au cinéma » et dans « **Quand la nuit est tombée**, nous sommes rentrés », les mots en gras répondent à la question **quand ?** Ils précisent le **moment**, la **durée** ou la **fréquence** de l’action : ils expriment la **circonstance de temps**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la circonstance de temps dans une phrase",
+      "Identifier ses différentes natures (adverbe, groupe nominal, subordonnée…)",
+      "Employer les bonnes prépositions et conjonctions de temps",
+      "Choisir le mode et le temps du verbe dans la subordonnée"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de temps",
+     "text": "La **circonstance de temps** indique **quand** se passe l’action : à quel moment, pendant combien de temps, à quelle fréquence. Elle s’exprime par un **complément circonstanciel de temps** ou par une **proposition subordonnée circonstancielle de temps**."
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Pose la question **Quand ?** ou **Pendant combien de temps ?** après le verbe. Le complément circonstanciel de temps peut **se déplacer** ou **être supprimé** sans rendre la phrase incorrecte."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il pleut **depuis ce matin**.\n**Le dimanche**, nous allons chez nos grands-parents.\n**Dès que le soleil se lève**, les oiseaux chantent."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver la circonstance de temps ?",
+     "options": [
+      "Où ?",
+      "Quand ?",
+      "Pourquoi ?",
+      "Comment ?"
+     ],
+     "answer": 1,
+     "explain": "La circonstance de temps répond à la question « quand ? » (ou « pendant combien de temps ? »)."
+    }
+   ]
+  },
+  {
+   "t": "Les compléments circonstanciels de temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le complément circonstanciel de temps peut avoir plusieurs **natures** : un mot, un groupe de mots ou une proposition."
+    },
+    {
+     "type": "table",
+     "title": "Les natures du complément de temps",
+     "head": [
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "adverbe",
+       "Il arrivera **demain**. / Je le vois **souvent**."
+      ],
+      [
+       "groupe nominal",
+       "**Ce matin**, il a plu. / Nous partons **lundi prochain**."
+      ],
+      [
+       "groupe prépositionnel",
+       "Il dort **pendant le cours**. / Elle est partie **après le dîner**."
+      ],
+      [
+       "infinitif précédé d’une préposition",
+       "**Avant de partir**, ferme la porte. / **Après avoir mangé**, il sort."
+      ],
+      [
+       "gérondif",
+       "**En sortant**, j’ai croisé mon voisin."
+      ],
+      [
+       "proposition participiale",
+       "**Le soleil couché**, nous sommes rentrés."
+      ],
+      [
+       "proposition subordonnée",
+       "**Quand il pleut**, je reste à la maison."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ponctuation",
+     "text": "Quand le complément de temps est placé **en tête de phrase**, on le sépare souvent du reste par une **virgule** : « **Ce soir**, nous irons au marché »."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Après avoir mangé, il sort », « Après avoir mangé » est :",
+     "options": [
+      "un adverbe",
+      "un infinitif précédé d’une préposition",
+      "une proposition subordonnée",
+      "un groupe nominal"
+     ],
+     "answer": 1,
+     "explain": "« Après avoir mangé » est un infinitif passé introduit par la préposition « après » : il exprime le temps."
+    }
+   ]
+  },
+  {
+   "t": "Les prépositions et les mots de temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le choix de la préposition change le sens : on ne dit pas la même chose avec **pendant**, **depuis**, **dans** ou **en**."
+    },
+    {
+     "type": "table",
+     "title": "Les prépositions et locutions de temps",
+     "head": [
+      "Idée exprimée",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "moment précis",
+       "à, au moment de, lors de, vers",
+       "Il est arrivé **vers** midi."
+      ],
+      [
+       "point de départ",
+       "depuis, dès, à partir de",
+       "Il travaille **depuis** huit heures."
+      ],
+      [
+       "durée",
+       "pendant, durant",
+       "Nous avons marché **pendant** deux heures."
+      ],
+      [
+       "durée d’accomplissement",
+       "en",
+       "Il a fini son devoir **en** vingt minutes."
+      ],
+      [
+       "limite",
+       "jusqu’à, avant, après",
+       "Attends **jusqu’à** demain."
+      ],
+      [
+       "moment futur",
+       "dans",
+       "Nous partons **dans** trois jours."
+      ],
+      [
+       "moment passé",
+       "il y a",
+       "Je l’ai vu **il y a** deux jours."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Ne pas confondre dans et en",
+     "text": "**Dans trois jours** = le moment où l’action aura lieu. **En trois jours** = le temps qu’il faut pour accomplir l’action."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« **Depuis** » et « **pendant** » ne sont pas interchangeables : « Il habite ici **depuis** deux ans » (il y habite toujours) ; « Il a habité ici **pendant** deux ans » (c’est terminé)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il est parti pendant lundi.",
+      "Il est parti lundi.",
+      "Il est parti à lundi.",
+      "Il est parti en lundi."
+     ],
+     "answer": 1,
+     "explain": "Pour un jour précis, on emploie le nom seul : « lundi », sans préposition."
+    }
+   ]
+  },
+  {
+   "t": "La proposition subordonnée de temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand la circonstance de temps contient un **verbe conjugué**, c’est une **proposition subordonnée conjonctive circonstancielle de temps**. Elle est introduite par une **conjonction de subordination** ou une locution conjonctive."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase complexe décortiquée",
+     "cells": [
+      {
+       "mot": "Quand",
+       "role": "conjonction de subordination",
+       "noyau": true
+      },
+      {
+       "mot": "il pleut",
+       "role": "subordonnée circonstancielle de temps"
+      },
+      {
+       "mot": "je reste à la maison",
+       "role": "proposition principale"
+      }
+     ],
+     "note": "La subordonnée répond à la question « quand ? » et peut se placer avant ou après la principale."
+    },
+    {
+     "type": "p",
+     "text": "Selon la conjonction choisie, l’action de la subordonnée a lieu **en même temps**, **avant** ou **après** celle de la principale."
+    },
+    {
+     "type": "table",
+     "title": "Les conjonctions de temps",
+     "head": [
+      "Rapport avec la principale",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "simultanéité",
+       "quand, lorsque, pendant que, tandis que, chaque fois que, tant que, comme, au moment où, toutes les fois que",
+       "**Pendant que** je lis, il écoute de la musique."
+      ],
+      [
+       "la subordonnée est antérieure",
+       "après que, dès que, aussitôt que, depuis que",
+       "**Dès qu’il est arrivé**, il a salué tout le monde."
+      ],
+      [
+       "la subordonnée est postérieure",
+       "avant que, jusqu’à ce que, en attendant que",
+       "Ferme la porte **avant qu’il parte**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Lorsque la cloche sonne**, les élèves entrent en classe.\n**Après qu’il a plu**, la route est glissante.\nElle a attendu **jusqu’à ce que le train arrive**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Dès que tu seras prêt, nous partirons », « Dès que tu seras prêt » est :",
+     "options": [
+      "une principale",
+      "une subordonnée circonstancielle de temps",
+      "une complétive",
+      "une relative"
+     ],
+     "answer": 1,
+     "explain": "Elle est introduite par « dès que » et répond à la question « quand ? »."
+    }
+   ]
+  },
+  {
+   "t": "Le mode et les temps du verbe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le verbe de la subordonnée de temps se met le plus souvent à l’**indicatif**. Mais certaines conjonctions exigent le **subjonctif**."
+    },
+    {
+     "type": "table",
+     "title": "Quel mode après quelle conjonction ?",
+     "head": [
+      "Mode",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "indicatif",
+       "quand, lorsque, dès que, aussitôt que, pendant que, tant que, après que, depuis que",
+       "**Quand** il arrive, nous mangeons."
+      ],
+      [
+       "subjonctif",
+       "avant que, jusqu’à ce que, en attendant que",
+       "Reste ici **jusqu’à ce que** je revienne."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Pour les temps, on respecte la **concordance** : l’action **antérieure** se met à un **temps composé**."
+    },
+    {
+     "type": "table",
+     "title": "Concordance des temps",
+     "head": [
+      "Rapport",
+      "Principale",
+      "Subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "simultanéité",
+       "présent",
+       "présent",
+       "Quand il pleut, je reste chez moi."
+      ],
+      [
+       "antériorité (futur)",
+       "futur simple",
+       "futur antérieur",
+       "Quand il aura fini, il partira."
+      ],
+      [
+       "antériorité (présent)",
+       "présent",
+       "passé composé",
+       "Dès qu’il a fini, il sort."
+      ],
+      [
+       "antériorité (passé)",
+       "imparfait ou passé simple",
+       "plus-que-parfait ou passé antérieur",
+       "Quand il eut fini, il sortit."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« **Après que** » est suivi de l’**indicatif** : « Après qu’il **est parti**… » et non « après qu’il soit parti », qui est une faute fréquente dans l’usage."
+    },
+    {
+     "type": "tip",
+     "label": "Une seule action ou deux ?",
+     "text": "Si le sujet de la subordonnée est **le même** que celui de la principale, on remplace souvent la subordonnée par un **infinitif** : « Avant qu’il parte, il ferme la porte » → « **Avant de partir**, il ferme la porte »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe convient : « Attends jusqu’à ce que je ____ » ?",
+     "options": [
+      "reviens",
+      "reviendrai",
+      "revienne",
+      "suis revenu"
+     ],
+     "answer": 2,
+     "explain": "« jusqu’à ce que » est suivi du subjonctif : « revienne »."
+    }
+   ]
+  },
+  {
+   "t": "Transformer une expression du temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut exprimer la même idée de temps de **plusieurs manières**. Cette transformation est très utile pour enrichir ou alléger une rédaction."
+    },
+    {
+     "type": "table",
+     "title": "Du complément à la subordonnée",
+     "head": [
+      "Groupe prépositionnel",
+      "Subordonnée de temps"
+     ],
+     "rows": [
+      [
+       "**Après son départ**, la maison est calme.",
+       "**Après qu’il est parti**, la maison est calme."
+      ],
+      [
+       "**Pendant le cours**, il dort.",
+       "**Pendant que le professeur parle**, il dort."
+      ],
+      [
+       "**À son arrivée**, tout le monde a applaudi.",
+       "**Quand il est arrivé**, tout le monde a applaudi."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Même sujet : l’infinitif",
+     "text": "**Avant de manger**, lave-toi les mains.\n**Après avoir fini**, il est sorti."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "La transformation ne doit pas changer le **sens** ni le **temps** de l’action. Vérifie aussi le **mode** du verbe : « avant que » veut le subjonctif."
+    },
+    {
+     "type": "quiz",
+     "question": "Transforme « À son retour » en subordonnée :",
+     "options": [
+      "Quand il revenait",
+      "Quand il est revenu",
+      "Pendant qu’il revient",
+      "Aussitôt qu’il reviendra"
+     ],
+     "answer": 1,
+     "explain": "« À son retour, il a souri » devient « Quand il est revenu, il a souri » : même moment, mis au passé composé."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître, à compléter et à transformer."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément ou la subordonnée de temps et indique sa nature.",
+     "items": [
+      "Demain, nous irons au marché.",
+      "Après avoir mangé, il est sorti.",
+      "Dès que la cloche sonne, les élèves partent.",
+      "Elle travaille depuis huit heures."
+     ],
+     "corrige": [
+      "1. Demain : adverbe",
+      "2. Après avoir mangé : infinitif précédé d’une préposition",
+      "3. Dès que la cloche sonne : proposition subordonnée de temps",
+      "4. depuis huit heures : groupe prépositionnel"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la conjonction qui convient (quand, avant que, jusqu’à ce que, après que) et mets le verbe au bon mode.",
+     "items": [
+      "____ tu (finir) tes devoirs, tu pourras jouer.",
+      "Reste ici ____ je (revenir).",
+      "Ferme la porte ____ il (partir).",
+      "____ il (arriver), nous avons mangé."
+     ],
+     "corrige": [
+      "1. Quand tu auras fini (ou « Dès que ») : indicatif, futur antérieur",
+      "2. jusqu’à ce que je revienne : subjonctif",
+      "3. avant qu’il parte : subjonctif",
+      "4. Après qu’il est arrivé (ou « Quand il est arrivé ») : indicatif"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Transformer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace le groupe en gras par une subordonnée de temps.",
+     "items": [
+      "**À son arrivée**, le professeur a salué la classe.",
+      "**Pendant ton absence**, nous avons préparé l’exposé."
+     ],
+     "corrige": [
+      "1. Quand le professeur est arrivé, il a salué la classe.",
+      "2. Pendant que tu étais absent, nous avons préparé l’exposé."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Ils ont attendu jusqu’à ce que le soleil se couche », le verbe « couche » est au :",
+     "options": [
+      "indicatif",
+      "subjonctif",
+      "conditionnel",
+      "impératif"
+     ],
+     "answer": 1,
+     "explain": "Après « jusqu’à ce que », on emploie le subjonctif."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **circonstance de temps** répond à la question **quand ?** (moment, durée, fréquence).",
+      "Elle s’exprime par un **adverbe**, un **groupe nominal**, un **groupe prépositionnel**, un **infinitif**, un **gérondif**, une **proposition participiale** ou une **proposition subordonnée**.",
+      "Ne pas confondre **dans** (moment futur) et **en** (durée d’accomplissement), **depuis** (point de départ) et **pendant** (durée).",
+      "La subordonnée de temps est introduite par une **conjonction** : **quand, lorsque, dès que, après que, avant que, jusqu’à ce que…**",
+      "Le verbe est à l’**indicatif**, sauf après **avant que, jusqu’à ce que, en attendant que** : **subjonctif**.",
+      "L’action **antérieure** se met à un **temps composé** (futur antérieur, passé composé, plus-que-parfait)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La circonstance de temps en un coup d’œil",
+     "head": [
+      "Rapport",
+      "Conjonctions",
+      "Mode"
+     ],
+     "rows": [
+      [
+       "simultanéité",
+       "quand, lorsque, pendant que, tant que",
+       "indicatif"
+      ],
+      [
+       "antériorité",
+       "après que, dès que, aussitôt que",
+       "indicatif"
+      ],
+      [
+       "postériorité",
+       "avant que, jusqu’à ce que",
+       "subjonctif"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Avant que tu partes, ferme la fenêtre », « Avant que tu partes » est :",
+     "options": [
+      "une subordonnée de temps au subjonctif",
+      "une subordonnée de temps à l’indicatif",
+      "une complétive",
+      "une relative"
+     ],
+     "answer": 0,
+     "explain": "« avant que » introduit une subordonnée de temps et exige le subjonctif."
+    }
+   ]
+  }
+ ]
+}

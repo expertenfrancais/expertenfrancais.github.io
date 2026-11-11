@@ -1,0 +1,249 @@
+{
+ "id": 145,
+ "meta": {
+  "t": "L’expression de la circonstance de but",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la circonstance de but ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je révise **pour réussir** » ; « Il parle lentement **afin que tout le monde comprenne** ». Les mots en gras disent **dans quel but** on fait l’action : ils expriment la **circonstance de but**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la circonstance de but",
+      "Employer les prépositions et conjonctions de but",
+      "Utiliser le subjonctif dans la subordonnée de but",
+      "Distinguer le but de la conséquence"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de but",
+     "text": "La **circonstance de but** indique **dans quelle intention** ou **en vue de quel résultat** l’action est faite. Elle répond aux questions **pour quoi faire ?**, **dans quel but ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il court **pour garder la forme**.\nElle étudie **afin d’obtenir son diplôme**.\nIl a parlé fort **pour qu’on l’entende**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver le but ?",
+     "options": [
+      "Quand ?",
+      "Dans quel but ?",
+      "D’où ?",
+      "Avec quoi ?"
+     ],
+     "answer": 1,
+     "explain": "Le complément de but répond à « dans quel but ? » ou « pour quoi faire ? »."
+    }
+   ]
+  },
+  {
+   "t": "Les compléments circonstanciels de but",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le but peut être exprimé par un **groupe prépositionnel**, un **infinitif** précédé d’une préposition ou une **subordonnée**."
+    },
+    {
+     "type": "table",
+     "title": "Les moyens d’exprimer le but",
+     "head": [
+      "Nature",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "groupe prépositionnel",
+       "pour, en vue de, dans le but de",
+       "Il travaille **en vue de l’examen**."
+      ],
+      [
+       "infinitif",
+       "pour, afin de, de manière à, de façon à",
+       "Elle se dépêche **afin d’arriver à l’heure**."
+      ],
+      [
+       "subordonnée",
+       "pour que, afin que, de peur que, de crainte que, de sorte que",
+       "Parle fort **pour que tout le monde entende**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Même sujet : l’infinitif",
+     "text": "Quand le sujet est le **même** dans les deux propositions, on préfère l’**infinitif** : « Je lis **pour apprendre** » (et non « pour que j’apprenne »)."
+    }
+   ]
+  },
+  {
+   "t": "La subordonnée de but et le subjonctif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après **pour que**, **afin que**, **de peur que**, **de crainte que**, le verbe se met **toujours au subjonctif**."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase complexe décortiquée",
+     "cells": [
+      {
+       "mot": "Il parle lentement",
+       "role": "proposition principale"
+      },
+      {
+       "mot": "afin que",
+       "role": "locution conjonctive",
+       "noyau": true
+      },
+      {
+       "mot": "tout le monde comprenne",
+       "role": "subordonnée circonstancielle de but (subjonctif)"
+      }
+     ],
+     "note": "La subordonnée exprime l’intention de l’action de la principale."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Je t’écris **pour que tu saches** la vérité.\nIl a fermé la porte **de peur qu’on ne l’entende**."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Avec **de peur que** et **de crainte que**, le but est d’**éviter** quelque chose ; on ajoute souvent un **ne** (sans valeur négative) : « de peur qu’il **ne** tombe »."
+    }
+   ]
+  },
+  {
+   "t": "But ou conséquence ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La locution **de sorte que** (ou **de façon que**, **de manière que**) peut exprimer le **but** ou la **conséquence**. Seul le **mode** du verbe permet de le savoir."
+    },
+    {
+     "type": "table",
+     "title": "But ou conséquence ?",
+     "head": [
+      "Mode",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "subjonctif",
+       "but (intention)",
+       "Il parle fort **de sorte que** tous **puissent** l’entendre."
+      ],
+      [
+       "indicatif",
+       "conséquence (résultat réel)",
+       "Il a parlé fort, **de sorte que** tout le monde **l’a entendu**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Le **but** est une intention (pas encore réalisée) ; la **conséquence** est un résultat déjà obtenu."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à construire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique si la proposition en gras exprime le but (B) ou autre chose.",
+     "items": [
+      "Il parle lentement **pour que tu comprennes**.",
+      "Il pleut **depuis ce matin**.",
+      "Elle étudie **afin d’être admise**.",
+      "Il a crié **de peur qu’on ne l’oublie**."
+     ],
+     "corrige": [
+      "1. B (pour que + subjonctif)",
+      "2. temps (depuis ce matin)",
+      "3. B (afin de + infinitif)",
+      "4. B (de peur que : but d’éviter)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le verbe au mode qui convient.",
+     "items": [
+      "Je t’explique pour que tu (comprendre).",
+      "Elle travaille afin de (réussir).",
+      "Il parle fort de peur qu’on ne l’(entendre) pas.",
+      "Ferme la fenêtre pour qu’il ne (faire) pas froid."
+     ],
+     "corrige": [
+      "1. comprennes",
+      "2. réussir",
+      "3. entende",
+      "4. fasse"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Après « afin que », le verbe se met :",
+     "options": [
+      "à l’indicatif",
+      "au subjonctif",
+      "au conditionnel",
+      "à l’infinitif"
+     ],
+     "answer": 1,
+     "explain": "« afin que » est suivi du subjonctif."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **circonstance de but** répond à : **dans quel but ? pour quoi faire ?**",
+      "Elle s’exprime par **pour, afin de, en vue de** + nom ou infinitif, ou par une subordonnée.",
+      "**Pour que, afin que, de peur que, de crainte que** sont suivis du **subjonctif**.",
+      "Même sujet : on emploie l’**infinitif** (pour réussir).",
+      "**De sorte que** + subjonctif = but ; + indicatif = conséquence."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je t’écris pour que tu saches », « pour que tu saches » est :",
+     "options": [
+      "une subordonnée de cause",
+      "une subordonnée de but",
+      "une subordonnée de temps",
+      "une relative"
+     ],
+     "answer": 1,
+     "explain": "« pour que » introduit une subordonnée de but, au subjonctif."
+    }
+   ]
+  }
+ ]
+}

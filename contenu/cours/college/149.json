@@ -1,0 +1,276 @@
+{
+ "id": 149,
+ "meta": {
+  "t": "Les valeurs modales du conditionnel",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "h",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le conditionnel : un mode aux plusieurs valeurs",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je **voudrais** un renseignement » ; « Il **viendrait** s’il pouvait » ; « Le ministre **serait** arrivé ». Le conditionnel n’exprime pas toujours la même chose : il a plusieurs **valeurs modales**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Former le conditionnel présent et passé",
+      "Reconnaître ses valeurs (hypothèse, politesse, souhait, regret, information incertaine)",
+      "Distinguer le conditionnel du futur simple",
+      "Employer le conditionnel correctement après « si »"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Conditionnel",
+     "text": "Le **conditionnel** est un **mode** du verbe. Il exprime un fait **irréel**, **possible**, **souhaité** ou **incertain**. Il comporte deux temps : le **présent** et le **passé**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Si j’avais de l’argent, je **voyagerais**. (hypothèse)\n**Pourriez-vous** m’aider ? (politesse)"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Pourriez-vous m’aider ? », le conditionnel exprime :",
+     "options": [
+      "un regret",
+      "la politesse",
+      "une hypothèse",
+      "un fait certain"
+     ],
+     "answer": 1,
+     "explain": "Le conditionnel adoucit la demande : c’est le conditionnel de politesse."
+    }
+   ]
+  },
+  {
+   "t": "La formation du conditionnel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **conditionnel présent** se forme avec le **radical du futur simple** + les terminaisons de l’**imparfait** : **-ais, -ais, -ait, -ions, -iez, -aient**. Le **conditionnel passé** se forme avec l’auxiliaire au **conditionnel présent** + le **participe passé**."
+    },
+    {
+     "type": "table",
+     "title": "Le conditionnel présent",
+     "head": [
+      "Infinitif",
+      "Futur (je)",
+      "Conditionnel présent (je)"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chanterai",
+       "chanterais"
+      ],
+      [
+       "finir",
+       "finirai",
+       "finirais"
+      ],
+      [
+       "avoir",
+       "aurai",
+       "aurais"
+      ],
+      [
+       "être",
+       "serai",
+       "serais"
+      ],
+      [
+       "aller",
+       "irai",
+       "irais"
+      ],
+      [
+       "pouvoir",
+       "pourrai",
+       "pourrais"
+      ],
+      [
+       "voir",
+       "verrai",
+       "verrais"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Conditionnel passé",
+     "text": "J’**aurais mangé**.\nElle **serait partie**.\nNous **aurions su**."
+    },
+    {
+     "type": "warn",
+     "label": "Futur ou conditionnel ?",
+     "text": "« je chanter**ai** » (futur) / « je chanter**ais** » (conditionnel). À la 1re personne, **-ai** = futur ; **-ais** = conditionnel."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du conditionnel",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les valeurs modales du conditionnel",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "hypothèse, irréel",
+       "Si j’avais le temps, je **lirais** davantage."
+      ],
+      [
+       "politesse, atténuation",
+       "Je **voudrais** vous parler. / **Pourriez-vous** répéter ?"
+      ],
+      [
+       "souhait",
+       "J’**aimerais** voyager."
+      ],
+      [
+       "regret",
+       "J’**aurais dû** partir plus tôt."
+      ],
+      [
+       "information non confirmée",
+       "Le ministre **serait** arrivé hier."
+      ],
+      [
+       "futur dans le passé",
+       "Il a dit qu’il **viendrait**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le conditionnel de l’information",
+     "text": "Dans la presse, il signale qu’une information **n’est pas sûre** : « Le suspect **aurait été** arrêté »."
+    }
+   ]
+  },
+  {
+   "t": "Conditionnel et concordance",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le conditionnel est le temps de la **principale** dans une phrase avec « si » + imparfait ou plus-que-parfait."
+    },
+    {
+     "type": "table",
+     "title": "Les systèmes avec si",
+     "head": [
+      "Subordonnée",
+      "Principale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "si + imparfait",
+       "conditionnel présent",
+       "Si j’**avais** le temps, je **viendrais**."
+      ],
+      [
+       "si + plus-que-parfait",
+       "conditionnel passé",
+       "Si j’**avais su**, je **serais venu**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Jamais de conditionnel après « si » de condition : « si j’**avais** » (et non « si j’aurais »). Le conditionnel s’emploie après « **au cas où** » : « **Au cas où** il **viendrait**… »"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à conjuguer et à reconnaître."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au conditionnel présent.",
+     "items": [
+      "Je (vouloir) un café.",
+      "Si tu venais, nous (jouer).",
+      "Elle (pouvoir) nous aider."
+     ],
+     "corrige": [
+      "1. voudrais",
+      "2. jouerions",
+      "3. pourrait"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du conditionnel.",
+     "items": [
+      "J’aimerais vivre au bord de la mer.",
+      "Le ministre aurait démissionné.",
+      "Pourriez-vous m’indiquer la gare ?",
+      "J’aurais dû t’écouter."
+     ],
+     "corrige": [
+      "1. souhait",
+      "2. information non confirmée",
+      "3. politesse",
+      "4. regret"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Le ministre aurait démissionné » : le conditionnel indique :",
+     "options": [
+      "un souhait",
+      "une information non confirmée",
+      "un ordre",
+      "un fait certain"
+     ],
+     "answer": 1,
+     "explain": "Le conditionnel passé signale que l’information n’est pas vérifiée."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Conditionnel présent = **radical du futur + terminaisons de l’imparfait**.",
+      "Conditionnel passé = **auxiliaire au conditionnel présent + participe passé**.",
+      "Valeurs : **hypothèse, politesse, souhait, regret, information incertaine, futur dans le passé**.",
+      "Pas de conditionnel après **si** de condition ; « si + imparfait → conditionnel présent »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le conditionnel présent de « pouvoir » à la 1re personne du singulier ?",
+     "options": [
+      "je pourrai",
+      "je pourrais",
+      "je puisse",
+      "je pouvais"
+     ],
+     "answer": 1,
+     "explain": "Futur : « je pourrai » ; conditionnel : « je pourrais »."
+    }
+   ]
+  }
+ ]
+}

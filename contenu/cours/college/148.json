@@ -1,0 +1,270 @@
+{
+ "id": 148,
+ "meta": {
+  "t": "L’expression de la circonstance de moyen et de manière",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Moyen et manière : de quoi s’agit-il ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il ouvre la porte **avec une clé** » : on dit **par quel moyen**. « Il marche **lentement** » : on dit **de quelle manière**. Ce sont les circonstances de **moyen** et de **manière**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer le moyen et la manière",
+      "Reconnaître leurs différentes natures",
+      "Employer comme, comme si, sans que, en + gérondif",
+      "Choisir le mode du verbe"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de moyen",
+     "text": "Le **moyen** indique **avec quoi** ou **par quel procédé** l’action est faite. Il répond à : **avec quoi ? par quel moyen ?**"
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de manière",
+     "text": "La **manière** indique **comment** l’action se déroule. Elle répond à : **comment ? de quelle façon ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il écrit **avec un stylo** (moyen).\nElle chante **joyeusement** (manière).\nIl réussit **en travaillant** (moyen)."
+    },
+    {
+     "type": "quiz",
+     "question": "« Il voyage en train » : « en train » exprime :",
+     "options": [
+      "la manière",
+      "le moyen",
+      "le lieu",
+      "le but"
+     ],
+     "answer": 1,
+     "explain": "« En train » répond à « par quel moyen ? » : c’est le moyen de transport."
+    }
+   ]
+  },
+  {
+   "t": "Les compléments de moyen",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les moyens d’exprimer le moyen",
+     "head": [
+      "Nature",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "groupe prépositionnel",
+       "avec, par, au moyen de, à l’aide de, grâce à, en",
+       "Il répare avec **un tournevis**."
+      ],
+      [
+       "gérondif",
+       "en + participe présent",
+       "Elle apprend **en lisant**."
+      ],
+      [
+       "infinitif",
+       "à force de, en",
+       "Il réussit **à force de persévérer**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Pose la question **avec quoi ?** ou **par quel moyen ?** : « Il coupe le pain avec un couteau » → **avec quoi ?** → avec un couteau."
+    }
+   ]
+  },
+  {
+   "t": "Les compléments de manière",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les moyens d’exprimer la manière",
+     "head": [
+      "Nature",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "adverbe",
+       "lentement, bien, mal, vite, ainsi, comment",
+       "Il parle **doucement**."
+      ],
+      [
+       "groupe prépositionnel",
+       "avec, sans, d’un air, à toute vitesse, de façon",
+       "Elle répond **sans hésiter**."
+      ],
+      [
+       "gérondif",
+       "en + participe présent",
+       "Il est entré **en courant**."
+      ],
+      [
+       "subordonnée",
+       "comme, comme si, sans que, de la façon dont",
+       "Fais **comme je t’ai montré**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Comme si",
+     "text": "« **Comme si** » est suivi de l’**imparfait** ou du **plus-que-parfait** : « Il parle **comme s’il savait** tout. »"
+    }
+   ]
+  },
+  {
+   "t": "Les subordonnées et le mode",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Conjonctions et mode",
+     "head": [
+      "Mode",
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "indicatif",
+       "comme, de la façon dont, ainsi que",
+       "Fais **comme tu veux**."
+      ],
+      [
+       "indicatif (imparfait, plus-que-parfait)",
+       "comme si",
+       "Il agit **comme s’il était** le chef."
+      ],
+      [
+       "subjonctif",
+       "sans que",
+       "Il est parti **sans que personne le voie**."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase complexe décortiquée",
+     "cells": [
+      {
+       "mot": "Il est parti",
+       "role": "proposition principale"
+      },
+      {
+       "mot": "sans que",
+       "role": "locution conjonctive",
+       "noyau": true
+      },
+      {
+       "mot": "personne le voie",
+       "role": "subordonnée de manière (subjonctif)"
+      }
+     ],
+     "note": "« sans que » est suivi du subjonctif."
+    },
+    {
+     "type": "tip",
+     "label": "Même sujet : l’infinitif",
+     "text": "« Il est parti **sans dire** un mot » (même sujet) / « Il est parti **sans que** personne le **voie** » (sujets différents)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à classer et à compléter."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le groupe en gras exprime le moyen (M) ou la manière (Ma).",
+     "items": [
+      "Il écrit **avec un crayon**.",
+      "Elle marche **lentement**.",
+      "Ils ont réussi **en travaillant**.",
+      "Il répond **sans hésiter**."
+     ],
+     "corrige": [
+      "1. M",
+      "2. Ma",
+      "3. M (gérondif)",
+      "4. Ma"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec comme, comme si, sans que.",
+     "items": [
+      "Il parle ____ il était le chef.",
+      "Il est parti ____ personne le voie.",
+      "Fais ____ je t’ai montré."
+     ],
+     "corrige": [
+      "1. comme si (suivi de l’imparfait : « était »)",
+      "2. sans que (subjonctif : « voie »)",
+      "3. comme (indicatif : « ai montré »)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Après « sans que », le verbe se met :",
+     "options": [
+      "à l’indicatif",
+      "au subjonctif",
+      "au conditionnel",
+      "au futur"
+     ],
+     "answer": 1,
+     "explain": "« sans que » est suivi du subjonctif."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **moyen** répond à : **avec quoi ? par quel moyen ?** ; la **manière** à : **comment ?**",
+      "Le **gérondif** (en + participe présent) exprime souvent le moyen ou la manière.",
+      "**Comme si** + imparfait ou plus-que-parfait ; **sans que** + subjonctif.",
+      "Même sujet : on préfère **sans** + infinitif."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il parle comme s’il savait tout », « comme s’il savait tout » exprime :",
+     "options": [
+      "le moyen",
+      "la manière",
+      "le temps",
+      "le lieu"
+     ],
+     "answer": 1,
+     "explain": "« Comme si » introduit une subordonnée de manière (comparaison hypothétique)."
+    }
+   ]
+  }
+ ]
+}

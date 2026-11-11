@@ -1,0 +1,261 @@
+{
+ "id": 146,
+ "meta": {
+  "t": "L’expression de la circonstance de condition",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la circonstance de condition ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« **Si tu travailles**, tu réussiras. » La réussite dépend d’une **condition** : travailler. Cette idée s’appelle la **circonstance de condition** (ou d’hypothèse)."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la condition et l’hypothèse",
+      "Employer « si » avec les bons temps",
+      "Utiliser les conjonctions à condition que, pourvu que, à moins que, au cas où",
+      "Éviter les fautes de concordance après « si »"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de condition",
+     "text": "La **circonstance de condition** indique ce qui doit être réalisé pour que l’action de la principale se produise. Elle répond à la question **à quelle condition ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Si tu me préviens**, je viendrai.\n**À condition de partir tôt**, nous arriverons à l’heure.\n**En cas de pluie**, la fête sera annulée."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Si tu me préviens, je viendrai », « Si tu me préviens » exprime :",
+     "options": [
+      "le temps",
+      "la condition",
+      "la cause",
+      "le but"
+     ],
+     "answer": 1,
+     "explain": "La venue dépend d’une condition : « si tu me préviens »."
+    }
+   ]
+  },
+  {
+   "t": "Les trois systèmes avec « si »",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après « **si** », on **n’emploie jamais** le futur ni le conditionnel. Les temps dépendent du **degré de réalité** de l’hypothèse."
+    },
+    {
+     "type": "table",
+     "title": "Les systèmes hypothétiques",
+     "head": [
+      "Hypothèse",
+      "Subordonnée (si)",
+      "Principale",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "réelle ou probable",
+       "présent",
+       "futur ou impératif",
+       "**Si** tu viens, nous **sortirons**."
+      ],
+      [
+       "possible ou irréelle (présent)",
+       "imparfait",
+       "conditionnel présent",
+       "**Si** j’**avais** le temps, je **viendrais**."
+      ],
+      [
+       "irréelle (passé)",
+       "plus-que-parfait",
+       "conditionnel passé",
+       "**Si** j’**avais su**, je **serais venu**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "On ne dit pas « si j’aurais le temps » mais « si **j’avais** le temps ». Le conditionnel est dans la **principale**, jamais après « si » de condition."
+    }
+   ]
+  },
+  {
+   "t": "Les conjonctions et les prépositions de condition",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres mots expriment la condition ; certains exigent le **subjonctif**."
+    },
+    {
+     "type": "table",
+     "title": "Les mots de la condition",
+     "head": [
+      "Mot",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "si",
+       "indicatif",
+       "**Si** tu pars, préviens-moi."
+      ],
+      [
+       "à condition que, pourvu que, à supposer que",
+       "subjonctif",
+       "Je viendrai **pourvu que** tu **sois** là."
+      ],
+      [
+       "à moins que (+ ne)",
+       "subjonctif",
+       "Nous partirons **à moins qu’il ne pleuve**."
+      ],
+      [
+       "au cas où, dans le cas où",
+       "conditionnel",
+       "**Au cas où** il **viendrait**, préviens-moi."
+      ],
+      [
+       "à condition de, en cas de, sans",
+       "infinitif ou nom",
+       "**En cas de retard**, appelle-moi."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "« Même si »",
+     "text": "« **Même si** » n’exprime pas une condition mais une **concession** (opposition) : « **Même s’il pleut**, nous sortirons. »"
+    }
+   ]
+  },
+  {
+   "t": "Reformuler une condition",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut exprimer la condition de plusieurs façons sans changer le sens."
+    },
+    {
+     "type": "table",
+     "title": "Autres formulations",
+     "head": [
+      "Avec « si »",
+      "Autre construction"
+     ],
+     "rows": [
+      [
+       "**Si tu viens**, nous jouerons.",
+       "**À condition que tu viennes**, nous jouerons."
+      ],
+      [
+       "**Si tu ne te presses pas**, tu seras en retard.",
+       "**Sans te presser**, tu seras en retard."
+      ],
+      [
+       "**S’il pleut**, nous resterons.",
+       "**En cas de pluie**, nous resterons."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Avec le gérondif",
+     "text": "**En partant plus tôt**, tu éviteras les embouteillages. (= Si tu pars plus tôt…)"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à conjuguer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue les verbes entre parenthèses.",
+     "items": [
+      "Si tu (étudier), tu réussiras.",
+      "Si j’(avoir) plus de temps, je lirais davantage.",
+      "Si nous (partir) plus tôt, nous serions arrivés à l’heure.",
+      "Nous sortirons pourvu qu’il (faire) beau."
+     ],
+     "corrige": [
+      "1. étudies",
+      "2. avais",
+      "3. étions partis",
+      "4. fasse"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme avec la conjonction indiquée.",
+     "items": [
+      "Si tu viens, je serai content. (à condition que)",
+      "S’il pleut, nous resterons. (au cas où)"
+     ],
+     "corrige": [
+      "1. À condition que tu viennes, je serai content.",
+      "2. Au cas où il pleuvrait, nous resterions. (conditionnel : « pleuvrait » / « resterions »)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Si j’aurais su, je serais venu.",
+      "Si j’avais su, je serais venu.",
+      "Si j’aurais su, je viendrais.",
+      "Si je saurais, je viendrais."
+     ],
+     "answer": 1,
+     "explain": "Après « si », on emploie l’imparfait ou le plus-que-parfait, pas le conditionnel."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **circonstance de condition** répond à : **à quelle condition ?**",
+      "Avec « **si** » : présent → futur ; imparfait → conditionnel présent ; plus-que-parfait → conditionnel passé.",
+      "Jamais de futur ni de conditionnel **après « si »** de condition.",
+      "**À condition que, pourvu que, à moins que** + **subjonctif** ; **au cas où** + **conditionnel**.",
+      "« **Même si** » exprime la concession, pas la condition."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Après « pourvu que », le verbe se met :",
+     "options": [
+      "à l’indicatif",
+      "au subjonctif",
+      "au conditionnel",
+      "au futur"
+     ],
+     "answer": 1,
+     "explain": "« pourvu que » est suivi du subjonctif."
+    }
+   ]
+  }
+ ]
+}

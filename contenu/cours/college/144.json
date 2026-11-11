@@ -1,0 +1,309 @@
+{
+ "id": 144,
+ "meta": {
+  "t": "L’expression de la circonstance de lieu",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la circonstance de lieu ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Nous dînons **dans le jardin** » et dans « Je m’installerai **là où il y a de l’ombre** », les mots en gras indiquent l’**endroit** où se passe l’action : ils expriment la **circonstance de lieu**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la circonstance de lieu",
+      "Distinguer lieu où l’on est, direction, provenance et passage",
+      "Employer la subordonnée circonstancielle de lieu",
+      "Ne pas confondre cette subordonnée avec une relative"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de lieu",
+     "text": "La **circonstance de lieu** indique **où** se passe l’action. Elle répond aux questions **où ?**, **d’où ?**, **vers où ?**, **par où ?** et s’exprime par un complément circonstanciel de lieu ou une subordonnée circonstancielle de lieu."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Les enfants jouent **dans la cour**.\n**Partout**, on entendait de la musique.\nElle est revenue **de la bibliothèque**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver un complément de lieu ?",
+     "options": [
+      "Quand ?",
+      "Pourquoi ?",
+      "Où ?",
+      "Comment ?"
+     ],
+     "answer": 2,
+     "explain": "Le complément circonstanciel de lieu répond à la question « où ? » (ou « d’où ? », « vers où ? », « par où ? »)."
+    }
+   ]
+  },
+  {
+   "t": "Les compléments circonstanciels de lieu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le lieu peut être exprimé par un **adverbe**, un **groupe prépositionnel** ou, plus rarement, un **groupe nominal**."
+    },
+    {
+     "type": "table",
+     "title": "Les natures du complément de lieu",
+     "head": [
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "adverbe",
+       "Reste **ici**. / Il a cherché **partout**. / Regarde **dehors**."
+      ],
+      [
+       "groupe prépositionnel",
+       "Elle habite **à Brazzaville**. / Il marche **sur le trottoir**."
+      ],
+      [
+       "groupe nominal",
+       "Il a couru **tout le chemin**."
+      ],
+      [
+       "gérondif ou proposition",
+       "Ils sont arrivés **là où la route s’arrête**."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les prépositions de lieu selon le sens",
+     "head": [
+      "Idée",
+      "Prépositions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "situation",
+       "à, dans, sur, sous, chez, devant, derrière, près de",
+       "Il attend **devant** l’école."
+      ],
+      [
+       "direction",
+       "vers, à, en, jusqu’à",
+       "Nous allons **vers** la mer."
+      ],
+      [
+       "provenance",
+       "de, depuis, d’",
+       "Il vient **de** Pointe-Noire."
+      ],
+      [
+       "passage",
+       "par, à travers",
+       "Elle est entrée **par** la fenêtre."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Déplacer et supprimer",
+     "text": "Le complément de lieu est **mobile** et **supprimable** : « Dans la cour, les enfants jouent » / « Les enfants jouent »."
+    }
+   ]
+  },
+  {
+   "t": "La subordonnée circonstancielle de lieu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand le lieu est exprimé par une proposition contenant un verbe conjugué, on parle de **proposition subordonnée circonstancielle de lieu**. Elle est introduite par **où**, **là où**, **partout où**, **d’où**, **par où**."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase complexe décortiquée",
+     "cells": [
+      {
+       "mot": "Je m’installerai",
+       "role": "proposition principale"
+      },
+      {
+       "mot": "là où",
+       "role": "locution conjonctive",
+       "noyau": true
+      },
+      {
+       "mot": "il y a de l’ombre",
+       "role": "subordonnée circonstancielle de lieu"
+      }
+     ],
+     "note": "La subordonnée répond à la question « où ? » et complète le verbe de la principale."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il s’installe **où il trouve du travail**.\nElle l’a suivi **partout où il est allé**.\nLaisse-moi passer **par où tu es passé**."
+    },
+    {
+     "type": "p",
+     "text": "Le verbe est à l’**indicatif**. Avec **où que**, qui signifie « quel que soit l’endroit où », le verbe se met au **subjonctif**."
+    },
+    {
+     "type": "ex",
+     "label": "Avec où que",
+     "text": "**Où que tu ailles**, je te retrouverai."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas confondre avec une relative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mot « **où** » introduit aussi une proposition subordonnée **relative**. Pour les distinguer, cherche un **antécédent** (un nom que « où » reprend)."
+    },
+    {
+     "type": "table",
+     "title": "Relative ou circonstancielle de lieu ?",
+     "head": [
+      "Phrase",
+      "« où » reprend un nom ?",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "La ville **où je suis né** est grande.",
+       "oui : « ville »",
+       "relative"
+      ],
+      [
+       "Il s’est installé **où il a trouvé du travail**.",
+       "non",
+       "circonstancielle de lieu"
+      ],
+      [
+       "Reste **là où il y a de l’ombre**.",
+       "non (« là » est un adverbe)",
+       "circonstancielle de lieu"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Une relative est **complément de l’antécédent** (un nom) ; une subordonnée de lieu est **complément du verbe** de la principale."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le village où il habite est calme », « où il habite » est :",
+     "options": [
+      "une circonstancielle de lieu",
+      "une relative",
+      "une complétive",
+      "une principale"
+     ],
+     "answer": 1,
+     "explain": "« où » reprend l’antécédent « village » : c’est une subordonnée relative."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à compléter."
+    },
+    {
+     "type": "h",
+     "text": "Reconnaître"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève le complément ou la subordonnée de lieu et donne sa nature.",
+     "items": [
+      "Partout, on entendait des cris.",
+      "Elle habite à Dolisie.",
+      "Il s’arrête là où la route finit.",
+      "Il est entré par la fenêtre."
+     ],
+     "corrige": [
+      "1. Partout : adverbe",
+      "2. à Dolisie : groupe prépositionnel",
+      "3. là où la route finit : subordonnée circonstancielle de lieu",
+      "4. par la fenêtre : groupe prépositionnel (passage)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la préposition ou le mot qui convient (de, vers, par, partout où, où que).",
+     "items": [
+      "Il revient ____ marché.",
+      "Nous allons ____ le fleuve.",
+      "Elle l’a cherché ____ il pouvait être.",
+      "____ vous soyez, écrivez-nous."
+     ],
+     "corrige": [
+      "1. du (de + le) marché : provenance",
+      "2. vers le fleuve : direction",
+      "3. partout où il pouvait être",
+      "4. Où que vous soyez (subjonctif)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Après « où que », le verbe se met :",
+     "options": [
+      "à l’indicatif",
+      "au subjonctif",
+      "au conditionnel",
+      "à l’impératif"
+     ],
+     "answer": 1,
+     "explain": "« où que » (quel que soit le lieu) est suivi du subjonctif : « où que tu ailles »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **circonstance de lieu** répond à : **où ? d’où ? vers où ? par où ?**",
+      "Elle s’exprime par un **adverbe**, un **groupe prépositionnel** ou une **subordonnée**.",
+      "La subordonnée de lieu est introduite par **où, là où, partout où, d’où, par où** et son verbe est à l’**indicatif**.",
+      "**Où que** + **subjonctif** : « quel que soit l’endroit ».",
+      "Ne pas confondre avec la **relative** : elle a un **antécédent**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je te suivrai partout où tu iras », « partout où tu iras » est :",
+     "options": [
+      "une relative",
+      "une subordonnée circonstancielle de lieu",
+      "une complétive",
+      "une proposition indépendante"
+     ],
+     "answer": 1,
+     "explain": "« partout où » n’a pas d’antécédent nominal : c’est une subordonnée circonstancielle de lieu."
+    }
+   ]
+  }
+ ]
+}
