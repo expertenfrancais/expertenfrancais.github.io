@@ -9,7 +9,7 @@ Le type **Programmes** est **réservé aux enseignants** (voir `ALLOWED_TYPES` d
 
 Pour **chaque niveau**, deux documents : la **répartition** (notions à enseigner mois par mois et semaine par semaine) et le **guide pédagogique**. Soit **8 fichiers au collège**, tous dans le même dossier `contenu/programmes/college/`.
 
-État actuel : **environnement seulement** (8 fichiers vides à remplir avec le programme officiel). Les écrans dédiés (vue annuelle / par mois / par semaine, « Enregistrer en PDF », lien vers les fiches pédagogiques) seront faits plus tard.
+État actuel : les 4 répartitions annuelles (programme-1, 3, 5, 7) sont remplies d’octobre à juin ; les 4 guides pédagogiques (programme-2, 4, 6, 8) n’ont que leur « Présentation ». Les écrans dédiés (vue annuelle / par mois / par semaine, « Enregistrer en PDF », lien vers les fiches pédagogiques) seront faits plus tard.
 
 ## Les 8 fichiers (dans `contenu/programmes/college/`)
 | Fichier | id | Programme | Niveau | Document |
