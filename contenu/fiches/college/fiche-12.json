@@ -1,0 +1,412 @@
+{
+ "id": 10012,
+ "meta": {
+  "t": "L’expression de la circonstance de temps",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 12
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.6 : Exprimer les circonstances",
+  "titre": "L’expression de la circonstance de temps",
+  "theme": "",
+  "objet": "Expression de la circonstance de temps",
+  "numero": 11,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’expression de la circonstance de temps, l’apprenant doit être capable de souligner au moins 4 mots, groupes de mots ou propositions qui expriment le temps sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le récit d’un élève au tableau, puis répondre aux questions.",
+   "texte": "Un élève raconte sa journée :\nJe me lève. Je mange du pain. Je pars à l’école. Je rentre. Je révise mes leçons.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "À quel moment manque-t-il une information dans ces phrases ? Que veut-on savoir pour chaque action ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment peut-on compléter la phrase « Je me lève. » pour dire quand ?"
+    }
+   ],
+   "activite": "Observation du récit ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "On veut savoir quand l’élève fait chaque action : l’heure ou le moment manque."
+    },
+    {
+     "n": 2,
+     "r": "On ajoute un mot ou un groupe de mots : « Je me lève à cinq heures. », « Je me lève tôt. »"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de souligner au moins 4 expressions de temps sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un complément circonstanciel ?"
+    },
+    {
+     "n": 4,
+     "q": "Dans « Ma sœur lit dans sa chambre. », quel est le complément circonstanciel de lieu ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite deux adverbes de temps que tu connais."
+    }
+   ],
+   "activite": "Rappel des notions : complément circonstanciel, adverbe de temps",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un complément qui donne une précision sur l’action (le lieu, le temps, la cause…). On peut le déplacer ou le supprimer."
+    },
+    {
+     "n": 4,
+     "r": "dans sa chambre"
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : hier, demain, aujourd’hui, bientôt, souvent, toujours."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Hier soir, ma mère a préparé du saka-saka.\n2. Les élèves du CEG de Mfilou arrivent à sept heures.\n3. Pendant les vacances, mon cousin travaille chez son oncle à Pointe-Noire.\n4. Chaque samedi, Nadia vend des beignets devant la maison.\n5. Quand le soleil se couche, les enfants rentrent à la maison.\n6. Demain, mon père vendra son manioc au marché.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel groupe de mots dit à quel moment ma mère a préparé le repas ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel groupe de mots donne l’heure d’arrivée des élèves ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel groupe de mots dit pendant quelle période le cousin travaille ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel groupe de mots dit combien de fois Nadia vend des beignets ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quelle proposition dit quand les enfants rentrent à la maison ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel mot dit quand le père vendra son manioc ?"
+      },
+      {
+       "n": 12,
+       "q": "À quelle question répondent tous ces mots, groupes de mots et cette proposition ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage des expressions de temps",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Hier soir"
+      },
+      {
+       "n": 7,
+       "r": "à sept heures"
+      },
+      {
+       "n": 8,
+       "r": "Pendant les vacances"
+      },
+      {
+       "n": 9,
+       "r": "Chaque samedi"
+      },
+      {
+       "n": 10,
+       "r": "Quand le soleil se couche"
+      },
+      {
+       "n": 11,
+       "r": "Demain"
+      },
+      {
+       "n": 12,
+       "r": "À la question « Quand ? »"
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Classer les expressions de temps du corpus selon leur nature et leur sens, puis comparer les résultats en classe.",
+     "texte": "1. Hier soir, ma mère a préparé du saka-saka.\n2. Les élèves du CEG de Mfilou arrivent à sept heures.\n3. Pendant les vacances, mon cousin travaille chez son oncle à Pointe-Noire.\n4. Chaque samedi, Nadia vend des beignets devant la maison.\n5. Quand le soleil se couche, les enfants rentrent à la maison.\n6. Demain, mon père vendra son manioc au marché.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Dans quelle phrase le complément de temps est-il un seul mot ?"
+      },
+      {
+       "n": 14,
+       "q": "Dans quelles phrases est-il un groupe de mots sans verbe ?"
+      },
+      {
+       "n": 15,
+       "q": "Dans quelle phrase contient-il un verbe conjugué ?"
+      },
+      {
+       "n": 16,
+       "q": "Par quel mot cette proposition commence-t-elle ?"
+      },
+      {
+       "n": 17,
+       "q": "Où se trouvent les compléments de temps dans les phrases ? Peut-on les déplacer ou les supprimer ?"
+      },
+      {
+       "n": 18,
+       "q": "Classe les six expressions de temps : moment, durée ou fréquence."
+      }
+     ],
+     "activite": "Classement des expressions de temps ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Dans la phrase 6 : « Demain » est un adverbe."
+      },
+      {
+       "n": 14,
+       "r": "Dans les phrases 1, 2, 3 et 4 : hier soir, à sept heures, pendant les vacances, chaque samedi."
+      },
+      {
+       "n": 15,
+       "r": "Dans la phrase 5 : « Quand le soleil se couche » est une proposition."
+      },
+      {
+       "n": 16,
+       "r": "Par « quand » : c’est une conjonction de subordination."
+      },
+      {
+       "n": 17,
+       "r": "Ils sont en début de phrase (1, 3, 4, 5, 6) ou en fin de phrase (2). On peut les déplacer ou les supprimer."
+      },
+      {
+       "n": 18,
+       "r": "Moment : hier soir, à sept heures, quand le soleil se couche, demain. Durée (période) : pendant les vacances. Fréquence : chaque samedi."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 19,
+       "q": "Comment exprime-t-on la circonstance de temps ?"
+      },
+      {
+       "n": 20,
+       "q": "Comment reconnaît-on un complément de temps ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 19,
+       "r": "Par un adverbe (demain), un groupe de mots (hier soir, à sept heures, pendant les vacances, chaque samedi) ou une proposition commençant par quand, lorsque, dès que, pendant que."
+      },
+      {
+       "n": 20,
+       "r": "Il répond à la question « Quand ? », on peut le déplacer et le supprimer."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’expression de la circonstance de temps.",
+    "tache": "Souligner l’expression de temps dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et souligne le mot, le groupe de mots ou la proposition qui exprime le temps.",
+    "items": [
+     "Tous les matins, mon frère aide notre mère au marché.",
+     "Aujourd’hui, le professeur rend les copies.",
+     "Mon oncle arrivera dans trois jours.",
+     "Dès que la pluie s’arrête, les enfants jouent au ballon.",
+     "Pendant la récréation, Mireille lit un livre à la bibliothèque."
+    ],
+    "cle": [
+     "Tous les matins",
+     "Aujourd’hui",
+     "dans trois jours",
+     "Dès que la pluie s’arrête",
+     "Pendant la récréation"
+    ],
+    "bareme": "1 point par expression de temps correctement soulignée",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’expression de la circonstance de temps",
+  "intro": "Le complément de temps indique un moment (quand ?), une durée (combien de temps ?) ou une fréquence (combien de fois ?).",
+  "corpus": [
+   "Hier soir, ma mère a préparé du saka-saka.",
+   "Les élèves du CEG de Mfilou arrivent à sept heures.",
+   "Pendant les vacances, mon cousin travaille chez son oncle à Pointe-Noire.",
+   "Chaque samedi, Nadia vend des beignets devant la maison.",
+   "Quand le soleil se couche, les enfants rentrent à la maison.",
+   "Demain, mon père vendra son manioc au marché."
+  ],
+  "retenir": "Le complément de temps dit quand l’action a lieu.\nIl répond à la question « Quand ? » et on peut le déplacer.\nIl peut être un adverbe, un groupe de mots ou une proposition.\nUne proposition de temps commence par quand, lorsque ou dès que.\nExemple : Quand le soleil se couche, les enfants rentrent à la maison.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Expression de temps",
+    "Nature",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "1",
+     "Hier soir",
+     "groupe de mots",
+     "moment"
+    ],
+    [
+     "2",
+     "à sept heures",
+     "groupe de mots",
+     "moment"
+    ],
+    [
+     "3",
+     "Pendant les vacances",
+     "groupe de mots",
+     "durée"
+    ],
+    [
+     "4",
+     "Chaque samedi",
+     "groupe de mots",
+     "fréquence"
+    ],
+    [
+     "5",
+     "Quand le soleil se couche",
+     "proposition",
+     "moment"
+    ],
+    [
+     "6",
+     "Demain",
+     "adverbe",
+     "moment"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne l’expression de temps.",
+    "items": [
+     "Ce matin, ma tante est partie au village.",
+     "Mon petit frère dort après le repas.",
+     "Lorsque le train arrive, les voyageurs descendent.",
+     "Mes parents rentrent bientôt."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris si l’expression de temps souligne un moment, une durée ou une fréquence.",
+    "items": [
+     "Chaque dimanche, ma grand-mère prie à l’église.",
+     "Pendant trois semaines, la pluie est tombée.",
+     "À huit heures, la classe commence.",
+     "Tous les jours, Paul balaie la cour."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. Ce matin ; 2. après le repas ; 3. Lorsque le train arrive ; 4. bientôt. Barème : 1 point par expression juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. fréquence ; 2. durée ; 3. moment ; 4. fréquence. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. Tous les matins ; 2. Aujourd’hui ; 3. dans trois jours ; 4. Dès que la pluie s’arrête ; 5. Pendant la récréation. Barème : 1 point par expression juste. Seuil : 4 sur 5.",
+  "Remarque : au corpus, « Pendant les vacances » exprime une durée (période) ; « Demain » est un adverbe de temps."
+ ]
+}
