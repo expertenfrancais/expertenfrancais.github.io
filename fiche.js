@@ -51,7 +51,7 @@ function qrList(s,mode){
  return arr(s.questions).map(function(q){
   return'<div class="f-q"><i>Q'+q.n+'</i><span>'+f(q.q)+'</span></div>'+(R[q.n]!=null?'<div class="f-r"><i>R'+q.n+'</i><span>'+f(R[q.n])+'</span></div>':"")}).join("")}
 function cardBody(s,label){
- var h='<div class="f-chips"><span class="f-chip">Technique : '+f(s.technique)+'</span><span class="f-chip">'+f(s.modalite)+'</span></div>';
+ var h='<div class="f-chips"><span class="f-chip"><b>Technique :</b> '+f(s.technique)+'</span><span class="f-chip">'+f(s.modalite)+'</span></div>';
  h+='<b class="f-k">Consigne</b><p>'+f(s.consigne)+'</p>';
  if(s.texte&&String(s.texte).trim())h+='<div class="f-board"><b class="f-k">'+label+'</b>'+board(s.texte)+'</div>';
  if(arr(s.questions).length)h+='<b class="f-k">Questions et réponses attendues</b>'+qrList(s);
@@ -70,7 +70,7 @@ function cardStep(s,i){
 
 /* ----- tableau à 6 colonnes ----- */
 function stratCell(s,title,label){
- var h='<p><b>'+f(title)+'</b></p><p>Technique : '+f(s.technique)+'<br>Modalité de travail : '+f(s.modalite)+'<br>Consigne : '+f(s.consigne)+'</p>';
+ var h='<p><b>'+f(title)+'</b></p><p><b>Technique :</b> '+f(s.technique)+'<br><b>Modalité de travail :</b> '+f(s.modalite)+'<br><b>Consigne :</b> '+f(s.consigne)+'</p>';
  if(s.texte&&String(s.texte).trim())h+='<div class="f-bd"><b>'+label+' :</b>'+board(s.texte)+'</div>';
  h+=arr(s.questions).map(function(q){return'<p class="f-qq">Q'+q.n+'- '+f(q.q)+'</p>'}).join("");
  return h}

@@ -128,7 +128,7 @@ html.f-page,html.f-page body{margin:0;background:var(--fbg);color:var(--fink);fo
 .f-btns2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .f-msg{max-width:460px;margin:12vh auto 0;background:var(--fcard);border-radius:24px;padding:26px 20px;text-align:center}
 .f-msg h1{margin:0 0 10px;font-size:20px}.f-msg p{margin:0 0 16px;font-size:14px;line-height:1.6;color:var(--fsub)}
-/* impression : A4 paysage, en-tête répété, lignes non coupées */
+/* impression : A4 paysage, en-tête répété, lignes coupées entre deux pages (pas de grand vide), paragraphes et tableau noir jamais coupés */
 @media print{
  html.f-page,html.f-page body{background:#fff!important}
  *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
@@ -136,8 +136,10 @@ html.f-page,html.f-page body{margin:0;background:var(--fbg);color:var(--fink);fo
  .fx{max-width:none;padding:0}
  .f-card{box-shadow:none;border-radius:0;padding:0;margin:0 0 8px}
  .f-tab thead{display:table-header-group}
- .f-tab tr{break-inside:avoid;page-break-inside:avoid}
+ .f-tab tr{break-inside:auto;page-break-inside:auto}
  .f-tab td.c-oo{break-inside:auto;page-break-inside:auto}
+ .f-tab td p,.f-tab .f-bd{break-inside:avoid;page-break-inside:avoid;orphans:3;widows:3}
+ .f-tab .f-ivh,.f-tab .f-lockrow{break-inside:avoid;page-break-inside:avoid}
  .f-tab{font-size:9pt}
  .f-app{display:grid!important;grid-template-columns:1fr 1fr;gap:8px;font-size:10pt}
  .f-app h1{font-size:17pt}
