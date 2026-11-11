@@ -133,10 +133,14 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .pill2{font-size:11px;font-weight:700;border-radius:10px;padding:2px 8px;color:#fff;background:#2fa883}.pill2.u{background:#8c6fe0}.pill2.a{background:#9a9aa8}
 .ad .m{margin:8px 4px;font-size:13.5px;color:var(--sub);text-align:center}
 
-.tabs{display:flex;gap:6px;margin:0 0 6px}.tabs button{flex:1;border:0;border-radius:16px;padding:10px 6px;background:var(--field);color:var(--ink);font-weight:600;font-size:13px}.tabs button.on{background:#8c6fe0;color:#fff}
+.tabs{display:flex;gap:6px;margin:0 0 6px;overflow-x:auto;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}.tabs button{flex:1 0 auto;white-space:nowrap;border:0;border-radius:16px;padding:10px 12px;background:var(--field);color:var(--ink);font-weight:600;font-size:13px}.tabs button.on{background:#8c6fe0;color:#fff}
 .kpi{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px}.kpi .card{margin:0;padding:14px;text-align:center}.kpi b{display:block;font-size:26px;color:var(--ink)}.kpi small{color:var(--sub);font-size:12px}
 .br{margin-bottom:10px}.br .l{display:flex;justify-content:space-between;gap:8px;font-size:13px;color:var(--ink)}.br .tr{height:8px;border-radius:4px;background:var(--field);margin-top:4px;overflow:hidden}.br .tr i{display:block;height:100%;background:linear-gradient(90deg,var(--p1),var(--p2));border-radius:4px}
 .lst{margin:0;padding:0;list-style:none}.lst li{padding:8px 0;border-top:1px solid rgba(107,100,144,.2);font-size:13.5px;color:var(--ink)}.lst li:first-child{border-top:0}.lst small{display:block;color:var(--sub)}
+.pg .sr{width:100%;height:42px;border:0;border-radius:14px;background:var(--field);color:var(--ink);font:inherit;font-size:14px;padding:0 14px;margin:0 0 10px}
+.pg .u{display:block;margin-top:6px;font-size:12px;color:var(--link);word-break:break-all;user-select:all;-webkit-user-select:all}
+.pg .b{display:flex;gap:6px;margin-top:8px}.pg .b button,.pg .b a{flex:1;height:38px;border:0;border-radius:14px;background:var(--field);color:var(--ink);font-weight:600;font-size:13px;display:grid;place-items:center;text-decoration:none}
+.pg .tot{display:flex;gap:6px;margin:0 0 12px}.pg .tot button{flex:1;height:44px;border:0;border-radius:16px;font-weight:600;font-size:13px;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2))}.pg .tot button.alt{background:var(--field);color:var(--ink)}
 .good{color:#2fa883;font-weight:700}.bad{color:#d0426a;font-weight:700}
 .ad .btn2{width:100%;height:48px;border:0;border-radius:24px;font-weight:600;font-size:15px;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2));margin:4px 0 10px}.ad .btn2:disabled{opacity:.7}
 </style>
@@ -154,7 +158,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
       <button class="btn" id="retry" type="button" hidden>Réessayer</button>
     </section>
     <section id="vAd" hidden>
-      <div class="tabs" id="tabs"><button type="button" data-t="codes" class="on">Codes</button><button type="button" data-t="vue">Vue d’ensemble</button><button type="button" data-t="sante">Doublons et santé</button></div>
+      <div class="tabs" id="tabs"><button type="button" data-t="codes" class="on">Codes</button><button type="button" data-t="vue">Vue d’ensemble</button><button type="button" data-t="sante">Doublons et santé</button><button type="button" data-t="pages">Pages publiées</button></div>
       <div id="tCodes">
       <h3 class="sec">Générer des codes</h3>
       <div class="card" style="padding:14px">
@@ -172,6 +176,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
       </div>
       <div id="tVue" hidden></div>
       <div id="tSante" hidden></div>
+      <div id="tPages" class="pg" hidden></div>
     </section>
   </main>
   <nav class="nav" id="nav"></nav>
@@ -275,12 +280,44 @@ function verifier(){
   $("vmsg").innerHTML=manque.length?'<span class="bad">'+manque.length+' fichier'+(manque.length>1?'s':'')+' introuvable'+(manque.length>1?'s':'')+'</span>':'<span class="good">Tout est en place : '+jobs.length+' fichiers trouvés ✓</span>';
   $("vres").innerHTML=manque.length?'<ul class="lst">'+manque.map(function(j){return '<li>'+lbl(j.d)+'<small>'+(j.w==="page"?"Page publiée":"Contenu")+' manquant : '+esc(j.f)+'</small></li>'}).join("")+'</ul>':"";
   b.disabled=false;verifEnCours=false})}
-var ONG={codes:["tCodes","Codes d’activation"],vue:["tVue","Vue d’ensemble"],sante:["tSante","Doublons et santé"]},vu={};
+
+/* ===== Pages publiées : liste des adresses, avec copie ===== */
+var PG_FILTRE="Tous",PG_Q="",PG_LISTE=[];
+function pagesPubliees(){
+ var url=function(f){return new URL(BASE+f,location.href).href};
+ var site=["index.html","catalogue.html","abonnement.html"].map(function(f){return{t:f,k:"Site",n:"—",u:url(f),sub:"Page du site"}});
+ var docs=ALLDOCS.map(function(d){return{t:d.t,k:d.k,n:d.n,u:url(docFile(d)),sub:"n° "+d.id+" · "+d.k+" · "+d.n+(d.m?" · "+d.m:"")}});
+ return site.concat(docs)}
+function pgFiltrees(){
+ var q=norm(PG_Q);
+ return PG_LISTE.filter(function(x){return(PG_FILTRE==="Tous"||x.k===PG_FILTRE)&&(!q||norm(x.t+" "+x.sub+" "+x.u).indexOf(q)>=0)})}
+function renderPagesListe(){
+ var L=pgFiltrees();
+ $("pgCount").textContent=L.length+" page"+(L.length>1?"s":"")+(L.length<PG_LISTE.length?" sur "+PG_LISTE.length:"");
+ $("pgList").innerHTML=L.map(function(x,i){return '<div class="card cd" data-i="'+i+'"><div class="t"><b>'+esc(x.t)+'</b></div><small>'+esc(x.sub)+'</small><span class="u">'+esc(x.u)+'</span><div class="b"><button type="button" data-a="copy">Copier</button><a href="'+esc(x.u)+'" target="_blank" rel="noopener">Ouvrir</a></div></div>'}).join("")||'<p class="m">Aucune page.</p>'}
+function renderPages(){
+ PG_LISTE=pagesPubliees();
+ var ct=cnt(PG_LISTE,function(x){return x.k}),ks=["Tous"].concat(["Site"].concat(TYPES).filter(function(k){return ct[k]}));
+ $("tPages").innerHTML=
+  '<h3 class="sec">Pages publiées</h3>'+
+  '<input class="sr" id="pgQ" type="search" placeholder="Rechercher (titre, numéro, adresse)" autocomplete="off">'+
+  '<div class="flt" id="pgFlt">'+ks.map(function(k){return '<button type="button" data-k="'+esc(k)+'"'+(k===PG_FILTRE?' class="on"':'')+'>'+esc(k)+(k==="Tous"?"":" ("+ct[k]+")")+'</button>'}).join("")+'</div>'+
+  '<div class="tot"><button type="button" id="pgCopy">Copier les adresses</button><button type="button" id="pgCopy2" class="alt">Titres + adresses</button></div>'+
+  '<p class="count" id="pgCount" style="margin:0 4px 10px"></p><div id="pgList"></div>';
+ $("pgQ").value=PG_Q;
+ $("pgQ").oninput=function(){PG_Q=this.value;renderPagesListe()};
+ $("pgFlt").onclick=function(e){var b=e.target.closest("button");if(!b)return;PG_FILTRE=b.dataset.k;
+  document.querySelectorAll("#pgFlt button").forEach(function(x){x.classList.toggle("on",x===b)});renderPagesListe()};
+ $("pgCopy").onclick=function(){var L=pgFiltrees();copier(L.map(function(x){return x.u}).join("\n"),L.length+" adresse"+(L.length>1?"s":"")+" copiée"+(L.length>1?"s":"")+" ✓")};
+ $("pgCopy2").onclick=function(){var L=pgFiltrees();copier(L.map(function(x){return x.t+" — "+x.u}).join("\n"),L.length+" ligne"+(L.length>1?"s":"")+" copiée"+(L.length>1?"s":"")+" ✓")};
+ $("pgList").onclick=function(e){var b=e.target.closest("button");if(!b||b.dataset.a!=="copy")return;var L=pgFiltrees(),x=L[parseInt(b.closest(".cd").dataset.i,10)];if(x)copier(x.u,"Adresse copiée ✓")};
+ renderPagesListe()}
+var ONG={codes:["tCodes","Codes d’activation"],vue:["tVue","Vue d’ensemble"],sante:["tSante","Doublons et santé"],pages:["tPages","Pages publiées"]},vu={};
 function onglet(t){
  Object.keys(ONG).forEach(function(k){$(ONG[k][0]).hidden=k!==t});
  document.querySelectorAll("#tabs button").forEach(function(x){x.classList.toggle("on",x.dataset.t===t)});
  $("ttl").textContent=ONG[t][1];
- if(t==="vue")renderVue();else if(t==="sante"&&!vu.sante){renderSante();vu.sante=1}}
+ if(t==="vue")renderVue();else if(t==="sante"&&!vu.sante){renderSante();vu.sante=1}else if(t==="pages")renderPages()}
 $("tabs").onclick=function(e){var b=e.target.closest("button");if(b)onglet(b.dataset.t)};
 $("bell").onclick=function(){toast("Aucune nouvelle notification")};
 function refuser(m){$("vNo").hidden=false;$("vAd").hidden=true;$("noTtl").textContent="Accès réservé";if(m)$("noMsg").textContent=m}
