@@ -1,0 +1,247 @@
+{
+ "id": 170,
+ "meta": {
+  "t": "Le genre poétique",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la poésie ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **poésie** utilise le langage pour créer des **images**, des **sons** et des **émotions**. Le poème est souvent écrit en **vers**, organisés en **strophes**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître vers, strophes et rimes",
+      "Compter les syllabes (mesure)",
+      "Reconnaître les types de rimes",
+      "Repérer les figures et la musicalité"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Poème",
+     "text": "Un **poème** est un texte (en vers ou en prose poétique) qui joue sur le **rythme**, les **sons** et les **images**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un poème est généralement organisé en :",
+     "options": [
+      "chapitres",
+      "strophes",
+      "actes",
+      "scènes"
+     ],
+     "answer": 1,
+     "explain": "Les vers sont regroupés en strophes."
+    }
+   ]
+  },
+  {
+   "t": "Vers, strophes et rimes",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les strophes",
+     "head": [
+      "Nom",
+      "Nombre de vers"
+     ],
+     "rows": [
+      [
+       "distique",
+       "2"
+      ],
+      [
+       "tercet",
+       "3"
+      ],
+      [
+       "quatrain",
+       "4"
+      ],
+      [
+       "quintil",
+       "5"
+      ],
+      [
+       "sizain",
+       "6"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les rimes",
+     "head": [
+      "Disposition",
+      "Schéma",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "rimes qui se suivent",
+       "AABB",
+       "plates"
+      ],
+      [
+       "rimes alternées",
+       "ABAB",
+       "croisées"
+      ],
+      [
+       "rime entourée",
+       "ABBA",
+       "embrassées"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "La rime",
+     "text": "Deux vers riment quand ils se terminent par le **même son** (ex. « jour » / « amour »)."
+    }
+   ]
+  },
+  {
+   "t": "La mesure des vers",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les vers les plus courants",
+     "head": [
+      "Nom",
+      "Nombre de syllabes"
+     ],
+     "rows": [
+      [
+       "octosyllabe",
+       "8"
+      ],
+      [
+       "décasyllabe",
+       "10"
+      ],
+      [
+       "alexandrin",
+       "12"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le e muet",
+     "text": "Le **e muet** compte pour une syllabe **devant une consonne**, mais **ne compte pas** devant une voyelle ni à la **fin du vers**."
+    },
+    {
+     "type": "table",
+     "title": "Poèmes particuliers",
+     "head": [
+      "Forme",
+      "Caractéristique"
+     ],
+     "rows": [
+      [
+       "sonnet",
+       "2 quatrains + 2 tercets"
+      ],
+      [
+       "vers libre",
+       "pas de rime ni de mesure imposée"
+      ],
+      [
+       "calligramme",
+       "les vers dessinent une image"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à analyser."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le nom de la strophe.",
+     "items": [
+      "Une strophe de 4 vers.",
+      "Une strophe de 3 vers.",
+      "Une strophe de 2 vers."
+     ],
+     "corrige": [
+      "1. quatrain",
+      "2. tercet",
+      "3. distique"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle est la disposition des rimes ? (A = rime 1, B = rime 2)",
+     "items": [
+      "ABAB",
+      "AABB",
+      "ABBA"
+     ],
+     "corrige": [
+      "1. croisées",
+      "2. plates",
+      "3. embrassées"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un vers de 12 syllabes s’appelle :",
+     "options": [
+      "un octosyllabe",
+      "un décasyllabe",
+      "un alexandrin",
+      "un hémistiche"
+     ],
+     "answer": 2,
+     "explain": "Le vers de 12 syllabes est l’alexandrin."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le poème est organisé en **vers** et **strophes**.",
+      "Strophes : **distique (2), tercet (3), quatrain (4), quintil (5), sizain (6)**.",
+      "Rimes : **plates (AABB), croisées (ABAB), embrassées (ABBA)**.",
+      "Vers : **octosyllabe (8), décasyllabe (10), alexandrin (12)**.",
+      "Le **e muet** ne compte pas devant une voyelle ni en fin de vers.",
+      "Sonnet = 2 quatrains + 2 tercets."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un sonnet est composé de :",
+     "options": [
+      "3 quatrains",
+      "2 quatrains et 2 tercets",
+      "4 tercets",
+      "1 sizain"
+     ],
+     "answer": 1,
+     "explain": "Le sonnet : deux quatrains et deux tercets."
+    }
+   ]
+  }
+ ]
+}

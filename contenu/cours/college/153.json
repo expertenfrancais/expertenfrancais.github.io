@@ -1,0 +1,229 @@
+{
+ "id": 153,
+ "meta": {
+  "t": "Les homophones : quand, quant, qu’en ; plus tôt, plutôt",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Des mots qui se prononcent de la même façon",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« **Quand** » et « **quant** », « **qu’en** » ; « **plus tôt** » et « **plutôt** » : ces mots se **prononcent pareil** mais ne s’écrivent pas de la même façon. Il faut comprendre leur **sens** pour bien choisir."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer quand, quant et qu’en",
+      "Distinguer plus tôt et plutôt",
+      "Appliquer les tests de remplacement"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les trois homophones",
+     "head": [
+      "Mot",
+      "Nature",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quand",
+       "conjonction ou adverbe",
+       "au moment où, lorsque",
+       "**Quand** il pleut, je reste."
+      ],
+      [
+       "quant (à)",
+       "locution : « quant à »",
+       "en ce qui concerne",
+       "**Quant à** moi, je pars."
+      ],
+      [
+       "qu’en",
+       "que + en",
+       "pronom « en » après « que »",
+       "**Qu’en** penses-tu ?"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quant à lui, il part », « quant » signifie :",
+     "options": [
+      "lorsque",
+      "en ce qui concerne",
+      "que + en",
+      "combien"
+     ],
+     "answer": 1,
+     "explain": "« Quant à » = en ce qui concerne."
+    }
+   ]
+  },
+  {
+   "t": "Les tests",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les tests de remplacement",
+     "head": [
+      "Mot",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quand",
+       "remplace par « lorsque »",
+       "**Quand** (lorsque) il arrive, nous mangeons."
+      ],
+      [
+       "quant à",
+       "remplace par « en ce qui concerne » ; toujours suivi de **à**, **au**, **aux**",
+       "**Quant au** reste, on verra."
+      ],
+      [
+       "qu’en",
+       "remplace par « que » + « de cela »",
+       "**Qu’en** dis-tu ? = Que dis-tu de cela ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« **Quant** » est toujours suivi de **à / au / aux / à la**. Si ce n’est pas le cas, tu écris **quand** (temps)."
+    }
+   ]
+  },
+  {
+   "t": "Plus tôt ou plutôt ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Plus tôt et plutôt",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "plus tôt (2 mots)",
+       "avant, de meilleure heure ; contraire : plus tard",
+       "remplace par « plus tard »",
+       "Il est parti **plus tôt** que moi."
+      ],
+      [
+       "plutôt (1 mot)",
+       "de préférence, assez",
+       "remplace par « de préférence »",
+       "Je prends du thé **plutôt** que du café."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les deux sens de plutôt",
+     "text": "**Plutôt que** = de préférence à ; **plutôt** = assez : « Il fait **plutôt** froid »."
+    },
+    {
+     "type": "ex",
+     "label": "Comparer",
+     "text": "Pars **plus tôt** (≠ plus tard).\nPrends **plutôt** celui-ci (de préférence)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à choisir la bonne écriture."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quand, quant, qu’en.",
+     "items": [
+      "____ il fait beau, nous sortons.",
+      "____ à moi, je reste.",
+      "____ penses-tu ?",
+      "____ au reste, nous verrons."
+     ],
+     "corrige": [
+      "1. Quand",
+      "2. Quant",
+      "3. Qu’en",
+      "4. Quant"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec plus tôt ou plutôt.",
+     "items": [
+      "Il est arrivé ____ que prévu.",
+      "Je préfère le thé ____ que le café.",
+      "Nous partirons ____ demain.",
+      "Il fait ____ froid."
+     ],
+     "corrige": [
+      "1. plus tôt",
+      "2. plutôt",
+      "3. plus tôt",
+      "4. plutôt"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Quand à lui, il est parti.",
+      "Quant à lui, il est parti.",
+      "Qu’en à lui, il est parti.",
+      "Quand à lui il est partie."
+     ],
+     "answer": 1,
+     "explain": "« Quant à » = en ce qui concerne."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Quand** = lorsque (temps).",
+      "**Quant à** = en ce qui concerne (toujours suivi de à, au, aux).",
+      "**Qu’en** = que + en (« Qu’en penses-tu ? »).",
+      "**Plus tôt** = avant (contraire : plus tard).",
+      "**Plutôt** = de préférence, assez."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il vient plutôt le matin », « plutôt » signifie :",
+     "options": [
+      "avant",
+      "de préférence",
+      "lorsque",
+      "en ce qui concerne"
+     ],
+     "answer": 1,
+     "explain": "Ici « plutôt » signifie « de préférence »."
+    }
+   ]
+  }
+ ]
+}

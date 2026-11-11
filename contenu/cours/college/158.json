@@ -1,0 +1,257 @@
+{
+ "id": 158,
+ "meta": {
+  "t": "Les transformations verbales : transitive, intransitive, pronominale et impersonnelle",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Un même verbe, plusieurs constructions",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il **lève** la main » ; « Il **se lève** » ; « Il **pleut** » ; « Il **est arrivé** un accident ». Selon la construction, le verbe n’a pas le même sens ni les mêmes compléments. On parle de **transformations verbales**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer la construction transitive et intransitive",
+      "Reconnaître la forme pronominale",
+      "Reconnaître la forme impersonnelle",
+      "Passer d’une construction à l’autre"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Verbe transitif et intransitif",
+     "text": "Un verbe **transitif** a un **complément d’objet** (direct ou indirect) : « Il mange **une pomme**. » Un verbe **intransitif** n’en a pas : « Il **dort**. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est transitif ?",
+     "options": [
+      "dormir",
+      "arriver",
+      "manger une pomme",
+      "pleuvoir"
+     ],
+     "answer": 2,
+     "explain": "« Manger une pomme » : le verbe a un COD."
+    }
+   ]
+  },
+  {
+   "t": "La transformation transitive et intransitive",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup de verbes peuvent être employés **avec** ou **sans** complément d’objet."
+    },
+    {
+     "type": "table",
+     "title": "Transitif / intransitif",
+     "head": [
+      "Transitif",
+      "Intransitif"
+     ],
+     "rows": [
+      [
+       "Il **mange** une pomme.",
+       "Il **mange**."
+      ],
+      [
+       "Elle **chante** une chanson.",
+       "Elle **chante**."
+      ],
+      [
+       "Je **lis** un livre.",
+       "Je **lis**."
+      ],
+      [
+       "Il **ouvre** la porte.",
+       "La porte **s’ouvre**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Pose **qui ?** ou **quoi ?** après le verbe : s’il y a une réponse, le verbe est transitif direct."
+    }
+   ]
+  },
+  {
+   "t": "La transformation pronominale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un verbe peut devenir **pronominal** quand on ajoute un pronom réfléchi (se, s’) : l’action revient sur le sujet ou le sens change."
+    },
+    {
+     "type": "table",
+     "title": "Transformation pronominale",
+     "head": [
+      "Sens",
+      "Verbe non pronominal",
+      "Verbe pronominal"
+     ],
+     "rows": [
+      [
+       "réfléchi",
+       "Il **lave** la voiture.",
+       "Il **se lave**."
+      ],
+      [
+       "réciproque",
+       "Ils **regardent** leurs amis.",
+       "Ils **se regardent**."
+      ],
+      [
+       "passif",
+       "On **vend** ces fruits.",
+       "Ces fruits **se vendent** bien."
+      ],
+      [
+       "changement de sens",
+       "Il **lève** la main.",
+       "Il **se lève**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "La transformation impersonnelle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une construction **impersonnelle**, le sujet est le pronom **il** qui ne désigne personne : le verbe reste à la 3e personne du **singulier**."
+    },
+    {
+     "type": "table",
+     "title": "Les verbes impersonnels",
+     "head": [
+      "Type",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "verbes toujours impersonnels (météo, falloir)",
+       "Il **pleut**. / Il **faut** partir."
+      ],
+      [
+       "verbes occasionnellement impersonnels",
+       "Il **arrive** un accident. / Il **manque** deux élèves. / Il **semble** que tu aies raison."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Transformation impersonnelle",
+     "head": [
+      "Personnelle",
+      "Impersonnelle"
+     ],
+     "rows": [
+      [
+       "Un accident est arrivé.",
+       "**Il** est arrivé un accident."
+      ],
+      [
+       "Deux élèves manquent.",
+       "**Il** manque deux élèves."
+      ],
+      [
+       "Des difficultés subsistent.",
+       "**Il** subsiste des difficultés."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Sujet réel",
+     "text": "Après le verbe, le **sujet réel** (« un accident ») apparaît ; le verbe **ne s’accorde pas** avec lui : « Il **manque** deux élèves »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à transformer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Passe à la construction impersonnelle.",
+     "items": [
+      "Un orage éclate.",
+      "Deux élèves manquent.",
+      "Une catastrophe est arrivée."
+     ],
+     "corrige": [
+      "1. Il éclate un orage.",
+      "2. Il manque deux élèves.",
+      "3. Il est arrivé une catastrophe."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Passe à la construction pronominale à sens passif.",
+     "items": [
+      "On vend ces fruits facilement.",
+      "On parle français ici."
+     ],
+     "corrige": [
+      "1. Ces fruits se vendent facilement.",
+      "2. Le français se parle ici."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il faut partir » est une phrase :",
+     "options": [
+      "avec un verbe impersonnel",
+      "avec un verbe pronominal",
+      "à la voix passive",
+      "avec un sujet réel"
+     ],
+     "answer": 0,
+     "explain": "« Falloir » est un verbe impersonnel : « il » ne représente personne."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Transitif** : le verbe a un complément d’objet ; **intransitif** : il n’en a pas.",
+      "**Pronominal** : le verbe s’emploie avec un pronom réfléchi (se, s’) ; sens réfléchi, réciproque ou passif.",
+      "**Impersonnel** : sujet « il » sans référent, verbe à la 3e personne du singulier.",
+      "Après un verbe impersonnel, le **sujet réel** ne commande pas l’accord."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il manque deux élèves », « il » est :",
+     "options": [
+      "un sujet réel",
+      "un sujet apparent (impersonnel)",
+      "un COD",
+      "un complément d’agent"
+     ],
+     "answer": 1,
+     "explain": "Le sujet réel est « deux élèves » ; « il » est le sujet apparent."
+    }
+   ]
+  }
+ ]
+}

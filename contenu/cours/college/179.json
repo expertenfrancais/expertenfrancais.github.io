@@ -1,0 +1,215 @@
+{
+ "id": 179,
+ "meta": {
+  "t": "Le futur antérieur",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Un temps composé du futur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Quand tu **auras fini**, tu sortiras. » « Demain à midi, j’**aurai terminé**. » Le **futur antérieur** exprime une action **terminée** à un moment du futur, ou **avant** une autre action future."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Former le futur antérieur",
+      "Reconnaître ses valeurs",
+      "Faire l’accord du participe passé",
+      "Le distinguer du passé antérieur"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Futur antérieur",
+     "text": "Le **futur antérieur** est un temps composé de l’indicatif : **auxiliaire au futur simple + participe passé**."
+    },
+    {
+     "type": "table",
+     "title": "Formation",
+     "head": [
+      "Verbe",
+      "Futur antérieur (je)"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "j’aurai chanté"
+      ],
+      [
+       "finir",
+       "j’aurai fini"
+      ],
+      [
+       "partir",
+       "je serai parti(e)"
+      ],
+      [
+       "venir",
+       "je serai venu(e)"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le futur antérieur de « finir » à la 1re personne ?",
+     "options": [
+      "je finirai",
+      "j’aurai fini",
+      "j’avais fini",
+      "je finis"
+     ],
+     "answer": 1,
+     "explain": "Auxiliaire « avoir » au futur + participe passé : j’aurai fini."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du futur antérieur",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les valeurs",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "antériorité par rapport à un futur",
+       "Quand tu **auras fini**, tu **sortiras**."
+      ],
+      [
+       "action achevée à une date future",
+       "Demain à midi, j’**aurai terminé**."
+      ],
+      [
+       "supposition sur le passé",
+       "Il n’est pas là : il **aura oublié**."
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Antériorité dans le futur",
+     "cells": [
+      {
+       "mot": "Quand tu auras fini",
+       "role": "futur antérieur (action antérieure)",
+       "noyau": true
+      },
+      {
+       "mot": "tu sortiras",
+       "role": "futur simple (action postérieure)"
+      }
+     ],
+     "note": "Le futur antérieur marque ce qui sera **fait avant** une autre action future."
+    }
+   ]
+  },
+  {
+   "t": "L’accord et le passé antérieur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avec l’auxiliaire **être**, le participe s’accorde avec le **sujet** : « Elles **seront parties** ». Avec **avoir**, on applique la règle du COD placé avant."
+    },
+    {
+     "type": "table",
+     "title": "Futur antérieur et passé antérieur",
+     "head": [
+      "Temps",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "futur antérieur",
+       "après un futur ou un présent à valeur de futur",
+       "Dès qu’il **aura fini**, il partira."
+      ],
+      [
+       "passé antérieur",
+       "après un passé simple",
+       "Dès qu’il **eut fini**, il partit."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le parallèle",
+     "text": "Le futur antérieur est au futur ce que le **passé antérieur** est au passé simple."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à conjuguer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au futur antérieur.",
+     "items": [
+      "Quand tu (finir), tu sortiras.",
+      "Demain à midi, j’(terminer) mon travail.",
+      "Dès qu’elles (arriver), nous mangerons."
+     ],
+     "corrige": [
+      "1. auras fini",
+      "2. aurai terminé",
+      "3. seront arrivées"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au futur antérieur ?",
+     "options": [
+      "Il partira demain.",
+      "Il sera parti avant midi.",
+      "Il est parti hier.",
+      "Il partait chaque jour."
+     ],
+     "answer": 1,
+     "explain": "« sera parti » = être au futur + participe passé."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Futur antérieur** = auxiliaire au **futur** + participe passé.",
+      "Valeurs : **antériorité par rapport à un futur**, action achevée à une date future, **supposition** sur le passé.",
+      "Accord : avec **être**, le participe s’accorde avec le sujet.",
+      "**Passé antérieur** : même rôle après un passé simple."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il n’est pas là : il aura oublié » exprime :",
+     "options": [
+      "un ordre",
+      "une supposition sur le passé",
+      "un futur certain",
+      "un regret"
+     ],
+     "answer": 1,
+     "explain": "Le futur antérieur formule une hypothèse sur le passé."
+    }
+   ]
+  }
+ ]
+}

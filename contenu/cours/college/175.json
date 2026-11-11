@@ -1,0 +1,208 @@
+{
+ "id": 175,
+ "meta": {
+  "t": "L’expression de la circonstance de conséquence",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la conséquence ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il pleut, **donc** nous restons. » « Il court **si vite qu’**on ne le rattrape pas. » Les mots en gras expriment le **résultat** d’une action : c’est la **circonstance de conséquence**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la conséquence",
+      "Employer donc, alors, c’est pourquoi, par conséquent",
+      "Utiliser tellement… que, si… que, tant… que",
+      "Choisir le mode du verbe"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de conséquence",
+     "text": "La **conséquence** indique **le résultat** de ce qui est dit dans l’autre proposition. Elle répond à la question **avec quel résultat ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il a tant travaillé **qu’il a réussi**.\nIl pleut ; **par conséquent**, le match est reporté."
+    },
+    {
+     "type": "quiz",
+     "question": "La conséquence indique :",
+     "options": [
+      "la raison",
+      "le résultat",
+      "le lieu",
+      "le moment"
+     ],
+     "answer": 1,
+     "explain": "La conséquence est le résultat de l’action."
+    }
+   ]
+  },
+  {
+   "t": "Les mots de la conséquence",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les moyens d’exprimer la conséquence",
+     "head": [
+      "Nature",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "adverbes et locutions",
+       "donc, alors, aussi (suivi de l’inversion), ainsi, par conséquent, c’est pourquoi",
+       "Il pleut ; **donc** nous restons."
+      ],
+      [
+       "subordonnée",
+       "si… que, tellement… que, tant… que, si bien que, de sorte que, au point que",
+       "Il est **si** fatigué **qu’**il s’endort."
+      ],
+      [
+       "infinitif",
+       "trop … pour, assez … pour",
+       "Il est **trop** petit **pour** attraper l’étagère."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Aussi",
+     "text": "Avec « **aussi** » conséquence, on inverse le sujet : « Il pleut, **aussi resterons-nous** ici. »"
+    }
+   ]
+  },
+  {
+   "t": "Les corrélations d’intensité",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le plus souvent, un mot d’**intensité** dans la principale annonce la conséquence : **si, tellement, tant, tel** … **que**."
+    },
+    {
+     "type": "table",
+     "title": "Intensité + conséquence",
+     "head": [
+      "Mot d’intensité",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "si + adjectif / adverbe",
+       "Elle court **si** vite **qu’**on ne la voit plus."
+      ],
+      [
+       "tellement + adjectif / adverbe",
+       "Il est **tellement** gentil **que** tout le monde l’aime."
+      ],
+      [
+       "tant de + nom ; verbe + tant",
+       "Il a **tant** mangé **qu’**il est malade."
+      ],
+      [
+       "tel(le) + nom",
+       "Il fait un **tel** bruit **qu’**on ne s’entend pas."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le mode",
+     "text": "La conséquence **réelle** se met à l’**indicatif**. Avec **trop / assez … pour que** ou une phrase négative/interrogative, on emploie le **subjonctif** : « Il est **trop** tard **pour que** tu **partes**. »"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à compléter."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève la conséquence.",
+     "items": [
+      "Il pleut ; donc nous restons.",
+      "Il a tant couru qu’il est essoufflé.",
+      "Elle est si timide qu’elle ne parle jamais.",
+      "Il a faim ; c’est pourquoi il mange."
+     ],
+     "corrige": [
+      "1. donc nous restons",
+      "2. qu’il est essoufflé",
+      "3. qu’elle ne parle jamais",
+      "4. c’est pourquoi il mange"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec si, tellement, tant, tel.",
+     "items": [
+      "Il est ____ fatigué qu’il s’endort.",
+      "Il a ____ mangé qu’il est malade.",
+      "Il fait un ____ bruit qu’on ne s’entend pas."
+     ],
+     "corrige": [
+      "1. si (ou tellement)",
+      "2. tant (ou tellement)",
+      "3. tel"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il court si vite qu’on ne le rattrape pas », « qu’on ne le rattrape pas » exprime :",
+     "options": [
+      "la cause",
+      "la conséquence",
+      "le but",
+      "le temps"
+     ],
+     "answer": 1,
+     "explain": "C’est le résultat de la vitesse : conséquence."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **conséquence** indique le **résultat** d’une action.",
+      "Mots : **donc, alors, par conséquent, c’est pourquoi, aussi + inversion**.",
+      "Corrélations : **si / tellement / tant / tel … que**.",
+      "Verbe à l’**indicatif** (conséquence réelle) ; **subjonctif** après **trop / assez … pour que**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot exprime la conséquence ?",
+     "options": [
+      "parce que",
+      "donc",
+      "pour que",
+      "bien que"
+     ],
+     "answer": 1,
+     "explain": "« Donc » introduit la conséquence."
+    }
+   ]
+  }
+ ]
+}

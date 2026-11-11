@@ -1,0 +1,252 @@
+{
+ "id": 168,
+ "meta": {
+  "t": "Le genre romanesque",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que le roman ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **roman** est un récit en prose, plus ou moins long, qui raconte une histoire **imaginaire** (ou inspirée de faits réels). C’est le genre littéraire le plus lu."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir le genre romanesque",
+      "Reconnaître ses éléments (narrateur, personnages, intrigue)",
+      "Repérer les étapes d’un récit",
+      "Distinguer les sous-genres du roman"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Roman",
+     "text": "Un **roman** est un récit en **prose**, de fiction, qui met en scène des **personnages** dans une **intrigue**, racontée par un **narrateur**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un roman est écrit en :",
+     "options": [
+      "vers",
+      "prose",
+      "dialogue seulement",
+      "chansons"
+     ],
+     "answer": 1,
+     "explain": "Le roman est un récit en prose."
+    }
+   ]
+  },
+  {
+   "t": "Les éléments du roman",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les éléments d’un roman",
+     "head": [
+      "Élément",
+      "Définition"
+     ],
+     "rows": [
+      [
+       "narrateur",
+       "celui qui raconte l’histoire"
+      ],
+      [
+       "personnages",
+       "êtres qui agissent dans l’histoire"
+      ],
+      [
+       "intrigue",
+       "suite des événements racontés"
+      ],
+      [
+       "cadre spatio-temporel",
+       "lieu et époque de l’action"
+      ],
+      [
+       "point de vue",
+       "position du narrateur : interne, externe, omniscient"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le point de vue",
+     "head": [
+      "Point de vue",
+      "Le narrateur…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "interne",
+       "raconte à travers un personnage",
+       "Je vis le chien se jeter sur moi."
+      ],
+      [
+       "externe",
+       "décrit seulement ce qu’on voit",
+       "Le chien se jeta sur l’homme."
+      ],
+      [
+       "omniscient (zéro)",
+       "sait tout, y compris les pensées",
+       "Le chien voulait mordre, l’homme avait peur."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le schéma narratif et les sous-genres",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le schéma narratif",
+     "head": [
+      "Étape",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "situation initiale",
+       "présentation des personnages, du lieu et du moment"
+      ],
+      [
+       "élément perturbateur",
+       "événement qui déclenche l’action"
+      ],
+      [
+       "péripéties",
+       "suite d’actions et d’obstacles"
+      ],
+      [
+       "dénouement",
+       "résolution du problème"
+      ],
+      [
+       "situation finale",
+       "nouvel équilibre"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les sous-genres",
+     "head": [
+      "Sous-genre",
+      "Caractéristique"
+     ],
+     "rows": [
+      [
+       "roman d’aventures",
+       "voyages, dangers, exploits"
+      ],
+      [
+       "roman policier",
+       "enquête, mystère, coupable"
+      ],
+      [
+       "roman historique",
+       "action située dans le passé"
+      ],
+      [
+       "roman de science-fiction",
+       "monde futur ou imaginaire, science"
+      ],
+      [
+       "roman réaliste",
+       "reflet de la société, de la vie quotidienne"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à identifier."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’étape du schéma narratif.",
+     "items": [
+      "Il était une fois un jeune berger qui gardait ses moutons.",
+      "Un soir, un loup rôda près du troupeau.",
+      "Finalement, le berger chassa le loup."
+     ],
+     "corrige": [
+      "1. situation initiale",
+      "2. élément perturbateur",
+      "3. dénouement"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Identifie le point de vue.",
+     "items": [
+      "Je sentis mon cœur battre.",
+      "Elle ouvrit la porte et sortit.",
+      "Il pensait que personne ne le verrait."
+     ],
+     "corrige": [
+      "1. interne (« je »)",
+      "2. externe",
+      "3. omniscient (pensées du personnage)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un roman policier met en scène :",
+     "options": [
+      "un voyage",
+      "une enquête",
+      "un poème",
+      "un débat"
+     ],
+     "answer": 1,
+     "explain": "Le roman policier tourne autour d’une enquête."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **roman** est un récit en **prose**, de **fiction**.",
+      "Éléments : **narrateur, personnages, intrigue, cadre**.",
+      "Point de vue : **interne, externe, omniscient**.",
+      "Schéma narratif : situation initiale → élément perturbateur → péripéties → dénouement → situation finale.",
+      "Sous-genres : aventures, policier, historique, science-fiction, réaliste."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel élément déclenche l’action ?",
+     "options": [
+      "la situation finale",
+      "l’élément perturbateur",
+      "le dénouement",
+      "la description"
+     ],
+     "answer": 1,
+     "explain": "L’élément perturbateur lance l’intrigue."
+    }
+   ]
+  }
+ ]
+}

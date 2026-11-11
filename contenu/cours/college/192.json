@@ -1,0 +1,223 @@
+{
+ "id": 192,
+ "meta": {
+  "t": "La production d’un texte narratif : introduction, développement et conclusion",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Raconter une histoire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un **texte narratif** raconte une suite d’événements. Pour bien l’écrire, on prévoit un **plan** en trois parties : **introduction**, **développement**, **conclusion**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Rédiger une introduction qui présente la situation",
+      "Construire un développement avec une suite d’événements",
+      "Écrire une conclusion qui termine l’histoire",
+      "Employer les bons temps et les connecteurs"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Texte narratif",
+     "text": "Un **texte narratif** raconte des événements réels ou imaginaires, vécus par des **personnages**, dans un **lieu** et à une **époque** précis."
+    },
+    {
+     "type": "quiz",
+     "question": "Un texte narratif :",
+     "options": [
+      "décrit seulement",
+      "raconte une histoire",
+      "donne des ordres",
+      "argumente"
+     ],
+     "answer": 1,
+     "explain": "Il raconte une suite d’événements."
+    }
+   ]
+  },
+  {
+   "t": "L’introduction et le développement",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les trois parties",
+     "head": [
+      "Partie",
+      "Rôle",
+      "Contenu"
+     ],
+     "rows": [
+      [
+       "introduction",
+       "présenter",
+       "personnages, lieu, époque, situation de départ"
+      ],
+      [
+       "développement",
+       "raconter",
+       "événement qui change tout, péripéties"
+      ],
+      [
+       "conclusion",
+       "terminer",
+       "dénouement, situation finale, leçon ou ouverture"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le fil du récit",
+     "text": "Appuie-toi sur le **schéma narratif** : situation initiale → élément perturbateur → péripéties → dénouement → situation finale."
+    },
+    {
+     "type": "ex",
+     "label": "Exemple d’introduction",
+     "text": "Il y a longtemps, dans un petit village au bord du fleuve, vivait un jeune pêcheur nommé Paul. Chaque matin, il partait en pirogue, tandis que le soleil se levait."
+    }
+   ]
+  },
+  {
+   "t": "Les temps et les connecteurs",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les temps du récit",
+     "head": [
+      "Temps",
+      "Emploi"
+     ],
+     "rows": [
+      [
+       "imparfait",
+       "décrire, situer, habitude"
+      ],
+      [
+       "passé simple (ou passé composé)",
+       "actions principales"
+      ],
+      [
+       "plus-que-parfait",
+       "événement antérieur"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les connecteurs temporels",
+     "head": [
+      "Rôle",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "commencer",
+       "d’abord, un jour, il était une fois"
+      ],
+      [
+       "enchaîner",
+       "ensuite, puis, alors, bientôt"
+      ],
+      [
+       "interrompre",
+       "soudain, tout à coup"
+      ],
+      [
+       "conclure",
+       "enfin, finalement, depuis ce jour"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Cohérence",
+     "text": "Garde le **même temps** de base et la **même personne** (il/elle ou je) dans tout le récit."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à écrire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe chaque phrase : introduction (I), développement (D), conclusion (C).",
+     "items": [
+      "Il était une fois un petit lièvre qui vivait dans la forêt.",
+      "Un jour, un lion surgit devant lui.",
+      "Finalement, le lièvre rentra sain et sauf chez lui.",
+      "Tout à coup, le lièvre entendit un cri."
+     ],
+     "corrige": [
+      "1. I",
+      "2. D",
+      "3. C",
+      "4. D"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une introduction de 3 phrases à partir de : un enfant, un marché, un matin.",
+     "items": [
+      "Rédaction"
+     ],
+     "corrige": [
+      "Exemple : Un matin, Joël se rendit au marché avec sa mère. La place était pleine de monde et de couleurs. Il ne savait pas encore que cette journée allait changer sa vie."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps sert à décrire dans un récit au passé ?",
+     "options": [
+      "le passé simple",
+      "l’imparfait",
+      "le futur",
+      "le subjonctif"
+     ],
+     "answer": 1,
+     "explain": "L’imparfait décrit le décor et les habitudes."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Plan : **introduction, développement, conclusion**.",
+      "Introduction : **personnages, lieu, époque, situation initiale**.",
+      "Développement : **élément perturbateur + péripéties** (passé simple + imparfait).",
+      "Conclusion : **dénouement** et situation finale.",
+      "Utiliser des **connecteurs** : d’abord, ensuite, soudain, enfin."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle partie présente les personnages et le lieu ?",
+     "options": [
+      "la conclusion",
+      "l’introduction",
+      "le développement",
+      "le dénouement"
+     ],
+     "answer": 1,
+     "explain": "C’est le rôle de l’introduction."
+    }
+   ]
+  }
+ ]
+}

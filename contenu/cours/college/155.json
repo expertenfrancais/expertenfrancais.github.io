@@ -1,0 +1,223 @@
+{
+ "id": 155,
+ "meta": {
+  "t": "La comparaison, la métaphore et la personnification",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Les figures d’analogie",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Elle est belle **comme** une fleur » ; « C’est **un lion** » ; « Le vent **murmure** ». Dans ces phrases, on rapproche deux réalités différentes pour créer une **image**. On parle de **figures d’analogie**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la comparaison, la métaphore et la personnification",
+      "Distinguer ces figures les unes des autres",
+      "Comprendre leur effet",
+      "Les employer dans une rédaction"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Figure de style",
+     "text": "Une **figure de style** est un procédé d’écriture qui rend le langage plus expressif, plus imagé. Les **figures d’analogie** rapprochent deux éléments par ressemblance."
+    },
+    {
+     "type": "quiz",
+     "question": "Une figure de style sert à :",
+     "options": [
+      "corriger l’orthographe",
+      "rendre le langage plus imagé",
+      "raccourcir la phrase",
+      "donner un ordre"
+     ],
+     "answer": 1,
+     "explain": "Elle rend l’expression plus vivante et plus imagée."
+    }
+   ]
+  },
+  {
+   "t": "La comparaison",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Comparaison",
+     "text": "La **comparaison** rapproche deux éléments grâce à un **outil de comparaison** : *comme, tel, pareil à, semblable à, ressembler à, ainsi que, avoir l’air de*."
+    },
+    {
+     "type": "schema",
+     "title": "Décortiquer une comparaison",
+     "cells": [
+      {
+       "mot": "Ses joues",
+       "role": "comparé",
+       "noyau": true
+      },
+      {
+       "mot": "sont rouges",
+       "role": "point commun"
+      },
+      {
+       "mot": "comme",
+       "role": "outil de comparaison"
+      },
+      {
+       "mot": "des pommes",
+       "role": "comparant",
+       "noyau": true
+      }
+     ],
+     "note": "Le comparé est ce dont on parle ; le comparant est l’image à laquelle on le compare."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il est **fort comme un lion**.\nSes yeux brillent **comme des étoiles**."
+    }
+   ]
+  },
+  {
+   "t": "La métaphore",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Métaphore",
+     "text": "La **métaphore** est une comparaison **sans outil** : on identifie directement le comparé au comparant."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Cet enfant **est un moulin à paroles**.\nLe soleil **est une boule d’or**.\nLa mer **est un miroir**."
+    },
+    {
+     "type": "table",
+     "title": "Comparaison ou métaphore ?",
+     "head": [
+      "Comparaison",
+      "Métaphore"
+     ],
+     "rows": [
+      [
+       "Il est fort **comme** un lion.",
+       "Il **est un lion**."
+      ],
+      [
+       "Sa voix **ressemble à** de la soie.",
+       "Sa voix **est de la soie**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Y a-t-il un **outil** (comme, tel…) ? Oui → comparaison ; non → métaphore."
+    }
+   ]
+  },
+  {
+   "t": "La personnification",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Personnification",
+     "text": "La **personnification** consiste à donner à un animal, une chose ou une idée des **traits humains** (actions, sentiments, parole)."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Le vent **murmure** dans les arbres.\nLa lune **sourit** aux enfants.\nLa nuit **tombe**, elle **nous enveloppe**."
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "La personnification n’a ni outil de comparaison ni identification : elle **fait agir** ou **parler** une chose comme un être humain."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à créer des figures."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis s’il s’agit d’une comparaison (C), d’une métaphore (M) ou d’une personnification (P).",
+     "items": [
+      "Ses mains sont comme des pierres.",
+      "La rivière chante dans la vallée.",
+      "Cet homme est un roc.",
+      "Le temps est un voleur."
+     ],
+     "corrige": [
+      "1. C (outil « comme »)",
+      "2. P (la rivière chante)",
+      "3. M (sans outil)",
+      "4. M"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque comparaison en métaphore.",
+     "items": [
+      "Elle est douce comme un agneau.",
+      "Sa colère est comme un volcan."
+     ],
+     "corrige": [
+      "1. Elle est un agneau.",
+      "2. Sa colère est un volcan."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« La nuit nous enveloppe » est :",
+     "options": [
+      "une comparaison",
+      "une métaphore",
+      "une personnification",
+      "une hyperbole"
+     ],
+     "answer": 2,
+     "explain": "La nuit agit comme un être humain : c’est une personnification."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **comparaison** a un **outil** (comme, tel, pareil à…) : comparé / outil / comparant.",
+      "La **métaphore** est une comparaison **sans outil**.",
+      "La **personnification** prête des **traits humains** à une chose, un animal ou une idée.",
+      "Ces figures créent des **images** et rendent le texte plus expressif."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il est fort comme un lion », « un lion » est :",
+     "options": [
+      "le comparé",
+      "l’outil",
+      "le comparant",
+      "le point commun"
+     ],
+     "answer": 2,
+     "explain": "« Un lion » est le comparant, l’image à laquelle on compare « il »."
+    }
+   ]
+  }
+ ]
+}

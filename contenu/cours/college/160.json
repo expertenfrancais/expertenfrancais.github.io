@@ -1,0 +1,215 @@
+{
+ "id": 160,
+ "meta": {
+  "t": "Les valeurs modales de l’impératif et de l’infinitif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Impératif et infinitif : deux modes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« **Viens** ici ! » ; « **Ne pas fumer** » ; « **Vivre** est un plaisir ». L’impératif et l’infinitif expriment l’ordre, le conseil, la consigne… mais de façons différentes. Ce sont deux **modes**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître les valeurs de l’impératif",
+      "Reconnaître les valeurs de l’infinitif",
+      "Former l’impératif correctement",
+      "Distinguer l’infinitif verbal de l’infinitif nominal"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Impératif",
+     "text": "L’**impératif** est un mode sans sujet exprimé. Il s’emploie à trois personnes : **2e du singulier**, **1re** et **2e du pluriel**."
+    },
+    {
+     "type": "def",
+     "label": "Infinitif",
+     "text": "L’**infinitif** est la forme non conjuguée du verbe. Il joue souvent un rôle de **verbe** ou de **nom**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme verbale est à l’impératif ?",
+     "options": [
+      "Tu viens",
+      "Viens",
+      "Venir",
+      "Venant"
+     ],
+     "answer": 1,
+     "explain": "« Viens ! » est à l’impératif, sans sujet."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs de l’impératif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les valeurs de l’impératif",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "ordre",
+       "**Viens** ici tout de suite !"
+      ],
+      [
+       "conseil",
+       "**Mange** plus de légumes."
+      ],
+      [
+       "défense",
+       "**Ne touche pas** au feu !"
+      ],
+      [
+       "prière",
+       "**Aide-moi**, s’il te plaît."
+      ],
+      [
+       "souhait",
+       "**Sois** heureux !"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Orthographe",
+     "text": "Aux verbes du 1er groupe, la 2e personne du singulier **n’a pas de s** : « Chante ! », « Mange ! » Mais **s** devant **y** ou **en** : « Vas-**y** », « Manges-**en** »."
+    },
+    {
+     "type": "tip",
+     "label": "Pronoms",
+     "text": "À l’impératif affirmatif, les pronoms se placent **après** le verbe : « Donne-**le-moi** ». À l’impératif négatif, ils se placent **avant** : « Ne **me le** donne pas »."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs de l’infinitif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les valeurs de l’infinitif",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "nom (sujet, COD…)",
+       "**Vivre** est un plaisir. / J’aime **chanter**."
+      ],
+      [
+       "consigne, ordre général",
+       "**Ajouter** du sel. / **Ne pas fumer**."
+      ],
+      [
+       "interrogation",
+       "**Que faire** ? / **Comment lui répondre** ?"
+      ],
+      [
+       "exclamation, indignation",
+       "**Moi, mentir** !"
+      ],
+      [
+       "narration",
+       "Et lui de **se fâcher**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Infinitif nominal ou verbal",
+     "text": "L’infinitif **nominal** joue le rôle d’un nom (sujet, COD) ; l’infinitif **verbal** garde ses compléments : « **Lire des romans** est son passe-temps. »"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à former."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à l’impératif présent, 2e personne du singulier.",
+     "items": [
+      "(chanter) plus fort !",
+      "(aller) à la bibliothèque !",
+      "(manger) des fruits !"
+     ],
+     "corrige": [
+      "1. Chante",
+      "2. Va",
+      "3. Mange"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la valeur de l’infinitif.",
+     "items": [
+      "Ne pas jeter de papiers.",
+      "Vivre est un plaisir.",
+      "Que faire ?"
+     ],
+     "corrige": [
+      "1. consigne (défense)",
+      "2. nom (sujet)",
+      "3. interrogation"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Chantes plus fort !",
+      "Chante plus fort !",
+      "Chanter plus fort !",
+      "Chants plus fort !"
+     ],
+     "answer": 1,
+     "explain": "Au 1er groupe, l’impératif 2e personne du singulier n’a pas de s : « Chante ! »"
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Impératif** : ordre, conseil, défense, prière, souhait ; 3 personnes ; pas de sujet.",
+      "1er groupe : **pas de s** à « tu » (chante), sauf devant **y** et **en** (vas-y).",
+      "**Infinitif** : forme non conjuguée ; valeur de **nom**, de **consigne**, d’**interrogation**, d’**exclamation**.",
+      "Pronoms : **après** le verbe à l’impératif affirmatif, **avant** au négatif."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Ne pas fumer » exprime :",
+     "options": [
+      "une question",
+      "une consigne (défense)",
+      "un souhait",
+      "un regret"
+     ],
+     "answer": 1,
+     "explain": "L’infinitif sert ici à donner une consigne générale."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "id": 174,
+ "meta": {
+  "t": "L’expression de la circonstance de cause",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la circonstance de cause ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il est absent **parce qu’il est malade**. » « **À cause de la pluie**, le match est annulé. » Les mots en gras répondent à la question **pourquoi ?** : ils expriment la **circonstance de cause**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la cause dans une phrase",
+      "Employer prépositions et conjonctions de cause",
+      "Distinguer parce que, puisque, comme, car",
+      "Choisir le mode du verbe"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Circonstance de cause",
+     "text": "La **circonstance de cause** indique **la raison** pour laquelle l’action se produit. Elle répond aux questions **pourquoi ?** et **pour quelle raison ?**"
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il a échoué **faute de travail**.\nElle sourit **parce qu’elle est heureuse**.\n**Comme il pleuvait**, nous sommes restés."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver la cause ?",
+     "options": [
+      "Quand ?",
+      "Pourquoi ?",
+      "Comment ?",
+      "Où ?"
+     ],
+     "answer": 1,
+     "explain": "La cause répond à « pourquoi ? »."
+    }
+   ]
+  },
+  {
+   "t": "Les compléments de cause",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les moyens d’exprimer la cause",
+     "head": [
+      "Nature",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "groupe prépositionnel",
+       "à cause de, grâce à, en raison de, faute de, par, de, pour",
+       "Le match est annulé **à cause de la pluie**."
+      ],
+      [
+       "gérondif, participe",
+       "en + participe présent, étant, ayant",
+       "**Étant malade**, il est resté couché."
+      ],
+      [
+       "conjonction de coordination",
+       "car, en effet",
+       "Il est resté, **car** il pleuvait."
+      ],
+      [
+       "subordonnée",
+       "parce que, puisque, comme, vu que, étant donné que, du fait que",
+       "Il est resté **parce qu’il pleuvait**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Cause favorable ou défavorable",
+     "text": "**Grâce à** exprime une cause **favorable** (« grâce à ton aide »). **À cause de** exprime une cause **négative ou neutre** (« à cause du bruit »)."
+    }
+   ]
+  },
+  {
+   "t": "Parce que, puisque, comme, car",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces mots ont des **emplois différents** selon que la cause est nouvelle ou déjà connue."
+    },
+    {
+     "type": "table",
+     "title": "Les nuances",
+     "head": [
+      "Mot",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "parce que",
+       "cause nouvelle, répond à « pourquoi ? »",
+       "Il pleure **parce qu’**il a mal."
+      ],
+      [
+       "puisque",
+       "cause déjà connue de l’interlocuteur",
+       "**Puisque** tu es là, aide-moi."
+      ],
+      [
+       "comme",
+       "cause en début de phrase",
+       "**Comme** il pleuvait, nous sommes restés."
+      ],
+      [
+       "car",
+       "coordination, jamais en début de phrase",
+       "Il est resté, **car** il pleuvait."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« **Car** » est une conjonction de **coordination** : on ne commence pas une phrase par « car »."
+    },
+    {
+     "type": "p",
+     "text": "Le verbe est à l’**indicatif**. Avec **non que**, **ce n’est pas que**, on emploie le **subjonctif** : « Il a refusé, **non qu’il soit** méchant, mais il était pressé. »"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à compléter."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève l’expression de la cause.",
+     "items": [
+      "Faute de temps, il n’a pas fini.",
+      "Il a réussi grâce à son travail.",
+      "Puisque tu insistes, je viens.",
+      "Comme il pleut, nous restons."
+     ],
+     "corrige": [
+      "1. Faute de temps",
+      "2. grâce à son travail",
+      "3. Puisque tu insistes",
+      "4. Comme il pleut"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec parce que, puisque, à cause de ou grâce à.",
+     "items": [
+      "Il est en retard ____ le bus.",
+      "Il a réussi ____ ses efforts.",
+      "____ tu es là, aide-moi.",
+      "Je pleure ____ j’ai mal."
+     ],
+     "corrige": [
+      "1. à cause du (de + le)",
+      "2. grâce à",
+      "3. Puisque",
+      "4. parce que"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est incorrecte ?",
+     "options": [
+      "Il est resté car il pleuvait.",
+      "Car il pleuvait, il est resté.",
+      "Il est resté parce qu’il pleuvait.",
+      "Comme il pleuvait, il est resté."
+     ],
+     "answer": 1,
+     "explain": "On ne commence pas une phrase par « car »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **cause** répond à **pourquoi ?**",
+      "Prépositions : **à cause de** (négatif), **grâce à** (favorable), **faute de** (manque).",
+      "**Parce que** (cause nouvelle), **puisque** (cause connue), **comme** (début de phrase), **car** (jamais en début de phrase).",
+      "Verbe à l’**indicatif** ; **non que / ce n’est pas que** + **subjonctif**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot exprime une cause favorable ?",
+     "options": [
+      "à cause de",
+      "grâce à",
+      "faute de",
+      "malgré"
+     ],
+     "answer": 1,
+     "explain": "« Grâce à » introduit une cause favorable."
+    }
+   ]
+  }
+ ]
+}

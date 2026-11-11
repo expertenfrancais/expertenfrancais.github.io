@@ -1,0 +1,319 @@
+{
+ "id": 157,
+ "meta": {
+  "t": "La transformation de la phrase : affirmative, négative, interrogative, exclamative",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Les formes de phrase",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une même idée peut s’exprimer sous plusieurs formes : « Tu viens. » (déclarative affirmative), « Tu ne viens pas. » (négative), « Viens-tu ? » (interrogative), « Quelle belle journée ! » (exclamative). Apprendre à **transformer** une phrase permet de varier ses écrits."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Passer d’une phrase affirmative à une phrase négative",
+      "Construire une phrase interrogative (totale ou partielle)",
+      "Construire une phrase exclamative",
+      "Garder le sens et la ponctuation corrects"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Forme de phrase",
+     "text": "La **forme** d’une phrase indique si elle est **affirmative** ou **négative**. Le **type** indique si elle est **déclarative, interrogative, exclamative** ou **impérative**."
+    },
+    {
+     "type": "quiz",
+     "question": "« Quelle belle journée ! » est une phrase :",
+     "options": [
+      "interrogative",
+      "exclamative",
+      "déclarative négative",
+      "impérative"
+     ],
+     "answer": 1,
+     "explain": "La phrase exprime un sentiment fort : c’est une phrase exclamative."
+    }
+   ]
+  },
+  {
+   "t": "De l’affirmative à la négative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La négation encadre le verbe : **ne … pas** (négation simple). Aux temps composés, elle encadre l’**auxiliaire**."
+    },
+    {
+     "type": "table",
+     "title": "Les négations",
+     "head": [
+      "Négation",
+      "Exemple affirmatif",
+      "Exemple négatif"
+     ],
+     "rows": [
+      [
+       "ne … pas",
+       "Il vient.",
+       "Il **ne** vient **pas**."
+      ],
+      [
+       "ne … jamais",
+       "Il vient toujours.",
+       "Il **ne** vient **jamais**."
+      ],
+      [
+       "ne … plus",
+       "Il vient encore.",
+       "Il **ne** vient **plus**."
+      ],
+      [
+       "ne … rien",
+       "Il voit quelque chose.",
+       "Il **ne** voit **rien**."
+      ],
+      [
+       "ne … personne",
+       "Il voit quelqu’un.",
+       "Il **ne** voit **personne**."
+      ],
+      [
+       "aucun … ne",
+       "Un élève est venu.",
+       "**Aucun** élève **n’**est venu."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pièges",
+     "text": "Après une négation, **du / de la / des** deviennent **de** : « Il mange **du** pain » → « Il **ne** mange **pas de** pain ». **Ne … que** n’est pas une négation : c’est une **restriction** (= seulement)."
+    },
+    {
+     "type": "ex",
+     "label": "Temps composé",
+     "text": "Il **a** mangé → Il **n’a pas** mangé."
+    }
+   ]
+  },
+  {
+   "t": "La phrase interrogative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On distingue l’interrogation **totale** (réponse par oui ou non) et l’interrogation **partielle** (avec un mot interrogatif)."
+    },
+    {
+     "type": "table",
+     "title": "Les constructions interrogatives",
+     "head": [
+      "Type",
+      "Construction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "totale",
+       "intonation",
+       "Tu viens ?"
+      ],
+      [
+       "totale",
+       "est-ce que",
+       "**Est-ce que** tu viens ?"
+      ],
+      [
+       "totale",
+       "inversion du sujet",
+       "**Viens-tu** ?"
+      ],
+      [
+       "partielle",
+       "mot interrogatif + construction",
+       "**Pourquoi** viens-tu ? / **Où** vas-tu ?"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les mots interrogatifs",
+     "head": [
+      "Pour demander…",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "la personne",
+       "qui"
+      ],
+      [
+       "la chose",
+       "que, quoi, lequel"
+      ],
+      [
+       "le lieu",
+       "où"
+      ],
+      [
+       "le temps",
+       "quand"
+      ],
+      [
+       "la manière",
+       "comment"
+      ],
+      [
+       "la cause",
+       "pourquoi"
+      ],
+      [
+       "la quantité",
+       "combien"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Inversion et t",
+     "text": "Avec un verbe terminé par une voyelle à la 3e personne, on ajoute **-t-** : « **Aime-t-il** voyager ? »"
+    }
+   ]
+  },
+  {
+   "t": "La phrase exclamative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La phrase exclamative exprime un **sentiment** (joie, colère, surprise, admiration) et se termine par un **point d’exclamation**."
+    },
+    {
+     "type": "table",
+     "title": "Les mots exclamatifs",
+     "head": [
+      "Mot",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quel, quelle, quels, quelles",
+       "**Quelle** belle journée !"
+      ],
+      [
+       "comme",
+       "**Comme** il fait chaud !"
+      ],
+      [
+       "que",
+       "**Que** c’est beau !"
+      ],
+      [
+       "combien",
+       "**Combien** de fois te l’ai-je dit !"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Transformations",
+     "text": "Il fait beau. → **Qu’**il fait beau !\nElle est gentille. → **Comme** elle est gentille !"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à transformer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les phrases à la forme négative.",
+     "items": [
+      "Il mange du pain.",
+      "Nous avons vu quelqu’un.",
+      "Il y a des élèves dans la cour."
+     ],
+     "corrige": [
+      "1. Il ne mange pas de pain.",
+      "2. Nous n’avons vu personne.",
+      "3. Il n’y a pas d’élèves dans la cour."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrases interrogatives (inversion).",
+     "items": [
+      "Tu viens demain.",
+      "Elle aime chanter."
+     ],
+     "corrige": [
+      "1. Viens-tu demain ?",
+      "2. Aime-t-elle chanter ?"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrases exclamatives.",
+     "items": [
+      "Ce paysage est magnifique.",
+      "Il fait froid."
+     ],
+     "corrige": [
+      "1. Que ce paysage est magnifique ! (ou « Comme »)",
+      "2. Comme il fait froid !"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme négative de « Il a mangé du riz » ?",
+     "options": [
+      "Il n’a pas mangé du riz.",
+      "Il n’a pas mangé de riz.",
+      "Il a pas mangé de riz.",
+      "Il n’a mangé pas de riz."
+     ],
+     "answer": 1,
+     "explain": "Après la négation, « du » devient « de » et « ne … pas » encadre l’auxiliaire."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La négation encadre le verbe : **ne … pas, jamais, plus, rien, personne** ; aux temps composés, elle encadre l’**auxiliaire**.",
+      "Après la négation, **du / de la / des** → **de**.",
+      "**Ne … que** = restriction, pas négation.",
+      "Interrogation **totale** : intonation, **est-ce que**, inversion ; **partielle** : mot interrogatif.",
+      "Exclamation : **quel, comme, que** + **!**"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot interrogatif sert à demander la cause ?",
+     "options": [
+      "quand",
+      "pourquoi",
+      "comment",
+      "où"
+     ],
+     "answer": 1,
+     "explain": "« Pourquoi » interroge sur la cause."
+    }
+   ]
+  }
+ ]
+}

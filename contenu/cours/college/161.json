@@ -1,0 +1,216 @@
+{
+ "id": 161,
+ "meta": {
+  "t": "Les valeurs modales du participe",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "h",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le participe : un mode non personnel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Un enfant **riant** », « Le travail **terminé**, ils sortirent », « **Ayant fini**, il partit ». Le **participe** est un mode du verbe qui ne se conjugue pas avec les personnes. Il en existe deux : le **participe présent** et le **participe passé**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître le participe présent et le participe passé",
+      "Connaître les temps du participe (simple et composé)",
+      "Reconnaître les valeurs du participe apposé",
+      "Distinguer le participe de l’adjectif"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les formes du participe",
+     "head": [
+      "Forme",
+      "Participe présent",
+      "Participe passé"
+     ],
+     "rows": [
+      [
+       "simple",
+       "chantant",
+       "chanté"
+      ],
+      [
+       "composée",
+       "ayant chanté",
+       "(avoir ou être au participe + participe passé)"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Ayant fini » est :",
+     "options": [
+      "un participe présent simple",
+      "un participe présent composé",
+      "un participe passé",
+      "un gérondif"
+     ],
+     "answer": 1,
+     "explain": "« Ayant fini » = participe présent de l’auxiliaire + participe passé : forme composée."
+    }
+   ]
+  },
+  {
+   "t": "Le participe présent et le participe passé",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Emplois du participe",
+     "head": [
+      "Participe",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "exprime une action en train de se faire ; invariable",
+       "Les enfants **jouant** dehors sont heureux."
+      ],
+      [
+       "passé",
+       "forme les temps composés ; s’accorde parfois",
+       "Il a **chanté**. / Les fleurs **cueillies** sont jolies."
+      ],
+      [
+       "passé comme adjectif",
+       "qualité ; s’accorde",
+       "Une porte **fermée**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour aller plus loin",
+     "text": "Voir aussi : participe présent et adjectif verbal (cours précédent), gérondif (en + participe présent)."
+    }
+   ]
+  },
+  {
+   "t": "Le participe apposé et la proposition participiale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le participe peut être **mis en apposition** au sujet ou former une **proposition participiale** (avec son propre sujet). Il exprime alors la **cause**, le **temps** ou la **circonstance**."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du participe",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps",
+       "**Le travail terminé**, ils sortirent. (= quand le travail fut terminé)"
+      ],
+      [
+       "cause",
+       "**Étant malade**, il est resté chez lui. (= parce qu’il était malade)"
+      ],
+      [
+       "circonstance (manière)",
+       "Il s’avança, **tenant** son chapeau à la main."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Règle",
+     "text": "Le participe apposé doit se rapporter au **sujet** de la phrase : « **Marchant** dans la rue, j’ai vu un accident » (et non « Marchant dans la rue, un accident s’est produit »)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le participe est présent (PP) ou passé (PA).",
+     "items": [
+      "Les enfants jouant dans la cour.",
+      "Le devoir terminé, il sortit.",
+      "Ayant mangé, il partit.",
+      "Une route fermée."
+     ],
+     "corrige": [
+      "1. PP (jouant)",
+      "2. PA (terminé)",
+      "3. PP composé (ayant mangé)",
+      "4. PA (fermée, adjectif)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du participe.",
+     "items": [
+      "Étant malade, il est resté au lit.",
+      "Le soleil couché, nous sommes rentrés.",
+      "Elle sortit, riant aux éclats."
+     ],
+     "corrige": [
+      "1. cause",
+      "2. temps",
+      "3. manière (circonstance)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Le travail terminé » est :",
+     "options": [
+      "une proposition participiale",
+      "un adjectif",
+      "un gérondif",
+      "une relative"
+     ],
+     "answer": 0,
+     "explain": "Le groupe a son propre sujet (« le travail ») et son participe : proposition participiale."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **participe** est un mode non personnel : participe **présent** (chantant) et participe **passé** (chanté).",
+      "Il existe des formes **composées** : ayant chanté, étant parti.",
+      "Le participe apposé exprime le **temps**, la **cause** ou la **manière**.",
+      "Il doit se rapporter au **sujet** de la phrase.",
+      "Proposition participiale : participe + son propre sujet."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Étant malade, il est resté chez lui » : le participe exprime :",
+     "options": [
+      "le temps",
+      "la cause",
+      "la conséquence",
+      "le but"
+     ],
+     "answer": 1,
+     "explain": "Il est resté chez lui parce qu’il était malade : cause."
+    }
+   ]
+  }
+ ]
+}

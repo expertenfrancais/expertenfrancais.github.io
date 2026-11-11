@@ -1,0 +1,196 @@
+{
+ "id": 185,
+ "meta": {
+  "t": "Le vocabulaire fondamental : le transport",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Parler du thème",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour se déplacer ou transporter des marchandises, on utilise différents **moyens de transport** : par la route, le rail, l’air, l’eau."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les mots essentiels du thème",
+      "Employer des verbes et expressions adaptés",
+      "Les utiliser dans des phrases"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Transport",
+     "text": "Le **transport** est le déplacement de personnes ou de marchandises d’un lieu à un autre, grâce à un **moyen de transport**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un moyen de transport aérien est :",
+     "options": [
+      "le train",
+      "l’avion",
+      "la pirogue",
+      "le camion"
+     ],
+     "answer": 1,
+     "explain": "L’avion est un moyen de transport aérien."
+    }
+   ]
+  },
+  {
+   "t": "Les mots essentiels",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le vocabulaire du transport",
+     "head": [
+      "Type",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "routier",
+       "voiture, bus, taxi, camion, moto, chaussée, trottoir, embouteillage, feu tricolore"
+      ],
+      [
+       "ferroviaire",
+       "train, gare, rail, quai, wagon, locomotive"
+      ],
+      [
+       "aérien",
+       "avion, aéroport, piste, décoller, atterrir, escale"
+      ],
+      [
+       "fluvial et maritime",
+       "bateau, pirogue, port, navire, fleuve, traversée"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes et les expressions",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les verbes du transport",
+     "head": [
+      "Verbe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "voyager",
+       "Elle **voyage** en train."
+      ],
+      [
+       "se déplacer",
+       "Il **se déplace** à moto."
+      ],
+      [
+       "transporter",
+       "Le camion **transporte** des marchandises."
+      ],
+      [
+       "embarquer",
+       "Les passagers **embarquent**."
+      ],
+      [
+       "atterrir",
+       "L’avion **atterrit**."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La sécurité routière",
+     "head": [
+      "Mot",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "code de la route",
+       "règles de circulation"
+      ],
+      [
+       "ceinture de sécurité",
+       "dispositif qui retient le passager"
+      ],
+      [
+       "casque",
+       "protection de la tête (moto, vélo)"
+      ],
+      [
+       "accident",
+       "événement dangereux"
+      ],
+      [
+       "piéton",
+       "personne qui marche"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à employer les mots."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète (embarquer, atterrir, quai, trottoir).",
+     "items": [
+      "Les voyageurs attendent sur le ____.",
+      "L’avion va ____.",
+      "Le piéton marche sur le ____.",
+      "Les passagers vont ____."
+     ],
+     "corrige": [
+      "1. quai",
+      "2. atterrir",
+      "3. trottoir",
+      "4. embarquer"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **transport** : déplacer des personnes ou des marchandises.",
+      "Types : **routier, ferroviaire, aérien, fluvial et maritime**.",
+      "Verbes : **voyager, se déplacer, transporter, embarquer, atterrir**.",
+      "Sécurité : **code de la route, ceinture, casque**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie « atterrir » ?",
+     "options": [
+      "partir",
+      "se poser au sol",
+      "tomber",
+      "décoller"
+     ],
+     "answer": 1,
+     "explain": "Atterrir, c’est se poser au sol."
+    }
+   ]
+  }
+ ]
+}

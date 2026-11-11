@@ -1,0 +1,268 @@
+{
+ "id": 151,
+ "meta": {
+  "t": "L’accord du participe passé des verbes pronominaux",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un verbe pronominal ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « Elle **s’est lavée** », « Ils **se sont souvenus** » et « Elles **se sont écrit** », le verbe est précédé d’un pronom (**se**, **s’**) qui représente le même être que le sujet : ce sont des **verbes pronominaux**. Ils se conjuguent avec l’auxiliaire **être** aux temps composés."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître un verbe pronominal et son sens",
+      "Distinguer les verbes essentiellement et occasionnellement pronominaux",
+      "Appliquer la règle d’accord du participe passé",
+      "Repérer les cas d’invariabilité (COI, COD placé après)"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Verbe pronominal",
+     "text": "Un **verbe pronominal** se conjugue avec un **pronom réfléchi** de la même personne que le sujet : je **me** lave, tu **te** lèves, elle **s’**habille. Aux temps composés, l’auxiliaire est toujours **être**."
+    },
+    {
+     "type": "table",
+     "title": "Les types de verbes pronominaux",
+     "head": [
+      "Type",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "essentiellement pronominal (n’existe qu’à la forme pronominale)",
+       "s’enfuir, se souvenir, s’évanouir, se repentir"
+      ],
+      [
+       "occasionnellement pronominal, sens réfléchi",
+       "Elle se lave."
+      ],
+      [
+       "occasionnellement pronominal, sens réciproque",
+       "Ils s’aident."
+      ],
+      [
+       "occasionnellement pronominal, sens passif",
+       "Ce livre se vend bien."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est essentiellement pronominal ?",
+     "options": [
+      "se laver",
+      "se souvenir",
+      "se regarder",
+      "se parler"
+     ],
+     "answer": 1,
+     "explain": "« Se souvenir » n’existe qu’à la forme pronominale (on ne dit pas « souvenir quelqu’un »)."
+    }
+   ]
+  },
+  {
+   "t": "Les essentiellement pronominaux et le sens passif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour ces verbes, le participe passé **s’accorde avec le sujet**."
+    },
+    {
+     "type": "table",
+     "title": "Accord avec le sujet",
+     "head": [
+      "Cas",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "essentiellement pronominal",
+       "Elles se sont **enfuies**. / Ils se sont **souvenus**. / Elle s’est **évanouie**."
+      ],
+      [
+       "sens passif",
+       "Ces fruits se sont bien **vendus**. / Cette robe s’est **vendue** vite."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Le sens réfléchi et le sens réciproque",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour les verbes occasionnellement pronominaux de sens **réfléchi** ou **réciproque**, on applique la règle du **participe passé employé avec avoir** : le participe s’accorde avec le **COD placé avant le verbe**. Le pronom « se » peut être **COD** ou **COI**."
+    },
+    {
+     "type": "table",
+     "title": "Le pronom se est COD ou COI ?",
+     "head": [
+      "Question",
+      "Exemple",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "se = COD (qui ?)",
+       "Elle s’est **lavée**. (elle a lavé qui ? elle-même)",
+       "accord avec « se » (= elle)"
+      ],
+      [
+       "se = COD",
+       "Ils se sont **regardés**.",
+       "accord"
+      ],
+      [
+       "se = COI (à qui ?)",
+       "Ils se sont **parlé**. (parler à qui ? l’un à l’autre)",
+       "invariable"
+      ],
+      [
+       "COD placé après le verbe",
+       "Elle s’est **lavé** les mains.",
+       "invariable"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Remplace l’auxiliaire **être** par **avoir** : « Elle a lavé qui ? » → elle-même → COD (« se ») → accord. « Ils ont parlé à qui ? » → à eux-mêmes → COI → pas d’accord."
+    },
+    {
+     "type": "tip",
+     "label": "Verbes à COI courants",
+     "text": "**se parler, se sourire, se téléphoner, se plaire, se ressembler, se nuire** : leur participe passé est **invariable**."
+    }
+   ]
+  },
+  {
+   "t": "Quand le COD est placé après ou avant",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Accord selon la place du COD",
+     "head": [
+      "Cas",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "COD avant le verbe → accord",
+       "Les mains qu’elle s’est **lavées**."
+      ],
+      [
+       "COD après le verbe → invariable",
+       "Elle s’est **lavé** les mains."
+      ],
+      [
+       "pas de COD → voir le sens",
+       "Ils se sont **plu** (invariable : plaire à)."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Comparer",
+     "text": "Elle s’est **coupée**. (COD = se)\nElle s’est **coupé** le doigt. (COD = le doigt, placé après)\nLa blessure qu’elle s’est **faite**. (COD = que, placé avant)"
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Avec « **se rendre compte** », le COD « compte » est après le participe : « Elles se sont **rendu** compte de leur erreur » (invariable)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à accorder."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé entre parenthèses.",
+     "items": [
+      "Elles se sont (enfuir) à la tombée de la nuit.",
+      "Ils se sont (souvenir) de leur enfance.",
+      "Elle s’est (laver) les mains.",
+      "Ces objets se sont bien (vendre)."
+     ],
+     "corrige": [
+      "1. enfuies",
+      "2. souvenus",
+      "3. lavé (COD « les mains » après)",
+      "4. vendus (sens passif)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le pronom « se » est COD ou COI, puis accorde.",
+     "items": [
+      "Ils se sont (regarder) longuement.",
+      "Elles se sont (parler) au téléphone.",
+      "Elle s’est (couper) le doigt."
+     ],
+     "corrige": [
+      "1. COD → regardés",
+      "2. COI (parler à) → parlé (invariable)",
+      "3. COD = le doigt (après) → coupé (invariable)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elles se sont parlées.",
+      "Elles se sont parlé.",
+      "Elles se sont parlés.",
+      "Elles se sont parlée."
+     ],
+     "answer": 1,
+     "explain": "« parler à » : le pronom est COI, donc le participe reste invariable."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les verbes pronominaux se conjuguent avec **être** aux temps composés.",
+      "**Essentiellement pronominaux** (s’enfuir, se souvenir) et **sens passif** : accord avec le **sujet**.",
+      "**Sens réfléchi ou réciproque** : accord avec le **COD placé avant** le verbe.",
+      "**Invariable** si le pronom est **COI** (se parler, se plaire) ou si le **COD est placé après**.",
+      "Le test : remplacer **être** par **avoir**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Elle s’est lavé les mains », « lavé » est invariable parce que :",
+     "options": [
+      "il est essentiellement pronominal",
+      "le COD est placé après le verbe",
+      "c’est un COI",
+      "il est au pluriel"
+     ],
+     "answer": 1,
+     "explain": "Le COD « les mains » est après le participe : il reste invariable."
+    }
+   ]
+  }
+ ]
+}

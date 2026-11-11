@@ -1,0 +1,191 @@
+{
+ "id": 164,
+ "meta": {
+  "t": "Les homophones : sans, s’en, c’en ; ni, n’y, nie",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Des mots qui se prononcent pareil",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« **Sans** » / « **s’en** » / « **c’en** » et « **ni** » / « **n’y** » / « **nie** » se prononcent de la même façon. Seul le **sens** et des **tests** permettent de bien écrire."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer sans, s’en, c’en",
+      "Distinguer ni, n’y, nie",
+      "Appliquer les tests de remplacement"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Sans, s’en, c’en",
+     "head": [
+      "Mot",
+      "Nature",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "sans",
+       "préposition",
+       "contraire : avec",
+       "Il part **sans** manteau."
+      ],
+      [
+       "s’en",
+       "se + en",
+       "change le sujet : je m’en, tu t’en…",
+       "Il **s’en** va. → Je **m’en** vais."
+      ],
+      [
+       "c’en",
+       "ce + en",
+       "remplace par « cela en »",
+       "**C’en** est trop ! (cela en est trop)"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il part s’en manteau.",
+      "Il part sans manteau.",
+      "Il part c’en manteau.",
+      "Il part sans-en manteau."
+     ],
+     "answer": 1,
+     "explain": "« Sans » (≠ avec) est une préposition."
+    }
+   ]
+  },
+  {
+   "t": "Ni, n’y, nie",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Ni, n’y, nie",
+     "head": [
+      "Mot",
+      "Nature",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "ni",
+       "conjonction de négation",
+       "remplace par « et pas »",
+       "Je ne veux **ni** thé **ni** café."
+      ],
+      [
+       "n’y",
+       "ne + y",
+       "forme « il n’y a » (ne + y)",
+       "Il **n’y** a personne."
+      ],
+      [
+       "nie",
+       "verbe nier",
+       "change le sujet : je nie, tu nies",
+       "Il **nie** les faits."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Tests rapides",
+     "text": "**ni** : répété (ni… ni…) ; **n’y** : « il n’y a pas » ; **nie** : on peut mettre « je » : « je nie »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à choisir."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec sans, s’en ou c’en.",
+     "items": [
+      "Il est parti ____ rien dire.",
+      "Elle ____ est allée.",
+      "____ est fait de lui."
+     ],
+     "corrige": [
+      "1. sans",
+      "2. s’en",
+      "3. C’en"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec ni, n’y ou nie.",
+     "items": [
+      "Il ____ a pas de pain.",
+      "Il ne veut ____ thé ____ café.",
+      "Il ____ tout."
+     ],
+     "corrige": [
+      "1. n’y",
+      "2. ni … ni",
+      "3. nie"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il nie a pas de lait.",
+      "Il n’y a pas de lait.",
+      "Il ni a pas de lait.",
+      "Il n’i a pas de lait."
+     ],
+     "answer": 1,
+     "explain": "« n’y » = ne + y."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Sans** : préposition (contraire de **avec**).",
+      "**S’en** : se + en (« il s’en va »).",
+      "**C’en** : ce + en (« c’en est trop »).",
+      "**Ni** : conjonction de négation (ni… ni…).",
+      "**N’y** : ne + y (« il n’y a »).",
+      "**Nie** : verbe nier (« je nie »)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« C’en est trop » : « c’en » est :",
+     "options": [
+      "sans",
+      "ce + en",
+      "se + en",
+      "ni"
+     ],
+     "answer": 1,
+     "explain": "« C’en » = « cela en » : ce + en."
+    }
+   ]
+  }
+ ]
+}

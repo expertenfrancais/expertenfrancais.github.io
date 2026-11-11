@@ -1,0 +1,202 @@
+{
+ "id": 162,
+ "meta": {
+  "t": "Les valeurs temporelles du présent et de l’imparfait",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le temps et sa valeur",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un même temps verbal peut exprimer plusieurs **valeurs**. Le **présent** n’exprime pas seulement « maintenant » ; l’**imparfait** n’exprime pas seulement le passé. Il faut apprendre à les reconnaître."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître les valeurs du présent de l’indicatif",
+      "Reconnaître les valeurs de l’imparfait",
+      "Choisir le temps adapté à un récit"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Valeur temporelle",
+     "text": "La **valeur** d’un temps est ce qu’il exprime dans la phrase : action actuelle, habitude, vérité générale, description, hypothèse…"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « L’eau bout à 100 °C », le présent exprime :",
+     "options": [
+      "une action en cours",
+      "une vérité générale",
+      "un souvenir",
+      "un futur"
+     ],
+     "answer": 1,
+     "explain": "Le présent de vérité générale décrit un fait toujours vrai."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du présent",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les valeurs du présent",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "moment de la parole",
+       "Je **suis** à la maison."
+      ],
+      [
+       "habitude",
+       "Je **me lève** à six heures."
+      ],
+      [
+       "vérité générale",
+       "La Terre **tourne** autour du Soleil."
+      ],
+      [
+       "narration (présent historique)",
+       "Soudain, la porte **s’ouvre** et il **entre**."
+      ],
+      [
+       "futur proche",
+       "Je **pars** demain."
+      ],
+      [
+       "passé récent",
+       "Il **vient** de sortir."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs de l’imparfait",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les valeurs de l’imparfait",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "description (arrière-plan)",
+       "Il **faisait** nuit et il **pleuvait**."
+      ],
+      [
+       "habitude dans le passé",
+       "Chaque matin, il **allait** à l’école à pied."
+      ],
+      [
+       "action en cours dans le passé",
+       "Je **lisais** quand il est entré."
+      ],
+      [
+       "hypothèse (après si)",
+       "Si j’**avais** le temps, je viendrais."
+      ],
+      [
+       "politesse, atténuation",
+       "Je **voulais** vous demander un service."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Imparfait et passé simple",
+     "text": "L’**imparfait** décrit l’arrière-plan du récit ; le **passé simple** (ou passé composé) raconte les actions principales."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du présent.",
+     "items": [
+      "Chaque matin, je prends le bus.",
+      "Le fer fond à haute température.",
+      "Le train part dans cinq minutes."
+     ],
+     "corrige": [
+      "1. habitude",
+      "2. vérité générale",
+      "3. futur proche"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur de l’imparfait.",
+     "items": [
+      "Il faisait très chaud.",
+      "Si j’avais de l’argent, je voyagerais.",
+      "Chaque soir, elle lisait un conte."
+     ],
+     "corrige": [
+      "1. description",
+      "2. hypothèse",
+      "3. habitude dans le passé"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Soudain, la porte s’ouvre », le présent est :",
+     "options": [
+      "de vérité générale",
+      "de narration",
+      "d’habitude",
+      "de futur proche"
+     ],
+     "answer": 1,
+     "explain": "Le présent de narration rend le récit plus vivant."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **présent** : action actuelle, habitude, vérité générale, narration, futur proche, passé récent.",
+      "L’**imparfait** : description, habitude passée, action en cours, hypothèse, politesse.",
+      "L’imparfait donne l’**arrière-plan** ; le passé simple ou composé, les **actions principales**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Si j’avais le temps, je viendrais » : l’imparfait exprime :",
+     "options": [
+      "une habitude",
+      "une hypothèse",
+      "une description",
+      "la politesse"
+     ],
+     "answer": 1,
+     "explain": "Après « si », l’imparfait exprime une hypothèse."
+    }
+   ]
+  }
+ ]
+}

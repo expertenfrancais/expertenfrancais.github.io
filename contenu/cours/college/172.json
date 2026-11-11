@@ -1,0 +1,239 @@
+{
+ "id": 172,
+ "meta": {
+  "t": "La production d’une lettre privée",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une lettre privée ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une **lettre privée** s’adresse à un **proche** (ami, parent) pour donner des nouvelles, remercier, féliciter ou consoler. Le ton est **familier** ou **courant**, mais la lettre suit une **présentation précise**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les éléments d’une lettre privée",
+      "Respecter la présentation",
+      "Choisir les formules d’appel et de politesse",
+      "Rédiger le contenu en trois parties"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Lettre privée",
+     "text": "Une **lettre privée** est un écrit adressé à une personne que l’on connaît, dans un ton **personnel**. Elle comporte une **présentation matérielle** précise et un **contenu** en paragraphes."
+    },
+    {
+     "type": "quiz",
+     "question": "Une lettre privée s’adresse à :",
+     "options": [
+      "une administration",
+      "un proche",
+      "un inconnu",
+      "un journal"
+     ],
+     "answer": 1,
+     "explain": "La lettre privée est écrite à une personne proche."
+    }
+   ]
+  },
+  {
+   "t": "La présentation de la lettre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les éléments d’une lettre privée",
+     "head": [
+      "Élément",
+      "Place",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "lieu et date",
+       "en haut à droite",
+       "Brazzaville, le 10 novembre 2026"
+      ],
+      [
+       "formule d’appel",
+       "à gauche, sous la date",
+       "Cher Paul,"
+      ],
+      [
+       "introduction",
+       "premier paragraphe",
+       "Je t’écris pour te donner de mes nouvelles."
+      ],
+      [
+       "développement",
+       "corps de la lettre",
+       "Je suis allé à la mer avec mes parents…"
+      ],
+      [
+       "conclusion",
+       "dernier paragraphe",
+       "J’espère te voir bientôt."
+      ],
+      [
+       "formule de politesse",
+       "avant la signature",
+       "Je t’embrasse. / Amitiés."
+      ],
+      [
+       "signature",
+       "en bas à droite",
+       "Marie"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le P.-S.",
+     "text": "On peut ajouter un **P.-S.** (post-scriptum) après la signature pour une information oubliée."
+    }
+   ]
+  },
+  {
+   "t": "Le contenu et le ton",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les trois parties",
+     "head": [
+      "Partie",
+      "Contenu"
+     ],
+     "rows": [
+      [
+       "introduction",
+       "raison de la lettre, salutations, nouvelles du destinataire"
+      ],
+      [
+       "développement",
+       "ce que l’on veut dire : récit, nouvelles, questions, conseils"
+      ],
+      [
+       "conclusion",
+       "vœux, projets, invitation à répondre"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les formules selon le destinataire",
+     "head": [
+      "Destinataire",
+      "Appel",
+      "Politesse"
+     ],
+     "rows": [
+      [
+       "ami",
+       "Cher Paul, Salut Marie,",
+       "Je t’embrasse. Amicalement."
+      ],
+      [
+       "parent",
+       "Chère maman, Cher oncle,",
+       "Je t’embrasse très fort. Affectueusement."
+      ],
+      [
+       "camarade",
+       "Cher camarade,",
+       "À bientôt. Bien à toi."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Même si le ton est familier, on soigne l’orthographe, les phrases et la ponctuation."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à organiser."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remets les éléments de la lettre dans l’ordre.",
+     "items": [
+      "Je t’embrasse. Marie",
+      "Cher Paul,",
+      "Brazzaville, le 10 novembre 2026",
+      "Je t’écris pour te donner de mes nouvelles."
+     ],
+     "corrige": [
+      "1. Brazzaville, le 10 novembre 2026",
+      "2. Cher Paul,",
+      "3. Je t’écris pour te donner de mes nouvelles.",
+      "4. Je t’embrasse. Marie"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis la formule de politesse adaptée à une lettre à ta mère.",
+     "items": [
+      "Veuillez agréer mes salutations distinguées.",
+      "Je t’embrasse très fort.",
+      "Cordialement."
+     ],
+     "corrige": [
+      "Je t’embrasse très fort."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "La date se place :",
+     "options": [
+      "en bas à gauche",
+      "en haut à droite",
+      "au milieu",
+      "après la signature"
+     ],
+     "answer": 1,
+     "explain": "Lieu et date se placent en haut à droite."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Lettre privée = écrit à un **proche**, ton **personnel**.",
+      "Présentation : **lieu et date**, **formule d’appel**, **introduction**, **développement**, **conclusion**, **formule de politesse**, **signature**.",
+      "Choisir des formules adaptées au destinataire (Cher Paul… / Je t’embrasse).",
+      "Soigner l’**orthographe** et la **ponctuation**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle formule de politesse convient à une lettre à un ami ?",
+     "options": [
+      "Veuillez agréer mes salutations",
+      "Amitiés",
+      "Madame, Monsieur",
+      "Cordialement vôtre"
+     ],
+     "answer": 1,
+     "explain": "« Amitiés » convient à un ami."
+    }
+   ]
+  }
+ ]
+}

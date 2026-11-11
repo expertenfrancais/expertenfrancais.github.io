@@ -1,0 +1,211 @@
+{
+ "id": 156,
+ "meta": {
+  "t": "L’hyperbole et la métonymie",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Deux figures de style",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je meurs de faim » ; « Il a bu **un verre** » ; « J’ai lu **du Molière** ». Dans ces expressions, le sens n’est pas à prendre au pied de la lettre : ce sont des **figures de style**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître l’hyperbole et sa valeur",
+      "Reconnaître la métonymie et ses principaux types",
+      "Distinguer la métonymie de la métaphore"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Hyperbole",
+     "text": "L’**hyperbole** est une **exagération** : on dit plus que la réalité pour frapper, insister ou amuser."
+    },
+    {
+     "type": "def",
+     "label": "Métonymie",
+     "text": "La **métonymie** consiste à désigner une chose par un autre mot qui lui est **lié** (par un rapport de contenant, de lieu, d’auteur, de matière…)."
+    },
+    {
+     "type": "quiz",
+     "question": "« Je meurs de faim » est :",
+     "options": [
+      "une métaphore",
+      "une hyperbole",
+      "une métonymie",
+      "une comparaison"
+     ],
+     "answer": 1,
+     "explain": "L’expression exagère : c’est une hyperbole."
+    }
+   ]
+  },
+  {
+   "t": "L’hyperbole",
+   "blocs": [
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Il y avait **un monde fou** au marché.\nJe te l’ai répété **mille fois**.\nElle est **morte de rire**."
+    },
+    {
+     "type": "table",
+     "title": "Les procédés de l’hyperbole",
+     "head": [
+      "Procédé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "mots de sens fort",
+       "C’est **épouvantable**, **magnifique**."
+      ],
+      [
+       "nombres exagérés",
+       "Je t’ai attendu **cent ans**."
+      ],
+      [
+       "comparaisons exagérées",
+       "Il mange **comme quatre**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Effet produit",
+     "text": "L’hyperbole sert à **insister**, à **émouvoir** ou à **faire rire**. Dans un texte sérieux, elle peut aussi **choquer** si elle est trop forte."
+    }
+   ]
+  },
+  {
+   "t": "La métonymie",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les principaux types de métonymie",
+     "head": [
+      "Rapport",
+      "Exemple",
+      "Explication"
+     ],
+     "rows": [
+      [
+       "contenant pour contenu",
+       "Boire **un verre**",
+       "on boit le contenu du verre"
+      ],
+      [
+       "auteur pour œuvre",
+       "Lire **du Molière**",
+       "on lit une pièce de Molière"
+      ],
+      [
+       "lieu pour habitants",
+       "**Brazzaville** a voté",
+       "les habitants de Brazzaville"
+      ],
+      [
+       "matière pour objet",
+       "Le **fer** (épée)",
+       "on désigne l’objet par sa matière"
+      ],
+      [
+       "partie pour le tout",
+       "Une **voile** à l’horizon",
+       "un bateau"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne pas confondre avec la **métaphore** : la métaphore repose sur une **ressemblance**, la métonymie sur un **lien** (contenant/contenu, auteur/œuvre…)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à identifier."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si la figure est une hyperbole (H) ou une métonymie (M).",
+     "items": [
+      "Je boirais bien un verre.",
+      "Il y a un monde fou.",
+      "Elle lit du Hugo.",
+      "Je suis mort de fatigue."
+     ],
+     "corrige": [
+      "1. M (contenant pour contenu)",
+      "2. H",
+      "3. M (auteur pour œuvre)",
+      "4. H"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Remplace par une expression au sens propre.",
+     "items": [
+      "Il a bu une bouteille.",
+      "Les États-Unis ont voté."
+     ],
+     "corrige": [
+      "1. Il a bu le contenu d’une bouteille (du vin, de l’eau…).",
+      "2. Les habitants (ou le gouvernement) des États-Unis ont voté."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il a lu du Voltaire » est une métonymie de type :",
+     "options": [
+      "lieu pour habitants",
+      "auteur pour œuvre",
+      "matière pour objet",
+      "contenant pour contenu"
+     ],
+     "answer": 1,
+     "explain": "On désigne l’œuvre par le nom de son auteur."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**hyperbole** exagère pour insister (« un monde fou »).",
+      "La **métonymie** désigne une chose par un mot qui lui est **lié** : contenant/contenu, auteur/œuvre, lieu/habitants, matière/objet.",
+      "Métonymie ≠ métaphore : **lien** contre **ressemblance**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Une voile à l’horizon » (pour un bateau) est une métonymie de type :",
+     "options": [
+      "auteur pour œuvre",
+      "partie pour le tout",
+      "lieu pour habitants",
+      "matière pour objet"
+     ],
+     "answer": 1,
+     "explain": "On désigne le bateau par une de ses parties : la voile."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "id": 176,
+ "meta": {
+  "t": "Les valeurs modales du subjonctif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le subjonctif : un mode pour exprimer…",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Je veux qu’il **vienne** » ; « Il faut que tu **partes** » ; « Qu’il **soit** heureux ! ». Le **subjonctif** est un mode qui exprime la **volonté**, le **souhait**, le **doute** ou le **sentiment**, plus que la certitude."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Former le subjonctif présent",
+      "Reconnaître ses valeurs",
+      "Savoir après quels verbes et conjonctions l’employer",
+      "Éviter les erreurs avec espérer, penser, croire"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Subjonctif",
+     "text": "Le **subjonctif** est un mode qui présente l’action comme **voulue**, **souhaitée**, **crainte** ou **douteuse**. Il s’emploie souvent dans une **subordonnée**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est au subjonctif présent ?",
+     "options": [
+      "il vient",
+      "qu’il vienne",
+      "il viendra",
+      "il venait"
+     ],
+     "answer": 1,
+     "explain": "« Qu’il vienne » est au subjonctif présent."
+    }
+   ]
+  },
+  {
+   "t": "La formation du subjonctif présent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On prend le radical de la **3e personne du pluriel** du présent (« ils finiss-ent ») et on ajoute **-e, -es, -e, -ions, -iez, -ent**."
+    },
+    {
+     "type": "table",
+     "title": "Subjonctif présent",
+     "head": [
+      "Verbe",
+      "que je",
+      "que nous"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chante",
+       "chantions"
+      ],
+      [
+       "finir",
+       "finisse",
+       "finissions"
+      ],
+      [
+       "partir",
+       "parte",
+       "partions"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Verbes irréguliers",
+     "head": [
+      "Verbe",
+      "que je / qu’il",
+      "que nous"
+     ],
+     "rows": [
+      [
+       "être",
+       "sois / soit",
+       "soyons"
+      ],
+      [
+       "avoir",
+       "aie / ait",
+       "ayons"
+      ],
+      [
+       "aller",
+       "aille",
+       "allions"
+      ],
+      [
+       "faire",
+       "fasse",
+       "fassions"
+      ],
+      [
+       "pouvoir",
+       "puisse",
+       "puissions"
+      ],
+      [
+       "savoir",
+       "sache",
+       "sachions"
+      ],
+      [
+       "vouloir",
+       "veuille",
+       "voulions"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Reconnaître",
+     "text": "Le subjonctif est souvent précédé de **que** : « que je sois », « qu’il fasse »."
+    }
+   ]
+  },
+  {
+   "t": "Les valeurs du subjonctif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les valeurs du subjonctif",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "souhait, ordre (indépendante)",
+       "**Qu’il vienne** ! / **Que** la paix **revienne** !"
+      ],
+      [
+       "volonté",
+       "Je veux **qu’il vienne**."
+      ],
+      [
+       "nécessité",
+       "Il faut **que tu partes**."
+      ],
+      [
+       "sentiment",
+       "Je suis heureux **qu’il soit** là."
+      ],
+      [
+       "doute",
+       "Je doute **qu’il vienne**."
+      ],
+      [
+       "hypothèse, concession",
+       "**Qu’il pleuve ou qu’il vente**, je sortirai."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Après quelles conjonctions ?",
+     "head": [
+      "Conjonctions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "avant que, jusqu’à ce que, pour que, afin que, bien que, quoique, à condition que, sans que",
+       "Reste **jusqu’à ce que** je **revienne**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Subjonctif ou indicatif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après certains verbes, on emploie l’**indicatif** et non le subjonctif, quand le fait est **certain**."
+    },
+    {
+     "type": "table",
+     "title": "Indicatif ou subjonctif ?",
+     "head": [
+      "Indicatif (certitude)",
+      "Subjonctif (doute, volonté)"
+     ],
+     "rows": [
+      [
+       "Je pense **qu’il viendra**.",
+       "Je ne pense pas **qu’il vienne**."
+      ],
+      [
+       "J’espère **qu’il viendra**.",
+       "Je souhaite **qu’il vienne**."
+      ],
+      [
+       "Je sais **que tu as raison**.",
+       "Il faut **que tu aies** raison."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "**Espérer** et **penser** (à la forme affirmative) sont suivis de l’**indicatif** : « J’espère qu’il **viendra** » (et non « qu’il vienne »)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à conjuguer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au subjonctif présent.",
+     "items": [
+      "Il faut que tu (finir) tes devoirs.",
+      "Je veux qu’il (venir).",
+      "Il faut que nous (aller) à l’école.",
+      "Je doute qu’elle (savoir) la réponse."
+     ],
+     "corrige": [
+      "1. finisses",
+      "2. vienne",
+      "3. allions",
+      "4. sache"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis le mode (indicatif ou subjonctif).",
+     "items": [
+      "J’espère qu’il (venir) demain.",
+      "Je ne crois pas qu’il (venir).",
+      "Il faut que tu (être) à l’heure."
+     ],
+     "corrige": [
+      "1. viendra (indicatif)",
+      "2. vienne (subjonctif)",
+      "3. sois (subjonctif)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Après « j’espère que », le verbe se met :",
+     "options": [
+      "au subjonctif",
+      "à l’indicatif",
+      "au conditionnel",
+      "à l’impératif"
+     ],
+     "answer": 1,
+     "explain": "« Espérer » (affirmatif) est suivi de l’indicatif."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Subjonctif présent = radical de « ils » + **-e, -es, -e, -ions, -iez, -ent**.",
+      "Irréguliers : **sois, aie, aille, fasse, puisse, sache, veuille**.",
+      "Valeurs : **souhait, volonté, nécessité, sentiment, doute, hypothèse**.",
+      "**Espérer / penser** (affirmatif) : **indicatif** ; **ne pas penser / douter** : **subjonctif**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le subjonctif présent de « être » (que je) ?",
+     "options": [
+      "que je suis",
+      "que je sois",
+      "que je serai",
+      "que j’étais"
+     ],
+     "answer": 1,
+     "explain": "Que je sois."
+    }
+   ]
+  }
+ ]
+}

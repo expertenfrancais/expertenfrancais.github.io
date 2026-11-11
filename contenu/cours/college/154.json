@@ -1,0 +1,254 @@
+{
+ "id": 154,
+ "meta": {
+  "t": "Les degrés de qualification",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que les degrés de qualification ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il est **grand** », « Il est **plus grand** que son frère », « Il est **très grand** » : la qualité exprimée par l’adjectif (ou l’adverbe) n’est pas toujours de la même intensité. Les **degrés de qualification** permettent de l’exprimer."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer les degrés relatifs et les degrés absolus",
+      "Former le comparatif et le superlatif",
+      "Employer les formes particulières (meilleur, mieux, pire…)",
+      "Éviter les fautes courantes (« plus meilleur »)"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Degrés de qualification",
+     "text": "Les **degrés de qualification** indiquent l’**intensité** d’une qualité. On distingue le degré **relatif** (par comparaison) et le degré **absolu** (sans comparaison)."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "Marie est **plus grande que** Paul. (relatif)\nMarie est **très grande**. (absolu)"
+    },
+    {
+     "type": "quiz",
+     "question": "« Il est très gentil » exprime un degré :",
+     "options": [
+      "relatif de supériorité",
+      "absolu",
+      "relatif d’infériorité",
+      "relatif d’égalité"
+     ],
+     "answer": 1,
+     "explain": "« Très » exprime l’intensité sans comparaison : c’est un degré absolu."
+    }
+   ]
+  },
+  {
+   "t": "Les degrés relatifs",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le degré **relatif** compare une qualité à celle d’une autre personne ou chose. Il comprend le **comparatif** et le **superlatif relatif**."
+    },
+    {
+     "type": "table",
+     "title": "Le comparatif",
+     "head": [
+      "Rapport",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "supériorité",
+       "plus … (que)",
+       "Il est **plus** rapide **que** moi."
+      ],
+      [
+       "égalité",
+       "aussi … (que)",
+       "Elle est **aussi** grande **que** lui."
+      ],
+      [
+       "infériorité",
+       "moins … (que)",
+       "Ce livre est **moins** long **que** l’autre."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le superlatif relatif",
+     "head": [
+      "Rapport",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "supériorité",
+       "le plus, la plus, les plus",
+       "C’est **le plus** grand de la classe."
+      ],
+      [
+       "infériorité",
+       "le moins, la moins, les moins",
+       "C’est **la moins** chère de la boutique."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le complément",
+     "text": "Le **comparatif** a un complément introduit par **que** ; le **superlatif** a un complément introduit par **de** (ou **parmi**)."
+    }
+   ]
+  },
+  {
+   "t": "Les degrés absolus et les formes particulières",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les degrés absolus",
+     "head": [
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "très, fort, bien, tout à fait, extrêmement, infiniment, si",
+       "Elle est **extrêmement** polie. / Il est **fort** aimable."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Certains adjectifs et adverbes ont des **formes particulières** au comparatif et au superlatif."
+    },
+    {
+     "type": "table",
+     "title": "Les formes particulières",
+     "head": [
+      "Mot",
+      "Comparatif de supériorité",
+      "Superlatif"
+     ],
+     "rows": [
+      [
+       "bon",
+       "meilleur",
+       "le meilleur"
+      ],
+      [
+       "bien (adverbe)",
+       "mieux",
+       "le mieux"
+      ],
+      [
+       "mauvais",
+       "plus mauvais / pire",
+       "le plus mauvais / le pire"
+      ],
+      [
+       "petit",
+       "plus petit / moindre",
+       "le plus petit / le moindre"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "On ne dit pas « plus meilleur » ni « plus mieux » : « meilleur » et « mieux » contiennent déjà l’idée de « plus bon » et « plus bien ». On dit « **aussi bon** », « **moins bon** » mais « **meilleur** »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître et à employer les degrés."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le degré est relatif ou absolu.",
+     "items": [
+      "Ce film est très intéressant.",
+      "Elle est plus rapide que lui.",
+      "Il est extrêmement aimable.",
+      "C’est la plus belle maison du quartier."
+     ],
+     "corrige": [
+      "1. absolu (très)",
+      "2. relatif, comparatif de supériorité",
+      "3. absolu (extrêmement)",
+      "4. relatif, superlatif de supériorité"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec la forme qui convient (meilleur, mieux, pire).",
+     "items": [
+      "Ce gâteau est ____ que l’autre.",
+      "Il chante ____ que moi.",
+      "C’est le ____ élève de la classe (≠ meilleur).",
+      "Ce devoir est ____ que le précédent (≠ meilleur)."
+     ],
+     "corrige": [
+      "1. meilleur",
+      "2. mieux",
+      "3. pire (ou « plus mauvais »)",
+      "4. pire (ou « plus mauvais »)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il est plus meilleur que moi.",
+      "Il est meilleur que moi.",
+      "Il est plus mieux que moi.",
+      "Il est aussi meilleur que moi."
+     ],
+     "answer": 1,
+     "explain": "On dit « meilleur que » sans « plus »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le degré **absolu** exprime l’intensité sans comparaison : **très, fort, extrêmement…**",
+      "Le degré **relatif** compare : **comparatif** (plus, aussi, moins … que) et **superlatif** (le plus, le moins … de).",
+      "Formes particulières : **bon → meilleur**, **bien → mieux**, **mauvais → pire**, **petit → moindre**.",
+      "Pas de « plus meilleur » ni « plus mieux »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le comparatif de supériorité de « bon » ?",
+     "options": [
+      "plus bon",
+      "meilleur",
+      "mieux",
+      "très bon"
+     ],
+     "answer": 1,
+     "explain": "« Bon » donne « meilleur »."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "id": 167,
+ "meta": {
+  "t": "L’accord du participe passé à la voix passive",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le participe passé à la voix passive",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« La porte **est fermée** », « Les élèves **ont été punis** », « Elles **seront invitées** » : à la voix passive, le verbe se forme avec **être** + participe passé. Comment accorde-t-on ce participe ?"
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la voix passive",
+      "Accorder le participe passé avec le sujet",
+      "Repérer le participe « été » (invariable)",
+      "Distinguer le passif de l’attribut"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Règle",
+     "text": "À la **voix passive**, le participe passé s’accorde en **genre** et en **nombre** avec le **sujet** du verbe : « Les lettres sont **écrites** par Paul. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les élèves sont punis », « punis » s’accorde avec :",
+     "options": [
+      "le COD",
+      "le sujet « élèves »",
+      "le complément d’agent",
+      "rien"
+     ],
+     "answer": 1,
+     "explain": "À la voix passive, le participe s’accorde avec le sujet."
+    }
+   ]
+  },
+  {
+   "t": "Les différents temps",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Accord à tous les temps",
+     "head": [
+      "Temps",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "Les fleurs sont **cueillies**."
+      ],
+      [
+       "imparfait",
+       "Elle était **invitée**."
+      ],
+      [
+       "passé composé",
+       "Les lettres ont été **écrites**."
+      ],
+      [
+       "futur",
+       "Ils seront **félicités**."
+      ],
+      [
+       "plus-que-parfait",
+       "La maison avait été **vendue**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "« Été » est invariable",
+     "text": "Aux temps composés du passif, **été** (participe passé d’être) ne change jamais : « Elles ont **été** invitées ». Seul le **second** participe s’accorde."
+    },
+    {
+     "type": "ex",
+     "label": "Comparer",
+     "text": "Elles ont **été** vues. (été invariable, vues accordé)"
+    }
+   ]
+  },
+  {
+   "t": "Passif ou attribut ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ne pas confondre le **passif** (qui a un **complément d’agent** possible) et l’**attribut** (qui exprime un état)."
+    },
+    {
+     "type": "table",
+     "title": "Passif ou attribut ?",
+     "head": [
+      "Phrase",
+      "Nature",
+      "Test"
+     ],
+     "rows": [
+      [
+       "La porte est fermée par le gardien.",
+       "passif",
+       "on peut ajouter « par le gardien »"
+      ],
+      [
+       "La porte est fermée (état, elle n’est pas ouverte).",
+       "attribut",
+       "exprime un état"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Dans tous les cas",
+     "text": "Le participe passé **s’accorde avec le sujet** : l’accord est le même que ce soit un passif ou un attribut."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à accorder."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé entre parenthèses.",
+     "items": [
+      "Les lettres ont été (écrire) hier.",
+      "Elles seront (inviter) à la fête.",
+      "La maison est (vendre).",
+      "Les fenêtres étaient (fermer)."
+     ],
+     "corrige": [
+      "1. écrites",
+      "2. invitées",
+      "3. vendue",
+      "4. fermées"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elles ont étées invitées.",
+      "Elles ont été invitées.",
+      "Elles ont été invité.",
+      "Elles ont étés invitées."
+     ],
+     "answer": 1,
+     "explain": "« été » est invariable ; « invitées » s’accorde avec « elles »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "À la voix passive, le participe passé s’accorde avec le **sujet**.",
+      "**Été** est toujours invariable.",
+      "Passif et attribut suivent la même règle d’accord.",
+      "Voix passive = **être** (au même temps) + **participe passé**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La maison a été vendue », « vendue » s’accorde avec :",
+     "options": [
+      "maison",
+      "été",
+      "a",
+      "rien"
+     ],
+     "answer": 0,
+     "explain": "« vendue » s’accorde avec le sujet « maison »."
+    }
+   ]
+  }
+ ]
+}

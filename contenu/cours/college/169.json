@@ -1,0 +1,198 @@
+{
+ "id": 169,
+ "meta": {
+  "t": "Le genre dramatique",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que le théâtre ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **genre dramatique** regroupe les œuvres écrites pour être **jouées sur scène** par des acteurs devant un public. Le texte d’une pièce de théâtre est fait de **dialogues** et d’**indications** pour la mise en scène."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir le genre dramatique",
+      "Reconnaître répliques, didascalies, actes et scènes",
+      "Distinguer tirade, monologue et aparté",
+      "Connaître les grands genres théâtraux"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Théâtre",
+     "text": "Une **pièce de théâtre** est un texte destiné à être **représenté**. Elle est composée de **répliques** (paroles des personnages) et de **didascalies** (indications scéniques)."
+    },
+    {
+     "type": "quiz",
+     "question": "Une pièce de théâtre est destinée à être :",
+     "options": [
+      "lue en silence seulement",
+      "jouée sur scène",
+      "chantée",
+      "dessinée"
+     ],
+     "answer": 1,
+     "explain": "Le théâtre est écrit pour être joué devant un public."
+    }
+   ]
+  },
+  {
+   "t": "La structure d’une pièce",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le vocabulaire du théâtre",
+     "head": [
+      "Mot",
+      "Définition"
+     ],
+     "rows": [
+      [
+       "acte",
+       "grande division d’une pièce"
+      ],
+      [
+       "scène",
+       "division d’un acte, délimitée par l’entrée ou la sortie d’un personnage"
+      ],
+      [
+       "réplique",
+       "ce que dit un personnage avant que l’autre ne réponde"
+      ],
+      [
+       "didascalie",
+       "indication de jeu, de décor, de ton (souvent en italique ou entre parenthèses)"
+      ],
+      [
+       "tirade",
+       "longue réplique d’un personnage"
+      ],
+      [
+       "monologue",
+       "un personnage parle seul (ou comme s’il était seul)"
+      ],
+      [
+       "aparté",
+       "un personnage parle à voix basse, le public seul l’entend"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Double énonciation",
+     "text": "Au théâtre, les personnages parlent **entre eux** mais aussi **pour le public** : c’est la double énonciation."
+    }
+   ]
+  },
+  {
+   "t": "Les genres du théâtre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les principaux genres",
+     "head": [
+      "Genre",
+      "Caractéristique"
+     ],
+     "rows": [
+      [
+       "tragédie",
+       "sujet grave, issue souvent fatale, personnages nobles"
+      ],
+      [
+       "comédie",
+       "sujet léger, fait rire, dénouement heureux"
+      ],
+      [
+       "drame",
+       "mélange de grave et de comique, personnages divers"
+      ],
+      [
+       "tragi-comédie",
+       "mélange de tragique et de comique, fin heureuse"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple de didascalie",
+     "text": "(*Il entre en courant, essoufflé.*)\nLE MESSAGER : Seigneur, l’ennemi approche !"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à reconnaître."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Associe chaque définition à son terme (acte, didascalie, monologue, aparté).",
+     "items": [
+      "Indication sur le décor ou le ton.",
+      "Un personnage parle seul.",
+      "Division principale d’une pièce.",
+      "Le personnage parle à voix basse pour le public."
+     ],
+     "corrige": [
+      "1. didascalie",
+      "2. monologue",
+      "3. acte",
+      "4. aparté"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Une longue réplique d’un personnage est :",
+     "options": [
+      "une scène",
+      "une tirade",
+      "un acte",
+      "une didascalie"
+     ],
+     "answer": 1,
+     "explain": "Une tirade est une longue réplique."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **théâtre** est écrit pour être **joué**.",
+      "Un texte de théâtre = **répliques** + **didascalies**.",
+      "Une pièce est divisée en **actes** et en **scènes**.",
+      "**Tirade** (longue réplique), **monologue** (seul), **aparté** (à voix basse).",
+      "Genres : **tragédie, comédie, drame**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans une pièce, les didascalies servent à :",
+     "options": [
+      "faire rire",
+      "donner des indications de jeu et de décor",
+      "résumer l’histoire",
+      "signer la pièce"
+     ],
+     "answer": 1,
+     "explain": "Elles précisent le décor, les gestes et le ton."
+    }
+   ]
+  }
+ ]
+}

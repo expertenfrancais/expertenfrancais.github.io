@@ -1,0 +1,267 @@
+{
+ "id": 163,
+ "meta": {
+  "t": "Les valeurs du passé simple et du futur simple",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Deux temps de l’indicatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **passé simple** raconte des actions achevées dans le passé ; le **futur simple** exprime ce qui arrivera. Chacun a des valeurs particulières."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître et former le passé simple",
+      "Reconnaître et former le futur simple",
+      "Connaître leurs valeurs",
+      "Éviter les confusions de terminaisons"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Passé simple",
+     "text": "Le **passé simple** exprime une action **ponctuelle** et **terminée**, au **premier plan** du récit écrit."
+    },
+    {
+     "type": "def",
+     "label": "Futur simple",
+     "text": "Le **futur simple** exprime une action à **venir**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il ouvrit la porte et entra », « ouvrit » est au :",
+     "options": [
+      "présent",
+      "imparfait",
+      "passé simple",
+      "futur simple"
+     ],
+     "answer": 2,
+     "explain": "« ouvrit » est au passé simple."
+    }
+   ]
+  },
+  {
+   "t": "Le passé simple",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les terminaisons du passé simple",
+     "head": [
+      "Groupe",
+      "Terminaisons",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "1er groupe",
+       "-ai, -as, -a, -âmes, -âtes, -èrent",
+       "il chant**a**, ils chant**èrent**"
+      ],
+      [
+       "2e groupe",
+       "-is, -is, -it, -îmes, -îtes, -irent",
+       "il fin**it**, ils fin**irent**"
+      ],
+      [
+       "3e groupe",
+       "-s ou -us ou -ins ; -it ou -ut ou -int",
+       "il fit, il eut, il vint"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du passé simple",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "action ponctuelle",
+       "Soudain, il **se leva**."
+      ],
+      [
+       "succession d’actions",
+       "Il **entra**, **posa** son sac et **sortit**."
+      ],
+      [
+       "premier plan",
+       "Il faisait nuit (imparfait) ; elle **frappa** à la porte (passé simple)."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Surtout à l’écrit",
+     "text": "Le passé simple s’emploie surtout à l’**écrit** (contes, romans) et à la **3e personne**."
+    }
+   ]
+  },
+  {
+   "t": "Le futur simple",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le futur simple : formation",
+     "head": [
+      "Infinitif",
+      "Futur"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "je chanterai"
+      ],
+      [
+       "finir",
+       "je finirai"
+      ],
+      [
+       "être",
+       "je serai"
+      ],
+      [
+       "avoir",
+       "j’aurai"
+      ],
+      [
+       "aller",
+       "j’irai"
+      ],
+      [
+       "faire",
+       "je ferai"
+      ],
+      [
+       "pouvoir",
+       "je pourrai"
+      ],
+      [
+       "voir",
+       "je verrai"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs du futur simple",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "action à venir",
+       "Demain, nous **partirons**."
+      ],
+      [
+       "ordre atténué",
+       "Tu **iras** chercher le pain."
+      ],
+      [
+       "probabilité",
+       "Il **sera** encore en retard."
+      ],
+      [
+       "vérité à venir",
+       "L’an prochain, j’**aurai** quinze ans."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Futur ou conditionnel ?",
+     "text": "À la 1re personne : « je chanter**ai** » (futur) / « je chanter**ais** » (conditionnel)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à conjuguer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au passé simple.",
+     "items": [
+      "Il (ouvrir) la porte.",
+      "Ils (chanter) une chanson.",
+      "Elle (finir) son travail."
+     ],
+     "corrige": [
+      "1. ouvrit",
+      "2. chantèrent",
+      "3. finit"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets au futur simple.",
+     "items": [
+      "Demain, je (aller) à la mer.",
+      "Tu (pouvoir) venir.",
+      "Nous (être) là."
+     ],
+     "corrige": [
+      "1. irai",
+      "2. pourras",
+      "3. serons"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est au futur simple ?",
+     "options": [
+      "il chanterait",
+      "il chantera",
+      "il chanta",
+      "il chantait"
+     ],
+     "answer": 1,
+     "explain": "« chantera » est au futur simple."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Passé simple** : action ponctuelle, achevée, au premier plan du récit écrit.",
+      "1er groupe : **-ai, -as, -a, -âmes, -âtes, -èrent**.",
+      "**Futur simple** : action à venir, ordre atténué, probabilité.",
+      "Futurs irréguliers : **serai, aurai, irai, ferai, pourrai, verrai**.",
+      "Futur **-rai** ≠ conditionnel **-rais**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est au passé simple ?",
+     "options": [
+      "il sortait",
+      "il sortira",
+      "il sortit",
+      "il sortirait"
+     ],
+     "answer": 2,
+     "explain": "« sortit » est au passé simple."
+    }
+   ]
+  }
+ ]
+}

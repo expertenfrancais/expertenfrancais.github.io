@@ -1,0 +1,196 @@
+{
+ "id": 186,
+ "meta": {
+  "t": "Le vocabulaire fondamental : les loisirs",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Parler du thème",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **loisirs** sont les activités que l’on pratique pendant son temps libre, pour se détendre, se distraire ou apprendre."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les mots essentiels du thème",
+      "Employer des verbes et expressions adaptés",
+      "Les utiliser dans des phrases"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Loisirs",
+     "text": "Les **loisirs** sont les activités choisies que l’on pratique dans son **temps libre** pour le plaisir."
+    },
+    {
+     "type": "quiz",
+     "question": "Les loisirs se pratiquent :",
+     "options": [
+      "pendant le travail",
+      "dans le temps libre",
+      "seulement le soir",
+      "sans plaisir"
+     ],
+     "answer": 1,
+     "explain": "Les loisirs occupent le temps libre."
+    }
+   ]
+  },
+  {
+   "t": "Les mots essentiels",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le vocabulaire des loisirs",
+     "head": [
+      "Domaine",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "culture",
+       "lecture, musique, cinéma, théâtre, danse, spectacle"
+      ],
+      [
+       "jeux",
+       "jeu de société, échecs, cartes, jeu vidéo"
+      ],
+      [
+       "activités manuelles",
+       "bricolage, couture, dessin, jardinage, collection"
+      ],
+      [
+       "plein air",
+       "randonnée, pêche, promenade, camping"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes et les expressions",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les verbes des loisirs",
+     "head": [
+      "Verbe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "se distraire",
+       "Il **se distrait** en jouant."
+      ],
+      [
+       "se détendre",
+       "Elle **se détend** en lisant."
+      ],
+      [
+       "s’amuser",
+       "Les enfants **s’amusent**."
+      ],
+      [
+       "pratiquer",
+       "Il **pratique** la danse."
+      ],
+      [
+       "collectionner",
+       "Elle **collectionne** des timbres."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques mots",
+     "head": [
+      "Mot",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "passe-temps",
+       "activité pour occuper son temps"
+      ],
+      [
+       "divertissement",
+       "activité qui amuse"
+      ],
+      [
+       "amateur",
+       "personne qui pratique par plaisir"
+      ],
+      [
+       "passionné",
+       "très attiré par une activité"
+      ],
+      [
+       "club",
+       "association de loisirs"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à employer les mots."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète (passe-temps, spectacle, détendre, collectionner).",
+     "items": [
+      "Le dessin est mon ____ préféré.",
+      "Nous allons voir un ____ de danse.",
+      "Elle aime ____ des timbres.",
+      "Je lis pour me ____."
+     ],
+     "corrige": [
+      "1. passe-temps",
+      "2. spectacle",
+      "3. collectionner",
+      "4. détendre"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les **loisirs** : activités du **temps libre**.",
+      "Domaines : **culture, jeux, activités manuelles, plein air**.",
+      "Verbes : **se distraire, se détendre, s’amuser, pratiquer, collectionner**.",
+      "Mots : **passe-temps, divertissement, amateur, passionné**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un passionné est quelqu’un qui :",
+     "options": [
+      "déteste son activité",
+      "est très attiré par son activité",
+      "ne pratique jamais",
+      "travaille beaucoup"
+     ],
+     "answer": 1,
+     "explain": "Un passionné aime beaucoup son activité."
+    }
+   ]
+  }
+ ]
+}

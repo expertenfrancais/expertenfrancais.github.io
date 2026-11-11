@@ -1,0 +1,255 @@
+{
+ "id": 152,
+ "meta": {
+  "t": "La prise de notes",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Pourquoi prendre des notes ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Écouter un cours, lire un texte ou assister à une conférence : on ne peut pas tout retenir. **Prendre des notes** permet de **garder l’essentiel**, de **mieux comprendre** et de **réviser** plus tard."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Comprendre le but de la prise de notes",
+      "Repérer les idées essentielles et les mots-clés",
+      "Utiliser abréviations et symboles",
+      "Organiser et relire ses notes"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Prise de notes",
+     "text": "La **prise de notes** consiste à écrire, de façon **brève** et **organisée**, les **idées essentielles** d’un message oral ou écrit, pour pouvoir les relire et les réutiliser."
+    },
+    {
+     "type": "tip",
+     "label": "Notes ≠ copie",
+     "text": "On ne **recopie pas** tout : on **sélectionne**, on **abrège** et on **reformule** avec ses propres mots."
+    },
+    {
+     "type": "quiz",
+     "question": "Prendre des notes, c’est :",
+     "options": [
+      "tout recopier",
+      "noter l’essentiel de façon brève",
+      "résumer à la fin seulement",
+      "apprendre par cœur"
+     ],
+     "answer": 1,
+     "explain": "On ne note que les idées essentielles, de façon brève et organisée."
+    }
+   ]
+  },
+  {
+   "t": "Repérer l’essentiel",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant de noter, il faut **comprendre**. Écoute ou lis **sans écrire** une première fois, puis repère les **mots-clés** et les **idées principales**."
+    },
+    {
+     "type": "table",
+     "title": "Que noter ? Que laisser ?",
+     "head": [
+      "À noter",
+      "À laisser"
+     ],
+     "rows": [
+      [
+       "idées principales, définitions, dates, noms, chiffres, exemples-clés",
+       "répétitions, détails inutiles, mots de liaison trop nombreux, formules de politesse"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "label": "Méthode",
+     "items": [
+      "Écouter attentivement (ou lire en entier)",
+      "Trouver le **thème** et le plan",
+      "Repérer les **mots-clés** (noms, verbes, chiffres)",
+      "Noter ce qui est **nouveau** ou **important**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Abréger et utiliser des symboles",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour écrire vite, on supprime les mots **inutiles** (articles, mots outils), on emploie des **abréviations** et des **symboles**. Ils doivent être **compréhensibles** pour toi."
+    },
+    {
+     "type": "table",
+     "title": "Abréviations et symboles courants",
+     "head": [
+      "Signe",
+      "Signification"
+     ],
+     "rows": [
+      [
+       "→ ou ⇒",
+       "donc, entraîne, conduit à"
+      ],
+      [
+       "=",
+       "égal, signifie"
+      ],
+      [
+       "≠",
+       "différent de, contraire"
+      ],
+      [
+       "+ / −",
+       "plus, avantage / moins, inconvénient"
+      ],
+      [
+       "↑ / ↓",
+       "augmente / diminue"
+      ],
+      [
+       "qqch, qqn",
+       "quelque chose, quelqu’un"
+      ],
+      [
+       "ex.",
+       "exemple"
+      ],
+      [
+       "càd",
+       "c’est-à-dire"
+      ],
+      [
+       "cf.",
+       "voir (confer)"
+      ],
+      [
+       "nb",
+       "remarque (nota bene)"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Exemple de transformation",
+     "text": "Phrase : « La pollution de l’air augmente à cause de la circulation. »\nNotes : **pollution air ↑ ← circulation**."
+    }
+   ]
+  },
+  {
+   "t": "Organiser ses notes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Des notes bien **présentées** sont plus faciles à relire : utilise des **titres**, des **numéros**, des **retraits** (alinéas) et le **soulignage**."
+    },
+    {
+     "type": "list",
+     "label": "Une bonne présentation",
+     "items": [
+      "Écris le **titre** et la **date**",
+      "Utilise des **numéros** ou des **tirets** pour les idées",
+      "Laisse des **marges** pour compléter",
+      "Souligne les **mots-clés**",
+      "Passe une **ligne** entre deux grandes idées"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Relire dans les 24 heures",
+     "text": "Relis tes notes **le jour même** ou le lendemain, complète-les et reformule les passages obscurs : elles resteront utiles."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à prendre des notes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase en notes (mots-clés, abréviations).",
+     "items": [
+      "Le réchauffement climatique entraîne la fonte des glaciers.",
+      "La lecture développe l’imagination et enrichit le vocabulaire.",
+      "Le chômage des jeunes augmente car les emplois diminuent."
+     ],
+     "corrige": [
+      "1. Réchauffement climatique → fonte glaciers",
+      "2. Lecture → imagination ↑, vocabulaire ↑",
+      "3. Chômage jeunes ↑ ← emplois ↓"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la signification de ces abréviations.",
+     "items": [
+      "qqn",
+      "càd",
+      "↑",
+      "ex."
+     ],
+     "corrige": [
+      "1. quelqu’un",
+      "2. c’est-à-dire",
+      "3. augmente",
+      "4. exemple"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans les notes, le signe « → » signifie :",
+     "options": [
+      "différent de",
+      "donc, conduit à",
+      "plus",
+      "exemple"
+     ],
+     "answer": 1,
+     "explain": "La flèche indique une conséquence ou un lien logique."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Prendre des notes** = garder l’**essentiel** de façon **brève** et **organisée**.",
+      "Repérer les **mots-clés** et les **idées principales** avant d’écrire.",
+      "Supprimer les mots inutiles, utiliser **abréviations** et **symboles**.",
+      "Organiser : **titre, numéros, retraits, soulignage**.",
+      "Relire et compléter ses notes **rapidement**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle note résume le mieux « Le tabac provoque de graves maladies » ?",
+     "options": [
+      "Le tabac provoque de graves maladies",
+      "Tabac → maladies graves",
+      "Tabac, graves, maladies, provoque",
+      "Le tabac est mauvais"
+     ],
+     "answer": 1,
+     "explain": "« Tabac → maladies graves » garde l’essentiel avec un symbole."
+    }
+   ]
+  }
+ ]
+}

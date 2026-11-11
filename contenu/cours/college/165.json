@@ -1,0 +1,215 @@
+{
+ "id": 165,
+ "meta": {
+  "t": "Les homophones : davantage / d’avantages, aussitôt / aussi tôt, parce que / par ce que",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Trois couples d’homophones",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Davantage** et **d’avantages**, **aussitôt** et **aussi tôt**, **parce que** et **par ce que** se prononcent de la même manière. Il faut comprendre le sens pour écrire correctement."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer davantage et d’avantages",
+      "Distinguer aussitôt et aussi tôt",
+      "Distinguer parce que et par ce que"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Davantage / d’avantages",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "davantage",
+       "adverbe : plus",
+       "Travaille **davantage**."
+      ],
+      [
+       "d’avantages",
+       "de + avantages (nom)",
+       "Il y a plus **d’avantages** que d’inconvénients."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il faut travailler davantage », « davantage » est :",
+     "options": [
+      "un adverbe (plus)",
+      "un nom pluriel",
+      "une préposition",
+      "un verbe"
+     ],
+     "answer": 0,
+     "explain": "« davantage » = plus."
+    }
+   ]
+  },
+  {
+   "t": "Aussitôt ou aussi tôt ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Aussitôt / aussi tôt",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "aussitôt",
+       "immédiatement, dès que",
+       "remplace par « tout de suite »",
+       "Il est parti **aussitôt**."
+      ],
+      [
+       "aussi tôt",
+       "aussi de bonne heure",
+       "contraire : aussi tard",
+       "Je ne pensais pas arriver **aussi tôt**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Comparer",
+     "text": "Il est arrivé **aussitôt** après moi. (tout de suite)\nJe me lève **aussi tôt** que toi. (≠ aussi tard)"
+    }
+   ]
+  },
+  {
+   "t": "Parce que ou par ce que ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Parce que / par ce que",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "parce que",
+       "conjonction de cause",
+       "remplace par « car »",
+       "Il pleure **parce qu’**il est triste."
+      ],
+      [
+       "par ce que",
+       "par + ce que (« par la chose que »)",
+       "remplace par « par cela que »",
+       "Je suis surpris **par ce que** tu dis."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le réflexe",
+     "text": "En réponse à **pourquoi ?**, on écrit **parce que** : « Pourquoi pleures-tu ? **Parce que** j’ai mal. »"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à choisir."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec davantage ou d’avantages.",
+     "items": [
+      "Il faut lire ____.",
+      "Ce métier offre beaucoup ____."
+     ],
+     "corrige": [
+      "1. davantage",
+      "2. d’avantages"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec aussitôt ou aussi tôt.",
+     "items": [
+      "Il est reparti ____.",
+      "Je ne pensais pas qu’il viendrait ____."
+     ],
+     "corrige": [
+      "1. aussitôt",
+      "2. aussi tôt"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec parce que ou par ce que.",
+     "items": [
+      "Il est content ____ il a réussi.",
+      "Je suis surpris ____ tu as dit."
+     ],
+     "corrige": [
+      "1. parce qu’",
+      "2. par ce que"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il pleure par ce qu’il a mal.",
+      "Il pleure parce qu’il a mal.",
+      "Il pleure par ce qu’il à mal.",
+      "Il pleure parcequ’il a mal."
+     ],
+     "answer": 1,
+     "explain": "« parce que » exprime la cause (= car)."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Davantage** = plus ; **d’avantages** = de + avantages.",
+      "**Aussitôt** = tout de suite ; **aussi tôt** = aussi de bonne heure (≠ aussi tard).",
+      "**Parce que** = car (cause) ; **par ce que** = par la chose que."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il est arrivé aussitôt » signifie :",
+     "options": [
+      "tout de suite",
+      "très tard",
+      "aussi tôt que moi",
+      "peu après"
+     ],
+     "answer": 0,
+     "explain": "« aussitôt » = immédiatement."
+    }
+   ]
+  }
+ ]
+}

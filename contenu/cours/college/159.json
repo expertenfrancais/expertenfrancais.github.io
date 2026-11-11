@@ -1,0 +1,240 @@
+{
+ "id": 159,
+ "meta": {
+  "t": "Les transformations active et passive",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "La voix active et la voix passive",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Le chat mange la souris » et « La souris est mangée par le chat » disent la même chose, mais sous deux **voix** différentes. Passer de l’une à l’autre, c’est faire une **transformation**."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Reconnaître la voix active et la voix passive",
+      "Transformer une phrase active en phrase passive (et inversement)",
+      "Accorder correctement le participe passé",
+      "Savoir pourquoi on emploie le passif"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Voix active et passive",
+     "text": "À la **voix active**, le sujet **fait** l’action. À la **voix passive**, le sujet **subit** l’action. Le verbe passif se forme avec **être** + **participe passé**."
+    },
+    {
+     "type": "ex",
+     "label": "Exemples",
+     "text": "**Active** : Le professeur corrige les copies.\n**Passive** : Les copies sont corrigées par le professeur."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les copies sont corrigées par le professeur », le sujet :",
+     "options": [
+      "fait l’action",
+      "subit l’action",
+      "est un COD",
+      "est un complément d’agent"
+     ],
+     "answer": 1,
+     "explain": "« Les copies » subissent l’action : le verbe est à la voix passive."
+    }
+   ]
+  },
+  {
+   "t": "Du verbe actif au verbe passif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les étapes de la transformation",
+     "head": [
+      "Phrase active",
+      "Opération",
+      "Phrase passive"
+     ],
+     "rows": [
+      [
+       "Le chat mange **la souris**.",
+       "le COD devient **sujet**",
+       "**La souris** …"
+      ],
+      [
+       "**Le chat** mange la souris.",
+       "le sujet devient **complément d’agent** (par / de)",
+       "… par **le chat**"
+      ],
+      [
+       "Le chat **mange**",
+       "être au même temps + participe passé",
+       "… **est mangée** …"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le temps du verbe se conserve",
+     "head": [
+      "Temps actif",
+      "Temps passif"
+     ],
+     "rows": [
+      [
+       "il mange",
+       "il **est** mangé"
+      ],
+      [
+       "il mangeait",
+       "il **était** mangé"
+      ],
+      [
+       "il a mangé",
+       "il **a été** mangé"
+      ],
+      [
+       "il mangera",
+       "il **sera** mangé"
+      ],
+      [
+       "il mangerait",
+       "il **serait** mangé"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Accord",
+     "text": "Le participe passé du verbe passif s’accorde avec le **sujet** : « Les copies sont corrigé**es** »."
+    },
+    {
+     "type": "tip",
+     "label": "« On »",
+     "text": "« **On** a volé mon sac » → « Mon sac **a été volé** » (on supprime « on » car l’agent est inconnu)."
+    }
+   ]
+  },
+  {
+   "t": "Les limites et l’intérêt du passif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tous les verbes ne peuvent pas passer au passif : il faut un **COD**. Les verbes à **COI** ou intransitifs ne se mettent pas au passif."
+    },
+    {
+     "type": "table",
+     "title": "Peut-on passer au passif ?",
+     "head": [
+      "Phrase",
+      "Passif ?"
+     ],
+     "rows": [
+      [
+       "Il mange une pomme.",
+       "oui : Une pomme est mangée"
+      ],
+      [
+       "Il obéit à son père.",
+       "non (COI)"
+      ],
+      [
+       "Il dort.",
+       "non (intransitif)"
+      ],
+      [
+       "Il a un livre.",
+       "non (« avoir » n’a pas de passif)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pourquoi utiliser le passif ?",
+     "text": "Pour **mettre en valeur** le COD, pour **ne pas citer l’agent** (« Le magasin a été cambriolé ») ou quand l’agent est **inconnu**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à transformer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la voix passive.",
+     "items": [
+      "Le jardinier arrose les fleurs.",
+      "Les élèves ont rangé la salle.",
+      "Le directeur recevra les parents."
+     ],
+     "corrige": [
+      "1. Les fleurs sont arrosées par le jardinier.",
+      "2. La salle a été rangée par les élèves.",
+      "3. Les parents seront reçus par le directeur."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets à la voix active.",
+     "items": [
+      "Le gâteau est préparé par ma mère.",
+      "La porte a été fermée par le gardien."
+     ],
+     "corrige": [
+      "1. Ma mère prépare le gâteau.",
+      "2. Le gardien a fermé la porte."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est à la voix passive ?",
+     "options": [
+      "Il a mangé le gâteau.",
+      "Le gâteau a été mangé.",
+      "Il mange le gâteau.",
+      "Il mangera le gâteau."
+     ],
+     "answer": 1,
+     "explain": "« a été mangé » = être + participe passé : voix passive."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Active** : le sujet fait l’action ; **passive** : le sujet subit l’action.",
+      "Passif = **être** (au même temps) + **participe passé** accordé avec le sujet.",
+      "Le **COD** devient sujet ; le sujet devient **complément d’agent** (par, de).",
+      "Seuls les verbes **transitifs directs** ont un passif.",
+      "Le passif permet de **mettre en valeur** ou de **taire l’agent**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe peut passer à la voix passive ?",
+     "options": [
+      "obéir à",
+      "dormir",
+      "manger",
+      "avoir"
+     ],
+     "answer": 2,
+     "explain": "« Manger » a un COD : il peut passer au passif."
+    }
+   ]
+  }
+ ]
+}

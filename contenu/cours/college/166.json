@@ -1,0 +1,177 @@
+{
+ "id": 166,
+ "meta": {
+  "t": "L’accord du participe passé employé avec avoir suivi d’un infinitif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le problème posé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare : « Les enfants que j’ai **vus** jouer » et « Les chansons que j’ai **entendu** chanter ». Dans les deux cas, le participe est suivi d’un infinitif, mais il s’accorde dans la première phrase et pas dans la seconde. Pourquoi ?"
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Rappeler la règle d’accord avec avoir",
+      "Appliquer la règle quand le participe est suivi d’un infinitif",
+      "Utiliser le test du participe présent",
+      "Repérer le cas de « fait » + infinitif"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Règle générale",
+     "text": "Avec **avoir**, le participe passé s’accorde avec le **COD placé avant le verbe**. Si le participe est suivi d’un **infinitif**, il faut vérifier si ce COD **fait l’action** de l’infinitif."
+    },
+    {
+     "type": "quiz",
+     "question": "Avec avoir, le participe passé s’accorde avec :",
+     "options": [
+      "le sujet",
+      "le COD placé avant le verbe",
+      "le COI",
+      "jamais"
+     ],
+     "answer": 1,
+     "explain": "Règle générale : accord avec le COD placé avant."
+    }
+   ]
+  },
+  {
+   "t": "La règle de l’accord",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Accord ou invariable ?",
+     "head": [
+      "Cas",
+      "Exemple",
+      "Raison"
+     ],
+     "rows": [
+      [
+       "le COD **fait l’action** de l’infinitif → accord",
+       "Les enfants que j’ai **vus** jouer.",
+       "les enfants jouent"
+      ],
+      [
+       "le COD **subit l’action** de l’infinitif → invariable",
+       "Les chansons que j’ai **entendu** chanter.",
+       "les chansons sont chantées (par quelqu’un)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Remplace l’infinitif par un **participe présent** : « Je les ai vus **jouant** » (possible → accord) ; « Je les ai entendues **chantant** » (impossible pour « les chansons ») → invariable."
+    }
+   ]
+  },
+  {
+   "t": "Les cas particuliers",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Cas particuliers",
+     "head": [
+      "Cas",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**fait** + infinitif : toujours invariable",
+       "La robe qu’elle s’est **fait** faire."
+      ],
+      [
+       "**laissé** + infinitif : invariable (ou accordé depuis 1990)",
+       "Les enfants que j’ai **laissé(s)** partir."
+      ],
+      [
+       "le COD est **après** : invariable",
+       "J’ai **vu** les enfants jouer."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Si le COD est placé **après** le verbe (« J’ai vu les enfants jouer »), le participe reste **invariable**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à accorder."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé entre parenthèses.",
+     "items": [
+      "Les élèves que j’ai (voir) entrer.",
+      "Les mélodies que j’ai (entendre) jouer.",
+      "La robe qu’elle s’est (faire) faire.",
+      "J’ai (entendre) les oiseaux chanter."
+     ],
+     "corrige": [
+      "1. vus (les élèves entrent)",
+      "2. entendu (les mélodies sont jouées)",
+      "3. fait (toujours invariable)",
+      "4. entendu (COD après)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Les enfants que j’ai vu jouer.",
+      "Les enfants que j’ai vus jouer.",
+      "Les enfants que j’ai vues jouer.",
+      "Les enfants que j’ai vue jouer."
+     ],
+     "answer": 1,
+     "explain": "Les enfants font l’action de jouer : le participe s’accorde."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Avec **avoir** + infinitif : accord avec le **COD placé avant** **si ce COD fait l’action** de l’infinitif.",
+      "Si le COD **subit** l’action : participe **invariable**.",
+      "Test : remplacer l’infinitif par un **participe présent**.",
+      "**Fait** + infinitif : **invariable**.",
+      "COD placé **après** : invariable."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les chansons que j’ai entendu chanter », « entendu » est invariable car :",
+     "options": [
+      "le COD est après",
+      "les chansons subissent l’action de chanter",
+      "c’est un verbe pronominal",
+      "il est au singulier"
+     ],
+     "answer": 1,
+     "explain": "Les chansons ne chantent pas : elles sont chantées."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "id": 181,
+ "meta": {
+  "t": "Les homophones : quel, quelle, qu’elle ; quelque(s), quelle(s) que",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Quel, quelle, qu’elle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« **Quelle** heure est-il ? » « Je crois **qu’elle** est partie. » Les deux se prononcent pareil, mais ne signifient pas la même chose."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer quel(le) et qu’elle",
+      "Distinguer quel que et quelque",
+      "Appliquer les tests"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quel(le) et qu’elle",
+     "head": [
+      "Écriture",
+      "Nature",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quel, quelle, quels, quelles",
+       "déterminant (interrogatif ou exclamatif), accord avec le nom",
+       "remplace par « quel » masculin",
+       "**Quelle** heure ? (Quel temps ?)"
+      ],
+      [
+       "qu’elle, qu’elles",
+       "que + elle(s) (conjonction + pronom)",
+       "remplace par « qu’il »",
+       "Je crois **qu’elle** vient. (qu’il vient)"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je sais quelle viendra.",
+      "Je sais qu’elle viendra.",
+      "Je sais quel viendra.",
+      "Je sais qu’el viendra."
+     ],
+     "answer": 1,
+     "explain": "On peut dire « qu’il viendra » : « qu’elle » = que + elle."
+    }
+   ]
+  },
+  {
+   "t": "Quel que ou quelque ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Quel que / quelque",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quel que, quelle que, quels que, quelles que",
+       "« peu importe… », suivi de être au subjonctif ; s’accorde avec le sujet",
+       "remplace par « peu importe »",
+       "**Quelle que** soit la raison, viens. (peu importe la raison)"
+      ],
+      [
+       "quelque(s)",
+       "déterminant indéfini : plusieurs",
+       "remplace par « plusieurs »",
+       "**Quelques** élèves sont venus."
+      ],
+      [
+       "quelque + nombre",
+       "adverbe : environ ; invariable",
+       "remplace par « environ »",
+       "**Quelque** trente élèves."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« **Quel que** » s’écrit en **deux mots** et s’accorde : « quel**les** que soient tes raisons ». « **Quelque** » en un mot ne s’accorde qu’au pluriel comme déterminant (quelques)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à choisir."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quel(le)(s) ou qu’elle(s).",
+     "items": [
+      "____ heure est-il ?",
+      "Je crois ____ viendra.",
+      "____ belle journée !",
+      "Je pense ____ sont parties."
+     ],
+     "corrige": [
+      "1. Quelle",
+      "2. qu’elle",
+      "3. Quelle",
+      "4. qu’elles"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quelque(s) ou quel(le)(s) que.",
+     "items": [
+      "____ soit ton choix, je t’aiderai.",
+      "Il a ____ amis.",
+      "____ soient tes raisons, viens."
+     ],
+     "corrige": [
+      "1. Quel que",
+      "2. quelques",
+      "3. Quelles que"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Quelque soit la raison, viens.",
+      "Quelle que soit la raison, viens.",
+      "Quel que soit la raison, viens.",
+      "Quelles que soit la raison, viens."
+     ],
+     "answer": 1,
+     "explain": "« quelle que » s’accorde avec « raison » et signifie « peu importe »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Quel(le)(s)** : déterminant, s’accorde avec le nom (quelle heure ?).",
+      "**Qu’elle(s)** = que + elle(s) (test : qu’il).",
+      "**Quel que** (deux mots) = peu importe ; s’accorde avec le sujet.",
+      "**Quelque(s)** = plusieurs ; **quelque** + nombre = environ."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Quelque trente élèves », « quelque » signifie :",
+     "options": [
+      "peu importe",
+      "plusieurs",
+      "environ",
+      "chaque"
+     ],
+     "answer": 2,
+     "explain": "« quelque » + nombre = environ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "id": 173,
+ "meta": {
+  "t": "Les champs lexicaux et les champs sémantiques",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Deux notions à ne pas confondre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Plage, vague, sable, nager, mer » : tous ces mots parlent de la **mer**. « Carte » : de jeu, géographique, postale, de visite… Ce mot a plusieurs sens. Ces deux idées sont liées au **vocabulaire**, mais elles ne sont pas pareilles."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Définir le champ lexical",
+      "Définir le champ sémantique",
+      "Les distinguer",
+      "Les repérer dans un texte"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Champ lexical",
+     "text": "Le **champ lexical** est l’ensemble des **mots** qui se rapportent à un **même thème** (noms, verbes, adjectifs…)."
+    },
+    {
+     "type": "def",
+     "label": "Champ sémantique",
+     "text": "Le **champ sémantique** d’un mot est l’ensemble de ses **différents sens** (mot polysémique)."
+    },
+    {
+     "type": "quiz",
+     "question": "Un champ lexical regroupe :",
+     "options": [
+      "les sens d’un mot",
+      "des mots d’un même thème",
+      "des mots de même sens",
+      "des mots de même famille"
+     ],
+     "answer": 1,
+     "explain": "Le champ lexical rassemble des mots qui se rapportent au même thème."
+    }
+   ]
+  },
+  {
+   "t": "Le champ lexical",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Exemples de champs lexicaux",
+     "head": [
+      "Thème",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "la mer",
+       "vague, plage, sable, nager, salé, marin, large"
+      ],
+      [
+       "l’école",
+       "classe, élève, maître, cahier, apprendre, lire"
+      ],
+      [
+       "la peur",
+       "effroi, trembler, craindre, terrifié, frisson"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Repérer un champ lexical",
+     "text": "Souligne les **mots** qui parlent du même sujet : leur nombre montre l’importance du thème dans le texte."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Un champ lexical n’est **pas** une famille de mots : « mer, marin, marée » sont de la même famille, mais « plage, sable, vague » appartiennent au champ lexical de la mer."
+    }
+   ]
+  },
+  {
+   "t": "Le champ sémantique",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Exemples de champs sémantiques",
+     "head": [
+      "Mot",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "carte",
+       "carte de jeu, carte géographique, carte postale, carte de visite, carte du restaurant"
+      ],
+      [
+       "feuille",
+       "feuille d’arbre, feuille de papier, feuille de métal"
+      ],
+      [
+       "tirer",
+       "tirer une corde, tirer au sort, tirer un coup de feu, tirer une conclusion"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le contexte",
+     "text": "Le **sens** d’un mot polysémique se comprend grâce au **contexte** : « Il joue aux cartes » / « Il regarde la carte »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à distinguer."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis s’il s’agit d’un champ lexical (CL) ou d’un champ sémantique (CS).",
+     "items": [
+      "vague, plage, sable, nager",
+      "carte de jeu, carte géographique, carte postale",
+      "classe, élève, maître, cahier",
+      "feuille d’arbre, feuille de papier"
+     ],
+     "corrige": [
+      "1. CL (la mer)",
+      "2. CS (les sens du mot carte)",
+      "3. CL (l’école)",
+      "4. CS (les sens du mot feuille)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois mots du champ lexical indiqué.",
+     "items": [
+      "La peur",
+      "La mer"
+     ],
+     "corrige": [
+      "1. Par exemple : trembler, effroi, terrifié, frisson, craindre.",
+      "2. Par exemple : vague, plage, sable, nager, marin."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est polysémique ?",
+     "options": [
+      "table",
+      "pomme",
+      "carte",
+      "maison"
+     ],
+     "answer": 2,
+     "explain": "« carte » a plusieurs sens : c’est un mot polysémique."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Champ lexical** : ensemble de mots d’un même **thème** (mer, école, peur).",
+      "**Champ sémantique** : ensemble des **sens** d’un mot polysémique.",
+      "Champ lexical ≠ famille de mots.",
+      "Le **contexte** permet de choisir le bon sens d’un mot."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Plage, sable, vague » appartiennent au champ lexical de :",
+     "options": [
+      "la mer",
+      "l’école",
+      "la peur",
+      "la musique"
+     ],
+     "answer": 0,
+     "explain": "Ces mots se rapportent à la mer."
+    }
+   ]
+  }
+ ]
+}

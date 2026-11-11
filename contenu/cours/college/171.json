@@ -1,0 +1,236 @@
+{
+ "id": 171,
+ "meta": {
+  "t": "Le paragraphe argumentatif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Argumenter : pourquoi, comment ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Argumenter, c’est **défendre une idée** en donnant des **raisons**. Un **paragraphe argumentatif** développe **un seul argument** pour soutenir une opinion."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer thèse, argument et exemple",
+      "Construire un paragraphe argumentatif",
+      "Utiliser les connecteurs logiques",
+      "Éviter les erreurs courantes"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Paragraphe argumentatif",
+     "text": "Un **paragraphe argumentatif** contient : une **idée directrice** (l’argument), une **explication**, un **exemple** et, souvent, une **phrase de conclusion**."
+    },
+    {
+     "type": "table",
+     "title": "Thèse, argument, exemple",
+     "head": [
+      "Élément",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "thèse",
+       "l’opinion défendue",
+       "Il faut lire davantage."
+      ],
+      [
+       "argument",
+       "la raison qui soutient la thèse",
+       "La lecture enrichit le vocabulaire."
+      ],
+      [
+       "exemple",
+       "un fait précis qui illustre l’argument",
+       "Un lecteur régulier trouve plus facilement ses mots."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un exemple sert à :",
+     "options": [
+      "donner l’opinion",
+      "illustrer un argument",
+      "conclure toute la rédaction",
+      "poser une question"
+     ],
+     "answer": 1,
+     "explain": "L’exemple illustre et prouve l’argument."
+    }
+   ]
+  },
+  {
+   "t": "La structure du paragraphe",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les étapes du paragraphe",
+     "head": [
+      "Étape",
+      "Rôle",
+      "Exemple de début de phrase"
+     ],
+     "rows": [
+      [
+       "1. idée directrice",
+       "annonce l’argument",
+       "D’abord, la lecture enrichit le vocabulaire."
+      ],
+      [
+       "2. explication",
+       "développe l’idée",
+       "En effet, on rencontre des mots nouveaux."
+      ],
+      [
+       "3. exemple",
+       "prouve par un cas précis",
+       "Par exemple, un lecteur de romans connaît plus de mots."
+      ],
+      [
+       "4. conclusion du paragraphe",
+       "reformule l’idée",
+       "Ainsi, lire développe le langage."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un paragraphe = une idée",
+     "text": "Passe à la **ligne** et fais un **alinéa** à chaque nouvel argument."
+    }
+   ]
+  },
+  {
+   "t": "Les connecteurs logiques",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les connecteurs de l’argumentation",
+     "head": [
+      "Fonction",
+      "Connecteurs"
+     ],
+     "rows": [
+      [
+       "ajouter, enchaîner",
+       "d’abord, ensuite, de plus, en outre, enfin"
+      ],
+      [
+       "expliquer, justifier",
+       "en effet, car, parce que, puisque"
+      ],
+      [
+       "donner un exemple",
+       "par exemple, ainsi, notamment"
+      ],
+      [
+       "conclure",
+       "donc, ainsi, en conclusion, c’est pourquoi"
+      ],
+      [
+       "s’opposer",
+       "mais, cependant, pourtant, toutefois"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Un paragraphe modèle",
+     "text": "**D’abord**, la lecture développe l’imagination. **En effet**, le lecteur doit se représenter les lieux et les personnages décrits. **Par exemple**, en lisant un conte, on imagine la forêt et le héros. **Ainsi**, lire entraîne l’esprit à créer des images."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à construire."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe chaque phrase : thèse (T), argument (A) ou exemple (E).",
+     "items": [
+      "Il faut protéger l’environnement.",
+      "La pollution de l’air rend les gens malades.",
+      "À Pointe-Noire, beaucoup d’enfants toussent à cause de la fumée.",
+      "Les arbres absorbent le gaz carbonique."
+     ],
+     "corrige": [
+      "1. T",
+      "2. A",
+      "3. E",
+      "4. A"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le connecteur qui convient (d’abord, par exemple, ainsi, en effet).",
+     "items": [
+      "____, il faut protéger les forêts.",
+      "____, elles abritent de nombreux animaux.",
+      "____, au Congo, la forêt est un trésor.",
+      "____, protéger la nature, c’est protéger l’avenir."
+     ],
+     "corrige": [
+      "1. D’abord",
+      "2. En effet",
+      "3. Par exemple",
+      "4. Ainsi"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel connecteur sert à conclure ?",
+     "options": [
+      "d’abord",
+      "en effet",
+      "par exemple",
+      "ainsi"
+     ],
+     "answer": 3,
+     "explain": "« Ainsi » introduit une conclusion."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Argumenter = **défendre une thèse** avec des **arguments** et des **exemples**.",
+      "Un paragraphe = **idée directrice + explication + exemple + conclusion**.",
+      "Utiliser des **connecteurs** : d’abord, en effet, par exemple, ainsi…",
+      "**Un paragraphe = un argument** ; alinéa à chaque nouveau paragraphe."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un paragraphe argumentatif, l’exemple vient :",
+     "options": [
+      "avant l’idée directrice",
+      "après l’explication",
+      "à la fin de la rédaction seulement",
+      "jamais"
+     ],
+     "answer": 1,
+     "explain": "On annonce l’idée, on l’explique, puis on l’illustre par un exemple."
+    }
+   ]
+  }
+ ]
+}

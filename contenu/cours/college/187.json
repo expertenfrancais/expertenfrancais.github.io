@@ -1,0 +1,196 @@
+{
+ "id": 187,
+ "meta": {
+  "t": "Le vocabulaire fondamental : la pollution",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "h",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Parler du thème",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **pollution** est la dégradation de l’air, de l’eau ou du sol par des substances nuisibles. Elle menace la santé et la nature."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les mots essentiels du thème",
+      "Employer des verbes et expressions adaptés",
+      "Les utiliser dans des phrases"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Pollution",
+     "text": "La **pollution** est la présence de substances **nuisibles** dans l’air, l’eau ou le sol, qui nuisent aux êtres vivants."
+    },
+    {
+     "type": "quiz",
+     "question": "La pollution sonore est liée :",
+     "options": [
+      "à l’eau",
+      "au bruit",
+      "aux déchets",
+      "à la chaleur"
+     ],
+     "answer": 1,
+     "explain": "Pollution sonore = bruit excessif."
+    }
+   ]
+  },
+  {
+   "t": "Les mots essentiels",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les types de pollution",
+     "head": [
+      "Type",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "de l’air",
+       "fumées d’usine, gaz d’échappement"
+      ],
+      [
+       "de l’eau",
+       "déchets jetés dans les rivières, produits chimiques"
+      ],
+      [
+       "du sol",
+       "déchets plastiques, pesticides"
+      ],
+      [
+       "sonore",
+       "bruit excessif"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes et les expressions",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les verbes de la pollution",
+     "head": [
+      "Verbe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "polluer",
+       "Les usines **polluent** l’air."
+      ],
+      [
+       "contaminer",
+       "L’eau est **contaminée**."
+      ],
+      [
+       "dépolluer",
+       "On **dépollue** le fleuve."
+      ],
+      [
+       "trier",
+       "On **trie** les déchets."
+      ],
+      [
+       "assainir",
+       "On **assainit** la ville."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les mots utiles",
+     "head": [
+      "Mot",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "polluant",
+       "qui pollue"
+      ],
+      [
+       "toxique",
+       "dangereux pour la santé"
+      ],
+      [
+       "décharge",
+       "lieu où l’on jette les déchets"
+      ],
+      [
+       "tri sélectif",
+       "séparation des déchets selon leur nature"
+      ],
+      [
+       "éco-responsable",
+       "qui respecte l’environnement"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à employer les mots."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète (polluer, toxique, tri, décharge).",
+     "items": [
+      "Les fumées peuvent ____ l’air.",
+      "Ce produit est ____ pour la santé.",
+      "On fait le ____ des déchets.",
+      "Les déchets sont jetés à la ____."
+     ],
+     "corrige": [
+      "1. polluer",
+      "2. toxique",
+      "3. tri",
+      "4. décharge"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **pollution** dégrade l’air, l’eau, le sol (et crée du bruit).",
+      "Types : **de l’air, de l’eau, du sol, sonore**.",
+      "Verbes : **polluer, contaminer, dépolluer, trier, assainir**.",
+      "Mots : **polluant, toxique, décharge, tri sélectif**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que signifie « toxique » ?",
+     "options": [
+      "utile",
+      "dangereux pour la santé",
+      "agréable",
+      "ancien"
+     ],
+     "answer": 1,
+     "explain": "Toxique = dangereux pour la santé."
+    }
+   ]
+  }
+ ]
+}

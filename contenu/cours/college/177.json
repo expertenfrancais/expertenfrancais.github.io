@@ -1,0 +1,230 @@
+{
+ "id": 177,
+ "meta": {
+  "t": "La concordance des temps : la subordonnée au subjonctif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "La concordance avec le subjonctif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand la subordonnée est au **subjonctif**, le temps du subjonctif dépend du temps du verbe de la **principale** et du **rapport** entre les deux actions."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les temps du subjonctif",
+      "Appliquer la concordance quand la principale est au présent ou au futur",
+      "Appliquer la concordance quand la principale est au passé",
+      "Reconnaître l’imparfait du subjonctif"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Concordance des temps",
+     "text": "La **concordance des temps** est la relation entre le temps du verbe principal et celui du verbe subordonné."
+    },
+    {
+     "type": "table",
+     "title": "Les temps du subjonctif",
+     "head": [
+      "Temps",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "que je chante"
+      ],
+      [
+       "passé",
+       "que j’aie chanté"
+      ],
+      [
+       "imparfait (littéraire)",
+       "que je chantasse"
+      ],
+      [
+       "plus-que-parfait (littéraire)",
+       "que j’eusse chanté"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel temps du subjonctif est courant à l’oral ?",
+     "options": [
+      "imparfait",
+      "présent",
+      "plus-que-parfait",
+      "futur"
+     ],
+     "answer": 1,
+     "explain": "Le subjonctif présent est le plus employé."
+    }
+   ]
+  },
+  {
+   "t": "Principale au présent ou au futur",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Principale au présent ou au futur",
+     "head": [
+      "Rapport",
+      "Subjonctif",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "simultanéité ou postériorité",
+       "présent",
+       "Je veux **qu’il vienne**. / Je voudrai **qu’il vienne**."
+      ],
+      [
+       "antériorité",
+       "passé",
+       "Je suis content **qu’il soit venu** hier."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le raisonnement",
+     "text": "Si l’action subordonnée est **déjà passée** par rapport à la principale, on emploie le **subjonctif passé**."
+    }
+   ]
+  },
+  {
+   "t": "Principale au passé",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Principale au passé ou au conditionnel",
+     "head": [
+      "Rapport",
+      "Usage courant",
+      "Usage littéraire"
+     ],
+     "rows": [
+      [
+       "simultanéité ou postériorité",
+       "subjonctif présent : Je voulais **qu’il vienne**.",
+       "subjonctif imparfait : Je voulais **qu’il vînt**."
+      ],
+      [
+       "antériorité",
+       "subjonctif passé : J’étais content **qu’il soit venu**.",
+       "subj. plus-que-parfait : J’étais content **qu’il fût venu**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Dans l’usage courant, on emploie surtout le **subjonctif présent** et le **subjonctif passé** ; l’imparfait et le plus-que-parfait appartiennent à la **langue soutenue ou littéraire**."
+    },
+    {
+     "type": "table",
+     "title": "L’imparfait du subjonctif (3e personne du singulier)",
+     "head": [
+      "Verbe",
+      "Forme"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "qu’il chantât"
+      ],
+      [
+       "finir",
+       "qu’il finît"
+      ],
+      [
+       "être",
+       "qu’il fût"
+      ],
+      [
+       "avoir",
+       "qu’il eût"
+      ],
+      [
+       "venir",
+       "qu’il vînt"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à choisir le bon temps."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au temps du subjonctif qui convient (usage courant).",
+     "items": [
+      "Je veux qu’il (partir) maintenant.",
+      "Je suis content qu’il (venir) hier.",
+      "Je voulais qu’il (comprendre).",
+      "Elle regrette que tu (partir) déjà."
+     ],
+     "corrige": [
+      "1. parte",
+      "2. soit venu",
+      "3. comprenne",
+      "4. sois parti"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte (usage courant) ?",
+     "options": [
+      "Je voulais qu’il vienne.",
+      "Je voulais qu’il vint.",
+      "Je voulais qu’il viendra.",
+      "Je voulais qu’il viendrait."
+     ],
+     "answer": 0,
+     "explain": "Après un passé, on emploie le subjonctif présent dans l’usage courant."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Principale au **présent / futur** : subjonctif **présent** (simultanéité, postériorité) ou **passé** (antériorité).",
+      "Principale au **passé** : subjonctif **présent** (usage courant) ou **imparfait** (littéraire) ; **passé** pour l’antériorité.",
+      "L’imparfait et le plus-que-parfait du subjonctif appartiennent au **registre littéraire**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Je suis heureux qu’il soit venu : le subjonctif passé exprime :",
+     "options": [
+      "la postériorité",
+      "l’antériorité",
+      "la simultanéité",
+      "le futur"
+     ],
+     "answer": 1,
+     "explain": "L’action de venir est antérieure au bonheur."
+    }
+   ]
+  }
+ ]
+}

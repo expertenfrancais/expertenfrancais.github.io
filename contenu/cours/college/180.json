@@ -1,0 +1,211 @@
+{
+ "id": 180,
+ "meta": {
+  "t": "Les homophones : peu, peux, peut",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Trois mots, un seul son",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "« Il mange **peu** » ; « Je **peux** venir » ; « Il **peut** venir ». Ces trois mots se prononcent de la même façon, mais ne s’écrivent pas pareil."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Distinguer peu, peux, peut",
+      "Appliquer le test de remplacement",
+      "Distinguer peut-être et peut être"
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Peu, peux, peut",
+     "head": [
+      "Mot",
+      "Nature",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "peu",
+       "adverbe de quantité",
+       "contraire : beaucoup",
+       "Il mange **peu**."
+      ],
+      [
+       "peux",
+       "verbe pouvoir (je, tu)",
+       "remplace par « pouvais »",
+       "Je **peux** venir. (je pouvais)"
+      ],
+      [
+       "peut",
+       "verbe pouvoir (il, elle, on)",
+       "remplace par « pouvait »",
+       "Il **peut** venir. (il pouvait)"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il parle peu », « peu » est :",
+     "options": [
+      "un verbe",
+      "un adverbe",
+      "un nom",
+      "une préposition"
+     ],
+     "answer": 1,
+     "explain": "« peu » est un adverbe de quantité (≠ beaucoup)."
+    }
+   ]
+  },
+  {
+   "t": "Peux ou peut ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Peux / peut",
+     "head": [
+      "Sujet",
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "je, tu",
+       "peux",
+       "Je **peux** t’aider. / Tu **peux** venir."
+      ],
+      [
+       "il, elle, on",
+       "peut",
+       "Elle **peut** partir. / On **peut** essayer."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test du sujet",
+     "text": "**Peux** : sujet **je** ou **tu**. **Peut** : sujet **il, elle, on** ou un nom. Si on peut dire « pouvait », c’est le verbe pouvoir."
+    }
+   ]
+  },
+  {
+   "t": "Peut-être ou peut être ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Peut-être / peut être",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "peut-être (avec trait d’union)",
+       "adverbe : probablement",
+       "Il viendra **peut-être**."
+      ],
+      [
+       "peut être (deux mots)",
+       "verbe pouvoir + être",
+       "Il **peut être** content."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Si on peut remplacer par **probablement** ou **sans doute**, on écrit **peut-être**."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à choisir."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec peu, peux ou peut.",
+     "items": [
+      "Il mange très ____.",
+      "Je ne ____ pas venir.",
+      "On ____ essayer.",
+      "Tu ne ____ pas tricher."
+     ],
+     "corrige": [
+      "1. peu",
+      "2. peux",
+      "3. peut",
+      "4. peux"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec peut-être ou peut être.",
+     "items": [
+      "Il viendra ____.",
+      "Il ____ très gentil."
+     ],
+     "corrige": [
+      "1. peut-être",
+      "2. peut être"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Tu peu venir.",
+      "Tu peux venir.",
+      "Tu peut venir.",
+      "Tu peus venir."
+     ],
+     "answer": 1,
+     "explain": "Avec « tu », on écrit « peux »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "**Peu** : adverbe de quantité (≠ beaucoup).",
+      "**Peux** : verbe pouvoir avec je ou tu.",
+      "**Peut** : verbe pouvoir avec il, elle, on.",
+      "**Peut-être** (adverbe, trait d’union) / **peut être** (verbe + être)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot s’écrit avec je ou tu ?",
+     "options": [
+      "peu",
+      "peux",
+      "peut",
+      "peus"
+     ],
+     "answer": 1,
+     "explain": "Je peux, tu peux."
+    }
+   ]
+  }
+ ]
+}

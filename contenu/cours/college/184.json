@@ -1,0 +1,208 @@
+{
+ "id": 184,
+ "meta": {
+  "t": "Le vocabulaire fondamental : le sport",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Parler du thème",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **sport** regroupe les activités physiques pratiquées pour le plaisir, la santé ou la compétition. Il se pratique seul ou en équipe."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les mots essentiels du thème",
+      "Employer des verbes et expressions adaptés",
+      "Les utiliser dans des phrases"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Sport",
+     "text": "Le **sport** est une activité physique réglée par des **règles**, pratiquée seul ou en **équipe**, souvent en **compétition**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un sport collectif se pratique :",
+     "options": [
+      "seul",
+      "en équipe",
+      "jamais en compétition",
+      "sans règles"
+     ],
+     "answer": 1,
+     "explain": "Un sport collectif se pratique en équipe."
+    }
+   ]
+  },
+  {
+   "t": "Les mots essentiels",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le vocabulaire du sport",
+     "head": [
+      "Mot",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "athlète",
+       "personne qui pratique un sport"
+      ],
+      [
+       "entraînement",
+       "préparation régulière"
+      ],
+      [
+       "échauffement",
+       "exercices avant l’effort"
+      ],
+      [
+       "équipe",
+       "groupe de joueurs"
+      ],
+      [
+       "arbitre",
+       "personne qui fait respecter les règles"
+      ],
+      [
+       "compétition",
+       "épreuve où l’on s’affronte"
+      ],
+      [
+       "tournoi",
+       "série de matchs"
+      ],
+      [
+       "record",
+       "meilleur résultat jamais obtenu"
+      ],
+      [
+       "fair-play",
+       "respect des règles et de l’adversaire"
+      ],
+      [
+       "endurance",
+       "capacité à durer dans l’effort"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes et les expressions",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les verbes du sport",
+     "head": [
+      "Verbe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "s’entraîner",
+       "Il **s’entraîne** chaque jour."
+      ],
+      [
+       "remporter",
+       "L’équipe **remporte** la coupe."
+      ],
+      [
+       "battre",
+       "Elle **bat** son adversaire."
+      ],
+      [
+       "marquer",
+       "Il **marque** un but."
+      ],
+      [
+       "égaliser",
+       "Ils **égalisent** à la dernière minute."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Sports individuels et collectifs",
+     "head": [
+      "Type",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "individuels",
+       "athlétisme, natation, judo, tennis"
+      ],
+      [
+       "collectifs",
+       "football, basket-ball, handball, volley-ball"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à employer les mots."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète (arbitre, échauffement, record, fair-play).",
+     "items": [
+      "Avant le match, on fait un ____.",
+      "L’____ siffle la fin.",
+      "Elle a battu le ____ du monde.",
+      "Le ____ est le respect de l’adversaire."
+     ],
+     "corrige": [
+      "1. échauffement",
+      "2. arbitre",
+      "3. record",
+      "4. fair-play"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **sport** : activité physique réglée, en solo ou en équipe.",
+      "Mots clés : **athlète, entraînement, échauffement, équipe, arbitre, compétition, record**.",
+      "Verbes : **s’entraîner, remporter, battre, marquer, égaliser**.",
+      "**Fair-play** = respect des règles et de l’adversaire."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Que fait l’arbitre ?",
+     "options": [
+      "Il joue",
+      "Il fait respecter les règles",
+      "Il entraîne",
+      "Il applaudit"
+     ],
+     "answer": 1,
+     "explain": "L’arbitre fait respecter le règlement."
+    }
+   ]
+  }
+ ]
+}

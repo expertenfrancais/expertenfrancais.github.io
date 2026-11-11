@@ -1,0 +1,231 @@
+{
+ "id": 183,
+ "meta": {
+  "t": "Le vocabulaire fondamental : l’environnement",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Parler de l’environnement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**environnement**, c’est tout ce qui nous entoure : la nature, l’air, l’eau, les animaux, les plantes, mais aussi les villes. Pour en parler, il faut un vocabulaire précis."
+    },
+    {
+     "type": "list",
+     "label": "Objectifs",
+     "items": [
+      "Connaître les mots de l’environnement",
+      "Les employer dans des phrases",
+      "Reconnaître les familles de mots",
+      "Utiliser des expressions liées à la protection de la nature"
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Environnement",
+     "text": "L’**environnement** est l’ensemble des éléments naturels et artificiels qui entourent les êtres vivants et influencent leur vie."
+    },
+    {
+     "type": "quiz",
+     "question": "L’environnement désigne :",
+     "options": [
+      "seulement la forêt",
+      "tout ce qui nous entoure",
+      "seulement les villes",
+      "seulement l’eau"
+     ],
+     "answer": 1,
+     "explain": "L’environnement regroupe tout ce qui nous entoure."
+    }
+   ]
+  },
+  {
+   "t": "Les mots essentiels",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le vocabulaire de l’environnement",
+     "head": [
+      "Mot",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "biodiversité",
+       "variété des êtres vivants sur Terre"
+      ],
+      [
+       "écosystème",
+       "ensemble formé par des êtres vivants et leur milieu"
+      ],
+      [
+       "climat",
+       "ensemble des conditions de température et de pluie d’une région"
+      ],
+      [
+       "déforestation",
+       "destruction des forêts"
+      ],
+      [
+       "reboisement",
+       "plantation de nouveaux arbres"
+      ],
+      [
+       "déchet",
+       "reste qu’on jette"
+      ],
+      [
+       "recycler",
+       "réutiliser des matériaux"
+      ],
+      [
+       "développement durable",
+       "développement qui protège l’avenir"
+      ],
+      [
+       "espèce menacée",
+       "espèce en danger de disparaître"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes et les expressions",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les verbes utiles",
+     "head": [
+      "Verbe",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "protéger",
+       "mettre à l’abri",
+       "Il faut **protéger** les forêts."
+      ],
+      [
+       "préserver",
+       "garder intact",
+       "**Préservons** l’eau."
+      ],
+      [
+       "recycler",
+       "donner une nouvelle vie",
+       "On **recycle** le papier."
+      ],
+      [
+       "sensibiliser",
+       "faire prendre conscience",
+       "On **sensibilise** les élèves."
+      ],
+      [
+       "reboiser",
+       "replanter des arbres",
+       "On **reboise** les collines."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques expressions",
+     "head": [
+      "Expression",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "gaz à effet de serre",
+       "gaz qui réchauffent la planète"
+      ],
+      [
+       "réchauffement climatique",
+       "hausse de la température de la Terre"
+      ],
+      [
+       "éco-geste",
+       "geste simple qui protège l’environnement"
+      ],
+      [
+       "énergie renouvelable",
+       "énergie qui ne s’épuise pas (soleil, vent, eau)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi à employer les mots."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le mot qui convient (reboisement, déforestation, recycler, biodiversité).",
+     "items": [
+      "La ____ détruit des milliers d’hectares.",
+      "Il faut ____ le plastique.",
+      "Le ____ des collines est nécessaire.",
+      "La ____ est menacée."
+     ],
+     "corrige": [
+      "1. déforestation",
+      "2. recycler",
+      "3. reboisement",
+      "4. biodiversité"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot signifie « réutiliser des matériaux » ?",
+     "options": [
+      "jeter",
+      "recycler",
+      "brûler",
+      "polluer"
+     ],
+     "answer": 1,
+     "explain": "Recycler, c’est réutiliser."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’**environnement** = tout ce qui nous entoure.",
+      "Mots clés : **biodiversité, écosystème, climat, déforestation, reboisement, déchet, recycler**.",
+      "Verbes : **protéger, préserver, sensibiliser, reboiser**.",
+      "Expressions : **développement durable, réchauffement climatique, éco-geste**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Planter de nouveaux arbres, c’est :",
+     "options": [
+      "déboiser",
+      "reboiser",
+      "polluer",
+      "brûler"
+     ],
+     "answer": 1,
+     "explain": "Reboiser, c’est replanter des arbres."
+    }
+   ]
+  }
+ ]
+}
