@@ -344,6 +344,7 @@ var ALLDOCS=[
  {id:10009,fn:9,img:IMG.h,t:"Fiche modèle n° 8 (test)",k:"Fiches",n:"3e",m:"Orthographe",pr:25,r:4.8},
  {id:10010,fn:10,img:IMG.a,t:"Fiche modèle n° 9 (test)",k:"Fiches",n:"3e",m:"Vocabulaire",pr:25,r:4.8},
  {id:10011,fn:11,img:IMG.b,t:"Fiche modèle n° 10 (test)",k:"Fiches",n:"3e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10012,fn:12,img:IMG.e,t:"L’expression de la circonstance de temps",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
  {id:20002,an:2,img:IMG.b,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20003,an:3,img:IMG.b,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20004,an:4,img:IMG.b,t:"BEPC · Expression écrite · Session juillet 2025",k:"Annales",n:"3e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
