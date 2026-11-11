@@ -1,0 +1,256 @@
+{
+ "id": 216,
+ "meta": {
+  "t": "La transformation de la forme affirmative à la forme négative",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Dire non à une phrase",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase **affirmative** dit que quelque chose est vrai ; une phrase **négative** dit que quelque chose n’est pas vrai. On peut transformer l’une en l’autre sans changer le sujet de la phrase."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître les deux formes",
+      "Utiliser les mots de la négation",
+      "Placer correctement « ne » et « pas »",
+      "Transformer une phrase affirmative en phrase négative"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "ex",
+     "text": "Affirmative : « Mon frère joue au football. » → Négative : « Mon frère **ne** joue **pas** au football. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est négative ?",
+     "options": [
+      "Il chante bien.",
+      "Il ne chante jamais.",
+      "Il chantera demain.",
+      "Chante-t-il ?"
+     ],
+     "answer": 1,
+     "explain": "Les mots « ne… jamais » forment une négation."
+    }
+   ]
+  },
+  {
+   "t": "Les mots de la négation",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les principales négations",
+     "head": [
+      "Négation",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "ne… pas",
+       "négation simple",
+       "Il ne mange pas."
+      ],
+      [
+       "ne… plus",
+       "fin d’une action",
+       "Il ne pleure plus."
+      ],
+      [
+       "ne… jamais",
+       "aucun moment",
+       "Il ne ment jamais."
+      ],
+      [
+       "ne… rien",
+       "aucune chose",
+       "Je ne vois rien."
+      ],
+      [
+       "ne… personne",
+       "aucune personne",
+       "Je ne vois personne."
+      ],
+      [
+       "ne… aucun(e)",
+       "pas un seul",
+       "Il n’a aucun ami ici."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Faux ami",
+     "text": "« ne… que » n’est **pas** une vraie négation : il signifie « seulement ». « Il ne mange que du riz » = « Il mange seulement du riz »."
+    }
+   ]
+  },
+  {
+   "t": "Comment transformer ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Règle de base :** « ne » se place **avant le verbe**, « pas » (ou plus, jamais…) **après le verbe**."
+    },
+    {
+     "type": "table",
+     "title": "Place de la négation",
+     "head": [
+      "Cas",
+      "Affirmative",
+      "Négative"
+     ],
+     "rows": [
+      [
+       "Verbe simple",
+       "Elle chante.",
+       "Elle **ne** chante **pas**."
+      ],
+      [
+       "Temps composé",
+       "Il a mangé.",
+       "Il **n’**a **pas** mangé."
+      ],
+      [
+       "Pronom devant le verbe",
+       "Je le vois.",
+       "Je **ne** le vois **pas**."
+      ],
+      [
+       "Verbe à l’infinitif",
+       "Il décide de partir.",
+       "Il décide de **ne pas** partir."
+      ],
+      [
+       "Impératif",
+       "Parle !",
+       "**Ne** parle **pas** !"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "« ne » devient **n’** devant une voyelle ou un « h » muet : il n’aime pas, il n’habite pas."
+    },
+    {
+     "type": "h",
+     "text": "Les articles changent aussi"
+    },
+    {
+     "type": "table",
+     "title": "Après une négation, du / de la / des / un → de",
+     "head": [
+      "Affirmative",
+      "Négative"
+     ],
+     "rows": [
+      [
+       "Il mange du pain.",
+       "Il ne mange pas **de** pain."
+      ],
+      [
+       "Elle a des amis.",
+       "Elle n’a pas **d’**amis."
+      ],
+      [
+       "J’ai un stylo.",
+       "Je n’ai pas **de** stylo."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Exception",
+     "text": "Avec le verbe **être**, l’article ne change pas : « C’est un livre » → « Ce n’est pas **un** livre »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative avec « ne… pas ».",
+     "items": [
+      "Les élèves écoutent le maître.",
+      "Nous avons fini l’exercice.",
+      "Il aime le poisson.",
+      "Tu as des cahiers."
+     ],
+     "corrige": [
+      "1. Les élèves n’écoutent pas le maître.",
+      "2. Nous n’avons pas fini l’exercice.",
+      "3. Il n’aime pas le poisson.",
+      "4. Tu n’as pas de cahiers."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme avec la négation indiquée.",
+     "items": [
+      "Il pleure. (ne… plus)",
+      "Elle ment. (ne… jamais)",
+      "Je vois quelqu’un. (ne… personne)",
+      "Il dit quelque chose. (ne… rien)"
+     ],
+     "corrige": [
+      "1. Il ne pleure plus.",
+      "2. Elle ne ment jamais.",
+      "3. Je ne vois personne.",
+      "4. Il ne dit rien."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il a des frères. » devient :",
+     "options": [
+      "Il n’a pas des frères.",
+      "Il n’a pas de frères.",
+      "Il a pas de frères.",
+      "Il ne pas a de frères."
+     ],
+     "answer": 1,
+     "explain": "Après la négation, « des » devient « de »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Négative : « ne » avant le verbe, « pas / plus / jamais / rien… » après.",
+      "Aux temps composés, la négation entoure l’auxiliaire : il n’a pas mangé.",
+      "À l’infinitif, « ne pas » se place devant le verbe.",
+      "Après la négation, « du, de la, des, un » deviennent « de, d’ »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je n’ai jamais vu ce film.",
+      "Je ai jamais vu ce film.",
+      "Je n’ai vu jamais pas ce film.",
+      "Je jamais n’ai vu ce film."
+     ],
+     "answer": 0,
+     "explain": "« ne » + auxiliaire + « jamais » + participe passé."
+    }
+   ]
+  }
+ ]
+}

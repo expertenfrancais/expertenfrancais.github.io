@@ -1,0 +1,246 @@
+{
+ "id": 232,
+ "meta": {
+  "t": "Les degrés de qualification : les formes particulières (bon, meilleur, mieux, pire…)",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Des mots qui changent de forme",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour certains mots, le comparatif et le superlatif ne se forment pas avec « plus » : ils ont une **forme particulière**. C’est le cas de **bon**, **bien**, **mauvais**, **petit**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Employer meilleur et mieux",
+      "Employer pire et moindre",
+      "Éviter les erreurs comme « plus bon »"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "table",
+     "title": "Les formes particulières",
+     "head": [
+      "Mot",
+      "Comparatif de supériorité",
+      "Superlatif relatif"
+     ],
+     "rows": [
+      [
+       "bon (adjectif)",
+       "**meilleur**",
+       "le meilleur, la meilleure"
+      ],
+      [
+       "bien (adverbe)",
+       "**mieux**",
+       "le mieux"
+      ],
+      [
+       "mauvais (adjectif)",
+       "plus mauvais ou **pire**",
+       "le plus mauvais, le pire"
+      ],
+      [
+       "petit (adjectif)",
+       "plus petit ou **moindre**",
+       "le plus petit, le moindre"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le comparatif de supériorité de « bon » ?",
+     "options": [
+      "plus bon",
+      "meilleur",
+      "mieux",
+      "bonnissime"
+     ],
+     "answer": 1,
+     "explain": "On dit « meilleur ». « Plus bon » est incorrect."
+    }
+   ]
+  },
+  {
+   "t": "Meilleur ou mieux ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Adjectif ou adverbe",
+     "head": [
+      "Mot",
+      "Nature",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "meilleur(e)(s)",
+       "adjectif : accompagne un nom",
+       "Ce gâteau est **meilleur** que l’autre."
+      ],
+      [
+       "mieux",
+       "adverbe : accompagne un verbe",
+       "Il chante **mieux** que moi."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si tu peux dire « bon », écris **meilleur** : c’est un adjectif. Si tu peux dire « bien », écris **mieux** : c’est un adverbe."
+    },
+    {
+     "type": "warn",
+     "label": "Accord",
+     "text": "**Meilleur** s’accorde (meilleure, meilleurs, meilleures) ; **mieux** ne s’accorde **jamais**."
+    },
+    {
+     "type": "ex",
+     "text": "Cette élève est **meilleure** que moi en maths. Elle travaille **mieux** que moi."
+    }
+   ]
+  },
+  {
+   "t": "Égalité, infériorité et autres formes",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Seul le comparatif de supériorité change",
+     "head": [
+      "Degré",
+      "Phrase correcte",
+      "Phrase incorrecte"
+     ],
+     "rows": [
+      [
+       "supériorité",
+       "Il est **meilleur** que moi.",
+       "Il est plus bon que moi."
+      ],
+      [
+       "égalité",
+       "Il est **aussi bon** que moi.",
+       "Il est aussi meilleur que moi."
+      ],
+      [
+       "infériorité",
+       "Il est **moins bon** que moi.",
+       "Il est moins meilleur que moi."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Pire, moindre, mieux : quelques emplois",
+     "head": [
+      "Mot",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "pire",
+       "Cette route est **pire** que l’autre. Le **pire** est passé."
+      ],
+      [
+       "moindre",
+       "Je n’ai pas la **moindre** idée. (le plus petit, sens abstrait)"
+      ],
+      [
+       "mieux",
+       "Il va **mieux** aujourd’hui. Il vaut **mieux** partir."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pléonasme",
+     "text": "N’écris jamais « plus meilleur » ni « plus mieux » : « meilleur » et « mieux » contiennent déjà l’idée de « plus »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec meilleur(e)(s) ou mieux.",
+     "items": [
+      "Cette recette est … que la mienne.",
+      "Il joue … que son frère.",
+      "Ce sont les … élèves de la classe.",
+      "Elle va … depuis hier."
+     ],
+     "corrige": [
+      "1. meilleure",
+      "2. mieux",
+      "3. meilleurs",
+      "4. mieux"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "Il est plus bon que moi.",
+      "Elle chante plus bien que sa sœur.",
+      "Il est moins meilleur que toi."
+     ],
+     "corrige": [
+      "1. Il est meilleur que moi.",
+      "2. Elle chante mieux que sa sœur.",
+      "3. Il est moins bon que toi."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "C’est le plus bon gâteau.",
+      "C’est le meilleur gâteau.",
+      "C’est le mieux gâteau.",
+      "C’est le plus meilleur gâteau."
+     ],
+     "answer": 1,
+     "explain": "Le superlatif de « bon » est « le meilleur »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "bon → meilleur, le meilleur ; bien → mieux, le mieux.",
+      "mauvais → plus mauvais ou pire ; petit → plus petit ou moindre.",
+      "Meilleur est un adjectif (il s’accorde) ; mieux est un adverbe (invariable).",
+      "On dit « aussi bon », « moins bon », mais jamais « plus bon »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il court … que moi » :",
+     "options": [
+      "meilleur",
+      "mieux",
+      "plus bon",
+      "plus meilleur"
+     ],
+     "answer": 1,
+     "explain": "Il faut un adverbe pour accompagner « court » : « mieux »."
+    }
+   ]
+  }
+ ]
+}

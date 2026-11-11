@@ -1,0 +1,216 @@
+{
+ "id": 215,
+ "meta": {
+  "t": "La concordance des temps : les deux cas",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Deux cas à distinguer",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase complexe, le temps du verbe de la **subordonnée** dépend du temps du verbe de la **principale**. C’est la **concordance des temps**. Tout dépend d’une question : le verbe de la principale est-il au **présent** ou au **passé** ?"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Distinguer le cas du verbe principal au présent et celui du verbe principal au passé",
+      "Choisir le bon temps dans la subordonnée",
+      "Corriger des erreurs de concordance"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Concordance des temps",
+     "text": "C’est l’accord logique entre le temps de la proposition principale et celui de la subordonnée, selon que l’action est **antérieure**, **simultanée** ou **postérieure**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je pense qu’il viendra demain », le verbe principal est :",
+     "options": [
+      "au passé",
+      "au présent",
+      "au futur",
+      "à l’imparfait"
+     ],
+     "answer": 1,
+     "explain": "« Je pense » est au présent."
+    }
+   ]
+  },
+  {
+   "t": "Premier cas : la principale est au présent",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Principale au présent (axe : maintenant)",
+     "head": [
+      "Rapport de temps",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Simultanéité",
+       "présent",
+       "Je vois que tu **travailles**."
+      ],
+      [
+       "Antériorité",
+       "passé composé (ou imparfait, passé simple à l’écrit)",
+       "Je sais qu’il **est parti** hier."
+      ],
+      [
+       "Postériorité",
+       "futur simple",
+       "J’espère qu’elle **viendra** demain."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Quand la principale est au présent, on garde les temps du présent : présent, passé composé, futur."
+    }
+   ]
+  },
+  {
+   "t": "Deuxième cas : la principale est au passé",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Principale au passé (axe : un moment du passé)",
+     "head": [
+      "Rapport de temps",
+      "Temps de la subordonnée",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Simultanéité",
+       "imparfait",
+       "Je voyais que tu **travaillais**."
+      ],
+      [
+       "Antériorité",
+       "plus-que-parfait",
+       "Je savais qu’il **était parti** la veille."
+      ],
+      [
+       "Postériorité",
+       "conditionnel présent",
+       "J’espérais qu’elle **viendrait** le lendemain."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège fréquent",
+     "text": "Au passé, le futur devient **conditionnel présent** : « Il a dit qu’il **viendra** » est une erreur ; on écrit « Il a dit qu’il **viendrait** »."
+    },
+    {
+     "type": "table",
+     "title": "Le même message dans les deux cas",
+     "head": [
+      "Principale au présent",
+      "Principale au passé"
+     ],
+     "rows": [
+      [
+       "Il dit qu’il pleut.",
+       "Il disait qu’il pleuvait."
+      ],
+      [
+       "Il dit qu’il a plu.",
+       "Il disait qu’il avait plu."
+      ],
+      [
+       "Il dit qu’il pleuvra.",
+       "Il disait qu’il pleuvrait."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le temps qui convient.",
+     "items": [
+      "Je sais que tu (réussir) demain. (principale au présent)",
+      "Il m’a dit qu’il (finir) son travail la veille.",
+      "Elle pensait que nous (arriver) le lendemain.",
+      "Je constate que les élèves (écouter) bien."
+     ],
+     "corrige": [
+      "1. réussiras",
+      "2. avait fini",
+      "3. arriverions",
+      "4. écoutent"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets la phrase au passé (principale à l’imparfait) et change la subordonnée.",
+     "items": [
+      "Il affirme qu’il viendra.",
+      "Elle croit que tu as gagné.",
+      "Nous voyons que le ciel s’éclaircit."
+     ],
+     "corrige": [
+      "1. Il affirmait qu’il viendrait.",
+      "2. Elle croyait que tu avais gagné.",
+      "3. Nous voyions que le ciel s’éclaircissait."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase respecte la concordance ?",
+     "options": [
+      "Il disait qu’il viendra.",
+      "Il disait qu’il viendrait.",
+      "Il dit qu’il viendrait hier.",
+      "Il disait qu’il vient."
+     ],
+     "answer": 1,
+     "explain": "Principale à l’imparfait + postériorité = **conditionnel présent**."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le temps de la subordonnée dépend de celui de la principale.",
+      "Principale au **présent** : présent (simultané), passé composé (antérieur), futur (postérieur).",
+      "Principale au **passé** : imparfait (simultané), plus-que-parfait (antérieur), conditionnel présent (postérieur).",
+      "Au passé, le futur devient conditionnel."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Elle savait qu’il était déjà parti. » : l’action de la subordonnée est :",
+     "options": [
+      "postérieure",
+      "simultanée",
+      "antérieure",
+      "sans rapport"
+     ],
+     "answer": 2,
+     "explain": "Le plus-que-parfait exprime l’**antériorité** dans le passé."
+    }
+   ]
+  }
+ ]
+}

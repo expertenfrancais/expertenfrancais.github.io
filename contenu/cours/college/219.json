@@ -1,0 +1,207 @@
+{
+ "id": 219,
+ "meta": {
+  "t": "La transformation de la forme exclamative à la forme interrogative",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "De l’exclamation à la question",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une phrase **exclamative** exprime un sentiment ; une phrase **interrogative** demande une information. Pour passer de l’une à l’autre, il faut **retrouver l’idée** de l’exclamation, puis la transformer en question."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Retrouver l’idée cachée dans l’exclamation",
+      "Poser une question totale ou partielle",
+      "Transformer une exclamative en interrogative"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "ex",
+     "text": "« Comme ce chien est grand ! » → « Ce chien est-il grand ? » ou « Comment est ce chien ? »"
+    },
+    {
+     "type": "quiz",
+     "question": "Que perd-on en passant de l’exclamative à l’interrogative ?",
+     "options": [
+      "L’idée de la phrase",
+      "L’émotion forte : on ne fait plus que demander",
+      "Le verbe",
+      "Le sujet"
+     ],
+     "answer": 1,
+     "explain": "L’émotion disparaît : la phrase demande une information."
+    }
+   ]
+  },
+  {
+   "t": "Les étapes de la transformation",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "**Repérer** le mot exclamatif et la qualité ou l’action mise en valeur.",
+      "**Supprimer** « quel, comme, que » et retrouver la phrase de base.",
+      "**Choisir** le type de question : totale (oui / non) ou partielle (comment, combien, quel…).",
+      "**Construire** la question (inversion ou « est-ce que ») et mettre « ? »."
+     ],
+     "label": "Quatre étapes",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Exemples",
+     "head": [
+      "Exclamative",
+      "Phrase de base",
+      "Interrogative"
+     ],
+     "rows": [
+      [
+       "Comme il court vite !",
+       "Il court vite.",
+       "Court-il vite ? / À quelle vitesse court-il ?"
+      ],
+      [
+       "Quelle belle maison !",
+       "C’est une belle maison.",
+       "Est-ce une belle maison ? / Comment est cette maison ?"
+      ],
+      [
+       "Que de monde !",
+       "Il y a beaucoup de monde.",
+       "Y a-t-il beaucoup de monde ? / Combien y a-t-il de monde ?"
+      ],
+      [
+       "Qu’elle chante bien !",
+       "Elle chante bien.",
+       "Chante-t-elle bien ? / Comment chante-t-elle ?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Choisir le mot interrogatif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Quel mot interrogatif selon l’exclamation ?",
+     "head": [
+      "Ce que l’exclamation met en valeur",
+      "Mot interrogatif",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "une qualité (beau, grand…)",
+       "comment",
+       "Comment est ce paysage ?"
+      ],
+      [
+       "une quantité (beaucoup de…)",
+       "combien",
+       "Combien de personnes sont venues ?"
+      ],
+      [
+       "une manière (vite, bien…)",
+       "comment, à quelle vitesse",
+       "Comment travaille-t-il ?"
+      ],
+      [
+       "un choix, une identité",
+       "quel(le)",
+       "Quelle est cette chanson ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne garde pas le point d’exclamation et ne laisse pas « comme / que » exclamatifs devant la question : « Comme est-il grand ? » est incorrect. Écris « Est-il grand ? » ou « Comment est-il ? »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrase interrogative totale.",
+     "items": [
+      "Comme ce travail est difficile !",
+      "Qu’elle est gentille !",
+      "Quel beau cadeau !"
+     ],
+     "corrige": [
+      "1. Ce travail est-il difficile ?",
+      "2. Est-elle gentille ?",
+      "3. Est-ce un beau cadeau ?"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrase interrogative partielle.",
+     "items": [
+      "Que de monde sur la place !",
+      "Comme il parle doucement !",
+      "Quelle belle voix !"
+     ],
+     "corrige": [
+      "1. Combien de personnes y a-t-il sur la place ?",
+      "2. Comment parle-t-il ?",
+      "3. Comment est sa voix ? (ou : Quelle est sa voix ?)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est une transformation correcte de « Que cette route est longue ! » ?",
+     "options": [
+      "Que cette route est-elle longue ?",
+      "Cette route est-elle longue ?",
+      "Quelle longue route !",
+      "Comme cette route est longue ?"
+     ],
+     "answer": 1,
+     "explain": "On supprime « que » et on pose la question avec l’inversion : « Cette route est-elle longue ? »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Pour passer de l’exclamative à l’interrogative, on retrouve d’abord la phrase de base.",
+      "On supprime « quel, comme, que » exclamatifs et on pose une question totale ou partielle.",
+      "Le mot interrogatif dépend de ce que l’exclamation met en valeur : comment, combien, quel…",
+      "La phrase se termine par « ? »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Que de bruit ! » → question partielle :",
+     "options": [
+      "Combien de bruit y a-t-il ?",
+      "Que de bruit y a-t-il ?",
+      "Où est le bruit ?",
+      "Est-ce que de bruit ?"
+     ],
+     "answer": 0,
+     "explain": "« Que de » marque la quantité : on interroge avec « combien »."
+    }
+   ]
+  }
+ ]
+}

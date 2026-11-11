@@ -1,0 +1,211 @@
+{
+ "id": 225,
+ "meta": {
+  "t": "La transformation impersonnelle",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Un verbe qui n’a pas de vrai sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans une phrase **impersonnelle**, le sujet est le pronom **« il »**, qui ne représente ni une personne ni une chose précise. Le verbe est toujours à la **3e personne du singulier**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un verbe impersonnel",
+      "Distinguer le sujet apparent et le sujet réel",
+      "Transformer une phrase à la forme impersonnelle"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "ex",
+     "text": "**Il** pleut. **Il** faut partir. **Il** est arrivé un malheur."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il neige », le pronom « il » désigne :",
+     "options": [
+      "un garçon",
+      "un animal",
+      "personne en particulier",
+      "le professeur"
+     ],
+     "answer": 2,
+     "explain": "C’est un « il » neutre : le verbe est impersonnel."
+    }
+   ]
+  },
+  {
+   "t": "Deux sortes de verbes impersonnels",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Verbes toujours impersonnels et verbes accidentellement impersonnels",
+     "head": [
+      "Catégorie",
+      "Exemples",
+      "Phrase"
+     ],
+     "rows": [
+      [
+       "Verbes essentiellement impersonnels",
+       "pleuvoir, neiger, falloir, s’agir",
+       "**Il** faut du courage. **Il** s’agit d’un conte."
+      ],
+      [
+       "Verbes accidentellement impersonnels",
+       "arriver, rester, manquer, exister, se passer",
+       "**Il** reste deux heures. **Il** manque un cahier."
+      ],
+      [
+       "Expressions impersonnelles",
+       "il est interdit de, il est temps de, il paraît que",
+       "**Il** est interdit de fumer."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Sujet apparent et sujet réel",
+     "text": "Dans « **Il** est arrivé **un accident** », « il » est le **sujet apparent**, « un accident » est le **sujet réel** (celui qui fait ou subit l’action) placé après le verbe."
+    }
+   ]
+  },
+  {
+   "t": "Comment transformer ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "De la phrase personnelle à la phrase impersonnelle",
+     "head": [
+      "Phrase personnelle",
+      "Phrase impersonnelle"
+     ],
+     "rows": [
+      [
+       "Un accident est arrivé.",
+       "**Il** est arrivé **un accident**."
+      ],
+      [
+       "Deux places restent libres.",
+       "**Il** reste **deux places** libres."
+      ],
+      [
+       "Des orages éclatent.",
+       "**Il** éclate **des orages**."
+      ],
+      [
+       "Partir est nécessaire.",
+       "**Il** est nécessaire **de partir**."
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "Place **il** devant le verbe.",
+      "Conjugue le verbe à la **3e personne du singulier**.",
+      "Place l’ancien sujet **après** le verbe (sujet réel).",
+      "Le verbe ne s’accorde **pas** avec le sujet réel."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "warn",
+     "label": "Accord",
+     "text": "Au temps composé, le participe passé reste **invariable** : « Il est arrivé **des** malheurs » (et non « arrivés »). « Il est tombé **des** pluies » (et non « tombées »)."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Ne confonds pas « il » personnel (« Il chante », c’est un garçon) et « il » impersonnel (« Il pleut »)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme impersonnelle.",
+     "items": [
+      "Un malheur est arrivé.",
+      "Trois élèves manquent.",
+      "De fortes pluies tombent.",
+      "Rester ici est dangereux."
+     ],
+     "corrige": [
+      "1. Il est arrivé un malheur.",
+      "2. Il manque trois élèves.",
+      "3. Il tombe de fortes pluies.",
+      "4. Il est dangereux de rester ici."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si « il » est personnel ou impersonnel.",
+     "items": [
+      "Il répare la moto.",
+      "Il faut manger des légumes.",
+      "Il pleut depuis hier.",
+      "Il court très vite."
+     ],
+     "corrige": [
+      "1. personnel",
+      "2. impersonnel",
+      "3. impersonnel",
+      "4. personnel"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il est arrivé des visiteurs.",
+      "Il sont arrivés des visiteurs.",
+      "Il est arrivés des visiteurs.",
+      "Ils est arrivé des visiteurs."
+     ],
+     "answer": 0,
+     "explain": "Le verbe reste à la 3e personne du singulier et le participe est invariable."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un verbe impersonnel a pour sujet « il » (sans référence précise) et se conjugue à la 3e personne du singulier.",
+      "Verbes essentiellement impersonnels : pleuvoir, falloir…, accidentellement : arriver, rester, manquer…",
+      "Le sujet réel se place après le verbe et ne commande pas l’accord.",
+      "Le participe passé reste invariable."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il s’agit d’un conte. » : le verbe « s’agir » est :",
+     "options": [
+      "essentiellement impersonnel",
+      "accidentellement impersonnel",
+      "personnel",
+      "transitif direct"
+     ],
+     "answer": 0,
+     "explain": "« S’agir » ne s’emploie qu’à la forme impersonnelle."
+    }
+   ]
+  }
+ ]
+}

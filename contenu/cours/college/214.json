@@ -1,0 +1,239 @@
+{
+ "id": 214,
+ "meta": {
+  "t": "L’étude d’une œuvre : les morceaux choisis",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un morceau choisi ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une œuvre intégrale est souvent trop longue pour être étudiée page par page. On en retient donc quelques **extraits**, appelés **morceaux choisis**, qui permettent de comprendre l’ensemble : le début, un moment important, un tournant, la fin."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir un morceau choisi",
+      "Situer un extrait dans l’œuvre",
+      "Lire et questionner un extrait avec méthode",
+      "Dire à quoi sert l’extrait dans l’ensemble"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Morceau choisi",
+     "text": "Un **morceau choisi** est un extrait d’une œuvre, retenu parce qu’il est **représentatif** (style, thèmes, personnages) ou **important** pour l’histoire."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi étudie-t-on des morceaux choisis ?",
+     "options": [
+      "Parce que l’œuvre est sans intérêt",
+      "Pour comprendre l’œuvre grâce à quelques passages importants",
+      "Pour ne jamais lire l’œuvre",
+      "Pour apprendre le texte par cœur"
+     ],
+     "answer": 1,
+     "explain": "Les extraits éclairent l’œuvre entière : ils en montrent les moments forts et le style."
+    }
+   ]
+  },
+  {
+   "t": "Pourquoi choisit-on ces extraits ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un extrait n’est jamais pris au hasard. Il a une **fonction** dans l’œuvre."
+    },
+    {
+     "type": "table",
+     "title": "Les grands types de morceaux choisis",
+     "head": [
+      "Type d’extrait",
+      "Ce qu’il montre",
+      "Exemple de question"
+     ],
+     "rows": [
+      [
+       "L’ouverture (début)",
+       "Le cadre, les personnages, le ton",
+       "Où et quand l’histoire commence-t-elle ?"
+      ],
+      [
+       "Le nœud (problème)",
+       "Le conflit ou la difficulté apparaît",
+       "Quel problème se pose aux personnages ?"
+      ],
+      [
+       "Le tournant",
+       "Un événement change le cours de l’histoire",
+       "Qu’est-ce qui change après ce passage ?"
+      ],
+      [
+       "Le dénouement (fin)",
+       "Le problème trouve une issue",
+       "Comment l’histoire se termine-t-elle ?"
+      ],
+      [
+       "Un passage thématique",
+       "Une idée forte de l’auteur",
+       "Quel message l’auteur transmet-il ?"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Avant de lire l’extrait, demande-toi toujours : « À quel moment de l’œuvre sommes-nous ? »"
+    }
+   ]
+  },
+  {
+   "t": "La méthode pour étudier un extrait",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour étudier un morceau choisi, on suit **cinq étapes** dans l’ordre."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Situer** l’extrait : titre de l’œuvre, auteur, place dans l’histoire (début, milieu, fin).",
+      "**Lire** deux fois : une première lecture pour comprendre, une seconde pour observer.",
+      "**Relever** les personnages, le lieu, le temps, les actions et les paroles.",
+      "**Observer** l’écriture : type de texte (narratif, descriptif, dialogue), ton, mots importants.",
+      "**Interpréter** : dire l’idée principale et le rôle de l’extrait dans l’œuvre."
+     ],
+     "label": "Les cinq étapes",
+     "ordered": true
+    },
+    {
+     "type": "p",
+     "text": "Voici un court extrait inventé pour s’exercer :"
+    },
+    {
+     "type": "ex",
+     "text": "« Au petit matin, Nzaba quitta le village sans bruit. Sur le sentier, la forêt semblait retenir son souffle. Il serra contre lui le sac de sa mère et se promit de ne revenir qu’avec de bonnes nouvelles. »",
+     "label": "Extrait d’entraînement"
+    },
+    {
+     "type": "table",
+     "title": "Étude rapide de l’extrait",
+     "head": [
+      "Question",
+      "Réponse"
+     ],
+     "rows": [
+      [
+       "Qui ?",
+       "Nzaba, un jeune du village"
+      ],
+      [
+       "Où ? Quand ?",
+       "Sur le sentier, dans la forêt, au petit matin"
+      ],
+      [
+       "Que se passe-t-il ?",
+       "Il part du village en secret"
+      ],
+      [
+       "Ton",
+       "Calme, un peu inquiet (« retenir son souffle »)"
+      ],
+      [
+       "Rôle probable",
+       "Début d’un voyage : l’extrait lance l’histoire"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Utilise la méthode en cinq étapes."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Lis l’extrait d’entraînement ci-dessus et réponds.",
+     "items": [
+      "Quel est le personnage principal ?",
+      "Où se passe la scène ?",
+      "Quelle expression montre que la nature est silencieuse ?",
+      "Quelle promesse le personnage fait-il ?"
+     ],
+     "corrige": [
+      "1. Nzaba.",
+      "2. Sur le sentier, dans la forêt, près du village.",
+      "3. « la forêt semblait retenir son souffle ».",
+      "4. Il ne reviendra qu’avec de bonnes nouvelles."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis à quel type d’extrait correspond chaque situation (ouverture, nœud, tournant, dénouement).",
+     "items": [
+      "Les personnages se retrouvent enfin et le conflit est réglé.",
+      "L’histoire commence et l’auteur présente le village.",
+      "Une mauvaise nouvelle arrive et change tout.",
+      "Un désaccord oppose deux personnages et crée un problème."
+     ],
+     "corrige": [
+      "1. dénouement",
+      "2. ouverture",
+      "3. tournant",
+      "4. nœud"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "La toute première étape de l’étude d’un extrait est de :",
+     "options": [
+      "l’apprendre par cœur",
+      "le situer dans l’œuvre",
+      "le recopier",
+      "le résumer en un mot"
+     ],
+     "answer": 1,
+     "explain": "On situe d’abord l’extrait : œuvre, auteur, place dans l’histoire."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un morceau choisi est un extrait important ou représentatif d’une œuvre.",
+      "Il a une fonction : ouverture, nœud, tournant, dénouement ou thème.",
+      "Méthode : situer, lire, relever, observer, interpréter.",
+      "Toujours dire à quoi sert l’extrait dans l’ensemble de l’œuvre."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Un extrait où un événement change le cours de l’histoire est :",
+     "options": [
+      "une ouverture",
+      "un tournant",
+      "un titre",
+      "une biographie"
+     ],
+     "answer": 1,
+     "explain": "C’est un **tournant** : il y a un avant et un après."
+    }
+   ]
+  }
+ ]
+}

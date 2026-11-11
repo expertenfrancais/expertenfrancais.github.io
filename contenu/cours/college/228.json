@@ -1,0 +1,204 @@
+{
+ "id": 228,
+ "meta": {
+  "t": "L’accord du participe passé des verbes occasionnellement pronominaux de sens réfléchi",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Quand le sujet agit sur lui-même",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un verbe pronominal de **sens réfléchi**, le sujet fait l’action **sur lui-même** : « Elle **se** lave » veut dire « Elle lave elle-même »."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître le sens réfléchi",
+      "Trouver la fonction du pronom « se » (COD ou COI)",
+      "Accorder correctement le participe passé"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "« Marie se coiffe. » : le sens est :",
+     "options": [
+      "passif",
+      "réfléchi",
+      "impersonnel",
+      "réciproque"
+     ],
+     "answer": 1,
+     "explain": "Marie coiffe elle-même : sens réfléchi."
+    }
+   ]
+  },
+  {
+   "t": "La règle d’accord",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Règle",
+     "text": "Au passé composé, le participe passé s’accorde avec le **COD s’il est placé avant le verbe**. Il reste **invariable** si le COD est placé après, ou si « se » est un COI."
+    },
+    {
+     "type": "table",
+     "title": "Trouver la fonction de « se »",
+     "head": [
+      "Phrase",
+      "Test",
+      "Fonction de « se »",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "Elle s’est lavée.",
+       "Elle a lavé **qui** ? elle-même",
+       "COD (avant)",
+       "lavé**e**"
+      ],
+      [
+       "Elle s’est lavé les mains.",
+       "Elle a lavé **quoi** ? les mains ; « se » = à elle",
+       "COI (COD après)",
+       "lavé (invariable)"
+      ],
+      [
+       "Elle s’est acheté un livre.",
+       "Elle a acheté un livre **à qui** ? à elle",
+       "COI",
+       "acheté (invariable)"
+      ],
+      [
+       "Elle s’est regardée.",
+       "Elle a regardé **qui** ? elle-même",
+       "COD (avant)",
+       "regardé**e**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Pose la question **« qui ? »** ou **« quoi ? »** après le participe. Si la réponse est « se » placé avant, on accorde."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Comparer",
+     "head": [
+      "Phrase",
+      "Raison"
+     ],
+     "rows": [
+      [
+       "Les enfants se sont lavés.",
+       "« se » COD placé avant → accord"
+      ],
+      [
+       "Les enfants se sont lavé les mains.",
+       "COD « les mains » placé après → pas d’accord"
+      ],
+      [
+       "Les mains qu’ils se sont lavées.",
+       "COD « que » (= les mains) placé avant → accord"
+      ],
+      [
+       "Elle s’est brossé les dents.",
+       "COD « les dents » après → invariable"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Quand un COD est placé **avant** (« les fleurs qu’elle s’est cueillies »), le participe s’accorde avec ce COD, pas avec le sujet."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé quand il le faut.",
+     "items": [
+      "Marie s’est (couper).",
+      "Marie s’est (couper) le doigt.",
+      "Les filles se sont (regarder) dans le miroir.",
+      "Les fleurs qu’elle s’est (cueillir) sont belles."
+     ],
+     "corrige": [
+      "1. coupée",
+      "2. coupé",
+      "3. regardées",
+      "4. cueillies"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le participe doit s’accorder et pourquoi.",
+     "items": [
+      "Ils se sont lavé les mains.",
+      "Elles se sont habillées vite.",
+      "Elle s’est offert un cadeau."
+     ],
+     "corrige": [
+      "1. non : COD « les mains » placé après",
+      "2. oui : « se » COD placé avant",
+      "3. non : « se » COI, COD « un cadeau » après"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Elle s’est brossé les cheveux. » : pourquoi « brossé » est invariable ?",
+     "options": [
+      "Parce que « se » est COD",
+      "Parce que le COD est placé après le verbe",
+      "Parce que le verbe est intransitif",
+      "Parce que le sujet est masculin"
+     ],
+     "answer": 1,
+     "explain": "Le COD « les cheveux » est après le participe : pas d’accord."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Sens réfléchi : le sujet agit sur lui-même.",
+      "Le participe s’accorde avec le COD placé avant (souvent « se »).",
+      "Pas d’accord si le COD est après, ou si « se » est COI.",
+      "Test : « qui ? » ou « quoi ? » après le participe."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Elles se sont (maquiller). » → :",
+     "options": [
+      "maquillé",
+      "maquillée",
+      "maquillés",
+      "maquillées"
+     ],
+     "answer": 3,
+     "explain": "« se » est COD placé avant : accord au féminin pluriel."
+    }
+   ]
+  }
+ ]
+}

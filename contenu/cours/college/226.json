@@ -1,0 +1,236 @@
+{
+ "id": 226,
+ "meta": {
+  "t": "L’accord du participe passé des verbes essentiellement pronominaux",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Des verbes qui ne vivent qu’avec « se »",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains verbes n’existent **qu’à la forme pronominale** : on ne peut pas dire « évanouir quelqu’un » ni « envoler ». On les appelle verbes **essentiellement pronominaux**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un verbe essentiellement pronominal",
+      "Appliquer la règle d’accord du participe passé",
+      "Connaître l’exception rare"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes essentiellement pronominaux",
+     "head": [
+      "Verbe",
+      "Exemple au passé composé"
+     ],
+     "rows": [
+      [
+       "s’évanouir",
+       "Elle s’est évanou**ie**."
+      ],
+      [
+       "se souvenir",
+       "Ils se sont souven**us**."
+      ],
+      [
+       "s’enfuir",
+       "Les voleurs se sont enfu**is**."
+      ],
+      [
+       "s’absenter",
+       "Elle s’est absent**ée**."
+      ],
+      [
+       "s’écrier",
+       "Les enfants se sont écri**és**."
+      ],
+      [
+       "se repentir",
+       "Il s’est repent**i**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe est essentiellement pronominal ?",
+     "options": [
+      "se laver",
+      "s’enfuir",
+      "se regarder",
+      "se parler"
+     ],
+     "answer": 1,
+     "explain": "On ne dit pas « enfuir quelqu’un » : « s’enfuir » n’existe qu’à la forme pronominale."
+    }
+   ]
+  },
+  {
+   "t": "La règle d’accord",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Règle",
+     "text": "Le participe passé d’un verbe essentiellement pronominal **s’accorde avec le sujet** en genre et en nombre. Il se conjugue avec **être**."
+    },
+    {
+     "type": "table",
+     "title": "Accord avec le sujet",
+     "head": [
+      "Sujet",
+      "Phrase",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "Il (masc. sing.)",
+       "Il s’est évanoui.",
+       "— (rien)"
+      ],
+      [
+       "Elle (fém. sing.)",
+       "Elle s’est évanoui**e**.",
+       "+ e"
+      ],
+      [
+       "Ils (masc. plur.)",
+       "Ils se sont enfui**s**.",
+       "+ s"
+      ],
+      [
+       "Elles (fém. plur.)",
+       "Elles se sont enfui**es**.",
+       "+ es"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Remplace le verbe par un verbe de la même catégorie (s’évanouir / s’enfuir) ou pense à **« être »** : « Elle est évanouie » → on accorde avec le sujet."
+    },
+    {
+     "type": "warn",
+     "label": "Pourquoi ?",
+     "text": "Le « se » de ces verbes n’est **ni COD ni COI** : il fait partie du verbe. C’est pourquoi on ne cherche pas de COD : on accorde simplement avec le sujet."
+    }
+   ]
+  },
+  {
+   "t": "Exemples, pièges et exception",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Bien accorder",
+     "head": [
+      "Phrase correcte",
+      "Explication"
+     ],
+     "rows": [
+      [
+       "Les élèves se sont absentés.",
+       "sujet « les élèves » : masc. plur."
+      ],
+      [
+       "Ma mère s’est souvenue de son enfance.",
+       "sujet « ma mère » : fém. sing."
+      ],
+      [
+       "Marie et Anne se sont enfuies.",
+       "sujets féminins : fém. plur."
+      ],
+      [
+       "Paul et Anne se sont enfuis.",
+       "sujets mixtes : le masculin l’emporte"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Exception",
+     "text": "Une exception rare : **s’arroger**. Son participe s’accorde avec le **COD** s’il est placé avant : « Ils se sont arrogé des droits » (COD après), mais « Les droits qu’ils se sont arrogés » (COD avant)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé.",
+     "items": [
+      "Les voleurs se sont (enfuir).",
+      "Elle s’est (évanouir) de fatigue.",
+      "Nous nous sommes (souvenir) de ce jour. (nous = des filles)",
+      "Mes cousins se sont (absenter)."
+     ],
+     "corrige": [
+      "1. enfuis",
+      "2. évanouie",
+      "3. souvenues",
+      "4. absentés"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie la phrase correcte.",
+     "items": [
+      "Elle s’est enfui. / Elle s’est enfuie.",
+      "Ils se sont repenti. / Ils se sont repentis."
+     ],
+     "corrige": [
+      "1. Elle s’est enfuie.",
+      "2. Ils se sont repentis."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Les infirmières se sont (absenter) ». Quel accord ?",
+     "options": [
+      "absenté",
+      "absentées",
+      "absentés",
+      "absentée"
+     ],
+     "answer": 1,
+     "explain": "Sujet féminin pluriel : « absentées »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un verbe essentiellement pronominal n’existe qu’à la forme pronominale : s’évanouir, s’enfuir, se souvenir…",
+      "Son participe passé s’accorde avec le sujet.",
+      "Auxiliaire : toujours être.",
+      "Exception : s’arroger (accord avec le COD placé avant)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Elles se sont souvenu / souvenues » :",
+     "options": [
+      "souvenu",
+      "souvenues",
+      "souvenus",
+      "souvenue"
+     ],
+     "answer": 1,
+     "explain": "Accord avec le sujet féminin pluriel."
+    }
+   ]
+  }
+ ]
+}

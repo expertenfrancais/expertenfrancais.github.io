@@ -1,0 +1,222 @@
+{
+ "id": 233,
+ "meta": {
+  "t": "L’interprétation d’un support visionné : le plan et le champ visuel",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "c",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Lire une image",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une photographie, une affiche, un dessin ou un film donnent du sens par ce qu’ils **montrent** et par la manière de le montrer. Deux notions sont essentielles : le **plan** et le **champ visuel**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir plan et champ visuel",
+      "Reconnaître les différents plans",
+      "Expliquer l’effet produit par le choix d’un plan"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Plan",
+     "text": "Le **plan** indique **la taille** de ce qui est montré par rapport à l’image : on voit de loin ou de près."
+    },
+    {
+     "type": "def",
+     "label": "Champ visuel",
+     "text": "Le **champ visuel** est **tout ce que l’image montre** : l’espace visible, avec ses différents niveaux (premier plan, arrière-plan)."
+    },
+    {
+     "type": "quiz",
+     "question": "Le plan renseigne sur :",
+     "options": [
+      "la couleur",
+      "la taille de ce qui est montré",
+      "le titre",
+      "l’auteur"
+     ],
+     "answer": 1,
+     "explain": "On voit le sujet de loin (grand plan) ou de près (gros plan)."
+    }
+   ]
+  },
+  {
+   "t": "Les différents plans",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Du plus large au plus serré",
+     "head": [
+      "Plan",
+      "On voit…",
+      "Effet"
+     ],
+     "rows": [
+      [
+       "Plan d’ensemble (ou général)",
+       "tout le décor ; les personnages sont très petits",
+       "situer le lieu, montrer l’ampleur"
+      ],
+      [
+       "Plan moyen",
+       "les personnages en pied",
+       "montrer l’action"
+      ],
+      [
+       "Plan américain",
+       "le personnage jusqu’aux cuisses",
+       "montrer un dialogue, un geste"
+      ],
+      [
+       "Plan rapproché",
+       "le personnage à partir de la taille ou de la poitrine",
+       "se rapprocher des sentiments"
+      ],
+      [
+       "Gros plan",
+       "le visage ou un objet",
+       "montrer une émotion, un détail"
+      ],
+      [
+       "Très gros plan",
+       "une partie : l’œil, la main…",
+       "dramatiser, attirer l’attention"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Plus le plan est **serré**, plus on est proche du personnage et de ses émotions. Plus il est **large**, plus on découvre le lieu."
+    }
+   ]
+  },
+  {
+   "t": "Le champ visuel",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les niveaux de l’image",
+     "head": [
+      "Niveau",
+      "Position",
+      "Exemple (photo d’un marché)"
+     ],
+     "rows": [
+      [
+       "Premier plan",
+       "le plus proche de nous",
+       "une vendeuse et ses mangues"
+      ],
+      [
+       "Deuxième plan",
+       "au milieu",
+       "les clients qui discutent"
+      ],
+      [
+       "Arrière-plan",
+       "le plus éloigné",
+       "les maisons et le ciel"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "Le **cadrage** : ce que l’image garde et ce qu’elle laisse hors du cadre.",
+      "Le **hors-champ** : ce qui existe mais qu’on ne voit pas.",
+      "Le **centre** attire d’abord le regard.",
+      "Les **lignes** et les **couleurs** guident l’œil."
+     ],
+     "label": "À observer"
+    },
+    {
+     "type": "warn",
+     "label": "Mot à deux emplois",
+     "text": "Ne confonds pas **plan** (taille de ce qu’on montre) et **plan** dans « premier plan » (distance dans l’image). Ici, « premier plan » désigne le niveau le plus proche."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Donne le nom du plan.",
+     "items": [
+      "On voit seulement le visage d’un enfant qui pleure.",
+      "On voit un village entier entouré de collines.",
+      "On voit un homme debout, de la tête aux pieds.",
+      "On voit seulement une main qui tient une clé."
+     ],
+     "corrige": [
+      "1. gros plan",
+      "2. plan d’ensemble",
+      "3. plan moyen",
+      "4. très gros plan"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique l’effet.",
+     "items": [
+      "Un gros plan sur le visage d’un personnage.",
+      "Un plan d’ensemble sur une forêt immense."
+     ],
+     "corrige": [
+      "1. Il montre les émotions du personnage de très près.",
+      "2. Il montre l’ampleur du lieu et la petitesse des personnages."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Pour montrer la peur d’un personnage, on choisit plutôt :",
+     "options": [
+      "un plan d’ensemble",
+      "un gros plan",
+      "un plan de la forêt",
+      "un hors-champ"
+     ],
+     "answer": 1,
+     "explain": "Le gros plan fait voir l’émotion du visage."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le plan indique la taille de ce qu’on montre : ensemble, moyen, américain, rapproché, gros plan, très gros plan.",
+      "Le champ visuel est tout ce que l’image montre : premier plan, deuxième plan, arrière-plan.",
+      "Le choix du plan produit un effet : situer, montrer l’action, révéler une émotion.",
+      "Pour interpréter, on décrit ce qu’on voit, puis on explique l’effet."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le plan qui situe le lieu et montre l’ampleur est :",
+     "options": [
+      "le gros plan",
+      "le plan d’ensemble",
+      "le plan américain",
+      "le très gros plan"
+     ],
+     "answer": 1,
+     "explain": "Le plan d’ensemble montre le décor entier."
+    }
+   ]
+  }
+ ]
+}

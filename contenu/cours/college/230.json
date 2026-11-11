@@ -1,0 +1,213 @@
+{
+ "id": 230,
+ "meta": {
+  "t": "Les degrés relatifs de qualification",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "h",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Comparer pour qualifier",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut donner une qualité à un être ou à une chose, mais aussi dire **à quel degré** elle la possède. Les **degrés relatifs** comparent : on compare un être à un autre, ou à un groupe."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Distinguer comparatif et superlatif relatif",
+      "Employer plus… que, aussi… que, moins… que",
+      "Employer le plus, le moins"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Degrés relatifs",
+     "text": "Ils expriment la qualité **par comparaison** : le **comparatif** (supériorité, égalité, infériorité) et le **superlatif relatif** (le plus, le moins)."
+    },
+    {
+     "type": "quiz",
+     "question": "« Paul est plus grand que Marc. » : c’est un comparatif de :",
+     "options": [
+      "égalité",
+      "supériorité",
+      "infériorité",
+      "quantité"
+     ],
+     "answer": 1,
+     "explain": "« plus… que » exprime la supériorité."
+    }
+   ]
+  },
+  {
+   "t": "Le comparatif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les trois comparatifs",
+     "head": [
+      "Sens",
+      "Formule",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Supériorité",
+       "plus + adjectif + que",
+       "Marie est **plus** grande **que** Paul."
+      ],
+      [
+       "Égalité",
+       "aussi + adjectif + que",
+       "Il est **aussi** fort **que** son frère."
+      ],
+      [
+       "Infériorité",
+       "moins + adjectif + que",
+       "Ce sac est **moins** lourd **que** l’autre."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Avec un adverbe, un verbe ou un nom",
+     "head": [
+      "Mot comparé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "adverbe",
+       "Il court **moins** vite **que** moi."
+      ],
+      [
+       "verbe",
+       "Elle travaille **plus que** sa sœur."
+      ],
+      [
+       "nom",
+       "Il a **autant de** livres **que** moi. / **plus de** livres **que** moi."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le deuxième terme de la comparaison est introduit par **« que »** : Paul est plus grand **que Marc**."
+    }
+   ]
+  },
+  {
+   "t": "Le superlatif relatif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le plus, le moins",
+     "head": [
+      "Sens",
+      "Formule",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Supériorité",
+       "le / la / les plus + adjectif",
+       "C’est **la plus** belle maison **du** quartier."
+      ],
+      [
+       "Infériorité",
+       "le / la / les moins + adjectif",
+       "Ce sont **les moins** chers **de** la boutique."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Accord",
+     "text": "Le superlatif s’accorde : **le** plus grand, **la** plus grande, **les** plus grands. Le groupe de comparaison est introduit par **de** (ou parmi) : le plus grand **de** la classe."
+    },
+    {
+     "type": "ex",
+     "text": "Marie est **plus** rapide **que** Paul. Marie est **la plus** rapide **de** la classe."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec plus, aussi ou moins selon le sens indiqué.",
+     "items": [
+      "Mon frère est … grand que moi. (supériorité)",
+      "Ce chemin est … long que l’autre. (égalité)",
+      "Cette valise est … lourde que celle-là. (infériorité)"
+     ],
+     "corrige": [
+      "1. plus",
+      "2. aussi",
+      "3. moins"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en superlatif relatif.",
+     "items": [
+      "Ce fleuve est long. (supériorité, du pays)",
+      "Cette élève est attentive. (supériorité, de la classe)",
+      "Ces fruits sont chers. (infériorité, du marché)"
+     ],
+     "corrige": [
+      "1. C’est le fleuve le plus long du pays.",
+      "2. C’est l’élève la plus attentive de la classe.",
+      "3. Ce sont les fruits les moins chers du marché."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un superlatif relatif ?",
+     "options": [
+      "Il est aussi grand que moi.",
+      "Il est très grand.",
+      "Il est le plus grand de la classe.",
+      "Il est plus grand que moi."
+     ],
+     "answer": 2,
+     "explain": "« le plus grand de la classe » est un superlatif relatif."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les degrés relatifs comparent : comparatif et superlatif relatif.",
+      "Comparatif : plus… que, aussi… que, moins… que.",
+      "Superlatif relatif : le / la / les plus, le / la / les moins, suivi de « de ».",
+      "Le superlatif s’accorde avec le nom."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Marie est … plus rapide de la classe » : quel article convient ?",
+     "options": [
+      "le",
+      "la",
+      "les",
+      "un"
+     ],
+     "answer": 1,
+     "explain": "« Marie » est féminin singulier : « la plus rapide »."
+    }
+   ]
+  }
+ ]
+}

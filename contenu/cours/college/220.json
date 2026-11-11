@@ -1,0 +1,221 @@
+{
+ "id": 220,
+ "meta": {
+  "t": "La transformation de la forme interrogative à la forme affirmative",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Répondre à une question",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Transformer une phrase **interrogative** en phrase **affirmative**, c’est en faire un **énoncé** qui donne l’information au lieu de la demander."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Rétablir l’ordre normal des mots",
+      "Supprimer les marques de la question",
+      "Remplacer le mot interrogatif par une information",
+      "Terminer par un point"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "ex",
+     "text": "« Viens-tu au marché ? » → « Tu viens au marché. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle ponctuation termine une phrase affirmative ?",
+     "options": [
+      "?",
+      "!",
+      "Le point",
+      "Les deux-points"
+     ],
+     "answer": 2,
+     "explain": "Une phrase affirmative (déclarative) se termine par un **point**."
+    }
+   ]
+  },
+  {
+   "t": "Cas de l’interrogation totale",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les marques à supprimer",
+     "head": [
+      "Marque de la question",
+      "Interrogative",
+      "Affirmative"
+     ],
+     "rows": [
+      [
+       "Inversion du sujet",
+       "Pars-tu demain ?",
+       "Tu pars demain."
+      ],
+      [
+       "Sujet + pronom de rappel",
+       "Paul est-il malade ?",
+       "Paul est malade."
+      ],
+      [
+       "« -t- » euphonique",
+       "Mange-t-elle du manioc ?",
+       "Elle mange du manioc."
+      ],
+      [
+       "« Est-ce que »",
+       "Est-ce que vous venez ?",
+       "Vous venez."
+      ],
+      [
+       "Intonation",
+       "Tu as fini ?",
+       "Tu as fini."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "On efface le trait d’union, on remet le sujet **avant** le verbe, et on supprime le « t » qui n’était là que pour la prononciation."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "On ne garde pas « est-ce que » : on ne peut pas écrire « Est-ce que tu viens. »"
+    }
+   ]
+  },
+  {
+   "t": "Cas de l’interrogation partielle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ici, le mot interrogatif réclame une réponse. Il faut **choisir une information** pour le remplacer."
+    },
+    {
+     "type": "table",
+     "title": "Remplacer le mot interrogatif",
+     "head": [
+      "Interrogative",
+      "Affirmative possible"
+     ],
+     "rows": [
+      [
+       "Où habite-t-il ?",
+       "Il habite **à Pointe-Noire**."
+      ],
+      [
+       "Quand pars-tu ?",
+       "Je pars **demain**."
+      ],
+      [
+       "Pourquoi pleure-t-elle ?",
+       "Elle pleure **parce qu’elle est triste**."
+      ],
+      [
+       "Qui a téléphoné ?",
+       "**Mon oncle** a téléphoné."
+      ],
+      [
+       "Que mange-t-il ?",
+       "Il mange **du poisson**."
+      ],
+      [
+       "Combien coûte ce livre ?",
+       "Ce livre coûte **mille francs**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Quand la question ne donne pas la réponse, tu peux inventer une information raisonnable : l’exercice porte sur la **forme** de la phrase."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrases affirmatives (interrogation totale).",
+     "items": [
+      "Aimes-tu la lecture ?",
+      "Les élèves sont-ils attentifs ?",
+      "Est-ce que tu as compris ?",
+      "Joue-t-il au ballon ?"
+     ],
+     "corrige": [
+      "1. Tu aimes la lecture.",
+      "2. Les élèves sont attentifs.",
+      "3. Tu as compris.",
+      "4. Il joue au ballon."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrases affirmatives (interrogation partielle) en inventant la réponse.",
+     "items": [
+      "Où vas-tu ?",
+      "Quand arrive-t-elle ?",
+      "Que fais-tu ?"
+     ],
+     "corrige": [
+      "1. Je vais au marché.",
+      "2. Elle arrive ce soir.",
+      "3. Je fais mes devoirs. (réponses possibles)"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Parle-t-elle bien ? » devient :",
+     "options": [
+      "Elle parle-t bien.",
+      "Elle parle bien.",
+      "Parle elle bien.",
+      "Elle bien parle."
+     ],
+     "answer": 1,
+     "explain": "On rétablit « sujet + verbe » et on supprime le « -t- »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Affirmative = énoncé qui se termine par un point.",
+      "Totale : on remet le sujet devant le verbe et on retire « est-ce que », le trait d’union et le « -t- ».",
+      "Partielle : on remplace le mot interrogatif par une information.",
+      "Le sens ne se limite plus à une demande : on donne l’information."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel élément disparaît dans la transformation d’« Est-ce que tu viens ? » ?",
+     "options": [
+      "tu",
+      "viens",
+      "est-ce que",
+      "la phrase entière"
+     ],
+     "answer": 2,
+     "explain": "« Est-ce que » est une marque de l’interrogation."
+    }
+   ]
+  }
+ ]
+}

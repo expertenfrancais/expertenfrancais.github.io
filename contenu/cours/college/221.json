@@ -1,0 +1,256 @@
+{
+ "id": 221,
+ "meta": {
+  "t": "La transformation de la forme négative à la forme affirmative",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Retirer la négation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Transformer une phrase **négative** en phrase **affirmative**, c’est supprimer la négation et, souvent, la remplacer par un mot de sens contraire. On traite aussi la forme **interro-négative** (une question à la forme négative)."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Remplacer les mots de la négation",
+      "Rétablir les articles",
+      "Transformer une phrase interro-négative en phrase affirmative"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "ex",
+     "text": "« Il ne joue pas. » → « Il joue. »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est affirmative ?",
+     "options": [
+      "Il ne vient jamais.",
+      "Il vient.",
+      "Il ne vient plus.",
+      "Ne vient-il pas ?"
+     ],
+     "answer": 1,
+     "explain": "Il n’y a aucun mot de négation."
+    }
+   ]
+  },
+  {
+   "t": "Les mots à remplacer",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Négation → affirmation",
+     "head": [
+      "Négative",
+      "Mot de remplacement",
+      "Affirmative"
+     ],
+     "rows": [
+      [
+       "Il ne mange pas.",
+       "(on supprime « ne… pas »)",
+       "Il mange."
+      ],
+      [
+       "Il ne pleure plus.",
+       "encore, toujours",
+       "Il pleure encore."
+      ],
+      [
+       "Elle ne ment jamais.",
+       "toujours, souvent",
+       "Elle ment souvent. / Elle dit toujours la vérité."
+      ],
+      [
+       "Je ne vois rien.",
+       "quelque chose, tout",
+       "Je vois quelque chose."
+      ],
+      [
+       "Je ne vois personne.",
+       "quelqu’un, tout le monde",
+       "Je vois quelqu’un."
+      ],
+      [
+       "Il n’a aucun ami.",
+       "un, plusieurs",
+       "Il a plusieurs amis."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Sens",
+     "text": "Le contraire d’une négation totale n’est pas toujours simple. « Il ne vient jamais » → « Il vient toujours » change le sens ; on peut aussi écrire « Il vient parfois »."
+    }
+   ]
+  },
+  {
+   "t": "Les articles et le verbe",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les articles : « de » après la négation, « du, des, un » à l’affirmative",
+     "head": [
+      "Négative",
+      "Affirmative"
+     ],
+     "rows": [
+      [
+       "Il ne boit pas **d’**eau.",
+       "Il boit **de l’**eau."
+      ],
+      [
+       "Je n’ai pas **de** cahier.",
+       "J’ai **un** cahier."
+      ],
+      [
+       "Elle n’a pas **d’**amis.",
+       "Elle a **des** amis."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Aux temps composés",
+     "head": [
+      "Négative",
+      "Affirmative"
+     ],
+     "rows": [
+      [
+       "Il n’a pas fini.",
+       "Il a fini."
+      ],
+      [
+       "Nous ne sommes jamais partis.",
+       "Nous sommes partis."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Aux temps composés, on enlève « ne » et « pas » qui entouraient l’auxiliaire ; l’auxiliaire et le participe passé restent."
+    },
+    {
+     "type": "h",
+     "text": "La forme interro-négative"
+    },
+    {
+     "type": "p",
+     "text": "Une phrase **interro-négative** pose une question à la forme négative : « Ne viens-tu pas ? » Elle exprime souvent une invitation, un reproche ou une certitude. En affirmative, on obtient : « Tu viens. »"
+    },
+    {
+     "type": "table",
+     "title": "Interro-négative → affirmative",
+     "head": [
+      "Interro-négative",
+      "Affirmative"
+     ],
+     "rows": [
+      [
+       "Ne viens-tu pas ?",
+       "Tu viens."
+      ],
+      [
+       "N’as-tu pas faim ?",
+       "Tu as faim."
+      ],
+      [
+       "Ne mange-t-il pas de poisson ?",
+       "Il mange du poisson."
+      ],
+      [
+       "N’est-elle jamais venue ?",
+       "Elle est déjà venue."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme affirmative.",
+     "items": [
+      "Tu ne dors pas.",
+      "Nous n’avons pas fini.",
+      "Il n’a pas de livre.",
+      "Elle n’aime pas le café."
+     ],
+     "corrige": [
+      "1. Tu dors.",
+      "2. Nous avons fini.",
+      "3. Il a un livre.",
+      "4. Elle aime le café."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme les phrases interro-négatives en phrases affirmatives.",
+     "items": [
+      "Ne veux-tu pas venir ?",
+      "N’ont-ils pas compris ?",
+      "Ne parle-t-elle pas anglais ?"
+     ],
+     "corrige": [
+      "1. Tu veux venir.",
+      "2. Ils ont compris.",
+      "3. Elle parle anglais."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Il ne boit jamais de lait. » peut devenir :",
+     "options": [
+      "Il boit jamais de lait.",
+      "Il boit du lait.",
+      "Il ne boit du lait.",
+      "Il boit pas de lait."
+     ],
+     "answer": 1,
+     "explain": "On supprime la négation et « de » redevient « du »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "On supprime « ne… pas, plus, jamais… » et on remplace si besoin par encore, toujours, quelqu’un, quelque chose…",
+      "Après la négation, l’article est « de » ; à l’affirmative, il redevient du, de la, des, un.",
+      "Aux temps composés, on garde l’auxiliaire et le participe passé.",
+      "Une phrase interro-négative devient affirmative en retrouvant l’ordre sujet-verbe."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Ne chante-t-elle pas ? » devient :",
+     "options": [
+      "Elle chante pas.",
+      "Elle chante.",
+      "Elle ne chante.",
+      "Chante-t-elle."
+     ],
+     "answer": 1,
+     "explain": "On enlève l’inversion et la négation."
+    }
+   ]
+  }
+ ]
+}

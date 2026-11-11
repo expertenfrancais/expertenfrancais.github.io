@@ -1,0 +1,217 @@
+{
+ "id": 231,
+ "meta": {
+  "t": "Les degrés absolus de qualification",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Intensifier sans comparer",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **degrés absolus** expriment une qualité à un **haut degré** **sans comparaison**. On renforce l’adjectif ou l’adverbe avec un mot d’intensité."
+    },
+    {
+     "type": "def",
+     "label": "Superlatif absolu",
+     "text": "Le **superlatif absolu** exprime une qualité très forte, sans terme de comparaison : « Ce film est **très** intéressant. »"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître les marques du degré absolu",
+      "Employer très, fort, bien, tout à fait, extrêmement…",
+      "Connaître d’autres procédés (préfixes, répétition)"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase exprime un degré absolu ?",
+     "options": [
+      "Il est plus grand que moi.",
+      "Il est extrêmement grand.",
+      "Il est le plus grand.",
+      "Il est aussi grand que moi."
+     ],
+     "answer": 1,
+     "explain": "« extrêmement » renforce sans comparer."
+    }
+   ]
+  },
+  {
+   "t": "Les mots d’intensité",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les principaux adverbes d’intensité",
+     "head": [
+      "Mot",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "très",
+       "Elle est **très** gentille."
+      ],
+      [
+       "fort",
+       "Il est **fort** aimable."
+      ],
+      [
+       "bien",
+       "Ce sac est **bien** lourd."
+      ],
+      [
+       "tout à fait",
+       "Il est **tout à fait** d’accord."
+      ],
+      [
+       "extrêmement, infiniment",
+       "Un chemin **extrêmement** difficile."
+      ],
+      [
+       "vraiment, particulièrement",
+       "Un repas **particulièrement** bon."
+      ],
+      [
+       "terriblement, fortement",
+       "Un bruit **terriblement** fort."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« très » se place devant un **adjectif** ou un **adverbe**, jamais devant un verbe : on dit « J’aime **beaucoup** ce livre », pas « J’aime **très** ce livre »."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "On ne dit pas « très meilleur » : on dit « **bien** meilleur », « **beaucoup** meilleur »."
+    }
+   ]
+  },
+  {
+   "t": "D’autres procédés",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Autres façons d’exprimer le degré absolu",
+     "head": [
+      "Procédé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "préfixe super-, extra-, archi-, ultra-, hyper-",
+       "un film **super**bon, un lait **extra**fin, une salle **archi**pleine"
+      ],
+      [
+       "suffixe -issime",
+       "rarissime, richissime, bellissime"
+      ],
+      [
+       "répétition",
+       "un long, **long** voyage"
+      ],
+      [
+       "des plus + adjectif",
+       "une situation **des plus** délicates"
+      ],
+      [
+       "comparaison imagée",
+       "fort **comme un lion**, léger **comme une plume**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Ne mélange pas : « très » exprime un degré absolu ; « plus… que » exprime un degré relatif."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Souligne le mot qui exprime le degré absolu.",
+     "items": [
+      "Ce fleuve est extrêmement large.",
+      "Il est tout à fait prêt.",
+      "Ce travail est bien difficile.",
+      "C’est une richissime famille."
+     ],
+     "corrige": [
+      "1. extrêmement",
+      "2. tout à fait",
+      "3. bien",
+      "4. richissime (suffixe -issime)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Renforce l’adjectif avec un adverbe d’intensité.",
+     "items": [
+      "Une route longue.",
+      "Un élève sérieux.",
+      "Un repas bon.",
+      "Un enfant poli."
+     ],
+     "corrige": [
+      "1. Une route très longue.",
+      "2. Un élève fort sérieux.",
+      "3. Un repas particulièrement bon.",
+      "4. Un enfant extrêmement poli."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il est très meilleur que moi.",
+      "Il est bien meilleur que moi.",
+      "J’aime très ce chant.",
+      "Il aime très."
+     ],
+     "answer": 1,
+     "explain": "« très » ne s’emploie pas devant « meilleur » : on dit « bien meilleur »."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Degré absolu : qualité très forte, sans comparaison.",
+      "Mots d’intensité : très, fort, bien, tout à fait, extrêmement…",
+      "Autres procédés : préfixes (super-, extra-, archi-), suffixe -issime, répétition, des plus…",
+      "« Très » ne s’emploie pas devant un verbe ni devant « meilleur »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Une salle archiplein » : « archi- » exprime :",
+     "options": [
+      "la comparaison",
+      "l’intensité extrême",
+      "la négation",
+      "le contraire"
+     ],
+     "answer": 1,
+     "explain": "« archi- » renforce : degré absolu."
+    }
+   ]
+  }
+ ]
+}

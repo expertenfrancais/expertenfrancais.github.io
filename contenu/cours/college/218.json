@@ -1,0 +1,212 @@
+{
+ "id": 218,
+ "meta": {
+  "t": "La transformation de la forme affirmative à la forme exclamative",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Exprimer un sentiment fort",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La phrase **exclamative** exprime une émotion : admiration, surprise, joie, colère. Elle se termine par un **point d’exclamation**. On peut la fabriquer à partir d’une phrase affirmative."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître une phrase exclamative",
+      "Connaître les mots exclamatifs",
+      "Transformer une phrase affirmative en phrase exclamative"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "ex",
+     "text": "Affirmative : « Ce paysage est magnifique. » → Exclamative : « Quel magnifique paysage ! » ou « Comme ce paysage est magnifique ! »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est exclamative ?",
+     "options": [
+      "Quel beau temps !",
+      "Quel temps fait-il ?",
+      "Il fait beau.",
+      "Fais-moi un dessin."
+     ],
+     "answer": 0,
+     "explain": "Elle exprime une émotion et se termine par « ! »."
+    }
+   ]
+  },
+  {
+   "t": "Les mots exclamatifs",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Comment former une exclamation",
+     "head": [
+      "Mot",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Quel, quelle, quels, quelles",
+       "devant un nom",
+       "**Quelle** belle journée !"
+      ],
+      [
+       "Comme",
+       "devant un verbe ou un adjectif",
+       "**Comme** il court vite !"
+      ],
+      [
+       "Que",
+       "devant un adjectif, un adverbe ou « de »",
+       "**Que** cette fleur est belle ! **Que** de monde !"
+      ],
+      [
+       "Combien",
+       "quantité ou intensité",
+       "**Combien** je suis content !"
+      ],
+      [
+       "Ce que, qu’est-ce que (familier)",
+       "oral",
+       "**Ce que** c’est grand !"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Accord",
+     "text": "« Quel » s’accorde avec le nom : Quel **courage** ! Quelle **chance** ! Quels **beaux** jours ! Quelles **belles** images !"
+    }
+   ]
+  },
+  {
+   "t": "Comment transformer ?",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "Repère la phrase affirmative et ce qu’elle exprime (une qualité, une action, une quantité).",
+      "Choisis le mot exclamatif adapté (quel, comme, que…).",
+      "Garde l’ordre normal des mots, sans inversion du sujet.",
+      "Termine par « ! »."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Exemples de transformation",
+     "head": [
+      "Affirmative",
+      "Exclamative"
+     ],
+     "rows": [
+      [
+       "Il fait chaud.",
+       "**Comme** il fait chaud ! / **Qu’**il fait chaud !"
+      ],
+      [
+       "Ce gâteau est délicieux.",
+       "**Quel** délicieux gâteau !"
+      ],
+      [
+       "Il y a beaucoup de monde.",
+       "**Que de** monde !"
+      ],
+      [
+       "Tu as de la chance.",
+       "**Quelle** chance tu as !"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "On peut aussi exclamer avec une **interjection** (Oh ! Ah ! Hélas !) ou en **élevant la voix**, mais la transformation demandée utilise un mot exclamatif."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrase exclamative avec « quel / quelle ».",
+     "items": [
+      "Ce film est intéressant.",
+      "Cette histoire est triste.",
+      "Ce sont de beaux souvenirs."
+     ],
+     "corrige": [
+      "1. Quel film intéressant ! (ou Quel intéressant film !)",
+      "2. Quelle histoire triste !",
+      "3. Quels beaux souvenirs !"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme avec « comme » ou « que ».",
+     "items": [
+      "Cet enfant est poli.",
+      "La mer est calme.",
+      "Tu parles bien."
+     ],
+     "corrige": [
+      "1. Comme cet enfant est poli ! / Que cet enfant est poli !",
+      "2. Comme la mer est calme ! / Que la mer est calme !",
+      "3. Comme tu parles bien ! / Que tu parles bien !"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Quel belles fleurs !",
+      "Quelles belles fleurs !",
+      "Quelle beaux fleurs !",
+      "Quels belle fleurs !"
+     ],
+     "answer": 1,
+     "explain": "« Quelles » s’accorde avec « fleurs » (féminin pluriel)."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La phrase exclamative exprime une émotion et finit par « ! ».",
+      "Mots exclamatifs : quel(le)(s), comme, que, combien.",
+      "« Quel » s’accorde avec le nom.",
+      "L’ordre des mots reste normal : pas d’inversion."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Comme il est fort ! » est :",
+     "options": [
+      "interrogative",
+      "impérative",
+      "exclamative",
+      "négative"
+     ],
+     "answer": 2,
+     "explain": "C’est une phrase exclamative : émotion + « comme » + « ! »."
+    }
+   ]
+  }
+ ]
+}

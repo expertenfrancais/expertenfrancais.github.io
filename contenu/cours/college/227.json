@@ -1,0 +1,205 @@
+{
+ "id": 227,
+ "meta": {
+  "t": "L’accord du participe passé des verbes occasionnellement pronominaux de sens passif",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Un verbe pronominal qui exprime un passif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Beaucoup de verbes ne sont pas toujours pronominaux : on les appelle **occasionnellement pronominaux**. Quand le sujet est une **chose** qui subit l’action, le verbe pronominal a un **sens passif**."
+    },
+    {
+     "type": "ex",
+     "text": "« Ce fruit **se vend** bien » signifie « Ce fruit **est vendu** bien. »"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître le sens passif d’un verbe pronominal",
+      "Accorder le participe passé avec le sujet",
+      "Distinguer le sens passif du sens réfléchi"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Ces maisons se sont construites vite », le sens est :",
+     "options": [
+      "réfléchi",
+      "passif",
+      "réciproque",
+      "impersonnel"
+     ],
+     "answer": 1,
+     "explain": "Les maisons n’ont pas construit elles-mêmes : elles ont été construites."
+    }
+   ]
+  },
+  {
+   "t": "La règle d’accord",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Règle",
+     "text": "Le participe passé d’un verbe pronominal **de sens passif** s’accorde avec le **sujet**, comme avec l’auxiliaire être."
+    },
+    {
+     "type": "table",
+     "title": "Accord avec le sujet",
+     "head": [
+      "Phrase",
+      "Équivalent passif",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "Ces bananes se sont bien vendu**es**.",
+       "Ces bananes ont été bien vendues.",
+       "fém. plur."
+      ],
+      [
+       "Le sujet s’est bien expliqu**é**.",
+       "Le sujet a été bien expliqué.",
+       "masc. sing."
+      ],
+      [
+       "La porte s’est ouvert**e** toute seule.",
+       "La porte a été ouverte.",
+       "fém. sing."
+      ],
+      [
+       "Ces livres se sont lu**s** facilement.",
+       "Ces livres ont été lus.",
+       "masc. plur."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Test : remplace « se » par « a été / ont été ». Si la phrase garde le même sens, le verbe est passif : accorde avec le **sujet**."
+    }
+   ]
+  },
+  {
+   "t": "Passif ou réfléchi ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Comparer deux sens",
+     "head": [
+      "Phrase",
+      "Sens",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "Elle s’est lavée.",
+       "réfléchi (elle lave elle-même) : COD « se » placé avant",
+       "accord avec le COD « se » = elle"
+      ],
+      [
+       "Ces vêtements se sont lavés facilement.",
+       "passif (ils ont été lavés)",
+       "accord avec le sujet"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Dans les deux cas, le participe peut prendre la même marque, mais la **raison** est différente. Le sens passif a un sujet qui est **une chose**, sans agent."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le sens passif concerne souvent des choses : se vendre, se manger, se construire, se fermer, s’ouvrir, se lire, se dire…"
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé.",
+     "items": [
+      "Ces gâteaux se sont bien (vendre).",
+      "La fenêtre s’est (ouvrir) sous le vent.",
+      "Ces textes se sont (lire) sans effort.",
+      "Les histoires se sont (raconter) autour du feu."
+     ],
+     "corrige": [
+      "1. vendus",
+      "2. ouverte",
+      "3. lus",
+      "4. racontées"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le sens est passif ou réfléchi.",
+     "items": [
+      "La porte s’est refermée.",
+      "Elle s’est coiffée.",
+      "Ces fruits se sont bien conservés.",
+      "Il s’est lavé."
+     ],
+     "corrige": [
+      "1. passif",
+      "2. réfléchi",
+      "3. passif",
+      "4. réfléchi"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Les maisons se sont (construire) rapidement. »",
+     "options": [
+      "construit",
+      "construites",
+      "construits",
+      "construite"
+     ],
+     "answer": 1,
+     "explain": "Sens passif : accord avec le sujet féminin pluriel."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Verbe occasionnellement pronominal : il existe aussi sans « se ».",
+      "Sens passif : le sujet (souvent une chose) subit l’action.",
+      "Le participe passé s’accorde avec le sujet.",
+      "Astuce : remplacer « se » par « a été / ont été »."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Ces romans se sont bien (vendre). » :",
+     "options": [
+      "vendu",
+      "vendue",
+      "vendus",
+      "vendues"
+     ],
+     "answer": 2,
+     "explain": "Sujet masculin pluriel : « vendus »."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "id": 229,
+ "meta": {
+  "t": "L’accord du participe passé des verbes occasionnellement pronominaux de sens réciproque",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "g",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Quand deux sujets agissent l’un sur l’autre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un verbe pronominal de **sens réciproque**, plusieurs personnes font **la même action l’une sur l’autre** : « Paul et Marie **se** regardent » veut dire « Paul regarde Marie et Marie regarde Paul »."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître le sens réciproque",
+      "Distinguer « se » COD et « se » COI",
+      "Connaître les verbes qui restent invariables"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel sujet permet le sens réciproque ?",
+     "options": [
+      "Il",
+      "Marie",
+      "Les deux amis",
+      "Le chat"
+     ],
+     "answer": 2,
+     "explain": "Il faut au moins **deux** personnes ou un sujet pluriel."
+    }
+   ]
+  },
+  {
+   "t": "La règle d’accord",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "Règle",
+     "text": "Comme au sens réfléchi : le participe s’accorde avec le **COD placé avant**. Il est **invariable** si « se » est un **COI**."
+    },
+    {
+     "type": "table",
+     "title": "COD ou COI ?",
+     "head": [
+      "Phrase",
+      "Test",
+      "« se »",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "Elles se sont vues.",
+       "Elles ont vu **qui** ? l’une l’autre",
+       "COD",
+       "vu**es**"
+      ],
+      [
+       "Ils se sont aimés.",
+       "Ils ont aimé **qui** ? l’un l’autre",
+       "COD",
+       "aimé**s**"
+      ],
+      [
+       "Elles se sont parlé.",
+       "Elles ont parlé **à qui** ? l’une à l’autre",
+       "COI",
+       "parlé (invariable)"
+      ],
+      [
+       "Ils se sont écrit.",
+       "Ils ont écrit **à qui** ? l’un à l’autre",
+       "COI",
+       "écrit (invariable)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les verbes toujours invariables",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces verbes se construisent avec la préposition **« à »** : ils ont donc un COI. Le participe passé reste **invariable**."
+    },
+    {
+     "type": "table",
+     "title": "Verbes à retenir",
+     "head": [
+      "Verbe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "se parler (parler à)",
+       "Ils se sont parlé."
+      ],
+      [
+       "se téléphoner (téléphoner à)",
+       "Elles se sont téléphoné."
+      ],
+      [
+       "se sourire (sourire à)",
+       "Ils se sont souri."
+      ],
+      [
+       "se mentir (mentir à)",
+       "Ils se sont menti."
+      ],
+      [
+       "se plaire, se nuire",
+       "Elles se sont plu. Ils se sont nui."
+      ],
+      [
+       "se succéder, se ressembler",
+       "Les rois se sont succédé. Les sœurs se sont ressemblé."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Comparer",
+     "text": "« Ils se sont **vus** » (voir quelqu’un : COD) mais « Ils se sont **parlé** » (parler à quelqu’un : COI)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé quand il le faut.",
+     "items": [
+      "Les deux amies se sont (retrouver) hier.",
+      "Marie et Anne se sont (téléphoner).",
+      "Les frères se sont (aimer) toujours.",
+      "Les voisins se sont (sourire)."
+     ],
+     "corrige": [
+      "1. retrouvées",
+      "2. téléphoné",
+      "3. aimés",
+      "4. souri"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si « se » est COD ou COI.",
+     "items": [
+      "Elles se sont écrit.",
+      "Ils se sont regardés.",
+      "Les cousines se sont aidées.",
+      "Ils se sont menti."
+     ],
+     "corrige": [
+      "1. COI",
+      "2. COD",
+      "3. COD",
+      "4. COI"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Ils se sont (succéder) au pouvoir. »",
+     "options": [
+      "succédé",
+      "succédés",
+      "succédée",
+      "succédées"
+     ],
+     "answer": 0,
+     "explain": "« succéder à » : « se » est COI, donc invariable."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Sens réciproque : au moins deux sujets, action l’un sur l’autre.",
+      "Accord avec le COD « se » placé avant.",
+      "Invariable si « se » est COI : se parler, se téléphoner, se sourire, se mentir, se plaire, se nuire, se succéder, se ressembler.",
+      "Test : verbe + « à » → COI → invariable."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Elles se sont (voir) » :",
+     "options": [
+      "vu",
+      "vue",
+      "vus",
+      "vues"
+     ],
+     "answer": 3,
+     "explain": "« voir quelqu’un » : « se » est COD placé avant → « vues »."
+    }
+   ]
+  }
+ ]
+}

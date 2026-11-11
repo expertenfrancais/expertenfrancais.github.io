@@ -1,0 +1,226 @@
+{
+ "id": 224,
+ "meta": {
+  "t": "La transformation pronominale",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Le verbe accompagné d’un pronom",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un verbe est **pronominal** quand il se conjugue avec un **pronom personnel réfléchi** (me, te, se, nous, vous) qui représente la même personne que le sujet : je **me** lave, ils **se** parlent."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un verbe pronominal",
+      "Distinguer les sens réfléchi, réciproque et passif",
+      "Transformer une phrase à la forme pronominale"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Verbe pronominal",
+     "text": "Un **verbe pronominal** est précédé d’un pronom (me, te, se, nous, vous) de **même personne** que le sujet. À tous les temps composés, il se conjugue avec **être**."
+    },
+    {
+     "type": "ex",
+     "text": "Elle **se** lave. Nous **nous** sommes levés. Ils **se** téléphonent."
+    }
+   ]
+  },
+  {
+   "t": "Les sens du verbe pronominal",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Trois sens principaux",
+     "head": [
+      "Sens",
+      "Explication",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Réfléchi",
+       "le sujet fait l’action sur lui-même",
+       "Elle **se lave**. (elle lave elle-même)"
+      ],
+      [
+       "Réciproque",
+       "plusieurs sujets agissent l’un sur l’autre",
+       "Ils **se regardent**. (A regarde B et B regarde A)"
+      ],
+      [
+       "Passif",
+       "le sujet subit l’action (souvent une chose)",
+       "Ce fruit **se vend** bien. (il est vendu)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Le sens réciproque exige un sujet **pluriel** : ils se saluent, nous nous écrivons."
+    }
+   ]
+  },
+  {
+   "t": "Comment transformer ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "De la forme non pronominale à la forme pronominale",
+     "head": [
+      "Non pronominale",
+      "Pronominale",
+      "Sens"
+     ],
+     "rows": [
+      [
+       "Il lave son frère.",
+       "Il **se** lave.",
+       "réfléchi"
+      ],
+      [
+       "Paul regarde Marie, Marie regarde Paul.",
+       "Paul et Marie **se** regardent.",
+       "réciproque"
+      ],
+      [
+       "On vend ce fruit partout.",
+       "Ce fruit **se** vend partout.",
+       "passif"
+      ],
+      [
+       "La porte est ouverte par le vent.",
+       "La porte **s’**ouvre.",
+       "passif"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "Repère le **sujet** et l’**action**.",
+      "Place le pronom réfléchi qui correspond à la personne du sujet.",
+      "Vérifie le sens obtenu : réfléchi, réciproque ou passif.",
+      "Aux temps composés, emploie l’auxiliaire **être**."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Conjugaison du verbe pronominal",
+     "head": [
+      "Temps",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Présent",
+       "je **me** lève, tu **te** lèves, il **se** lève"
+      ],
+      [
+       "Passé composé",
+       "je **me suis** levé(e), nous **nous sommes** levé(e)s"
+      ],
+      [
+       "Futur",
+       "vous **vous** laverez"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Impératif",
+     "text": "À l’impératif affirmatif, le pronom se place **après** le verbe : « Lève-**toi** ! » mais « Ne **te** lève pas ! »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme pronominale.",
+     "items": [
+      "Il lave son visage.",
+      "Paul regarde Marie et Marie regarde Paul.",
+      "On vend ces cahiers au marché.",
+      "Tu laves tes mains."
+     ],
+     "corrige": [
+      "1. Il se lave le visage.",
+      "2. Paul et Marie se regardent.",
+      "3. Ces cahiers se vendent au marché.",
+      "4. Tu te laves les mains."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique le sens (réfléchi, réciproque, passif).",
+     "items": [
+      "Les deux amis se saluent.",
+      "Elle se coiffe.",
+      "Cette porte se ferme facilement.",
+      "Nous nous écrivons souvent."
+     ],
+     "corrige": [
+      "1. réciproque",
+      "2. réfléchi",
+      "3. passif",
+      "4. réciproque"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Au passé composé, « se laver » se conjugue avec :",
+     "options": [
+      "avoir",
+      "être",
+      "aller",
+      "les deux"
+     ],
+     "answer": 1,
+     "explain": "Tous les verbes pronominaux prennent l’auxiliaire **être**."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Verbe pronominal = pronom (me, te, se, nous, vous) de même personne que le sujet.",
+      "Trois sens : réfléchi, réciproque, passif.",
+      "Aux temps composés : toujours l’auxiliaire être.",
+      "Impératif affirmatif : Lève-toi ! Impératif négatif : Ne te lève pas !"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "« Ils se parlent » : quel sens ?",
+     "options": [
+      "réfléchi",
+      "réciproque",
+      "passif",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "Chacun parle à l’autre : sens réciproque."
+    }
+   ]
+  }
+ ]
+}
