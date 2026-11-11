@@ -1,0 +1,262 @@
+{
+  "id": 30056,
+  "meta": {
+    "t": "Le pluriel des noms : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Orthographe",
+    "img": "a",
+    "r": 4.8,
+    "ex": 56
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Pluriel des noms",
+          "text": "En général, on forme le **pluriel** d’un nom en ajoutant **-s**. Mais il existe des règles particulières pour les noms terminés par **-s, -x, -z**, **-eau, -au, -eu**, **-al** et **-ou**."
+        },
+        {
+          "type": "table",
+          "title": "Les règles principales",
+          "head": [
+            "Terminaison",
+            "Pluriel",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "-s, -x, -z",
+              "ne change pas",
+              "un nez → des nez ; un prix → des prix"
+            ],
+            [
+              "-eau, -au, -eu",
+              "+ **x**",
+              "un chapeau → des chapeaux"
+            ],
+            [
+              "-al",
+              "-aux",
+              "un cheval → des chevaux"
+            ],
+            [
+              "-ou",
+              "+ **s**",
+              "un clou → des clous"
+            ],
+            [
+              "exceptions en -ou",
+              "+ **x** (bijou, caillou, chou, genou, hibou, joujou, pou)",
+              "un bijou → des bijoux"
+            ],
+            [
+              "exceptions",
+              "+ **s**",
+              "un pneu → des pneus ; un bal → des bals"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "À retenir",
+          "text": "Pour les sept noms en **-ou** qui prennent un **x**, retiens : **bijou, caillou, chou, genou, hibou, joujou, pou**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets les noms au pluriel.",
+          "items": [
+            "un livre",
+            "un cahier",
+            "une fleur",
+            "un bureau"
+          ],
+          "corrige": [
+            "des **livres**",
+            "des **cahiers**",
+            "des **fleurs**",
+            "des **bureaux**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel est le pluriel de « un journal » ?",
+          "options": [
+            "des journals",
+            "des journaux",
+            "des journeaux"
+          ],
+          "answer": 1,
+          "explain": "Les noms en **-al** font leur pluriel en **-aux**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris au pluriel (ces noms ne changent pas).",
+          "items": [
+            "un nez",
+            "une voix",
+            "un bras",
+            "un prix"
+          ],
+          "corrige": [
+            "des **nez**",
+            "des **voix**",
+            "des **bras**",
+            "des **prix**"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets au pluriel les noms en *-al*.",
+          "items": [
+            "un cheval",
+            "un animal",
+            "un hôpital",
+            "un canal"
+          ],
+          "corrige": [
+            "des **chevaux**",
+            "des **animaux**",
+            "des **hôpitaux**",
+            "des **canaux**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets au pluriel les noms en *-eau* et *-eu*.",
+          "items": [
+            "un chapeau",
+            "un neveu",
+            "un feu",
+            "un cheveu"
+          ],
+          "corrige": [
+            "des **chapeaux**",
+            "des **neveux**",
+            "des **feux**",
+            "des **cheveux**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel nom prend un **x** au pluriel ?",
+          "options": [
+            "un clou",
+            "un genou",
+            "un trou"
+          ],
+          "answer": 1,
+          "explain": "*genou* fait partie des sept exceptions : des **genoux**. On écrit des *clous*, des *trous*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris le nom entre parenthèses au pluriel.",
+          "items": [
+            "Les (enfant) jouent dans la cour.",
+            "J’ai mal aux (genou).",
+            "Il range ses (bijou).",
+            "Les (pneu) sont neufs."
+          ],
+          "corrige": [
+            "Les **enfants** jouent dans la cour.",
+            "J’ai mal aux **genoux**.",
+            "Il range ses **bijoux**.",
+            "Les **pneus** sont neufs."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Réécris les phrases au pluriel.",
+          "items": [
+            "Le cheval blanc court dans le pré.",
+            "Ce bijou est joli.",
+            "L’animal sauvage a peur du feu.",
+            "Un oiseau chante sur le toit."
+          ],
+          "corrige": [
+            "Les **chevaux blancs courent** dans les **prés**.",
+            "Ces **bijoux sont jolis**.",
+            "Les **animaux sauvages ont** peur des **feux**.",
+            "Des **oiseaux chantent** sur les **toits**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec le pluriel de chaque nom.",
+          "items": [
+            "un journal",
+            "un chou",
+            "un pneu"
+          ],
+          "corrige": [
+            "Réponse possible : Les **journaux** sont sur la table.",
+            "Réponse possible : Maman achète des **choux**.",
+            "Réponse possible : Les **pneus** de ce vélo sont neufs."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "En général, on ajoute **-s** au singulier pour former le pluriel.",
+            "Les noms en **-s, -x, -z** ne changent pas. Les noms en **-eau, -au, -eu** prennent **-x**. Les noms en **-al** font **-aux**.",
+            "Les noms en **-ou** prennent **-s**, sauf *bijou, caillou, chou, genou, hibou, joujou, pou* (**-x**)."
+          ]
+        }
+      ]
+    }
+  ]
+}

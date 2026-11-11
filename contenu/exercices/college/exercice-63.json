@@ -1,0 +1,247 @@
+{
+  "id": 30063,
+  "meta": {
+    "t": "La phrase interrogative : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Grammaire",
+    "img": "h",
+    "r": 4.8,
+    "ex": 63
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Phrase interrogative",
+          "text": "La **phrase interrogative** sert à **poser une question**. Elle se termine par un **point d’interrogation** (**?**). L’interrogation est **totale** quand on peut répondre par *oui* ou *non*, et **partielle** quand elle commence par un mot interrogatif (*qui, que, où, quand, comment, pourquoi, combien…*)."
+        },
+        {
+          "type": "table",
+          "title": "Trois façons de poser une question",
+          "head": [
+            "Procédé",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "l’intonation",
+              "Tu viens **?**"
+            ],
+            [
+              "*est-ce que*",
+              "**Est-ce que** tu viens ?"
+            ],
+            [
+              "l’inversion du sujet (avec trait d’union)",
+              "Viens**-tu** ?"
+            ],
+            [
+              "un mot interrogatif",
+              "**Où** vas-tu ? **Pourquoi** pleures-tu ?"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Attention",
+          "text": "À l’inversion, on met un **trait d’union** entre le verbe et le pronom : *Viens-tu ? Part-il ?* Et on ajoute **-t-** quand le verbe finit par une voyelle : *Chante-t-elle ?*"
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « interrogative » ou « non interrogative ».",
+          "items": [
+            "Où vas-tu ?",
+            "Il va au marché.",
+            "Est-ce que tu viens ?",
+            "Quelle belle journée !"
+          ],
+          "corrige": [
+            "**interrogative**",
+            "**non interrogative**",
+            "**interrogative**",
+            "**non interrogative** (phrase exclamative)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel mot est un mot interrogatif ?",
+          "options": [
+            "pourquoi",
+            "donc",
+            "mais"
+          ],
+          "answer": 0,
+          "explain": "**Pourquoi** introduit une question ; *donc* et *mais* sont des conjonctions."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Transforme avec « Est-ce que ».",
+          "items": [
+            "Tu viens.",
+            "Awa chante.",
+            "Vous avez faim.",
+            "Il pleut."
+          ],
+          "corrige": [
+            "**Est-ce que** tu viens ?",
+            "**Est-ce qu’**Awa chante ?",
+            "**Est-ce que** vous avez faim ?",
+            "**Est-ce qu’**il pleut ?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Transforme par inversion du sujet.",
+          "items": [
+            "Tu viens.",
+            "Vous mangez.",
+            "Il part.",
+            "Elles chantent."
+          ],
+          "corrige": [
+            "**Viens-tu** ?",
+            "**Mangez-vous** ?",
+            "**Part-il** ?",
+            "**Chantent-elles** ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris la question qui correspond à la réponse (mot en gras).",
+          "items": [
+            "Il habite **à Brazzaville**.",
+            "Elle arrive **demain**.",
+            "Il pleure **parce qu’il a mal**.",
+            "J’ai **trois** frères."
+          ],
+          "corrige": [
+            "Réponse possible : **Où** habite-t-il ?",
+            "Réponse possible : **Quand** arrive-t-elle ?",
+            "Réponse possible : **Pourquoi** pleure-t-il ?",
+            "Réponse possible : **Combien** de frères as-tu ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Où vas-tu ?",
+            "Où vas tu.",
+            "Où vas-tu."
+          ],
+          "answer": 0,
+          "explain": "Il faut un **trait d’union** (*vas-tu*) et un **point d’interrogation**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « totale » (réponse par oui ou non) ou « partielle ».",
+          "items": [
+            "Tu viens ?",
+            "Où vas-tu ?",
+            "Est-ce qu’il pleut ?",
+            "Combien coûte ce cahier ?"
+          ],
+          "corrige": [
+            "**totale**",
+            "**partielle**",
+            "**totale**",
+            "**partielle**"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Pose la question qui convient.",
+          "items": [
+            "Tu veux savoir le nom de ton voisin.",
+            "Tu veux savoir où est la poste.",
+            "Tu veux savoir si Awa est là.",
+            "Tu veux savoir pourquoi il rit."
+          ],
+          "corrige": [
+            "Réponse possible : **Comment t’appelles-tu** ?",
+            "Réponse possible : **Où est la poste** ?",
+            "Réponse possible : **Awa est-elle là** ?",
+            "Réponse possible : **Pourquoi rit-il** ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une question avec chaque mot interrogatif.",
+          "items": [
+            "qui",
+            "quand",
+            "comment"
+          ],
+          "corrige": [
+            "Réponse possible : **Qui** frappe à la porte ?",
+            "Réponse possible : **Quand** partons-nous ?",
+            "Réponse possible : **Comment** vas-tu ?"
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "La **phrase interrogative** pose une question et se termine par **?**.",
+            "On interroge avec l’**intonation**, *est-ce que*, l’**inversion** du sujet ou un **mot interrogatif**.",
+            "À l’inversion : **trait d’union** (*viens-tu ?*) et **-t-** après une voyelle (*chante-t-elle ?*)."
+          ]
+        }
+      ]
+    }
+  ]
+}

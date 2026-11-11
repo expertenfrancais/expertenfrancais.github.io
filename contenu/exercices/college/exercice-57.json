@@ -1,0 +1,252 @@
+{
+  "id": 30057,
+  "meta": {
+    "t": "Les homophones ce / se, ces / ses : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Orthographe",
+    "img": "b",
+    "r": 4.8,
+    "ex": 57
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Ce, se, ces, ses",
+          "text": "**Ce** et **ces** sont des **déterminants démonstratifs** (*ce livre*, *ces livres*). **Se** est un **pronom** placé devant un verbe (*il se lave*). **Ses** est un **déterminant possessif** pluriel (*ses livres*)."
+        },
+        {
+          "type": "table",
+          "title": "Comment choisir ?",
+          "head": [
+            "Mot",
+            "Astuce",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "ce",
+              "devant un nom masculin singulier ; remplaçable par *cet / cette*",
+              "**Ce** garçon est grand."
+            ],
+            [
+              "se",
+              "devant un verbe ; remplaçable par *me* (*je me…*)",
+              "Il **se** lave."
+            ],
+            [
+              "ces",
+              "pluriel de *ce, cet, cette* ; remplaçable par *ce / cette*",
+              "**Ces** livres sont neufs."
+            ],
+            [
+              "ses",
+              "pluriel de *son, sa* ; remplaçable par *mes*",
+              "Il range **ses** affaires."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Pour *se* : essaie *me* (*Il se lave* → *Je me lave*). Pour *ses* : essaie *mes* (*ses livres* → *mes livres*)."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *ce* ou *se*.",
+          "items": [
+            "___ garçon est grand.",
+            "Il ___ lave les mains.",
+            "Awa ___ promène.",
+            "___ livre est à moi."
+          ],
+          "corrige": [
+            "**Ce** garçon est grand.",
+            "Il **se** lave les mains.",
+            "Awa **se** promène.",
+            "**Ce** livre est à moi."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« ___ enfants jouent dans la cour. » (je les montre du doigt)",
+          "options": [
+            "ses",
+            "ces",
+            "se"
+          ],
+          "answer": 1,
+          "explain": "Je montre les enfants : c’est le pluriel de *ce* → **ces**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *ces* ou *ses*.",
+          "items": [
+            "Awa range ___ affaires.",
+            "Regarde ___ oiseaux dans l’arbre.",
+            "Il a perdu ___ clés.",
+            "J’aime ___ mangues."
+          ],
+          "corrige": [
+            "Awa range **ses** affaires.",
+            "Regarde **ces** oiseaux dans l’arbre.",
+            "Il a perdu **ses** clés.",
+            "J’aime **ces** mangues."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *se* ou *ce*.",
+          "items": [
+            "Il ___ réveille tôt.",
+            "___ cahier est neuf.",
+            "Elle ___ coiffe.",
+            "Je prends ___ stylo."
+          ],
+          "corrige": [
+            "Il **se** réveille tôt.",
+            "**Ce** cahier est neuf.",
+            "Elle **se** coiffe.",
+            "Je prends **ce** stylo."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Récris au pluriel en choisissant *ces* ou *ses*.",
+          "items": [
+            "Ce livre est à moi.",
+            "Awa range son sac.",
+            "Il aime cet arbre.",
+            "Il lave sa chemise."
+          ],
+          "corrige": [
+            "**Ces** livres sont à moi.",
+            "Awa range **ses** sacs.",
+            "Il aime **ces** arbres.",
+            "Il lave **ses** chemises."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Ce garçon se lave avec ses mains.",
+            "Se garçon ce lave avec ces mains.",
+            "Ce garçon ce lave avec ses mains."
+          ],
+          "answer": 0,
+          "explain": "*Ce garçon* (déterminant), *se lave* (pronom + verbe), *ses mains* (les siennes)."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *ce, se, ces* ou *ses*.",
+          "items": [
+            "Awa ___ regarde dans le miroir.",
+            "___ fleurs sentent bon.",
+            "Fatou prend son sac et ___ livres.",
+            "Mon frère ___ couche tard."
+          ],
+          "corrige": [
+            "Awa **se** regarde dans le miroir.",
+            "**Ces** fleurs sentent bon.",
+            "Fatou prend son sac et **ses** livres.",
+            "Mon frère **se** couche tard."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *ce, se, ces* ou *ses*.",
+          "items": [
+            "___ matin, Awa ___ lève tôt.",
+            "Mon frère ___ prépare : il met ___ chaussures.",
+            "___ mangues sont mûres, mais ___ fruit est vert.",
+            "Le chat ___ cache sous ___ lit."
+          ],
+          "corrige": [
+            "**Ce** matin, Awa **se** lève tôt.",
+            "Mon frère **se** prépare : il met **ses** chaussures.",
+            "**Ces** mangues sont mûres, mais **ce** fruit est vert.",
+            "Le chat **se** cache sous **ce** lit."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chacun de ces mots.",
+          "items": [
+            "se",
+            "ses",
+            "ces"
+          ],
+          "corrige": [
+            "Réponse possible : Le chien **se** couche.",
+            "Réponse possible : Paul range **ses** jouets.",
+            "Réponse possible : **Ces** fleurs sont belles."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**ce** + nom masculin singulier ; **ces** = pluriel de *ce, cet, cette* (je montre).",
+            "**se** précède un verbe : *il se lave* (essaie *me* : *je me lave*).",
+            "**ses** = pluriel de *son, sa* (essaie *mes*)."
+          ]
+        }
+      ]
+    }
+  ]
+}

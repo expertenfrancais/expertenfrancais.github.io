@@ -1,0 +1,253 @@
+{
+  "id": 30070,
+  "meta": {
+    "t": "L’accord du verbe avec son sujet : exercices",
+    "k": "Exercices",
+    "n": "5e",
+    "m": "Orthographe",
+    "img": "g",
+    "r": 4.8,
+    "ex": 70
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Accord du verbe",
+          "text": "Le **verbe** s’accorde en **personne** et en **nombre** avec son **sujet**. Pour trouver le sujet, on pose la question **« Qui est-ce qui ? »** devant le verbe."
+        },
+        {
+          "type": "table",
+          "title": "Les cas à connaître",
+          "head": [
+            "Cas",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "sujet singulier",
+              "Le chat **dort**."
+            ],
+            [
+              "sujet pluriel",
+              "Les chats **dorment**."
+            ],
+            [
+              "plusieurs sujets",
+              "Awa et Fatou **jouent**."
+            ],
+            [
+              "sujet éloigné du verbe",
+              "Les enfants du village voisin **viennent** à l’école."
+            ],
+            [
+              "sujet *toi et moi*",
+              "Toi et moi **partons**."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Encadre le sujet avec **« c’est… qui »** : *C’est **Awa et Fatou** qui jouent* → le verbe est au **pluriel**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Relève le sujet de chaque verbe.",
+          "items": [
+            "Les oiseaux chantent.",
+            "Awa lit un livre.",
+            "Mes frères jouent au ballon.",
+            "Le maître et les élèves entrent."
+          ],
+          "corrige": [
+            "**Les oiseaux**",
+            "**Awa**",
+            "**Mes frères**",
+            "**Le maître et les élèves**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« Les enfants ___ dans la cour. » Quelle forme convient ?",
+          "options": [
+            "jouent",
+            "joue",
+            "jouons"
+          ],
+          "answer": 0,
+          "explain": "Le sujet *les enfants* est à la 3e personne du **pluriel** : **jouent**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets le verbe au présent.",
+          "items": [
+            "Les élèves (écouter) le maître.",
+            "Mon frère (aimer) le football.",
+            "Les filles (chanter) bien.",
+            "Vous (finir) bientôt."
+          ],
+          "corrige": [
+            "Les élèves **écoutent** le maître.",
+            "Mon frère **aime** le football.",
+            "Les filles **chantent** bien.",
+            "Vous **finissez** bientôt."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Accorde le verbe (le sujet est éloigné du verbe).",
+          "items": [
+            "Les enfants du village voisin (venir) à l’école.",
+            "Le chien de mes voisins (aboyer) la nuit.",
+            "Les mangues que j’ai achetées (être) mûres.",
+            "Mes sœurs, qui habitent loin, (venir) souvent."
+          ],
+          "corrige": [
+            "Les enfants du village voisin **viennent** à l’école.",
+            "Le chien de mes voisins **aboie** la nuit.",
+            "Les mangues que j’ai achetées **sont** mûres.",
+            "Mes sœurs, qui habitent loin, **viennent** souvent."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Accorde le verbe (plusieurs sujets).",
+          "items": [
+            "Awa et Fatou (chanter).",
+            "Mon père et ma mère (travailler).",
+            "Toi et moi (partir).",
+            "Toi et ton frère (jouer)."
+          ],
+          "corrige": [
+            "Awa et Fatou **chantent**.",
+            "Mon père et ma mère **travaillent**.",
+            "Toi et moi **partons**.",
+            "Toi et ton frère **jouez**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Awa et Paul joue.",
+            "Awa et Paul jouent.",
+            "Awa et Paul jouons."
+          ],
+          "answer": 1,
+          "explain": "Deux sujets à la 3e personne : le verbe est au **pluriel**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Corrige l’erreur d’accord.",
+          "items": [
+            "Les enfants joue au ballon.",
+            "Mon frère et moi allez au marché.",
+            "Les chiens aboie.",
+            "Tu mangent du riz."
+          ],
+          "corrige": [
+            "Les enfants **jouent** au ballon.",
+            "Mon frère et moi **allons** au marché.",
+            "Les chiens **aboient**.",
+            "Tu **manges** du riz."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets le verbe au présent.",
+          "items": [
+            "La foule (crier) de joie.",
+            "Les élèves (rentrer) à midi.",
+            "Toi et moi (aimer) la musique.",
+            "Le maître et l’élève (lire).",
+            "Beaucoup de gens (venir) au marché."
+          ],
+          "corrige": [
+            "La foule **crie** de joie.",
+            "Les élèves **rentrent** à midi.",
+            "Toi et moi **aimons** la musique.",
+            "Le maître et l’élève **lisent**.",
+            "Beaucoup de gens **viennent** au marché."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque sujet.",
+          "items": [
+            "les enfants",
+            "Awa et sa sœur",
+            "mon père"
+          ],
+          "corrige": [
+            "Réponse possible : Les enfants **jouent** dans la cour.",
+            "Réponse possible : Awa et sa sœur **vont** au marché.",
+            "Réponse possible : Mon père **travaille** au port."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Le **verbe** s’accorde en **personne** et en **nombre** avec son **sujet**.",
+            "Pour trouver le sujet : **« Qui est-ce qui ? »** ou **« c’est… qui »**.",
+            "**Plusieurs sujets** à la 3e personne → verbe au **pluriel** ; *toi et moi* → **nous**."
+          ]
+        }
+      ]
+    }
+  ]
+}

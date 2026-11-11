@@ -1,0 +1,253 @@
+{
+  "id": 30058,
+  "meta": {
+    "t": "Les synonymes : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Vocabulaire",
+    "img": "c",
+    "r": 4.8,
+    "ex": 58
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Synonymes",
+          "text": "Les **synonymes** sont des mots de **sens proche** et de **même nature** (nom, verbe, adjectif…). On peut les employer pour **éviter les répétitions** dans un texte."
+        },
+        {
+          "type": "table",
+          "title": "Exemples de synonymes",
+          "head": [
+            "Mot",
+            "Synonymes",
+            "Nature"
+          ],
+          "rows": [
+            [
+              "grand",
+              "immense, vaste",
+              "adjectif"
+            ],
+            [
+              "beau",
+              "joli, magnifique",
+              "adjectif"
+            ],
+            [
+              "content",
+              "heureux, joyeux",
+              "adjectif"
+            ],
+            [
+              "maison",
+              "habitation, demeure",
+              "nom"
+            ],
+            [
+              "commencer",
+              "débuter, démarrer",
+              "verbe"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Attention",
+          "text": "Deux synonymes ont un sens **proche**, pas toujours identique : on choisit celui qui convient à la **phrase**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris un synonyme de chaque mot.",
+          "items": [
+            "beau",
+            "content",
+            "grand",
+            "petit"
+          ],
+          "corrige": [
+            "Réponses possibles : **joli**, **magnifique**",
+            "Réponses possibles : **heureux**, **joyeux**",
+            "Réponses possibles : **immense**, **vaste**",
+            "Réponses possibles : **minuscule**, **menu**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel mot est un synonyme de « fatigué » ?",
+          "options": [
+            "épuisé",
+            "reposé",
+            "content"
+          ],
+          "answer": 0,
+          "explain": "**Épuisé** a un sens proche de *fatigué*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Choisis le synonyme parmi les deux propositions.",
+          "items": [
+            "maison : (habitation / jardin)",
+            "voiture : (auto / vélo)",
+            "enfant : (gamin / adulte)",
+            "commencer : (débuter / finir)"
+          ],
+          "corrige": [
+            "**habitation**",
+            "**auto**",
+            "**gamin**",
+            "**débuter**"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Remplace le mot en gras par un synonyme.",
+          "items": [
+            "C’est une **grande** maison.",
+            "Ce plat est **bon**.",
+            "Il est **triste**.",
+            "Nous habitons un **petit** village."
+          ],
+          "corrige": [
+            "Réponses possibles : **immense**, **vaste**",
+            "Réponses possibles : **délicieux**, **savoureux**",
+            "Réponses possibles : **malheureux**, **chagriné**",
+            "Réponses possibles : **minuscule**, **modeste**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Trouve l’intrus dans chaque liste.",
+          "items": [
+            "joli – beau – laid – magnifique",
+            "content – heureux – joyeux – triste",
+            "voiture – auto – bus – automobile",
+            "courir – filer – marcher – se précipiter"
+          ],
+          "corrige": [
+            "**laid** (contraire)",
+            "**triste** (contraire)",
+            "**bus** (autre véhicule)",
+            "**marcher** (n’exprime pas la vitesse)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Deux synonymes sont des mots…",
+          "options": [
+            "qui ont le même nombre de lettres",
+            "qui ont un sens proche et la même nature",
+            "qui s’écrivent de la même façon"
+          ],
+          "answer": 1,
+          "explain": "Les synonymes ont un **sens proche** et la **même nature** grammaticale."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Évite la répétition : remplace le second mot en gras par un synonyme.",
+          "items": [
+            "Awa porte une **belle** robe et un **beau** chapeau.",
+            "Ce film est **bon** et le repas aussi est **bon**.",
+            "Le chien est **grand** et la maison est **grande**."
+          ],
+          "corrige": [
+            "Réponses possibles : un **joli** chapeau, un **magnifique** chapeau",
+            "Réponses possibles : **délicieux**, **excellent**",
+            "Réponses possibles : **immense**, **vaste**"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Récris chaque phrase en remplaçant les mots en gras par des synonymes.",
+          "items": [
+            "Le garçon **content** **marche** dans la **grande** rue.",
+            "Awa **regarde** la **belle** mer.",
+            "Le **gros** chat **dort** dans la **petite** case."
+          ],
+          "corrige": [
+            "Réponse possible : Le garçon **heureux** **avance** dans la **vaste** rue.",
+            "Réponse possible : Awa **observe** la **magnifique** mer.",
+            "Réponse possible : Le **énorme** chat **sommeille** dans la **minuscule** case."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque synonyme.",
+          "items": [
+            "immense",
+            "délicieux",
+            "débuter"
+          ],
+          "corrige": [
+            "Réponse possible : Le fleuve est **immense**.",
+            "Réponse possible : Ce poisson est **délicieux**.",
+            "Réponse possible : Le cours va **débuter**."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Les **synonymes** ont un **sens proche** et la **même nature**.",
+            "Ils servent à **éviter les répétitions** et à **enrichir** un texte.",
+            "On choisit le synonyme qui convient au **contexte** de la phrase."
+          ]
+        }
+      ]
+    }
+  ]
+}

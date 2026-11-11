@@ -1,0 +1,269 @@
+{
+  "id": 30061,
+  "meta": {
+    "t": "Le passé simple : exercices",
+    "k": "Exercices",
+    "n": "5e",
+    "m": "Conjugaison",
+    "img": "f",
+    "r": 4.8,
+    "ex": 61
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Passé simple",
+          "text": "Le **passé simple** est un temps du **récit** : il exprime des actions **terminées** et **successives** dans le passé (contes, romans). On l’emploie surtout à la **3e personne** (*il, elle, ils, elles*)."
+        },
+        {
+          "type": "table",
+          "title": "Terminaisons à la 3e personne",
+          "head": [
+            "Groupe",
+            "Singulier",
+            "Pluriel",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "1er groupe",
+              "-a",
+              "-èrent",
+              "il chant**a**, ils chant**èrent**"
+            ],
+            [
+              "2e groupe",
+              "-it",
+              "-irent",
+              "il fin**it**, ils fin**irent**"
+            ],
+            [
+              "être",
+              "fut",
+              "furent",
+              "il **fut**, ils **furent**"
+            ],
+            [
+              "avoir",
+              "eut",
+              "eurent",
+              "il **eut**, ils **eurent**"
+            ],
+            [
+              "aller",
+              "alla",
+              "allèrent",
+              "il **alla**, ils **allèrent**"
+            ],
+            [
+              "venir",
+              "vint",
+              "vinrent",
+              "il **vint**, ils **vinrent**"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Pour t’en souvenir",
+          "text": "Au 1er groupe : **-a / -èrent**. Au 2e groupe et pour beaucoup de verbes du 3e : **-it / -irent**. Pour *avoir* et d’autres : **-ut / -urent**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Relève le verbe au passé simple.",
+          "items": [
+            "Le roi appela son fils.",
+            "Les enfants coururent vers la rivière.",
+            "Il finit son travail.",
+            "Nous mangeâmes du poisson."
+          ],
+          "corrige": [
+            "**appela**",
+            "**coururent**",
+            "**finit**",
+            "**mangeâmes**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« Il ___ vers la porte. » (marcher, passé simple)",
+          "options": [
+            "marcha",
+            "marchait",
+            "marchera"
+          ],
+          "answer": 0,
+          "explain": "Au passé simple, les verbes du 1er groupe se terminent par **-a** à la 3e personne du singulier."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue au passé simple à la 3e personne du singulier.",
+          "items": [
+            "chanter",
+            "finir",
+            "être",
+            "avoir"
+          ],
+          "corrige": [
+            "il **chanta**",
+            "il **finit**",
+            "il **fut**",
+            "il **eut**"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue au passé simple à la 3e personne du pluriel.",
+          "items": [
+            "Les enfants (chanter) en chœur.",
+            "Les voisins (finir) leur travail.",
+            "Ils (avoir) peur.",
+            "Elles (être) contentes."
+          ],
+          "corrige": [
+            "Les enfants **chantèrent** en chœur.",
+            "Les voisins **finirent** leur travail.",
+            "Ils **eurent** peur.",
+            "Elles **furent** contentes."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue au passé simple (je, tu, il).",
+          "items": [
+            "Je (regarder) la lune.",
+            "Tu (parler) à Awa.",
+            "Il (aller) au marché.",
+            "Je (finir) mon travail."
+          ],
+          "corrige": [
+            "Je **regardai** la lune.",
+            "Tu **parlas** à Awa.",
+            "Il **alla** au marché.",
+            "Je **finis** mon travail."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel est le passé simple de « venir » à la 3e personne du singulier ?",
+          "options": [
+            "vint",
+            "venait",
+            "viendra"
+          ],
+          "answer": 0,
+          "explain": "*venir* → il **vint**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets les phrases au passé simple.",
+          "items": [
+            "Awa entre dans la case.",
+            "Elle prend son panier et elle sort.",
+            "Les enfants courent et rient.",
+            "Nous arrivons au village."
+          ],
+          "corrige": [
+            "Awa **entra** dans la case.",
+            "Elle **prit** son panier et elle **sortit**.",
+            "Les enfants **coururent** et **rirent**.",
+            "Nous **arrivâmes** au village."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue les verbes au passé simple.",
+          "items": [
+            "Un jour, le chasseur (partir) dans la forêt.",
+            "Il (marcher) longtemps.",
+            "Il (voir) une biche.",
+            "Il (prendre) son arc.",
+            "Mais la biche (s’enfuir)."
+          ],
+          "corrige": [
+            "Un jour, le chasseur **partit** dans la forêt.",
+            "Il **marcha** longtemps.",
+            "Il **vit** une biche.",
+            "Il **prit** son arc.",
+            "Mais la biche **s’enfuit**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Raconte en trois phrases au passé simple.",
+          "items": [
+            "Le début d’une histoire : Awa (se lever) tôt…",
+            "La fin d’une histoire : Le lion (s’enfuir)…"
+          ],
+          "corrige": [
+            "Réponse possible : Awa **se leva** tôt. Elle **prit** son panier. Elle **partit** vers le marché.",
+            "Réponse possible : Le lion **s’enfuit**. Les villageois **crièrent** de joie. La paix **revint**."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Le **passé simple** exprime des actions **terminées** et **successives** dans un récit.",
+            "3e personne : **-a / -èrent** (1er groupe) ; **-it / -irent** (2e groupe) ; **-ut / -urent** (*avoir*, *être*…).",
+            "Verbes fréquents : *il fut, il eut, il alla, il fit, il vint, il vit, il prit, il dit*."
+          ]
+        }
+      ]
+    }
+  ]
+}

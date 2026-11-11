@@ -1,0 +1,260 @@
+{
+  "id": 30059,
+  "meta": {
+    "t": "Les antonymes : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Vocabulaire",
+    "img": "d",
+    "r": 4.8,
+    "ex": 59
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Antonymes",
+          "text": "Les **antonymes** sont des mots de **sens contraire** et de **même nature**. On peut aussi former un antonyme en ajoutant un **préfixe** : *in-, im-, dé-, mé-, mal-*."
+        },
+        {
+          "type": "table",
+          "title": "Exemples d’antonymes",
+          "head": [
+            "Mot",
+            "Antonyme",
+            "Procédé"
+          ],
+          "rows": [
+            [
+              "grand",
+              "petit",
+              "deux mots différents"
+            ],
+            [
+              "monter",
+              "descendre",
+              "deux mots différents"
+            ],
+            [
+              "possible",
+              "**im**possible",
+              "préfixe *im-*"
+            ],
+            [
+              "content",
+              "**mé**content",
+              "préfixe *mé-*"
+            ],
+            [
+              "faire",
+              "**dé**faire",
+              "préfixe *dé-*"
+            ],
+            [
+              "heureux",
+              "**mal**heureux",
+              "préfixe *mal-*"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Attention",
+          "text": "Un mot peut avoir **plusieurs** antonymes selon le sens : *froid* s’oppose à *chaud*, mais *une réponse froide* s’oppose à *une réponse chaleureuse*."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris l’antonyme de chaque mot.",
+          "items": [
+            "grand",
+            "chaud",
+            "jour",
+            "ouvrir"
+          ],
+          "corrige": [
+            "**petit**",
+            "**froid**",
+            "**nuit**",
+            "**fermer**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel est l’antonyme de « rapide » ?",
+          "options": [
+            "lent",
+            "vite",
+            "court"
+          ],
+          "answer": 0,
+          "explain": "**Lent** est le contraire de *rapide*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec l’antonyme.",
+          "items": [
+            "monter – ___",
+            "gagner – ___",
+            "arriver – ___",
+            "commencer – ___"
+          ],
+          "corrige": [
+            "monter – **descendre**",
+            "gagner – **perdre**",
+            "arriver – **partir**",
+            "commencer – **finir** (ou **terminer**)"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Forme l’antonyme avec un préfixe (*in-, im-, mé-, dé-, mal-*).",
+          "items": [
+            "possible",
+            "content",
+            "faire",
+            "heureux"
+          ],
+          "corrige": [
+            "**impossible**",
+            "**mécontent**",
+            "**défaire**",
+            "**malheureux**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec l’antonyme du mot en gras.",
+          "items": [
+            "Le sac est **lourd**, la plume est ___.",
+            "Le chemin est **long**, le raccourci est ___.",
+            "Il est **fort**, son petit frère est ___.",
+            "Cette histoire est **vraie**, l’autre est ___."
+          ],
+          "corrige": [
+            "la plume est **légère**.",
+            "le raccourci est **court**.",
+            "son petit frère est **faible**.",
+            "l’autre est **fausse**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel est l’antonyme de « heureux » ?",
+          "options": [
+            "malheureux",
+            "content",
+            "joyeux"
+          ],
+          "answer": 0,
+          "explain": "**Malheureux** est le contraire de *heureux* (préfixe *mal-*)."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Relève les deux antonymes dans chaque phrase.",
+          "items": [
+            "Le jour se lève et la nuit tombe.",
+            "Il aime le thé mais déteste le café.",
+            "Awa entre et Fatou sort.",
+            "Le sac est plein, la bouteille est vide."
+          ],
+          "corrige": [
+            "**jour** – **nuit**",
+            "**aime** – **déteste**",
+            "**entre** – **sort**",
+            "**plein** – **vide**"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Récris chaque phrase avec les antonymes des mots en gras.",
+          "items": [
+            "Il fait **chaud** et le ciel est **clair**.",
+            "Le **petit** garçon **monte** l’escalier.",
+            "Awa est **heureuse** : elle a **gagné**."
+          ],
+          "corrige": [
+            "Réponse possible : Il fait **froid** et le ciel est **sombre**.",
+            "Réponse possible : Le **grand** garçon **descend** l’escalier.",
+            "Réponse possible : Awa est **malheureuse** : elle a **perdu**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque couple d’antonymes.",
+          "items": [
+            "jour / nuit",
+            "monter / descendre",
+            "facile / difficile"
+          ],
+          "corrige": [
+            "Réponse possible : Le **jour** se lève quand la **nuit** s’en va.",
+            "Réponse possible : Je **monte** l’escalier puis je **descends**.",
+            "Réponse possible : Cet exercice est **facile**, l’autre est **difficile**."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Les **antonymes** ont un **sens contraire** et la **même nature**.",
+            "On peut former un antonyme avec un **préfixe** : *possible → impossible*, *content → mécontent*, *faire → défaire*.",
+            "Un mot peut avoir **plusieurs** antonymes selon le contexte."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": 30068,
+  "meta": {
+    "t": "La distinction entre quel, quelle, quels et quelles : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Orthographe",
+    "img": "e",
+    "r": 4.8,
+    "ex": 68
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Quel, quelle, quels, quelles",
+          "text": "**Quel** est un mot qui sert à **poser une question** ou à **exclamer** (*Quel âge as-tu ? Quelle belle journée !*). Il **s’accorde** en genre et en nombre avec le **nom** auquel il se rapporte."
+        },
+        {
+          "type": "table",
+          "title": "Les quatre formes",
+          "head": [
+            "Forme",
+            "Genre et nombre",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "quel",
+              "masculin singulier",
+              "**Quel** âge as-tu ?"
+            ],
+            [
+              "quelle",
+              "féminin singulier",
+              "**Quelle** heure est-il ?"
+            ],
+            [
+              "quels",
+              "masculin pluriel",
+              "**Quels** livres lis-tu ?"
+            ],
+            [
+              "quelles",
+              "féminin pluriel",
+              "**Quelles** belles mangues !"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Cherche le **nom** avec lequel *quel* s’accorde : *Quelle* heure ? → *heure* est féminin singulier. Il peut être séparé du nom : *Quels sont tes amis ?*"
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *quel, quelle, quels* ou *quelles*.",
+          "items": [
+            "___ jour sommes-nous ?",
+            "___ heure est-il ?",
+            "___ sont tes amis ?",
+            "___ sont tes sœurs ?"
+          ],
+          "corrige": [
+            "**Quel** jour sommes-nous ?",
+            "**Quelle** heure est-il ?",
+            "**Quels** sont tes amis ?",
+            "**Quelles** sont tes sœurs ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« ___ belles fleurs ! » Quel mot convient ?",
+          "options": [
+            "quel",
+            "quelle",
+            "quelles"
+          ],
+          "answer": 2,
+          "explain": "*fleurs* est féminin pluriel : **quelles**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec la bonne forme de *quel*.",
+          "items": [
+            "___ âge as-tu ?",
+            "___ chanson aimes-tu ?",
+            "___ livres lis-tu ?",
+            "___ couleurs préfères-tu ?"
+          ],
+          "corrige": [
+            "**Quel** âge as-tu ?",
+            "**Quelle** chanson aimes-tu ?",
+            "**Quels** livres lis-tu ?",
+            "**Quelles** couleurs préfères-tu ?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Indique le nom avec lequel s’accorde le mot en gras.",
+          "items": [
+            "**Quel** garçon !",
+            "**Quelles** belles mangues !",
+            "**Quels** sont tes projets ?",
+            "**Quelle** heure est-il ?"
+          ],
+          "corrige": [
+            "**garçon**",
+            "**mangues**",
+            "**projets**",
+            "**heure**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec la bonne forme de *quel*.",
+          "items": [
+            "___ beau paysage !",
+            "___ sont les noms de ces élèves ?",
+            "___ jolie robe !",
+            "___ sont ces villes ?"
+          ],
+          "corrige": [
+            "**Quel** beau paysage !",
+            "**Quels** sont les noms de ces élèves ?",
+            "**Quelle** jolie robe !",
+            "**Quelles** sont ces villes ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Quel fille !",
+            "Quelle fille !",
+            "Quelles fille !"
+          ],
+          "answer": 1,
+          "explain": "*fille* est féminin singulier : **quelle**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Corrige l’erreur.",
+          "items": [
+            "Quelle livre lis-tu ?",
+            "Quel sont tes cahiers ?",
+            "Quels heure est-il ?",
+            "Quelle sont vos amies ?"
+          ],
+          "corrige": [
+            "**Quel** livre lis-tu ?",
+            "**Quels** sont tes cahiers ?",
+            "**Quelle** heure est-il ?",
+            "**Quelles** sont vos amies ?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *quel, quelle, quels* ou *quelles*.",
+          "items": [
+            "___ temps fait-il ?",
+            "___ région préfères-tu ?",
+            "___ sont tes plats préférés ?",
+            "___ saisons aimes-tu ?",
+            "___ merveilleux souvenir !"
+          ],
+          "corrige": [
+            "**Quel** temps fait-il ?",
+            "**Quelle** région préfères-tu ?",
+            "**Quels** sont tes plats préférés ?",
+            "**Quelles** saisons aimes-tu ?",
+            "**Quel** merveilleux souvenir !"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une question avec chaque mot.",
+          "items": [
+            "quel",
+            "quelle",
+            "quelles"
+          ],
+          "corrige": [
+            "Réponse possible : **Quel** livre as-tu choisi ?",
+            "Réponse possible : **Quelle** heure est-il ?",
+            "Réponse possible : **Quelles** fleurs préfères-tu ?"
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Quel** s’accorde avec le **nom** : *quel, quelle, quels, quelles*.",
+            "Il sert à **interroger** (*Quel âge as-tu ?*) ou à **exclamer** (*Quelle belle journée !*).",
+            "Il peut être **séparé** du nom par le verbe *être* : *Quels sont tes amis ?*"
+          ]
+        }
+      ]
+    }
+  ]
+}

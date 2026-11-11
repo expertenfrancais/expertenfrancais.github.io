@@ -1,0 +1,264 @@
+{
+  "id": 30069,
+  "meta": {
+    "t": "Les verbes pronominaux : exercices",
+    "k": "Exercices",
+    "n": "5e",
+    "m": "Conjugaison",
+    "img": "f",
+    "r": 4.8,
+    "ex": 69
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Verbe pronominal",
+          "text": "Un **verbe pronominal** se conjugue avec un **pronom** de la même personne que le sujet : *je **me** lave, tu **te** laves, il **se** lave, nous **nous** lavons, vous **vous** lavez, ils **se** lavent*. Aux **temps composés**, il se conjugue avec l’auxiliaire **être**."
+        },
+        {
+          "type": "table",
+          "title": "Se laver",
+          "head": [
+            "Personne",
+            "Présent",
+            "Passé composé"
+          ],
+          "rows": [
+            [
+              "je",
+              "je me lave",
+              "je me suis lavé(e)"
+            ],
+            [
+              "tu",
+              "tu te laves",
+              "tu t’es lavé(e)"
+            ],
+            [
+              "il / elle",
+              "il se lave",
+              "il s’est lavé / elle s’est lavée"
+            ],
+            [
+              "nous",
+              "nous nous lavons",
+              "nous nous sommes lavé(e)s"
+            ],
+            [
+              "vous",
+              "vous vous lavez",
+              "vous vous êtes lavé(e)(s)"
+            ],
+            [
+              "ils / elles",
+              "ils se lavent",
+              "ils se sont lavés / elles se sont lavées"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Attention",
+          "text": "Devant une voyelle ou un *h* muet, *me, te, se* deviennent **m’, t’, s’** : *je m’habille, il s’appelle*."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Relève le pronom réfléchi.",
+          "items": [
+            "Je me lave les mains.",
+            "Tu te promènes.",
+            "Il se lève tôt.",
+            "Nous nous amusons."
+          ],
+          "corrige": [
+            "**me**",
+            "**te**",
+            "**se**",
+            "**nous**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel verbe est pronominal ?",
+          "options": [
+            "chanter",
+            "se coiffer",
+            "finir"
+          ],
+          "answer": 1,
+          "explain": "**Se coiffer** se conjugue avec un pronom réfléchi (*je me coiffe*)."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue au présent.",
+          "items": [
+            "Je (se lever) tôt.",
+            "Tu (se coiffer) bien.",
+            "Elle (se promener) au bord du fleuve.",
+            "Nous (se dépêcher)."
+          ],
+          "corrige": [
+            "Je **me lève** tôt.",
+            "Tu **te coiffes** bien.",
+            "Elle **se promène** au bord du fleuve.",
+            "Nous **nous dépêchons**."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec le pronom qui convient.",
+          "items": [
+            "Vous ___ reposez.",
+            "Ils ___ regardent.",
+            "Je ___ habille.",
+            "Tu ___ souviens de ce jour."
+          ],
+          "corrige": [
+            "Vous **vous** reposez.",
+            "Ils **se** regardent.",
+            "Je **m’**habille.",
+            "Tu **te** souviens de ce jour."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets au passé composé.",
+          "items": [
+            "Awa (se coiffer).",
+            "Les garçons (se laver).",
+            "Fatou et Awa (se regarder).",
+            "Paul (se blesser)."
+          ],
+          "corrige": [
+            "Awa **s’est coiffée**.",
+            "Les garçons **se sont lavés**.",
+            "Fatou et Awa **se sont regardées**.",
+            "Paul **s’est blessé**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quel auxiliaire emploie-t-on aux temps composés des verbes pronominaux ?",
+          "options": [
+            "être",
+            "avoir",
+            "aller"
+          ],
+          "answer": 0,
+          "explain": "Aux temps composés, les verbes pronominaux se conjuguent avec **être** : *il s’est lavé*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets au pluriel.",
+          "items": [
+            "Il se lève.",
+            "Tu te dépêches.",
+            "Je me promène.",
+            "Elle s’amuse."
+          ],
+          "corrige": [
+            "**Ils se lèvent**.",
+            "**Vous vous dépêchez**.",
+            "**Nous nous promenons**.",
+            "**Elles s’amusent**."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue au présent.",
+          "items": [
+            "Les enfants (se laver) avant le repas.",
+            "Vous (s’asseoir) sur le banc.",
+            "Je (s’appeler) Awa.",
+            "Nous (se retrouver) au marché.",
+            "Elle (se souvenir) de son village."
+          ],
+          "corrige": [
+            "Les enfants **se lavent** avant le repas.",
+            "Vous **vous asseyez** sur le banc.",
+            "Je **m’appelle** Awa.",
+            "Nous **nous retrouvons** au marché.",
+            "Elle **se souvient** de son village."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque verbe au présent.",
+          "items": [
+            "se réveiller",
+            "se promener",
+            "s’amuser"
+          ],
+          "corrige": [
+            "Réponse possible : Je **me réveille** à six heures.",
+            "Réponse possible : Nous **nous promenons** au bord du fleuve.",
+            "Réponse possible : Les enfants **s’amusent** dans la cour."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Un **verbe pronominal** se conjugue avec un **pronom réfléchi** (*me, te, se, nous, vous, se*).",
+            "Aux **temps composés**, l’auxiliaire est toujours **être** : *elle s’est lavée*.",
+            "Devant une voyelle : **m’, t’, s’** (*je m’habille*)."
+          ]
+        }
+      ]
+    }
+  ]
+}

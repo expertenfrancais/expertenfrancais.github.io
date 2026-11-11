@@ -1,0 +1,262 @@
+{
+  "id": 30064,
+  "meta": {
+    "t": "Le futur proche et le passé récent : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Conjugaison",
+    "img": "a",
+    "r": 4.8,
+    "ex": 64
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Futur proche et passé récent",
+          "text": "Le **futur proche** exprime une action qui va se produire **bientôt** : *aller* au présent + **infinitif** (*je vais chanter*). Le **passé récent** exprime une action qui vient de se terminer : *venir de* au présent + **infinitif** (*je viens de chanter*)."
+        },
+        {
+          "type": "table",
+          "title": "Conjugaison",
+          "head": [
+            "Personne",
+            "Futur proche",
+            "Passé récent"
+          ],
+          "rows": [
+            [
+              "je",
+              "je **vais** manger",
+              "je **viens de** manger"
+            ],
+            [
+              "tu",
+              "tu **vas** manger",
+              "tu **viens de** manger"
+            ],
+            [
+              "il / elle",
+              "il **va** manger",
+              "il **vient de** manger"
+            ],
+            [
+              "nous",
+              "nous **allons** manger",
+              "nous **venons de** manger"
+            ],
+            [
+              "vous",
+              "vous **allez** manger",
+              "vous **venez de** manger"
+            ],
+            [
+              "ils / elles",
+              "ils **vont** manger",
+              "ils **viennent de** manger"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Dans les deux cas, le verbe qui suit est à l’**infinitif** : *il va **partir*** ; *il vient de **partir***."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « futur proche » ou « passé récent ».",
+          "items": [
+            "Je vais jouer.",
+            "Il vient de partir.",
+            "Nous allons manger.",
+            "Elles viennent d’arriver."
+          ],
+          "corrige": [
+            "**futur proche**",
+            "**passé récent**",
+            "**futur proche**",
+            "**passé récent**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« Il vient de sortir. » exprime…",
+          "options": [
+            "une action qui va se produire",
+            "une action qui vient de se produire",
+            "une habitude"
+          ],
+          "answer": 1,
+          "explain": "*venir de* + infinitif exprime le **passé récent**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec le verbe *aller* au présent.",
+          "items": [
+            "Je ___ chanter.",
+            "Tu ___ lire.",
+            "Nous ___ partir.",
+            "Ils ___ jouer."
+          ],
+          "corrige": [
+            "Je **vais** chanter.",
+            "Tu **vas** lire.",
+            "Nous **allons** partir.",
+            "Ils **vont** jouer."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec le verbe *venir de* au présent.",
+          "items": [
+            "Je ___ manger.",
+            "Elle ___ arriver.",
+            "Vous ___ finir.",
+            "Elles ___ partir."
+          ],
+          "corrige": [
+            "Je **viens de** manger.",
+            "Elle **vient d’**arriver.",
+            "Vous **venez de** finir.",
+            "Elles **viennent de** partir."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets au futur proche.",
+          "items": [
+            "Il mange du riz.",
+            "Nous partons.",
+            "Tu finis ton travail.",
+            "Elles chantent."
+          ],
+          "corrige": [
+            "Il **va manger** du riz.",
+            "Nous **allons partir**.",
+            "Tu **vas finir** ton travail.",
+            "Elles **vont chanter**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est au passé récent ?",
+          "options": [
+            "Je vais chanter.",
+            "Je viens de chanter.",
+            "Je chantais."
+          ],
+          "answer": 1,
+          "explain": "**Je viens de chanter** : *venir de* + infinitif."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets au passé récent.",
+          "items": [
+            "Il mange du riz.",
+            "Nous partons.",
+            "Tu finis ton travail.",
+            "Elles arrivent."
+          ],
+          "corrige": [
+            "Il **vient de manger** du riz.",
+            "Nous **venons de partir**.",
+            "Tu **viens de finir** ton travail.",
+            "Elles **viennent d’arriver**."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris la forme demandée.",
+          "items": [
+            "Awa (ranger sa chambre) — futur proche",
+            "Les enfants (rentrer) — passé récent",
+            "Nous (visiter le musée) — futur proche",
+            "Je (finir mes devoirs) — passé récent",
+            "Vous (partir) — futur proche"
+          ],
+          "corrige": [
+            "Awa **va ranger** sa chambre.",
+            "Les enfants **viennent de rentrer**.",
+            "Nous **allons visiter** le musée.",
+            "Je **viens de finir** mes devoirs.",
+            "Vous **allez partir**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase pour chaque consigne.",
+          "items": [
+            "un futur proche avec *demain*",
+            "un passé récent avec *à l’instant*"
+          ],
+          "corrige": [
+            "Réponse possible : Demain, nous **allons visiter** le marché.",
+            "Réponse possible : Le maître **vient de sortir** à l’instant."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Futur proche** : *aller* au présent + infinitif (*je vais chanter*).",
+            "**Passé récent** : *venir de* au présent + infinitif (*je viens de chanter*).",
+            "Le verbe qui suit *aller* ou *venir de* reste à l’**infinitif**."
+          ]
+        }
+      ]
+    }
+  ]
+}

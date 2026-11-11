@@ -1,0 +1,255 @@
+{
+  "id": 30055,
+  "meta": {
+    "t": "La majuscule : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Orthographe",
+    "img": "h",
+    "r": 4.8,
+    "ex": 55
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Majuscule",
+          "text": "On met une **majuscule** au début de chaque **phrase** et au début des **noms propres** : prénoms, noms de famille, villes, pays, fleuves, montagnes, etc."
+        },
+        {
+          "type": "table",
+          "title": "Quand mettre une majuscule ?",
+          "head": [
+            "Emploi",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "début de phrase",
+              "**L**e chat dort."
+            ],
+            [
+              "prénoms et noms",
+              "**A**wa, **M**bemba"
+            ],
+            [
+              "villes, pays, continents",
+              "**B**razzaville, le **C**ongo, l’**A**frique"
+            ],
+            [
+              "fleuves, mers, montagnes",
+              "le fleuve **C**ongo, le **M**ayombe"
+            ],
+            [
+              "habitants d’un pays (nom)",
+              "un **C**ongolais"
+            ],
+            [
+              "PAS de majuscule : jours, mois, langues, adjectifs de nationalité",
+              "lundi, avril, le français, un chant congolais"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Attention",
+          "text": "Les **jours**, les **mois** et les **langues** ne prennent pas de majuscule : *lundi*, *septembre*, *le lingala*."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Recopie les phrases en mettant les majuscules.",
+          "items": [
+            "awa habite à brazzaville.",
+            "le fleuve congo est très large.",
+            "mon ami pierre vient de dolisie.",
+            "nous visitons pointe-noire."
+          ],
+          "corrige": [
+            "**A**wa habite à **B**razzaville.",
+            "**L**e fleuve **C**ongo est très large.",
+            "**M**on ami **P**ierre vient de **D**olisie.",
+            "**N**ous visitons **P**ointe-**N**oire."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Nous partons en Septembre.",
+            "Nous partons en septembre.",
+            "nous partons en septembre."
+          ],
+          "answer": 1,
+          "explain": "Les mois ne prennent pas de majuscule, mais la phrase commence par une majuscule."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « majuscule » ou « minuscule » pour la première lettre de chaque mot.",
+          "items": [
+            "brazzaville",
+            "vendredi",
+            "afrique",
+            "français (la langue)"
+          ],
+          "corrige": [
+            "**majuscule** (nom de ville)",
+            "**minuscule** (jour)",
+            "**majuscule** (continent)",
+            "**minuscule** (langue)"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Corrige les erreurs de majuscules.",
+          "items": [
+            "Mon cousin habite à ouesso.",
+            "Le Samedi, nous allons au marché.",
+            "Ma sœur parle Français et lingala.",
+            "il est né en avril."
+          ],
+          "corrige": [
+            "Mon cousin habite à **O**uesso.",
+            "Le **s**amedi, nous allons au marché.",
+            "Ma sœur parle **f**rançais et **l**ingala.",
+            "**I**l est né en avril."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris le mot entre parenthèses avec ou sans majuscule.",
+          "items": [
+            "Un (congolais) lit un livre.",
+            "Nous mangeons un plat (congolais).",
+            "Les (français) visitent Brazzaville.",
+            "Il aime la cuisine (française)."
+          ],
+          "corrige": [
+            "Un **Congolais** lit un livre. (nom d’habitant)",
+            "Nous mangeons un plat **congolais**. (adjectif)",
+            "Les **Français** visitent Brazzaville. (habitants)",
+            "Il aime la cuisine **française**. (adjectif)"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Dans « Le Congo est un pays d’Afrique centrale », quels mots prennent une majuscule ?",
+          "options": [
+            "Le, Congo, Afrique",
+            "Le, Congo, pays, Afrique",
+            "Congo, Afrique seulement"
+          ],
+          "answer": 0,
+          "explain": "*Le* commence la phrase ; *Congo* et *Afrique* sont des noms propres."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Recopie en mettant les majuscules.",
+          "items": [
+            "il fait chaud. nous buvons de l’eau.",
+            "où vas-tu ? je vais au marché.",
+            "quel beau jour ! allons nous promener.",
+            "paul est arrivé. il a faim."
+          ],
+          "corrige": [
+            "**I**l fait chaud. **N**ous buvons de l’eau.",
+            "**O**ù vas-tu ? **J**e vais au marché.",
+            "**Q**uel beau jour ! **A**llons nous promener.",
+            "**P**aul est arrivé. **I**l a faim."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Recopie les phrases avec les majuscules nécessaires.",
+          "items": [
+            "ma famille habite à brazzaville, près du fleuve congo.",
+            "en juillet, mon oncle jean voyage vers kinshasa.",
+            "le lundi, awa va à l’école de makélékélé.",
+            "les élèves de pointe-noire visitent le mayombe."
+          ],
+          "corrige": [
+            "**M**a famille habite à **B**razzaville, près du fleuve **C**ongo.",
+            "**E**n juillet, mon oncle **J**ean voyage vers **K**inshasa.",
+            "**L**e lundi, **A**wa va à l’école de **M**akélékélé.",
+            "**L**es élèves de **P**ointe-**N**oire visitent le **M**ayombe."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque consigne.",
+          "items": [
+            "ton prénom et ta ville",
+            "un jour de la semaine",
+            "un pays et un fleuve"
+          ],
+          "corrige": [
+            "Réponse possible : **A**wa habite à **D**olisie.",
+            "Réponse possible : Le **m**ardi, j’ai cours de français.",
+            "Réponse possible : Le fleuve **C**ongo traverse le **C**ongo."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Une **majuscule** commence chaque phrase et chaque **nom propre** (personnes, villes, pays, fleuves…).",
+            "Le **nom d’habitant** prend une majuscule (*un Congolais*), pas l’**adjectif** (*un plat congolais*).",
+            "Les **jours**, les **mois** et les **langues** s’écrivent avec une minuscule."
+          ]
+        }
+      ]
+    }
+  ]
+}

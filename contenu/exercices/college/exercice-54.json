@@ -1,0 +1,256 @@
+{
+  "id": 30054,
+  "meta": {
+    "t": "Les terminaisons verbales en -é, -er, -ait, -ez : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Orthographe",
+    "img": "g",
+    "r": 4.8,
+    "ex": 54
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Terminaisons en [e]",
+          "text": "Les terminaisons **-é**, **-er**, **-ait** et **-ez** se prononcent presque pareil. Pour choisir la bonne, on remplace le verbe par un verbe du 3e groupe comme *vendre* : *vendre*, *vendu*, *vendait*, *vendez*."
+        },
+        {
+          "type": "table",
+          "title": "Quelle terminaison ?",
+          "head": [
+            "Terminaison",
+            "Astuce",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "-er",
+              "infinitif (on peut dire *vendre*)",
+              "Il aime **chanter**."
+            ],
+            [
+              "-é",
+              "participe passé (on peut dire *vendu*)",
+              "Il a **chanté**."
+            ],
+            [
+              "-ait",
+              "imparfait, sujet *il / elle / on* (on peut dire *vendait*)",
+              "Il **chantait**."
+            ],
+            [
+              "-ez",
+              "présent, sujet *vous* (on peut dire *vendez*)",
+              "Vous **chantez**."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Remplace le verbe par **vendre** : si tu peux dire *vendre*, écris **-er** ; si tu dis *vendu*, écris **-é**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *-er* ou *-é*.",
+          "items": [
+            "Nous allons mang___ du riz.",
+            "Elle a mang___ du poisson.",
+            "Il veut jou___ au ballon.",
+            "Ils ont jou___ toute la journée."
+          ],
+          "corrige": [
+            "Nous allons mang**er** du riz.",
+            "Elle a mang**é** du poisson.",
+            "Il veut jou**er** au ballon.",
+            "Ils ont jou**é** toute la journée."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle est la bonne écriture ? « Il faut ___ la porte. »",
+          "options": [
+            "fermé",
+            "fermer",
+            "fermez"
+          ],
+          "answer": 1,
+          "explain": "On peut dire « Il faut **vendre** » : c’est un infinitif, donc **fermer**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *-ez* ou *-er*.",
+          "items": [
+            "Vous chant___ très bien.",
+            "Vous allez chant___ ce soir.",
+            "Pouvez-vous ferm___ la porte ?",
+            "Vous ferm___ la porte à clé."
+          ],
+          "corrige": [
+            "Vous chant**ez** très bien.",
+            "Vous allez chant**er** ce soir.",
+            "Pouvez-vous ferm**er** la porte ?",
+            "Vous ferm**ez** la porte à clé."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *-ait*, *-é* ou *-er*.",
+          "items": [
+            "Il chant___ chaque matin.",
+            "Il a chant___ hier.",
+            "Il aime chant___.",
+            "Hier, Awa parl___ avec sa mère."
+          ],
+          "corrige": [
+            "Il chant**ait** chaque matin.",
+            "Il a chant**é** hier.",
+            "Il aime chant**er**.",
+            "Hier, Awa parl**ait** avec sa mère."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « infinitif » ou « participe passé » pour le verbe en gras.",
+          "items": [
+            "Ils vont **jouer**.",
+            "Ils ont **joué**.",
+            "Elle a **mangé**.",
+            "Il veut **manger**."
+          ],
+          "corrige": [
+            "**infinitif**",
+            "**participe passé**",
+            "**participe passé**",
+            "**infinitif**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Nous avons décidé de partir.",
+            "Nous avons décider de partir.",
+            "Nous avons décidé de partez."
+          ],
+          "answer": 0,
+          "explain": "*avons décidé* : participe passé après *avoir* ; *de partir* : infinitif après la préposition *de*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets le verbe à l’imparfait (3e personne du singulier).",
+          "items": [
+            "Il (marcher) vers l’école.",
+            "Awa (chanter) très bien.",
+            "Mon père (travailler) au port.",
+            "Le chien (aboyer) toute la nuit."
+          ],
+          "corrige": [
+            "Il **marchait** vers l’école.",
+            "Awa **chantait** très bien.",
+            "Mon père **travaillait** au port.",
+            "Le chien **aboyait** toute la nuit."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *-é*, *-er*, *-ait* ou *-ez*.",
+          "items": [
+            "Vous avez march___ longtemps.",
+            "Il faut march___ vite.",
+            "Ma mère cuisin___ le manioc.",
+            "Vous cuisin___ très bien.",
+            "Nous avons cuisin___ ensemble."
+          ],
+          "corrige": [
+            "Vous avez march**é** longtemps.",
+            "Il faut march**er** vite.",
+            "Ma mère cuisin**ait** le manioc.",
+            "Vous cuisin**ez** très bien.",
+            "Nous avons cuisin**é** ensemble."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chacun de ces mots.",
+          "items": [
+            "chanter",
+            "chanté",
+            "chantait",
+            "chantez"
+          ],
+          "corrige": [
+            "Réponse possible : J’aime **chanter**.",
+            "Réponse possible : Awa a **chanté** hier.",
+            "Réponse possible : Elle **chantait** chaque soir.",
+            "Réponse possible : Vous **chantez** bien."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**-er** : infinitif (remplaçable par *vendre*). **-é** : participe passé (remplaçable par *vendu*).",
+            "**-ait** : imparfait avec *il, elle, on* (remplaçable par *vendait*).",
+            "**-ez** : présent ou futur avec *vous* (remplaçable par *vendez*)."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": 30066,
+  "meta": {
+    "t": "La distinction entre peu, peut et peux : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Orthographe",
+    "img": "c",
+    "r": 4.8,
+    "ex": 66
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Peu, peut, peux",
+          "text": "**Peu** est un **adverbe de quantité** (contraire de *beaucoup*) : *Il mange peu.* **Peut** et **peux** sont des formes du verbe **pouvoir** : *il peut*, *je peux*, *tu peux*."
+        },
+        {
+          "type": "table",
+          "title": "Comment choisir ?",
+          "head": [
+            "Mot",
+            "Astuce",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "peu",
+              "on peut dire *beaucoup* (contraire)",
+              "Il mange **peu**."
+            ],
+            [
+              "peut",
+              "verbe *pouvoir* avec *il, elle, on*",
+              "Il **peut** venir."
+            ],
+            [
+              "peux",
+              "verbe *pouvoir* avec *je, tu*",
+              "Je **peux** venir. Tu **peux** venir."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Remplace par **beaucoup** : si ça marche, écris **peu**. Sinon, c’est le verbe *pouvoir* : **peux** avec *je* et *tu*, **peut** avec *il, elle, on*."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *peu* ou *peut*.",
+          "items": [
+            "Il ___ venir demain.",
+            "Il mange ___.",
+            "Awa parle ___.",
+            "Elle ___ chanter."
+          ],
+          "corrige": [
+            "Il **peut** venir demain.",
+            "Il mange **peu**.",
+            "Awa parle **peu**.",
+            "Elle **peut** chanter."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« Je ___ venir ce soir. » Quel mot convient ?",
+          "options": [
+            "peu",
+            "peut",
+            "peux"
+          ],
+          "answer": 2,
+          "explain": "Avec le sujet **je**, le verbe *pouvoir* s’écrit **peux**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *peux* ou *peut*.",
+          "items": [
+            "Tu ___ m’aider.",
+            "On ___ jouer.",
+            "Je ___ courir.",
+            "Le maître ___ parler."
+          ],
+          "corrige": [
+            "Tu **peux** m’aider.",
+            "On **peut** jouer.",
+            "Je **peux** courir.",
+            "Le maître **peut** parler."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *peu* ou *peut*.",
+          "items": [
+            "Il pleut ___ en saison sèche.",
+            "Il ___ y aller.",
+            "Il a ___ d’amis.",
+            "Elle ___ lire seule."
+          ],
+          "corrige": [
+            "Il pleut **peu** en saison sèche.",
+            "Il **peut** y aller.",
+            "Il a **peu** d’amis.",
+            "Elle **peut** lire seule."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *peu, peut* ou *peux*.",
+          "items": [
+            "Si tu le ___, viens avec moi.",
+            "Il y a ___ d’eau.",
+            "Quand on ___, on aide.",
+            "Je dors très ___."
+          ],
+          "corrige": [
+            "Si tu le **peux**, viens avec moi.",
+            "Il y a **peu** d’eau.",
+            "Quand on **peut**, on aide.",
+            "Je dors très **peu**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Tu peut venir.",
+            "Tu peux venir.",
+            "Tu peu venir."
+          ],
+          "answer": 1,
+          "explain": "Avec **tu**, on écrit **peux**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Corrige l’erreur.",
+          "items": [
+            "Je peut chanter.",
+            "Il mange peut.",
+            "Elle peux lire.",
+            "Tu peut partir."
+          ],
+          "corrige": [
+            "Je **peux** chanter.",
+            "Il mange **peu**.",
+            "Elle **peut** lire.",
+            "Tu **peux** partir."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *peu, peut* ou *peux*.",
+          "items": [
+            "Awa mange très ___.",
+            "Elle ___ courir vite.",
+            "Moi, je ___ nager.",
+            "Il y a ___ de monde au marché.",
+            "Et toi, tu ___ venir ?"
+          ],
+          "corrige": [
+            "Awa mange très **peu**.",
+            "Elle **peut** courir vite.",
+            "Moi, je **peux** nager.",
+            "Il y a **peu** de monde au marché.",
+            "Et toi, tu **peux** venir ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque mot.",
+          "items": [
+            "peu",
+            "peut",
+            "peux"
+          ],
+          "corrige": [
+            "Réponse possible : Il y a **peu** de nuages.",
+            "Réponse possible : Mon frère **peut** m’aider.",
+            "Réponse possible : Je **peux** porter ce sac."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**peu** (adverbe) = contraire de *beaucoup*.",
+            "**peux** = verbe *pouvoir* avec **je** et **tu**.",
+            "**peut** = verbe *pouvoir* avec **il, elle, on**."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": 30067,
+  "meta": {
+    "t": "La distinction entre leur et leurs : exercices",
+    "k": "Exercices",
+    "n": "5e",
+    "m": "Orthographe",
+    "img": "d",
+    "r": 4.8,
+    "ex": 67
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Leur, leurs",
+          "text": "**Leur** est un **pronom personnel** placé devant un verbe : il est **invariable** (*Je leur parle*). **Leur / leurs** est aussi un **déterminant possessif** placé devant un nom : il prend un **s** quand le nom est au **pluriel** (*leur cahier, leurs cahiers*)."
+        },
+        {
+          "type": "table",
+          "title": "Comment choisir ?",
+          "head": [
+            "Emploi",
+            "Astuce",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "pronom (*leur*)",
+              "devant un verbe ; on peut dire *lui* (au singulier)",
+              "Je **leur** parle. (Je lui parle.)"
+            ],
+            [
+              "déterminant (*leur*)",
+              "devant un nom singulier",
+              "Ils rangent **leur** cahier."
+            ],
+            [
+              "déterminant (*leurs*)",
+              "devant un nom pluriel",
+              "Ils rangent **leurs** cahiers."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Si le mot est devant un **verbe**, écris **leur** (jamais de *s*). Devant un **nom**, regarde s’il est **singulier** ou **pluriel**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « pronom » ou « déterminant » pour le mot en gras.",
+          "items": [
+            "Je **leur** donne un livre.",
+            "Ils lisent **leur** livre.",
+            "Il **leur** parle.",
+            "Elles rangent **leurs** cahiers."
+          ],
+          "corrige": [
+            "**pronom**",
+            "**déterminant**",
+            "**pronom**",
+            "**déterminant**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« Je ___ ai parlé. » Quel mot convient ?",
+          "options": [
+            "leur",
+            "leurs",
+            "leures"
+          ],
+          "answer": 0,
+          "explain": "Devant un verbe, **leur** est un pronom : il est invariable."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *leur* ou *leurs*.",
+          "items": [
+            "Les enfants rangent ___ sacs.",
+            "Le maître ___ explique la leçon.",
+            "Ils aiment ___ école.",
+            "Elles lavent ___ mains."
+          ],
+          "corrige": [
+            "Les enfants rangent **leurs** sacs.",
+            "Le maître **leur** explique la leçon.",
+            "Ils aiment **leur** école.",
+            "Elles lavent **leurs** mains."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *leur* ou *leurs*.",
+          "items": [
+            "Je ___ prête mon stylo.",
+            "Ils parlent à ___ maître.",
+            "Elles ont oublié ___ clés.",
+            "Je ___ ai écrit."
+          ],
+          "corrige": [
+            "Je **leur** prête mon stylo.",
+            "Ils parlent à **leur** maître.",
+            "Elles ont oublié **leurs** clés.",
+            "Je **leur** ai écrit."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *leur* ou *leurs*.",
+          "items": [
+            "Les deux sœurs ont perdu ___ clés.",
+            "Mes parents aiment ___ maison.",
+            "Les chasseurs prennent ___ arcs.",
+            "Ils ___ ont rendu visite."
+          ],
+          "corrige": [
+            "Les deux sœurs ont perdu **leurs** clés.",
+            "Mes parents aiment **leur** maison.",
+            "Les chasseurs prennent **leurs** arcs.",
+            "Ils **leur** ont rendu visite."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Je leurs parle.",
+            "Je leur parle.",
+            "Je leur parles."
+          ],
+          "answer": 1,
+          "explain": "Le pronom **leur** ne prend jamais de *s*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Remplace les mots en gras par le pronom *leur*.",
+          "items": [
+            "Je parle **à mes amis**.",
+            "Tu écris **à tes cousins**.",
+            "Nous donnons un bonbon **aux enfants**.",
+            "Le maître dit **aux élèves** de se taire."
+          ],
+          "corrige": [
+            "Je **leur** parle.",
+            "Tu **leur** écris.",
+            "Nous **leur** donnons un bonbon.",
+            "Le maître **leur** dit de se taire."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *leur* ou *leurs*.",
+          "items": [
+            "Les élèves rangent ___ cahiers.",
+            "Le maître ___ explique la leçon.",
+            "Ils aiment ___ classe.",
+            "Je ___ prête mon livre.",
+            "Elles ont perdu ___ stylos."
+          ],
+          "corrige": [
+            "Les élèves rangent **leurs** cahiers.",
+            "Le maître **leur** explique la leçon.",
+            "Ils aiment **leur** classe.",
+            "Je **leur** prête mon livre.",
+            "Elles ont perdu **leurs** stylos."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque mot.",
+          "items": [
+            "leur (pronom)",
+            "leur (déterminant)",
+            "leurs"
+          ],
+          "corrige": [
+            "Réponse possible : Je **leur** raconte une histoire.",
+            "Réponse possible : Ils ont retrouvé **leur** chemin.",
+            "Réponse possible : Les enfants rangent **leurs** jouets."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**leur** pronom (devant un verbe) est **invariable** : *je leur parle*.",
+            "**leur** déterminant : un seul nom singulier ; **leurs** : nom pluriel.",
+            "Astuce : remplace par **lui** pour reconnaître le pronom."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": 30072,
+  "meta": {
+    "t": "La forme affirmative et la forme négative : exercices",
+    "k": "Exercices",
+    "n": "6e",
+    "m": "Grammaire",
+    "img": "a",
+    "r": 4.8,
+    "ex": 72
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Forme affirmative et forme négative",
+          "text": "Une phrase est à la **forme affirmative** quand elle affirme quelque chose. Elle est à la **forme négative** quand elle **nie**, avec deux mots qui encadrent le verbe : **ne … pas**, **ne … jamais**, **ne … plus**, **ne … rien**, **ne … personne**."
+        },
+        {
+          "type": "table",
+          "title": "La négation",
+          "head": [
+            "Forme",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "affirmative",
+              "Il chante."
+            ],
+            [
+              "ne … pas",
+              "Il **ne** chante **pas**."
+            ],
+            [
+              "ne … jamais",
+              "Il **ne** chante **jamais**."
+            ],
+            [
+              "ne … plus",
+              "Il **ne** chante **plus**."
+            ],
+            [
+              "ne … rien",
+              "Il **ne** voit **rien**."
+            ],
+            [
+              "ne … personne",
+              "Il **ne** voit **personne**."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Attention",
+          "text": "Devant une voyelle, **ne** devient **n’** : *Il **n’**a pas faim.* Les deux mots de la négation **encadrent le verbe**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « affirmative » ou « négative ».",
+          "items": [
+            "Awa chante.",
+            "Il ne pleut pas.",
+            "Nous n’avons plus faim.",
+            "Tu manges du riz."
+          ],
+          "corrige": [
+            "**affirmative**",
+            "**négative**",
+            "**négative**",
+            "**affirmative**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quels mots forment la négation dans « Il ne vient jamais » ?",
+          "options": [
+            "ne … jamais",
+            "vient jamais",
+            "il ne"
+          ],
+          "answer": 0,
+          "explain": "La négation est formée de **ne … jamais**, qui encadrent le verbe."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets à la forme négative avec *ne … pas*.",
+          "items": [
+            "Il mange.",
+            "Tu viens.",
+            "Elles chantent.",
+            "J’ai faim."
+          ],
+          "corrige": [
+            "Il **ne** mange **pas**.",
+            "Tu **ne** viens **pas**.",
+            "Elles **ne** chantent **pas**.",
+            "Je **n’**ai **pas** faim."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets à la forme négative avec le mot indiqué.",
+          "items": [
+            "Il mange toujours du riz. (jamais)",
+            "Tu as encore faim. (plus)",
+            "J’entends quelque chose. (rien)",
+            "Je vois quelqu’un. (personne)"
+          ],
+          "corrige": [
+            "Il **ne** mange **jamais** de riz.",
+            "Tu **n’**as **plus** faim.",
+            "Je **n’**entends **rien**.",
+            "Je **ne** vois **personne**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets à la forme affirmative.",
+          "items": [
+            "Il ne chante pas.",
+            "Nous ne partons pas.",
+            "Tu n’as rien dit.",
+            "Elle n’aime personne."
+          ],
+          "corrige": [
+            "Il **chante**.",
+            "Nous **partons**.",
+            "Tu as **dit quelque chose**.",
+            "Elle aime **quelqu’un**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Il n’a pas faim.",
+            "Il na pas faim.",
+            "Il ne a pas faim."
+          ],
+          "answer": 0,
+          "explain": "Devant une voyelle, *ne* devient **n’** : *il n’a pas faim*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *ne* ou *n’*.",
+          "items": [
+            "Je ___ sais pas.",
+            "Il ___ a pas fini.",
+            "Nous ___ jouons plus.",
+            "Elle ___ aime personne."
+          ],
+          "corrige": [
+            "Je **ne** sais pas.",
+            "Il **n’**a pas fini.",
+            "Nous **ne** jouons plus.",
+            "Elle **n’**aime personne."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Réponds par la négative.",
+          "items": [
+            "As-tu faim ? Non, ___.",
+            "Vois-tu quelqu’un ? Non, ___.",
+            "Joues-tu encore ? Non, ___.",
+            "Entends-tu quelque chose ? Non, ___.",
+            "Mangez-vous souvent du poisson ? Non, ___."
+          ],
+          "corrige": [
+            "Non, **je n’ai pas faim**.",
+            "Non, **je ne vois personne**.",
+            "Non, **je ne joue plus**.",
+            "Non, **je n’entends rien**.",
+            "Non, **nous ne mangeons jamais de poisson**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase négative avec chaque expression.",
+          "items": [
+            "ne … pas",
+            "ne … jamais",
+            "ne … rien"
+          ],
+          "corrige": [
+            "Réponse possible : Je **ne** pars **pas** demain.",
+            "Réponse possible : Il **ne** ment **jamais**.",
+            "Réponse possible : Je **n’**ai **rien** mangé."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "La **forme négative** nie ce qu’on affirme : **ne … pas, ne … jamais, ne … plus, ne … rien, ne … personne**.",
+            "Les deux mots de la négation **encadrent le verbe** ; **ne** devient **n’** devant une voyelle.",
+            "Pour passer à l’**affirmative**, on supprime la négation (*Il ne chante pas → Il chante*)."
+          ]
+        }
+      ]
+    }
+  ]
+}

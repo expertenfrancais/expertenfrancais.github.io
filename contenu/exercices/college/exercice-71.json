@@ -1,0 +1,249 @@
+{
+  "id": 30071,
+  "meta": {
+    "t": "L’accord du participe passé : exercices",
+    "k": "Exercices",
+    "n": "4e",
+    "m": "Orthographe",
+    "img": "h",
+    "r": 4.8,
+    "ex": 71
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Accord du participe passé",
+          "text": "Avec l’auxiliaire **être**, le participe passé s’accorde avec le **sujet**. Avec l’auxiliaire **avoir**, il s’accorde avec le **COD** seulement si ce COD est placé **avant** le verbe ; sinon, il reste **invariable**."
+        },
+        {
+          "type": "table",
+          "title": "Les règles",
+          "head": [
+            "Cas",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "être : accord avec le sujet",
+              "Elle est parti**e**. Ils sont arrivé**s**."
+            ],
+            [
+              "avoir sans COD avant le verbe",
+              "Elle a mangé la mangue. (invariable)"
+            ],
+            [
+              "avoir avec COD avant le verbe",
+              "La mangue qu’elle a mangé**e** est mûre."
+            ],
+            [
+              "COD placé avant : *que*, *les*, *la*, *quelle* + nom…",
+              "Les lettres que j’ai écrit**es**."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le truc",
+          "text": "Avec **avoir**, cherche le **COD** : *qu’a-t-elle mangé ?* S’il est placé **avant** le verbe, accorde le participe avec lui. Sinon, ne l’accorde pas."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris le participe passé qui convient.",
+          "items": [
+            "Elles sont (partir).",
+            "Il est (arriver).",
+            "Awa est (sortir).",
+            "Ils sont (venir)."
+          ],
+          "corrige": [
+            "Elles sont **parties**.",
+            "Il est **arrivé**.",
+            "Awa est **sortie**.",
+            "Ils sont **venus**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Avec l’auxiliaire *avoir*, le participe s’accorde avec…",
+          "options": [
+            "le sujet",
+            "le COD placé avant le verbe",
+            "jamais"
+          ],
+          "answer": 1,
+          "explain": "Avec **avoir**, l’accord se fait avec le **COD placé avant le verbe**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Accorde le participe passé employé avec *être*.",
+          "items": [
+            "Les filles sont (rentrer).",
+            "Mon frère est (tomber).",
+            "Awa et Fatou sont (arriver).",
+            "Les garçons sont (partir)."
+          ],
+          "corrige": [
+            "Les filles sont **rentrées**.",
+            "Mon frère est **tombé**.",
+            "Awa et Fatou sont **arrivées**.",
+            "Les garçons sont **partis**."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris le participe passé (pas de COD avant le verbe).",
+          "items": [
+            "Elle a (manger) du riz.",
+            "Les enfants ont (chanter).",
+            "Nous avons (finir) le travail.",
+            "Ils ont (voir) un lion."
+          ],
+          "corrige": [
+            "Elle a **mangé** du riz.",
+            "Les enfants ont **chanté**.",
+            "Nous avons **fini** le travail.",
+            "Ils ont **vu** un lion."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Accorde le participe passé (COD placé avant le verbe).",
+          "items": [
+            "Les mangues que j’ai (acheter) sont mûres.",
+            "La leçon qu’il a (apprendre) est facile.",
+            "Les amis que nous avons (inviter) sont venus.",
+            "Quelle chanson as-tu (choisir) ?"
+          ],
+          "corrige": [
+            "Les mangues que j’ai **achetées** sont mûres.",
+            "La leçon qu’il a **apprise** est facile.",
+            "Les amis que nous avons **invités** sont venus.",
+            "Quelle chanson as-tu **choisie** ?"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Les fleurs qu’il a cueilli sont belles.",
+            "Les fleurs qu’il a cueillies sont belles.",
+            "Les fleurs qu’il a cueillie sont belles."
+          ],
+          "answer": 1,
+          "explain": "Le COD *que* (= les fleurs) est placé avant le verbe : **cueillies**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Corrige l’erreur.",
+          "items": [
+            "Elles sont parti hier.",
+            "Les livres que j’ai lu étaient longs.",
+            "Awa est tombé.",
+            "La lettre qu’il a écrit est courte."
+          ],
+          "corrige": [
+            "Elles sont **parties** hier.",
+            "Les livres que j’ai **lus** étaient longs.",
+            "Awa est **tombée**.",
+            "La lettre qu’il a **écrite** est courte."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Accorde le participe passé quand il le faut.",
+          "items": [
+            "Les enfants sont (rentrer) tard.",
+            "La chanson que nous avons (entendre) est belle.",
+            "Elle a (cueillir) des fleurs.",
+            "Les fruits qu’elle a (cueillir) sont mûrs.",
+            "Ma sœur est (partir) hier."
+          ],
+          "corrige": [
+            "Les enfants sont **rentrés** tard.",
+            "La chanson que nous avons **entendue** est belle.",
+            "Elle a **cueilli** des fleurs.",
+            "Les fruits qu’elle a **cueillis** sont mûrs.",
+            "Ma sœur est **partie** hier."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase avec chaque participe passé.",
+          "items": [
+            "arrivées (avec être)",
+            "écrites (COD avant le verbe)",
+            "mangé (sans COD avant)"
+          ],
+          "corrige": [
+            "Réponse possible : Les filles sont **arrivées** hier.",
+            "Réponse possible : Les lettres que j’ai **écrites** sont parties.",
+            "Réponse possible : Il a **mangé** du poisson."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Avec **être**, le participe passé s’accorde avec le **sujet**.",
+            "Avec **avoir**, il s’accorde avec le **COD placé avant le verbe** ; sinon, il est **invariable**.",
+            "Pour trouver le COD : *qu’a-t-il fait ? qui a-t-il vu ?*"
+          ]
+        }
+      ]
+    }
+  ]
+}

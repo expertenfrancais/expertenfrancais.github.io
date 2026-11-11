@@ -1,0 +1,254 @@
+{
+  "id": 30060,
+  "meta": {
+    "t": "Les homonymes : exercices",
+    "k": "Exercices",
+    "n": "5e",
+    "m": "Vocabulaire",
+    "img": "e",
+    "r": 4.8,
+    "ex": 60
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Homonymes",
+          "text": "Les **homonymes** sont des mots qui se **prononcent de la même façon** mais qui ont un **sens différent**. Les **homophones** s’écrivent différemment (*mer, mère, maire*) ; les **homographes** s’écrivent de la même façon (*la mine du crayon, la mine de cuivre*)."
+        },
+        {
+          "type": "table",
+          "title": "Quelques homophones",
+          "head": [
+            "Mots",
+            "Sens",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "mer / mère / maire",
+              "étendue d’eau / maman / chef de la commune",
+              "La **mer** est calme. Ma **mère** cuisine. Le **maire** parle."
+            ],
+            [
+              "vert / verre / ver / vers",
+              "couleur / récipient / petit animal / direction",
+              "Un **verre** d’eau. Un **ver** de terre."
+            ],
+            [
+              "sale / salle",
+              "pas propre / pièce",
+              "La **salle** est **sale**."
+            ],
+            [
+              "cent / sans",
+              "nombre / absence",
+              "**Cent** ans. **Sans** manteau."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le contexte",
+          "text": "Pour choisir le bon homonyme, **relis la phrase** : c’est le **sens** de la phrase qui te guide."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Choisis le bon mot (*mer, mère, maire, verre*).",
+          "items": [
+            "La ___ est calme.",
+            "Ma ___ prépare le repas.",
+            "Le ___ de la ville a parlé.",
+            "Je bois un ___ d’eau."
+          ],
+          "corrige": [
+            "La **mer** est calme.",
+            "Ma **mère** prépare le repas.",
+            "Le **maire** de la ville a parlé.",
+            "Je bois un **verre** d’eau."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "« Il y a un ___ dans la pomme. » Quel mot convient ?",
+          "options": [
+            "vert",
+            "ver",
+            "verre"
+          ],
+          "answer": 1,
+          "explain": "Un **ver** est un petit animal."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Choisis entre *sale / salle* et *cent / sans*.",
+          "items": [
+            "La ___ de classe est grande.",
+            "Le chien est ___ après la pluie.",
+            "Il part ___ manteau.",
+            "Un siècle dure ___ ans."
+          ],
+          "corrige": [
+            "La **salle** de classe est grande.",
+            "Le chien est **sale** après la pluie.",
+            "Il part **sans** manteau.",
+            "Un siècle dure **cent** ans."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Indique le sens du mot « mine » (crayon, aspect du visage, carrière).",
+          "items": [
+            "Il a bonne **mine**.",
+            "La **mine** de mon crayon est cassée.",
+            "Il travaille dans une **mine** de cuivre.",
+            "Cette **mine** de charbon est profonde."
+          ],
+          "corrige": [
+            "**aspect du visage**",
+            "**crayon**",
+            "**carrière**",
+            "**carrière**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *pois, poids, peint* ou *pin*.",
+          "items": [
+            "Il mange des petits ___.",
+            "Quel est le ___ de ce sac ?",
+            "Awa a ___ le mur en blanc.",
+            "Un ___ pousse dans la forêt."
+          ],
+          "corrige": [
+            "Il mange des petits **pois**.",
+            "Quel est le **poids** de ce sac ?",
+            "Awa a **peint** le mur en blanc.",
+            "Un **pin** pousse dans la forêt."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Comment appelle-t-on des mots qui se prononcent pareil mais s’écrivent différemment ?",
+          "options": [
+            "des homophones",
+            "des antonymes",
+            "des synonymes"
+          ],
+          "answer": 0,
+          "explain": "Ce sont des **homophones** : *mer, mère, maire*."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec *cour, cours* ou *court*.",
+          "items": [
+            "Les élèves jouent dans la ___.",
+            "Le ___ de français commence.",
+            "Il ___ très vite.",
+            "Ce chemin est ___."
+          ],
+          "corrige": [
+            "Les élèves jouent dans la **cour**.",
+            "Le **cours** de français commence.",
+            "Il **court** très vite.",
+            "Ce chemin est **court**."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec le bon homonyme.",
+          "items": [
+            "Ma ___ fait un gâteau.",
+            "Nous allons ___ la plage.",
+            "Il y a un ___ dans le fruit.",
+            "Le ___ nous reçoit à la mairie.",
+            "La ___ est bleue."
+          ],
+          "corrige": [
+            "Ma **mère** fait un gâteau.",
+            "Nous allons **vers** la plage.",
+            "Il y a un **ver** dans le fruit.",
+            "Le **maire** nous reçoit à la mairie.",
+            "La **mer** est bleue."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris une phrase pour chaque mot.",
+          "items": [
+            "salle",
+            "sale",
+            "verre"
+          ],
+          "corrige": [
+            "Réponse possible : La **salle** de classe est propre.",
+            "Réponse possible : Mon cahier est **sale**.",
+            "Réponse possible : Je remplis mon **verre** d’eau."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Les **homonymes** se prononcent de la même façon mais n’ont pas le même sens.",
+            "Les **homophones** ont une écriture différente (*mer, mère, maire*) ; les **homographes** la même écriture.",
+            "Le **contexte** de la phrase indique le bon homonyme."
+          ]
+        }
+      ]
+    }
+  ]
+}

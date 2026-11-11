@@ -1,0 +1,278 @@
+{
+  "id": 30065,
+  "meta": {
+    "t": "Le conditionnel présent : exercices",
+    "k": "Exercices",
+    "n": "4e",
+    "m": "Conjugaison",
+    "img": "b",
+    "r": 4.8,
+    "ex": 65
+  },
+  "sections": [
+    {
+      "t": "Rappel de cours",
+      "blocs": [
+        {
+          "type": "def",
+          "label": "Conditionnel présent",
+          "text": "Le **conditionnel présent** se forme avec le **radical du futur** et les **terminaisons de l’imparfait** : **-rais, -rais, -rait, -rions, -riez, -raient**. Il exprime une **politesse**, un **souhait**, une **hypothèse** (*Si j’avais le temps, je lirais*)."
+        },
+        {
+          "type": "table",
+          "title": "Conjugaison",
+          "head": [
+            "Verbe",
+            "je",
+            "il",
+            "nous",
+            "ils"
+          ],
+          "rows": [
+            [
+              "chanter",
+              "chanterais",
+              "chanterait",
+              "chanterions",
+              "chanteraient"
+            ],
+            [
+              "finir",
+              "finirais",
+              "finirait",
+              "finirions",
+              "finiraient"
+            ],
+            [
+              "avoir",
+              "aurais",
+              "aurait",
+              "aurions",
+              "auraient"
+            ],
+            [
+              "être",
+              "serais",
+              "serait",
+              "serions",
+              "seraient"
+            ],
+            [
+              "aller",
+              "irais",
+              "irait",
+              "irions",
+              "iraient"
+            ],
+            [
+              "pouvoir",
+              "pourrais",
+              "pourrait",
+              "pourrions",
+              "pourraient"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Ne pas confondre",
+          "text": "Futur : *je chante**rai*** ; conditionnel : *je chante**rais***. Après **si + imparfait**, on emploie le **conditionnel** : *Si tu venais, je serais content.*"
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’échauffement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 1"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris « conditionnel » ou « futur ».",
+          "items": [
+            "Nous partirons demain.",
+            "Nous partirions volontiers.",
+            "Tu serais content.",
+            "Ils auront faim."
+          ],
+          "corrige": [
+            "**futur**",
+            "**conditionnel**",
+            "**conditionnel**",
+            "**futur**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 2"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle est la terminaison du conditionnel présent à la 3e personne du singulier ?",
+          "options": [
+            "-rait",
+            "-ra",
+            "-rais"
+          ],
+          "answer": 0,
+          "explain": "*il chante**rait*** : radical du futur + terminaison de l’imparfait **-ait**."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 3"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue au conditionnel présent (je).",
+          "items": [
+            "chanter",
+            "finir",
+            "avoir",
+            "être"
+          ],
+          "corrige": [
+            "je **chanterais**",
+            "je **finirais**",
+            "j’**aurais**",
+            "je **serais**"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’approfondissement",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 4"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Conjugue au conditionnel présent (nous).",
+          "items": [
+            "parler",
+            "aller",
+            "faire",
+            "pouvoir"
+          ],
+          "corrige": [
+            "nous **parlerions**",
+            "nous **irions**",
+            "nous **ferions**",
+            "nous **pourrions**"
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 5"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète au conditionnel présent.",
+          "items": [
+            "Si j’avais du temps, je (lire) un roman.",
+            "S’il pleuvait, nous (rester) à la maison.",
+            "Si tu venais, tu (voir) mon village.",
+            "Si elles étaient là, elles (chanter)."
+          ],
+          "corrige": [
+            "Si j’avais du temps, je **lirais** un roman.",
+            "S’il pleuvait, nous **resterions** à la maison.",
+            "Si tu venais, tu **verrais** mon village.",
+            "Si elles étaient là, elles **chanteraient**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 6"
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase exprime une demande polie ?",
+          "options": [
+            "Je veux de l’eau.",
+            "Je voudrais de l’eau, s’il vous plaît.",
+            "Je voulais de l’eau."
+          ],
+          "answer": 1,
+          "explain": "Le **conditionnel** (*je voudrais*) adoucit la demande."
+        },
+        {
+          "type": "h",
+          "text": "Exercice 7"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Transforme en demande polie avec le conditionnel.",
+          "items": [
+            "Donne-moi un cahier.",
+            "Je veux un verre d’eau.",
+            "Tu peux m’aider ?",
+            "Vous avez l’heure ?"
+          ],
+          "corrige": [
+            "Réponse possible : **Pourrais-tu** me donner un cahier ?",
+            "Je **voudrais** un verre d’eau.",
+            "**Pourrais-tu** m’aider ?",
+            "**Auriez-vous** l’heure ?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de synthèse",
+      "blocs": [
+        {
+          "type": "h",
+          "text": "Exercice 8"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec le verbe au conditionnel présent.",
+          "items": [
+            "Si j’étais riche, je (voyager) en avion.",
+            "Si tu travaillais, tu (réussir).",
+            "Si nous avions un jardin, nous (planter) du manioc.",
+            "Si vous aviez faim, vous (manger) du riz.",
+            "Si Awa savait, elle (venir)."
+          ],
+          "corrige": [
+            "Si j’étais riche, je **voyagerais** en avion.",
+            "Si tu travaillais, tu **réussirais**.",
+            "Si nous avions un jardin, nous **planterions** du manioc.",
+            "Si vous aviez faim, vous **mangeriez** du riz.",
+            "Si Awa savait, elle **viendrait**."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Exercice 9"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Écris trois souhaits en commençant par « J’aimerais… ».",
+          "items": [
+            "un souhait sur un voyage",
+            "un souhait sur l’école",
+            "un souhait sur la famille"
+          ],
+          "corrige": [
+            "Réponse possible : J’**aimerais** visiter Pointe-Noire.",
+            "Réponse possible : J’**aimerais** devenir maître.",
+            "Réponse possible : J’**aimerais** voir mes cousins."
+          ]
+        },
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Le **conditionnel présent** = **radical du futur** + terminaisons **-ais, -ais, -ait, -ions, -iez, -aient**.",
+            "Il exprime la **politesse**, le **souhait**, l’**hypothèse** : *si + imparfait → conditionnel*.",
+            "Ne pas confondre **futur** (*je chanterai*) et **conditionnel** (*je chanterais*)."
+          ]
+        }
+      ]
+    }
+  ]
+}
