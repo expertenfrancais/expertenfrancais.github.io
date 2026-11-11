@@ -15,7 +15,589 @@
    "blocs": [
     {
      "type": "p",
-     "text": "**Guide pédagogique du programme PPO, 4e.** [À compléter avec le contenu officiel du guide pédagogique.]"
+     "text": "**Guide pédagogique du programme PPO, 4e.** Il donne à l’enseignant les repères nécessaires pour rattacher chaque fiche pédagogique, cours ou évaluation à un **objectif général (O.G)** et à un **objectif spécifique (O.S)**, puis pour conduire la séance et l’évaluer."
+    },
+    {
+     "type": "p",
+     "text": "**Source :** *Programmes et guide pédagogique, Français, collège d’enseignement général*, INRAP, Brazzaville, programmes 2002, édition 2018. Ce document ne constitue pas un nouveau programme : il regroupe les programmes officiels et le guide méthodologique. Les contenus d’apprentissage (objets d’apprentissage, O.A) ne sont pas repris ici : ils figurent dans la répartition annuelle."
+    },
+    {
+     "type": "p",
+     "text": "**Rôle du guide officiel :** faciliter la compréhension et le maniement du programme ; orienter l’action pédagogique avec des stratégies d’enseignement ; aider à organiser les apprentissages pour atteindre les objectifs. Il est indicatif et n’interdit ni la créativité ni l’initiative de l’enseignant."
+    }
+   ]
+  },
+  {
+   "t": "Programme et profil de l’élève",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le français est une langue seconde, médium d’enseignement et langue de communication. Le programme s’articule autour de **cinq objectifs généraux**, subdivisés en objectifs spécifiques ; chaque O.S est un niveau d’atteinte de l’O.G. En 4e : **31 objectifs spécifiques**. Masse horaire : **6 h de français par semaine**."
+    },
+    {
+     "type": "p",
+     "text": "**Profil de l’apprenant à la fin du premier cycle :** communiquer en émetteur-récepteur ; maîtriser les quatre habiletés (écouter, lire, parler, écrire) ; réagir de manière conséquente aux messages ; réciter des poèmes de façon expressive ; lire avec aisance des supports variés ; orthographier correctement ; s’exprimer par écrit dans des situations de la vie ; appliquer la démarche de projet ; mener une enquête."
+    }
+   ]
+  },
+  {
+   "t": "Objectifs généraux",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Objectifs généraux, 4e",
+     "head": [
+      "O.G",
+      "Intitulé",
+      "Nombre d’O.S"
+     ],
+     "rows": [
+      [
+       "O.G 1",
+       "Comprendre des messages oraux",
+       "3"
+      ],
+      [
+       "O.G 2",
+       "Comprendre des supports écrits",
+       "4"
+      ],
+      [
+       "O.G 3",
+       "S’exprimer à l’oral",
+       "7"
+      ],
+      [
+       "O.G 4",
+       "S’exprimer par écrit",
+       "9"
+      ],
+      [
+       "O.G 5",
+       "Acquérir les compétences techniques",
+       "8"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Objectifs spécifiques",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "O.G 1 : Comprendre des messages oraux",
+     "head": [
+      "O.S",
+      "Objectif spécifique",
+      "Sous-discipline"
+     ],
+     "rows": [
+      [
+       "1.1",
+       "Identifier les composantes d’un message expressif",
+       "Expression"
+      ],
+      [
+       "1.2",
+       "Interpréter un message entendu",
+       "Expression"
+      ],
+      [
+       "1.3",
+       "Distinguer les extraits des genres littéraires",
+       "Lecture"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "O.G 2 : Comprendre des supports écrits",
+     "head": [
+      "O.S",
+      "Objectif spécifique",
+      "Sous-discipline"
+     ],
+     "rows": [
+      [
+       "2.1",
+       "Repérer les indices de sens contenus dans un support (texte ou iconographie)",
+       "Lecture"
+      ],
+      [
+       "2.2",
+       "Interpréter un texte lu, une iconographie ou un film visionné",
+       "Lecture"
+      ],
+      [
+       "2.3",
+       "Illustrer un texte lu, une iconographie observée ou un film visionné",
+       "Lecture"
+      ],
+      [
+       "2.4",
+       "Reformuler un texte",
+       "Lecture"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "O.G 3 : S’exprimer à l’oral",
+     "head": [
+      "O.S",
+      "Objectif spécifique",
+      "Sous-discipline"
+     ],
+     "rows": [
+      [
+       "3.1",
+       "Dire un texte",
+       "Lecture"
+      ],
+      [
+       "3.2",
+       "Présenter le compte-rendu d’une lecture ou d’un événement",
+       "Expression"
+      ],
+      [
+       "3.3",
+       "Émettre un avis sur un thème",
+       "Expression"
+      ],
+      [
+       "3.4",
+       "Exprimer les circonstances",
+       "Grammaire"
+      ],
+      [
+       "3.5",
+       "Établir des comparaisons",
+       "Grammaire"
+      ],
+      [
+       "3.6",
+       "Utiliser les figures de style",
+       "Vocabulaire/Grammaire"
+      ],
+      [
+       "3.7",
+       "Argumenter un point de vue",
+       "Expression"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "O.G 4 : S’exprimer par écrit",
+     "head": [
+      "O.S",
+      "Objectif spécifique",
+      "Sous-discipline"
+     ],
+     "rows": [
+      [
+       "4.1",
+       "Écrire les graphies difficiles, les homophones, les verbes dont les graphies présentent des difficultés, les participes présents et les adjectifs verbaux",
+       "Orthographe"
+      ],
+      [
+       "4.2",
+       "Appliquer les règles du pluriel des noms composés",
+       "Grammaire"
+      ],
+      [
+       "4.3",
+       "Appliquer les règles d’accord des adjectifs de couleur, des adjectifs numéraux, des participes passés des verbes pronominaux",
+       "Grammaire"
+      ],
+      [
+       "4.4",
+       "Appliquer les règles de concordance des temps",
+       "Grammaire"
+      ],
+      [
+       "4.5",
+       "Utiliser les formes verbales et les valeurs temporelles de l’indicatif",
+       "Conjugaison"
+      ],
+      [
+       "4.6",
+       "Utiliser les affixes pour créer les mots",
+       "Vocabulaire"
+      ],
+      [
+       "4.7",
+       "Utiliser les figures de style",
+       "Vocabulaire"
+      ],
+      [
+       "4.8",
+       "Utiliser dans leur contexte les paronymes",
+       "Vocabulaire"
+      ],
+      [
+       "4.9",
+       "Utiliser les règles de concordance des temps",
+       "Grammaire"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "O.G 5 : Acquérir les compétences techniques",
+     "head": [
+      "O.S",
+      "Objectif spécifique",
+      "Sous-discipline"
+     ],
+     "rows": [
+      [
+       "5.1",
+       "Participer à la création d’une œuvre collective",
+       "Expression"
+      ],
+      [
+       "5.2",
+       "Animer un débat",
+       "Expression"
+      ],
+      [
+       "5.3",
+       "Prendre des notes",
+       "Expression"
+      ],
+      [
+       "5.4",
+       "Produire un poème en vers libres",
+       "Expression"
+      ],
+      [
+       "5.5",
+       "Produire un rapport, un compte-rendu, une lettre, un dialogue, un journal intime ou différents types de texte",
+       "Expression"
+      ],
+      [
+       "5.6",
+       "Réaliser une enquête",
+       "Expression"
+      ],
+      [
+       "5.7",
+       "Étudier une œuvre romanesque ou dramatique",
+       "Lecture"
+      ],
+      [
+       "5.8",
+       "Résoudre les problèmes de la vie courante",
+       "Expression"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Commentaire des objectifs généraux",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Commentaire et critères d’évaluation",
+     "head": [
+      "O.G",
+      "Commentaire",
+      "Ce que l’enseignant apprécie"
+     ],
+     "rows": [
+      [
+       "O.G 1",
+       "Saisir le sens global d’un message entendu, puis l’interpréter (nuances, tonalités, intention de communication, destinateur, destinataire). L’élève prouve sa compréhension par une attitude conséquente ou un énoncé adéquat. L’enseignant organise la séance : indices de sens, de forme et de structure, puis acte de parole (reconstitution, reformulation, réponse) ou illustration.",
+       "Capacité d’identifier et d’écouter un message oral ; de manifester sa compréhension par l’acte de parole ; d’interpréter une illustration."
+      ],
+      [
+       "O.G 2",
+       "Donner du sens aux signes du code écrit : découvrir le ton et les caractéristiques formelles (genre, type, courant, typographie, situation d’énonciation, paratexte, lexique). L’enseignant amène l’élève des indices de sens, de forme et de structure à l’exécution d’activités (réponses aux questions, dramatisation, reconstitution, illustration, reformulation, point de vue motivé).",
+       "Capacité de découvrir des indices de sens, de forme et de structure d’un support écrit ; d’exécuter des activités après la compréhension d’un message lu."
+      ],
+      [
+       "O.G 3",
+       "Échanger avec autrui de façon stimulée, adaptée au contexte et à l’interlocuteur. À partir de supports visuels ou auditifs, l’élève reproduit et produit des énoncés en respectant les marques du code oral, exprime ses sentiments et donne son point de vue. Elle dépend de la créativité de l’enseignant et des efforts de l’élève.",
+       "Capacité de reproduire et produire des énoncés en respectant le code oral, les circonstances et l’interlocuteur ; d’exprimer ses sentiments et un point de vue."
+      ],
+      [
+       "O.G 4",
+       "Aboutir à la production d’un texte : l’enseignant renforce par des activités variées les compétences orthographiques, grammaticales et lexicales ; l’élève respecte ces règles pour que son texte ait du sens et soit conforme à un genre et à un type précis.",
+       "Capacité de produire un texte en respectant les règles orthographiques, grammaticales et lexicales, le genre et le type de texte."
+      ],
+      [
+       "O.G 5",
+       "Réinvestir les acquis par une pratique personnelle : rechercher et utiliser des informations pour réaliser un travail ou résoudre des problèmes de la vie quotidienne, avec les ressources disponibles (bibliothèques, CDI, ouvrages de référence, enquêtes, interviews).",
+       "Capacité de réaliser un travail donné ; de résoudre des problèmes de vie quotidienne ; d’exploiter des ressources variées."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Démarches didactiques",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À tous les niveaux du premier cycle, l’enseignement du français repose sur des **activités effectuées par les élèves**. Chaque sous-discipline suit une démarche selon qu’elle relève des activités de langue ou des activités langagières."
+    },
+    {
+     "type": "table",
+     "title": "Deux familles d’activités",
+     "head": [
+      "Famille",
+      "Sous-disciplines"
+     ],
+     "rows": [
+      [
+       "Activités de langue",
+       "Grammaire, vocabulaire, orthographe grammaticale, orthographe d’usage, conjugaison"
+      ],
+      [
+       "Activités langagières",
+       "Lecture communication, lecture compréhension, expression écrite (rédaction), expression orale"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Dans les programmes, les objets d’apprentissage sont marqués par des puces lorsqu’il y en a plusieurs ; les tirets intègrent l’objet d’apprentissage qui précède."
+    }
+   ]
+  },
+  {
+   "t": "Démarches de séance",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Repères tirés du guide officiel. Le guide les décrit pour des O.S dont la numérotation varie selon le niveau : elles servent de modèle de déroulement pour les O.S de même nature."
+    },
+    {
+     "type": "table",
+     "title": "Déroulement type par activité",
+     "head": [
+      "Activité",
+      "Professeur (préparation et déroulement)",
+      "Élèves",
+      "Mode d’évaluation"
+     ],
+     "rows": [
+      [
+       "Écouter un message oral (O.G 1)",
+       "Préparer un message écrit ou sonore. Formuler la consigne, lire ou faire écouter le message, faire identifier les indices de sens par questions orales, faire adopter l’attitude requise ou produire l’énoncé adéquat.",
+       "Suivent la consigne, répondent aux questions, adoptent le comportement voulu ou formulent la réponse.",
+       "Oral"
+      ],
+      [
+       "Illustrer un message oral (O.G 1)",
+       "Choisir le message, expliquer l’intérêt de la schématisation, faire relever les jalons (départ, arrivée, passages obligatoires), inciter à la représentation graphique, guider les groupes, faire une correction collective.",
+       "Écoutent, relèvent les jalons, tracent l’itinéraire ou le schéma, participent à la correction.",
+       "Oral, puis écrit"
+      ],
+      [
+       "Lire un support écrit (O.G 2)",
+       "Préparer : choisir l’extrait, repérer les difficultés lexicales, syntaxiques ou culturelles. Dérouler : consigne, lecture-compréhension, questionnement (prise d’indices, construction du sens, détails pour la synthèse), puis discussion socioculturelle.",
+       "Écoutent livres fermés, lisent des yeux, répondent (questions, vrai ou faux, QCM), cherchent les détails, reformulent la synthèse, discutent.",
+       "Oral et écrit"
+      ],
+      [
+       "Lire une iconographie (O.G 2)",
+       "Quatre approches : intuitive (impression), iconique (inventaire de ce qu’on voit), iconographique (ce qu’évoque le document), synthèse (bref résumé). Présenter le document, donner la consigne et les pistes de déchiffrage, guider la synthèse puis le résumé.",
+       "Observent, expriment leur ressenti, déchiffrent les significations, font la synthèse, participent au résumé.",
+       "Oral, puis écrit"
+      ],
+      [
+       "Exprimer un point de vue (O.G 3)",
+       "Proposer un thème (par exemple tiré d’une œuvre étudiée), faire chercher et classer les arguments en pour et contre, demander le point de vue personnel et les sentiments.",
+       "Présentent 2 ou 3 arguments, expriment leur point de vue et leurs sentiments avec les mots appropriés.",
+       "Oral"
+      ],
+      [
+       "Appliquer une règle d’accord ou de grammaire (O.G 4)",
+       "Proposer 3 ou 4 phrases, faire ressortir les constituants, faire observer les accords (avec qui s’accorde tel constituant), proposer des listes à associer, faire produire des phrases en appliquant la règle.",
+       "Observent, relèvent les accords, associent par des flèches, produisent des phrases.",
+       "Oral, puis écrit"
+      ],
+      [
+       "Produire un texte (O.G 4 et 5)",
+       "Déterminer le genre de texte (lettre, poème, BD…), faire découvrir ses caractéristiques, proposer une structure ou un canevas, faire produire un texte sur ce modèle en tenant compte du destinataire et de l’intention de communication.",
+       "Observent les consignes, découvrent les caractéristiques du genre, produisent le texte.",
+       "Écrit"
+      ],
+      [
+       "Réaliser une enquête (O.G 5)",
+       "Choisir un thème d’actualité, faire chercher les sources (lieux, documents, personnes), rédiger un questionnaire pour les personnes-ressources, faire procéder au dépouillement puis exploiter les résultats.",
+       "Cherchent les sources, rédigent le questionnaire, rapportent les informations, dépouillent et exploitent.",
+       "Écrit, oral et écrit"
+      ],
+      [
+       "Étudier une œuvre (O.G 5)",
+       "Proposer une œuvre du programme à lire individuellement dans un délai fixé (étude en classe sur environ quinze jours). Proposer un questionnaire (auteur, œuvre, genre, personnages, thèmes), choisir les extraits à expliquer, faire préparer des exposés.",
+       "Lisent l’œuvre, cherchent les informations sur l’auteur et l’œuvre, étudient en classe actions, figures de style et vocabulaire, présentent un devoir écrit ou un exposé.",
+       "Écrit et oral"
+      ],
+      [
+       "Résoudre un problème (O.G 5)",
+       "Préparer un support contenant la situation-problème. Faire identifier et définir le problème, fixer les critères de vérification, faire émettre des hypothèses, les faire vérifier, élaborer une conclusion, suggérer les modalités d’application.",
+       "Identifient et définissent le problème, émettent et vérifient des hypothèses, élaborent et appliquent la conclusion.",
+       "Oral ou écrit"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les activités d’évaluation reposent sur des exercices oraux, écrits ou pratiques, dans les domaines **cognitif, psychomoteur et socio-affectif**."
+    },
+    {
+     "type": "table",
+     "title": "Instruments d’évaluation",
+     "head": [
+      "Instrument",
+      "Instrument",
+      "Instrument",
+      "Instrument"
+     ],
+     "rows": [
+      [
+       "QCM",
+       "Alternance vrai ou faux",
+       "Appariement",
+       "Questions à trous"
+      ],
+      [
+       "Questions à réponses courtes",
+       "Questions à réponses construites",
+       "Réarrangement",
+       "Résolution de problèmes"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Critères d’évaluation",
+     "head": [
+      "Code",
+      "Domaine",
+      "Critère"
+     ],
+     "rows": [
+      [
+       "C1",
+       "Compréhension des messages oraux",
+       "Identifier et écouter un message ; manifester sa compréhension par l’acte de parole ; interpréter une illustration."
+      ],
+      [
+       "C2",
+       "Compréhension des messages écrits",
+       "Découvrir des indices de sens, de forme et de structure ; exécuter des activités après la lecture (réponses, dramatisation, reconstitution, illustration, reformulation)."
+      ],
+      [
+       "C3",
+       "Expression orale",
+       "Reproduire et produire des énoncés selon le code oral, les circonstances et l’interlocuteur ; exprimer ses sentiments et donner un point de vue."
+      ],
+      [
+       "C4",
+       "Expression écrite",
+       "Produire un texte conforme à un genre et à un type, en respectant les règles orthographiques, grammaticales et lexicales."
+      ],
+      [
+       "C5",
+       "Compétences techniques",
+       "Réaliser un travail donné ; résoudre des problèmes de vie quotidienne ; exploiter des ressources (bibliothèques, CDI, ouvrages, enquêtes, interviews)."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Formes d’évaluation prévues par le décret de 1996 : interrogations orales et écrites, devoirs à domicile, devoirs surveillés, devoirs départementaux, compositions trimestrielles ou semestrielles, examens blancs, examens de fin de cycle et de passage."
+    }
+   ]
+  },
+  {
+   "t": "Modèle de fiche pédagogique",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Structure des fiches pédagogiques proposées en annexe du guide officiel."
+    },
+    {
+     "type": "table",
+     "title": "Rubriques d’une fiche",
+     "head": [
+      "Rubrique",
+      "Contenu attendu"
+     ],
+     "rows": [
+      [
+       "En-tête",
+       "Classe ; discipline : Français ; sous-discipline ; thème ; titre ; O.G ; O.S ; O.A (objet d’apprentissage) ; effectif (G, F, T) ; date ; durée (50 min ou 1 h) ; matériel didactique ; documentation (programme, manuels)."
+      ],
+      [
+       "Tableau",
+       "Six colonnes : objectifs opérationnels ; stratégies d’enseignement ; activités d’apprentissage ; évaluation ; temps ; observations."
+      ],
+      [
+       "Objectif opérationnel",
+       "Formulé à partir d’un support : « à partir de…, l’élève doit être capable de… » avec un critère de réussite mesurable (par exemple « au moins 2 modes sur 3 »)."
+      ],
+      [
+       "Étapes de la séance",
+       "I. Motivation (susciter l’intérêt) ; II. Contrat pédagogique (énoncer l’objectif à l’élève) ; III. Contrôle des prérequis (questions-réponses) ; IV. Acquisitions nouvelles (imprégnation, fixation, synthèse) ; Évaluation (exercice, correction individuelle et collective) ; Discussion socioculturelle quand le support s’y prête."
+      ],
+      [
+       "Chaque étape précise",
+       "La technique (exposé, questions-réponses, observation, débat), la modalité de travail (groupe classe, travail individuel, groupes) et la consigne ; en face, les activités des élèves et le temps."
+      ],
+      [
+       "Page de l’apprenant",
+       "Reprend ce que l’élève écrit : étapes, exercices et résumé « Je retiens » ou règle."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Manuels et œuvre intégrale",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Au programme en 4e",
+     "head": [
+      "Rubrique",
+      "Référence"
+     ],
+     "rows": [
+      [
+       "Manuels",
+       "*Futur simple 4e* (Nathan) ; *Français 4e*, Apostrophe (Hachette livre international, 2014) ; *Meilleur en français* (Edicef) ; Dictionnaire universel."
+      ],
+      [
+       "Œuvre intégrale",
+       "*Les derniers de Dinga*, Hubert Gadoula, Éditions MERI (écrit « Le dernier de Dinga » et « Gadoua » en annexe)."
+      ],
+      [
+       "Bibliographie",
+       "Conjugaison : J. Bertrand, *Dictionnaire pratique de conjugaison* (Nathan) ; *Le Bescherelle 1* (Hatier). Grammaire : IPAM, *Grammaire du français* (4e, 3e), Edicef. Orthographe : J. et J. Guion, *Apprendre l’orthographe* (4e), Sermap-Hatier."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Points à vérifier",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les orthographes de l’œuvre intégrale et du nom de l’auteur sont relevées telles qu’elles figurent dans le document officiel : à confirmer sur l’exemplaire."
     }
    ]
   }
