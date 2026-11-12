@@ -206,7 +206,11 @@ if("serviceWorker" in navigator&&(location.protocol==="https:"||location.hostnam
 var SUPABASE_URL="https://hkwqdbsxsjtdtxkdmcke.supabase.co";
 var SUPABASE_ANON_KEY="sb_publishable_iQOPWTcMICWDqTUSXkW8ig_y0QKWPZD";
 var SB_ON=!!(SUPABASE_URL&&SUPABASE_ANON_KEY);
-try{if(!SB_ON){document.getElementById("gor").style.display="none";document.getElementById("gg").style.display="none"}}catch(e){}
+/* Application Android (WebView d’un APK) : Google refuse la connexion dans une fenêtre intégrée et le retour se ferait dans Chrome, pas dans l’application. On y masque le bouton Google. */
+var IN_WEBVIEW=(function(){try{var ua=navigator.userAgent||"";return /; wv\)/.test(ua)||(/Android/.test(ua)&&/Version\/\d+\.\d+/.test(ua)&&/Chrome\//.test(ua)&&!/OPR\/|EdgA|SamsungBrowser/.test(ua))}catch(e){return false}})();
+try{if(!SB_ON||IN_WEBVIEW){document.getElementById("gg").style.display="none";if(!SB_ON)document.getElementById("gor").style.display="none";else document.getElementById("gor").innerHTML="<span style=\"text-align:center;line-height:1.4\">Connexion Google : ouvrez le site dans Chrome.<br>Dans l’application, utilisez votre e-mail.</span>"}}catch(e){}
+/* Application Median avec le plugin Social Login : on réaffiche le bouton Google (connexion native, sans quitter l’application). */
+if(IN_WEBVIEW&&SB_ON)window.addEventListener("load",function(){setTimeout(function(){try{if(window.median&&median.socialLogin&&median.socialLogin.google){document.getElementById("gg").style.display="";document.getElementById("gor").innerHTML="<span>ou</span>"}}catch(e){}},900)});
 var ROLES_OK=["enseignant","eleve","particulier"];
 function sbFetch(path,method,body,token){
   var h={"apikey":SUPABASE_ANON_KEY,"Content-Type":"application/json"};
@@ -374,6 +378,7 @@ function gFail(m){var b=$("gg");if(b){b.disabled=false;b.classList.remove("load"
 $("gg").onclick=function(){
   if(!SB_ON)return toast("Connexion Google indisponible");
   if(mode==="s"&&!$("cy").value){var sh=$("sheet");sh.classList.remove("shake");void sh.offsetWidth;sh.classList.add("shake");vib([30,40,30]);return toast("Choisissez d’abord votre cycle")}
+  if(IN_WEBVIEW)return medianGoogle();
   try{localStorage.setItem("g_prof",JSON.stringify(mode==="s"?{role:role,cycle:$("cy").value,next:HOME_URL}:{next:HOME_URL}))}catch(e){}
   $("gg").disabled=true;vib(15);
   location.href=SUPABASE_URL+"/auth/v1/authorize?provider=google&redirect_to="+encodeURIComponent(location.origin+location.pathname)};
@@ -383,7 +388,10 @@ $("gg").onclick=function(){
   if(!q.get("access_token")&&!err)return;
   try{history.replaceState(null,"",location.pathname)}catch(e){}
   if(err&&!q.get("access_token"))return toast("Connexion Google refusée ou annulée");
-  var tok=q.get("access_token"),ref=q.get("refresh_token"),exp=+q.get("expires_in")||3600,pend={};
+  gSession(q.get("access_token"),q.get("refresh_token"),+q.get("expires_in")||3600)})();
+/* Suite commune (retour Google dans Chrome, ou jeton Google reçu de l’application Median) : lit le compte, puis demande le profil si besoin. */
+function gSession(tok,ref,exp){
+  var pend={};
   try{pend=JSON.parse(localStorage.getItem("g_prof")||"{}")}catch(e){}
   toast("Connexion en cours…");
   function nameOf(u){var m=u.user_metadata||{};return m.username||m.full_name||m.name||(u.email||"").split("@")[0]||"Utilisateur"}
@@ -404,7 +412,19 @@ $("gg").onclick=function(){
       $("perr").textContent="";var b=$("pgo");b.classList.add("load");b.disabled=true;
       save(u,pr,sel.value).catch(function(){b.classList.remove("load");b.disabled=false;$("perr").textContent="Enregistrement impossible. Réessayez."})}
   }).catch(function(e){gFail(sbMsg(e))})
-})();
+}
+/* Application Median : connexion Google native (plugin Social Login), puis échange du jeton Google contre une session Supabase. */
+function medianGoogle(){
+  var g=window.median&&median.socialLogin&&median.socialLogin.google;
+  if(!g)return toast("Connexion Google non activée dans l’application. Utilisez votre e-mail.");
+  $("gg").disabled=true;
+  try{localStorage.setItem("g_prof",JSON.stringify(mode==="s"?{role:role,cycle:$("cy").value,next:HOME_URL}:{next:HOME_URL}))}catch(e){}
+  g.login({callback:function(r){
+    var t=r&&(r.idToken||r.credential);
+    if(!t){$("gg").disabled=false;return toast(r&&r.error?"Connexion Google impossible : "+r.error:"Connexion Google annulée")}
+    sbFetch("/auth/v1/token?grant_type=id_token","POST",{provider:"google",id_token:t}).then(function(j){
+      $("gg").disabled=false;gSession(j.access_token,j.refresh_token,j.expires_in||3600)
+    }).catch(function(e){gFail(e&&e.message&&!/^Erreur$/.test(e.message)?e.message:sbMsg(e))})}})}
 
 </script>
 </body>
