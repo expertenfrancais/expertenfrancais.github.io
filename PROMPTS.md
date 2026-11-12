@@ -36,7 +36,10 @@ Fichier à modifier à part ça : sw.js (VERSION seulement).
 Ne touche à rien d'autre, n'ouvre pas data.js.
 
 Contenu : cours complet et adapté au niveau, en plusieurs parties (la partie 1 gratuite), avec définitions, exemples, exercices et un « À retenir ». Respecte les règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0). Si un cours sur ce sujet et ce niveau existe déjà, dis-le-moi au lieu d'en créer un second.
+En 6e et en 5e : ajoute dans meta la clé "mf" avec le code du savoir (MF6.x.y ou MF5.x.y) pris dans la répartition (programme-1 ou programme-3), comme l'explique GUIDE-IA.md ; sans correspondance claire, ne la mets pas.
 ```
+
+**Plusieurs cours à la fois** (lot de 2, 10, 20 cours manquants d'un niveau) : utilisez le prompt 19 plutôt que de répéter celui-ci.
 
 **Variante deux niveaux** (ex. 4e et 3e) : ajoutez à la fin du prompt ci-dessus :
 
@@ -280,4 +283,25 @@ Fichiers à lire : PROJET.md (section « Abonnement par codes d'activation » : 
 État actuel : trois onglets. « Codes » (générer, lister, noter, annuler) ; « Vue d'ensemble » (pages publiées, version du site lue dans sw.js, répartition par type, niveau et matière, derniers cours, prochain numéro libre par type) ; « Doublons et santé » (titres, numéros et fichiers en double ; bouton « Vérifier les fichiers »). Les deux derniers sont calculés depuis ALLDOCS de data.js : ne change pas le format du catalogue. L'accès est réservé aux comptes de la table admins ; la page affiche « Vérification… », attend Supabase au plus 15 s, donne la raison précise d'un échec et propose « Réessayer » : conserve ce comportement.
 Contraintes : clé publique seulement, jamais la clé service_role. Pas de lien vers admin.html depuis les menus. Toute nouvelle table a des règles de sécurité (RLS) réservées aux administrateurs, avec un script supabase/NN-nom.sql relançable sans risque ; dis-moi exactement quoi coller et où cliquer dans Supabase (je suis sur téléphone). Ne touche pas aux codes déjà générés ni aux tarifs (identiques dans PLANS, TARIFS et public.formule()).
 Avant de commencer, propose-moi ton plan en quelques lignes et attends mon accord si la tâche ajoute une table Supabase.
+```
+
+---
+
+## 19. ANALYSER LES MANQUES ET AJOUTER UN LOT DE COURS
+
+```
+Tâche : analyser les cours publiés par rapport à la répartition annuelle, puis ajouter [N] cours manquants.
+Niveau : [6e / 5e / 4e / 3e] — Programme : [APS pour la 6e et la 5e, PPO pour la 4e et la 3e].
+Sujets (facultatif) : [laisse vide pour que tu choisisses les premiers sujets manquants dans l'ordre de la répartition / ou donne ta liste / ou une matière à privilégier].
+
+Fichiers à lire : PROJET.md, GUIDE-IA.md (tâche B), contenu/SPEC.md, contenu/_exemple.json, et la répartition du niveau : contenu/programmes/<cycle>/programme-<pg>.json (1 = APS 6e, 3 = APS 5e, 5 = PPO 4e, 7 = PPO 3e ; GUIDE-PROGRAMMES.md donne le tableau). Rien d'autre.
+
+Analyse, sans ouvrir les cours un par un : écris un petit script qui affiche seulement l'id, la matière, le titre et le code mf des cours du niveau (clé meta de contenu/cours/<cycle>/*.json ; en 6e et 5e, les codes mf déjà posés permettent de comparer directement avec les codes de la répartition) et les objets d'apprentissage de la répartition. Compare et donne-moi la liste courte des notions sans cours. N'ouvre jamais data.js ni les pages générées.
+
+Choix : prends les [N] premières notions manquantes (ou celles que je te donne). Pas de doublon avec un cours existant du même niveau. Si le sujet existe déjà pour un autre niveau, crée quand même la version adaptée au mien, sans copier-coller. Varie les matières.
+
+Fichiers à créer : [N] fichiers contenu/cours/<cycle>/<id>.json, id consécutifs à partir du plus grand id + 1 (ls contenu/cours/*/ | sort -n | tail -3). Chaque cours : clé meta.mf (code MF de la répartition, en 6e et en 5e) et 5 ou 6 parties (partie 1 gratuite) avec introduction (définition, exemples, quiz), notions principales en tableaux, pièges, exercices corrigés, « À retenir » avec un quiz. Règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0).
+Fichier à modifier à part ça : sw.js (VERSION seulement), PROJET.md (dernier id, liste des cours ajoutés).
+
+Fin : generer-pages, valider-contenu (0 erreur), archive complète et archive des seuls fichiers modifiés. Dis-moi en une phrase ce que tu as rédigé de mémoire et que je dois relire (règles de grammaire, exemples).
 ```

@@ -92,9 +92,11 @@ box-shadow:0 10px 20px rgba(130,100,220,.5),inset 0 2px 4px rgba(255,255,255,.4)
 @media(max-height:560px){.logo{display:none}.hero h1{margin-top:0}}
 @media(max-width:340px){.soc{gap:12px}.field{padding:0 14px;gap:8px}}
 .roles{display:flex;gap:8px;padding-bottom:12px}
-.rolebtn{flex:1;min-width:0;height:46px;padding:0 4px;border:0;border-radius:24px;background:var(--field);font:inherit;font-weight:600;font-size:13px;line-height:1.15;color:var(--sub);cursor:pointer;transition:background .2s,color .2s}
-.rolebtn.on{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff;box-shadow:0 6px 12px rgba(130,100,220,.4)}
+.rolebtn,.prbtn{flex:1;min-width:0;height:46px;padding:0 4px;border:0;border-radius:24px;background:var(--field);font:inherit;font-weight:600;font-size:13px;line-height:1.15;color:var(--sub);cursor:pointer;transition:background .2s,color .2s}
+.rolebtn.on,.prbtn.on{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff;box-shadow:0 6px 12px rgba(130,100,220,.4)}
 .view{display:flex;flex-direction:column;flex:1}
+.gbtn{width:100%;height:clamp(46px,6.8vh,54px);border:2px solid #dcd3f2;border-radius:28px;background:#fff;font:inherit;font-weight:600;font-size:15.5px;color:#3c4043;display:flex;align-items:center;justify-content:center;gap:12px;cursor:pointer;box-shadow:0 6px 14px rgba(100,80,160,.12);transition:transform .12s}
+.gbtn:active{transform:scale(.97)}.gbtn:disabled{opacity:.7}
 [hidden]{display:none!important}
 .back{align-self:flex-start;border:0;background:none;font:inherit;font-size:13.5px;font-weight:600;color:var(--link);padding:4px 2px;margin:0 0 8px;display:flex;align-items:center;gap:6px;cursor:pointer}
 .lead{font-size:14px;line-height:1.5;color:var(--sub);margin:2px 4px 16px}
@@ -145,9 +147,19 @@ box-shadow:0 10px 20px rgba(130,100,220,.5),inset 0 2px 4px rgba(255,255,255,.4)
       <button class="eye" type="button" id="eye" aria-label="Afficher le mot de passe"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#6b6490" stroke-width="2" stroke-linecap="round"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/><path id="sl" d="M4 4l16 16"/></svg></button></div>
     <a class="forgot" href="#forgot" id="fg">Mot de passe oublié&nbsp;?</a>
     <button class="btn" id="go" type="button"><span class="spin"></span><span id="gt">Se connecter</span></button>
+    <div class="or" id="gor"><span>ou</span></div>
+    <button class="gbtn" id="gg" type="button"><svg width="22" height="22" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.6l6.8-6.8C35.8 2.4 30.3 0 24 0 14.6 0 6.5 5.4 2.6 13.2l7.9 6.1C12.4 13.6 17.7 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v9h12.7c-.6 3-2.2 5.5-4.7 7.2l7.6 5.9c4.4-4.1 6.9-10.1 6.9-17.6z"/><path fill="#FBBC05" d="M10.5 28.7c-.5-1.4-.8-3-.8-4.7s.3-3.200.8-4.700l-7.900-6.100C.9 16.500 0 20.100 0 24s.9 7.500 2.600 10.800l7.900-6.100z"/><path fill="#34A853" d="M24 48c6.500 0 12-2.100 15.900-5.800l-7.600-5.900c-2.100 1.400-4.900 2.300-8.300 2.300-6.300 0-11.600-4.100-13.500-9.800l-7.900 6.100C6.500 42.600 14.600 48 24 48z"/></svg><span id="ggt">Continuer avec Google</span></button>
     <p class="foot"><span id="ft">Pas encore de compte&nbsp;?</span> <a href="#" id="sw">S’inscrire</a></p>
+    <p class="foot" style="margin:0;padding-top:6px;font-size:12px"><a href="confidentialite.html" style="font-weight:600">Confidentialité</a> · <a href="conditions.html" style="font-weight:600">Conditions d’utilisation</a></p>
     </div>
 
+    <div class="view" id="profView" hidden>
+    <p class="lead">Dites-nous qui vous êtes pour afficher les bons contenus.</p>
+    <div class="roles" role="radiogroup" aria-label="Type de profil"><button type="button" class="prbtn on" data-r="eleve" role="radio" aria-checked="true">Élève / Étudiant</button><button type="button" class="prbtn" data-r="enseignant" role="radio" aria-checked="false">Enseignant</button><button type="button" class="prbtn" data-r="particulier" role="radio" aria-checked="false">Particulier</button></div>
+    <div class="field"><svg width="22" height="22" viewBox="0 0 24 24" fill="#8c6fe0"><path d="M12 3L1 9l11 6 9-4.9V17h2V9zM5 13.2V17c0 1.7 3.1 3 7 3s7-1.300 7-3v-3.800l-7 3.800z"/></svg><select id="pcy" aria-label="Cycle"></select></div>
+    <p class="err" id="perr" role="alert"></p>
+    <button class="btn" id="pgo" type="button"><span class="spin"></span><span>Continuer</span></button>
+    </div>
     <div class="view" id="resetView" hidden>
       <button class="back" type="button" id="rback"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>Retour à la connexion</button>
 
@@ -194,6 +206,7 @@ if("serviceWorker" in navigator&&(location.protocol==="https:"||location.hostnam
 var SUPABASE_URL="https://hkwqdbsxsjtdtxkdmcke.supabase.co";
 var SUPABASE_ANON_KEY="sb_publishable_iQOPWTcMICWDqTUSXkW8ig_y0QKWPZD";
 var SB_ON=!!(SUPABASE_URL&&SUPABASE_ANON_KEY);
+try{if(!SB_ON){document.getElementById("gor").style.display="none";document.getElementById("gg").style.display="none"}}catch(e){}
 var ROLES_OK=["enseignant","eleve","particulier"];
 function sbFetch(path,method,body,token){
   var h={"apikey":SUPABASE_ANON_KEY,"Content-Type":"application/json"};
@@ -351,6 +364,48 @@ function realGo(){
     setMode("l");$("us").value=em;$("pw").value="";toast("Compte créé : confirmez votre e-mail, puis connectez-vous")
   }).catch(function(e){b.classList.remove("load");b.disabled=false;bad(sbMsg(e))})}
 $("go").onclick=function(){SB_ON?realGo():demoGo()};
+
+/* ===== Connexion avec Google (via Supabase) =====
+   Le bouton envoie vers Google ; au retour, Supabase redirige ici avec la session dans l’adresse (#access_token=…).
+   Pour un nouveau compte Google, le profil (type et cycle) est demandé une seule fois. Clé locale temporaire : g_prof. */
+function gNext(){var n="";try{n=(JSON.parse(localStorage.getItem("g_prof")||"{}").next)||""}catch(e){}return /^(cours\/([a-z]+\/)?)?[a-z0-9-]+\.html$/.test(n)?n:HOME_URL}
+function gDone(j){try{sbSave(j);var nx=gNext();localStorage.removeItem("g_prof");toast("Connexion réussie ✓");setTimeout(function(){location.href=nx},500)}catch(e){toast("Erreur d’enregistrement de la session")}}
+function gFail(m){var b=$("gg");if(b){b.disabled=false;b.classList.remove("load")}toast(m||"Connexion Google impossible. Réessayez.")}
+$("gg").onclick=function(){
+  if(!SB_ON)return toast("Connexion Google indisponible");
+  if(mode==="s"&&!$("cy").value){var sh=$("sheet");sh.classList.remove("shake");void sh.offsetWidth;sh.classList.add("shake");vib([30,40,30]);return toast("Choisissez d’abord votre cycle")}
+  try{localStorage.setItem("g_prof",JSON.stringify(mode==="s"?{role:role,cycle:$("cy").value,next:HOME_URL}:{next:HOME_URL}))}catch(e){}
+  $("gg").disabled=true;vib(15);
+  location.href=SUPABASE_URL+"/auth/v1/authorize?provider=google&redirect_to="+encodeURIComponent(location.origin+location.pathname)};
+(function(){
+  var h=location.hash.replace(/^#/,""),q=new URLSearchParams(h||location.search.replace(/^\?/,""));
+  var err=q.get("error_description")||q.get("error");
+  if(!q.get("access_token")&&!err)return;
+  try{history.replaceState(null,"",location.pathname)}catch(e){}
+  if(err&&!q.get("access_token"))return toast("Connexion Google refusée ou annulée");
+  var tok=q.get("access_token"),ref=q.get("refresh_token"),exp=+q.get("expires_in")||3600,pend={};
+  try{pend=JSON.parse(localStorage.getItem("g_prof")||"{}")}catch(e){}
+  toast("Connexion en cours…");
+  function nameOf(u){var m=u.user_metadata||{};return m.username||m.full_name||m.name||(u.email||"").split("@")[0]||"Utilisateur"}
+  function finish(u){gDone({access_token:tok,refresh_token:ref,expires_in:exp,user:u})}
+  function save(u,role,cycle){
+    return sbFetch("/auth/v1/user","PUT",{data:{username:nameOf(u),role:role,cycle:cycle}},tok).then(finish)}
+  sbFetch("/auth/v1/user","GET",null,tok).then(function(u){
+    var m=u.user_metadata||{};u.user_metadata=m;if(!m.username)m.username=nameOf(u);
+    if(m.role&&m.cycle)return finish(u);
+    if(ROLES_OK.indexOf(pend.role)>-1&&pend.cycle)return save(u,pend.role,pend.cycle);
+    /* nouveau compte sans profil : on le demande une fois */
+    var sel=$("pcy"),src=$("cy");sel.innerHTML=src.innerHTML;sel.options[0].textContent="Choisir mon cycle…";
+    var pr="eleve";
+    document.querySelectorAll(".prbtn").forEach(function(b){b.onclick=function(){pr=b.dataset.r;document.querySelectorAll(".prbtn").forEach(function(x){var on=x===b;x.classList.toggle("on",on);x.setAttribute("aria-checked",on)});vib(8)}});
+    $("authView").hidden=true;$("profView").hidden=false;$("t").textContent="Un dernier pas";$("st").textContent="Bienvenue, "+nameOf(u)+"\u00a0!";
+    $("pgo").onclick=function(){
+      if(!sel.value){$("perr").textContent="Choisissez votre cycle.";return}
+      $("perr").textContent="";var b=$("pgo");b.classList.add("load");b.disabled=true;
+      save(u,pr,sel.value).catch(function(){b.classList.remove("load");b.disabled=false;$("perr").textContent="Enregistrement impossible. Réessayez."})}
+  }).catch(function(e){gFail(sbMsg(e))})
+})();
+
 </script>
 </body>
 </html>
