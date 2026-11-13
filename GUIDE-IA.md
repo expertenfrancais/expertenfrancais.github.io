@@ -49,6 +49,7 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 Fichiers à toucher : **uniquement `contenu/cours/<cycle>/<id>.json`** (l'`id` est le numéro du cours, écrit dans le fichier).
 1. Lire `contenu/SPEC.md` (et `contenu/_exemple.json` si besoin).
 2. Remplir le tableau `blocs` de chaque partie dans `contenu/cours/<cycle>/<id>.json`. La partie 1 est gratuite, les suivantes sont payantes.
+**Règle sur le nombre de parties d’un cours : il n’y a aucune limite fixe (ni minimum, ni maximum).** Il dépend de la complexité et de la difficulté de la notion : plus elle est difficile, riche en cas particuliers ou en pièges, plus le cours a de parties et de contenu (notions, tableaux, pièges, exercices progressifs, corrigés). Un cours court sur une notion complexe doit être enrichi.
 3. Ne pas changer le nombre ni les titres (`"t"`) des parties, sauf demande explicite. Si on les change : le sommaire de la page du cours est recopié automatiquement depuis ces titres ; il suffit de relancer `node outils/generer-pages.js https://expertenfrancais.github.io`.
 4. Vérifier : `node outils/valider-contenu.js` (doit afficher 0 erreur).
 5. Incrémenter `VERSION` dans `sw.js` de 1 (lire le numéro actuel, ex. `"v91"` → `"v92"`) pour que les appareils reçoivent la mise à jour.

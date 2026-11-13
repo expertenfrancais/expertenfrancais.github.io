@@ -35,7 +35,7 @@ Fichier à créer : contenu/cours/<cycle>/<id>.json (id = plus grand id de cours
 Fichier à modifier à part ça : sw.js (VERSION seulement).
 Ne touche à rien d'autre, n'ouvre pas data.js.
 
-Contenu : cours complet et adapté au niveau, en plusieurs parties (la partie 1 gratuite), avec définitions, exemples, exercices et un « À retenir ». Respecte les règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0). Si un cours sur ce sujet et ce niveau existe déjà, dis-le-moi au lieu d'en créer un second.
+Contenu : cours complet et adapté au niveau, en autant de parties que la complexité de la notion l’exige (aucun nombre imposé : une notion simple peut tenir en 4 parties, une notion difficile en 8, 10 ou plus ; la partie 1 gratuite), avec définitions, exemples, exercices et un « À retenir ». Respecte les règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0). Si un cours sur ce sujet et ce niveau existe déjà, dis-le-moi au lieu d'en créer un second.
 En 6e et en 5e : ajoute dans meta la clé "mf" avec le code du savoir (MF6.x.y ou MF5.x.y) pris dans la répartition (programme-1 ou programme-3), comme l'explique GUIDE-IA.md ; sans correspondance claire, ne la mets pas.
 ```
 
@@ -300,7 +300,7 @@ Analyse, sans ouvrir les cours un par un : écris un petit script qui affiche se
 
 Choix : prends les [N] premières notions manquantes (ou celles que je te donne). Pas de doublon avec un cours existant du même niveau. Si le sujet existe déjà pour un autre niveau, crée quand même la version adaptée au mien, sans copier-coller. Varie les matières.
 
-Fichiers à créer : [N] fichiers contenu/cours/<cycle>/<id>.json, id consécutifs à partir du plus grand id + 1 (ls contenu/cours/*/ | sort -n | tail -3). Chaque cours : clé meta.mf (code MF de la répartition, en 6e et en 5e) et 5 ou 6 parties (partie 1 gratuite) avec introduction (définition, exemples, quiz), notions principales en tableaux, pièges, exercices corrigés, « À retenir » avec un quiz. Règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0).
+Fichiers à créer : [N] fichiers contenu/cours/<cycle>/<id>.json, id consécutifs à partir du plus grand id + 1 (ls contenu/cours/*/ | sort -n | tail -3). Chaque cours : clé meta.mf (code MF de la répartition, en 6e et en 5e) et un nombre de parties proportionnel à la complexité de la notion (aucune limite fixe : plus la notion est difficile ou riche, plus il y a de parties ; partie 1 gratuite) avec introduction (définition, exemples, quiz), notions principales en tableaux, pièges, exercices corrigés, « À retenir » avec un quiz. Règles d'écriture de GUIDE-IA.md (guillemets « », apostrophe ’, quiz.answer à partir de 0).
 Fichier à modifier à part ça : sw.js (VERSION seulement), PROJET.md (dernier id, liste des cours ajoutés).
 
 Fin : generer-pages, valider-contenu (0 erreur), archive complète et archive des seuls fichiers modifiés. Dis-moi en une phrase ce que tu as rédigé de mémoire et que je dois relire (règles de grammaire, exemples).
