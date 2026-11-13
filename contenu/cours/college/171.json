@@ -153,6 +153,91 @@
    ]
   },
   {
+   "t": "Les types d’arguments et d’exemples",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Trois sortes d’arguments",
+     "head": [
+      "Argument",
+      "Principe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "logique",
+       "un raisonnement",
+       "Lire développe le vocabulaire, donc on écrit mieux."
+      ],
+      [
+       "d’expérience",
+       "un fait vécu",
+       "J’ai progressé en lisant chaque soir."
+      ],
+      [
+       "d’autorité",
+       "l’avis d’un spécialiste ou d’une règle",
+       "Les enseignants conseillent la lecture quotidienne."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les types d’exemples",
+     "head": [
+      "Exemple",
+      "Valeur"
+     ],
+     "rows": [
+      [
+       "fait précis",
+       "ancre l’argument dans le réel"
+      ],
+      [
+       "chiffre ou donnée",
+       "donne une preuve mesurable"
+      ],
+      [
+       "anecdote",
+       "rend l’argument vivant"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Prévoir l’objection : certes… mais",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une bonne argumentation tient compte de l’opinion adverse : on la **reconnaît** (concession) puis on la **réfute**."
+    },
+    {
+     "type": "ex",
+     "label": "Modèle",
+     "text": "**Certes**, les écrans occupent beaucoup de temps. **Mais** un livre développe l’imagination et le vocabulaire."
+    },
+    {
+     "type": "table",
+     "title": "Mots pour concéder et réfuter",
+     "head": [
+      "Rôle",
+      "Mots"
+     ],
+     "rows": [
+      [
+       "concéder",
+       "certes, il est vrai que, sans doute"
+      ],
+      [
+       "réfuter",
+       "mais, pourtant, cependant, toutefois"
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -206,6 +291,54 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Quel type d’argument ?",
+     "items": [
+      "Les médecins recommandent de dormir huit heures.",
+      "Je dors mieux depuis que je me couche tôt.",
+      "Dormir permet à la mémoire de se reposer."
+     ],
+     "corrige": [
+      "1. d’autorité",
+      "2. d’expérience",
+      "3. logique"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec certes, mais, en effet ou par exemple.",
+     "items": [
+      "____ , le sport fatigue, ____ il fait du bien.",
+      "Le sport est utile : ____ , il renforce le corps.",
+      "Beaucoup de sports sont collectifs, ____ le football."
+     ],
+     "corrige": [
+      "1. Certes … mais",
+      "2. en effet",
+      "3. par exemple"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un paragraphe argumentatif",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe de six phrases : « Faut-il lire chaque jour ? »",
+     "items": [
+      "Plan : thèse, deux arguments, un exemple, une concession, une conclusion."
+     ],
+     "corrige": [
+      "Proposition : Il faut lire chaque jour. **D’abord**, la lecture enrichit le vocabulaire. **En effet**, on rencontre de nouveaux mots dans les phrases. **Ensuite**, elle développe l’imagination, **par exemple** quand on suit une aventure. **Certes**, lire demande du temps, **mais** quelques pages suffisent. **Donc**, lire chaque jour est un excellent exercice."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -215,7 +348,9 @@
       "Argumenter = **défendre une thèse** avec des **arguments** et des **exemples**.",
       "Un paragraphe = **idée directrice + explication + exemple + conclusion**.",
       "Utiliser des **connecteurs** : d’abord, en effet, par exemple, ainsi…",
-      "**Un paragraphe = un argument** ; alinéa à chaque nouveau paragraphe."
+      "**Un paragraphe = un argument** ; alinéa à chaque nouveau paragraphe.",
+      "**Certes … mais** : concéder puis réfuter.",
+      "Arguments : **logique, d’expérience, d’autorité**."
      ]
     },
     {

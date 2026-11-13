@@ -134,6 +134,86 @@
    ]
   },
   {
+   "t": "Le participe apposé et son sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le participe apposé est séparé du nom par une virgule. Il se rapporte à un nom ou à un pronom de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Valeurs du participe apposé",
+     "head": [
+      "Phrase",
+      "Valeur"
+     ],
+     "rows": [
+      [
+       "**Fatigué**, il s’est couché.",
+       "cause"
+      ],
+      [
+       "**Sortant** du bureau, il a vu la pluie.",
+       "temps"
+      ],
+      [
+       "**Souriant**, elle entra.",
+       "manière"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Même sujet obligatoire",
+     "text": "Le participe détaché se rapporte au **sujet** de la phrase : on ne dit pas « Sortant du bureau, la pluie tombait » mais « Sortant du bureau, **nous** avons vu la pluie tomber »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Marchant dans la rue, un chien m’a mordu.",
+      "Marchant dans la rue, j’ai été mordu par un chien.",
+      "Marchant, un chien.",
+      "Marchant dans la rue, la pluie tombait."
+     ],
+     "answer": 1,
+     "explain": "Le participe « marchant » se rapporte au sujet de la phrase : « je »."
+    }
+   ]
+  },
+  {
+   "t": "La proposition participiale",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans la **proposition participiale**, le participe a son **propre sujet**, différent de celui de la principale."
+    },
+    {
+     "type": "table",
+     "title": "Exemples et reformulations",
+     "head": [
+      "Participiale",
+      "Subordonnée équivalente"
+     ],
+     "rows": [
+      [
+       "**Le soleil étant couché**, nous sommes rentrés.",
+       "**Comme** le soleil était couché, nous sommes rentrés. (cause)"
+      ],
+      [
+       "**La pluie ayant cessé**, ils sont sortis.",
+       "**Quand** la pluie a cessé, ils sont sortis. (temps)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un sujet bien à elle",
+     "text": "Si le participe a un sujet différent de celui de la principale, on est dans une **proposition participiale**."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -185,6 +265,51 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du participe (temps, cause, manière).",
+     "items": [
+      "Épuisé, il s’endormit.",
+      "Voyant la nuit tomber, ils hâtèrent le pas.",
+      "Elle partit en pleurant.",
+      "Le jour se levant, ils reprirent la route."
+     ],
+     "corrige": [
+      "1. cause",
+      "2. cause ou temps",
+      "3. manière (gérondif)",
+      "4. temps (proposition participiale)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Reformule avec une subordonnée.",
+     "items": [
+      "Le soleil étant couché, nous sommes rentrés.",
+      "La pluie ayant cessé, ils sont sortis."
+     ],
+     "corrige": [
+      "1. Comme le soleil était couché, nous sommes rentrés.",
+      "2. Quand la pluie a cessé, ils sont sortis."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les phrases dont le participe n’a pas le bon sujet.",
+     "items": [
+      "Marchant dans la rue, un chien m’a mordu.",
+      "Ouvrant la porte, la lumière s’alluma."
+     ],
+     "corrige": [
+      "1. Marchant dans la rue, **j’ai été mordu** par un chien.",
+      "2. Ouvrant la porte, **j’ai vu** la lumière s’allumer."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -195,7 +320,9 @@
       "Il existe des formes **composées** : ayant chanté, étant parti.",
       "Le participe apposé exprime le **temps**, la **cause** ou la **manière**.",
       "Il doit se rapporter au **sujet** de la phrase.",
-      "Proposition participiale : participe + son propre sujet."
+      "Proposition participiale : participe + son propre sujet.",
+      "Le participe détaché se rapporte au **sujet** de la phrase.",
+      "Proposition participiale : participe avec **son propre sujet**."
      ]
     },
     {

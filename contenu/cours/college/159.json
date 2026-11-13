@@ -162,6 +162,69 @@
    ]
   },
   {
+   "t": "Le complément d’agent",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Par ou de ?",
+     "head": [
+      "Préposition",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "par",
+       "cas général : une action",
+       "Le voleur a été arrêté **par** la police."
+      ],
+      [
+       "de",
+       "verbes de sentiment ou d’état",
+       "Il est aimé **de** tous. La maison est entourée **d’**arbres."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Passif sans agent",
+     "text": "On peut omettre l’agent quand il est inconnu ou sans importance : « Le vase **a été cassé**. »"
+    }
+   ]
+  },
+  {
+   "t": "Les autres façons de dire le passif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Équivalents du passif",
+     "head": [
+      "Construction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "on + verbe actif",
+       "On a cassé la vitre."
+      ],
+      [
+       "verbe pronominal à sens passif",
+       "Le français **se parle** au Congo."
+      ],
+      [
+       "tournure impersonnelle",
+       "**Il a été décidé** que la réunion aurait lieu demain."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Accord du participe",
+     "text": "Au passif, le participe passé s’accorde avec le **sujet** : « Les lettres **ont été écrites** par Awa. »"
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -209,6 +272,66 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Transforme à la voix passive.",
+     "items": [
+      "Le maire inaugure le stade.",
+      "Les élèves ont rangé les cahiers.",
+      "On construira un pont.",
+      "Tout le monde respecte cet homme."
+     ],
+     "corrige": [
+      "1. Le stade est inauguré par le maire.",
+      "2. Les cahiers ont été rangés par les élèves.",
+      "3. Un pont sera construit.",
+      "4. Cet homme est respecté de tout le monde."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme à la voix active.",
+     "items": [
+      "La lettre a été écrite par Awa.",
+      "Les fruits seront vendus par le marchand."
+     ],
+     "corrige": [
+      "1. Awa a écrit la lettre.",
+      "2. Le marchand vendra les fruits."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé.",
+     "items": [
+      "Les fleurs ont été (cueillir) par Awa.",
+      "La porte est (fermer) à clé."
+     ],
+     "corrige": [
+      "1. cueillies",
+      "2. fermée"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : un compte rendu",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Rédige quatre phrases au passif pour annoncer des événements dans ton collège.",
+     "items": [
+      "Emploie un passif avec agent et un passif sans agent."
+     ],
+     "corrige": [
+      "Proposition : La cour **a été nettoyée** par les élèves de 3e. Un nouveau portail **sera installé** la semaine prochaine. Le règlement **a été expliqué** à tous les élèves. Les meilleurs travaux **seront récompensés** par le directeur."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -219,7 +342,9 @@
       "Passif = **être** (au même temps) + **participe passé** accordé avec le sujet.",
       "Le **COD** devient sujet ; le sujet devient **complément d’agent** (par, de).",
       "Seuls les verbes **transitifs directs** ont un passif.",
-      "Le passif permet de **mettre en valeur** ou de **taire l’agent**."
+      "Le passif permet de **mettre en valeur** ou de **taire l’agent**.",
+      "Au passif, le participe s’accorde avec le **sujet**.",
+      "Complément d’agent : **par** (action), **de** (sentiment, état)."
      ]
     },
     {

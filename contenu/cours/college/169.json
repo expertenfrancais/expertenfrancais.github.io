@@ -130,6 +130,68 @@
    ]
   },
   {
+   "t": "Les registres et le comique",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les registres du théâtre",
+     "head": [
+      "Registre",
+      "Effet recherché"
+     ],
+     "rows": [
+      [
+       "comique",
+       "faire rire"
+      ],
+      [
+       "tragique",
+       "inspirer la crainte devant le destin"
+      ],
+      [
+       "pathétique",
+       "émouvoir, faire pleurer"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les procédés du comique",
+     "head": [
+      "Procédé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "comique de gestes",
+       "un personnage trébuche, se cache, fait des grimaces"
+      ],
+      [
+       "comique de mots",
+       "jeux de mots, insultes inventées, langage déformé"
+      ],
+      [
+       "comique de situation",
+       "un quiproquo, un malentendu"
+      ],
+      [
+       "comique de caractère",
+       "un défaut poussé à l’extrême (avarice, orgueil)"
+      ],
+      [
+       "comique de répétition",
+       "la même réplique revient"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le quiproquo",
+     "text": "Un **quiproquo** est un malentendu : deux personnages parlent de choses différentes en croyant parler de la même."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -167,6 +229,58 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis cette scène : « SCÈNE 1 — Une cour de collège. KARIM, entrant en courant : Aïe ! J’ai oublié mon cahier ! (À part.) Le professeur va me gronder. LE PROFESSEUR : Karim, où est ton cahier ? KARIM, hésitant : Il… il est resté à la maison. »"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la scène.",
+     "items": [
+      "Relève les didascalies.",
+      "Relève un aparté.",
+      "Quel type de comique voit-on ?"
+     ],
+     "corrige": [
+      "1. « Une cour de collège », « entrant en courant », « hésitant »",
+      "2. « Le professeur va me gronder » (à part)",
+      "3. comique de gestes (il entre en courant) et de situation"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Registre : comique, tragique ou pathétique ?",
+     "items": [
+      "Un enfant pleure sa mère disparue.",
+      "Un valet se cache dans un tonneau.",
+      "Un roi sait qu’il ne peut pas échapper à son destin."
+     ],
+     "corrige": [
+      "1. pathétique",
+      "2. comique",
+      "3. tragique"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : une scène de théâtre",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris une courte scène de quatre répliques avec une didascalie et un aparté.",
+     "items": [
+      "Lieu : le marché."
+     ],
+     "corrige": [
+      "Proposition : SCÈNE 1 — Au marché. AWA, comptant ses pièces : Il me manque cent francs ! (À part.) Mon père va être fâché. LE MARCHAND, souriant : Madame, vous les avez posés sur l’étal. AWA : Ah, les voilà ! Quelle étourdie je suis !"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -177,7 +291,9 @@
       "Un texte de théâtre = **répliques** + **didascalies**.",
       "Une pièce est divisée en **actes** et en **scènes**.",
       "**Tirade** (longue réplique), **monologue** (seul), **aparté** (à voix basse).",
-      "Genres : **tragédie, comédie, drame**."
+      "Genres : **tragédie, comédie, drame**.",
+      "Registres : **comique, tragique, pathétique**.",
+      "Comique : de gestes, de mots, de situation, de caractère, de répétition."
      ]
     },
     {

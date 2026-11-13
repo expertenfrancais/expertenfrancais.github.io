@@ -181,6 +181,109 @@
    ]
   },
   {
+   "t": "Le mot si : ses emplois",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mot « **si** » n’exprime pas toujours la condition. Il faut identifier son emploi avant de choisir le temps du verbe."
+    },
+    {
+     "type": "table",
+     "title": "Les emplois de si",
+     "head": [
+      "Emploi",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "condition (hypothèse)",
+       "on peut dire « au cas où » ou « à supposer que »",
+       "**Si** tu viens, nous jouerons."
+      ],
+      [
+       "interrogation indirecte",
+       "on peut transformer en question directe",
+       "Dis-moi **si** tu viens. → Viens-tu ?"
+      ],
+      [
+       "intensité (adverbe)",
+       "on peut remplacer par « tellement »",
+       "Il est **si** gentil. (tellement gentil)"
+      ],
+      [
+       "réponse affirmative",
+       "contredit une négation",
+       "Tu ne viens pas ? **Si**, je viens."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de conditionnel après si",
+     "text": "Après « si » de condition, on n’écrit **jamais** le futur ni le conditionnel : on écrit « Si tu **viens**, je serai content » (et non « si tu viendras »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je me demande si tu viendras », « si » exprime :",
+     "options": [
+      "la condition",
+      "l’interrogation indirecte",
+      "l’intensité",
+      "la cause"
+     ],
+     "answer": 1,
+     "explain": "On peut transformer en question directe : « Viendras-tu ? ». Le futur est possible ici, car « si » n’est pas de condition."
+    }
+   ]
+  },
+  {
+   "t": "Les nuances de la condition",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Condition, supposition, restriction",
+     "head": [
+      "Sens",
+      "Mots",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "condition à remplir",
+       "à condition que, pourvu que",
+       "subjonctif",
+       "Je viendrai **pourvu que** tu **m’invites**."
+      ],
+      [
+       "supposition",
+       "à supposer que, en admettant que",
+       "subjonctif",
+       "**À supposer qu’il vienne**, que feras-tu ?"
+      ],
+      [
+       "restriction",
+       "à moins que (+ ne)",
+       "subjonctif",
+       "Je sortirai **à moins qu’il ne pleuve**."
+      ],
+      [
+       "éventualité",
+       "au cas où, dans le cas où",
+       "conditionnel",
+       "**Au cas où** il **pleuvrait**, prends un parapluie."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Mode après la conjonction",
+     "text": "« **Si** » se construit avec l’indicatif ; presque toutes les autres conjonctions de condition se construisent avec le **subjonctif**. Seul « **au cas où** » demande le conditionnel."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -230,6 +333,59 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes au temps qui convient.",
+     "items": [
+      "Si tu (étudier), tu réussiras.",
+      "Si j’(avoir) de l’argent, j’achèterais ce livre.",
+      "Si elle (savoir), elle aurait téléphoné.",
+      "Nous (sortir) si le temps est beau.",
+      "Si vous (venir) hier, vous auriez vu le match."
+     ],
+     "corrige": [
+      "1. étudies (présent)",
+      "2. avais (imparfait)",
+      "3. avait su (plus-que-parfait)",
+      "4. sortirons (futur)",
+      "5. étiez venus (plus-que-parfait)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quel est l’emploi de « si » ?",
+     "items": [
+      "Il est si gentil.",
+      "Dis-moi si tu viendras.",
+      "Si tu viens, appelle-moi.",
+      "Je ne sais pas s’il est là."
+     ],
+     "corrige": [
+      "1. intensité",
+      "2. interrogation indirecte",
+      "3. condition",
+      "4. interrogation indirecte"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète en respectant le système hypothétique.",
+     "items": [
+      "Si j’étais directeur du collège, je …",
+      "Si j’avais pu voyager l’an dernier, je …",
+      "Si tu étudies sérieusement, tu …"
+     ],
+     "corrige": [
+      "1. … construirais une bibliothèque. (imparfait → conditionnel présent)",
+      "2. … aurais visité le Gabon. (plus-que-parfait → conditionnel passé)",
+      "3. … réussiras. (présent → futur)"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -240,7 +396,9 @@
       "Avec « **si** » : présent → futur ; imparfait → conditionnel présent ; plus-que-parfait → conditionnel passé.",
       "Jamais de futur ni de conditionnel **après « si »** de condition.",
       "**À condition que, pourvu que, à moins que** + **subjonctif** ; **au cas où** + **conditionnel**.",
-      "« **Même si** » exprime la concession, pas la condition."
+      "« **Même si** » exprime la concession, pas la condition.",
+      "**Si** n’est pas toujours conditionnel : il peut exprimer l’interrogation indirecte ou l’intensité.",
+      "À condition que, pourvu que, à supposer que, à moins que : **subjonctif**. Au cas où : **conditionnel**."
      ]
     },
     {

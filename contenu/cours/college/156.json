@@ -133,6 +133,75 @@
    ]
   },
   {
+   "t": "Métonymie ou métaphore ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Ne pas confondre",
+     "head": [
+      "Figure",
+      "Rapport entre les deux mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "métonymie",
+       "rapport logique de proximité (contenant/contenu, auteur/œuvre…)",
+       "Boire **un verre** (le liquide qu’il contient)."
+      ],
+      [
+       "métaphore",
+       "rapport de ressemblance",
+       "Cet homme est **un roc** (solide comme un roc)."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test",
+     "lines": [
+      "Ce garçon est un lion. → ressemblance (courage) : **métaphore**.",
+      "J’ai lu du Molière. → l’auteur pour son œuvre : **métonymie**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "L’hyperbole, l’euphémisme et la litote",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**hyperbole** exagère. Deux figures font le contraire : elles **atténuent**."
+    },
+    {
+     "type": "table",
+     "title": "Exagérer ou atténuer",
+     "head": [
+      "Figure",
+      "Procédé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "hyperbole",
+       "exagère pour frapper",
+       "J’ai attendu **mille ans**."
+      ],
+      [
+       "euphémisme",
+       "adoucit une réalité pénible",
+       "Il nous a **quittés** (il est mort)."
+      ],
+      [
+       "litote",
+       "dit moins pour suggérer plus",
+       "Ce n’est **pas mal du tout** (c’est très bien)."
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -182,6 +251,56 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Relève la figure : hyperbole, métonymie, euphémisme ou litote.",
+     "items": [
+      "Il boit un verre.",
+      "J’ai lu du Hugo.",
+      "Je meurs de faim.",
+      "La salle applaudit.",
+      "Il nous a quittés."
+     ],
+     "corrige": [
+      "1. métonymie (contenant pour contenu)",
+      "2. métonymie (auteur pour œuvre)",
+      "3. hyperbole",
+      "4. métonymie (lieu pour les personnes)",
+      "5. euphémisme"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris les phrases sans hyperbole.",
+     "items": [
+      "J’ai attendu cent ans.",
+      "Il y avait un million de personnes."
+     ],
+     "corrige": [
+      "1. J’ai attendu très longtemps.",
+      "2. Il y avait beaucoup de monde."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : jouer avec les figures",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases : une avec une hyperbole, une avec une métonymie, une avec un euphémisme.",
+     "items": [
+      "Précise la figure à chaque fois."
+     ],
+     "corrige": [
+      "Proposition : Je suis mort de fatigue. (hyperbole) Tout le stade chante. (métonymie : lieu pour les spectateurs) Ma grand-mère s’est éteinte hier. (euphémisme)"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -190,7 +309,9 @@
      "items": [
       "L’**hyperbole** exagère pour insister (« un monde fou »).",
       "La **métonymie** désigne une chose par un mot qui lui est **lié** : contenant/contenu, auteur/œuvre, lieu/habitants, matière/objet.",
-      "Métonymie ≠ métaphore : **lien** contre **ressemblance**."
+      "Métonymie ≠ métaphore : **lien** contre **ressemblance**.",
+      "Métonymie : **proximité logique**. Métaphore : **ressemblance**.",
+      "**Euphémisme** et **litote** atténuent ; l’**hyperbole** exagère."
      ]
     },
     {

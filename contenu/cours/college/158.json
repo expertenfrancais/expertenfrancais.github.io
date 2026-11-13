@@ -180,6 +180,94 @@
    ]
   },
   {
+   "t": "Construction directe ou indirecte",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Reconnaître la construction",
+     "head": [
+      "Question",
+      "Complément",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "qui ? quoi ?",
+       "complément d’objet direct (COD)",
+       "Il aime **sa mère**."
+      ],
+      [
+       "à qui ? à quoi ? de qui ? de quoi ?",
+       "complément d’objet indirect (COI)",
+       "Il parle **à son ami**. Il se sert **de sa règle**."
+      ],
+      [
+       "pas de complément d’objet",
+       "verbe intransitif",
+       "Il **dort**. Elle **arrive**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le même verbe peut changer de construction",
+     "text": "« Il sort le chien » (transitif) / « Il sort » (intransitif). C’est le sens qui décide."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il parle à son ami », « à son ami » est :",
+     "options": [
+      "un COD",
+      "un COI",
+      "un complément circonstanciel",
+      "un attribut"
+     ],
+     "answer": 1,
+     "explain": "On pose « à qui ? » : le complément est indirect."
+    }
+   ]
+  },
+  {
+   "t": "Le verbe impersonnel et l’accord",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le verbe impersonnel a pour sujet le pronom neutre **il**, qui ne désigne ni une personne ni une chose."
+    },
+    {
+     "type": "table",
+     "title": "Formes et accord",
+     "head": [
+      "Phrase",
+      "Remarque"
+     ],
+     "rows": [
+      [
+       "**Il** pleut.",
+       "verbe toujours impersonnel"
+      ],
+      [
+       "**Il** faut du courage.",
+       "falloir : toujours impersonnel"
+      ],
+      [
+       "**Il** est arrivé deux élèves.",
+       "le participe passé reste **invariable**"
+      ],
+      [
+       "Les pluies qu’**il** y a eu étaient fortes.",
+       "participe invariable avec il y a"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le sujet réel ne commande pas l’accord",
+     "text": "Dans « Il manque deux élèves », « deux élèves » est le **sujet réel** ; le verbe s’accorde avec **il** (3e personne du singulier)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -227,6 +315,55 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Transforme en construction pronominale (sens passif).",
+     "items": [
+      "Le vent ouvre la porte.",
+      "On vend ces fruits au marché.",
+      "On parle français ici."
+     ],
+     "corrige": [
+      "1. La porte s’ouvre.",
+      "2. Ces fruits se vendent au marché.",
+      "3. Le français se parle ici."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en construction impersonnelle.",
+     "items": [
+      "Des élèves manquent.",
+      "Un accident est arrivé.",
+      "Des difficultés subsistent."
+     ],
+     "corrige": [
+      "1. Il manque des élèves.",
+      "2. Il est arrivé un accident.",
+      "3. Il subsiste des difficultés."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transitif, intransitif, pronominal ou impersonnel ?",
+     "items": [
+      "Elle chante une chanson.",
+      "Il pleut.",
+      "Elle se lave.",
+      "Il dort."
+     ],
+     "corrige": [
+      "1. transitif",
+      "2. impersonnel",
+      "3. pronominal",
+      "4. intransitif"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -236,7 +373,9 @@
       "**Transitif** : le verbe a un complément d’objet ; **intransitif** : il n’en a pas.",
       "**Pronominal** : le verbe s’emploie avec un pronom réfléchi (se, s’) ; sens réfléchi, réciproque ou passif.",
       "**Impersonnel** : sujet « il » sans référent, verbe à la 3e personne du singulier.",
-      "Après un verbe impersonnel, le **sujet réel** ne commande pas l’accord."
+      "Après un verbe impersonnel, le **sujet réel** ne commande pas l’accord.",
+      "Le **sujet réel** d’un verbe impersonnel ne commande pas l’accord : « il manque deux élèves ».",
+      "Un même verbe peut être transitif ou intransitif selon le sens."
      ]
     },
     {

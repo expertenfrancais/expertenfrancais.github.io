@@ -129,6 +129,103 @@
    ]
   },
   {
+   "t": "Autres mots composés ou séparés",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Un mot ou deux mots ?",
+     "head": [
+      "Écriture",
+      "Sens",
+      "Test",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quelquefois (un mot)",
+       "parfois",
+       "remplace par « parfois »",
+       "Il vient **quelquefois**."
+      ],
+      [
+       "quelques fois (deux mots)",
+       "un petit nombre de fois",
+       "on peut mettre un nombre : « trois fois »",
+       "Je l’ai vu **quelques fois**."
+      ],
+      [
+       "bientôt",
+       "dans peu de temps",
+       "remplace par « dans peu de temps »",
+       "Il arrivera **bientôt**."
+      ],
+      [
+       "bien tôt (deux mots)",
+       "très tôt",
+       "on peut dire « très tôt »",
+       "Il se lève **bien tôt**."
+      ],
+      [
+       "surtout",
+       "avant tout, principalement",
+       "remplace par « principalement »",
+       "Il aime **surtout** lire."
+      ],
+      [
+       "sur tout (deux mots)",
+       "sur l’ensemble",
+       "on peut dire « sur l’ensemble »",
+       "Il a le dernier mot **sur tout**."
+      ],
+      [
+       "peut-être",
+       "adverbe : possible",
+       "remplace par « possiblement »",
+       "Il viendra **peut-être**."
+      ],
+      [
+       "peut être (deux mots)",
+       "verbe pouvoir + être",
+       "on peut remplacer par « pouvait être »",
+       "Ça **peut être** vrai."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test commun",
+     "text": "Si l’on peut **séparer** les deux mots par un autre (« bien **très** tôt »), ils sont séparés. Sinon, c’est un mot unique."
+    }
+   ]
+  },
+  {
+   "t": "Mémoriser par le sens",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Un indice pour chaque couple",
+     "head": [
+      "Couple",
+      "Indice"
+     ],
+     "rows": [
+      [
+       "davantage / d’avantages",
+       "davantage = plus (adverbe) ; d’avantages = de + avantages (nom)"
+      ],
+      [
+       "aussitôt / aussi tôt",
+       "aussitôt = immédiatement ; aussi tôt = « aussi » + « tôt » (comparaison)"
+      ],
+      [
+       "parce que / par ce que",
+       "parce que = cause ; par ce que = par + ce que (ce que = la chose que)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -186,6 +283,72 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Choisis la bonne écriture.",
+     "items": [
+      "Il pleut (quelquefois / quelques fois) ici.",
+      "Il aime (surtout / sur tout) les mangues.",
+      "Il viendra (bientôt / bien tôt).",
+      "Il (peut-être / peut être) malade."
+     ],
+     "corrige": [
+      "1. quelquefois",
+      "2. surtout",
+      "3. bientôt",
+      "4. peut être (verbe : « peut être malade »)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec davantage, d’avantages, aussitôt, aussi tôt, parce que, par ce que.",
+     "items": [
+      "Il a travaillé ____ , il réussit.",
+      "Cette solution a plusieurs ____.",
+      "Je suis arrivé ____ que possible.",
+      "Il est parti ____ il a fini."
+     ],
+     "corrige": [
+      "1. davantage",
+      "2. d’avantages",
+      "3. aussi tôt",
+      "4. aussitôt"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "Il est partit aussi tôt le repas fini.",
+      "Il travaille d’avantage que son frère.",
+      "Il ne sort pas par ce qu’il pleut."
+     ],
+     "corrige": [
+      "1. Il est parti **aussitôt** le repas fini.",
+      "2. Il travaille **davantage** que son frère.",
+      "3. Il ne sort pas **parce qu’**il pleut."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Un texte à corriger",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Corrige le texte.",
+     "items": [
+      "Karim aime sur tout les matchs. Il se lève bien tôt pour voir les matchs, parce qu’ il y a d’avantages de matchs le matin. Il regarde quelques fois des films aussi."
+     ],
+     "corrige": [
+      "Karim aime **surtout** les matchs. Il se lève **bien tôt** pour voir les matchs, **parce qu’**il y a **davantage** de matchs le matin. Il regarde **quelquefois** des films aussi."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -194,7 +357,8 @@
      "items": [
       "**Davantage** = plus ; **d’avantages** = de + avantages.",
       "**Aussitôt** = tout de suite ; **aussi tôt** = aussi de bonne heure (≠ aussi tard).",
-      "**Parce que** = car (cause) ; **par ce que** = par la chose que."
+      "**Parce que** = car (cause) ; **par ce que** = par la chose que.",
+      "Un mot (**quelquefois, bientôt, surtout, peut-être**) ou deux mots : test d’intercalation d’un mot."
      ]
     },
     {

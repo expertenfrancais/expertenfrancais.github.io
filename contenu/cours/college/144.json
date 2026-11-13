@@ -217,6 +217,133 @@
    ]
   },
   {
+   "t": "Complément de lieu essentiel ou facultatif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tous les groupes qui indiquent un lieu ne sont pas des compléments circonstanciels. Après certains verbes (**habiter, aller, se rendre, séjourner, résider**), le lieu est un **complément essentiel** : on ne peut pas le supprimer."
+    },
+    {
+     "type": "table",
+     "title": "Lieu facultatif ou lieu essentiel ?",
+     "head": [
+      "Phrase",
+      "On peut supprimer le lieu ?",
+      "Fonction"
+     ],
+     "rows": [
+      [
+       "Les enfants jouent **dans la cour**.",
+       "oui : « Les enfants jouent. »",
+       "complément circonstanciel de lieu"
+      ],
+      [
+       "Il travaille **à Brazzaville**.",
+       "oui : « Il travaille. »",
+       "complément circonstanciel de lieu"
+      ],
+      [
+       "Elle habite **à Dolisie**.",
+       "non : « Elle habite. » est incomplet",
+       "complément essentiel du verbe"
+      ],
+      [
+       "Nous allons **au marché**.",
+       "non : « Nous allons. » est incomplet",
+       "complément essentiel du verbe"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le double test",
+     "text": "Pour reconnaître un **complément circonstanciel**, il doit être **supprimable** et **déplaçable**. Un complément essentiel ne passe pas ces deux tests."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il habite à Pointe-Noire », « à Pointe-Noire » est :",
+     "options": [
+      "un complément circonstanciel facultatif",
+      "un complément essentiel du verbe",
+      "une subordonnée de lieu",
+      "un complément du nom"
+     ],
+     "answer": 1,
+     "explain": "On ne peut pas supprimer le lieu après « habiter » : c’est un complément essentiel."
+    }
+   ]
+  },
+  {
+   "t": "Les conjonctions de la subordonnée de lieu",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Mots introducteurs et mode du verbe",
+     "head": [
+      "Conjonction",
+      "Sens",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "où",
+       "l’endroit où",
+       "indicatif",
+       "Il s’installe **où il trouve du travail**."
+      ],
+      [
+       "là où",
+       "à cet endroit précis",
+       "indicatif",
+       "Pose-le **là où il y a de la place**."
+      ],
+      [
+       "partout où",
+       "en tous les endroits",
+       "indicatif",
+       "Il est accueilli **partout où il passe**."
+      ],
+      [
+       "d’où",
+       "le point de départ",
+       "indicatif",
+       "Il est retourné **d’où il était venu**."
+      ],
+      [
+       "par où",
+       "le chemin suivi",
+       "indicatif",
+       "Repasse **par où tu es passé**."
+      ],
+      [
+       "où que",
+       "quel que soit l’endroit",
+       "subjonctif",
+       "**Où que** tu **ailles**, écris-moi."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre où et ou",
+     "text": "« **où** » avec accent indique le lieu (ou le temps) ; « **ou** » sans accent exprime un choix : « Tu restes **ou** tu pars ? ». Test : on peut remplacer « ou » par « ou bien »."
+    },
+    {
+     "type": "quiz",
+     "question": "Après « partout où », le verbe se met le plus souvent :",
+     "options": [
+      "au subjonctif",
+      "à l’indicatif",
+      "à l’infinitif",
+      "au participe"
+     ],
+     "answer": 1,
+     "explain": "« partout où » introduit une subordonnée de lieu à l’indicatif ; seul « où que » demande le subjonctif."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -278,6 +405,85 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec où, là où, partout où, où que ou d’où.",
+     "items": [
+      "Reste ____ tu es.",
+      "____ vous alliez, vous serez bien accueillis.",
+      "Il a campé ____ le terrain était plat.",
+      "Les enfants jouent ____ il y a de l’espace.",
+      "Il est revenu ____ il était parti."
+     ],
+     "corrige": [
+      "1. où",
+      "2. Où que (+ subjonctif : alliez)",
+      "3. là où",
+      "4. partout où",
+      "5. d’où"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relative ou circonstancielle de lieu ? Justifie par la présence d’un antécédent.",
+     "items": [
+      "Le quartier où nous vivons est calme.",
+      "Il s’est arrêté là où le chemin se divise.",
+      "La rivière d’où l’on tire l’eau est propre.",
+      "Je te suivrai partout où tu iras."
+     ],
+     "corrige": [
+      "1. relative (antécédent : quartier)",
+      "2. circonstancielle de lieu (là est un adverbe, pas de nom repris)",
+      "3. relative (antécédent : rivière)",
+      "4. circonstancielle de lieu (partout : pas d’antécédent nominal)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complément essentiel ou circonstanciel ? Fais les tests de suppression et de déplacement.",
+     "items": [
+      "Elle range ses affaires dans l’armoire.",
+      "Nous allons à la gare.",
+      "Il dort sous un manguier.",
+      "Ils habitent près du fleuve."
+     ],
+     "corrige": [
+      "1. « dans l’armoire » : essentiel (« Elle range ses affaires » est incomplet)",
+      "2. « à la gare » : essentiel (aller)",
+      "3. « sous un manguier » : circonstanciel (supprimable et déplaçable)",
+      "4. « près du fleuve » : essentiel (habiter)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : décrire un lieu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un texte descriptif utilise beaucoup de compléments de lieu pour organiser l’espace."
+    },
+    {
+     "type": "ex",
+     "label": "Modèle",
+     "text": "À l’entrée du village, une grande place s’étend **devant l’école**. **Là où le chemin se divise**, un vieux manguier donne de l’ombre. **Partout où le regard se porte**, on voit des champs verts."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Décris en quatre phrases un lieu que tu aimes (ta rue, ton marché, ton école).",
+     "items": [
+      "Emploie au moins deux compléments de lieu et une subordonnée de lieu (où, là où, partout où)."
+     ],
+     "corrige": [
+      "Proposition : Mon marché se trouve au bout de ma rue. **Là où les vendeurs s’installent**, des tissus de toutes les couleurs sont étalés. Sous les parasols, des femmes vendent des fruits. **Partout où je regarde**, je vois des visages joyeux."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -288,7 +494,9 @@
       "Elle s’exprime par un **adverbe**, un **groupe prépositionnel** ou une **subordonnée**.",
       "La subordonnée de lieu est introduite par **où, là où, partout où, d’où, par où** et son verbe est à l’**indicatif**.",
       "**Où que** + **subjonctif** : « quel que soit l’endroit ».",
-      "Ne pas confondre avec la **relative** : elle a un **antécédent**."
+      "Ne pas confondre avec la **relative** : elle a un **antécédent**.",
+      "Le lieu est un **complément essentiel** après habiter, aller, se rendre : on ne peut pas le supprimer.",
+      "**Où que** = quel que soit l’endroit : subjonctif. Les autres conjonctions de lieu : indicatif."
      ]
     },
     {

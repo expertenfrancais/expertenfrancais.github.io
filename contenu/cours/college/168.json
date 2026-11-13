@@ -172,6 +172,81 @@
    ]
   },
   {
+   "t": "Le narrateur, les temps et les types de discours",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Narrateur et point de vue",
+     "head": [
+      "Type de narrateur",
+      "Marques",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "narrateur personnage (interne)",
+       "pronom « je » ; il ne sait que ce qu’il vit",
+       "**Je** marchais vers le marché."
+      ],
+      [
+       "narrateur extérieur (externe ou omniscient)",
+       "pronoms « il, elle » ; il peut tout savoir",
+       "**Awa** marchait vers le marché."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les temps du récit",
+     "head": [
+      "Temps",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "passé simple",
+       "les actions de premier plan"
+      ],
+      [
+       "imparfait",
+       "les descriptions, les actions de fond"
+      ],
+      [
+       "plus-que-parfait",
+       "ce qui s’est passé avant le récit"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les types de discours dans un roman",
+     "head": [
+      "Discours",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "narration",
+       "raconter les événements"
+      ],
+      [
+       "description",
+       "montrer lieux et personnages"
+      ],
+      [
+       "dialogue",
+       "faire parler les personnages"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Lire l’incipit",
+     "text": "L’**incipit** est le début du roman. Il présente en général le lieu, le moment, les personnages et le ton."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -221,6 +296,58 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis ce début de récit : « Le soleil se levait à peine sur le village. Awa, le panier sur la tête, marchait vers le marché quand elle entendit un cri. »"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse le texte.",
+     "items": [
+      "Quel est le type de narrateur ?",
+      "Quels temps sont employés ? Quel est leur rôle ?",
+      "À quelle étape du schéma narratif correspond la dernière phrase ?"
+     ],
+     "corrige": [
+      "1. narrateur extérieur : « Awa », « elle » (3e personne).",
+      "2. imparfait (se levait, marchait) : décor et action de fond ; passé simple (entendit) : événement qui interrompt.",
+      "3. élément perturbateur : le cri."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Retrouve le type de discours : narration, description ou dialogue.",
+     "items": [
+      "Le ciel était gris et la rue vide.",
+      "— Où vas-tu ? demanda Paul.",
+      "Il ouvrit la porte et sortit."
+     ],
+     "corrige": [
+      "1. description",
+      "2. dialogue",
+      "3. narration"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : un début de roman",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris un incipit de cinq phrases avec un narrateur extérieur.",
+     "items": [
+      "Présente le lieu, le moment, un personnage et un événement qui rompt le calme."
+     ],
+     "corrige": [
+      "Proposition : Le village dormait encore. Un brouillard léger couvrait les cases. Karim, un garçon de douze ans, quitta la maison sans bruit. Il avançait vers la rivière quand il vit une lueur étrange dans les arbres."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -231,7 +358,8 @@
       "Éléments : **narrateur, personnages, intrigue, cadre**.",
       "Point de vue : **interne, externe, omniscient**.",
       "Schéma narratif : situation initiale → élément perturbateur → péripéties → dénouement → situation finale.",
-      "Sous-genres : aventures, policier, historique, science-fiction, réaliste."
+      "Sous-genres : aventures, policier, historique, science-fiction, réaliste.",
+      "Narrateur **interne** : « je ». Narrateur **extérieur** : « il, elle »."
      ]
     },
     {

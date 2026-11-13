@@ -126,6 +126,78 @@
    ]
   },
   {
+   "t": "Accord avec des sujets particuliers",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Cas à connaître",
+     "head": [
+      "Sujet",
+      "Accord",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "deux sujets (masculin + féminin)",
+       "masculin pluriel",
+       "Awa et Paul sont **aimés** de tous."
+      ],
+      [
+       "on (= nous)",
+       "masculin pluriel si l’on parle de plusieurs personnes",
+       "On est **invités** chez Awa."
+      ],
+      [
+       "vous de politesse (une personne)",
+       "singulier : accord avec la personne",
+       "Madame, vous êtes **invitée**."
+      ],
+      [
+       "nous de modestie",
+       "singulier",
+       "Nous sommes **convaincue** (une femme parle)."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Je, tu : accord avec la personne",
+     "text": "Le participe passé s’accorde avec la personne qui parle : « **Je** suis **fatiguée** » (Awa), « **je** suis **fatigué** » (Paul)."
+    }
+   ]
+  },
+  {
+   "t": "Passif ou verbe pronominal ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Deux constructions voisines",
+     "head": [
+      "Construction",
+      "Exemple",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "passif (être + participe)",
+       "La porte **est fermée** par le gardien.",
+       "avec le sujet"
+      ],
+      [
+       "pronominal à sens passif",
+       "La porte **se ferme** facilement.",
+       "pas de participe passé en construction simple"
+      ],
+      [
+       "pronominal au passé composé",
+       "Elle **s’est lavée**.",
+       "règles du participe des verbes pronominaux"
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -163,6 +235,43 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé.",
+     "items": [
+      "Awa et Paul sont (aimer) de tous.",
+      "Madame, vous êtes (inviter).",
+      "Je suis (fatiguer) (Awa parle).",
+      "Les fleurs ont été (cueillir)."
+     ],
+     "corrige": [
+      "1. aimés",
+      "2. invitée",
+      "3. fatiguée",
+      "4. cueillies"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Passif ou autre ? Indique la construction.",
+     "items": [
+      "La lettre est écrite par Awa.",
+      "La lettre s’écrit à la main.",
+      "Elle s’est lavée.",
+      "La porte était fermée (état)."
+     ],
+     "corrige": [
+      "1. passif",
+      "2. pronominal à sens passif",
+      "3. pronominal au passé composé",
+      "4. attribut (état)"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -172,7 +281,9 @@
       "À la voix passive, le participe passé s’accorde avec le **sujet**.",
       "**Été** est toujours invariable.",
       "Passif et attribut suivent la même règle d’accord.",
-      "Voix passive = **être** (au même temps) + **participe passé**."
+      "Voix passive = **être** (au même temps) + **participe passé**.",
+      "Sujets de genres différents : **masculin pluriel**.",
+      "« Vous » de politesse : accord avec la **personne réelle**."
      ]
     },
     {

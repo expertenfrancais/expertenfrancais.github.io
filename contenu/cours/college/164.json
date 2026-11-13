@@ -110,6 +110,117 @@
    ]
   },
   {
+   "t": "Sans, s’en, c’en : cas particuliers",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Ces trois formes ont des emplois bien précis. Les connaître évite de se tromper."
+    },
+    {
+     "type": "table",
+     "title": "Où les trouve-t-on ?",
+     "head": [
+      "Forme",
+      "Emplois fréquents",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "sans",
+       "devant un nom, un infinitif ou « que » ; dans des locutions : sans cesse, sans doute",
+       "Il parle **sans** réfléchir. Elle travaille **sans** cesse."
+      ],
+      [
+       "s’en",
+       "avec un verbe pronominal accompagné de « en » : s’en aller, s’en servir, s’en souvenir, s’en occuper",
+       "Il **s’en** va. Elle **s’en** souvient."
+      ],
+      [
+       "c’en",
+       "presque toujours devant « est », « était » ou « fut » : c’en est fait, c’en est trop",
+       "**C’en** est trop ! **C’en** était fait de ses espoirs."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne confonds pas sans et s’en",
+     "text": "Dans « Il s’en va », on peut dire « Je **m’en** vais ». Dans « Il part sans bagages », cette transformation est impossible : on écrit **sans**."
+    },
+    {
+     "type": "test",
+     "title": "Le test du changement de personne",
+     "lines": [
+      "Il s’en va. → Je m’en vais. : le sujet change, on écrit **s’en**.",
+      "Il part sans bagages. → on ne peut pas dire « je m’en bagages » : on écrit **sans**.",
+      "C’en est trop ! → c’est une expression figée, on écrit **c’en** (ce + en)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elle s’en occupe depuis hier.",
+      "Elle sans occupe depuis hier.",
+      "Elle c’en occupe depuis hier.",
+      "Elle sen occupe depuis hier."
+     ],
+     "answer": 0,
+     "explain": "On peut dire « je m’en occupe » : **s’en** = se + en."
+    }
+   ]
+  },
+  {
+   "t": "Ni, n’y, nie : cas particuliers",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Où les trouve-t-on ?",
+     "head": [
+      "Forme",
+      "Emplois fréquents",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "ni",
+       "relie deux éléments niés ; peut aussi suivre « sans »",
+       "Il n’a **ni** faim **ni** soif. Il est parti sans argent **ni** bagages."
+      ],
+      [
+       "n’y",
+       "ne + y (pronom) devant un verbe",
+       "Je **n’y** vais pas. Il **n’y** a personne."
+      ],
+      [
+       "nie",
+       "verbe **nier**, 1re et 3e personnes du singulier (présent)",
+       "Je **nie** les faits. Il **nie** tout."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Il n’y a pas",
+     "text": "On écrit toujours « il **n’y** a » (ne + y). N’écris jamais « il ni a » ni « il nie a »."
+    },
+    {
+     "type": "tip",
+     "label": "Reconnaître le verbe nier",
+     "text": "Mets la phrase à la 1re personne du pluriel : « nous nions ». Si le verbe nier convient, on écrit **nie** : « Il nie sa faute » → « Nous nions notre faute »."
+    },
+    {
+     "type": "test",
+     "title": "Les tests en pratique",
+     "lines": [
+      "Il ne mange ni riz ni pain. → on peut répéter « ni » : conjonction.",
+      "Je n’y crois pas. → on peut dire « je ne crois pas à cela » : **n’y**.",
+      "Il nie sa faute. → nous nions : verbe **nier**."
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -155,6 +266,86 @@
      ],
      "answer": 1,
      "explain": "« n’y » = ne + y."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Entraîne-toi maintenant avec des phrases plus variées."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec sans, s’en ou c’en.",
+     "items": [
+      "Elle sort ____ parapluie.",
+      "Il ____ va demain matin.",
+      "____ est trop pour moi !",
+      "Ils ____ souviennent encore.",
+      "Tu pars ____ me dire au revoir ?"
+     ],
+     "corrige": [
+      "1. sans",
+      "2. s’en",
+      "3. C’en",
+      "4. s’en",
+      "5. sans"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec ni, n’y ou nie.",
+     "items": [
+      "Je ____ crois plus.",
+      "Elle ne boit ____ lait ____ jus.",
+      "Il ____ avoir commis cette faute.",
+      "Il ____ a plus de place.",
+      "Je ne veux ____ chanter ____ danser."
+     ],
+     "corrige": [
+      "1. n’y",
+      "2. ni … ni",
+      "3. nie",
+      "4. n’y",
+      "5. ni … ni"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Repère l’erreur et corrige chaque phrase.",
+     "items": [
+      "Il est parti s’en prévenir personne.",
+      "Ils n’ont ni sucre n’y lait.",
+      "Elle ni tout.",
+      "Sans est fait de nous."
+     ],
+     "corrige": [
+      "1. Il est parti **sans** prévenir personne.",
+      "2. Ils n’ont **ni** sucre **ni** lait.",
+      "3. Elle **nie** tout.",
+      "4. **C’en** est fait de nous."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Un texte à corriger",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis attentivement le texte, puis corrige les erreurs d’homophones."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réécris le texte en corrigeant les erreurs (sans, s’en, c’en, ni, n’y, nie).",
+     "items": [
+      "Karim est rentré s’en dire un mot. Il n’avait ni faim n’y soif. Sa mère lui a demandé s’il avait cassé le vase ; il ni tout. Il n’ose plus rien dire : c’est en trop pour lui."
+     ],
+     "corrige": [
+      "Karim est rentré **sans** dire un mot. Il n’avait **ni** faim **ni** soif. Sa mère lui a demandé s’il avait cassé le vase ; il **nie** tout. Il n’ose plus rien dire : **c’en** est trop pour lui."
+     ]
     }
    ]
   },

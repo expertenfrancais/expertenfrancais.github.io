@@ -166,6 +166,94 @@
    ]
   },
   {
+   "t": "Les rimes en détail",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Rime masculine ou féminine",
+     "head": [
+      "Type",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "se termine par une syllabe sans e muet",
+       "jour / amour"
+      ],
+      [
+       "féminine",
+       "se termine par un e muet",
+       "rose / chose"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "La richesse de la rime",
+     "head": [
+      "Type",
+      "Sons communs",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "pauvre",
+       "un seul son",
+       "ami / parti"
+      ],
+      [
+       "suffisante",
+       "deux sons",
+       "jour / amour"
+      ],
+      [
+       "riche",
+       "trois sons ou plus",
+       "rivage / sauvage"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "L’alternance",
+     "text": "Dans un poème classique, les rimes **masculines** et **féminines** alternent."
+    }
+   ]
+  },
+  {
+   "t": "Les sonorités et les images",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Jouer avec les sons",
+     "head": [
+      "Figure",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "allitération",
+       "répétition d’une consonne",
+       "**V**ent **v**if **v**ole **v**ers le **v**illage."
+      ],
+      [
+       "assonance",
+       "répétition d’une voyelle",
+       "S**u**r la d**u**ne br**u**ne, la l**u**ne est une pl**u**me."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Analyser un poème",
+     "text": "On cherche le **thème**, le **ton** (joyeux, triste…), les **images** (comparaisons, métaphores) et l’effet des sons."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -215,6 +303,66 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Compte les syllabes (le e muet final ne compte pas).",
+     "items": [
+      "Mon ami est parti.",
+      "La nuit tombe sur la ville."
+     ],
+     "corrige": [
+      "1. mon-a-mi-est-par-ti : 6 syllabes (hexasyllabe)",
+      "2. la-nuit-tom-be-sur-la-vil(le) : 7 syllabes (heptasyllabe)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rime masculine ou féminine ?",
+     "items": [
+      "jour / amour",
+      "rose / chose",
+      "lune / dune",
+      "parti / ami"
+     ],
+     "corrige": [
+      "1. masculine",
+      "2. féminine",
+      "3. féminine",
+      "4. masculine"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Allitération ou assonance ?",
+     "items": [
+      "Le serpent siffle sous les saules.",
+      "Sur la dune brune, la lune est une plume."
+     ],
+     "corrige": [
+      "1. allitération (consonne [s])",
+      "2. assonance (voyelle [y])"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : un quatrain",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris un quatrain (quatre vers) à rimes croisées sur la pluie.",
+     "items": [
+      "Rimes ABAB."
+     ],
+     "corrige": [
+      "Proposition : La pluie tombe sur le toit (A) / Comme un tambour qui s’éveille (B) / Les enfants courent, pas de froid (A) / Le ciel gris pleure à merveille (B)."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -226,7 +374,9 @@
       "Rimes : **plates (AABB), croisées (ABAB), embrassées (ABBA)**.",
       "Vers : **octosyllabe (8), décasyllabe (10), alexandrin (12)**.",
       "Le **e muet** ne compte pas devant une voyelle ni en fin de vers.",
-      "Sonnet = 2 quatrains + 2 tercets."
+      "Sonnet = 2 quatrains + 2 tercets.",
+      "Rime **masculine** : sans e muet. **Féminine** : avec e muet.",
+      "**Allitération** = consonnes répétées. **Assonance** = voyelles répétées."
      ]
     },
     {

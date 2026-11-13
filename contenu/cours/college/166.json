@@ -109,6 +109,83 @@
    ]
   },
   {
+   "t": "Méthode en trois étapes",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Pour décider de l’accord",
+     "head": [
+      "Étape",
+      "Question",
+      "Exemple : « Les enfants que j’ai (voir) jouer »"
+     ],
+     "rows": [
+      [
+       "1",
+       "Quel est le COD, et où est-il ?",
+       "« que » (= les enfants), placé avant"
+      ],
+      [
+       "2",
+       "Le COD fait-il l’action de l’infinitif ?",
+       "les enfants jouent : oui"
+      ],
+      [
+       "3",
+       "Accorde seulement si oui",
+       "j’ai vu**s** : accord"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "label": "Deux phrases, deux règles",
+     "text": "Les enfants que j’ai **vus** jouer (ils jouent : accord).\nLes chansons que j’ai **entendu** chanter (on les chante : invariable)."
+    }
+   ]
+  },
+  {
+   "t": "Verbes concernés et participes toujours invariables",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Verbes de perception ou de mouvement",
+     "head": [
+      "Verbes",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "voir, entendre, regarder, écouter, sentir",
+       "Les oiseaux que j’ai **entendus** chanter."
+      ],
+      [
+       "envoyer, emmener, mener",
+       "Les élèves que le directeur a **envoyés** chercher."
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Participes invariables",
+     "head": [
+      "Participe",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "fait + infinitif",
+       "Les maisons qu’il a **fait** construire."
+      ],
+      [
+       "dû, pu, voulu, cru (infinitif sous-entendu)",
+       "Il a fait tous les efforts qu’il a **pu**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -146,6 +223,53 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Accorde ou non le participe passé.",
+     "items": [
+      "Les enfants que j’ai (vu) jouer.",
+      "Les chansons que j’ai (entendu) chanter.",
+      "La maison qu’il a (fait) construire.",
+      "Les efforts qu’elle a (pu) faire."
+     ],
+     "corrige": [
+      "1. vus",
+      "2. entendu",
+      "3. fait",
+      "4. pu"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque phrase, indique si le COD fait l’action de l’infinitif.",
+     "items": [
+      "Les élèves que j’ai regardés danser.",
+      "La pièce que j’ai vu jouer."
+     ],
+     "corrige": [
+      "1. oui : les élèves dansent (accord : regardés)",
+      "2. non : on joue la pièce (invariable : vu)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "Les maisons qu’il a fais construire.",
+      "Les efforts qu’elle a pus faire.",
+      "Les fleurs que j’ai vu pousser."
+     ],
+     "corrige": [
+      "1. fait",
+      "2. pu",
+      "3. vues (les fleurs poussent)"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -156,7 +280,9 @@
       "Si le COD **subit** l’action : participe **invariable**.",
       "Test : remplacer l’infinitif par un **participe présent**.",
       "**Fait** + infinitif : **invariable**.",
-      "COD placé **après** : invariable."
+      "COD placé **après** : invariable.",
+      "Avec **avoir + infinitif** : accord si le COD **fait l’action** de l’infinitif.",
+      "**fait + infinitif**, **dû, pu, voulu, cru** : invariables."
      ]
     },
     {

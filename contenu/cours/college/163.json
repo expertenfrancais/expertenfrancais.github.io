@@ -187,6 +187,143 @@
    ]
   },
   {
+   "t": "Passé simple : les verbes fréquents",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Formes à connaître (3e personne)",
+     "head": [
+      "Infinitif",
+      "il / elle",
+      "ils / elles"
+     ],
+     "rows": [
+      [
+       "être",
+       "fut",
+       "furent"
+      ],
+      [
+       "avoir",
+       "eut",
+       "eurent"
+      ],
+      [
+       "aller",
+       "alla",
+       "allèrent"
+      ],
+      [
+       "faire",
+       "fit",
+       "firent"
+      ],
+      [
+       "dire",
+       "dit",
+       "dirent"
+      ],
+      [
+       "voir",
+       "vit",
+       "virent"
+      ],
+      [
+       "prendre",
+       "prit",
+       "prirent"
+      ],
+      [
+       "venir",
+       "vint",
+       "vinrent"
+      ],
+      [
+       "tenir",
+       "tint",
+       "tinrent"
+      ],
+      [
+       "pouvoir",
+       "put",
+       "purent"
+      ],
+      [
+       "vouloir",
+       "voulut",
+       "voulurent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas confondre",
+     "text": "« Il **fit** » (passé simple de faire) et « il **fut** » (passé simple d’être) : le sens change complètement."
+    },
+    {
+     "type": "tip",
+     "label": "Récit et conte",
+     "text": "Le passé simple est le temps du **récit écrit** : contes, romans, textes d’histoire. On l’emploie presque toujours à la 3e personne."
+    }
+   ]
+  },
+  {
+   "t": "Futur simple : les verbes à radical irrégulier",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Radicaux irréguliers",
+     "head": [
+      "Infinitif",
+      "Futur",
+      "Remarque"
+     ],
+     "rows": [
+      [
+       "envoyer",
+       "j’enverrai",
+       "radical enver-"
+      ],
+      [
+       "voir",
+       "je verrai",
+       "radical ver-"
+      ],
+      [
+       "pouvoir",
+       "je pourrai",
+       "radical pour-"
+      ],
+      [
+       "vouloir",
+       "je voudrai",
+       "radical voud-"
+      ],
+      [
+       "savoir",
+       "je saurai",
+       "radical sau-"
+      ],
+      [
+       "courir",
+       "je courrai",
+       "deux r"
+      ],
+      [
+       "mourir",
+       "je mourrai",
+       "deux r"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Futur ou conditionnel ?",
+     "text": "« je chanterai » (futur) et « je chanterais » (conditionnel) se prononcent presque pareil. Test : remplace par « demain » (futur) ou « si je pouvais » (conditionnel)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -236,6 +373,76 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au passé simple (3e personne du singulier).",
+     "items": [
+      "faire",
+      "venir",
+      "voir",
+      "prendre",
+      "vouloir"
+     ],
+     "corrige": [
+      "1. il fit",
+      "2. il vint",
+      "3. il vit",
+      "4. il prit",
+      "5. il voulut"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjugue au futur simple.",
+     "items": [
+      "voir (je)",
+      "courir (tu)",
+      "envoyer (nous)",
+      "pouvoir (ils)",
+      "savoir (vous)"
+     ],
+     "corrige": [
+      "1. je verrai",
+      "2. tu courras",
+      "3. nous enverrons",
+      "4. ils pourront",
+      "5. vous saurez"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Futur ou conditionnel ? Complète -rai ou -rais.",
+     "items": [
+      "Demain, je partir…",
+      "Si j’avais le temps, j’aime… lire.",
+      "Je viend… demain."
+     ],
+     "corrige": [
+      "1. partirai (futur)",
+      "2. aimerais (conditionnel)",
+      "3. viendrai (futur)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : un récit au passé simple",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris cinq phrases d’un début de conte au passé simple.",
+     "items": [
+      "Emploie fut, eut, alla, dit, vit."
+     ],
+     "corrige": [
+      "Proposition : Il **était** une fois un roi. Il **eut** un fils courageux. Un matin, le jeune prince **alla** dans la forêt. Il **vit** un lion et lui **dit** : « N’aie pas peur. » Le lion **fut** surpris."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -246,7 +453,9 @@
       "1er groupe : **-ai, -as, -a, -âmes, -âtes, -èrent**.",
       "**Futur simple** : action à venir, ordre atténué, probabilité.",
       "Futurs irréguliers : **serai, aurai, irai, ferai, pourrai, verrai**.",
-      "Futur **-rai** ≠ conditionnel **-rais**."
+      "Futur **-rai** ≠ conditionnel **-rais**.",
+      "Passé simple : **fit/fut, eut, vit, vint, prit**…",
+      "Futur : **je verrai, je pourrai, je courrai, j’enverrai**."
      ]
     },
     {

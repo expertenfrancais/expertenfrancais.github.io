@@ -165,6 +165,95 @@
    ]
   },
   {
+   "t": "Les nuances du but",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Mots de but et nuances",
+     "head": [
+      "Expression",
+      "Nuance",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "pour",
+       "emploi général",
+       "Il économise **pour acheter** un vélo."
+      ],
+      [
+       "afin de, afin que",
+       "langue plus soignée",
+       "Elle travaille **afin d’obtenir** une bourse."
+      ],
+      [
+       "en vue de, dans le but de",
+       "but précis, objectif visé",
+       "Il s’entraîne **dans le but de** gagner."
+      ],
+      [
+       "de façon à, de manière à",
+       "manière d’atteindre le but",
+       "Il parle fort **de manière à** être entendu."
+      ],
+      [
+       "de peur que, de crainte que",
+       "but d’éviter un danger",
+       "Il court **de peur d’**être en retard."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pour exprime aussi la cause",
+     "text": "Avec un infinitif **passé**, « pour » exprime la **cause**, pas le but : « Il a été puni **pour avoir menti** » (il a été puni parce qu’il a menti)."
+    },
+    {
+     "type": "test",
+     "title": "But ou cause ?",
+     "lines": [
+      "Il travaille pour réussir. → on pose « dans quel but ? » : **but**.",
+      "Il est puni pour avoir menti. → on pose « pourquoi ? » : **cause** (infinitif passé)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Même sujet ou sujets différents ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le choix entre l’**infinitif** et la **subordonnée au subjonctif** dépend du sujet des deux verbes."
+    },
+    {
+     "type": "table",
+     "title": "Infinitif ou subjonctif ?",
+     "head": [
+      "Situation",
+      "Construction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "même sujet",
+       "pour / afin de + infinitif",
+       "Je révise **pour réussir**."
+      ],
+      [
+       "sujets différents",
+       "pour que / afin que + subjonctif",
+       "Je révise **pour que ma mère soit fière**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un seul acteur, un infinitif",
+     "text": "Si une seule personne fait les deux actions, on évite de répéter le sujet : on écrit « Je révise pour réussir », pas « pour que je réussisse »."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -218,6 +307,70 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "Je révise pour que je réussisse.",
+      "Il parle fort afin que tout le monde entend.",
+      "Elle sort de peur qu’il pleut.",
+      "Nous partons tôt pour de ne pas être en retard."
+     ],
+     "corrige": [
+      "1. Je révise **pour réussir** (même sujet).",
+      "2. … afin que tout le monde **entende** (subjonctif).",
+      "3. … de peur qu’il **pleuve** (subjonctif).",
+      "4. Nous partons tôt **pour ne pas** être en retard (ou **afin de ne pas**)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "But, cause ou conséquence ? Indique le sens de la partie en gras.",
+     "items": [
+      "Il a été félicité **pour avoir aidé son ami**.",
+      "Elle répète **pour que le spectacle soit parfait**.",
+      "Il a tant couru **qu’il est épuisé**.",
+      "Ils économisent **en vue d’un voyage**."
+     ],
+     "corrige": [
+      "1. cause (pour + infinitif passé)",
+      "2. but (pour que + subjonctif)",
+      "3. conséquence (tant … que + indicatif)",
+      "4. but (en vue de)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réunis les deux phrases avec une expression de but.",
+     "items": [
+      "Je ferme la porte. Le bruit ne dérange pas les voisins.",
+      "Il apprend le français. Il veut devenir professeur."
+     ],
+     "corrige": [
+      "1. Je ferme la porte **pour que** le bruit ne dérange pas les voisins.",
+      "2. Il apprend le français **afin de devenir** professeur."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : expliquer son intention",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris quatre phrases pour expliquer pourquoi tu étudies le français.",
+     "items": [
+      "Emploie pour, afin de, afin que et de peur que."
+     ],
+     "corrige": [
+      "Proposition : J’étudie le français **pour réussir** mon examen. Je lis chaque soir **afin d’enrichir** mon vocabulaire. Je demande de l’aide à mon professeur **afin qu’il corrige** mes erreurs. Je relis mes devoirs **de peur de laisser** des fautes."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -228,7 +381,9 @@
       "Elle s’exprime par **pour, afin de, en vue de** + nom ou infinitif, ou par une subordonnée.",
       "**Pour que, afin que, de peur que, de crainte que** sont suivis du **subjonctif**.",
       "Même sujet : on emploie l’**infinitif** (pour réussir).",
-      "**De sorte que** + subjonctif = but ; + indicatif = conséquence."
+      "**De sorte que** + subjonctif = but ; + indicatif = conséquence.",
+      "**Pour + infinitif passé** exprime la cause : « puni pour avoir menti ».",
+      "Sujets différents : **pour que + subjonctif**. Même sujet : **pour + infinitif**."
      ]
     },
     {

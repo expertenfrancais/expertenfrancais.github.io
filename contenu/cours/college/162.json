@@ -124,6 +124,91 @@
    ]
   },
   {
+   "t": "L’imparfait : orthographe et pièges",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Terminaisons de l’imparfait",
+     "head": [
+      "Personne",
+      "Terminaison",
+      "Exemple (chanter)"
+     ],
+     "rows": [
+      [
+       "je / tu",
+       "-ais",
+       "je chantais, tu chantais"
+      ],
+      [
+       "il / elle",
+       "-ait",
+       "il chantait"
+      ],
+      [
+       "nous",
+       "-ions",
+       "nous chantions"
+      ],
+      [
+       "vous",
+       "-iez",
+       "vous chantiez"
+      ],
+      [
+       "ils / elles",
+       "-aient",
+       "ils chantaient"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Deux i de suite",
+     "text": "Aux verbes en -ier, on garde le « i » du radical : « nous **étudiions**, vous **étudiiez**, nous **riions**, vous **criiez** »."
+    },
+    {
+     "type": "tip",
+     "label": "Imparfait ou conditionnel",
+     "text": "Imparfait : « il **chantait** ». Conditionnel présent : « il **chanterait** » (avec -r-). L’imparfait n’a pas de -r- avant la terminaison."
+    }
+   ]
+  },
+  {
+   "t": "Imparfait ou passé composé / passé simple ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Choisir le temps du passé",
+     "head": [
+      "Temps",
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "imparfait",
+       "durée, habitude, description",
+       "Il **pleuvait** toujours en octobre."
+      ],
+      [
+       "passé composé / passé simple",
+       "fait précis, achevé, au premier plan",
+       "Soudain, il **a ouvert** la porte."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test",
+     "lines": [
+      "Il (pleuvoir) toute la nuit. → durée : **pleuvait**.",
+      "Hier, il (pleuvoir) à midi pour la première fois. → fait précis : **a plu**."
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -173,6 +258,57 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Conjugue à l’imparfait.",
+     "items": [
+      "nous (étudier)",
+      "vous (rire)",
+      "ils (finir)",
+      "tu (être)",
+      "elles (faire)"
+     ],
+     "corrige": [
+      "1. étudiions",
+      "2. riiez",
+      "3. finissaient",
+      "4. étais",
+      "5. faisaient"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne la valeur du temps (description, habitude, fait précis…).",
+     "items": [
+      "Chaque matin, il se levait à six heures.",
+      "Le ciel était gris et la rue vide.",
+      "Tout à coup, un cri retentit.",
+      "Il arrive demain."
+     ],
+     "corrige": [
+      "1. habitude (imparfait)",
+      "2. description (imparfait)",
+      "3. fait précis (passé simple)",
+      "4. futur proche (présent)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis le temps qui convient (imparfait ou passé composé).",
+     "items": [
+      "Quand j’étais petit, nous (aller) chaque été à la mer.",
+      "Hier, nous (aller) à la mer pour la première fois."
+     ],
+     "corrige": [
+      "1. allions (habitude)",
+      "2. sommes allés (fait précis)"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -181,7 +317,9 @@
      "items": [
       "Le **présent** : action actuelle, habitude, vérité générale, narration, futur proche, passé récent.",
       "L’**imparfait** : description, habitude passée, action en cours, hypothèse, politesse.",
-      "L’imparfait donne l’**arrière-plan** ; le passé simple ou composé, les **actions principales**."
+      "L’imparfait donne l’**arrière-plan** ; le passé simple ou composé, les **actions principales**.",
+      "Imparfait des verbes en **-ier** : **nous étudiions, vous étudiiez** (deux i).",
+      "Imparfait : habitude, description. Passé composé/simple : **fait précis**."
      ]
     },
     {

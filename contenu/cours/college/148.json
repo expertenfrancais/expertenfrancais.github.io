@@ -189,6 +189,99 @@
    ]
   },
   {
+   "t": "Moyen ou manière ? Le double test",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Deux questions pour distinguer",
+     "head": [
+      "Question",
+      "Circonstance",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "avec quoi ? par quel moyen ?",
+       "moyen",
+       "Il ouvre la porte **avec une clé**. Elle voyage **en train**."
+      ],
+      [
+       "comment ? de quelle façon ?",
+       "manière",
+       "Il ouvre la porte **avec précaution**. Elle voyage **en silence**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Un même mot, deux sens",
+     "text": "La préposition « **avec** » n’exprime pas toujours le moyen : « avec une clé » (moyen), mais « avec joie » (manière). Pose la question pour trancher."
+    }
+   ]
+  },
+  {
+   "t": "Le gérondif : formation et sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **gérondif** (**en** + participe présent) exprime le plus souvent le moyen, la manière ou la simultanéité. Il est **invariable**."
+    },
+    {
+     "type": "table",
+     "title": "Former le gérondif",
+     "head": [
+      "Verbe",
+      "Participe présent",
+      "Gérondif"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chantant",
+       "**en chantant**"
+      ],
+      [
+       "finir",
+       "finissant",
+       "**en finissant**"
+      ],
+      [
+       "faire",
+       "faisant",
+       "**en faisant**"
+      ],
+      [
+       "être",
+       "étant",
+       "**en étant**"
+      ],
+      [
+       "avoir",
+       "ayant",
+       "**en ayant**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Même sujet obligatoire",
+     "text": "Le gérondif se rapporte au sujet du verbe principal. On ne dit pas « En sortant de l’école, la pluie a commencé » mais « En sortant de l’école, **nous** avons reçu la pluie »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "En traversant la rue, un vélo m’a renversé.",
+      "En traversant la rue, j’ai été renversé par un vélo.",
+      "En traversant la rue, la voiture a freiné.",
+      "En traversant, un vélo."
+     ],
+     "answer": 1,
+     "explain": "Le sujet du gérondif (je) est aussi le sujet du verbe principal."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -240,6 +333,70 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Moyen ou manière ?",
+     "items": [
+      "Il répare sa moto avec un tournevis.",
+      "Elle chante avec joie.",
+      "On apprend en lisant.",
+      "Il parle d’une voix douce."
+     ],
+     "corrige": [
+      "1. moyen",
+      "2. manière",
+      "3. moyen (gérondif)",
+      "4. manière"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec le gérondif du verbe entre parenthèses.",
+     "items": [
+      "On apprend beaucoup (lire).",
+      "Elle est sortie (sourire).",
+      "Il s’est blessé (tomber).",
+      "Elle se repose (écouter) de la musique."
+     ],
+     "corrige": [
+      "1. en lisant",
+      "2. en souriant",
+      "3. en tombant",
+      "4. en écoutant"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les phrases dont le gérondif n’a pas le bon sujet.",
+     "items": [
+      "En marchant, la pluie nous a surpris.",
+      "En rentrant à la maison, la nuit tombait."
+     ],
+     "corrige": [
+      "1. En marchant, **nous** avons été surpris par la pluie.",
+      "2. En rentrant à la maison, **nous** avons vu la nuit tomber."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : expliquer comment faire",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Explique en quatre phrases comment tu prépares une bonne rédaction.",
+     "items": [
+      "Emploie au moins deux gérondifs et un complément de moyen."
+     ],
+     "corrige": [
+      "Proposition : Je prépare ma rédaction **en lisant** attentivement le sujet. **En notant** mes idées au brouillon, je construis un plan. J’écris ensuite mon texte **avec soin**. Je me relis **à l’aide d’un dictionnaire** pour corriger mes fautes."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -249,7 +406,9 @@
       "Le **moyen** répond à : **avec quoi ? par quel moyen ?** ; la **manière** à : **comment ?**",
       "Le **gérondif** (en + participe présent) exprime souvent le moyen ou la manière.",
       "**Comme si** + imparfait ou plus-que-parfait ; **sans que** + subjonctif.",
-      "Même sujet : on préfère **sans** + infinitif."
+      "Même sujet : on préfère **sans** + infinitif.",
+      "Moyen : **avec quoi ?** Manière : **comment ?**",
+      "Le **gérondif** (en + -ant) est invariable et se rapporte au **sujet** du verbe principal."
      ]
     },
     {

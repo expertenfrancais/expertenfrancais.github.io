@@ -144,6 +144,93 @@
    ]
   },
   {
+   "t": "Analyser une comparaison",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une comparaison a toujours quatre éléments : le **comparé**, le **comparant**, l’**outil de comparaison** et le **point commun**."
+    },
+    {
+     "type": "schema",
+     "title": "Une comparaison décortiquée",
+     "cells": [
+      {
+       "mot": "Il",
+       "role": "comparé"
+      },
+      {
+       "mot": "est rapide",
+       "role": "point commun"
+      },
+      {
+       "mot": "comme",
+       "role": "outil de comparaison",
+       "noyau": true
+      },
+      {
+       "mot": "un guépard",
+       "role": "comparant"
+      }
+     ],
+     "note": "On compare **il** (le comparé) à **un guépard** (le comparant) à cause de leur point commun : la rapidité."
+    },
+    {
+     "type": "table",
+     "title": "Les outils de comparaison",
+     "head": [
+      "Type",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "mots",
+       "comme, tel, pareil à, semblable à"
+      ],
+      [
+       "verbes",
+       "ressembler à, sembler, avoir l’air de, paraître"
+      ],
+      [
+       "expressions",
+       "on dirait que, tel que"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Effets des trois figures",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "À quoi servent ces figures ?",
+     "head": [
+      "Figure",
+      "Effet"
+     ],
+     "rows": [
+      [
+       "comparaison",
+       "expliquer, rendre une idée plus concrète"
+      ],
+      [
+       "métaphore",
+       "condenser l’image, frapper l’imagination"
+      ],
+      [
+       "personnification",
+       "rendre vivant un objet, un animal ou une idée"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "La métaphore filée",
+     "text": "Quand une métaphore se prolonge sur plusieurs phrases, on parle de **métaphore filée** : « La vie est un fleuve. Elle coule, tourne et se jette dans la mer. »"
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -193,6 +280,66 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Quelle figure de style est employée ?",
+     "items": [
+      "Le soleil sourit aux enfants.",
+      "Ce garçon est un lion.",
+      "Sa peau est douce comme du velours.",
+      "La forêt murmure.",
+      "Cet homme a un cœur de pierre."
+     ],
+     "corrige": [
+      "1. personnification",
+      "2. métaphore",
+      "3. comparaison",
+      "4. personnification",
+      "5. métaphore"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse la comparaison : comparé, comparant, outil, point commun.",
+     "items": [
+      "Elle est rusée comme un renard."
+     ],
+     "corrige": [
+      "comparé : elle ; comparant : un renard ; outil : comme ; point commun : rusée"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque comparaison en métaphore.",
+     "items": [
+      "Ses yeux brillent comme des étoiles.",
+      "Cet enfant est têtu comme une mule."
+     ],
+     "corrige": [
+      "1. Ses yeux sont des étoiles.",
+      "2. Cet enfant est une mule."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : décrire avec des images",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Décris la pluie ou un marché en six phrases : deux comparaisons, deux métaphores, deux personnifications.",
+     "items": [
+      "Souligne les figures employées."
+     ],
+     "corrige": [
+      "Proposition : La pluie tombe **comme un rideau**. La rue **est un fleuve**. Les nuages **pleurent** sur la ville. Le vent **danse** dans les arbres. Les gouttes sont **des perles**. Les toits brillent **comme des miroirs**."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -202,7 +349,9 @@
       "La **comparaison** a un **outil** (comme, tel, pareil à…) : comparé / outil / comparant.",
       "La **métaphore** est une comparaison **sans outil**.",
       "La **personnification** prête des **traits humains** à une chose, un animal ou une idée.",
-      "Ces figures créent des **images** et rendent le texte plus expressif."
+      "Ces figures créent des **images** et rendent le texte plus expressif.",
+      "Une comparaison a un **comparé**, un **comparant**, un **outil** et un **point commun**.",
+      "Une métaphore n’a **pas d’outil** de comparaison."
      ]
     },
     {

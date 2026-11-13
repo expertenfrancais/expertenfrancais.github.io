@@ -181,6 +181,107 @@
    ]
   },
   {
+   "t": "Opposition ou concession ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On distingue deux idées voisines. L’**opposition** met deux faits en contraste. La **concession** présente un obstacle qui n’empêche pas l’action."
+    },
+    {
+     "type": "table",
+     "title": "Deux nuances",
+     "head": [
+      "Nuance",
+      "Idée",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "opposition",
+       "deux faits contraires, comparés",
+       "alors que, tandis que, mais, en revanche",
+       "Il est grand **tandis que** son frère est petit."
+      ],
+      [
+       "concession",
+       "un obstacle qui n’empêche rien",
+       "bien que, quoique, même si, malgré, pourtant",
+       "**Bien qu’il soit** fatigué, il travaille."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le test",
+     "text": "Si l’on peut répondre « il n’a pas pu l’empêcher », c’est une **concession** : l’obstacle existe, mais l’action a lieu quand même."
+    }
+   ]
+  },
+  {
+   "t": "Les mots de liaison de l’opposition",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Adverbes de liaison",
+     "head": [
+      "Mot",
+      "Nuance",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "pourtant, cependant, néanmoins, toutefois",
+       "concession, restriction",
+       "Il est fatigué ; **pourtant**, il continue."
+      ],
+      [
+       "en revanche, par contre",
+       "opposition entre deux faits",
+       "Il est lent ; **en revanche**, il est précis."
+      ],
+      [
+       "au contraire",
+       "opposition totale",
+       "Il n’est pas triste, **au contraire**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ponctuation",
+     "text": "Ces adverbes de liaison se placent souvent après un point-virgule ou en début de phrase, avec une virgule : « Il pleuvait. **Pourtant**, nous sommes sortis. »"
+    }
+   ]
+  },
+  {
+   "t": "Transformer la concession",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Subordonnée ou groupe prépositionnel",
+     "head": [
+      "Subordonnée",
+      "Groupe prépositionnel"
+     ],
+     "rows": [
+      [
+       "**Bien qu’il soit fatigué**, il travaille.",
+       "**Malgré sa fatigue**, il travaille."
+      ],
+      [
+       "**Quoiqu’il pleuve**, nous sortirons.",
+       "**Malgré la pluie**, nous sortirons."
+      ],
+      [
+       "**Même s’il est malade**, il vient.",
+       "**Même malade**, il vient."
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -234,6 +335,55 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au mode qui convient.",
+     "items": [
+      "Bien qu’il (être) malade, il vient.",
+      "Alors que tu (dormir), il travaillait.",
+      "Même s’il (pleuvoir), nous partirons.",
+      "Quoiqu’elle (avoir) peur, elle a parlé."
+     ],
+     "corrige": [
+      "1. soit (subjonctif)",
+      "2. dormais (indicatif imparfait)",
+      "3. pleut (indicatif présent)",
+      "4. ait (subjonctif)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme la subordonnée en groupe prépositionnel avec malgré.",
+     "items": [
+      "Bien qu’il fasse froid, nous sortons.",
+      "Quoiqu’il soit fatigué, il continue."
+     ],
+     "corrige": [
+      "1. Malgré le froid, nous sortons.",
+      "2. Malgré sa fatigue, il continue."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Opposition ou concession ?",
+     "items": [
+      "Il est riche tandis que son frère est pauvre.",
+      "Bien qu’il pleuve, nous sortons.",
+      "Il est discret ; en revanche, sa sœur parle beaucoup.",
+      "Il a échoué, pourtant il avait beaucoup travaillé."
+     ],
+     "corrige": [
+      "1. opposition",
+      "2. concession",
+      "3. opposition",
+      "4. concession"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -243,7 +393,9 @@
       "L’**opposition** met deux faits en contraste ; la **concession** exprime un obstacle sans effet.",
       "Mots : **mais, pourtant, cependant, malgré, bien que, quoique, même si, alors que**.",
       "**Bien que, quoique** + **subjonctif** ; **alors que, même si** + **indicatif**.",
-      "**Quoique** = bien que ; **quoi que** = quelle que soit la chose que."
+      "**Quoique** = bien que ; **quoi que** = quelle que soit la chose que.",
+      "**Opposition** : deux faits contraires (alors que, tandis que). **Concession** : un obstacle qui n’empêche pas (bien que, quoique, malgré).",
+      "Adverbes de liaison : **pourtant, cependant, néanmoins, toutefois, en revanche**."
      ]
     },
     {

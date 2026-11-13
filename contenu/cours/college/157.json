@@ -229,6 +229,84 @@
    ]
   },
   {
+   "t": "La négation : place des mots et sens",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Où placer la négation ?",
+     "head": [
+      "Cas",
+      "Place",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "temps simple",
+       "ne + verbe + pas",
+       "Il **ne** mange **pas**."
+      ],
+      [
+       "temps composé",
+       "ne + auxiliaire + pas + participe",
+       "Il **n’**a **pas** mangé."
+      ],
+      [
+       "infinitif",
+       "ne pas + infinitif",
+       "Il préfère **ne pas** partir."
+      ],
+      [
+       "personne, rien (complément)",
+       "ne + auxiliaire + participe + personne",
+       "Il **n’**a vu **personne**."
+      ],
+      [
+       "personne, rien (sujet)",
+       "personne ne + verbe",
+       "**Personne ne** vient."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne … que n’est pas une négation",
+     "text": "« Il **ne** mange **que** du riz » signifie « il mange **seulement** du riz ». C’est une restriction, non une négation."
+    }
+   ]
+  },
+  {
+   "t": "L’impératif : affirmatif et négatif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Transformer un ordre",
+     "head": [
+      "Impératif affirmatif",
+      "Impératif négatif"
+     ],
+     "rows": [
+      [
+       "Viens ici.",
+       "**Ne** viens **pas** ici."
+      ],
+      [
+       "Donne-le-moi.",
+       "**Ne** me le donne **pas**."
+      ],
+      [
+       "Parlons-en.",
+       "**N’**en parlons **pas**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Place des pronoms",
+     "text": "À l’affirmatif, les pronoms suivent le verbe (donne-le-moi). Au négatif, ils précèdent le verbe (ne me le donne pas)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -288,6 +366,72 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets à la forme négative.",
+     "items": [
+      "Il a vu quelqu’un.",
+      "Elle mange encore.",
+      "Tout est prêt.",
+      "Il a toujours raison.",
+      "Viens avec moi."
+     ],
+     "corrige": [
+      "1. Il n’a vu personne.",
+      "2. Elle ne mange plus.",
+      "3. Rien n’est prêt.",
+      "4. Il n’a jamais raison.",
+      "5. Ne viens pas avec moi."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrase interrogative.",
+     "items": [
+      "Tu viens demain.",
+      "Elle habite à Dolisie.",
+      "Il est parti hier."
+     ],
+     "corrige": [
+      "1. Viens-tu demain ? (ou Est-ce que tu viens demain ?)",
+      "2. Où habite-t-elle ?",
+      "3. Quand est-il parti ?"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme en phrase exclamative.",
+     "items": [
+      "Ce paysage est magnifique.",
+      "Il a beaucoup de chance.",
+      "Il fait beau."
+     ],
+     "corrige": [
+      "1. Comme ce paysage est magnifique !",
+      "2. Quelle chance il a !",
+      "3. Quel beau temps !"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : un petit dialogue",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris un dialogue de six répliques où apparaissent une phrase négative, une interrogative et une exclamative.",
+     "items": [
+      "Souligne chaque forme de phrase."
+     ],
+     "corrige": [
+      "Proposition : — Tu viens à la fête ? (interrogative) — Non, je **ne** peux **pas** venir. (négative) — Quel dommage ! (exclamative) — Je viendrai la prochaine fois. — **Ne** m’oublie **pas** ! — Promis."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -298,7 +442,9 @@
       "Après la négation, **du / de la / des** → **de**.",
       "**Ne … que** = restriction, pas négation.",
       "Interrogation **totale** : intonation, **est-ce que**, inversion ; **partielle** : mot interrogatif.",
-      "Exclamation : **quel, comme, que** + **!**"
+      "Exclamation : **quel, comme, que** + **!**",
+      "Temps composé : **n’ + auxiliaire + pas + participe**.",
+      "**Ne … que** = seulement : ce n’est pas une négation."
      ]
     },
     {

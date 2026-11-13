@@ -136,6 +136,125 @@
    ]
   },
   {
+   "t": "Les formes de l’impératif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Trois personnes seulement",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chante",
+       "chantons",
+       "chantez"
+      ],
+      [
+       "finir",
+       "finis",
+       "finissons",
+       "finissez"
+      ],
+      [
+       "être",
+       "sois",
+       "soyons",
+       "soyez"
+      ],
+      [
+       "avoir",
+       "aie",
+       "ayons",
+       "ayez"
+      ],
+      [
+       "savoir",
+       "sache",
+       "sachons",
+       "sachez"
+      ],
+      [
+       "vouloir",
+       "veuille",
+       "veuillons",
+       "veuillez"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pas de s à chante, mais un s dans vas-y",
+     "text": "Au 1er groupe, le « s » de la 2e personne disparaît : « chante ». Il revient devant « y » et « en » pour la liaison : « chantes-en », « vas-y »."
+    },
+    {
+     "type": "tip",
+     "label": "L’impératif poli",
+     "text": "« Veuillez » est une forme de politesse très employée : « **Veuillez** patienter », « **Veuillez** agréer mes salutations »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’impératif de « être » à la 2e personne du singulier ?",
+     "options": [
+      "es",
+      "sois",
+      "sois-tu",
+      "sera"
+     ],
+     "answer": 1,
+     "explain": "L’impératif de être est « sois », « soyons », « soyez »."
+    }
+   ]
+  },
+  {
+   "t": "Ordonner plus ou moins poliment",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Du plus brutal au plus poli",
+     "head": [
+      "Formule",
+      "Niveau"
+     ],
+     "rows": [
+      [
+       "Sors !",
+       "ordre direct (impératif)"
+      ],
+      [
+       "Sors, s’il te plaît.",
+       "ordre atténué par la politesse"
+      ],
+      [
+       "Veux-tu sortir ?",
+       "question qui exprime un ordre"
+      ],
+      [
+       "Pourrais-tu sortir ?",
+       "conditionnel de politesse"
+      ],
+      [
+       "Veuillez sortir.",
+       "ordre officiel et poli"
+      ],
+      [
+       "Sortir par la porte de gauche.",
+       "infinitif de consigne (panneau, notice)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Impératif ou infinitif ?",
+     "text": "Pour **un seul lecteur précis**, on emploie l’impératif (« bats les œufs »). Pour **un public large** ou une notice, on emploie l’infinitif (« battre les œufs »)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -185,6 +304,74 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets à l’impératif présent (2e personne du singulier).",
+     "items": [
+      "être sage",
+      "avoir du courage",
+      "savoir attendre",
+      "aller au marché",
+      "manger moins"
+     ],
+     "corrige": [
+      "1. Sois sage.",
+      "2. Aie du courage.",
+      "3. Sache attendre.",
+      "4. Va au marché.",
+      "5. Mange moins."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme les consignes à l’infinitif en impératif (vous).",
+     "items": [
+      "Battre les œufs.",
+      "Verser la farine.",
+      "Ne pas ouvrir la porte."
+     ],
+     "corrige": [
+      "1. Battez les œufs.",
+      "2. Versez la farine.",
+      "3. N’ouvrez pas la porte."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Quelle est la valeur de l’impératif ?",
+     "items": [
+      "Sors immédiatement !",
+      "Prenez un parapluie, il va pleuvoir.",
+      "Ne touche pas à ce fil.",
+      "Aide-moi, je t’en prie."
+     ],
+     "corrige": [
+      "1. ordre",
+      "2. conseil",
+      "3. défense",
+      "4. prière"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : des consignes",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris cinq consignes pour préparer un thé (recette) à l’infinitif, puis la première à l’impératif.",
+     "items": [
+      "Utilise un ordre précis (verser, attendre…)."
+     ],
+     "corrige": [
+      "Proposition : Faire bouillir l’eau. Verser l’eau sur le thé. Laisser infuser cinq minutes. Retirer les feuilles. Servir chaud. → Impératif : **Fais** bouillir l’eau."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -194,7 +381,9 @@
       "**Impératif** : ordre, conseil, défense, prière, souhait ; 3 personnes ; pas de sujet.",
       "1er groupe : **pas de s** à « tu » (chante), sauf devant **y** et **en** (vas-y).",
       "**Infinitif** : forme non conjuguée ; valeur de **nom**, de **consigne**, d’**interrogation**, d’**exclamation**.",
-      "Pronoms : **après** le verbe à l’impératif affirmatif, **avant** au négatif."
+      "Pronoms : **après** le verbe à l’impératif affirmatif, **avant** au négatif.",
+      "L’impératif n’a que **trois personnes** : tu, nous, vous.",
+      "**Être, avoir, savoir, vouloir** ont un impératif irrégulier : sois, aie, sache, veuille."
      ]
     },
     {

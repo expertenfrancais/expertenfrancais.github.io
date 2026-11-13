@@ -171,6 +171,128 @@
    ]
   },
   {
+   "t": "Comparer un nom, un verbe ou un adverbe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le comparatif ne concerne pas que les adjectifs : il peut porter sur un **adverbe**, un **nom** ou un **verbe**."
+    },
+    {
+     "type": "table",
+     "title": "Selon la nature du mot comparé",
+     "head": [
+      "Mot comparé",
+      "Supériorité",
+      "Égalité",
+      "Infériorité"
+     ],
+     "rows": [
+      [
+       "adjectif",
+       "plus grand que",
+       "aussi grand que",
+       "moins grand que"
+      ],
+      [
+       "adverbe",
+       "plus vite que",
+       "aussi vite que",
+       "moins vite que"
+      ],
+      [
+       "nom",
+       "plus **de** livres que",
+       "autant **de** livres que",
+       "moins **de** livres que"
+      ],
+      [
+       "verbe",
+       "travaille plus que",
+       "travaille autant que",
+       "travaille moins que"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "On dit « plus **de** livres que » (avec de), jamais « plus livres que ». Pour un verbe, il n’y a pas de mot entre plus/autant/moins et que."
+    }
+   ]
+  },
+  {
+   "t": "Le complément du comparatif et du superlatif",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Que, de, parmi",
+     "head": [
+      "Degré",
+      "Mot qui introduit le complément",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "comparatif",
+       "que",
+       "Awa est **plus** grande **que** Paul."
+      ],
+      [
+       "superlatif",
+       "de, parmi, entre",
+       "Awa est **la plus** grande **de** la classe."
+      ],
+      [
+       "superlatif",
+       "parmi",
+       "C’est **le meilleur parmi** mes amis."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Que ou de ?",
+     "text": "Après un **comparatif**, on utilise **que** ; après un **superlatif**, on utilise **de** ou **parmi**."
+    }
+   ]
+  },
+  {
+   "t": "Trop, assez, très, si, tellement",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les degrés absolus",
+     "head": [
+      "Adverbe",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "très",
+       "degré élevé",
+       "Il est **très** fort."
+      ],
+      [
+       "trop",
+       "excès",
+       "Il est **trop** fort pour moi."
+      ],
+      [
+       "assez",
+       "degré suffisant",
+       "Il est **assez** fort pour soulever ce sac."
+      ],
+      [
+       "si, tellement",
+       "degré élevé, souvent avec une conséquence",
+       "Il est **si** fort qu’il soulève un sac de ciment."
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -224,6 +346,55 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Construis un comparatif.",
+     "items": [
+      "Awa court vite. Paul court vite. (égalité)",
+      "Ce livre est bon. Ce film est moins bon. (supériorité pour le livre)",
+      "Il chante bien. Elle chante mieux. (supériorité pour elle)",
+      "Il a des cahiers. Elle a plus de cahiers. (supériorité pour elle)"
+     ],
+     "corrige": [
+      "1. Awa court **aussi vite que** Paul.",
+      "2. Ce livre est **meilleur que** ce film.",
+      "3. Elle chante **mieux que** lui.",
+      "4. Elle a **plus de cahiers que** lui."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Construis un superlatif.",
+     "items": [
+      "C’est un bon élève. (de la classe)",
+      "Cette rue est étroite. (du quartier)",
+      "Elle court vite. (de l’équipe)"
+     ],
+     "corrige": [
+      "1. C’est **le meilleur élève de** la classe.",
+      "2. C’est **la rue la plus étroite du** quartier.",
+      "3. Elle court **le plus vite de** l’équipe."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "Il est plus meilleur que moi.",
+      "Il a plus livres que moi.",
+      "Elle est la plus grande que ses amies."
+     ],
+     "corrige": [
+      "1. Il est **meilleur que** moi (pas de « plus meilleur »).",
+      "2. Il a plus **de** livres que moi.",
+      "3. Elle est la plus grande **de** ses amies."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -233,7 +404,9 @@
       "Le degré **absolu** exprime l’intensité sans comparaison : **très, fort, extrêmement…**",
       "Le degré **relatif** compare : **comparatif** (plus, aussi, moins … que) et **superlatif** (le plus, le moins … de).",
       "Formes particulières : **bon → meilleur**, **bien → mieux**, **mauvais → pire**, **petit → moindre**.",
-      "Pas de « plus meilleur » ni « plus mieux »."
+      "Pas de « plus meilleur » ni « plus mieux ».",
+      "Comparer un nom : **plus de / autant de / moins de** + nom + que.",
+      "Comparatif : **que**. Superlatif : **de, parmi**."
      ]
     },
     {
