@@ -1,0 +1,136 @@
+{
+ "id": 50010,
+ "meta": {
+  "t": "Programme APS 5e · Textes de lecture",
+  "k": "Programmes",
+  "n": "5e",
+  "m": "APS",
+  "img": "e",
+  "r": 4.8,
+  "pg": 10
+ },
+ "sections": [
+  {
+   "t": "Présentation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Textes de lecture à étudier en 5e.** Cette nomenclature donne, trimestre par trimestre, les textes de lecture à exploiter avec les élèves. Les notions de lecture et de compréhension (par exemple l’identification des indices de sens) se développent à partir de ces textes."
+    },
+    {
+     "type": "p",
+     "text": "**Ouvrage :** LA 5e EN FRANÇAIS, IPAM. Source : Inspection des collèges d’enseignement général, Direction des études, GAP Français, « La nouvelle nomenclature des textes de lecture à étudier »."
+    },
+    {
+     "type": "p",
+     "text": "Les pages indiquées renvoient à l’ouvrage. Le texte de chaque lecture sera ajouté progressivement."
+    }
+   ]
+  },
+  {
+   "t": "1er trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "1er trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "L’herboriste",
+       "Narratif",
+       "68-69"
+      ],
+      [
+       "2",
+       "Le Beach de Brazzaville",
+       "Descriptif",
+       "218-219"
+      ],
+      [
+       "3",
+       "Au pied du Nyirangongo",
+       "Informatif",
+       "94-95"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "2e trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "2e trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "Arrêtez Wangrin",
+       "Descriptif",
+       "36-37"
+      ],
+      [
+       "2",
+       "Chants de tristesse et de bonheur",
+       "Poésie",
+       "122-123"
+      ],
+      [
+       "3",
+       "MF5.1.2 Act. 4, livre programme Cf. La 5e en français",
+       "La lettre",
+       "103-104"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "3e trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "3e trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "Une marchande généreuse",
+       "Narratif",
+       "204-205"
+      ],
+      [
+       "2",
+       "MF5.1.2 Act. 4, livre programme Cf. La 5e en français",
+       "Recette de cuisine",
+       "93-94"
+      ],
+      [
+       "3",
+       "Dans le cyclone",
+       "Narratif",
+       "98-99"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

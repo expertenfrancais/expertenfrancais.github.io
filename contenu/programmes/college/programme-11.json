@@ -1,0 +1,136 @@
+{
+ "id": 50011,
+ "meta": {
+  "t": "Programme PPO 4e · Textes de lecture",
+  "k": "Programmes",
+  "n": "4e",
+  "m": "PPO",
+  "img": "e",
+  "r": 4.8,
+  "pg": 11
+ },
+ "sections": [
+  {
+   "t": "Présentation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Textes de lecture à étudier en 4e.** Cette nomenclature donne, trimestre par trimestre, les textes de lecture à exploiter avec les élèves. Les notions de lecture et de compréhension (par exemple l’identification des indices de sens) se développent à partir de ces textes."
+    },
+    {
+     "type": "p",
+     "text": "**Ouvrage :** LA 4e EN FRANÇAIS, IPAM. Source : Inspection des collèges d’enseignement général, Direction des études, GAP Français, « La nouvelle nomenclature des textes de lecture à étudier »."
+    },
+    {
+     "type": "p",
+     "text": "Les pages indiquées renvoient à l’ouvrage. Le texte de chaque lecture sera ajouté progressivement."
+    }
+   ]
+  },
+  {
+   "t": "1er trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "1er trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "À quoi sert le français ?",
+       "Narratif",
+       "10-11"
+      ],
+      [
+       "2",
+       "Conseils d’une mère à sa fille",
+       "Injonctif",
+       "166-167"
+      ],
+      [
+       "3",
+       "Les maîtres de la forêt",
+       "Explicatif",
+       "108-109"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "2e trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "2e trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "L’égalité des sexes",
+       "Argumentatif",
+       "126-127"
+      ],
+      [
+       "2",
+       "Images et textes : s’y retrouver",
+       "Iconographie",
+       "250-251"
+      ],
+      [
+       "3",
+       "S’installer chez un mari",
+       "Poésie",
+       "67"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "3e trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "3e trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "La parole est aux femmes",
+       "Argumentatif",
+       "186-187"
+      ],
+      [
+       "2",
+       "« Allô Meryem ? … »",
+       "Dialogue",
+       "27-28"
+      ],
+      [
+       "3",
+       "Pourquoi lit-on ?",
+       "Explicatif",
+       "18-19"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

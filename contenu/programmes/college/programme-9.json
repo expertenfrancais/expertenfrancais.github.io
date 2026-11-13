@@ -1,0 +1,136 @@
+{
+ "id": 50009,
+ "meta": {
+  "t": "Programme APS 6e · Textes de lecture",
+  "k": "Programmes",
+  "n": "6e",
+  "m": "APS",
+  "img": "e",
+  "r": 4.8,
+  "pg": 9
+ },
+ "sections": [
+  {
+   "t": "Présentation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Textes de lecture à étudier en 6e.** Cette nomenclature donne, trimestre par trimestre, les textes de lecture à exploiter avec les élèves. Les notions de lecture et de compréhension (par exemple l’identification des indices de sens) se développent à partir de ces textes."
+    },
+    {
+     "type": "p",
+     "text": "**Ouvrage :** LA 6e EN FRANÇAIS, IPAM. Source : Inspection des collèges d’enseignement général, Direction des études, GAP Français, « La nouvelle nomenclature des textes de lecture à étudier »."
+    },
+    {
+     "type": "p",
+     "text": "Les pages indiquées renvoient à l’ouvrage. Le texte de chaque lecture sera ajouté progressivement."
+    }
+   ]
+  },
+  {
+   "t": "1er trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "1er trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "Le mariage du 1er homme",
+       "Narratif",
+       "88-89"
+      ],
+      [
+       "2",
+       "Souvenirs d’école",
+       "Narratif",
+       "16-17"
+      ],
+      [
+       "3",
+       "Prière de la forêt",
+       "Poétique",
+       "2012-2013 [à vérifier]"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "2e trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "2e trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "La nouvelle maison",
+       "Descriptif",
+       "139-140"
+      ],
+      [
+       "2",
+       "Une dangereuse passerelle",
+       "Narratif",
+       "46-47"
+      ],
+      [
+       "3",
+       "Le fils du griot",
+       "Poétique",
+       "12-13"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "3e trimestre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "3e trimestre",
+     "head": [
+      "N°",
+      "Texte",
+      "Type de texte",
+      "Pages"
+     ],
+     "rows": [
+      [
+       "1",
+       "La déclaration des droits de l’enfant",
+       "Informatif",
+       "227"
+      ],
+      [
+       "2",
+       "Des visiteurs encombrants",
+       "Dialogue",
+       "166"
+      ],
+      [
+       "3",
+       "Prière d’un petit enfant nègre",
+       "Poétique",
+       "122-123"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
