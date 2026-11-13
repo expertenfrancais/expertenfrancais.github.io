@@ -1,0 +1,251 @@
+{
+ "id": 40049,
+ "meta": {
+  "t": "Devoir n° 49 : Les verbes pronominaux",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8,
+  "ev": 49
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Reconnaître un verbe pronominal (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si le verbe de chaque phrase est **pronominal** ou non. Justifie en une phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je me lève à six heures.",
+      "Paul lave la voiture.",
+      "Nous nous reposons.",
+      "Je lui téléphone."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Conjuguer au présent (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Conjugue chaque verbe pronominal au présent de l’indicatif. (1 pt par verbe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je (se réveiller) tôt.",
+      "Vous (se dépêcher).",
+      "Tu (s’habiller) vite.",
+      "Ils (se moquer) de lui."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Le passé composé (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets chaque phrase au passé composé. Pense à l’auxiliaire et à l’accord du participe passé. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il se lève tôt.",
+      "Elles s’habillent vite.",
+      "Fatou se repose.",
+      "Les enfants se baignent."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Les sortes de verbes pronominaux (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque verbe pronominal est **réfléchi**, **réciproque**, **essentiellement pronominal** ou **à sens passif**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Fatou se coiffe.",
+      "Les deux frères s’entraident.",
+      "Il s’enfuit.",
+      "Ce fruit se vend bien."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Négation, impératif et interrogation (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Transforme chaque phrase comme on te le demande. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il se lève tôt. → forme **négative** (ne… pas).",
+      "Tu te laves. → **impératif** affirmatif.",
+      "Vous vous dépêchez. → **impératif** négatif.",
+      "Tu te souviens de lui. → **interrogation** avec inversion du sujet."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Pronominal** : *me* désigne la même personne que le sujet *je*.",
+      "**Non pronominal** : il n’y a pas de pronom qui désigne le même être que le sujet.",
+      "**Pronominal** : *nous* (second pronom) désigne la même personne que le sujet *nous*.",
+      "**Non pronominal** : *lui* désigne une autre personne que le sujet *je*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je **me réveille** tôt.",
+      "Vous **vous dépêchez**.",
+      "Tu **t’habilles** vite (*te* devient *t’* devant une voyelle).",
+      "Ils **se moquent** de lui."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il **s’est levé** tôt.",
+      "Elles **se sont habillées** vite.",
+      "Fatou **s’est reposée**.",
+      "Les enfants **se sont baignés**."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Tous les verbes pronominaux se conjuguent avec l’auxiliaire **être** ; le participe passé s’accorde avec le sujet."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Réfléchi** : Fatou coiffe elle-même.",
+      "**Réciproque** : chacun aide l’autre (*l’un l’autre*).",
+      "**Essentiellement pronominal** : le verbe *s’enfuir* n’existe qu’à la forme pronominale.",
+      "**À sens passif** : le fruit est vendu (il subit l’action)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il **ne** se lève **pas** tôt.",
+      "Lave-**toi**. (le pronom se place après le verbe, *te* devient *toi*)",
+      "**Ne** vous dépêchez **pas**. (le pronom reste devant le verbe)",
+      "**Te souviens-tu** de lui ? (le pronom reste devant le verbe)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour reconnaître un verbe pronominal, vérifie que le pronom (*me, te, se, nous, vous*) désigne la même personne que le sujet. À l’infinitif, il commence par *se* ou *s’*."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Au passé composé, on dit « il s’est lavé » et jamais « il s’a lavé » : un verbe pronominal se conjugue toujours avec l’auxiliaire être."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Reconnaître un verbe pronominal",
+       "4"
+      ],
+      [
+       "2. Conjuguer au présent",
+       "4"
+      ],
+      [
+       "3. Le passé composé",
+       "4"
+      ],
+      [
+       "4. Les sortes de verbes pronominaux",
+       "4"
+      ],
+      [
+       "5. Négation, impératif et interrogation",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 3, retirer le point si l’auxiliaire *avoir* est employé ou si l’accord avec le sujet est oublié.",
+      "À l’exercice 5, exiger le trait d’union à l’impératif affirmatif et la forme *toi*.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "id": 40057,
+ "meta": {
+  "t": "Devoir n° 57 : Les termes génériques et spécifiques",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "f",
+  "r": 4.8,
+  "ev": 57
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Trouver le terme générique (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le terme générique qui regroupe les mots de chaque série. (1 pt par série)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "manguier, baobab, palmier",
+      "chaise, table, armoire",
+      "football, natation, basket",
+      "pirogue, bus, vélo"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Trouver des termes spécifiques (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Pour chaque terme générique, écris **deux** termes spécifiques. (0,5 pt par terme)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "légume",
+      "animal",
+      "instrument de musique",
+      "métier"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : L’intrus (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dans chaque série, recopie le mot qui n’appartient pas à la même catégorie que les autres. (1 pt par série)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "banane – ananas – chaise – orange",
+      "éléphant – girafe – crocodile – manioc",
+      "football – basket – bicyclette – tennis",
+      "maçon – instituteur – pêcheur – cahier"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Du plus général au plus précis (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Range chaque série de mots du plus général au plus précis. (2 pts par série)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "oiseau – perroquet – animal – être vivant",
+      "manguier – végétal – arbre"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Être plus précis (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Remplace le mot en gras par un terme spécifique pour rendre la phrase plus précise. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le pêcheur a attrapé un **poisson**.",
+      "Maman prépare un **légume**.",
+      "Mon oncle conduit un **véhicule**.",
+      "Elle porte un **bijou**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**arbre**",
+      "**meuble**",
+      "**sport**",
+      "**véhicule** (ou *moyen de transport*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "gombo, manioc (ou *carotte*, *tomate*)",
+      "lion, éléphant (ou *crocodile*, *perroquet*)",
+      "tam-tam, guitare (ou *flûte*, *balafon*)",
+      "maçon, infirmier (ou *pêcheur*, *instituteur*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**chaise** : ce n’est pas un fruit.",
+      "**manioc** : ce n’est pas un animal.",
+      "**bicyclette** : ce n’est pas un sport (c’est un véhicule).",
+      "**cahier** : ce n’est pas un métier."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "être vivant → animal → oiseau → perroquet",
+      "végétal → arbre → manguier"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Un mot comme *oiseau* est spécifique par rapport à *animal*, mais générique par rapport à *perroquet*."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le pêcheur a attrapé un **silure** (ou *capitaine*, *tilapia*).",
+      "Maman prépare du **gombo** (ou *des épinards*, *des aubergines*).",
+      "Mon oncle conduit un **camion** (ou *un taxi*, *une moto*).",
+      "Elle porte un **collier** (ou *un bracelet*, *une bague*)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour vérifier un couple de mots, utilise la phrase « Un(e) … est un(e) … » : *Une mangue est un fruit*. Le terme spécifique vient d’abord, le terme générique ensuite."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Un terme générique n’est pas un synonyme : *fruit* ne veut pas dire *mangue*. Et on ne dit pas « un animal est un perroquet », car tous les animaux ne sont pas des perroquets."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Trouver le terme générique",
+       "4"
+      ],
+      [
+       "2. Trouver des termes spécifiques",
+       "4"
+      ],
+      [
+       "3. L’intrus",
+       "4"
+      ],
+      [
+       "4. Du plus général au plus précis",
+       "4"
+      ],
+      [
+       "5. Être plus précis",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 2, accepter tout terme spécifique correct ; 0,5 point par terme.",
+      "À l’exercice 4, donner 2 points si l’ordre complet est exact, 1 point si une seule erreur d’ordre.",
+      "À l’exercice 5, le mot choisi doit appartenir à la bonne catégorie.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

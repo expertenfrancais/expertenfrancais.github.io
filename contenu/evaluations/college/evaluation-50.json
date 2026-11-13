@@ -1,0 +1,247 @@
+{
+ "id": 40050,
+ "meta": {
+  "t": "Devoir n° 50 : Les homonymes",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "g",
+  "r": 4.8,
+  "ev": 50
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Homophones ou homographes (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque couple de mots est formé d’**homophones** (même prononciation) ou d’**homographes** (même écriture). (1 pt par couple)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "mer / mère",
+      "avocat (le fruit) / avocat (le défenseur)",
+      "vert / verre",
+      "le poêle (chauffage) / la poêle (ustensile)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Choisir le bon homophone (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque phrase avec le mot qui convient : **sang, sans, cent, champ, chant**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est parti … ses lunettes.",
+      "Le … coule de sa blessure.",
+      "Il y a … élèves dans la cour.",
+      "Le … des oiseaux me réveille."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Le genre change le sens (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque phrase avec **le** ou **la**, puis dis ce que désigne le mot en gras. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "… **tour** de la cathédrale est très haute.",
+      "… **livre** de lecture est sur la table.",
+      "… **mousse** couvre le tronc de l’arbre.",
+      "… **mousse** du bateau nettoie le pont."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Corriger les erreurs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dans chaque phrase, un homophone est mal choisi. Recopie la phrase en la corrigeant. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le fermier laboure son chant.",
+      "Ma mer prépare le repas pour toute la famille.",
+      "Après ce repas gras, il a mal au foi.",
+      "Le poulet picore un vers de terre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Homonymes ou polysémie ? (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si les deux emplois du mot correspondent à deux **homonymes** (deux mots différents) ou à un seul mot **polysémique** (un mot à plusieurs sens liés). (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "avocat (fruit) / avocat (juriste)",
+      "feuille d’arbre / feuille de papier",
+      "voler (dans les airs) / voler (dérober)",
+      "le pied d’un homme / le pied d’une table"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Homophones** : même prononciation, orthographes différentes.",
+      "**Homographes** : même écriture (et même prononciation), sens différents.",
+      "**Homophones** : même prononciation, orthographes différentes.",
+      "**Homographes** : même écriture, seul le genre (*le* / *la*) change le sens."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est parti **sans** ses lunettes.",
+      "Le **sang** coule de sa blessure.",
+      "Il y a **cent** élèves dans la cour.",
+      "Le **chant** des oiseaux me réveille."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**La** tour : un bâtiment très haut.",
+      "**Le** livre : l’ouvrage que l’on lit.",
+      "**La** mousse : une plante verte qui pousse sur les troncs.",
+      "**Le** mousse : un jeune marin."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le fermier laboure son **champ**.",
+      "Ma **mère** prépare le repas pour toute la famille.",
+      "Après ce repas gras, il a mal au **foie**.",
+      "Le poulet picore un **ver** de terre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Homonymes** : deux mots sans rapport de sens, qui ont deux entrées dans le dictionnaire.",
+      "**Polysémie** : un seul mot ; la feuille de papier a la forme d’une feuille d’arbre.",
+      "**Homonymes** : deux mots différents, sans rapport de sens.",
+      "**Polysémie** : un seul mot ; le pied d’une table est comparé au pied d’un homme (il la porte)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour choisir le bon homophone, lis toute la phrase, remplace le mot par une définition ou cherche un mot de la même famille : *le vert* → *la verdure* ; *le ver* → *le vermisseau*."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne confonds pas homonymes et mots polysémiques : les homonymes sont des mots différents qui se ressemblent, un mot polysémique est un seul mot à plusieurs sens liés."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Homophones ou homographes",
+       "4"
+      ],
+      [
+       "2. Choisir le bon homophone",
+       "4"
+      ],
+      [
+       "3. Le genre change le sens",
+       "4"
+      ],
+      [
+       "4. Corriger les erreurs",
+       "4"
+      ],
+      [
+       "5. Homonymes ou polysémie ?",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 3, le point est donné si l’article et le sens sont tous deux corrects.",
+      "À l’exercice 4, ne donner le point que si l’homophone est correctement orthographié.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

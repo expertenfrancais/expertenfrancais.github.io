@@ -1,0 +1,248 @@
+{
+ "id": 40055,
+ "meta": {
+  "t": "Devoir n° 55 : La notion de verbe",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "ev": 55
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Relever le verbe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Relève le verbe conjugué de chaque phrase et donne son infinitif. (1 pt par phrase : 0,5 pour le verbe, 0,5 pour l’infinitif)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les élèves écoutent le maître.",
+      "Awa est contente.",
+      "Demain, nous visiterons le musée.",
+      "La pluie tombe depuis ce matin."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Verbe d’action ou verbe d’état (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si le verbe en gras est un **verbe d’action** ou un **verbe d’état**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les enfants **chantent** dans la cour.",
+      "Cette mangue **paraît** mûre.",
+      "Awa **reste** calme.",
+      "Moussa **ouvre** la fenêtre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Verbe ou nom ? (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si le mot en gras est un **verbe** ou un **nom**. Justifie ta réponse en une phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Awa **marche** vite.",
+      "La **marche** est longue.",
+      "Le **rire** de Paul est communicatif.",
+      "Les enfants **rient** dans la cour."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : La personne et le nombre (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne la personne et le nombre de chaque verbe conjugué. (1 pt par verbe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Tu lis.",
+      "Nous jouons.",
+      "Elles dorment.",
+      "On chante."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Le temps du verbe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si l’action est au **passé**, au **présent** ou au **futur**. Recopie le mot de la phrase qui t’aide. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Hier, ma tante a cuisiné du poisson.",
+      "Bientôt, nous visiterons Pointe-Noire.",
+      "Aujourd’hui, mon frère travaille au champ.",
+      "Autrefois, les femmes pilaient le manioc."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "*écoutent* → **écouter**",
+      "*est* → **être**",
+      "*visiterons* → **visiter**",
+      "*tombe* → **tomber**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Action** : *chantent* dit ce que font les enfants.",
+      "**État** : *paraît* relie le sujet à l’attribut *mûre* ; on peut dire *est mûre*.",
+      "**État** : *reste* peut être remplacé par *est* (*Awa est calme*).",
+      "**Action** : *ouvre* dit ce que fait Moussa."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Verbe** : il change avec le temps (*Awa marchait vite*).",
+      "**Nom** : il est précédé du déterminant *la*.",
+      "**Nom** : il est précédé du déterminant *le*.",
+      "**Verbe** : il se conjugue (*les enfants riaient*) ; son sujet est *les enfants*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "2ᵉ personne du **singulier**",
+      "1ʳᵉ personne du **pluriel**",
+      "3ᵉ personne du **pluriel**",
+      "3ᵉ personne du **singulier** (*on* est toujours à la 3ᵉ personne du singulier)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Passé** (*hier*).",
+      "**Futur** (*bientôt*).",
+      "**Présent** (*aujourd’hui*).",
+      "**Passé** (*autrefois*)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour trouver le verbe, change le temps de la phrase avec *hier* ou *demain* : le mot qui change est le verbe."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Certains mots peuvent être verbe ou nom : *marche*, *rire*. Un mot précédé d’un déterminant (*la marche*, *le rire*) est un nom."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Relever le verbe",
+       "4"
+      ],
+      [
+       "2. Verbe d’action ou verbe d’état",
+       "4"
+      ],
+      [
+       "3. Verbe ou nom ?",
+       "4"
+      ],
+      [
+       "4. La personne et le nombre",
+       "4"
+      ],
+      [
+       "5. Le temps du verbe",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 1, ne pas donner le point d’infinitif si le verbe relevé est faux.",
+      "À l’exercice 3, la justification doit s’appuyer sur le déterminant ou sur la conjugaison.",
+      "À l’exercice 5, exiger le mot repère.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

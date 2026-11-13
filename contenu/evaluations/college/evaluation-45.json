@@ -1,0 +1,248 @@
+{
+ "id": 40045,
+ "meta": {
+  "t": "Devoir n° 45 : Les antonymes",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "b",
+  "r": 4.8,
+  "ev": 45
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Trouver le contraire (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le contraire (l’antonyme) de chaque mot, en gardant la même nature. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "ouvrir",
+      "le courage",
+      "lourd",
+      "toujours"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Former un antonyme avec un préfixe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Forme l’antonyme de chaque mot en ajoutant un **préfixe** de sens négatif. Écris le mot obtenu. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "poli",
+      "logique",
+      "responsable",
+      "heureux"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Les sortes de contraires (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque couple de mots est formé de contraires **absolus**, **graduels** ou **réciproques**. (1 pt par couple)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "vivant / mort",
+      "prêter / emprunter",
+      "chaud / froid",
+      "grand / petit"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Plusieurs contraires pour un même mot (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dans chaque phrase, remplace le mot **dur** par un contraire qui convient au sens de la phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Ce lit est **dur**.",
+      "Ce travail est **dur**.",
+      "Le pain est **dur**.",
+      "Cet homme est **dur** avec ses enfants."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Réécriture (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Réécris la phrase en remplaçant chaque mot en gras par son contraire. (1 pt par mot)"
+    },
+    {
+     "type": "p",
+     "text": "Au **début** du film, le héros est **triste** et **seul** ; il **perd** tout."
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**fermer**",
+      "**la peur** (ou *la lâcheté*)",
+      "**léger**",
+      "**jamais**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**im**poli (devant p, on écrit *im-*)",
+      "**il**logique (devant l, on écrit *il-*)",
+      "**ir**responsable (devant r, on écrit *ir-*)",
+      "**mal**heureux (préfixe *mal-*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**absolus** : il n’y a rien entre les deux.",
+      "**réciproques** : l’un suppose l’autre (si je te prête, tu m’empruntes).",
+      "**graduels** : il existe des degrés entre les deux (*tiède*, *frais*).",
+      "**graduels** : il existe des degrés entre les deux (*moyen*)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Ce lit est **mou** (ou *moelleux*).",
+      "Ce travail est **facile** (ou *simple*).",
+      "Le pain est **frais** (ou *tendre*).",
+      "Cet homme est **doux** (ou *tendre*, *indulgent*) avec ses enfants."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "Au **début** → à la **fin** ; **triste** → **joyeux** (ou *heureux*) ; **seul** → **entouré** (ou *accompagné*) ; **perd** → **gagne**."
+    },
+    {
+     "type": "p",
+     "text": "Phrase réécrite : « À la fin du film, le héros est joyeux et entouré ; il gagne tout. »"
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour contrôler un préfixe, retire-le : s’il reste un mot qui existe et dont le sens est l’inverse, tu as bien formé un antonyme (*im-possible* → *possible*)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Un mot peut avoir plusieurs contraires : c’est le contexte qui décide. On dit « un lit mou », mais pas « un travail mou »."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Trouver le contraire",
+       "4"
+      ],
+      [
+       "2. Former un antonyme avec un préfixe",
+       "4"
+      ],
+      [
+       "3. Les sortes de contraires",
+       "4"
+      ],
+      [
+       "4. Plusieurs contraires pour un même mot",
+       "4"
+      ],
+      [
+       "5. Réécriture",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 1, accepter tout antonyme exact de même nature.",
+      "À l’exercice 2, retirer le point si le préfixe est mal choisi (*inpoli*, *inlogique*).",
+      "À l’exercice 4, vérifier que le contraire convient à la phrase.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

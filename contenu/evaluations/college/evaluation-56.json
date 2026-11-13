@@ -1,0 +1,248 @@
+{
+ "id": 40056,
+ "meta": {
+  "t": "Devoir n° 56 : Les temps simples",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "ev": 56
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Temps simple ou temps composé (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si le verbe de chaque phrase est à un **temps simple** ou à un **temps composé**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Awa chante une chanson.",
+      "Nous avons fini l’exercice.",
+      "Il a un livre.",
+      "Elle est arrivée hier."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Le présent de l’indicatif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Conjugue chaque verbe au présent de l’indicatif. (1 pt par verbe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "tu (chanter)",
+      "vous (finir)",
+      "ils (prendre)",
+      "nous (lancer)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : L’imparfait de l’indicatif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Conjugue chaque verbe à l’imparfait de l’indicatif. (1 pt par verbe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "vous (jouer)",
+      "ils (finir)",
+      "tu (être)",
+      "je (prendre)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Le passé simple et le futur simple (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Conjugue chaque verbe au temps demandé. (1 pt par verbe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "il (chanter) : passé simple",
+      "ils (finir) : passé simple",
+      "je (chanter) : futur simple",
+      "nous (aller) : futur simple"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Reconnaître le temps (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne le nom du temps simple du verbe en gras : **présent, imparfait, passé simple** ou **futur simple**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Autrefois, nous **allions** à la rivière chaque dimanche.",
+      "Soudain, la porte **s’ouvrit**.",
+      "Demain, il **prendra** le bus.",
+      "Chaque matin, je **prends** le bus."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Temps simple** : *chante* s’écrit en un seul mot (présent).",
+      "**Temps composé** : *avons fini* = auxiliaire *avoir* + participe passé (passé composé).",
+      "**Temps simple** : *a* est ici le verbe *avoir* au présent, pas un auxiliaire (aucun participe passé ne le suit).",
+      "**Temps composé** : *est arrivée* = auxiliaire *être* + participe passé."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "tu **chantes**",
+      "vous **finissez**",
+      "ils **prennent**",
+      "nous **lançons** (avec une cédille pour garder le son [s])"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "vous **jouiez**",
+      "ils **finissaient**",
+      "tu **étais**",
+      "je **prenais**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "il **chanta**",
+      "ils **finirent**",
+      "je **chanterai** (on garde le *r* de l’infinitif)",
+      "nous **irons** (radical particulier)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Imparfait** : il exprime une habitude passée (*autrefois*, terminaison *-ions*).",
+      "**Passé simple** : il exprime une action courte qui fait avancer le récit (*soudain*).",
+      "**Futur simple** : *demain* et la terminaison *-a* précédée du *r* de l’infinitif.",
+      "**Présent** : il exprime une habitude actuelle."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour reconnaître un temps simple, compte les mots du verbe : un seul mot (*il chantait*), c’est un temps simple ; deux mots avec un participe passé (*il a chanté*), c’est un temps composé."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne confonds pas *je chanterai* (futur, avec le *r* de l’infinitif) et *je chantais* (imparfait). Le futur contient toujours un *r* avant la terminaison."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Temps simple ou temps composé",
+       "4"
+      ],
+      [
+       "2. Le présent de l’indicatif",
+       "4"
+      ],
+      [
+       "3. L’imparfait de l’indicatif",
+       "4"
+      ],
+      [
+       "4. Le passé simple et le futur simple",
+       "4"
+      ],
+      [
+       "5. Reconnaître le temps",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 2, exiger la cédille de *nous lançons*.",
+      "À l’exercice 4, ne pas accepter *il chantera* pour le passé simple.",
+      "À l’exercice 5, ne donner le point que si le temps est bien nommé.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

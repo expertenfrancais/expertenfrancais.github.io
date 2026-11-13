@@ -1,0 +1,247 @@
+{
+ "id": 40048,
+ "meta": {
+  "t": "Devoir n° 48 : La phrase complexe",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "ev": 48
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Phrase simple ou phrase complexe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Compte les verbes conjugués de chaque phrase, puis dis si elle est **simple** ou **complexe**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les élèves rentrent à la maison après les cours.",
+      "Je veux partir avant la pluie.",
+      "Le vent se lève et les nuages arrivent.",
+      "Il a mangé, puis il est sorti."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Juxtaposition ou coordination (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si les propositions sont **juxtaposées** ou **coordonnées**. Donne le signe de ponctuation ou la conjonction qui les relie. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le soleil brille, les oiseaux chantent.",
+      "Tu viens avec nous ou tu restes ici.",
+      "Il a fini son travail ; il peut sortir.",
+      "Nous restons car il pleut."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Délimiter les propositions (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Sépare les propositions par des barres obliques, puis recopie la proposition subordonnée et le mot qui l’introduit. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je pense que tu as raison.",
+      "L’élève qui travaille réussit.",
+      "Nous sortons quand la pluie cesse.",
+      "Il crie pour que nous l’entendions."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Les sortes de subordonnées (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si la subordonnée en gras est une **relative**, une **complétive** ou une **circonstancielle**. Pour une circonstancielle, indique aussi ce qu’elle exprime (temps, cause, condition…). (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le livre **que tu m’as prêté** est passionnant.",
+      "Je crois **qu’il a raison**.",
+      "**Si tu viens**, nous jouerons.",
+      "Je reste ici **parce que j’ai froid**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Relier deux phrases (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Relie les phrases comme on te le demande. (1 pt par réponse)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "« Il pleut. Nous restons à la maison. » : relie-les par **juxtaposition**.",
+      "« Il pleut. Nous restons à la maison. » : relie-les par **coordination** avec *donc*.",
+      "« Il pleut. Nous restons à la maison. » : relie-les par **subordination** avec *parce que*.",
+      "« J’ai un ami. Mon ami habite à Dolisie. » : relie-les avec un **pronom relatif**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Un seul verbe conjugué (*rentrent*) : phrase **simple**.",
+      "Un seul verbe conjugué (*veux*) ; *partir* est à l’infinitif : phrase **simple**.",
+      "Deux verbes conjugués (*se lève*, *arrivent*) : phrase **complexe**.",
+      "Deux verbes conjugués (*a mangé*, *est sorti*, chacun à un temps composé) : phrase **complexe**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Juxtaposées** : elles sont reliées par la virgule.",
+      "**Coordonnées** : elles sont reliées par la conjonction *ou*.",
+      "**Juxtaposées** : elles sont reliées par le point-virgule.",
+      "**Coordonnées** : elles sont reliées par la conjonction *car*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Je pense / que tu as raison. Subordonnée : *que tu as raison* ; mot subordonnant : *que*.",
+      "L’élève / qui travaille / réussit. Subordonnée : *qui travaille* ; mot subordonnant : *qui* (pronom relatif).",
+      "Nous sortons / quand la pluie cesse. Subordonnée : *quand la pluie cesse* ; mot subordonnant : *quand*.",
+      "Il crie / pour que nous l’entendions. Subordonnée : *pour que nous l’entendions* ; mot subordonnant : *pour que*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Relative** : introduite par le pronom relatif *que*, elle complète le nom *livre*.",
+      "**Complétive** : introduite par la conjonction *que*, elle complète le verbe *crois*.",
+      "**Circonstancielle de condition** : introduite par *si*.",
+      "**Circonstancielle de cause** : introduite par *parce que*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il pleut, nous restons à la maison.",
+      "Il pleut, **donc** nous restons à la maison.",
+      "Nous restons à la maison **parce qu’**il pleut.",
+      "J’ai un ami **qui** habite à Dolisie."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour analyser une phrase complexe, entoure d’abord tous les verbes conjugués : autant de verbes, autant de propositions. Cherche ensuite le mot de liaison entre elles."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Un infinitif (*partir*) n’est pas un verbe conjugué : « Je veux partir » est une phrase simple. Un temps composé (*a mangé*) ne compte que pour un seul verbe."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Phrase simple ou phrase complexe",
+       "4"
+      ],
+      [
+       "2. Juxtaposition ou coordination",
+       "4"
+      ],
+      [
+       "3. Délimiter les propositions",
+       "4"
+      ],
+      [
+       "4. Les sortes de subordonnées",
+       "4"
+      ],
+      [
+       "5. Relier deux phrases",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 3, accepter la réponse si les barres sont bien placées et si la subordonnée est correctement relevée.",
+      "À l’exercice 5, accepter toute phrase correcte, même légèrement différente du corrigé.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

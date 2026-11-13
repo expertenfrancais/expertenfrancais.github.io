@@ -1,0 +1,247 @@
+{
+ "id": 40059,
+ "meta": {
+  "t": "Devoir n° 59 : Les homophones ce / se, ces / ses",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "h",
+  "r": 4.8,
+  "ev": 59
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : ce, cet ou se (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie chaque phrase en la complétant avec **ce, cet** ou **se (s’)**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "… cahier est à moi.",
+      "Les enfants … lavent les mains.",
+      "Elle … peigne devant le miroir.",
+      "… arbre est très haut."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : ces ou ses (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie chaque phrase en la complétant avec **ces** ou **ses**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Regarde … oiseaux, là-bas !",
+      "Le chien suit … maîtres partout.",
+      "Dans cette classe, … élèves travaillent bien.",
+      "Le chat lèche … pattes."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Les quatre homophones (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie chaque phrase en complétant tous les blancs avec **ce, se, ces** ou **ses**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le matin, Paul … lève et range … affaires.",
+      "Regarde … enfants : … sont mes cousins.",
+      "Elle … souvient de … voyage.",
+      "… élèves … lavent les mains avant … repas."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Corriger les erreurs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Chaque phrase contient **une** erreur. Recopie la phrase corrigée. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Se matin, il fait chaud.",
+      "Les élèves ce lavent les mains.",
+      "Il ce souvient de son voyage.",
+      "Regarde ses oiseaux, là-bas : ils chantent !"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Le test de remplacement (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Pour chaque phrase, écris le mot de remplacement qui confirme le choix du mot en gras, puis donne sa nature. (1 pt par phrase : 0,5 pour le remplacement, 0,5 pour la nature)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Paul **se** lave.",
+      "**Ces** élèves travaillent.",
+      "Paul range **ses** cahiers.",
+      "**Ce** garçon est grand."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Ce** cahier est à moi. (devant un nom masculin singulier : on peut dire *cette*)",
+      "Les enfants **se** lavent les mains. (*se* devant un verbe : on peut dire *me* ou *te*)",
+      "Elle **se** peigne devant le miroir.",
+      "**Cet** arbre est très haut. (devant une voyelle, *ce* devient *cet*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Regarde **ces** oiseaux, là-bas ! (*ces* montre plusieurs oiseaux ; au singulier : *cet oiseau*)",
+      "Le chien suit **ses** maîtres partout. (les maîtres *de lui* : on peut dire *mes*)",
+      "Dans cette classe, **ces** élèves travaillent bien. (*ces* désigne)",
+      "Le chat lèche **ses** pattes. (les pattes *de lui* : on peut dire *mes*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le matin, Paul **se** lève et range **ses** affaires.",
+      "Regarde **ces** enfants : **ce** sont mes cousins.",
+      "Elle **se** souvient de **ce** voyage.",
+      "**Ces** élèves **se** lavent les mains avant **ce** repas."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Ce** matin, il fait chaud.",
+      "Les élèves **se** lavent les mains.",
+      "Il **se** souvient de son voyage.",
+      "Regarde **ces** oiseaux, là-bas : ils chantent !"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "On peut dire *Je **me** lave* : *se* est un **pronom personnel**.",
+      "On peut dire *Cet élève travaille* : *ces* est un **déterminant démonstratif** pluriel.",
+      "On peut dire *Je range **mes** cahiers* : *ses* est un **déterminant possessif** pluriel.",
+      "On peut dire *Cette fille est grande* : *ce* est un **déterminant démonstratif** masculin singulier."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour choisir entre *ces* et *ses*, essaie *mes* : si la phrase reste correcte (*range mes cahiers*), écris *ses*. Pour *se*, essaie *me* ou *te*."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne confonds pas *ce* (déterminant devant un nom, ou pronom dans *ce sont*) et *se* (pronom devant un verbe) : *Ce garçon se lave.*"
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. ce, cet ou se",
+       "4"
+      ],
+      [
+       "2. ces ou ses",
+       "4"
+      ],
+      [
+       "3. Les quatre homophones",
+       "4"
+      ],
+      [
+       "4. Corriger les erreurs",
+       "4"
+      ],
+      [
+       "5. Le test de remplacement",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 3, ne donner le point que si tous les blancs de la phrase sont justes.",
+      "À l’exercice 5, accepter tout remplacement correct (*me* ou *te* pour *se* ; *cette*, *cet* ou *ce* pour *ces*).",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

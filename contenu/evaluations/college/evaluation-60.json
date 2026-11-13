@@ -1,0 +1,251 @@
+{
+ "id": 40060,
+ "meta": {
+  "t": "Devoir n° 60 : Le groupe nominal (déterminant, nom et complément du nom)",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ev": 60
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Analyser un groupe nominal (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Pour chaque groupe nominal, relève le **déterminant**, le **nom** (noyau) et le **complément du nom**. (1 pt par groupe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "la maison de mon grand-père",
+      "une table en bois",
+      "les habitants de ce village",
+      "mon cahier de français"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : La préposition du complément du nom (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque groupe nominal avec la préposition qui convient : **de, à, en** ou **pour**. (1 pt par groupe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "une chaise … bois",
+      "la chambre … ma sœur",
+      "une machine … laver",
+      "une salle … les fêtes"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Déterminant ou complément du nom (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si le mot ou le groupe de mots en gras est un **déterminant** ou un **complément du nom**. (1 pt par groupe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**mon** frère",
+      "le livre **de mon ami**",
+      "**cette** histoire",
+      "une robe **en coton**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Les sortes de déterminants (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne la sorte de chaque déterminant en gras : **article, possessif, démonstratif** ou **numéral**. (1 pt par groupe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**les** mangues",
+      "**mes** cahiers",
+      "**ces** fleurs",
+      "**trois** bananes"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Enrichir un groupe nominal (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Enrichis chaque groupe nominal en ajoutant un complément du nom introduit par une préposition. (1 pt par groupe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un sac",
+      "la porte",
+      "une boîte",
+      "un jus"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "déterminant : *la* ; nom : *maison* ; complément du nom : *de mon grand-père*",
+      "déterminant : *une* ; nom : *table* ; complément du nom : *en bois*",
+      "déterminant : *les* ; nom : *habitants* ; complément du nom : *de ce village*",
+      "déterminant : *mon* ; nom : *cahier* ; complément du nom : *de français*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "une chaise **en** bois (matière)",
+      "la chambre **de** ma sœur (appartenance)",
+      "une machine **à** laver (usage)",
+      "une salle **pour** les fêtes (but)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Déterminant** (possessif) : il est placé devant le nom.",
+      "**Complément du nom** : il est placé après le nom et précise *livre*.",
+      "**Déterminant** (démonstratif) : il est placé devant le nom.",
+      "**Complément du nom** : il est placé après le nom et indique la matière."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**article** (défini)",
+      "**possessif**",
+      "**démonstratif**",
+      "**numéral**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un sac **en cuir**",
+      "la porte **de la classe**",
+      "une boîte **à outils**",
+      "un jus **de fruits**"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour analyser un groupe nominal, cherche d’abord le nom, puis le déterminant placé devant lui, puis le complément du nom placé après lui."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Dans « mon frère », *mon* est un déterminant, pas un complément du nom : le complément du nom vient toujours après le nom."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Analyser un groupe nominal",
+       "4"
+      ],
+      [
+       "2. La préposition du complément du nom",
+       "4"
+      ],
+      [
+       "3. Déterminant ou complément du nom",
+       "4"
+      ],
+      [
+       "4. Les sortes de déterminants",
+       "4"
+      ],
+      [
+       "5. Enrichir un groupe nominal",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 1, ne donner le point que si les trois éléments sont corrects.",
+      "À l’exercice 5, accepter tout complément du nom correct, introduit par une préposition.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

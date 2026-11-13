@@ -1,0 +1,248 @@
+{
+ "id": 40053,
+ "meta": {
+  "t": "Devoir n° 53 : La coordination, la juxtaposition et la subordination",
+  "k": "Évaluations",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "ev": 53
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Identifier le lien entre les propositions (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si les propositions de chaque phrase sont reliées par **juxtaposition**, **coordination** ou **subordination**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le jour se lève, les oiseaux chantent.",
+      "Il est petit mais fort.",
+      "Nous sortirons quand la pluie cessera.",
+      "Il n’a pas répondu : il dormait."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Conjonction de coordination ou adverbe de liaison (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Relève le mot de liaison de chaque phrase et dis s’il s’agit d’une **conjonction de coordination** ou d’un **adverbe de liaison**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est malade, mais il vient à l’école.",
+      "Il est malade ; cependant il vient à l’école.",
+      "Il ne mange ni ne boit.",
+      "Elle a étudié ; ensuite elle est sortie."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : La nature des subordonnées (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si la subordonnée en gras est une **relative**, une **complétive**, une **interrogative indirecte** ou une **circonstancielle**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "L’enfant **dont tu parles** est mon voisin.",
+      "Je sais **que tu viendras**.",
+      "Je me demande **où il habite**.",
+      "Il reste à la maison **parce qu’il est malade**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : La valeur des subordonnées circonstancielles (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis ce qu’exprime chaque subordonnée circonstancielle en gras : **temps, cause, conséquence, but** ou **condition**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Il est **si fatigué qu’il s’endort aussitôt**.",
+      "**Lorsque la cloche sonne**, les élèves rentrent.",
+      "**Comme il pleut**, nous annulons la sortie.",
+      "Il court **afin qu’on ne le rattrape pas**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Le mode du verbe dans la subordonnée (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris le verbe entre parenthèses au mode et au temps qui conviennent. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Nous restons jusqu’à ce que la pluie (cesser).",
+      "Bien qu’il (être) malade, il vient.",
+      "Si j’(avoir) plus de temps, je lirais davantage.",
+      "Je sors parce qu’il (faire) beau."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Juxtaposition** : les propositions sont reliées par la virgule, sans mot de liaison.",
+      "**Coordination** : la conjonction *mais* relie deux éléments de même rang.",
+      "**Subordination** : *quand la pluie cessera* dépend de la proposition principale.",
+      "**Juxtaposition** : les propositions sont reliées par les deux-points ; ils suggèrent ici la cause."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "*mais* : conjonction de coordination (elle est fixe).",
+      "*cependant* : adverbe de liaison (on peut le déplacer : « Il est malade ; il vient cependant à l’école »).",
+      "*ni* : conjonction de coordination.",
+      "*ensuite* : adverbe de liaison (mobile)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Relative** : introduite par le pronom relatif *dont*, elle complète le nom *enfant*.",
+      "**Complétive** : introduite par la conjonction *que*, elle est COD du verbe *sais*.",
+      "**Interrogative indirecte** : introduite par le mot interrogatif *où*, elle est COD de *demande*.",
+      "**Circonstancielle** : introduite par la conjonction *parce que*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Conséquence** : *si… que* indique le résultat.",
+      "**Temps** : *lorsque* répond à la question *quand ?*",
+      "**Cause** : *comme* répond à la question *pourquoi ?*",
+      "**But** : *afin que* répond à la question *dans quel but ?*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Nous restons jusqu’à ce que la pluie **cesse** (subjonctif présent après *jusqu’à ce que*).",
+      "Bien qu’il **soit** malade, il vient (subjonctif présent après *bien que*).",
+      "Si j’**avais** plus de temps, je lirais davantage (imparfait après *si*, conditionnel dans la principale).",
+      "Je sors parce qu’il **fait** beau (indicatif présent après *parce que*)."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour trouver la valeur d’une circonstancielle, pose la question au verbe de la principale : *quand ?* (temps), *pourquoi ?* (cause), *dans quel but ?* (but), *à quelle condition ?* (condition)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Après *si* de condition, on n’emploie jamais le conditionnel : on dit « Si j’avais le temps, je lirais », et non « Si j’aurais le temps »."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Identifier le lien entre les propositions",
+       "4"
+      ],
+      [
+       "2. Conjonction de coordination ou adverbe de liaison",
+       "4"
+      ],
+      [
+       "3. La nature des subordonnées",
+       "4"
+      ],
+      [
+       "4. La valeur des subordonnées circonstancielles",
+       "4"
+      ],
+      [
+       "5. Le mode du verbe dans la subordonnée",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 2, accepter la justification par la mobilité du mot de liaison.",
+      "À l’exercice 4, ne donner le point que si la valeur est correctement identifiée.",
+      "À l’exercice 5, la forme verbale doit être juste pour accorder le point.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

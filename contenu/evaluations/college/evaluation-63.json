@@ -1,0 +1,247 @@
+{
+ "id": 40063,
+ "meta": {
+  "t": "Devoir n° 63 : La proposition indépendante",
+  "k": "Évaluations",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "ev": 63
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Compter les propositions (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Compte les verbes conjugués de chaque phrase et indique le nombre de propositions. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Awa veut partir.",
+      "Il pleut et nous restons à la maison.",
+      "Elle a chanté, elle a dansé et elle a ri.",
+      "Awa mange du riz, du poisson et des bananes."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Indépendante ou subordonnée (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si la proposition en gras est **indépendante** ou **subordonnée**. Justifie en une phrase. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Il fait beau**, nous sortons.",
+      "Nous sortons **parce qu’il fait beau**.",
+      "Je sais **que tu as raison**.",
+      "Il voulait sortir, **mais il pleuvait**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Le type des propositions indépendantes (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne le type de chaque proposition indépendante : **déclarative, interrogative, impérative** ou **exclamative**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Fermez la porte, s’il vous plaît.",
+      "Viendras-tu demain ?",
+      "Comme ce paysage est beau !",
+      "Le marché ouvre à sept heures."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Juxtaposition ou coordination (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si les propositions indépendantes sont **juxtaposées** ou **coordonnées**. Relève le signe de ponctuation ou le mot qui les relie. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le vent souffle, les feuilles tombent.",
+      "Awa est contente : elle a réussi son examen.",
+      "Il est fatigué, donc il se repose.",
+      "Je voulais sortir, mais il pleuvait."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Les conjonctions de coordination (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque phrase avec la conjonction de coordination qui convient : **ni, car, donc, or**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Nous avons faim, … nous allons manger.",
+      "Il voulait venir ; … il était malade.",
+      "Il ne chante … ne danse.",
+      "Je reste à la maison, … il fait froid."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**1 proposition** : seul *veut* est conjugué ; *partir* est un infinitif.",
+      "**2 propositions** : *pleut* et *restons*.",
+      "**3 propositions** : *a chanté*, *a dansé*, *a ri* (chaque temps composé compte pour un seul verbe).",
+      "**1 proposition** : un seul verbe conjugué ; *du riz, du poisson et des bananes* est une énumération de compléments."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Indépendante** : elle a un sens complet et ne dépend d’aucune autre.",
+      "**Subordonnée** : elle est introduite par *parce que* et ne peut pas rester seule.",
+      "**Subordonnée** : elle est introduite par *que* et complète le verbe *sais*.",
+      "**Indépendante** : *mais* relie les deux propositions sans les faire dépendre l’une de l’autre."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Impérative** : elle exprime une demande, un ordre poli.",
+      "**Interrogative** : elle pose une question.",
+      "**Exclamative** : elle exprime un sentiment avec le mot exclamatif *comme*.",
+      "**Déclarative** : elle donne une information."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Juxtaposées** : la virgule.",
+      "**Juxtaposées** : les deux-points (ils expriment ici la cause).",
+      "**Coordonnées** : *donc* (conséquence).",
+      "**Coordonnées** : *mais* (opposition)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Nous avons faim, **donc** nous allons manger. (conséquence)",
+      "Il voulait venir ; **or** il était malade. (fait nouveau qui amène une conclusion)",
+      "Il ne chante **ni** ne danse. (négation)",
+      "Je reste à la maison, **car** il fait froid. (cause)"
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Isole la proposition : si elle reste une phrase correcte (*Awa chante*), elle est indépendante ; si elle reste incomplète (*qu’il vienne*, *parce qu’il pleut*), elle est subordonnée."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Une proposition introduite par *et, mais, ou, donc, car* reste indépendante : ces mots relient les propositions sans les faire dépendre. En revanche, *parce que* introduit une subordonnée."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Compter les propositions",
+       "4"
+      ],
+      [
+       "2. Indépendante ou subordonnée",
+       "4"
+      ],
+      [
+       "3. Le type des propositions indépendantes",
+       "4"
+      ],
+      [
+       "4. Juxtaposition ou coordination",
+       "4"
+      ],
+      [
+       "5. Les conjonctions de coordination",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 2, exiger une justification pour accorder le point.",
+      "À l’exercice 4, ne donner le point que si le type de lien et le mot ou le signe relevés sont justes.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

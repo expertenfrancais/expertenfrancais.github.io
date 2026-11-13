@@ -1,0 +1,256 @@
+{
+ "id": 40061,
+ "meta": {
+  "t": "Devoir n° 61 : La dérivation",
+  "k": "Évaluations",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "b",
+  "r": 4.8,
+  "ev": 61
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Radical, préfixe et suffixe (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Décompose chaque mot : donne son **radical** et son **préfixe** ou son **suffixe**. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "relire",
+      "chanteur",
+      "surcharger",
+      "maisonnette"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Former des mots dérivés (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque phrase avec un mot dérivé du mot entre parenthèses. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Mon voisin est un bon … . (danser)",
+      "Ce fruit est … . (manger)",
+      "Le … de la voiture a duré une heure. (laver)",
+      "Awa est très … . (joie)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Les familles de mots (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dans chaque série, recopie le mot qui n’appartient pas à la même famille que les autres. (1 pt par série)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "fleur – fleuriste – fleurir – flou",
+      "sel – salière – saler – salle",
+      "vert – verdure – verdir – verre",
+      "lait – laitier – laiteux – laid"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Changer la classe d’un mot (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Forme, avec un suffixe, le mot dérivé demandé. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "blanc → un verbe",
+      "courage → un adjectif",
+      "beau → un nom",
+      "danser → un nom de personne"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : La dérivation impropre (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis à quelle classe appartient le mot en gras dans la phrase, puis à quelle classe il appartenait à l’origine. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le **sourire** d’Awa éclaire son visage.",
+      "Elle chante **juste**.",
+      "Un **malade** attend le docteur.",
+      "Le **déjeuner** est servi."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "préfixe : *re-* ; radical : *lire*",
+      "radical : *chant-* ; suffixe : *-eur*",
+      "préfixe : *sur-* ; radical : *charger*",
+      "radical : *maison* ; suffixe : *-ette*"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "p",
+     "text": "Réponses attendues :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Mon voisin est un bon **danseur**.",
+      "Ce fruit est **mangeable**.",
+      "Le **lavage** de la voiture a duré une heure.",
+      "Awa est très **joyeuse**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**flou** : il n’a pas le radical *fleur-*.",
+      "**salle** : il n’a pas le radical *sel* / *sal-* ; il n’a aucun rapport de sens avec le sel.",
+      "**verre** : il n’a pas de rapport de sens avec la couleur *vert*.",
+      "**laid** : il n’a pas de rapport de sens avec le *lait*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "blanc → **blanchir**",
+      "courage → **courageux**",
+      "beau → **beauté**",
+      "danser → **danseur** (ou *danseuse*)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Nom** ; à l’origine, un **verbe** (*sourire*).",
+      "**Adverbe** ; à l’origine, un **adjectif** (*juste*).",
+      "**Nom** ; à l’origine, un **adjectif** (*malade*).",
+      "**Nom** ; à l’origine, un **verbe** (*déjeuner*)."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ce changement de classe sans préfixe ni suffixe s’appelle la **dérivation impropre**."
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Un préfixe ne change pas la classe du mot (*faire* → *défaire*, verbe) ; un suffixe peut la changer (*chanter* → *chanteur*, verbe devenu nom)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Deux mots qui se ressemblent ne sont pas toujours de la même famille : *vert* et *verre*, *lait* et *laid*. Il faut aussi que le sens soit proche."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Radical, préfixe et suffixe",
+       "4"
+      ],
+      [
+       "2. Former des mots dérivés",
+       "4"
+      ],
+      [
+       "3. Les familles de mots",
+       "4"
+      ],
+      [
+       "4. Changer la classe d’un mot",
+       "4"
+      ],
+      [
+       "5. La dérivation impropre",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 1, ne donner le point que si le radical et l’élément ajouté sont corrects.",
+      "À l’exercice 2, accepter tout dérivé correct du mot donné.",
+      "À l’exercice 5, exiger les deux classes pour accorder le point.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

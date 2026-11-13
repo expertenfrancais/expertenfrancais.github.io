@@ -1,0 +1,252 @@
+{
+ "id": 40054,
+ "meta": {
+  "t": "Devoir n° 54 : La phrase déclarative",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "ev": 54
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Reconnaître le type de phrase (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque phrase est **déclarative**, **interrogative**, **impérative** ou **exclamative**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Nous habitons à Brazzaville.",
+      "Veux-tu du manioc ?",
+      "Ferme la fenêtre.",
+      "Quelle belle journée !"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : À quoi sert la phrase déclarative ? (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis ce que fait chaque phrase déclarative : elle sert à **informer**, à **raconter**, à **décrire** ou à **donner son avis**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Hier, ma sœur a vendu des mangues au marché.",
+      "Le village est calme et les cases sont blanches.",
+      "Je trouve ce poème magnifique.",
+      "Le fleuve Congo sépare Brazzaville de Kinshasa."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : La forme négative (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Mets chaque phrase à la forme négative avec la négation demandée. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le chat dort. (ne… pas)",
+      "Il habite ici. (ne… plus)",
+      "Elle pleure. (ne… jamais)",
+      "Tu dis quelque chose. (ne… rien)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Remettre les mots dans l’ordre (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Remets les mots dans l’ordre pour écrire une phrase déclarative. Pense à la majuscule et au point. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "vend / Maman / des mangues / au marché",
+      "jouent / dans la cour / les enfants",
+      "une chanson / La petite fille / chante",
+      "achète / du pain / Mon père / à la boulangerie"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Transformer une phrase déclarative (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Transforme la phrase « Tu fermes la porte. » comme on te le demande. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "en phrase **interrogative** avec *est-ce que*",
+      "en phrase **impérative**",
+      "en phrase **exclamative** avec *comme*",
+      "à la **forme négative**"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Déclarative** : elle donne une information ; on peut répondre « c’est vrai » ou « c’est faux ».",
+      "**Interrogative** : elle pose une question.",
+      "**Impérative** : elle donne un ordre, même si elle se termine par un point.",
+      "**Exclamative** : elle exprime un sentiment, avec le mot exclamatif *quelle* et un point d’exclamation."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Elle **raconte** un fait passé.",
+      "Elle **décrit** un lieu.",
+      "Elle **donne un avis**.",
+      "Elle **informe** : elle apporte un renseignement."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le chat **ne** dort **pas**.",
+      "Il **n’**habite **plus** ici. (*ne* devient *n’* devant une voyelle)",
+      "Elle **ne** pleure **jamais**.",
+      "Tu **ne** dis **rien**."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "p",
+     "text": "Réponses possibles (le complément circonstanciel peut être déplacé en début de phrase, avec une virgule) :"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Maman vend des mangues au marché.",
+      "Les enfants jouent dans la cour.",
+      "La petite fille chante une chanson.",
+      "Mon père achète du pain à la boulangerie."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Est-ce que** tu fermes la porte **?**",
+      "Ferme la porte.",
+      "**Comme** tu fermes bien la porte **!**",
+      "Tu **ne** fermes **pas** la porte."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour reconnaître une phrase déclarative, demande-toi si l’on peut répondre « c’est vrai » ou « c’est faux ». À l’oral, la voix descend à la fin de la phrase."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Une phrase qui se termine par un point n’est pas toujours déclarative : « Ferme la fenêtre. » est un ordre. C’est le sens de la phrase qui décide."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Reconnaître le type de phrase",
+       "4"
+      ],
+      [
+       "2. À quoi sert la phrase déclarative ?",
+       "4"
+      ],
+      [
+       "3. La forme négative",
+       "4"
+      ],
+      [
+       "4. Remettre les mots dans l’ordre",
+       "4"
+      ],
+      [
+       "5. Transformer une phrase déclarative",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 3, exiger les deux mots de la négation autour du verbe et *n’* devant une voyelle.",
+      "À l’exercice 4, accepter le déplacement du complément circonstanciel s’il est suivi d’une virgule.",
+      "À l’exercice 5, accepter toute exclamative correcte avec *comme*.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

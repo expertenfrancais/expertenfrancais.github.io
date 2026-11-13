@@ -1,0 +1,247 @@
+{
+ "id": 40051,
+ "meta": {
+  "t": "Devoir n° 51 : La composition",
+  "k": "Évaluations",
+  "n": "4e",
+  "m": "Vocabulaire",
+  "img": "h",
+  "r": 4.8,
+  "ev": 51
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Composition ou dérivation (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si chaque mot est formé par **composition** ou par **dérivation**. Justifie en une phrase. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "porte-clés",
+      "impossible",
+      "tire-bouchon",
+      "chanteur"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : L’écriture des mots composés (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Chaque groupe de mots est un mot composé mal écrit. Recopie-le correctement (trait d’union, mot soudé ou plusieurs mots). (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un tire bouchon",
+      "un rouge gorge",
+      "un passe port",
+      "une pomme-de-terre"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : La nature des mots composés (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Pour chaque mot composé, donne la nature de ses deux éléments. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "timbre-poste",
+      "rouge-gorge",
+      "lave-linge",
+      "sans-abri"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Le pluriel des mots composés (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris chaque mot composé au pluriel. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un chou-fleur",
+      "un grand-père",
+      "un sous-sol",
+      "un tire-bouchon"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : La composition savante (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Décompose chaque mot en ses deux éléments grecs ou latins et donne le sens de chacun, puis explique le sens du mot. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "téléphone",
+      "biologie",
+      "géographie",
+      "microphone"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Composition** : deux mots qui existent seuls (*porte* + *clés*).",
+      "**Dérivation** : le préfixe *im-* est ajouté au mot *possible* ; un préfixe ne s’emploie pas seul.",
+      "**Composition** : deux mots qui existent seuls (*tire* + *bouchon*).",
+      "**Dérivation** : le suffixe *-eur* est ajouté au radical *chant-*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "un **tire-bouchon** (avec un trait d’union)",
+      "un **rouge-gorge** (avec un trait d’union)",
+      "un **passeport** (en un seul mot)",
+      "une **pomme de terre** (en trois mots, sans trait d’union)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**nom + nom**",
+      "**adjectif + nom**",
+      "**verbe + nom**",
+      "**préposition + nom**"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "des **choux-fleurs** (nom + nom : les deux varient)",
+      "des **grands-pères** (adjectif + nom : les deux varient)",
+      "des **sous-sols** (préposition invariable ; le nom varie)",
+      "des **tire-bouchons** (le verbe reste invariable ; le nom prend un *s* : un tire-bouchon sert à tirer des bouchons)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "*télé-* (loin) + *-phone* (voix, son) : instrument qui transmet la voix au loin.",
+      "*bio-* (vie) + *-logie* (étude) : étude de la vie.",
+      "*géo-* (terre) + *-graphie* (écrire, décrire) : description de la Terre.",
+      "*micro-* (petit) + *-phone* (voix, son) : appareil qui amplifie les sons."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour distinguer composition et dérivation, vérifie si l’élément ajouté peut s’employer seul : *porte* et *clés* sont des mots ; *im-* et *-eur* n’en sont pas."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Rien ne dit à l’avance comment s’écrit un mot composé : *porte-monnaie* prend un trait d’union, *portemanteau* est soudé. En cas de doute, on consulte le dictionnaire."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Composition ou dérivation",
+       "4"
+      ],
+      [
+       "2. L’écriture des mots composés",
+       "4"
+      ],
+      [
+       "3. La nature des mots composés",
+       "4"
+      ],
+      [
+       "4. Le pluriel des mots composés",
+       "4"
+      ],
+      [
+       "5. La composition savante",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 3, ne donner le point que si les deux natures sont justes.",
+      "À l’exercice 5, accepter toute explication du sens cohérente avec les éléments.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

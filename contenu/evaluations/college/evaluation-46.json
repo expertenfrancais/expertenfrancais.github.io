@@ -1,0 +1,247 @@
+{
+ "id": 40046,
+ "meta": {
+  "t": "Devoir n° 46 : Les consonnes doubles",
+  "k": "Évaluations",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "c",
+  "r": 4.8,
+  "ev": 46
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 45 minutes. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Compléter avec la consonne double (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie chaque mot en le complétant avec la consonne double qui convient. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "a…laudir",
+      "a…ueillir",
+      "o…rir",
+      "a…aire"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Les exceptions (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dans chaque série, écris le mot correctement orthographié. (1 pt par série)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "apercevoir / appercevoir",
+      "apeler / appeler",
+      "aprendre / apprendre",
+      "apaiser / appaiser"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : Les préfixes négatifs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque mot avec le préfixe qui convient : **il-, im-, ir-, inn-** ou **in-**. (1 pt par mot)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "…légal",
+      "…parfait",
+      "…réel",
+      "…ocent"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Les verbes en -eler et -eter (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Conjugue chaque verbe au présent de l’indicatif. (1 pt par verbe)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Elle (appeler) le médecin.",
+      "Ils (jeter) les papiers.",
+      "Nous (jeter) les papiers.",
+      "J’(acheter) du pain."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Corriger les erreurs (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Chaque phrase contient **une** faute sur une consonne double. Recopie la phrase en la corrigeant. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les enfants atendent le bus devant l’école.",
+      "Awa aporte un beau cadeau à sa mère.",
+      "Le professeur entre dans la clase.",
+      "Fatou a fait un gros éfort pour réussir."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "a**pp**laudir",
+      "a**cc**ueillir",
+      "o**ff**rir",
+      "a**ff**aire"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**apercevoir** (exception : un seul p)",
+      "**appeler** (début en *app-*)",
+      "**apprendre** (début en *app-*)",
+      "**apaiser** (exception : un seul p)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**il**légal (devant l)",
+      "**im**parfait (devant p)",
+      "**ir**réel (devant r)",
+      "**inn**ocent (devant n)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Elle appe**ll**e le médecin (la terminaison est muette : on double le l).",
+      "Ils je**tt**ent les papiers (terminaison muette : on double le t).",
+      "Nous jetons les papiers (la terminaison se prononce : pas de doublement).",
+      "J’ach**è**te du pain (acheter prend un accent grave, pas de doublement)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les enfants a**tt**endent le bus devant l’école.",
+      "Awa a**pp**orte un beau cadeau à sa mère.",
+      "Le professeur entre dans la cla**ss**e.",
+      "Fatou a fait un gros e**ff**ort pour réussir."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour retenir une consonne double, pense au préfixe (*ap-, ac-, af-*), à la famille du mot (*pomme → pommier*) ou au féminin (*chien → chienne*)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Les exceptions sont à connaître par cœur : *apercevoir*, *apaiser*, *apitoyer* s’écrivent avec un seul p, comme *afin* avec un seul f."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Compléter avec la consonne double",
+       "4"
+      ],
+      [
+       "2. Les exceptions",
+       "4"
+      ],
+      [
+       "3. Les préfixes négatifs",
+       "4"
+      ],
+      [
+       "4. Les verbes en -eler et -eter",
+       "4"
+      ],
+      [
+       "5. Corriger les erreurs",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 5, ne donner le point que si la phrase est recopiée sans autre faute.",
+      "Ne pas accepter *aperler* ni toute graphie sans la consonne double demandée.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "id": 40052,
+ "meta": {
+  "t": "Devoir n° 52 : La proposition subordonnée relative",
+  "k": "Évaluations",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "ev": 52
+ },
+ "sections": [
+  {
+   "t": "Énoncé de l’évaluation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Durée : 1 heure. Total : 20 points.** Écris proprement ; chaque exercice se fait sur la copie."
+    },
+    {
+     "type": "h",
+     "text": "Exercice 1 : Relever la relative et son antécédent (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Recopie la proposition subordonnée relative de chaque phrase et donne son antécédent. (1 pt par phrase : 0,5 pour la relative, 0,5 pour l’antécédent)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "J’admire l’artiste qui a peint ce tableau.",
+      "Le film dont tu parles passe ce soir.",
+      "Voici la maison où nous avons grandi.",
+      "Les fruits que nous avons cueillis sont mûrs."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2 : Choisir le pronom relatif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Complète chaque phrase avec le pronom relatif qui convient : **qui, que (qu’), dont** ou **où**. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le garçon … tu parles est mon cousin.",
+      "La femme … sourit est ma tante.",
+      "Le film … nous avons vu hier est drôle.",
+      "La ville … il est né est loin d’ici."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3 : La fonction du pronom relatif (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Donne la fonction du pronom relatif en gras dans la proposition relative. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les élèves **qui** ont triché seront punis.",
+      "La lettre **qu’**Awa a écrite est longue.",
+      "Le stylo **dont** je me sers est neuf.",
+      "Le jour **où** il est arrivé, il pleuvait."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4 : Les accords (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Écris correctement le verbe entre parenthèses. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "C’est moi qui (avoir) raison.",
+      "Les enfants qui (jouer) dans la cour sont heureux.",
+      "Les chansons que nous avons (chanter) étaient belles.",
+      "La lettre que Fatou a (écrire) est longue."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5 : Relative déterminative ou explicative (4 points)"
+    },
+    {
+     "type": "p",
+     "text": "Dis si la proposition subordonnée relative en gras est **déterminative** ou **explicative**. Justifie par la ponctuation ou par la suppression. (1 pt par phrase)"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Les élèves **qui ont réussi** sont félicités.",
+      "Mon oncle, **qui habite à Pointe-Noire**, viendra demain.",
+      "Brazzaville, **qui est la capitale de la République du Congo**, est située sur le fleuve.",
+      "Le fruit **que tu m’as donné** est délicieux."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Corrigé détaillé",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Exercice 1"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Relative : *qui a peint ce tableau* ; antécédent : *artiste*.",
+      "Relative : *dont tu parles* ; antécédent : *film*.",
+      "Relative : *où nous avons grandi* ; antécédent : *maison*.",
+      "Relative : *que nous avons cueillis* ; antécédent : *fruits*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 2"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "Le garçon **dont** tu parles est mon cousin. (*parler de* : complément introduit par *de*)",
+      "La femme **qui** sourit est ma tante. (*qui* est sujet de *sourit* : on peut dire *elle sourit*)",
+      "Le film **que** (ou **qu’**) nous avons vu hier est drôle. (*que* est COD de *avons vu*)",
+      "La ville **où** il est né est loin d’ici. (complément circonstanciel de lieu)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 3"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Sujet** de *ont triché*.",
+      "**COD** de *a écrite* (on remet l’antécédent : Awa a écrit la lettre).",
+      "**Complément introduit par de** (*je me sers de ce stylo*).",
+      "**Complément circonstanciel de temps** de *est arrivé*."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 4"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "C’est moi qui **ai** raison. (après *qui*, le verbe s’accorde avec l’antécédent *moi* : 1re personne)",
+      "Les enfants qui **jouent** dans la cour sont heureux. (antécédent *enfants* : 3e personne du pluriel)",
+      "Les chansons que nous avons **chantées** étaient belles. (le COD *que* = *chansons* est placé avant le verbe : accord au féminin pluriel)",
+      "La lettre que Fatou a **écrite** est longue. (COD *que* = *lettre* placé avant : accord au féminin singulier)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Exercice 5"
+    },
+    {
+     "type": "list",
+     "ordered": true,
+     "items": [
+      "**Déterminative** : pas de virgule ; elle précise de quels élèves on parle, on ne peut pas la supprimer sans changer le sens.",
+      "**Explicative** : entre virgules ; elle ajoute une information, on peut la supprimer.",
+      "**Explicative** : entre virgules ; l’information est supplémentaire.",
+      "**Déterminative** : pas de virgule ; elle précise de quel fruit on parle."
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Pour trouver la fonction du pronom relatif, remets l’antécédent à sa place dans la relative : *Le livre que je lis* → *je lis le livre* : le pronom est COD."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Une virgule peut changer le sens : « Les élèves qui ont triché seront punis » ne concerne que certains élèves ; « Les élèves, qui ont triché, seront punis » concerne toute la classe."
+    }
+   ]
+  },
+  {
+   "t": "Barème et grille de correction",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Répartition des points",
+     "head": [
+      "Exercice",
+      "Points"
+     ],
+     "rows": [
+      [
+       "1. Relever la relative et son antécédent",
+       "4"
+      ],
+      [
+       "2. Choisir le pronom relatif",
+       "4"
+      ],
+      [
+       "3. La fonction du pronom relatif",
+       "4"
+      ],
+      [
+       "4. Les accords",
+       "4"
+      ],
+      [
+       "5. Relative déterminative ou explicative",
+       "4"
+      ],
+      [
+       "Total",
+       "20"
+      ]
+     ]
+    },
+    {
+     "type": "retenir",
+     "label": "Conseils au correcteur",
+     "items": [
+      "Accorder 1 point par bonne réponse dans chaque exercice.",
+      "À l’exercice 1, donner 0,5 point pour la relative et 0,5 point pour l’antécédent.",
+      "À l’exercice 4, exiger l’accord correct pour accorder le point.",
+      "À l’exercice 5, la justification doit s’appuyer sur la ponctuation ou sur la suppression.",
+      "Retirer 0,5 point maximum pour une copie mal présentée."
+     ]
+    }
+   ]
+  }
+ ]
+}
