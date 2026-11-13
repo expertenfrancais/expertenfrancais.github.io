@@ -14,6 +14,7 @@ function ph(x,label){return x&&String(x).trim()?f(x):'<span class="f-ph">['+e(la
 function fmtDate(v){var m=/^(\d{4})-(\d{2})-(\d{2})$/.exec(v||"");return m?m[3]+"/"+m[2]+"/"+m[1]:(v||"")}
 function dots(v,n){return v&&String(v).trim()?e(v):(n||"......")}
 function steps(j){return arr(j.etapes)}
+function isAPS(j){return !!j&&j.approche==="APS"}
 function nbEtapes(j){return steps(j).length}
 /* Étapes réservées aux abonnés : à partir de l’étape numéro lockFrom (0 = la première). 1e9 = rien n’est verrouillé. lockHref = page où l’on envoie le non-abonné. */
 var lockFrom=1e9,lockHref="";
@@ -21,6 +22,7 @@ function lockIco(n){return typeof ico==="function"&&window.IC&&IC.lock?ico("lock
 
 /* ----- en-tête ----- */
 function head(j,v,edit){
+ if(isAPS(j))return headAPS(j,v,edit);
  var h=j.entete||{},v2=v||{},lec=/lecture/i.test(h.sousDiscipline||"");
  function it(l,x){return'<div><small>'+e(l)+'</small><b>'+x+'</b></div>'}
  var c1=it("Niveau d’études",f(h.niveau))+it("Discipline",f(h.discipline))+it("Sous-discipline",f(h.sousDiscipline))+
@@ -94,6 +96,7 @@ function tableHTML(j){
 
 /* ----- les trois parties ----- */
 function prof(j,v,mode){
+ if(isAPS(j))return profAPS(j,v,mode);
  var edit=mode==="edit",h=head(j,v,edit);
  if(edit)h+=fill(v);
  h+=oo(j);
@@ -101,6 +104,7 @@ function prof(j,v,mode){
  h+='<div class="f-tablewrap">'+tableHTML(j)+'</div>';
  return h}
 function apprenant(j,v){
+ if(isAPS(j))return apprenantAPS(j,v);
  var a=j.apprenant||{},h=j.entete||{};
  var left='<section class="f-card"><div class="f-adate"><span>Date : '+dots(fmtDate((v||{}).date),"........")+'</span><span>'+f(h.discipline)+' – '+f(h.sousDiscipline)+'</span></div><h1>'+f(a.titre||h.titre)+'</h1>'+(a.intro?'<p class="f-intro">'+f(a.intro)+'</p>':"")+'</section>';
  left+='<section class="f-card"><h2>Je lis les phrases</h2><ol class="f-corpus">'+arr(a.corpus).map(function(x){return"<li>"+f(x)+"</li>"}).join("")+'</ol></section>';
@@ -114,9 +118,78 @@ function apprenant(j,v){
   return'<section class="f-card f-exo"><div class="f-exh"><span class="f-lab" style="background:var(--fp);color:#fff;border-radius:14px;padding:3px 11px;font-size:12px;font-weight:700">'+f(lab)+'</span><span>'+arr(x.items).length+' items</span></div><p>'+f(txt)+'</p><ol>'+arr(x.items).map(function(i){return"<li>"+f(i)+"</li>"}).join("")+'</ol>'+(x.rappel?'<div class="f-seuil">'+f(x.rappel)+'</div>':"")+'</section>'}).join("");
  return'<div class="f-app"><div>'+left+'</div><div>'+right+'</div></div>'}
 function corrige(j){
+ if(isAPS(j))return corrigeAPS(j);
  var ev=null;steps(j).forEach(function(s){(s.sousEtapes||[s]).forEach(function(x){if(x.evaluation)ev=x.evaluation})});
  var h='<section class="f-card f-corr"><h2>Corrigé enseignant</h2><ul style="margin:0;padding:0 0 0 18px">'+arr(j.corrige).map(function(x){return"<li>"+f(x)+"</li>"}).join("")+'</ul></section>';
  if(ev)h+='<section class="f-card"><h2>Évaluation de l’étape V</h2><div class="f-evb">'+evalHTML(ev)+'</div></section>';
+ return h}
+
+
+/* ===== Fiches APS (Approche par les situations) : format décrit dans contenu/SPEC-FICHES.md, § « Fiches APS » =====
+   En-tête (informations pédagogiques + informations pratiques), tableau à 2 colonnes (Actions de l’enseignant | Activités des apprenants),
+   5 étapes, page de l’apprenant (trace écrite par blocs + exercices) et corrigé. Aucune donnée enregistrée. */
+function headAPS(j,v,edit){
+ var h=j.entete||{},v2=v||{};
+ function it(l,x){return'<div><small>'+e(l)+'</small><b>'+x+'</b></div>'}
+ var cse=(h.codeMatrice?e(h.codeMatrice)+" · ":"")+ph(h.categorie,"Catégorie des savoirs essentiels");
+ var c1=it("Titre de la fiche",f(h.titre))+it("Catégorie des savoirs essentiels",cse)+it("Savoir essentiel",ph(h.savoirEssentiel,"Savoir essentiel"))+
+  it("Compétence",ph(h.competence,"Compétence"))+it("Situation d’apprentissage",ph(h.situation,"Situation d’apprentissage"));
+ var c2=it("Date",edit?'<span id="vD">'+dots(fmtDate(v2.date),"...............")+'</span>':dots(fmtDate(v2.date),"..............."))+it("Durée",f(h.duree))+it("Discipline",f(h.discipline))+it("Classe",f(h.niveau))+
+  it("Support",ph(h.support,"Support"))+it("Documentation",ph(h.documentation,"Documentation"));
+ return'<section class="f-card"><h2>En-tête de la fiche · Approche par les situations</h2><div class="f-hd f-wide f-hd2"><div class="f-hcol">'+c1+'</div><div class="f-hcol">'+c2+'</div></div></section>'}
+function fillAPS(v){v=v||{};
+ return'<section class="f-fill"><h3>À compléter avant la séance</h3><p>Ce champ n’est pas enregistré : il sert à l’impression.</p><label for="iD">Date de la séance</label><input id="iD" type="date" value="'+e(v.date||"")+'"></section>'}
+function cellAPS(x,label){
+ var t=x==null?"":String(x),h="";
+ return lines(t).map(function(l){return"<p>"+f(l)+"</p>"}).join("")}
+function boardAPS(t){return t&&String(t).trim()?'<div class="f-bd"><b>Texte au tableau :</b>'+lines(t).map(function(l){return"<p>"+f(l)+"</p>"}).join("")+'</div>':""}
+function stepsAPS(j){return arr(j.etapes)}
+function cardAPS(s,i){
+ var r=roman(s.titre);
+ if(i>=lockFrom)return'<a class="f-step f-locked" href="'+lockHref+'"><span class="f-num">'+e(r.n)+'</span><span class="f-st"><b>'+f(r.t)+'</b><small>Réservé aux abonnés · S’abonner</small></span><span class="f-lkic">'+lockIco(18)+'</span></a>';
+ var body=arr(s.lignes).map(function(l){
+  return'<div class="f-ln"><div class="f-ens"><b class="f-k">Enseignant</b>'+cellAPS(l.ens)+boardAPS(l.texte)+'</div><div class="f-apr"><b class="f-k">Apprenants</b>'+cellAPS(l.app)+'</div></div>'}).join("");
+ return'<details class="f-step"'+(i===0?" open":"")+'><summary><span class="f-num">'+e(r.n)+'</span><span class="f-st"><b>'+f(r.t)+'</b><small>'+arr(s.lignes).length+' temps de travail</small></span></summary><div class="f-sbody">'+body+'</div></details>'}
+function tableAPS(j){
+ var h='<div class="f-tabscroll"><table class="f-tab f-aps"><thead><tr><th class="c-e2">Actions de l’enseignant</th><th class="c-a2">Activités des apprenants</th></tr></thead><tbody>';
+ stepsAPS(j).forEach(function(s,i){
+  var r=roman(s.titre);
+  h+='<tr class="f-ivh"><td colspan="2">'+e(r.n)+' – '+f(r.t)+'</td></tr>';
+  if(i>=lockFrom){h+='<tr class="f-lockrow"><td colspan="2"><a href="'+lockHref+'"><span class="f-lkic">'+lockIco(16)+'</span>Réservé aux abonnés. <u>S’abonner</u></a></td></tr>';return}
+  arr(s.lignes).forEach(function(l){
+   h+='<tr><td>'+cellAPS(l.ens)+boardAPS(l.texte)+'</td><td>'+cellAPS(l.app)+'</td></tr>'})});
+ return h+'</tbody></table></div>'}
+function profAPS(j,v,mode){
+ var edit=mode==="edit",h=headAPS(j,v,edit);
+ if(edit)h+=fillAPS(v);
+ if(edit)h+='<div class="f-cards"><h3 class="f-h3">Déroulement · '+stepsAPS(j).length+' étapes</h3>'+stepsAPS(j).map(cardAPS).join("")+'</div>';
+ h+='<div class="f-tablewrap">'+tableAPS(j)+'</div>';
+ return h}
+function blocsAPS(B){
+ var main="",ret="";
+ arr(B).forEach(function(b){
+  var t=b.type;
+  if(t==="h")main+='<h3 class="f-bh">'+f(b.text)+'</h3>';
+  else if(t==="def")main+='<div class="f-def"><b>Définition</b><p>'+f(b.text)+'</p></div>';
+  else if(t==="p")main+=para(b.text);
+  else if(t==="list")main+='<ul class="f-bl">'+arr(b.items).map(function(x){return"<li>"+f(x)+"</li>"}).join("")+'</ul>';
+  else if(t==="ex")main+='<div class="f-ex1"><b>Exemple :</b> '+f(b.text)+'</div>';
+  else if(t==="nb")main+='<div class="f-nb"><b>N.B. :</b> '+f(b.text)+'</div>';
+  else if(t==="texte")main+='<div class="f-board"><b class="f-k">'+f(b.titre||"Texte")+'</b>'+lines(b.text).map(function(l){return"<p>"+f(l)+"</p>"}).join("")+'</div>';
+  else if(t==="tableau"&&arr(b.head).length)main+='<div class="f-tabscroll"><table class="f-syn"><thead><tr>'+b.head.map(function(x){return"<th>"+f(x)+"</th>"}).join("")+'</tr></thead><tbody>'+arr(b.rows).map(function(r){return"<tr>"+r.map(function(x){return"<td>"+f(x)+"</td>"}).join("")+"</tr>"}).join("")+'</tbody></table></div>';
+  else if(t==="retenir")ret+='<section class="f-ret"><span class="f-lab" style="background:var(--fgreent)">À retenir</span><ul>'+arr(b.items).map(function(x){return"<li>"+f(x)+"</li>"}).join("")+'</ul></section>'});
+ return{main:main,ret:ret}}
+function apprenantAPS(j,v){
+ var a=j.apprenant||{},h=j.entete||{},B=blocsAPS(a.blocs);
+ var left='<section class="f-card"><div class="f-adate"><span>Date : '+dots(fmtDate((v||{}).date),"........")+'</span><span>'+f(h.discipline)+' – '+f(h.sousDiscipline)+'</span></div><h1>'+f(a.titre||h.savoirEssentiel||h.titre)+'</h1>'+B.main+'</section>'+B.ret;
+ var right=arr(a.exercices).map(function(x){
+  var m=/^(Exercice\s*\d+)\s*:\s*(.*)$/i.exec(x.enonce||""),lab=m?m[1]:"Exercice",txt=m?m[2]:x.enonce;
+  return'<section class="f-card f-exo"><div class="f-exh"><span class="f-lab" style="background:var(--fp);color:#fff;border-radius:14px;padding:3px 11px;font-size:12px;font-weight:700">'+f(lab)+'</span>'+(arr(x.items).length?'<span>'+arr(x.items).length+' items</span>':"")+'</div><p>'+f(txt)+'</p>'+(x.texte?'<div class="f-board">'+lines(x.texte).map(function(l){return"<p>"+f(l)+"</p>"}).join("")+'</div>':"")+(arr(x.items).length?'<ol>'+arr(x.items).map(function(i){return"<li>"+f(i)+"</li>"}).join("")+'</ol>':"")+(x.rappel?'<div class="f-seuil">'+f(x.rappel)+'</div>':"")+'</section>'}).join("");
+ return'<div class="f-app"><div>'+left+'</div><div>'+right+'</div></div>'}
+function corrigeAPS(j){
+ var ev=null;stepsAPS(j).forEach(function(s){if(s.evaluation)ev=s.evaluation});
+ var h='<section class="f-card f-corr"><h2>Corrigé enseignant</h2><ul style="margin:0;padding:0 0 0 18px">'+arr(j.corrige).map(function(x){return"<li>"+f(x)+"</li>"}).join("")+'</ul></section>';
+ if(ev)h+='<section class="f-card"><h2>Évaluation de l’étape 5</h2><div class="f-evb"><p><b>Item :</b> '+f(ev.item)+'</p>'+(ev.situation?'<p><b>Situation d’évaluation :</b> '+f(ev.situation)+'</p>':"")+(arr(ev.criteres).length?'<p><b>Ce qu’on observe :</b></p><ol>'+ev.criteres.map(function(x){return"<li>"+f(x)+"</li>"}).join("")+'</ol>':"")+(ev.bareme?'<div class="f-cle"><p><b>Barème :</b> '+f(ev.bareme)+'</p></div>':"")+'</div></section>';
  return h}
 
 /* ----- écran fiche.html ----- */

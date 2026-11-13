@@ -1,5 +1,7 @@
 # GUIDE DES FICHES PÉDAGOGIQUES : à lire avec GUIDE-IA.md pour tout ce qui concerne les fiches pédagogiques
 
+> **Deux approches, deux types de fiches (v237).** **PPO** (pédagogie par les objectifs : 4e et 3e) : sections 1 à 9 ci-dessous (tableau à 6 colonnes, O.O). **APS** (approche par les situations : **6e et 5e**) : voir la **section 10 en fin de document** (tableau à 2 colonnes, 5 étapes, situation d’apprentissage et tableau de spécification repris du programme). Ne jamais mélanger les deux : une fiche APS n’a ni O.O, ni étapes Motivation / Contrat pédagogique, ni colonnes Temps et Observ. Une fiche APS porte `"approche":"APS"` dans le JSON et `"ap":"APS"` dans `meta`.
+
 Application « Expert en français » (PWA : HTML + JavaScript, sans framework, sans serveur).
 Ce guide **complète** `GUIDE-IA.md` : toutes ses règles restent valables (ne pas parcourir tout le projet, remplacements ciblés, JavaScript simple compatible vieux téléphones, aucune bibliothèque, ne pas éditer à la main `cours/`, `fiches/`, `sitemap.xml`, `robots.txt`, ne pas toucher aux clés `localStorage` existantes).
 
@@ -17,7 +19,7 @@ Le modèle de référence est celui fourni par le propriétaire (4 exemples : 6e
 
 Les règles de la méthode (pédagogie par les objectifs : O.O, démarche, colonnes, items d’évaluation) viennent des explications du propriétaire, résumées au **§ 9**. Elles ont **priorité** sur les habitudes de l’IA.
 
-**Accès (v160)** : dans la fiche du professeur, l’en-tête et les deux premières étapes (I et II) sont gratuits ; les étapes suivantes (III, IV, V), la page de l’apprenant, le corrigé et le PDF sont réservés aux abonnés (clic sur une étape verrouillée = redirection vers `abonnement.html`, ou vers la connexion ; réglages `FICHES_LIBRES` et `FICHES_VERROU` dans `data.js`, voir `PROJET.md`). Ce sont des fiches PPO (la description le précise) ; les futures fiches APS suivront le même principe. Les fiches fn 2 à 11 sont des fiches de test aux contenus factices.
+**Accès (v160)** : dans la fiche du professeur, l’en-tête et les deux premières étapes (I et II) sont gratuits ; les étapes suivantes (III, IV, V), la page de l’apprenant, le corrigé et le PDF sont réservés aux abonnés (clic sur une étape verrouillée = redirection vers `abonnement.html`, ou vers la connexion ; réglages `FICHES_LIBRES` et `FICHES_VERROU` dans `data.js`, voir `PROJET.md`). Ce sont des fiches PPO (la description le précise) ; les fiches APS suivent le même principe d’accès (en-tête et étapes 1 et 2 gratuits ; étapes 3 à 5, page de l’apprenant, corrigé et PDF réservés aux abonnés). Les fiches fn 2 à 11 sont des fiches de test aux contenus factices.
 
 ## 2. RÔLE DE L’IA
 
@@ -316,4 +318,66 @@ Règles du format : `**gras**` et `*italique*` seulement ; guillemets « » et a
 **Démarche selon la sous-discipline :** orthographe et grammaire : imprégnation, fixation, synthèse, puis évaluation. Lecture compréhension : démarche propre (voir § 3) avec discussion socioculturelle.
 
 **Vocabulaire :** item = une question, un exercice ou un problème ; épreuve = ensemble d’items ; examen = ensemble d’épreuves.
+
+## 10. FICHES APS (6e et 5e) : approche par les situations
+
+Cette section s’applique **uniquement** aux fiches de **6e et de 5e** (programme APS). Les fiches de 4e et de 3e restent PPO (sections 1 à 9). L’environnement APS est en place depuis la v237 (affichage, PDF, validateur, outil de lecture des matrices) : on ne refait pas la PHASE 0, on passe directement à la création de la fiche.
+
+### 10.1 Où trouver les informations officielles (ne rien inventer)
+
+Tout est déjà dans le projet : le guide pédagogique APS contient, pour chaque catégorie de savoirs essentiels, la **compétence**, la **situation d’apprentissage**, le **tableau de spécification** (actions de l’élève), l’**exemple d’item d’évaluation**, les **prérequis** et les suggestions. Au lieu d’ouvrir les gros fichiers `programme-2.json` (6e) et `programme-4.json` (5e), lancer :
+
+```
+node outils/matrice-aps.js 5e --liste                 (codes des matrices : MF5.1.1, MF5.1.2…)
+node outils/matrice-aps.js 5e MF5.1.1                 (la matrice complète)
+node outils/matrice-aps.js 5e --repartition MF5.1.1   (mois, semaine, savoir essentiel, durée de la répartition annuelle)
+```
+(6e : remplacer `5e` par `6e` et `MF5` par `MF6`.) Une matrice peut couvrir **plusieurs savoirs essentiels** (une activité du tableau de spécification par savoir essentiel) : une fiche = **un** savoir essentiel = **une** activité du tableau. La **durée** vient de la répartition annuelle. Si une information manque, la demander : ne jamais la fabriquer, ne jamais la présenter comme officielle.
+
+### 10.2 Structure d’une fiche APS (trois parties)
+
+1. **En-tête** (deux colonnes à l’écran) : titre de la fiche (« Fiche d’exploitation de la matrice MF5.1.1 : … »), catégorie des savoirs essentiels, savoir essentiel, **compétence (mot pour mot, vérifiée par le validateur)**, situation d’apprentissage ; puis date (modifiable avant impression, non enregistrée), durée, discipline, classe, support, documentation (seulement ce que le propriétaire donne).
+2. **Corps** : tableau à **2 colonnes** « Actions de l’enseignant » | « Activités des apprenants », en **5 étapes**, dans cet ordre : **1-Vérification des prérequis**, **2-Décodage de la situation d’apprentissage**, **3-Exploitation du tableau de spécification**, **4-Synthèse**, **5-Évaluation**. Pas de colonne Temps ni Observ.
+3. **Page de l’apprenant** (trace écrite + exercices) et **corrigé enseignant**.
+
+### 10.3 Règles de chaque étape
+
+- **1-Vérification des prérequis** : 2 à 3 questions courtes sur des notions déjà étudiées (celles du guide pédagogique), reliées à la nouvelle notion, sans l’enseigner à l’avance.
+- **2-Décodage** : l’enseignant présente la situation, la fait lire, puis pose **au minimum 3 questions** (Q1 thème : « De quoi parle-t-on ? » ; Q2 difficulté : « Quelle difficulté rencontre le personnage ? » ; Q3 démarche : « Que fait le personnage pour la résoudre ? »), puis fait formuler le besoin d’apprentissage. Pas de cours magistral.
+- **3-Exploitation du tableau de spécification** : étape principale. Recopier dans `specification` les actions de l’activité choisie, **mot pour mot et dans l’ordre**, puis créer pour **chaque** action une ligne (consigne de l’enseignant, activité ou réponse attendue des apprenants), avec `"a": n°` de l’action. **Aucune action supprimée, aucun changement d’ordre.** On peut ajouter, sans `a`, des lignes d’organisation (sous-groupes, rapporteur) ou de pratique (lecture magistrale, entraînement). **Dernière action** (verbe de production : « Lire à haute voix… », « Exécuter la lecture… », etc.) : si elle sert d’évaluation, la déclarer par `evaluation.action` à l’étape 5 et ne **pas** la mettre à l’étape 3. Ne jamais donner la réponse avant que les apprenants la cherchent.
+- **4-Synthèse** : questions courtes (Qu’avons-nous étudié ? quelle règle retenir ? comment la reconnaît-on ?), correction, puis recopie de la trace écrite. Aucune notion nouvelle.
+- **5-Évaluation** : un item individuel en rapport direct avec les actions travaillées ; reprendre l’**exemple d’item** de la matrice quand il convient. Objet `evaluation` : `mode` (écrit, oral ou pratique), `action` (facultatif), `item`, `situation` (facultatif), `criteres` (ce que l’enseignant observe ou la clé de correction).
+
+**Questions et réponses** : écrire « Q1 : … » dans la colonne enseignant et « R1 : … » dans la colonne apprenants, de la **même ligne**. La numérotation **recommence à Q1 à chaque étape**. Chaque question a sa réponse, chaque ligne a sa colonne apprenants.
+**Vocabulaire** : colonne enseignant : « L’enseignant présente / demande / fait lire / pose la question / corrige / fait retenir… ». Colonne apprenants : « Les apprenants lisent / observent / relèvent / soulignent / répondent / formulent / recopient… », jamais une copie de la colonne enseignant.
+
+### 10.4 Page de l’apprenant (trace écrite)
+
+Elle contient **le cours**, pas le déroulement. Elle se compose de **blocs** (`apprenant.blocs`) : `def` (définition), `h` (sous-titre), `p` (explication), `list`, `ex` (exemple), `nb` (N.B.), `texte` (texte support, avec son `titre`), `tableau` (`head` et `rows`) et **un bloc `retenir` obligatoire** (éléments essentiels). Adapter le plan au domaine : grammaire (définition, caractéristiques, formes, règles, exemples, méthode de reconnaissance) ; conjugaison (rappel, formation, terminaisons, emplois, exemples) ; orthographe (règle, explications, exemples corrects, cas particuliers au programme) ; vocabulaire (définition, notions à distinguer, exemples en contexte) ; lecture (notions à retenir, démarche d’analyse, éléments à observer, exemples). Pas toujours le même plan. Qualités : claire, exacte, progressive, concise, adaptée à la classe, exemples variés et vécus de l’élève congolais, phrases courtes (12 à 15 mots), mots simples, tout terme défini au premier emploi.
+**Exercices** : 3 exercices progressifs (1 reconnaissance, 2 application de la règle, 3 manipulation ou production) ; 2 au minimum. Chaque exercice : `enonce` (« Exercice 1 : … »), `items` (sans numéro écrit dans le texte), `texte` facultatif (choix, texte à compléter). Une seule bonne réponse par item (sinon le dire dans le corrigé). Les réponses vont dans `corrige`, **jamais** dans l’exercice.
+
+### 10.5 Créer une fiche APS (étapes)
+
+1. Demander le niveau, le **code de la matrice** ou le savoir essentiel, et le support éventuel (texte). Lire la matrice avec `outils/matrice-aps.js` (jamais le gros fichier).
+2. Rédiger la fiche selon 10.2 à 10.4. Texte de lecture ou corpus : **rédigé à nouveau** (original), jamais copié d’un manuel.
+3. Créer `contenu/fiches/college/fiche-<fn>.json` (fn = plus grand fn + 1 : `ls contenu/fiches/*/`, id = 10000 + fn), avec `meta` : `{"t":"…","k":"Fiches","n":"5e","m":"Grammaire","img":"e","r":4.8,"fn":64,"ap":"APS"}`, `"type":"fiche"`, `"approche":"APS"`. Format : `contenu/SPEC-FICHES.md`, section « Fiches APS ». Modèle : `contenu/fiches/college/fiche-63.json` (MF5.1.1, lecture).
+4. `node outils/generer-pages.js https://expertenfrancais.github.io` puis `node outils/valider-contenu.js` (**0 erreur**), puis incrémenter `VERSION` dans `sw.js`.
+
+### 10.6 Ce que le validateur APS contrôle
+
+5 étapes dans l’ordre avec les titres exacts ; compétence **identique** à la matrice (erreur sinon) ; situation identique (avertissement sinon) ; `specification` identique aux actions d’une activité de la matrice ; chaque action présente dans l’ordre (sauf la dernière si réservée à l’évaluation) ; chaque ligne a ses deux colonnes ; Q et R numérotées par étape, sans trou, chacune avec sa réponse ; décodage d’au moins 3 questions ; objet `evaluation` complet ; page de l’apprenant avec un bloc `retenir` et au moins 2 exercices ; `corrige` non vide ; pas de guillemet droit, pas de phrase coupée ; **pas de champ `oo`** (propre au PPO).
+
+### 10.7 Contrôle qualité avant de livrer (APS)
+
+- [ ] Titre précis ; niveau et classe respectés ; en-tête complet, rien d’inventé.
+- [ ] Compétence, catégorie, savoir essentiel : repris de la matrice. Situation cohérente avec la leçon.
+- [ ] Prérequis liés à la notion ; décodage de 3 questions au moins, progressives.
+- [ ] Actions du tableau de spécification respectées dans leur ordre, une activité par action.
+- [ ] Chaque ligne enseignant a sa réponse chez les apprenants ; Q et R se correspondent.
+- [ ] Synthèse fidèle à ce qui a été fait ; évaluation en rapport direct avec les actions.
+- [ ] Page de l’apprenant : vraie trace écrite, adaptée au domaine ; exercices progressifs ; réponses uniquement dans le corrigé.
+- [ ] Aucune approche mélangée (pas de O.O, pas de motivation, pas de colonnes Temps ni Observ.).
+- [ ] Texte et exemples originaux, grammaticalement corrects (accents, apostrophe ’, guillemets « »).
+
+**Règle absolue** : la qualité d’une fiche APS tient à la **cohérence** entre la situation d’apprentissage, les activités, la construction des connaissances, l’évaluation et la trace écrite.
 

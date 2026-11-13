@@ -192,3 +192,25 @@ html.f-page,html.f-page body{margin:0;background:var(--fbg);color:var(--fink);fo
 .f-lockrow td a{display:flex;align-items:center;gap:8px;color:var(--fp);text-decoration:none;padding:6px 2px}
 .f-lockrow td a u{font-weight:700}
 @media print{.f-lockrow,.f-locked{display:none}}
+
+/* ===== Fiches APS : en-tête à 2 colonnes, tableau à 2 colonnes, cartes téléphone, page de l’apprenant ===== */
+.f-tab.f-aps .c-e2,.f-tab.f-aps .c-a2{width:50%}
+.f-tab.f-aps td{font-size:13px}
+.f-tab.f-aps .f-ivh td{background:var(--ffield);font-weight:800;font-size:13px}
+@media (min-width:820px){.f-hd.f-wide.f-hd2{grid-template-columns:1.7fr 1fr}}
+.f-force .f-hd.f-wide.f-hd2{grid-template-columns:1.7fr 1fr}
+.f-ln{border-top:1px solid var(--fline);padding:8px 0}
+.f-ln:first-child{border-top:0;padding-top:0}
+.f-ln .f-ens,.f-ln .f-apr{margin:0 0 6px;padding:8px 10px;border-radius:10px}
+.f-ln .f-ens{background:var(--fblue)}
+.f-ln .f-apr{background:var(--fgreen)}
+.f-ln p{margin:0 0 4px}
+.f-ln .f-bd{margin:6px 0;padding:6px 8px;border:1px dashed var(--fdash);border-radius:8px}
+.f-bh{margin:14px 0 4px;font-size:15px}
+.f-def{margin:8px 0;padding:8px 10px;border-left:4px solid var(--fp);background:var(--ffield);border-radius:8px}
+.f-def p{margin:2px 0 0}
+.f-bl{margin:4px 0 8px;padding-left:20px}
+.f-nb{margin:8px 0;padding:6px 10px;border:1px dashed var(--fdash);border-radius:8px}
+.f-app .f-board{margin:8px 0;padding:8px 10px;border:1px dashed var(--fdash);border-radius:8px}
+.f-app .f-board p{margin:0 0 4px}
+@media print{.f-aps tr{break-inside:auto;page-break-inside:auto}.f-aps td p{break-inside:avoid;page-break-inside:avoid}.f-def,.f-nb{break-inside:avoid;page-break-inside:avoid}}

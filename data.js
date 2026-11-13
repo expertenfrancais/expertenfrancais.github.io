@@ -74,8 +74,9 @@ var INFO={
  "Exercices":{desc:"Exercices de français ({m}), niveau {n} : séries progressives avec corrigés, pour s’entraîner en classe ou à la maison.",obj:["S’entraîner de façon progressive","Consolider le cours par la pratique","Vérifier ses réponses grâce aux corrigés"],plan:["Rappels de cours","Exercices d’échauffement","Exercices d’approfondissement","Exercices de synthèse","Corrigés"]},
  "Annales":{desc:"Annales de français ({m}), niveau {n} : sujets d’examen des années précédentes ou sujets entièrement traités, avec corrigés détaillés et méthode.",obj:["Découvrir le format de l’examen","S’entraîner dans les conditions de l’épreuve","Apprendre la méthode grâce aux corrigés détaillés"],plan:["Énoncés des sujets","Corrigés détaillés","Barème et conseils de méthode"]}
 };
-function docInfo(x){var t=INFO[x.k]||INFO.Cours;function f(s){return s.replace("{m}",x.m).replace("{n}",x.n)}
- return {desc:x.d||f(t.desc),obj:x.obj||t.obj,sections:x.s||t.plan.map(function(p){return{t:p}})}}
+function docInfo(x){var t=INFO[x.k]||INFO.Cours;function f(s){var r=s.replace("{m}",x.m).replace("{n}",x.n);return x.ap==="APS"?r.replace("PPO","APS"):r}
+ var oa=x.ap==="APS"?["Préparer la séance à partir de la situation d’apprentissage et du tableau de spécification","Disposer de la page de l’apprenant à distribuer","Évaluer avec un corrigé"]:null;
+ return {desc:x.d||f(t.desc),obj:x.obj||oa||t.obj,sections:x.s||t.plan.map(function(p){return{t:p}})}}
 /* Niveau de l’élève (profil) : filtre par défaut, seulement s’il appartient au cycle affiché */
 function myNiv(){var p=userProfile();return ROLE!=="enseignant"&&p.grade&&cycleOf(p.grade)===activeCycle()?p.grade:"Tous"}
 function myCyc(){return activeCycle()}
@@ -416,6 +417,7 @@ var ALLDOCS=[
  {id:10060,fn:60,img:IMG.e,t:"L’hyperbole",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
  {id:10061,fn:61,img:IMG.e,t:"Le vocabulaire des loisirs",k:"Fiches",n:"3e",m:"Vocabulaire",pr:25,r:4.8},
  {id:10062,fn:62,img:IMG.e,t:"La métonymie",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
+ {id:10063,fn:63,ap:"APS",img:IMG.e,t:"Le respect des signes de ponctuation",k:"Fiches",n:"5e",m:"Lecture",pr:25,r:4.8},
  {id:20002,an:2,img:IMG.b,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20003,an:3,img:IMG.b,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20004,an:4,img:IMG.b,t:"BEPC · Expression écrite · Session juillet 2025",k:"Annales",n:"3e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},

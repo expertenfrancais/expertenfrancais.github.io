@@ -66,9 +66,9 @@ Ne change ni le nombre ni les titres des parties sauf si je le demande. Modifie 
 
 ```
 Tâche : créer une nouvelle fiche pédagogique.
-Niveau : [6e / 5e (programme APS) / 4e / 3e (programme PPO)] — Sujet : [titre de la leçon]
+Niveau : [4e / 3e (programme PPO)] — Sujet : [titre de la leçon]  (6e et 5e : voir le prompt 3 bis, fiche APS)
 
-Fichiers à lire : GUIDE-IA.md, GUIDE-FICHES.md (méthode complète), contenu/SPEC-FICHES.md (format).
+Fichiers à lire : GUIDE-IA.md, GUIDE-FICHES.md (sections 1 à 9, méthode PPO), contenu/SPEC-FICHES.md (format).
 Commence par l'enquête d'en-tête décrite dans GUIDE-FICHES.md : pose-moi les questions nécessaires avant de rédiger.
 Fichier à créer : contenu/fiches/<cycle>/fiche-<fn>.json (fn = plus grand fn + 1, trouvé avec ls contenu/fiches/*/ ; id = 10000 + fn ; clé meta juste après id).
 Fichier à modifier à part ça : sw.js (VERSION seulement). N'ouvre pas data.js ni fiches/.
@@ -80,6 +80,22 @@ L'accès par abonnement est automatique (en-tête et étapes I et II gratuits ; 
 
 ```
 Cette fiche remplace la fiche de test fn [N] : réécris ce fichier (même fn, même id) avec le vrai contenu et le vrai titre, au lieu de créer un nouveau numéro.
+```
+
+---
+
+## 3 bis. NOUVELLE FICHE APS (6e et 5e)
+
+```
+Tâche : créer une nouvelle fiche pédagogique APS (approche par les situations).
+Niveau : [6e / 5e] — Matrice : [code MF, ex. MF5.2.1, ou savoir essentiel] — Savoir essentiel : [titre exact de la répartition annuelle]
+
+Fichiers à lire : GUIDE-IA.md, GUIDE-FICHES.md (section 10 seulement), contenu/SPEC-FICHES.md (section « Fiches APS »), et le modèle contenu/fiches/college/fiche-63.json.
+Ne lis PAS les gros fichiers de programmes : lance  node outils/matrice-aps.js <niveau> <code MF>  (matrice : compétence, situation, tableau de spécification, item) et  node outils/matrice-aps.js <niveau> --repartition <code MF>  (durée).
+Pose-moi seulement les questions dont la réponse n'est pas dans la matrice (support ou texte, documentation, numéro de fiche, date). N'invente ni compétence, ni situation, ni action du tableau de spécification.
+Fichier à créer : contenu/fiches/college/fiche-<fn>.json (fn = plus grand fn + 1 ; id = 10000 + fn ; meta avec "ap":"APS" ; "approche":"APS").
+Puis : node outils/generer-pages.js https://expertenfrancais.github.io ; node outils/valider-contenu.js (0 erreur) ; sw.js (VERSION + 1 seulement). N'ouvre pas data.js ni fiches/.
+Accès automatique (en-tête et étapes 1 et 2 gratuits ; le reste réservé aux abonnés, enseignants seulement) : n'y touche pas.
 ```
 
 ---
