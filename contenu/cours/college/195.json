@@ -166,6 +166,81 @@
    ]
   },
   {
+   "t": "Du discours direct au discours indirect",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on rapporte des paroles, la concordance des temps change si le verbe introducteur est au **passé**."
+    },
+    {
+     "type": "table",
+     "title": "Les changements de temps",
+     "head": [
+      "Discours direct",
+      "Verbe introducteur au passé : discours indirect"
+     ],
+     "rows": [
+      [
+       "« Je **viens**. »",
+       "Il a dit qu’il **venait**. (imparfait)"
+      ],
+      [
+       "« Je **suis venu**. »",
+       "Il a dit qu’il **était venu**. (plus-que-parfait)"
+      ],
+      [
+       "« Je **viendrai**. »",
+       "Il a dit qu’il **viendrait**. (conditionnel présent)"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les repères de temps et de lieu",
+     "head": [
+      "Discours direct",
+      "Discours indirect (passé)"
+     ],
+     "rows": [
+      [
+       "aujourd’hui",
+       "ce jour-là"
+      ],
+      [
+       "demain",
+       "le lendemain"
+      ],
+      [
+       "hier",
+       "la veille"
+      ],
+      [
+       "ici",
+       "là"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Le présent d’introduction",
+     "text": "Avec un verbe introducteur au présent, les temps ne changent pas : « Il dit : “Je viens” » → « Il dit qu’il **vient** »."
+    }
+   ]
+  },
+  {
+   "t": "Repérer l’axe dans un texte",
+   "blocs": [
+    {
+     "type": "test",
+     "title": "Imparfait, passé simple ou plus-que-parfait ?",
+     "lines": [
+      "Il lisait (imparfait : action de fond) quand le téléphone sonna (passé simple : action ponctuelle).",
+      "Il avait fini (plus-que-parfait : action antérieure) quand elle arriva."
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -199,6 +274,39 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Passe au discours indirect (verbe introducteur au passé).",
+     "items": [
+      "Elle a dit : « Je suis fatiguée. »",
+      "Il a annoncé : « Je partirai demain. »",
+      "Ils ont répondu : « Nous avons fini. »"
+     ],
+     "corrige": [
+      "1. Elle a dit qu’elle était fatiguée.",
+      "2. Il a annoncé qu’il partirait le lendemain.",
+      "3. Ils ont répondu qu’ils avaient fini."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indique la relation entre les deux actions (antériorité, simultanéité, postériorité).",
+     "items": [
+      "Il pleuvait quand nous sommes sortis.",
+      "Elle savait qu’il viendrait.",
+      "Quand il eut mangé, il sortit."
+     ],
+     "corrige": [
+      "1. simultanéité (imparfait)",
+      "2. postériorité (conditionnel)",
+      "3. antériorité (passé antérieur)"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -208,7 +316,8 @@
       "On se repère sur un **axe de temps** : passé, présent, futur.",
       "Trois relations : **antériorité**, **simultanéité**, **postériorité**.",
       "Le temps de la **principale** fixe le repère.",
-      "Principale au passé : plus-que-parfait / imparfait / conditionnel présent."
+      "Principale au passé : plus-que-parfait / imparfait / conditionnel présent.",
+      "Verbe introducteur au passé : présent → **imparfait**, passé composé → **plus-que-parfait**, futur → **conditionnel**."
      ]
     },
     {

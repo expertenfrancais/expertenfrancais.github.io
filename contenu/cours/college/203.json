@@ -1,189 +1,313 @@
 {
- "id": 203,
- "meta": {
-  "t": "Le respect des règles de la prosodie : les groupes de souffle",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Expression orale",
-  "img": "a",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Respirer au bon endroit",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Lire « Le vieux paysan qui rentrait des champs s’arrêta devant la porte de sa maison » sans s’arrêter fait perdre le souffle et le sens. On découpe la phrase en **groupes de souffle**."
-    },
-    {
-     "type": "list",
-     "items": [
-      "Définir le groupe de souffle",
-      "Repérer où respirer",
-      "Lire sans couper un groupe de sens"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "def",
-     "label": "Groupe de souffle",
-     "text": "Un **groupe de souffle** est un ensemble de mots que l’on lit **d’une seule émission de voix**, entre deux pauses. Il forme généralement un **groupe de sens**."
-    },
-    {
-     "type": "ex",
-     "text": "Le vieux paysan / qui rentrait des champs / s’arrêta devant la porte / de sa maison.",
-     "label": "Découpage possible"
-    },
-    {
-     "type": "quiz",
-     "question": "Un groupe de souffle correspond à :",
-     "options": [
-      "un seul mot",
-      "un groupe de sens",
-      "une syllabe",
-      "un paragraphe"
-     ],
-     "answer": 1,
-     "explain": "On lit d’une traite un **groupe de sens**."
-    }
-   ]
+  "id": 203,
+  "meta": {
+    "t": "Le respect des règles de la prosodie : les groupes de souffle",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Expression orale",
+    "img": "a",
+    "r": 4.8
   },
-  {
-   "t": "Où faire une pause ?",
-   "blocs": [
+  "sections": [
     {
-     "type": "table",
-     "title": "Bonnes coupures",
-     "head": [
-      "Avant ou après…",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "un groupe sujet long",
-       "Les enfants du village / jouent."
-      ],
-      [
-       "une proposition relative",
-       "Le livre / que j’ai lu / est passionnant."
-      ],
-      [
-       "une conjonction",
-       "Il court / parce qu’il est en retard."
-      ],
-      [
-       "un complément circonstanciel",
-       "Hier soir, / nous sommes sortis."
-      ],
-      [
-       "la ponctuation",
-       "Il entra, / salua / et s’assit."
+      "t": "Respirer au bon endroit",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Lire « Le vieux paysan qui rentrait des champs s’arrêta devant la porte de sa maison » sans s’arrêter fait perdre le souffle et le sens. On découpe la phrase en **groupes de souffle**."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Définir le groupe de souffle",
+            "Repérer où respirer",
+            "Lire sans couper un groupe de sens"
+          ],
+          "label": "Objectifs"
+        },
+        {
+          "type": "def",
+          "label": "Groupe de souffle",
+          "text": "Un **groupe de souffle** est un ensemble de mots que l’on lit **d’une seule émission de voix**, entre deux pauses. Il forme généralement un **groupe de sens**."
+        },
+        {
+          "type": "ex",
+          "text": "Le vieux paysan / qui rentrait des champs / s’arrêta devant la porte / de sa maison.",
+          "label": "Découpage possible"
+        },
+        {
+          "type": "quiz",
+          "question": "Un groupe de souffle correspond à :",
+          "options": [
+            "un seul mot",
+            "un groupe de sens",
+            "une syllabe",
+            "un paragraphe"
+          ],
+          "answer": 1,
+          "explain": "On lit d’une traite un **groupe de sens**."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Notation",
-     "text": "Dans un texte, on note les pauses par un trait oblique **/** et les pauses longues par **//**."
-    }
-   ]
-  },
-  {
-   "t": "Où ne jamais couper",
-   "blocs": [
-    {
-     "type": "warn",
-     "label": "Attention",
-     "text": "On ne sépare pas des mots qui vont ensemble."
-    },
-    {
-     "type": "table",
-     "title": "Coupures interdites",
-     "head": [
-      "Mauvaise coupure",
-      "Pourquoi"
-     ],
-     "rows": [
-      [
-       "Le / chat dort.",
-       "déterminant et nom"
-      ],
-      [
-       "Il / mange.",
-       "pronom sujet et verbe"
-      ],
-      [
-       "Dans / la maison.",
-       "préposition et son complément"
-      ],
-      [
-       "Une très / belle fleur.",
-       "adverbe et adjectif"
+      "t": "Où faire une pause ?",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Bonnes coupures",
+          "head": [
+            "Avant ou après…",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "un groupe sujet long",
+              "Les enfants du village / jouent."
+            ],
+            [
+              "une proposition relative",
+              "Le livre / que j’ai lu / est passionnant."
+            ],
+            [
+              "une conjonction",
+              "Il court / parce qu’il est en retard."
+            ],
+            [
+              "un complément circonstanciel",
+              "Hier soir, / nous sommes sortis."
+            ],
+            [
+              "la ponctuation",
+              "Il entra, / salua / et s’assit."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Notation",
+          "text": "Dans un texte, on note les pauses par un trait oblique **/** et les pauses longues par **//**."
+        }
       ]
-     ]
     },
     {
-     "type": "p",
-     "text": "Les **liaisons** se font à l’intérieur d’un groupe de souffle : « les‿enfants‿arrivent »."
-    }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "exercise",
-     "enonce": "Découpe en groupes de souffle avec des barres obliques.",
-     "items": [
-      "Le petit garçon qui avait perdu son chien pleurait dans la cour.",
-      "Quand la pluie cessa les enfants sortirent jouer."
-     ],
-     "corrige": [
-      "1. Le petit garçon / qui avait perdu son chien / pleurait dans la cour.",
-      "2. Quand la pluie cessa / les enfants sortirent jouer."
-     ]
+      "t": "Où ne jamais couper",
+      "blocs": [
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "On ne sépare pas des mots qui vont ensemble."
+        },
+        {
+          "type": "table",
+          "title": "Coupures interdites",
+          "head": [
+            "Mauvaise coupure",
+            "Pourquoi"
+          ],
+          "rows": [
+            [
+              "Le / chat dort.",
+              "déterminant et nom"
+            ],
+            [
+              "Il / mange.",
+              "pronom sujet et verbe"
+            ],
+            [
+              "Dans / la maison.",
+              "préposition et son complément"
+            ],
+            [
+              "Une très / belle fleur.",
+              "adverbe et adjectif"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Les **liaisons** se font à l’intérieur d’un groupe de souffle : « les‿enfants‿arrivent »."
+        }
+      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle coupure est correcte ?",
-     "options": [
-      "Le petit / garçon dort",
-      "Le petit garçon / dort",
-      "Le / petit garçon dort",
-      "Le petit garçon dort sans pause"
-     ],
-     "answer": 1,
-     "explain": "On sépare le **groupe sujet** du verbe."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "Un **groupe de souffle** se lit d’une seule émission de voix.",
-      "Il correspond à un **groupe de sens**.",
-      "On coupe avant une relative, une conjonction, un complément ; on ne sépare pas déterminant-nom ni pronom-verbe.",
-      "Les **liaisons** se font dans le groupe."
-     ]
+      "t": "Respirer pour bien lire",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Conseils de respiration",
+          "head": [
+            "Conseil",
+            "Pourquoi ?"
+          ],
+          "rows": [
+            [
+              "Inspirer par le nez pendant la pause",
+              "reprendre de l’air sans bruit"
+            ],
+            [
+              "Respirer avec le ventre (diaphragme)",
+              "avoir un souffle long et stable"
+            ],
+            [
+              "Expirer lentement en lisant",
+              "éviter d’être essoufflé en fin de groupe"
+            ],
+            [
+              "Ne pas reprendre l’air au milieu d’un groupe",
+              "ne pas couper le sens"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Exercice",
+          "text": "Inspire en comptant jusqu’à 4, retiens 2 secondes, puis souffle en comptant jusqu’à 8 : tu apprends à contrôler ton souffle."
+        }
+      ]
     },
     {
-     "type": "quiz",
-     "question": "Faut-il couper entre un pronom sujet et son verbe ?",
-     "options": [
-      "oui",
-      "non",
-      "toujours",
-      "après chaque mot"
-     ],
-     "answer": 1,
-     "explain": "Pronom et verbe forment un seul groupe."
+      "t": "Des pauses qui donnent du sens",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les pauses expressives",
+          "head": [
+            "Pause",
+            "Utilité",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "avant un mot important",
+              "le mettre en valeur",
+              "Il a tout perdu… / sauf son courage."
+            ],
+            [
+              "après une annonce",
+              "créer le suspense",
+              "La porte s’ouvrit… // personne."
+            ],
+            [
+              "entre deux éléments d’une énumération",
+              "bien les séparer",
+              "des mangues, / des bananes, / des ananas."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Découper un texte : modèle",
+      "blocs": [
+        {
+          "type": "ex",
+          "text": "Le vieux pêcheur / ramassait ses filets / au bord du fleuve, / tandis que le soleil / se couchait lentement / derrière les collines.",
+          "label": "Exemple de découpage"
+        },
+        {
+          "type": "p",
+          "text": "Chaque groupe correspond à une unité de sens : le sujet, le verbe et son complément, le lieu, le moment…"
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Découpe en groupes de souffle avec des barres obliques.",
+          "items": [
+            "Le petit garçon qui avait perdu son chien pleurait dans la cour.",
+            "Quand la pluie cessa les enfants sortirent jouer."
+          ],
+          "corrige": [
+            "1. Le petit garçon / qui avait perdu son chien / pleurait dans la cour.",
+            "2. Quand la pluie cessa / les enfants sortirent jouer."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle coupure est correcte ?",
+          "options": [
+            "Le petit / garçon dort",
+            "Le petit garçon / dort",
+            "Le / petit garçon dort",
+            "Le petit garçon dort sans pause"
+          ],
+          "answer": 1,
+          "explain": "On sépare le **groupe sujet** du verbe."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Découpe en groupes de souffle (utilise des barres).",
+          "items": [
+            "Les enfants jouaient sur la place du village pendant que leurs mères préparaient le repas du soir.",
+            "Le grand arbre du jardin de ma grand-mère donne des mangues très sucrées chaque année."
+          ],
+          "corrige": [
+            "1. Les enfants jouaient / sur la place du village / pendant que leurs mères / préparaient le repas du soir.",
+            "2. Le grand arbre / du jardin de ma grand-mère / donne des mangues très sucrées / chaque année."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "La coupure est-elle acceptable ou interdite ?",
+          "items": [
+            "Le petit garçon / mange une mangue.",
+            "Le petit / garçon mange une mangue.",
+            "Il a mangé / une mangue.",
+            "Il a / mangé une mangue."
+          ],
+          "corrige": [
+            "1. acceptable",
+            "2. interdite (article/adjectif et nom)",
+            "3. acceptable",
+            "4. interdite (auxiliaire et participe)"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Place des pauses expressives : « Soudain la porte s’ouvrit lentement et personne »",
+          "items": [
+            "Place les barres."
+          ],
+          "corrige": [
+            "Soudain, / la porte s’ouvrit lentement / et… // personne."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Un **groupe de souffle** se lit d’une seule émission de voix.",
+            "Il correspond à un **groupe de sens**.",
+            "On coupe avant une relative, une conjonction, un complément ; on ne sépare pas déterminant-nom ni pronom-verbe.",
+            "Les **liaisons** se font dans le groupe."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Faut-il couper entre un pronom sujet et son verbe ?",
+          "options": [
+            "oui",
+            "non",
+            "toujours",
+            "après chaque mot"
+          ],
+          "answer": 1,
+          "explain": "Pronom et verbe forment un seul groupe."
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

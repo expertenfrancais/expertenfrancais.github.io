@@ -1,260 +1,449 @@
 {
- "id": 189,
- "meta": {
-  "t": "L’étude d’une œuvre : présentation, auteur, titre et structure",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Lecture",
-  "img": "b",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Aborder une œuvre intégrale",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Étudier une **œuvre intégrale**, c’est lire un livre entier (roman, pièce de théâtre, recueil) et l’analyser. Avant de lire, on **présente** l’œuvre ; pendant la lecture, on repère sa **structure**."
-    },
-    {
-     "type": "list",
-     "label": "Objectifs",
-     "items": [
-      "Présenter une œuvre (auteur, titre, genre, date)",
-      "Observer la couverture et le titre",
-      "Repérer la structure (parties, chapitres, actes)",
-      "Rédiger une fiche de lecture"
-     ]
-    },
-    {
-     "type": "def",
-     "label": "Œuvre intégrale",
-     "text": "Une **œuvre intégrale** est un ouvrage lu **en entier** (par opposition aux **extraits** ou **morceaux choisis**)."
-    },
-    {
-     "type": "quiz",
-     "question": "Une œuvre intégrale est :",
-     "options": [
-      "un extrait",
-      "un livre lu en entier",
-      "un résumé",
-      "un poème seulement"
-     ],
-     "answer": 1,
-     "explain": "On la lit en entier, pas seulement des extraits."
-    }
-   ]
+  "id": 189,
+  "meta": {
+    "t": "L’étude d’une œuvre : présentation, auteur, titre et structure",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Lecture",
+    "img": "b",
+    "r": 4.8
   },
-  {
-   "t": "Présenter l’œuvre : auteur et titre",
-   "blocs": [
+  "sections": [
     {
-     "type": "table",
-     "title": "La fiche de présentation",
-     "head": [
-      "Rubrique",
-      "À chercher"
-     ],
-     "rows": [
-      [
-       "auteur",
-       "nom, nationalité, dates, autres œuvres"
-      ],
-      [
-       "titre",
-       "sens du titre, ce qu’il annonce"
-      ],
-      [
-       "genre",
-       "roman, théâtre, poésie, conte…"
-      ],
-      [
-       "éditeur et date",
-       "maison d’édition, année de parution"
-      ],
-      [
-       "couverture",
-       "1re de couverture (titre, illustration), 4e (résumé)"
+      "t": "Aborder une œuvre intégrale",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Étudier une **œuvre intégrale**, c’est lire un livre entier (roman, pièce de théâtre, recueil) et l’analyser. Avant de lire, on **présente** l’œuvre ; pendant la lecture, on repère sa **structure**."
+        },
+        {
+          "type": "list",
+          "label": "Objectifs",
+          "items": [
+            "Présenter une œuvre (auteur, titre, genre, date)",
+            "Observer la couverture et le titre",
+            "Repérer la structure (parties, chapitres, actes)",
+            "Rédiger une fiche de lecture"
+          ]
+        },
+        {
+          "type": "def",
+          "label": "Œuvre intégrale",
+          "text": "Une **œuvre intégrale** est un ouvrage lu **en entier** (par opposition aux **extraits** ou **morceaux choisis**)."
+        },
+        {
+          "type": "quiz",
+          "question": "Une œuvre intégrale est :",
+          "options": [
+            "un extrait",
+            "un livre lu en entier",
+            "un résumé",
+            "un poème seulement"
+          ],
+          "answer": 1,
+          "explain": "On la lit en entier, pas seulement des extraits."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Faire des hypothèses",
-     "text": "Avant de lire, observe le **titre** et l’**illustration** et fais des **hypothèses** sur l’histoire."
-    }
-   ]
-  },
-  {
-   "t": "La structure de l’œuvre",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Repérer la structure",
-     "head": [
-      "Type d’œuvre",
-      "Structure"
-     ],
-     "rows": [
-      [
-       "roman",
-       "parties, chapitres"
-      ],
-      [
-       "théâtre",
-       "actes, scènes"
-      ],
-      [
-       "recueil de poèmes",
-       "sections, poèmes"
-      ],
-      [
-       "conte, nouvelle",
-       "épisodes, schéma narratif"
+      "t": "Présenter l’œuvre : auteur et titre",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "La fiche de présentation",
+          "head": [
+            "Rubrique",
+            "À chercher"
+          ],
+          "rows": [
+            [
+              "auteur",
+              "nom, nationalité, dates, autres œuvres"
+            ],
+            [
+              "titre",
+              "sens du titre, ce qu’il annonce"
+            ],
+            [
+              "genre",
+              "roman, théâtre, poésie, conte…"
+            ],
+            [
+              "éditeur et date",
+              "maison d’édition, année de parution"
+            ],
+            [
+              "couverture",
+              "1re de couverture (titre, illustration), 4e (résumé)"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Faire des hypothèses",
+          "text": "Avant de lire, observe le **titre** et l’**illustration** et fais des **hypothèses** sur l’histoire."
+        }
       ]
-     ]
     },
     {
-     "type": "table",
-     "title": "Les éléments à noter",
-     "head": [
-      "Élément",
-      "Question"
-     ],
-     "rows": [
-      [
-       "table des matières",
-       "comment l’œuvre est-elle organisée ?"
-      ],
-      [
-       "personnages",
-       "qui sont-ils ? quels liens ?"
-      ],
-      [
-       "thèmes",
-       "de quoi parle-t-on vraiment ?"
-      ],
-      [
-       "résumé",
-       "que se passe-t-il, dans quel ordre ?"
+      "t": "La structure de l’œuvre",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Repérer la structure",
+          "head": [
+            "Type d’œuvre",
+            "Structure"
+          ],
+          "rows": [
+            [
+              "roman",
+              "parties, chapitres"
+            ],
+            [
+              "théâtre",
+              "actes, scènes"
+            ],
+            [
+              "recueil de poèmes",
+              "sections, poèmes"
+            ],
+            [
+              "conte, nouvelle",
+              "épisodes, schéma narratif"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les éléments à noter",
+          "head": [
+            "Élément",
+            "Question"
+          ],
+          "rows": [
+            [
+              "table des matières",
+              "comment l’œuvre est-elle organisée ?"
+            ],
+            [
+              "personnages",
+              "qui sont-ils ? quels liens ?"
+            ],
+            [
+              "thèmes",
+              "de quoi parle-t-on vraiment ?"
+            ],
+            [
+              "résumé",
+              "que se passe-t-il, dans quel ordre ?"
+            ]
+          ]
+        }
       ]
-     ]
-    }
-   ]
-  },
-  {
-   "t": "Application : Le cri de la forêt",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "L’œuvre intégrale du programme de 3e est *Le cri de la forêt*, d’**Henri Djombo** (éditions HEMAR). Voici comment la présenter."
     },
     {
-     "type": "table",
-     "title": "La fiche de présentation",
-     "head": [
-      "Rubrique",
-      "Ce que l’on sait"
-     ],
-     "rows": [
-      [
-       "auteur",
-       "Henri Djombo, écrivain et homme politique congolais, né en 1952 à Enyellé (Likouala). Il a aussi écrit *Sur la braise* (1990), *Le mort vivant* et *La traversée*."
-      ],
-      [
-       "titre",
-       "Un **cri** est un appel, une plainte : la forêt est **personnifiée**, comme si elle appelait au secours."
-      ],
-      [
-       "genre",
-       "Pièce de théâtre (publiée en 2015 d’après les études critiques ; l’auteur est cité avec Osée Colin Koagne : **vérifie la couverture** de ton exemplaire)."
-      ],
-      [
-       "éditeur",
-       "HEMAR"
-      ],
-      [
-       "structure",
-       "Une pièce se découpe en **actes** et en **scènes** : relève-les dans la table des matières."
+      "t": "Application : Le cri de la forêt",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "L’œuvre intégrale du programme de 3e est *Le cri de la forêt*, d’**Henri Djombo** (éditions HEMAR). Voici comment la présenter."
+        },
+        {
+          "type": "table",
+          "title": "La fiche de présentation",
+          "head": [
+            "Rubrique",
+            "Ce que l’on sait"
+          ],
+          "rows": [
+            [
+              "auteur",
+              "Henri Djombo, écrivain et homme politique congolais, né en 1952 à Enyellé (Likouala). Il a aussi écrit *Sur la braise* (1990), *Le mort vivant* et *La traversée*."
+            ],
+            [
+              "titre",
+              "Un **cri** est un appel, une plainte : la forêt est **personnifiée**, comme si elle appelait au secours."
+            ],
+            [
+              "genre",
+              "Pièce de théâtre (publiée en 2015 d’après les études critiques ; l’auteur est cité avec Osée Colin Koagne : **vérifie la couverture** de ton exemplaire)."
+            ],
+            [
+              "éditeur",
+              "HEMAR"
+            ],
+            [
+              "structure",
+              "Une pièce se découpe en **actes** et en **scènes** : relève-les dans la table des matières."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "À toi de jouer",
+          "text": "Observe la couverture et le titre de ton exemplaire, puis complète la fiche avec ce que tu y lis (date, nombre d’actes, 4e de couverture)."
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "Appuie-toi sur **ton livre** : une fiche doit toujours être vérifiée sur l’exemplaire étudié."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "À toi de jouer",
-     "text": "Observe la couverture et le titre de ton exemplaire, puis complète la fiche avec ce que tu y lis (date, nombre d’actes, 4e de couverture)."
+      "t": "Les paratextes : tout ce qui entoure le texte",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Avant de lire l’œuvre, on peut déjà en apprendre beaucoup en observant ce qui l’entoure : ce sont les **paratextes**."
+        },
+        {
+          "type": "table",
+          "title": "Les principaux paratextes",
+          "head": [
+            "Paratexte",
+            "Où le trouver ?",
+            "Ce qu’il apprend"
+          ],
+          "rows": [
+            [
+              "Titre, nom de l’auteur",
+              "couverture",
+              "le sujet, le ton, l’auteur"
+            ],
+            [
+              "Illustration de couverture",
+              "couverture",
+              "l’ambiance, un indice sur l’histoire"
+            ],
+            [
+              "Quatrième de couverture",
+              "dos du livre",
+              "un court résumé, une présentation de l’auteur"
+            ],
+            [
+              "Dédicace, épigraphe",
+              "début du livre",
+              "à qui l’œuvre est dédiée, une citation qui l’éclaire"
+            ],
+            [
+              "Préface, avant-propos",
+              "avant le texte",
+              "les intentions de l’auteur ou d’un préfacier"
+            ],
+            [
+              "Table des matières, chapitres",
+              "fin ou début du livre",
+              "la structure de l’œuvre"
+            ],
+            [
+              "Collection, éditeur, date",
+              "page de titre",
+              "le public visé, l’époque d’édition"
+            ]
+          ]
+        }
+      ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "Appuie-toi sur **ton livre** : une fiche doit toujours être vérifiée sur l’exemplaire étudié."
+      "t": "Les unités de l’œuvre selon le genre",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Repérer la structure",
+          "head": [
+            "Genre",
+            "Unités de découpage",
+            "Éléments à repérer"
+          ],
+          "rows": [
+            [
+              "Roman, récit",
+              "chapitres, parties",
+              "l’ordre des événements, les lieux, les personnages principaux"
+            ],
+            [
+              "Théâtre",
+              "actes, scènes",
+              "les didascalies, les répliques, l’exposition, le dénouement"
+            ],
+            [
+              "Poésie",
+              "recueil, sections, poèmes, strophes",
+              "les thèmes, la forme, les rimes"
+            ],
+            [
+              "Conte, nouvelle",
+              "courts épisodes",
+              "le schéma narratif, la morale"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Exemple",
+          "text": "Dans *Les Fourberies de Scapin* (Molière, 1671), la pièce est en trois actes divisés en scènes. Dans *Le Petit Prince* (Saint-Exupéry, 1943), le récit est divisé en 27 chapitres."
+        }
+      ]
+    },
+    {
+      "t": "La carte d’identité d’une œuvre",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Avant de commenter une œuvre, on établit sa carte d’identité."
+        },
+        {
+          "type": "table",
+          "title": "Modèle de fiche",
+          "head": [
+            "Rubrique",
+            "Exemple : *Le Petit Prince*"
+          ],
+          "rows": [
+            [
+              "Titre",
+              "Le Petit Prince"
+            ],
+            [
+              "Auteur",
+              "Antoine de Saint-Exupéry"
+            ],
+            [
+              "Genre",
+              "conte poétique et philosophique"
+            ],
+            [
+              "Date de première publication",
+              "1943"
+            ],
+            [
+              "Structure",
+              "27 chapitres"
+            ],
+            [
+              "Thèmes",
+              "l’amitié, l’enfance, le sens de l’essentiel"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "À vérifier",
+          "text": "Toujours copier les informations sur ton **exemplaire** (page de titre, couverture) : l’édition peut changer la date, l’éditeur ou le nombre de pages."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Entraîne-toi à présenter une œuvre."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Associe chaque rubrique à une question.",
+          "items": [
+            "auteur",
+            "titre",
+            "table des matières",
+            "4e de couverture"
+          ],
+          "corrige": [
+            "1. Qui a écrit l’œuvre ?",
+            "2. Que laisse-t-il deviner ?",
+            "3. Comment l’œuvre est-elle organisée ?",
+            "4. Elle contient souvent un résumé."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Un roman est divisé en :",
+          "options": [
+            "actes et scènes",
+            "chapitres et parties",
+            "strophes et vers",
+            "tirades"
+          ],
+          "answer": 1,
+          "explain": "Un roman est divisé en parties et chapitres."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Quel paratexte est décrit ?",
+          "items": [
+            "Un petit texte au dos du livre qui résume l’histoire.",
+            "Une phrase placée au début, citée d’un autre auteur.",
+            "Un texte avant le début du récit, écrit par l’auteur ou un spécialiste.",
+            "La liste des chapitres avec leurs numéros de page."
+          ],
+          "corrige": [
+            "1. quatrième de couverture",
+            "2. épigraphe",
+            "3. préface",
+            "4. table des matières"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Associe le genre à son découpage.",
+          "items": [
+            "Roman",
+            "Théâtre",
+            "Poésie"
+          ],
+          "corrige": [
+            "1. chapitres",
+            "2. actes et scènes",
+            "3. poèmes, strophes, sections"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Établis la carte d’identité de l’œuvre intégrale que tu étudies en classe (titre, auteur, genre, date, structure, thèmes).",
+          "items": [
+            "À compléter d’après ton exemplaire."
+          ],
+          "corrige": [
+            "Corrigé : réponse personnelle, à vérifier sur la couverture et la page de titre. Exemple de présentation : « *[Titre]*, de *[auteur]*, est une pièce de théâtre (ou un roman) publiée en *[année]*. Elle compte *[nombre]* chapitres (ou actes). Elle traite surtout de… »"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Œuvre intégrale** = livre lu en entier.",
+            "Présenter : **auteur, titre, genre, éditeur, date, couverture**.",
+            "Repérer la **structure** : chapitres (roman), actes et scènes (théâtre).",
+            "Noter **personnages, thèmes, résumé**.",
+            "Faire des **hypothèses** avant la lecture."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "La 4e de couverture contient souvent :",
+          "options": [
+            "le titre seulement",
+            "un résumé",
+            "la table des matières",
+            "les notes"
+          ],
+          "answer": 1,
+          "explain": "On y trouve souvent un résumé de l’œuvre."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Entraîne-toi à présenter une œuvre."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Associe chaque rubrique à une question.",
-     "items": [
-      "auteur",
-      "titre",
-      "table des matières",
-      "4e de couverture"
-     ],
-     "corrige": [
-      "1. Qui a écrit l’œuvre ?",
-      "2. Que laisse-t-il deviner ?",
-      "3. Comment l’œuvre est-elle organisée ?",
-      "4. Elle contient souvent un résumé."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Un roman est divisé en :",
-     "options": [
-      "actes et scènes",
-      "chapitres et parties",
-      "strophes et vers",
-      "tirades"
-     ],
-     "answer": 1,
-     "explain": "Un roman est divisé en parties et chapitres."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Œuvre intégrale** = livre lu en entier.",
-      "Présenter : **auteur, titre, genre, éditeur, date, couverture**.",
-      "Repérer la **structure** : chapitres (roman), actes et scènes (théâtre).",
-      "Noter **personnages, thèmes, résumé**.",
-      "Faire des **hypothèses** avant la lecture."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "La 4e de couverture contient souvent :",
-     "options": [
-      "le titre seulement",
-      "un résumé",
-      "la table des matières",
-      "les notes"
-     ],
-     "answer": 1,
-     "explain": "On y trouve souvent un résumé de l’œuvre."
-    }
-   ]
-  }
- ]
+  ]
 }

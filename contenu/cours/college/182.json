@@ -1,222 +1,396 @@
 {
- "id": 182,
- "meta": {
-  "t": "Les homophones : si, s’, y ; près, prêt",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Orthographe",
-  "img": "c",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Si, s’, y",
-   "blocs": [
+  "id": 182,
+  "meta": {
+    "t": "Les homophones : si, s’, y ; près, prêt",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Orthographe",
+    "img": "c",
+    "r": 4.8
+  },
+  "sections": [
     {
-     "type": "p",
-     "text": "« **Si** tu viens, nous jouerons. » « Il **s’**habille. » « J’**y** vais. » Ces petits mots posent souvent problème."
-    },
-    {
-     "type": "list",
-     "label": "Objectifs",
-     "items": [
-      "Distinguer si, s’ et y",
-      "Distinguer près et prêt",
-      "Appliquer les tests"
-     ]
-    },
-    {
-     "type": "table",
-     "title": "Si, s’, y",
-     "head": [
-      "Mot",
-      "Nature",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "si",
-       "condition, ou adverbe d’intensité, ou réponse positive",
-       "**Si** tu viens… / Il est **si** gentil. / Tu ne viens pas ? **Si** !"
-      ],
-      [
-       "s’ (se)",
-       "pronom devant une voyelle",
-       "Il **s’**habille. (se habille)"
-      ],
-      [
-       "s’il, s’ils",
-       "si + il, si + ils",
-       "**S’il** pleut, je reste."
-      ],
-      [
-       "y",
-       "pronom ou adverbe : à cela, là",
-       "J’**y** vais. (là)"
+      "t": "Si, s’, y",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "« **Si** tu viens, nous jouerons. » « Il **s’**habille. » « J’**y** vais. » Ces petits mots posent souvent problème."
+        },
+        {
+          "type": "list",
+          "label": "Objectifs",
+          "items": [
+            "Distinguer si, s’ et y",
+            "Distinguer près et prêt",
+            "Appliquer les tests"
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Si, s’, y",
+          "head": [
+            "Mot",
+            "Nature",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "si",
+              "condition, ou adverbe d’intensité, ou réponse positive",
+              "**Si** tu viens… / Il est **si** gentil. / Tu ne viens pas ? **Si** !"
+            ],
+            [
+              "s’ (se)",
+              "pronom devant une voyelle",
+              "Il **s’**habille. (se habille)"
+            ],
+            [
+              "s’il, s’ils",
+              "si + il, si + ils",
+              "**S’il** pleut, je reste."
+            ],
+            [
+              "y",
+              "pronom ou adverbe : à cela, là",
+              "J’**y** vais. (là)"
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Dans « Il s’habille », « s’ » est :",
+          "options": [
+            "si",
+            "se",
+            "y",
+            "ce"
+          ],
+          "answer": 1,
+          "explain": "« s’ » est le pronom « se » devant une voyelle."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "Dans « Il s’habille », « s’ » est :",
-     "options": [
-      "si",
-      "se",
-      "y",
-      "ce"
-     ],
-     "answer": 1,
-     "explain": "« s’ » est le pronom « se » devant une voyelle."
-    }
-   ]
-  },
-  {
-   "t": "Les tests",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les tests de remplacement",
-     "head": [
-      "Mot",
-      "Test",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "s’",
-       "on peut mettre « se » (ou « me/te »)",
-       "Il **s’**est lavé. (il se lave)"
-      ],
-      [
-       "y",
-       "on peut mettre « là »",
-       "Il **y** va. (il va là)"
-      ],
-      [
-       "si",
-       "on peut ajouter « à condition que » ou on trouve une idée d’intensité",
-       "**Si** tu viens, … (à condition que tu viennes)"
+      "t": "Les tests",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les tests de remplacement",
+          "head": [
+            "Mot",
+            "Test",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "s’",
+              "on peut mettre « se » (ou « me/te »)",
+              "Il **s’**est lavé. (il se lave)"
+            ],
+            [
+              "y",
+              "on peut mettre « là »",
+              "Il **y** va. (il va là)"
+            ],
+            [
+              "si",
+              "on peut ajouter « à condition que » ou on trouve une idée d’intensité",
+              "**Si** tu viens, … (à condition que tu viennes)"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "S’y",
+          "text": "« **S’y** » = **se** + **y** : « Il **s’y** habitue. »"
+        }
       ]
-     ]
     },
     {
-     "type": "warn",
-     "label": "S’y",
-     "text": "« **S’y** » = **se** + **y** : « Il **s’y** habitue. »"
-    }
-   ]
-  },
-  {
-   "t": "Près ou prêt ?",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Près / prêt",
-     "head": [
-      "Écriture",
-      "Nature",
-      "Test",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "près",
-       "adverbe ou préposition (proche)",
-       "contraire : loin",
-       "Il habite **près** de l’école."
-      ],
-      [
-       "prêt, prête, prêts, prêtes",
-       "adjectif (préparé), s’accorde",
-       "féminin : prête",
-       "Il est **prêt** à partir. Elle est **prête**."
+      "t": "Près ou prêt ?",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Près / prêt",
+          "head": [
+            "Écriture",
+            "Nature",
+            "Test",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "près",
+              "adverbe ou préposition (proche)",
+              "contraire : loin",
+              "Il habite **près** de l’école."
+            ],
+            [
+              "prêt, prête, prêts, prêtes",
+              "adjectif (préparé), s’accorde",
+              "féminin : prête",
+              "Il est **prêt** à partir. Elle est **prête**."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Près de / prêt à",
+          "text": "On dit **près de** (proximité) et **prêt à** (préparé pour) : « Il est **prêt à** partir, il est **près de** la porte. »"
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Près de / prêt à",
-     "text": "On dit **près de** (proximité) et **prêt à** (préparé pour) : « Il est **prêt à** partir, il est **près de** la porte. »"
+      "t": "Si, s’y, ci, six, scie : des sons voisins",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Cinq mots à ne pas confondre",
+          "head": [
+            "Mot",
+            "Nature",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "**si**",
+              "conjonction ou adverbe",
+              "**Si** tu viens, je serai content. Il est **si** gentil !"
+            ],
+            [
+              "**s’y**",
+              "pronom *se* élidé + *y*",
+              "Il **s’y** rend à pied."
+            ],
+            [
+              "**ci**",
+              "adverbe de lieu (dans les composés)",
+              "Voici la liste **ci**-jointe. Prends celui-**ci**."
+            ],
+            [
+              "**six**",
+              "nombre",
+              "Il a **six** ans."
+            ],
+            [
+              "**scie**",
+              "nom ou verbe scier",
+              "Le menuisier prend sa **scie**."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "S’il, s’ils ou si elle ?",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "L’élision de *si*",
+          "head": [
+            "Cas",
+            "Règle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "*si* + il(s)",
+              "on élide : *s’il*, *s’ils*",
+              "**S’il** pleut, nous restons. **S’ils** viennent…"
+            ],
+            [
+              "*si* + elle(s)",
+              "pas d’élision",
+              "**Si elle** vient, nous partons."
+            ],
+            [
+              "*si* + on",
+              "pas d’élision",
+              "**Si on** partait ?"
+            ],
+            [
+              "*si* + un, une",
+              "pas d’élision",
+              "**Si un** élève arrive…"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Erreur fréquente",
+          "text": "On n’écrit jamais « si il » : c’est toujours **s’il**."
+        }
+      ]
+    },
+    {
+      "t": "Près de, de près, prêt à, prêts",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Près et prêt : sens et accord",
+          "head": [
+            "Mot",
+            "Sens",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "**près** (de)",
+              "proximité ; contraire de *loin* ; invariable",
+              "Il habite **près** de l’école. Regarde de **près**."
+            ],
+            [
+              "à peu **près**",
+              "environ",
+              "Il y a à peu **près** vingt élèves."
+            ],
+            [
+              "**prêt**, **prête**, **prêts**, **prêtes**",
+              "adjectif : disposé, préparé ; il s’accorde",
+              "Elles sont **prêtes** à partir."
+            ],
+            [
+              "un **prêt**",
+              "nom : somme ou objet prêté",
+              "Il a demandé un **prêt** à la banque."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Les tests",
+          "text": "Contraire *loin* → **près**. Remplacement par *préparé(e)*, *disposé(e)* → **prêt** (et on peut mettre le féminin)."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Entraîne-toi à choisir."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec si, s’, s’il, y.",
+          "items": [
+            "____ tu viens, tu verras.",
+            "Il ____ habille.",
+            "____ pleut, nous restons.",
+            "J’____ vais demain."
+          ],
+          "corrige": [
+            "1. Si",
+            "2. s’",
+            "3. S’il",
+            "4. y"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec près ou prêt(e)(s).",
+          "items": [
+            "Il habite ____ de la mer.",
+            "Elle est ____ à partir.",
+            "Les élèves sont ____ ."
+          ],
+          "corrige": [
+            "1. près",
+            "2. prête",
+            "3. prêts"
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Il est près à partir.",
+            "Il est prêt à partir.",
+            "Il est pret à partir.",
+            "Il est prés à partir."
+          ],
+          "answer": 1,
+          "explain": "Prêt (préparé) s’accorde ; test : « elle est prête »."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Complète par *si*, *s’y*, *ci*, *six* ou *scie*.",
+          "items": [
+            "Il … rend tous les matins.",
+            "… tu viens, je serai content.",
+            "Elle a … ans aujourd’hui.",
+            "Le menuisier prend sa … .",
+            "Voici la liste …-jointe."
+          ],
+          "corrige": [
+            "1. s’y",
+            "2. Si",
+            "3. six",
+            "4. scie",
+            "5. ci"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète par *près*, *prêt*, *prêts*, *prête* ou *prêtes*.",
+          "items": [
+            "Nous sommes … du but.",
+            "Les élèves sont … à partir.",
+            "Elle habite … de l’école.",
+            "Elle est … pour l’examen.",
+            "Il a demandé un … à la banque."
+          ],
+          "corrige": [
+            "1. près",
+            "2. prêts",
+            "3. près",
+            "4. prête",
+            "5. prêt"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Corrige le texte.",
+          "items": [
+            "Si il fait beau, nous irons à la rivière : les enfants sont près à partir. Ils habitent prêt d’ici, donc ils s’y rendent à pied."
+          ],
+          "corrige": [
+            "**S’il** fait beau, nous irons à la rivière : les enfants sont **prêts** à partir. Ils habitent **près** d’ici, donc ils **s’y** rendent à pied."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Si** : condition (si tu viens), intensité (si grand) ou réponse positive (Si !).",
+            "**S’** = se devant une voyelle ; **s’il(s)** = si + il(s).",
+            "**Y** = là, à cela (j’y vais).",
+            "**Près** (de) = proche (≠ loin) ; **prêt** (à) = préparé, s’accorde (prête)."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quel mot s’accorde en genre et en nombre ?",
+          "options": [
+            "près",
+            "prêt",
+            "si",
+            "y"
+          ],
+          "answer": 1,
+          "explain": "Prêt(e)(s) est un adjectif."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Entraîne-toi à choisir."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Complète avec si, s’, s’il, y.",
-     "items": [
-      "____ tu viens, tu verras.",
-      "Il ____ habille.",
-      "____ pleut, nous restons.",
-      "J’____ vais demain."
-     ],
-     "corrige": [
-      "1. Si",
-      "2. s’",
-      "3. S’il",
-      "4. y"
-     ]
-    },
-    {
-     "type": "exercise",
-     "enonce": "Complète avec près ou prêt(e)(s).",
-     "items": [
-      "Il habite ____ de la mer.",
-      "Elle est ____ à partir.",
-      "Les élèves sont ____ ."
-     ],
-     "corrige": [
-      "1. près",
-      "2. prête",
-      "3. prêts"
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
-     "options": [
-      "Il est près à partir.",
-      "Il est prêt à partir.",
-      "Il est pret à partir.",
-      "Il est prés à partir."
-     ],
-     "answer": 1,
-     "explain": "Prêt (préparé) s’accorde ; test : « elle est prête »."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Si** : condition (si tu viens), intensité (si grand) ou réponse positive (Si !).",
-      "**S’** = se devant une voyelle ; **s’il(s)** = si + il(s).",
-      "**Y** = là, à cela (j’y vais).",
-      "**Près** (de) = proche (≠ loin) ; **prêt** (à) = préparé, s’accorde (prête)."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Quel mot s’accorde en genre et en nombre ?",
-     "options": [
-      "près",
-      "prêt",
-      "si",
-      "y"
-     ],
-     "answer": 1,
-     "explain": "Prêt(e)(s) est un adjectif."
-    }
-   ]
-  }
- ]
+  ]
 }

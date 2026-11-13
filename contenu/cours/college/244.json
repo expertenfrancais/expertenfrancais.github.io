@@ -1,0 +1,383 @@
+{
+ "id": 244,
+ "meta": {
+  "t": "Le mode impératif : valeurs et formes au présent",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "d",
+  "r": 4.8,
+  "mf": "MF5.4.2"
+ },
+ "sections": [
+  {
+   "t": "Les valeurs de l’impératif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’**impératif** est le mode de l’**ordre**, mais il sert aussi à exprimer d’autres intentions. Il se conjugue à **trois personnes seulement**, sans pronom sujet : *chante*, *chantons*, *chantez*."
+    },
+    {
+     "type": "table",
+     "title": "Les valeurs de l’impératif",
+     "head": [
+      "Valeur",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Ordre",
+       "Fais tes devoirs maintenant !"
+      ],
+      [
+       "Conseil",
+       "Mange des fruits, c’est bon pour la santé."
+      ],
+      [
+       "Interdiction (défense)",
+       "Ne touchez pas aux fils électriques."
+      ],
+      [
+       "Prière, demande",
+       "Aide-moi, je t’en prie."
+      ],
+      [
+       "Consigne (recette, mode d’emploi)",
+       "Battez les œufs, puis ajoutez le sucre."
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Le présent de l’impératif",
+     "text": "L’impératif présent s’emploie pour une action à faire **maintenant** ou **bientôt**. Il n’a que trois formes : 2e personne du singulier, 1re et 2e personnes du pluriel."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Ne cours pas dans le couloir ! », l’impératif exprime :",
+     "options": [
+      "un conseil",
+      "une interdiction",
+      "une prière"
+     ],
+     "answer": 1,
+     "explain": "La phrase défend de faire quelque chose : c’est une interdiction."
+    }
+   ]
+  },
+  {
+   "t": "Les verbes du 1er groupe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au 1er groupe, la 2e personne du singulier **ne prend pas de -s**."
+    },
+    {
+     "type": "table",
+     "title": "Impératif présent des verbes du 1er groupe",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "chante",
+       "chantons",
+       "chantez"
+      ],
+      [
+       "manger",
+       "mange",
+       "mangeons",
+       "mangez"
+      ],
+      [
+       "jouer",
+       "joue",
+       "jouons",
+       "jouez"
+      ],
+      [
+       "ouvrir (3e groupe)",
+       "ouvre",
+       "ouvrons",
+       "ouvrez"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Devant **en** ou **y**, on ajoute un **-s** pour faciliter la prononciation : *Mange* ton pain, mais *Manges-en*. *Pense* à ton cahier, mais *Penses-y*. Le verbe *aller* donne : *Va* au marché, mais *Vas-y*.",
+     "label": "Le -s devant en et y"
+    },
+    {
+     "type": "tip",
+     "text": "Les verbes du 3e groupe en **-vrir, -frir, -illir** (*ouvrir, offrir, cueillir*) se conjuguent comme ceux du 1er groupe à la 2e personne du singulier : *ouvre*, *offre*, *cueille*.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte ?",
+     "options": [
+      "Chantes plus fort !",
+      "Chante plus fort !",
+      "Chantez-tu plus fort !"
+     ],
+     "answer": 1,
+     "explain": "Au 1er groupe, la 2e personne du singulier de l’impératif ne prend pas de -s."
+    }
+   ]
+  },
+  {
+   "t": "Les verbes du 2e groupe, être, avoir et quelques verbes courants",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Impératif présent : 2e groupe, être et avoir",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "finir",
+       "finis",
+       "finissons",
+       "finissez"
+      ],
+      [
+       "réussir",
+       "réussis",
+       "réussissons",
+       "réussissez"
+      ],
+      [
+       "être",
+       "sois",
+       "soyons",
+       "soyez"
+      ],
+      [
+       "avoir",
+       "aie",
+       "ayons",
+       "ayez"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes du 3e groupe",
+     "head": [
+      "Verbe",
+      "tu",
+      "nous",
+      "vous"
+     ],
+     "rows": [
+      [
+       "aller",
+       "va",
+       "allons",
+       "allez"
+      ],
+      [
+       "faire",
+       "fais",
+       "faisons",
+       "faites"
+      ],
+      [
+       "dire",
+       "dis",
+       "disons",
+       "dites"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Ne confondez pas **sois** (impératif) avec **soit** (subjonctif), ni **aie** (impératif) avec **ai** (indicatif). On écrit : *N’**aie** pas peur !*, *Sois prudent !*",
+     "label": "Formes particulières"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’impératif présent de « avoir » à la 2e personne du singulier ?",
+     "options": [
+      "ai",
+      "aies",
+      "aie"
+     ],
+     "answer": 2,
+     "explain": "On écrit « Aie du courage ! » : la forme est « aie », sans -s."
+    }
+   ]
+  },
+  {
+   "t": "Les pronoms et la forme négative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À l’impératif **affirmatif**, les pronoms se placent **après le verbe**, reliés par des **traits d’union**. À l’impératif **négatif**, ils se placent **avant le verbe**, entre *ne* et le verbe."
+    },
+    {
+     "type": "table",
+     "title": "Place des pronoms",
+     "head": [
+      "Affirmatif",
+      "Négatif"
+     ],
+     "rows": [
+      [
+       "Lève-**toi**.",
+       "Ne **te** lève pas."
+      ],
+      [
+       "Regarde-**moi**.",
+       "Ne **me** regarde pas."
+      ],
+      [
+       "Dis-**lui** la vérité.",
+       "Ne **lui** dis pas la vérité."
+      ],
+      [
+       "Donne-**le-moi**.",
+       "Ne **me le** donne pas."
+      ],
+      [
+       "Allons-**y**.",
+       "N’**y** allons pas."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "À l’affirmatif, on emploie **moi** et **toi** (*lève-toi*). Au négatif, ils redeviennent **me** et **te** (*ne te lève pas*).",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme négative de « Dis-lui la vérité » ?",
+     "options": [
+      "Ne dis-lui pas la vérité.",
+      "Ne lui dis pas la vérité.",
+      "Ne dis pas lui la vérité."
+     ],
+     "answer": 1,
+     "explain": "Au négatif, le pronom passe avant le verbe : Ne lui dis pas la vérité."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Conjuguez à l’impératif présent, à la 2e personne du singulier.",
+     "items": [
+      "parler",
+      "finir",
+      "être",
+      "avoir",
+      "ouvrir",
+      "aller"
+     ],
+     "corrige": [
+      "parle",
+      "finis",
+      "sois",
+      "aie",
+      "ouvre",
+      "va"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjuguez à l’impératif présent à la personne demandée.",
+     "items": [
+      "chanter (nous)",
+      "réussir (vous)",
+      "être (nous)",
+      "avoir (vous)",
+      "faire (vous)",
+      "dire (vous)"
+     ],
+     "corrige": [
+      "chantons",
+      "réussissez",
+      "soyons",
+      "ayez",
+      "faites",
+      "dites"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indiquez la valeur de l’impératif dans chaque phrase.",
+     "items": [
+      "Ne touchez pas aux fils électriques.",
+      "Fais tes devoirs maintenant !",
+      "Mange des fruits, c’est meilleur pour la santé.",
+      "Aide-moi, je t’en prie.",
+      "Battez les œufs, puis ajoutez le sucre."
+     ],
+     "corrige": [
+      "interdiction",
+      "ordre",
+      "conseil",
+      "prière",
+      "consigne"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mettez à l’impératif affirmatif, puis négatif.",
+     "items": [
+      "Tu te lèves.",
+      "Vous leur parlez.",
+      "Tu me le donnes.",
+      "Nous y allons."
+     ],
+     "corrige": [
+      "Lève-toi. / Ne te lève pas.",
+      "Parlez-leur. / Ne leur parlez pas.",
+      "Donne-le-moi. / Ne me le donne pas.",
+      "Allons-y. / N’y allons pas."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’impératif exprime l’**ordre**, le **conseil**, l’**interdiction**, la **prière** et la **consigne**.",
+      "Il n’a que trois personnes : **tu**, **nous**, **vous**, sans pronom sujet.",
+      "Au 1er groupe, pas de **-s** à *tu* (*chante*), sauf devant **en** et **y** (*manges-en*, *vas-y*).",
+      "**Être** : sois, soyons, soyez. **Avoir** : aie, ayons, ayez.",
+      "À l’affirmatif, pronom **après** le verbe avec trait d’union ; au négatif, **avant** le verbe."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte ?",
+     "options": [
+      "Soit prudent !",
+      "Sois prudent !",
+      "Es prudent !"
+     ],
+     "answer": 1,
+     "explain": "L’impératif présent d’« être » à la 2e personne du singulier est « sois »."
+    }
+   ]
+  }
+ ]
+}

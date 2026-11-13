@@ -1,153 +1,229 @@
 {
  "id": 223,
  "meta": {
-  "t": "La transformation intransitive",
+  "t": "Le présent du subjonctif des verbes du 1er groupe",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "a",
-  "r": 4.8
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "d",
+  "r": 4.8,
+  "mf": "MF5.4.1"
  },
  "sections": [
   {
-   "t": "Un verbe qui se suffit à lui-même",
+   "t": "Qu’est-ce que le subjonctif ?",
    "blocs": [
     {
      "type": "p",
-     "text": "Un verbe est **intransitif** quand il n’a **pas de complément d’objet**. Il peut être employé seul ou suivi de compléments circonstanciels (lieu, temps…)."
+     "text": "Compare : « Tu chantes » et « Il faut que tu chantes ». Dans la seconde phrase, le verbe est au **présent du subjonctif**, parce qu’il vient après « il faut que »."
+    },
+    {
+     "type": "def",
+     "label": "Le subjonctif présent",
+     "text": "Le **subjonctif** est un **mode** qui exprime un **souhait**, un **doute**, un **ordre** ou une **nécessité**. Il s’emploie le plus souvent dans une **proposition subordonnée** introduite par **que**."
     },
     {
      "type": "list",
      "items": [
-      "Définir un verbe intransitif",
-      "Distinguer complément d’objet et complément circonstanciel",
-      "Transformer une phrase pour rendre le verbe intransitif"
+      "Reconnaître le subjonctif présent",
+      "Le conjuguer à tous les verbes du 1er groupe",
+      "Savoir après quels mots l’employer",
+      "Éviter les confusions avec l’imparfait"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "def",
-     "label": "Verbe intransitif",
-     "text": "Un verbe **intransitif** n’admet aucun **complément d’objet** : on ne peut pas poser après lui la question « quoi ? » ou « qui ? »."
+     "type": "ex",
+     "text": "Il faut que **tu chantes** plus fort. — Je veux qu’**il parle** doucement.",
+     "label": "Exemples"
     },
     {
-     "type": "ex",
-     "text": "« Le bébé dort. » « Les invités sont arrivés hier. » « Il habite à Brazzaville. »"
+     "type": "quiz",
+     "question": "Dans « Il faut que tu partes », quel mode est employé ?",
+     "options": [
+      "L’indicatif",
+      "Le subjonctif",
+      "L’impératif",
+      "Le conditionnel"
+     ],
+     "answer": 1,
+     "explain": "« Il faut que » est suivi du subjonctif."
     }
    ]
   },
   {
-   "t": "Verbes toujours intransitifs et verbes à double emploi",
+   "t": "La conjugaison des verbes du 1er groupe",
    "blocs": [
     {
-     "type": "table",
-     "title": "Verbes essentiellement intransitifs",
-     "head": [
-      "Verbe",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "arriver, partir, venir",
-       "Elle arrive demain."
-      ],
-      [
-       "naître, mourir",
-       "L’enfant est né en mai."
-      ],
-      [
-       "dormir, tomber",
-       "Le bébé dort."
-      ],
-      [
-       "rire, sourire",
-       "Ils rient aux éclats."
-      ]
-     ]
+     "type": "p",
+     "text": "Pour conjuguer un verbe du **1er groupe** (verbes en *-er*) au subjonctif présent : on prend le **radical** (l’infinitif sans *-er*) et on ajoute les terminaisons **-e, -es, -e, -ions, -iez, -ent**. On ajoute toujours **que** devant le pronom."
     },
     {
      "type": "table",
-     "title": "Verbes à double emploi : transitif → intransitif",
+     "title": "Chanter et parler au subjonctif présent",
      "head": [
-      "Transitif (avec COD)",
-      "Intransitif (sans COD)"
+      "Personne",
+      "Chanter",
+      "Parler"
      ],
      "rows": [
       [
-       "Elle chante **une chanson**.",
-       "Elle chante."
+       "que je",
+       "chant**e**",
+       "parl**e**"
       ],
       [
-       "Il mange **du riz**.",
-       "Il mange."
+       "que tu",
+       "chant**es**",
+       "parl**es**"
       ],
       [
-       "Nous lisons **un livre**.",
-       "Nous lisons."
+       "qu’il / qu’elle",
+       "chant**e**",
+       "parl**e**"
       ],
       [
-       "Il écrit **une lettre**.",
-       "Il écrit."
+       "que nous",
+       "chant**ions**",
+       "parl**ions**"
+      ],
+      [
+       "que vous",
+       "chant**iez**",
+       "parl**iez**"
+      ],
+      [
+       "qu’ils / qu’elles",
+       "chant**ent**",
+       "parl**ent**"
       ]
      ]
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Pour rendre un verbe intransitif, il suffit de **supprimer le complément d’objet**, quand le sens reste clair."
+     "text": "Pour *je, tu, il* et *ils*, les terminaisons ressemblent à celles de l’indicatif présent. Pour *nous* et *vous*, on ajoute **-ions** et **-iez**."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on « que nous (parler) » au subjonctif présent ?",
+     "options": [
+      "que nous parlons",
+      "que nous parlions",
+      "que nous parlez",
+      "que nous parlent"
+     ],
+     "answer": 1,
+     "explain": "Avec nous, la terminaison est -ions : que nous parlions."
     }
    ]
   },
   {
-   "t": "Ne pas confondre COD et circonstanciel",
+   "t": "Les verbes à particularités",
    "blocs": [
     {
+     "type": "p",
+     "text": "Certains verbes du 1er groupe ont une orthographe particulière. Il faut y faire attention."
+    },
+    {
      "type": "table",
-     "title": "Complément d’objet ou circonstanciel ?",
+     "title": "Quelques verbes particuliers",
      "head": [
-      "Phrase",
-      "Complément",
-      "Nature"
+      "Verbe",
+      "Je / Il / Ils",
+      "Nous / Vous"
      ],
      "rows": [
       [
-       "Il mange du riz.",
-       "du riz",
-       "COD → verbe transitif"
+       "**étudier**",
+       "que j’étudie ; qu’ils étudient",
+       "que nous étudi**ions** ; que vous étudi**iez**"
       ],
       [
-       "Il dort dans sa chambre.",
-       "dans sa chambre",
-       "circonstanciel de lieu → verbe intransitif"
+       "**nettoyer**",
+       "que je nettoie ; qu’ils nettoient",
+       "que nous nettoy**ions** ; que vous nettoy**iez**"
       ],
       [
-       "Elle arrive demain.",
-       "demain",
-       "circonstanciel de temps → verbe intransitif"
+       "**appeler**",
+       "que j’appelle ; qu’ils appellent",
+       "que nous appel**ions** ; que vous appel**iez**"
       ],
       [
-       "Ils partent en voiture.",
-       "en voiture",
-       "circonstanciel de moyen → verbe intransitif"
+       "**aimer**",
+       "que j’aime ; qu’ils aiment",
+       "que nous aim**ions** ; que vous aim**iez**"
       ]
      ]
     },
     {
      "type": "warn",
-     "label": "Piège",
-     "text": "Un verbe intransitif peut avoir un complément ! Mais ce complément répond à « où ? », « quand ? », « comment ? », jamais à « quoi ? » ou « qui ? »."
+     "label": "Attention",
+     "text": "Avec les verbes en **-ier** (*étudier, crier, oublier*), on écrit **deux i** à nous et à vous : *que nous étudiions, que vous oubliiez*. Les verbes en **-yer** gardent le y puis ajoutent le i : *que nous nettoyions*."
     },
     {
      "type": "quiz",
-     "question": "Dans « Elle court dans le jardin », le verbe est :",
+     "question": "Comment écrit-on « que vous (étudier) » ?",
      "options": [
-      "transitif direct",
-      "transitif indirect",
-      "intransitif",
-      "impersonnel"
+      "que vous étudiez",
+      "que vous étudiiez",
+      "que vous étudiez",
+      "que vous étudiyez"
      ],
-     "answer": 2,
-     "explain": "« dans le jardin » est un circonstanciel de lieu : le verbe est intransitif."
+     "answer": 1,
+     "explain": "Avec un verbe en -ier et la terminaison -iez : deux i (étudiiez)."
+    }
+   ]
+  },
+  {
+   "t": "Quand employer le subjonctif ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Quelques expressions qui entraînent le subjonctif",
+     "head": [
+      "Expression",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**il faut que**",
+       "Il faut que tu **travailles**."
+      ],
+      [
+       "**je veux que, je souhaite que**",
+       "Je veux qu’il **chante**."
+      ],
+      [
+       "**pour que**",
+       "Il explique pour que nous **comprenions**."
+      ],
+      [
+       "**avant que**",
+       "Range avant que ta mère **arrive**."
+      ],
+      [
+       "**bien que**",
+       "Bien qu’il **pleuve**, nous sortons."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège : le subjonctif ressemble à l’imparfait",
+     "text": "Aux personnes **nous** et **vous**, le subjonctif et l’imparfait de l’indicatif ont la **même forme** : *que nous chantions* (subjonctif) et *nous chantions* (imparfait). Le mot **que** et le verbe principal t’aident à reconnaître le subjonctif."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase emploie correctement le subjonctif ?",
+     "options": [
+      "Il faut que tu chantes.",
+      "Il faut que tu chantais.",
+      "Il faut que tu chanteras.",
+      "Il faut que tu chanterais."
+     ],
+     "answer": 0,
+     "explain": "Après « il faut que », on emploie le subjonctif : que tu chantes."
     }
    ]
   },
@@ -156,47 +232,61 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Rends le verbe intransitif en supprimant le complément d’objet.",
+     "enonce": "**Exercice 1** : Conjugue au subjonctif présent.",
      "items": [
-      "Les élèves lisent un texte.",
-      "Ma sœur chante une berceuse.",
-      "Il écrit une lettre.",
-      "Elle dessine un paysage."
+      "a) Il faut que je (chanter).",
+      "b) Il faut que tu (parler).",
+      "c) Il faut que nous (aimer).",
+      "d) Il faut que vous (étudier).",
+      "e) Il faut qu’ils (nettoyer)."
      ],
      "corrige": [
-      "1. Les élèves lisent.",
-      "2. Ma sœur chante.",
-      "3. Il écrit.",
-      "4. Elle dessine."
+      "a) que je chante",
+      "b) que tu parles",
+      "c) que nous aimions",
+      "d) que vous étudiiez",
+      "e) qu’ils nettoient"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Dis si le verbe est intransitif ou transitif.",
+     "enonce": "**Exercice 2** : Complète avec le verbe au subjonctif présent.",
      "items": [
-      "Le soleil se lève à l’est.",
-      "Ils ont cueilli des mangues.",
-      "Nous voyageons en train.",
-      "Elle a oublié ses clés."
+      "a) Je veux que tu (travailler) mieux.",
+      "b) Elle souhaite que nous (rester).",
+      "c) Il explique pour que vous (écouter) bien."
      ],
      "corrige": [
-      "1. intransitif (se lève, complément de lieu)",
-      "2. transitif (COD : des mangues)",
-      "3. intransitif (circonstanciel de moyen)",
-      "4. transitif (COD : ses clés)"
+      "a) Je veux que tu travailles mieux.",
+      "b) Elle souhaite que nous restions.",
+      "c) Il explique pour que vous écoutiez bien."
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase contient un verbe intransitif ?",
-     "options": [
-      "Il mange une mangue.",
-      "Elle téléphone à son amie.",
-      "Le bébé dort.",
-      "Il aime le football."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis si le verbe est à l’imparfait (I) ou au subjonctif (S).",
+     "items": [
+      "a) Nous chantions chaque matin.",
+      "b) Il faut que nous chantions plus fort.",
+      "c) Vous parliez trop vite.",
+      "d) Je veux que vous parliez doucement."
      ],
-     "answer": 2,
-     "explain": "« dort » n’a aucun complément d’objet."
+     "corrige": [
+      "a) I",
+      "b) S",
+      "c) I",
+      "d) S"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Écris une phrase avec « il faut que » et un verbe du 1er groupe à la 2e personne du pluriel.",
+     "items": [
+      "Phrase à écrire"
+     ],
+     "corrige": [
+      "Par exemple : Il faut que vous travailliez avec soin."
+     ]
     }
    ]
   },
@@ -207,23 +297,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Un verbe intransitif n’a pas de complément d’objet.",
-      "Il peut avoir des compléments circonstanciels (lieu, temps, manière).",
-      "Pour rendre un verbe intransitif : supprimer le complément d’objet.",
-      "Question-test : si on peut demander « quoi ? » ou « qui ? », le verbe est transitif."
+      "Le **subjonctif présent** s’emploie surtout après **que**, dans une proposition subordonnée.",
+      "Aux verbes du **1er groupe**, les terminaisons sont **-e, -es, -e, -ions, -iez, -ent**.",
+      "On le trouve après *il faut que, je veux que, pour que, avant que, bien que*…",
+      "Verbes en **-ier** : deux i à *nous* et à *vous* (*que nous étudiions*).",
+      "Aux personnes **nous** et **vous**, le subjonctif a la même forme que l’imparfait : le mot **que** aide à les distinguer."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Ils arrivent ce soir » : « ce soir » est :",
+     "question": "Quelle est la terminaison de « que vous » au subjonctif présent (1er groupe) ?",
      "options": [
-      "un COD",
-      "un COI",
-      "un complément circonstanciel de temps",
-      "un attribut"
+      "-ez",
+      "-iez",
+      "-ions",
+      "-ent"
      ],
-     "answer": 2,
-     "explain": "Il répond à « quand ? » : circonstanciel de temps."
+     "answer": 1,
+     "explain": "La terminaison est -iez : que vous chantiez."
     }
    ]
   }

@@ -1,253 +1,386 @@
 {
- "id": 212,
- "meta": {
-  "t": "L’étude d’une œuvre : l’étude de quelques thèmes",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Lecture",
-  "img": "d",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "De quoi parle l’œuvre ?",
-   "blocs": [
+  "id": 212,
+  "meta": {
+    "t": "L’étude d’une œuvre : l’étude de quelques thèmes",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Lecture",
+    "img": "d",
+    "r": 4.8
+  },
+  "sections": [
     {
-     "type": "p",
-     "text": "Une œuvre raconte une histoire, mais elle parle aussi d’**idées** : l’amitié, le courage, la pauvreté, la liberté… Ces idées sont les **thèmes**."
-    },
-    {
-     "type": "list",
-     "items": [
-      "Définir le thème",
-      "Repérer les thèmes d’une œuvre",
-      "Distinguer thème, sujet et message"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "def",
-     "label": "Thème",
-     "text": "Un **thème** est une **idée centrale** développée dans une œuvre : l’amitié, la famille, la justice, la nature…"
-    },
-    {
-     "type": "table",
-     "title": "Thème, sujet, message",
-     "head": [
-      "Notion",
-      "Question",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "sujet",
-       "Que raconte l’histoire ?",
-       "un enfant perdu retrouve sa famille"
-      ],
-      [
-       "thème",
-       "De quoi parle-t-elle ?",
-       "la famille, la solidarité"
-      ],
-      [
-       "message",
-       "Que veut dire l’auteur ?",
-       "on ne doit jamais abandonner les siens"
+      "t": "De quoi parle l’œuvre ?",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Une œuvre raconte une histoire, mais elle parle aussi d’**idées** : l’amitié, le courage, la pauvreté, la liberté… Ces idées sont les **thèmes**."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Définir le thème",
+            "Repérer les thèmes d’une œuvre",
+            "Distinguer thème, sujet et message"
+          ],
+          "label": "Objectifs"
+        },
+        {
+          "type": "def",
+          "label": "Thème",
+          "text": "Un **thème** est une **idée centrale** développée dans une œuvre : l’amitié, la famille, la justice, la nature…"
+        },
+        {
+          "type": "table",
+          "title": "Thème, sujet, message",
+          "head": [
+            "Notion",
+            "Question",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "sujet",
+              "Que raconte l’histoire ?",
+              "un enfant perdu retrouve sa famille"
+            ],
+            [
+              "thème",
+              "De quoi parle-t-elle ?",
+              "la famille, la solidarité"
+            ],
+            [
+              "message",
+              "Que veut dire l’auteur ?",
+              "on ne doit jamais abandonner les siens"
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "« La solidarité » est :",
+          "options": [
+            "un sujet",
+            "un thème",
+            "un titre",
+            "un personnage"
+          ],
+          "answer": 1,
+          "explain": "C’est une **idée** développée : un thème."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "« La solidarité » est :",
-     "options": [
-      "un sujet",
-      "un thème",
-      "un titre",
-      "un personnage"
-     ],
-     "answer": 1,
-     "explain": "C’est une **idée** développée : un thème."
-    }
-   ]
-  },
-  {
-   "t": "Repérer les thèmes",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les indices",
-     "head": [
-      "Indice",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "le titre",
-       "il annonce souvent une idée"
-      ],
-      [
-       "les champs lexicaux",
-       "courage, danger, héros → le courage"
-      ],
-      [
-       "les répétitions",
-       "un mot ou une idée qui revient"
-      ],
-      [
-       "les événements importants",
-       "ce qui change la vie du héros"
-      ],
-      [
-       "la fin de l’œuvre",
-       "la leçon à retenir"
+      "t": "Repérer les thèmes",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les indices",
+          "head": [
+            "Indice",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "le titre",
+              "il annonce souvent une idée"
+            ],
+            [
+              "les champs lexicaux",
+              "courage, danger, héros → le courage"
+            ],
+            [
+              "les répétitions",
+              "un mot ou une idée qui revient"
+            ],
+            [
+              "les événements importants",
+              "ce qui change la vie du héros"
+            ],
+            [
+              "la fin de l’œuvre",
+              "la leçon à retenir"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Dresser la liste",
+          "text": "Note les mots qui reviennent souvent : ils mènent au **thème**."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Dresser la liste",
-     "text": "Note les mots qui reviennent souvent : ils mènent au **thème**."
-    }
-   ]
-  },
-  {
-   "t": "Quelques thèmes fréquents",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Thèmes et exemples d’idées",
-     "head": [
-      "Thème",
-      "Idées associées"
-     ],
-     "rows": [
-      [
-       "l’amitié",
-       "fidélité, entraide, trahison"
-      ],
-      [
-       "le courage",
-       "danger, épreuve, victoire"
-      ],
-      [
-       "la famille",
-       "amour, autorité, séparation"
-      ],
-      [
-       "la pauvreté",
-       "manque, travail, injustice"
-      ],
-      [
-       "la nature",
-       "respect, beauté, menace"
+      "t": "Quelques thèmes fréquents",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Thèmes et exemples d’idées",
+          "head": [
+            "Thème",
+            "Idées associées"
+          ],
+          "rows": [
+            [
+              "l’amitié",
+              "fidélité, entraide, trahison"
+            ],
+            [
+              "le courage",
+              "danger, épreuve, victoire"
+            ],
+            [
+              "la famille",
+              "amour, autorité, séparation"
+            ],
+            [
+              "la pauvreté",
+              "manque, travail, injustice"
+            ],
+            [
+              "la nature",
+              "respect, beauté, menace"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "Un thème s’exprime par un **groupe nominal** (*l’amitié*), pas par une phrase entière."
+        }
       ]
-     ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "Un thème s’exprime par un **groupe nominal** (*l’amitié*), pas par une phrase entière."
-    }
-   ]
-  },
-  {
-   "t": "Application : les thèmes du Cri de la forêt",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Les études critiques consacrées à la pièce d’**Henri Djombo** soulignent surtout des thèmes liés à la **nature**. Tu les retrouveras en lisant ton exemplaire."
-    },
-    {
-     "type": "table",
-     "title": "Des thèmes à repérer",
-     "head": [
-      "Thème",
-      "Idée à chercher dans le texte"
-     ],
-     "rows": [
-      [
-       "la déforestation",
-       "la destruction de la forêt et ses conséquences sur les hommes et sur la nature"
-      ],
-      [
-       "l’argent et le profit",
-       "ceux qui exploitent la forêt pour s’enrichir"
-      ],
-      [
-       "la place des jeunes",
-       "des jeunes dont le point de vue est parfois ignoré"
-      ],
-      [
-       "les savoirs traditionnels",
-       "des pratiques et des croyances des peuples de la forêt"
+      "t": "Application : les thèmes du Cri de la forêt",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Les études critiques consacrées à la pièce d’**Henri Djombo** soulignent surtout des thèmes liés à la **nature**. Tu les retrouveras en lisant ton exemplaire."
+        },
+        {
+          "type": "table",
+          "title": "Des thèmes à repérer",
+          "head": [
+            "Thème",
+            "Idée à chercher dans le texte"
+          ],
+          "rows": [
+            [
+              "la déforestation",
+              "la destruction de la forêt et ses conséquences sur les hommes et sur la nature"
+            ],
+            [
+              "l’argent et le profit",
+              "ceux qui exploitent la forêt pour s’enrichir"
+            ],
+            [
+              "la place des jeunes",
+              "des jeunes dont le point de vue est parfois ignoré"
+            ],
+            [
+              "les savoirs traditionnels",
+              "des pratiques et des croyances des peuples de la forêt"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le titre",
+          "text": "Le mot **cri** appelle une **personnification** : la forêt semble se plaindre. Relie ce thème au cours sur la comparaison, la métaphore et la personnification."
+        },
+        {
+          "type": "ex",
+          "text": "Thème : la déforestation. Justification : un passage où l’on coupe des arbres ou où l’on parle de leur disparition.",
+          "label": "Méthode : un thème = un passage du texte"
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Le titre",
-     "text": "Le mot **cri** appelle une **personnification** : la forêt semble se plaindre. Relie ce thème au cours sur la comparaison, la métaphore et la personnification."
+      "t": "Thème, sujet, motif et message",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Quatre notions voisines",
+          "head": [
+            "Notion",
+            "Définition",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Sujet",
+              "ce dont parle l’histoire (l’intrigue)",
+              "un jeune garçon cherche son père"
+            ],
+            [
+              "Thème",
+              "idée générale abordée par l’œuvre",
+              "la quête de soi, l’amitié, la justice"
+            ],
+            [
+              "Motif",
+              "élément qui revient souvent dans l’œuvre",
+              "le fleuve, la nuit, un objet symbole"
+            ],
+            [
+              "Message",
+              "leçon que l’auteur veut transmettre",
+              "il faut défendre la justice"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Ne confonds pas",
+          "text": "Le **thème** est une idée abstraite (l’amitié) ; le **sujet** est l’histoire racontée (deux amis séparés se retrouvent)."
+        }
+      ]
     },
     {
-     "type": "ex",
-     "text": "Thème : la déforestation. Justification : un passage où l’on coupe des arbres ou où l’on parle de leur disparition.",
-     "label": "Méthode : un thème = un passage du texte"
+      "t": "Les thèmes selon le genre",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Thèmes fréquents",
+          "head": [
+            "Genre",
+            "Thèmes possibles"
+          ],
+          "rows": [
+            [
+              "Roman, conte",
+              "l’aventure, l’amitié, le courage, la ruse, la justice"
+            ],
+            [
+              "Théâtre",
+              "l’argent, le pouvoir, le mariage, l’honneur"
+            ],
+            [
+              "Poésie",
+              "la nature, l’amour, le temps qui passe, la liberté"
+            ],
+            [
+              "Récit d’inspiration africaine",
+              "tradition et modernité, famille, respect des anciens, exode rural, protection de la nature"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Du thème aux personnages et aux événements",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Un thème se découvre dans les actions, les paroles et les décisions des personnages."
+        },
+        {
+          "type": "ex",
+          "text": "Thème : la solidarité. Preuve : quand le village est menacé par la crue, tous les habitants construisent ensemble une digue.",
+          "label": "Exemple de lien"
+        },
+        {
+          "type": "tip",
+          "label": "Méthode",
+          "text": "Nomme le thème, cite un événement ou un personnage qui l’illustre, puis explique en une phrase le lien."
+        }
+      ]
+    },
+    {
+      "t": "Justifier un thème",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Pour justifier un thème, on cite un **passage** ou un **événement** de l’œuvre."
+        },
+        {
+          "type": "ex",
+          "text": "Thème : le courage. Justification : « Le héros traverse la forêt la nuit pour sauver son frère. »",
+          "label": "Modèle"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Choisis une œuvre étudiée en classe.",
+          "items": [
+            "Cite un thème.",
+            "Donne un indice qui le montre.",
+            "Formule le message de l’auteur."
+          ],
+          "corrige": [
+            "Réponses personnelles ; le thème est un groupe nominal et l’indice vient du texte.",
+            "Exemple : thème de l’amitié ; les deux héros s’entraident ; message : l’amitié est une force."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Relie chaque extrait à son thème : solidarité, courage, ruse, justice.",
+          "items": [
+            "Le garçon affronte le lion pour sauver son frère.",
+            "Le renard fait croire au corbeau qu’il chante bien.",
+            "Les voisins reconstruisent ensemble la maison détruite.",
+            "Le juge condamne le voleur, quel que soit son rang."
+          ],
+          "corrige": [
+            "1. courage",
+            "2. ruse",
+            "3. solidarité",
+            "4. justice"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Distingue le sujet et le thème : « Un enfant perd son chien, le cherche partout et le retrouve. »",
+          "items": [
+            "Sujet",
+            "Thème"
+          ],
+          "corrige": [
+            "Sujet : un enfant cherche et retrouve son chien. Thème : la fidélité, l’attachement, la persévérance."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Formule le thème principal : « Dans un village, un vieux sage apprend aux jeunes à respecter la forêt ; ils comprennent qu’elle nourrit tous les habitants. »",
+          "items": [
+            "Écris le thème et le message."
+          ],
+          "corrige": [
+            "Thème : la protection de la nature et le respect des anciens. Message : il faut préserver la forêt, source de vie pour tous."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Thème** = idée centrale de l’œuvre (amitié, courage, justice…).",
+            "Il se distingue du **sujet** (histoire) et du **message** (leçon).",
+            "On le repère par le **titre**, les **champs lexicaux**, les **répétitions**.",
+            "On le justifie par un **passage** du texte."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Le message d’une œuvre est :",
+          "options": [
+            "la leçon de l’auteur",
+            "le titre",
+            "le décor",
+            "le nom du héros"
+          ],
+          "answer": 0,
+          "explain": "C’est ce que l’auteur veut **nous faire comprendre**."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Justifier un thème",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Pour justifier un thème, on cite un **passage** ou un **événement** de l’œuvre."
-    },
-    {
-     "type": "ex",
-     "text": "Thème : le courage. Justification : « Le héros traverse la forêt la nuit pour sauver son frère. »",
-     "label": "Modèle"
-    },
-    {
-     "type": "exercise",
-     "enonce": "Choisis une œuvre étudiée en classe.",
-     "items": [
-      "Cite un thème.",
-      "Donne un indice qui le montre.",
-      "Formule le message de l’auteur."
-     ],
-     "corrige": [
-      "Réponses personnelles ; le thème est un groupe nominal et l’indice vient du texte.",
-      "Exemple : thème de l’amitié ; les deux héros s’entraident ; message : l’amitié est une force."
-     ]
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Thème** = idée centrale de l’œuvre (amitié, courage, justice…).",
-      "Il se distingue du **sujet** (histoire) et du **message** (leçon).",
-      "On le repère par le **titre**, les **champs lexicaux**, les **répétitions**.",
-      "On le justifie par un **passage** du texte."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Le message d’une œuvre est :",
-     "options": [
-      "la leçon de l’auteur",
-      "le titre",
-      "le décor",
-      "le nom du héros"
-     ],
-     "answer": 0,
-     "explain": "C’est ce que l’auteur veut **nous faire comprendre**."
-    }
-   ]
-  }
- ]
+  ]
 }

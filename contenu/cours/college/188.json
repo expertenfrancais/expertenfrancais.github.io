@@ -1,207 +1,395 @@
 {
- "id": 188,
- "meta": {
-  "t": "L’identification des indices de sens d’un support iconographique",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Lecture",
-  "img": "a",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Lire une image",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Une **image** (photographie, dessin, affiche, bande dessinée, carte) transmet un **message**. Pour le comprendre, il faut **observer** avec méthode : tout détail peut être un **indice de sens**."
-    },
-    {
-     "type": "list",
-     "label": "Objectifs",
-     "items": [
-      "Identifier la nature du document",
-      "Repérer les indices (titre, légende, personnages, couleurs…)",
-      "Décrire puis interpréter",
-      "Dégager le message de l’image"
-     ]
-    },
-    {
-     "type": "def",
-     "label": "Support iconographique",
-     "text": "Un **support iconographique** est un document composé d’**images** : photo, dessin, affiche, carte, publicité, bande dessinée…"
-    },
-    {
-     "type": "quiz",
-     "question": "Une affiche est :",
-     "options": [
-      "un support textuel seulement",
-      "un support iconographique",
-      "un poème",
-      "une lettre"
-     ],
-     "answer": 1,
-     "explain": "Une affiche associe images et texte : support iconographique."
-    }
-   ]
+  "id": 188,
+  "meta": {
+    "t": "L’identification des indices de sens d’un support iconographique",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Lecture",
+    "img": "a",
+    "r": 4.8
   },
-  {
-   "t": "Les indices de sens",
-   "blocs": [
+  "sections": [
     {
-     "type": "table",
-     "title": "Les indices à repérer",
-     "head": [
-      "Indice",
-      "À observer"
-     ],
-     "rows": [
-      [
-       "nature du document",
-       "photo, dessin, affiche, publicité…"
-      ],
-      [
-       "titre et légende",
-       "ce qu’ils disent de l’image"
-      ],
-      [
-       "source et date",
-       "qui l’a produite et quand"
-      ],
-      [
-       "personnages",
-       "qui ? que font-ils ? quelle expression ?"
-      ],
-      [
-       "décor et objets",
-       "lieu, époque, accessoires"
-      ],
-      [
-       "couleurs",
-       "chaudes ou froides, vives ou ternes"
-      ],
-      [
-       "texte",
-       "slogan, bulle, inscription"
+      "t": "Lire une image",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Une **image** (photographie, dessin, affiche, bande dessinée, carte) transmet un **message**. Pour le comprendre, il faut **observer** avec méthode : tout détail peut être un **indice de sens**."
+        },
+        {
+          "type": "list",
+          "label": "Objectifs",
+          "items": [
+            "Identifier la nature du document",
+            "Repérer les indices (titre, légende, personnages, couleurs…)",
+            "Décrire puis interpréter",
+            "Dégager le message de l’image"
+          ]
+        },
+        {
+          "type": "def",
+          "label": "Support iconographique",
+          "text": "Un **support iconographique** est un document composé d’**images** : photo, dessin, affiche, carte, publicité, bande dessinée…"
+        },
+        {
+          "type": "quiz",
+          "question": "Une affiche est :",
+          "options": [
+            "un support textuel seulement",
+            "un support iconographique",
+            "un poème",
+            "une lettre"
+          ],
+          "answer": 1,
+          "explain": "Une affiche associe images et texte : support iconographique."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Observer d’abord, interpréter ensuite",
-     "text": "Commence par **décrire ce que tu vois**, puis explique **ce que cela signifie**."
-    }
-   ]
-  },
-  {
-   "t": "La méthode : observer, décrire, interpréter",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les trois étapes",
-     "head": [
-      "Étape",
-      "Question",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "observer",
-       "Que vois-je ?",
-       "Une affiche avec un arbre et un enfant."
-      ],
-      [
-       "décrire",
-       "Comment est-ce présenté ?",
-       "L’enfant arrose un petit arbre ; le fond est vert."
-      ],
-      [
-       "interpréter",
-       "Quel est le message ?",
-       "Il faut protéger la nature."
+      "t": "Les indices de sens",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les indices à repérer",
+          "head": [
+            "Indice",
+            "À observer"
+          ],
+          "rows": [
+            [
+              "nature du document",
+              "photo, dessin, affiche, publicité…"
+            ],
+            [
+              "titre et légende",
+              "ce qu’ils disent de l’image"
+            ],
+            [
+              "source et date",
+              "qui l’a produite et quand"
+            ],
+            [
+              "personnages",
+              "qui ? que font-ils ? quelle expression ?"
+            ],
+            [
+              "décor et objets",
+              "lieu, époque, accessoires"
+            ],
+            [
+              "couleurs",
+              "chaudes ou froides, vives ou ternes"
+            ],
+            [
+              "texte",
+              "slogan, bulle, inscription"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Observer d’abord, interpréter ensuite",
+          "text": "Commence par **décrire ce que tu vois**, puis explique **ce que cela signifie**."
+        }
       ]
-     ]
     },
     {
-     "type": "warn",
-     "label": "Piège",
-     "text": "Distingue ce que l’on **voit** (fait) de ce que l’on **comprend** (interprétation) et justifie-la par des **indices**."
+      "t": "La méthode : observer, décrire, interpréter",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les trois étapes",
+          "head": [
+            "Étape",
+            "Question",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "observer",
+              "Que vois-je ?",
+              "Une affiche avec un arbre et un enfant."
+            ],
+            [
+              "décrire",
+              "Comment est-ce présenté ?",
+              "L’enfant arrose un petit arbre ; le fond est vert."
+            ],
+            [
+              "interpréter",
+              "Quel est le message ?",
+              "Il faut protéger la nature."
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Piège",
+          "text": "Distingue ce que l’on **voit** (fait) de ce que l’on **comprend** (interprétation) et justifie-la par des **indices**."
+        }
+      ]
+    },
+    {
+      "t": "Les différents supports iconographiques",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Une image n’est pas toujours une simple photographie. Chaque support a ses codes, et il faut les connaître pour bien lire."
+        },
+        {
+          "type": "table",
+          "title": "Quelques supports courants",
+          "head": [
+            "Support",
+            "Particularités",
+            "À observer en priorité"
+          ],
+          "rows": [
+            [
+              "Photographie",
+              "reflète une scène réelle, mais le cadrage est choisi",
+              "le cadrage, la lumière, ce qui est au centre"
+            ],
+            [
+              "Affiche (publicité, campagne)",
+              "image + slogan, but de convaincre",
+              "le slogan, les couleurs, le message"
+            ],
+            [
+              "Caricature",
+              "exagère des traits pour critiquer",
+              "les traits déformés, les symboles, la légende"
+            ],
+            [
+              "Bande dessinée",
+              "images en séquence, bulles, onomatopées",
+              "le découpage en cases, les bulles, les gestes"
+            ],
+            [
+              "Tableau, peinture",
+              "œuvre d’un artiste, composition réfléchie",
+              "les couleurs, la lumière, les personnages"
+            ],
+            [
+              "Schéma, infographie",
+              "explique un phénomène avec des chiffres ou des flèches",
+              "le titre, la légende, l’échelle"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Image et texte : titre, légende, slogan",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Souvent, un texte accompagne l’image. Il oriente la lecture et ne doit jamais être oublié."
+        },
+        {
+          "type": "table",
+          "title": "Le rôle du texte",
+          "head": [
+            "Fonction",
+            "Explication",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Ancrage",
+              "le texte dit **ce que montre** l’image et fixe son sens",
+              "Légende : « Marché de Brazzaville, 2024 »"
+            ],
+            [
+              "Relais",
+              "le texte **ajoute** une information que l’image ne donne pas",
+              "Une bulle de bande dessinée qui révèle ce que pense le personnage"
+            ],
+            [
+              "Slogan",
+              "phrase courte et frappante qui résume le message",
+              "« Lire, c’est grandir. »"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Ne te laisse pas guider seulement par le titre",
+          "text": "Compare ce que dit le texte et ce que montre l’image : parfois l’image **contredit** le texte (ironie)."
+        }
+      ]
+    },
+    {
+      "t": "Exemple de lecture : une affiche",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Une affiche montre une jeune fille souriante, assise devant une bibliothèque, un livre ouvert sur les genoux. Le fond est jaune. En bas, on lit : « Lire, c’est grandir. »"
+        },
+        {
+          "type": "table",
+          "title": "L’analyse en trois temps",
+          "head": [
+            "Étape",
+            "Résultat"
+          ],
+          "rows": [
+            [
+              "Observer",
+              "une fille, un livre, des rayonnages, un fond jaune, un slogan"
+            ],
+            [
+              "Décrire",
+              "la jeune fille est au premier plan, souriante ; la bibliothèque est à l’arrière-plan"
+            ],
+            [
+              "Interpréter",
+              "le sourire et la couleur chaude montrent que la lecture est un plaisir ; le slogan invite les jeunes à lire pour progresser"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Retiens",
+          "text": "Distingue toujours **ce que tu vois** (indice) de **ce que tu en déduis** (interprétation)."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Entraîne-toi à lire une image (description d’une affiche : un enfant arrose un arbre, fond vert, slogan « Plantons pour demain »)."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Repère les indices.",
+          "items": [
+            "Nature du document",
+            "Personnage et action",
+            "Couleur dominante",
+            "Slogan"
+          ],
+          "corrige": [
+            "1. une affiche (publicité de sensibilisation)",
+            "2. un enfant arrose un arbre",
+            "3. le vert (nature)",
+            "4. « Plantons pour demain »"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Interprète.",
+          "items": [
+            "Quel est le message de l’affiche ?"
+          ],
+          "corrige": [
+            "Il faut planter des arbres pour protéger l’avenir (environnement)."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Interpréter une image, c’est :",
+          "options": [
+            "la copier",
+            "expliquer son message à l’aide d’indices",
+            "la colorier",
+            "la mesurer"
+          ],
+          "answer": 1,
+          "explain": "On explique le message en s’appuyant sur les indices observés."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Classe ces supports : photographie, affiche, caricature, bande dessinée, schéma.",
+          "items": [
+            "Un dessin qui montre un ministre avec un très gros nez pour critiquer sa politique.",
+            "Un document avec flèches et chiffres qui explique le cycle de l’eau.",
+            "Une image avec le slogan « Protégeons nos forêts ! ».",
+            "Une suite de cases avec des bulles de dialogue."
+          ],
+          "corrige": [
+            "1. caricature",
+            "2. schéma",
+            "3. affiche",
+            "4. bande dessinée"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Dis si le texte joue un rôle d’ancrage ou de relais.",
+          "items": [
+            "Sous une photo d’un stade : « Le stade Alphonse-Massamba-Débat à Brazzaville »",
+            "Dans une bande dessinée, une bulle : « Je savais qu’il viendrait ! »",
+            "Sous le dessin d’un arbre : « Il avait 300 ans. »"
+          ],
+          "corrige": [
+            "1. ancrage (il nomme ce qu’on voit)",
+            "2. relais (il apporte la pensée du personnage)",
+            "3. relais (il ajoute une information)"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Observe, décris, interprète : une photo montre un enfant qui tend la main à un autre enfant tombé sur le sol, devant une école. Tout autour, d’autres enfants regardent.",
+          "items": [
+            "Observer",
+            "Décrire",
+            "Interpréter"
+          ],
+          "corrige": [
+            "Observer : deux enfants, un geste de la main, une école, des enfants spectateurs. Décrire : l’enfant debout est au premier plan, penché. Interpréter : l’image illustre l’entraide et la solidarité ; les spectateurs soulignent l’importance de ne pas rester indifférent."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : lire une affiche",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Imagine une affiche pour la propreté de ton quartier. Décris-la en cinq lignes, puis explique le message en deux lignes.",
+          "items": [
+            "Précise : personnages, couleurs, slogan."
+          ],
+          "corrige": [
+            "Proposition : L’affiche montre un enfant qui ramasse un sac plastique près d’un caniveau. Le fond est vert et le slogan est écrit en lettres blanches : « Mon quartier, ma fierté ». L’enfant est au premier plan ; derrière lui, une rue propre et des maisons colorées. — Message : l’affiche invite chacun à agir pour son quartier ; la couleur verte rappelle la nature et la propreté."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Un **support iconographique** associe des images (et souvent du texte).",
+            "Repérer : **nature, titre, légende, source, personnages, décor, couleurs, texte**.",
+            "Méthode : **observer → décrire → interpréter**.",
+            "Justifier son interprétation par des **indices**."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quel indice indique la date de création d’un document ?",
+          "options": [
+            "la couleur",
+            "la source / la date",
+            "le cadre",
+            "le décor"
+          ],
+          "answer": 1,
+          "explain": "La source et la date renseignent sur l’origine du document."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Entraîne-toi à lire une image (description d’une affiche : un enfant arrose un arbre, fond vert, slogan « Plantons pour demain »)."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Repère les indices.",
-     "items": [
-      "Nature du document",
-      "Personnage et action",
-      "Couleur dominante",
-      "Slogan"
-     ],
-     "corrige": [
-      "1. une affiche (publicité de sensibilisation)",
-      "2. un enfant arrose un arbre",
-      "3. le vert (nature)",
-      "4. « Plantons pour demain »"
-     ]
-    },
-    {
-     "type": "exercise",
-     "enonce": "Interprète.",
-     "items": [
-      "Quel est le message de l’affiche ?"
-     ],
-     "corrige": [
-      "Il faut planter des arbres pour protéger l’avenir (environnement)."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Interpréter une image, c’est :",
-     "options": [
-      "la copier",
-      "expliquer son message à l’aide d’indices",
-      "la colorier",
-      "la mesurer"
-     ],
-     "answer": 1,
-     "explain": "On explique le message en s’appuyant sur les indices observés."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "Un **support iconographique** associe des images (et souvent du texte).",
-      "Repérer : **nature, titre, légende, source, personnages, décor, couleurs, texte**.",
-      "Méthode : **observer → décrire → interpréter**.",
-      "Justifier son interprétation par des **indices**."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Quel indice indique la date de création d’un document ?",
-     "options": [
-      "la couleur",
-      "la source / la date",
-      "le cadre",
-      "le décor"
-     ],
-     "answer": 1,
-     "explain": "La source et la date renseignent sur l’origine du document."
-    }
-   ]
-  }
- ]
+  ]
 }

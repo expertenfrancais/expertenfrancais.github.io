@@ -1,139 +1,185 @@
 {
  "id": 230,
  "meta": {
-  "t": "Les degrés relatifs de qualification",
+  "t": "L’adjectif qualificatif mis en apposition",
   "k": "Cours",
-  "n": "3e",
+  "n": "5e",
   "m": "Grammaire",
-  "img": "h",
-  "r": 4.8
+  "img": "b",
+  "r": 4.8,
+  "mf": "MF5.2.5"
  },
  "sections": [
   {
-   "t": "Comparer pour qualifier",
+   "t": "Qu’est-ce qu’un adjectif en apposition ?",
    "blocs": [
     {
      "type": "p",
-     "text": "On peut donner une qualité à un être ou à une chose, mais aussi dire **à quel degré** elle la possède. Les **degrés relatifs** comparent : on compare un être à un autre, ou à un groupe."
+     "text": "Compare : « Le garçon **fatigué** s’endort. » et « **Fatigué**, le garçon s’endort. » Dans la seconde phrase, l’adjectif est **séparé du nom par une virgule** et placé en tête de phrase : il est **mis en apposition**."
+    },
+    {
+     "type": "def",
+     "label": "L’adjectif en apposition",
+     "text": "Un adjectif qualificatif est **mis en apposition** quand il est **séparé du nom** qu’il qualifie **par une virgule** (ou par des virgules). Il apporte une précision **supplémentaire**."
     },
     {
      "type": "list",
      "items": [
-      "Distinguer comparatif et superlatif relatif",
-      "Employer plus… que, aussi… que, moins… que",
-      "Employer le plus, le moins"
+      "Reconnaître un adjectif en apposition",
+      "Le distinguer de l’épithète",
+      "Connaître sa place dans la phrase",
+      "Accorder correctement l’adjectif"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "def",
-     "label": "Degrés relatifs",
-     "text": "Ils expriment la qualité **par comparaison** : le **comparatif** (supériorité, égalité, infériorité) et le **superlatif relatif** (le plus, le moins)."
+     "type": "ex",
+     "text": "**Fatigué**, le garçon s’endort. — Le garçon, **fatigué**, s’endort. — Le garçon s’endort, **fatigué**.",
+     "label": "Trois places possibles"
     },
     {
      "type": "quiz",
-     "question": "« Paul est plus grand que Marc. » : c’est un comparatif de :",
+     "question": "Un adjectif en apposition est séparé du nom par…",
      "options": [
-      "égalité",
-      "supériorité",
-      "infériorité",
-      "quantité"
+      "un point",
+      "une virgule",
+      "un tiret obligatoire",
+      "rien"
      ],
      "answer": 1,
-     "explain": "« plus… que » exprime la supériorité."
+     "explain": "On le sépare du nom par une ou des virgules."
     }
    ]
   },
   {
-   "t": "Le comparatif",
+   "t": "Apposition ou épithète ?",
    "blocs": [
     {
      "type": "table",
-     "title": "Les trois comparatifs",
+     "title": "Deux façons de qualifier un nom",
      "head": [
-      "Sens",
-      "Formule",
-      "Exemple"
+      "Critère",
+      "Épithète",
+      "Apposition"
      ],
      "rows": [
       [
-       "Supériorité",
-       "plus + adjectif + que",
-       "Marie est **plus** grande **que** Paul."
+       "**Lien avec le nom**",
+       "directement rattaché, sans virgule",
+       "séparé par une virgule"
       ],
       [
-       "Égalité",
-       "aussi + adjectif + que",
-       "Il est **aussi** fort **que** son frère."
+       "**Place**",
+       "fixe, près du nom",
+       "mobile : début, milieu ou fin de phrase"
       ],
       [
-       "Infériorité",
-       "moins + adjectif + que",
-       "Ce sac est **moins** lourd **que** l’autre."
-      ]
-     ]
-    },
-    {
-     "type": "table",
-     "title": "Avec un adverbe, un verbe ou un nom",
-     "head": [
-      "Mot comparé",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "adverbe",
-       "Il court **moins** vite **que** moi."
-      ],
-      [
-       "verbe",
-       "Elle travaille **plus que** sa sœur."
-      ],
-      [
-       "nom",
-       "Il a **autant de** livres **que** moi. / **plus de** livres **que** moi."
+       "**Exemple**",
+       "*Un enfant joyeux court.*",
+       "*Joyeux, l’enfant court.*"
       ]
      ]
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Le deuxième terme de la comparaison est introduit par **« que »** : Paul est plus grand **que Marc**."
+     "text": "Pour reconnaître l’apposition, **déplace l’adjectif** : s’il peut changer de place et qu’il est entre virgules, c’est une apposition."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel adjectif est en apposition ?",
+     "options": [
+      "un enfant joyeux",
+      "Joyeux, l’enfant court.",
+      "une maison blanche",
+      "un livre ancien"
+     ],
+     "answer": 1,
+     "explain": "« Joyeux » est séparé du nom par une virgule et placé en tête de phrase."
     }
    ]
   },
   {
-   "t": "Le superlatif relatif",
+   "t": "Le sens de l’apposition",
    "blocs": [
     {
+     "type": "p",
+     "text": "L’apposition donne souvent une **information supplémentaire** : une **cause**, une **manière**, un **état**."
+    },
+    {
      "type": "table",
-     "title": "Le plus, le moins",
+     "title": "Quelques valeurs",
      "head": [
-      "Sens",
-      "Formule",
-      "Exemple"
+      "Valeur",
+      "Exemple",
+      "Équivalent"
      ],
      "rows": [
       [
-       "Supériorité",
-       "le / la / les plus + adjectif",
-       "C’est **la plus** belle maison **du** quartier."
+       "**Cause**",
+       "*Fatigué, il s’est couché tôt.*",
+       "parce qu’il était fatigué"
       ],
       [
-       "Infériorité",
-       "le / la / les moins + adjectif",
-       "Ce sont **les moins** chers **de** la boutique."
+       "**Manière**",
+       "*Elle entra, souriante.*",
+       "en souriant"
+      ],
+      [
+       "**État**",
+       "*Heureux, nous rentrons.*",
+       "nous sommes heureux et nous rentrons"
       ]
      ]
     },
     {
-     "type": "warn",
-     "label": "Accord",
-     "text": "Le superlatif s’accorde : **le** plus grand, **la** plus grande, **les** plus grands. Le groupe de comparaison est introduit par **de** (ou parmi) : le plus grand **de** la classe."
+     "type": "tip",
+     "label": "À savoir",
+     "text": "L’adjectif apposé **s’accorde** avec le nom qu’il qualifie : *Fatiguées, les filles s’endorment.*"
     },
     {
-     "type": "ex",
-     "text": "Marie est **plus** rapide **que** Paul. Marie est **la plus** rapide **de** la classe."
+     "type": "quiz",
+     "question": "Dans « Fatigué, il s’est couché tôt », l’apposition exprime…",
+     "options": [
+      "le lieu",
+      "la cause",
+      "le but",
+      "la comparaison"
+     ],
+     "answer": 1,
+     "explain": "On pourrait dire : parce qu’il était fatigué."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Piège 1 : oublier la virgule",
+     "text": "Sans virgule, l’adjectif devient épithète : *Le garçon fatigué s’endort* (on précise de quel garçon on parle)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 2 : mal accorder",
+     "text": "*Fatigué, les filles s’endorment* est faux : on écrit *Fatiguées, les filles s’endorment*."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 3 : confondre avec l’attribut",
+     "text": "Dans « Le garçon est fatigué », *fatigué* est attribut du sujet (verbe être). Dans « Fatigué, le garçon s’endort », il est apposé."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Fatiguée, la fille s’endort.",
+      "Fatigué, la fille s’endort.",
+      "Fatiguées, la fille s’endort.",
+      "Fatigués, la fille s’endort."
+     ],
+     "answer": 0,
+     "explain": "L’adjectif s’accorde avec « la fille » (féminin singulier)."
     }
    ]
   },
@@ -142,43 +188,57 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Complète avec plus, aussi ou moins selon le sens indiqué.",
+     "enonce": "**Exercice 1** : Relève l’adjectif en apposition.",
      "items": [
-      "Mon frère est … grand que moi. (supériorité)",
-      "Ce chemin est … long que l’autre. (égalité)",
-      "Cette valise est … lourde que celle-là. (infériorité)"
+      "a) Joyeux, les enfants courent.",
+      "b) Le chat, fatigué, dort.",
+      "c) Elle sortit, souriante.",
+      "d) Un vieil homme marche."
      ],
      "corrige": [
-      "1. plus",
-      "2. aussi",
-      "3. moins"
+      "a) joyeux",
+      "b) fatigué",
+      "c) souriante",
+      "d) aucun (« vieil » est épithète)"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Transforme en superlatif relatif.",
+     "enonce": "**Exercice 2** : Transforme en mettant l’adjectif en apposition en tête de phrase.",
      "items": [
-      "Ce fleuve est long. (supériorité, du pays)",
-      "Cette élève est attentive. (supériorité, de la classe)",
-      "Ces fruits sont chers. (infériorité, du marché)"
+      "a) Le chien affamé aboie.",
+      "b) Les élèves contents rentrent."
      ],
      "corrige": [
-      "1. C’est le fleuve le plus long du pays.",
-      "2. C’est l’élève la plus attentive de la classe.",
-      "3. Ce sont les fruits les moins chers du marché."
+      "a) Affamé, le chien aboie.",
+      "b) Contents, les élèves rentrent."
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase contient un superlatif relatif ?",
-     "options": [
-      "Il est aussi grand que moi.",
-      "Il est très grand.",
-      "Il est le plus grand de la classe.",
-      "Il est plus grand que moi."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Complète avec la bonne forme de l’adjectif.",
+     "items": [
+      "a) (Fatigué), les voyageuses se reposent.",
+      "b) (Heureux), la petite fille chante.",
+      "c) Le garçon rentre, (content)."
      ],
-     "answer": 2,
-     "explain": "« le plus grand de la classe » est un superlatif relatif."
+     "corrige": [
+      "a) Fatiguées",
+      "b) Heureuse",
+      "c) content"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Écris deux phrases avec un adjectif en apposition (une en début, une en fin de phrase).",
+     "items": [
+      "Phrase 1",
+      "Phrase 2"
+     ],
+     "corrige": [
+      "Par exemple : Épuisé, le coureur s’assoit.",
+      "Par exemple : La fille sort, rassurée."
+     ]
     }
    ]
   },
@@ -189,23 +249,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Les degrés relatifs comparent : comparatif et superlatif relatif.",
-      "Comparatif : plus… que, aussi… que, moins… que.",
-      "Superlatif relatif : le / la / les plus, le / la / les moins, suivi de « de ».",
-      "Le superlatif s’accorde avec le nom."
+      "Un adjectif **en apposition** est séparé du nom par une **virgule**.",
+      "Il est **mobile** : début, milieu ou fin de phrase.",
+      "Il apporte une précision (**cause, manière, état**).",
+      "Il **s’accorde** avec le nom qu’il qualifie.",
+      "À distinguer de l’**épithète** (sans virgule) et de l’**attribut** (avec un verbe d’état)."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Marie est … plus rapide de la classe » : quel article convient ?",
+     "question": "Un adjectif en apposition peut-il changer de place ?",
      "options": [
-      "le",
-      "la",
-      "les",
-      "un"
+      "Non",
+      "Oui, il est mobile",
+      "Seulement après le verbe",
+      "Seulement avant le nom"
      ],
      "answer": 1,
-     "explain": "« Marie » est féminin singulier : « la plus rapide »."
+     "explain": "Il peut se placer au début, au milieu ou à la fin de la phrase."
     }
    ]
   }

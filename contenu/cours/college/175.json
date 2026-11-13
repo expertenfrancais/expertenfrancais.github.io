@@ -127,6 +127,116 @@
    ]
   },
   {
+   "t": "Trop, assez : la conséquence avec pour",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les adverbes **trop** et **assez** peuvent annoncer une conséquence avec **pour** + infinitif ou **pour que** + subjonctif."
+    },
+    {
+     "type": "table",
+     "title": "Trop et assez",
+     "head": [
+      "Construction",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "trop … pour + infinitif",
+       "excès qui empêche",
+       "Il est **trop fatigué pour sortir**."
+      ],
+      [
+       "assez … pour + infinitif",
+       "suffisance qui permet",
+       "Elle est **assez grande pour porter** ce sac."
+      ],
+      [
+       "trop / assez … pour que + subjonctif",
+       "sujets différents",
+       "Il est **trop tard pour que nous partions**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne pas écrire que après trop",
+     "text": "On écrit « trop fatigué **pour** sortir », non « trop fatigué **que** je sors »."
+    }
+   ]
+  },
+  {
+   "t": "Conséquence réelle ou conséquence possible",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le mode du verbe",
+     "head": [
+      "Situation",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "conséquence réelle, affirmée",
+       "indicatif",
+       "Il a tellement couru **qu’il est épuisé**."
+      ],
+      [
+       "principale négative ou interrogative",
+       "subjonctif",
+       "Il n’est pas si fatigué **qu’il ne puisse venir**."
+      ],
+      [
+       "but ou conséquence voulue",
+       "subjonctif",
+       "Parle de sorte que tous **puissent** t’entendre."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "L’indicatif dit le fait",
+     "text": "Quand la conséquence est un fait réellement produit, le verbe est à l’**indicatif**."
+    }
+   ]
+  },
+  {
+   "t": "Cause ou conséquence ? Retourner la phrase",
+   "blocs": [
+    {
+     "type": "test",
+     "title": "Le test du « donc »",
+     "lines": [
+      "Il pleut, donc nous restons. → pluie = cause ; rester = **conséquence**.",
+      "Nous restons parce qu’il pleut. → même idée, mais l’ordre est inversé."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Ordre des idées",
+     "head": [
+      "Mot",
+      "Ce qu’il introduit",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "donc, aussi (+ inversion), par conséquent",
+       "la conséquence",
+       "Il pleut ; **donc** nous restons."
+      ],
+      [
+       "parce que, car, puisque",
+       "la cause",
+       "Nous restons **parce qu’il pleut**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -178,6 +288,53 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec si … que, tellement … que, trop … pour ou assez … pour.",
+     "items": [
+      "Il est ____ fatigué ____ il s’endort.",
+      "Elle est ____ petite ____ attraper l’étagère.",
+      "Il est ____ grand ____ jouer au basket.",
+      "Il a ____ de travail ____ il ne dort plus."
+     ],
+     "corrige": [
+      "1. si (tellement) … que",
+      "2. trop … pour",
+      "3. assez … pour",
+      "4. tant … que"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relie les deux phrases par une conséquence.",
+     "items": [
+      "Il pleut beaucoup. Les rues sont inondées.",
+      "Le film est ennuyeux. Je m’endors."
+     ],
+     "corrige": [
+      "1. Il pleut tellement que les rues sont inondées.",
+      "2. Le film est si ennuyeux que je m’endors."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe au mode qui convient.",
+     "items": [
+      "Il est si gentil que tout le monde l’(aimer).",
+      "Il n’est pas si fatigué qu’il ne (pouvoir) venir.",
+      "Il pleuvait tellement que nous (rester) à la maison."
+     ],
+     "corrige": [
+      "1. aime",
+      "2. puisse (principale négative)",
+      "3. sommes restés (ou restions)"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -187,7 +344,9 @@
       "La **conséquence** indique le **résultat** d’une action.",
       "Mots : **donc, alors, par conséquent, c’est pourquoi, aussi + inversion**.",
       "Corrélations : **si / tellement / tant / tel … que**.",
-      "Verbe à l’**indicatif** (conséquence réelle) ; **subjonctif** après **trop / assez … pour que**."
+      "Verbe à l’**indicatif** (conséquence réelle) ; **subjonctif** après **trop / assez … pour que**.",
+      "**Trop/assez … pour** + infinitif : conséquence.",
+      "Principale **négative** ou **interrogative** : subjonctif dans la subordonnée de conséquence."
      ]
     },
     {

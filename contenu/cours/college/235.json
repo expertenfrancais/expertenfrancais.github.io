@@ -1,0 +1,502 @@
+{
+ "id": 235,
+ "meta": {
+  "t": "La préfixation et la suffixation",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8,
+  "mf": "MF6.5.1"
+ },
+ "sections": [
+  {
+   "t": "Comment un mot se construit",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Observe ces mots : *chanter*, *chanteur*, *rechanter*, *chanteuse*. Ils ont tous une partie commune : **chant-**. Autour de cette partie, on a ajouté des morceaux au début ou à la fin. C’est ainsi que beaucoup de mots se fabriquent."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître le radical d’un mot",
+      "Distinguer un préfixe d’un suffixe",
+      "Comprendre le sens que donnent les préfixes et les suffixes",
+      "Fabriquer de nouveaux mots"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Le radical",
+     "text": "Le **radical** est la partie centrale du mot, celle qui porte le sens de base : **chant**-er, **chant**-eur, re-**chant**-er."
+    },
+    {
+     "type": "def",
+     "label": "Le préfixe",
+     "text": "Le **préfixe** est un élément placé **avant** le radical. Il change le **sens** du mot : *faire → **dé**faire*, *lire → **re**lire*."
+    },
+    {
+     "type": "def",
+     "label": "Le suffixe",
+     "text": "Le **suffixe** est un élément placé **après** le radical. Il change souvent la **nature** du mot : *chanter* (verbe) → *chant**eur*** (nom), *lire* → *lis**ible*** (adjectif)."
+    },
+    {
+     "type": "table",
+     "title": "Un mot décomposé",
+     "head": [
+      "Mot",
+      "Préfixe",
+      "Radical",
+      "Suffixe"
+     ],
+     "rows": [
+      [
+       "*refaire*",
+       "re-",
+       "fai(re)",
+       "—"
+      ],
+      [
+       "*chanteur*",
+       "—",
+       "chant",
+       "-eur"
+      ],
+      [
+       "*impossible*",
+       "im-",
+       "poss",
+       "-ible"
+      ],
+      [
+       "*déboisement*",
+       "dé-",
+       "bois",
+       "-ement"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans le mot « malheureux », quel est le préfixe ?",
+     "options": [
+      "heur",
+      "mal-",
+      "-eux",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "*Mal-* est placé avant le radical *heur* : c’est le préfixe. *-eux* est le suffixe."
+    }
+   ]
+  },
+  {
+   "t": "Les préfixes et leur sens",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un préfixe **ajoute une idée** au mot : le contraire, la répétition, la position… Il **ne change pas la nature** du mot : un verbe reste un verbe, un adjectif reste un adjectif."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux préfixes",
+     "head": [
+      "Idée exprimée",
+      "Préfixes",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Le **contraire**, le manque",
+       "in-, im-, il-, ir-, dé-, dés-, mal-, mé-",
+       "*inutile, impossible, illisible, irréel, défaire, désobéir, malheureux, mécontent*"
+      ],
+      [
+       "La **répétition**",
+       "re-, ré-",
+       "*refaire, relire, réécrire, recommencer*"
+      ],
+      [
+       "**Avant**",
+       "pré-",
+       "*préhistoire, prévoir, préparer*"
+      ],
+      [
+       "**Au-dessus, en dessous**",
+       "sur-, sous-",
+       "*surveiller, survoler, sous-marin, sous-estimer*"
+      ],
+      [
+       "**Contre**",
+       "anti-",
+       "*antivol, antibruit*"
+      ],
+      [
+       "**Avec**, ensemble",
+       "co-",
+       "*coéquipier, coopérer*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les préfixes de sens contraire : le bon choix",
+     "text": "On met **im-** devant **b, m, p** (*impossible, imbattable*), **il-** devant **l** (*illisible*), **ir-** devant **r** (*irréel*), **in-** dans les autres cas (*inutile*)."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Tous les mots qui commencent comme un préfixe ne sont pas des mots préfixés. *Reste*, *requin* et *renard* ne viennent pas de *re-* + un radical ; *instant* ne vient pas de *in-* + *stant*. Pour vérifier, demande-toi : **le reste du mot existe-t-il seul ?** *Re-faire* : oui, *faire* existe. *Re-quin* : non."
+    },
+    {
+     "type": "ex",
+     "text": "*dé- + coller = **décoller*** (le contraire de coller) ; *re- + monter = **remonter*** (monter de nouveau) ; *sur- + charger = **surcharger*** (charger trop).",
+     "label": "Exemples"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel préfixe forme le contraire de « lisible » ?",
+     "options": [
+      "in-",
+      "im-",
+      "il-",
+      "ir-"
+     ],
+     "answer": 2,
+     "explain": "Devant un mot qui commence par l, on emploie *il-* : *illisible*."
+    }
+   ]
+  },
+  {
+   "t": "Les suffixes et leur rôle",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un suffixe **change la nature** du mot : on peut fabriquer un nom à partir d’un verbe, un adjectif à partir d’un nom, un adverbe à partir d’un adjectif. Il apporte aussi une nuance de sens."
+    },
+    {
+     "type": "table",
+     "title": "Les suffixes pour former des noms",
+     "head": [
+      "Suffixe",
+      "Sens",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "-eur, -euse, -teur, -trice",
+       "celui ou celle qui fait",
+       "*chanteur, danseuse, acteur, actrice*"
+      ],
+      [
+       "-tion, -sion, -ment, -age",
+       "l’action, le résultat",
+       "*construction, décision, changement, nettoyage*"
+      ],
+      [
+       "-ette, -eau, -on",
+       "petit, diminutif",
+       "*maisonnette, chevreau, ânon*"
+      ],
+      [
+       "-erie, -ier, -ière",
+       "commerce, métier",
+       "*boulangerie, pâtissier, fermière*"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les suffixes pour former d’autres mots",
+     "head": [
+      "Nature",
+      "Suffixes",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**Adjectifs**",
+       "-able, -ible (qu’on peut…), -eux, -if, -al",
+       "*mangeable, lisible, courageux, sportif, normal"
+      ],
+      [
+       "**Verbes**",
+       "-er, -ir, -iser",
+       "*coloriser, jardiner, grandir, atterrir*"
+      ],
+      [
+       "**Adverbes**",
+       "-ment",
+       "*lentement, courageusement, vraiment*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*jardin → jardin**ier*** (celui qui s’occupe du jardin) ; *lire → lis**ible*** (qu’on peut lire) ; *lent → lente**ment*** (façon d’agir).",
+     "label": "Exemples"
+    },
+    {
+     "type": "tip",
+     "label": "Pour trouver la nature d’un mot",
+     "text": "Regarde le suffixe : un mot en **-ment** est souvent un adverbe (*rapidement*), un mot en **-able** est un adjectif (*aimable*), un mot en **-tion** est un nom (*invention*)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Le suffixe **-ment** ne forme pas toujours un adverbe : *un changement*, *un vêtement* sont des **noms** (ils se terminent par *-ment* mais viennent de verbes : *changer*, *vêtir*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel suffixe permet de former un nom qui désigne celui qui fait l’action ?",
+     "options": [
+      "-able",
+      "-ment",
+      "-eur",
+      "-eux"
+     ],
+     "answer": 2,
+     "explain": "*Chanteur*, *joueur*, *voyageur* : le suffixe -eur désigne celui qui fait l’action."
+    }
+   ]
+  },
+  {
+   "t": "Utiliser les préfixes et les suffixes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Connaître les préfixes et les suffixes permet de **deviner le sens d’un mot inconnu** et d’enrichir son vocabulaire."
+    },
+    {
+     "type": "h",
+     "text": "1. Deviner le sens d’un mot nouveau"
+    },
+    {
+     "type": "ex",
+     "text": "*Un parcours **in**surmontable* : le préfixe **in-** exprime le contraire ; *surmonter* signifie « vaincre » ; le suffixe **-able** veut dire « qu’on peut » ; donc *insurmontable* = « qu’on ne peut pas vaincre ».",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "2. Construire une famille de mots"
+    },
+    {
+     "type": "table",
+     "title": "La famille du mot « porter »",
+     "head": [
+      "Mot",
+      "Construction",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "*porteur*",
+       "porte + -eur",
+       "nom"
+      ],
+      [
+       "*portable*",
+       "port + -able",
+       "adjectif"
+      ],
+      [
+       "*emporter*",
+       "em- + porter",
+       "verbe"
+      ],
+      [
+       "*apporter*",
+       "ap- + porter",
+       "verbe"
+      ],
+      [
+       "*transporter*",
+       "trans- + porter",
+       "verbe"
+      ],
+      [
+       "*déporter*",
+       "dé- + porter",
+       "verbe"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "3. Fabriquer un mot en combinant les deux"
+    },
+    {
+     "type": "ex",
+     "text": "*dé- + coiff + -er* → *décoiffer*. On peut aussi cumuler un préfixe et un suffixe : **dé**-**raison**-**able** = *déraisonnable* ; **ir**-**respect**-**ueux** = *irrespectueux*.",
+     "label": "Exemples"
+    },
+    {
+     "type": "warn",
+     "label": "Attention à l’orthographe",
+     "text": "Quand on ajoute un préfixe, le radical **ne change pas** : *dé-faire*, *re-lire*. Le préfixe s’écrit **re-** ou **ré-** : *relire*, *refaire*, mais *réécrire*, *réorganiser* (devant une voyelle, on écrit souvent **ré-**)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nature du mot « lisible » ?",
+     "options": [
+      "nom",
+      "verbe",
+      "adjectif",
+      "adverbe"
+     ],
+     "answer": 2,
+     "explain": "Le suffixe *-ible* forme des adjectifs : *lisible* = « qu’on peut lire »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Recopie chaque mot et sépare le préfixe, le radical et le suffixe par des tirets (quand il y en a).",
+     "items": [
+      "refaire",
+      "malheureux",
+      "chanteur",
+      "impossible",
+      "déboisement",
+      "inutile"
+     ],
+     "corrige": [
+      "1. re-fai(re)",
+      "2. mal-heur-eux",
+      "3. chant-eur",
+      "4. im-poss-ible",
+      "5. dé-bois-ement",
+      "6. in-util(e)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme le contraire de chaque mot avec le préfixe qui convient (in-, im-, il-, ir-, dé-, mal-).",
+     "items": [
+      "lisible",
+      "possible",
+      "réel",
+      "faire",
+      "poli",
+      "heureux"
+     ],
+     "corrige": [
+      "1. illisible",
+      "2. impossible",
+      "3. irréel",
+      "4. défaire",
+      "5. impoli",
+      "6. malheureux"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Forme un nom en ajoutant un suffixe à chaque verbe.",
+     "items": [
+      "chanter",
+      "danser",
+      "jouer",
+      "construire",
+      "nettoyer"
+     ],
+     "corrige": [
+      "1. chanteur / chanteuse",
+      "2. danseur / danseuse",
+      "3. joueur / joueuse",
+      "4. construction",
+      "5. nettoyage"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase avec un mot de la famille de « porter ».",
+     "items": [
+      "Sur la route, un camion ... des marchandises (transporter).",
+      "Je ... mon sac de sport (porter).",
+      "Un ordinateur ... se déplace facilement (adjectif).",
+      "Le ... de valises attend les clients à la gare (nom en -eur)."
+     ],
+     "corrige": [
+      "1. transporte",
+      "2. porte",
+      "3. portable",
+      "4. porteur"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le sens des mots suivants en t’aidant du préfixe et du suffixe.",
+     "items": [
+      "incassable",
+      "réécrire",
+      "imprévisible"
+     ],
+     "corrige": [
+      "1. incassable : qu’on ne peut pas casser",
+      "2. réécrire : écrire de nouveau",
+      "3. imprévisible : qu’on ne peut pas prévoir"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un mot peut se décomposer en **radical** (le sens de base), **préfixe** (avant) et **suffixe** (après).",
+      "Le **préfixe** change le **sens** du mot sans changer sa nature : *faire → défaire*, *lisible → illisible*.",
+      "Le **suffixe** change souvent la **nature** du mot : *chanter → chanteur*, *lire → lisible*, *lent → lentement*.",
+      "Préfixes du contraire : **in-, im-, il-, ir-, dé-, mal-, mé-** ; de la répétition : **re-, ré-**.",
+      "Suffixes courants : **-eur** (celui qui), **-tion, -ment, -age** (action), **-able, -ible** (qu’on peut), **-ment** (adverbe)."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif",
+     "head": [
+      "Je cherche",
+      "Je regarde",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Le sens d’un mot nouveau",
+       "son préfixe et son radical",
+       "*in-* + *utile* = pas utile"
+      ],
+      [
+       "La nature d’un mot",
+       "son suffixe",
+       "*-able* → adjectif ; *-eur* → nom"
+      ],
+      [
+       "Des mots de la même famille",
+       "le même radical",
+       "*chanter, chanteur, rechanter*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « relecture », quel est le préfixe et quel est le suffixe ?",
+     "options": [
+      "re- et -ture",
+      "re- et -ure",
+      "rel- et -ecture",
+      "re- et -cture"
+     ],
+     "answer": 1,
+     "explain": "Re- + lect + -ure : *re-* est le préfixe, *-ure* le suffixe (le radical est *lect*)."
+    }
+   ]
+  }
+ ]
+}

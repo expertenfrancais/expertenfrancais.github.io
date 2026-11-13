@@ -160,6 +160,73 @@
    ]
   },
   {
+   "t": "Le ton et le niveau de langue",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Selon le destinataire",
+     "head": [
+      "Destinataire",
+      "Niveau de langue",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "un ami",
+       "familier ou courant",
+       "Salut Karim ! Comment vas-tu ?"
+      ],
+      [
+       "un parent, un grand-parent",
+       "courant, affectueux",
+       "Chère grand-mère, j’espère que tu vas bien."
+      ],
+      [
+       "un adulte que l’on respecte",
+       "soigné",
+       "Cher Monsieur, je vous écris pour…"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Éviter",
+     "text": "Dans une lettre privée, on évite les abréviations de SMS (« slt », « mdr ») et les phrases sans verbe."
+    }
+   ]
+  },
+  {
+   "t": "Selon le but de la lettre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Formules utiles",
+     "head": [
+      "But",
+      "Formules"
+     ],
+     "rows": [
+      [
+       "donner des nouvelles",
+       "Je t’écris pour te raconter… ; Il m’est arrivé…"
+      ],
+      [
+       "remercier",
+       "Merci infiniment pour… ; Je te remercie de…"
+      ],
+      [
+       "inviter",
+       "Je serais heureux que tu viennes… ; Nous organisons…"
+      ],
+      [
+       "s’excuser",
+       "Je suis désolé de… ; Pardonne-moi d’avoir…"
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -209,6 +276,50 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Remplace les formules familières par des formules soignées.",
+     "items": [
+      "Salut Monsieur !",
+      "Je te kiffe grave.",
+      "Bisous, à+ !"
+     ],
+     "corrige": [
+      "1. Cher Monsieur,",
+      "2. Je tiens beaucoup à vous.",
+      "3. Avec mes amitiés, à bientôt."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève les erreurs de présentation.",
+     "items": [
+      "Brazzaville Le 12 novembre — Salut tout le monde, merci pour le cadeau. Signature."
+     ],
+     "corrige": [
+      "Il manque la virgule après le lieu, la formule d’appel adaptée à une personne, une introduction, une conclusion et une formule de politesse."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger une lettre d’invitation",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Invite un ami à ton anniversaire dans une lettre de huit lignes.",
+     "items": [
+      "Lieu, date, formule d’appel, introduction, invitation, conclusion, formule de politesse, signature."
+     ],
+     "corrige": [
+      "Proposition : Brazzaville, le 14 novembre. Cher Paul, j’espère que tu vas bien. Je t’écris pour t’inviter à mon anniversaire, samedi à quinze heures, chez moi. Il y aura des jeux, un gâteau et de la musique. Je serais heureux de te voir. Réponds-moi vite ! Je t’embrasse. Karim."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -218,7 +329,9 @@
       "Lettre privée = écrit à un **proche**, ton **personnel**.",
       "Présentation : **lieu et date**, **formule d’appel**, **introduction**, **développement**, **conclusion**, **formule de politesse**, **signature**.",
       "Choisir des formules adaptées au destinataire (Cher Paul… / Je t’embrasse).",
-      "Soigner l’**orthographe** et la **ponctuation**."
+      "Soigner l’**orthographe** et la **ponctuation**.",
+      "Le ton s’adapte au **destinataire** : ami, parent, adulte respecté.",
+      "Buts : **raconter, remercier, inviter, s’excuser**."
      ]
     },
     {

@@ -138,6 +138,68 @@
    ]
   },
   {
+   "t": "Après que, avant que : le mode",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Conjonctions de temps",
+     "head": [
+      "Conjonction",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "après que",
+       "indicatif",
+       "**Après qu’il est parti**, nous avons mangé."
+      ],
+      [
+       "avant que",
+       "subjonctif",
+       "**Avant qu’il parte**, dis-lui au revoir."
+      ],
+      [
+       "dès que, aussitôt que",
+       "indicatif",
+       "**Dès qu’il a fini**, il sort."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège fréquent",
+     "text": "Après « **après que** », on emploie l’**indicatif**, pas le subjonctif : « Après qu’il **est** parti » (et non « après qu’il soit parti »)."
+    }
+   ]
+  },
+  {
+   "t": "Passé antérieur et plus-que-parfait",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "L’antériorité dans le passé",
+     "head": [
+      "Temps",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "plus-que-parfait",
+       "antérieur à l’imparfait ou au passé composé",
+       "Il **avait fini** quand je suis arrivé."
+      ],
+      [
+       "passé antérieur",
+       "antérieur à un passé simple (langue littéraire)",
+       "Quand il **eut fini**, il sortit."
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -171,6 +233,37 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe entre parenthèses au temps qui convient.",
+     "items": [
+      "Après qu’il (finir), nous avons mangé.",
+      "Avant qu’il (partir), dis-lui au revoir.",
+      "Quand il (finir) son devoir, il sortit."
+     ],
+     "corrige": [
+      "1. a fini (indicatif)",
+      "2. parte (subjonctif)",
+      "3. eut fini (passé antérieur)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "Après qu’il soit parti, nous avons mangé.",
+      "Je suis arrivé quand il partait déjà."
+     ],
+     "corrige": [
+      "1. Après qu’il **est** parti, nous avons mangé.",
+      "2. Je suis arrivé quand il **était déjà parti**."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -181,7 +274,8 @@
       "Principale au présent → **passé composé**.",
       "Principale au passé → **plus-que-parfait**.",
       "Principale au futur → **futur antérieur**.",
-      "Subjonctif → **passé du subjonctif**."
+      "Subjonctif → **passé du subjonctif**.",
+      "**Après que** + indicatif. **Avant que** + subjonctif."
      ]
     },
     {

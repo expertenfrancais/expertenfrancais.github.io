@@ -1,199 +1,361 @@
 {
- "id": 190,
- "meta": {
-  "t": "La reformulation d’un texte",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Lecture",
-  "img": "c",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Reformuler : redire autrement",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "**Reformuler**, c’est dire la même chose avec **d’autres mots**, sans changer le sens. C’est un bon moyen de vérifier que l’on a **compris** un texte."
-    },
-    {
-     "type": "list",
-     "label": "Objectifs",
-     "items": [
-      "Distinguer reformuler, résumer et copier",
-      "Repérer le type, le ton et le contenu d’un texte",
-      "Utiliser synonymes et changements de structure",
-      "Reconstituer un message en d’autres termes"
-     ]
-    },
-    {
-     "type": "def",
-     "label": "Reformulation",
-     "text": "La **reformulation** consiste à exprimer le **même sens** avec des **mots différents**, en gardant les **idées essentielles**."
-    },
-    {
-     "type": "quiz",
-     "question": "Reformuler, c’est :",
-     "options": [
-      "recopier",
-      "dire autrement sans changer le sens",
-      "ajouter des idées",
-      "supprimer le texte"
-     ],
-     "answer": 1,
-     "explain": "On garde le sens, on change les mots."
-    }
-   ]
+  "id": 190,
+  "meta": {
+    "t": "La reformulation d’un texte",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Lecture",
+    "img": "c",
+    "r": 4.8
   },
-  {
-   "t": "Comprendre avant de reformuler",
-   "blocs": [
+  "sections": [
     {
-     "type": "table",
-     "title": "Les éléments à repérer",
-     "head": [
-      "Élément",
-      "Question"
-     ],
-     "rows": [
-      [
-       "type de texte",
-       "narratif, descriptif, explicatif, argumentatif, injonctif ?"
-      ],
-      [
-       "ton",
-       "sérieux, humoristique, triste, ironique ?"
-      ],
-      [
-       "contenu",
-       "de quoi parle-t-on ? quelles idées ?"
-      ],
-      [
-       "destinataire",
-       "à qui le texte s’adresse-t-il ?"
+      "t": "Reformuler : redire autrement",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Reformuler**, c’est dire la même chose avec **d’autres mots**, sans changer le sens. C’est un bon moyen de vérifier que l’on a **compris** un texte."
+        },
+        {
+          "type": "list",
+          "label": "Objectifs",
+          "items": [
+            "Distinguer reformuler, résumer et copier",
+            "Repérer le type, le ton et le contenu d’un texte",
+            "Utiliser synonymes et changements de structure",
+            "Reconstituer un message en d’autres termes"
+          ]
+        },
+        {
+          "type": "def",
+          "label": "Reformulation",
+          "text": "La **reformulation** consiste à exprimer le **même sens** avec des **mots différents**, en gardant les **idées essentielles**."
+        },
+        {
+          "type": "quiz",
+          "question": "Reformuler, c’est :",
+          "options": [
+            "recopier",
+            "dire autrement sans changer le sens",
+            "ajouter des idées",
+            "supprimer le texte"
+          ],
+          "answer": 1,
+          "explain": "On garde le sens, on change les mots."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Lire deux fois",
-     "text": "Une première lecture pour le **sens global**, une seconde pour les **idées importantes**."
-    }
-   ]
-  },
-  {
-   "t": "Les techniques de reformulation",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les procédés",
-     "head": [
-      "Procédé",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "synonymes",
-       "« Il est **content** » → « Il est **heureux** »."
-      ],
-      [
-       "changer la construction",
-       "« Le chat mange la souris » → « La souris est mangée par le chat »."
-      ],
-      [
-       "verbe ↔ nom",
-       "« Il **arrive** demain » → « Son **arrivée** est prévue demain »."
-      ],
-      [
-       "supprimer les détails",
-       "garder l’essentiel"
-      ],
-      [
-       "définir",
-       "un mot difficile → une explication"
+      "t": "Comprendre avant de reformuler",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les éléments à repérer",
+          "head": [
+            "Élément",
+            "Question"
+          ],
+          "rows": [
+            [
+              "type de texte",
+              "narratif, descriptif, explicatif, argumentatif, injonctif ?"
+            ],
+            [
+              "ton",
+              "sérieux, humoristique, triste, ironique ?"
+            ],
+            [
+              "contenu",
+              "de quoi parle-t-on ? quelles idées ?"
+            ],
+            [
+              "destinataire",
+              "à qui le texte s’adresse-t-il ?"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Lire deux fois",
+          "text": "Une première lecture pour le **sens global**, une seconde pour les **idées importantes**."
+        }
       ]
-     ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "Ne **copie pas** le texte en changeant deux mots : il faut **réécrire avec tes propres mots**."
+      "t": "Les techniques de reformulation",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les procédés",
+          "head": [
+            "Procédé",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "synonymes",
+              "« Il est **content** » → « Il est **heureux** »."
+            ],
+            [
+              "changer la construction",
+              "« Le chat mange la souris » → « La souris est mangée par le chat »."
+            ],
+            [
+              "verbe ↔ nom",
+              "« Il **arrive** demain » → « Son **arrivée** est prévue demain »."
+            ],
+            [
+              "supprimer les détails",
+              "garder l’essentiel"
+            ],
+            [
+              "définir",
+              "un mot difficile → une explication"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "Ne **copie pas** le texte en changeant deux mots : il faut **réécrire avec tes propres mots**."
+        }
+      ]
+    },
+    {
+      "t": "Reformuler à trois niveaux",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Mot, phrase, texte",
+          "head": [
+            "Niveau",
+            "Procédé",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Le mot",
+              "synonyme, mot plus simple, définition",
+              "*un édifice* → *un grand bâtiment*"
+            ],
+            [
+              "La phrase",
+              "changer l’ordre, la tournure, passer au registre courant",
+              "« Il est parvenu à ses fins » → « Il a réussi »"
+            ],
+            [
+              "Le texte",
+              "garder l’idée, reprendre avec ses propres mots, plus court ou plus simple",
+              "un paragraphe de huit lignes → trois phrases claires"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Retiens",
+          "text": "Reformuler, c’est conserver le **sens** en changeant les **mots** et, si besoin, la **construction**."
+        }
+      ]
+    },
+    {
+      "t": "Reformulation, résumé, paraphrase, citation",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "À ne pas confondre",
+          "head": [
+            "Notion",
+            "Définition",
+            "Longueur"
+          ],
+          "rows": [
+            [
+              "Reformulation",
+              "redire autrement la même idée",
+              "semblable à l’original"
+            ],
+            [
+              "Résumé",
+              "garder seulement l’essentiel",
+              "beaucoup plus court"
+            ],
+            [
+              "Paraphrase",
+              "répéter presque mot à mot en changeant à peine",
+              "identique ou plus long"
+            ],
+            [
+              "Citation",
+              "reprendre exactement les mots, entre guillemets",
+              "courte"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Pas de copie",
+          "text": "Remplacer un ou deux mots dans une phrase n’est pas reformuler : c’est de la **paraphrase maladroite**. Il faut refaire la phrase à ta manière."
+        }
+      ]
+    },
+    {
+      "t": "Les expressions de la reformulation",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Connecteurs et marques",
+          "head": [
+            "Rôle",
+            "Expressions",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Redire autrement",
+              "c’est-à-dire, autrement dit, en d’autres termes, soit",
+              "Il est taciturne, **c’est-à-dire** qu’il parle très peu."
+            ],
+            [
+              "Résumer",
+              "bref, en somme, en résumé, en un mot",
+              "**En somme**, il a refusé."
+            ],
+            [
+              "Conclure",
+              "donc, ainsi, finalement",
+              "**Ainsi**, le texte condamne la violence."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Entraîne-toi à reformuler."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Reformule en utilisant un synonyme.",
+          "items": [
+            "Le professeur est furieux.",
+            "Cet exercice est difficile.",
+            "Il marche lentement."
+          ],
+          "corrige": [
+            "1. Le professeur est très en colère.",
+            "2. Cet exercice est compliqué.",
+            "3. Il avance doucement."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Reformule en changeant la construction.",
+          "items": [
+            "Le directeur reçoit les parents.",
+            "Mon frère répare le vélo."
+          ],
+          "corrige": [
+            "1. Les parents sont reçus par le directeur.",
+            "2. Le vélo est réparé par mon frère."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est une bonne reformulation de « Il pleut à verse » ?",
+          "options": [
+            "Il pleut beaucoup.",
+            "Il neige.",
+            "Il fait beau.",
+            "Il vente."
+          ],
+          "answer": 0,
+          "explain": "« À verse » signifie « abondamment » : il pleut beaucoup."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Reformule chaque phrase avec tes propres mots, sans changer le sens.",
+          "items": [
+            "Il fait une chaleur accablante.",
+            "Elle a pris la mouche pour un rien.",
+            "Cet homme est d’une générosité sans égale."
+          ],
+          "corrige": [
+            "Propositions : 1. Il fait extrêmement chaud. 2. Elle s’est fâchée très vite, pour une petite chose. 3. Cet homme est très généreux, plus que tous les autres."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Transforme du langage familier en langage courant.",
+          "items": [
+            "Il a un mal de chien à finir ses devoirs.",
+            "On s’est bien marrés.",
+            "Il bosse comme un fou."
+          ],
+          "corrige": [
+            "Propositions : 1. Il a beaucoup de mal à finir ses devoirs. 2. Nous nous sommes bien amusés. 3. Il travaille énormément."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Reformule ce petit texte en deux phrases : « Dans les villages d’autrefois, quand un enfant tombait malade, toute la communauté se mobilisait : les voisins apportaient des plantes, les anciens racontaient des histoires pour le distraire, et les femmes veillaient à tour de rôle. »",
+          "items": [
+            "Garde l’idée principale."
+          ],
+          "corrige": [
+            "Proposition : Autrefois, la maladie d’un enfant mobilisait tout le village. Chacun aidait, soit avec des remèdes, soit en le divertissant, soit en le veillant."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : reformuler un paragraphe",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Choisis un paragraphe de ton manuel (5 à 6 lignes) et reformule-le en 3 lignes. Ajoute une expression comme *autrement dit*.",
+          "items": [
+            "Vérifie que tu n’as gardé aucune phrase entière."
+          ],
+          "corrige": [
+            "Corrigé : réponse personnelle. Critères : sens conservé, vocabulaire différent, phrases construites autrement, une expression de reformulation, texte plus court."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Reformuler** = redire le même sens avec d’autres mots.",
+            "Repérer le **type**, le **ton** et le **contenu** du texte.",
+            "Techniques : **synonymes, changement de construction, verbe ↔ nom, suppression des détails**.",
+            "Ne pas **copier** : réécrire avec ses propres mots."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quel procédé change « il arrive » en « son arrivée » ?",
+          "options": [
+            "synonyme",
+            "verbe → nom",
+            "suppression",
+            "définition"
+          ],
+          "answer": 1,
+          "explain": "On transforme un verbe en nom."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Entraîne-toi à reformuler."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Reformule en utilisant un synonyme.",
-     "items": [
-      "Le professeur est furieux.",
-      "Cet exercice est difficile.",
-      "Il marche lentement."
-     ],
-     "corrige": [
-      "1. Le professeur est très en colère.",
-      "2. Cet exercice est compliqué.",
-      "3. Il avance doucement."
-     ]
-    },
-    {
-     "type": "exercise",
-     "enonce": "Reformule en changeant la construction.",
-     "items": [
-      "Le directeur reçoit les parents.",
-      "Mon frère répare le vélo."
-     ],
-     "corrige": [
-      "1. Les parents sont reçus par le directeur.",
-      "2. Le vélo est réparé par mon frère."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Quelle phrase est une bonne reformulation de « Il pleut à verse » ?",
-     "options": [
-      "Il pleut beaucoup.",
-      "Il neige.",
-      "Il fait beau.",
-      "Il vente."
-     ],
-     "answer": 0,
-     "explain": "« À verse » signifie « abondamment » : il pleut beaucoup."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Reformuler** = redire le même sens avec d’autres mots.",
-      "Repérer le **type**, le **ton** et le **contenu** du texte.",
-      "Techniques : **synonymes, changement de construction, verbe ↔ nom, suppression des détails**.",
-      "Ne pas **copier** : réécrire avec ses propres mots."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Quel procédé change « il arrive » en « son arrivée » ?",
-     "options": [
-      "synonyme",
-      "verbe → nom",
-      "suppression",
-      "définition"
-     ],
-     "answer": 1,
-     "explain": "On transforme un verbe en nom."
-    }
-   ]
-  }
- ]
+  ]
 }

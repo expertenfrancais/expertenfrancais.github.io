@@ -1,133 +1,254 @@
 {
  "id": 225,
  "meta": {
-  "t": "La transformation impersonnelle",
+  "t": "Le discours indirect",
   "k": "Cours",
-  "n": "3e",
+  "n": "5e",
   "m": "Grammaire",
-  "img": "c",
-  "r": 4.8
+  "img": "b",
+  "r": 4.8,
+  "mf": "MF5.2.4"
  },
  "sections": [
   {
-   "t": "Un verbe qui n’a pas de vrai sujet",
+   "t": "Rapporter des paroles",
    "blocs": [
     {
      "type": "p",
-     "text": "Dans une phrase **impersonnelle**, le sujet est le pronom **« il »**, qui ne représente ni une personne ni une chose précise. Le verbe est toujours à la **3e personne du singulier**."
+     "text": "Quand on raconte ce que quelqu’un a dit, on peut le faire de deux façons. Compare : « Paul a dit : « Je viens demain. » » et « Paul a dit qu’il viendrait le lendemain. »"
     },
-    {
-     "type": "list",
-     "items": [
-      "Reconnaître un verbe impersonnel",
-      "Distinguer le sujet apparent et le sujet réel",
-      "Transformer une phrase à la forme impersonnelle"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "ex",
-     "text": "**Il** pleut. **Il** faut partir. **Il** est arrivé un malheur."
-    },
-    {
-     "type": "quiz",
-     "question": "Dans « Il neige », le pronom « il » désigne :",
-     "options": [
-      "un garçon",
-      "un animal",
-      "personne en particulier",
-      "le professeur"
-     ],
-     "answer": 2,
-     "explain": "C’est un « il » neutre : le verbe est impersonnel."
-    }
-   ]
-  },
-  {
-   "t": "Deux sortes de verbes impersonnels",
-   "blocs": [
     {
      "type": "table",
-     "title": "Verbes toujours impersonnels et verbes accidentellement impersonnels",
+     "title": "Deux manières de rapporter",
      "head": [
-      "Catégorie",
-      "Exemples",
-      "Phrase"
+      "Discours direct",
+      "Discours indirect"
      ],
      "rows": [
       [
-       "Verbes essentiellement impersonnels",
-       "pleuvoir, neiger, falloir, s’agir",
-       "**Il** faut du courage. **Il** s’agit d’un conte."
+       "On rapporte les paroles **telles quelles**, entre **guillemets**.",
+       "On rapporte les paroles dans une **subordonnée**, **sans guillemets**."
       ],
       [
-       "Verbes accidentellement impersonnels",
-       "arriver, rester, manquer, exister, se passer",
-       "**Il** reste deux heures. **Il** manque un cahier."
-      ],
-      [
-       "Expressions impersonnelles",
-       "il est interdit de, il est temps de, il paraît que",
-       "**Il** est interdit de fumer."
+       "*Paul dit : « J’ai faim. »*",
+       "*Paul dit qu’il a faim.*"
       ]
      ]
     },
     {
      "type": "def",
-     "label": "Sujet apparent et sujet réel",
-     "text": "Dans « **Il** est arrivé **un accident** », « il » est le **sujet apparent**, « un accident » est le **sujet réel** (celui qui fait ou subit l’action) placé après le verbe."
-    }
-   ]
-  },
-  {
-   "t": "Comment transformer ?",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "De la phrase personnelle à la phrase impersonnelle",
-     "head": [
-      "Phrase personnelle",
-      "Phrase impersonnelle"
-     ],
-     "rows": [
-      [
-       "Un accident est arrivé.",
-       "**Il** est arrivé **un accident**."
-      ],
-      [
-       "Deux places restent libres.",
-       "**Il** reste **deux places** libres."
-      ],
-      [
-       "Des orages éclatent.",
-       "**Il** éclate **des orages**."
-      ],
-      [
-       "Partir est nécessaire.",
-       "**Il** est nécessaire **de partir**."
-      ]
-     ]
+     "label": "Le discours indirect",
+     "text": "Dans le **discours indirect**, on rapporte les paroles de quelqu’un avec un **verbe introducteur** (*dire, demander, répondre…*) suivi d’une **proposition subordonnée**, sans guillemets, et avec des **changements** de pronoms, de temps et d’indicateurs."
     },
     {
      "type": "list",
      "items": [
-      "Place **il** devant le verbe.",
-      "Conjugue le verbe à la **3e personne du singulier**.",
-      "Place l’ancien sujet **après** le verbe (sujet réel).",
-      "Le verbe ne s’accorde **pas** avec le sujet réel."
+      "Reconnaître le discours indirect",
+      "Passer du discours direct au discours indirect",
+      "Changer les pronoms, les temps et les indicateurs",
+      "Rapporter une question ou un ordre"
      ],
-     "label": "Méthode",
-     "ordered": true
+     "label": "Objectifs"
     },
     {
-     "type": "warn",
-     "label": "Accord",
-     "text": "Au temps composé, le participe passé reste **invariable** : « Il est arrivé **des** malheurs » (et non « arrivés »). « Il est tombé **des** pluies » (et non « tombées »)."
+     "type": "quiz",
+     "question": "Dans le discours indirect, les paroles sont…",
+     "options": [
+      "entre guillemets",
+      "dans une proposition subordonnée sans guillemets",
+      "toujours à l’impératif",
+      "précédées d’un tiret"
+     ],
+     "answer": 1,
+     "explain": "On utilise un verbe introducteur et une subordonnée, sans guillemets."
+    }
+   ]
+  },
+  {
+   "t": "Les changements à faire",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "En passant au discours indirect, il faut modifier plusieurs éléments."
+    },
+    {
+     "type": "table",
+     "title": "Les pronoms et les possessifs",
+     "head": [
+      "Discours direct",
+      "Discours indirect"
+     ],
+     "rows": [
+      [
+       "je, me, moi",
+       "il / elle, se, lui"
+      ],
+      [
+       "tu, te, toi",
+       "je, me, moi (selon celui qui parle)"
+      ],
+      [
+       "nous",
+       "ils / elles"
+      ],
+      [
+       "mon, ma, mes",
+       "son, sa, ses"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les indicateurs de temps et de lieu (verbe introducteur au passé)",
+     "head": [
+      "Discours direct",
+      "Discours indirect"
+     ],
+     "rows": [
+      [
+       "aujourd’hui",
+       "ce jour-là"
+      ],
+      [
+       "hier",
+       "la veille"
+      ],
+      [
+       "demain",
+       "le lendemain"
+      ],
+      [
+       "maintenant",
+       "alors"
+      ],
+      [
+       "ici",
+       "là"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il a dit : « **Demain**, **je** viendrai **ici**. » → Il a dit que **le lendemain**, **il** viendrait **là**.",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "« Demain » devient, au discours indirect (verbe introducteur au passé) :",
+     "options": [
+      "aujourd’hui",
+      "hier",
+      "le lendemain",
+      "maintenant"
+     ],
+     "answer": 2,
+     "explain": "Demain → le lendemain."
+    }
+   ]
+  },
+  {
+   "t": "Les temps : la concordance",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand le verbe introducteur est **au passé** (*a dit, a répondu*), le temps des paroles rapportées change aussi."
+    },
+    {
+     "type": "table",
+     "title": "Les changements de temps",
+     "head": [
+      "Discours direct",
+      "Discours indirect"
+     ],
+     "rows": [
+      [
+       "présent",
+       "imparfait"
+      ],
+      [
+       "futur simple",
+       "conditionnel présent"
+      ],
+      [
+       "passé composé",
+       "plus-que-parfait"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Elle a dit : « J’ai faim. » → Elle a dit qu’elle **avait** faim.\nElle a dit : « Je partirai. » → Elle a dit qu’elle **partirait**.\nElle a dit : « J’ai fini. » → Elle a dit qu’elle **avait fini**.",
+     "label": "Exemples"
     },
     {
      "type": "tip",
-     "label": "Astuce",
-     "text": "Ne confonds pas « il » personnel (« Il chante », c’est un garçon) et « il » impersonnel (« Il pleut »)."
+     "label": "À savoir",
+     "text": "Si le verbe introducteur est **au présent** (*Paul dit que*), le temps ne change pas : *Paul dit qu’il a faim*."
+    },
+    {
+     "type": "quiz",
+     "question": "« Il a dit : « Je viendrai. » » devient :",
+     "options": [
+      "Il a dit qu’il viendra.",
+      "Il a dit qu’il viendrait.",
+      "Il a dit qu’il venait.",
+      "Il a dit qu’il vienne."
+     ],
+     "answer": 1,
+     "explain": "Le futur du discours direct devient le conditionnel présent."
+    }
+   ]
+  },
+  {
+   "t": "Rapporter une question ou un ordre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Questions et ordres",
+     "head": [
+      "Discours direct",
+      "Discours indirect"
+     ],
+     "rows": [
+      [
+       "« Viens-tu ? »",
+       "Il demande **si** je viens."
+      ],
+      [
+       "« Que fais-tu ? »",
+       "Il demande **ce que** je fais."
+      ],
+      [
+       "« Qui est là ? »",
+       "Il demande **qui** est là."
+      ],
+      [
+       "« Sors ! »",
+       "Il ordonne **de** sortir."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Au discours indirect, la question perd son **point d’interrogation** et l’ordre perd son **point d’exclamation** : on termine par un point."
+    },
+    {
+     "type": "warn",
+     "label": "Piège : garder les guillemets",
+     "text": "Il ne faut plus de **guillemets** ni de **deux-points** au discours indirect."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment rapporter « Viens-tu ? » ?",
+     "options": [
+      "Il demande viens-tu ?",
+      "Il demande si je viens.",
+      "Il demande que je viens.",
+      "Il dit : si je viens."
+     ],
+     "answer": 1,
+     "explain": "La question se rapporte avec « si » et sans point d’interrogation."
     }
    ]
   },
@@ -136,47 +257,53 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Mets à la forme impersonnelle.",
+     "enonce": "**Exercice 1** : Passe au discours indirect.",
      "items": [
-      "Un malheur est arrivé.",
-      "Trois élèves manquent.",
-      "De fortes pluies tombent.",
-      "Rester ici est dangereux."
+      "a) Paul dit : « J’ai faim. »",
+      "b) Marie a dit : « Je viendrai demain. »",
+      "c) Il a dit : « Nous avons fini. »"
      ],
      "corrige": [
-      "1. Il est arrivé un malheur.",
-      "2. Il manque trois élèves.",
-      "3. Il tombe de fortes pluies.",
-      "4. Il est dangereux de rester ici."
+      "a) Paul dit qu’il a faim.",
+      "b) Marie a dit qu’elle viendrait le lendemain.",
+      "c) Il a dit qu’ils avaient fini."
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Dis si « il » est personnel ou impersonnel.",
+     "enonce": "**Exercice 2** : Rapporte ces questions.",
      "items": [
-      "Il répare la moto.",
-      "Il faut manger des légumes.",
-      "Il pleut depuis hier.",
-      "Il court très vite."
+      "a) Elle demande : « Es-tu prêt ? »",
+      "b) Il demande : « Que cherches-tu ? »",
+      "c) Il demande : « Qui a gagné ? »"
      ],
      "corrige": [
-      "1. personnel",
-      "2. impersonnel",
-      "3. impersonnel",
-      "4. personnel"
+      "a) Elle demande si tu es prêt.",
+      "b) Il demande ce que tu cherches.",
+      "c) Il demande qui a gagné."
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
-     "options": [
-      "Il est arrivé des visiteurs.",
-      "Il sont arrivés des visiteurs.",
-      "Il est arrivés des visiteurs.",
-      "Ils est arrivé des visiteurs."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Rapporte ces ordres.",
+     "items": [
+      "a) Le maître dit : « Ouvrez vos cahiers ! »",
+      "b) Maman dit : « Range ta chambre ! »"
      ],
-     "answer": 0,
-     "explain": "Le verbe reste à la 3e personne du singulier et le participe est invariable."
+     "corrige": [
+      "a) Le maître dit d’ouvrir les cahiers.",
+      "b) Maman dit de ranger ta chambre (ou « sa chambre »)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Passe au discours direct : *Elle a dit qu’elle partirait le lendemain.*",
+     "items": [
+      "Phrase à transformer"
+     ],
+     "corrige": [
+      "Elle a dit : « Je partirai demain. »"
+     ]
     }
    ]
   },
@@ -187,23 +314,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Un verbe impersonnel a pour sujet « il » (sans référence précise) et se conjugue à la 3e personne du singulier.",
-      "Verbes essentiellement impersonnels : pleuvoir, falloir…, accidentellement : arriver, rester, manquer…",
-      "Le sujet réel se place après le verbe et ne commande pas l’accord.",
-      "Le participe passé reste invariable."
+      "Le **discours indirect** rapporte des paroles avec un **verbe introducteur** et une **subordonnée**, **sans guillemets**.",
+      "On change les **pronoms** et les **possessifs** (*je → il, mon → son*).",
+      "On change les **indicateurs** de temps et de lieu (*demain → le lendemain*).",
+      "Quand le verbe introducteur est **au passé** : présent → imparfait ; futur → conditionnel ; passé composé → plus-que-parfait.",
+      "Une **question** se rapporte avec *si, ce que, qui…* ; un **ordre** avec *de* + infinitif."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Il s’agit d’un conte. » : le verbe « s’agir » est :",
+     "question": "Au discours indirect, on utilise…",
      "options": [
-      "essentiellement impersonnel",
-      "accidentellement impersonnel",
-      "personnel",
-      "transitif direct"
+      "des guillemets",
+      "des tirets",
+      "une subordonnée sans guillemets",
+      "uniquement l’impératif"
      ],
-     "answer": 0,
-     "explain": "« S’agir » ne s’emploie qu’à la forme impersonnelle."
+     "answer": 2,
+     "explain": "On rapporte les paroles dans une subordonnée, sans guillemets."
     }
    ]
   }

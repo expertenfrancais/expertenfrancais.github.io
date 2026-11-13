@@ -1,0 +1,512 @@
+{
+ "id": 234,
+ "meta": {
+  "t": "L’accord de l’adjectif qualificatif",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8,
+  "mf": "MF6.3.1"
+ },
+ "sections": [
+  {
+   "t": "L’adjectif s’accorde avec le nom",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Observe : *un garçon **content*** ; *une fille **contente*** ; *des garçons **contents*** ; *des filles **contentes***. L’adjectif qualificatif **change de forme** selon le nom auquel il se rapporte. On dit qu’il **s’accorde**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Savoir ce qu’est l’accord de l’adjectif",
+      "Trouver le nom auquel l’adjectif se rapporte",
+      "Reconnaître le genre et le nombre du nom",
+      "Accorder l’adjectif en genre et en nombre"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Accord de l’adjectif",
+     "text": "L’adjectif qualificatif prend **le même genre** (masculin ou féminin) et **le même nombre** (singulier ou pluriel) que le **nom** qu’il qualifie ou que le **sujet** auquel il se rapporte."
+    },
+    {
+     "type": "table",
+     "title": "Les quatre formes d’un adjectif",
+     "head": [
+      "Genre",
+      "Singulier",
+      "Pluriel"
+     ],
+     "rows": [
+      [
+       "**Masculin**",
+       "un livre intéressant",
+       "des livres intéressants"
+      ],
+      [
+       "**Féminin**",
+       "une histoire intéressante",
+       "des histoires intéressantes"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pour accorder, pose deux questions",
+     "text": "1. **À quel nom se rapporte l’adjectif ?** 2. **Ce nom est-il masculin ou féminin, singulier ou pluriel ?** Puis écris l’adjectif sous la même forme."
+    },
+    {
+     "type": "ex",
+     "text": "*Les petites filles sont **gentilles**.* → *gentilles* se rapporte à *filles* (féminin pluriel) : l’adjectif est au féminin pluriel.",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Des fleurs parfumé",
+      "Des fleurs parfumées",
+      "Des fleurs parfumés",
+      "Une fleurs parfumée"
+     ],
+     "answer": 1,
+     "explain": "*Fleurs* est féminin pluriel : l’adjectif s’écrit *parfumées*."
+    }
+   ]
+  },
+  {
+   "t": "L’accord en genre : le féminin de l’adjectif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour former le **féminin** d’un adjectif, on ajoute en général un **-e** à la fin du masculin : *grand → grande*, *petit → petite*, *joli → jolie*."
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Si l’adjectif **se termine déjà par -e** au masculin, il ne change pas : *un garçon sage → une fille sage* (on n’écrit pas « sagee »)."
+    },
+    {
+     "type": "table",
+     "title": "Le féminin : les cas à connaître",
+     "head": [
+      "Terminaison du masculin",
+      "Féminin",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "-e",
+       "ne change pas",
+       "*un garçon rapide → une fille rapide*"
+      ],
+      [
+       "-eux",
+       "-euse",
+       "*heureux → heureuse*, *peureux → peureuse*"
+      ],
+      [
+       "-eur",
+       "-euse",
+       "*menteur → menteuse*, *rieur → rieuse*"
+      ],
+      [
+       "-teur",
+       "-trice",
+       "*protecteur → protectrice*"
+      ],
+      [
+       "-er",
+       "-ère",
+       "*léger → légère*, *fier → fière*"
+      ],
+      [
+       "-f",
+       "-ve",
+       "*vif → vive*, *neuf → neuve*"
+      ],
+      [
+       "-el",
+       "-elle",
+       "*cruel → cruelle*, *réel → réelle*"
+      ],
+      [
+       "-en, -on",
+       "-enne, -onne",
+       "*ancien → ancienne*, *bon → bonne*"
+      ],
+      [
+       "-et",
+       "-ette (ou -ète)",
+       "*muet → muette*, *complet → complète*"
+      ],
+      [
+       "-c",
+       "-che",
+       "*blanc → blanche*, *franc → franche*"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Quelques féminins irréguliers"
+    },
+    {
+     "type": "table",
+     "title": "À apprendre par cœur",
+     "head": [
+      "Masculin",
+      "Féminin"
+     ],
+     "rows": [
+      [
+       "beau",
+       "belle"
+      ],
+      [
+       "nouveau",
+       "nouvelle"
+      ],
+      [
+       "vieux",
+       "vieille"
+      ],
+      [
+       "fou",
+       "folle"
+      ],
+      [
+       "doux",
+       "douce"
+      ],
+      [
+       "long",
+       "longue"
+      ],
+      [
+       "gentil",
+       "gentille"
+      ],
+      [
+       "faux",
+       "fausse"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Écouter la fin du mot",
+     "text": "Quand on entend une consonne en plus au féminin, c’est souvent le signe d’un e final : *petit* [pəti] → *petite* [pətit]. Le **e** final est parfois **muet** : *joli → jolie*, *poli → polie*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le féminin de l’adjectif « heureux » ?",
+     "options": [
+      "heureuxe",
+      "heureuse",
+      "heureuze",
+      "heureuxse"
+     ],
+     "answer": 1,
+     "explain": "Les adjectifs en -eux font leur féminin en -euse : *heureuse*."
+    }
+   ]
+  },
+  {
+   "t": "L’accord en nombre : le pluriel de l’adjectif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour mettre un adjectif au **pluriel**, on ajoute en général un **-s** : *un ciel bleu → des ciels bleus*, *une grande maison → de grandes maisons*."
+    },
+    {
+     "type": "table",
+     "title": "Le pluriel de l’adjectif",
+     "head": [
+      "Terminaison au singulier",
+      "Pluriel",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Cas général",
+       "+ **s**",
+       "*petit → petits*, *fatiguée → fatiguées*"
+      ],
+      [
+       "-s, -x",
+       "ne change pas",
+       "*un enfant heureux → des enfants heureux* ; *un gros chien → de gros chiens*"
+      ],
+      [
+       "-al",
+       "-aux",
+       "*normal → normaux*, *original → originaux*"
+      ],
+      [
+       "-eau",
+       "-eaux",
+       "*beau → beaux*, *nouveau → nouveaux*"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Les exceptions en -al",
+     "text": "Quelques adjectifs en -al prennent simplement un **s** : *fatal → fatals*, *final → finals*, *naval → navals*, *natal → natals*."
+    },
+    {
+     "type": "warn",
+     "label": "Le féminin pluriel ne pose pas de problème",
+     "text": "Au féminin, il suffit d’ajouter **-s** à la forme du féminin : *normale → normales*, *belle → belles*, *nouvelle → nouvelles*. Les formes en -aux n’existent qu’au **masculin** pluriel."
+    },
+    {
+     "type": "ex",
+     "text": "*Des garçons **polis** et **courageux** ; des filles **polies** et **courageuses**.*",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le masculin pluriel de « un exercice difficile et original » ?",
+     "options": [
+      "difficiles et originals",
+      "difficile et originaux",
+      "difficiles et originaux",
+      "difficils et originaux"
+     ],
+     "answer": 2,
+     "explain": "*Exercices* est masculin pluriel : *difficiles* (un s) et *originaux* (-al devient -aux)."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges de l’accord",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "1. L’adjectif attribut s’accorde avec le sujet"
+    },
+    {
+     "type": "p",
+     "text": "L’adjectif peut être séparé du nom par un verbe (*être, sembler, paraître, devenir, rester…*). Il s’accorde alors avec le **sujet**."
+    },
+    {
+     "type": "ex",
+     "text": "*Les élèves sont **attentifs**.* ; *La classe semble **calme**.* ; *Ces fruits paraissent **mûrs**.*",
+     "label": "Exemples"
+    },
+    {
+     "type": "h",
+     "text": "2. Un adjectif pour plusieurs noms"
+    },
+    {
+     "type": "p",
+     "text": "Quand un adjectif qualifie **plusieurs noms**, il se met au **pluriel**. Si les noms sont de genres différents, on utilise le **masculin pluriel**."
+    },
+    {
+     "type": "table",
+     "title": "Plusieurs noms, un adjectif",
+     "head": [
+      "Phrase",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "*Un livre et un cahier **neufs***",
+       "masculin + masculin → masculin pluriel"
+      ],
+      [
+       "*Une robe et une jupe **neuves***",
+       "féminin + féminin → féminin pluriel"
+      ],
+      [
+       "*Un garçon et une fille **contents***",
+       "masculin + féminin → masculin pluriel"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "3. L’adjectif éloigné du nom"
+    },
+    {
+     "type": "warn",
+     "label": "Ne te laisse pas piéger",
+     "text": "Un mot ou un groupe de mots peut se glisser entre le nom et l’adjectif. Cherche **toujours le bon nom** : *Les fleurs du jardin sont **fanées**.* (fanées se rapporte à *fleurs*, pas à *jardin*)."
+    },
+    {
+     "type": "test",
+     "title": "Un test pour trouver le nom",
+     "lines": [
+      "Pose la question : « **Qui est ... ?** » ou « **Qu’est-ce qui est ... ?** ».",
+      "*… sont fanées.* → Qu’est-ce qui est fané ? **Les fleurs.** → fanées (féminin pluriel)."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Le chat et la souris sont fatigué.",
+      "Le chat et la souris sont fatiguées.",
+      "Le chat et la souris sont fatigués.",
+      "Le chat et la souris est fatigués."
+     ],
+     "answer": 2,
+     "explain": "Deux noms de genres différents : masculin pluriel, *fatigués*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Recopie en accordant l’adjectif entre parenthèses.",
+     "items": [
+      "Une (grand) maison",
+      "Des élèves (sérieux)",
+      "Des idées (original)",
+      "Une histoire (drôle)",
+      "Des chaussures (neuf)",
+      "Une (beau) journée"
+     ],
+     "corrige": [
+      "1. Une grande maison",
+      "2. Des élèves sérieux",
+      "3. Des idées originales",
+      "4. Une histoire drôle",
+      "5. Des chaussures neuves",
+      "6. Une belle journée"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris le féminin de chaque groupe nominal.",
+     "items": [
+      "un chanteur célèbre",
+      "un voisin gentil",
+      "un élève attentif",
+      "un cousin ancien",
+      "un garçon peureux"
+     ],
+     "corrige": [
+      "1. une chanteuse célèbre",
+      "2. une voisine gentille",
+      "3. une élève attentive",
+      "4. une cousine ancienne",
+      "5. une fille peureuse"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les groupes nominaux au pluriel.",
+     "items": [
+      "un cheval blanc",
+      "un enfant courageux",
+      "un spectacle nouveau",
+      "un conte original",
+      "une histoire amusante"
+     ],
+     "corrige": [
+      "1. des chevaux blancs",
+      "2. des enfants courageux",
+      "3. des spectacles nouveaux",
+      "4. des contes originaux",
+      "5. des histoires amusantes"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie en accordant les adjectifs entre parenthèses avec le sujet.",
+     "items": [
+      "Les enfants sont (heureux).",
+      "Ma sœur semble (fatigué).",
+      "Ces pommes sont (mûr).",
+      "Le garçon et la fille sont (poli).",
+      "Les fenêtres restent (ouvert)."
+     ],
+     "corrige": [
+      "1. Les enfants sont heureux.",
+      "2. Ma sœur semble fatiguée.",
+      "3. Ces pommes sont mûres.",
+      "4. Le garçon et la fille sont polis.",
+      "5. Les fenêtres restent ouvertes."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur d’accord dans chaque phrase.",
+     "items": [
+      "Les élèves attentives écoutent le maître.",
+      "Une robe et un manteau neuves sont dans l’armoire.",
+      "La route est glissants après la pluie.",
+      "Mes amis sont partis très content."
+     ],
+     "corrige": [
+      "1. Les élèves attentifs (ou attentives, si ce sont des filles) écoutent le maître.",
+      "2. Une robe et un manteau neufs sont dans l’armoire.",
+      "3. La route est glissante après la pluie.",
+      "4. Mes amis sont partis très contents."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "L’adjectif qualificatif **s’accorde en genre et en nombre** avec le nom qu’il qualifie.",
+      "**Féminin** : on ajoute en général **-e** ; pas de changement si l’adjectif finit déjà par -e. Cas à connaître : *-eux → -euse, -er → -ère, -f → -ve, -el → -elle, -on → -onne, -c → -che*.",
+      "**Pluriel** : on ajoute en général **-s** ; pas de changement pour -s et -x ; *-al → -aux*, *-eau → -eaux*.",
+      "L’**attribut** s’accorde avec le **sujet** : *Les fleurs sont fanées.*",
+      "Un adjectif qui qualifie **plusieurs noms** est au **pluriel** ; si les genres sont différents, on emploie le **masculin pluriel**."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif",
+     "head": [
+      "Je veux",
+      "Je fais",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Le féminin",
+       "j’ajoute -e (ou j’applique la règle de la terminaison)",
+       "*petit → petite*, *heureux → heureuse*"
+      ],
+      [
+       "Le pluriel",
+       "j’ajoute -s (sauf -s, -x, -al, -eau)",
+       "*petits*, *heureux*, *normaux*, *beaux*"
+      ],
+      [
+       "Je cherche l’accord",
+       "je trouve le nom ou le sujet",
+       "*Les fleurs du jardin sont fanées.*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Les maisons du village sont anciennes », avec quel mot « anciennes » s’accorde-t-il ?",
+     "options": [
+      "village",
+      "maisons",
+      "du",
+      "sont"
+     ],
+     "answer": 1,
+     "explain": "*Anciennes* se rapporte à *maisons* (féminin pluriel)."
+    }
+   ]
+  }
+ ]
+}

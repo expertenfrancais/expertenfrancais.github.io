@@ -1,232 +1,426 @@
 {
- "id": 191,
- "meta": {
-  "t": "L’image : plans, angle de prise de vue, symboles et couleurs",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Lecture",
-  "img": "d",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Comment une image fabrique du sens",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Une photographie ou une image de film n’est jamais neutre : le **cadrage**, le **plan**, l’**angle**, les **couleurs** et les **symboles** orientent notre compréhension."
-    },
-    {
-     "type": "list",
-     "label": "Objectifs",
-     "items": [
-      "Distinguer les différents plans",
-      "Reconnaître l’angle de prise de vue",
-      "Interpréter les couleurs et les symboles",
-      "Expliquer l’effet produit"
-     ]
-    },
-    {
-     "type": "def",
-     "label": "Champ visuel",
-     "text": "Le **champ visuel** (ou **cadrage**) est la partie de la scène que l’on voit dans l’image. Le **premier plan** est ce qui est le plus proche ; l’**arrière-plan**, le plus éloigné."
-    },
-    {
-     "type": "quiz",
-     "question": "L’arrière-plan est :",
-     "options": [
-      "ce qui est le plus proche",
-      "ce qui est le plus éloigné",
-      "le titre",
-      "la légende"
-     ],
-     "answer": 1,
-     "explain": "L’arrière-plan est la partie la plus éloignée."
-    }
-   ]
+  "id": 191,
+  "meta": {
+    "t": "L’image : plans, angle de prise de vue, symboles et couleurs",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Lecture",
+    "img": "d",
+    "r": 4.8
   },
-  {
-   "t": "Les plans et les angles",
-   "blocs": [
+  "sections": [
     {
-     "type": "table",
-     "title": "Les plans",
-     "head": [
-      "Plan",
-      "Ce que l’on voit",
-      "Effet"
-     ],
-     "rows": [
-      [
-       "plan d’ensemble",
-       "tout le décor, personnages minuscules",
-       "situer le lieu"
-      ],
-      [
-       "plan moyen",
-       "personnage en entier",
-       "montrer l’action"
-      ],
-      [
-       "plan américain",
-       "personnage à mi-cuisses",
-       "dialogue, action"
-      ],
-      [
-       "gros plan",
-       "visage ou objet",
-       "émotion, détail"
+      "t": "Comment une image fabrique du sens",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Une photographie ou une image de film n’est jamais neutre : le **cadrage**, le **plan**, l’**angle**, les **couleurs** et les **symboles** orientent notre compréhension."
+        },
+        {
+          "type": "list",
+          "label": "Objectifs",
+          "items": [
+            "Distinguer les différents plans",
+            "Reconnaître l’angle de prise de vue",
+            "Interpréter les couleurs et les symboles",
+            "Expliquer l’effet produit"
+          ]
+        },
+        {
+          "type": "def",
+          "label": "Champ visuel",
+          "text": "Le **champ visuel** (ou **cadrage**) est la partie de la scène que l’on voit dans l’image. Le **premier plan** est ce qui est le plus proche ; l’**arrière-plan**, le plus éloigné."
+        },
+        {
+          "type": "quiz",
+          "question": "L’arrière-plan est :",
+          "options": [
+            "ce qui est le plus proche",
+            "ce qui est le plus éloigné",
+            "le titre",
+            "la légende"
+          ],
+          "answer": 1,
+          "explain": "L’arrière-plan est la partie la plus éloignée."
+        }
       ]
-     ]
     },
     {
-     "type": "table",
-     "title": "Les angles de prise de vue",
-     "head": [
-      "Angle",
-      "Effet"
-     ],
-     "rows": [
-      [
-       "à hauteur d’yeux",
-       "neutre, réaliste"
-      ],
-      [
-       "plongée (vue d’en haut)",
-       "rend petit, fragile"
-      ],
-      [
-       "contre-plongée (vue d’en bas)",
-       "rend grand, puissant, menaçant"
+      "t": "Les plans et les angles",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les plans",
+          "head": [
+            "Plan",
+            "Ce que l’on voit",
+            "Effet"
+          ],
+          "rows": [
+            [
+              "plan d’ensemble",
+              "tout le décor, personnages minuscules",
+              "situer le lieu"
+            ],
+            [
+              "plan moyen",
+              "personnage en entier",
+              "montrer l’action"
+            ],
+            [
+              "plan américain",
+              "personnage à mi-cuisses",
+              "dialogue, action"
+            ],
+            [
+              "gros plan",
+              "visage ou objet",
+              "émotion, détail"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Les angles de prise de vue",
+          "head": [
+            "Angle",
+            "Effet"
+          ],
+          "rows": [
+            [
+              "à hauteur d’yeux",
+              "neutre, réaliste"
+            ],
+            [
+              "plongée (vue d’en haut)",
+              "rend petit, fragile"
+            ],
+            [
+              "contre-plongée (vue d’en bas)",
+              "rend grand, puissant, menaçant"
+            ]
+          ]
+        }
       ]
-     ]
-    }
-   ]
-  },
-  {
-   "t": "Les couleurs et les symboles",
-   "blocs": [
+    },
     {
-     "type": "table",
-     "title": "Les couleurs",
-     "head": [
-      "Couleur",
-      "Sens possible"
-     ],
-     "rows": [
-      [
-       "rouge, orange, jaune (chaudes)",
-       "énergie, joie, danger, passion"
-      ],
-      [
-       "bleu, vert (froides)",
-       "calme, nature, tristesse"
-      ],
-      [
-       "noir",
-       "deuil, mystère, peur"
-      ],
-      [
-       "blanc",
-       "pureté, paix, vide"
+      "t": "Les couleurs et les symboles",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les couleurs",
+          "head": [
+            "Couleur",
+            "Sens possible"
+          ],
+          "rows": [
+            [
+              "rouge, orange, jaune (chaudes)",
+              "énergie, joie, danger, passion"
+            ],
+            [
+              "bleu, vert (froides)",
+              "calme, nature, tristesse"
+            ],
+            [
+              "noir",
+              "deuil, mystère, peur"
+            ],
+            [
+              "blanc",
+              "pureté, paix, vide"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Quelques symboles",
+          "head": [
+            "Symbole",
+            "Sens"
+          ],
+          "rows": [
+            [
+              "colombe",
+              "paix"
+            ],
+            [
+              "balance",
+              "justice"
+            ],
+            [
+              "arbre",
+              "vie, nature"
+            ],
+            [
+              "feu",
+              "danger ou chaleur"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "Le sens des couleurs et des symboles **varie selon les cultures** : toujours le justifier par le **contexte**."
+        }
       ]
-     ]
     },
     {
-     "type": "table",
-     "title": "Quelques symboles",
-     "head": [
-      "Symbole",
-      "Sens"
-     ],
-     "rows": [
-      [
-       "colombe",
-       "paix"
-      ],
-      [
-       "balance",
-       "justice"
-      ],
-      [
-       "arbre",
-       "vie, nature"
-      ],
-      [
-       "feu",
-       "danger ou chaleur"
+      "t": "Cadrage et composition",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Organiser l’image",
+          "head": [
+            "Notion",
+            "Définition",
+            "Effet produit"
+          ],
+          "rows": [
+            [
+              "Cadrage",
+              "ce que l’image montre et ce qu’elle coupe",
+              "attire l’attention sur l’essentiel"
+            ],
+            [
+              "Hors-champ",
+              "ce qui n’est pas visible mais qu’on devine",
+              "suscite la curiosité, le suspense"
+            ],
+            [
+              "Premier plan / arrière-plan",
+              "ce qui est devant / ce qui est au fond",
+              "donne de la profondeur"
+            ],
+            [
+              "Ligne de force",
+              "ligne (diagonale, horizon) qui guide le regard",
+              "donne du mouvement ou de la stabilité"
+            ],
+            [
+              "Composition symétrique",
+              "éléments répartis de chaque côté d’un axe",
+              "calme, ordre, équilibre"
+            ],
+            [
+              "Regard d’un personnage",
+              "direction où il regarde",
+              "oriente notre propre regard"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Retiens",
+          "text": "L’œil lit une image comme un texte : de gauche à droite et de haut en bas, en s’arrêtant sur ce qui est **grand**, **clair** ou **au centre**."
+        }
       ]
-     ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "Le sens des couleurs et des symboles **varie selon les cultures** : toujours le justifier par le **contexte**."
+      "t": "Lumière, netteté, noir et blanc",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les effets de lumière",
+          "head": [
+            "Procédé",
+            "Définition",
+            "Effet"
+          ],
+          "rows": [
+            [
+              "Lumière naturelle / artificielle",
+              "soleil ou éclairage",
+              "ambiance réaliste ou dramatique"
+            ],
+            [
+              "Contre-jour",
+              "la source de lumière est derrière le sujet",
+              "silhouette sombre, mystère"
+            ],
+            [
+              "Contraste d’ombre et de lumière",
+              "zones très claires et très sombres",
+              "tension, drame"
+            ],
+            [
+              "Netteté / flou",
+              "ce qui est précis / ce qui est brouillé",
+              "mise en valeur d’un élément"
+            ],
+            [
+              "Noir et blanc",
+              "absence de couleurs",
+              "témoignage, nostalgie, gravité"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Analyser une image en trois temps",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Une photographie en contre-plongée montre un immense baobab au coucher du soleil. Un enfant minuscule est assis à ses pieds."
+        },
+        {
+          "type": "table",
+          "title": "Exemple de commentaire",
+          "head": [
+            "Étape",
+            "Résultat"
+          ],
+          "rows": [
+            [
+              "Décrire",
+              "un baobab, un enfant, un ciel rouge orangé"
+            ],
+            [
+              "Analyser les procédés",
+              "contre-plongée (l’arbre paraît immense) ; contraste entre le grand arbre et le petit enfant ; couleurs chaudes du coucher de soleil"
+            ],
+            [
+              "Interpréter",
+              "l’arbre symbolise la sagesse et la durée ; l’enfant, la fragilité et l’avenir : l’image évoque la transmission entre les générations"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Plan de commentaire",
+          "text": "Ne mélange pas les trois étapes : d’abord **ce qu’on voit**, puis **comment c’est montré**, enfin **ce que cela signifie**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Entraîne-toi à interpréter."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Donne l’effet de chaque choix.",
+          "items": [
+            "Une contre-plongée sur un personnage.",
+            "Un gros plan sur un visage en larmes.",
+            "Une image dominée par le bleu."
+          ],
+          "corrige": [
+            "1. il paraît grand, puissant (ou menaçant)",
+            "2. on ressent son émotion",
+            "3. calme ou tristesse selon le contexte"
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Un plan d’ensemble sert à :",
+          "options": [
+            "montrer un visage",
+            "situer le décor",
+            "montrer un détail",
+            "cacher le sujet"
+          ],
+          "answer": 1,
+          "explain": "Il montre le lieu entier."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Nomme le plan : gros plan, plan moyen, plan américain, plan général.",
+          "items": [
+            "Un visage occupe toute l’image.",
+            "Un homme est montré en pied dans une rue.",
+            "Un village entier est vu de loin, les maisons sont minuscules.",
+            "Une femme est visible de la tête jusqu’aux genoux."
+          ],
+          "corrige": [
+            "1. gros plan",
+            "2. plan moyen",
+            "3. plan général",
+            "4. plan américain"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Dis l’angle de prise de vue et son effet.",
+          "items": [
+            "Un enfant est photographié du dessus, tout petit au milieu d’une grande place.",
+            "Un chef est photographié depuis le sol : il paraît immense.",
+            "Un élève est photographié à hauteur de ses yeux."
+          ],
+          "corrige": [
+            "1. plongée : fragilité, petitesse",
+            "2. contre-plongée : puissance, grandeur",
+            "3. angle neutre : proximité, naturel"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Donne la valeur symbolique de la couleur dominante (elle peut varier selon les cultures).",
+          "items": [
+            "une colombe blanche sur fond bleu (affiche pour la paix)",
+            "un panneau rouge (sécurité routière)",
+            "un fond vert (affiche écologique)",
+            "un fond noir (annonce de deuil)"
+          ],
+          "corrige": [
+            "1. blanc : paix, pureté ; bleu : calme",
+            "2. rouge : danger, interdiction",
+            "3. vert : nature, écologie",
+            "4. noir : deuil, gravité"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : commenter une image",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Décris en six lignes l’image suivante et commente-la : un pêcheur, de dos, dans une pirogue, face à un soleil levant sur un fleuve calme. L’image est prise en plan d’ensemble.",
+          "items": [
+            "Décrire / analyser / interpréter."
+          ],
+          "corrige": [
+            "Proposition : L’image montre un pêcheur de dos dans sa pirogue, au milieu d’un fleuve calme. Le plan d’ensemble met en valeur l’immensité du paysage. Les couleurs chaudes du soleil levant donnent une impression de paix. Le pêcheur est petit : il semble faire partie de la nature. L’image symbolise la sérénité et le lien entre l’homme et le fleuve."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Plans** : d’ensemble, moyen, américain, gros plan.",
+            "**Angles** : à hauteur d’yeux, plongée (petit), contre-plongée (grand).",
+            "**Couleurs** : chaudes (énergie), froides (calme), noir (mystère), blanc (paix).",
+            "**Symboles** : colombe = paix, balance = justice…",
+            "Le sens varie selon le **contexte** et la **culture**."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "La contre-plongée donne l’impression que le sujet est :",
+          "options": [
+            "petit",
+            "grand et puissant",
+            "absent",
+            "flou"
+          ],
+          "answer": 1,
+          "explain": "Vu d’en bas, le sujet paraît grand."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Entraîne-toi à interpréter."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Donne l’effet de chaque choix.",
-     "items": [
-      "Une contre-plongée sur un personnage.",
-      "Un gros plan sur un visage en larmes.",
-      "Une image dominée par le bleu."
-     ],
-     "corrige": [
-      "1. il paraît grand, puissant (ou menaçant)",
-      "2. on ressent son émotion",
-      "3. calme ou tristesse selon le contexte"
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Un plan d’ensemble sert à :",
-     "options": [
-      "montrer un visage",
-      "situer le décor",
-      "montrer un détail",
-      "cacher le sujet"
-     ],
-     "answer": 1,
-     "explain": "Il montre le lieu entier."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Plans** : d’ensemble, moyen, américain, gros plan.",
-      "**Angles** : à hauteur d’yeux, plongée (petit), contre-plongée (grand).",
-      "**Couleurs** : chaudes (énergie), froides (calme), noir (mystère), blanc (paix).",
-      "**Symboles** : colombe = paix, balance = justice…",
-      "Le sens varie selon le **contexte** et la **culture**."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "La contre-plongée donne l’impression que le sujet est :",
-     "options": [
-      "petit",
-      "grand et puissant",
-      "absent",
-      "flou"
-     ],
-     "answer": 1,
-     "explain": "Vu d’en bas, le sujet paraît grand."
-    }
-   ]
-  }
- ]
+  ]
 }

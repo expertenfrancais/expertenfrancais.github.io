@@ -1,200 +1,361 @@
 {
- "id": 208,
- "meta": {
-  "t": "L’argumentation d’un point de vue : position, arguments et exemples",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Expression écrite",
-  "img": "b",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Défendre une opinion",
-   "blocs": [
+  "id": 208,
+  "meta": {
+    "t": "L’argumentation d’un point de vue : position, arguments et exemples",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Expression écrite",
+    "img": "b",
+    "r": 4.8
+  },
+  "sections": [
     {
-     "type": "p",
-     "text": "« Les élèves doivent avoir accès à la bibliothèque. » Pour convaincre, il ne suffit pas d’affirmer : il faut **prendre position**, donner des **arguments** et les appuyer par des **exemples**."
-    },
-    {
-     "type": "list",
-     "items": [
-      "Formuler sa position (thèse)",
-      "Trouver des arguments",
-      "Appuyer chaque argument par un exemple"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "def",
-     "label": "Argumenter",
-     "text": "**Argumenter**, c’est défendre une opinion en donnant des **raisons** (arguments) soutenues par des **exemples** pour **convaincre**."
-    },
-    {
-     "type": "table",
-     "title": "Les trois éléments",
-     "head": [
-      "Élément",
-      "Rôle",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "position (thèse)",
-       "l’opinion défendue",
-       "La lecture est utile aux élèves."
-      ],
-      [
-       "argument",
-       "une raison",
-       "Elle enrichit le vocabulaire."
-      ],
-      [
-       "exemple",
-       "un fait qui prouve",
-       "Un élève qui lit beaucoup fait moins de fautes."
+      "t": "Défendre une opinion",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "« Les élèves doivent avoir accès à la bibliothèque. » Pour convaincre, il ne suffit pas d’affirmer : il faut **prendre position**, donner des **arguments** et les appuyer par des **exemples**."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Formuler sa position (thèse)",
+            "Trouver des arguments",
+            "Appuyer chaque argument par un exemple"
+          ],
+          "label": "Objectifs"
+        },
+        {
+          "type": "def",
+          "label": "Argumenter",
+          "text": "**Argumenter**, c’est défendre une opinion en donnant des **raisons** (arguments) soutenues par des **exemples** pour **convaincre**."
+        },
+        {
+          "type": "table",
+          "title": "Les trois éléments",
+          "head": [
+            "Élément",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "position (thèse)",
+              "l’opinion défendue",
+              "La lecture est utile aux élèves."
+            ],
+            [
+              "argument",
+              "une raison",
+              "Elle enrichit le vocabulaire."
+            ],
+            [
+              "exemple",
+              "un fait qui prouve",
+              "Un élève qui lit beaucoup fait moins de fautes."
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Un argument sert à :",
+          "options": [
+            "raconter",
+            "justifier une opinion",
+            "décrire",
+            "réciter"
+          ],
+          "answer": 1,
+          "explain": "Il donne une **raison** à l’appui de la thèse."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "Un argument sert à :",
-     "options": [
-      "raconter",
-      "justifier une opinion",
-      "décrire",
-      "réciter"
-     ],
-     "answer": 1,
-     "explain": "Il donne une **raison** à l’appui de la thèse."
-    }
-   ]
-  },
-  {
-   "t": "Prendre position",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "On commence par repérer le **sujet** du débat, puis on choisit son camp : **pour** ou **contre**."
-    },
-    {
-     "type": "table",
-     "title": "Formules pour exprimer sa position",
-     "head": [
-      "Position",
-      "Formules"
-     ],
-     "rows": [
-      [
-       "pour",
-       "Je pense que… / À mon avis… / Je suis convaincu que…"
-      ],
-      [
-       "contre",
-       "Je ne suis pas d’accord… / Je m’oppose à…"
-      ],
-      [
-       "nuancée",
-       "Certes… mais… / Il est vrai que… cependant…"
+      "t": "Prendre position",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "On commence par repérer le **sujet** du débat, puis on choisit son camp : **pour** ou **contre**."
+        },
+        {
+          "type": "table",
+          "title": "Formules pour exprimer sa position",
+          "head": [
+            "Position",
+            "Formules"
+          ],
+          "rows": [
+            [
+              "pour",
+              "Je pense que… / À mon avis… / Je suis convaincu que…"
+            ],
+            [
+              "contre",
+              "Je ne suis pas d’accord… / Je m’oppose à…"
+            ],
+            [
+              "nuancée",
+              "Certes… mais… / Il est vrai que… cependant…"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "Une opinion sans argument ne convainc pas : « C’est mauvais » n’est pas un argument."
+        }
       ]
-     ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "Une opinion sans argument ne convainc pas : « C’est mauvais » n’est pas un argument."
-    }
-   ]
-  },
-  {
-   "t": "Trouver et organiser des arguments",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les connecteurs de l’argumentation",
-     "head": [
-      "Fonction",
-      "Connecteurs"
-     ],
-     "rows": [
-      [
-       "ajouter",
-       "d’abord, ensuite, de plus, en outre"
-      ],
-      [
-       "donner la cause",
-       "car, parce que, puisque"
-      ],
-      [
-       "donner un exemple",
-       "par exemple, ainsi, c’est le cas de"
-      ],
-      [
-       "opposer",
-       "mais, pourtant, cependant"
-      ],
-      [
-       "conclure",
-       "donc, c’est pourquoi, en conclusion"
+      "t": "Trouver et organiser des arguments",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les connecteurs de l’argumentation",
+          "head": [
+            "Fonction",
+            "Connecteurs"
+          ],
+          "rows": [
+            [
+              "ajouter",
+              "d’abord, ensuite, de plus, en outre"
+            ],
+            [
+              "donner la cause",
+              "car, parce que, puisque"
+            ],
+            [
+              "donner un exemple",
+              "par exemple, ainsi, c’est le cas de"
+            ],
+            [
+              "opposer",
+              "mais, pourtant, cependant"
+            ],
+            [
+              "conclure",
+              "donc, c’est pourquoi, en conclusion"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le meilleur argument en dernier",
+          "text": "On place souvent l’argument le **plus fort** à la fin, pour terminer avec force."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Le meilleur argument en dernier",
-     "text": "On place souvent l’argument le **plus fort** à la fin, pour terminer avec force."
-    }
-   ]
-  },
-  {
-   "t": "Un exemple complet",
-   "blocs": [
-    {
-     "type": "ex",
-     "text": "**Position** : Le sport est indispensable à l’école.\n**Argument 1** : Il garde en bonne santé. *Exemple* : un élève sportif est moins souvent fatigué.\n**Argument 2** : Il apprend à vivre ensemble. *Exemple* : dans une équipe, chacun aide les autres.",
-     "label": "Plan argumentatif"
+      "t": "Réfuter et nuancer",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Un bon texte argumentatif ne se contente pas d’affirmer : il tient compte de l’opinion contraire pour la réfuter ou la nuancer."
+        },
+        {
+          "type": "table",
+          "title": "Les procédés",
+          "head": [
+            "Procédé",
+            "Formule",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Concession",
+              "certes… mais, il est vrai que… cependant",
+              "**Certes**, internet est utile, **mais** il ne remplace pas les livres."
+            ],
+            [
+              "Réfutation",
+              "on prétend que… pourtant, contrairement à ce que l’on pense",
+              "**On prétend que** lire est inutile ; **pourtant**, la lecture développe l’esprit."
+            ],
+            [
+              "Nuance",
+              "en partie, dans certains cas, sauf si",
+              "Lire est utile, **sauf si** on lit sans comprendre."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Retiens",
+          "text": "Reconnaître un argument adverse **renforce** ta thèse : le lecteur voit que tu as réfléchi à l’autre point de vue."
+        }
+      ]
     },
     {
-     "type": "exercise",
-     "enonce": "Complète le plan.",
-     "items": [
-      "Position : Les élèves doivent lire chaque jour.",
-      "Argument : …",
-      "Exemple : …"
-     ],
-     "corrige": [
-      "Argument : la lecture enrichit le vocabulaire.",
-      "Exemple : un élève qui lit connaît plus de mots dans ses rédactions."
-     ]
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "Argumenter, c’est **défendre une opinion pour convaincre**.",
-      "Une **position** + des **arguments** + des **exemples**.",
-      "On emploie des **connecteurs** : d’abord, de plus, car, par exemple, donc.",
-      "Un argument sans exemple reste fragile."
-     ]
+      "t": "Les connecteurs de l’argumentation",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Organiser son texte",
+          "head": [
+            "Rôle",
+            "Connecteurs"
+          ],
+          "rows": [
+            [
+              "Ajouter un argument",
+              "d’abord, ensuite, de plus, en outre, par ailleurs"
+            ],
+            [
+              "Justifier",
+              "car, parce que, en effet, puisque"
+            ],
+            [
+              "Opposer",
+              "mais, cependant, pourtant, toutefois"
+            ],
+            [
+              "Conclure",
+              "donc, par conséquent, en conclusion, en somme"
+            ]
+          ]
+        }
+      ]
     },
     {
-     "type": "quiz",
-     "question": "« Par exemple » introduit :",
-     "options": [
-      "une conclusion",
-      "un exemple",
-      "une opposition",
-      "une cause"
-     ],
-     "answer": 1,
-     "explain": "Il annonce un **exemple**."
+      "t": "Introduction et conclusion d’un texte argumentatif",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Le plan",
+          "head": [
+            "Partie",
+            "Contenu"
+          ],
+          "rows": [
+            [
+              "Introduction",
+              "amorce (sujet général) + thèse + annonce du plan"
+            ],
+            [
+              "Développement",
+              "un paragraphe par argument, avec exemple"
+            ],
+            [
+              "Conclusion",
+              "bilan + ouverture"
+            ]
+          ]
+        },
+        {
+          "type": "ex",
+          "text": "**Introduction** : De nos jours, beaucoup de jeunes passent plus de temps devant un écran qu’avec un livre. Je pense pourtant que la lecture reste indispensable, car elle enrichit le vocabulaire et développe l’imagination.",
+          "label": "Modèle d’introduction"
+        }
+      ]
+    },
+    {
+      "t": "Un exemple complet",
+      "blocs": [
+        {
+          "type": "ex",
+          "text": "**Position** : Le sport est indispensable à l’école.\n**Argument 1** : Il garde en bonne santé. *Exemple* : un élève sportif est moins souvent fatigué.\n**Argument 2** : Il apprend à vivre ensemble. *Exemple* : dans une équipe, chacun aide les autres.",
+          "label": "Plan argumentatif"
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète le plan.",
+          "items": [
+            "Position : Les élèves doivent lire chaque jour.",
+            "Argument : …",
+            "Exemple : …"
+          ],
+          "corrige": [
+            "Argument : la lecture enrichit le vocabulaire.",
+            "Exemple : un élève qui lit connaît plus de mots dans ses rédactions."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Relève la thèse, l’argument et l’exemple : « Le sport est bon pour la santé. En effet, il fortifie les muscles et le cœur. Par exemple, un élève qui court chaque matin tombe moins souvent malade. »",
+          "items": [
+            "Thèse",
+            "Argument",
+            "Exemple"
+          ],
+          "corrige": [
+            "Thèse : le sport est bon pour la santé. Argument : il fortifie les muscles et le cœur. Exemple : l’élève qui court chaque matin tombe moins souvent malade."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète par un connecteur logique : car, mais, par exemple, donc.",
+          "items": [
+            "Il est fatigué, … il s’est couché tôt.",
+            "J’aime la musique, … je n’ai pas le temps d’en jouer.",
+            "Il faut protéger les arbres … ils produisent de l’oxygène.",
+            "Certains animaux sont en danger, … l’éléphant."
+          ],
+          "corrige": [
+            "1. donc",
+            "2. mais",
+            "3. car",
+            "4. par exemple"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Réfute l’opinion : « Les livres ne servent plus à rien. »",
+          "items": [
+            "Écris deux phrases avec une concession."
+          ],
+          "corrige": [
+            "Proposition : **Certes**, on trouve tout sur internet, **mais** un livre aide à se concentrer et à approfondir. **Pourtant**, on prétend que le livre est dépassé : les bibliothèques ne désemplissent pas."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : défendre un point de vue",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Sujet : « Lire est-il plus utile que regarder la télévision ? » Rédige un paragraphe argumentatif de dix lignes avec thèse, deux arguments, deux exemples et une concession.",
+          "items": [
+            "Utilise des connecteurs."
+          ],
+          "corrige": [
+            "Proposition : Je pense que lire est plus utile que regarder la télévision. **D’abord**, la lecture enrichit le vocabulaire : un lecteur apprend chaque jour de nouveaux mots. **Par exemple**, un élève qui lit des contes écrit mieux ses rédactions. **De plus**, elle développe l’imagination, **car** on invente soi-même les images. **Certes**, la télévision instruit parfois, **mais** elle laisse peu de place à la réflexion. **En conclusion**, il vaut mieux lire que regarder passivement."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Argumenter, c’est **défendre une opinion pour convaincre**.",
+            "Une **position** + des **arguments** + des **exemples**.",
+            "On emploie des **connecteurs** : d’abord, de plus, car, par exemple, donc.",
+            "Un argument sans exemple reste fragile."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "« Par exemple » introduit :",
+          "options": [
+            "une conclusion",
+            "un exemple",
+            "une opposition",
+            "une cause"
+          ],
+          "answer": 1,
+          "explain": "Il annonce un **exemple**."
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

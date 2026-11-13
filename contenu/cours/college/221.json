@@ -1,180 +1,194 @@
 {
  "id": 221,
  "meta": {
-  "t": "La transformation de la forme négative à la forme affirmative",
+  "t": "La pronominalisation",
   "k": "Cours",
-  "n": "3e",
-  "m": "Conjugaison",
-  "img": "g",
-  "r": 4.8
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "mf": "MF5.2.3"
  },
  "sections": [
   {
-   "t": "Retirer la négation",
+   "t": "Pourquoi remplacer un groupe nominal par un pronom ?",
    "blocs": [
     {
      "type": "p",
-     "text": "Transformer une phrase **négative** en phrase **affirmative**, c’est supprimer la négation et, souvent, la remplacer par un mot de sens contraire. On traite aussi la forme **interro-négative** (une question à la forme négative)."
+     "text": "Lis : « Paul a trouvé un cahier. Paul a ouvert le cahier et Paul a lu le cahier. » Cela se répète ! Pour éviter les **répétitions**, on utilise des pronoms : « Paul a trouvé un cahier. Il l’a ouvert et l’a lu. »"
+    },
+    {
+     "type": "def",
+     "label": "La pronominalisation",
+     "text": "La **pronominalisation**, c’est le fait de **remplacer un groupe nominal par un pronom** pour éviter de le répéter."
     },
     {
      "type": "list",
      "items": [
-      "Remplacer les mots de la négation",
-      "Rétablir les articles",
-      "Transformer une phrase interro-négative en phrase affirmative"
+      "Comprendre à quoi sert la pronominalisation",
+      "Choisir le bon pronom (sujet, COD, COI, y, en)",
+      "Placer correctement le pronom",
+      "Éviter les erreurs fréquentes"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "ex",
-     "text": "« Il ne joue pas. » → « Il joue. »"
-    },
-    {
      "type": "quiz",
-     "question": "Quelle phrase est affirmative ?",
+     "question": "La pronominalisation sert à…",
      "options": [
-      "Il ne vient jamais.",
-      "Il vient.",
-      "Il ne vient plus.",
-      "Ne vient-il pas ?"
+      "allonger la phrase",
+      "éviter les répétitions",
+      "changer le temps du verbe",
+      "poser une question"
      ],
      "answer": 1,
-     "explain": "Il n’y a aucun mot de négation."
+     "explain": "On remplace un groupe nominal par un pronom pour ne pas le répéter."
     }
    ]
   },
   {
-   "t": "Les mots à remplacer",
+   "t": "Le choix du pronom",
    "blocs": [
     {
      "type": "table",
-     "title": "Négation → affirmation",
+     "title": "Quel pronom pour quelle fonction ?",
      "head": [
-      "Négative",
-      "Mot de remplacement",
-      "Affirmative"
+      "Fonction du groupe remplacé",
+      "Pronom",
+      "Exemple"
      ],
      "rows": [
       [
-       "Il ne mange pas.",
-       "(on supprime « ne… pas »)",
-       "Il mange."
+       "**Sujet**",
+       "il, elle, ils, elles",
+       "*Paul chante.* → *Il chante.*"
       ],
       [
-       "Il ne pleure plus.",
-       "encore, toujours",
-       "Il pleure encore."
+       "**COD** (complément d’objet direct)",
+       "le, la, l’, les",
+       "*Paul mange la mangue.* → *Paul la mange.*"
       ],
       [
-       "Elle ne ment jamais.",
-       "toujours, souvent",
-       "Elle ment souvent. / Elle dit toujours la vérité."
+       "**COI** (à + personne)",
+       "lui, leur",
+       "*Paul parle à Marie.* → *Paul lui parle.*"
       ],
       [
-       "Je ne vois rien.",
-       "quelque chose, tout",
-       "Je vois quelque chose."
+       "complément introduit par **à** ou **dans** (chose, lieu)",
+       "y",
+       "*Il va à l’école.* → *Il y va.*"
       ],
       [
-       "Je ne vois personne.",
-       "quelqu’un, tout le monde",
-       "Je vois quelqu’un."
-      ],
-      [
-       "Il n’a aucun ami.",
-       "un, plusieurs",
-       "Il a plusieurs amis."
-      ]
-     ]
-    },
-    {
-     "type": "warn",
-     "label": "Sens",
-     "text": "Le contraire d’une négation totale n’est pas toujours simple. « Il ne vient jamais » → « Il vient toujours » change le sens ; on peut aussi écrire « Il vient parfois »."
-    }
-   ]
-  },
-  {
-   "t": "Les articles et le verbe",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les articles : « de » après la négation, « du, des, un » à l’affirmative",
-     "head": [
-      "Négative",
-      "Affirmative"
-     ],
-     "rows": [
-      [
-       "Il ne boit pas **d’**eau.",
-       "Il boit **de l’**eau."
-      ],
-      [
-       "Je n’ai pas **de** cahier.",
-       "J’ai **un** cahier."
-      ],
-      [
-       "Elle n’a pas **d’**amis.",
-       "Elle a **des** amis."
-      ]
-     ]
-    },
-    {
-     "type": "table",
-     "title": "Aux temps composés",
-     "head": [
-      "Négative",
-      "Affirmative"
-     ],
-     "rows": [
-      [
-       "Il n’a pas fini.",
-       "Il a fini."
-      ],
-      [
-       "Nous ne sommes jamais partis.",
-       "Nous sommes partis."
+       "complément introduit par **de** (quantité, chose)",
+       "en",
+       "*Il boit de l’eau.* → *Il en boit.*"
       ]
      ]
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Aux temps composés, on enlève « ne » et « pas » qui entouraient l’auxiliaire ; l’auxiliaire et le participe passé restent."
+     "text": "Pour trouver le COD, pose la question **quoi ?** ou **qui ?** après le verbe. Pour le COI, pose **à qui ?** ou **de quoi ?**."
     },
     {
-     "type": "h",
-     "text": "La forme interro-négative"
-    },
+     "type": "quiz",
+     "question": "Quel pronom remplace « à Marie » dans « Paul parle à Marie » ?",
+     "options": [
+      "le",
+      "la",
+      "lui",
+      "y"
+     ],
+     "answer": 2,
+     "explain": "« à + personne » se remplace par lui (ou leur au pluriel)."
+    }
+   ]
+  },
+  {
+   "t": "La place du pronom",
+   "blocs": [
     {
      "type": "p",
-     "text": "Une phrase **interro-négative** pose une question à la forme négative : « Ne viens-tu pas ? » Elle exprime souvent une invitation, un reproche ou une certitude. En affirmative, on obtient : « Tu viens. »"
+     "text": "Le pronom se place **devant le verbe** auquel il se rapporte. Mais il y a quelques cas particuliers."
     },
     {
      "type": "table",
-     "title": "Interro-négative → affirmative",
+     "title": "Où mettre le pronom ?",
      "head": [
-      "Interro-négative",
-      "Affirmative"
+      "Cas",
+      "Exemple"
      ],
      "rows": [
       [
-       "Ne viens-tu pas ?",
-       "Tu viens."
+       "Temps simple",
+       "*Je la vois.*"
       ],
       [
-       "N’as-tu pas faim ?",
-       "Tu as faim."
+       "Temps composé : avant l’auxiliaire",
+       "*Je l’ai vue.*"
       ],
       [
-       "Ne mange-t-il pas de poisson ?",
-       "Il mange du poisson."
+       "Impératif négatif : avant le verbe",
+       "*Ne la mange pas.*"
       ],
       [
-       "N’est-elle jamais venue ?",
-       "Elle est déjà venue."
+       "Impératif affirmatif : après le verbe, avec un trait d’union",
+       "*Mange-la.*"
+      ],
+      [
+       "Avec deux verbes : devant le verbe qui le commande",
+       "*Il veut le voir.*"
       ]
      ]
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Au passé composé, le participe s’accorde avec le COD **placé avant** : *J’ai vu les enfants.* → *Je les ai vus.* ; *Il a mangé la mangue.* → *Il l’a mangée.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Comment pronominaliser « Il mange la mangue » au passé composé ?",
+     "options": [
+      "Il la a mangé.",
+      "Il l’a mangée.",
+      "Il l’a mangé.",
+      "Il lui a mangé."
+     ],
+     "answer": 1,
+     "explain": "Le COD « la mangue » est placé avant : le participe s’accorde avec lui (mangée)."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs fréquentes",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Erreur 1 : confondre le et lui",
+     "text": "« Je lui vois » est faux. On dit « Je **le** vois » (COD). On emploie *lui* pour « à + personne » : « Je **lui** parle »."
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 2 : oublier le pronom y ou en",
+     "text": "« Il va à l’école. Il va à l’école tous les jours. » → « Il **y** va tous les jours. »"
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 3 : un pronom sans repère clair",
+     "text": "Dans « Paul parle à Pierre et il lui répond », on ne sait pas qui répond à qui. Un pronom doit toujours renvoyer clairement à un groupe nominal : son **antécédent**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’antécédent du pronom « les » dans « J’aime les fruits et je les mange » ?",
+     "options": [
+      "je",
+      "les fruits",
+      "mange",
+      "aime"
+     ],
+     "answer": 1,
+     "explain": "« les » remplace « les fruits » : c’est son antécédent."
     }
    ]
   },
@@ -183,45 +197,57 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Mets à la forme affirmative.",
+     "enonce": "**Exercice 1** : Remplace le groupe en gras par un pronom.",
      "items": [
-      "Tu ne dors pas.",
-      "Nous n’avons pas fini.",
-      "Il n’a pas de livre.",
-      "Elle n’aime pas le café."
+      "a) Marie lit **un roman**.",
+      "b) Le maître parle **aux élèves**.",
+      "c) Nous allons **à la bibliothèque**.",
+      "d) Elle veut **de la soupe**."
      ],
      "corrige": [
-      "1. Tu dors.",
-      "2. Nous avons fini.",
-      "3. Il a un livre.",
-      "4. Elle aime le café."
+      "a) Marie le lit.",
+      "b) Le maître leur parle.",
+      "c) Nous y allons.",
+      "d) Elle en veut."
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Transforme les phrases interro-négatives en phrases affirmatives.",
+     "enonce": "**Exercice 2** : Récris au passé composé en remplaçant le groupe en gras par un pronom.",
      "items": [
-      "Ne veux-tu pas venir ?",
-      "N’ont-ils pas compris ?",
-      "Ne parle-t-elle pas anglais ?"
+      "a) Il a ouvert **la porte**.",
+      "b) Elles ont acheté **des livres**.",
+      "c) J’ai donné **le cahier à Paul**."
      ],
      "corrige": [
-      "1. Tu veux venir.",
-      "2. Ils ont compris.",
-      "3. Elle parle anglais."
+      "a) Il l’a ouverte.",
+      "b) Elles en ont acheté.",
+      "c) Je le lui ai donné."
      ]
     },
     {
-     "type": "quiz",
-     "question": "« Il ne boit jamais de lait. » peut devenir :",
-     "options": [
-      "Il boit jamais de lait.",
-      "Il boit du lait.",
-      "Il ne boit du lait.",
-      "Il boit pas de lait."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Écris à l’impératif avec un pronom.",
+     "items": [
+      "a) Prends **ce livre**. (affirmatif)",
+      "b) Ne prends pas **ce livre**. (négatif)",
+      "c) Écoute **tes parents**. (affirmatif)"
      ],
-     "answer": 1,
-     "explain": "On supprime la négation et « de » redevient « du »."
+     "corrige": [
+      "a) Prends-le.",
+      "b) Ne le prends pas.",
+      "c) Écoute-les."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Supprime les répétitions : *Ma sœur a trouvé un chat. Ma sœur a nourri le chat et ma sœur a adopté le chat.*",
+     "items": [
+      "Texte à transformer"
+     ],
+     "corrige": [
+      "Ma sœur a trouvé un chat. Elle l’a nourri et l’a adopté."
+     ]
     }
    ]
   },
@@ -232,23 +258,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "On supprime « ne… pas, plus, jamais… » et on remplace si besoin par encore, toujours, quelqu’un, quelque chose…",
-      "Après la négation, l’article est « de » ; à l’affirmative, il redevient du, de la, des, un.",
-      "Aux temps composés, on garde l’auxiliaire et le participe passé.",
-      "Une phrase interro-négative devient affirmative en retrouvant l’ordre sujet-verbe."
+      "La **pronominalisation** consiste à remplacer un groupe nominal par un **pronom** pour éviter les répétitions.",
+      "Sujet : **il, elle, ils, elles** ; COD : **le, la, l’, les** ; COI : **lui, leur**.",
+      "**y** remplace un complément en *à, dans* (chose ou lieu) ; **en** remplace un complément en *de*.",
+      "Le pronom se place **avant le verbe** (avant l’auxiliaire aux temps composés).",
+      "À l’impératif affirmatif, il se place **après** le verbe, avec un **trait d’union**."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Ne chante-t-elle pas ? » devient :",
+     "question": "Comment dit-on « Prends ce cahier » avec un pronom ?",
      "options": [
-      "Elle chante pas.",
-      "Elle chante.",
-      "Elle ne chante.",
-      "Chante-t-elle."
+      "Le prends.",
+      "Prends-le.",
+      "Prends lui.",
+      "Prends-y."
      ],
      "answer": 1,
-     "explain": "On enlève l’inversion et la négation."
+     "explain": "À l’impératif affirmatif, le pronom suit le verbe avec un trait d’union : prends-le."
     }
    ]
   }

@@ -1,0 +1,508 @@
+{
+ "id": 237,
+ "meta": {
+  "t": "L’accord des adjectifs de couleur",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8,
+  "mf": "MF5.3.4"
+ },
+ "sections": [
+  {
+   "t": "Les adjectifs de couleur : pourquoi un cas à part ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare : *des robes **vertes*** mais *des robes **marron***. Dans les deux cas, on parle de couleur ; pourtant, le premier mot prend la marque du pluriel et le second non. Les adjectifs de couleur ont **leurs propres règles**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Distinguer un vrai adjectif de couleur d’un nom employé comme adjectif",
+      "Accorder correctement les adjectifs de couleur simples",
+      "Reconnaître les adjectifs de couleur invariables",
+      "Accorder les adjectifs de couleur composés"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Adjectif de couleur",
+     "text": "Un **adjectif de couleur** précise la couleur d’un nom : *une robe **rouge***, *des yeux **marron***. Il existe trois cas : l’adjectif **simple** (*bleu, vert…*), le **nom employé comme adjectif** (*orange, marron…*) et l’adjectif **composé** (*bleu clair, vert foncé…*)."
+    },
+    {
+     "type": "table",
+     "title": "Les trois cas",
+     "head": [
+      "Cas",
+      "Exemples",
+      "Accord"
+     ],
+     "rows": [
+      [
+       "Adjectif **simple**",
+       "*rouge, vert, blanc, noir, gris, jaune*",
+       "s’accorde en genre et en nombre"
+      ],
+      [
+       "**Nom** employé comme adjectif",
+       "*marron, orange, cerise, citron*",
+       "**invariable**"
+      ],
+      [
+       "Adjectif **composé**",
+       "*bleu clair, vert foncé, bleu-vert*",
+       "**invariable**"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « des chemises ... », quelle forme est correcte ?",
+     "options": [
+      "des chemises oranges",
+      "des chemises orange",
+      "des chemises orangeses",
+      "des chemises orangs"
+     ],
+     "answer": 1,
+     "explain": "*Orange* est un nom employé comme adjectif de couleur : il reste invariable."
+    }
+   ]
+  },
+  {
+   "t": "Les adjectifs de couleur simples : ils s’accordent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les adjectifs de couleur qui sont de **vrais adjectifs** (*blanc, noir, rouge, vert, bleu, jaune, gris, brun, violet…*) s’accordent **comme tous les adjectifs qualificatifs** : en genre et en nombre avec le nom."
+    },
+    {
+     "type": "table",
+     "title": "Quelques adjectifs de couleur simples",
+     "head": [
+      "Masculin singulier",
+      "Féminin singulier",
+      "Masculin pluriel",
+      "Féminin pluriel"
+     ],
+     "rows": [
+      [
+       "un ruban rouge",
+       "une robe rouge",
+       "des rubans rouges",
+       "des robes rouges"
+      ],
+      [
+       "un mur blanc",
+       "une page blanche",
+       "des murs blancs",
+       "des pages blanches"
+      ],
+      [
+       "un chat noir",
+       "une nuit noire",
+       "des chats noirs",
+       "des nuits noires"
+      ],
+      [
+       "un fruit vert",
+       "une feuille verte",
+       "des fruits verts",
+       "des feuilles vertes"
+      ],
+      [
+       "un manteau gris",
+       "une jupe grise",
+       "des manteaux gris",
+       "des jupes grises"
+      ],
+      [
+       "un ciel bleu",
+       "une mer bleue",
+       "des ciels bleus",
+       "des mers bleues"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Pense aux féminins particuliers",
+     "text": "*Blanc* → *blanche* ; *violet* → *violette* ; *brun* → *brune* ; *roux* → *rousse* ; *châtain* reste le même au féminin (*une chevelure châtain*), mais prend un s au pluriel (*des cheveux châtains*). *Gris* ne change pas au pluriel : *des murs gris*."
+    },
+    {
+     "type": "ex",
+     "text": "*Les feuilles **jaunes** tombent sur l’herbe **verte**.* ; *Elle porte une jupe **bleue** et des chaussettes **blanches**.*",
+     "label": "Exemples"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Des fleurs jaune",
+      "Des fleurs jaunes",
+      "Des fleur jaunes",
+      "Des fleurs jaunnes"
+     ],
+     "answer": 1,
+     "explain": "*Jaune* est un adjectif simple : il s’accorde avec *fleurs* (féminin pluriel)."
+    }
+   ]
+  },
+  {
+   "t": "Les noms employés comme adjectifs : ils sont invariables",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains mots de couleur sont **à l’origine des noms** (le nom d’un fruit, d’une fleur, d’une matière…). Quand on les utilise comme adjectifs de couleur, ils **ne s’accordent pas** : on sous-entend « **de la couleur de** ... »."
+    },
+    {
+     "type": "table",
+     "title": "Les noms employés comme adjectifs de couleur",
+     "head": [
+      "Mot",
+      "Origine",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "marron",
+       "la châtaigne",
+       "*des yeux marron*"
+      ],
+      [
+       "orange",
+       "le fruit",
+       "*des chemises orange*"
+      ],
+      [
+       "citron",
+       "le fruit",
+       "*des robes citron*"
+      ],
+      [
+       "cerise",
+       "le fruit",
+       "*des lèvres cerise*"
+      ],
+      [
+       "crème",
+       "le produit",
+       "*des rideaux crème*"
+      ],
+      [
+       "olive",
+       "le fruit",
+       "*des vestes olive*"
+      ],
+      [
+       "noisette",
+       "le fruit",
+       "*des yeux noisette*"
+      ],
+      [
+       "paille",
+       "la matière",
+       "*des cheveux paille*"
+      ],
+      [
+       "argent, or",
+       "les métaux",
+       "*des étoiles argent* ; *des boucles or*"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les exceptions : sept mots qui s’accordent"
+    },
+    {
+     "type": "p",
+     "text": "Quelques mots, à l’origine des noms, se sont tellement répandus comme adjectifs qu’ils **s’accordent** désormais :"
+    },
+    {
+     "type": "table",
+     "title": "À apprendre par cœur",
+     "head": [
+      "Mot",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "écarlate",
+       "*des joues écarlates*"
+      ],
+      [
+       "fauve",
+       "*des yeux fauves*"
+      ],
+      [
+       "incarnat",
+       "*des lèvres incarnates*"
+      ],
+      [
+       "mauve",
+       "*des fleurs mauves*"
+      ],
+      [
+       "pourpre",
+       "*des robes pourpres*"
+      ],
+      [
+       "rose",
+       "*des rubans roses*"
+      ],
+      [
+       "vermeil",
+       "*des lèvres vermeilles*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Comment s’en souvenir ?",
+     "text": "Retiens l’exemple : ***des roses sont roses***, mais ***des yeux marron***. Pour les sept exceptions, repère-les par cœur : **écarlate, fauve, incarnat, mauve, pourpre, rose, vermeil**."
+    },
+    {
+     "type": "warn",
+     "label": "Piège : le nom lui-même",
+     "text": "Quand *orange*, *marron* ou *rose* sont **des noms** (le fruit, la fleur), ils suivent la règle des noms : *des oranges* (les fruits), *des roses* (les fleurs). Mais comme adjectifs de couleur : *des robes orange*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Elle a des yeux marrons.",
+      "Elle a des yeux marron.",
+      "Elle a des yeux marronnes.",
+      "Elle a des yeux marrone."
+     ],
+     "answer": 1,
+     "explain": "*Marron* est un nom employé comme adjectif de couleur : il est invariable."
+    }
+   ]
+  },
+  {
+   "t": "Les adjectifs de couleur composés",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand la couleur est précisée par un **deuxième mot** (*clair, foncé, vif, pâle, sombre*) ou par **deux noms de couleur**, l’adjectif de couleur est **composé** : il reste **invariable**."
+    },
+    {
+     "type": "table",
+     "title": "Les adjectifs de couleur composés",
+     "head": [
+      "Type",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "couleur + **nuance**",
+       "*des yeux bleu clair, des rideaux vert foncé, des murs gris sombre, des robes rose pâle*"
+      ],
+      [
+       "couleur + **couleur** (avec trait d’union)",
+       "*des draps bleu-vert, des robes jaune-orangé*"
+      ],
+      [
+       "couleur + **nom** (comparaison)",
+       "*des yeux bleu ciel, des rideaux bleu marine, des robes vert pomme, des chemises rouge sang*"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une astuce : les deux mots vont ensemble",
+     "text": "Dans *bleu clair*, ce n’est pas *bleu* qui est invariable seul : c’est **toute la locution** (« bleu » + « clair »). Aucun des deux mots ne prend de **s** ni de **e**."
+    },
+    {
+     "type": "warn",
+     "label": "Le mot rose dans un adjectif composé",
+     "text": "*Rose* s’accorde quand il est seul (*des robes roses*), mais il est **invariable** dans un composé : *des robes **rose** pâle*, *des rubans **rose** bonbon*."
+    },
+    {
+     "type": "h",
+     "text": "Plusieurs couleurs dans un même objet"
+    },
+    {
+     "type": "p",
+     "text": "Quand chaque objet porte **plusieurs couleurs**, les adjectifs sont **invariables** : *des drapeaux **bleu, blanc, rouge***. Quand on distingue des objets de couleurs différentes, ils s’accordent : *des rubans **bleus** et **blancs*** (des rubans bleus et des rubans blancs)."
+    },
+    {
+     "type": "ex",
+     "text": "*Elle a acheté des chaussures **vert clair**, des pantalons **gris foncé** et des robes **rose pâle**.*",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Des robes bleues claires",
+      "Des robes bleu clair",
+      "Des robes bleus clair",
+      "Des robes bleu clairs"
+     ],
+     "answer": 1,
+     "explain": "*Bleu clair* est un adjectif de couleur composé : il est invariable."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Recopie en accordant l’adjectif de couleur entre parenthèses.",
+     "items": [
+      "Des feuilles (vert).",
+      "Une jupe (noir).",
+      "Des rubans (jaune).",
+      "Des murs (blanc).",
+      "Une nuit (noir)."
+     ],
+     "corrige": [
+      "1. Des feuilles vertes.",
+      "2. Une jupe noire.",
+      "3. Des rubans jaunes.",
+      "4. Des murs blancs.",
+      "5. Une nuit noire."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie en accordant l’adjectif de couleur entre parenthèses (attention aux noms employés comme adjectifs).",
+     "items": [
+      "Des yeux (marron).",
+      "Des chemises (orange).",
+      "Des robes (cerise).",
+      "Des cheveux (noisette).",
+      "Des rideaux (crème)."
+     ],
+     "corrige": [
+      "1. Des yeux marron.",
+      "2. Des chemises orange.",
+      "3. Des robes cerise.",
+      "4. Des cheveux noisette.",
+      "5. Des rideaux crème."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde les adjectifs de couleur (attention aux sept exceptions).",
+     "items": [
+      "Des fleurs (rose).",
+      "Des joues (écarlate).",
+      "Des robes (pourpre).",
+      "Des yeux (marron).",
+      "Des rubans (mauve)."
+     ],
+     "corrige": [
+      "1. Des fleurs roses.",
+      "2. Des joues écarlates.",
+      "3. Des robes pourpres.",
+      "4. Des yeux marron.",
+      "5. Des rubans mauves."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie en accordant, si nécessaire, les adjectifs de couleur composés.",
+     "items": [
+      "Des murs (vert foncé).",
+      "Des robes (rose pâle).",
+      "Des yeux (bleu ciel).",
+      "Des rideaux (gris sombre).",
+      "Des rubans (bleu-vert)."
+     ],
+     "corrige": [
+      "1. Des murs vert foncé.",
+      "2. Des robes rose pâle.",
+      "3. Des yeux bleu ciel.",
+      "4. Des rideaux gris sombre.",
+      "5. Des rubans bleu-vert."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige l’erreur d’accord dans chaque phrase.",
+     "items": [
+      "Elle porte des gants oranges.",
+      "Ses yeux marrons brillent.",
+      "Les rideaux vert clairs sont tirés.",
+      "Des roses rouge sont dans le vase.",
+      "Il a acheté des chaussures noir."
+     ],
+     "corrige": [
+      "1. Elle porte des gants orange.",
+      "2. Ses yeux marron brillent.",
+      "3. Les rideaux vert clair sont tirés.",
+      "4. Des roses rouges sont dans le vase.",
+      "5. Il a acheté des chaussures noires."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les adjectifs de couleur **simples** (*rouge, vert, bleu, blanc, noir, gris, jaune, violet…*) **s’accordent** : *des robes vertes*.",
+      "Les **noms employés comme adjectifs** (*marron, orange, citron, cerise, crème, olive, noisette, paille…*) sont **invariables** : *des yeux marron*.",
+      "**Exceptions qui s’accordent** : *écarlate, fauve, incarnat, mauve, pourpre, rose, vermeil* : *des fleurs roses*.",
+      "Les adjectifs de couleur **composés** (*bleu clair, vert foncé, rose pâle, bleu-vert, bleu ciel…*) sont **invariables**.",
+      "Quand **chaque objet** a plusieurs couleurs, les adjectifs restent invariables : *des drapeaux bleu, blanc, rouge*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif",
+     "head": [
+      "Cas",
+      "Accord",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Adjectif simple",
+       "oui",
+       "*des robes rouges*"
+      ],
+      [
+       "Nom employé comme adjectif",
+       "non",
+       "*des yeux marron*"
+      ],
+      [
+       "Les 7 exceptions",
+       "oui",
+       "*des robes pourpres*"
+      ],
+      [
+       "Adjectif composé",
+       "non",
+       "*des murs vert foncé*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est entièrement correcte ?",
+     "options": [
+      "Des robes bleues clair et des yeux marrons",
+      "Des robes bleu clair et des yeux marron",
+      "Des robes bleus clairs et des yeux marron",
+      "Des robes bleue clair et des yeux marrons"
+     ],
+     "answer": 1,
+     "explain": "*Bleu clair* (composé) et *marron* (nom employé comme adjectif) sont invariables."
+    }
+   ]
+  }
+ ]
+}

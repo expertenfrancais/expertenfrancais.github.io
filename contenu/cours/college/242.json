@@ -1,0 +1,294 @@
+{
+ "id": 242,
+ "meta": {
+  "t": "La comparaison",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "mf": "MF6.5.4"
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une comparaison ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour décrire une personne, un objet ou un paysage, on peut le **rapprocher** d’autre chose. Ce rapprochement s’appelle une **comparaison**."
+    },
+    {
+     "type": "def",
+     "label": "La comparaison",
+     "text": "La **comparaison** est une **figure de style** qui rapproche deux réalités différentes à l’aide d’un **mot de comparaison** (comme, tel, pareil à…) pour faire voir ce qu’elles ont en commun."
+    },
+    {
+     "type": "ex",
+     "text": "Ce garçon est rapide **comme** un lièvre.",
+     "label": "Exemple"
+    },
+    {
+     "type": "p",
+     "text": "Un garçon et un lièvre sont deux êtres très différents, mais ils ont un point commun : la **rapidité**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Elle chante comme un rossignol », quel mot établit la comparaison ?",
+     "options": [
+      "Elle",
+      "chante",
+      "comme"
+     ],
+     "answer": 2,
+     "explain": "Le mot « comme » relie les deux éléments rapprochés : c’est l’outil de comparaison."
+    }
+   ]
+  },
+  {
+   "t": "Les éléments d’une comparaison",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une comparaison comporte trois éléments obligatoires. On peut y ajouter un quatrième."
+    },
+    {
+     "type": "table",
+     "title": "Les éléments d’une comparaison",
+     "head": [
+      "Élément",
+      "Rôle",
+      "Dans « Son sourire est lumineux comme le soleil »"
+     ],
+     "rows": [
+      [
+       "Le comparé",
+       "ce dont on parle",
+       "son sourire"
+      ],
+      [
+       "L’outil de comparaison",
+       "relie les deux éléments",
+       "comme"
+      ],
+      [
+       "Le comparant",
+       "ce à quoi on le compare",
+       "le soleil"
+      ],
+      [
+       "Le point commun (facultatif)",
+       "ce qui rapproche les deux",
+       "lumineux"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour trouver le comparant, cherchez ce qui vient **après** l’outil de comparaison. Pour trouver le comparé, demandez-vous : *de quoi parle-t-on ?*",
+     "label": "Astuce"
+    },
+    {
+     "type": "ex",
+     "text": "*Les enfants courent, **pareils à** des lapins.* Comparé : les enfants. Outil : pareils à. Comparant : des lapins.",
+     "label": "Autre exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il est têtu comme une mule », quel est le comparant ?",
+     "options": [
+      "Il",
+      "têtu",
+      "une mule"
+     ],
+     "answer": 2,
+     "explain": "Le comparant est ce à quoi on compare le comparé : une mule."
+    }
+   ]
+  },
+  {
+   "t": "Les outils de comparaison",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le mot **comme** est le plus courant, mais il en existe beaucoup d’autres."
+    },
+    {
+     "type": "table",
+     "title": "Quelques outils de comparaison",
+     "head": [
+      "Type d’outil",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Conjonction ou adverbe",
+       "comme, ainsi que, de même que"
+      ],
+      [
+       "Adjectifs",
+       "tel, pareil à, semblable à"
+      ],
+      [
+       "Verbes",
+       "ressembler à, sembler, paraître, avoir l’air de, on dirait"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Cet enfant **ressemble à** un ange.\nElle **a l’air d’**une princesse.\n**On dirait** un oiseau.",
+     "label": "Exemples"
+    },
+    {
+     "type": "warn",
+     "text": "Tous les « comme » ne marquent pas une comparaison. Dans « **Comme** il pleut, nous restons à la maison », « comme » exprime la cause. Dans « Il travaille **comme** boulanger », il signifie « en tant que ». Une phrase comme « Paul est **plus grand que** son frère » compare deux personnes de même nature : ce n’est pas une figure de style.",
+     "label": "Faux amis"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase y a-t-il une comparaison (figure de style) ?",
+     "options": [
+      "Comme il est tard, je rentre.",
+      "Il est fort comme un lion.",
+      "Il est plus fort que moi."
+     ],
+     "answer": 1,
+     "explain": "« Il » et « un lion » sont deux réalités différentes rapprochées par « comme »."
+    }
+   ]
+  },
+  {
+   "t": "À quoi sert la comparaison ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La comparaison rend un texte plus **vivant** : elle fait **voir** ce qu’on décrit et fait **ressentir** une impression."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Elle aide à **imaginer** : *Le ciel est gris comme du plomb.*",
+      "Elle exprime un **sentiment** : *Je suis heureux comme un roi.*",
+      "Elle **évite les répétitions** et enrichit une description."
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Une bonne comparaison est **originale** et **claire**. Évitez les comparaisons trop usées (*blanc comme neige*) quand vous pouvez en inventer une plus personnelle : *blanc comme une page vide*.",
+     "label": "Astuce"
+    },
+    {
+     "type": "ex",
+     "text": "Banale : *Il est fort comme un lion.*\nPlus originale : *Il est fort comme un baobab.*",
+     "label": "Enrichir une comparaison"
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi emploie-t-on une comparaison dans un texte descriptif ?",
+     "options": [
+      "Pour allonger la phrase",
+      "Pour rendre la description plus vivante",
+      "Pour poser une question"
+     ],
+     "answer": 1,
+     "explain": "Elle donne une image concrète au lecteur."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Relevez le comparé, l’outil et le comparant de chaque comparaison.",
+     "items": [
+      "Le vent hurle comme un loup.",
+      "Ses cheveux sont noirs comme du charbon.",
+      "Les nuages, pareils à des moutons, traversent le ciel.",
+      "Cette route ressemble à un long serpent."
+     ],
+     "corrige": [
+      "comparé : le vent ; outil : comme ; comparant : un loup",
+      "comparé : ses cheveux ; outil : comme ; comparant : du charbon",
+      "comparé : les nuages ; outil : pareils à ; comparant : des moutons",
+      "comparé : cette route ; outil : ressemble à ; comparant : un long serpent"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Indiquez si la phrase contient une comparaison (figure de style). Justifiez.",
+     "items": [
+      "Comme il fait beau, nous sortons.",
+      "Awa danse comme une plume.",
+      "Il travaille comme mécanicien.",
+      "Sa voix est douce comme du miel."
+     ],
+     "corrige": [
+      "Non : « comme » exprime la cause.",
+      "Oui : Awa (comparé) / une plume (comparant).",
+      "Non : « comme » signifie « en tant que ».",
+      "Oui : sa voix / du miel."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complétez chaque phrase avec un comparant de votre choix (réponses possibles).",
+     "items": [
+      "Il est rapide comme …",
+      "Elle est douce comme …",
+      "La nuit est noire comme …",
+      "Ce sac est lourd comme …"
+     ],
+     "corrige": [
+      "un lièvre, une flèche, le vent",
+      "du miel, un agneau, de la soie",
+      "de l’encre, du charbon",
+      "du plomb, une pierre, un sac de ciment"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Employez chaque outil dans une phrase de comparaison (réponses possibles).",
+     "items": [
+      "pareil à",
+      "ressembler à",
+      "on dirait",
+      "tel"
+     ],
+     "corrige": [
+      "Les enfants, pareils à des moineaux, piaillent dans la cour.",
+      "Ce nuage ressemble à un éléphant.",
+      "On dirait un tapis de neige.",
+      "Tel un oiseau, il s’envole du toit."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **comparaison** est une figure de style qui rapproche deux réalités différentes.",
+      "Elle comporte un **comparé**, un **outil de comparaison** et un **comparant** ; le point commun est facultatif.",
+      "Outils : *comme, tel, pareil à, semblable à, ressembler à, avoir l’air de, on dirait*.",
+      "Elle rend la description plus **vivante** et plus **imagée**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La neige est blanche comme du lait », le comparé est :",
+     "options": [
+      "la neige",
+      "blanche",
+      "du lait"
+     ],
+     "answer": 0,
+     "explain": "Le comparé est ce dont on parle : la neige. Le comparant est « du lait »."
+    }
+   ]
+  }
+ ]
+}

@@ -1,148 +1,247 @@
 {
  "id": 233,
  "meta": {
-  "t": "L’interprétation d’un support visionné : le plan et le champ visuel",
+  "t": "L’analyse de la structure de l’œuvre",
   "k": "Cours",
-  "n": "3e",
+  "n": "5e",
   "m": "Lecture",
-  "img": "c",
-  "r": 4.8
+  "img": "e",
+  "r": 4.8,
+  "mf": "MF5.1.5"
  },
  "sections": [
   {
-   "t": "Lire une image",
+   "t": "Comment une œuvre est-elle construite ?",
    "blocs": [
     {
      "type": "p",
-     "text": "Une photographie, une affiche, un dessin ou un film donnent du sens par ce qu’ils **montrent** et par la manière de le montrer. Deux notions sont essentielles : le **plan** et le **champ visuel**."
+     "text": "Une œuvre n’est pas un simple tas de pages : elle est **construite**. Un roman se découpe en **chapitres**, une pièce de théâtre en **actes** et en **scènes**. Analyser la **structure**, c’est comprendre comment l’œuvre est organisée."
+    },
+    {
+     "type": "def",
+     "label": "La structure d’une œuvre",
+     "text": "La **structure** d’une œuvre, c’est son **organisation** : ses parties (chapitres, actes, scènes, strophes) et la manière dont l’**histoire** avance de la première page à la dernière."
     },
     {
      "type": "list",
      "items": [
-      "Définir plan et champ visuel",
-      "Reconnaître les différents plans",
-      "Expliquer l’effet produit par le choix d’un plan"
+      "Repérer les parties d’une œuvre",
+      "Identifier les étapes de l’histoire",
+      "Réaliser le plan d’une œuvre",
+      "Expliquer le rôle de chaque partie"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "def",
-     "label": "Plan",
-     "text": "Le **plan** indique **la taille** de ce qui est montré par rapport à l’image : on voit de loin ou de près."
-    },
-    {
-     "type": "def",
-     "label": "Champ visuel",
-     "text": "Le **champ visuel** est **tout ce que l’image montre** : l’espace visible, avec ses différents niveaux (premier plan, arrière-plan)."
+     "type": "table",
+     "title": "La structure selon le genre",
+     "head": [
+      "Genre",
+      "Parties"
+     ],
+     "rows": [
+      [
+       "**Roman**",
+       "parties, chapitres"
+      ],
+      [
+       "**Pièce de théâtre**",
+       "actes, scènes"
+      ],
+      [
+       "**Recueil de poèmes**",
+       "sections, poèmes, strophes"
+      ],
+      [
+       "**Recueil de contes**",
+       "un conte par partie"
+      ]
+     ]
     },
     {
      "type": "quiz",
-     "question": "Le plan renseigne sur :",
+     "question": "Une pièce de théâtre se découpe en…",
      "options": [
-      "la couleur",
-      "la taille de ce qui est montré",
-      "le titre",
-      "l’auteur"
+      "chapitres",
+      "actes et scènes",
+      "strophes",
+      "paragraphes seulement"
      ],
      "answer": 1,
-     "explain": "On voit le sujet de loin (grand plan) ou de près (gros plan)."
+     "explain": "Le théâtre est organisé en actes et en scènes."
     }
    ]
   },
   {
-   "t": "Les différents plans",
+   "t": "Les étapes de l’histoire : le schéma narratif",
    "blocs": [
     {
+     "type": "p",
+     "text": "La plupart des récits suivent le **schéma narratif** : une série d’étapes qui permettent à l’histoire d’avancer."
+    },
+    {
      "type": "table",
-     "title": "Du plus large au plus serré",
+     "title": "Le schéma narratif",
      "head": [
-      "Plan",
-      "On voit…",
-      "Effet"
+      "Étape",
+      "Rôle"
      ],
      "rows": [
       [
-       "Plan d’ensemble (ou général)",
-       "tout le décor ; les personnages sont très petits",
-       "situer le lieu, montrer l’ampleur"
+       "**Situation initiale**",
+       "présente les personnages, le lieu et l’époque"
       ],
       [
-       "Plan moyen",
-       "les personnages en pied",
-       "montrer l’action"
+       "**Élément perturbateur**",
+       "un événement change la situation"
       ],
       [
-       "Plan américain",
-       "le personnage jusqu’aux cuisses",
-       "montrer un dialogue, un geste"
+       "**Péripéties**",
+       "les événements qui suivent, avec leurs difficultés"
       ],
       [
-       "Plan rapproché",
-       "le personnage à partir de la taille ou de la poitrine",
-       "se rapprocher des sentiments"
+       "**Élément de résolution**",
+       "l’événement qui permet de résoudre le problème"
       ],
       [
-       "Gros plan",
-       "le visage ou un objet",
-       "montrer une émotion, un détail"
-      ],
-      [
-       "Très gros plan",
-       "une partie : l’œil, la main…",
-       "dramatiser, attirer l’attention"
+       "**Situation finale**",
+       "la nouvelle situation, après l’histoire"
       ]
      ]
     },
     {
      "type": "tip",
-     "label": "Astuce",
-     "text": "Plus le plan est **serré**, plus on est proche du personnage et de ses émotions. Plus il est **large**, plus on découvre le lieu."
+     "label": "À savoir",
+     "text": "Selon l’œuvre, ces étapes se trouvent dans **un chapitre**, dans **plusieurs chapitres** ou dans **toute l’œuvre**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle étape présente les personnages et le lieu ?",
+     "options": [
+      "Les péripéties",
+      "La situation initiale",
+      "La situation finale",
+      "L’élément perturbateur"
+     ],
+     "answer": 1,
+     "explain": "La situation initiale présente les personnages, le lieu et l’époque."
     }
    ]
   },
   {
-   "t": "Le champ visuel",
+   "t": "Comment faire le plan d’une œuvre",
    "blocs": [
     {
+     "type": "list",
+     "items": [
+      "**Lis** la table des matières (si elle existe) et note les titres.",
+      "**Résume** chaque chapitre ou chaque partie en une phrase.",
+      "**Repère** les étapes du schéma narratif.",
+      "**Présente** le résultat dans un tableau ou une liste ordonnée."
+     ],
+     "label": "Les étapes",
+     "ordered": true
+    },
+    {
      "type": "table",
-     "title": "Les niveaux de l’image",
+     "title": "Un exemple de plan (œuvre imaginaire « Le Cahier bleu »)",
      "head": [
-      "Niveau",
-      "Position",
-      "Exemple (photo d’un marché)"
+      "Chapitre",
+      "Résumé en une phrase",
+      "Étape"
      ],
      "rows": [
       [
-       "Premier plan",
-       "le plus proche de nous",
-       "une vendeuse et ses mangues"
+       "1",
+       "Paul trouve un cahier bleu dans la cour.",
+       "Situation initiale"
       ],
       [
-       "Deuxième plan",
-       "au milieu",
-       "les clients qui discutent"
+       "2",
+       "Il cherche à qui il appartient.",
+       "Élément perturbateur"
       ],
       [
-       "Arrière-plan",
-       "le plus éloigné",
-       "les maisons et le ciel"
+       "3 à 5",
+       "Il interroge ses camarades et rencontre des obstacles.",
+       "Péripéties"
+      ],
+      [
+       "6",
+       "Il découvre le propriétaire grâce à un indice.",
+       "Élément de résolution"
+      ],
+      [
+       "7",
+       "Les deux élèves deviennent amis.",
+       "Situation finale"
       ]
      ]
     },
     {
-     "type": "list",
-     "items": [
-      "Le **cadrage** : ce que l’image garde et ce qu’elle laisse hors du cadre.",
-      "Le **hors-champ** : ce qui existe mais qu’on ne voit pas.",
-      "Le **centre** attire d’abord le regard.",
-      "Les **lignes** et les **couleurs** guident l’œil."
+     "type": "quiz",
+     "question": "Quel est le rôle du plan d’une œuvre ?",
+     "options": [
+      "Recopier l’œuvre",
+      "Montrer l’organisation et le déroulement de l’histoire",
+      "Remplacer la lecture",
+      "Corriger l’orthographe"
      ],
-     "label": "À observer"
+     "answer": 1,
+     "explain": "Il permet de voir comment l’histoire est organisée et avance."
+    }
+   ]
+  },
+  {
+   "t": "Les indices qui aident à comprendre la structure",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les indices",
+     "head": [
+      "Indice",
+      "Information donnée"
+     ],
+     "rows": [
+      [
+       "**Les titres de chapitres**",
+       "annoncent le contenu ou l’ambiance"
+      ],
+      [
+       "**Les changements de lieu ou de temps**",
+       "marquent souvent une nouvelle étape"
+      ],
+      [
+       "**Les connecteurs de temps**",
+       "(*un matin, le lendemain, quelques jours plus tard*) montrent le passage du temps"
+      ],
+      [
+       "**Le prologue et l’épilogue**",
+       "début avant l’histoire / suite après l’histoire"
+      ]
+     ]
     },
     {
      "type": "warn",
-     "label": "Mot à deux emplois",
-     "text": "Ne confonds pas **plan** (taille de ce qu’on montre) et **plan** dans « premier plan » (distance dans l’image). Ici, « premier plan » désigne le niveau le plus proche."
+     "label": "Piège 1 : confondre structure et résumé",
+     "text": "Le résumé raconte l’histoire. La **structure** montre **comment elle est organisée** (parties, étapes)."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 2 : croire que tous les chapitres ont le même rôle",
+     "text": "Certains chapitres présentent, d’autres compliquent, d’autres résolvent l’histoire."
+    },
+    {
+     "type": "quiz",
+     "question": "Que montrent les changements de lieu ou de temps ?",
+     "options": [
+      "Une erreur",
+      "Souvent une nouvelle étape",
+      "La fin de l’œuvre",
+      "Le nom de l’auteur"
+     ],
+     "answer": 1,
+     "explain": "Ils marquent souvent le passage à une nouvelle étape."
     }
    ]
   },
@@ -151,43 +250,59 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Donne le nom du plan.",
+     "enonce": "**Exercice 1** : Associe chaque étape à sa définition.",
      "items": [
-      "On voit seulement le visage d’un enfant qui pleure.",
-      "On voit un village entier entouré de collines.",
-      "On voit un homme debout, de la tête aux pieds.",
-      "On voit seulement une main qui tient une clé."
+      "a) situation initiale",
+      "b) élément perturbateur",
+      "c) élément de résolution",
+      "d) situation finale"
      ],
      "corrige": [
-      "1. gros plan",
-      "2. plan d’ensemble",
-      "3. plan moyen",
-      "4. très gros plan"
+      "a) présente personnages, lieu et époque",
+      "b) événement qui change la situation",
+      "c) événement qui permet de régler le problème",
+      "d) nouvelle situation après l’histoire"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Explique l’effet.",
+     "enonce": "**Exercice 2** : Dis dans quelle partie du livre trouver ces informations sur la structure.",
      "items": [
-      "Un gros plan sur le visage d’un personnage.",
-      "Un plan d’ensemble sur une forêt immense."
+      "a) la liste des chapitres",
+      "b) le nom de chaque chapitre",
+      "c) le résumé court"
      ],
      "corrige": [
-      "1. Il montre les émotions du personnage de très près.",
-      "2. Il montre l’ampleur du lieu et la petitesse des personnages."
+      "a) table des matières",
+      "b) en tête de chaque chapitre",
+      "c) 4e de couverture"
      ]
     },
     {
-     "type": "quiz",
-     "question": "Pour montrer la peur d’un personnage, on choisit plutôt :",
-     "options": [
-      "un plan d’ensemble",
-      "un gros plan",
-      "un plan de la forêt",
-      "un hors-champ"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Voici quatre événements : retrouve leur étape. *1) Un enfant perd son chien. 2) Il cherche partout en vain. 3) Un voisin l’a retrouvé. 4) Il rentre heureux avec son chien.*",
+     "items": [
+      "Événement 1",
+      "Événement 2",
+      "Événement 3",
+      "Événement 4"
      ],
-     "answer": 1,
-     "explain": "Le gros plan fait voir l’émotion du visage."
+     "corrige": [
+      "Élément perturbateur",
+      "Péripéties",
+      "Élément de résolution",
+      "Situation finale"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Fais le plan en cinq lignes de l’œuvre que tu lis (chapitre, résumé, étape).",
+     "items": [
+      "Ton plan"
+     ],
+     "corrige": [
+      "Réponse libre : vérifier la correspondance avec le schéma narratif."
+     ]
     }
    ]
   },
@@ -198,23 +313,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Le plan indique la taille de ce qu’on montre : ensemble, moyen, américain, rapproché, gros plan, très gros plan.",
-      "Le champ visuel est tout ce que l’image montre : premier plan, deuxième plan, arrière-plan.",
-      "Le choix du plan produit un effet : situer, montrer l’action, révéler une émotion.",
-      "Pour interpréter, on décrit ce qu’on voit, puis on explique l’effet."
+      "La **structure** d’une œuvre, c’est son **organisation** : chapitres, actes, scènes, strophes.",
+      "Le **schéma narratif** comprend : situation initiale, élément perturbateur, péripéties, élément de résolution, situation finale.",
+      "Pour faire le **plan** : lire la table des matières, résumer chaque partie, repérer les étapes.",
+      "Les **titres**, les changements de lieu ou de temps et les **connecteurs** aident à repérer les étapes.",
+      "Ne pas confondre **structure** et **résumé**."
      ]
     },
     {
      "type": "quiz",
-     "question": "Le plan qui situe le lieu et montre l’ampleur est :",
+     "question": "Quelle étape vient juste après les péripéties ?",
      "options": [
-      "le gros plan",
-      "le plan d’ensemble",
-      "le plan américain",
-      "le très gros plan"
+      "La situation initiale",
+      "L’élément de résolution",
+      "L’élément perturbateur",
+      "La première page"
      ],
      "answer": 1,
-     "explain": "Le plan d’ensemble montre le décor entier."
+     "explain": "Après les péripéties vient l’élément de résolution."
     }
    ]
   }

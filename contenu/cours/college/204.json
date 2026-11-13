@@ -1,183 +1,332 @@
 {
- "id": 204,
- "meta": {
-  "t": "Le respect des règles de la prosodie : les intonations",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Expression orale",
-  "img": "a",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "La mélodie de la voix",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "« Tu viens ? » dit avec trois tons différents peut vouloir dire trois choses : une vraie question, une surprise, un reproche. Cette **mélodie** de la voix s’appelle l’**intonation**."
-    },
-    {
-     "type": "list",
-     "items": [
-      "Définir l’intonation",
-      "Distinguer intonation montante, descendante et plate",
-      "Choisir le ton qui convient au sentiment"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "def",
-     "label": "Intonation",
-     "text": "L’**intonation** est la **variation de la hauteur de la voix** au cours d’une phrase. Elle traduit le sens de la phrase et les sentiments du locuteur."
-    },
-    {
-     "type": "quiz",
-     "question": "L’intonation est :",
-     "options": [
-      "le volume seul",
-      "la mélodie de la voix",
-      "la vitesse",
-      "la ponctuation"
-     ],
-     "answer": 1,
-     "explain": "C’est la **variation de hauteur** de la voix."
-    }
-   ]
+  "id": 204,
+  "meta": {
+    "t": "Le respect des règles de la prosodie : les intonations",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Expression orale",
+    "img": "a",
+    "r": 4.8
   },
-  {
-   "t": "Les trois mouvements",
-   "blocs": [
+  "sections": [
     {
-     "type": "table",
-     "title": "Montante, descendante, plate",
-     "head": [
-      "Intonation",
-      "Quand l’employer ?",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "**montante** ↗",
-       "question, suspense, phrase non terminée",
-       "Tu viens ?"
-      ],
-      [
-       "**descendante** ↘",
-       "fin d’une phrase déclarative, ordre",
-       "Il est parti."
-      ],
-      [
-       "**plate** →",
-       "énumération, ton neutre ou monotone",
-       "Il achète du riz, du sucre, du sel…"
+      "t": "La mélodie de la voix",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "« Tu viens ? » dit avec trois tons différents peut vouloir dire trois choses : une vraie question, une surprise, un reproche. Cette **mélodie** de la voix s’appelle l’**intonation**."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Définir l’intonation",
+            "Distinguer intonation montante, descendante et plate",
+            "Choisir le ton qui convient au sentiment"
+          ],
+          "label": "Objectifs"
+        },
+        {
+          "type": "def",
+          "label": "Intonation",
+          "text": "L’**intonation** est la **variation de la hauteur de la voix** au cours d’une phrase. Elle traduit le sens de la phrase et les sentiments du locuteur."
+        },
+        {
+          "type": "quiz",
+          "question": "L’intonation est :",
+          "options": [
+            "le volume seul",
+            "la mélodie de la voix",
+            "la vitesse",
+            "la ponctuation"
+          ],
+          "answer": 1,
+          "explain": "C’est la **variation de hauteur** de la voix."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Dans une longue phrase",
-     "text": "La voix **monte** à la fin de chaque groupe de souffle qui n’est pas le dernier, puis **descend** à la fin de la phrase."
-    }
-   ]
-  },
-  {
-   "t": "Intonation et sentiments",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Dire ses émotions",
-     "head": [
-      "Sentiment",
-      "Voix"
-     ],
-     "rows": [
-      [
-       "joie",
-       "vive, haute, rythmée"
-      ],
-      [
-       "colère",
-       "forte, rapide, appuyée"
-      ],
-      [
-       "tristesse",
-       "basse, lente, voix qui descend"
-      ],
-      [
-       "surprise",
-       "brusque montée de la voix"
-      ],
-      [
-       "peur",
-       "voix tremblante, souffle court"
+      "t": "Les trois mouvements",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Montante, descendante, plate",
+          "head": [
+            "Intonation",
+            "Quand l’employer ?",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "**montante** ↗",
+              "question, suspense, phrase non terminée",
+              "Tu viens ?"
+            ],
+            [
+              "**descendante** ↘",
+              "fin d’une phrase déclarative, ordre",
+              "Il est parti."
+            ],
+            [
+              "**plate** →",
+              "énumération, ton neutre ou monotone",
+              "Il achète du riz, du sucre, du sel…"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Dans une longue phrase",
+          "text": "La voix **monte** à la fin de chaque groupe de souffle qui n’est pas le dernier, puis **descend** à la fin de la phrase."
+        }
       ]
-     ]
     },
     {
-     "type": "ex",
-     "text": "« Tu es là ! » : avec une voix joyeuse, c’est une joie ; avec une voix sèche, c’est un reproche.",
-     "label": "Exemple"
-    }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "exercise",
-     "enonce": "Indique l’intonation à employer.",
-     "items": [
-      "Viens-tu avec nous ?",
-      "La classe est terminée.",
-      "Quelle bonne nouvelle !",
-      "Il a pris le riz, l’huile, le sel…"
-     ],
-     "corrige": [
-      "1. montante",
-      "2. descendante",
-      "3. expressive (voix haute et vive)",
-      "4. plate, puis descendante à la fin"
-     ]
+      "t": "Intonation et sentiments",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Dire ses émotions",
+          "head": [
+            "Sentiment",
+            "Voix"
+          ],
+          "rows": [
+            [
+              "joie",
+              "vive, haute, rythmée"
+            ],
+            [
+              "colère",
+              "forte, rapide, appuyée"
+            ],
+            [
+              "tristesse",
+              "basse, lente, voix qui descend"
+            ],
+            [
+              "surprise",
+              "brusque montée de la voix"
+            ],
+            [
+              "peur",
+              "voix tremblante, souffle court"
+            ]
+          ]
+        },
+        {
+          "type": "ex",
+          "text": "« Tu es là ! » : avec une voix joyeuse, c’est une joie ; avec une voix sèche, c’est un reproche.",
+          "label": "Exemple"
+        }
+      ]
     },
     {
-     "type": "quiz",
-     "question": "Une phrase interrogative se dit avec une intonation :",
-     "options": [
-      "descendante",
-      "montante",
-      "plate",
-      "tremblante"
-     ],
-     "answer": 1,
-     "explain": "La voix monte à la fin de la question."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Intonation** = mélodie de la voix.",
-      "**Montante** : question ; **descendante** : fin de phrase ; **plate** : énumération.",
-      "L’intonation exprime les **sentiments** : joie, colère, tristesse, surprise, peur."
-     ]
+      "t": "L’intonation selon le type de phrase",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Mélodie de la phrase",
+          "head": [
+            "Type de phrase",
+            "Mélodie",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Déclarative",
+              "voix qui descend à la fin",
+              "Il est parti. ↘"
+            ],
+            [
+              "Interrogative totale (réponse oui/non)",
+              "voix qui monte à la fin",
+              "Tu viens ? ↗"
+            ],
+            [
+              "Interrogative partielle (mot interrogatif)",
+              "voix qui descend",
+              "Où vas-tu ? ↘"
+            ],
+            [
+              "Exclamative",
+              "voix forte, qui monte puis retombe",
+              "Quelle belle surprise ! ↗↘"
+            ],
+            [
+              "Impérative",
+              "ton ferme, voix qui descend",
+              "Sors immédiatement ! ↘"
+            ]
+          ]
+        }
+      ]
     },
     {
-     "type": "quiz",
-     "question": "Une voix basse et lente exprime souvent :",
-     "options": [
-      "la joie",
-      "la tristesse",
-      "la colère",
-      "la surprise"
-     ],
-     "answer": 1,
-     "explain": "La tristesse se dit d’une voix **basse et lente**."
+      "t": "Énumération et phrase longue",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Dans une énumération, la voix **monte** à chaque élément pour annoncer la suite, puis **descend** au dernier."
+        },
+        {
+          "type": "ex",
+          "text": "Elle a acheté des mangues ↗, des bananes ↗, des ananas ↗ et des papayes ↘."
+        },
+        {
+          "type": "p",
+          "text": "Dans une longue phrase, la voix monte progressivement jusqu’à la proposition principale, puis retombe à la fin."
+        }
+      ]
+    },
+    {
+      "t": "L’accent d’insistance",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Insister sur un mot change le sens de la phrase."
+        },
+        {
+          "type": "table",
+          "title": "Un mot, un sens",
+          "head": [
+            "Phrase",
+            "Mot accentué",
+            "Ce que l’on veut dire"
+          ],
+          "rows": [
+            [
+              "C’est **toi** qui as pris mon livre.",
+              "toi",
+              "pas quelqu’un d’autre"
+            ],
+            [
+              "C’est toi qui as **pris** mon livre.",
+              "pris",
+              "tu ne l’as pas seulement touché"
+            ],
+            [
+              "C’est toi qui as pris **mon** livre.",
+              "mon",
+              "pas celui d’un autre"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Indique l’intonation à employer.",
+          "items": [
+            "Viens-tu avec nous ?",
+            "La classe est terminée.",
+            "Quelle bonne nouvelle !",
+            "Il a pris le riz, l’huile, le sel…"
+          ],
+          "corrige": [
+            "1. montante",
+            "2. descendante",
+            "3. expressive (voix haute et vive)",
+            "4. plate, puis descendante à la fin"
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Une phrase interrogative se dit avec une intonation :",
+          "options": [
+            "descendante",
+            "montante",
+            "plate",
+            "tremblante"
+          ],
+          "answer": 1,
+          "explain": "La voix monte à la fin de la question."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Indique si la voix monte ou descend à la fin de chaque phrase.",
+          "items": [
+            "Tu as fini ton devoir ?",
+            "Pourquoi pleures-tu ?",
+            "Je suis content.",
+            "Quel beau cadeau !"
+          ],
+          "corrige": [
+            "1. monte",
+            "2. descend",
+            "3. descend",
+            "4. monte puis descend"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets l’accent sur le mot souligné et dis ce que cela signifie : « Je n’ai pas **dit** ça. »",
+          "items": [
+            "Place l’accent sur chaque mot successivement."
+          ],
+          "corrige": [
+            "Propositions : **Je** n’ai pas dit ça (c’est quelqu’un d’autre) ; Je n’ai pas **dit** ça (je l’ai peut-être écrit) ; Je n’ai pas dit **ça** (j’ai dit autre chose)."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Lis la phrase « Il est parti. » en exprimant : la joie, la colère, la tristesse. Décris tes choix.",
+          "items": [
+            "Voix, débit, volume."
+          ],
+          "corrige": [
+            "Joie : voix haute et légère, débit rapide. Colère : voix forte, saccadée, ton sec. Tristesse : voix basse, débit lent, voix qui retombe."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : un dialogue annoté",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Écris un dialogue de quatre répliques où tu notes entre parenthèses l’intonation à employer.",
+          "items": [
+            "Utilise des phrases interrogatives et exclamatives."
+          ],
+          "corrige": [
+            "Proposition : — Tu viens avec nous ? (voix montante) — Oh oui ! (joie, voix haute) — Alors dépêche-toi ! (ton pressant) — J’arrive ! (voix forte, qui descend)."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Intonation** = mélodie de la voix.",
+            "**Montante** : question ; **descendante** : fin de phrase ; **plate** : énumération.",
+            "L’intonation exprime les **sentiments** : joie, colère, tristesse, surprise, peur."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Une voix basse et lente exprime souvent :",
+          "options": [
+            "la joie",
+            "la tristesse",
+            "la colère",
+            "la surprise"
+          ],
+          "answer": 1,
+          "explain": "La tristesse se dit d’une voix **basse et lente**."
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

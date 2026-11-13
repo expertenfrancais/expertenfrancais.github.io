@@ -1,0 +1,343 @@
+{
+ "id": 240,
+ "meta": {
+  "t": "Le discours direct et le discours indirect",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "mf": "MF6.2.5"
+ },
+ "sections": [
+  {
+   "t": "Rapporter les paroles de quelqu’un",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans un récit, on peut **rapporter** ce que dit un personnage de deux façons : en donnant ses paroles exactement, ou en les intégrant à sa propre phrase."
+    },
+    {
+     "type": "def",
+     "label": "Le discours direct",
+     "text": "Le **discours direct** rapporte les paroles **telles qu’elles ont été prononcées**. Elles sont annoncées par un verbe introducteur et signalées par les deux-points, les guillemets ou le tiret."
+    },
+    {
+     "type": "def",
+     "label": "Le discours indirect",
+     "text": "Le **discours indirect** rapporte les paroles en les **intégrant à la phrase** du narrateur, sans guillemets ni tirets, dans une proposition subordonnée."
+    },
+    {
+     "type": "ex",
+     "text": "Léo dit : « J’aime ce livre. »",
+     "label": "Discours direct"
+    },
+    {
+     "type": "ex",
+     "text": "Léo dit **qu’**il aime ce livre.",
+     "label": "Discours indirect"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est au discours indirect ?",
+     "options": [
+      "Maman annonce : « Je rentrerai tard. »",
+      "Maman annonce qu’elle rentrera tard.",
+      "— Je rentrerai tard, annonce Maman."
+     ],
+     "answer": 1,
+     "explain": "Le mot « que » introduit une proposition subordonnée : il n’y a plus ni guillemets ni deux-points."
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître le discours direct",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le discours direct se repère grâce à des signes qui encadrent les paroles."
+    },
+    {
+     "type": "table",
+     "title": "Les marques du discours direct",
+     "head": [
+      "Signe",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Deux-points",
+       "annoncent les paroles",
+       "Awa dit : « Je viens. »"
+      ],
+      [
+       "Guillemets « »",
+       "encadrent les paroles",
+       "« Je viens. »"
+      ],
+      [
+       "Tiret (—)",
+       "change de locuteur dans un dialogue",
+       "— Où vas-tu ? demande Awa."
+      ],
+      [
+       "Point d’interrogation ou d’exclamation",
+       "garde le ton de celui qui parle",
+       "« Quelle belle journée ! »"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le verbe introducteur"
+    },
+    {
+     "type": "p",
+     "text": "Le verbe introducteur annonce les paroles. Il peut être placé **avant** ou **après** elles. Il précise souvent la façon de parler."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**dire**, **répondre**, **expliquer**, **annoncer** : verbes neutres",
+      "**demander** : pour une question",
+      "**ordonner**, **conseiller** : pour un ordre ou un conseil",
+      "**crier**, **murmurer**, **s’écrier** : pour la force de la voix"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Évitez de répéter toujours le verbe *dire* : un verbe précis, comme *murmurer* ou *crier*, rend le récit plus vivant.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel élément n’appartient PAS au discours indirect ?",
+     "options": [
+      "les guillemets",
+      "le mot « que »",
+      "le verbe introducteur"
+     ],
+     "answer": 0,
+     "explain": "Le discours indirect n’utilise ni guillemets, ni tirets, ni deux-points."
+    }
+   ]
+  },
+  {
+   "t": "Passer du discours direct au discours indirect",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour transformer une phrase, on fait plusieurs changements en même temps."
+    },
+    {
+     "type": "table",
+     "title": "Ce qui change",
+     "head": [
+      "Ce qui change",
+      "Discours direct",
+      "Discours indirect"
+     ],
+     "rows": [
+      [
+       "La ponctuation",
+       "deux-points, guillemets, tirets",
+       "ils disparaissent"
+      ],
+      [
+       "Le mot de liaison",
+       "aucun",
+       "**que**, **si**, un mot interrogatif ou **de** + infinitif"
+      ],
+      [
+       "Les pronoms et les mots possessifs",
+       "je, tu, mon, ton…",
+       "il, elle, son, sa… (selon la personne)"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Selon le type de phrase"
+    },
+    {
+     "type": "ex",
+     "text": "Awa dit : « Je suis contente. » → Awa dit **qu’**elle est contente.",
+     "label": "Phrase déclarative → que"
+    },
+    {
+     "type": "ex",
+     "text": "Le médecin demande à Karim : « As-tu mal ? » → Le médecin demande à Karim **s’**il a mal.\nLe médecin demande à Karim : « Pourquoi pleures-tu ? » → Le médecin demande à Karim **pourquoi** il pleure.",
+     "label": "Phrase interrogative → si ou mot interrogatif"
+    },
+    {
+     "type": "ex",
+     "text": "Maman dit à Léa : « Range ta chambre ! » → Maman dit à Léa **de ranger** sa chambre.",
+     "label": "Phrase impérative → de + infinitif"
+    },
+    {
+     "type": "tip",
+     "text": "Une question à laquelle on répond par *oui* ou *non* devient une subordonnée avec **si**. Une question avec *où*, *quand*, *pourquoi*, *comment* garde ce mot, mais on supprime le point d’interrogation et l’ordre sujet-verbe change : « Où vas-tu ? » → *où il va*.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Tom demande : « Viens-tu ? » Au discours indirect : Tom demande … il vient.",
+     "options": [
+      "que",
+      "si",
+      "de"
+     ],
+     "answer": 1,
+     "explain": "C’est une question à réponse *oui* ou *non* : on emploie « si » (Tom demande s’il vient)."
+    }
+   ]
+  },
+  {
+   "t": "Les changements de temps et les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand le verbe introducteur est au **présent**, les temps des paroles **ne changent pas**. Quand il est au **passé**, le verbe des paroles change."
+    },
+    {
+     "type": "table",
+     "title": "Quand le verbe introducteur est au passé",
+     "head": [
+      "Discours direct",
+      "Discours indirect"
+     ],
+     "rows": [
+      [
+       "Il a dit : « Je suis malade. » (présent)",
+       "Il a dit qu’il **était** malade. (imparfait)"
+      ],
+      [
+       "Elle a promis : « Je viendrai. » (futur)",
+       "Elle a promis qu’elle **viendrait**. (conditionnel)"
+      ],
+      [
+       "Il a ordonné aux élèves : « Taisez-vous ! » (impératif)",
+       "Il a ordonné aux élèves **de se taire**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "N’oubliez pas de changer aussi les pronoms et les mots possessifs : « Je prends **mon** cahier » devient *il prend **son** cahier*.",
+     "label": "Les pronoms"
+    },
+    {
+     "type": "tip",
+     "text": "Les indications de temps changent aussi : *demain* devient *le lendemain*, *aujourd’hui* devient *ce jour-là*. Il a dit : « Je viendrai demain. » → Il a dit qu’il viendrait **le lendemain**.",
+     "label": "Pour aller plus loin"
+    },
+    {
+     "type": "quiz",
+     "question": "Il a dit : « J’ai faim. » → Il a dit qu’il … faim.",
+     "options": [
+      "a",
+      "avait",
+      "aura"
+     ],
+     "answer": 1,
+     "explain": "Le verbe introducteur est au passé composé : le présent devient un imparfait (il avait faim)."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Indiquez si chaque phrase est au discours direct (D) ou au discours indirect (I).",
+     "items": [
+      "Tom répond : « Je viens tout de suite. »",
+      "Tom répond qu’il vient tout de suite.",
+      "— Où habites-tu ? demande Awa.",
+      "Awa demande où elle habite.",
+      "Le voisin crie aux enfants de partir."
+     ],
+     "corrige": [
+      "D (deux-points et guillemets)",
+      "I (« que »)",
+      "D (tiret et point d’interrogation)",
+      "I (mot interrogatif, plus de ponctuation)",
+      "I (« de » + infinitif)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transformez au discours indirect (le verbe introducteur reste au présent).",
+     "items": [
+      "Marie déclare : « Mon frère est malade. »",
+      "Léo dit : « J’aime ce livre. »",
+      "Le médecin demande à Karim : « As-tu mal ? »",
+      "Le père dit à Awa : « Prends ton manteau ! »"
+     ],
+     "corrige": [
+      "Marie déclare que son frère est malade.",
+      "Léo dit qu’il aime ce livre.",
+      "Le médecin demande à Karim s’il a mal.",
+      "Le père dit à Awa de prendre son manteau."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transformez au discours indirect (le verbe introducteur est au passé).",
+     "items": [
+      "Nadia a dit : « Je suis contente. »",
+      "Mon oncle a annoncé : « Je viendrai samedi. »",
+      "Le maître a demandé à Paul : « Pourquoi es-tu en retard ? »",
+      "Le médecin a dit à Karim : « Repose-toi ! »"
+     ],
+     "corrige": [
+      "Nadia a dit qu’elle était contente.",
+      "Mon oncle a annoncé qu’il viendrait samedi.",
+      "Le maître a demandé à Paul pourquoi il était en retard.",
+      "Le médecin a dit à Karim de se reposer."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transformez au discours direct.",
+     "items": [
+      "Tom dit qu’il a faim.",
+      "Elle demande à son ami s’il veut jouer.",
+      "Le chef ordonne aux élèves de se taire."
+     ],
+     "corrige": [
+      "Tom dit : « J’ai faim. »",
+      "Elle demande à son ami : « Veux-tu jouer ? »",
+      "Le chef ordonne aux élèves : « Taisez-vous ! »"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **discours direct** rapporte les paroles telles quelles : deux-points, guillemets, tirets.",
+      "Le **discours indirect** les intègre à la phrase, dans une subordonnée introduite par **que**, **si**, un mot interrogatif ou **de** + infinitif.",
+      "En passant au discours indirect, on change la ponctuation, les pronoms, les possessifs, et les temps si le verbe introducteur est au passé."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Il a demandé à Paul : « Viens-tu ? » → Il a demandé à Paul …",
+     "options": [
+      "que tu viens.",
+      "s’il venait.",
+      "de venir."
+     ],
+     "answer": 1,
+     "explain": "Question à réponse *oui* ou *non* : on emploie « si » ; « tu » devient « il » et le présent devient un imparfait, car le verbe introducteur est au passé."
+    }
+   ]
+  }
+ ]
+}

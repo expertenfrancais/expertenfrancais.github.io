@@ -164,6 +164,86 @@
    ]
   },
   {
+   "t": "Les familles de mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Connaître la **famille** d’un mot permet de comprendre de nouveaux mots et de mieux écrire."
+    },
+    {
+     "type": "table",
+     "title": "Quelques familles de mots",
+     "head": [
+      "Mot de départ",
+      "Mots de la même famille"
+     ],
+     "rows": [
+      [
+       "protéger",
+       "protection, protecteur, protégé"
+      ],
+      [
+       "recycler",
+       "recyclage, recyclable, recyclé"
+      ],
+      [
+       "boiser",
+       "reboiser, boisement, reboisement, déboiser"
+      ],
+      [
+       "climat",
+       "climatique, climatologue"
+      ],
+      [
+       "écologie",
+       "écologique, écologiste, écosystème"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Synonymes et contraires",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Des mots proches et des mots opposés",
+     "head": [
+      "Mot",
+      "Synonyme ou mot proche",
+      "Contraire"
+     ],
+     "rows": [
+      [
+       "protéger",
+       "défendre, sauvegarder",
+       "détruire"
+      ],
+      [
+       "préserver",
+       "conserver",
+       "gaspiller"
+      ],
+      [
+       "reboiser",
+       "replanter",
+       "déboiser"
+      ],
+      [
+       "renouvelable",
+       "—",
+       "épuisable"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Choisir le mot juste",
+     "text": "Un **synonyme** a un sens proche mais pas toujours identique : choisis-le selon le contexte. Pour trouver un **contraire**, cherche le mot de sens opposé ou le mot construit avec un préfixe (dé-, in-, mal-)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -201,6 +281,95 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Trouve l’intrus dans chaque série.",
+     "items": [
+      "recycler – trier – réutiliser – gaspiller",
+      "climat – température – pluie – football",
+      "reboiser – planter – semer – déboiser"
+     ],
+     "corrige": [
+      "1. gaspiller (les autres protègent)",
+      "2. football (les autres parlent du climat)",
+      "3. déboiser (les autres consistent à planter)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le contraire de chaque mot.",
+     "items": [
+      "protéger",
+      "reboiser",
+      "gaspiller",
+      "renouvelable"
+     ],
+     "corrige": [
+      "1. détruire",
+      "2. déboiser",
+      "3. économiser",
+      "4. épuisable"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne un mot de la même famille.",
+     "items": [
+      "protéger",
+      "recycler",
+      "forêt"
+     ],
+     "corrige": [
+      "1. protection",
+      "2. recyclage",
+      "3. forestier"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : biodiversité, serre, éco-geste, renouvelable.",
+     "items": [
+      "Les forêts abritent une grande ____.",
+      "Brûler du charbon produit des gaz à effet de ____.",
+      "Planter un arbre est un ____ simple.",
+      "L’énergie solaire est une énergie ____."
+     ],
+     "corrige": [
+      "1. biodiversité",
+      "2. serre",
+      "3. éco-geste",
+      "4. renouvelable"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un paragraphe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un modèle de paragraphe qui emploie le vocabulaire du thème."
+    },
+    {
+     "type": "ex",
+     "label": "Modèle",
+     "text": "Notre ville produit chaque jour beaucoup de déchets. Pour protéger l’environnement, les habitants trient leurs ordures, recyclent le papier et plantent des arbres. Ces éco-gestes préservent la biodiversité et luttent contre le réchauffement climatique."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe sur la protection de la forêt.",
+     "items": [
+      "Écris quatre ou cinq phrases en employant au moins six mots du cours (déforestation, reboisement, biodiversité, espèce menacée, protéger, sensibiliser, éco-geste)."
+     ],
+     "corrige": [
+      "Proposition : La déforestation détruit chaque année de grandes forêts et met en danger de nombreuses espèces menacées. Pour protéger la biodiversité, il faut organiser le reboisement des collines. Les élèves peuvent aussi sensibiliser leurs voisins à un éco-geste simple : ne jamais brûler les arbres inutilement."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -210,7 +379,8 @@
       "L’**environnement** = tout ce qui nous entoure.",
       "Mots clés : **biodiversité, écosystème, climat, déforestation, reboisement, déchet, recycler**.",
       "Verbes : **protéger, préserver, sensibiliser, reboiser**.",
-      "Expressions : **développement durable, réchauffement climatique, éco-geste**."
+      "Expressions : **développement durable, réchauffement climatique, éco-geste**.",
+      "Pour enrichir ton vocabulaire, cherche les **mots de la même famille**, les **synonymes** et les **contraires**."
      ]
     },
     {

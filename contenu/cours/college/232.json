@@ -1,170 +1,198 @@
 {
  "id": 232,
  "meta": {
-  "t": "Les degrés de qualification : les formes particulières (bon, meilleur, mieux, pire…)",
+  "t": "La présentation de l’œuvre",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "b",
-  "r": 4.8
+  "n": "5e",
+  "m": "Lecture",
+  "img": "e",
+  "r": 4.8,
+  "mf": "MF5.1.5"
  },
  "sections": [
   {
-   "t": "Des mots qui changent de forme",
+   "t": "Faire connaissance avec un livre",
    "blocs": [
     {
      "type": "p",
-     "text": "Pour certains mots, le comparatif et le superlatif ne se forment pas avec « plus » : ils ont une **forme particulière**. C’est le cas de **bon**, **bien**, **mauvais**, **petit**."
+     "text": "Avant de lire un livre en entier, on le **présente** : on regarde sa couverture, son titre, son auteur, et on cherche des indices sur son contenu. C’est la **présentation de l’œuvre**."
+    },
+    {
+     "type": "def",
+     "label": "Présenter une œuvre",
+     "text": "**Présenter une œuvre**, c’est donner ses **informations essentielles** : auteur, titre, genre, éditeur, date de parution, thème, et dire de quoi elle parle en quelques lignes."
     },
     {
      "type": "list",
      "items": [
-      "Employer meilleur et mieux",
-      "Employer pire et moindre",
-      "Éviter les erreurs comme « plus bon »"
+      "Lire la couverture et la 4e de couverture",
+      "Remplir la fiche d’identité d’une œuvre",
+      "Dire le genre et le thème",
+      "Donner son avis sur l’œuvre"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "table",
-     "title": "Les formes particulières",
-     "head": [
-      "Mot",
-      "Comparatif de supériorité",
-      "Superlatif relatif"
-     ],
-     "rows": [
-      [
-       "bon (adjectif)",
-       "**meilleur**",
-       "le meilleur, la meilleure"
-      ],
-      [
-       "bien (adverbe)",
-       "**mieux**",
-       "le mieux"
-      ],
-      [
-       "mauvais (adjectif)",
-       "plus mauvais ou **pire**",
-       "le plus mauvais, le pire"
-      ],
-      [
-       "petit (adjectif)",
-       "plus petit ou **moindre**",
-       "le plus petit, le moindre"
-      ]
-     ]
-    },
-    {
      "type": "quiz",
-     "question": "Quel est le comparatif de supériorité de « bon » ?",
+     "question": "Présenter une œuvre, c’est…",
      "options": [
-      "plus bon",
-      "meilleur",
-      "mieux",
-      "bonnissime"
+      "la recopier",
+      "donner ses informations essentielles",
+      "la traduire",
+      "en changer la fin"
      ],
      "answer": 1,
-     "explain": "On dit « meilleur ». « Plus bon » est incorrect."
+     "explain": "On donne l’auteur, le titre, le genre, le thème, etc."
     }
    ]
   },
   {
-   "t": "Meilleur ou mieux ?",
+   "t": "Les indices sur le livre",
    "blocs": [
     {
      "type": "table",
-     "title": "Adjectif ou adverbe",
+     "title": "Où trouver les informations ?",
      "head": [
-      "Mot",
-      "Nature",
-      "Exemple"
+      "Partie du livre",
+      "Informations"
      ],
      "rows": [
       [
-       "meilleur(e)(s)",
-       "adjectif : accompagne un nom",
-       "Ce gâteau est **meilleur** que l’autre."
+       "**La 1re de couverture**",
+       "le titre, le nom de l’auteur, l’illustration, la collection, l’éditeur"
       ],
       [
-       "mieux",
-       "adverbe : accompagne un verbe",
-       "Il chante **mieux** que moi."
+       "**La 4e de couverture**",
+       "un résumé court, parfois une phrase sur l’auteur, le prix"
+      ],
+      [
+       "**La page de titre**",
+       "titre, auteur, éditeur, lieu et date"
+      ],
+      [
+       "**La table des matières**",
+       "les chapitres ou les parties"
+      ],
+      [
+       "**La préface**",
+       "présentation par l’auteur ou un autre écrivain"
       ]
      ]
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Si tu peux dire « bon », écris **meilleur** : c’est un adjectif. Si tu peux dire « bien », écris **mieux** : c’est un adverbe."
+     "text": "Avant de lire, pose-toi la question : **« De quoi ce livre peut-il parler ? »** d’après le titre et l’image. Après la lecture, tu pourras vérifier."
     },
     {
-     "type": "warn",
-     "label": "Accord",
-     "text": "**Meilleur** s’accorde (meilleure, meilleurs, meilleures) ; **mieux** ne s’accorde **jamais**."
-    },
-    {
-     "type": "ex",
-     "text": "Cette élève est **meilleure** que moi en maths. Elle travaille **mieux** que moi."
+     "type": "quiz",
+     "question": "Où trouve-t-on un résumé court de l’œuvre ?",
+     "options": [
+      "Sur la 1re de couverture",
+      "Sur la 4e de couverture",
+      "Dans la table des matières",
+      "Dans l’index"
+     ],
+     "answer": 1,
+     "explain": "La 4e de couverture contient souvent un résumé."
     }
    ]
   },
   {
-   "t": "Égalité, infériorité et autres formes",
+   "t": "La fiche d’identité d’une œuvre",
    "blocs": [
     {
      "type": "table",
-     "title": "Seul le comparatif de supériorité change",
+     "title": "Un exemple de fiche (œuvre imaginaire, pour l’exemple)",
      "head": [
-      "Degré",
-      "Phrase correcte",
-      "Phrase incorrecte"
+      "Rubrique",
+      "Information"
      ],
      "rows": [
       [
-       "supériorité",
-       "Il est **meilleur** que moi.",
-       "Il est plus bon que moi."
+       "**Titre**",
+       "Le Cahier bleu"
       ],
       [
-       "égalité",
-       "Il est **aussi bon** que moi.",
-       "Il est aussi meilleur que moi."
+       "**Auteur**",
+       "Marie Okoumou (auteur imaginaire)"
       ],
       [
-       "infériorité",
-       "Il est **moins bon** que moi.",
-       "Il est moins meilleur que moi."
-      ]
-     ]
-    },
-    {
-     "type": "table",
-     "title": "Pire, moindre, mieux : quelques emplois",
-     "head": [
-      "Mot",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "pire",
-       "Cette route est **pire** que l’autre. Le **pire** est passé."
+       "**Genre**",
+       "roman pour la jeunesse"
       ],
       [
-       "moindre",
-       "Je n’ai pas la **moindre** idée. (le plus petit, sens abstrait)"
+       "**Éditeur / date**",
+       "Éditions du Fleuve, 2015"
       ],
       [
-       "mieux",
-       "Il va **mieux** aujourd’hui. Il vaut **mieux** partir."
+       "**Thème**",
+       "l’amitié et la solidarité à l’école"
+      ],
+      [
+       "**Résumé**",
+       "Un élève trouve un cahier perdu et décide de retrouver son propriétaire."
       ]
      ]
     },
     {
      "type": "warn",
-     "label": "Pléonasme",
-     "text": "N’écris jamais « plus meilleur » ni « plus mieux » : « meilleur » et « mieux » contiennent déjà l’idée de « plus »."
+     "label": "Attention",
+     "text": "Ne recopie pas la 4e de couverture mot pour mot : **rédige le résumé avec tes propres mots**."
+    },
+    {
+     "type": "tip",
+     "label": "Conseil",
+     "text": "Pour donner le **genre**, utilise les mots : roman, conte, nouvelle, pièce de théâtre, recueil de poèmes, fable."
+    },
+    {
+     "type": "quiz",
+     "question": "Un « Cahier bleu » dans l’exemple est…",
+     "options": [
+      "le nom de l’auteur",
+      "le titre de l’œuvre",
+      "l’éditeur",
+      "la date"
+     ],
+     "answer": 1,
+     "explain": "« Le Cahier bleu » est le titre."
+    }
+   ]
+  },
+  {
+   "t": "Donner son avis",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "Dis si le livre t’a plu ou non, et **justifie** ton avis (*j’ai aimé… parce que…*).",
+      "Parle du **personnage** que tu préfères et explique pourquoi.",
+      "Dis à qui tu **conseillerais** cette lecture.",
+      "Reste **courtois** : on peut critiquer une œuvre sans insulter l’auteur."
+     ],
+     "label": "Pour exprimer son opinion"
+    },
+    {
+     "type": "ex",
+     "text": "J’ai aimé ce roman parce que l’histoire se passe à l’école, comme chez nous. Mon personnage préféré est Paul, car il est courageux et honnête. Je le conseille à ceux qui aiment les histoires d’amitié.",
+     "label": "Un avis (sur l’œuvre imaginaire)"
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "« C’est bien » ou « c’est nul » ne suffit pas : dis **pourquoi**."
+    },
+    {
+     "type": "quiz",
+     "question": "Un avis sur un livre doit…",
+     "options": [
+      "être justifié",
+      "être très long",
+      "raconter la fin",
+      "copier la 4e de couverture"
+     ],
+     "answer": 0,
+     "explain": "On justifie son opinion avec des raisons."
     }
    ]
   },
@@ -173,45 +201,55 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Complète avec meilleur(e)(s) ou mieux.",
+     "enonce": "**Exercice 1** : Dis où trouver ces informations.",
      "items": [
-      "Cette recette est … que la mienne.",
-      "Il joue … que son frère.",
-      "Ce sont les … élèves de la classe.",
-      "Elle va … depuis hier."
+      "a) le nom de l’éditeur",
+      "b) un petit résumé",
+      "c) la liste des chapitres",
+      "d) l’illustration"
      ],
      "corrige": [
-      "1. meilleure",
-      "2. mieux",
-      "3. meilleurs",
-      "4. mieux"
+      "a) 1re de couverture ou page de titre",
+      "b) 4e de couverture",
+      "c) table des matières",
+      "d) 1re de couverture"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Corrige les erreurs.",
+     "enonce": "**Exercice 2** : Complète la fiche d’identité de ton livre actuel : titre, auteur, genre, éditeur.",
      "items": [
-      "Il est plus bon que moi.",
-      "Elle chante plus bien que sa sœur.",
-      "Il est moins meilleur que toi."
+      "Titre",
+      "Auteur",
+      "Genre",
+      "Éditeur"
      ],
      "corrige": [
-      "1. Il est meilleur que moi.",
-      "2. Elle chante mieux que sa sœur.",
-      "3. Il est moins bon que toi."
+      "Réponse libre : recopier correctement depuis le livre.",
+      "Réponse libre : nom de l’auteur.",
+      "Réponse libre : roman, conte, recueil…",
+      "Réponse libre : maison d’édition."
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
-     "options": [
-      "C’est le plus bon gâteau.",
-      "C’est le meilleur gâteau.",
-      "C’est le mieux gâteau.",
-      "C’est le plus meilleur gâteau."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Rédige un résumé de ton livre en trois phrases, avec tes propres mots.",
+     "items": [
+      "Résumé"
      ],
-     "answer": 1,
-     "explain": "Le superlatif de « bon » est « le meilleur »."
+     "corrige": [
+      "Réponse libre : vérifier que les phrases sont personnelles, claires et sans copie."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Donne ton avis sur une lecture récente en deux phrases justifiées.",
+     "items": [
+      "Mon avis"
+     ],
+     "corrige": [
+      "Réponse libre : l’avis doit contenir « parce que » et une raison précise."
+     ]
     }
    ]
   },
@@ -222,23 +260,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "bon → meilleur, le meilleur ; bien → mieux, le mieux.",
-      "mauvais → plus mauvais ou pire ; petit → plus petit ou moindre.",
-      "Meilleur est un adjectif (il s’accorde) ; mieux est un adverbe (invariable).",
-      "On dit « aussi bon », « moins bon », mais jamais « plus bon »."
+      "Présenter une œuvre, c’est donner **auteur, titre, genre, éditeur, date, thème**.",
+      "La **couverture** et la **4e de couverture** donnent des indices.",
+      "On rédige le **résumé avec ses propres mots**.",
+      "On **justifie** son avis (*parce que…*).",
+      "Pour le genre : **roman, conte, nouvelle, pièce de théâtre, recueil de poèmes**."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Il court … que moi » :",
+     "question": "Comment rédiger un résumé ?",
      "options": [
-      "meilleur",
-      "mieux",
-      "plus bon",
-      "plus meilleur"
+      "Copier la 4e de couverture",
+      "Avec ses propres mots",
+      "En recopiant un chapitre",
+      "Sans phrase"
      ],
      "answer": 1,
-     "explain": "Il faut un adverbe pour accompagner « court » : « mieux »."
+     "explain": "On reformule l’histoire avec ses propres mots."
     }
    ]
   }

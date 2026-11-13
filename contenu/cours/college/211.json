@@ -1,260 +1,446 @@
 {
- "id": 211,
- "meta": {
-  "t": "L’étude d’une œuvre : les personnages",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Lecture",
-  "img": "d",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Qui sont-ils ?",
-   "blocs": [
+  "id": 211,
+  "meta": {
+    "t": "L’étude d’une œuvre : les personnages",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Lecture",
+    "img": "d",
+    "r": 4.8
+  },
+  "sections": [
     {
-     "type": "p",
-     "text": "Dans toute œuvre (roman, conte, pièce de théâtre), les **personnages** font vivre l’histoire. Les étudier permet de mieux comprendre l’œuvre."
-    },
-    {
-     "type": "list",
-     "items": [
-      "Distinguer personnages principaux et secondaires",
-      "Dresser un portrait",
-      "Suivre l’évolution d’un personnage"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "def",
-     "label": "Personnage",
-     "text": "Un **personnage** est un être, humain ou non, qui **agit** et **parle** dans une œuvre."
-    },
-    {
-     "type": "table",
-     "title": "Les catégories",
-     "head": [
-      "Catégorie",
-      "Définition"
-     ],
-     "rows": [
-      [
-       "personnage principal (héros)",
-       "celui dont l’histoire est racontée"
-      ],
-      [
-       "personnage secondaire",
-       "il entoure le héros"
-      ],
-      [
-       "adjuvant",
-       "il aide le héros"
-      ],
-      [
-       "opposant",
-       "il l’empêche d’atteindre son but"
+      "t": "Qui sont-ils ?",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Dans toute œuvre (roman, conte, pièce de théâtre), les **personnages** font vivre l’histoire. Les étudier permet de mieux comprendre l’œuvre."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Distinguer personnages principaux et secondaires",
+            "Dresser un portrait",
+            "Suivre l’évolution d’un personnage"
+          ],
+          "label": "Objectifs"
+        },
+        {
+          "type": "def",
+          "label": "Personnage",
+          "text": "Un **personnage** est un être, humain ou non, qui **agit** et **parle** dans une œuvre."
+        },
+        {
+          "type": "table",
+          "title": "Les catégories",
+          "head": [
+            "Catégorie",
+            "Définition"
+          ],
+          "rows": [
+            [
+              "personnage principal (héros)",
+              "celui dont l’histoire est racontée"
+            ],
+            [
+              "personnage secondaire",
+              "il entoure le héros"
+            ],
+            [
+              "adjuvant",
+              "il aide le héros"
+            ],
+            [
+              "opposant",
+              "il l’empêche d’atteindre son but"
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Le héros d’une œuvre est :",
+          "options": [
+            "le narrateur",
+            "le personnage principal",
+            "l’auteur",
+            "un adjuvant"
+          ],
+          "answer": 1,
+          "explain": "C’est le **personnage principal**."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "Le héros d’une œuvre est :",
-     "options": [
-      "le narrateur",
-      "le personnage principal",
-      "l’auteur",
-      "un adjuvant"
-     ],
-     "answer": 1,
-     "explain": "C’est le **personnage principal**."
-    }
-   ]
-  },
-  {
-   "t": "Faire le portrait d’un personnage",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les éléments du portrait",
-     "head": [
-      "Élément",
-      "Question"
-     ],
-     "rows": [
-      [
-       "portrait physique",
-       "Quelle est son apparence ?"
-      ],
-      [
-       "portrait moral",
-       "Quel est son caractère ?"
-      ],
-      [
-       "statut social",
-       "Quel est son métier, son milieu ?"
-      ],
-      [
-       "relations",
-       "Avec qui est-il en lien ?"
+      "t": "Faire le portrait d’un personnage",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les éléments du portrait",
+          "head": [
+            "Élément",
+            "Question"
+          ],
+          "rows": [
+            [
+              "portrait physique",
+              "Quelle est son apparence ?"
+            ],
+            [
+              "portrait moral",
+              "Quel est son caractère ?"
+            ],
+            [
+              "statut social",
+              "Quel est son métier, son milieu ?"
+            ],
+            [
+              "relations",
+              "Avec qui est-il en lien ?"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Sur quoi s’appuyer ?",
+          "text": "Appuie-toi sur le **texte** : ses actions, ses paroles et ce que disent les autres de lui."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Sur quoi s’appuyer ?",
-     "text": "Appuie-toi sur le **texte** : ses actions, ses paroles et ce que disent les autres de lui."
-    }
-   ]
-  },
-  {
-   "t": "Comment connaît-on un personnage ?",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les procédés",
-     "head": [
-      "Procédé",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "description directe",
-       "« C’était un homme grand et sévère. »"
-      ],
-      [
-       "actions",
-       "Il aida le vieillard à traverser : il est généreux."
-      ],
-      [
-       "paroles",
-       "« Je ne partirai pas sans eux. » : il est loyal."
-      ],
-      [
-       "jugement des autres",
-       "« Tout le village l’aimait. »"
+      "t": "Comment connaît-on un personnage ?",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les procédés",
+          "head": [
+            "Procédé",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "description directe",
+              "« C’était un homme grand et sévère. »"
+            ],
+            [
+              "actions",
+              "Il aida le vieillard à traverser : il est généreux."
+            ],
+            [
+              "paroles",
+              "« Je ne partirai pas sans eux. » : il est loyal."
+            ],
+            [
+              "jugement des autres",
+              "« Tout le village l’aimait. »"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "N’invente pas : une qualité doit être **justifiée** par un passage du texte."
+        }
       ]
-     ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "N’invente pas : une qualité doit être **justifiée** par un passage du texte."
-    }
-   ]
-  },
-  {
-   "t": "L’évolution du personnage",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Un personnage change souvent au fil de l’histoire. On compare sa **situation et son caractère** au début et à la fin."
-    },
-    {
-     "type": "table",
-     "title": "Évolution",
-     "head": [
-      "Début",
-      "Événement",
-      "Fin"
-     ],
-     "rows": [
-      [
-       "timide",
-       "il affronte un danger",
-       "courageux"
-      ],
-      [
-       "pauvre",
-       "il travaille avec courage",
-       "reconnu et respecté"
+      "t": "L’évolution du personnage",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Un personnage change souvent au fil de l’histoire. On compare sa **situation et son caractère** au début et à la fin."
+        },
+        {
+          "type": "table",
+          "title": "Évolution",
+          "head": [
+            "Début",
+            "Événement",
+            "Fin"
+          ],
+          "rows": [
+            [
+              "timide",
+              "il affronte un danger",
+              "courageux"
+            ],
+            [
+              "pauvre",
+              "il travaille avec courage",
+              "reconnu et respecté"
+            ]
+          ]
+        }
       ]
-     ]
-    }
-   ]
-  },
-  {
-   "t": "Application : les personnages du Cri de la forêt",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Dans une **pièce de théâtre**, on connaît les personnages par la **liste placée en tête**, par leurs **répliques** et par les **didascalies** (indications entre parenthèses ou en italique)."
     },
     {
-     "type": "list",
-     "items": [
-      "Relève tous les personnages dans la **liste des personnages**.",
-      "Distingue le ou les **personnages principaux**, les **secondaires**, les **adjuvants** et les **opposants**.",
-      "Pour chacun, note une **réplique** ou une **action** qui montre son caractère.",
-      "Demande-toi **ce qu’il pense de la forêt** : la protège-t-il ou l’exploite-t-il ?",
-      "Compare son attitude au **début** et à la **fin** de la pièce."
-     ],
-     "label": "Méthode",
-     "ordered": true
+      "t": "Application : les personnages du Cri de la forêt",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Dans une **pièce de théâtre**, on connaît les personnages par la **liste placée en tête**, par leurs **répliques** et par les **didascalies** (indications entre parenthèses ou en italique)."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Relève tous les personnages dans la **liste des personnages**.",
+            "Distingue le ou les **personnages principaux**, les **secondaires**, les **adjuvants** et les **opposants**.",
+            "Pour chacun, note une **réplique** ou une **action** qui montre son caractère.",
+            "Demande-toi **ce qu’il pense de la forêt** : la protège-t-il ou l’exploite-t-il ?",
+            "Compare son attitude au **début** et à la **fin** de la pièce."
+          ],
+          "label": "Méthode",
+          "ordered": true
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "Les noms et les rôles doivent être relevés dans **ton exemplaire** du *Cri de la forêt* (Henri Djombo) ; ne les cite pas de mémoire."
+        }
+      ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "Les noms et les rôles doivent être relevés dans **ton exemplaire** du *Cri de la forêt* (Henri Djombo) ; ne les cite pas de mémoire."
-    }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "exercise",
-     "enonce": "Réponds sur un personnage de ton choix (œuvre lue en classe).",
-     "items": [
-      "Qui est-il ?",
-      "Donne deux traits de caractère.",
-      "Justifie-les par une action.",
-      "Comment évolue-t-il ?"
-     ],
-     "corrige": [
-      "Réponses personnelles ; chaque trait doit être justifié par un passage précis.",
-      "Exemple : courageux, car il affronte le danger pour sauver son ami."
-     ]
+      "t": "Les types de personnages",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Classer les personnages",
+          "head": [
+            "Type",
+            "Définition",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Personnage principal (héros)",
+              "celui autour de qui l’histoire se construit",
+              "Mireille dans un récit sur sa quête"
+            ],
+            [
+              "Personnage secondaire",
+              "il soutient ou gêne le héros",
+              "la mère, l’ami"
+            ],
+            [
+              "Protagoniste / antagoniste",
+              "celui qui agit / celui qui s’oppose",
+              "le héros / le loup"
+            ],
+            [
+              "Anti-héros",
+              "personnage sans qualités héroïques, parfois comique ou raté",
+              "un voleur maladroit"
+            ],
+            [
+              "Figurant",
+              "personnage sans rôle important",
+              "un passant"
+            ]
+          ]
+        }
+      ]
     },
     {
-     "type": "quiz",
-     "question": "On justifie un trait de caractère par :",
-     "options": [
-      "une opinion",
-      "un passage du texte",
-      "une devinette",
-      "une date"
-     ],
-     "answer": 1,
-     "explain": "On s’appuie sur le **texte**."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "Personnages : **principal**, **secondaires**, **adjuvant**, **opposant**.",
-      "Le portrait : **physique**, **moral**, **social**.",
-      "On connaît un personnage par ses **actions**, ses **paroles**, la **description** et le **jugement des autres**.",
-      "Un personnage peut **évoluer**."
-     ]
+      "t": "Le schéma actantiel",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Le schéma actantiel montre le rôle de chaque personnage dans l’action. Il comprend six « actants »."
+        },
+        {
+          "type": "table",
+          "title": "Le schéma appliqué à *Cendrillon*",
+          "head": [
+            "Actant",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Sujet",
+              "qui veut quelque chose",
+              "Cendrillon"
+            ],
+            [
+              "Objet",
+              "ce qu’il veut",
+              "aller au bal, être heureuse"
+            ],
+            [
+              "Destinateur",
+              "ce qui pousse à agir",
+              "son désir de liberté"
+            ],
+            [
+              "Destinataire",
+              "qui bénéficie de l’action",
+              "Cendrillon elle-même"
+            ],
+            [
+              "Adjuvant",
+              "qui aide",
+              "la marraine fée, les souris"
+            ],
+            [
+              "Opposant",
+              "qui gêne",
+              "la belle-mère et les demi-sœurs"
+            ]
+          ]
+        }
+      ]
     },
     {
-     "type": "quiz",
-     "question": "Un opposant est un personnage qui :",
-     "options": [
-      "aide le héros",
-      "s’oppose au héros",
-      "raconte l’histoire",
-      "écrit l’œuvre"
-     ],
-     "answer": 1,
-     "explain": "Il **s’oppose** au héros."
+      "t": "Les relations entre personnages",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Types de relations",
+          "head": [
+            "Relation",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Amitié, alliance",
+              "deux amis qui s’entraident"
+            ],
+            [
+              "Conflit, rivalité",
+              "deux frères en désaccord"
+            ],
+            [
+              "Dépendance, autorité",
+              "un élève et son maître"
+            ],
+            [
+              "Amour, tendresse",
+              "une mère et son enfant"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Retiens",
+          "text": "Les relations évoluent : un ennemi peut devenir un ami. Repère ces changements pour suivre l’**évolution** du personnage."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Réponds sur un personnage de ton choix (œuvre lue en classe).",
+          "items": [
+            "Qui est-il ?",
+            "Donne deux traits de caractère.",
+            "Justifie-les par une action.",
+            "Comment évolue-t-il ?"
+          ],
+          "corrige": [
+            "Réponses personnelles ; chaque trait doit être justifié par un passage précis.",
+            "Exemple : courageux, car il affronte le danger pour sauver son ami."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "On justifie un trait de caractère par :",
+          "options": [
+            "une opinion",
+            "un passage du texte",
+            "une devinette",
+            "une date"
+          ],
+          "answer": 1,
+          "explain": "On s’appuie sur le **texte**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Classe ces personnages : principal, secondaire, antagoniste, figurant.",
+          "items": [
+            "Le héros qui cherche son père",
+            "Son ami qui l’accompagne",
+            "Le chef cruel qui veut l’en empêcher",
+            "Un passant qui salue"
+          ],
+          "corrige": [
+            "1. principal",
+            "2. secondaire",
+            "3. antagoniste",
+            "4. figurant"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète le schéma actantiel du *Petit Chaperon rouge* : sujet, objet, adjuvant, opposant.",
+          "items": [
+            "Sujet",
+            "Objet",
+            "Adjuvant",
+            "Opposant"
+          ],
+          "corrige": [
+            "Sujet : le Petit Chaperon rouge. Objet : apporter la galette à sa grand-mère. Adjuvant : le chasseur. Opposant : le loup."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Quelle relation unit ces personnages ? « Deux voisins se disputent chaque jour pour une clôture. »",
+          "items": [
+            "Donne la relation et son effet sur l’histoire."
+          ],
+          "corrige": [
+            "Relation : conflit, rivalité. Effet : crée des péripéties et des rebondissements."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : le portrait d’un personnage",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Écris le portrait (physique et moral) d’un personnage de l’œuvre que tu étudies, en six lignes, avec trois qualités et un défaut, justifiés par des actions.",
+          "items": [
+            "Réponse personnelle, d’après ton exemplaire."
+          ],
+          "corrige": [
+            "Corrigé (modèle) : *[Nom]* est un jeune homme grand et mince, au regard vif. Courageux, il n’hésite pas à affronter le danger pour défendre les siens. Généreux, il partage tout. Cependant, il est parfois trop têtu : à la scène *[numéro]*, il refuse l’aide de son ami. Ces traits montrent un héros attachant mais imparfait."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Personnages : **principal**, **secondaires**, **adjuvant**, **opposant**.",
+            "Le portrait : **physique**, **moral**, **social**.",
+            "On connaît un personnage par ses **actions**, ses **paroles**, la **description** et le **jugement des autres**.",
+            "Un personnage peut **évoluer**."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Un opposant est un personnage qui :",
+          "options": [
+            "aide le héros",
+            "s’oppose au héros",
+            "raconte l’histoire",
+            "écrit l’œuvre"
+          ],
+          "answer": 1,
+          "explain": "Il **s’oppose** au héros."
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

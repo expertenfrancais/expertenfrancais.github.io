@@ -1,0 +1,566 @@
+{
+ "id": 236,
+ "meta": {
+  "t": "Les antonymes : noms, verbes et adjectifs qualificatifs",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8,
+  "mf": "MF5.5.1"
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un antonyme ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Dans « *Le matin, il est joyeux ; le soir, il est **triste**.* », *joyeux* et *triste* expriment des idées **opposées**. On dit que ce sont des **antonymes**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir un antonyme",
+      "Reconnaître des antonymes de même nature",
+      "Choisir l’antonyme qui convient au contexte",
+      "Employer des antonymes pour nuancer ou opposer des idées"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Antonymes",
+     "text": "Les **antonymes** sont des mots de **sens contraire**. Ils appartiennent à la **même classe grammaticale** (nom, verbe, adjectif…) : *victoire ↔ défaite* (noms), *gagner ↔ perdre* (verbes), *grand ↔ petit* (adjectifs)."
+    },
+    {
+     "type": "table",
+     "title": "Les antonymes selon la nature du mot",
+     "head": [
+      "Nature",
+      "Mot",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "nom",
+       "la joie",
+       "la tristesse"
+      ],
+      [
+       "verbe",
+       "ouvrir",
+       "fermer"
+      ],
+      [
+       "adjectif qualificatif",
+       "léger",
+       "lourd"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Une règle d’or",
+     "text": "Un antonyme a **la même nature** que le mot de départ. On ne peut pas remplacer un nom par un adjectif : l’antonyme de *la richesse* est *la pauvreté* (nom), pas *pauvre* (adjectif)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’antonyme du verbe « accepter » ?",
+     "options": [
+      "accepté",
+      "refuser",
+      "acceptation",
+      "refus"
+     ],
+     "answer": 1,
+     "explain": "*Accepter* et *refuser* sont deux verbes de sens contraire."
+    }
+   ]
+  },
+  {
+   "t": "Les antonymes des noms",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver l’antonyme d’un nom, on cherche le nom qui exprime **l’idée opposée**. Souvent, on change de mot ; parfois, on ajoute un préfixe de sens contraire."
+    },
+    {
+     "type": "table",
+     "title": "Des antonymes de noms à connaître",
+     "head": [
+      "Nom",
+      "Antonyme",
+      "Nom",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "la joie",
+       "la tristesse",
+       "la paix",
+       "la guerre"
+      ],
+      [
+       "le courage",
+       "la lâcheté",
+       "la vérité",
+       "le mensonge"
+      ],
+      [
+       "le début",
+       "la fin",
+       "l’ordre",
+       "le désordre"
+      ],
+      [
+       "la victoire",
+       "la défaite",
+       "l’amitié",
+       "la haine"
+      ],
+      [
+       "la richesse",
+       "la pauvreté",
+       "le travail",
+       "le repos"
+      ],
+      [
+       "l’espoir",
+       "le désespoir",
+       "la liberté",
+       "l’esclavage / la captivité"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Deux façons de former l’antonyme d’un nom"
+    },
+    {
+     "type": "table",
+     "title": "Par un autre mot ou par un préfixe",
+     "head": [
+      "Procédé",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "un **mot différent**",
+       "*la naissance → la mort*, *l’arrivée → le départ*"
+      ],
+      [
+       "un **préfixe** de sens contraire (in-, dé-, dés-, mal-, mé-)",
+       "*l’ordre → le **dés**ordre*, *l’espoir → le **dés**espoir*, *l’honneur → le **dés**honneur*, *la chance → la **mal**chance*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*L’**arrivée** des coureurs a été applaudie ; leur **départ**, au contraire, s’est fait dans le silence.*",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Tous les noms n’ont pas un antonyme : *table, maison, arbre* n’ont pas de contraire. Ne force pas la recherche !"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’antonyme du nom « ordre » ?",
+     "options": [
+      "rangement",
+      "désordre",
+      "consigne",
+      "règle"
+     ],
+     "answer": 1,
+     "explain": "*Désordre* se forme avec le préfixe *dés-* : c’est le contraire d’*ordre*."
+    }
+   ]
+  },
+  {
+   "t": "Les antonymes des verbes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les **verbes** ont souvent des antonymes très utiles pour exprimer un **mouvement**, une **action**, un **sentiment** ou une **décision** contraires."
+    },
+    {
+     "type": "table",
+     "title": "Des antonymes de verbes à connaître",
+     "head": [
+      "Verbe",
+      "Antonyme",
+      "Verbe",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "monter",
+       "descendre",
+       "construire",
+       "détruire"
+      ],
+      [
+       "ouvrir",
+       "fermer",
+       "permettre",
+       "interdire"
+      ],
+      [
+       "gagner",
+       "perdre",
+       "aimer",
+       "détester / haïr"
+      ],
+      [
+       "avancer",
+       "reculer",
+       "commencer",
+       "finir / terminer"
+      ],
+      [
+       "arriver",
+       "partir",
+       "accepter",
+       "refuser"
+      ],
+      [
+       "entrer",
+       "sortir",
+       "remplir",
+       "vider"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Former l’antonyme d’un verbe avec un préfixe"
+    },
+    {
+     "type": "table",
+     "title": "Les préfixes du contraire",
+     "head": [
+      "Préfixe",
+      "Verbe",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "dé- / dés-",
+       "*faire*, *monter*, *obéir*",
+       "*défaire*, *démonter*, *désobéir*"
+      ],
+      [
+       "mal-, mé-",
+       "*traiter*, *connaître*",
+       "*maltraiter*, *méconnaître*"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège du contexte",
+     "text": "Un même verbe peut avoir **plusieurs antonymes** selon son sens : *fermer la porte* ↔ *ouvrir la porte*, mais *fermer la radio* ↔ *allumer la radio*. Choisis toujours l’antonyme qui convient à **la phrase**."
+    },
+    {
+     "type": "ex",
+     "text": "*Le magasin **ouvre** à huit heures et **ferme** à vingt heures.* ; *Les enfants **montent** dans le car, puis **descendent** à l’école.*",
+     "label": "Exemples"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’antonyme du verbe « construire » ?",
+     "options": [
+      "bâtir",
+      "détruire",
+      "réparer",
+      "modifier"
+     ],
+     "answer": 1,
+     "explain": "*Détruire* exprime l’action contraire de *construire*. *Bâtir* est un synonyme."
+    }
+   ]
+  },
+  {
+   "t": "Les antonymes des adjectifs qualificatifs",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les adjectifs qualificatifs servent à **décrire** : pour exprimer une opposition (dans un portrait, une comparaison), on emploie des antonymes d’adjectifs."
+    },
+    {
+     "type": "table",
+     "title": "Des antonymes d’adjectifs à connaître",
+     "head": [
+      "Adjectif",
+      "Antonyme",
+      "Adjectif",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "grand",
+       "petit",
+       "courageux",
+       "lâche / peureux"
+      ],
+      [
+       "léger",
+       "lourd",
+       "généreux",
+       "avare"
+      ],
+      [
+       "joyeux",
+       "triste",
+       "paresseux",
+       "travailleur"
+      ],
+      [
+       "fort",
+       "faible",
+       "propre",
+       "sale"
+      ],
+      [
+       "honnête",
+       "malhonnête",
+       "poli",
+       "impoli"
+      ],
+      [
+       "connu",
+       "inconnu",
+       "possible",
+       "impossible"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Deux familles d’antonymes"
+    },
+    {
+     "type": "table",
+     "title": "Mot différent ou préfixe",
+     "head": [
+      "Procédé",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "un **mot différent**",
+       "*grand ↔ petit*, *lourd ↔ léger*, *chaud ↔ froid*"
+      ],
+      [
+       "un **préfixe** (in-, im-, il-, ir-, dé-, mal-)",
+       "*connu → **in**connu*, *poli → **im**poli*, *honnête → **mal**honnête*, *lisible → **il**lisible*"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Attention au contexte"
+    },
+    {
+     "type": "table",
+     "title": "Un mot, plusieurs antonymes",
+     "head": [
+      "Adjectif",
+      "Phrase",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "*bon*",
+       "un **bon** élève",
+       "mauvais"
+      ],
+      [
+       "*bon*",
+       "un **bon** garçon",
+       "méchant"
+      ],
+      [
+       "*froid*",
+       "une eau **froide**",
+       "chaude"
+      ],
+      [
+       "*froid*",
+       "un accueil **froid**",
+       "chaleureux"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Ne confonds pas antonyme et négation",
+     "text": "*Il n’est pas grand* ne veut pas dire *il est petit*. L’antonyme exprime **l’idée contraire** ; la négation dit seulement que l’idée n’est pas vraie."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « un accueil froid », quel antonyme de « froid » convient ?",
+     "options": [
+      "chaud",
+      "brûlant",
+      "chaleureux",
+      "tiède"
+     ],
+     "answer": 2,
+     "explain": "Au sens figuré (un accueil), l’antonyme de *froid* est *chaleureux*."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Donne l’antonyme de chaque nom.",
+     "items": [
+      "le courage",
+      "la victoire",
+      "le début",
+      "la richesse",
+      "l’ordre",
+      "l’espoir"
+     ],
+     "corrige": [
+      "1. la lâcheté",
+      "2. la défaite",
+      "3. la fin",
+      "4. la pauvreté",
+      "5. le désordre",
+      "6. le désespoir"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’antonyme de chaque verbe.",
+     "items": [
+      "gagner",
+      "accepter",
+      "avancer",
+      "construire",
+      "permettre",
+      "remplir"
+     ],
+     "corrige": [
+      "1. perdre",
+      "2. refuser",
+      "3. reculer",
+      "4. détruire",
+      "5. interdire",
+      "6. vider"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne l’antonyme de chaque adjectif qualificatif.",
+     "items": [
+      "généreux",
+      "poli",
+      "léger",
+      "connu",
+      "courageux",
+      "propre"
+     ],
+     "corrige": [
+      "1. avare",
+      "2. impoli",
+      "3. lourd",
+      "4. inconnu",
+      "5. lâche (ou peureux)",
+      "6. sale"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase par l’antonyme du mot entre crochets.",
+     "items": [
+      "Mon frère est [courageux] mais ma sœur est ...",
+      "Le train [arrive] à huit heures ; l’autre ... à neuf heures.",
+      "Ce livre est [facile] ; celui-là est ...",
+      "Le professeur [permet] de parler ; il ... de crier."
+     ],
+     "corrige": [
+      "1. lâche (ou peureuse)",
+      "2. part",
+      "3. difficile",
+      "4. interdit"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis l’antonyme qui convient au contexte.",
+     "items": [
+      "un accueil froid ↔ un accueil (chaud / chaleureux)",
+      "un bon élève ↔ un (méchant / mauvais) élève",
+      "fermer la radio ↔ (ouvrir / allumer) la radio"
+     ],
+     "corrige": [
+      "1. chaleureuse",
+      "2. mauvais",
+      "3. allumer"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Les **antonymes** sont des mots de **sens contraire** et de **même nature** (nom, verbe, adjectif).",
+      "On forme un antonyme par un **autre mot** (*grand ↔ petit*) ou par un **préfixe** de sens contraire (*poli → impoli*, *ordre → désordre*, *faire → défaire*).",
+      "Le sens d’un mot dépend du **contexte** : *bon* a pour antonyme *mauvais* ou *méchant* selon la phrase.",
+      "Tous les mots n’ont pas d’antonyme.",
+      "L’antonyme n’est pas la **négation** : *pas grand* ≠ *petit*."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif",
+     "head": [
+      "Nature",
+      "Mot",
+      "Antonyme"
+     ],
+     "rows": [
+      [
+       "Nom",
+       "la paix",
+       "la guerre"
+      ],
+      [
+       "Verbe",
+       "monter",
+       "descendre"
+      ],
+      [
+       "Adjectif qualificatif",
+       "honnête",
+       "malhonnête"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’antonyme de « possible » ?",
+     "options": [
+      "peu possible",
+      "impossible",
+      "probable",
+      "faisable"
+     ],
+     "answer": 1,
+     "explain": "*Impossible* se forme avec le préfixe *im-* ; il est de même nature que *possible* (adjectif)."
+    }
+   ]
+  }
+ ]
+}

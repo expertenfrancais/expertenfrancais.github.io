@@ -132,6 +132,91 @@
    ]
   },
   {
+   "t": "Former le temps composé",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un temps composé se forme avec l’**auxiliaire avoir ou être** conjugué au temps simple, suivi du **participe passé**."
+    },
+    {
+     "type": "table",
+     "title": "Les couples de temps",
+     "head": [
+      "Temps simple",
+      "Temps composé",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "présent",
+       "passé composé",
+       "il mange → il **a mangé**"
+      ],
+      [
+       "imparfait",
+       "plus-que-parfait",
+       "il mangeait → il **avait mangé**"
+      ],
+      [
+       "passé simple",
+       "passé antérieur",
+       "il mangea → il **eut mangé**"
+      ],
+      [
+       "futur simple",
+       "futur antérieur",
+       "il mangera → il **aura mangé**"
+      ],
+      [
+       "conditionnel présent",
+       "conditionnel passé",
+       "il mangerait → il **aurait mangé**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Accord du participe passé",
+     "text": "Avec l’auxiliaire **être**, le participe s’accorde avec le sujet : « Elles sont **parties** »."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le temps composé de l’imparfait ?",
+     "options": [
+      "passé composé",
+      "plus-que-parfait",
+      "futur antérieur",
+      "passé antérieur"
+     ],
+     "answer": 1,
+     "explain": "Imparfait → plus-que-parfait : « il avait mangé »."
+    }
+   ]
+  },
+  {
+   "t": "L’accompli",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Action en cours et action accomplie",
+     "head": [
+      "Temps simple",
+      "Temps composé"
+     ],
+     "rows": [
+      [
+       "action en cours : il **mange**",
+       "action achevée : il **a mangé**"
+      ],
+      [
+       "futur : il **mangera**",
+       "futur achevé : il **aura mangé** avant midi"
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -165,6 +250,41 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Donne le temps composé correspondant.",
+     "items": [
+      "il chantait",
+      "il partira",
+      "il finirait",
+      "il arrive"
+     ],
+     "corrige": [
+      "1. il avait chanté",
+      "2. il sera parti",
+      "3. il aurait fini",
+      "4. il est arrivé"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Accorde le participe passé.",
+     "items": [
+      "Elles sont (partir).",
+      "Les fleurs que j’ai (cueillir).",
+      "Nous avions (finir)."
+     ],
+     "corrige": [
+      "1. parties",
+      "2. cueillies",
+      "3. fini"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -173,7 +293,8 @@
      "items": [
       "Temps composé = **auxiliaire + participe passé**.",
       "Il marque l’**antériorité** par rapport au temps simple correspondant.",
-      "Couples : présent / passé composé ; imparfait / plus-que-parfait ; passé simple / passé antérieur ; futur simple / futur antérieur."
+      "Couples : présent / passé composé ; imparfait / plus-que-parfait ; passé simple / passé antérieur ; futur simple / futur antérieur.",
+      "Temps composé = **auxiliaire (être ou avoir) au temps simple + participe passé**."
      ]
     },
     {

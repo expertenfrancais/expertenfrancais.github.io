@@ -1,138 +1,195 @@
 {
  "id": 218,
  "meta": {
-  "t": "La transformation de la forme affirmative à la forme exclamative",
+  "t": "Le respect des groupes de souffle",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "d",
-  "r": 4.8
+  "n": "5e",
+  "m": "Expression orale",
+  "img": "f",
+  "r": 4.8,
+  "mf": "MF5.1.1"
  },
  "sections": [
   {
-   "t": "Exprimer un sentiment fort",
+   "t": "Qu’est-ce qu’un groupe de souffle ?",
    "blocs": [
     {
      "type": "p",
-     "text": "La phrase **exclamative** exprime une émotion : admiration, surprise, joie, colère. Elle se termine par un **point d’exclamation**. On peut la fabriquer à partir d’une phrase affirmative."
+     "text": "Quand on lit une longue phrase, on ne peut pas tout dire sans respirer. On **découpe** donc la phrase en petits morceaux et on reprend son souffle entre chaque morceau. Mais attention : on ne coupe pas n’importe où."
+    },
+    {
+     "type": "def",
+     "label": "Le groupe de souffle",
+     "text": "Un **groupe de souffle** est un groupe de mots qu’on lit **d’un seul coup, sans s’arrêter**, parce qu’ils forment une **unité de sens**."
+    },
+    {
+     "type": "ex",
+     "text": "Le petit garçon / est allé au marché / avec sa grand-mère.",
+     "label": "Trois groupes de souffle"
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître une phrase exclamative",
-      "Connaître les mots exclamatifs",
-      "Transformer une phrase affirmative en phrase exclamative"
+      "Comprendre ce qu’est un groupe de souffle",
+      "Découper une phrase en groupes de sens",
+      "Éviter les coupures qui déforment le sens",
+      "Lire avec aisance un texte long"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "ex",
-     "text": "Affirmative : « Ce paysage est magnifique. » → Exclamative : « Quel magnifique paysage ! » ou « Comme ce paysage est magnifique ! »"
-    },
-    {
      "type": "quiz",
-     "question": "Quelle phrase est exclamative ?",
+     "question": "Un groupe de souffle est un groupe de mots…",
      "options": [
-      "Quel beau temps !",
-      "Quel temps fait-il ?",
-      "Il fait beau.",
-      "Fais-moi un dessin."
+      "qu’on lit sans reprendre son souffle",
+      "qu’on lit en criant",
+      "qui commence par une majuscule",
+      "qui contient un verbe conjugué"
      ],
      "answer": 0,
-     "explain": "Elle exprime une émotion et se termine par « ! »."
+     "explain": "Les mots d’un groupe de souffle forment un tout et se lisent d’un seul coup."
     }
    ]
   },
   {
-   "t": "Les mots exclamatifs",
+   "t": "Où couper, où ne pas couper ?",
    "blocs": [
     {
+     "type": "p",
+     "text": "Le bon découpage suit le **sens** et la **grammaire**. On peut couper après un groupe complet, mais pas au milieu."
+    },
+    {
      "type": "table",
-     "title": "Comment former une exclamation",
+     "title": "Les bonnes et les mauvaises coupures",
      "head": [
-      "Mot",
-      "Emploi",
-      "Exemple"
+      "On NE coupe PAS entre…",
+      "Exemples (mauvais découpage)"
      ],
      "rows": [
       [
-       "Quel, quelle, quels, quelles",
-       "devant un nom",
-       "**Quelle** belle journée !"
+       "un **déterminant** et son **nom**",
+       "*le / garçon*"
       ],
       [
-       "Comme",
-       "devant un verbe ou un adjectif",
-       "**Comme** il court vite !"
+       "un **nom** et son **adjectif** proche",
+       "*une robe / rouge*"
       ],
       [
-       "Que",
-       "devant un adjectif, un adverbe ou « de »",
-       "**Que** cette fleur est belle ! **Que** de monde !"
+       "un **pronom sujet** et son **verbe**",
+       "*il / chante*"
       ],
       [
-       "Combien",
-       "quantité ou intensité",
-       "**Combien** je suis content !"
+       "une **préposition** et son complément",
+       "*dans / la maison*"
       ],
       [
-       "Ce que, qu’est-ce que (familier)",
-       "oral",
-       "**Ce que** c’est grand !"
+       "un **verbe** et son **auxiliaire**",
+       "*il a / mangé*"
       ]
      ]
     },
     {
-     "type": "warn",
-     "label": "Accord",
-     "text": "« Quel » s’accorde avec le nom : Quel **courage** ! Quelle **chance** ! Quels **beaux** jours ! Quelles **belles** images !"
-    }
-   ]
-  },
-  {
-   "t": "Comment transformer ?",
-   "blocs": [
-    {
-     "type": "list",
-     "items": [
-      "Repère la phrase affirmative et ce qu’elle exprime (une qualité, une action, une quantité).",
-      "Choisis le mot exclamatif adapté (quel, comme, que…).",
-      "Garde l’ordre normal des mots, sans inversion du sujet.",
-      "Termine par « ! »."
-     ],
-     "label": "Méthode",
-     "ordered": true
-    },
-    {
-     "type": "table",
-     "title": "Exemples de transformation",
-     "head": [
-      "Affirmative",
-      "Exclamative"
-     ],
-     "rows": [
-      [
-       "Il fait chaud.",
-       "**Comme** il fait chaud ! / **Qu’**il fait chaud !"
-      ],
-      [
-       "Ce gâteau est délicieux.",
-       "**Quel** délicieux gâteau !"
-      ],
-      [
-       "Il y a beaucoup de monde.",
-       "**Que de** monde !"
-      ],
-      [
-       "Tu as de la chance.",
-       "**Quelle** chance tu as !"
-      ]
-     ]
+     "type": "ex",
+     "text": "Mauvais : Le / petit chat / dort / sur le / tapis.\nBon : Le petit chat / dort / sur le tapis.",
+     "label": "Comparaison"
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "On peut aussi exclamer avec une **interjection** (Oh ! Ah ! Hélas !) ou en **élevant la voix**, mais la transformation demandée utilise un mot exclamatif."
+     "text": "Pose-toi la question : « Est-ce que ces mots vont ensemble pour dire quelque chose ? » Si oui, ils forment un seul groupe."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel découpage est correct ?",
+     "options": [
+      "Le / garçon mange",
+      "Le garçon / mange une mangue",
+      "Le garçon mange / une / mangue",
+      "Le garçon mange une / mangue"
+     ],
+     "answer": 1,
+     "explain": "On garde ensemble le groupe sujet (Le garçon) puis le groupe verbal."
+    }
+   ]
+  },
+  {
+   "t": "Les virgules aident à couper",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **ponctuation** est un bon guide : une virgule marque souvent la fin d’un groupe de souffle. Mais on peut aussi couper là où il n’y a pas de virgule, si la phrase est longue, **à condition de respecter le sens**."
+    },
+    {
+     "type": "ex",
+     "text": "Quand la pluie cessa, / les enfants sortirent de la maison / et coururent vers la rivière.",
+     "label": "Phrase longue découpée"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Un groupe de souffle ne doit être **ni trop long** (on manque d’air) **ni trop court** (la lecture devient hachée, saccadée)."
+    },
+    {
+     "type": "table",
+     "title": "Marquer les groupes",
+     "head": [
+      "Signe",
+      "Signification"
+     ],
+     "rows": [
+      [
+       "/",
+       "pause courte entre deux groupes de souffle"
+      ],
+      [
+       "//",
+       "pause longue, fin de phrase"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Le signe // sert à marquer…",
+     "options": [
+      "une pause courte",
+      "une pause longue",
+      "une liaison",
+      "une erreur"
+     ],
+     "answer": 1,
+     "explain": "Deux barres indiquent une pause longue, souvent en fin de phrase."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs fréquentes",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Erreur 1 : couper après chaque mot",
+     "text": "Lire mot à mot (« Le / chat / dort / sur / le / tapis ») donne une lecture hachée, qu’on ne comprend pas."
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 2 : ne jamais couper",
+     "text": "Lire une longue phrase d’un seul trait fatigue le lecteur et l’auditeur."
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 3 : couper au mauvais endroit",
+     "text": "« Il a / mangé tout le riz » sépare l’auxiliaire et le participe : le sens est mal compris."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle lecture est hachée ?",
+     "options": [
+      "Le chat dort / sur le tapis.",
+      "Le / chat / dort / sur / le / tapis.",
+      "Le petit chat / dort.",
+      "Mon frère / est parti."
+     ],
+     "answer": 1,
+     "explain": "Couper après chaque mot rend la lecture hachée."
     }
    ]
   },
@@ -141,43 +198,51 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Transforme en phrase exclamative avec « quel / quelle ».",
+     "enonce": "**Exercice 1** : Découpe en groupes de souffle avec des barres ( / ).",
      "items": [
-      "Ce film est intéressant.",
-      "Cette histoire est triste.",
-      "Ce sont de beaux souvenirs."
+      "a) Le vieil homme traverse la rue.",
+      "b) Les enfants jouent dans la cour de l’école.",
+      "c) Ce matin, ma mère a préparé un gâteau au chocolat."
      ],
      "corrige": [
-      "1. Quel film intéressant ! (ou Quel intéressant film !)",
-      "2. Quelle histoire triste !",
-      "3. Quels beaux souvenirs !"
+      "a) Le vieil homme / traverse la rue.",
+      "b) Les enfants / jouent / dans la cour de l’école.",
+      "c) Ce matin, / ma mère / a préparé / un gâteau au chocolat."
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Transforme avec « comme » ou « que ».",
+     "enonce": "**Exercice 2** : Explique pourquoi ce découpage est mauvais et corrige-le : *Mon grand / frère est parti / hier matin.*",
      "items": [
-      "Cet enfant est poli.",
-      "La mer est calme.",
-      "Tu parles bien."
+      "Découpage à corriger"
      ],
      "corrige": [
-      "1. Comme cet enfant est poli ! / Que cet enfant est poli !",
-      "2. Comme la mer est calme ! / Que la mer est calme !",
-      "3. Comme tu parles bien ! / Que tu parles bien !"
+      "Mauvais : il sépare « grand » de « frère ». Correct : Mon grand frère / est parti / hier matin."
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
-     "options": [
-      "Quel belles fleurs !",
-      "Quelles belles fleurs !",
-      "Quelle beaux fleurs !",
-      "Quels belle fleurs !"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Découpe cette phrase longue et lis-la : *Quand la nuit tomba, les villageois se réunirent autour du feu et écoutèrent le conteur.*",
+     "items": [
+      "Phrase longue"
      ],
-     "answer": 1,
-     "explain": "« Quelles » s’accorde avec « fleurs » (féminin pluriel)."
+     "corrige": [
+      "Quand la nuit tomba, / les villageois se réunirent / autour du feu / et écoutèrent le conteur."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Dis si chaque découpage est bon (B) ou mauvais (M).",
+     "items": [
+      "a) Elle / chante une chanson.",
+      "b) Elle chante / une chanson.",
+      "c) Il a mangé / du riz."
+     ],
+     "corrige": [
+      "a) M : on sépare le pronom et le verbe.",
+      "b) B",
+      "c) B"
+     ]
     }
    ]
   },
@@ -188,23 +253,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "La phrase exclamative exprime une émotion et finit par « ! ».",
-      "Mots exclamatifs : quel(le)(s), comme, que, combien.",
-      "« Quel » s’accorde avec le nom.",
-      "L’ordre des mots reste normal : pas d’inversion."
+      "Un **groupe de souffle** se lit **d’un seul coup**, car ses mots forment une **unité de sens**.",
+      "On **ne coupe pas** entre un déterminant et son nom, un pronom et son verbe, une préposition et son complément.",
+      "On coupe **après** un groupe complet, souvent à une **virgule**.",
+      "Ni trop long, ni trop court : **ni essoufflé, ni haché**.",
+      "On note les pauses par **/** (courte) et **//** (longue)."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Comme il est fort ! » est :",
+     "question": "Où peut-on couper dans « Les enfants jouent dans la cour » ?",
      "options": [
-      "interrogative",
-      "impérative",
-      "exclamative",
-      "négative"
+      "Les / enfants",
+      "Les enfants / jouent / dans la cour",
+      "jouent / dans",
+      "dans / la cour"
      ],
-     "answer": 2,
-     "explain": "C’est une phrase exclamative : émotion + « comme » + « ! »."
+     "answer": 1,
+     "explain": "On coupe entre les groupes de sens : sujet, verbe, complément."
     }
    ]
   }

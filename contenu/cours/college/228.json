@@ -1,128 +1,177 @@
 {
  "id": 228,
  "meta": {
-  "t": "L’accord du participe passé des verbes occasionnellement pronominaux de sens réfléchi",
+  "t": "La rédaction du portrait physique",
   "k": "Cours",
-  "n": "3e",
-  "m": "Orthographe",
-  "img": "f",
-  "r": 4.8
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "d",
+  "r": 4.8,
+  "mf": "MF5.7.2"
  },
  "sections": [
   {
-   "t": "Quand le sujet agit sur lui-même",
+   "t": "Décrire quelqu’un par écrit",
    "blocs": [
     {
      "type": "p",
-     "text": "Dans un verbe pronominal de **sens réfléchi**, le sujet fait l’action **sur lui-même** : « Elle **se** lave » veut dire « Elle lave elle-même »."
+     "text": "Pour faire connaître une personne à quelqu’un qui ne l’a jamais vue, tu écris son **portrait physique**. Le lecteur doit pouvoir **l’imaginer**."
+    },
+    {
+     "type": "def",
+     "label": "Le portrait physique",
+     "text": "Le **portrait physique** est un texte qui décrit l’**apparence** d’une personne : sa taille, sa silhouette, son visage, ses vêtements, sa manière de se tenir."
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître le sens réfléchi",
-      "Trouver la fonction du pronom « se » (COD ou COI)",
-      "Accorder correctement le participe passé"
+      "Organiser un portrait physique",
+      "Choisir le vocabulaire et les adjectifs",
+      "Utiliser des comparaisons",
+      "Rédiger un portrait complet"
      ],
      "label": "Objectifs"
     },
     {
      "type": "quiz",
-     "question": "« Marie se coiffe. » : le sens est :",
+     "question": "Que décrit un portrait physique ?",
      "options": [
-      "passif",
-      "réfléchi",
-      "impersonnel",
-      "réciproque"
+      "Le caractère d’une personne",
+      "L’apparence d’une personne",
+      "Un événement",
+      "Un lieu"
      ],
      "answer": 1,
-     "explain": "Marie coiffe elle-même : sens réfléchi."
+     "explain": "Il décrit ce qu’on voit : taille, visage, vêtements."
     }
    ]
   },
   {
-   "t": "La règle d’accord",
+   "t": "Organiser son portrait",
    "blocs": [
     {
-     "type": "def",
-     "label": "Règle",
-     "text": "Au passé composé, le participe passé s’accorde avec le **COD s’il est placé avant le verbe**. Il reste **invariable** si le COD est placé après, ou si « se » est un COI."
+     "type": "p",
+     "text": "Un bon portrait suit un **ordre**. On va **du général au particulier**, souvent **de haut en bas**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**L’impression d’ensemble** : âge, taille, silhouette (grand, mince, robuste…).",
+      "**Le visage** : cheveux, front, yeux, nez, bouche, teint.",
+      "**Le corps et la démarche** : épaules, mains, façon de marcher.",
+      "**Les vêtements** et les accessoires.",
+      "**Une conclusion** : l’impression que donne la personne."
+     ],
+     "label": "Le plan",
+     "ordered": true
     },
     {
      "type": "table",
-     "title": "Trouver la fonction de « se »",
+     "title": "Un vocabulaire utile",
      "head": [
-      "Phrase",
-      "Test",
-      "Fonction de « se »",
-      "Accord"
+      "Partie",
+      "Mots et adjectifs"
      ],
      "rows": [
       [
-       "Elle s’est lavée.",
-       "Elle a lavé **qui** ? elle-même",
-       "COD (avant)",
-       "lavé**e**"
+       "**Silhouette**",
+       "grand, petit, mince, trapu, élancé, robuste, voûté"
       ],
       [
-       "Elle s’est lavé les mains.",
-       "Elle a lavé **quoi** ? les mains ; « se » = à elle",
-       "COI (COD après)",
-       "lavé (invariable)"
+       "**Cheveux**",
+       "noirs, crépus, courts, tressés, rasés, gris"
       ],
       [
-       "Elle s’est acheté un livre.",
-       "Elle a acheté un livre **à qui** ? à elle",
-       "COI",
-       "acheté (invariable)"
+       "**Yeux**",
+       "grands, brillants, vifs, rieurs, perçants"
       ],
       [
-       "Elle s’est regardée.",
-       "Elle a regardé **qui** ? elle-même",
-       "COD (avant)",
-       "regardé**e**"
+       "**Visage**",
+       "rond, ovale, allongé, ridé, souriant"
       ]
      ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel ordre décrit-on souvent un portrait ?",
+     "options": [
+      "Au hasard",
+      "Du général au particulier, de haut en bas",
+      "Par ordre alphabétique",
+      "Du bas vers le haut"
+     ],
+     "answer": 1,
+     "explain": "On commence par l’ensemble, puis on détaille de haut en bas."
+    }
+   ]
+  },
+  {
+   "t": "Écrire avec précision",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "Emploie des **verbes d’état** : *être, avoir, paraître, sembler*.",
+      "Écris au **présent** ou à l’**imparfait**, mais **garde le même temps** tout au long.",
+      "Utilise des **adjectifs précis** et des **comparaisons** (*des yeux brillants comme des étoiles*).",
+      "Évite les mots vagues (*beau, bien, gentil*).",
+      "Varie les phrases."
+     ],
+     "label": "Les conseils"
+    },
+    {
+     "type": "ex",
+     "text": "Mon grand-père est un homme de petite taille, mince et un peu voûté. Son visage ridé s’éclaire quand il sourit. Ses yeux vifs brillent comme de petites étoiles.",
+     "label": "Un modèle (de l’auteur du cours)"
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Pose la question **« qui ? »** ou **« quoi ? »** après le participe. Si la réponse est « se » placé avant, on accorde."
+     "text": "Pour une comparaison, pense : *comme* + objet connu : *une démarche lente comme celle d’une tortue*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est un exemple de comparaison ?",
+     "options": [
+      "Il est grand.",
+      "Il court comme le vent.",
+      "Il a des cheveux noirs.",
+      "Il porte un chapeau."
+     ],
+     "answer": 1,
+     "explain": "« Comme le vent » compare la course à la vitesse du vent."
     }
    ]
   },
   {
-   "t": "Les pièges",
+   "t": "Les pièges à éviter",
    "blocs": [
     {
-     "type": "table",
-     "title": "Comparer",
-     "head": [
-      "Phrase",
-      "Raison"
-     ],
-     "rows": [
-      [
-       "Les enfants se sont lavés.",
-       "« se » COD placé avant → accord"
-      ],
-      [
-       "Les enfants se sont lavé les mains.",
-       "COD « les mains » placé après → pas d’accord"
-      ],
-      [
-       "Les mains qu’ils se sont lavées.",
-       "COD « que » (= les mains) placé avant → accord"
-      ],
-      [
-       "Elle s’est brossé les dents.",
-       "COD « les dents » après → invariable"
-      ]
-     ]
+     "type": "warn",
+     "label": "Piège 1 : faire une liste",
+     "text": "Un portrait n’est pas une liste de mots. Écris des **phrases** liées entre elles."
     },
     {
      "type": "warn",
-     "label": "Piège",
-     "text": "Quand un COD est placé **avant** (« les fleurs qu’elle s’est cueillies »), le participe s’accorde avec ce COD, pas avec le sujet."
+     "label": "Piège 2 : changer de temps",
+     "text": "Si tu écris « Il est grand » puis « Il avait les cheveux noirs », ton texte devient confus. **Choisis un temps** et garde-le."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 3 : oublier l’impression d’ensemble",
+     "text": "Termine par une phrase qui résume l’impression que la personne donne."
+    },
+    {
+     "type": "quiz",
+     "question": "Un bon portrait physique est…",
+     "options": [
+      "une liste de mots",
+      "un texte construit en phrases",
+      "un dialogue",
+      "un récit"
+     ],
+     "answer": 1,
+     "explain": "Il doit être rédigé en phrases organisées."
     }
    ]
   },
@@ -131,45 +180,53 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Accorde le participe passé quand il le faut.",
+     "enonce": "**Exercice 1** : Remets dans l’ordre les éléments d’un portrait.",
      "items": [
-      "Marie s’est (couper).",
-      "Marie s’est (couper) le doigt.",
-      "Les filles se sont (regarder) dans le miroir.",
-      "Les fleurs qu’elle s’est (cueillir) sont belles."
+      "a) les vêtements",
+      "b) l’impression d’ensemble",
+      "c) le visage",
+      "d) la conclusion"
      ],
      "corrige": [
-      "1. coupée",
-      "2. coupé",
-      "3. regardées",
-      "4. cueillies"
+      "b) l’impression d’ensemble",
+      "c) le visage",
+      "a) les vêtements",
+      "d) la conclusion"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Dis si le participe doit s’accorder et pourquoi.",
+     "enonce": "**Exercice 2** : Remplace les mots vagues par des adjectifs précis : *a) un homme grand b) des cheveux beaux c) des yeux gentils*",
      "items": [
-      "Ils se sont lavé les mains.",
-      "Elles se sont habillées vite.",
-      "Elle s’est offert un cadeau."
+      "a)",
+      "b)",
+      "c)"
      ],
      "corrige": [
-      "1. non : COD « les mains » placé après",
-      "2. oui : « se » COD placé avant",
-      "3. non : « se » COI, COD « un cadeau » après"
+      "a) un homme élancé / robuste",
+      "b) des cheveux noirs et brillants",
+      "c) des yeux doux / rieurs"
      ]
     },
     {
-     "type": "quiz",
-     "question": "« Elle s’est brossé les cheveux. » : pourquoi « brossé » est invariable ?",
-     "options": [
-      "Parce que « se » est COD",
-      "Parce que le COD est placé après le verbe",
-      "Parce que le verbe est intransitif",
-      "Parce que le sujet est masculin"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Complète avec une comparaison : *Ses cheveux étaient noirs comme … ; sa voix était douce comme …*",
+     "items": [
+      "Phrase"
      ],
-     "answer": 1,
-     "explain": "Le COD « les cheveux » est après le participe : pas d’accord."
+     "corrige": [
+      "Ses cheveux étaient noirs comme la nuit ; sa voix était douce comme du miel."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige le portrait physique d’un de tes camarades ou d’un membre de ta famille en 5 à 6 phrases.",
+     "items": [
+      "Ton portrait"
+     ],
+     "corrige": [
+      "Réponse libre : vérifier l’ordre (ensemble, visage, corps, vêtements), le temps unique et les comparaisons."
+     ]
     }
    ]
   },
@@ -180,23 +237,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Sens réfléchi : le sujet agit sur lui-même.",
-      "Le participe s’accorde avec le COD placé avant (souvent « se »).",
-      "Pas d’accord si le COD est après, ou si « se » est COI.",
-      "Test : « qui ? » ou « quoi ? » après le participe."
+      "Le **portrait physique** décrit l’**apparence** d’une personne.",
+      "On suit un **ordre** : de l’ensemble au détail, de haut en bas.",
+      "On emploie des **adjectifs précis**, des **comparaisons** et des **verbes d’état**.",
+      "On garde le **même temps** (présent ou imparfait).",
+      "On termine par l’**impression d’ensemble**."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Elles se sont (maquiller). » → :",
+     "question": "Quel verbe est un verbe d’état ?",
      "options": [
-      "maquillé",
-      "maquillée",
-      "maquillés",
-      "maquillées"
+      "courir",
+      "paraître",
+      "chanter",
+      "ouvrir"
      ],
-     "answer": 3,
-     "explain": "« se » est COD placé avant : accord au féminin pluriel."
+     "answer": 1,
+     "explain": "« Paraître » (comme être, sembler) est un verbe d’état."
     }
    ]
   }

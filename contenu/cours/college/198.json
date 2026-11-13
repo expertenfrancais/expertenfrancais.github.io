@@ -130,6 +130,75 @@
    ]
   },
   {
+   "t": "Les conjonctions de postériorité",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Avant, jusqu’à ce que",
+     "head": [
+      "Conjonction",
+      "Mode",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "avant que",
+       "subjonctif",
+       "Pars **avant qu’il soit** tard."
+      ],
+      [
+       "jusqu’à ce que",
+       "subjonctif",
+       "Attends **jusqu’à ce qu’il revienne**."
+      ],
+      [
+       "en attendant que",
+       "subjonctif",
+       "Lis **en attendant qu’il arrive**."
+      ],
+      [
+       "avant de",
+       "infinitif",
+       "Lave-toi **avant de manger**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le futur dans le passé",
+     "text": "Quand le verbe principal est au passé, la postériorité se dit au **conditionnel présent** : « Il disait qu’il **viendrait** »."
+    }
+   ]
+  },
+  {
+   "t": "Après avoir + infinitif passé",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Antériorité de l’action du participe",
+     "head": [
+      "Construction",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "après avoir + participe passé",
+       "**Après avoir mangé**, il est sorti."
+      ],
+      [
+       "après être + participe passé",
+       "**Après être rentré**, il a dîné."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Même sujet",
+     "text": "« Après avoir mangé, il est sorti » : le sujet est le même dans les deux verbes."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -163,6 +232,37 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Mets le verbe entre parenthèses au mode qui convient.",
+     "items": [
+      "Attends jusqu’à ce qu’il (revenir).",
+      "Pars avant qu’il (être) tard.",
+      "Il disait qu’il (venir) demain."
+     ],
+     "corrige": [
+      "1. revienne",
+      "2. soit",
+      "3. viendrait"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Corrige les erreurs.",
+     "items": [
+      "Elle annonça qu’elle partira demain.",
+      "Je pensais qu’il réussira."
+     ],
+     "corrige": [
+      "1. Elle annonça qu’elle **partirait** le lendemain.",
+      "2. Je pensais qu’il **réussirait**."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -172,7 +272,8 @@
       "**Postériorité** = l’action a lieu **après** celle de la principale.",
       "Principale au présent ou au futur → **futur simple**.",
       "Principale au passé → **conditionnel présent** (futur dans le passé).",
-      "Jamais de futur simple après un verbe au passé."
+      "Jamais de futur simple après un verbe au passé.",
+      "**Avant que**, **jusqu’à ce que**, **en attendant que** : subjonctif."
      ]
     },
     {

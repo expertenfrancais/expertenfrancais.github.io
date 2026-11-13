@@ -141,6 +141,86 @@
    ]
   },
   {
+   "t": "Les familles de mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Connaître la **famille** d’un mot permet de comprendre de nouveaux mots et de mieux écrire."
+    },
+    {
+     "type": "table",
+     "title": "Quelques familles de mots",
+     "head": [
+      "Mot de départ",
+      "Mots de la même famille"
+     ],
+     "rows": [
+      [
+       "polluer",
+       "pollution, polluant, pollueur, dépolluer"
+      ],
+      [
+       "contaminer",
+       "contamination, contaminé"
+      ],
+      [
+       "toxique",
+       "toxicité, intoxiquer, intoxication"
+      ],
+      [
+       "trier",
+       "tri, triage"
+      ],
+      [
+       "nuire",
+       "nuisible, nuisance"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Synonymes et contraires",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Des mots proches et des mots opposés",
+     "head": [
+      "Mot",
+      "Synonyme ou mot proche",
+      "Contraire"
+     ],
+     "rows": [
+      [
+       "polluer",
+       "salir",
+       "dépolluer"
+      ],
+      [
+       "toxique",
+       "dangereux, nocif",
+       "inoffensif"
+      ],
+      [
+       "propre",
+       "pur",
+       "sale, pollué"
+      ],
+      [
+       "trier",
+       "classer",
+       "mélanger"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Choisir le mot juste",
+     "text": "Un **synonyme** a un sens proche mais pas toujours identique : choisis-le selon le contexte. Pour trouver un **contraire**, cherche le mot de sens opposé ou le mot construit avec un préfixe (dé-, in-, mal-)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -166,6 +246,93 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Trouve l’intrus dans chaque série.",
+     "items": [
+      "fumée – gaz – poussière – fleur",
+      "bruit – klaxon – vacarme – silence",
+      "plastique – piles – verre – eau pure"
+     ],
+     "corrige": [
+      "1. fleur (les autres polluent l’air)",
+      "2. silence (les autres sont des sources de pollution sonore)",
+      "3. eau pure (les autres sont des déchets)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le contraire de chaque mot.",
+     "items": [
+      "polluer",
+      "toxique",
+      "sale"
+     ],
+     "corrige": [
+      "1. dépolluer",
+      "2. inoffensif",
+      "3. propre"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne un mot de la même famille.",
+     "items": [
+      "polluer",
+      "toxique",
+      "contaminer"
+     ],
+     "corrige": [
+      "1. pollution",
+      "2. intoxication",
+      "3. contamination"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : polluants, décharge, tri sélectif, sonore.",
+     "items": [
+      "Les gaz des usines sont des ____.",
+      "Le bruit des moteurs est une pollution ____.",
+      "Le ____ permet de recycler plus facilement.",
+      "Les déchets jetés dans une ____ sauvage polluent le sol."
+     ],
+     "corrige": [
+      "1. polluants",
+      "2. sonore",
+      "3. tri sélectif",
+      "4. décharge"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un paragraphe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un modèle de paragraphe qui emploie le vocabulaire du thème."
+    },
+    {
+     "type": "ex",
+     "label": "Modèle",
+     "text": "Près de notre quartier, une décharge sauvage pollue le sol et contamine l’eau du ruisseau. Les habitants ont décidé d’agir : ils trient leurs déchets, nettoient les rues et sensibilisent leurs voisins. Grâce à ces gestes éco-responsables, l’air est devenu plus sain."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe sur un problème de pollution dans ton quartier.",
+     "items": [
+      "Écris quatre ou cinq phrases en employant au moins six mots du cours (polluer, déchet, décharge, toxique, tri sélectif, dépolluer, éco-responsable)."
+     ],
+     "corrige": [
+      "Proposition : Dans mon quartier, les déchets s’accumulent près du marché et forment une décharge qui pollue le sol. Les produits toxiques risquent de contaminer l’eau. Les habitants ont organisé un tri sélectif et chacun adopte un comportement éco-responsable pour dépolluer les lieux."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -175,7 +342,8 @@
       "La **pollution** dégrade l’air, l’eau, le sol (et crée du bruit).",
       "Types : **de l’air, de l’eau, du sol, sonore**.",
       "Verbes : **polluer, contaminer, dépolluer, trier, assainir**.",
-      "Mots : **polluant, toxique, décharge, tri sélectif**."
+      "Mots : **polluant, toxique, décharge, tri sélectif**.",
+      "Pour enrichir ton vocabulaire, cherche les **mots de la même famille**, les **synonymes** et les **contraires**."
      ]
     },
     {

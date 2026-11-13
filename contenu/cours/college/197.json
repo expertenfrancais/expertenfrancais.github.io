@@ -135,6 +135,78 @@
    ]
   },
   {
+   "t": "Les conjonctions de simultanéité",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Mots et nuances",
+     "head": [
+      "Conjonction",
+      "Nuance",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "pendant que, tandis que",
+       "deux actions en même temps",
+       "Il lit **pendant que** je cuisine."
+      ],
+      [
+       "quand, lorsque",
+       "moment précis",
+       "Il lisait **quand** le téléphone sonna."
+      ],
+      [
+       "au moment où",
+       "instant précis",
+       "**Au moment où** je sortais, il pleuvait."
+      ],
+      [
+       "tant que",
+       "durée",
+       "Reste **tant que** tu veux."
+      ],
+      [
+       "à mesure que",
+       "progression",
+       "**À mesure que** nous avançons, la route monte."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le gérondif",
+     "text": "Le gérondif exprime aussi la simultanéité : « Il chante **en travaillant**. »"
+    }
+   ]
+  },
+  {
+   "t": "Imparfait et passé simple",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Action de fond et action ponctuelle",
+     "head": [
+      "Temps",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "imparfait",
+       "action en cours, durable",
+       "Il **lisait**…"
+      ],
+      [
+       "passé simple",
+       "action brève qui interrompt",
+       "… quand le téléphone **sonna**."
+      ]
+     ]
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -168,6 +240,41 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec pendant que, tandis que, au moment où, tant que ou à mesure que.",
+     "items": [
+      "Je cuisine ____ tu lis.",
+      "Reste ici ____ tu veux.",
+      "____ nous avançons, la route monte.",
+      "Je suis sorti ____ il pleuvait."
+     ],
+     "corrige": [
+      "1. pendant que",
+      "2. tant que",
+      "3. À mesure que",
+      "4. au moment où"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mets les verbes au temps qui convient.",
+     "items": [
+      "Il (lire) quand le téléphone (sonner).",
+      "Je savais qu’elle (dormir).",
+      "Il dit qu’il (être) malade."
+     ],
+     "corrige": [
+      "1. lisait … sonna (ou a sonné)",
+      "2. dormait",
+      "3. est"
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -178,7 +285,8 @@
       "Principale au présent → **présent**.",
       "Principale au passé → **imparfait**.",
       "Principale au futur → **futur simple**.",
-      "Une **vérité générale** garde le présent."
+      "Une **vérité générale** garde le présent.",
+      "Imparfait + passé simple : **action de fond** et **action ponctuelle**."
      ]
     },
     {

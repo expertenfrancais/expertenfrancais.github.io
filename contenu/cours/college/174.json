@@ -141,6 +141,96 @@
    ]
   },
   {
+   "t": "Cause, but, conséquence : ne pas confondre",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Trois relations logiques",
+     "head": [
+      "Relation",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "cause",
+       "pourquoi ? (ce qui explique le fait)",
+       "Il est absent **parce qu’il est malade**."
+      ],
+      [
+       "but",
+       "dans quel but ? (ce qu’on veut obtenir)",
+       "Il se soigne **pour guérir vite**."
+      ],
+      [
+       "conséquence",
+       "avec quel résultat ?",
+       "Il est malade **si bien qu’il reste couché**."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Retourner la phrase",
+     "lines": [
+      "Il est absent parce qu’il est malade. → La maladie explique l’absence : **cause**.",
+      "Il est malade, donc il est absent. → L’absence est le résultat : **conséquence**."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Les prépositions et locutions de cause",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Autres façons d’exprimer la cause",
+     "head": [
+      "Expression",
+      "Nuance",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "à cause de",
+       "cause neutre ou défavorable",
+       "**À cause de** la pluie, le match est annulé."
+      ],
+      [
+       "grâce à",
+       "cause favorable",
+       "**Grâce à** ton aide, j’ai réussi."
+      ],
+      [
+       "en raison de, du fait de",
+       "langue soutenue ou administrative",
+       "Le magasin ferme **en raison de** travaux."
+      ],
+      [
+       "faute de",
+       "cause d’un manque",
+       "**Faute de** temps, il n’a pas fini."
+      ],
+      [
+       "sous prétexte que",
+       "fausse cause (indicatif)",
+       "Il est parti **sous prétexte qu’**il avait mal."
+      ],
+      [
+       "non que, ce n’est pas que",
+       "cause écartée (subjonctif)",
+       "Il est resté, **non qu’**il **ait** peur, mais par prudence."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Le mode de la subordonnée",
+     "text": "« Parce que », « puisque », « comme », « étant donné que » sont suivis de l’**indicatif**. « Non que » et « ce n’est pas que » sont suivis du **subjonctif**."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -194,6 +284,72 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Transforme le groupe prépositionnel en subordonnée de cause.",
+     "items": [
+      "À cause de la pluie, le match est annulé.",
+      "Faute de temps, il n’a pas fini son devoir.",
+      "Grâce à son aide, j’ai réussi."
+     ],
+     "corrige": [
+      "1. **Comme il pleut**, le match est annulé.",
+      "2. **Parce qu’il n’avait pas le temps**, il n’a pas fini son devoir.",
+      "3. **Parce qu’il m’a aidé**, j’ai réussi."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Choisis parce que, puisque, comme ou car.",
+     "items": [
+      "____ tu es là, aide-moi.",
+      "Il est en retard ____ le bus est tombé en panne.",
+      "____ il pleuvait, nous sommes restés.",
+      "Reste, ____ il est tard."
+     ],
+     "corrige": [
+      "1. Puisque (cause connue de l’interlocuteur)",
+      "2. parce que",
+      "3. Comme (cause en tête de phrase)",
+      "4. car"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Cause, but ou conséquence ?",
+     "items": [
+      "Il a pris un parapluie pour ne pas être mouillé.",
+      "Il est tombé car la route était glissante.",
+      "La route était si glissante qu’il est tombé.",
+      "Il a ralenti parce qu’il pleuvait."
+     ],
+     "corrige": [
+      "1. but",
+      "2. cause",
+      "3. conséquence",
+      "4. cause"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger : expliquer un événement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Explique en quatre phrases pourquoi un match ou une sortie a été annulé.",
+     "items": [
+      "Emploie à cause de, grâce à, parce que et comme."
+     ],
+     "corrige": [
+      "Proposition : **À cause de** la pluie, le match de samedi a été annulé. **Comme** le terrain était trempé, l’arbitre a refusé de commencer. **Parce que** les joueurs étaient déçus, le coach a promis une nouvelle date. **Grâce à** l’aide des parents, le terrain sera réparé."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -203,7 +359,9 @@
       "La **cause** répond à **pourquoi ?**",
       "Prépositions : **à cause de** (négatif), **grâce à** (favorable), **faute de** (manque).",
       "**Parce que** (cause nouvelle), **puisque** (cause connue), **comme** (début de phrase), **car** (jamais en début de phrase).",
-      "Verbe à l’**indicatif** ; **non que / ce n’est pas que** + **subjonctif**."
+      "Verbe à l’**indicatif** ; **non que / ce n’est pas que** + **subjonctif**.",
+      "**À cause de** (défavorable) et **grâce à** (favorable) : cause.",
+      "**Non que** et **ce n’est pas que** : cause écartée, avec le subjonctif."
      ]
     },
     {

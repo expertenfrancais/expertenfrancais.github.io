@@ -141,6 +141,86 @@
    ]
   },
   {
+   "t": "Les familles de mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Connaître la **famille** d’un mot permet de comprendre de nouveaux mots et de mieux écrire."
+    },
+    {
+     "type": "table",
+     "title": "Quelques familles de mots",
+     "head": [
+      "Mot de départ",
+      "Mots de la même famille"
+     ],
+     "rows": [
+      [
+       "jouer",
+       "joueur, jeu, jouet"
+      ],
+      [
+       "collectionner",
+       "collection, collectionneur"
+      ],
+      [
+       "lire",
+       "lecture, lecteur"
+      ],
+      [
+       "danser",
+       "danse, danseur"
+      ],
+      [
+       "s’amuser",
+       "amusement, amusant"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Synonymes et contraires",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Des mots proches et des mots opposés",
+     "head": [
+      "Mot",
+      "Synonyme ou mot proche",
+      "Contraire"
+     ],
+     "rows": [
+      [
+       "loisir",
+       "passe-temps",
+       "travail"
+      ],
+      [
+       "s’amuser",
+       "se divertir",
+       "s’ennuyer"
+      ],
+      [
+       "passionné",
+       "enthousiaste",
+       "indifférent"
+      ],
+      [
+       "amateur",
+       "—",
+       "professionnel"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Choisir le mot juste",
+     "text": "Un **synonyme** a un sens proche mais pas toujours identique : choisis-le selon le contexte. Pour trouver un **contraire**, cherche le mot de sens opposé ou le mot construit avec un préfixe (dé-, in-, mal-)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -166,6 +246,93 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Trouve l’intrus dans chaque série.",
+     "items": [
+      "lecture – cinéma – théâtre – devoir",
+      "randonnée – pêche – camping – leçon",
+      "jouer – danser – chanter – travailler"
+     ],
+     "corrige": [
+      "1. devoir (les autres sont des loisirs)",
+      "2. leçon (les autres sont des activités de plein air)",
+      "3. travailler (les autres sont des loisirs)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le contraire de chaque mot.",
+     "items": [
+      "s’amuser",
+      "amateur",
+      "passionné"
+     ],
+     "corrige": [
+      "1. s’ennuyer",
+      "2. professionnel",
+      "3. indifférent"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne un mot de la même famille.",
+     "items": [
+      "collectionner",
+      "danser",
+      "jouer"
+     ],
+     "corrige": [
+      "1. collectionneur",
+      "2. danseur",
+      "3. joueur"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : club, passe-temps, se détendre, passionné.",
+     "items": [
+      "Mon ____ préféré est la lecture.",
+      "Il est ____ de football : il regarde tous les matchs.",
+      "Après l’école, j’aime ____ en écoutant de la musique.",
+      "Elle s’est inscrite dans un ____ de danse."
+     ],
+     "corrige": [
+      "1. passe-temps",
+      "2. passionné",
+      "3. me détendre",
+      "4. club"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un paragraphe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un modèle de paragraphe qui emploie le vocabulaire du thème."
+    },
+    {
+     "type": "ex",
+     "label": "Modèle",
+     "text": "Le week-end, Fatou rejoint son club de théâtre. C’est son passe-temps préféré. Elle répète une pièce avec ses amis, puis ils se détendent dans le jardin. Fatou est une amatrice passionnée : elle ne se lasse jamais de monter sur scène."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe sur ton loisir préféré.",
+     "items": [
+      "Écris quatre ou cinq phrases en employant au moins six mots du cours (loisir, passe-temps, se détendre, s’amuser, passionné, club, collectionner)."
+     ],
+     "corrige": [
+      "Proposition : Mon loisir préféré est la lecture. Après l’école, j’aime me détendre avec un roman d’aventures. Je suis passionné par les histoires de voyage et je collectionne les livres de mon auteur favori. Le samedi, je m’amuse aussi avec mes amis au club de football."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -175,7 +342,8 @@
       "Les **loisirs** : activités du **temps libre**.",
       "Domaines : **culture, jeux, activités manuelles, plein air**.",
       "Verbes : **se distraire, se détendre, s’amuser, pratiquer, collectionner**.",
-      "Mots : **passe-temps, divertissement, amateur, passionné**."
+      "Mots : **passe-temps, divertissement, amateur, passionné**.",
+      "Pour enrichir ton vocabulaire, cherche les **mots de la même famille**, les **synonymes** et les **contraires**."
      ]
     },
     {

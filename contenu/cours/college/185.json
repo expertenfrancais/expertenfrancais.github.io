@@ -141,6 +141,86 @@
    ]
   },
   {
+   "t": "Les familles de mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Connaître la **famille** d’un mot permet de comprendre de nouveaux mots et de mieux écrire."
+    },
+    {
+     "type": "table",
+     "title": "Quelques familles de mots",
+     "head": [
+      "Mot de départ",
+      "Mots de la même famille"
+     ],
+     "rows": [
+      [
+       "voyager",
+       "voyage, voyageur"
+      ],
+      [
+       "transporter",
+       "transport, transporteur, transportable"
+      ],
+      [
+       "conduire",
+       "conducteur, conduite"
+      ],
+      [
+       "circuler",
+       "circulation"
+      ],
+      [
+       "embarquer",
+       "embarquement, débarquer, débarquement"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Synonymes et contraires",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Des mots proches et des mots opposés",
+     "head": [
+      "Mot",
+      "Synonyme ou mot proche",
+      "Contraire"
+     ],
+     "rows": [
+      [
+       "embarquer",
+       "monter",
+       "débarquer"
+      ],
+      [
+       "atterrir",
+       "se poser",
+       "décoller"
+      ],
+      [
+       "accélérer",
+       "aller plus vite",
+       "ralentir"
+      ],
+      [
+       "arriver",
+       "parvenir",
+       "partir"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Choisir le mot juste",
+     "text": "Un **synonyme** a un sens proche mais pas toujours identique : choisis-le selon le contexte. Pour trouver un **contraire**, cherche le mot de sens opposé ou le mot construit avec un préfixe (dé-, in-, mal-)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -166,6 +246,91 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Trouve l’intrus dans chaque série.",
+     "items": [
+      "pirogue – bateau – ferry – locomotive",
+      "ceinture – casque – feu rouge – cahier",
+      "train – avion – bateau – crayon"
+     ],
+     "corrige": [
+      "1. locomotive (les autres circulent sur l’eau)",
+      "2. cahier (les autres concernent la sécurité routière)",
+      "3. crayon (les autres sont des moyens de transport)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le contraire de chaque mot.",
+     "items": [
+      "atterrir",
+      "embarquer",
+      "accélérer"
+     ],
+     "corrige": [
+      "1. décoller",
+      "2. débarquer",
+      "3. ralentir"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne un mot de la même famille.",
+     "items": [
+      "voyager",
+      "conduire",
+      "circuler"
+     ],
+     "corrige": [
+      "1. voyageur",
+      "2. conducteur",
+      "3. circulation"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : passager, trajet, billet, retard.",
+     "items": [
+      "Avant de monter dans le train, le ____ achète son ____.",
+      "Le ____ dure deux heures.",
+      "Le bus a pris du ____ à cause d’un embouteillage."
+     ],
+     "corrige": [
+      "1. passager … billet",
+      "2. trajet",
+      "3. retard"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un paragraphe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un modèle de paragraphe qui emploie le vocabulaire du thème."
+    },
+    {
+     "type": "ex",
+     "label": "Modèle",
+     "text": "Chaque matin, Brice prend le bus pour aller au collège. Il attend à l’arrêt, valide son ticket puis s’assied près d’une fenêtre. Quand le chauffeur freine, tous les passagers descendent. Brice traverse alors sur le passage piéton, car il respecte le code de la route."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe sur un voyage ou un trajet.",
+     "items": [
+      "Écris quatre ou cinq phrases en employant au moins six mots du cours (voyager, embarquer, passager, trajet, code de la route, ceinture de sécurité, piéton)."
+     ],
+     "corrige": [
+      "Proposition : Pendant les vacances, nous avons voyagé en train de Brazzaville à Pointe-Noire. Les passagers ont embarqué à la gare, puis le trajet a duré plusieurs heures. Pour rentrer à la maison, nous avons pris un taxi : mon père a attaché sa ceinture de sécurité et a respecté le code de la route."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -175,7 +340,8 @@
       "Le **transport** : déplacer des personnes ou des marchandises.",
       "Types : **routier, ferroviaire, aérien, fluvial et maritime**.",
       "Verbes : **voyager, se déplacer, transporter, embarquer, atterrir**.",
-      "Sécurité : **code de la route, ceinture, casque**."
+      "Sécurité : **code de la route, ceinture, casque**.",
+      "Pour enrichir ton vocabulaire, cherche les **mots de la même famille**, les **synonymes** et les **contraires**."
      ]
     },
     {

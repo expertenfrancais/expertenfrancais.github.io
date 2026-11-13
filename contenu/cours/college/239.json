@@ -1,0 +1,480 @@
+{
+ "id": 239,
+ "meta": {
+  "t": "Les orientations sur l’expression écrite : comprendre le sujet et planifier sa production",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Que demande un sujet d’expression écrite ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "En classe comme à l’examen, un sujet d’expression écrite te demande de **produire un texte** : raconter, décrire, argumenter, écrire une lettre… Avant d’écrire, il faut comprendre **exactement ce qui est demandé**. C’est l’étape la plus importante."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître les parties d’un sujet",
+      "Identifier le type de texte demandé",
+      "Gérer son temps et planifier son travail",
+      "Savoir ce qu’on attend d’une production écrite réussie"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Sujet d’expression écrite",
+     "text": "Un sujet comprend en général une **situation** (le contexte, parfois un court texte ou une image) et une **consigne** (ce que tu dois faire : *raconte, décris, explique, écris une lettre, donne ton point de vue…*)."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux types de sujets",
+     "head": [
+      "Type de texte",
+      "Verbes de la consigne",
+      "Ce qu’on attend"
+     ],
+     "rows": [
+      [
+       "**Narratif**",
+       "raconte, relate, imagine la suite",
+       "une histoire avec un début, des événements, une fin"
+      ],
+      [
+       "**Descriptif**",
+       "décris, fais le portrait, présente",
+       "des détails organisés (lieu, personne, objet)"
+      ],
+      [
+       "**Argumentatif**",
+       "donne ton avis, défends, explique pourquoi",
+       "une opinion, des arguments, des exemples"
+      ],
+      [
+       "**Épistolaire**",
+       "écris une lettre, un message",
+       "une lettre avec formules, ton adapté"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un sujet, que désigne la « consigne » ?",
+     "options": [
+      "le texte support",
+      "ce que l’on doit faire",
+      "le nombre de lignes",
+      "la date de l’examen"
+     ],
+     "answer": 1,
+     "explain": "La consigne indique le travail à faire : raconter, décrire, argumenter, écrire une lettre…"
+    }
+   ]
+  },
+  {
+   "t": "Analyser le sujet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "**Lire vite** est une erreur. Lis le sujet **deux fois**, un crayon à la main, et réponds à ces questions :"
+    },
+    {
+     "type": "table",
+     "title": "Les six questions pour analyser un sujet",
+     "head": [
+      "Question",
+      "Exemple de réponse"
+     ],
+     "rows": [
+      [
+       "**Quel type de texte** ?",
+       "raconter (narratif)"
+      ],
+      [
+       "**Quel thème** ?",
+       "un événement heureux de mon enfance"
+      ],
+      [
+       "**Qui parle ?** (personne grammaticale)",
+       "« je » (première personne) ou « il/elle » (troisième personne)"
+      ],
+      [
+       "**Quand** ? (temps des verbes)",
+       "au passé : passé simple et imparfait"
+      ],
+      [
+       "**Où** et **avec qui** ?",
+       "lieu et personnages à préciser"
+      ],
+      [
+       "**Quelles contraintes** ?",
+       "longueur (nombre de lignes), éléments obligatoires (dialogue, formule de politesse…)"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Souligner les mots-clés"
+    },
+    {
+     "type": "ex",
+     "text": "Sujet : *« Tu as été témoin d’un accident de la route. Raconte ce que tu as vu et ce que tu as ressenti, en une trentaine de lignes. »* → **Type** : narratif ; **thème** : un accident ; **personne** : *je* ; **temps** : passé ; **contraintes** : ce que j’ai **vu** + ce que j’ai **ressenti**, **trente lignes** environ.",
+     "label": "Exemple d’analyse"
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Ne répète pas la **première idée** qui te vient. Vérifie qu’elle correspond **bien au sujet** : une rédaction hors sujet perd beaucoup de points même si elle est bien écrite."
+    },
+    {
+     "type": "tip",
+     "label": "Un réflexe",
+     "text": "Recopie au brouillon les **mots-clés** du sujet (verbes de la consigne, thème, contraintes) et reviens-y avant de rendre ta copie."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Raconte ce que tu as vu et ce que tu as ressenti », que faut-il écrire ?",
+     "options": [
+      "seulement ce qu’on a vu",
+      "seulement ce qu’on a ressenti",
+      "ce qu’on a vu et ce qu’on a ressenti",
+      "une description de paysage"
+     ],
+     "answer": 2,
+     "explain": "Le sujet demande **deux choses** : ce qu’on a vu et ce qu’on a ressenti. Il faut traiter les deux."
+    }
+   ]
+  },
+  {
+   "t": "Chercher les idées et construire un plan",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Après l’analyse, on **cherche des idées** au brouillon, puis on les **organise** dans un plan. Un texte sans plan part dans tous les sens."
+    },
+    {
+     "type": "h",
+     "text": "1. Chercher des idées"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Pose les questions : **Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?**",
+      "Note tout ce qui te vient en mots-clés, sans phrases.",
+      "Cherche des **détails** : sons, couleurs, sentiments.",
+      "Choisis les **meilleures idées** et barre les autres."
+     ],
+     "label": "Une méthode simple"
+    },
+    {
+     "type": "h",
+     "text": "2. Organiser les idées dans un plan"
+    },
+    {
+     "type": "table",
+     "title": "Le plan de base",
+     "head": [
+      "Partie",
+      "Rôle",
+      "À mettre"
+     ],
+     "rows": [
+      [
+       "**Introduction**",
+       "présenter la situation",
+       "lieu, temps, personnages ; une phrase d’accroche"
+      ],
+      [
+       "**Développement**",
+       "faire avancer l’idée",
+       "événements, arguments, détails dans l’ordre"
+      ],
+      [
+       "**Conclusion**",
+       "terminer le texte",
+       "dénouement, réflexion, ouverture"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le développement selon le type de texte",
+     "head": [
+      "Type de texte",
+      "Organisation du développement"
+     ],
+     "rows": [
+      [
+       "Narratif",
+       "événement déclencheur → péripéties → dénouement"
+      ],
+      [
+       "Descriptif",
+       "du général au détail, ou de gauche à droite, du haut vers le bas"
+      ],
+      [
+       "Argumentatif",
+       "argument 1 + exemple ; argument 2 + exemple ; argument 3 + exemple"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Les connecteurs aident à enchaîner",
+     "text": "*D’abord, ensuite, puis, enfin* (ordre) ; *mais, pourtant, cependant* (opposition) ; *parce que, car, donc* (cause et conséquence). Écris-les dans ton plan."
+    },
+    {
+     "type": "warn",
+     "label": "Ne saute pas le plan",
+     "text": "Prendre **cinq à dix minutes** pour faire un plan évite les oublis, les répétitions et le hors-sujet. C’est du temps gagné pour la rédaction."
+    },
+    {
+     "type": "quiz",
+     "question": "À quoi sert le plan ?",
+     "options": [
+      "à écrire plus vite sans réfléchir",
+      "à organiser les idées dans un ordre logique",
+      "à allonger le texte",
+      "à corriger l’orthographe"
+     ],
+     "answer": 1,
+     "explain": "Le plan organise les idées pour que le texte soit clair et cohérent."
+    }
+   ]
+  },
+  {
+   "t": "Rédiger, relire et corriger",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Rédige ensuite **au propre** en suivant ton plan, avec des phrases correctes et variées. Garde toujours du temps pour **te relire**."
+    },
+    {
+     "type": "h",
+     "text": "Bien gérer son temps"
+    },
+    {
+     "type": "table",
+     "title": "Un exemple pour deux heures de travail (à adapter)",
+     "head": [
+      "Étape",
+      "Temps conseillé"
+     ],
+     "rows": [
+      [
+       "Lire et analyser le sujet",
+       "10 minutes"
+      ],
+      [
+       "Chercher les idées et faire le plan",
+       "20 minutes"
+      ],
+      [
+       "Rédiger au brouillon et au propre",
+       "1 h 10"
+      ],
+      [
+       "Relire et corriger",
+       "20 minutes"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "La grille de relecture"
+    },
+    {
+     "type": "table",
+     "title": "Je vérifie…",
+     "head": [
+      "Point à vérifier",
+      "Questions"
+     ],
+     "rows": [
+      [
+       "**Le sujet**",
+       "Ai-je traité tout ce qui est demandé ? Ai-je respecté la longueur ?"
+      ],
+      [
+       "**Le plan**",
+       "Mon texte a-t-il une introduction, un développement, une conclusion ?"
+      ],
+      [
+       "**Les phrases**",
+       "Chaque phrase commence-t-elle par une majuscule et finit-elle par un point ?"
+      ],
+      [
+       "**Les temps**",
+       "Les verbes sont-ils au bon temps et cohérents (passé simple et imparfait) ?"
+      ],
+      [
+       "**Les accords**",
+       "Ai-je accordé les verbes avec les sujets, les adjectifs avec les noms ?"
+      ],
+      [
+       "**L’orthographe**",
+       "Ai-je vérifié les mots difficiles et les homophones (a/à, et/est, on/ont…) ?"
+      ],
+      [
+       "**La présentation**",
+       "Ma copie est-elle lisible et aérée (alinéas, paragraphes) ?"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Erreurs fréquentes",
+     "text": "Une phrase sans verbe ; une phrase trop longue sans ponctuation ; des mots du langage familier ou du langage SMS ; des répétitions (« et puis… et puis… »). Remplace-les par des connecteurs et des synonymes."
+    },
+    {
+     "type": "quiz",
+     "question": "Quand faut-il se relire ?",
+     "options": [
+      "jamais, c’est du temps perdu",
+      "après avoir fini de rédiger, avec un temps prévu",
+      "seulement si on a le temps",
+      "pendant la rédaction uniquement"
+     ],
+     "answer": 1,
+     "explain": "On prévoit toujours un temps de relecture à la fin pour corriger les fautes."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Analyse chaque sujet : indique le type de texte, le thème et une contrainte.",
+     "items": [
+      "Sujet A : « Décris ta rue le matin, en vingt lignes. »",
+      "Sujet B : « Écris à ton ami pour lui raconter tes vacances. »",
+      "Sujet C : « Faut-il interdire le téléphone portable à l’école ? Donne ton avis en l’appuyant sur deux arguments. »"
+     ],
+     "corrige": [
+      "A. Descriptif ; ta rue le matin ; vingt lignes.",
+      "B. Lettre (épistolaire) avec récit ; tes vacances ; ton adapté à un ami (lettre privée).",
+      "C. Argumentatif ; le téléphone portable à l’école ; deux arguments."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Voici le sujet : « Raconte une journée où tu as eu très peur. » Complète l’analyse.",
+     "items": [
+      "Type de texte :",
+      "Personne grammaticale :",
+      "Temps des verbes :",
+      "Sentiment à exprimer :"
+     ],
+     "corrige": [
+      "1. Narratif (récit).",
+      "2. La première personne (« je »).",
+      "3. Le passé : passé simple et imparfait (ou passé composé et imparfait).",
+      "4. La peur."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Range ces idées dans l’ordre d’un plan (introduction, développement, conclusion).",
+     "items": [
+      "a) Je rentre chez moi, soulagé.",
+      "b) Un soir, je marche seul dans la rue.",
+      "c) J’entends des pas derrière moi.",
+      "d) C’était un voisin qui rentrait chez lui."
+     ],
+     "corrige": [
+      "Introduction : b ; Développement : c, d ; Conclusion : a (ordre logique : b, c, d, a)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève et corrige les fautes de ce début de texte : « Hier, je mange avec mes ami. Il fesait beau et on est sortis ».",
+     "items": [
+      "Faute 1 :",
+      "Faute 2 :",
+      "Faute 3 :"
+     ],
+     "corrige": [
+      "1. « je mange » → « je mangeais » (ou « j’ai mangé ») : temps cohérent avec le passé.",
+      "2. « ami » → « amis » (accord au pluriel).",
+      "3. « fesait » → « faisait » ; il manque aussi le point final."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris une introduction de trois phrases pour le sujet de l’exercice 2.",
+     "items": [
+      "Précise : le moment, le lieu et une phrase d’accroche."
+     ],
+     "corrige": [
+      "Exemple de corrigé : C’était un soir d’hiver, la nuit tombait vite sur le quartier. Je rentrais seul de chez un camarade. Ce soir-là, je ne savais pas encore que j’allais vivre l’une des plus grandes frayeurs de ma vie."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un sujet comprend une **situation** et une **consigne** : lis-le **deux fois** et analyse-le.",
+      "Pour l’analyser, repère : **type de texte, thème, personne, temps, lieu et personnages, contraintes**.",
+      "Au brouillon, **cherche des idées** (Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?), puis **fais un plan** : introduction, développement, conclusion.",
+      "Rédige en suivant le plan, avec des **connecteurs** pour enchaîner les idées.",
+      "Garde du temps pour la **relecture** : sujet, plan, phrases, temps, accords, orthographe, présentation."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif",
+     "head": [
+      "Étape",
+      "Je fais",
+      "Durée conseillée"
+     ],
+     "rows": [
+      [
+       "1. Analyser",
+       "Je souligne les mots-clés du sujet",
+       "10 min"
+      ],
+      [
+       "2. Planifier",
+       "Je cherche des idées et je fais un plan",
+       "20 min"
+      ],
+      [
+       "3. Rédiger",
+       "J’écris au brouillon puis au propre",
+       "1 h 10"
+      ],
+      [
+       "4. Relire",
+       "Je vérifie avec la grille",
+       "20 min"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le bon ordre de travail ?",
+     "options": [
+      "rédiger → relire → analyser",
+      "analyser → planifier → rédiger → relire",
+      "planifier → rédiger → analyser → relire",
+      "relire → analyser → planifier"
+     ],
+     "answer": 1,
+     "explain": "On analyse d’abord le sujet, puis on planifie, on rédige et on se relit."
+    }
+   ]
+  }
+ ]
+}

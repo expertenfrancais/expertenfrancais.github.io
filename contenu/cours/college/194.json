@@ -1,257 +1,385 @@
 {
- "id": 194,
- "meta": {
-  "t": "Les homophones : quoique, quoi que",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Orthographe",
-  "img": "a",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Deux écritures, deux sens",
-   "blocs": [
+  "id": 194,
+  "meta": {
+    "t": "Les homophones : quoique, quoi que",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Orthographe",
+    "img": "a",
+    "r": 4.8
+  },
+  "sections": [
     {
-     "type": "p",
-     "text": "« **Quoique** fatigué, il continue. » « **Quoi que** tu dises, je ne changerai pas d’avis. » Les deux se prononcent de la même façon, mais ils ne s’écrivent pas pareil et ne veulent pas dire la même chose."
-    },
-    {
-     "type": "list",
-     "items": [
-      "Distinguer *quoique* et *quoi que*",
-      "Les remplacer pour choisir la bonne écriture",
-      "Utiliser le subjonctif après les deux"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "def",
-     "label": "quoique (un mot)",
-     "text": "**Quoique** est une conjonction de subordination. Elle signifie **bien que** et exprime l’**opposition**."
-    },
-    {
-     "type": "def",
-     "label": "quoi que (deux mots)",
-     "text": "**Quoi que** est un pronom relatif indéfini. Il signifie **quelle que soit la chose que**, **peu importe ce que**."
-    },
-    {
-     "type": "table",
-     "title": "Les deux homophones",
-     "head": [
-      "Forme",
-      "Sens",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "quoique",
-       "bien que",
-       "**Quoiqu’**il soit tard, il travaille encore."
-      ],
-      [
-       "quoi que",
-       "quelle que soit la chose que",
-       "**Quoi que** tu fasses, préviens-moi."
+      "t": "Deux écritures, deux sens",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "« **Quoique** fatigué, il continue. » « **Quoi que** tu dises, je ne changerai pas d’avis. » Les deux se prononcent de la même façon, mais ils ne s’écrivent pas pareil et ne veulent pas dire la même chose."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Distinguer *quoique* et *quoi que*",
+            "Les remplacer pour choisir la bonne écriture",
+            "Utiliser le subjonctif après les deux"
+          ],
+          "label": "Objectifs"
+        },
+        {
+          "type": "def",
+          "label": "quoique (un mot)",
+          "text": "**Quoique** est une conjonction de subordination. Elle signifie **bien que** et exprime l’**opposition**."
+        },
+        {
+          "type": "def",
+          "label": "quoi que (deux mots)",
+          "text": "**Quoi que** est un pronom relatif indéfini. Il signifie **quelle que soit la chose que**, **peu importe ce que**."
+        },
+        {
+          "type": "table",
+          "title": "Les deux homophones",
+          "head": [
+            "Forme",
+            "Sens",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "quoique",
+              "bien que",
+              "**Quoiqu’**il soit tard, il travaille encore."
+            ],
+            [
+              "quoi que",
+              "quelle que soit la chose que",
+              "**Quoi que** tu fasses, préviens-moi."
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle écriture convient : « … tu dises, je te crois » ?",
+          "options": [
+            "Quoique",
+            "Quoi que",
+            "Les deux",
+            "Aucune"
+          ],
+          "answer": 1,
+          "explain": "On peut dire « quelle que soit la chose que tu dises » : on écrit en deux mots, **quoi que**."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle écriture convient : « … tu dises, je te crois » ?",
-     "options": [
-      "Quoique",
-      "Quoi que",
-      "Les deux",
-      "Aucune"
-     ],
-     "answer": 1,
-     "explain": "On peut dire « quelle que soit la chose que tu dises » : on écrit en deux mots, **quoi que**."
-    }
-   ]
-  },
-  {
-   "t": "Quoique : l’opposition",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "**Quoique** introduit une subordonnée circonstancielle d’opposition. Le verbe est au **subjonctif** : « Quoiqu’il **soit** malade, il vient. »"
-    },
-    {
-     "type": "table",
-     "title": "Emploi de quoique",
-     "head": [
-      "Cas",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "+ subjonctif",
-       "**Quoique** tu **sois** jeune, tu es sérieux."
-      ],
-      [
-       "devant il(s), elle(s), on, un, une : élision",
-       "**Quoiqu’**il pleuve, nous sortons."
-      ],
-      [
-       "+ adjectif ou participe (verbe sous-entendu)",
-       "**Quoique** fatigués, ils ont fini."
+      "t": "Quoique : l’opposition",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Quoique** introduit une subordonnée circonstancielle d’opposition. Le verbe est au **subjonctif** : « Quoiqu’il **soit** malade, il vient. »"
+        },
+        {
+          "type": "table",
+          "title": "Emploi de quoique",
+          "head": [
+            "Cas",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "+ subjonctif",
+              "**Quoique** tu **sois** jeune, tu es sérieux."
+            ],
+            [
+              "devant il(s), elle(s), on, un, une : élision",
+              "**Quoiqu’**il pleuve, nous sortons."
+            ],
+            [
+              "+ adjectif ou participe (verbe sous-entendu)",
+              "**Quoique** fatigués, ils ont fini."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le test de remplacement",
+          "text": "Remplace par **bien que** : si la phrase garde son sens, écris **quoique** en un seul mot. « **Bien qu’**il soit tard, il travaille. » → quoiqu’il soit tard."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Le test de remplacement",
-     "text": "Remplace par **bien que** : si la phrase garde son sens, écris **quoique** en un seul mot. « **Bien qu’**il soit tard, il travaille. » → quoiqu’il soit tard."
-    }
-   ]
-  },
-  {
-   "t": "Quoi que : toute chose que",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "**Quoi que** est formé de **quoi** (pronom) et de **que** (conjonction). Il est suivi du **subjonctif** et ne peut pas être remplacé par « bien que »."
-    },
-    {
-     "type": "table",
-     "title": "Emploi de quoi que",
-     "head": [
-      "Cas",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "+ subjonctif",
-       "**Quoi que** vous **disiez**, il ne bougera pas."
-      ],
-      [
-       "devant il(s), elle(s), on : élision",
-       "**Quoi qu’**il arrive, garde ton calme."
-      ],
-      [
-       "expressions figées",
-       "**Quoi qu’**il en soit, nous partons demain."
+      "t": "Quoi que : toute chose que",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "**Quoi que** est formé de **quoi** (pronom) et de **que** (conjonction). Il est suivi du **subjonctif** et ne peut pas être remplacé par « bien que »."
+        },
+        {
+          "type": "table",
+          "title": "Emploi de quoi que",
+          "head": [
+            "Cas",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "+ subjonctif",
+              "**Quoi que** vous **disiez**, il ne bougera pas."
+            ],
+            [
+              "devant il(s), elle(s), on : élision",
+              "**Quoi qu’**il arrive, garde ton calme."
+            ],
+            [
+              "expressions figées",
+              "**Quoi qu’**il en soit, nous partons demain."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Le test de remplacement",
+          "text": "Remplace par **peu importe ce que** ou **quelle que soit la chose que** : « Peu importe ce que tu fasses » → **quoi que** tu fasses."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Le test de remplacement",
-     "text": "Remplace par **peu importe ce que** ou **quelle que soit la chose que** : « Peu importe ce que tu fasses » → **quoi que** tu fasses."
-    }
-   ]
-  },
-  {
-   "t": "Les pièges à éviter",
-   "blocs": [
-    {
-     "type": "warn",
-     "label": "Attention",
-     "text": "L’élision se fait dans les deux cas : **quoiqu’il** (bien qu’il) et **quoi qu’il** (quelle que soit la chose qu’il). Seul le **test de remplacement** permet de choisir."
-    },
-    {
-     "type": "table",
-     "title": "Comparer",
-     "head": [
-      "Phrase",
-      "Test",
-      "Écriture"
-     ],
-     "rows": [
-      [
-       "… il arrive, restons calmes.",
-       "« bien qu’il arrive » : n’a pas de sens ; « peu importe ce qu’il arrive » : correct",
-       "Quoi qu’il arrive"
-      ],
-      [
-       "… il soit riche, il est simple.",
-       "« bien qu’il soit riche » : correct",
-       "Quoiqu’il soit riche"
+      "t": "Les pièges à éviter",
+      "blocs": [
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "L’élision se fait dans les deux cas : **quoiqu’il** (bien qu’il) et **quoi qu’il** (quelle que soit la chose qu’il). Seul le **test de remplacement** permet de choisir."
+        },
+        {
+          "type": "table",
+          "title": "Comparer",
+          "head": [
+            "Phrase",
+            "Test",
+            "Écriture"
+          ],
+          "rows": [
+            [
+              "… il arrive, restons calmes.",
+              "« bien qu’il arrive » : n’a pas de sens ; « peu importe ce qu’il arrive » : correct",
+              "Quoi qu’il arrive"
+            ],
+            [
+              "… il soit riche, il est simple.",
+              "« bien qu’il soit riche » : correct",
+              "Quoiqu’il soit riche"
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Dans « … il arrive, restons calmes », on écrit :",
+          "options": [
+            "quoiqu’",
+            "quoi qu’",
+            "quoique",
+            "quoi que il"
+          ],
+          "answer": 1,
+          "explain": "« Peu importe ce qu’il arrive » : on écrit **quoi qu’** en deux mots."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "Dans « … il arrive, restons calmes », on écrit :",
-     "options": [
-      "quoiqu’",
-      "quoi qu’",
-      "quoique",
-      "quoi que il"
-     ],
-     "answer": 1,
-     "explain": "« Peu importe ce qu’il arrive » : on écrit **quoi qu’** en deux mots."
+      "t": "Quoique : constructions et élision",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les constructions de *quoique*",
+          "head": [
+            "Construction",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "*quoique* + subjonctif",
+              "**Quoique** je **sois** fatigué, je continue."
+            ],
+            [
+              "*quoique* + adjectif ou participe (sans verbe)",
+              "**Quoique** fatigué, il continue. **Quoique** malade, elle est venue."
+            ],
+            [
+              "élision devant *il, elle, on, un, en…*",
+              "**Quoiqu’**il pleuve, nous sortons. **Quoiqu’**on dise…"
+            ],
+            [
+              "expression figée *quoi qu’il en soit*",
+              "**Quoi qu’il en soit**, nous partons demain."
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "*Quoi que* s’écrit en deux mots dans « quoi qu’il arrive », « quoi qu’on dise », « quoi qu’il en soit » : le sens est « quelle que soit la chose que »."
+        }
+      ]
+    },
+    {
+      "t": "Vérifier par le remplacement",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Pour choisir entre *quoique* et *quoi que*, on remplace par une expression équivalente."
+        },
+        {
+          "type": "table",
+          "title": "Le test",
+          "head": [
+            "Phrase",
+            "Test de remplacement",
+            "Écriture"
+          ],
+          "rows": [
+            [
+              "…… il soit jeune, il est sage.",
+              "*bien que* est possible",
+              "**Quoiqu’**il soit jeune…"
+            ],
+            [
+              "…… tu fasses, je serai là.",
+              "*quelle que soit la chose que* est possible",
+              "**Quoi que** tu fasses…"
+            ],
+            [
+              "…… épuisé, il termine.",
+              "*bien que* est possible",
+              "**Quoique** épuisé…"
+            ],
+            [
+              "…… on en dise, il a raison.",
+              "*quelle que soit la chose que* est possible",
+              "**Quoi qu’**on en dise…"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Retiens",
+          "text": "**Quoique** = **bien que** (opposition). **Quoi que** = **quelle que soit la chose que** (« n’importe quelle chose que »)."
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Complète avec la bonne écriture."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Complète avec quoique, quoiqu’, quoi que ou quoi qu’.",
+          "items": [
+            "… tu fasses, je te soutiendrai.",
+            "… fatigué, il a terminé son travail.",
+            "… il arrive, garde ton calme.",
+            "Elle est restée calme … la situation fût grave.",
+            "… on dise de lui, il reste honnête.",
+            "… il en soit, nous partons demain."
+          ],
+          "corrige": [
+            "1. Quoi que",
+            "2. Quoique",
+            "3. Quoi qu’",
+            "4. quoique",
+            "5. Quoi qu’",
+            "6. Quoi qu’"
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Quoi que fatigué, il vient.",
+            "Quoique tu dises, je reste.",
+            "Quoique malade, il vient.",
+            "Quoi qu’il malade, il vient."
+          ],
+          "answer": 2,
+          "explain": "« Bien que malade » : **quoique** en un mot."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Complète par *quoique* ou *quoi que*.",
+          "items": [
+            "… tu dises, je ne changerai pas d’avis.",
+            "… il soit petit, il court vite.",
+            "… épuisée, elle a continué.",
+            "… il arrive, reste calme.",
+            "… j’aie peur, je parle."
+          ],
+          "corrige": [
+            "1. Quoi que",
+            "2. Quoiqu’",
+            "3. Quoique",
+            "4. Quoi qu’",
+            "5. Quoique"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Transforme avec *quoique* ou *quoi que*.",
+          "items": [
+            "Bien qu’il pleuve, nous sortons.",
+            "Quelle que soit la chose que tu décides, je te soutiendrai.",
+            "Bien que fatigué, il travaille."
+          ],
+          "corrige": [
+            "1. Quoiqu’il pleuve, nous sortons.",
+            "2. Quoi que tu décides, je te soutiendrai.",
+            "3. Quoique fatigué, il travaille."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Corrige le texte.",
+          "items": [
+            "Quoi qu’il soit jeune, il est courageux. Quoique tu fasses, il t’aimera. Quoi qu’il en soit, nous partirons demain."
+          ],
+          "corrige": [
+            "**Quoiqu’**il soit jeune, il est courageux. **Quoi que** tu fasses, il t’aimera. Quoi qu’il en soit, nous partirons demain. (la 3e phrase était correcte)"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Quoique** (un mot) = **bien que** ; il exprime l’opposition.",
+            "**Quoi que** (deux mots) = **quelle que soit la chose que**.",
+            "Les deux sont suivis du **subjonctif**.",
+            "Test : on remplace par **bien que** ou par **peu importe ce que**."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "« Quoique » peut être remplacé par :",
+          "options": [
+            "peu importe ce que",
+            "bien que",
+            "parce que",
+            "ainsi que"
+          ],
+          "answer": 1,
+          "explain": "**Quoique** = bien que."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Complète avec la bonne écriture."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Complète avec quoique, quoiqu’, quoi que ou quoi qu’.",
-     "items": [
-      "… tu fasses, je te soutiendrai.",
-      "… fatigué, il a terminé son travail.",
-      "… il arrive, garde ton calme.",
-      "Elle est restée calme … la situation fût grave.",
-      "… on dise de lui, il reste honnête.",
-      "… il en soit, nous partons demain."
-     ],
-     "corrige": [
-      "1. Quoi que",
-      "2. Quoique",
-      "3. Quoi qu’",
-      "4. quoique",
-      "5. Quoi qu’",
-      "6. Quoi qu’"
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
-     "options": [
-      "Quoi que fatigué, il vient.",
-      "Quoique tu dises, je reste.",
-      "Quoique malade, il vient.",
-      "Quoi qu’il malade, il vient."
-     ],
-     "answer": 2,
-     "explain": "« Bien que malade » : **quoique** en un mot."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Quoique** (un mot) = **bien que** ; il exprime l’opposition.",
-      "**Quoi que** (deux mots) = **quelle que soit la chose que**.",
-      "Les deux sont suivis du **subjonctif**.",
-      "Test : on remplace par **bien que** ou par **peu importe ce que**."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "« Quoique » peut être remplacé par :",
-     "options": [
-      "peu importe ce que",
-      "bien que",
-      "parce que",
-      "ainsi que"
-     ],
-     "answer": 1,
-     "explain": "**Quoique** = bien que."
-    }
-   ]
-  }
- ]
+  ]
 }

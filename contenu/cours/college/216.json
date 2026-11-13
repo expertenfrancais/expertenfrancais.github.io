@@ -1,178 +1,194 @@
 {
  "id": 216,
  "meta": {
-  "t": "La transformation de la forme affirmative à la forme négative",
+  "t": "Le respect de la diction",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "a",
-  "r": 4.8
+  "n": "5e",
+  "m": "Expression orale",
+  "img": "f",
+  "r": 4.8,
+  "mf": "MF5.1.1"
  },
  "sections": [
   {
-   "t": "Dire non à une phrase",
+   "t": "Qu’est-ce que la diction ?",
    "blocs": [
     {
      "type": "p",
-     "text": "Une phrase **affirmative** dit que quelque chose est vrai ; une phrase **négative** dit que quelque chose n’est pas vrai. On peut transformer l’une en l’autre sans changer le sujet de la phrase."
+     "text": "Quand tu lis ou que tu parles devant la classe, il faut que tout le monde **comprenne** ce que tu dis. Pour cela, il ne suffit pas de lire les mots : il faut les **dire clairement**. C’est la **diction**."
+    },
+    {
+     "type": "def",
+     "label": "La diction",
+     "text": "La **diction**, c’est la manière de **prononcer les mots** : articuler nettement, régler la voix et le rythme, et faire les liaisons qu’il faut."
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître les deux formes",
-      "Utiliser les mots de la négation",
-      "Placer correctement « ne » et « pas »",
-      "Transformer une phrase affirmative en phrase négative"
+      "Articuler nettement chaque mot",
+      "Régler le volume et le débit de la voix",
+      "Faire les liaisons à bon escient",
+      "S’entraîner avec des phrases difficiles"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "ex",
-     "text": "Affirmative : « Mon frère joue au football. » → Négative : « Mon frère **ne** joue **pas** au football. »"
-    },
-    {
      "type": "quiz",
-     "question": "Quelle phrase est négative ?",
+     "question": "Que veut dire « avoir une bonne diction » ?",
      "options": [
-      "Il chante bien.",
-      "Il ne chante jamais.",
-      "Il chantera demain.",
-      "Chante-t-il ?"
+      "Parler très fort",
+      "Prononcer clairement les mots",
+      "Lire très vite",
+      "Parler sans faire de pauses"
      ],
      "answer": 1,
-     "explain": "Les mots « ne… jamais » forment une négation."
+     "explain": "Une bonne diction, c’est une prononciation claire et nette."
     }
    ]
   },
   {
-   "t": "Les mots de la négation",
+   "t": "Les quatre qualités d’une bonne diction",
    "blocs": [
     {
      "type": "table",
-     "title": "Les principales négations",
+     "title": "Ce qu’il faut travailler",
      "head": [
-      "Négation",
-      "Sens",
-      "Exemple"
+      "Qualité",
+      "En pratique"
      ],
      "rows": [
       [
-       "ne… pas",
-       "négation simple",
-       "Il ne mange pas."
+       "**L’articulation**",
+       "ouvrir la bouche, prononcer toutes les syllabes, surtout les consonnes finales qu’on entend (*sac, bord*)"
       ],
       [
-       "ne… plus",
-       "fin d’une action",
-       "Il ne pleure plus."
+       "**Le volume**",
+       "parler assez fort pour être entendu au fond de la classe, sans crier"
       ],
       [
-       "ne… jamais",
-       "aucun moment",
-       "Il ne ment jamais."
+       "**Le débit**",
+       "ni trop vite, ni trop lent : on laisse à l’auditeur le temps de comprendre"
       ],
       [
-       "ne… rien",
-       "aucune chose",
-       "Je ne vois rien."
-      ],
-      [
-       "ne… personne",
-       "aucune personne",
-       "Je ne vois personne."
-      ],
-      [
-       "ne… aucun(e)",
-       "pas un seul",
-       "Il n’a aucun ami ici."
-      ]
-     ]
-    },
-    {
-     "type": "warn",
-     "label": "Faux ami",
-     "text": "« ne… que » n’est **pas** une vraie négation : il signifie « seulement ». « Il ne mange que du riz » = « Il mange seulement du riz »."
-    }
-   ]
-  },
-  {
-   "t": "Comment transformer ?",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "**Règle de base :** « ne » se place **avant le verbe**, « pas » (ou plus, jamais…) **après le verbe**."
-    },
-    {
-     "type": "table",
-     "title": "Place de la négation",
-     "head": [
-      "Cas",
-      "Affirmative",
-      "Négative"
-     ],
-     "rows": [
-      [
-       "Verbe simple",
-       "Elle chante.",
-       "Elle **ne** chante **pas**."
-      ],
-      [
-       "Temps composé",
-       "Il a mangé.",
-       "Il **n’**a **pas** mangé."
-      ],
-      [
-       "Pronom devant le verbe",
-       "Je le vois.",
-       "Je **ne** le vois **pas**."
-      ],
-      [
-       "Verbe à l’infinitif",
-       "Il décide de partir.",
-       "Il décide de **ne pas** partir."
-      ],
-      [
-       "Impératif",
-       "Parle !",
-       "**Ne** parle **pas** !"
+       "**L’intonation**",
+       "varier la voix : monter pour une question, descendre à la fin d’une phrase, exprimer l’émotion"
       ]
      ]
     },
     {
      "type": "tip",
-     "label": "Astuce",
-     "text": "« ne » devient **n’** devant une voyelle ou un « h » muet : il n’aime pas, il n’habite pas."
+     "label": "Conseil",
+     "text": "Avant de lire, respire profondément. Une voix qui part du ventre est plus posée et plus claire qu’une voix qui sort de la gorge."
     },
     {
-     "type": "h",
-     "text": "Les articles changent aussi"
+     "type": "quiz",
+     "question": "Parler trop vite nuit à…",
+     "options": [
+      "le volume",
+      "la compréhension de l’auditeur",
+      "la grammaire",
+      "l’orthographe"
+     ],
+     "answer": 1,
+     "explain": "Un débit trop rapide empêche l’auditeur de bien suivre."
+    }
+   ]
+  },
+  {
+   "t": "Les liaisons",
+   "blocs": [
+    {
+     "type": "def",
+     "label": "La liaison",
+     "text": "La **liaison**, c’est le fait de prononcer une consonne finale muette devant un mot qui commence par une voyelle ou un *h* muet : *les‿enfants* (on dit [lez‿ɑ̃fɑ̃])."
     },
     {
      "type": "table",
-     "title": "Après une négation, du / de la / des / un → de",
+     "title": "Liaisons obligatoires et interdites",
      "head": [
-      "Affirmative",
-      "Négative"
+      "Cas",
+      "Exemples"
      ],
      "rows": [
       [
-       "Il mange du pain.",
-       "Il ne mange pas **de** pain."
+       "**Obligatoire** : déterminant + nom",
+       "*les‿arbres, un‿homme, mes‿amis*"
       ],
       [
-       "Elle a des amis.",
-       "Elle n’a pas **d’**amis."
+       "**Obligatoire** : pronom + verbe",
+       "*ils‿ont, nous‿avons, vous‿êtes*"
       ],
       [
-       "J’ai un stylo.",
-       "Je n’ai pas **de** stylo."
+       "**Obligatoire** : adjectif + nom",
+       "*un petit‿enfant, de grands‿espoirs*"
+      ],
+      [
+       "**Interdite** : après « et »",
+       "*un garçon et | une fille*"
+      ],
+      [
+       "**Interdite** : devant un h aspiré",
+       "*les | haricots, des | héros*"
       ]
      ]
     },
     {
      "type": "warn",
-     "label": "Exception",
-     "text": "Avec le verbe **être**, l’article ne change pas : « C’est un livre » → « Ce n’est pas **un** livre »."
+     "label": "Attention",
+     "text": "On ne fait pas de liaison fautive du type « les‿haricots » (qui donne l’impression de dire *les zaricots*). Un **h aspiré** bloque la liaison."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quel groupe la liaison est-elle interdite ?",
+     "options": [
+      "les arbres",
+      "ils ont",
+      "un garçon et une fille",
+      "un petit enfant"
+     ],
+     "answer": 2,
+     "explain": "On ne fait pas de liaison après « et » : un garçon et | une fille."
+    }
+   ]
+  },
+  {
+   "t": "S’entraîner avec des phrases difficiles",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour progresser, on s’entraîne avec des **virelangues**, des phrases difficiles à prononcer. On les répète lentement, puis de plus en plus vite, sans jamais se tromper."
+    },
+    {
+     "type": "ex",
+     "text": "Ton thé t’a-t-il ôté ta toux ?",
+     "label": "Virelangue (le t)"
+    },
+    {
+     "type": "ex",
+     "text": "Les chaussettes de l’archiduchesse sont-elles sèches, archi-sèches ?",
+     "label": "Virelangue (le ch et le s)"
+    },
+    {
+     "type": "ex",
+     "text": "Un chasseur sachant chasser doit savoir chasser sans son chien.",
+     "label": "Virelangue (le ch et le s)"
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "Lis lentement, en ouvrant bien la bouche. Quand tu ne te trompes plus, accélère un peu. Ne cherche pas à aller vite : cherche d’abord à être **clair**."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi s’entraîne-t-on avec des virelangues ?",
+     "options": [
+      "Pour rire",
+      "Pour travailler l’articulation",
+      "Pour apprendre l’orthographe",
+      "Pour parler plus fort"
+     ],
+     "answer": 1,
+     "explain": "Les virelangues obligent à bien articuler les sons difficiles."
     }
    ]
   },
@@ -181,47 +197,59 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Mets à la forme négative avec « ne… pas ».",
+     "enonce": "**Exercice 1** : Indique si la liaison est obligatoire (O) ou interdite (I).",
      "items": [
-      "Les élèves écoutent le maître.",
-      "Nous avons fini l’exercice.",
-      "Il aime le poisson.",
-      "Tu as des cahiers."
+      "a) les enfants",
+      "b) un livre et un cahier",
+      "c) ils arrivent",
+      "d) les héros"
      ],
      "corrige": [
-      "1. Les élèves n’écoutent pas le maître.",
-      "2. Nous n’avons pas fini l’exercice.",
-      "3. Il n’aime pas le poisson.",
-      "4. Tu n’as pas de cahiers."
+      "a) O : les‿enfants",
+      "b) I : après « et », pas de liaison",
+      "c) O : ils‿arrivent",
+      "d) I : h aspiré"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Transforme avec la négation indiquée.",
+     "enonce": "**Exercice 2** : Lis à voix haute en respectant la diction, puis réponds aux deux questions.",
      "items": [
-      "Il pleure. (ne… plus)",
-      "Elle ment. (ne… jamais)",
-      "Je vois quelqu’un. (ne… personne)",
-      "Il dit quelque chose. (ne… rien)"
+      "Phrase : « Six cent six sages sont assis sur six cent six sièges. »",
+      "Quel son est répété, et comment le travailler ?"
      ],
      "corrige": [
-      "1. Il ne pleure plus.",
-      "2. Elle ne ment jamais.",
-      "3. Je ne vois personne.",
-      "4. Il ne dit rien."
+      "Lecture lente, bouche bien ouverte, puis plus rapide sans erreur.",
+      "Le son [s] est répété : il faut siffler nettement chaque [s] et s’entraîner lentement avant d’accélérer."
      ]
     },
     {
-     "type": "quiz",
-     "question": "« Il a des frères. » devient :",
-     "options": [
-      "Il n’a pas des frères.",
-      "Il n’a pas de frères.",
-      "Il a pas de frères.",
-      "Il ne pas a de frères."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis comment corriger chaque défaut de diction.",
+     "items": [
+      "a) Il parle en avalant la fin des mots.",
+      "b) Elle lit si vite qu’on ne comprend rien.",
+      "c) Il parle à voix basse."
      ],
-     "answer": 1,
-     "explain": "Après la négation, « des » devient « de »."
+     "corrige": [
+      "a) Il faut prononcer toutes les syllabes, même les dernières.",
+      "b) Elle doit ralentir son débit.",
+      "c) Il doit augmenter le volume, sans crier."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Écris trois conseils pour bien lire un texte à voix haute devant la classe.",
+     "items": [
+      "Conseil 1",
+      "Conseil 2",
+      "Conseil 3"
+     ],
+     "corrige": [
+      "Par exemple : respirer avant de commencer.",
+      "Par exemple : articuler nettement chaque mot.",
+      "Par exemple : ne pas lire trop vite et regarder le public de temps en temps."
+     ]
     }
    ]
   },
@@ -232,23 +260,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Négative : « ne » avant le verbe, « pas / plus / jamais / rien… » après.",
-      "Aux temps composés, la négation entoure l’auxiliaire : il n’a pas mangé.",
-      "À l’infinitif, « ne pas » se place devant le verbe.",
-      "Après la négation, « du, de la, des, un » deviennent « de, d’ »."
+      "La **diction**, c’est prononcer les mots **clairement**.",
+      "Une bonne diction suppose une bonne **articulation**, un bon **volume**, un bon **débit** et une bonne **intonation**.",
+      "La **liaison** est obligatoire après un déterminant, entre un pronom et un verbe, entre un adjectif et un nom.",
+      "Elle est **interdite** après « et » et devant un **h aspiré**.",
+      "On s’entraîne avec des **virelangues**, d’abord lentement."
      ]
     },
     {
      "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
+     "question": "Quelle est la meilleure manière de s’entraîner avec un virelangue ?",
      "options": [
-      "Je n’ai jamais vu ce film.",
-      "Je ai jamais vu ce film.",
-      "Je n’ai vu jamais pas ce film.",
-      "Je jamais n’ai vu ce film."
+      "Le dire le plus vite possible dès le début",
+      "Le dire lentement puis accélérer",
+      "Le dire à voix basse",
+      "Le dire sans respirer"
      ],
-     "answer": 0,
-     "explain": "« ne » + auxiliaire + « jamais » + participe passé."
+     "answer": 1,
+     "explain": "On commence lentement pour être clair, puis on accélère sans se tromper."
     }
    ]
   }

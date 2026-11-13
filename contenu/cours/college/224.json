@@ -1,148 +1,227 @@
 {
  "id": 224,
  "meta": {
-  "t": "La transformation pronominale",
+  "t": "Les caractéristiques du poème en vers libres",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "b",
-  "r": 4.8
+  "n": "5e",
+  "m": "Lecture",
+  "img": "e",
+  "r": 4.8,
+  "mf": "MF5.1.3"
  },
  "sections": [
   {
-   "t": "Le verbe accompagné d’un pronom",
+   "t": "Reconnaître un poème",
    "blocs": [
     {
      "type": "p",
-     "text": "Un verbe est **pronominal** quand il se conjugue avec un **pronom personnel réfléchi** (me, te, se, nous, vous) qui représente la même personne que le sujet : je **me** lave, ils **se** parlent."
+     "text": "Un poème ne ressemble pas à un texte ordinaire : il est écrit **en lignes courtes**, qu’on appelle des **vers**, regroupées en **strophes**. Mais tous les poèmes ne suivent pas les mêmes règles."
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître un verbe pronominal",
-      "Distinguer les sens réfléchi, réciproque et passif",
-      "Transformer une phrase à la forme pronominale"
+      "Distinguer les vers et les strophes",
+      "Définir le vers libre",
+      "Repérer les caractéristiques d’un poème en vers libres",
+      "Lire un poème à voix haute"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "def",
-     "label": "Verbe pronominal",
-     "text": "Un **verbe pronominal** est précédé d’un pronom (me, te, se, nous, vous) de **même personne** que le sujet. À tous les temps composés, il se conjugue avec **être**."
+     "type": "table",
+     "title": "Le vocabulaire du poème",
+     "head": [
+      "Mot",
+      "Définition"
+     ],
+     "rows": [
+      [
+       "**Un vers**",
+       "une ligne du poème (elle commence souvent par une majuscule ou non)"
+      ],
+      [
+       "**Une strophe**",
+       "un groupe de vers séparé des autres par un blanc"
+      ],
+      [
+       "**Une rime**",
+       "retour du même son à la fin de deux vers (*lune / dune*)"
+      ],
+      [
+       "**Un poème en prose**",
+       "un poème écrit en phrases, sans vers"
+      ]
+     ]
     },
     {
      "type": "ex",
-     "text": "Elle **se** lave. Nous **nous** sommes levés. Ils **se** téléphonent."
+     "text": "Le fleuve dort sous la lune\net les pirogues ne bougent plus.\n\nUn enfant\nregarde l’eau\ncomme on regarde un grand secret.\n\nDemain, le fleuve se réveillera.",
+     "label": "Un petit poème (de l’auteur du cours)"
+    },
+    {
+     "type": "quiz",
+     "question": "Comment appelle-t-on un groupe de vers séparé par un blanc ?",
+     "options": [
+      "Une phrase",
+      "Une strophe",
+      "Un paragraphe",
+      "Une rime"
+     ],
+     "answer": 1,
+     "explain": "Une strophe est un groupe de vers."
     }
    ]
   },
   {
-   "t": "Les sens du verbe pronominal",
+   "t": "Qu’est-ce que le vers libre ?",
    "blocs": [
     {
+     "type": "def",
+     "label": "Le vers libre",
+     "text": "Dans un poème en **vers libres**, le poète **n’obéit plus aux règles traditionnelles** : les vers n’ont **pas le même nombre de syllabes**, ils ne **riment pas forcément** et les strophes sont **inégales**."
+    },
+    {
      "type": "table",
-     "title": "Trois sens principaux",
+     "title": "Poème classique et poème en vers libres",
      "head": [
-      "Sens",
-      "Explication",
-      "Exemple"
+      "Critère",
+      "Poème classique",
+      "Poème en vers libres"
      ],
      "rows": [
       [
-       "Réfléchi",
-       "le sujet fait l’action sur lui-même",
-       "Elle **se lave**. (elle lave elle-même)"
+       "**Longueur des vers**",
+       "régulière (8, 10, 12 syllabes…)",
+       "variable"
       ],
       [
-       "Réciproque",
-       "plusieurs sujets agissent l’un sur l’autre",
-       "Ils **se regardent**. (A regarde B et B regarde A)"
+       "**Rimes**",
+       "régulières",
+       "absentes ou irrégulières"
       ],
       [
-       "Passif",
-       "le sujet subit l’action (souvent une chose)",
-       "Ce fruit **se vend** bien. (il est vendu)"
+       "**Strophes**",
+       "de même forme",
+       "de longueurs différentes"
+      ],
+      [
+       "**Rythme**",
+       "imposé par la forme",
+       "créé par le poète : souffle, répétitions, silences"
       ]
      ]
     },
     {
      "type": "tip",
-     "label": "Astuce",
-     "text": "Le sens réciproque exige un sujet **pluriel** : ils se saluent, nous nous écrivons."
+     "label": "À savoir",
+     "text": "Le vers libre n’est pas **sans règle** : le poète choisit librement le rythme, les images et les sons pour produire un effet."
+    },
+    {
+     "type": "quiz",
+     "question": "Une des caractéristiques du vers libre est…",
+     "options": [
+      "des rimes obligatoires",
+      "un nombre de syllabes variable",
+      "des strophes toujours égales",
+      "l’absence d’images"
+     ],
+     "answer": 1,
+     "explain": "Les vers ont des longueurs différentes."
     }
    ]
   },
   {
-   "t": "Comment transformer ?",
+   "t": "Ce qui donne sa musique au poème",
    "blocs": [
     {
+     "type": "p",
+     "text": "Sans rimes régulières, comment le poème crée-t-il sa musique ? Grâce à plusieurs procédés."
+    },
+    {
      "type": "table",
-     "title": "De la forme non pronominale à la forme pronominale",
+     "title": "Les procédés poétiques",
      "head": [
-      "Non pronominale",
-      "Pronominale",
-      "Sens"
+      "Procédé",
+      "Effet"
      ],
      "rows": [
       [
-       "Il lave son frère.",
-       "Il **se** lave.",
-       "réfléchi"
+       "**La répétition** d’un mot ou d’un vers",
+       "donne un rythme et insiste sur une idée"
       ],
       [
-       "Paul regarde Marie, Marie regarde Paul.",
-       "Paul et Marie **se** regardent.",
-       "réciproque"
+       "**Les images** (comparaison, métaphore)",
+       "font voir et ressentir : *comme on regarde un grand secret*"
       ],
       [
-       "On vend ce fruit partout.",
-       "Ce fruit **se** vend partout.",
-       "passif"
+       "**Les sonorités** (retour d’un son)",
+       "créent une musique douce ou dure"
       ],
       [
-       "La porte est ouverte par le vent.",
-       "La porte **s’**ouvre.",
-       "passif"
+       "**Le blanc entre les strophes**",
+       "laisse un temps de silence"
+      ],
+      [
+       "**Le retour à la ligne** (le vers court)",
+       "met un mot en valeur : « Un enfant »"
       ]
      ]
     },
+    {
+     "type": "tip",
+     "label": "Conseil",
+     "text": "Lis le poème **à voix haute** : le rythme du vers libre s’entend plus qu’il ne se voit."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans un poème sans rimes, qu’est-ce qui crée le rythme ?",
+     "options": [
+      "Seulement l’orthographe",
+      "Les répétitions, les images et les silences",
+      "Les numéros de vers",
+      "La longueur du titre"
+     ],
+     "answer": 1,
+     "explain": "Le poète utilise la répétition, les images, les sonorités et les silences."
+    }
+   ]
+  },
+  {
+   "t": "Comment lire et comprendre un poème en vers libres",
+   "blocs": [
     {
      "type": "list",
      "items": [
-      "Repère le **sujet** et l’**action**.",
-      "Place le pronom réfléchi qui correspond à la personne du sujet.",
-      "Vérifie le sens obtenu : réfléchi, réciproque ou passif.",
-      "Aux temps composés, emploie l’auxiliaire **être**."
+      "**Lis** le poème à voix haute, deux fois.",
+      "**Repère** le thème : de quoi parle le poème ? (le fleuve, l’enfant, la nuit…)",
+      "**Compte** les strophes et observe la longueur des vers.",
+      "**Relève** les images, les répétitions et les mots importants.",
+      "**Dis** ce que le poème te fait ressentir."
      ],
-     "label": "Méthode",
+     "label": "Quatre gestes",
      "ordered": true
     },
     {
-     "type": "table",
-     "title": "Conjugaison du verbe pronominal",
-     "head": [
-      "Temps",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "Présent",
-       "je **me** lève, tu **te** lèves, il **se** lève"
-      ],
-      [
-       "Passé composé",
-       "je **me suis** levé(e), nous **nous sommes** levé(e)s"
-      ],
-      [
-       "Futur",
-       "vous **vous** laverez"
-      ]
-     ]
+     "type": "warn",
+     "label": "Piège 1 : confondre vers libres et prose",
+     "text": "Un poème en vers libres reste écrit en **vers** (lignes courtes, retours à la ligne). Un poème en prose est écrit en paragraphes."
     },
     {
      "type": "warn",
-     "label": "Impératif",
-     "text": "À l’impératif affirmatif, le pronom se place **après** le verbe : « Lève-**toi** ! » mais « Ne **te** lève pas ! »."
+     "label": "Piège 2 : chercher des rimes à tout prix",
+     "text": "Dans un poème en vers libres, il peut y avoir quelques rimes, mais elles ne sont ni obligatoires ni régulières."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la première chose à faire pour comprendre un poème ?",
+     "options": [
+      "Chercher la rime",
+      "Le lire à voix haute",
+      "Compter les mots",
+      "Le recopier"
+     ],
+     "answer": 1,
+     "explain": "On lit le poème à voix haute pour en sentir le rythme."
     }
    ]
   },
@@ -151,47 +230,55 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Mets à la forme pronominale.",
+     "enonce": "**Exercice 1** : Relis le poème de la première partie et réponds.",
      "items": [
-      "Il lave son visage.",
-      "Paul regarde Marie et Marie regarde Paul.",
-      "On vend ces cahiers au marché.",
-      "Tu laves tes mains."
+      "a) Combien y a-t-il de strophes ?",
+      "b) Y a-t-il des rimes régulières ?",
+      "c) Quel vers est le plus court ?",
+      "d) Quelle comparaison trouves-tu ?"
      ],
      "corrige": [
-      "1. Il se lave le visage.",
-      "2. Paul et Marie se regardent.",
-      "3. Ces cahiers se vendent au marché.",
-      "4. Tu te laves les mains."
+      "a) Trois strophes (la dernière n’a qu’un vers).",
+      "b) Non, il n’y a pas de rimes régulières : c’est un poème en vers libres.",
+      "c) « Un enfant ».",
+      "d) « comme on regarde un grand secret »."
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Indique le sens (réfléchi, réciproque, passif).",
+     "enonce": "**Exercice 2** : Dis si ce poème est en vers libres (VL) ou en vers classiques (VC), et justifie : *Vers de longueurs différentes, pas de rime, strophes inégales.*",
      "items": [
-      "Les deux amis se saluent.",
-      "Elle se coiffe.",
-      "Cette porte se ferme facilement.",
-      "Nous nous écrivons souvent."
+      "Réponse"
      ],
      "corrige": [
-      "1. réciproque",
-      "2. réfléchi",
-      "3. passif",
-      "4. réciproque"
+      "VL : il y a des vers de longueurs différentes, pas de rimes et des strophes inégales."
      ]
     },
     {
-     "type": "quiz",
-     "question": "Au passé composé, « se laver » se conjugue avec :",
-     "options": [
-      "avoir",
-      "être",
-      "aller",
-      "les deux"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Écris trois vers libres sur la pluie. Ils ne doivent pas rimer et doivent avoir des longueurs différentes.",
+     "items": [
+      "Vers 1",
+      "Vers 2",
+      "Vers 3"
      ],
-     "answer": 1,
-     "explain": "Tous les verbes pronominaux prennent l’auxiliaire **être**."
+     "corrige": [
+      "Par exemple : La pluie tombe.",
+      "Sur le toit, elle joue du tambour,",
+      "et les rues se vident."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Relève dans ton poème une image et une répétition.",
+     "items": [
+      "Une image",
+      "Une répétition"
+     ],
+     "corrige": [
+      "Par exemple : « la pluie joue du tambour » (métaphore).",
+      "Par exemple : le retour du mot « pluie »."
+     ]
     }
    ]
   },
@@ -202,23 +289,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Verbe pronominal = pronom (me, te, se, nous, vous) de même personne que le sujet.",
-      "Trois sens : réfléchi, réciproque, passif.",
-      "Aux temps composés : toujours l’auxiliaire être.",
-      "Impératif affirmatif : Lève-toi ! Impératif négatif : Ne te lève pas !"
+      "Un poème est écrit en **vers**, regroupés en **strophes**.",
+      "Dans un poème en **vers libres**, les vers ont des **longueurs différentes**, les **rimes** ne sont pas obligatoires et les **strophes** sont inégales.",
+      "Le rythme vient des **répétitions**, des **images**, des **sonorités** et des **silences**.",
+      "On lit le poème **à voix haute** pour le comprendre.",
+      "Ne pas confondre **vers libres** et **poème en prose**."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Ils se parlent » : quel sens ?",
+     "question": "Un poème en vers libres…",
      "options": [
-      "réfléchi",
-      "réciproque",
-      "passif",
-      "aucun"
+      "doit rimer à chaque vers",
+      "n’a pas de règle de longueur ni de rimes obligatoires",
+      "est toujours écrit en prose",
+      "a toujours quatre strophes"
      ],
      "answer": 1,
-     "explain": "Chacun parle à l’autre : sens réciproque."
+     "explain": "Le vers libre n’impose ni rimes, ni longueur fixe."
     }
    ]
   }

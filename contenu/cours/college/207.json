@@ -1,257 +1,417 @@
 {
- "id": 207,
- "meta": {
-  "t": "La production d’un poème : vers, strophe, mesure, refrain et métrique",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Expression écrite",
-  "img": "b",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Écrire un poème",
-   "blocs": [
+  "id": 207,
+  "meta": {
+    "t": "La production d’un poème : vers, strophe, mesure, refrain et métrique",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Expression écrite",
+    "img": "b",
+    "r": 4.8
+  },
+  "sections": [
     {
-     "type": "p",
-     "text": "Un poème n’est pas un texte comme les autres : il est écrit en **vers**, organisé en **strophes** et rythmé par des **rimes**. Pour en écrire un, il faut connaître ses règles."
-    },
-    {
-     "type": "list",
-     "items": [
-      "Distinguer vers, strophe, rime, refrain",
-      "Compter les syllabes d’un vers",
-      "Écrire un court poème"
-     ],
-     "label": "Objectifs"
-    },
-    {
-     "type": "table",
-     "title": "Le vocabulaire du poème",
-     "head": [
-      "Mot",
-      "Définition",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "vers",
-       "une ligne du poème",
-       "Le vent chante dans les roseaux"
-      ],
-      [
-       "strophe",
-       "groupe de vers séparé par un blanc",
-       "un quatrain = 4 vers"
-      ],
-      [
-       "rime",
-       "retour d’un même son à la fin de deux vers",
-       "roseaux / eau"
-      ],
-      [
-       "refrain",
-       "vers ou strophe qui revient",
-       "chaque fin de strophe"
+      "t": "Écrire un poème",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Un poème n’est pas un texte comme les autres : il est écrit en **vers**, organisé en **strophes** et rythmé par des **rimes**. Pour en écrire un, il faut connaître ses règles."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Distinguer vers, strophe, rime, refrain",
+            "Compter les syllabes d’un vers",
+            "Écrire un court poème"
+          ],
+          "label": "Objectifs"
+        },
+        {
+          "type": "table",
+          "title": "Le vocabulaire du poème",
+          "head": [
+            "Mot",
+            "Définition",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "vers",
+              "une ligne du poème",
+              "Le vent chante dans les roseaux"
+            ],
+            [
+              "strophe",
+              "groupe de vers séparé par un blanc",
+              "un quatrain = 4 vers"
+            ],
+            [
+              "rime",
+              "retour d’un même son à la fin de deux vers",
+              "roseaux / eau"
+            ],
+            [
+              "refrain",
+              "vers ou strophe qui revient",
+              "chaque fin de strophe"
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Un groupe de vers séparé par un blanc s’appelle :",
+          "options": [
+            "une rime",
+            "une strophe",
+            "un refrain",
+            "un hémistiche"
+          ],
+          "answer": 1,
+          "explain": "C’est une **strophe**."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "Un groupe de vers séparé par un blanc s’appelle :",
-     "options": [
-      "une rime",
-      "une strophe",
-      "un refrain",
-      "un hémistiche"
-     ],
-     "answer": 1,
-     "explain": "C’est une **strophe**."
-    }
-   ]
-  },
-  {
-   "t": "La mesure des vers",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "On mesure un vers en comptant ses **syllabes** : c’est la **métrique**."
-    },
-    {
-     "type": "table",
-     "title": "Les vers les plus courants",
-     "head": [
-      "Nom",
-      "Nombre de syllabes"
-     ],
-     "rows": [
-      [
-       "l’octosyllabe",
-       "8"
-      ],
-      [
-       "le décasyllabe",
-       "10"
-      ],
-      [
-       "l’alexandrin",
-       "12"
+      "t": "La mesure des vers",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "On mesure un vers en comptant ses **syllabes** : c’est la **métrique**."
+        },
+        {
+          "type": "table",
+          "title": "Les vers les plus courants",
+          "head": [
+            "Nom",
+            "Nombre de syllabes"
+          ],
+          "rows": [
+            [
+              "l’octosyllabe",
+              "8"
+            ],
+            [
+              "le décasyllabe",
+              "10"
+            ],
+            [
+              "l’alexandrin",
+              "12"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Le e muet",
+          "head": [
+            "Cas",
+            "Règle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "devant une consonne",
+              "il **compte**",
+              "Le vent chan-**te** dans (4 syllabes)"
+            ],
+            [
+              "devant une voyelle",
+              "il **ne compte pas** (élision)",
+              "la lun**e** est : « lu-nest » (2 syllabes)"
+            ],
+            [
+              "à la fin du vers",
+              "il **ne compte pas**",
+              "Le vent chant**e** (fin de vers)"
+            ]
+          ]
+        },
+        {
+          "type": "ex",
+          "text": "Le(1) vent(2) chan(3) te(4) dans(5) les(6) ro(7) seaux(8) : un octosyllabe.",
+          "label": "Compter"
+        }
       ]
-     ]
     },
     {
-     "type": "table",
-     "title": "Le e muet",
-     "head": [
-      "Cas",
-      "Règle",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "devant une consonne",
-       "il **compte**",
-       "Le vent chan-**te** dans (4 syllabes)"
-      ],
-      [
-       "devant une voyelle",
-       "il **ne compte pas** (élision)",
-       "la lun**e** est : « lu-nest » (2 syllabes)"
-      ],
-      [
-       "à la fin du vers",
-       "il **ne compte pas**",
-       "Le vent chant**e** (fin de vers)"
+      "t": "Les rimes",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "L’agencement des rimes",
+          "head": [
+            "Type",
+            "Schéma",
+            "Exemple de sons"
+          ],
+          "rows": [
+            [
+              "rimes plates",
+              "AABB",
+              "eau / roseau / mer / amer"
+            ],
+            [
+              "rimes croisées",
+              "ABAB",
+              "eau / mer / roseau / amer"
+            ],
+            [
+              "rimes embrassées",
+              "ABBA",
+              "eau / mer / amer / roseau"
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Chercher les rimes",
+          "text": "Écris une liste de mots qui finissent par le **même son** : *soir, miroir, espoir, noir*."
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "La rime se fait sur le **son**, pas sur l’écriture : *mer* et *amer* riment, *chat* et *char* ne riment pas."
+        }
       ]
-     ]
     },
     {
-     "type": "ex",
-     "text": "Le(1) vent(2) chan(3) te(4) dans(5) les(6) ro(7) seaux(8) : un octosyllabe.",
-     "label": "Compter"
-    }
-   ]
-  },
-  {
-   "t": "Les rimes",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "L’agencement des rimes",
-     "head": [
-      "Type",
-      "Schéma",
-      "Exemple de sons"
-     ],
-     "rows": [
-      [
-       "rimes plates",
-       "AABB",
-       "eau / roseau / mer / amer"
-      ],
-      [
-       "rimes croisées",
-       "ABAB",
-       "eau / mer / roseau / amer"
-      ],
-      [
-       "rimes embrassées",
-       "ABBA",
-       "eau / mer / amer / roseau"
+      "t": "Écrire son poème",
+      "blocs": [
+        {
+          "type": "list",
+          "items": [
+            "Choisir un **thème** (la pluie, l’amitié, la forêt…).",
+            "Faire la liste de **mots** et d’**images** liés au thème.",
+            "Choisir une **mesure** (8 syllabes) et un schéma de rimes.",
+            "Écrire les vers, les **compter** et les relire à voix haute.",
+            "Ajouter un **refrain** si l’on veut."
+          ],
+          "label": "Les étapes",
+          "ordered": true
+        },
+        {
+          "type": "ex",
+          "text": "Le vent chante dans les roseaux\nEt la lune danse sur l’eau.\nLes étoiles glissent, légères,\nSur le sommeil de la rivière.",
+          "label": "Un quatrain de huit syllabes"
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Chercher les rimes",
-     "text": "Écris une liste de mots qui finissent par le **même son** : *soir, miroir, espoir, noir*."
+      "t": "Les figures et les images du poème",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Des procédés pour faire image",
+          "head": [
+            "Procédé",
+            "Définition",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Comparaison",
+              "rapprochement avec *comme*, *tel*…",
+              "La lune est **comme** une lampe d’argent."
+            ],
+            [
+              "Métaphore",
+              "rapprochement sans outil de comparaison",
+              "La nuit est un manteau noir."
+            ],
+            [
+              "Personnification",
+              "un objet agit comme un être humain",
+              "Le vent **chante** dans les branches."
+            ],
+            [
+              "Allitération",
+              "répétition d’un son consonne",
+              "Le **s**able **s**ec **s**iffle sous le **s**oleil."
+            ],
+            [
+              "Assonance",
+              "répétition d’un son voyelle",
+              "La l**u**ne br**u**ne sur les d**u**nes."
+            ],
+            [
+              "Anaphore",
+              "répétition d’un mot au début de plusieurs vers",
+              "**J’aime** l’aube, **j’aime** la mer, **j’aime** ton rire."
+            ]
+          ]
+        }
+      ]
     },
     {
-     "type": "warn",
-     "label": "Attention",
-     "text": "La rime se fait sur le **son**, pas sur l’écriture : *mer* et *amer* riment, *chat* et *char* ne riment pas."
+      "t": "Haïku, calligramme, sonnet",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Quelques formes poétiques",
+          "head": [
+            "Forme",
+            "Caractéristiques"
+          ],
+          "rows": [
+            [
+              "Haïku",
+              "trois vers de 5, 7, 5 syllabes ; évoque un instant de nature"
+            ],
+            [
+              "Calligramme",
+              "poème dont les mots dessinent un objet (recueil *Calligrammes* d’Apollinaire, 1918)"
+            ],
+            [
+              "Sonnet",
+              "14 vers : deux quatrains et deux tercets"
+            ]
+          ]
+        },
+        {
+          "type": "ex",
+          "text": "Le vent sur l’étang (5) / Une feuille fait un rond (7) / Et l’eau se souvient. (5)",
+          "label": "Un haïku"
+        }
+      ]
+    },
+    {
+      "t": "Revoir et corriger son poème",
+      "blocs": [
+        {
+          "type": "list",
+          "items": [
+            "Relis à voix haute : le rythme est-il régulier ?",
+            "Compte les syllabes de chaque vers.",
+            "Vérifie les rimes (mêmes sons en fin de vers).",
+            "Remplace les mots trop vagues (*chose*, *beau*) par des mots précis.",
+            "Supprime les répétitions qui ne sont pas voulues."
+          ],
+          "ordered": true
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Réponds.",
+          "items": [
+            "Combien de syllabes a « Et la lune danse sur l’eau » ?",
+            "Quel est le schéma des rimes « soir / mer / espoir / amer » ?",
+            "Écris une rime pour « jour »."
+          ],
+          "corrige": [
+            "1. Huit (Et-la-lu-ne-dan-se-sur-l’eau).",
+            "2. ABAB (rimes croisées).",
+            "3. amour, tour, retour…"
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Un vers de douze syllabes s’appelle :",
+          "options": [
+            "un octosyllabe",
+            "un alexandrin",
+            "un décasyllabe",
+            "un refrain"
+          ],
+          "answer": 1,
+          "explain": "Douze syllabes : **alexandrin**."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Compte les syllabes (n’oublie pas que le *e* muet à la fin du vers ne se compte pas).",
+          "items": [
+            "Le vent chante dans les branches",
+            "La nuit tombe sur la ville",
+            "Un petit oiseau s’envole",
+            "Tout le jour je pense à toi"
+          ],
+          "corrige": [
+            "1. 7 syllabes",
+            "2. 7 syllabes",
+            "3. 7 syllabes",
+            "4. 7 syllabes (*pense à* : le *e* est élidé devant la voyelle)"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Quelle forme poétique est décrite ?",
+          "items": [
+            "Un poème de trois vers de 5, 7 et 5 syllabes.",
+            "Un poème de quatorze vers (deux quatrains, deux tercets).",
+            "Un poème dont les mots dessinent une forme."
+          ],
+          "corrige": [
+            "1. haïku",
+            "2. sonnet",
+            "3. calligramme"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Identifie le procédé.",
+          "items": [
+            "La lune est une lampe d’argent.",
+            "Le soleil sourit aux enfants.",
+            "Fort comme un lion.",
+            "J’aime l’aube, j’aime la mer, j’aime ton rire."
+          ],
+          "corrige": [
+            "1. métaphore",
+            "2. personnification",
+            "3. comparaison",
+            "4. anaphore"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : un quatrain à rimes croisées",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Écris un quatrain à rimes croisées (ABAB) sur le thème de la pluie. Utilise au moins une figure.",
+          "items": [
+            "Vérifie que les vers 1 et 3 riment entre eux, ainsi que les vers 2 et 4."
+          ],
+          "corrige": [
+            "Proposition : La pluie tombe sur la ville, (A) / Les enfants courent, heureux ; (B) / Les rues deviennent des îles (A) / Où dansent des ciels bleus. (B) — figure : métaphore (les rues deviennent des îles), personnification (« dansent »)."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Un poème est écrit en **vers**, groupés en **strophes**.",
+            "La **rime** est le retour d’un même son.",
+            "Mesures : octosyllabe (8), décasyllabe (10), alexandrin (12).",
+            "Le **e muet** compte devant une consonne, jamais en fin de vers."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "« Mer » et « amer » forment :",
+          "options": [
+            "une rime",
+            "un refrain",
+            "une strophe",
+            "un vers"
+          ],
+          "answer": 0,
+          "explain": "Même son final : une **rime**."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Écrire son poème",
-   "blocs": [
-    {
-     "type": "list",
-     "items": [
-      "Choisir un **thème** (la pluie, l’amitié, la forêt…).",
-      "Faire la liste de **mots** et d’**images** liés au thème.",
-      "Choisir une **mesure** (8 syllabes) et un schéma de rimes.",
-      "Écrire les vers, les **compter** et les relire à voix haute.",
-      "Ajouter un **refrain** si l’on veut."
-     ],
-     "label": "Les étapes",
-     "ordered": true
-    },
-    {
-     "type": "ex",
-     "text": "Le vent chante dans les roseaux\nEt la lune danse sur l’eau.\nLes étoiles glissent, légères,\nSur le sommeil de la rivière.",
-     "label": "Un quatrain de huit syllabes"
-    }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "exercise",
-     "enonce": "Réponds.",
-     "items": [
-      "Combien de syllabes a « Et la lune danse sur l’eau » ?",
-      "Quel est le schéma des rimes « soir / mer / espoir / amer » ?",
-      "Écris une rime pour « jour »."
-     ],
-     "corrige": [
-      "1. Huit (Et-la-lu-ne-dan-se-sur-l’eau).",
-      "2. ABAB (rimes croisées).",
-      "3. amour, tour, retour…"
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Un vers de douze syllabes s’appelle :",
-     "options": [
-      "un octosyllabe",
-      "un alexandrin",
-      "un décasyllabe",
-      "un refrain"
-     ],
-     "answer": 1,
-     "explain": "Douze syllabes : **alexandrin**."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "Un poème est écrit en **vers**, groupés en **strophes**.",
-      "La **rime** est le retour d’un même son.",
-      "Mesures : octosyllabe (8), décasyllabe (10), alexandrin (12).",
-      "Le **e muet** compte devant une consonne, jamais en fin de vers."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "« Mer » et « amer » forment :",
-     "options": [
-      "une rime",
-      "un refrain",
-      "une strophe",
-      "un vers"
-     ],
-     "answer": 0,
-     "explain": "Même son final : une **rime**."
-    }
-   ]
-  }
- ]
+  ]
 }

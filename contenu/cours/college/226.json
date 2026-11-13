@@ -1,162 +1,235 @@
 {
  "id": 226,
  "meta": {
-  "t": "L’accord du participe passé des verbes essentiellement pronominaux",
+  "t": "L’analyse des couleurs d’une image",
   "k": "Cours",
-  "n": "3e",
-  "m": "Orthographe",
-  "img": "d",
-  "r": 4.8
+  "n": "5e",
+  "m": "Lecture",
+  "img": "e",
+  "r": 4.8,
+  "mf": "MF5.1.4"
  },
  "sections": [
   {
-   "t": "Des verbes qui ne vivent qu’avec « se »",
+   "t": "Pourquoi regarder les couleurs ?",
    "blocs": [
     {
      "type": "p",
-     "text": "Certains verbes n’existent **qu’à la forme pronominale** : on ne peut pas dire « évanouir quelqu’un » ni « envoler ». On les appelle verbes **essentiellement pronominaux**."
+     "text": "Quand tu regardes une affiche, une photo ou un tableau, les **couleurs** te font ressentir quelque chose avant même que tu comprennes le sujet. Un ciel rouge ne donne pas la même impression qu’un ciel bleu."
+    },
+    {
+     "type": "def",
+     "label": "L’analyse des couleurs",
+     "text": "Analyser les couleurs d’une image, c’est **observer les couleurs utilisées**, dire **laquelle domine** et expliquer l’**effet** et le **sens** qu’elles donnent à l’image."
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître un verbe essentiellement pronominal",
-      "Appliquer la règle d’accord du participe passé",
-      "Connaître l’exception rare"
+      "Nommer les couleurs d’une image",
+      "Distinguer couleurs chaudes et froides",
+      "Repérer la couleur dominante et les contrastes",
+      "Expliquer l’effet produit"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "table",
-     "title": "Quelques verbes essentiellement pronominaux",
-     "head": [
-      "Verbe",
-      "Exemple au passé composé"
-     ],
-     "rows": [
-      [
-       "s’évanouir",
-       "Elle s’est évanou**ie**."
-      ],
-      [
-       "se souvenir",
-       "Ils se sont souven**us**."
-      ],
-      [
-       "s’enfuir",
-       "Les voleurs se sont enfu**is**."
-      ],
-      [
-       "s’absenter",
-       "Elle s’est absent**ée**."
-      ],
-      [
-       "s’écrier",
-       "Les enfants se sont écri**és**."
-      ],
-      [
-       "se repentir",
-       "Il s’est repent**i**."
-      ]
-     ]
-    },
-    {
      "type": "quiz",
-     "question": "Quel verbe est essentiellement pronominal ?",
+     "question": "Analyser les couleurs d’une image, c’est…",
      "options": [
-      "se laver",
-      "s’enfuir",
-      "se regarder",
-      "se parler"
+      "compter les personnages",
+      "observer les couleurs et expliquer leur effet",
+      "recopier le titre",
+      "lire le texte"
      ],
      "answer": 1,
-     "explain": "On ne dit pas « enfuir quelqu’un » : « s’enfuir » n’existe qu’à la forme pronominale."
+     "explain": "On observe les couleurs et on explique ce qu’elles produisent."
     }
    ]
   },
   {
-   "t": "La règle d’accord",
+   "t": "Les familles de couleurs",
    "blocs": [
     {
-     "type": "def",
-     "label": "Règle",
-     "text": "Le participe passé d’un verbe essentiellement pronominal **s’accorde avec le sujet** en genre et en nombre. Il se conjugue avec **être**."
-    },
-    {
      "type": "table",
-     "title": "Accord avec le sujet",
+     "title": "Chaudes ou froides ?",
      "head": [
-      "Sujet",
-      "Phrase",
-      "Accord"
+      "Famille",
+      "Couleurs",
+      "Impression"
      ],
      "rows": [
       [
-       "Il (masc. sing.)",
-       "Il s’est évanoui.",
-       "— (rien)"
+       "**Couleurs chaudes**",
+       "rouge, orange, jaune",
+       "chaleur, énergie, mouvement, joie ou colère"
       ],
       [
-       "Elle (fém. sing.)",
-       "Elle s’est évanoui**e**.",
-       "+ e"
+       "**Couleurs froides**",
+       "bleu, vert, violet",
+       "calme, fraîcheur, tristesse ou distance"
       ],
       [
-       "Ils (masc. plur.)",
-       "Ils se sont enfui**s**.",
-       "+ s"
+       "**Couleurs neutres**",
+       "blanc, noir, gris",
+       "sobriété, vide, mystère…"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Les couleurs primaires et secondaires",
+     "head": [
+      "Type",
+      "Couleurs"
+     ],
+     "rows": [
+      [
+       "**Primaires**",
+       "rouge, jaune, bleu"
       ],
       [
-       "Elles (fém. plur.)",
-       "Elles se sont enfui**es**.",
-       "+ es"
+       "**Secondaires** (mélanges)",
+       "orange (rouge + jaune), vert (jaune + bleu), violet (rouge + bleu)"
       ]
      ]
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Remplace le verbe par un verbe de la même catégorie (s’évanouir / s’enfuir) ou pense à **« être »** : « Elle est évanouie » → on accorde avec le sujet."
+     "text": "Pour retenir : le **soleil** et le **feu** sont chauds (rouge, orange, jaune) ; la **mer** et la **glace** sont froides (bleu, vert)."
     },
     {
-     "type": "warn",
-     "label": "Pourquoi ?",
-     "text": "Le « se » de ces verbes n’est **ni COD ni COI** : il fait partie du verbe. C’est pourquoi on ne cherche pas de COD : on accorde simplement avec le sujet."
+     "type": "quiz",
+     "question": "Quelle couleur est une couleur chaude ?",
+     "options": [
+      "bleu",
+      "vert",
+      "orange",
+      "violet"
+     ],
+     "answer": 2,
+     "explain": "Rouge, orange et jaune sont des couleurs chaudes."
     }
    ]
   },
   {
-   "t": "Exemples, pièges et exception",
+   "t": "La dominante, les contrastes et le symbole",
    "blocs": [
     {
      "type": "table",
-     "title": "Bien accorder",
+     "title": "Les notions à connaître",
      "head": [
-      "Phrase correcte",
-      "Explication"
+      "Notion",
+      "Définition"
      ],
      "rows": [
       [
-       "Les élèves se sont absentés.",
-       "sujet « les élèves » : masc. plur."
+       "**La couleur dominante**",
+       "celle qui occupe le plus de place ou attire le plus l’œil"
       ],
       [
-       "Ma mère s’est souvenue de son enfance.",
-       "sujet « ma mère » : fém. sing."
+       "**Le contraste**",
+       "opposition entre deux couleurs ou entre le clair et le foncé (un point rouge sur un fond vert)"
       ],
       [
-       "Marie et Anne se sont enfuies.",
-       "sujets féminins : fém. plur."
+       "**L’harmonie**",
+       "couleurs proches qui s’accordent bien"
       ],
       [
-       "Paul et Anne se sont enfuis.",
-       "sujets mixtes : le masculin l’emporte"
+       "**Le symbole**",
+       "le sens qu’on prête à une couleur"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques sens possibles des couleurs (ils varient selon les cultures)",
+     "head": [
+      "Couleur",
+      "Sens fréquents"
+     ],
+     "rows": [
+      [
+       "rouge",
+       "amour, danger, colère"
+      ],
+      [
+       "bleu",
+       "calme, mer, ciel"
+      ],
+      [
+       "vert",
+       "nature, espoir"
+      ],
+      [
+       "jaune",
+       "soleil, joie, richesse"
+      ],
+      [
+       "noir",
+       "nuit, deuil (dans de nombreux pays), mystère"
+      ],
+      [
+       "blanc",
+       "pureté, paix (le deuil dans certaines cultures)"
       ]
      ]
     },
     {
      "type": "warn",
-     "label": "Exception",
-     "text": "Une exception rare : **s’arroger**. Son participe s’accorde avec le **COD** s’il est placé avant : « Ils se sont arrogé des droits » (COD après), mais « Les droits qu’ils se sont arrogés » (COD avant)."
+     "label": "Attention",
+     "text": "Le sens d’une couleur **dépend de la culture et du contexte**. Ne dis pas « le rouge veut toujours dire danger » : dis « ici, le rouge évoque… »."
+    },
+    {
+     "type": "quiz",
+     "question": "La couleur dominante d’une image est…",
+     "options": [
+      "la plus petite",
+      "celle qui occupe ou attire le plus",
+      "toujours le noir",
+      "toujours le rouge"
+     ],
+     "answer": 1,
+     "explain": "C’est la couleur qui occupe le plus de place ou qui attire le plus l’œil."
+    }
+   ]
+  },
+  {
+   "t": "La méthode d’analyse",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "**Décris** l’image en quelques mots : que représente-t-elle ?",
+      "**Relève** les couleurs principales et la couleur dominante.",
+      "**Classe** les couleurs : chaudes, froides, neutres.",
+      "**Repère** les contrastes (couleur vive sur fond sombre…).",
+      "**Explique** l’impression ou le message produit."
+     ],
+     "label": "Cinq étapes",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Sur cette affiche, un grand ciel orange domine la scène : les couleurs chaudes donnent une impression de chaleur et de fin de journée paisible. Au premier plan, la silhouette noire d’un arbre ressort par contraste.",
+     "label": "Un exemple d’analyse (image imaginaire)"
+    },
+    {
+     "type": "tip",
+     "label": "Pour rédiger",
+     "text": "Utilise des verbes comme : *dominer, ressortir, contraster, évoquer, donner l’impression de*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la dernière étape de la méthode ?",
+     "options": [
+      "Décrire l’image",
+      "Relever les couleurs",
+      "Expliquer l’effet produit",
+      "Repérer les contrastes"
+     ],
+     "answer": 2,
+     "explain": "On termine par l’explication de l’impression produite."
     }
    ]
   },
@@ -165,43 +238,59 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Accorde le participe passé.",
+     "enonce": "**Exercice 1** : Classe ces couleurs : *chaude (C), froide (F)*.",
      "items": [
-      "Les voleurs se sont (enfuir).",
-      "Elle s’est (évanouir) de fatigue.",
-      "Nous nous sommes (souvenir) de ce jour. (nous = des filles)",
-      "Mes cousins se sont (absenter)."
+      "a) rouge",
+      "b) bleu",
+      "c) jaune",
+      "d) vert",
+      "e) orange"
      ],
      "corrige": [
-      "1. enfuis",
-      "2. évanouie",
-      "3. souvenues",
-      "4. absentés"
+      "a) C",
+      "b) F",
+      "c) C",
+      "d) F",
+      "e) C"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Recopie la phrase correcte.",
+     "enonce": "**Exercice 2** : Complète : *Le rouge et le jaune sont des couleurs ... Leur mélange donne l’...*",
      "items": [
-      "Elle s’est enfui. / Elle s’est enfuie.",
-      "Ils se sont repenti. / Ils se sont repentis."
+      "Complète la phrase"
      ],
      "corrige": [
-      "1. Elle s’est enfuie.",
-      "2. Ils se sont repentis."
+      "Le rouge et le jaune sont des couleurs primaires (et chaudes). Leur mélange donne l’orange."
      ]
     },
     {
-     "type": "quiz",
-     "question": "« Les infirmières se sont (absenter) ». Quel accord ?",
-     "options": [
-      "absenté",
-      "absentées",
-      "absentés",
-      "absentée"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Imagine une photo d’un champ vert sous un ciel bleu. Réponds.",
+     "items": [
+      "a) Quelle est la couleur dominante ?",
+      "b) Ces couleurs sont-elles chaudes ou froides ?",
+      "c) Quelle impression donnent-elles ?"
      ],
-     "answer": 1,
-     "explain": "Sujet féminin pluriel : « absentées »."
+     "corrige": [
+      "a) Le vert (ou le bleu, selon les proportions).",
+      "b) Froides.",
+      "c) Le calme, la fraîcheur, la nature."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige trois phrases d’analyse des couleurs d’une affiche de ton choix (couleur dominante, contraste, effet).",
+     "items": [
+      "Phrase 1",
+      "Phrase 2",
+      "Phrase 3"
+     ],
+     "corrige": [
+      "Par exemple : Le jaune domine l’affiche.",
+      "Il contraste avec le texte noir.",
+      "Cela donne une impression de joie et attire le regard."
+     ]
     }
    ]
   },
@@ -212,23 +301,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Un verbe essentiellement pronominal n’existe qu’à la forme pronominale : s’évanouir, s’enfuir, se souvenir…",
-      "Son participe passé s’accorde avec le sujet.",
-      "Auxiliaire : toujours être.",
-      "Exception : s’arroger (accord avec le COD placé avant)."
+      "Les **couleurs chaudes** (rouge, orange, jaune) donnent de l’énergie ; les **couleurs froides** (bleu, vert, violet) donnent du calme.",
+      "Les couleurs **primaires** sont le rouge, le jaune et le bleu.",
+      "La **couleur dominante** est celle qui domine l’image ; le **contraste** oppose deux couleurs.",
+      "Le **sens** des couleurs dépend de la culture et du contexte.",
+      "Pour analyser : décrire, relever les couleurs, les classer, repérer les contrastes, expliquer l’effet."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Elles se sont souvenu / souvenues » :",
+     "question": "Un point rouge sur un fond vert est un exemple de…",
      "options": [
-      "souvenu",
-      "souvenues",
-      "souvenus",
-      "souvenue"
+      "contraste",
+      "harmonie",
+      "dominante froide",
+      "couleur neutre"
      ],
-     "answer": 1,
-     "explain": "Accord avec le sujet féminin pluriel."
+     "answer": 0,
+     "explain": "Le rouge et le vert s’opposent : c’est un contraste."
     }
    ]
   }

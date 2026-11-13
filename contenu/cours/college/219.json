@@ -1,133 +1,195 @@
 {
  "id": 219,
  "meta": {
-  "t": "La transformation de la forme exclamative à la forme interrogative",
+  "t": "Le pluriel des noms composés : nom + adjectif qualificatif",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "e",
-  "r": 4.8
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "f",
+  "r": 4.8,
+  "mf": "MF5.2.2"
  },
  "sections": [
   {
-   "t": "De l’exclamation à la question",
+   "t": "Reconnaître un nom composé nom + adjectif",
    "blocs": [
     {
      "type": "p",
-     "text": "Une phrase **exclamative** exprime un sentiment ; une phrase **interrogative** demande une information. Pour passer de l’une à l’autre, il faut **retrouver l’idée** de l’exclamation, puis la transformer en question."
+     "text": "Dans « Il ouvre le coffre-fort », *coffre-fort* est un **nom composé** : il est formé d’un **nom** (*coffre*) et d’un **adjectif qualificatif** (*fort*). Comment écrit-on le pluriel ? Des *coffres-forts*. Dans « une basse-cour », l’adjectif vient avant le nom : la règle est la même."
+    },
+    {
+     "type": "def",
+     "label": "Le nom composé avec un adjectif",
+     "text": "C’est un nom formé d’un **nom** et d’un **adjectif qualificatif** reliés par un **trait d’union**, dans l’ordre *nom + adjectif* (*coffre-fort*) ou *adjectif + nom* (*basse-cour*). L’adjectif donne une précision sur le nom."
     },
     {
      "type": "list",
      "items": [
-      "Retrouver l’idée cachée dans l’exclamation",
-      "Poser une question totale ou partielle",
-      "Transformer une exclamative en interrogative"
+      "Reconnaître un nom composé nom + adjectif",
+      "Savoir que le nom et l’adjectif s’accordent",
+      "Repérer quelques exceptions",
+      "Écrire correctement leur pluriel"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "ex",
-     "text": "« Comme ce chien est grand ! » → « Ce chien est-il grand ? » ou « Comment est ce chien ? »"
-    },
-    {
-     "type": "quiz",
-     "question": "Que perd-on en passant de l’exclamative à l’interrogative ?",
-     "options": [
-      "L’idée de la phrase",
-      "L’émotion forte : on ne fait plus que demander",
-      "Le verbe",
-      "Le sujet"
-     ],
-     "answer": 1,
-     "explain": "L’émotion disparaît : la phrase demande une information."
-    }
-   ]
-  },
-  {
-   "t": "Les étapes de la transformation",
-   "blocs": [
-    {
-     "type": "list",
-     "items": [
-      "**Repérer** le mot exclamatif et la qualité ou l’action mise en valeur.",
-      "**Supprimer** « quel, comme, que » et retrouver la phrase de base.",
-      "**Choisir** le type de question : totale (oui / non) ou partielle (comment, combien, quel…).",
-      "**Construire** la question (inversion ou « est-ce que ») et mettre « ? »."
-     ],
-     "label": "Quatre étapes",
-     "ordered": true
-    },
-    {
      "type": "table",
-     "title": "Exemples",
+     "title": "Quelques noms composés avec un adjectif",
      "head": [
-      "Exclamative",
-      "Phrase de base",
-      "Interrogative"
+      "Formation",
+      "Singulier",
+      "Pluriel"
      ],
      "rows": [
       [
-       "Comme il court vite !",
-       "Il court vite.",
-       "Court-il vite ? / À quelle vitesse court-il ?"
+       "nom + adjectif",
+       "un coffre-fort",
+       "des coffres-forts"
       ],
       [
-       "Quelle belle maison !",
-       "C’est une belle maison.",
-       "Est-ce une belle maison ? / Comment est cette maison ?"
+       "nom + adjectif",
+       "un cerf-volant",
+       "des cerfs-volants"
       ],
       [
-       "Que de monde !",
-       "Il y a beaucoup de monde.",
-       "Y a-t-il beaucoup de monde ? / Combien y a-t-il de monde ?"
+       "adjectif + nom",
+       "un rouge-gorge",
+       "des rouges-gorges"
       ],
       [
-       "Qu’elle chante bien !",
-       "Elle chante bien.",
-       "Chante-t-elle bien ? / Comment chante-t-elle ?"
+       "adjectif + nom",
+       "une basse-cour",
+       "des basses-cours"
       ]
      ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom composé est formé d’un nom et d’un adjectif ?",
+     "options": [
+      "un porte-monnaie",
+      "un coffre-fort",
+      "un chou-fleur",
+      "un arc-en-ciel"
+     ],
+     "answer": 1,
+     "explain": "« Coffre » est un nom, « fort » est un adjectif qualificatif."
     }
    ]
   },
   {
-   "t": "Choisir le mot interrogatif",
+   "t": "La règle : les deux mots s’accordent",
    "blocs": [
     {
+     "type": "def",
+     "label": "La règle",
+     "text": "Dans un nom composé **nom + adjectif**, le **nom** et l’**adjectif** prennent **tous les deux** la marque du pluriel (-s ou -x), comme dans un groupe nominal ordinaire."
+    },
+    {
+     "type": "ex",
+     "text": "un **coffre-fort** → des **coffres-forts** ; une **longue-vue** → des **longues-vues** ; un **petit-four** → des **petits-fours**",
+     "label": "Exemples"
+    },
+    {
+     "type": "p",
+     "text": "Cela s’explique : le nom et l’adjectif forment ensemble un groupe nominal (« un coffre solide »). L’adjectif s’accorde avec le nom comme d’habitude."
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Imagine la phrase sans trait d’union : *des coffres forts*. Les deux mots s’accordent, donc on garde -s sur les deux."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le pluriel de « un cerf-volant » ?",
+     "options": [
+      "des cerf-volants",
+      "des cerfs-volant",
+      "des cerfs-volants",
+      "des cerf-volant"
+     ],
+     "answer": 2,
+     "explain": "Le nom (cerf) et l’adjectif (volant) s’accordent : des cerfs-volants."
+    }
+   ]
+  },
+  {
+   "t": "Les cas particuliers",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quelques noms composés font exception, parce que le premier mot **ne joue pas le rôle d’un nom ordinaire**."
+    },
+    {
      "type": "table",
-     "title": "Quel mot interrogatif selon l’exclamation ?",
+     "title": "Quelques exceptions courantes",
      "head": [
-      "Ce que l’exclamation met en valeur",
-      "Mot interrogatif",
+      "Cas",
       "Exemple"
      ],
      "rows": [
       [
-       "une qualité (beau, grand…)",
-       "comment",
-       "Comment est ce paysage ?"
+       "**demi-** invariable devant un nom",
+       "*un demi-frère → des demi-frères*"
       ],
       [
-       "une quantité (beaucoup de…)",
-       "combien",
-       "Combien de personnes sont venues ?"
+       "**haut** invariable dans certains mots",
+       "*un haut-parleur → des haut-parleurs*"
       ],
       [
-       "une manière (vite, bien…)",
-       "comment, à quelle vitesse",
-       "Comment travaille-t-il ?"
-      ],
-      [
-       "un choix, une identité",
-       "quel(le)",
-       "Quelle est cette chanson ?"
+       "**nouveau-né** : *nouveau* invariable devant un participe",
+       "*un nouveau-né → des nouveau-nés*"
       ]
      ]
     },
     {
      "type": "warn",
-     "label": "Piège",
-     "text": "Ne garde pas le point d’exclamation et ne laisse pas « comme / que » exclamatifs devant la question : « Comme est-il grand ? » est incorrect. Écris « Est-il grand ? » ou « Comment est-il ? »."
+     "label": "Attention",
+     "text": "Ces exceptions sont peu nombreuses. Si tu as un doute, **consulte le dictionnaire**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel pluriel est correct ?",
+     "options": [
+      "des demi-frères",
+      "des demis-frères",
+      "des demi-frère",
+      "des demis-frère"
+     ],
+     "answer": 0,
+     "explain": "Dans « demi-frère », *demi* reste invariable : des demi-frères."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Piège 1 : n’accorder qu’un seul mot",
+     "text": "Écrire « des coffre-fort » ou « des coffres-fort » est faux : les deux mots varient."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 2 : confondre avec nom + nom",
+     "text": "Un nom composé **nom + nom** suit une autre règle (*des timbres-poste*, *des choux-fleurs*). Vérifie d’abord le **type** de mot : nom ou adjectif ?"
+    },
+    {
+     "type": "warn",
+     "label": "Piège 3 : oublier le pluriel irrégulier d’un des mots",
+     "text": "Certains mots forment leur pluriel avec un **x** : *un beau-père* → des **beaux**-pères (et non « des beau-pères »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on le pluriel de « une basse-cour » ?",
+     "options": [
+      "des basses-cours",
+      "des basse-cours",
+      "des basses-cour",
+      "des basse-cour"
+     ],
+     "answer": 0,
+     "explain": "L’adjectif *basse* s’accorde avec le nom : des basses-cours."
     }
    ]
   },
@@ -136,43 +198,59 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Transforme en phrase interrogative totale.",
+     "enonce": "**Exercice 1** : Écris au pluriel.",
      "items": [
-      "Comme ce travail est difficile !",
-      "Qu’elle est gentille !",
-      "Quel beau cadeau !"
+      "a) un coffre-fort",
+      "b) une longue-vue",
+      "c) un rouge-gorge",
+      "d) un blanc-bec",
+      "e) une basse-cour"
      ],
      "corrige": [
-      "1. Ce travail est-il difficile ?",
-      "2. Est-elle gentille ?",
-      "3. Est-ce un beau cadeau ?"
+      "a) des coffres-forts",
+      "b) des longues-vues",
+      "c) des rouges-gorges",
+      "d) des blancs-becs",
+      "e) des basses-cours"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Transforme en phrase interrogative partielle.",
+     "enonce": "**Exercice 2** : Écris au singulier.",
      "items": [
-      "Que de monde sur la place !",
-      "Comme il parle doucement !",
-      "Quelle belle voix !"
+      "a) des cerfs-volants",
+      "b) des beaux-pères",
+      "c) des petits-fours"
      ],
      "corrige": [
-      "1. Combien de personnes y a-t-il sur la place ?",
-      "2. Comment parle-t-il ?",
-      "3. Comment est sa voix ? (ou : Quelle est sa voix ?)"
+      "a) un cerf-volant",
+      "b) un beau-père",
+      "c) un petit-four"
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase est une transformation correcte de « Que cette route est longue ! » ?",
-     "options": [
-      "Que cette route est-elle longue ?",
-      "Cette route est-elle longue ?",
-      "Quelle longue route !",
-      "Comme cette route est longue ?"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Choisis la bonne orthographe.",
+     "items": [
+      "a) des (coffres-forts / coffre-forts)",
+      "b) des (demi-frères / demis-frères)",
+      "c) des (haut-parleurs / hauts-parleurs)"
      ],
-     "answer": 1,
-     "explain": "On supprime « que » et on pose la question avec l’inversion : « Cette route est-elle longue ? »."
+     "corrige": [
+      "a) des coffres-forts",
+      "b) des demi-frères",
+      "c) des haut-parleurs"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Complète au pluriel : *Dans la ferme, il y avait deux ... (basse-cour) et plusieurs ... (cerf-volant) accrochés au mur.*",
+     "items": [
+      "Phrase à compléter"
+     ],
+     "corrige": [
+      "Dans la ferme, il y avait deux basses-cours et plusieurs cerfs-volants accrochés au mur."
+     ]
     }
    ]
   },
@@ -183,23 +261,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Pour passer de l’exclamative à l’interrogative, on retrouve d’abord la phrase de base.",
-      "On supprime « quel, comme, que » exclamatifs et on pose une question totale ou partielle.",
-      "Le mot interrogatif dépend de ce que l’exclamation met en valeur : comment, combien, quel…",
-      "La phrase se termine par « ? »."
+      "Un nom composé **nom + adjectif** est formé d’un **nom** et d’un **adjectif qualificatif** reliés par un trait d’union.",
+      "Au pluriel, le **nom** et l’**adjectif** s’accordent **tous les deux** : *des coffres-forts*.",
+      "Quelques exceptions existent : *des demi-frères, des haut-parleurs, des nouveau-nés*.",
+      "Ne pas confondre avec les noms composés **nom + nom**.",
+      "En cas de doute, **vérifie dans le dictionnaire**."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Que de bruit ! » → question partielle :",
+     "question": "Dans un nom composé nom + adjectif, qui prend la marque du pluriel ?",
      "options": [
-      "Combien de bruit y a-t-il ?",
-      "Que de bruit y a-t-il ?",
-      "Où est le bruit ?",
-      "Est-ce que de bruit ?"
+      "Seulement le nom",
+      "Seulement l’adjectif",
+      "Le nom et l’adjectif",
+      "Aucun des deux"
      ],
-     "answer": 0,
-     "explain": "« Que de » marque la quantité : on interroge avec « combien »."
+     "answer": 2,
+     "explain": "Les deux s’accordent, sauf quelques exceptions."
     }
    ]
   }

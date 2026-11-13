@@ -104,6 +104,104 @@
    ]
   },
   {
+   "t": "Quel(le)(s) et qu’elle(s) : emplois et pièges",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les emplois de quel(le)(s)",
+     "head": [
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "interrogatif (devant un nom)",
+       "**Quelle** heure est-il ? **Quels** livres choisis-tu ?"
+      ],
+      [
+       "exclamatif",
+       "**Quel** beau temps ! **Quelle** chance !"
+      ],
+      [
+       "attribut, avec le verbe être",
+       "**Quelle** est ton adresse ? **Quels** sont tes projets ?"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "« **Qu’elle(s)** » est formé de **que + elle(s)**. Il est suivi d’un verbe : « Je vois **qu’elle** est contente »."
+    },
+    {
+     "type": "warn",
+     "label": "Deux phrases qui se ressemblent",
+     "text": "« **Quelle** est ton adresse ? » : on peut dire « **quel** est ton nom ? ». « Je vois **qu’elle** est contente » : on peut dire « je vois **qu’il** est content »."
+    },
+    {
+     "type": "test",
+     "title": "Le test du masculin",
+     "lines": [
+      "… heure est-il ? → un nom féminin suit, c’est le déterminant : **Quelle** heure est-il ?",
+      "Je crois … viendra. → je crois qu’il viendra : **qu’elle**.",
+      "… beau temps ! → un nom suit, c’est l’exclamatif : **Quel** beau temps !"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Je sais quelles sont arrivées.",
+      "Je sais qu’elles sont arrivées.",
+      "Je sais quels sont arrivées.",
+      "Je sais qu’el sont arrivées."
+     ],
+     "answer": 1,
+     "explain": "On peut dire « je sais qu’ils sont arrivés » : **qu’elles** = que + elles."
+    }
+   ]
+  },
+  {
+   "t": "Quel que, quelque : les cas en détail",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les différents emplois",
+     "head": [
+      "Écriture",
+      "Sens ou rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "quel que + être (subjonctif)",
+       "peu importe ; **quel** s’accorde avec le sujet de être",
+       "**Quel que** soit ton âge… **Quelles que** soient tes raisons…"
+      ],
+      [
+       "quelque(s) + nom",
+       "déterminant indéfini : plusieurs ; pluriel : quelques",
+       "Il est resté **quelques** jours."
+      ],
+      [
+       "quelque + nombre",
+       "adverbe invariable : environ",
+       "**Quelque** cinquante personnes sont venues."
+      ],
+      [
+       "quelque chose, quelqu’un",
+       "pronoms indéfinis : un seul mot",
+       "Il a **quelque chose** à dire."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "L’erreur la plus fréquente",
+     "text": "On n’écrit jamais « quelque soit » en un mot. Le verbe est **soit** (être au subjonctif), et « quel que » s’écrit en **deux mots** : « **Quel que** soit le prix »."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -151,6 +249,78 @@
      ],
      "answer": 1,
      "explain": "« quelle que » s’accorde avec « raison » et signifie « peu importe »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quel, quelle, quels, quelles ou qu’elle(s).",
+     "items": [
+      "____ est ton nom ?",
+      "____ chance !",
+      "Je suis sûr ____ a raison.",
+      "Dis-moi ____ sont tes fruits préférés.",
+      "Ils savent ____ ne viendront pas."
+     ],
+     "corrige": [
+      "1. Quel",
+      "2. Quelle",
+      "3. qu’elle",
+      "4. quels",
+      "5. qu’elles"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec quel que, quelle que, quels que, quelles que ou quelque(s).",
+     "items": [
+      "____ soient les difficultés, nous réussirons.",
+      "Il est parti il y a ____ minutes.",
+      "____ trente élèves ont participé.",
+      "____ soit son âge, il est courageux.",
+      "Elle a ____ chose à te dire."
+     ],
+     "corrige": [
+      "1. Quelles que",
+      "2. quelques",
+      "3. Quelque",
+      "4. Quel que",
+      "5. quelque (quelque chose)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Repère l’erreur et corrige chaque phrase.",
+     "items": [
+      "Quelque soit ton avis, parle.",
+      "Je pense quelle viendra.",
+      "Qu’elle belle fleur !",
+      "Quelles que soit les raisons, je viendrai."
+     ],
+     "corrige": [
+      "1. **Quel que** soit ton avis, parle.",
+      "2. Je pense **qu’elle** viendra.",
+      "3. **Quelle** belle fleur !",
+      "4. Quelles que **soient** les raisons, je viendrai."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Un texte à corriger",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Réécris le texte en corrigeant les erreurs sur quel(le), qu’elle, quel que et quelque.",
+     "items": [
+      "Quel que soit la saison, Aminata va au marché. Elle dit quelle y trouve quelque fruits frais. « Qu’elle belle journée ! » répète-t-elle. Quelque soit le prix, elle achète quelque mangues."
+     ],
+     "corrige": [
+      "**Quelle que** soit la saison, Aminata va au marché. Elle dit **qu’elle** y trouve **quelques** fruits frais. « **Quelle** belle journée ! » répète-t-elle. **Quel que** soit le prix, elle achète **quelques** mangues."
+     ]
     }
    ]
   },

@@ -1,135 +1,200 @@
 {
  "id": 229,
  "meta": {
-  "t": "L’accord du participe passé des verbes occasionnellement pronominaux de sens réciproque",
+  "t": "L’adjectif qualificatif attribut du complément d’objet direct",
   "k": "Cours",
-  "n": "3e",
-  "m": "Orthographe",
-  "img": "g",
-  "r": 4.8
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "mf": "MF5.2.5"
  },
  "sections": [
   {
-   "t": "Quand deux sujets agissent l’un sur l’autre",
+   "t": "Repérer l’attribut du COD",
    "blocs": [
     {
      "type": "p",
-     "text": "Dans un verbe pronominal de **sens réciproque**, plusieurs personnes font **la même action l’une sur l’autre** : « Paul et Marie **se** regardent » veut dire « Paul regarde Marie et Marie regarde Paul »."
+     "text": "Compare : « Je trouve cette histoire **drôle**. » et « Je lis cette histoire **drôle**. » Dans la première phrase, *drôle* dit ce que je **pense** de l’histoire : c’est un **attribut du complément d’objet direct**."
+    },
+    {
+     "type": "def",
+     "label": "L’attribut du COD",
+     "text": "L’**attribut du COD** est un adjectif qualificatif qui **se rapporte au complément d’objet direct** et exprime une **qualité** que le sujet lui **attribue**, avec certains verbes (*trouver, juger, croire, rendre…*)."
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître le sens réciproque",
-      "Distinguer « se » COD et « se » COI",
-      "Connaître les verbes qui restent invariables"
+      "Reconnaître un adjectif attribut du COD",
+      "Le distinguer de l’épithète et de l’attribut du sujet",
+      "Accorder l’adjectif avec le COD",
+      "Employer les verbes qui le permettent"
      ],
      "label": "Objectifs"
     },
     {
+     "type": "ex",
+     "text": "Je trouve **cette histoire** (COD) **drôle** (attribut du COD).\nCe retard rend **le directeur** (COD) **furieux** (attribut du COD).",
+     "label": "Exemples"
+    },
+    {
      "type": "quiz",
-     "question": "Quel sujet permet le sens réciproque ?",
+     "question": "Dans « Il juge ce travail excellent », « excellent » est…",
      "options": [
-      "Il",
-      "Marie",
-      "Les deux amis",
-      "Le chat"
+      "épithète",
+      "attribut du sujet",
+      "attribut du COD",
+      "complément circonstanciel"
      ],
      "answer": 2,
-     "explain": "Il faut au moins **deux** personnes ou un sujet pluriel."
+     "explain": "« Excellent » qualifie le COD « ce travail » : c’est un attribut du COD."
     }
    ]
   },
   {
-   "t": "La règle d’accord",
+   "t": "Quels verbes ? Comment le reconnaître ?",
    "blocs": [
     {
-     "type": "def",
-     "label": "Règle",
-     "text": "Comme au sens réfléchi : le participe s’accorde avec le **COD placé avant**. Il est **invariable** si « se » est un **COI**."
-    },
-    {
      "type": "table",
-     "title": "COD ou COI ?",
+     "title": "Verbes qui introduisent un attribut du COD",
      "head": [
-      "Phrase",
-      "Test",
-      "« se »",
-      "Accord"
-     ],
-     "rows": [
-      [
-       "Elles se sont vues.",
-       "Elles ont vu **qui** ? l’une l’autre",
-       "COD",
-       "vu**es**"
-      ],
-      [
-       "Ils se sont aimés.",
-       "Ils ont aimé **qui** ? l’un l’autre",
-       "COD",
-       "aimé**s**"
-      ],
-      [
-       "Elles se sont parlé.",
-       "Elles ont parlé **à qui** ? l’une à l’autre",
-       "COI",
-       "parlé (invariable)"
-      ],
-      [
-       "Ils se sont écrit.",
-       "Ils ont écrit **à qui** ? l’un à l’autre",
-       "COI",
-       "écrit (invariable)"
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "t": "Les verbes toujours invariables",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Ces verbes se construisent avec la préposition **« à »** : ils ont donc un COI. Le participe passé reste **invariable**."
-    },
-    {
-     "type": "table",
-     "title": "Verbes à retenir",
-     "head": [
-      "Verbe",
+      "Famille",
+      "Verbes",
       "Exemple"
      ],
      "rows": [
       [
-       "se parler (parler à)",
-       "Ils se sont parlé."
+       "jugement",
+       "trouver, juger, considérer, croire",
+       "*Je crois cet homme honnête.*"
       ],
       [
-       "se téléphoner (téléphoner à)",
-       "Elles se sont téléphoné."
+       "transformation",
+       "rendre, laisser, mettre",
+       "*Cette nouvelle rend sa mère heureuse.*"
       ],
       [
-       "se sourire (sourire à)",
-       "Ils se sont souri."
+       "désignation",
+       "appeler, nommer, élire",
+       "*On l’a élu président.*"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "**Pour reconnaître l’attribut du COD :**"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Trouve le **COD** en posant la question *quoi ?* ou *qui ?* après le verbe.",
+      "Repère l’**adjectif** qui qualifie ce COD.",
+      "Vérifie : tu peux dire « **le COD est** + adjectif » (*Cette histoire est drôle*) mais pas supprimer l’adjectif sans changer le sens."
+     ],
+     "label": "Le test",
+     "ordered": true
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si tu supprimes l’adjectif, la phrase peut devenir **incomplète** ou **changer de sens** : « Je trouve cette histoire » ne dit plus ce que je pense."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel verbe peut avoir un attribut du COD ?",
+     "options": [
+      "dormir",
+      "rendre",
+      "aller",
+      "tomber"
+     ],
+     "answer": 1,
+     "explain": "« Rendre » (rendre quelqu’un heureux) a un COD et un attribut du COD."
+    }
+   ]
+  },
+  {
+   "t": "Attribut du COD, attribut du sujet, épithète",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Trois fonctions à ne pas confondre",
+     "head": [
+      "Fonction",
+      "Exemple",
+      "Rapport avec…"
+     ],
+     "rows": [
+      [
+       "**Attribut du sujet**",
+       "*Cette histoire est drôle.*",
+       "le **sujet**, par un verbe d’état"
       ],
       [
-       "se mentir (mentir à)",
-       "Ils se sont menti."
+       "**Attribut du COD**",
+       "*Je trouve cette histoire drôle.*",
+       "le **COD**, par un verbe d’opinion ou de transformation"
       ],
       [
-       "se plaire, se nuire",
-       "Elles se sont plu. Ils se sont nui."
-      ],
-      [
-       "se succéder, se ressembler",
-       "Les rois se sont succédé. Les sœurs se sont ressemblé."
+       "**Épithète**",
+       "*Je lis cette histoire drôle.*",
+       "le nom, **sans verbe** entre les deux"
       ]
      ]
     },
     {
      "type": "warn",
-     "label": "Comparer",
-     "text": "« Ils se sont **vus** » (voir quelqu’un : COD) mais « Ils se sont **parlé** » (parler à quelqu’un : COI)."
+     "label": "Piège",
+     "text": "L’**épithète** est rattachée directement au nom (*une histoire drôle*). L’**attribut du COD** est rattaché au COD par le **sens du verbe** (*je trouve … drôle*)."
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "L’adjectif attribut du COD **s’accorde avec le COD** : *Je trouve ces histoires drôles. Il rend sa sœur contente.*"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Je trouve ces histoires drôles », pourquoi « drôles » prend-il un s ?",
+     "options": [
+      "Parce qu’il est après le verbe",
+      "Parce qu’il s’accorde avec le COD « ces histoires »",
+      "Parce qu’il est au pluriel du sujet",
+      "Parce que c’est une règle sans raison"
+     ],
+     "answer": 1,
+     "explain": "L’adjectif attribut s’accorde avec le COD (féminin pluriel : drôles)."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs fréquentes",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Erreur 1 : accorder avec le sujet",
+     "text": "« Je trouve ces filles gentil » est faux : on accorde avec le **COD** : *gentilles*."
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 2 : le rapporter au sujet",
+     "text": "Dans « Cette nouvelle rend ma mère inquiète », c’est la **mère** qui est inquiète, pas la nouvelle : l’adjectif qualifie le **COD**."
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 3 : croire que tout adjectif après le COD est attribut",
+     "text": "Dans « Il achète une voiture rouge », *rouge* est **épithète** : il décrit la voiture, il ne donne pas d’opinion."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il achète une voiture rouge », « rouge » est…",
+     "options": [
+      "attribut du COD",
+      "épithète",
+      "attribut du sujet",
+      "COD"
+     ],
+     "answer": 1,
+     "explain": "Il n’y a pas de verbe d’opinion ou de transformation : « rouge » est une épithète."
     }
    ]
   },
@@ -138,47 +203,59 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Accorde le participe passé quand il le faut.",
+     "enonce": "**Exercice 1** : Souligne l’attribut du COD (écris l’adjectif).",
      "items": [
-      "Les deux amies se sont (retrouver) hier.",
-      "Marie et Anne se sont (téléphoner).",
-      "Les frères se sont (aimer) toujours.",
-      "Les voisins se sont (sourire)."
+      "a) Je trouve ce film passionnant.",
+      "b) Cette nouvelle rend ma mère inquiète.",
+      "c) Il juge ses efforts inutiles.",
+      "d) Nous croyons ce garçon honnête."
      ],
      "corrige": [
-      "1. retrouvées",
-      "2. téléphoné",
-      "3. aimés",
-      "4. souri"
+      "a) passionnant",
+      "b) inquiète",
+      "c) inutiles",
+      "d) honnête"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Dis si « se » est COD ou COI.",
+     "enonce": "**Exercice 2** : Complète avec la bonne forme de l’adjectif.",
      "items": [
-      "Elles se sont écrit.",
-      "Ils se sont regardés.",
-      "Les cousines se sont aidées.",
-      "Ils se sont menti."
+      "a) Je trouve ces exercices (facile).",
+      "b) Cette musique rend les enfants (joyeux).",
+      "c) Elle juge sa réponse (correct)."
      ],
      "corrige": [
-      "1. COI",
-      "2. COD",
-      "3. COD",
-      "4. COI"
+      "a) faciles",
+      "b) joyeux",
+      "c) correcte"
      ]
     },
     {
-     "type": "quiz",
-     "question": "« Ils se sont (succéder) au pouvoir. »",
-     "options": [
-      "succédé",
-      "succédés",
-      "succédée",
-      "succédées"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis si l’adjectif en gras est épithète (E), attribut du sujet (AS) ou attribut du COD (AC).",
+     "items": [
+      "a) Je lis un livre **intéressant**.",
+      "b) Ce livre est **intéressant**.",
+      "c) Je trouve ce livre **intéressant**."
      ],
-     "answer": 0,
-     "explain": "« succéder à » : « se » est COI, donc invariable."
+     "corrige": [
+      "a) E",
+      "b) AS",
+      "c) AC"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Écris deux phrases avec un attribut du COD (verbes : *trouver, rendre*).",
+     "items": [
+      "Phrase 1",
+      "Phrase 2"
+     ],
+     "corrige": [
+      "Par exemple : Je trouve cette leçon utile.",
+      "Par exemple : La pluie rend la route glissante."
+     ]
     }
    ]
   },
@@ -189,23 +266,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Sens réciproque : au moins deux sujets, action l’un sur l’autre.",
-      "Accord avec le COD « se » placé avant.",
-      "Invariable si « se » est COI : se parler, se téléphoner, se sourire, se mentir, se plaire, se nuire, se succéder, se ressembler.",
-      "Test : verbe + « à » → COI → invariable."
+      "L’**attribut du COD** est un adjectif qui se rapporte au **COD** avec des verbes comme *trouver, juger, rendre, croire*.",
+      "Il s’**accorde avec le COD**.",
+      "Ne pas confondre avec l’**attribut du sujet** (verbe d’état) et l’**épithète** (adjectif directement lié au nom).",
+      "Test : *je trouve cette histoire drôle* → *cette histoire est drôle*.",
+      "Il n’est pas le simple décor du nom : il exprime une **opinion** ou un **résultat**."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Elles se sont (voir) » :",
+     "question": "Un adjectif attribut du COD s’accorde avec…",
      "options": [
-      "vu",
-      "vue",
-      "vus",
-      "vues"
+      "le sujet",
+      "le verbe",
+      "le COD",
+      "le complément circonstanciel"
      ],
-     "answer": 3,
-     "explain": "« voir quelqu’un » : « se » est COD placé avant → « vues »."
+     "answer": 2,
+     "explain": "L’adjectif s’accorde avec le COD."
     }
    ]
   }

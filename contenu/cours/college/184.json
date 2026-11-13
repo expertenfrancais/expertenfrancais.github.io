@@ -153,6 +153,86 @@
    ]
   },
   {
+   "t": "Les familles de mots",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Connaître la **famille** d’un mot permet de comprendre de nouveaux mots et de mieux écrire."
+    },
+    {
+     "type": "table",
+     "title": "Quelques familles de mots",
+     "head": [
+      "Mot de départ",
+      "Mots de la même famille"
+     ],
+     "rows": [
+      [
+       "entraîner",
+       "entraînement, entraîneur, s’entraîner"
+      ],
+      [
+       "arbitre",
+       "arbitrer, arbitrage"
+      ],
+      [
+       "gagner",
+       "gagnant, gain"
+      ],
+      [
+       "compétition",
+       "compétitif, compétiteur"
+      ],
+      [
+       "athlète",
+       "athlétisme, athlétique"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Synonymes et contraires",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Des mots proches et des mots opposés",
+     "head": [
+      "Mot",
+      "Synonyme ou mot proche",
+      "Contraire"
+     ],
+     "rows": [
+      [
+       "remporter",
+       "gagner",
+       "perdre"
+      ],
+      [
+       "victoire",
+       "succès",
+       "défaite"
+      ],
+      [
+       "adversaire",
+       "rival",
+       "coéquipier"
+      ],
+      [
+       "fair-play",
+       "loyauté",
+       "tricherie"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Choisir le mot juste",
+     "text": "Un **synonyme** a un sens proche mais pas toujours identique : choisis-le selon le contexte. Pour trouver un **contraire**, cherche le mot de sens opposé ou le mot construit avec un préfixe (dé-, in-, mal-)."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -178,6 +258,93 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Trouve l’intrus dans chaque série.",
+     "items": [
+      "football – basket-ball – volley-ball – natation",
+      "arbitre – joueur – entraîneur – cuisinier",
+      "gagner – remporter – perdre – l’emporter"
+     ],
+     "corrige": [
+      "1. natation (les autres sont des sports collectifs)",
+      "2. cuisinier (les autres appartiennent au monde du sport)",
+      "3. perdre (les autres signifient « gagner »)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le contraire de chaque mot.",
+     "items": [
+      "gagner",
+      "victoire",
+      "adversaire"
+     ],
+     "corrige": [
+      "1. perdre",
+      "2. défaite",
+      "3. coéquipier"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne un mot de la même famille.",
+     "items": [
+      "entraîner",
+      "arbitre",
+      "gagner"
+     ],
+     "corrige": [
+      "1. entraîneur",
+      "2. arbitrage",
+      "3. gagnant"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète avec : endurance, tournoi, record, entraînement.",
+     "items": [
+      "Un ____ réunit plusieurs équipes pendant plusieurs jours.",
+      "Sans ____ régulier, on ne progresse pas.",
+      "Il a établi un nouveau ____ de saut en longueur.",
+      "Le marathon demande beaucoup d’____."
+     ],
+     "corrige": [
+      "1. tournoi",
+      "2. entraînement",
+      "3. record",
+      "4. endurance"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un paragraphe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un modèle de paragraphe qui emploie le vocabulaire du thème."
+    },
+    {
+     "type": "ex",
+     "label": "Modèle",
+     "text": "Samedi, notre équipe a remporté le tournoi de football du quartier. Après un long échauffement, les joueurs ont donné le meilleur d’eux-mêmes. L’arbitre a sifflé la fin du match sur un score de deux à un. Le capitaine a félicité ses adversaires : voilà le vrai fair-play."
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige un paragraphe sur un match ou une compétition.",
+     "items": [
+      "Écris quatre ou cinq phrases en employant au moins six mots du cours (équipe, arbitre, échauffement, entraînement, remporter, record, fair-play)."
+     ],
+     "corrige": [
+      "Proposition : Après un mois d’entraînement, notre équipe de handball a disputé la finale. Les joueuses ont fait un long échauffement avant le coup d’envoi. L’arbitre a veillé au respect des règles du début à la fin. Nous avons remporté le match et nous avons serré la main de nos adversaires, par fair-play."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -187,7 +354,8 @@
       "Le **sport** : activité physique réglée, en solo ou en équipe.",
       "Mots clés : **athlète, entraînement, échauffement, équipe, arbitre, compétition, record**.",
       "Verbes : **s’entraîner, remporter, battre, marquer, égaliser**.",
-      "**Fair-play** = respect des règles et de l’adversaire."
+      "**Fair-play** = respect des règles et de l’adversaire.",
+      "Pour enrichir ton vocabulaire, cherche les **mots de la même famille**, les **synonymes** et les **contraires**."
      ]
     },
     {

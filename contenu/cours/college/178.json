@@ -1,226 +1,409 @@
 {
- "id": 178,
- "meta": {
-  "t": "Les valeurs du passé composé et du plus-que-parfait",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Conjugaison",
-  "img": "e",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Deux temps composés",
-   "blocs": [
+  "id": 178,
+  "meta": {
+    "t": "Les valeurs du passé composé et du plus-que-parfait",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Conjugaison",
+    "img": "e",
+    "r": 4.8
+  },
+  "sections": [
     {
-     "type": "p",
-     "text": "Le **passé composé** et le **plus-que-parfait** sont des **temps composés** : ils se forment avec un **auxiliaire** (avoir ou être) et un **participe passé**. Chacun a des valeurs particulières."
-    },
-    {
-     "type": "list",
-     "label": "Objectifs",
-     "items": [
-      "Former le passé composé et le plus-que-parfait",
-      "Reconnaître leurs valeurs",
-      "Les distinguer de l’imparfait et du passé simple"
-     ]
-    },
-    {
-     "type": "table",
-     "title": "Formation",
-     "head": [
-      "Temps",
-      "Auxiliaire",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "passé composé",
-       "présent",
-       "il **a mangé**, elle **est partie**"
-      ],
-      [
-       "plus-que-parfait",
-       "imparfait",
-       "il **avait mangé**, elle **était partie**"
+      "t": "Deux temps composés",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Le **passé composé** et le **plus-que-parfait** sont des **temps composés** : ils se forment avec un **auxiliaire** (avoir ou être) et un **participe passé**. Chacun a des valeurs particulières."
+        },
+        {
+          "type": "list",
+          "label": "Objectifs",
+          "items": [
+            "Former le passé composé et le plus-que-parfait",
+            "Reconnaître leurs valeurs",
+            "Les distinguer de l’imparfait et du passé simple"
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Formation",
+          "head": [
+            "Temps",
+            "Auxiliaire",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "passé composé",
+              "présent",
+              "il **a mangé**, elle **est partie**"
+            ],
+            [
+              "plus-que-parfait",
+              "imparfait",
+              "il **avait mangé**, elle **était partie**"
+            ]
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "« Il avait fini » est au :",
+          "options": [
+            "passé composé",
+            "plus-que-parfait",
+            "imparfait",
+            "futur antérieur"
+          ],
+          "answer": 1,
+          "explain": "Auxiliaire à l’imparfait + participe passé : plus-que-parfait."
+        }
       ]
-     ]
     },
     {
-     "type": "quiz",
-     "question": "« Il avait fini » est au :",
-     "options": [
-      "passé composé",
-      "plus-que-parfait",
-      "imparfait",
-      "futur antérieur"
-     ],
-     "answer": 1,
-     "explain": "Auxiliaire à l’imparfait + participe passé : plus-que-parfait."
-    }
-   ]
-  },
-  {
-   "t": "Les valeurs du passé composé",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les valeurs du passé composé",
-     "head": [
-      "Valeur",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "action achevée dans le passé",
-       "Hier, j’**ai visité** le musée."
-      ],
-      [
-       "action passée avec effet présent",
-       "Il **a fini** : il est libre."
-      ],
-      [
-       "antériorité par rapport au présent",
-       "Quand j’**ai fini**, je sors."
-      ],
-      [
-       "remplace le passé simple à l’oral",
-       "Il **est entré** et il **a dit** bonjour."
+      "t": "Les valeurs du passé composé",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les valeurs du passé composé",
+          "head": [
+            "Valeur",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "action achevée dans le passé",
+              "Hier, j’**ai visité** le musée."
+            ],
+            [
+              "action passée avec effet présent",
+              "Il **a fini** : il est libre."
+            ],
+            [
+              "antériorité par rapport au présent",
+              "Quand j’**ai fini**, je sors."
+            ],
+            [
+              "remplace le passé simple à l’oral",
+              "Il **est entré** et il **a dit** bonjour."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "À l’oral",
+          "text": "Le passé composé est le temps du **récit oral** ; le passé simple est surtout écrit."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "À l’oral",
-     "text": "Le passé composé est le temps du **récit oral** ; le passé simple est surtout écrit."
-    }
-   ]
-  },
-  {
-   "t": "Les valeurs du plus-que-parfait",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les valeurs du plus-que-parfait",
-     "head": [
-      "Valeur",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "antériorité par rapport à un passé",
-       "Il **était parti** quand je suis arrivé."
-      ],
-      [
-       "cause, explication",
-       "Il était fatigué : il **avait couru**."
-      ],
-      [
-       "hypothèse irréelle (après si)",
-       "Si j’**avais su**, je serais venu."
-      ],
-      [
-       "regret",
-       "Si seulement j’**avais écouté** !"
+      "t": "Les valeurs du plus-que-parfait",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les valeurs du plus-que-parfait",
+          "head": [
+            "Valeur",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "antériorité par rapport à un passé",
+              "Il **était parti** quand je suis arrivé."
+            ],
+            [
+              "cause, explication",
+              "Il était fatigué : il **avait couru**."
+            ],
+            [
+              "hypothèse irréelle (après si)",
+              "Si j’**avais su**, je serais venu."
+            ],
+            [
+              "regret",
+              "Si seulement j’**avais écouté** !"
+            ]
+          ]
+        },
+        {
+          "type": "schema",
+          "title": "Antériorité dans le passé",
+          "cells": [
+            {
+              "mot": "Il était parti",
+              "role": "plus-que-parfait (action antérieure)",
+              "noyau": true
+            },
+            {
+              "mot": "quand",
+              "role": "conjonction"
+            },
+            {
+              "mot": "je suis arrivé",
+              "role": "passé composé (action repère)"
+            }
+          ],
+          "note": "Le plus-que-parfait exprime ce qui s’est passé **avant** une autre action passée."
+        }
       ]
-     ]
     },
     {
-     "type": "schema",
-     "title": "Antériorité dans le passé",
-     "cells": [
-      {
-       "mot": "Il était parti",
-       "role": "plus-que-parfait (action antérieure)",
-       "noyau": true
-      },
-      {
-       "mot": "quand",
-       "role": "conjonction"
-      },
-      {
-       "mot": "je suis arrivé",
-       "role": "passé composé (action repère)"
-      }
-     ],
-     "note": "Le plus-que-parfait exprime ce qui s’est passé **avant** une autre action passée."
+      "t": "Formation et accord du participe passé",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Le passé composé et le plus-que-parfait se forment avec un auxiliaire (*avoir* ou *être*) et un participe passé. Seul l’auxiliaire change de temps : présent pour le passé composé, imparfait pour le plus-que-parfait."
+        },
+        {
+          "type": "table",
+          "title": "Auxiliaire et accord",
+          "head": [
+            "Auxiliaire",
+            "Verbes concernés",
+            "Accord du participe"
+          ],
+          "rows": [
+            [
+              "*avoir*",
+              "la plupart des verbes",
+              "avec le COD **placé avant** le verbe : « Les fruits que j’ai **cueillis** »"
+            ],
+            [
+              "*être*",
+              "aller, venir, arriver, partir, naître, mourir, tomber, entrer, sortir, monter, descendre, rester…",
+              "avec le **sujet** : « Elles étaient **parties** »"
+            ],
+            [
+              "*être*",
+              "tous les verbes pronominaux",
+              "en général avec le sujet : « Ils s’étaient **levés** tôt »"
+            ]
+          ]
+        },
+        {
+          "type": "ex",
+          "text": "Passé composé : Elle **est arrivée**. — Plus-que-parfait : Elle **était arrivée** avant nous."
+        },
+        {
+          "type": "warn",
+          "label": "Attention",
+          "text": "Certains verbes (*monter*, *descendre*, *sortir*, *rentrer*, *passer*) prennent *avoir* quand ils ont un COD : « Il **a sorti** la voiture » mais « Il **est sorti** »."
+        }
+      ]
+    },
+    {
+      "t": "Raconter au passé : trois temps qui s’associent",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Le rôle de chaque temps dans un récit",
+          "head": [
+            "Temps",
+            "Rôle",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Passé composé",
+              "action ponctuelle, achevée, de premier plan",
+              "Soudain, la porte **a claqué**."
+            ],
+            [
+              "Imparfait",
+              "décor, habitude, action qui dure (arrière-plan)",
+              "Il **pleuvait** et la rue **était** déserte."
+            ],
+            [
+              "Plus-que-parfait",
+              "action **antérieure** à une autre action passée (explication, cause)",
+              "Il était en retard : il **avait manqué** le bus."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Retiens",
+          "text": "Le plus-que-parfait sert à **remonter en arrière** : on raconte un événement, puis on explique ce qui s’était passé avant."
+        }
+      ]
+    },
+    {
+      "t": "Le plus-que-parfait dans une phrase hypothétique",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Après *si*, le plus-que-parfait exprime une hypothèse sur le passé qui ne s’est pas réalisée (l’irréel du passé). La principale se met au **conditionnel passé**."
+        },
+        {
+          "type": "table",
+          "title": "Si + plus-que-parfait → conditionnel passé",
+          "head": [
+            "Hypothèse (si…)",
+            "Conséquence",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "plus-que-parfait",
+              "conditionnel passé",
+              "**Si j’avais étudié**, j’**aurais réussi**."
+            ],
+            [
+              "plus-que-parfait",
+              "conditionnel passé",
+              "**Si tu étais venu**, tu **aurais vu** le film."
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Pas de conditionnel après *si*",
+          "text": "On ne dit pas « Si j’aurais su ». On dit : « Si j’**avais su**, je serais venu. »"
+        },
+        {
+          "type": "p",
+          "text": "Le plus-que-parfait peut aussi exprimer un regret : « Si seulement j’**avais écouté** ! »"
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Entraîne-toi à conjuguer et à reconnaître."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Mets le verbe au temps qui convient (passé composé ou plus-que-parfait).",
+          "items": [
+            "Quand j’(arriver), il (partir) déjà.",
+            "Il (être) fatigué car il (courir).",
+            "Si tu (venir), tu aurais vu le film."
+          ],
+          "corrige": [
+            "1. suis arrivé / était parti",
+            "2. était / avait couru",
+            "3. étais venu"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Donne la valeur du temps en gras.",
+          "items": [
+            "Il **avait couru** : il était essoufflé.",
+            "Si j’**avais su**, je serais venu.",
+            "Hier, j’**ai visité** le musée."
+          ],
+          "corrige": [
+            "1. cause, explication",
+            "2. hypothèse irréelle",
+            "3. action achevée dans le passé"
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "« Il était parti quand je suis arrivé » : le plus-que-parfait exprime :",
+          "options": [
+            "la simultanéité",
+            "l’antériorité",
+            "le futur",
+            "l’habitude"
+          ],
+          "answer": 1,
+          "explain": "Il est parti avant mon arrivée : antériorité."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Mets les verbes au passé composé. Accorde le participe passé si nécessaire.",
+          "items": [
+            "Les enfants (sortir) de l’école.",
+            "Nous (voir) les films que tu nous (recommander).",
+            "Elle (se laver) les mains.",
+            "Les fleurs que tu (cueillir) sentent bon."
+          ],
+          "corrige": [
+            "1. sont sortis",
+            "2. avons vu… as recommandés (accord avec « que » = films)",
+            "3. s’est lavé les mains (COD placé après : pas d’accord)",
+            "4. as cueillies"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Choisis le temps qui convient : imparfait, passé composé ou plus-que-parfait.",
+          "items": [
+            "Quand je (arriver), le cours (commencer) déjà.",
+            "Il (faire) beau, nous (décider) de sortir.",
+            "Elle (pleurer) parce qu’elle (perdre) son livre."
+          ],
+          "corrige": [
+            "1. suis arrivé / avait déjà commencé",
+            "2. faisait / avons décidé",
+            "3. pleurait / avait perdu"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Transforme les phrases : irréel du passé.",
+          "items": [
+            "Il n’a pas étudié ; il a échoué.",
+            "Je n’ai pas pris de parapluie ; j’ai été mouillé.",
+            "Tu n’es pas venu ; tu n’as pas vu le spectacle."
+          ],
+          "corrige": [
+            "1. S’il avait étudié, il n’aurait pas échoué.",
+            "2. Si j’avais pris un parapluie, je n’aurais pas été mouillé.",
+            "3. Si tu étais venu, tu aurais vu le spectacle."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : une anecdote au passé",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Raconte en huit lignes un souvenir de voyage ou de sortie. Utilise au moins trois passés composés, trois imparfaits et deux plus-que-parfaits. Souligne-les.",
+          "items": [
+            "Pense à expliquer ce qui s’était passé avant (plus-que-parfait)."
+          ],
+          "corrige": [
+            "Proposition : C’**était** un samedi d’août. Le ciel **était** gris, car il **avait plu** toute la nuit. Nous **sommes partis** pour le fleuve. En arrivant, nous **avons découvert** que le pont **était** fermé : les ouvriers **avaient commencé** des travaux la veille. Nous **avons marché** longtemps et nous **sommes rentrés** fatigués, mais heureux."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "**Passé composé** = auxiliaire au présent + participe passé : action achevée, effet présent, antériorité par rapport au présent.",
+            "**Plus-que-parfait** = auxiliaire à l’imparfait + participe passé : antériorité dans le passé, cause, hypothèse irréelle, regret.",
+            "Le passé composé est le temps du **récit oral**."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Quel temps exprime l’hypothèse irréelle après « si » ?",
+          "options": [
+            "le passé composé",
+            "le plus-que-parfait",
+            "le présent",
+            "le futur"
+          ],
+          "answer": 1,
+          "explain": "Si j’avais su…"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Entraîne-toi à conjuguer et à reconnaître."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Mets le verbe au temps qui convient (passé composé ou plus-que-parfait).",
-     "items": [
-      "Quand j’(arriver), il (partir) déjà.",
-      "Il (être) fatigué car il (courir).",
-      "Si tu (venir), tu aurais vu le film."
-     ],
-     "corrige": [
-      "1. suis arrivé / était parti",
-      "2. était / avait couru",
-      "3. étais venu"
-     ]
-    },
-    {
-     "type": "exercise",
-     "enonce": "Donne la valeur du temps en gras.",
-     "items": [
-      "Il **avait couru** : il était essoufflé.",
-      "Si j’**avais su**, je serais venu.",
-      "Hier, j’**ai visité** le musée."
-     ],
-     "corrige": [
-      "1. cause, explication",
-      "2. hypothèse irréelle",
-      "3. action achevée dans le passé"
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "« Il était parti quand je suis arrivé » : le plus-que-parfait exprime :",
-     "options": [
-      "la simultanéité",
-      "l’antériorité",
-      "le futur",
-      "l’habitude"
-     ],
-     "answer": 1,
-     "explain": "Il est parti avant mon arrivée : antériorité."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "**Passé composé** = auxiliaire au présent + participe passé : action achevée, effet présent, antériorité par rapport au présent.",
-      "**Plus-que-parfait** = auxiliaire à l’imparfait + participe passé : antériorité dans le passé, cause, hypothèse irréelle, regret.",
-      "Le passé composé est le temps du **récit oral**."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Quel temps exprime l’hypothèse irréelle après « si » ?",
-     "options": [
-      "le passé composé",
-      "le plus-que-parfait",
-      "le présent",
-      "le futur"
-     ],
-     "answer": 1,
-     "explain": "Si j’avais su…"
-    }
-   ]
-  }
- ]
+  ]
 }

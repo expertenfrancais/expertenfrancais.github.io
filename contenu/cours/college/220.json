@@ -1,145 +1,198 @@
 {
  "id": 220,
  "meta": {
-  "t": "La transformation de la forme interrogative à la forme affirmative",
+  "t": "Le texte informatif : l’article de journal",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "f",
-  "r": 4.8
+  "n": "5e",
+  "m": "Lecture",
+  "img": "e",
+  "r": 4.8,
+  "mf": "MF5.1.2"
  },
  "sections": [
   {
-   "t": "Répondre à une question",
+   "t": "Qu’est-ce qu’un article de journal ?",
    "blocs": [
     {
      "type": "p",
-     "text": "Transformer une phrase **interrogative** en phrase **affirmative**, c’est en faire un **énoncé** qui donne l’information au lieu de la demander."
+     "text": "Chaque jour, les journaux, la radio et Internet nous informent de ce qui se passe dans notre ville, dans notre pays et dans le monde. Quand un journaliste écrit un texte pour raconter un événement réel, il rédige un **article de journal**."
+    },
+    {
+     "type": "def",
+     "label": "L’article de journal",
+     "text": "Un **article de journal** est un **texte informatif** : il rapporte un **fait réel** de façon **claire** et **objective**, pour que le lecteur soit bien informé."
     },
     {
      "type": "list",
      "items": [
-      "Rétablir l’ordre normal des mots",
-      "Supprimer les marques de la question",
-      "Remplacer le mot interrogatif par une information",
-      "Terminer par un point"
+      "Reconnaître un texte informatif",
+      "Repérer les parties d’un article de journal",
+      "Retrouver les informations essentielles",
+      "Comprendre comment le journaliste écrit"
      ],
      "label": "Objectifs"
     },
     {
+     "type": "quiz",
+     "question": "Quel est le but principal d’un article de journal ?",
+     "options": [
+      "Faire rêver le lecteur",
+      "Informer sur un fait réel",
+      "Donner des ordres",
+      "Faire rire"
+     ],
+     "answer": 1,
+     "explain": "Un article de journal sert à informer de façon claire et objective."
+    }
+   ]
+  },
+  {
+   "t": "Les parties d’un article",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les éléments d’un article de journal",
+     "head": [
+      "Élément",
+      "Rôle"
+     ],
+     "rows": [
+      [
+       "**Le titre**",
+       "court, il annonce le sujet et donne envie de lire"
+      ],
+      [
+       "**Le chapeau**",
+       "court résumé placé sous le titre (souvent en gras) qui donne l’essentiel"
+      ],
+      [
+       "**Le corps de l’article**",
+       "développe l’information : détails, précisions, témoignages"
+      ],
+      [
+       "**La signature**",
+       "nom du journaliste ; on trouve aussi la date et le lieu"
+      ],
+      [
+       "**La photo et la légende**",
+       "illustrent l’information ; la légende explique la photo"
+      ]
+     ]
+    },
+    {
      "type": "ex",
-     "text": "« Viens-tu au marché ? » → « Tu viens au marché. »"
+     "text": "**Titre** : Une journée de propreté au collège.\n**Chapeau** : Samedi, tous les élèves du collège ont nettoyé la cour et planté des arbustes.",
+     "label": "Un titre et un chapeau (exemple fictif)"
     },
     {
      "type": "quiz",
-     "question": "Quelle ponctuation termine une phrase affirmative ?",
+     "question": "Où trouve-t-on le résumé de l’essentiel d’un article ?",
      "options": [
-      "?",
-      "!",
-      "Le point",
-      "Les deux-points"
+      "Dans la signature",
+      "Dans le chapeau",
+      "Dans la légende",
+      "Dans le corps"
      ],
-     "answer": 2,
-     "explain": "Une phrase affirmative (déclarative) se termine par un **point**."
+     "answer": 1,
+     "explain": "Le chapeau est un résumé court placé sous le titre."
     }
    ]
   },
   {
-   "t": "Cas de l’interrogation totale",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Les marques à supprimer",
-     "head": [
-      "Marque de la question",
-      "Interrogative",
-      "Affirmative"
-     ],
-     "rows": [
-      [
-       "Inversion du sujet",
-       "Pars-tu demain ?",
-       "Tu pars demain."
-      ],
-      [
-       "Sujet + pronom de rappel",
-       "Paul est-il malade ?",
-       "Paul est malade."
-      ],
-      [
-       "« -t- » euphonique",
-       "Mange-t-elle du manioc ?",
-       "Elle mange du manioc."
-      ],
-      [
-       "« Est-ce que »",
-       "Est-ce que vous venez ?",
-       "Vous venez."
-      ],
-      [
-       "Intonation",
-       "Tu as fini ?",
-       "Tu as fini."
-      ]
-     ]
-    },
-    {
-     "type": "tip",
-     "label": "Astuce",
-     "text": "On efface le trait d’union, on remet le sujet **avant** le verbe, et on supprime le « t » qui n’était là que pour la prononciation."
-    },
-    {
-     "type": "warn",
-     "label": "Piège",
-     "text": "On ne garde pas « est-ce que » : on ne peut pas écrire « Est-ce que tu viens. »"
-    }
-   ]
-  },
-  {
-   "t": "Cas de l’interrogation partielle",
+   "t": "Les cinq questions et la pyramide inversée",
    "blocs": [
     {
      "type": "p",
-     "text": "Ici, le mot interrogatif réclame une réponse. Il faut **choisir une information** pour le remplacer."
+     "text": "Pour bien informer, le journaliste répond aux **cinq questions essentielles** (les « 5 W » en anglais)."
     },
     {
      "type": "table",
-     "title": "Remplacer le mot interrogatif",
+     "title": "Les questions de l’information",
      "head": [
-      "Interrogative",
-      "Affirmative possible"
+      "Question",
+      "Ce qu’on cherche"
      ],
      "rows": [
       [
-       "Où habite-t-il ?",
-       "Il habite **à Pointe-Noire**."
+       "**Qui ?**",
+       "les personnes concernées"
       ],
       [
-       "Quand pars-tu ?",
-       "Je pars **demain**."
+       "**Quoi ?**",
+       "ce qui s’est passé"
       ],
       [
-       "Pourquoi pleure-t-elle ?",
-       "Elle pleure **parce qu’elle est triste**."
+       "**Où ?**",
+       "le lieu"
       ],
       [
-       "Qui a téléphoné ?",
-       "**Mon oncle** a téléphoné."
+       "**Quand ?**",
+       "la date, le moment"
       ],
       [
-       "Que mange-t-il ?",
-       "Il mange **du poisson**."
-      ],
-      [
-       "Combien coûte ce livre ?",
-       "Ce livre coûte **mille francs**."
+       "**Pourquoi ? Comment ?**",
+       "la cause, la manière"
       ]
      ]
     },
     {
+     "type": "p",
+     "text": "On écrit souvent selon le principe de la **pyramide inversée** : on donne d’abord l’information **la plus importante**, puis les détails de moins en moins essentiels. Ainsi, même si le lecteur s’arrête, il a l’essentiel."
+    },
+    {
      "type": "tip",
-     "label": "Astuce",
-     "text": "Quand la question ne donne pas la réponse, tu peux inventer une information raisonnable : l’exercice porte sur la **forme** de la phrase."
+     "label": "À savoir",
+     "text": "Si tu ne peux lire que le titre et le chapeau, tu dois déjà connaître **qui, quoi, où et quand**."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans la pyramide inversée, par quoi commence-t-on ?",
+     "options": [
+      "Par les détails",
+      "Par l’information la plus importante",
+      "Par la conclusion",
+      "Par une histoire drôle"
+     ],
+     "answer": 1,
+     "explain": "On commence par l’essentiel, puis on ajoute les détails."
+    }
+   ]
+  },
+  {
+   "t": "Comment un journaliste écrit",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "Il écrit à la **3e personne** et reste **objectif** : il donne des faits, pas son opinion.",
+      "Il emploie surtout le **passé composé** (ou le présent) pour les faits, et l’**imparfait** pour les décors et les situations.",
+      "Il utilise un **vocabulaire précis** (dates, lieux, chiffres, noms).",
+      "Il peut citer des **témoignages** entre guillemets.",
+      "Il écrit des **phrases courtes** et claires."
+     ],
+     "label": "Les caractéristiques de l’écriture"
+    },
+    {
+     "type": "ex",
+     "text": "Samedi dernier, les élèves du collège de Mpaka ont nettoyé la cour. « Nous voulons une école propre », a déclaré le directeur.",
+     "label": "Extrait d’un article fictif"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Un article de journal **n’exprime pas d’opinion personnelle** : on ne dit pas « c’était génial ». On dit ce qui s’est passé."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase convient à un article de journal ?",
+     "options": [
+      "Je trouve que c’était super !",
+      "Samedi, les élèves ont nettoyé la cour.",
+      "Tu devrais venir !",
+      "Il était une fois…"
+     ],
+     "answer": 1,
+     "explain": "Un article rapporte des faits à la 3e personne, sans opinion personnelle."
     }
    ]
   },
@@ -148,45 +201,61 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Transforme en phrases affirmatives (interrogation totale).",
+     "enonce": "**Exercice 1** : Associe chaque élément à son rôle.",
      "items": [
-      "Aimes-tu la lecture ?",
-      "Les élèves sont-ils attentifs ?",
-      "Est-ce que tu as compris ?",
-      "Joue-t-il au ballon ?"
+      "a) le titre",
+      "b) le chapeau",
+      "c) la signature",
+      "d) la légende"
      ],
      "corrige": [
-      "1. Tu aimes la lecture.",
-      "2. Les élèves sont attentifs.",
-      "3. Tu as compris.",
-      "4. Il joue au ballon."
+      "a) annonce le sujet",
+      "b) résume l’essentiel",
+      "c) donne le nom du journaliste",
+      "d) explique la photo"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Transforme en phrases affirmatives (interrogation partielle) en inventant la réponse.",
+     "enonce": "**Exercice 2** : Lis cet extrait et réponds aux questions. *Hier matin, à Pointe-Noire, une exposition sur les métiers a ouvert ses portes au collège. Plus de deux cents élèves l’ont visitée.*",
      "items": [
-      "Où vas-tu ?",
-      "Quand arrive-t-elle ?",
-      "Que fais-tu ?"
+      "a) Qui ?",
+      "b) Quoi ?",
+      "c) Où ?",
+      "d) Quand ?"
      ],
      "corrige": [
-      "1. Je vais au marché.",
-      "2. Elle arrive ce soir.",
-      "3. Je fais mes devoirs. (réponses possibles)"
+      "a) plus de deux cents élèves",
+      "b) une exposition sur les métiers a ouvert ses portes",
+      "c) au collège, à Pointe-Noire",
+      "d) hier matin"
      ]
     },
     {
-     "type": "quiz",
-     "question": "« Parle-t-elle bien ? » devient :",
-     "options": [
-      "Elle parle-t bien.",
-      "Elle parle bien.",
-      "Parle elle bien.",
-      "Elle bien parle."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis si ces phrases conviennent à un article (A) ou non (N).",
+     "items": [
+      "a) Le match a eu lieu samedi au stade.",
+      "b) Je suis sûr que notre équipe est la meilleure !",
+      "c) Selon le directeur, vingt classes ont participé."
      ],
-     "answer": 1,
-     "explain": "On rétablit « sujet + verbe » et on supprime le « -t- »."
+     "corrige": [
+      "a) A",
+      "b) N (opinion personnelle)",
+      "c) A (témoignage)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige un titre et un chapeau pour un article sur une kermesse organisée à l’école (invente les détails).",
+     "items": [
+      "Titre",
+      "Chapeau"
+     ],
+     "corrige": [
+      "Par exemple : « Une kermesse très animée à l’école »",
+      "Par exemple : « Samedi, parents et élèves se sont retrouvés dans la cour pour la kermesse annuelle de l’école. »"
+     ]
     }
    ]
   },
@@ -197,23 +266,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Affirmative = énoncé qui se termine par un point.",
-      "Totale : on remet le sujet devant le verbe et on retire « est-ce que », le trait d’union et le « -t- ».",
-      "Partielle : on remplace le mot interrogatif par une information.",
-      "Le sens ne se limite plus à une demande : on donne l’information."
+      "Un **article de journal** est un **texte informatif** qui rapporte un fait réel.",
+      "Il comprend un **titre**, un **chapeau**, un **corps**, une **signature**, souvent une **photo** et une **légende**.",
+      "Il répond aux questions : **qui, quoi, où, quand, pourquoi/comment**.",
+      "On l’écrit selon la **pyramide inversée** : l’essentiel d’abord.",
+      "Le journaliste est **objectif** : il écrit à la 3e personne, sans opinion personnelle."
      ]
     },
     {
      "type": "quiz",
-     "question": "Quel élément disparaît dans la transformation d’« Est-ce que tu viens ? » ?",
+     "question": "Quelle question ne fait PAS partie des cinq questions de l’information ?",
      "options": [
-      "tu",
-      "viens",
-      "est-ce que",
-      "la phrase entière"
+      "Qui ?",
+      "Où ?",
+      "Combien de pages ?",
+      "Quand ?"
      ],
      "answer": 2,
-     "explain": "« Est-ce que » est une marque de l’interrogation."
+     "explain": "Les questions essentielles sont : qui, quoi, où, quand, pourquoi ou comment."
     }
    ]
   }

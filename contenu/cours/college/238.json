@@ -1,0 +1,444 @@
+{
+ "id": 238,
+ "meta": {
+  "t": "L’étude d’une œuvre : les morceaux choisis",
+  "k": "Cours",
+  "n": "3e",
+  "m": "Lecture",
+  "img": "a",
+  "r": 4.8
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un morceau choisi ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on étudie une œuvre intégrale (un roman, une pièce de théâtre, un recueil de poèmes), on ne peut pas tout analyser en détail. On **choisit des passages** importants, puis on les étudie de près : ce sont les **morceaux choisis**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir un morceau choisi et dire pourquoi on le choisit",
+      "Reconnaître les types de passages à étudier",
+      "Situer un extrait dans l’œuvre",
+      "Savoir ce que l’on cherche en étudiant un extrait"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "def",
+     "label": "Morceau choisi",
+     "text": "Un **morceau choisi** (ou **extrait**) est un **passage** d’une œuvre, choisi pour son intérêt : il éclaire un personnage, fait avancer l’action, présente un thème ou montre le style de l’auteur."
+    },
+    {
+     "type": "table",
+     "title": "Les passages les plus souvent choisis",
+     "head": [
+      "Type de passage",
+      "Ce qu’il apporte",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**L’incipit** (début)",
+       "présente le lieu, l’époque, les personnages, donne envie de lire",
+       "les premières pages du roman"
+      ],
+      [
+       "**Un portrait**",
+       "fait connaître un personnage (physique, moral)",
+       "la description d’un héros"
+      ],
+      [
+       "**Une scène importante**",
+       "un moment fort : rencontre, conflit, rupture",
+       "une dispute, une découverte"
+      ],
+      [
+       "**Un dialogue**",
+       "fait connaître les relations entre personnages",
+       "un échange entre deux héros"
+      ],
+      [
+       "**L’excipit** (fin)",
+       "donne la conclusion, le message de l’œuvre",
+       "la dernière page"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Pourquoi étudier des extraits ?",
+     "text": "L’étude d’un extrait apprend à **lire de près** : chaque mot, chaque détail a un sens. Elle prépare à l’étude de l’œuvre entière."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment appelle-t-on le tout début d’une œuvre ?",
+     "options": [
+      "l’excipit",
+      "l’incipit",
+      "l’épilogue",
+      "le résumé"
+     ],
+     "answer": 1,
+     "explain": "L’**incipit** désigne les premières lignes ou pages d’une œuvre ; l’**excipit** désigne la fin."
+    }
+   ]
+  },
+  {
+   "t": "Situer l’extrait dans l’œuvre",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Avant d’analyser un passage, il faut **le situer**. Un extrait n’a pas de sens s’il est coupé de son contexte."
+    },
+    {
+     "type": "table",
+     "title": "Les questions pour situer un extrait",
+     "head": [
+      "Question",
+      "À préciser"
+     ],
+     "rows": [
+      [
+       "**De quelle œuvre** vient l’extrait ?",
+       "le **titre**, l’**auteur**, le **genre** (roman, pièce de théâtre, recueil de poèmes), l’**époque**"
+      ],
+      [
+       "**Où** se trouve l’extrait ?",
+       "au début, au milieu ou à la fin de l’œuvre ; dans quel chapitre, quel acte, quelle partie"
+      ],
+      [
+       "**Qui** apparaît ?",
+       "les personnages présents dans le passage"
+      ],
+      [
+       "**Que s’est-il passé avant ?**",
+       "un résumé en une ou deux phrases"
+      ],
+      [
+       "**Que se passe-t-il après ?**",
+       "la conséquence de l’extrait sur la suite de l’histoire"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*Cet extrait est tiré du chapitre 3 du roman « … » de … (roman réaliste du XIXe siècle). Il se situe au début de l’histoire : le héros, qui vient d’arriver dans la ville, rencontre pour la première fois son futur ami.*",
+     "label": "Exemple de situation d’un extrait"
+    },
+    {
+     "type": "warn",
+     "label": "Erreur à éviter",
+     "text": "Ne **raconte pas toute l’histoire** ! Pour situer un extrait, quelques phrases suffisent : ce qui précède directement le passage et ce qui le suit."
+    },
+    {
+     "type": "tip",
+     "label": "Une formule utile",
+     "text": "Pour situer l’extrait, tu peux commencer par : « L’extrait étudié est tiré de … ; il se situe … ; il raconte … »"
+    },
+    {
+     "type": "quiz",
+     "question": "Pour situer un extrait, que doit-on dire en priorité ?",
+     "options": [
+      "Le prix du livre",
+      "Le titre, l’auteur et la place de l’extrait dans l’œuvre",
+      "Tout le résumé de l’œuvre",
+      "Les erreurs de l’auteur"
+     ],
+     "answer": 1,
+     "explain": "On précise l’œuvre, l’auteur et la place du passage, avec ce qui se passe avant et après."
+    }
+   ]
+  },
+  {
+   "t": "Lire, comprendre et analyser un extrait",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Étudier un extrait demande **trois étapes** : lire attentivement, comprendre le sens, puis analyser **comment** l’auteur produit son effet."
+    },
+    {
+     "type": "h",
+     "text": "1. Lire et comprendre"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Lis le passage **deux fois** au moins, à voix haute si possible.",
+      "Cherche **qui parle** et **qui est vu** (le narrateur ? un personnage ?).",
+      "Repère **le thème** : de quoi parle l’extrait ?",
+      "Découpe le texte en **mouvements** (parties) : chaque mouvement correspond à une étape (action, description, dialogue, réflexion)."
+     ],
+     "label": "Les gestes de lecture",
+     "ordered": true
+    },
+    {
+     "type": "h",
+     "text": "2. Observer le texte"
+    },
+    {
+     "type": "table",
+     "title": "Quels indices relever ?",
+     "head": [
+      "Indice",
+      "Question à se poser"
+     ],
+     "rows": [
+      [
+       "**Champs lexicaux**",
+       "Quels mots reviennent ? (peur, joie, nature, guerre…)"
+      ],
+      [
+       "**Temps des verbes**",
+       "Passé simple (action), imparfait (description), présent (vérité générale)"
+      ],
+      [
+       "**Figures de style**",
+       "Comparaison, métaphore, personnification, hyperbole : quel effet ?"
+      ],
+      [
+       "**Ponctuation**",
+       "Points d’exclamation, de suspension : quelle émotion ?"
+      ],
+      [
+       "**Point de vue**",
+       "Narrateur extérieur ou personnage ? Que sait-on des pensées ?"
+      ],
+      [
+       "**Ton (tonalité)**",
+       "Comique, tragique, ironique, lyrique, réaliste ?"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "3. Expliquer l’effet produit"
+    },
+    {
+     "type": "p",
+     "text": "Pour chaque observation, on explique **l’effet** sur le lecteur. On suit toujours la même chaîne : **relever → nommer → expliquer l’effet**."
+    },
+    {
+     "type": "ex",
+     "text": "Passage inventé : *« La nuit était noire ; le vent hurlait comme un loup affamé. Il avança, le cœur battant, les mains glacées. »* → **Relevé** : *le vent hurlait comme un loup*. **Procédé** : une **comparaison** (outil : *comme*). **Effet** : le vent paraît menaçant ; le lecteur ressent la peur du personnage. De plus, le champ lexical de la peur (*noire, hurlait, cœur battant, glacées*) renforce l’inquiétude.",
+     "label": "Exemple d’analyse"
+    },
+    {
+     "type": "warn",
+     "label": "Ne te contente pas de relever",
+     "text": "« Il y a une comparaison » ne suffit pas. Il faut **toujours** dire ce que cette comparaison **apporte** au texte."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « le vent hurlait comme un loup », quel procédé est employé ?",
+     "options": [
+      "une métaphore",
+      "une comparaison",
+      "une personnification",
+      "une hyperbole"
+     ],
+     "answer": 1,
+     "explain": "L’outil de comparaison *comme* relie le vent (comparé) au loup (comparant) : c’est une comparaison."
+    }
+   ]
+  },
+  {
+   "t": "Présenter son étude d’extrait",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une fois l’extrait compris et analysé, il faut **présenter son étude**, à l’oral ou à l’écrit. On suit un **plan en trois temps**."
+    },
+    {
+     "type": "table",
+     "title": "Le plan d’une étude d’extrait",
+     "head": [
+      "Partie",
+      "Contenu"
+     ],
+     "rows": [
+      [
+       "**Introduction**",
+       "situer l’extrait (auteur, œuvre, place dans l’œuvre), dire le thème, annoncer les mouvements"
+      ],
+      [
+       "**Développement**",
+       "étudier chaque mouvement : relever des indices, nommer les procédés, expliquer leurs effets"
+      ],
+      [
+       "**Conclusion**",
+       "répondre à la question « Pourquoi ce passage est-il important ? » ; faire le lien avec l’ensemble de l’œuvre"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les liens avec l’œuvre entière"
+    },
+    {
+     "type": "p",
+     "text": "Un bon commentaire **ne reste pas enfermé** dans l’extrait. Il rattache le passage à l’œuvre : un **thème** qui revient, un **personnage** qui évolue, un **événement** qui annonce la suite."
+    },
+    {
+     "type": "ex",
+     "text": "*Ce passage montre le courage du héros ; il annonce déjà la décision qu’il prendra plus loin dans le roman.*",
+     "label": "Exemple de lien avec l’œuvre"
+    },
+    {
+     "type": "tip",
+     "label": "À l’oral",
+     "text": "Parle **lentement**, regarde ton auditoire, appuie-toi sur des **citations courtes** du texte (entre guillemets) et explique-les toujours."
+    },
+    {
+     "type": "warn",
+     "label": "Citations",
+     "text": "On cite le texte **fidèlement**, entre guillemets « … », puis on commente. Une citation sans explication ne sert à rien."
+    },
+    {
+     "type": "quiz",
+     "question": "Que doit contenir la conclusion d’une étude d’extrait ?",
+     "options": [
+      "Un nouveau résumé complet",
+      "L’importance du passage et son lien avec l’œuvre",
+      "Les erreurs du texte",
+      "Une liste de mots difficiles"
+     ],
+     "answer": 1,
+     "explain": "La conclusion dit pourquoi le passage est important et le relie à l’œuvre entière."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un court texte inventé pour s’entraîner : *« Le soleil se levait à peine sur le village. Amadou, le cœur léger, ouvrit la porte de la maison et respira l’air frais du matin. Les oiseaux chantaient comme à la fête. Il avait enfin décidé de partir à la ville : il serait peut-être pauvre, mais il serait libre ! »*"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Questions de compréhension sur le texte ci-dessus.",
+     "items": [
+      "Quel est le personnage principal ?",
+      "Où et quand se passe la scène ?",
+      "Quelle décision Amadou a-t-il prise ?",
+      "Quels sentiments éprouve-t-il ?"
+     ],
+     "corrige": [
+      "1. Amadou.",
+      "2. Dans un village, au lever du soleil (le matin).",
+      "3. Partir à la ville.",
+      "4. Le bonheur, l’espoir, le désir de liberté (« le cœur léger », « libre »)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relève dans le texte une comparaison et un champ lexical.",
+     "items": [
+      "La comparaison :",
+      "Un champ lexical (donne 3 mots) :"
+     ],
+     "corrige": [
+      "1. Les oiseaux chantaient **comme à la fête**.",
+      "2. Le bonheur : *le cœur léger*, *chantaient*, *à la fête*, *libre* (ou : le matin : *soleil, se levait, air frais, matin*)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Explique l’effet produit par chaque procédé.",
+     "items": [
+      "La comparaison « chantaient comme à la fête »",
+      "Le point d’exclamation final"
+     ],
+     "corrige": [
+      "1. Elle montre que la nature se réjouit avec Amadou ; l’atmosphère est joyeuse.",
+      "2. Il exprime l’enthousiasme et la fierté du personnage devant sa décision."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Rédige trois ou quatre phrases pour situer l’extrait (œuvre imaginaire).",
+     "items": [
+      "Utilise : « L’extrait est tiré de … ; il se situe … ; il raconte … »."
+     ],
+     "corrige": [
+      "Exemple de corrigé : L’extrait est tiré du début d’un roman imaginaire. Il se situe au chapitre 1 : le héros, Amadou, vit dans un village. Il raconte la décision d’Amadou de partir pour la ville. Cette décision lance l’histoire."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le thème principal de l’extrait d’Amadou ?",
+     "options": [
+      "la peur de la nuit",
+      "le désir de liberté et de changement de vie",
+      "la guerre",
+      "la maladie"
+     ],
+     "answer": 1,
+     "explain": "Amadou quitte son village par désir de liberté : c’est le thème du départ et du changement de vie."
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Un **morceau choisi** est un passage important d’une œuvre intégrale : incipit, portrait, scène, dialogue, excipit.",
+      "On **situe** toujours l’extrait : œuvre, auteur, place dans l’œuvre, ce qui précède et ce qui suit.",
+      "Pour analyser : **relever** un indice, **nommer** le procédé (champ lexical, comparaison, métaphore, ponctuation, temps…), **expliquer l’effet** sur le lecteur.",
+      "On présente l’étude en **trois temps** : introduction (situer, annoncer), développement (mouvements), conclusion (importance, lien avec l’œuvre).",
+      "On **cite** fidèlement le texte entre guillemets et on **commente** chaque citation."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Récapitulatif",
+     "head": [
+      "Étape",
+      "Je fais",
+      "Question clé"
+     ],
+     "rows": [
+      [
+       "Situer",
+       "Je présente l’œuvre et la place du passage",
+       "Où ? Qui ? Avant ? Après ?"
+      ],
+      [
+       "Comprendre",
+       "Je repère le thème et les mouvements",
+       "De quoi parle ce passage ?"
+      ],
+      [
+       "Analyser",
+       "Je relève, je nomme, j’explique",
+       "Quel effet sur le lecteur ?"
+      ],
+      [
+       "Conclure",
+       "Je dis l’importance du passage",
+       "Quel lien avec l’œuvre ?"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la bonne chaîne d’analyse ?",
+     "options": [
+      "résumer → recopier → conclure",
+      "relever → nommer → expliquer l’effet",
+      "lire → fermer le livre → conclure",
+      "nommer → résumer → relever"
+     ],
+     "answer": 1,
+     "explain": "On relève un indice, on nomme le procédé, puis on explique l’effet produit."
+    }
+   ]
+  }
+ ]
+}

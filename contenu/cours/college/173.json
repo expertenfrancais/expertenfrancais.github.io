@@ -120,6 +120,82 @@
    ]
   },
   {
+   "t": "Construire un champ lexical complet",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Un thème, plusieurs natures de mots",
+     "head": [
+      "Thème",
+      "Noms",
+      "Verbes",
+      "Adjectifs"
+     ],
+     "rows": [
+      [
+       "la peur",
+       "frayeur, terreur",
+       "trembler, fuir",
+       "terrifié, craintif"
+      ],
+      [
+       "la joie",
+       "bonheur, rire",
+       "sourire, danser",
+       "heureux, ravi"
+      ],
+      [
+       "le marché",
+       "étal, vendeur, prix",
+       "acheter, vendre",
+       "bon marché, frais"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Un seul thème",
+     "text": "Tous les mots d’un champ lexical se rapportent au **même thème**, mais ils n’ont pas la même nature (noms, verbes, adjectifs)."
+    }
+   ]
+  },
+  {
+   "t": "Plusieurs sens, plusieurs champs",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Polysémie",
+     "head": [
+      "Mot",
+      "Champ 1",
+      "Champ 2"
+     ],
+     "rows": [
+      [
+       "carte",
+       "la géographie : une carte de l’Afrique",
+       "les jeux : une carte à jouer"
+      ],
+      [
+       "feuille",
+       "la nature : une feuille d’arbre",
+       "l’école : une feuille de papier"
+      ],
+      [
+       "pile",
+       "l’électricité : une pile",
+       "le jeu de pile ou face"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "label": "Piège",
+     "text": "Un mot peut appartenir à **plusieurs** champs sémantiques : seul le contexte permet de savoir lequel est visé."
+    }
+   ]
+  },
+  {
    "t": "Exercices d’application",
    "blocs": [
     {
@@ -169,6 +245,59 @@
    ]
   },
   {
+   "t": "Exercices de perfectionnement",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis ce texte : « La nuit tombait. Le vent glacé sifflait entre les arbres. Karim tremblait, le cœur battant. »"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Analyse le texte.",
+     "items": [
+      "Quel champ lexical domine ?",
+      "Relève trois mots qui l’illustrent.",
+      "Quel est l’effet produit ?"
+     ],
+     "corrige": [
+      "1. la peur",
+      "2. tremblait, cœur battant, nuit, vent glacé",
+      "3. une atmosphère inquiétante"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Classe les mots dans le bon champ lexical (école ou marché).",
+     "items": [
+      "étal",
+      "cahier",
+      "vendeur",
+      "tableau",
+      "acheter"
+     ],
+     "corrige": [
+      "école : cahier, tableau",
+      "marché : étal, vendeur, acheter"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "Rédiger un paragraphe avec un champ lexical",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Écris un paragraphe de quatre phrases avec le champ lexical de la joie.",
+     "items": [
+      "Emploie au moins cinq mots de la joie."
+     ],
+     "corrige": [
+      "Proposition : Le jour de la fête, le village était **heureux**. Les enfants **riaient**, **dansaient** et **chantaient**. Partout, on entendait des **éclats de joie**. Chacun repartit **ravi** de cette belle journée."
+     ]
+    }
+   ]
+  },
+  {
    "t": "À retenir",
    "blocs": [
     {
@@ -178,7 +307,9 @@
       "**Champ lexical** : ensemble de mots d’un même **thème** (mer, école, peur).",
       "**Champ sémantique** : ensemble des **sens** d’un mot polysémique.",
       "Champ lexical ≠ famille de mots.",
-      "Le **contexte** permet de choisir le bon sens d’un mot."
+      "Le **contexte** permet de choisir le bon sens d’un mot.",
+      "Un champ lexical regroupe des **mots d’un même thème** (noms, verbes, adjectifs).",
+      "Un mot **polysémique** appartient à plusieurs champs sémantiques."
      ]
     },
     {

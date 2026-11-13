@@ -1,210 +1,393 @@
 {
- "id": 193,
- "meta": {
-  "t": "La clarification d’une valeur",
-  "k": "Cours",
-  "n": "3e",
-  "m": "Expression écrite",
-  "img": "b",
-  "r": 4.8
- },
- "sections": [
-  {
-   "t": "Qu’est-ce qu’une valeur ?",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "L’**honnêteté**, le **courage**, la **solidarité**, le **respect**… Ce sont des **valeurs** : des idées morales qui guident notre comportement. **Clarifier une valeur**, c’est la **définir**, l’**illustrer** et expliquer son **importance**."
-    },
-    {
-     "type": "list",
-     "label": "Objectifs",
-     "items": [
-      "Définir une valeur",
-      "Donner des exemples concrets",
-      "Opposer la valeur à son contraire",
-      "Rédiger un court texte clair"
-     ]
-    },
-    {
-     "type": "def",
-     "label": "Valeur",
-     "text": "Une **valeur** est un principe moral (honnêteté, courage, solidarité…) qui indique ce qui est **bien** et **important** dans la vie en société."
-    },
-    {
-     "type": "quiz",
-     "question": "Quelle est une valeur ?",
-     "options": [
-      "la table",
-      "la solidarité",
-      "le crayon",
-      "le lundi"
-     ],
-     "answer": 1,
-     "explain": "La solidarité est une valeur morale."
-    }
-   ]
+  "id": 193,
+  "meta": {
+    "t": "La clarification d’une valeur",
+    "k": "Cours",
+    "n": "3e",
+    "m": "Expression écrite",
+    "img": "b",
+    "r": 4.8
   },
-  {
-   "t": "La méthode",
-   "blocs": [
+  "sections": [
     {
-     "type": "table",
-     "title": "Les étapes de la clarification",
-     "head": [
-      "Étape",
-      "Question",
-      "Exemple (l’honnêteté)"
-     ],
-     "rows": [
-      [
-       "1. définir",
-       "Qu’est-ce que c’est ?",
-       "Dire la vérité et ne pas voler."
-      ],
-      [
-       "2. illustrer",
-       "Comment la reconnaît-on ?",
-       "Rendre un objet trouvé à son propriétaire."
-      ],
-      [
-       "3. opposer",
-       "Quel est son contraire ?",
-       "Le mensonge, la tricherie."
-      ],
-      [
-       "4. justifier",
-       "Pourquoi est-elle importante ?",
-       "Elle crée la confiance entre les personnes."
-      ],
-      [
-       "5. conclure",
-       "Que retenir ?",
-       "Être honnête, c’est mériter le respect."
+      "t": "Qu’est-ce qu’une valeur ?",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "L’**honnêteté**, le **courage**, la **solidarité**, le **respect**… Ce sont des **valeurs** : des idées morales qui guident notre comportement. **Clarifier une valeur**, c’est la **définir**, l’**illustrer** et expliquer son **importance**."
+        },
+        {
+          "type": "list",
+          "label": "Objectifs",
+          "items": [
+            "Définir une valeur",
+            "Donner des exemples concrets",
+            "Opposer la valeur à son contraire",
+            "Rédiger un court texte clair"
+          ]
+        },
+        {
+          "type": "def",
+          "label": "Valeur",
+          "text": "Une **valeur** est un principe moral (honnêteté, courage, solidarité…) qui indique ce qui est **bien** et **important** dans la vie en société."
+        },
+        {
+          "type": "quiz",
+          "question": "Quelle est une valeur ?",
+          "options": [
+            "la table",
+            "la solidarité",
+            "le crayon",
+            "le lundi"
+          ],
+          "answer": 1,
+          "explain": "La solidarité est une valeur morale."
+        }
       ]
-     ]
     },
     {
-     "type": "tip",
-     "label": "Phrases utiles",
-     "text": "« L’honnêteté, c’est… » ; « On reconnaît quelqu’un d’honnête quand… » ; « Le contraire de… est… » ; « Cette valeur est importante parce que… »"
-    }
-   ]
-  },
-  {
-   "t": "Quelques valeurs à clarifier",
-   "blocs": [
-    {
-     "type": "table",
-     "title": "Valeurs et contraires",
-     "head": [
-      "Valeur",
-      "Contraire",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "honnêteté",
-       "mensonge, tricherie",
-       "Rendre ce que l’on a trouvé."
-      ],
-      [
-       "courage",
-       "lâcheté",
-       "Défendre un camarade injustement accusé."
-      ],
-      [
-       "solidarité",
-       "égoïsme",
-       "Aider un voisin en difficulté."
-      ],
-      [
-       "respect",
-       "mépris",
-       "Écouter les autres sans les moquer."
-      ],
-      [
-       "travail",
-       "paresse",
-       "Faire ses devoirs chaque jour."
+      "t": "La méthode",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Les étapes de la clarification",
+          "head": [
+            "Étape",
+            "Question",
+            "Exemple (l’honnêteté)"
+          ],
+          "rows": [
+            [
+              "1. définir",
+              "Qu’est-ce que c’est ?",
+              "Dire la vérité et ne pas voler."
+            ],
+            [
+              "2. illustrer",
+              "Comment la reconnaît-on ?",
+              "Rendre un objet trouvé à son propriétaire."
+            ],
+            [
+              "3. opposer",
+              "Quel est son contraire ?",
+              "Le mensonge, la tricherie."
+            ],
+            [
+              "4. justifier",
+              "Pourquoi est-elle importante ?",
+              "Elle crée la confiance entre les personnes."
+            ],
+            [
+              "5. conclure",
+              "Que retenir ?",
+              "Être honnête, c’est mériter le respect."
+            ]
+          ]
+        },
+        {
+          "type": "tip",
+          "label": "Phrases utiles",
+          "text": "« L’honnêteté, c’est… » ; « On reconnaît quelqu’un d’honnête quand… » ; « Le contraire de… est… » ; « Cette valeur est importante parce que… »"
+        }
       ]
-     ]
+    },
+    {
+      "t": "Quelques valeurs à clarifier",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Valeurs et contraires",
+          "head": [
+            "Valeur",
+            "Contraire",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "honnêteté",
+              "mensonge, tricherie",
+              "Rendre ce que l’on a trouvé."
+            ],
+            [
+              "courage",
+              "lâcheté",
+              "Défendre un camarade injustement accusé."
+            ],
+            [
+              "solidarité",
+              "égoïsme",
+              "Aider un voisin en difficulté."
+            ],
+            [
+              "respect",
+              "mépris",
+              "Écouter les autres sans les moquer."
+            ],
+            [
+              "travail",
+              "paresse",
+              "Faire ses devoirs chaque jour."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Définir une valeur",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Clarifier une valeur, c’est d’abord expliquer ce qu’elle signifie avec des mots précis."
+        },
+        {
+          "type": "table",
+          "title": "Des formules de définition",
+          "head": [
+            "Formule",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "« La … est … »",
+              "La **solidarité** est le fait de s’entraider dans les difficultés."
+            ],
+            [
+              "« On appelle … »",
+              "**On appelle** honnêteté la qualité de celui qui dit la vérité et respecte le bien d’autrui."
+            ],
+            [
+              "« Être …, c’est … »",
+              "**Être courageux, c’est** agir malgré la peur."
+            ],
+            [
+              "« … consiste à … »",
+              "Le respect **consiste à** reconnaître la dignité de chacun."
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Ne pas tourner en rond",
+          "text": "Ne définis pas la valeur par le même mot : « La générosité, c’est être généreux » ne dit rien. Utilise des mots nouveaux."
+        }
+      ]
+    },
+    {
+      "t": "Valeur et contre-valeur",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Chaque valeur a son contraire",
+          "head": [
+            "Valeur",
+            "Contre-valeur",
+            "Idée clé"
+          ],
+          "rows": [
+            [
+              "Honnêteté",
+              "mensonge, tricherie",
+              "dire la vérité, ne pas voler"
+            ],
+            [
+              "Courage",
+              "lâcheté",
+              "affronter la peur pour une bonne cause"
+            ],
+            [
+              "Solidarité",
+              "égoïsme",
+              "aider les autres"
+            ],
+            [
+              "Tolérance",
+              "intolérance",
+              "accepter les différences"
+            ],
+            [
+              "Respect",
+              "mépris",
+              "reconnaître la dignité de l’autre"
+            ],
+            [
+              "Générosité",
+              "avarice",
+              "donner sans rien attendre"
+            ]
+          ]
+        },
+        {
+          "type": "warn",
+          "label": "Courage ou témérité ?",
+          "text": "Le courage est réfléchi ; la **témérité** est imprudente. Le courage n’est pas l’absence de peur : c’est la capacité d’agir malgré elle."
+        }
+      ]
+    },
+    {
+      "t": "Un paragraphe complet de clarification",
+      "blocs": [
+        {
+          "type": "table",
+          "title": "Le plan",
+          "head": [
+            "Étape",
+            "Contenu"
+          ],
+          "rows": [
+            [
+              "1. Définir",
+              "expliquer la valeur avec des mots précis"
+            ],
+            [
+              "2. Illustrer",
+              "donner un ou deux exemples concrets"
+            ],
+            [
+              "3. Justifier",
+              "dire pourquoi la valeur est importante"
+            ],
+            [
+              "4. Conclure",
+              "reprendre l’idée essentielle"
+            ]
+          ]
+        },
+        {
+          "type": "ex",
+          "text": "La **tolérance** consiste à accepter que d’autres personnes pensent, parlent ou vivent autrement que nous. Par exemple, à l’école, un élève tolérant ne se moque pas de l’accent d’un camarade venu d’une autre région. La tolérance est essentielle, car elle permet de vivre ensemble sans violence. En un mot, être tolérant, c’est respecter la différence.",
+          "label": "Modèle"
+        }
+      ]
+    },
+    {
+      "t": "Exercices d’application",
+      "blocs": [
+        {
+          "type": "p",
+          "text": "Entraîne-toi à clarifier."
+        },
+        {
+          "type": "exercise",
+          "enonce": "Associe chaque valeur à son contraire.",
+          "items": [
+            "honnêteté",
+            "courage",
+            "solidarité",
+            "respect"
+          ],
+          "corrige": [
+            "1. mensonge",
+            "2. lâcheté",
+            "3. égoïsme",
+            "4. mépris"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Rédige trois phrases pour clarifier la solidarité (définition, exemple, importance).",
+          "items": [
+            "Rédaction"
+          ],
+          "corrige": [
+            "Exemple : La solidarité, c’est aider les autres sans rien attendre. Par exemple, on partage son goûter avec un camarade qui n’en a pas. Cette valeur est importante parce qu’elle rend la vie en groupe plus douce."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Le contraire du courage est :",
+          "options": [
+            "la lâcheté",
+            "la joie",
+            "la patience",
+            "l’amitié"
+          ],
+          "answer": 0,
+          "explain": "Le contraire du courage est la lâcheté."
+        }
+      ]
+    },
+    {
+      "t": "Exercices de perfectionnement",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Définis chaque valeur en une phrase, avec une formule.",
+          "items": [
+            "l’honnêteté",
+            "la solidarité",
+            "le respect"
+          ],
+          "corrige": [
+            "Propositions : 1. L’honnêteté est la qualité de celui qui dit la vérité et ne prend pas le bien d’autrui. 2. Être solidaire, c’est aider les autres, surtout quand ils sont en difficulté. 3. Le respect consiste à reconnaître la valeur et la dignité de chacun."
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Donne la contre-valeur et un exemple de comportement.",
+          "items": [
+            "le courage",
+            "la tolérance",
+            "la générosité"
+          ],
+          "corrige": [
+            "1. lâcheté : fuir quand un camarade est menacé",
+            "2. intolérance : se moquer de la religion ou de la langue d’un autre",
+            "3. avarice (ou égoïsme) : refuser de partager sa nourriture"
+          ]
+        },
+        {
+          "type": "exercise",
+          "enonce": "Remets dans l’ordre les étapes d’un paragraphe : « Conclure ; Définir ; Justifier ; Illustrer ».",
+          "items": [
+            "Écris la bonne suite."
+          ],
+          "corrige": [
+            "Définir → Illustrer → Justifier → Conclure"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Rédiger : clarifier une valeur",
+      "blocs": [
+        {
+          "type": "exercise",
+          "enonce": "Rédige un paragraphe de 8 lignes pour clarifier la valeur « solidarité ».",
+          "items": [
+            "Respecte le plan en quatre étapes."
+          ],
+          "corrige": [
+            "Proposition : La **solidarité** est l’entraide entre les personnes, surtout dans les moments difficiles. Par exemple, quand un voisin perd sa maison dans un incendie, tout le quartier lui apporte de la nourriture et des vêtements. La solidarité est importante, car personne ne peut tout faire seul : en s’aidant, on devient plus forts. Le contraire de la solidarité est l’égoïsme, qui isole et divise. En somme, être solidaire, c’est refuser l’indifférence."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "À retenir",
+      "blocs": [
+        {
+          "type": "retenir",
+          "label": "À retenir",
+          "items": [
+            "Une **valeur** est un principe moral (honnêteté, courage, solidarité, respect…).",
+            "Clarifier = **définir, illustrer, opposer au contraire, justifier, conclure**.",
+            "Utiliser des **exemples concrets** de la vie quotidienne.",
+            "Rédiger avec des phrases **claires** et des **connecteurs**."
+          ]
+        },
+        {
+          "type": "quiz",
+          "question": "Pour clarifier une valeur, on commence par :",
+          "options": [
+            "l’exemple",
+            "la définition",
+            "la conclusion",
+            "le contraire"
+          ],
+          "answer": 1,
+          "explain": "On commence par définir la valeur."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "t": "Exercices d’application",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "Entraîne-toi à clarifier."
-    },
-    {
-     "type": "exercise",
-     "enonce": "Associe chaque valeur à son contraire.",
-     "items": [
-      "honnêteté",
-      "courage",
-      "solidarité",
-      "respect"
-     ],
-     "corrige": [
-      "1. mensonge",
-      "2. lâcheté",
-      "3. égoïsme",
-      "4. mépris"
-     ]
-    },
-    {
-     "type": "exercise",
-     "enonce": "Rédige trois phrases pour clarifier la solidarité (définition, exemple, importance).",
-     "items": [
-      "Rédaction"
-     ],
-     "corrige": [
-      "Exemple : La solidarité, c’est aider les autres sans rien attendre. Par exemple, on partage son goûter avec un camarade qui n’en a pas. Cette valeur est importante parce qu’elle rend la vie en groupe plus douce."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Le contraire du courage est :",
-     "options": [
-      "la lâcheté",
-      "la joie",
-      "la patience",
-      "l’amitié"
-     ],
-     "answer": 0,
-     "explain": "Le contraire du courage est la lâcheté."
-    }
-   ]
-  },
-  {
-   "t": "À retenir",
-   "blocs": [
-    {
-     "type": "retenir",
-     "label": "À retenir",
-     "items": [
-      "Une **valeur** est un principe moral (honnêteté, courage, solidarité, respect…).",
-      "Clarifier = **définir, illustrer, opposer au contraire, justifier, conclure**.",
-      "Utiliser des **exemples concrets** de la vie quotidienne.",
-      "Rédiger avec des phrases **claires** et des **connecteurs**."
-     ]
-    },
-    {
-     "type": "quiz",
-     "question": "Pour clarifier une valeur, on commence par :",
-     "options": [
-      "l’exemple",
-      "la définition",
-      "la conclusion",
-      "le contraire"
-     ],
-     "answer": 1,
-     "explain": "On commence par définir la valeur."
-    }
-   ]
-  }
- ]
+  ]
 }

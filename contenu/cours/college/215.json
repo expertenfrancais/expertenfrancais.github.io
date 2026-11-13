@@ -1,140 +1,263 @@
 {
  "id": 215,
  "meta": {
-  "t": "La concordance des temps : les deux cas",
+  "t": "L’écriture des verbes en -yer",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "b",
-  "r": 4.8
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8,
+  "mf": "MF5.3.1"
  },
  "sections": [
   {
-   "t": "Deux cas à distinguer",
+   "t": "Reconnaître les verbes en -yer",
    "blocs": [
     {
      "type": "p",
-     "text": "Dans une phrase complexe, le temps du verbe de la **subordonnée** dépend du temps du verbe de la **principale**. C’est la **concordance des temps**. Tout dépend d’une question : le verbe de la principale est-il au **présent** ou au **passé** ?"
+     "text": "Compare : *nous nettoyons* et *je nettoie*. Le même verbe, **nettoyer**, s’écrit avec un **y** dans un cas et avec un **i** dans l’autre. Les verbes en **-yer** (*nettoyer, appuyer, envoyer, payer, essayer…*) ont une orthographe particulière."
     },
     {
      "type": "list",
      "items": [
-      "Distinguer le cas du verbe principal au présent et celui du verbe principal au passé",
-      "Choisir le bon temps dans la subordonnée",
-      "Corriger des erreurs de concordance"
+      "Reconnaître les verbes en -oyer, -uyer et -ayer",
+      "Savoir quand le y devient i",
+      "Écrire correctement ces verbes à plusieurs temps",
+      "Éviter les erreurs avec nous et vous à l’imparfait"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "def",
-     "label": "Concordance des temps",
-     "text": "C’est l’accord logique entre le temps de la proposition principale et celui de la subordonnée, selon que l’action est **antérieure**, **simultanée** ou **postérieure**."
-    },
-    {
-     "type": "quiz",
-     "question": "Dans « Je pense qu’il viendra demain », le verbe principal est :",
-     "options": [
-      "au passé",
-      "au présent",
-      "au futur",
-      "à l’imparfait"
-     ],
-     "answer": 1,
-     "explain": "« Je pense » est au présent."
-    }
-   ]
-  },
-  {
-   "t": "Premier cas : la principale est au présent",
-   "blocs": [
-    {
      "type": "table",
-     "title": "Principale au présent (axe : maintenant)",
+     "title": "Les trois familles de verbes en -yer",
      "head": [
-      "Rapport de temps",
-      "Temps de la subordonnée",
-      "Exemple"
+      "Terminaison",
+      "Exemples"
      ],
      "rows": [
       [
-       "Simultanéité",
-       "présent",
-       "Je vois que tu **travailles**."
+       "**-oyer**",
+       "*nettoyer, employer, envoyer, tutoyer*"
       ],
       [
-       "Antériorité",
-       "passé composé (ou imparfait, passé simple à l’écrit)",
-       "Je sais qu’il **est parti** hier."
+       "**-uyer**",
+       "*appuyer, essuyer, ennuyer*"
       ],
       [
-       "Postériorité",
-       "futur simple",
-       "J’espère qu’elle **viendra** demain."
+       "**-ayer**",
+       "*payer, essayer, balayer*"
       ]
      ]
     },
     {
-     "type": "tip",
-     "label": "Astuce",
-     "text": "Quand la principale est au présent, on garde les temps du présent : présent, passé composé, futur."
+     "type": "quiz",
+     "question": "Quel verbe se termine par -uyer ?",
+     "options": [
+      "payer",
+      "appuyer",
+      "employer",
+      "essayer"
+     ],
+     "answer": 1,
+     "explain": "« Appuyer » se termine par -uyer."
     }
    ]
   },
   {
-   "t": "Deuxième cas : la principale est au passé",
+   "t": "Le y devient i devant un e muet",
    "blocs": [
     {
+     "type": "def",
+     "label": "La règle",
+     "text": "Dans les verbes en **-oyer** et **-uyer**, le **y** se transforme en **i** quand il est suivi d’un **e muet** (c’est-à-dire d’une terminaison qu’on n’entend pas ou presque : *-e, -es, -ent*, et aussi au futur et au conditionnel)."
+    },
+    {
      "type": "table",
-     "title": "Principale au passé (axe : un moment du passé)",
+     "title": "Nettoyer au présent de l’indicatif",
      "head": [
-      "Rapport de temps",
-      "Temps de la subordonnée",
-      "Exemple"
+      "Personne",
+      "Forme",
+      "Pourquoi"
      ],
      "rows": [
       [
-       "Simultanéité",
-       "imparfait",
-       "Je voyais que tu **travaillais**."
+       "je",
+       "**nettoie**",
+       "e muet : y → i"
       ],
       [
-       "Antériorité",
-       "plus-que-parfait",
-       "Je savais qu’il **était parti** la veille."
+       "tu",
+       "**nettoies**",
+       "e muet : y → i"
       ],
       [
-       "Postériorité",
-       "conditionnel présent",
-       "J’espérais qu’elle **viendrait** le lendemain."
+       "il / elle",
+       "**nettoie**",
+       "e muet : y → i"
+      ],
+      [
+       "nous",
+       "**nettoyons**",
+       "on entend le son [j] : y reste"
+      ],
+      [
+       "vous",
+       "**nettoyez**",
+       "on entend le son [j] : y reste"
+      ],
+      [
+       "ils / elles",
+       "**nettoient**",
+       "e muet : y → i"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **appuie** sur le bouton. Ils **appuient** sur le bouton. Nous **appuyons** sur le bouton.",
+     "label": "Avec appuyer"
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si tu entends le son [j] (comme dans *rayon*), il y a un **y**. Si tu n’entends pas ce son, c’est un **i**."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on « tu (nettoyer) » au présent ?",
+     "options": [
+      "tu nettoye",
+      "tu nettoie",
+      "tu nettoies",
+      "tu nettoyes"
+     ],
+     "answer": 2,
+     "explain": "Devant la terminaison muette -es, le y devient i : tu nettoies."
+    }
+   ]
+  },
+  {
+   "t": "Le futur, le conditionnel et l’imparfait",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Nettoyer et envoyer à d’autres temps",
+     "head": [
+      "Temps",
+      "Nettoyer",
+      "Envoyer"
+     ],
+     "rows": [
+      [
+       "Futur simple",
+       "je **nettoierai**",
+       "j’**enverrai**"
+      ],
+      [
+       "Conditionnel présent",
+       "je **nettoierais**",
+       "j’**enverrais**"
+      ],
+      [
+       "Imparfait (je)",
+       "je **nettoyais**",
+       "j’**envoyais**"
+      ],
+      [
+       "Imparfait (nous)",
+       "nous **nettoyions**",
+       "nous **envoyions**"
+      ],
+      [
+       "Imparfait (vous)",
+       "vous **nettoyiez**",
+       "vous **envoyiez**"
+      ],
+      [
+       "Impératif",
+       "**nettoie**, nettoyons, nettoyez",
+       "**envoie**, envoyons, envoyez"
       ]
      ]
     },
     {
      "type": "warn",
-     "label": "Piège fréquent",
-     "text": "Au passé, le futur devient **conditionnel présent** : « Il a dit qu’il **viendra** » est une erreur ; on écrit « Il a dit qu’il **viendrait** »."
+     "label": "Piège de l’imparfait",
+     "text": "À l’imparfait, avec *nous* et *vous*, on écrit **y puis i** : *nous nettoyions, vous nettoyiez*. Le y vient du radical, le i vient de la terminaison -ions, -iez."
+    },
+    {
+     "type": "warn",
+     "label": "Un cas à part : envoyer",
+     "text": "Le verbe *envoyer* est irrégulier au futur et au conditionnel : *j’enverrai, j’enverrais* (et non « j’envoierai »)."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on « nous (essuyer) » à l’imparfait ?",
+     "options": [
+      "nous essuyons",
+      "nous essuyions",
+      "nous essuions",
+      "nous essuiyons"
+     ],
+     "answer": 1,
+     "explain": "Imparfait avec nous : radical essuy- + terminaison -ions = essuyions."
+    }
+   ]
+  },
+  {
+   "t": "Les verbes en -ayer et les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour les verbes en **-ayer** (*payer, essayer, balayer*), le **y** peut devenir **i**, mais il peut aussi **rester** : les deux orthographes sont admises."
     },
     {
      "type": "table",
-     "title": "Le même message dans les deux cas",
+     "title": "Payer au présent",
      "head": [
-      "Principale au présent",
-      "Principale au passé"
+      "Personne",
+      "Deux formes possibles"
      ],
      "rows": [
       [
-       "Il dit qu’il pleut.",
-       "Il disait qu’il pleuvait."
+       "je",
+       "je **paie** ou je **paye**"
       ],
       [
-       "Il dit qu’il a plu.",
-       "Il disait qu’il avait plu."
+       "il",
+       "il **paie** ou il **paye**"
       ],
       [
-       "Il dit qu’il pleuvra.",
-       "Il disait qu’il pleuvrait."
+       "nous",
+       "nous **payons**"
+      ],
+      [
+       "ils",
+       "ils **paient** ou ils **payent**"
       ]
      ]
+    },
+    {
+     "type": "ex",
+     "text": "Il **essaie** (ou *essaye*) de réparer sa bicyclette. Demain, nous **essaierons** (ou *essayerons*) encore.",
+     "label": "Avec essayer"
+    },
+    {
+     "type": "warn",
+     "label": "Attention",
+     "text": "Ne confonds pas les terminaisons : *nous payons* (présent) et *nous payions* (imparfait). Avec -ayer comme avec les autres verbes, **choisis une orthographe et garde-la** dans tout ton texte."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle forme est correcte pour « ils (envoyer) » au présent ?",
+     "options": [
+      "ils envoyent",
+      "ils envoient",
+      "ils envoyaient",
+      "ils envoiyent"
+     ],
+     "answer": 1,
+     "explain": "Devant la terminaison muette -ent, le y devient i : ils envoient."
     }
    ]
   },
@@ -143,45 +266,67 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Complète avec le temps qui convient.",
+     "enonce": "**Exercice 1** : Conjugue les verbes au présent de l’indicatif.",
      "items": [
-      "Je sais que tu (réussir) demain. (principale au présent)",
-      "Il m’a dit qu’il (finir) son travail la veille.",
-      "Elle pensait que nous (arriver) le lendemain.",
-      "Je constate que les élèves (écouter) bien."
+      "a) je (nettoyer) la table",
+      "b) tu (appuyer) sur le bouton",
+      "c) nous (employer) un dictionnaire",
+      "d) ils (envoyer) une lettre",
+      "e) vous (essuyer) le tableau"
      ],
      "corrige": [
-      "1. réussiras",
-      "2. avait fini",
-      "3. arriverions",
-      "4. écoutent"
+      "a) je nettoie la table",
+      "b) tu appuies sur le bouton",
+      "c) nous employons un dictionnaire",
+      "d) ils envoient une lettre",
+      "e) vous essuyez le tableau"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Mets la phrase au passé (principale à l’imparfait) et change la subordonnée.",
+     "enonce": "**Exercice 2** : Écris les verbes à l’imparfait.",
      "items": [
-      "Il affirme qu’il viendra.",
-      "Elle croit que tu as gagné.",
-      "Nous voyons que le ciel s’éclaircit."
+      "a) nous (nettoyer) la cour",
+      "b) vous (appuyer) sur la porte",
+      "c) nous (essuyer) les bancs",
+      "d) vous (envoyer) un message"
      ],
      "corrige": [
-      "1. Il affirmait qu’il viendrait.",
-      "2. Elle croyait que tu avais gagné.",
-      "3. Nous voyions que le ciel s’éclaircissait."
+      "a) nous nettoyions la cour",
+      "b) vous appuyiez sur la porte",
+      "c) nous essuyions les bancs",
+      "d) vous envoyiez un message"
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase respecte la concordance ?",
-     "options": [
-      "Il disait qu’il viendra.",
-      "Il disait qu’il viendrait.",
-      "Il dit qu’il viendrait hier.",
-      "Il disait qu’il vient."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Mets au futur simple.",
+     "items": [
+      "a) je (nettoyer) ma chambre",
+      "b) tu (envoyer) un colis",
+      "c) il (employer) cette méthode",
+      "d) elles (appuyer) sur la sonnette"
      ],
-     "answer": 1,
-     "explain": "Principale à l’imparfait + postériorité = **conditionnel présent**."
+     "corrige": [
+      "a) je nettoierai ma chambre",
+      "b) tu enverras un colis",
+      "c) il emploiera cette méthode",
+      "d) elles appuieront sur la sonnette"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Corrige l’erreur dans chaque phrase.",
+     "items": [
+      "a) Nous nettoyons la salle, ensuite je nettoye le tableau.",
+      "b) Vous envoiyez un colis.",
+      "c) Ils appuyent sur le bouton."
+     ],
+     "corrige": [
+      "a) je nettoie le tableau",
+      "b) Vous envoyez un colis (présent) ou vous envoyiez (imparfait)",
+      "c) Ils appuient sur le bouton"
+     ]
     }
    ]
   },
@@ -192,23 +337,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Le temps de la subordonnée dépend de celui de la principale.",
-      "Principale au **présent** : présent (simultané), passé composé (antérieur), futur (postérieur).",
-      "Principale au **passé** : imparfait (simultané), plus-que-parfait (antérieur), conditionnel présent (postérieur).",
-      "Au passé, le futur devient conditionnel."
+      "Les verbes en **-oyer** et **-uyer** changent **y → i** devant un **e muet** : *je nettoie, ils appuient, j’enverrai*.",
+      "On garde le **y** quand on entend le son [j] : *nous nettoyons, vous essuyez*.",
+      "À l’imparfait, nous et vous prennent **-yions, -yiez** : *nous nettoyions, vous nettoyiez*.",
+      "Les verbes en **-ayer** acceptent deux orthographes : *je paie* ou *je paye*.",
+      "*Envoyer* : futur et conditionnel irréguliers (*j’enverrai, j’enverrais*)."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Elle savait qu’il était déjà parti. » : l’action de la subordonnée est :",
+     "question": "Quelle phrase est correcte ?",
      "options": [
-      "postérieure",
-      "simultanée",
-      "antérieure",
-      "sans rapport"
+      "Nous nettoyons la salle et je nettoie le tableau.",
+      "Nous nettoions la salle et je nettoye le tableau.",
+      "Nous nettoyons la salle et je nettoye le tableau.",
+      "Nous nettoions la salle et je nettoie le tableau."
      ],
-     "answer": 2,
-     "explain": "Le plus-que-parfait exprime l’**antériorité** dans le passé."
+     "answer": 0,
+     "explain": "Avec nous, on garde y (nettoyons) ; avec je, le y devient i (nettoie)."
     }
    ]
   }

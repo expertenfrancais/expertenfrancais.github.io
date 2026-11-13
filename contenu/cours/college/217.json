@@ -1,175 +1,199 @@
 {
  "id": 217,
  "meta": {
-  "t": "La transformation de la forme affirmative à la forme interrogative",
+  "t": "Le sens propre des mots",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "c",
-  "r": 4.8
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "h",
+  "r": 4.8,
+  "mf": "MF5.5.1"
  },
  "sections": [
   {
-   "t": "Poser une question",
+   "t": "Le sens propre : le sens de base",
    "blocs": [
     {
      "type": "p",
-     "text": "Une phrase **affirmative** donne une information ; une phrase **interrogative** pose une question et se termine par un **point d’interrogation**. On peut passer de l’une à l’autre."
+     "text": "Dans « Le chat boit du lait », chaque mot a son sens **habituel**. Dans « Cet homme a un cœur de pierre », le mot *pierre* n’est plus une vraie pierre. Quand un mot désigne **la chose réelle**, on dit qu’il est employé au **sens propre**."
+    },
+    {
+     "type": "def",
+     "label": "Le sens propre",
+     "text": "Le **sens propre** d’un mot est son sens **premier**, **concret**, celui qu’on trouve en premier dans le dictionnaire. Il désigne la réalité telle qu’elle est."
     },
     {
      "type": "list",
      "items": [
-      "Distinguer interrogation totale et partielle",
-      "Connaître les trois procédés",
-      "Transformer une phrase affirmative en question"
+      "Définir le sens propre d’un mot",
+      "Reconnaître un mot employé au sens propre",
+      "Utiliser le contexte et le dictionnaire pour le trouver",
+      "Distinguer le sens propre du sens figuré"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "table",
-     "title": "Deux types de questions",
-     "head": [
-      "Type",
-      "On attend…",
-      "Exemple"
-     ],
-     "rows": [
-      [
-       "Interrogation totale",
-       "« oui » ou « non »",
-       "Tu viens demain ?"
-      ],
-      [
-       "Interrogation partielle",
-       "une information précise",
-       "Quand viens-tu ?"
-      ]
-     ]
+     "type": "ex",
+     "text": "Il **brûle** du bois pour cuire le riz. → *brûler* a ici son sens propre : détruire par le feu.",
+     "label": "Sens propre"
     },
     {
      "type": "quiz",
-     "question": "« Où habites-tu ? » est une interrogation :",
+     "question": "Quel est le sens propre du mot « feuille » ?",
      "options": [
-      "totale",
-      "partielle",
-      "négative",
-      "exclamative"
+      "Une idée d’écrivain",
+      "Une partie d’une plante",
+      "Un bruit",
+      "Un fruit"
      ],
      "answer": 1,
-     "explain": "Le mot interrogatif « où » demande une information précise : interrogation partielle."
+     "explain": "Au sens propre, une feuille est la partie plate et verte d’une plante (ou une feuille de papier)."
     }
    ]
   },
   {
-   "t": "Les trois procédés",
+   "t": "Comment reconnaître le sens propre ?",
    "blocs": [
     {
-     "type": "table",
-     "title": "Comment poser la question (interrogation totale)",
-     "head": [
-      "Procédé",
-      "Exemple",
-      "Niveau de langue"
-     ],
-     "rows": [
-      [
-       "Intonation montante",
-       "Tu viens ?",
-       "familier"
-      ],
-      [
-       "« Est-ce que »",
-       "**Est-ce que** tu viens ?",
-       "courant"
-      ],
-      [
-       "Inversion sujet-verbe",
-       "**Viens-tu** ?",
-       "soutenu"
-      ]
-     ]
-    },
-    {
-     "type": "h",
-     "text": "L’inversion du sujet"
+     "type": "p",
+     "text": "Pour savoir si un mot est employé au sens propre, pose-toi trois questions."
     },
     {
      "type": "list",
      "items": [
-      "Le pronom sujet se place **après** le verbe, relié par un trait d’union : Vient-il ?",
-      "Si le sujet est un nom, on le garde et on ajoute un pronom : **Paul** vient-**il** ?",
-      "Entre deux voyelles, on met un **t** : Parle-t-il ? Mange-t-elle ?",
-      "Aux temps composés, l’inversion touche l’auxiliaire : As-tu fini ?"
-     ]
-    },
-    {
-     "type": "warn",
-     "label": "Piège",
-     "text": "On n’écrit pas « Vient-t-il ? » avec deux « t » après un verbe qui finit par « t » : on écrit « Vient-il ? ». Le « t » euphonique s’ajoute seulement après une voyelle : « Parle-t-il ? »."
-    }
-   ]
-  },
-  {
-   "t": "L’interrogation partielle",
-   "blocs": [
-    {
-     "type": "p",
-     "text": "On place un **mot interrogatif** en tête de phrase, puis on applique l’un des procédés."
+      "Le mot désigne-t-il une chose **réelle, concrète** que je peux voir, toucher ou faire ?",
+      "Puis-je le **remplacer par sa définition du dictionnaire** sans changer le sens de la phrase ?",
+      "La phrase aurait-elle le **même sens** si je la dessinais ?"
+     ],
+     "label": "Trois questions",
+     "ordered": true
     },
     {
      "type": "table",
-     "title": "Mots interrogatifs",
+     "title": "Même mot, deux emplois",
      "head": [
-      "Mot",
-      "Il interroge sur…",
-      "Exemple"
+      "Phrase",
+      "Sens du mot"
      ],
      "rows": [
       [
-       "qui",
-       "la personne",
-       "**Qui** a téléphoné ?"
+       "Il **avale** une pilule.",
+       "propre : faire passer dans l’estomac"
       ],
       [
-       "que, quoi",
-       "la chose",
-       "**Que** fais-tu ? / Tu fais **quoi** ?"
+       "Il **avale** les kilomètres à vélo.",
+       "figuré : parcourir très vite"
       ],
       [
-       "où",
-       "le lieu",
-       "**Où** vas-tu ?"
+       "Elle **se brûle** la main.",
+       "propre : se faire une brûlure"
       ],
       [
-       "quand",
-       "le temps",
-       "**Quand** pars-tu ?"
-      ],
-      [
-       "comment",
-       "la manière",
-       "**Comment** vas-tu ?"
-      ],
-      [
-       "pourquoi",
-       "la cause",
-       "**Pourquoi** pleures-tu ?"
-      ],
-      [
-       "combien",
-       "la quantité",
-       "**Combien** coûte ce livre ?"
-      ],
-      [
-       "quel(le)(s)",
-       "un choix",
-       "**Quelle** robe préfères-tu ?"
+       "Il **brûle** d’impatience.",
+       "figuré : être très impatient"
       ]
      ]
     },
     {
-     "type": "ex",
-     "text": "Affirmative : « Mon cousin arrive demain. » → Totale : « Mon cousin arrive-t-il demain ? » → Partielle : « Quand ton cousin arrive-t-il ? » ou « Quand arrive ton cousin ? »"
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Si la phrase décrit quelque chose qu’on peut **voir** ou **toucher** avec ce mot, c’est presque toujours le sens propre."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase « tomber » est-il au sens propre ?",
+     "options": [
+      "Il tombe amoureux.",
+      "Le soir tombe.",
+      "L’enfant tombe de l’arbre.",
+      "La nouvelle tombe."
+     ],
+     "answer": 2,
+     "explain": "Seul « l’enfant tombe de l’arbre » désigne une vraie chute."
+    }
+   ]
+  },
+  {
+   "t": "Un mot peut avoir plusieurs sens propres",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un même mot peut avoir **plusieurs sens propres** : on dit qu’il est **polysémique**. Le dictionnaire les range en les numérotant."
+    },
+    {
+     "type": "table",
+     "title": "Des mots polysémiques",
+     "head": [
+      "Mot",
+      "Sens propres"
+     ],
+     "rows": [
+      [
+       "**pied**",
+       "partie du corps ; partie basse d’un meuble (le pied d’une table)"
+      ],
+      [
+       "**feuille**",
+       "d’un arbre ; de papier"
+      ],
+      [
+       "**vol**",
+       "déplacement dans l’air ; action de voler"
+      ],
+      [
+       "**bureau**",
+       "table pour écrire ; pièce où l’on travaille"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "label": "Méthode",
+     "text": "C’est le **contexte** (les autres mots de la phrase) qui t’indique le sens à choisir. *Il pose son sac sur le bureau* : on pense au meuble ; *Elle entre dans le bureau du directeur* : on pense à la pièce."
+    },
+    {
+     "type": "quiz",
+     "question": "Un mot qui a plusieurs sens s’appelle un mot…",
+     "options": [
+      "synonyme",
+      "polysémique",
+      "antonyme",
+      "invariable"
+     ],
+     "answer": 1,
+     "explain": "On parle de polysémie : un mot, plusieurs sens."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Piège 1 : confondre sens propre et sens figuré",
+     "text": "« Il a un cœur d’or » : *cœur* n’est pas l’organe, c’est une image pour dire « il est généreux ». C’est du sens figuré."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 2 : croire qu’un mot n’a qu’un sens",
+     "text": "Beaucoup de mots ont plusieurs sens propres. Cherche-les dans le dictionnaire avant de décider."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 3 : ne pas regarder le contexte",
+     "text": "Un même mot change de sens selon la phrase : lis toujours la phrase entière avant de répondre."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a un cœur d’or », le mot « cœur » est employé…",
+     "options": [
+      "au sens propre",
+      "au sens figuré",
+      "comme un adjectif",
+      "comme un verbe"
+     ],
+     "answer": 1,
+     "explain": "On ne parle pas de l’organe : c’est une image, donc un sens figuré."
     }
    ]
   },
@@ -178,45 +202,61 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Transforme en phrase interrogative avec l’inversion.",
+     "enonce": "**Exercice 1** : Dis si le mot en gras est employé au sens propre (P) ou au sens figuré (F).",
      "items": [
-      "Tu as faim.",
-      "Il pleut.",
-      "Les enfants jouent dans la cour.",
-      "Elle chante."
+      "a) Il **ouvre** la porte.",
+      "b) Il **ouvre** son cœur à son ami.",
+      "c) Elle **dévore** son repas.",
+      "d) Elle **dévore** un roman.",
+      "e) Le **soleil** brille."
      ],
      "corrige": [
-      "1. As-tu faim ?",
-      "2. Pleut-il ?",
-      "3. Les enfants jouent-ils dans la cour ?",
-      "4. Chante-t-elle ?"
+      "a) P",
+      "b) F",
+      "c) P (elle mange avec appétit)",
+      "d) F (elle lit avec passion)",
+      "e) P"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Transforme avec « est-ce que ».",
+     "enonce": "**Exercice 2** : Donne le sens propre de ces mots (cherche dans le dictionnaire si besoin).",
      "items": [
-      "Vous partez demain.",
-      "Elle a compris la leçon.",
-      "Ils vont au marché."
+      "a) racine",
+      "b) souffle",
+      "c) pont",
+      "d) clé"
      ],
      "corrige": [
-      "1. Est-ce que vous partez demain ?",
-      "2. Est-ce qu’elle a compris la leçon ?",
-      "3. Est-ce qu’ils vont au marché ?"
+      "a) partie d’une plante qui s’enfonce dans le sol",
+      "b) air qui sort de la bouche ou du nez",
+      "c) construction qui permet de franchir un cours d’eau",
+      "d) objet qui sert à ouvrir ou fermer une serrure"
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
-     "options": [
-      "Parle-il ?",
-      "Parle-t-il ?",
-      "Parle-t’il ?",
-      "Parlet-il ?"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Écris une phrase où le mot est employé au sens propre.",
+     "items": [
+      "a) feuille",
+      "b) pied",
+      "c) main"
      ],
-     "answer": 1,
-     "explain": "Entre le verbe terminé par une voyelle et « il », on écrit « -t- »."
+     "corrige": [
+      "a) Une feuille tombe de l’arbre.",
+      "b) Le pied de la table est cassé.",
+      "c) Il lève la main pour répondre."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Remplace le mot en gras par un mot de sens propre voisin : *Elle dévore un livre.* Que remarques-tu ?",
+     "items": [
+      "Phrase à transformer"
+     ],
+     "corrige": [
+      "On ne peut pas dire « elle mange un livre » : le mot n’est pas au sens propre ici, c’est un sens figuré (elle lit avec passion)."
+     ]
     }
    ]
   },
@@ -227,23 +267,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Interrogative = question ; elle se termine par « ? ».",
-      "Totale : réponse par oui ou non. Partielle : mot interrogatif (qui, où, quand…).",
-      "Trois procédés : intonation, « est-ce que », inversion du sujet.",
-      "Inversion : trait d’union, « -t- » entre deux voyelles, pronom de rappel si le sujet est un nom."
+      "Le **sens propre** est le sens **premier et concret** d’un mot.",
+      "On le trouve en premier dans le **dictionnaire**.",
+      "Un mot peut avoir **plusieurs sens propres** : il est **polysémique**.",
+      "Le **contexte** indique le sens à choisir.",
+      "Il ne faut pas confondre sens propre et sens **figuré**."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Paul vient-il ? » : quel est le sujet ?",
+     "question": "Quel mot indique le sens à choisir quand un mot a plusieurs sens ?",
      "options": [
-      "vient",
-      "il",
-      "Paul",
-      "aucun"
+      "La ponctuation",
+      "Le contexte",
+      "Le titre",
+      "La conjugaison"
      ],
-     "answer": 2,
-     "explain": "Le sujet est « Paul » ; « il » le reprend (inversion complexe)."
+     "answer": 1,
+     "explain": "C’est le contexte (le reste de la phrase) qui permet de choisir le bon sens."
     }
    ]
   }

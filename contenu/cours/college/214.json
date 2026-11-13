@@ -1,157 +1,209 @@
 {
  "id": 214,
  "meta": {
-  "t": "L’étude d’une œuvre : les morceaux choisis",
+  "t": "Le respect des signes de ponctuation à l’oral",
   "k": "Cours",
-  "n": "3e",
-  "m": "Lecture",
-  "img": "d",
-  "r": 4.8
+  "n": "5e",
+  "m": "Expression orale",
+  "img": "f",
+  "r": 4.8,
+  "mf": "MF5.1.1"
  },
  "sections": [
   {
-   "t": "Qu’est-ce qu’un morceau choisi ?",
+   "t": "Pourquoi respecter la ponctuation en lisant ?",
    "blocs": [
     {
      "type": "p",
-     "text": "Une œuvre intégrale est souvent trop longue pour être étudiée page par page. On en retient donc quelques **extraits**, appelés **morceaux choisis**, qui permettent de comprendre l’ensemble : le début, un moment important, un tournant, la fin."
+     "text": "Écoute ces deux lectures de la même phrase : « Mon frère, dit Paul, est en retard. » et « Mon frère dit : Paul est en retard. » Seule la **ponctuation** change, et pourtant le sens n’est plus le même."
+    },
+    {
+     "type": "p",
+     "text": "À l’écrit, les signes de ponctuation organisent la phrase. À l’oral, ils nous disent **où faire une pause** et **quelle intonation** donner à la voix. Un lecteur qui les ignore se fait mal comprendre."
     },
     {
      "type": "list",
      "items": [
-      "Définir un morceau choisi",
-      "Situer un extrait dans l’œuvre",
-      "Lire et questionner un extrait avec méthode",
-      "Dire à quoi sert l’extrait dans l’ensemble"
+      "Reconnaître les principaux signes de ponctuation",
+      "Associer chaque signe à une pause et à une intonation",
+      "Lire un texte à haute voix en respectant la ponctuation",
+      "Éviter les erreurs de lecture les plus fréquentes"
      ],
      "label": "Objectifs"
     },
     {
      "type": "def",
-     "label": "Morceau choisi",
-     "text": "Un **morceau choisi** est un extrait d’une œuvre, retenu parce qu’il est **représentatif** (style, thèmes, personnages) ou **important** pour l’histoire."
+     "label": "La ponctuation à l’oral",
+     "text": "Lire en **respectant la ponctuation**, c’est marquer à voix haute les **pauses** et les **intonations** que les signes indiquent à l’écrit."
     },
     {
      "type": "quiz",
-     "question": "Pourquoi étudie-t-on des morceaux choisis ?",
+     "question": "À quoi sert la ponctuation quand on lit à voix haute ?",
      "options": [
-      "Parce que l’œuvre est sans intérêt",
-      "Pour comprendre l’œuvre grâce à quelques passages importants",
-      "Pour ne jamais lire l’œuvre",
-      "Pour apprendre le texte par cœur"
+      "À rendre la lecture plus rapide",
+      "À savoir où faire des pauses et quelle intonation prendre",
+      "À corriger l’orthographe",
+      "À choisir la bonne liaison"
      ],
      "answer": 1,
-     "explain": "Les extraits éclairent l’œuvre entière : ils en montrent les moments forts et le style."
+     "explain": "Les signes de ponctuation guident les pauses et l’intonation du lecteur."
     }
    ]
   },
   {
-   "t": "Pourquoi choisit-on ces extraits ?",
+   "t": "Chaque signe a sa pause et sa voix",
    "blocs": [
     {
-     "type": "p",
-     "text": "Un extrait n’est jamais pris au hasard. Il a une **fonction** dans l’œuvre."
-    },
-    {
      "type": "table",
-     "title": "Les grands types de morceaux choisis",
+     "title": "Les principaux signes et leur lecture",
      "head": [
-      "Type d’extrait",
-      "Ce qu’il montre",
-      "Exemple de question"
+      "Signe",
+      "Pause",
+      "Intonation de la voix"
      ],
      "rows": [
       [
-       "L’ouverture (début)",
-       "Le cadre, les personnages, le ton",
-       "Où et quand l’histoire commence-t-elle ?"
+       "**Virgule ( , )**",
+       "courte",
+       "la voix reste en suspens, elle monte un peu"
       ],
       [
-       "Le nœud (problème)",
-       "Le conflit ou la difficulté apparaît",
-       "Quel problème se pose aux personnages ?"
+       "**Point ( . )**",
+       "longue",
+       "la voix descend, la phrase est finie"
       ],
       [
-       "Le tournant",
-       "Un événement change le cours de l’histoire",
-       "Qu’est-ce qui change après ce passage ?"
+       "**Point-virgule ( ; )**",
+       "moyenne",
+       "la voix reste en suspens, puis on enchaîne"
       ],
       [
-       "Le dénouement (fin)",
-       "Le problème trouve une issue",
-       "Comment l’histoire se termine-t-elle ?"
+       "**Deux-points ( : )**",
+       "courte, avec attente",
+       "la voix annonce ce qui suit (explication, énumération, parole)"
       ],
       [
-       "Un passage thématique",
-       "Une idée forte de l’auteur",
-       "Quel message l’auteur transmet-il ?"
+       "**Points de suspension ( … )**",
+       "longue, avec hésitation",
+       "la voix s’éteint ou laisse deviner la suite"
+      ],
+      [
+       "**Point d’interrogation ( ? )**",
+       "longue",
+       "la voix monte à la fin de la question"
+      ],
+      [
+       "**Point d’exclamation ( ! )**",
+       "longue",
+       "la voix exprime la surprise, la joie, la colère…"
+      ],
+      [
+       "**Guillemets et tirets**",
+       "avant et après la parole",
+       "on change de voix pour faire parler le personnage"
       ]
      ]
+    },
+    {
+     "type": "ex",
+     "text": "« Il est arrivé, / il a posé son sac, / puis il a dit : / Je suis fatigué. »",
+     "label": "Exemple lu avec les pauses"
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Avant de lire l’extrait, demande-toi toujours : « À quel moment de l’œuvre sommes-nous ? »"
+     "text": "Imagine un feu de circulation : la virgule est un feu orange (on ralentit), le point est un feu rouge (on s’arrête)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle pause fait-on devant un point ?",
+     "options": [
+      "Aucune",
+      "Une pause courte",
+      "Une pause longue",
+      "Une pause moyenne seulement"
+     ],
+     "answer": 2,
+     "explain": "Le point marque la fin de la phrase : la pause est longue et la voix descend."
     }
    ]
   },
   {
-   "t": "La méthode pour étudier un extrait",
+   "t": "Comment lire un texte à haute voix",
    "blocs": [
     {
      "type": "p",
-     "text": "Pour étudier un morceau choisi, on suit **cinq étapes** dans l’ordre."
+     "text": "Pour bien lire, on ne se lance pas directement. On suit une **méthode** en quatre temps."
     },
     {
      "type": "list",
      "items": [
-      "**Situer** l’extrait : titre de l’œuvre, auteur, place dans l’histoire (début, milieu, fin).",
-      "**Lire** deux fois : une première lecture pour comprendre, une seconde pour observer.",
-      "**Relever** les personnages, le lieu, le temps, les actions et les paroles.",
-      "**Observer** l’écriture : type de texte (narratif, descriptif, dialogue), ton, mots importants.",
-      "**Interpréter** : dire l’idée principale et le rôle de l’extrait dans l’œuvre."
+      "**Lire en silence** le texte pour le comprendre.",
+      "**Repérer** les signes de ponctuation et les entourer ou les surligner.",
+      "**Marquer** les pauses : une barre ( / ) pour la pause courte, deux barres ( // ) pour la longue.",
+      "**Lire à voix haute**, lentement, en respectant ces repères."
      ],
-     "label": "Les cinq étapes",
+     "label": "La méthode",
      "ordered": true
     },
     {
-     "type": "p",
-     "text": "Voici un court extrait inventé pour s’exercer :"
-    },
-    {
      "type": "ex",
-     "text": "« Au petit matin, Nzaba quitta le village sans bruit. Sur le sentier, la forêt semblait retenir son souffle. Il serra contre lui le sac de sa mère et se promit de ne revenir qu’avec de bonnes nouvelles. »",
-     "label": "Extrait d’entraînement"
+     "text": "Le soleil se couchait / sur le village, // les enfants rentraient / en chantant. // Soudain, / un cri retentit : // Au secours !",
+     "label": "Texte avec pauses marquées"
     },
     {
-     "type": "table",
-     "title": "Étude rapide de l’extrait",
-     "head": [
-      "Question",
-      "Réponse"
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Quand la phrase est longue, une virgule est l’occasion de **reprendre ton souffle**. Mais ne reprends pas ton souffle au milieu d’un groupe de mots qui va ensemble."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le premier temps de la méthode de lecture ?",
+     "options": [
+      "Lire à voix haute tout de suite",
+      "Lire en silence pour comprendre",
+      "Compter les mots",
+      "Marquer les liaisons"
      ],
-     "rows": [
-      [
-       "Qui ?",
-       "Nzaba, un jeune du village"
-      ],
-      [
-       "Où ? Quand ?",
-       "Sur le sentier, dans la forêt, au petit matin"
-      ],
-      [
-       "Que se passe-t-il ?",
-       "Il part du village en secret"
-      ],
-      [
-       "Ton",
-       "Calme, un peu inquiet (« retenir son souffle »)"
-      ],
-      [
-       "Rôle probable",
-       "Début d’un voyage : l’extrait lance l’histoire"
-      ]
-     ]
+     "answer": 1,
+     "explain": "On commence toujours par lire en silence pour comprendre le texte."
+    }
+   ]
+  },
+  {
+   "t": "Les erreurs à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Erreur 1 : ignorer les virgules",
+     "text": "Lire « Mon frère dit Paul est en retard » sans pause déforme le sens. Les virgules séparent les éléments : « Mon frère, dit Paul, est en retard. »"
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 2 : lire une question comme une affirmation",
+     "text": "Une phrase terminée par **?** demande une voix qui monte. « Tu viens demain ? » ne se lit pas comme « Tu viens demain. »"
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 3 : lire tout sur le même ton",
+     "text": "Un texte avec des dialogues demande plusieurs voix : celle du narrateur et celle de chaque personnage. Les guillemets et les tirets te le rappellent."
+    },
+    {
+     "type": "warn",
+     "label": "Erreur 4 : aller trop vite",
+     "text": "Si tu cours, tu avales les pauses. Mieux vaut lire un peu plus lentement."
+    },
+    {
+     "type": "quiz",
+     "question": "Comment lit-on « Tu viens demain ? »",
+     "options": [
+      "Voix qui descend",
+      "Voix qui monte à la fin",
+      "Voix qui ne change pas",
+      "On s’arrête avant « demain »"
+     ],
+     "answer": 1,
+     "explain": "Le point d’interrogation demande une intonation montante."
     }
    ]
   },
@@ -159,52 +211,54 @@
    "t": "Exercices d’application",
    "blocs": [
     {
-     "type": "p",
-     "text": "Utilise la méthode en cinq étapes."
-    },
-    {
      "type": "exercise",
-     "enonce": "Lis l’extrait d’entraînement ci-dessus et réponds.",
+     "enonce": "**Exercice 1** : Associe chaque signe à la manière de le lire.",
      "items": [
-      "Quel est le personnage principal ?",
-      "Où se passe la scène ?",
-      "Quelle expression montre que la nature est silencieuse ?",
-      "Quelle promesse le personnage fait-il ?"
+      "a) le point",
+      "b) la virgule",
+      "c) les points de suspension",
+      "d) le point d’exclamation"
      ],
      "corrige": [
-      "1. Nzaba.",
-      "2. Sur le sentier, dans la forêt, près du village.",
-      "3. « la forêt semblait retenir son souffle ».",
-      "4. Il ne reviendra qu’avec de bonnes nouvelles."
+      "a) pause longue, voix qui descend",
+      "b) pause courte, voix en suspens",
+      "c) pause avec hésitation, voix qui s’éteint",
+      "d) pause longue, voix qui exprime l’émotion"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Dis à quel type d’extrait correspond chaque situation (ouverture, nœud, tournant, dénouement).",
+     "enonce": "**Exercice 2** : Recopie la phrase et marque les pauses avec / (courte) et // (longue).",
      "items": [
-      "Les personnages se retrouvent enfin et le conflit est réglé.",
-      "L’histoire commence et l’auteur présente le village.",
-      "Une mauvaise nouvelle arrive et change tout.",
-      "Un désaccord oppose deux personnages et crée un problème."
+      "Le marché était plein de monde, les vendeurs criaient, les enfants couraient entre les étals."
      ],
      "corrige": [
-      "1. dénouement",
-      "2. ouverture",
-      "3. tournant",
-      "4. nœud"
+      "Le marché était plein de monde, / les vendeurs criaient, / les enfants couraient entre les étals. //"
      ]
     },
     {
-     "type": "quiz",
-     "question": "La toute première étape de l’étude d’un extrait est de :",
-     "options": [
-      "l’apprendre par cœur",
-      "le situer dans l’œuvre",
-      "le recopier",
-      "le résumer en un mot"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis comment la ponctuation change le sens de ces deux phrases.",
+     "items": [
+      "a) « Allons manger, les enfants ! »",
+      "b) « Allons manger les enfants ! »"
      ],
-     "answer": 1,
-     "explain": "On situe d’abord l’extrait : œuvre, auteur, place dans l’histoire."
+     "corrige": [
+      "a) On invite les enfants à manger (la virgule isole l’interpellation).",
+      "b) Sans la virgule, la phrase dit qu’on va manger les enfants : le sens est absurde."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Lis à voix haute en respectant les signes et indique l’intonation de chaque réplique.",
+     "items": [
+      "a) « Où es-tu ? demanda Marie.",
+      "b) — Ici ! répondit son frère. »"
+     ],
+     "corrige": [
+      "a) La voix monte à la fin de la question.",
+      "b) La voix est plus forte et exclamative ; on change de voix pour faire parler le frère."
+     ]
     }
    ]
   },
@@ -215,23 +269,55 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Un morceau choisi est un extrait important ou représentatif d’une œuvre.",
-      "Il a une fonction : ouverture, nœud, tournant, dénouement ou thème.",
-      "Méthode : situer, lire, relever, observer, interpréter.",
-      "Toujours dire à quoi sert l’extrait dans l’ensemble de l’œuvre."
+      "Les signes de ponctuation indiquent à l’oral des **pauses** et des **intonations**.",
+      "Virgule : pause **courte** ; point : pause **longue**, voix qui descend.",
+      "Point d’interrogation : voix qui **monte** ; point d’exclamation : voix qui exprime l’**émotion**.",
+      "Les **points de suspension** laissent la phrase en suspens.",
+      "Pour bien lire : lire en silence, repérer les signes, marquer les pauses, lire à voix haute."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "En un coup d’œil",
+     "head": [
+      "Signe",
+      "Pause",
+      "Voix"
+     ],
+     "rows": [
+      [
+       "Virgule",
+       "courte",
+       "en suspens"
+      ],
+      [
+       "Point",
+       "longue",
+       "descend"
+      ],
+      [
+       "?",
+       "longue",
+       "monte"
+      ],
+      [
+       "!",
+       "longue",
+       "expressive"
+      ]
      ]
     },
     {
      "type": "quiz",
-     "question": "Un extrait où un événement change le cours de l’histoire est :",
+     "question": "Quel signe invite à lire avec une voix expressive ?",
      "options": [
-      "une ouverture",
-      "un tournant",
-      "un titre",
-      "une biographie"
+      "La virgule",
+      "Le point d’exclamation",
+      "Le point",
+      "Les deux-points"
      ],
      "answer": 1,
-     "explain": "C’est un **tournant** : il y a un avant et un après."
+     "explain": "Le point d’exclamation indique une émotion : la voix doit l’exprimer."
     }
    ]
   }

@@ -1,139 +1,188 @@
 {
  "id": 231,
  "meta": {
-  "t": "Les degrés absolus de qualification",
+  "t": "La rédaction du portrait moral",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "a",
-  "r": 4.8
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "d",
+  "r": 4.8,
+  "mf": "MF5.7.2"
  },
  "sections": [
   {
-   "t": "Intensifier sans comparer",
+   "t": "Faire connaître le caractère d’une personne",
    "blocs": [
     {
      "type": "p",
-     "text": "Les **degrés absolus** expriment une qualité à un **haut degré** **sans comparaison**. On renforce l’adjectif ou l’adverbe avec un mot d’intensité."
+     "text": "Le portrait physique décrit ce qu’on **voit**. Le **portrait moral** décrit ce qu’on **ne voit pas** directement : le **caractère**, les qualités et les défauts."
     },
     {
      "type": "def",
-     "label": "Superlatif absolu",
-     "text": "Le **superlatif absolu** exprime une qualité très forte, sans terme de comparaison : « Ce film est **très** intéressant. »"
+     "label": "Le portrait moral",
+     "text": "Le **portrait moral** est un texte qui présente le **caractère**, les **qualités**, les **défauts** et les **habitudes** d’une personne."
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître les marques du degré absolu",
-      "Employer très, fort, bien, tout à fait, extrêmement…",
-      "Connaître d’autres procédés (préfixes, répétition)"
+      "Distinguer portrait physique et portrait moral",
+      "Utiliser le vocabulaire des traits de caractère",
+      "Illustrer un trait par des exemples",
+      "Rédiger un portrait moral organisé"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase exprime un degré absolu ?",
-     "options": [
-      "Il est plus grand que moi.",
-      "Il est extrêmement grand.",
-      "Il est le plus grand.",
-      "Il est aussi grand que moi."
-     ],
-     "answer": 1,
-     "explain": "« extrêmement » renforce sans comparer."
-    }
-   ]
-  },
-  {
-   "t": "Les mots d’intensité",
-   "blocs": [
-    {
      "type": "table",
-     "title": "Les principaux adverbes d’intensité",
+     "title": "Qualités et défauts",
      "head": [
-      "Mot",
-      "Exemple"
+      "Qualités",
+      "Défauts"
      ],
      "rows": [
       [
-       "très",
-       "Elle est **très** gentille."
+       "généreux, courageux, honnête, patient, serviable",
+       "égoïste, paresseux, menteur, jaloux, coléreux"
       ],
       [
-       "fort",
-       "Il est **fort** aimable."
-      ],
-      [
-       "bien",
-       "Ce sac est **bien** lourd."
-      ],
-      [
-       "tout à fait",
-       "Il est **tout à fait** d’accord."
-      ],
-      [
-       "extrêmement, infiniment",
-       "Un chemin **extrêmement** difficile."
-      ],
-      [
-       "vraiment, particulièrement",
-       "Un repas **particulièrement** bon."
-      ],
-      [
-       "terriblement, fortement",
-       "Un bruit **terriblement** fort."
+       "calme, sincère, travailleur, joyeux",
+       "timide, orgueilleux, têtu, distrait"
       ]
      ]
     },
     {
-     "type": "warn",
-     "label": "Piège",
-     "text": "« très » se place devant un **adjectif** ou un **adverbe**, jamais devant un verbe : on dit « J’aime **beaucoup** ce livre », pas « J’aime **très** ce livre »."
-    },
-    {
-     "type": "warn",
-     "label": "Piège",
-     "text": "On ne dit pas « très meilleur » : on dit « **bien** meilleur », « **beaucoup** meilleur »."
+     "type": "quiz",
+     "question": "Un portrait moral décrit…",
+     "options": [
+      "la taille",
+      "le caractère",
+      "les vêtements",
+      "le visage"
+     ],
+     "answer": 1,
+     "explain": "Il décrit ce que la personne est à l’intérieur : son caractère."
     }
    ]
   },
   {
-   "t": "D’autres procédés",
+   "t": "Montrer plutôt que dire",
    "blocs": [
     {
+     "type": "p",
+     "text": "Dire « il est généreux » ne suffit pas. Un bon portrait **prouve** le trait de caractère par des **actes**, des **paroles** ou des **habitudes**."
+    },
+    {
      "type": "table",
-     "title": "Autres façons d’exprimer le degré absolu",
+     "title": "Du trait à la preuve",
      "head": [
-      "Procédé",
-      "Exemple"
+      "Trait",
+      "Preuve"
      ],
      "rows": [
       [
-       "préfixe super-, extra-, archi-, ultra-, hyper-",
-       "un film **super**bon, un lait **extra**fin, une salle **archi**pleine"
+       "**généreux**",
+       "Il partage toujours son goûter avec ceux qui n’ont rien apporté."
       ],
       [
-       "suffixe -issime",
-       "rarissime, richissime, bellissime"
+       "**courageux**",
+       "Il n’a pas hésité à entrer dans la maison pour sauver le chat."
       ],
       [
-       "répétition",
-       "un long, **long** voyage"
-      ],
-      [
-       "des plus + adjectif",
-       "une situation **des plus** délicates"
-      ],
-      [
-       "comparaison imagée",
-       "fort **comme un lion**, léger **comme une plume**"
+       "**distrait**",
+       "Il oublie souvent ses cahiers et cherche ses lunettes sur son nez."
       ]
      ]
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Ne mélange pas : « très » exprime un degré absolu ; « plus… que » exprime un degré relatif."
+     "text": "Pour chaque trait de caractère, écris **au moins une phrase d’exemple** qui le montre."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase montre la générosité ?",
+     "options": [
+      "Il est généreux.",
+      "Il donne la moitié de son repas à son voisin.",
+      "Il parle fort.",
+      "Il est grand."
+     ],
+     "answer": 1,
+     "explain": "Elle montre un acte concret qui prouve la générosité."
+    }
+   ]
+  },
+  {
+   "t": "Organiser le portrait",
+   "blocs": [
+    {
+     "type": "list",
+     "items": [
+      "**Introduction** : présente la personne et le trait principal de son caractère.",
+      "**Développement** : un paragraphe par trait, avec **exemples**.",
+      "**Conclusion** : exprime l’impression générale ou ce que tu retiens de cette personne."
+     ],
+     "label": "Un plan simple",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "Ma voisine, Mme Nsimba, est une femme patiente et généreuse. Quand les enfants font du bruit, elle ne se fâche jamais : elle leur sourit et leur demande doucement de jouer plus loin. Chaque dimanche, elle apporte des beignets à toute la rue. Auprès d’elle, on se sent toujours bien accueilli.",
+     "label": "Un modèle (personnage inventé)"
+    },
+    {
+     "type": "tip",
+     "label": "À savoir",
+     "text": "Utilise des **connecteurs** : *d’abord, de plus, par exemple, en effet, enfin*."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le rôle du développement ?",
+     "options": [
+      "Annoncer la fin",
+      "Présenter les traits avec des exemples",
+      "Dire merci",
+      "Poser une question"
+     ],
+     "answer": 1,
+     "explain": "Le développement présente les traits de caractère illustrés par des exemples."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Piège 1 : juger sans preuve",
+     "text": "« Il est méchant » sans exemple n’est pas convaincant. Donne un fait."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 2 : utiliser des mots trop vagues",
+     "text": "Évite *gentil, sympa, bien*. Préfère *serviable, attentionné, patient*."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 3 : écrire une liste",
+     "text": "Écris des **phrases** et des **paragraphes**, pas une suite d’adjectifs."
+    },
+    {
+     "type": "warn",
+     "label": "Respect",
+     "text": "Un portrait moral doit **respecter** la personne décrite : évite les moqueries et les insultes."
+    },
+    {
+     "type": "quiz",
+     "question": "Un bon portrait moral doit…",
+     "options": [
+      "se moquer de la personne",
+      "montrer le caractère avec des exemples",
+      "être très court",
+      "contenir des insultes"
+     ],
+     "answer": 1,
+     "explain": "On illustre chaque trait par des exemples, dans le respect de la personne."
     }
    ]
   },
@@ -142,47 +191,57 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Souligne le mot qui exprime le degré absolu.",
+     "enonce": "**Exercice 1** : Classe ces mots : *qualité (Q) ou défaut (D)*.",
      "items": [
-      "Ce fleuve est extrêmement large.",
-      "Il est tout à fait prêt.",
-      "Ce travail est bien difficile.",
-      "C’est une richissime famille."
+      "a) généreux",
+      "b) menteur",
+      "c) patient",
+      "d) paresseux",
+      "e) honnête"
      ],
      "corrige": [
-      "1. extrêmement",
-      "2. tout à fait",
-      "3. bien",
-      "4. richissime (suffixe -issime)"
+      "a) Q",
+      "b) D",
+      "c) Q",
+      "d) D",
+      "e) Q"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Renforce l’adjectif avec un adverbe d’intensité.",
+     "enonce": "**Exercice 2** : Écris une phrase qui montre ce trait par un exemple.",
      "items": [
-      "Une route longue.",
-      "Un élève sérieux.",
-      "Un repas bon.",
-      "Un enfant poli."
+      "a) courageux",
+      "b) distrait",
+      "c) serviable"
      ],
      "corrige": [
-      "1. Une route très longue.",
-      "2. Un élève fort sérieux.",
-      "3. Un repas particulièrement bon.",
-      "4. Un enfant extrêmement poli."
+      "Par exemple : Il a traversé la rivière pour aider un enfant.",
+      "Par exemple : Il cherche ses lunettes alors qu’il les porte.",
+      "Par exemple : Elle aide sa voisine à porter ses courses."
      ]
     },
     {
-     "type": "quiz",
-     "question": "Quelle phrase est correcte ?",
-     "options": [
-      "Il est très meilleur que moi.",
-      "Il est bien meilleur que moi.",
-      "J’aime très ce chant.",
-      "Il aime très."
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Remplace le mot vague par un mot plus précis : *a) Il est gentil. b) Elle est sympa.*",
+     "items": [
+      "a)",
+      "b)"
      ],
-     "answer": 1,
-     "explain": "« très » ne s’emploie pas devant « meilleur » : on dit « bien meilleur »."
+     "corrige": [
+      "a) Il est serviable (ou attentionné).",
+      "b) Elle est joyeuse (ou chaleureuse)."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige le portrait moral d’une personne de ton choix en 6 à 8 phrases (introduction, deux traits avec exemples, conclusion).",
+     "items": [
+      "Ton portrait"
+     ],
+     "corrige": [
+      "Réponse libre : vérifier le plan, les exemples et le respect de la personne."
+     ]
     }
    ]
   },
@@ -193,23 +252,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Degré absolu : qualité très forte, sans comparaison.",
-      "Mots d’intensité : très, fort, bien, tout à fait, extrêmement…",
-      "Autres procédés : préfixes (super-, extra-, archi-), suffixe -issime, répétition, des plus…",
-      "« Très » ne s’emploie pas devant un verbe ni devant « meilleur »."
+      "Le **portrait moral** présente le **caractère** d’une personne (qualités, défauts).",
+      "On **prouve** chaque trait par un **acte** ou une **parole**.",
+      "Le plan : **introduction**, **développement** (un trait par paragraphe), **conclusion**.",
+      "On emploie un vocabulaire **précis** et des **connecteurs**.",
+      "On reste **respectueux** de la personne décrite."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Une salle archiplein » : « archi- » exprime :",
+     "question": "Comment prouver qu’une personne est courageuse ?",
      "options": [
-      "la comparaison",
-      "l’intensité extrême",
-      "la négation",
-      "le contraire"
+      "En le répétant",
+      "Par un exemple de comportement",
+      "En décrivant son visage",
+      "En comptant ses amis"
      ],
      "answer": 1,
-     "explain": "« archi- » renforce : degré absolu."
+     "explain": "Un acte concret montre le trait de caractère."
     }
    ]
   }

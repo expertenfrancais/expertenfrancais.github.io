@@ -1,151 +1,200 @@
 {
  "id": 222,
  "meta": {
-  "t": "La transformation transitive",
+  "t": "Le texte fonctionnel : la recette de cuisine",
   "k": "Cours",
-  "n": "3e",
-  "m": "Grammaire",
-  "img": "h",
-  "r": 4.8
+  "n": "5e",
+  "m": "Lecture",
+  "img": "e",
+  "r": 4.8,
+  "mf": "MF5.1.2"
  },
  "sections": [
   {
-   "t": "Un verbe qui se construit avec un complément",
+   "t": "Un texte pour agir",
    "blocs": [
     {
      "type": "p",
-     "text": "Un verbe est **transitif** quand il se construit avec un **complément d’objet** : on dit sur quoi ou sur qui porte l’action. Beaucoup de verbes peuvent s’employer **sans** complément (emploi intransitif) ou **avec** un complément (emploi transitif)."
+     "text": "Pour préparer un gâteau, tu lis une recette ; pour monter un jeu, tu lis la notice. Ces textes ne racontent pas une histoire : ils te disent **comment faire quelque chose**."
+    },
+    {
+     "type": "def",
+     "label": "Le texte fonctionnel",
+     "text": "Un **texte fonctionnel** (ou **texte injonctif**) est un texte qui **donne des consignes** pour **réaliser une action** : une recette, une notice de montage, un règlement, un mode d’emploi."
     },
     {
      "type": "list",
      "items": [
-      "Définir un verbe transitif direct et indirect",
-      "Reconnaître un complément d’objet",
-      "Transformer une phrase pour rendre le verbe transitif"
+      "Reconnaître un texte fonctionnel",
+      "Repérer les parties d’une recette",
+      "Comprendre la langue d’une recette",
+      "Lire et suivre une recette"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "def",
-     "label": "Verbe transitif",
-     "text": "Un verbe **transitif** est suivi d’un **complément d’objet** : direct (COD, sans préposition) ou indirect (COI, avec « à » ou « de »)."
-    },
-    {
-     "type": "table",
-     "title": "Deux sortes de verbes transitifs",
-     "head": [
-      "Type",
-      "Construction",
-      "Exemple"
+     "type": "quiz",
+     "question": "Quel texte est un texte fonctionnel ?",
+     "options": [
+      "Un conte",
+      "Une recette de cuisine",
+      "Un poème",
+      "Un article sur un match"
      ],
-     "rows": [
-      [
-       "Transitif direct",
-       "verbe + COD (sans préposition)",
-       "Il mange **du riz**."
-      ],
-      [
-       "Transitif indirect",
-       "verbe + préposition + COI",
-       "Il parle **à son ami**."
-      ]
-     ]
+     "answer": 1,
+     "explain": "Une recette donne des consignes pour réussir un plat : c’est un texte fonctionnel."
     }
    ]
   },
   {
-   "t": "Le même verbe, deux emplois",
+   "t": "Les parties d’une recette",
    "blocs": [
     {
      "type": "table",
-     "title": "Du verbe sans complément au verbe transitif",
+     "title": "Une recette bien présentée",
      "head": [
-      "Emploi sans complément",
-      "Emploi transitif (COD)"
+      "Partie",
+      "Contenu"
      ],
      "rows": [
       [
-       "Il mange.",
-       "Il mange **du poisson**."
+       "**Le titre**",
+       "le nom du plat"
       ],
       [
-       "Elle chante.",
-       "Elle chante **une chanson**."
+       "**Les informations pratiques**",
+       "nombre de personnes, temps de préparation et de cuisson"
       ],
       [
-       "Le feu brûle.",
-       "Le feu brûle **la forêt**."
+       "**Les ingrédients**",
+       "liste des produits avec les **quantités**"
       ],
       [
-       "Nous lisons.",
-       "Nous lisons **un conte**."
+       "**Les ustensiles**",
+       "bol, casserole, cuillère… (quelquefois)"
       ],
       [
-       "Il écrit.",
-       "Il écrit **une lettre**."
+       "**Les étapes**",
+       "consignes **numérotées**, dans l’ordre"
       ]
      ]
     },
     {
-     "type": "h",
-     "text": "Transformer une phrase"
+     "type": "ex",
+     "text": "**Les beignets** (pour 6 personnes — 20 min de préparation, 1 h de repos)\n\n**Ingrédients** : 500 g de farine ; 100 g de sucre ; 1 sachet de levure de boulanger ; 1 pincée de sel ; environ 25 cl d’eau tiède ; de l’huile pour la friture.",
+     "label": "Début d’une recette (quantités indicatives)"
     },
+    {
+     "type": "ex",
+     "text": "**Étapes** : 1. Mélange la farine, le sucre, la levure et le sel. 2. Ajoute l’eau tiède et pétris la pâte. 3. Laisse reposer 1 heure. 4. Forme des boules. 5. Fais-les frire dans l’huile chaude. Demande l’aide d’un adulte pour la friture.",
+     "label": "Les étapes (suite de l’exemple)"
+    },
+    {
+     "type": "quiz",
+     "question": "Où trouve-t-on les quantités dans une recette ?",
+     "options": [
+      "Dans le titre",
+      "Dans la liste des ingrédients",
+      "Dans la signature",
+      "Dans la légende"
+     ],
+     "answer": 1,
+     "explain": "Les quantités sont indiquées dans la liste des ingrédients."
+    }
+   ]
+  },
+  {
+   "t": "La langue d’une recette",
+   "blocs": [
     {
      "type": "list",
      "items": [
-      "Repère le verbe et l’action.",
-      "Pose la question « qui ? » ou « quoi ? » après le verbe pour trouver l’objet.",
-      "Ajoute un complément d’objet qui complète le sens.",
-      "Vérifie que la phrase reste correcte."
+      "Les **verbes** sont à l’**impératif** (*mélange, ajoute*) ou à l’**infinitif** (*mélanger, ajouter*).",
+      "Les phrases sont **courtes** et chaque phrase donne **une seule consigne**.",
+      "On emploie des **mots de mesure** : *g, kg, cl, une cuillère à soupe, une pincée*.",
+      "On emploie des **mots de liaison de temps** : *d’abord, ensuite, puis, après, enfin*.",
+      "Le vocabulaire est **précis** : *peler, couper, faire revenir, laisser reposer*."
      ],
-     "label": "Méthode",
-     "ordered": true
+     "label": "Les caractéristiques"
     },
     {
-     "type": "tip",
-     "label": "Astuce",
-     "text": "Pour trouver un COD, pose la question **« quoi ? »** ou **« qui ? »** juste après le verbe : Il mange **quoi** ? du riz."
-    }
-   ]
-  },
-  {
-   "t": "Quelques verbes aux deux emplois",
-   "blocs": [
-    {
      "type": "table",
-     "title": "Attention au changement de sens ou d’auxiliaire",
+     "title": "Des mots de mesure",
      "head": [
-      "Verbe",
-      "Sans complément",
-      "Avec complément"
+      "Mot ou abréviation",
+      "Signification"
      ],
      "rows": [
       [
-       "sortir",
-       "Il est sorti.",
-       "Il a sorti la voiture."
+       "g",
+       "gramme"
       ],
       [
-       "monter",
-       "Elle est montée.",
-       "Elle a monté les valises."
+       "kg",
+       "kilogramme"
       ],
       [
-       "passer",
-       "Le temps passe.",
-       "Il passe le ballon."
+       "cl",
+       "centilitre"
       ],
       [
-       "changer",
-       "Il a changé.",
-       "Il a changé de chemise."
+       "c. à soupe",
+       "cuillère à soupe"
+      ],
+      [
+       "une pincée",
+       "très petite quantité"
       ]
      ]
     },
     {
+     "type": "tip",
+     "label": "Conseil",
+     "text": "Avant de commencer une recette, **lis-la en entier**, puis rassemble les ingrédients et les ustensiles."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase convient à une recette ?",
+     "options": [
+      "Il était une fois un gâteau.",
+      "Ajoute le sucre et mélange bien.",
+      "Je trouve ce gâteau délicieux.",
+      "Le gâteau est tombé."
+     ],
+     "answer": 1,
+     "explain": "On emploie l’impératif pour donner une consigne : « Ajoute le sucre et mélange bien. »"
+    }
+   ]
+  },
+  {
+   "t": "Les pièges à éviter",
+   "blocs": [
+    {
      "type": "warn",
-     "label": "Auxiliaire",
-     "text": "Certains verbes changent d’**auxiliaire** quand ils deviennent transitifs : il **est** sorti / il **a** sorti la voiture."
+     "label": "Piège 1 : mélanger l’ordre des étapes",
+     "text": "Les étapes doivent suivre l’ordre de la préparation. Si tu inverses deux étapes, la recette peut échouer."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 2 : oublier les quantités",
+     "text": "Une recette sans quantités n’est pas suivie facilement : on ne sait pas combien mettre."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 3 : cuisiner sans la sécurité",
+     "text": "Le feu, l’huile chaude et les couteaux demandent de **l’aide** et de l’**attention** : demande toujours l’aide d’un adulte quand c’est nécessaire."
+    },
+    {
+     "type": "quiz",
+     "question": "Pourquoi numérote-t-on les étapes ?",
+     "options": [
+      "Pour décorer",
+      "Pour montrer l’ordre à suivre",
+      "Pour allonger le texte",
+      "Pour faire des phrases longues"
+     ],
+     "answer": 1,
+     "explain": "La numérotation montre l’ordre dans lequel il faut agir."
     }
    ]
   },
@@ -154,47 +203,61 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Transforme chaque phrase en ajoutant un complément d’objet direct.",
+     "enonce": "**Exercice 1** : Remets ces étapes dans l’ordre pour une salade de fruits.",
      "items": [
-      "Les enfants mangent.",
-      "Ma mère cuisine.",
-      "Il lit.",
-      "Elle dessine."
+      "a) Verser du jus de citron sur les fruits.",
+      "b) Laver les fruits.",
+      "c) Couper les fruits en morceaux.",
+      "d) Servir bien frais."
      ],
      "corrige": [
-      "1. Les enfants mangent des mangues. (réponses possibles)",
-      "2. Ma mère cuisine du poisson.",
-      "3. Il lit un journal.",
-      "4. Elle dessine un arbre."
+      "b) Laver les fruits.",
+      "c) Couper les fruits en morceaux.",
+      "a) Verser du jus de citron sur les fruits.",
+      "d) Servir bien frais."
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Souligne le COD, puis dis si le verbe est transitif direct ou indirect.",
+     "enonce": "**Exercice 2** : Mets les verbes à l’impératif présent (tu).",
      "items": [
-      "Elle a écrit une lettre.",
-      "Il obéit à son père.",
-      "Nous avons ouvert la fenêtre.",
-      "Elle parle de son voyage."
+      "a) mélanger la farine et l’eau",
+      "b) ajouter une pincée de sel",
+      "c) laisser reposer la pâte"
      ],
      "corrige": [
-      "1. une lettre : direct",
-      "2. à son père : indirect",
-      "3. la fenêtre : direct",
-      "4. de son voyage : indirect"
+      "a) mélange la farine et l’eau",
+      "b) ajoute une pincée de sel",
+      "c) laisse reposer la pâte"
      ]
     },
     {
-     "type": "quiz",
-     "question": "Dans « Paul a monté les valises », le verbe « monter » est :",
-     "options": [
-      "intransitif",
-      "transitif direct",
-      "pronominal",
-      "impersonnel"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Donne le rôle de chaque partie d’une recette.",
+     "items": [
+      "a) les ingrédients",
+      "b) les étapes",
+      "c) le temps de préparation"
      ],
-     "answer": 1,
-     "explain": "« les valises » est son COD : emploi transitif direct."
+     "corrige": [
+      "a) liste des produits avec les quantités",
+      "b) consignes numérotées dans l’ordre",
+      "c) information pratique sur la durée"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige trois étapes d’une recette de ton choix (jus de fruit, tartine…) avec des verbes à l’impératif.",
+     "items": [
+      "Étape 1",
+      "Étape 2",
+      "Étape 3"
+     ],
+     "corrige": [
+      "Par exemple : Lave les fruits.",
+      "Par exemple : Presse-les dans un verre.",
+      "Par exemple : Ajoute un peu d’eau et sers bien frais."
+     ]
     }
    ]
   },
@@ -205,23 +268,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Un verbe transitif est suivi d’un complément d’objet : direct (COD) ou indirect (COI).",
-      "Beaucoup de verbes ont un emploi sans complément et un emploi transitif.",
-      "Pour transformer : poser « quoi ? » ou « qui ? » et ajouter un complément.",
-      "Certains verbes changent d’auxiliaire selon l’emploi (est sorti / a sorti)."
+      "Une **recette** est un **texte fonctionnel** : elle donne des consignes pour réaliser un plat.",
+      "Elle comprend un **titre**, des **informations pratiques**, la liste des **ingrédients** (avec les quantités) et des **étapes numérotées**.",
+      "Les verbes sont à l’**impératif** ou à l’**infinitif**.",
+      "Les phrases sont **courtes** ; une phrase = une consigne.",
+      "On utilise des **mots de mesure** et des **mots de liaison de temps**."
      ]
     },
     {
      "type": "quiz",
-     "question": "Quelle phrase contient un verbe transitif indirect ?",
+     "question": "À quel mode sont généralement les verbes d’une recette ?",
      "options": [
-      "Il boit de l’eau.",
-      "Il pense à sa mère.",
-      "Il dort.",
-      "Il arrive."
+      "Au subjonctif",
+      "À l’impératif ou à l’infinitif",
+      "Au conditionnel",
+      "Au passé simple"
      ],
      "answer": 1,
-     "explain": "« à sa mère » est un complément d’objet indirect (préposition « à »)."
+     "explain": "Les consignes sont données à l’impératif ou à l’infinitif."
     }
    ]
   }

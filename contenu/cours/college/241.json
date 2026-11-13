@@ -1,0 +1,372 @@
+{
+ "id": 241,
+ "meta": {
+  "t": "Le présent du subjonctif",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "c",
+  "r": 4.8,
+  "mf": "MF6.4.3"
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que le subjonctif ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le **subjonctif** est un **mode** du verbe, comme l’indicatif et l’impératif. On l’emploie pour exprimer ce qui est **souhaité**, **nécessaire**, **possible** ou **douteux**, c’est-à-dire ce qui n’est pas encore réalisé."
+    },
+    {
+     "type": "def",
+     "label": "Le subjonctif présent",
+     "text": "Le **présent du subjonctif** s’emploie presque toujours dans une **proposition subordonnée** introduite par **que**, après un verbe ou une expression qui exprime la volonté, le souhait, la nécessité ou le doute."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Il faut **que tu viennes**. (nécessité)",
+      "Je veux **que vous soyez** à l’heure. (volonté)",
+      "Il est possible **qu’il pleuve**. (possibilité)"
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Indicatif : *Tu chantes bien.* → Subjonctif : *Je veux que tu chantes bien.*",
+     "label": "Comparaison"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il faut que nous partions », le verbe « partions » est :",
+     "options": [
+      "à l’indicatif",
+      "au subjonctif",
+      "à l’impératif"
+     ],
+     "answer": 1,
+     "explain": "Le verbe suit « il faut que » : il est au subjonctif présent."
+    }
+   ]
+  },
+  {
+   "t": "Les verbes des 1er et 2e groupes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Au présent du subjonctif, on ajoute **que** devant le verbe. Les terminaisons sont les mêmes pour presque tous les verbes : **-e, -es, -e, -ions, -iez, -ent**."
+    },
+    {
+     "type": "table",
+     "title": "Chanter et finir au présent du subjonctif",
+     "head": [
+      "Personne",
+      "chanter (1er groupe)",
+      "finir (2e groupe)"
+     ],
+     "rows": [
+      [
+       "que je",
+       "chante",
+       "finisse"
+      ],
+      [
+       "que tu",
+       "chantes",
+       "finisses"
+      ],
+      [
+       "qu’il / qu’elle",
+       "chante",
+       "finisse"
+      ],
+      [
+       "que nous",
+       "chantions",
+       "finissions"
+      ],
+      [
+       "que vous",
+       "chantiez",
+       "finissiez"
+      ],
+      [
+       "qu’ils / qu’elles",
+       "chantent",
+       "finissent"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour les verbes du 1er groupe, les formes en **je, tu, il** et **ils** sont les mêmes qu’à l’indicatif présent. Pour **nous** et **vous**, elles sont les mêmes qu’à l’imparfait : *que nous chantions*, *que vous chantiez*.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Il faut que vous (jouer) :",
+     "options": [
+      "jouez",
+      "jouiez",
+      "jouies"
+     ],
+     "answer": 1,
+     "explain": "Avec « vous », la terminaison est -iez : que vous jou**iez**."
+    }
+   ]
+  },
+  {
+   "t": "Être, avoir et les verbes courants",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les verbes **être** et **avoir** ont des formes particulières à connaître par cœur."
+    },
+    {
+     "type": "table",
+     "title": "Être et avoir au présent du subjonctif",
+     "head": [
+      "Personne",
+      "être",
+      "avoir"
+     ],
+     "rows": [
+      [
+       "que je (j’)",
+       "sois",
+       "aie"
+      ],
+      [
+       "que tu",
+       "sois",
+       "aies"
+      ],
+      [
+       "qu’il / qu’elle",
+       "soit",
+       "ait"
+      ],
+      [
+       "que nous",
+       "soyons",
+       "ayons"
+      ],
+      [
+       "que vous",
+       "soyez",
+       "ayez"
+      ],
+      [
+       "qu’ils / qu’elles",
+       "soient",
+       "aient"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Quelques verbes très utilisés",
+     "head": [
+      "Verbe",
+      "que je",
+      "que nous",
+      "qu’ils"
+     ],
+     "rows": [
+      [
+       "aller",
+       "aille",
+       "allions",
+       "aillent"
+      ],
+      [
+       "faire",
+       "fasse",
+       "fassions",
+       "fassent"
+      ],
+      [
+       "venir",
+       "vienne",
+       "venions",
+       "viennent"
+      ],
+      [
+       "prendre",
+       "prenne",
+       "prenions",
+       "prennent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Il ne faut pas confondre « que j’**aie** » (subjonctif) et « j’**ai** » (indicatif). On écrit : il faut que j’**aie** du courage.",
+     "label": "Ne pas confondre"
+    },
+    {
+     "type": "quiz",
+     "question": "Je souhaite que tu (avoir) du courage :",
+     "options": [
+      "as",
+      "aies",
+      "ait"
+     ],
+     "answer": 1,
+     "explain": "Le subjonctif présent d’« avoir » à la 2e personne du singulier est « que tu aies »."
+    }
+   ]
+  },
+  {
+   "t": "Quand employer le subjonctif ?",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Quelques expressions suivies du subjonctif",
+     "head": [
+      "Idée exprimée",
+      "Expressions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Nécessité",
+       "il faut que, il est nécessaire que",
+       "Il faut que tu **sois** attentif."
+      ],
+      [
+       "Volonté, souhait",
+       "vouloir que, souhaiter que, désirer que",
+       "Je veux que tu **viennes**."
+      ],
+      [
+       "Possibilité, doute",
+       "il est possible que, douter que",
+       "Il est possible qu’il **pleuve**."
+      ],
+      [
+       "But, concession",
+       "pour que, afin que, bien que",
+       "Il parle fort pour que tous l’**entendent**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Certains verbes sont suivis de l’**indicatif**, même s’ils ressemblent aux précédents : *j’espère qu’il **viendra***, *je crois qu’elle **a** raison*, *je sais qu’il **est** là*.",
+     "label": "Attention à l’indicatif"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Il faut que tu viens.",
+      "Il faut que tu viennes.",
+      "Il faut que tu viendras."
+     ],
+     "answer": 1,
+     "explain": "Après « il faut que », on emploie le subjonctif : que tu viennes."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Conjuguez au présent du subjonctif les verbes entre parenthèses (1er et 2e groupes).",
+     "items": [
+      "Il faut que tu (chanter) plus fort.",
+      "Il faut que nous (finir) avant midi.",
+      "Je veux que vous (jouer) calmement.",
+      "Il faut qu’elles (réussir).",
+      "Pour que je (grandir) vite, je mange bien."
+     ],
+     "corrige": [
+      "chantes",
+      "finissions",
+      "jouiez",
+      "réussissent",
+      "grandisse"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjuguez au présent du subjonctif : être et avoir.",
+     "items": [
+      "Il faut que je (être) à l’heure.",
+      "Je souhaite que tu (avoir) du courage.",
+      "Bien que nous (être) fatigués, nous continuons.",
+      "Il faut qu’ils (avoir) de la patience.",
+      "Il faut que vous (être) prudents."
+     ],
+     "corrige": [
+      "sois",
+      "aies",
+      "soyons",
+      "aient",
+      "soyez"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Conjuguez au présent du subjonctif : verbes courants.",
+     "items": [
+      "Il faut que tu (aller) chez le médecin.",
+      "Je veux que nous (faire) du sport.",
+      "Il est nécessaire qu’il (venir).",
+      "Il faut que je (prendre) mon sac."
+     ],
+     "corrige": [
+      "ailles",
+      "fassions",
+      "vienne",
+      "prenne"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Mettez le verbe à l’indicatif ou au subjonctif selon le sens.",
+     "items": [
+      "J’espère qu’il (venir) demain.",
+      "Il faut qu’il (venir) demain.",
+      "Je crois qu’elle (avoir) raison.",
+      "Il est possible qu’elle (avoir) raison."
+     ],
+     "corrige": [
+      "viendra (indicatif futur)",
+      "vienne (subjonctif)",
+      "a (indicatif)",
+      "ait (subjonctif)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "Le **subjonctif** exprime la nécessité, la volonté, le souhait, la possibilité ou le doute.",
+      "Il s’emploie surtout dans une subordonnée introduite par **que**.",
+      "Terminaisons : **-e, -es, -e, -ions, -iez, -ent**.",
+      "Formes particulières : *que je sois*, *que j’aie*, *que j’aille*, *que je fasse*.",
+      "Après *espérer que*, *croire que*, *savoir que*, on emploie l’**indicatif**."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la forme correcte ?",
+     "options": [
+      "Il faut que nous allons.",
+      "Il faut que nous allions.",
+      "Il faut que nous irons."
+     ],
+     "answer": 1,
+     "explain": "« il faut que nous » + subjonctif : que nous allions."
+    }
+   ]
+  }
+ ]
+}

@@ -1,127 +1,199 @@
 {
  "id": 227,
  "meta": {
-  "t": "L’accord du participe passé des verbes occasionnellement pronominaux de sens passif",
+  "t": "Les noms masculins en -ail, -eil, -euil et les noms féminins en -aille, -eille, -euille",
   "k": "Cours",
-  "n": "3e",
+  "n": "5e",
   "m": "Orthographe",
-  "img": "e",
-  "r": 4.8
+  "img": "f",
+  "r": 4.8,
+  "mf": "MF5.3.3"
  },
  "sections": [
   {
-   "t": "Un verbe pronominal qui exprime un passif",
+   "t": "Un son, deux écritures",
    "blocs": [
     {
      "type": "p",
-     "text": "Beaucoup de verbes ne sont pas toujours pronominaux : on les appelle **occasionnellement pronominaux**. Quand le sujet est une **chose** qui subit l’action, le verbe pronominal a un **sens passif**."
-    },
-    {
-     "type": "ex",
-     "text": "« Ce fruit **se vend** bien » signifie « Ce fruit **est vendu** bien. »"
+     "text": "Dans *le travail* et *la bataille*, on entend le même son [aj] à la fin. Mais le premier mot s’écrit avec **-ail** et le second avec **-aille**. Pourquoi ? Parce que le premier est **masculin** et le second **féminin**."
     },
     {
      "type": "list",
      "items": [
-      "Reconnaître le sens passif d’un verbe pronominal",
-      "Accorder le participe passé avec le sujet",
-      "Distinguer le sens passif du sens réfléchi"
+      "Reconnaître les noms masculins en -ail, -eil, -euil",
+      "Reconnaître les noms féminins en -aille, -eille, -euille",
+      "Utiliser le genre du nom pour écrire correctement la fin",
+      "Connaître quelques exceptions"
      ],
      "label": "Objectifs"
     },
     {
-     "type": "quiz",
-     "question": "Dans « Ces maisons se sont construites vite », le sens est :",
-     "options": [
-      "réfléchi",
-      "passif",
-      "réciproque",
-      "impersonnel"
+     "type": "table",
+     "title": "La règle de base",
+     "head": [
+      "Genre du nom",
+      "Terminaison",
+      "Exemples"
      ],
-     "answer": 1,
-     "explain": "Les maisons n’ont pas construit elles-mêmes : elles ont été construites."
+     "rows": [
+      [
+       "**Masculin**",
+       "-ail, -eil, -euil (**un seul l**)",
+       "*un travail, un soleil, un fauteuil*"
+      ],
+      [
+       "**Féminin**",
+       "-aille, -eille, -euille (**deux l** et un e)",
+       "*une bataille, une bouteille, une feuille*"
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle terminaison pour un nom féminin ?",
+     "options": [
+      "-ail",
+      "-eil",
+      "-eille",
+      "-euil"
+     ],
+     "answer": 2,
+     "explain": "Les noms féminins se terminent par -eille, -aille ou -euille."
     }
    ]
   },
   {
-   "t": "La règle d’accord",
+   "t": "Les noms masculins : -ail, -eil, -euil",
    "blocs": [
     {
-     "type": "def",
-     "label": "Règle",
-     "text": "Le participe passé d’un verbe pronominal **de sens passif** s’accorde avec le **sujet**, comme avec l’auxiliaire être."
-    },
-    {
      "type": "table",
-     "title": "Accord avec le sujet",
+     "title": "Quelques noms masculins",
      "head": [
-      "Phrase",
-      "Équivalent passif",
-      "Accord"
+      "Terminaison",
+      "Exemples"
      ],
      "rows": [
       [
-       "Ces bananes se sont bien vendu**es**.",
-       "Ces bananes ont été bien vendues.",
-       "fém. plur."
+       "**-ail**",
+       "un travail, un détail, un portail, un éventail, un gouvernail"
       ],
       [
-       "Le sujet s’est bien expliqu**é**.",
-       "Le sujet a été bien expliqué.",
-       "masc. sing."
+       "**-eil**",
+       "un soleil, un sommeil, un conseil, un réveil, un orteil, un appareil"
       ],
       [
-       "La porte s’est ouvert**e** toute seule.",
-       "La porte a été ouverte.",
-       "fém. sing."
-      ],
-      [
-       "Ces livres se sont lu**s** facilement.",
-       "Ces livres ont été lus.",
-       "masc. plur."
+       "**-euil**",
+       "un fauteuil, un écureuil, un chevreuil, un seuil, un deuil"
       ]
      ]
+    },
+    {
+     "type": "ex",
+     "text": "Le **soleil** brille sur le **portail**. L’**écureuil** dort sur le **fauteuil**.",
+     "label": "Dans des phrases"
     },
     {
      "type": "tip",
      "label": "Astuce",
-     "text": "Test : remplace « se » par « a été / ont été ». Si la phrase garde le même sens, le verbe est passif : accorde avec le **sujet**."
+     "text": "Avant d’écrire, mets **un** ou **le** devant le nom. Si ça marche (*un travail*), c’est masculin : **-ail**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom est masculin ?",
+     "options": [
+      "la médaille",
+      "le soleil",
+      "la corbeille",
+      "la feuille"
+     ],
+     "answer": 1,
+     "explain": "« Soleil » est masculin : on écrit -eil."
     }
    ]
   },
   {
-   "t": "Passif ou réfléchi ?",
+   "t": "Les noms féminins : -aille, -eille, -euille",
    "blocs": [
     {
      "type": "table",
-     "title": "Comparer deux sens",
+     "title": "Quelques noms féminins",
      "head": [
-      "Phrase",
-      "Sens",
-      "Accord"
+      "Terminaison",
+      "Exemples"
      ],
      "rows": [
       [
-       "Elle s’est lavée.",
-       "réfléchi (elle lave elle-même) : COD « se » placé avant",
-       "accord avec le COD « se » = elle"
+       "**-aille**",
+       "la bataille, la médaille, la paille, la muraille, la volaille, la ferraille"
       ],
       [
-       "Ces vêtements se sont lavés facilement.",
-       "passif (ils ont été lavés)",
-       "accord avec le sujet"
+       "**-eille**",
+       "l’abeille, la bouteille, l’oreille, la corbeille, la merveille, la veille"
+      ],
+      [
+       "**-euille**",
+       "la feuille"
       ]
      ]
+    },
+    {
+     "type": "ex",
+     "text": "L’**abeille** vole autour de la **corbeille**. La **feuille** tombe sur la **paille**.",
+     "label": "Dans des phrases"
+    },
+    {
+     "type": "tip",
+     "label": "Astuce",
+     "text": "Mets **une** ou **la** devant le nom : *une bouteille*. Si ça marche, le nom est féminin : **-eille**."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom est féminin ?",
+     "options": [
+      "un détail",
+      "un sommeil",
+      "une abeille",
+      "un fauteuil"
+     ],
+     "answer": 2,
+     "explain": "« Abeille » est féminin : on écrit -eille."
+    }
+   ]
+  },
+  {
+   "t": "Les exceptions et les pièges",
+   "blocs": [
+    {
+     "type": "warn",
+     "label": "Exceptions : noms masculins en -euille",
+     "text": "Les noms **portefeuille**, **chèvrefeuille** et **millefeuille** sont **masculins** : *un portefeuille*, *un millefeuille*."
     },
     {
      "type": "warn",
-     "label": "Attention",
-     "text": "Dans les deux cas, le participe peut prendre la même marque, mais la **raison** est différente. Le sens passif a un sujet qui est **une chose**, sans agent."
+     "label": "Piège 1 : se fier au son",
+     "text": "Le son [aj] est le même dans *un travail* et *une bataille*. Ne te fie pas à l’oreille, **regarde le genre**."
+    },
+    {
+     "type": "warn",
+     "label": "Piège 2 : oublier le e du féminin",
+     "text": "*une bouteil* est faux : les noms féminins s’écrivent avec **-eille**."
     },
     {
      "type": "tip",
-     "label": "Astuce",
-     "text": "Le sens passif concerne souvent des choses : se vendre, se manger, se construire, se fermer, s’ouvrir, se lire, se dire…"
+     "label": "À savoir",
+     "text": "Au pluriel, les noms en -ail prennent généralement -s (*des détails, des portails*). Quelques-uns font -aux (*des travaux, des vitraux, des coraux*)."
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle orthographe est correcte ?",
+     "options": [
+      "un portefeuille",
+      "une portefeuil",
+      "un portefeuil",
+      "la portefeuille"
+     ],
+     "answer": 0,
+     "explain": "« Portefeuille » est un nom masculin qui se termine par -feuille."
     }
    ]
   },
@@ -130,47 +202,69 @@
    "blocs": [
     {
      "type": "exercise",
-     "enonce": "Accorde le participe passé.",
+     "enonce": "**Exercice 1** : Complète avec -ail, -eil, -euil, -aille, -eille ou -euille.",
      "items": [
-      "Ces gâteaux se sont bien (vendre).",
-      "La fenêtre s’est (ouvrir) sous le vent.",
-      "Ces textes se sont (lire) sans effort.",
-      "Les histoires se sont (raconter) autour du feu."
+      "a) le trav…",
+      "b) la bout…",
+      "c) le sol…",
+      "d) la méd…",
+      "e) le fa…",
+      "f) l’ab…"
      ],
      "corrige": [
-      "1. vendus",
-      "2. ouverte",
-      "3. lus",
-      "4. racontées"
+      "a) travail",
+      "b) bouteille",
+      "c) soleil",
+      "d) médaille",
+      "e) fauteuil",
+      "f) abeille"
      ]
     },
     {
      "type": "exercise",
-     "enonce": "Dis si le sens est passif ou réfléchi.",
+     "enonce": "**Exercice 2** : Dis si le nom est masculin (M) ou féminin (F) et écris-le correctement : *a) un cons… b) une or… c) un dét… d) une fe…*",
      "items": [
-      "La porte s’est refermée.",
-      "Elle s’est coiffée.",
-      "Ces fruits se sont bien conservés.",
-      "Il s’est lavé."
+      "a) un cons…",
+      "b) une or…",
+      "c) un dét…",
+      "d) une fe…"
      ],
      "corrige": [
-      "1. passif",
-      "2. réfléchi",
-      "3. passif",
-      "4. réfléchi"
+      "a) M : un conseil",
+      "b) F : une oreille",
+      "c) M : un détail",
+      "d) F : une feuille"
      ]
     },
     {
-     "type": "quiz",
-     "question": "« Les maisons se sont (construire) rapidement. »",
-     "options": [
-      "construit",
-      "construites",
-      "construits",
-      "construite"
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis si le nom est masculin (M) ou féminin (F).",
+     "items": [
+      "a) abeille",
+      "b) écureuil",
+      "c) soleil",
+      "d) médaille",
+      "e) travail"
      ],
-     "answer": 1,
-     "explain": "Sens passif : accord avec le sujet féminin pluriel."
+     "corrige": [
+      "a) F",
+      "b) M",
+      "c) M",
+      "d) F",
+      "e) M"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Écris deux phrases, l’une avec un nom masculin en -ail, -eil ou -euil, l’autre avec un nom féminin en -aille, -eille ou -euille.",
+     "items": [
+      "Phrase 1 (masculin)",
+      "Phrase 2 (féminin)"
+     ],
+     "corrige": [
+      "Par exemple : Le chevreuil traverse le chemin.",
+      "Par exemple : Elle ramasse une feuille."
+     ]
     }
    ]
   },
@@ -181,23 +275,24 @@
      "type": "retenir",
      "label": "À retenir",
      "items": [
-      "Verbe occasionnellement pronominal : il existe aussi sans « se ».",
-      "Sens passif : le sujet (souvent une chose) subit l’action.",
-      "Le participe passé s’accorde avec le sujet.",
-      "Astuce : remplacer « se » par « a été / ont été »."
+      "Les noms **masculins** se terminent par **-ail, -eil, -euil** (un seul **l**) : *un travail, un soleil, un fauteuil*.",
+      "Les noms **féminins** se terminent par **-aille, -eille, -euille** (deux **l**) : *une bataille, une bouteille, une feuille*.",
+      "Pour choisir, **mets un ou une devant le nom**.",
+      "**Exceptions** : *portefeuille, chèvrefeuille, millefeuille* sont masculins.",
+      "Le son [aj] est le même : c’est le **genre** qui décide."
      ]
     },
     {
      "type": "quiz",
-     "question": "« Ces romans se sont bien (vendre). » :",
+     "question": "Quelle règle permet de choisir la terminaison ?",
      "options": [
-      "vendu",
-      "vendue",
-      "vendus",
-      "vendues"
+      "Le nombre de lettres",
+      "Le genre du nom",
+      "La première lettre",
+      "L’accent"
      ],
-     "answer": 2,
-     "explain": "Sujet masculin pluriel : « vendus »."
+     "answer": 1,
+     "explain": "On choisit selon que le nom est masculin ou féminin."
     }
    ]
   }

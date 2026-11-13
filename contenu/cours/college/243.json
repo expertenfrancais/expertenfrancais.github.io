@@ -1,0 +1,363 @@
+{
+ "id": 243,
+ "meta": {
+  "t": "La nominalisation",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "mf": "MF5.2.6"
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce que la nominalisation ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut dire la même chose de plusieurs façons. Comparez : *Les ouvriers **construisent** un pont.* et *La **construction** du pont est longue.* Dans la seconde phrase, le verbe *construire* est devenu le nom *construction*."
+    },
+    {
+     "type": "def",
+     "label": "La nominalisation",
+     "text": "La **nominalisation** consiste à **transformer un mot ou une phrase en nom ou en groupe nominal**. On peut nominaliser un **verbe** (*arriver → l’arrivée*) ou un **adjectif qualificatif** (*grand → la grandeur*)."
+    },
+    {
+     "type": "ex",
+     "text": "*Le directeur refuse la demande.* → *Le **refus** de la demande par le directeur.*\n*Le pays est riche.* → *La **richesse** du pays.*",
+     "label": "Exemples"
+    },
+    {
+     "type": "p",
+     "text": "Le nom obtenu s’appelle un **nom dérivé** : il vient du verbe ou de l’adjectif dont il est tiré."
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom est tiré du verbe « décider » ?",
+     "options": [
+      "décideur",
+      "décision",
+      "décidé"
+     ],
+     "answer": 1,
+     "explain": "Le nom d’action tiré de « décider » est « décision »."
+    }
+   ]
+  },
+  {
+   "t": "Nominaliser un verbe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour former un nom à partir d’un verbe, on ajoute le plus souvent un **suffixe** au radical."
+    },
+    {
+     "type": "table",
+     "title": "Les principales façons de nominaliser un verbe",
+     "head": [
+      "Procédé",
+      "Verbe",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "-tion / -ation / -ition",
+       "construire, protéger, punir",
+       "construction, protection, punition"
+      ],
+      [
+       "-ment",
+       "changer, mouvoir",
+       "changement, mouvement"
+      ],
+      [
+       "-age",
+       "laver, nettoyer",
+       "lavage, nettoyage"
+      ],
+      [
+       "-ure",
+       "couper, blesser",
+       "coupure, blessure"
+      ],
+      [
+       "-ance / -ence",
+       "naître, résister",
+       "naissance, résistance"
+      ],
+      [
+       "Sans suffixe",
+       "chanter, refuser, partir, marcher",
+       "chant, refus, départ, marche"
+      ],
+      [
+       "Mot différent",
+       "choisir, vendre, perdre",
+       "choix, vente, perte"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Le nom peut aussi être au féminin avec un **-e** final : *arriver → l’arrivée*, *sortir → la sortie*, *entrer → l’entrée*.",
+     "label": "Astuce"
+    },
+    {
+     "type": "warn",
+     "text": "N’inventez pas le nom : certains verbes ont un nom irrégulier. On dit *un refus* (et non *un refusage*), *un choix* (et non *un choisissement*). En cas de doute, vérifiez dans le dictionnaire.",
+     "label": "Vérifier"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom correct tiré de « recevoir » ?",
+     "options": [
+      "recevage",
+      "réception",
+      "recevement"
+     ],
+     "answer": 1,
+     "explain": "Le nom tiré de « recevoir » est « réception »."
+    }
+   ]
+  },
+  {
+   "t": "Nominaliser un adjectif qualificatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On forme aussi un nom à partir d’un adjectif en ajoutant un suffixe. Ce nom désigne une **qualité** ou un **défaut**."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux suffixes pour nominaliser un adjectif",
+     "head": [
+      "Suffixe",
+      "Adjectif",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "-eur",
+       "grand, doux, lent",
+       "grandeur, douceur, lenteur"
+      ],
+      [
+       "-esse",
+       "riche, triste, sage",
+       "richesse, tristesse, sagesse"
+      ],
+      [
+       "-ité (-té)",
+       "beau, rapide, fidèle",
+       "beauté, rapidité, fidélité"
+      ],
+      [
+       "-ie",
+       "jaloux, fou",
+       "jalousie, folie"
+      ],
+      [
+       "-tude",
+       "inquiet, certain",
+       "inquiétude, certitude"
+      ],
+      [
+       "-ise",
+       "sot, franc",
+       "sottise, franchise"
+      ],
+      [
+       "-ance / -ence",
+       "vigilant, patient",
+       "vigilance, patience"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Ne confondez pas la **qualité** (nom) et la **personne** qui la possède : *la sagesse* (nom) / *un sage* (personne).",
+     "label": "Ne pas confondre"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom tiré de l’adjectif « large » ?",
+     "options": [
+      "largesse",
+      "largeur",
+      "largité"
+     ],
+     "answer": 1,
+     "explain": "« large » donne « largeur » (« largesse » existe, mais il a un autre sens : la générosité)."
+    }
+   ]
+  },
+  {
+   "t": "Transformer une phrase par nominalisation",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Nominaliser une phrase permet de la **condenser**, de la transformer en **titre** ou de **reprendre une idée** sans répéter le verbe. Dans le groupe nominal obtenu, le **sujet** devient un **complément du nom** introduit par **de** (ou par), et l’adverbe devient un **adjectif**."
+    },
+    {
+     "type": "table",
+     "title": "De la phrase au groupe nominal",
+     "head": [
+      "Phrase",
+      "Groupe nominal"
+     ],
+     "rows": [
+      [
+       "Les habitants protestent.",
+       "La protestation des habitants."
+      ],
+      [
+       "Le pont s’effondre.",
+       "L’effondrement du pont."
+      ],
+      [
+       "Les élèves réussissent brillamment.",
+       "La brillante réussite des élèves."
+      ],
+      [
+       "Le médecin guérit rapidement le malade.",
+       "La guérison rapide du malade par le médecin."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*Les voisins ont décidé de déménager. Cette **décision** a surpris tout le monde.* Le nom *décision* reprend l’idée de la première phrase sans répéter le verbe.",
+     "label": "Reprendre une idée"
+    },
+    {
+     "type": "tip",
+     "text": "Les titres de journaux utilisent beaucoup la nominalisation : *Arrivée du président à Brazzaville*, *Ouverture de la nouvelle école*.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nominalisation de « Le conducteur freine brusquement » ?",
+     "options": [
+      "Le freinage brusque du conducteur",
+      "Le conducteur du freinage brusque",
+      "Le freiné brusquement"
+     ],
+     "answer": 0,
+     "explain": "Le verbe devient un nom (freinage), l’adverbe devient un adjectif (brusque) et le sujet devient un complément du nom."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Donnez le nom correspondant à chaque verbe.",
+     "items": [
+      "décider",
+      "arriver",
+      "construire",
+      "protéger",
+      "chanter",
+      "refuser",
+      "partir",
+      "marcher"
+     ],
+     "corrige": [
+      "décision",
+      "arrivée",
+      "construction",
+      "protection",
+      "chant",
+      "refus",
+      "départ",
+      "marche"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donnez le nom correspondant à chaque adjectif.",
+     "items": [
+      "sage",
+      "lent",
+      "fidèle",
+      "triste",
+      "certain",
+      "jaloux",
+      "patient",
+      "large"
+     ],
+     "corrige": [
+      "sagesse",
+      "lenteur",
+      "fidélité",
+      "tristesse",
+      "certitude",
+      "jalousie",
+      "patience",
+      "largeur"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transformez chaque phrase en groupe nominal.",
+     "items": [
+      "Les habitants protestent.",
+      "Le médecin guérit rapidement le malade.",
+      "Le pont s’effondre.",
+      "Les élèves réussissent brillamment.",
+      "Le conducteur freine brusquement."
+     ],
+     "corrige": [
+      "La protestation des habitants.",
+      "La guérison rapide du malade par le médecin.",
+      "L’effondrement du pont.",
+      "La brillante réussite des élèves.",
+      "Le freinage brusque du conducteur."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complétez avec un nom tiré du verbe en gras, pour éviter la répétition.",
+     "items": [
+      "Les ouvriers ont **réparé** la route. La … a duré une semaine.",
+      "Le public a **applaudi** l’artiste. Les … ont duré longtemps.",
+      "Le gouvernement a annoncé qu’il **construirait** une école. Cette … coûtera cher."
+     ],
+     "corrige": [
+      "réparation",
+      "applaudissements",
+      "construction"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **nominalisation** transforme un verbe ou un adjectif qualificatif en **nom**.",
+      "Pour un verbe : *-tion, -ment, -age, -ure, -ance, -ence*, ou sans suffixe (*refus, départ*).",
+      "Pour un adjectif : *-eur, -esse, -ité, -ie, -tude, -ise*.",
+      "Dans la phrase nominalisée, le sujet devient un **complément du nom** et l’adverbe un **adjectif**.",
+      "Elle sert à condenser, à titrer et à reprendre une idée."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nominalisation de l’adjectif « fidèle » ?",
+     "options": [
+      "fidélité",
+      "fidèlement",
+      "fidéler"
+     ],
+     "answer": 0,
+     "explain": "« fidèle » donne le nom « fidélité » (suffixe -ité)."
+    }
+   ]
+  }
+ ]
+}
