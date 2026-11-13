@@ -23,6 +23,15 @@ Pour **chaque niveau**, deux documents : la **répartition** (notions à enseign
 | `programme-7.json` | 50007 | PPO | 3e | Répartition annuelle |
 | `programme-8.json` | 50008 | PPO | 3e | Guide pédagogique |
 
+**Textes de lecture (v236)** : un document par niveau, même dossier. Nomenclature officielle des textes de lecture à étudier (ouvrage IPAM « La 6e/5e/4e/3e en français »), un tableau par trimestre (N°, Texte, Type de texte, Pages). Le texte intégral de chaque lecture sera ajouté peu à peu, dans de nouvelles parties du même fichier.
+
+| Fichier | id | Programme | Niveau | Document |
+|---|---|---|---|---|
+| `programme-9.json` | 50009 | APS | 6e | Textes de lecture |
+| `programme-10.json` | 50010 | APS | 5e | Textes de lecture |
+| `programme-11.json` | 50011 | PPO | 4e | Textes de lecture |
+| `programme-12.json` | 50012 | PPO | 3e | Textes de lecture |
+
 `id` = 50000 + `pg`. Autre cycle (primaire, lycée, université) : même principe, dossier `contenu/programmes/<cycle>/`, numéro suivant (`ls contenu/programmes/*/ | sort -V | tail -3`).
 
 ## Fichiers autorisés
