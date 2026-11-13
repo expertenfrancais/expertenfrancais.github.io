@@ -1,0 +1,403 @@
+{
+ "id": 10056,
+ "meta": {
+  "t": "La personnification",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 56
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.4 : Utiliser les figures de style",
+  "titre": "La personnification",
+  "theme": "",
+  "objet": "Utilisation des figures de style : la personnification",
+  "numero": 55,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation des figures de style : la personnification, l’apprenant doit être capable de relever, dans au moins 4 phrases sur 5, l’élément qui reçoit un comportement humain.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève écrit : « La lune sourit. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "La lune peut-elle vraiment sourire ?"
+    },
+    {
+     "n": 2,
+     "q": "Pourquoi l’élève écrit-il cela ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : seul un être humain peut sourire."
+    },
+    {
+     "n": 2,
+     "r": "Pour montrer que la lune est douce et brillante."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de relever, dans au moins 4 phrases sur 5, la chose à qui l’on donne un comportement humain.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’une figure de style ?"
+    },
+    {
+     "n": 4,
+     "q": "Cite deux actions que seul un être humain peut faire."
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce qu’une métaphore ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un procédé qui rend le langage plus imagé ou plus expressif."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : parler, rire, pleurer, sourire."
+    },
+    {
+     "n": 5,
+     "r": "C’est une comparaison sans mot outil."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Le vent siffle une chanson dans les arbres.\n2. La lune sourit aux enfants qui jouent.\n3. Le soleil se réveille à l’est.\n4. La pluie frappe à la porte.\n5. Le fleuve murmure des secrets à ses rives.\n6. Mon cartable pleure sous le poids des livres.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quelle chose reçoit un comportement humain ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quelle chose reçoit un comportement humain ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quelle chose reçoit un comportement humain ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quelle chose reçoit un comportement humain ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quelle chose reçoit un comportement humain ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quelle chose reçoit un comportement humain ?"
+      },
+      {
+       "n": 12,
+       "q": "Ces choses peuvent-elles vraiment faire ces actions ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "le vent"
+      },
+      {
+       "n": 7,
+       "r": "la lune"
+      },
+      {
+       "n": 8,
+       "r": "le soleil"
+      },
+      {
+       "n": 9,
+       "r": "la pluie"
+      },
+      {
+       "n": 10,
+       "r": "le fleuve"
+      },
+      {
+       "n": 11,
+       "r": "mon cartable"
+      },
+      {
+       "n": 12,
+       "r": "Non : seul un être humain peut les faire."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Le vent siffle une chanson dans les arbres.\n2. La lune sourit aux enfants qui jouent.\n3. Le soleil se réveille à l’est.\n4. La pluie frappe à la porte.\n5. Le fleuve murmure des secrets à ses rives.\n6. Mon cartable pleure sous le poids des livres.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quelle action humaine le vent fait-il dans la phrase 1 ?"
+      },
+      {
+       "n": 14,
+       "q": "Quels verbes expriment des actions humaines ?"
+      },
+      {
+       "n": 15,
+       "q": "Pourquoi emploie-t-on la personnification ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelle différence y a-t-il avec la métaphore ?"
+      },
+      {
+       "n": 17,
+       "q": "Que veut dire la phrase 6 ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Il siffle une chanson."
+      },
+      {
+       "n": 14,
+       "r": "siffler, sourire, se réveiller, frapper, murmurer, pleurer."
+      },
+      {
+       "n": 15,
+       "r": "Pour rendre la description vivante et touchante."
+      },
+      {
+       "n": 16,
+       "r": "La personnification donne à une chose ou à un animal un comportement humain."
+      },
+      {
+       "n": 17,
+       "r": "Le cartable est très lourd."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce que la personnification ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment la reconnaît-on ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est une figure de style qui donne des actions ou des sentiments humains à une chose, un animal ou une idée."
+      },
+      {
+       "n": 19,
+       "r": "Un sujet non humain fait une action humaine : sourire, parler, pleurer."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la personnification.",
+    "tache": "Relever la chose qui reçoit un comportement humain dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et relève la chose à qui l’on donne un comportement humain.",
+    "items": [
+     "Le vent chuchote dans les feuilles.",
+     "La rivière danse entre les pierres.",
+     "La nuit avale les collines.",
+     "Ma radio bavarde toute la journée.",
+     "Le vieux manguier nous sourit."
+    ],
+    "cle": [
+     "Le vent",
+     "La rivière",
+     "La nuit",
+     "Ma radio",
+     "Le vieux manguier"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La personnification",
+  "intro": "La personnification donne à une chose, à un animal ou à une idée les actions ou les sentiments d’un être humain.",
+  "corpus": [
+   "Le vent siffle une chanson dans les arbres.",
+   "La lune sourit aux enfants qui jouent.",
+   "Le soleil se réveille à l’est.",
+   "La pluie frappe à la porte.",
+   "Le fleuve murmure des secrets à ses rives.",
+   "Mon cartable pleure sous le poids des livres."
+  ],
+  "retenir": "La personnification donne un comportement humain à une chose.\nUne chose peut sourire, pleurer ou parler.\nElle rend la description vivante.\nOn la reconnaît à une action que seul l’homme peut faire.\nExemple : La lune sourit aux enfants qui jouent.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Chose personnifiée",
+    "Action humaine",
+    "Ce que cela montre"
+   ],
+   "rows": [
+    [
+     "1",
+     "le vent",
+     "siffler une chanson",
+     "le vent est mélodieux"
+    ],
+    [
+     "2",
+     "la lune",
+     "sourire",
+     "la lune est douce"
+    ],
+    [
+     "3",
+     "le soleil",
+     "se réveiller",
+     "le jour commence"
+    ],
+    [
+     "4",
+     "la pluie",
+     "frapper à la porte",
+     "la pluie tombe fort"
+    ],
+    [
+     "5",
+     "le fleuve",
+     "murmurer",
+     "l’eau coule doucement"
+    ],
+    [
+     "6",
+     "mon cartable",
+     "pleurer",
+     "le cartable est très lourd"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie le verbe qui donne à la chose un comportement humain.",
+    "items": [
+     "Le soleil dort derrière la colline.",
+     "La pluie pleure sur le toit.",
+     "Le moteur toussote au démarrage.",
+     "La forêt chuchote la nuit."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si la phrase contient une personnification : oui ou non.",
+    "items": [
+     "La mer rit aux enfants.",
+     "La mer est bleue.",
+     "Le vent hurle dans la rue.",
+     "Le vent souffle fort."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. dort ; 2. pleure ; 3. toussote ; 4. chuchote. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. oui ; 2. non ; 3. oui ; 4. non. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. Le vent ; 2. La rivière ; 3. La nuit ; 4. Ma radio ; 5. Le vieux manguier. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

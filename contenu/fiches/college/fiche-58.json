@@ -1,0 +1,403 @@
+{
+ "id": 10058,
+ "meta": {
+  "t": "L’accord du participe passé des verbes pronominaux de sens réciproque",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 58
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.2 : Appliquer l’accord des participes passés",
+  "titre": "L’accord du participe passé des verbes pronominaux de sens réciproque",
+  "theme": "",
+  "objet": "Application des règles d’accord du participe passé des verbes occasionnellement pronominaux de sens réciproque",
+  "numero": 57,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’accord du participe passé des verbes occasionnellement pronominaux de sens réciproque, l’apprenant doit être capable de accorder correctement au moins 4 participes passés de verbes pronominaux de sens réciproque sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Deux amis se rencontrent. Ils se saluent. Ils se parlent.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Qui salue qui ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment appelle-t-on ce type de verbe pronominal ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Chacun salue l’autre."
+    },
+    {
+     "n": 2,
+     "r": "Un verbe de sens réciproque."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de accorder correctement au moins 4 participes passés de verbes pronominaux de sens réciproque sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un COI ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’un COD ?"
+    },
+    {
+     "n": 5,
+     "q": "Donne le participe passé de « saluer »."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est le complément d’objet indirect : il se construit avec une préposition (à, de)."
+    },
+    {
+     "n": 4,
+     "r": "C’est le complément d’objet direct : il répond à « quoi ? » ou « qui ? » sans préposition."
+    },
+    {
+     "n": 5,
+     "r": "salué"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Les deux amis se sont salués devant l’école.\n2. Les voisines se sont parlé longtemps.\n3. Mes frères se sont regardés sans rien dire.\n4. Les deux filles se sont souri.\n5. Nos parents se sont rencontrés à Brazzaville.\n6. Les élèves se sont téléphoné hier soir.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le participe passé ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le participe passé ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le participe passé ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le participe passé ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le participe passé ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le participe passé ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel auxiliaire emploie-t-on dans ces phrases ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "salués"
+      },
+      {
+       "n": 7,
+       "r": "parlé"
+      },
+      {
+       "n": 8,
+       "r": "regardés"
+      },
+      {
+       "n": 9,
+       "r": "souri"
+      },
+      {
+       "n": 10,
+       "r": "rencontrés"
+      },
+      {
+       "n": 11,
+       "r": "téléphoné"
+      },
+      {
+       "n": 12,
+       "r": "L’auxiliaire être : sont."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Les deux amis se sont salués devant l’école.\n2. Les voisines se sont parlé longtemps.\n3. Mes frères se sont regardés sans rien dire.\n4. Les deux filles se sont souri.\n5. Nos parents se sont rencontrés à Brazzaville.\n6. Les élèves se sont téléphoné hier soir.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Dans la phrase 1, dit-on « saluer quelqu’un » ou « saluer à quelqu’un » ?"
+      },
+      {
+       "n": 14,
+       "q": "Dans la phrase 2, dit-on « parler quelqu’un » ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelles phrases ont un participe invariable ?"
+      },
+      {
+       "n": 16,
+       "q": "Quel test permet de choisir ?"
+      },
+      {
+       "n": 17,
+       "q": "Quels autres verbes restent invariables ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "On dit « saluer quelqu’un » : « se » est COD, donc le participe s’accorde."
+      },
+      {
+       "n": 14,
+       "r": "Non : on dit « parler à quelqu’un » ; « se » est COI, donc le participe reste invariable."
+      },
+      {
+       "n": 15,
+       "r": "Les phrases 2, 4 et 6."
+      },
+      {
+       "n": 16,
+       "r": "On regarde si le verbe se construit avec « à » : parler à, sourire à, téléphoner à ; alors « se » est COI."
+      },
+      {
+       "n": 17,
+       "r": "se nuire, se plaire, se succéder, se ressembler."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’un verbe pronominal de sens réciproque ?"
+      },
+      {
+       "n": 19,
+       "q": "Quelle est la règle d’accord ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est un verbe où plusieurs personnes font l’action les unes sur les autres : se saluer, se parler."
+      },
+      {
+       "n": 19,
+       "r": "Le participe passé s’accorde avec le sujet si « se » est COD ; il reste invariable si « se » est COI."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’accord du participe passé des verbes pronominaux de sens réciproque.",
+    "tache": "Accorder, si c’est nécessaire, le participe passé écrit à l’infinitif entre parenthèses dans chacune des cinq phrases.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et écris le participe passé bien accordé.",
+    "items": [
+     "Les deux amis se sont (saluer) de loin.",
+     "Les voisines se sont (parler) longtemps.",
+     "Mes frères se sont (regarder) en riant.",
+     "Les élèves se sont (téléphoner) hier.",
+     "Les cousines se sont (rencontrer) au marché."
+    ],
+    "cle": [
+     "salués",
+     "parlé",
+     "regardés",
+     "téléphoné",
+     "rencontrées"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’accord du participe passé des verbes pronominaux de sens réciproque",
+  "intro": "Dans un verbe de sens réciproque, plusieurs personnes agissent les unes sur les autres. L’accord dépend de la fonction de « se ».",
+  "corpus": [
+   "Les deux amis se sont salués devant l’école.",
+   "Les voisines se sont parlé longtemps.",
+   "Mes frères se sont regardés sans rien dire.",
+   "Les deux filles se sont souri.",
+   "Nos parents se sont rencontrés à Brazzaville.",
+   "Les élèves se sont téléphoné hier soir."
+  ],
+  "retenir": "Un verbe de sens réciproque : on fait l’action les uns sur les autres.\nSi « se » est COD, le participe s’accorde avec le sujet.\nSi « se » est COI (parler à, sourire à), il reste invariable.\nPour choisir, on regarde si le verbe se construit avec « à ».\nExemple : Elles se sont saluées. Elles se sont parlé.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Participe passé",
+    "Fonction de « se »",
+    "Accord"
+   ],
+   "rows": [
+    [
+     "1",
+     "salués",
+     "« se » est COD (saluer quelqu’un)",
+     "accordé"
+    ],
+    [
+     "2",
+     "parlé",
+     "« se » est COI (parler à quelqu’un)",
+     "invariable"
+    ],
+    [
+     "3",
+     "regardés",
+     "« se » est COD (regarder quelqu’un)",
+     "accordé"
+    ],
+    [
+     "4",
+     "souri",
+     "« se » est COI (sourire à quelqu’un)",
+     "invariable"
+    ],
+    [
+     "5",
+     "rencontrés",
+     "« se » est COD (rencontrer quelqu’un)",
+     "accordé"
+    ],
+    [
+     "6",
+     "téléphoné",
+     "« se » est COI (téléphoner à quelqu’un)",
+     "invariable"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le participe passé entre parenthèses au bon accord.",
+    "items": [
+     "Les filles se sont (embrasser) à la gare.",
+     "Elles se sont (sourire).",
+     "Les deux chefs se sont (écrire) plusieurs lettres.",
+     "Les enfants se sont (aider) pour porter le sac."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si « se » est COD ou COI.",
+    "items": [
+     "Ils se sont salués.",
+     "Ils se sont parlé.",
+     "Elles se sont regardées.",
+     "Elles se sont téléphoné."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. embrassées ; 2. souri ; 3. écrit ; 4. aidés. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. COD ; 2. COI ; 3. COD ; 4. COI. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. salués ; 2. parlé ; 3. regardés ; 4. téléphoné ; 5. rencontrées. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

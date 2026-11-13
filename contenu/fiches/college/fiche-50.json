@@ -1,0 +1,403 @@
+{
+ "id": 10050,
+ "meta": {
+  "t": "Les champs sémantiques",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 50
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.5 : Utiliser le vocabulaire fondamental",
+  "titre": "Les champs sémantiques",
+  "theme": "",
+  "objet": "Utilisation des champs sémantiques",
+  "numero": 49,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation des champs sémantiques, l’apprenant doit être capable de donner le sens du mot « carte » dans au moins 4 phrases sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève dit : « J’ai mal au pied. »\nUn autre dit : « Rendez-vous au pied du manguier. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Le mot « pied » a-t-il le même sens dans les deux phrases ?"
+    },
+    {
+     "n": 2,
+     "q": "Que désigne-t-il dans chaque phrase ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non, il n’a pas le même sens."
+    },
+    {
+     "n": 2,
+     "r": "Une partie du corps dans la première ; le bas du manguier dans la seconde."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de donner le sens du mot « carte » dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce que le sens d’un mot ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’un dictionnaire ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite un mot qui a plusieurs sens."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est ce que le mot veut dire."
+    },
+    {
+     "n": 4,
+     "r": "C’est un livre où l’on trouve les mots et leur sens."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : feuille, carte, pied, bureau, jeu."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Mon frère s’est blessé au pied en jouant au football.\n2. Nous nous sommes arrêtés au pied de la colline.\n3. Le pied de la table est cassé.\n4. Le jardinier arrose chaque pied de tomate.\n5. Il va au marché à pied.\n6. Elle a mal au pied après la marche.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le sens du mot « pied » ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le sens du mot « pied » ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le sens du mot « pied » ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le sens du mot « pied » ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le sens du mot « pied » ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le sens du mot « pied » ?"
+      },
+      {
+       "n": 12,
+       "q": "Le mot « pied » a-t-il toujours le même sens ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "partie du corps"
+      },
+      {
+       "n": 7,
+       "r": "bas, base"
+      },
+      {
+       "n": 8,
+       "r": "support"
+      },
+      {
+       "n": 9,
+       "r": "plante isolée"
+      },
+      {
+       "n": 10,
+       "r": "sans véhicule"
+      },
+      {
+       "n": 11,
+       "r": "partie du corps"
+      },
+      {
+       "n": 12,
+       "r": "Non : il a plusieurs sens selon la phrase."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Mon frère s’est blessé au pied en jouant au football.\n2. Nous nous sommes arrêtés au pied de la colline.\n3. Le pied de la table est cassé.\n4. Le jardinier arrose chaque pied de tomate.\n5. Il va au marché à pied.\n6. Elle a mal au pied après la marche.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quels mots de la phrase 1 aident à comprendre le sens ?"
+      },
+      {
+       "n": 14,
+       "q": "Dans quelles phrases « pied » désigne-t-il une partie du corps ?"
+      },
+      {
+       "n": 15,
+       "q": "Dans quelle phrase désigne-t-il le bas d’une colline ?"
+      },
+      {
+       "n": 16,
+       "q": "Comment trouve-t-on le sens d’un mot dans une phrase ?"
+      },
+      {
+       "n": 17,
+       "q": "Où trouve-t-on tous les sens d’un mot ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "« blessé » et « jouant au football »."
+      },
+      {
+       "n": 14,
+       "r": "Dans les phrases 1 et 6."
+      },
+      {
+       "n": 15,
+       "r": "Dans la phrase 2."
+      },
+      {
+       "n": 16,
+       "r": "On regarde les autres mots de la phrase : c’est le contexte."
+      },
+      {
+       "n": 17,
+       "r": "Dans le dictionnaire."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’un champ sémantique ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment choisit-on le bon sens d’un mot ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est l’ensemble des sens d’un mot."
+      },
+      {
+       "n": 19,
+       "r": "Grâce au contexte, c’est-à-dire aux mots qui entourent ce mot."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les champs sémantiques.",
+    "tache": "Donner le sens du mot « carte » dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et écris le sens du mot « carte ».",
+    "items": [
+     "Je cherche Pointe-Noire sur la carte du Congo.",
+     "Mon oncle joue aux cartes sous le manguier.",
+     "Le serveur apporte la carte du restaurant.",
+     "Elle présente sa carte d’élève au surveillant.",
+     "J’écris une carte à ma tante pour son anniversaire."
+    ],
+    "cle": [
+     "carte de géographie",
+     "carte à jouer",
+     "liste des plats (menu)",
+     "carte d’identité scolaire (document)",
+     "carte de vœux (message écrit)"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les champs sémantiques",
+  "intro": "Un même mot peut avoir plusieurs sens. L’ensemble de ces sens forme son champ sémantique.",
+  "corpus": [
+   "Mon frère s’est blessé au pied en jouant au football.",
+   "Nous nous sommes arrêtés au pied de la colline.",
+   "Le pied de la table est cassé.",
+   "Le jardinier arrose chaque pied de tomate.",
+   "Il va au marché à pied.",
+   "Elle a mal au pied après la marche."
+  ],
+  "retenir": "Un mot peut avoir plusieurs sens.\nL’ensemble de ces sens forme le champ sémantique du mot.\nOn trouve le bon sens grâce au contexte.\nLe dictionnaire donne tous les sens d’un mot.\nExemple : le pied d’une personne, le pied de la table.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Sens du mot « pied »",
+    "Domaine",
+    "Mot qui aide"
+   ],
+   "rows": [
+    [
+     "1",
+     "partie du corps",
+     "le corps humain",
+     "blessé"
+    ],
+    [
+     "2",
+     "bas, base",
+     "la géographie",
+     "colline"
+    ],
+    [
+     "3",
+     "support",
+     "le mobilier",
+     "table"
+    ],
+    [
+     "4",
+     "plante isolée",
+     "l’agriculture",
+     "tomate"
+    ],
+    [
+     "5",
+     "sans véhicule",
+     "le déplacement",
+     "va au marché"
+    ],
+    [
+     "6",
+     "partie du corps",
+     "le corps humain",
+     "mal, marche"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je donne le sens du mot « feuille » : papier ou partie de la plante.",
+    "items": [
+     "Range ta feuille dans ton cahier.",
+     "Les feuilles du manioc se mangent.",
+     "Déchire une feuille de ton cahier.",
+     "Cette feuille est verte et large."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis ce que veut dire « pied » : partie du corps, base ou support.",
+    "items": [
+     "Elle a un pied blessé.",
+     "Il attend au pied de l’escalier.",
+     "Le pied de la lampe est lourd.",
+     "Mon pied glisse sur la boue."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. papier ; 2. partie de la plante ; 3. papier ; 4. partie de la plante. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. partie du corps ; 2. base ; 3. support ; 4. partie du corps. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. carte de géographie ; 2. carte à jouer ; 3. liste des plats (menu) ; 4. carte d’identité scolaire (document) ; 5. carte de vœux (message écrit). Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

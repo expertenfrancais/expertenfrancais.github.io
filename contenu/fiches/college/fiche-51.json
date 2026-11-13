@@ -1,0 +1,403 @@
+{
+ "id": 10051,
+ "meta": {
+  "t": "L’accord du participe passé des verbes pronominaux de sens réfléchi",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 51
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.2 : Appliquer l’accord des participes passés",
+  "titre": "L’accord du participe passé des verbes pronominaux de sens réfléchi",
+  "theme": "",
+  "objet": "Application des règles d’accord du participe passé des verbes occasionnellement pronominaux de sens réfléchi",
+  "numero": 50,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’accord du participe passé des verbes occasionnellement pronominaux de sens réfléchi, l’apprenant doit être capable de accorder correctement au moins 4 participes passés de verbes pronominaux de sens réfléchi sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Ma sœur s’est lavée.\nMa sœur s’est lavé les mains.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Dans la première phrase, qui lave qui ?"
+    },
+    {
+     "n": 2,
+     "q": "Que remarque-t-on sur « lavée » et « lavé » ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Ma sœur se lave elle-même."
+    },
+    {
+     "n": 2,
+     "r": "Le participe s’accorde dans la première phrase, mais pas dans la seconde, où « les mains » est placé après."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de accorder correctement au moins 4 participes passés de verbes pronominaux de sens réfléchi sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un COD ?"
+    },
+    {
+     "n": 4,
+     "q": "Quel auxiliaire emploie-t-on avec un verbe pronominal ?"
+    },
+    {
+     "n": 5,
+     "q": "Donne le participe passé de « se laver »."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est le complément d’objet direct : il répond à « quoi ? » ou « qui ? » après le verbe."
+    },
+    {
+     "n": 4,
+     "r": "L’auxiliaire être."
+    },
+    {
+     "n": 5,
+     "r": "lavé"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Ma sœur s’est lavée avant le repas.\n2. Ma sœur s’est lavé les mains avant le repas.\n3. Les filles se sont habillées vite.\n4. Les filles se sont brossé les dents.\n5. Ma tante s’est coupée avec un couteau.\n6. Ma tante s’est coupé le doigt.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le participe passé ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le participe passé ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le participe passé ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le participe passé ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le participe passé ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le participe passé ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel auxiliaire emploie-t-on dans ces phrases ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "lavée"
+      },
+      {
+       "n": 7,
+       "r": "lavé"
+      },
+      {
+       "n": 8,
+       "r": "habillées"
+      },
+      {
+       "n": 9,
+       "r": "brossé"
+      },
+      {
+       "n": 10,
+       "r": "coupée"
+      },
+      {
+       "n": 11,
+       "r": "coupé"
+      },
+      {
+       "n": 12,
+       "r": "L’auxiliaire être : est, sont."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Ma sœur s’est lavée avant le repas.\n2. Ma sœur s’est lavé les mains avant le repas.\n3. Les filles se sont habillées vite.\n4. Les filles se sont brossé les dents.\n5. Ma tante s’est coupée avec un couteau.\n6. Ma tante s’est coupé le doigt.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Dans la phrase 1, que remplace « se » ?"
+      },
+      {
+       "n": 14,
+       "q": "Dans la phrase 2, quel est le COD ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelles phrases ont « se » COD ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelles phrases ont un COD placé après le verbe ?"
+      },
+      {
+       "n": 17,
+       "q": "Comment choisit-on d’accorder ou non ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "« Ma sœur » : « se » est COD, placé avant le verbe, donc le participe s’accorde."
+      },
+      {
+       "n": 14,
+       "r": "« les mains », placé après le verbe : « lavé » ne s’accorde pas."
+      },
+      {
+       "n": 15,
+       "r": "Les phrases 1, 3 et 5."
+      },
+      {
+       "n": 16,
+       "r": "Les phrases 2, 4 et 6."
+      },
+      {
+       "n": 17,
+       "r": "On cherche le COD : s’il est « se », on accorde ; s’il est placé après le verbe, on n’accorde pas."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’un verbe pronominal de sens réfléchi ?"
+      },
+      {
+       "n": 19,
+       "q": "Quelle est la règle d’accord ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est un verbe où le sujet fait l’action sur lui-même : se laver, se couper."
+      },
+      {
+       "n": 19,
+       "r": "Le participe passé s’accorde avec « se » (le sujet) si « se » est COD ; il reste invariable si le COD est placé après."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’accord du participe passé des verbes pronominaux de sens réfléchi.",
+    "tache": "Accorder, si c’est nécessaire, le participe passé écrit à l’infinitif entre parenthèses dans chacune des cinq phrases.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et écris le participe passé bien accordé.",
+    "items": [
+     "Ma tante s’est (laver) avant le repas.",
+     "Ma tante s’est (laver) les mains.",
+     "Les garçons se sont (peigner) avant la fête.",
+     "Les garçons se sont (peigner) les cheveux.",
+     "Ma mère s’est (couper) avec un couteau."
+    ],
+    "cle": [
+     "lavée",
+     "lavé",
+     "peignés",
+     "peigné",
+     "coupée"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’accord du participe passé des verbes pronominaux de sens réfléchi",
+  "intro": "Dans un verbe de sens réfléchi, le sujet fait l’action sur lui-même. L’accord dépend du COD.",
+  "corpus": [
+   "Ma sœur s’est lavée avant le repas.",
+   "Ma sœur s’est lavé les mains avant le repas.",
+   "Les filles se sont habillées vite.",
+   "Les filles se sont brossé les dents.",
+   "Ma tante s’est coupée avec un couteau.",
+   "Ma tante s’est coupé le doigt."
+  ],
+  "retenir": "Un verbe pronominal de sens réfléchi : le sujet agit sur lui-même.\nSi « se » est COD, le participe s’accorde avec le sujet.\nSi le COD est placé après le verbe, le participe reste invariable.\nOn cherche donc toujours le COD.\nExemple : Elle s’est lavée. Elle s’est lavé les mains.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Participe passé",
+    "Fonction de « se » ou COD",
+    "Accord"
+   ],
+   "rows": [
+    [
+     "1",
+     "lavée",
+     "« se » est COD",
+     "accordé"
+    ],
+    [
+     "2",
+     "lavé",
+     "COD après : les mains",
+     "invariable"
+    ],
+    [
+     "3",
+     "habillées",
+     "« se » est COD",
+     "accordé"
+    ],
+    [
+     "4",
+     "brossé",
+     "COD après : les dents",
+     "invariable"
+    ],
+    [
+     "5",
+     "coupée",
+     "« se » est COD",
+     "accordé"
+    ],
+    [
+     "6",
+     "coupé",
+     "COD après : le doigt",
+     "invariable"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le participe passé entre parenthèses au bon accord.",
+    "items": [
+     "Elle s’est (habiller) vite.",
+     "Elle s’est (brosser) les dents.",
+     "Les élèves se sont (préparer) pour le cours.",
+     "Les élèves se sont (laver) les pieds."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le participe passé et je dis pourquoi.",
+    "items": [
+     "Marie s’est (blesser) au genou.",
+     "Marie s’est (blesser) le genou.",
+     "Les filles se sont (coiffer).",
+     "Les filles se sont (coiffer) les cheveux."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. habillée ; 2. brossé ; 3. préparés ; 4. lavé. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. blessée : « se » est COD ; 2. blessé : COD « le genou » placé après ; 3. coiffées : « se » est COD ; 4. coiffé : COD « les cheveux » placé après. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. lavée ; 2. lavé ; 3. peignés ; 4. peigné ; 5. coupée. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

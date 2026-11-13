@@ -1,0 +1,403 @@
+{
+ "id": 10061,
+ "meta": {
+  "t": "Le vocabulaire des loisirs",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 61
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.5 : Utiliser le vocabulaire fondamental",
+  "titre": "Le vocabulaire des loisirs",
+  "theme": "",
+  "objet": "Utilisation du vocabulaire fondamental : thème : loisirs",
+  "numero": 60,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 4 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation du vocabulaire fondamental des loisirs, l’apprenant doit être capable de compléter au moins 4 phrases sur 5 avec le mot des loisirs qui convient, choisi dans une liste donnée.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Le lundi, les élèves racontent leur week-end : cinéma, danse, football…",
+   "questions": [
+    {
+     "n": 1,
+     "q": "De quoi parlent-ils ?"
+    },
+    {
+     "n": 2,
+     "q": "Pourquoi faut-il connaître ces mots ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "De leurs loisirs."
+    },
+    {
+     "n": 2,
+     "r": "Pour raconter ce qu’on aime faire pendant son temps libre."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de compléter au moins 4 phrases sur 5 avec le mot des loisirs qui convient.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Que fais-tu pendant ton temps libre ?"
+    },
+    {
+     "n": 4,
+     "q": "Cite deux jeux que tu connais."
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce que le temps libre ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Réponses possibles : je joue au football, je lis, je danse, je regarde la télévision."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : dames, ludo, cartes, ballon."
+    },
+    {
+     "n": 5,
+     "r": "C’est le temps où l’on n’est ni à l’école ni au travail."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Le dimanche, nous allons au cinéma.\n2. Mon frère joue aux dames avec son oncle.\n3. Ma sœur apprend la danse chaque samedi.\n4. Mon père aime la lecture le soir.\n5. Nous faisons une promenade au bord du fleuve.\n6. Mon cousin apprend la musique à l’école.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel mot appartient au vocabulaire des loisirs ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel mot appartient au vocabulaire des loisirs ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel mot appartient au vocabulaire des loisirs ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel mot appartient au vocabulaire des loisirs ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel mot appartient au vocabulaire des loisirs ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel mot appartient au vocabulaire des loisirs ?"
+      },
+      {
+       "n": 12,
+       "q": "Quels mots désignent des activités ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "cinéma"
+      },
+      {
+       "n": 7,
+       "r": "dames"
+      },
+      {
+       "n": 8,
+       "r": "danse"
+      },
+      {
+       "n": 9,
+       "r": "lecture"
+      },
+      {
+       "n": 10,
+       "r": "promenade"
+      },
+      {
+       "n": 11,
+       "r": "musique"
+      },
+      {
+       "n": 12,
+       "r": "danse, lecture, promenade et musique."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Le dimanche, nous allons au cinéma.\n2. Mon frère joue aux dames avec son oncle.\n3. Ma sœur apprend la danse chaque samedi.\n4. Mon père aime la lecture le soir.\n5. Nous faisons une promenade au bord du fleuve.\n6. Mon cousin apprend la musique à l’école.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel mot désigne un lieu de loisir ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel mot désigne un jeu ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle activité se fait à l’extérieur ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelle activité est calme et se fait assis ?"
+      },
+      {
+       "n": 17,
+       "q": "Cite d’autres loisirs."
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "cinéma"
+      },
+      {
+       "n": 14,
+       "r": "dames"
+      },
+      {
+       "n": 15,
+       "r": "la promenade"
+      },
+      {
+       "n": 16,
+       "r": "la lecture"
+      },
+      {
+       "n": 17,
+       "r": "Réponses possibles : football, pêche, théâtre, télévision, chant."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’un loisir ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels mots des loisirs avons-nous étudiés ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est une activité qu’on fait par plaisir pendant son temps libre."
+      },
+      {
+       "n": 19,
+       "r": "cinéma, dames, danse, lecture, promenade, musique."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier le vocabulaire des loisirs.",
+    "tache": "Compléter chaque phrase avec le mot des loisirs qui convient : cinéma, dames, danse, lecture, promenade.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et complète-la avec un mot de la liste.",
+    "items": [
+     "Nous regardons un film au … .",
+     "Mon grand-père joue aux … sous le manguier.",
+     "Elle apprend la … traditionnelle.",
+     "Le soir, j’aime la … d’un bon livre.",
+     "Après le repas, nous faisons une … au bord du fleuve."
+    ],
+    "cle": [
+     "cinéma",
+     "dames",
+     "danse",
+     "lecture",
+     "promenade"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le vocabulaire des loisirs",
+  "intro": "Les loisirs sont les activités qu’on fait par plaisir pendant son temps libre.",
+  "corpus": [
+   "Le dimanche, nous allons au cinéma.",
+   "Mon frère joue aux dames avec son oncle.",
+   "Ma sœur apprend la danse chaque samedi.",
+   "Mon père aime la lecture le soir.",
+   "Nous faisons une promenade au bord du fleuve.",
+   "Mon cousin apprend la musique à l’école."
+  ],
+  "retenir": "Un loisir est une activité qu’on fait par plaisir.\nIl y a des jeux : les dames, le ballon.\nIl y a des arts : la danse, la musique.\nIl y a des sorties : le cinéma, la promenade.\nExemple : Le dimanche, nous allons au cinéma.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Mot des loisirs",
+    "Catégorie",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "1",
+     "cinéma",
+     "lieu",
+     "où l’on voit des films"
+    ],
+    [
+     "2",
+     "dames",
+     "jeu",
+     "jeu qui se joue à deux"
+    ],
+    [
+     "3",
+     "danse",
+     "art",
+     "bouger en suivant la musique"
+    ],
+    [
+     "4",
+     "lecture",
+     "activité calme",
+     "lire un livre"
+    ],
+    [
+     "5",
+     "promenade",
+     "activité de plein air",
+     "sortie à pied pour se détendre"
+    ],
+    [
+     "6",
+     "musique",
+     "art",
+     "jouer ou écouter des sons"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec un mot des loisirs : ballon, chanter, pêche, théâtre.",
+    "items": [
+     "Le … amuse les spectateurs sur la scène.",
+     "Mon oncle va à la … le samedi.",
+     "J’aime … avec mes amis.",
+     "Les enfants jouent au … ."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je donne le mot qui correspond à la définition : cinéma, danse, lecture, promenade.",
+    "items": [
+     "Lieu où l’on regarde des films.",
+     "Art de bouger en suivant la musique.",
+     "Action de lire un livre.",
+     "Sortie à pied pour se détendre."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. théâtre ; 2. pêche ; 3. chanter ; 4. ballon. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. cinéma ; 2. danse ; 3. lecture ; 4. promenade. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. cinéma ; 2. dames ; 3. danse ; 4. lecture ; 5. promenade. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "id": 10023,
+ "meta": {
+  "t": "L’argumentation : position, arguments et exemples",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 23
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.7 : Argumenter un point de vue",
+  "titre": "L’argumentation : position, arguments et exemples",
+  "theme": "",
+  "objet": "Argumentation d’un point de vue : position dans le débat ; arguments, exemples",
+  "numero": 22,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Texte modèle de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 4 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’argumentation d’un point de vue : position, arguments et exemples, l’apprenant doit être capable de rédiger une position suivie de deux arguments, chacun appuyé par un exemple, en respectant au moins 4 critères sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Deux élèves discutent :\n« Il faut une cantine dans chaque CEG. »\n« Non. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Le deuxième élève convainc-t-il en disant seulement « Non » ?"
+    },
+    {
+     "n": 2,
+     "q": "Que doit-il ajouter pour convaincre son camarade ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : il ne donne aucune raison."
+    },
+    {
+     "n": 2,
+     "r": "Des arguments, appuyés par des exemples."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de rédiger une position, deux arguments et leurs exemples en respectant au moins 4 critères sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un débat ?"
+    },
+    {
+     "n": 4,
+     "q": "Cite deux connecteurs logiques."
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce qu’un exemple ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Un échange où chacun donne son opinion et la justifie."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : car, parce que, donc, mais, en effet, c’est pourquoi."
+    },
+    {
+     "n": 5,
+     "r": "Un fait précis qui illustre ce qu’on dit."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le texte modèle écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Je pense que les élèves ne doivent pas utiliser le téléphone portable au CEG.\n2. D’abord, le téléphone détourne l’attention pendant les cours.\n3. Par exemple, un élève qui regarde son écran n’écoute pas le professeur.\n4. Ensuite, il peut causer des disputes entre camarades.\n5. Par exemple, une photo moqueuse circule vite dans toute l’école.\n6. C’est pourquoi je suis contre le téléphone portable en classe.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, la phrase donne-t-elle la position, un argument ou un exemple ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, la phrase donne-t-elle la position, un argument ou un exemple ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, la phrase donne-t-elle la position, un argument ou un exemple ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, la phrase donne-t-elle la position, un argument ou un exemple ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, la phrase donne-t-elle la position, un argument ou un exemple ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, la phrase donne-t-elle la position, un argument ou un exemple ?"
+      },
+      {
+       "n": 12,
+       "q": "Quelle est la position de l’auteur ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "position"
+      },
+      {
+       "n": 7,
+       "r": "argument"
+      },
+      {
+       "n": 8,
+       "r": "exemple"
+      },
+      {
+       "n": 9,
+       "r": "argument"
+      },
+      {
+       "n": 10,
+       "r": "exemple"
+      },
+      {
+       "n": 11,
+       "r": "position (reprise)"
+      },
+      {
+       "n": 12,
+       "r": "Il est contre l’usage du téléphone portable au CEG."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Je pense que les élèves ne doivent pas utiliser le téléphone portable au CEG.\n2. D’abord, le téléphone détourne l’attention pendant les cours.\n3. Par exemple, un élève qui regarde son écran n’écoute pas le professeur.\n4. Ensuite, il peut causer des disputes entre camarades.\n5. Par exemple, une photo moqueuse circule vite dans toute l’école.\n6. C’est pourquoi je suis contre le téléphone portable en classe.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quels mots annoncent un argument ?"
+      },
+      {
+       "n": 14,
+       "q": "Quels mots annoncent un exemple ?"
+      },
+      {
+       "n": 15,
+       "q": "À quoi sert un exemple ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelle phrase reprend la position ?"
+      },
+      {
+       "n": 17,
+       "q": "Combien d’arguments l’auteur donne-t-il ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "« D’abord » et « Ensuite »."
+      },
+      {
+       "n": 14,
+       "r": "« Par exemple » (phrases 3 et 5)."
+      },
+      {
+       "n": 15,
+       "r": "À prouver l’argument par un fait précis et concret."
+      },
+      {
+       "n": 16,
+       "r": "La phrase 6, avec « C’est pourquoi »."
+      },
+      {
+       "n": 17,
+       "r": "Deux arguments."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment défend-on un point de vue ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels mots emploie-t-on ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "On donne sa position, puis des arguments appuyés par des exemples, et on reprend la position à la fin."
+      },
+      {
+       "n": 19,
+       "r": "Je pense que, d’abord, ensuite, par exemple, c’est pourquoi."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’argumentation d’un point de vue. Sujet : « Faut-il planter des arbres dans la cour du CEG ? »",
+    "tache": "Rédiger ta position, deux arguments et un exemple pour chaque argument.",
+    "consigne": "Sur ta feuille de copie, rédige un paragraphe de six phrases au plus en respectant les cinq critères.",
+    "items": [
+     "La position est donnée clairement.",
+     "Deux arguments différents sont présentés.",
+     "Chaque argument est appuyé par un exemple.",
+     "Des connecteurs relient les idées (d’abord, ensuite, par exemple…).",
+     "Les phrases sont correctes : majuscules, points, orthographe."
+    ],
+    "cle": [
+     "La position est claire (pour ou contre).",
+     "Deux arguments différents sont donnés.",
+     "Chaque argument a son exemple.",
+     "Des connecteurs sont employés.",
+     "Les phrases sont correctes."
+    ],
+    "bareme": "1 point par critère respecté",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’argumentation : position, arguments et exemples",
+  "intro": "Pour défendre une idée, on donne sa position, des arguments et des exemples.",
+  "corpus": [
+   "Je pense que les élèves ne doivent pas utiliser le téléphone portable au CEG.",
+   "D’abord, le téléphone détourne l’attention pendant les cours.",
+   "Par exemple, un élève qui regarde son écran n’écoute pas le professeur.",
+   "Ensuite, il peut causer des disputes entre camarades.",
+   "Par exemple, une photo moqueuse circule vite dans toute l’école.",
+   "C’est pourquoi je suis contre le téléphone portable en classe."
+  ],
+  "retenir": "La position dit ce qu’on pense : pour ou contre.\nUn argument est une raison qui soutient la position.\nUn exemple prouve l’argument par un fait précis.\nOn relie les idées par d’abord, ensuite, par exemple, c’est pourquoi.\nExemple : Je pense que les élèves doivent lire chaque semaine.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Rôle de la phrase",
+    "Mot qui l’annonce",
+    "Idée"
+   ],
+   "rows": [
+    [
+     "1",
+     "position",
+     "Je pense que",
+     "contre le téléphone au CEG"
+    ],
+    [
+     "2",
+     "argument",
+     "D’abord",
+     "il détourne l’attention"
+    ],
+    [
+     "3",
+     "exemple",
+     "Par exemple",
+     "un élève n’écoute pas"
+    ],
+    [
+     "4",
+     "argument",
+     "Ensuite",
+     "il cause des disputes"
+    ],
+    [
+     "5",
+     "exemple",
+     "Par exemple",
+     "une photo moqueuse circule"
+    ],
+    [
+     "6",
+     "position (reprise)",
+     "C’est pourquoi",
+     "retour à la position"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis si la phrase est une position, un argument ou un exemple.",
+    "items": [
+     "Je suis pour le port de l’uniforme à l’école.",
+     "Il évite les différences entre les familles.",
+     "Par exemple, tous les élèves ont la même tenue au défilé.",
+     "C’est pourquoi je défends l’uniforme."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris un argument pour soutenir chaque position.",
+    "items": [
+     "Je pense qu’il faut planter des arbres dans la cour.",
+     "Je suis contre les devoirs le dimanche.",
+     "Je crois que la bibliothèque doit rester ouverte le samedi.",
+     "Je suis pour le sport chaque jour."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. position ; 2. argument ; 3. exemple ; 4. position (reprise). Barème : 1 point par critère respecté.",
+  "Exercice 2 : 1. Réponse possible : les arbres donnent de l’ombre. ; 2. Réponse possible : les élèves ont besoin de se reposer. ; 3. Réponse possible : les élèves peuvent y lire et faire leurs recherches. ; 4. Réponse possible : le sport garde le corps en bonne santé.. Barème : 1 point par critère respecté.",
+  "Évaluation (étape V) : 1. La position est claire (pour ou contre). ; 2. Deux arguments différents sont donnés. ; 3. Chaque argument a son exemple. ; 4. Des connecteurs sont employés. ; 5. Les phrases sont correctes.. Barème : 1 point par critère respecté. Seuil : 4 sur 5.",
+  "Remarque : Pour l’exercice 2, toute réponse qui soutient la position donnée est acceptée."
+ ]
+}

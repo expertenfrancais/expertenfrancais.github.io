@@ -1,0 +1,399 @@
+{
+ "id": 10015,
+ "meta": {
+  "t": "La conclusion d’un texte narratif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 15
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "objectifGeneral": "O.G 5 : Acquérir les compétences techniques",
+  "objectifSpecifique": "O.S 5.6 : Produire les différents types de texte, un fait divers, un article de presse, un compte-rendu",
+  "titre": "La conclusion d’un texte narratif",
+  "theme": "",
+  "objet": "Production d’un texte narratif : la conclusion",
+  "numero": 14,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Texte modèle de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur la conclusion d’un texte narratif, l’apprenant doit être capable de rédiger la conclusion d’un récit en deux ou trois phrases en respectant au moins 4 critères sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève raconte un match de football à ses camarades. Il s’arrête après le but de son équipe et dit : « Voilà. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Les camarades sont-ils satisfaits de cette fin ? Que manque-t-il ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment peut-on finir ce récit pour que chacun comprenne la fin ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : on ne sait pas qui a gagné ni comment le match s’est terminé."
+    },
+    {
+     "n": 2,
+     "r": "On dit le résultat et ce que les joueurs ressentent : « Finalement, notre équipe a gagné et tout le monde était content. »"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de rédiger la conclusion d’un récit en deux ou trois phrases en respectant au moins 4 critères sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Quelles sont les trois parties d’un texte narratif ?"
+    },
+    {
+     "n": 4,
+     "q": "Quel temps emploie-t-on pour raconter des événements passés ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite deux connecteurs de temps."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "L’introduction, le développement et la conclusion."
+    },
+    {
+     "n": 4,
+     "r": "Le passé simple ou le passé composé."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : d’abord, ensuite, puis, enfin, finalement."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le texte modèle écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Un matin, Mireille perdit son cahier de français en allant au CEG.\n2. Elle chercha partout, dans la cour et sous les bancs.\n3. Son voisin Jonas le retrouva près du portail et le lui rendit.\n4. Mireille le remercia en souriant.\n5. Finalement, Mireille retrouva la joie d’étudier.\n6. Depuis ce jour, elle range toujours son cahier dans son sac.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, à quelle partie du récit la phrase appartient-elle : introduction, développement ou conclusion ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, à quelle partie du récit la phrase appartient-elle : introduction, développement ou conclusion ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, à quelle partie du récit la phrase appartient-elle : introduction, développement ou conclusion ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, à quelle partie du récit la phrase appartient-elle : introduction, développement ou conclusion ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, à quelle partie du récit la phrase appartient-elle : introduction, développement ou conclusion ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, à quelle partie du récit la phrase appartient-elle : introduction, développement ou conclusion ?"
+      },
+      {
+       "n": 12,
+       "q": "Quelles phrases forment la conclusion du récit ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "introduction"
+      },
+      {
+       "n": 7,
+       "r": "développement"
+      },
+      {
+       "n": 8,
+       "r": "développement"
+      },
+      {
+       "n": 9,
+       "r": "développement"
+      },
+      {
+       "n": 10,
+       "r": "conclusion"
+      },
+      {
+       "n": 11,
+       "r": "conclusion"
+      },
+      {
+       "n": 12,
+       "r": "Les phrases 5 et 6."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Un matin, Mireille perdit son cahier de français en allant au CEG.\n2. Elle chercha partout, dans la cour et sous les bancs.\n3. Son voisin Jonas le retrouva près du portail et le lui rendit.\n4. Mireille le remercia en souriant.\n5. Finalement, Mireille retrouva la joie d’étudier.\n6. Depuis ce jour, elle range toujours son cahier dans son sac.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Par quels mots commence chaque phrase de la conclusion ?"
+      },
+      {
+       "n": 14,
+       "q": "Que dit la phrase 5 ?"
+      },
+      {
+       "n": 15,
+       "q": "Quel temps emploie la phrase 6 ? Que dit-elle ?"
+      },
+      {
+       "n": 16,
+       "q": "Par quels autres connecteurs peut-on commencer une conclusion ?"
+      },
+      {
+       "n": 17,
+       "q": "Combien de phrases compte cette conclusion ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Par « Finalement » (phrase 5) et par « Depuis ce jour » (phrase 6)."
+      },
+      {
+       "n": 14,
+       "r": "Elle dit comment l’histoire se termine : Mireille retrouve la joie d’étudier."
+      },
+      {
+       "n": 15,
+       "r": "Le présent : elle donne une habitude, la leçon de l’histoire."
+      },
+      {
+       "n": 16,
+       "r": "Réponses possibles : enfin, désormais, au bout du compte."
+      },
+      {
+       "n": 17,
+       "r": "Deux phrases."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Que contient la conclusion d’un récit ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment commence-t-on une conclusion ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "La fin de l’histoire, le sort du personnage et, souvent, une leçon ou un sentiment."
+      },
+      {
+       "n": 19,
+       "r": "Par un connecteur de fin : finalement, enfin, depuis ce jour, désormais."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la conclusion d’un texte narratif. Voici le début d’un récit : « Un jour, Paul s’est perdu au marché de Total. Une marchande l’a aidé à retrouver sa mère. »",
+    "tache": "Rédiger la conclusion de ce récit en deux ou trois phrases.",
+    "consigne": "Sur ta feuille de copie, rédige la conclusion du récit en respectant les cinq critères.",
+    "items": [
+     "La conclusion commence par un connecteur de fin.",
+     "Une phrase dit comment l’histoire se termine.",
+     "Une phrase dit ce que ressentent les personnages ou donne la leçon.",
+     "Les verbes sont bien conjugués et au bon temps.",
+     "Chaque phrase commence par une majuscule et finit par un point."
+    ],
+    "cle": [
+     "Un connecteur de fin est présent (finalement, enfin, depuis ce jour…).",
+     "La fin est dite : Paul retrouve sa mère.",
+     "Un sentiment ou une leçon est exprimé.",
+     "Les verbes sont au bon temps, sans faute de conjugaison.",
+     "Majuscules et points sont respectés."
+    ],
+    "bareme": "1 point par critère respecté",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La conclusion d’un texte narratif",
+  "intro": "La conclusion est la dernière partie d’un récit. Elle dit comment l’histoire se termine.",
+  "corpus": [
+   "Un matin, Mireille perdit son cahier de français en allant au CEG.",
+   "Elle chercha partout, dans la cour et sous les bancs.",
+   "Son voisin Jonas le retrouva près du portail et le lui rendit.",
+   "Mireille le remercia en souriant.",
+   "Finalement, Mireille retrouva la joie d’étudier.",
+   "Depuis ce jour, elle range toujours son cahier dans son sac."
+  ],
+  "retenir": "La conclusion termine le récit.\nElle dit comment l’histoire finit et ce que devient le personnage.\nElle peut donner un sentiment ou une leçon.\nElle commence souvent par « finalement », « enfin » ou « depuis ce jour ».\nExemple : Finalement, Mireille retrouva la joie d’étudier.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Partie",
+    "Rôle de la phrase",
+    "Temps des verbes"
+   ],
+   "rows": [
+    [
+     "1",
+     "introduction",
+     "présente le personnage et le problème",
+     "passé simple"
+    ],
+    [
+     "2",
+     "développement",
+     "montre la recherche",
+     "passé simple"
+    ],
+    [
+     "3",
+     "développement",
+     "donne la solution",
+     "passé simple"
+    ],
+    [
+     "4",
+     "développement",
+     "montre la réaction du personnage",
+     "passé simple"
+    ],
+    [
+     "5",
+     "conclusion",
+     "dit comment l’histoire se termine",
+     "passé simple"
+    ],
+    [
+     "6",
+     "conclusion",
+     "donne la situation finale et la leçon",
+     "présent"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie les phrases qui peuvent faire partie d’une conclusion.",
+    "items": [
+     "Finalement, la famille est rentrée au village, heureuse.",
+     "Un soir, un orage éclata sur le quartier.",
+     "Depuis ce jour, Pauline n’oublie plus ses affaires.",
+     "Soudain, quelqu’un frappa à la porte."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris une phrase de conclusion pour chaque début de récit.",
+    "items": [
+     "Un enfant avait perdu son chien dans le quartier.",
+     "Deux amies s’étaient disputées à cause d’un jeu.",
+     "Un cultivateur attendait la pluie pour semer son maïs.",
+     "Un élève avait peur de parler devant la classe."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. conclusion ; 2. pas une conclusion : elle lance une nouvelle action ; 3. conclusion ; 4. pas une conclusion : elle lance une nouvelle action. Barème : 1 point par critère respecté.",
+  "Exercice 2 : 1. Réponse possible : Finalement, un voisin a ramené le chien et l’enfant était soulagé. ; 2. Réponse possible : Enfin, elles se sont excusées et ont joué ensemble. ; 3. Réponse possible : Finalement, la pluie est tombée et le maïs a bien poussé. ; 4. Réponse possible : Depuis ce jour, il lève la main sans crainte.. Barème : 1 point par critère respecté.",
+  "Évaluation (étape V) : 1. Un connecteur de fin est présent (finalement, enfin, depuis ce jour…). ; 2. La fin est dite : Paul retrouve sa mère. ; 3. Un sentiment ou une leçon est exprimé. ; 4. Les verbes sont au bon temps, sans faute de conjugaison. ; 5. Majuscules et points sont respectés.. Barème : 1 point par critère respecté. Seuil : 4 sur 5."
+ ]
+}

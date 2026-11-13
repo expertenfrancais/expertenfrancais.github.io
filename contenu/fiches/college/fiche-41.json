@@ -1,0 +1,403 @@
+{
+ "id": 10041,
+ "meta": {
+  "t": "La concordance des temps : l’axe du temps",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 41
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.3 : Utiliser les règles de concordance des temps",
+  "titre": "La concordance des temps : l’axe du temps",
+  "theme": "",
+  "objet": "Utilisation des règles de concordance des temps : l’axe de temps",
+  "numero": 40,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les règles de concordance des temps : l’axe du temps, l’apprenant doit être capable de identifier la position (antériorité, simultanéité ou postériorité) de l’action de la subordonnée par rapport à l’action principale dans au moins 4 phrases sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Hier, j’ai étudié. Aujourd’hui, j’étudie. Demain, j’étudierai.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle action est passée, présente, future ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment peut-on placer ces trois actions sur une ligne ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "« J’ai étudié » est passée ; « j’étudie » est présente ; « j’étudierai » est future."
+    },
+    {
+     "n": 2,
+     "r": "Dans l’ordre du temps : hier, aujourd’hui, demain. C’est l’axe du temps."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de dire si l’action de la subordonnée se passe avant, en même temps ou après l’action principale dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Conjugue « travailler » au présent avec « tu »."
+    },
+    {
+     "n": 4,
+     "q": "Donne le passé composé de « travailler » avec « tu »."
+    },
+    {
+     "n": 5,
+     "q": "Donne le futur simple de « travailler » avec « tu »."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "tu travailles"
+    },
+    {
+     "n": 4,
+     "r": "tu as travaillé"
+    },
+    {
+     "n": 5,
+     "r": "tu travailleras"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Je sais que tu travailles.\n2. Je sais que tu as travaillé.\n3. Je sais que tu travailleras.\n4. Je savais que tu travaillais.\n5. Je savais que tu avais travaillé.\n6. Je savais que tu travaillerais.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel est le verbe principal dans les phrases 1 à 3 ? Et dans les phrases 4 à 6 ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "travailles"
+      },
+      {
+       "n": 7,
+       "r": "as travaillé"
+      },
+      {
+       "n": 8,
+       "r": "travailleras"
+      },
+      {
+       "n": 9,
+       "r": "travaillais"
+      },
+      {
+       "n": 10,
+       "r": "avais travaillé"
+      },
+      {
+       "n": 11,
+       "r": "travaillerais"
+      },
+      {
+       "n": 12,
+       "r": "« sais » au présent dans les phrases 1 à 3 ; « savais » à l’imparfait dans les phrases 4 à 6."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Je sais que tu travailles.\n2. Je sais que tu as travaillé.\n3. Je sais que tu travailleras.\n4. Je savais que tu travaillais.\n5. Je savais que tu avais travaillé.\n6. Je savais que tu travaillerais.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Dans quelles phrases l’action de la subordonnée a-t-elle lieu en même temps que l’action principale ?"
+      },
+      {
+       "n": 14,
+       "q": "Dans quelles phrases a-t-elle lieu avant ?"
+      },
+      {
+       "n": 15,
+       "q": "Dans quelles phrases a-t-elle lieu après ?"
+      },
+      {
+       "n": 16,
+       "q": "Quels temps emploie-t-on quand le verbe principal est au présent ?"
+      },
+      {
+       "n": 17,
+       "q": "Quels temps emploie-t-on quand le verbe principal est à l’imparfait ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Dans les phrases 1 et 4 : c’est la simultanéité."
+      },
+      {
+       "n": 14,
+       "r": "Dans les phrases 2 et 5 : c’est l’antériorité."
+      },
+      {
+       "n": 15,
+       "r": "Dans les phrases 3 et 6 : c’est la postériorité."
+      },
+      {
+       "n": 16,
+       "r": "Le présent, le passé composé et le futur simple."
+      },
+      {
+       "n": 17,
+       "r": "L’imparfait, le plus-que-parfait et le conditionnel présent."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce que l’axe du temps ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment choisit-on le temps de la subordonnée ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est une ligne qui place les actions avant, en même temps ou après le repère donné par le verbe principal."
+      },
+      {
+       "n": 19,
+       "r": "On regarde le temps du verbe principal et la position de l’action : avant, en même temps ou après."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’axe du temps et la concordance des temps.",
+    "tache": "Identifier la position de l’action de la subordonnée : antériorité, simultanéité ou postériorité.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase, souligne le verbe de la subordonnée et écris sa position : antériorité, simultanéité ou postériorité.",
+    "items": [
+     "Je sais que tu viendras.",
+     "Je pensais que tu étais malade.",
+     "Elle dit qu’il a réussi.",
+     "Il savait que nous partirions.",
+     "Je croyais qu’elle avait fini."
+    ],
+    "cle": [
+     "viendras : postériorité",
+     "étais : simultanéité",
+     "a réussi : antériorité",
+     "partirions : postériorité",
+     "avait fini : antériorité"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La concordance des temps : l’axe du temps",
+  "intro": "Sur l’axe du temps, l’action de la subordonnée se place avant, en même temps ou après l’action principale.",
+  "corpus": [
+   "Je sais que tu travailles.",
+   "Je sais que tu as travaillé.",
+   "Je sais que tu travailleras.",
+   "Je savais que tu travaillais.",
+   "Je savais que tu avais travaillé.",
+   "Je savais que tu travaillerais."
+  ],
+  "retenir": "L’axe du temps place les actions les unes par rapport aux autres.\nAction avant : antériorité. Action en même temps : simultanéité.\nAction après : postériorité.\nLe temps du verbe principal commande celui de la subordonnée.\nExemple : Je savais que tu travaillerais.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe de la subordonnée",
+    "Temps",
+    "Position sur l’axe"
+   ],
+   "rows": [
+    [
+     "1",
+     "travailles",
+     "présent",
+     "simultanéité"
+    ],
+    [
+     "2",
+     "as travaillé",
+     "passé composé",
+     "antériorité"
+    ],
+    [
+     "3",
+     "travailleras",
+     "futur simple",
+     "postériorité"
+    ],
+    [
+     "4",
+     "travaillais",
+     "imparfait",
+     "simultanéité"
+    ],
+    [
+     "5",
+     "avais travaillé",
+     "plus-que-parfait",
+     "antériorité"
+    ],
+    [
+     "6",
+     "travaillerais",
+     "conditionnel présent",
+     "postériorité"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe de la subordonnée et j’écris son temps.",
+    "items": [
+     "Il dit que tu chantes bien.",
+     "Il disait que tu avais chanté.",
+     "Elle pense que nous gagnerons.",
+     "Elle pensait que nous gagnerions."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le verbe entre parenthèses au temps qui convient.",
+    "items": [
+     "Je sais qu’il (arriver) demain.",
+     "Je savais qu’il (arriver) demain.",
+     "Je vois que tu (finir) ton travail.",
+     "Je voyais que tu (finir) ton travail."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. chantes : présent ; 2. avais chanté : plus-que-parfait ; 3. gagnerons : futur simple ; 4. gagnerions : conditionnel présent. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. arrivera ; 2. arriverait ; 3. finis ; 4. finissais. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. viendras : postériorité ; 2. étais : simultanéité ; 3. a réussi : antériorité ; 4. partirions : postériorité ; 5. avait fini : antériorité. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

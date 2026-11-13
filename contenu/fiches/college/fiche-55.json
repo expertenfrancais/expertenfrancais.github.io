@@ -1,0 +1,399 @@
+{
+ "id": 10055,
+ "meta": {
+  "t": "La clarification d’une valeur : le courage",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 55
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "objectifGeneral": "O.G 5 : Acquérir les compétences techniques",
+  "objectifSpecifique": "O.S 5.8 : Clarifier une valeur",
+  "titre": "La clarification d’une valeur : le courage",
+  "theme": "",
+  "objet": "Clarification d’une valeur",
+  "numero": 54,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Récit de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur la clarification d’une valeur : le courage, l’apprenant doit être capable de clarifier la valeur du courage en rédigeant une définition, un exemple et un choix justifié, en respectant au moins 4 critères sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un camarade est moqué par des élèves plus grands. Tu as peur d’eux.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que peux-tu faire ?"
+    },
+    {
+     "n": 2,
+     "q": "Quel choix demande du courage ? Pourquoi ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Me taire ou défendre mon camarade."
+    },
+    {
+     "n": 2,
+     "r": "Défendre mon camarade, car j’ai peur mais je fais ce qui est juste."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de clarifier la valeur du courage avec une définition, un exemple et un choix justifié, en respectant au moins 4 critères sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce que la peur ?"
+    },
+    {
+     "n": 4,
+     "q": "Cite deux valeurs."
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce qu’un danger ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un sentiment qu’on ressent devant un danger."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : honnêteté, respect, solidarité, courage."
+    },
+    {
+     "n": 5,
+     "r": "C’est ce qui peut faire du mal."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le récit écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Un soir, Arnaud entend un enfant crier près du fleuve.\n2. L’enfant est tombé dans l’eau et ne sait pas nager.\n3. Arnaud a peur, mais il décide d’aider.\n4. Il appelle les adultes et tend une longue branche à l’enfant.\n5. L’enfant s’accroche et sort de l’eau.\n6. Arnaud est fier de lui, même si ses jambes tremblent encore.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quelle étape trouve-t-on : situation, problème, décision, action, résultat ou sentiment ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quelle étape trouve-t-on : situation, problème, décision, action, résultat ou sentiment ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quelle étape trouve-t-on : situation, problème, décision, action, résultat ou sentiment ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quelle étape trouve-t-on : situation, problème, décision, action, résultat ou sentiment ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quelle étape trouve-t-on : situation, problème, décision, action, résultat ou sentiment ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quelle étape trouve-t-on : situation, problème, décision, action, résultat ou sentiment ?"
+      },
+      {
+       "n": 12,
+       "q": "Quelle valeur ce récit présente-t-il ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "situation"
+      },
+      {
+       "n": 7,
+       "r": "problème"
+      },
+      {
+       "n": 8,
+       "r": "décision"
+      },
+      {
+       "n": 9,
+       "r": "action"
+      },
+      {
+       "n": 10,
+       "r": "résultat"
+      },
+      {
+       "n": 11,
+       "r": "sentiment"
+      },
+      {
+       "n": 12,
+       "r": "Le courage."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Un soir, Arnaud entend un enfant crier près du fleuve.\n2. L’enfant est tombé dans l’eau et ne sait pas nager.\n3. Arnaud a peur, mais il décide d’aider.\n4. Il appelle les adultes et tend une longue branche à l’enfant.\n5. L’enfant s’accroche et sort de l’eau.\n6. Arnaud est fier de lui, même si ses jambes tremblent encore.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Que ferait une personne sans courage ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel choix Arnaud fait-il ? Pourquoi ?"
+      },
+      {
+       "n": 15,
+       "q": "Que veut dire avoir du courage ?"
+      },
+      {
+       "n": 16,
+       "q": "Pourquoi Arnaud appelle-t-il les adultes ?"
+      },
+      {
+       "n": 17,
+       "q": "Dans quelles autres situations montre-t-on son courage ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Elle s’éloignerait sans rien faire."
+      },
+      {
+       "n": 14,
+       "r": "Il décide d’aider malgré sa peur, parce qu’un enfant est en danger."
+      },
+      {
+       "n": 15,
+       "r": "Agir pour faire le bien malgré la peur."
+      },
+      {
+       "n": 16,
+       "r": "Pour être aidé : le courage demande aussi de la prudence."
+      },
+      {
+       "n": 17,
+       "r": "Réponses possibles : dire la vérité, défendre un camarade, parler devant la classe."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment clarifie-t-on une valeur ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment définit-on le courage ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "On présente une situation, on réfléchit aux choix possibles, on choisit et on explique pourquoi."
+      },
+      {
+       "n": 19,
+       "r": "C’est agir pour faire le bien malgré la peur."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la clarification d’une valeur : le courage.",
+    "tache": "Clarifier la valeur du courage en cinq phrases au plus.",
+    "consigne": "Sur ta feuille de copie, rédige quelques phrases pour clarifier le courage en respectant les cinq critères.",
+    "items": [
+     "Une définition du courage est donnée.",
+     "Un exemple de la vie quotidienne est présenté.",
+     "Un choix de comportement est exprimé.",
+     "Ce choix est justifié par une raison.",
+     "Les phrases sont correctes : majuscules, points, orthographe."
+    ],
+    "cle": [
+     "La définition est donnée (agir malgré la peur pour faire le bien).",
+     "Un exemple est présenté.",
+     "Un choix est exprimé.",
+     "Une raison justifie le choix.",
+     "Les phrases sont correctes."
+    ],
+    "bareme": "1 point par critère respecté",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La clarification d’une valeur : le courage",
+  "intro": "Clarifier une valeur, c’est expliquer ce qu’elle veut dire et pourquoi on la choisit.",
+  "corpus": [
+   "Un soir, Arnaud entend un enfant crier près du fleuve.",
+   "L’enfant est tombé dans l’eau et ne sait pas nager.",
+   "Arnaud a peur, mais il décide d’aider.",
+   "Il appelle les adultes et tend une longue branche à l’enfant.",
+   "L’enfant s’accroche et sort de l’eau.",
+   "Arnaud est fier de lui, même si ses jambes tremblent encore."
+  ],
+  "retenir": "Le courage, c’est agir pour faire le bien malgré la peur.\nLe courage demande aussi de la prudence.\nPour clarifier une valeur, on réfléchit à la situation.\nOn choisit un comportement et on explique pourquoi.\nExemple : Arnaud aide l’enfant malgré sa peur.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Étape",
+    "Mot clé",
+    "Lien avec le courage"
+   ],
+   "rows": [
+    [
+     "1",
+     "situation",
+     "crier",
+     "il entend et il s’arrête"
+    ],
+    [
+     "2",
+     "problème",
+     "tombé dans l’eau",
+     "un danger"
+    ],
+    [
+     "3",
+     "décision",
+     "décide d’aider",
+     "il agit malgré la peur"
+    ],
+    [
+     "4",
+     "action",
+     "tend une branche",
+     "il agit avec prudence"
+    ],
+    [
+     "5",
+     "résultat",
+     "sort de l’eau",
+     "l’enfant est sauvé"
+    ],
+    [
+     "6",
+     "sentiment",
+     "fier",
+     "la fierté après l’effort"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis si le comportement montre du courage ou non.",
+    "items": [
+     "Il défend un camarade moqué par d’autres.",
+     "Elle se cache quand on demande de l’aide.",
+     "Il avoue son erreur devant la classe.",
+     "Elle laisse son ami seul dans le danger."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris une phrase pour clarifier le courage.",
+    "items": [
+     "Je définis le courage.",
+     "Je donne un exemple de courage à l’école.",
+     "Je dis quel choix je ferais si un camarade était en danger."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. courage ; 2. pas du courage ; 3. courage ; 4. pas du courage. Barème : 1 point par critère respecté.",
+  "Exercice 2 : 1. Réponse possible : le courage, c’est agir malgré la peur pour faire le bien. ; 2. Réponse possible : je dis la vérité même si j’ai peur d’être puni. ; 3. Réponse possible : j’appellerais un adulte et je l’aiderais prudemment.. Barème : 1 point par critère respecté.",
+  "Évaluation (étape V) : 1. La définition est donnée (agir malgré la peur pour faire le bien). ; 2. Un exemple est présenté. ; 3. Un choix est exprimé. ; 4. Une raison justifie le choix. ; 5. Les phrases sont correctes.. Barème : 1 point par critère respecté. Seuil : 4 sur 5.",
+  "Remarque : Pour l’exercice 2, toute réponse cohérente avec la valeur du courage est acceptée."
+ ]
+}

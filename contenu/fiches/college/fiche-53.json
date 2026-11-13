@@ -1,0 +1,403 @@
+{
+ "id": 10053,
+ "meta": {
+  "t": "La concordance des temps : la simultanéité",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 53
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.3 : Utiliser les règles de concordance des temps",
+  "titre": "La concordance des temps : la simultanéité",
+  "theme": "",
+  "objet": "Utilisation des règles de concordance des temps : la simultanéité",
+  "numero": 52,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les règles de concordance des temps : la simultanéité, l’apprenant doit être capable de mettre le verbe entre parenthèses au temps qui convient pour exprimer la simultanéité dans au moins 4 phrases sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Pendant que je lis, mon frère écoute la radio.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Ces deux actions ont-elles lieu à des moments différents ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment appelle-t-on cela ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : elles ont lieu en même temps."
+    },
+    {
+     "n": 2,
+     "r": "La simultanéité."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de mettre le verbe au bon temps pour exprimer deux actions en même temps dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Conjugue « pleurer » à l’imparfait avec « tu »."
+    },
+    {
+     "n": 4,
+     "q": "Conjugue « jouer » au présent avec « nous »."
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce que la proposition principale ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "tu pleurais"
+    },
+    {
+     "n": 4,
+     "r": "nous jouons"
+    },
+    {
+     "n": 5,
+     "r": "C’est la proposition dont dépend la subordonnée."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Je vois que tu pleures.\n2. Je voyais que tu pleurais.\n3. Il dit qu’il pleut.\n4. Il disait qu’il pleuvait.\n5. Elle sait que nous jouons.\n6. Elle savait que nous jouions.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le verbe de la proposition subordonnée ?"
+      },
+      {
+       "n": 12,
+       "q": "Les deux actions de chaque phrase ont-elles lieu en même temps ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "pleures"
+      },
+      {
+       "n": 7,
+       "r": "pleurais"
+      },
+      {
+       "n": 8,
+       "r": "pleut"
+      },
+      {
+       "n": 9,
+       "r": "pleuvait"
+      },
+      {
+       "n": 10,
+       "r": "jouons"
+      },
+      {
+       "n": 11,
+       "r": "jouions"
+      },
+      {
+       "n": 12,
+       "r": "Oui : c’est la simultanéité."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Je vois que tu pleures.\n2. Je voyais que tu pleurais.\n3. Il dit qu’il pleut.\n4. Il disait qu’il pleuvait.\n5. Elle sait que nous jouons.\n6. Elle savait que nous jouions.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel temps emploie-t-on dans la subordonnée quand le verbe principal est au présent ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel temps emploie-t-on quand le verbe principal est à l’imparfait ?"
+      },
+      {
+       "n": 15,
+       "q": "Que faut-il dire à la place de « Je voyais que tu pleures » ?"
+      },
+      {
+       "n": 16,
+       "q": "Dans quelles phrases le verbe principal est-il au présent ?"
+      },
+      {
+       "n": 17,
+       "q": "Quelle règle faut-il retenir ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Le présent."
+      },
+      {
+       "n": 14,
+       "r": "L’imparfait."
+      },
+      {
+       "n": 15,
+       "r": "« Je voyais que tu pleurais » : la concordance doit être respectée."
+      },
+      {
+       "n": 16,
+       "r": "Dans les phrases 1, 3 et 5."
+      },
+      {
+       "n": 17,
+       "r": "Présent avec présent ; imparfait avec imparfait."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce que la simultanéité ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels temps emploie-t-on pour l’exprimer ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Ce sont deux actions qui se passent en même temps."
+      },
+      {
+       "n": 19,
+       "r": "Le présent avec un verbe principal au présent ; l’imparfait avec un verbe principal à l’imparfait."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la concordance des temps : la simultanéité.",
+    "tache": "Mettre le verbe entre parenthèses au temps qui convient pour exprimer la simultanéité.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et mets le verbe entre parenthèses au temps qui convient.",
+    "items": [
+     "Je vois que tu (chanter).",
+     "Je voyais que tu (chanter).",
+     "Il pense qu’elle (dormir).",
+     "Il pensait qu’elle (dormir).",
+     "Nous savons qu’ils (travailler)."
+    ],
+    "cle": [
+     "chantes",
+     "chantais",
+     "dort",
+     "dormait",
+     "travaillent"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La concordance des temps : la simultanéité",
+  "intro": "Deux actions simultanées se passent en même temps. Le temps du verbe principal commande le temps de la subordonnée.",
+  "corpus": [
+   "Je vois que tu pleures.",
+   "Je voyais que tu pleurais.",
+   "Il dit qu’il pleut.",
+   "Il disait qu’il pleuvait.",
+   "Elle sait que nous jouons.",
+   "Elle savait que nous jouions."
+  ],
+  "retenir": "La simultanéité : deux actions se passent en même temps.\nVerbe principal au présent : subordonnée au présent.\nVerbe principal à l’imparfait : subordonnée à l’imparfait.\nOn respecte ainsi la concordance des temps.\nExemple : Je voyais que tu pleurais.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe de la subordonnée",
+    "Temps",
+    "Verbe principal"
+   ],
+   "rows": [
+    [
+     "1",
+     "pleures",
+     "présent",
+     "vois (présent)"
+    ],
+    [
+     "2",
+     "pleurais",
+     "imparfait",
+     "voyais (imparfait)"
+    ],
+    [
+     "3",
+     "pleut",
+     "présent",
+     "dit (présent)"
+    ],
+    [
+     "4",
+     "pleuvait",
+     "imparfait",
+     "disait (imparfait)"
+    ],
+    [
+     "5",
+     "jouons",
+     "présent",
+     "sait (présent)"
+    ],
+    [
+     "6",
+     "jouions",
+     "imparfait",
+     "savait (imparfait)"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe de la subordonnée.",
+    "items": [
+     "Elle dit qu’il pleut.",
+     "Elle disait qu’il pleuvait.",
+     "Je vois que les enfants dansent.",
+     "Je voyais que les enfants dansaient."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le verbe entre parenthèses au temps qui convient.",
+    "items": [
+     "Il croit que tu (mentir).",
+     "Il croyait que tu (mentir).",
+     "Elle sait que nous (partir).",
+     "Elle savait que nous (partir)."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. pleut ; 2. pleuvait ; 3. dansent ; 4. dansaient. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. mens ; 2. mentais ; 3. partons ; 4. partions. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. chantes ; 2. chantais ; 3. dort ; 4. dormait ; 5. travaillent. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

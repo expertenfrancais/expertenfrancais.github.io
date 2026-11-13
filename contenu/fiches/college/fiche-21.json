@@ -1,0 +1,404 @@
+{
+ "id": 10021,
+ "meta": {
+  "t": "Les homophones quelque(s), quel(le)(s) que et qu’elle(s)",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 21
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.1 : Écrire les graphies complexes",
+  "titre": "Les homophones quelque(s), quel(le)(s) que et qu’elle(s)",
+  "theme": "",
+  "objet": "Écriture des homophones quelque(s)/quelle(s) que/qu’elle(s) que",
+  "numero": 20,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 4 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’écriture des homophones quelque(s), quelle(s) que et qu’elle(s), l’apprenant doit être capable de choisir la graphie qui convient (quelque(s), quel(le)(s) que ou qu’elle(s)) dans au moins 4 phrases sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève hésite entre trois écritures :\nquelques ; quelles que ; qu’elles.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Ces trois écritures se prononcent-elles de la même façon ?"
+    },
+    {
+     "n": 2,
+     "q": "Que faut-il connaître pour bien les écrire ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Presque : « quelques » se prononce comme « quelle que » et « qu’elle »."
+    },
+    {
+     "n": 2,
+     "r": "Leur sens et leur place dans la phrase."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de choisir la bonne graphie parmi quelque(s), quel(le)(s) que et qu’elle(s) dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Cite un adjectif indéfini."
+    },
+    {
+     "n": 4,
+     "q": "Conjugue « être » au subjonctif présent avec « que tu »."
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce qu’un homophone ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Réponses possibles : plusieurs, chaque, certains, quelques."
+    },
+    {
+     "n": 4,
+     "r": "que tu sois"
+    },
+    {
+     "n": 5,
+     "r": "C’est un mot qui se prononce comme un autre mais qui ne s’écrit pas pareil."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Quelques élèves attendent déjà devant le portail.\n2. Quelque temps après, mon oncle est revenu du village.\n3. Quelles que soient vos raisons, venez à l’heure.\n4. Quelle que soit la distance, nous irons à pied.\n5. Je sais qu’elle viendra ce soir.\n6. Je pense qu’elles arriveront avant la nuit.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quelle graphie trouve-t-on : quelque(s), quel(le)(s) que ou qu’elle(s) ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quelle graphie trouve-t-on : quelque(s), quel(le)(s) que ou qu’elle(s) ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quelle graphie trouve-t-on : quelque(s), quel(le)(s) que ou qu’elle(s) ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quelle graphie trouve-t-on : quelque(s), quel(le)(s) que ou qu’elle(s) ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quelle graphie trouve-t-on : quelque(s), quel(le)(s) que ou qu’elle(s) ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quelle graphie trouve-t-on : quelque(s), quel(le)(s) que ou qu’elle(s) ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel verbe suit « quelles que » et « quelle que » ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "quelques"
+      },
+      {
+       "n": 7,
+       "r": "quelque"
+      },
+      {
+       "n": 8,
+       "r": "quelles que"
+      },
+      {
+       "n": 9,
+       "r": "quelle que"
+      },
+      {
+       "n": 10,
+       "r": "qu’elle"
+      },
+      {
+       "n": 11,
+       "r": "qu’elles"
+      },
+      {
+       "n": 12,
+       "r": "Le verbe « être » au subjonctif : « soient » et « soit »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Quelques élèves attendent déjà devant le portail.\n2. Quelque temps après, mon oncle est revenu du village.\n3. Quelles que soient vos raisons, venez à l’heure.\n4. Quelle que soit la distance, nous irons à pied.\n5. Je sais qu’elle viendra ce soir.\n6. Je pense qu’elles arriveront avant la nuit.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Que signifie « quelques » dans la phrase 1 ?"
+      },
+      {
+       "n": 14,
+       "q": "Combien de mots écrit-on pour « quelle que » ? Que contient-il ?"
+      },
+      {
+       "n": 15,
+       "q": "Pourquoi écrit-on « quelles que » en phrase 3 et « quelle que » en phrase 4 ?"
+      },
+      {
+       "n": 16,
+       "q": "Par quel mot remplace-t-on « qu’elle » dans la phrase 5 ?"
+      },
+      {
+       "n": 17,
+       "q": "Peut-on faire cette substitution dans la phrase 3 ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "« un petit nombre de »."
+      },
+      {
+       "n": 14,
+       "r": "Deux mots : « quelle », qui s’accorde avec le nom, et « que »."
+      },
+      {
+       "n": 15,
+       "r": "Parce que « quelle(s) » s’accorde avec le nom : « raisons » est pluriel, « distance » est singulier."
+      },
+      {
+       "n": 16,
+       "r": "Par « qu’il »."
+      },
+      {
+       "n": 17,
+       "r": "Non : « Qu’il que soient vos raisons » n’a pas de sens."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quand écrit-on quelque(s) en un seul mot ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment distingue-t-on « quel(le)(s) que » de « qu’elle(s) » ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Quand il veut dire « un petit nombre » ou « un certain » et se place devant un nom ; « quelques » prend un s au pluriel."
+      },
+      {
+       "n": 19,
+       "r": "« Quel(le)(s) que » est suivi de « soit » ou « soient » ; « qu’elle(s) » peut se remplacer par « qu’il(s) »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les homophones quelque(s), quel(le)(s) que et qu’elle(s).",
+    "tache": "Choisir la graphie qui convient pour compléter chacune des cinq phrases.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et choisis la bonne graphie pour compléter.",
+    "items": [
+     "… soit ta réponse, écris-la.",
+     "Il reste … mangues dans le panier.",
+     "Je crois … est arrivée hier.",
+     "… soient les difficultés, nous réussirons.",
+     "Ma tante a passé … jours au village."
+    ],
+    "cle": [
+     "Quelle que",
+     "quelques",
+     "qu’elle",
+     "Quelles que",
+     "quelques"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les homophones quelque(s), quel(le)(s) que et qu’elle(s)",
+  "intro": "« Quelque(s) » signifie « un petit nombre ». « Quel(le)(s) que » est suivi de « soit » ou « soient ». « Qu’elle(s) » est « que » suivi de « elle(s) ».",
+  "corpus": [
+   "Quelques élèves attendent déjà devant le portail.",
+   "Quelque temps après, mon oncle est revenu du village.",
+   "Quelles que soient vos raisons, venez à l’heure.",
+   "Quelle que soit la distance, nous irons à pied.",
+   "Je sais qu’elle viendra ce soir.",
+   "Je pense qu’elles arriveront avant la nuit."
+  ],
+  "retenir": "« Quelque(s) » s’écrit en un mot devant un nom.\nIl veut dire « un petit nombre » ou « un certain ».\n« Quel(le)(s) que » s’écrit en deux mots, suivi de « soit » ou « soient ».\n« Qu’elle(s) » se remplace par « qu’il(s) ».\nExemple : Quelles que soient vos raisons, venez à l’heure.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Graphie",
+    "Nature et sens",
+    "Indice"
+   ],
+   "rows": [
+    [
+     "1",
+     "quelques",
+     "adjectif indéfini : un petit nombre",
+     "s’accorde avec « élèves »"
+    ],
+    [
+     "2",
+     "quelque",
+     "adjectif indéfini : un certain",
+     "précède un nom"
+    ],
+    [
+     "3",
+     "quelles que",
+     "deux mots : quelle + que",
+     "suivi de « soient »"
+    ],
+    [
+     "4",
+     "quelle que",
+     "deux mots : quelle + que",
+     "suivi de « soit »"
+    ],
+    [
+     "5",
+     "qu’elle",
+     "que + elle",
+     "remplaçable par « qu’il »"
+    ],
+    [
+     "6",
+     "qu’elles",
+     "que + elles",
+     "remplaçable par « qu’ils »"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec quelques, quel(le)(s) que ou qu’elle(s).",
+    "items": [
+     "… soient tes amis, sois poli.",
+     "Il a attendu … minutes.",
+     "Je pense … sera là.",
+     "… soit la route, nous arriverons."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je choisis entre qu’elle et quel(le)(s) que.",
+    "items": [
+     "Je dis … viendra.",
+     "… soit son âge, il travaille.",
+     "Il faut … vienne vite.",
+     "… soient leurs idées, écoute-les."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. Quels que ; 2. quelques ; 3. qu’elle ; 4. Quelle que. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. qu’elle ; 2. Quel que ; 3. qu’elle ; 4. Quelles que. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. Quelle que ; 2. quelques ; 3. qu’elle ; 4. Quelles que ; 5. quelques. Barème : 1 point par réponse juste. Seuil : 4 sur 5.",
+  "Remarque : Dans la répartition, l’écriture « qu’elle(s) que » n’est pas une forme courante : la séance traite « qu’elle(s) » (que + elle(s))."
+ ]
+}

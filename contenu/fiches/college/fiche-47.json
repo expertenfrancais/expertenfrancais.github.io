@@ -1,0 +1,403 @@
+{
+ "id": 10047,
+ "meta": {
+  "t": "L’accord du participe passé des verbes pronominaux de sens passif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 47
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.2 : Appliquer l’accord des participes passés",
+  "titre": "L’accord du participe passé des verbes pronominaux de sens passif",
+  "theme": "",
+  "objet": "Application des règles d’accord du participe passé des verbes occasionnellement pronominaux de sens passif",
+  "numero": 46,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 4 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’accord du participe passé des verbes occasionnellement pronominaux de sens passif, l’apprenant doit être capable de accorder correctement au moins 4 participes passés de verbes pronominaux de sens passif sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un vendeur dit : « Mes mangues se vendent bien. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Les mangues vendent-elles quelque chose ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment peut-on dire la même chose avec le verbe être ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : on les vend."
+    },
+    {
+     "n": 2,
+     "r": "« Mes mangues sont bien vendues. »"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de accorder correctement au moins 4 participes passés de verbes pronominaux de sens passif sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un verbe pronominal ?"
+    },
+    {
+     "n": 4,
+     "q": "Donne le participe passé de « vendre »."
+    },
+    {
+     "n": 5,
+     "q": "Transforme à la voix passive : « On vend ces mangues. »"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un verbe qui se conjugue avec un pronom réfléchi (me, te, se…) : se lever."
+    },
+    {
+     "n": 4,
+     "r": "vendu"
+    },
+    {
+     "n": 5,
+     "r": "Ces mangues sont vendues."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Ces mangues se sont vendues en une heure.\n2. Les billets se sont bien vendus.\n3. Cette maison s’est construite en trois mois.\n4. Les produits de la région se sont exportés vers l’Europe.\n5. Cette histoire s’est racontée de génération en génération.\n6. Les poissons séchés se sont conservés plusieurs mois.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 12,
+       "q": "Le sujet fait-il l’action dans ces phrases ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "vendues"
+      },
+      {
+       "n": 7,
+       "r": "vendus"
+      },
+      {
+       "n": 8,
+       "r": "construite"
+      },
+      {
+       "n": 9,
+       "r": "exportés"
+      },
+      {
+       "n": 10,
+       "r": "racontée"
+      },
+      {
+       "n": 11,
+       "r": "conservés"
+      },
+      {
+       "n": 12,
+       "r": "Non : il subit l’action, comme à la voix passive."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Ces mangues se sont vendues en une heure.\n2. Les billets se sont bien vendus.\n3. Cette maison s’est construite en trois mois.\n4. Les produits de la région se sont exportés vers l’Europe.\n5. Cette histoire s’est racontée de génération en génération.\n6. Les poissons séchés se sont conservés plusieurs mois.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Par quelle forme peut-on remplacer « se sont vendues » ?"
+      },
+      {
+       "n": 14,
+       "q": "Qui vend les mangues ?"
+      },
+      {
+       "n": 15,
+       "q": "Avec quel mot le participe passé s’accorde-t-il ?"
+      },
+      {
+       "n": 16,
+       "q": "Pourquoi « construite » prend-il un e ?"
+      },
+      {
+       "n": 17,
+       "q": "Pourquoi « vendus » prend-il un s ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Par « ont été vendues »."
+      },
+      {
+       "n": 14,
+       "r": "Quelqu’un d’autre : les mangues subissent l’action."
+      },
+      {
+       "n": 15,
+       "r": "Avec le sujet."
+      },
+      {
+       "n": 16,
+       "r": "Le sujet « maison » est féminin singulier."
+      },
+      {
+       "n": 17,
+       "r": "Le sujet « billets » est masculin pluriel."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’un verbe pronominal de sens passif ?"
+      },
+      {
+       "n": 19,
+       "q": "Quelle est la règle d’accord ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est un verbe pronominal dont le sujet subit l’action : se vendre veut dire être vendu."
+      },
+      {
+       "n": 19,
+       "r": "Le participe passé s’accorde avec le sujet."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’accord du participe passé des verbes pronominaux de sens passif.",
+    "tache": "Accorder le participe passé écrit à l’infinitif entre parenthèses dans chacune des cinq phrases.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et écris le participe passé bien accordé.",
+    "items": [
+     "Les mangues se sont (vendre) vite.",
+     "Les billets se sont (acheter) en quelques minutes.",
+     "Cette route s’est (construire) en un an.",
+     "Ces poissons se sont (conserver) longtemps.",
+     "La nouvelle s’est (répandre) dans le quartier."
+    ],
+    "cle": [
+     "vendues",
+     "achetés",
+     "construite",
+     "conservés",
+     "répandue"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’accord du participe passé des verbes pronominaux de sens passif",
+  "intro": "Dans un verbe pronominal de sens passif, le sujet ne fait pas l’action : il la subit. Le participe passé s’accorde avec le sujet.",
+  "corpus": [
+   "Ces mangues se sont vendues en une heure.",
+   "Les billets se sont bien vendus.",
+   "Cette maison s’est construite en trois mois.",
+   "Les produits de la région se sont exportés vers l’Europe.",
+   "Cette histoire s’est racontée de génération en génération.",
+   "Les poissons séchés se sont conservés plusieurs mois."
+  ],
+  "retenir": "Un verbe pronominal de sens passif a un sujet qui subit l’action.\nSe vendre veut dire être vendu.\nOn peut le remplacer par être + participe passé.\nLe participe passé s’accorde avec le sujet.\nExemple : Ces mangues se sont vendues en une heure.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Participe passé",
+    "Sujet",
+    "Sens passif"
+   ],
+   "rows": [
+    [
+     "1",
+     "vendues",
+     "ces mangues",
+     "= ont été vendues"
+    ],
+    [
+     "2",
+     "vendus",
+     "les billets",
+     "= ont été vendus"
+    ],
+    [
+     "3",
+     "construite",
+     "cette maison",
+     "= a été construite"
+    ],
+    [
+     "4",
+     "exportés",
+     "les produits",
+     "= ont été exportés"
+    ],
+    [
+     "5",
+     "racontée",
+     "cette histoire",
+     "= a été racontée"
+    ],
+    [
+     "6",
+     "conservés",
+     "les poissons séchés",
+     "= ont été conservés"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le participe passé entre parenthèses au bon accord.",
+    "items": [
+     "Les produits se sont (exporter) vers la France.",
+     "Cette chanson s’est (chanter) dans tout le pays.",
+     "Ces gâteaux se sont (vendre) rapidement.",
+     "La maison s’est (bâtir) en deux mois."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je remplace par la voix passive pour vérifier le sens.",
+    "items": [
+     "Ces fruits se sont vendus.",
+     "La porte s’est ouverte.",
+     "Cette maison s’est construite vite.",
+     "Ces tissus se sont bien exportés."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. exportés ; 2. chantée ; 3. vendus ; 4. bâtie. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. Ces fruits ont été vendus. ; 2. La porte a été ouverte. ; 3. Cette maison a été construite vite. ; 4. Ces tissus ont été bien exportés.. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. vendues ; 2. achetés ; 3. construite ; 4. conservés ; 5. répandue. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

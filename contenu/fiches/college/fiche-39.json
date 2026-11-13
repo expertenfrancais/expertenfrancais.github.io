@@ -1,0 +1,400 @@
+{
+ "id": 10039,
+ "meta": {
+  "t": "Le paragraphe argumentatif : renforcement",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 39
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.7 : Argumenter un point de vue",
+  "titre": "Le paragraphe argumentatif : renforcement",
+  "theme": "",
+  "objet": "Argumentation d’un point de vue : élaboration d’un paragraphe argumentatif (renforcement)",
+  "numero": 38,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Texte modèle de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’élaboration d’un paragraphe argumentatif (renforcement), l’apprenant doit être capable de rédiger un paragraphe argumentatif de quatre phrases au moins en respectant au moins 4 critères sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève dit : « Je suis pour le sport à l’école. »\nSon voisin répond : « Moi, je suis contre. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Ces deux élèves peuvent-ils se convaincre sans donner de raisons ?"
+    },
+    {
+     "n": 2,
+     "q": "Que doit contenir leur réponse pour être convaincante ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : il faut des arguments."
+    },
+    {
+     "n": 2,
+     "r": "Des arguments appuyés par des exemples."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de rédiger un paragraphe argumentatif de quatre phrases au moins en respectant au moins 4 critères sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’une position ?"
+    },
+    {
+     "n": 4,
+     "q": "Quelle différence y a-t-il entre un argument et un exemple ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite deux mots pour classer des arguments."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est ce qu’on pense d’un sujet : pour ou contre."
+    },
+    {
+     "n": 4,
+     "r": "L’argument est une raison ; l’exemple est un fait précis qui la prouve."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : d’abord, ensuite, premièrement, deuxièmement."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le texte modèle écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Je suis convaincu que chaque élève doit nettoyer la cour de son CEG.\n2. Premièrement, une cour propre protège la santé de tous.\n3. Par exemple, les déchets attirent les mouches qui transportent des maladies.\n4. Deuxièmement, nettoyer ensemble apprend à vivre en groupe.\n5. En effet, chacun s’occupe d’un petit espace et le travail avance vite.\n6. Voilà pourquoi je soutiens le nettoyage de la cour par tous les élèves.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 12,
+       "q": "Quelle est la position de l’auteur ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "position"
+      },
+      {
+       "n": 7,
+       "r": "argument"
+      },
+      {
+       "n": 8,
+       "r": "exemple"
+      },
+      {
+       "n": 9,
+       "r": "argument"
+      },
+      {
+       "n": 10,
+       "r": "explication"
+      },
+      {
+       "n": 11,
+       "r": "conclusion"
+      },
+      {
+       "n": 12,
+       "r": "Il pense que chaque élève doit nettoyer la cour de son CEG."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Je suis convaincu que chaque élève doit nettoyer la cour de son CEG.\n2. Premièrement, une cour propre protège la santé de tous.\n3. Par exemple, les déchets attirent les mouches qui transportent des maladies.\n4. Deuxièmement, nettoyer ensemble apprend à vivre en groupe.\n5. En effet, chacun s’occupe d’un petit espace et le travail avance vite.\n6. Voilà pourquoi je soutiens le nettoyage de la cour par tous les élèves.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quels mots annoncent les deux arguments ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelle phrase prouve le premier argument par un fait précis ?"
+      },
+      {
+       "n": 15,
+       "q": "À quoi sert la phrase 5 ?"
+      },
+      {
+       "n": 16,
+       "q": "Quels mots annoncent la conclusion ?"
+      },
+      {
+       "n": 17,
+       "q": "Que fait la conclusion ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "« Premièrement » et « Deuxièmement »."
+      },
+      {
+       "n": 14,
+       "r": "La phrase 3, avec « Par exemple »."
+      },
+      {
+       "n": 15,
+       "r": "À expliquer le deuxième argument, avec « En effet »."
+      },
+      {
+       "n": 16,
+       "r": "« Voilà pourquoi »."
+      },
+      {
+       "n": 17,
+       "r": "Elle reprend la position de l’auteur."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "De quoi se compose un paragraphe argumentatif ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels connecteurs peut-on employer ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "D’une position, d’arguments appuyés par des exemples ou des explications, et d’une conclusion."
+      },
+      {
+       "n": 19,
+       "r": "Je suis convaincu que, premièrement, deuxièmement, par exemple, en effet, voilà pourquoi."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier le paragraphe argumentatif. Sujet : « Faut-il interdire les sachets en plastique au marché ? »",
+    "tache": "Rédiger un paragraphe argumentatif de quatre phrases au moins.",
+    "consigne": "Sur ta feuille de copie, rédige le paragraphe en respectant les cinq critères.",
+    "items": [
+     "Le paragraphe commence par la position.",
+     "Au moins deux arguments sont donnés.",
+     "Un exemple ou une explication appuie un argument.",
+     "Une phrase de conclusion reprend la position.",
+     "Les connecteurs sont corrects et l’orthographe est soignée."
+    ],
+    "cle": [
+     "La position est donnée au début.",
+     "Deux arguments au moins sont présents.",
+     "Un exemple ou une explication est donné.",
+     "Une conclusion reprend la position.",
+     "Connecteurs et orthographe corrects."
+    ],
+    "bareme": "1 point par critère respecté",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le paragraphe argumentatif : renforcement",
+  "intro": "Pour bien défendre une idée, on classe ses arguments et on les appuie par des exemples.",
+  "corpus": [
+   "Je suis convaincu que chaque élève doit nettoyer la cour de son CEG.",
+   "Premièrement, une cour propre protège la santé de tous.",
+   "Par exemple, les déchets attirent les mouches qui transportent des maladies.",
+   "Deuxièmement, nettoyer ensemble apprend à vivre en groupe.",
+   "En effet, chacun s’occupe d’un petit espace et le travail avance vite.",
+   "Voilà pourquoi je soutiens le nettoyage de la cour par tous les élèves."
+  ],
+  "retenir": "Un paragraphe argumentatif commence par la position.\nIl donne des arguments classés : premièrement, deuxièmement.\nChaque argument est appuyé par un exemple ou une explication.\nIl finit par une conclusion : voilà pourquoi.\nExemple : Voilà pourquoi je soutiens le nettoyage de la cour.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Rôle de la phrase",
+    "Connecteur",
+    "Idée"
+   ],
+   "rows": [
+    [
+     "1",
+     "position",
+     "Je suis convaincu que",
+     "nettoyer la cour"
+    ],
+    [
+     "2",
+     "argument",
+     "Premièrement",
+     "la santé est protégée"
+    ],
+    [
+     "3",
+     "exemple",
+     "Par exemple",
+     "les mouches transportent des maladies"
+    ],
+    [
+     "4",
+     "argument",
+     "Deuxièmement",
+     "on apprend à vivre ensemble"
+    ],
+    [
+     "5",
+     "explication",
+     "En effet",
+     "le travail avance vite"
+    ],
+    [
+     "6",
+     "conclusion",
+     "Voilà pourquoi",
+     "retour à la position"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis le rôle de chaque phrase : position, argument, exemple ou conclusion.",
+    "items": [
+     "Voilà pourquoi je défends le tri des déchets.",
+     "Je suis pour le tri des déchets à l’école.",
+     "Par exemple, les bouteilles en plastique peuvent être recyclées.",
+     "Le tri garde l’école propre."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’ajoute un connecteur : premièrement, par exemple, deuxièmement, voilà pourquoi.",
+    "items": [
+     "… , la propreté protège la santé.",
+     "… , des élèves ont nettoyé la cour en une heure.",
+     "… , le travail en groupe est plus rapide.",
+     "… , je soutiens cette idée."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. conclusion ; 2. position ; 3. exemple ; 4. argument. Barème : 1 point par critère respecté.",
+  "Exercice 2 : 1. Premièrement ; 2. Par exemple ; 3. Deuxièmement ; 4. Voilà pourquoi. Barème : 1 point par critère respecté.",
+  "Évaluation (étape V) : 1. La position est donnée au début. ; 2. Deux arguments au moins sont présents. ; 3. Un exemple ou une explication est donné. ; 4. Une conclusion reprend la position. ; 5. Connecteurs et orthographe corrects.. Barème : 1 point par critère respecté. Seuil : 4 sur 5.",
+  "Remarque : Pour l’exercice 2, d’autres connecteurs sont acceptés si le sens est respecté."
+ ]
+}

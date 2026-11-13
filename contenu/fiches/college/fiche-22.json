@@ -1,0 +1,403 @@
+{
+ "id": 10022,
+ "meta": {
+  "t": "Les valeurs modales du conditionnel",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 22
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.4 : Utiliser les valeurs modales et temporelles des verbes",
+  "titre": "Les valeurs modales du conditionnel",
+  "theme": "",
+  "objet": "Utilisation des valeurs modales : le conditionnel",
+  "numero": 21,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 4 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les valeurs modales du conditionnel, l’apprenant doit être capable de identifier la valeur modale (politesse, conseil, information non sûre ou hypothèse) exprimée par le conditionnel dans au moins 4 phrases sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Au marché, un client dit : « Donne-moi du poisson. »\nUn autre dit : « Je voudrais du poisson, s’il vous plaît. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle demande est la plus polie ?"
+    },
+    {
+     "n": 2,
+     "q": "Quel verbe rend cette demande plus polie ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "La deuxième demande."
+    },
+    {
+     "n": 2,
+     "r": "Le verbe « voudrais » : il est au conditionnel."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de identifier la valeur du conditionnel (politesse, conseil, information non sûre ou hypothèse) dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Conjugue « aller » au futur simple avec « je »."
+    },
+    {
+     "n": 4,
+     "q": "Donne les terminaisons de l’imparfait avec « tu » et « il »."
+    },
+    {
+     "n": 5,
+     "q": "Cite deux modes que tu connais."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "j’irai"
+    },
+    {
+     "n": 4,
+     "r": "-ais et -ait (tu chantais, il chantait)"
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : l’indicatif, l’impératif, le subjonctif, le conditionnel."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Je voudrais un verre d’eau, s’il vous plaît.\n2. À ta place, j’étudierais davantage.\n3. Selon la radio, il y aurait de la pluie demain.\n4. Si j’avais un vélo, j’irais au village.\n5. Tu devrais te reposer un peu.\n6. Pourriez-vous m’indiquer la route du marché ?",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel verbe est au conditionnel présent ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel verbe est au conditionnel présent ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel verbe est au conditionnel présent ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel verbe est au conditionnel présent ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel verbe est au conditionnel présent ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel verbe est au conditionnel présent ?"
+      },
+      {
+       "n": 12,
+       "q": "Quelle lettre trouve-t-on avant la terminaison de ces verbes ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "voudrais"
+      },
+      {
+       "n": 7,
+       "r": "étudierais"
+      },
+      {
+       "n": 8,
+       "r": "aurait"
+      },
+      {
+       "n": 9,
+       "r": "irais"
+      },
+      {
+       "n": 10,
+       "r": "devrais"
+      },
+      {
+       "n": 11,
+       "r": "pourriez"
+      },
+      {
+       "n": 12,
+       "r": "La lettre « r » : voud-r-ais, étudie-r-ais, au-r-ait, i-r-ais, dev-r-ais, pour-r-iez."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Je voudrais un verre d’eau, s’il vous plaît.\n2. À ta place, j’étudierais davantage.\n3. Selon la radio, il y aurait de la pluie demain.\n4. Si j’avais un vélo, j’irais au village.\n5. Tu devrais te reposer un peu.\n6. Pourriez-vous m’indiquer la route du marché ?",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quelles phrases expriment une demande polie ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelles phrases donnent un conseil ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle phrase rapporte une information non sûre ?"
+      },
+      {
+       "n": 16,
+       "q": "Que montre la phrase 4 ?"
+      },
+      {
+       "n": 17,
+       "q": "Quel mot introduit l’hypothèse ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Les phrases 1 et 6."
+      },
+      {
+       "n": 14,
+       "r": "Les phrases 2 et 5."
+      },
+      {
+       "n": 15,
+       "r": "La phrase 3 : « il y aurait de la pluie demain »."
+      },
+      {
+       "n": 16,
+       "r": "Une hypothèse : une condition avec « si » + imparfait, suivie du conditionnel."
+      },
+      {
+       "n": 17,
+       "r": "Le mot « si »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelles valeurs le conditionnel peut-il exprimer ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment forme-t-on le conditionnel présent ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "La politesse, le conseil, l’information non sûre et l’hypothèse."
+      },
+      {
+       "n": 19,
+       "r": "Avec le radical du futur et les terminaisons de l’imparfait : -ais, -ais, -ait, -ions, -iez, -aient."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les valeurs modales du conditionnel.",
+    "tache": "Identifier la valeur modale (politesse, conseil, information non sûre ou hypothèse) du verbe au conditionnel dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase, souligne le verbe au conditionnel et écris sa valeur : politesse, conseil, information non sûre ou hypothèse.",
+    "items": [
+     "Pourriez-vous fermer la fenêtre, s’il vous plaît ?",
+     "Tu devrais boire plus d’eau.",
+     "Si j’étais riche, j’achèterais une maison.",
+     "Selon le journal, le président viendrait demain.",
+     "À ta place, je réviserais ma leçon."
+    ],
+    "cle": [
+     "pourriez : politesse",
+     "devrais : conseil",
+     "achèterais : hypothèse",
+     "viendrait : information non sûre",
+     "réviserais : conseil"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les valeurs modales du conditionnel",
+  "intro": "Le conditionnel exprime la politesse, le conseil, une information non sûre ou une hypothèse.",
+  "corpus": [
+   "Je voudrais un verre d’eau, s’il vous plaît.",
+   "À ta place, j’étudierais davantage.",
+   "Selon la radio, il y aurait de la pluie demain.",
+   "Si j’avais un vélo, j’irais au village.",
+   "Tu devrais te reposer un peu.",
+   "Pourriez-vous m’indiquer la route du marché ?"
+  ],
+  "retenir": "Le conditionnel sert à demander poliment.\nIl sert à donner un conseil.\nIl rapporte une information qui n’est pas sûre.\nIl exprime une hypothèse après « si » + imparfait.\nExemple : Je voudrais un verre d’eau, s’il vous plaît.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe au conditionnel",
+    "Valeur",
+    "Indice"
+   ],
+   "rows": [
+    [
+     "1",
+     "voudrais",
+     "politesse",
+     "s’il vous plaît"
+    ],
+    [
+     "2",
+     "étudierais",
+     "conseil",
+     "À ta place"
+    ],
+    [
+     "3",
+     "aurait",
+     "information non sûre",
+     "Selon la radio"
+    ],
+    [
+     "4",
+     "irais",
+     "hypothèse",
+     "si + imparfait"
+    ],
+    [
+     "5",
+     "devrais",
+     "conseil",
+     "verbe « devoir »"
+    ],
+    [
+     "6",
+     "pourriez",
+     "politesse",
+     "question polie"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne le verbe au conditionnel.",
+    "items": [
+     "Je voudrais un peu de lait.",
+     "Nous aurions besoin de ton aide.",
+     "Il paraîtrait que le pont est fermé.",
+     "Tu ferais mieux de partir."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la valeur : politesse, conseil, information non sûre ou hypothèse.",
+    "items": [
+     "Pourrais-tu me prêter ton stylo ?",
+     "Tu devrais écouter ton professeur.",
+     "Si j’avais un téléphone, je t’appellerais.",
+     "D’après la radio, le match aurait lieu samedi."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. voudrais ; 2. aurions ; 3. paraîtrait ; 4. ferais. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. politesse ; 2. conseil ; 3. hypothèse ; 4. information non sûre. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. pourriez : politesse ; 2. devrais : conseil ; 3. achèterais : hypothèse ; 4. viendrait : information non sûre ; 5. réviserais : conseil. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "id": 10043,
+ "meta": {
+  "t": "La prise de notes",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 43
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "objectifGeneral": "O.G 5 : Acquérir les compétences techniques",
+  "objectifSpecifique": "O.S 5.4 : Prendre des notes",
+  "titre": "La prise de notes",
+  "theme": "",
+  "objet": "La prise de notes",
+  "numero": 42,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Texte de six phrases lu par l’enseignant ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur la prise de notes, l’apprenant doit être capable de noter, en mots essentiels et sans phrases entières, au moins 4 informations sur 5 dans un court texte lu par l’enseignant.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Le maître lit une longue explication. Un élève essaie de tout écrire. Il n’a pas fini quand le maître termine.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Pourquoi l’élève n’a-t-il pas fini d’écrire ?"
+    },
+    {
+     "n": 2,
+     "q": "Que doit-il faire pour garder l’essentiel ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il a voulu tout écrire : il écrit trop lentement."
+    },
+    {
+     "n": 2,
+     "r": "Noter seulement les mots importants."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de noter les mots essentiels d’au moins 4 informations sur 5 dans un texte lu par l’enseignant.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce que l’idée principale d’un texte ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’une abréviation ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite deux petits mots qu’on peut supprimer dans une note."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est ce que le texte dit de plus important."
+    },
+    {
+     "n": 4,
+     "r": "C’est un mot raccourci : « M. » pour « monsieur »."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : le, la, un, une, des, il faut."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Écouter l’enseignant lire le texte, puis répondre aux questions de repérage.",
+     "texte": "1. Le paludisme est une maladie causée par la piqûre d’un moustique.\n2. Il provoque de la fièvre, des frissons et des maux de tête.\n3. Pour s’en protéger, il faut dormir sous une moustiquaire.\n4. Il faut aussi vider les eaux stagnantes autour de la maison.\n5. Un malade doit aller vite au centre de santé.\n6. Un traitement pris à temps guérit le malade.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1 lue par l’enseignant, quels sont les mots essentiels à noter ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2 lue par l’enseignant, quels sont les mots essentiels à noter ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3 lue par l’enseignant, quels sont les mots essentiels à noter ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4 lue par l’enseignant, quels sont les mots essentiels à noter ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5 lue par l’enseignant, quels sont les mots essentiels à noter ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6 lue par l’enseignant, quels sont les mots essentiels à noter ?"
+      },
+      {
+       "n": 12,
+       "q": "Pourquoi note-t-on seulement les mots essentiels ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "paludisme, maladie, moustique"
+      },
+      {
+       "n": 7,
+       "r": "fièvre, frissons, maux de tête"
+      },
+      {
+       "n": 8,
+       "r": "protéger, dormir, moustiquaire"
+      },
+      {
+       "n": 9,
+       "r": "vider, eaux stagnantes, maison"
+      },
+      {
+       "n": 10,
+       "r": "malade, vite, centre de santé"
+      },
+      {
+       "n": 11,
+       "r": "traitement, temps, guérit"
+      },
+      {
+       "n": 12,
+       "r": "Pour écrire vite et retenir l’idée sans écrire toutes les phrases."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Le paludisme est une maladie causée par la piqûre d’un moustique.\n2. Il provoque de la fièvre, des frissons et des maux de tête.\n3. Pour s’en protéger, il faut dormir sous une moustiquaire.\n4. Il faut aussi vider les eaux stagnantes autour de la maison.\n5. Un malade doit aller vite au centre de santé.\n6. Un traitement pris à temps guérit le malade.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quels mots supprime-t-on le plus souvent ?"
+      },
+      {
+       "n": 14,
+       "q": "Quels signes peut-on utiliser pour aller plus vite ?"
+      },
+      {
+       "n": 15,
+       "q": "Comment peut-on abréger « paludisme » ?"
+      },
+      {
+       "n": 16,
+       "q": "Pourquoi faut-il pouvoir se relire ?"
+      },
+      {
+       "n": 17,
+       "q": "Comment organise-t-on ses notes ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Les articles, les mots de liaison et les petits mots : le, la, un, il faut…"
+      },
+      {
+       "n": 14,
+       "r": "Des flèches, des tirets, le signe « = » ou les deux-points."
+      },
+      {
+       "n": 15,
+       "r": "On peut écrire « palu. »."
+      },
+      {
+       "n": 16,
+       "r": "Pour comprendre ses notes plus tard."
+      },
+      {
+       "n": 17,
+       "r": "On met un titre et on écrit une idée par ligne."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment prend-on des notes ?"
+      },
+      {
+       "n": 19,
+       "q": "À quoi servent les notes ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "On écoute, on garde les mots essentiels, on abrège et on écrit une idée par ligne."
+      },
+      {
+       "n": 19,
+       "r": "À retenir l’essentiel d’un cours ou d’un texte."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la prise de notes. L’enseignant lit cinq phrases sur la culture du maïs.",
+    "tache": "Noter les mots essentiels de chacune des cinq phrases lues par l’enseignant.",
+    "consigne": "Sur ta feuille de copie, écris pour chaque phrase lue une note courte, avec des mots essentiels et sans phrase entière.",
+    "items": [
+     "Le maïs pousse bien quand la pluie tombe régulièrement.",
+     "On sème en début de saison des pluies.",
+     "Il faut sarcler les mauvaises herbes deux fois.",
+     "La récolte a lieu environ trois mois plus tard.",
+     "Le maïs séché se conserve dans un grenier."
+    ],
+    "cle": [
+     "Réponse possible : maïs – pluie régulière.",
+     "Réponse possible : semis – début saison des pluies.",
+     "Réponse possible : sarclage – 2 fois.",
+     "Réponse possible : récolte – 3 mois après.",
+     "Réponse possible : conservation – grenier, maïs séché."
+    ],
+    "bareme": "1 point par note qui garde l’information essentielle",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La prise de notes",
+  "intro": "Prendre des notes, c’est écrire vite l’essentiel de ce qu’on entend, avec des mots clés.",
+  "corpus": [
+   "Le paludisme est une maladie causée par la piqûre d’un moustique.",
+   "Il provoque de la fièvre, des frissons et des maux de tête.",
+   "Pour s’en protéger, il faut dormir sous une moustiquaire.",
+   "Il faut aussi vider les eaux stagnantes autour de la maison.",
+   "Un malade doit aller vite au centre de santé.",
+   "Un traitement pris à temps guérit le malade."
+  ],
+  "retenir": "On écoute d’abord, puis on note.\nOn garde les mots essentiels et on supprime les petits mots.\nOn abrège et on utilise des signes : flèche, tiret, égal.\nOn écrit une idée par ligne.\nExemple : fièvre – frissons – maux de tête.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Mots essentiels à noter",
+    "Mots qu’on supprime",
+    "Note abrégée"
+   ],
+   "rows": [
+    [
+     "1",
+     "paludisme, maladie, moustique",
+     "« est une », « causée par la piqûre d’un »",
+     "paludisme = maladie (moustique)"
+    ],
+    [
+     "2",
+     "fièvre, frissons, maux de tête",
+     "« il provoque de la », « des », « et des »",
+     "fièvre – frissons – maux de tête"
+    ],
+    [
+     "3",
+     "protéger, dormir, moustiquaire",
+     "« pour s’en », « il faut », « sous une »",
+     "protection : dormir sous moustiquaire"
+    ],
+    [
+     "4",
+     "vider, eaux stagnantes, maison",
+     "« il faut aussi », « les », « autour de la »",
+     "vider eaux stagnantes"
+    ],
+    [
+     "5",
+     "malade, vite, centre de santé",
+     "« un », « doit aller », « au »",
+     "malade → vite centre de santé"
+    ],
+    [
+     "6",
+     "traitement, temps, guérit",
+     "« un », « pris à », « le »",
+     "traitement à temps = guérison"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je supprime les mots inutiles et je note les mots essentiels.",
+    "items": [
+     "Le professeur explique que la cour doit être balayée chaque matin.",
+     "Mon père m’a dit qu’il rentrerait vendredi soir de Pointe-Noire.",
+     "Il faut apporter un cahier, un stylo et une règle demain.",
+     "La réunion des parents aura lieu samedi à neuf heures."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris l’abréviation de chaque expression : monsieur, madame, et cetera, par exemple.",
+    "items": [
+     "monsieur",
+     "madame",
+     "et cetera",
+     "par exemple"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. Réponse possible : cour – balayer – chaque matin. ; 2. Réponse possible : père – retour – vendredi soir – Pointe-Noire. ; 3. Réponse possible : demain : cahier, stylo, règle. ; 4. Réponse possible : réunion parents – samedi 9 h.. Barème : 1 point par note qui garde l’information essentielle.",
+  "Exercice 2 : 1. M. ; 2. Mme ; 3. etc. ; 4. p. ex.. Barème : 1 point par note qui garde l’information essentielle.",
+  "Évaluation (étape V) : 1. Réponse possible : maïs – pluie régulière. ; 2. Réponse possible : semis – début saison des pluies. ; 3. Réponse possible : sarclage – 2 fois. ; 4. Réponse possible : récolte – 3 mois après. ; 5. Réponse possible : conservation – grenier, maïs séché.. Barème : 1 point par note qui garde l’information essentielle. Seuil : 4 sur 5.",
+  "Remarque : Pour l’exercice 1, toute note courte qui garde les informations essentielles est acceptée."
+ ]
+}

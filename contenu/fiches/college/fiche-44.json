@@ -1,0 +1,403 @@
+{
+ "id": 10044,
+ "meta": {
+  "t": "L’expression de la circonstance de manière",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 44
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.6 : Exprimer les circonstances",
+  "titre": "L’expression de la circonstance de manière",
+  "theme": "",
+  "objet": "Expression de la circonstance de manière",
+  "numero": 43,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 4 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’expression de la circonstance de manière, l’apprenant doit être capable de souligner au moins 4 mots, groupes de mots ou expressions qui expriment la manière sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Mon frère entre dans la classe.\nMon frère entre dans la classe en silence.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle phrase donne le plus de précisions ?"
+    },
+    {
+     "n": 2,
+     "q": "Que nous apprend « en silence » ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "La deuxième phrase."
+    },
+    {
+     "n": 2,
+     "r": "Comment le frère entre : c’est la manière."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de souligner au moins 4 expressions de manière sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un complément circonstanciel ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’un adverbe ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite deux adverbes en -ment."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un complément qui donne une précision sur l’action (le lieu, le temps, la cause…). On peut le déplacer ou le supprimer."
+    },
+    {
+     "n": 4,
+     "r": "C’est un mot invariable qui précise un verbe, un adjectif ou un autre adverbe."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : lentement, doucement, rapidement, poliment."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Les enfants rentrent en chantant.\n2. Mon grand-père marche lentement.\n3. Elle répond avec politesse.\n4. Il a agi sans réfléchir.\n5. Il parle d’une voix douce.\n6. Les élèves sortent dans le calme.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quelle expression dit comment l’action se fait ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quelle expression dit comment l’action se fait ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quelle expression dit comment l’action se fait ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quelle expression dit comment l’action se fait ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quelle expression dit comment l’action se fait ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quelle expression dit comment l’action se fait ?"
+      },
+      {
+       "n": 12,
+       "q": "À quelle question répondent toutes ces expressions ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "en chantant"
+      },
+      {
+       "n": 7,
+       "r": "lentement"
+      },
+      {
+       "n": 8,
+       "r": "avec politesse"
+      },
+      {
+       "n": 9,
+       "r": "sans réfléchir"
+      },
+      {
+       "n": 10,
+       "r": "d’une voix douce"
+      },
+      {
+       "n": 11,
+       "r": "dans le calme"
+      },
+      {
+       "n": 12,
+       "r": "À la question « Comment ? »"
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Les enfants rentrent en chantant.\n2. Mon grand-père marche lentement.\n3. Elle répond avec politesse.\n4. Il a agi sans réfléchir.\n5. Il parle d’une voix douce.\n6. Les élèves sortent dans le calme.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quelle expression est un adverbe en -ment ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelles expressions sont introduites par une préposition ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle expression contient un verbe à l’infinitif ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelle expression est un gérondif ?"
+      },
+      {
+       "n": 17,
+       "q": "Peut-on supprimer ces compléments ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "« lentement » (phrase 2)."
+      },
+      {
+       "n": 14,
+       "r": "« avec politesse », « sans réfléchir », « d’une voix douce » et « dans le calme »."
+      },
+      {
+       "n": 15,
+       "r": "« sans réfléchir » (phrase 4)."
+      },
+      {
+       "n": 16,
+       "r": "« en chantant » (phrase 1)."
+      },
+      {
+       "n": 17,
+       "r": "Oui, mais on perd la précision sur la façon d’agir."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment exprime-t-on la manière ?"
+      },
+      {
+       "n": 19,
+       "q": "Quelle question aide à la reconnaître ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Par un adverbe (lentement), un groupe de mots avec une préposition (avec politesse), un groupe infinitif (sans réfléchir) ou un gérondif (en chantant)."
+      },
+      {
+       "n": 19,
+       "r": "La question « Comment ? »"
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’expression de la circonstance de manière.",
+    "tache": "Souligner l’expression de manière dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et souligne le mot ou le groupe de mots qui exprime la manière.",
+    "items": [
+     "Le bébé dort paisiblement.",
+     "Elle salue ses voisins avec joie.",
+     "Il est parti sans dire un mot.",
+     "Mon oncle chante d’une belle voix.",
+     "Les élèves travaillent en silence."
+    ],
+    "cle": [
+     "paisiblement",
+     "avec joie",
+     "sans dire un mot",
+     "d’une belle voix",
+     "en silence"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’expression de la circonstance de manière",
+  "intro": "Le complément de manière dit comment l’action se fait. Il répond à la question « Comment ? ».",
+  "corpus": [
+   "Les enfants rentrent en chantant.",
+   "Mon grand-père marche lentement.",
+   "Elle répond avec politesse.",
+   "Il a agi sans réfléchir.",
+   "Il parle d’une voix douce.",
+   "Les élèves sortent dans le calme."
+  ],
+  "retenir": "Le complément de manière dit comment l’action se fait.\nIl répond à la question « Comment ? ».\nIl peut être un adverbe : lentement.\nIl peut être un groupe de mots, un groupe infinitif ou un gérondif.\nExemple : Elle répond avec politesse.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Expression de manière",
+    "Nature",
+    "Mot qui l’introduit"
+   ],
+   "rows": [
+    [
+     "1",
+     "en chantant",
+     "gérondif",
+     "en"
+    ],
+    [
+     "2",
+     "lentement",
+     "adverbe",
+     "aucun (adverbe en -ment)"
+    ],
+    [
+     "3",
+     "avec politesse",
+     "groupe de mots",
+     "avec"
+    ],
+    [
+     "4",
+     "sans réfléchir",
+     "groupe infinitif",
+     "sans"
+    ],
+    [
+     "5",
+     "d’une voix douce",
+     "groupe de mots",
+     "de"
+    ],
+    [
+     "6",
+     "dans le calme",
+     "groupe de mots",
+     "dans"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne l’expression de manière.",
+    "items": [
+     "Marie parle doucement.",
+     "Il mange avec appétit.",
+     "Ils traversent la route en courant.",
+     "Elle sort sans faire de bruit."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis la nature de l’expression de manière : adverbe, groupe de mots, groupe infinitif ou gérondif.",
+    "items": [
+     "Il répond poliment.",
+     "Elle avance avec prudence.",
+     "Il part sans prévenir.",
+     "Elle rit en parlant."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. doucement ; 2. avec appétit ; 3. en courant ; 4. sans faire de bruit. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. adverbe ; 2. groupe de mots ; 3. groupe infinitif ; 4. gérondif. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. paisiblement ; 2. avec joie ; 3. sans dire un mot ; 4. d’une belle voix ; 5. en silence. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

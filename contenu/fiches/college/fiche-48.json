@@ -1,0 +1,403 @@
+{
+ "id": 10048,
+ "meta": {
+  "t": "La comparaison",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 48
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.4 : Utiliser les figures de style",
+  "titre": "La comparaison",
+  "theme": "",
+  "objet": "Utilisation des figures de style : la comparaison",
+  "numero": 47,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation des figures de style : la comparaison, l’apprenant doit être capable de relever le comparant dans au moins 4 phrases sur 5 qui contiennent une comparaison.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Pour dire que son ami court vite, un élève dit : « Tu cours comme le vent. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que compare-t-il à quoi ?"
+    },
+    {
+     "n": 2,
+     "q": "Pourquoi fait-il cette comparaison ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il compare son ami au vent."
+    },
+    {
+     "n": 2,
+     "r": "Pour montrer que son ami court très vite."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de relever le comparant dans au moins 4 phrases sur 5 qui contiennent une comparaison.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’une figure de style ?"
+    },
+    {
+     "n": 4,
+     "q": "Cite un animal et sa qualité."
+    },
+    {
+     "n": 5,
+     "q": "Donne un adjectif qui exprime la douceur."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un procédé qui rend le langage plus imagé ou plus expressif."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : le lion est fort, le lièvre est rapide."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : doux, tendre, délicat."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Ton frère court comme un lièvre.\n2. Elle est belle comme une fleur.\n3. Ce garçon est fort comme un lion.\n4. Mon cousin est têtu comme un âne.\n5. Les filles sont bavardes comme des pies.\n6. Sa peau est douce comme de la soie.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, à quoi compare-t-on (quel est le comparant) ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, à quoi compare-t-on (quel est le comparant) ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, à quoi compare-t-on (quel est le comparant) ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, à quoi compare-t-on (quel est le comparant) ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, à quoi compare-t-on (quel est le comparant) ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, à quoi compare-t-on (quel est le comparant) ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel mot relie les deux éléments dans chaque phrase ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "un lièvre"
+      },
+      {
+       "n": 7,
+       "r": "une fleur"
+      },
+      {
+       "n": 8,
+       "r": "un lion"
+      },
+      {
+       "n": 9,
+       "r": "un âne"
+      },
+      {
+       "n": 10,
+       "r": "des pies"
+      },
+      {
+       "n": 11,
+       "r": "de la soie"
+      },
+      {
+       "n": 12,
+       "r": "Le mot « comme »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Ton frère court comme un lièvre.\n2. Elle est belle comme une fleur.\n3. Ce garçon est fort comme un lion.\n4. Mon cousin est têtu comme un âne.\n5. Les filles sont bavardes comme des pies.\n6. Sa peau est douce comme de la soie.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel est le comparé de la phrase 1 ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel est le point commun entre ton frère et le lièvre ?"
+      },
+      {
+       "n": 15,
+       "q": "Quels autres mots outils peut-on employer à la place de « comme » ?"
+      },
+      {
+       "n": 16,
+       "q": "À quoi sert la comparaison ?"
+      },
+      {
+       "n": 17,
+       "q": "Y a-t-il toujours un mot outil dans une comparaison ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "« Ton frère »."
+      },
+      {
+       "n": 14,
+       "r": "La vitesse."
+      },
+      {
+       "n": 15,
+       "r": "pareil à, semblable à, tel, ainsi que."
+      },
+      {
+       "n": 16,
+       "r": "À mieux faire voir ou sentir ce qu’on dit."
+      },
+      {
+       "n": 17,
+       "r": "Oui : sans mot outil, ce serait une métaphore."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’une comparaison ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels sont ses éléments ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est un rapprochement entre deux éléments qui ont un point commun, avec un mot outil comme « comme »."
+      },
+      {
+       "n": 19,
+       "r": "Le comparé, le comparant, le mot outil et le point commun."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la comparaison.",
+    "tache": "Relever le comparant de la comparaison dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et relève le comparant de la comparaison.",
+    "items": [
+     "Cet enfant est rapide comme une flèche.",
+     "Ma mère est douce comme un agneau.",
+     "Les nuages sont blancs comme du coton.",
+     "Le vieux maître est patient comme un ange.",
+     "Ses yeux brillent comme des étoiles."
+    ],
+    "cle": [
+     "une flèche",
+     "un agneau",
+     "du coton",
+     "un ange",
+     "des étoiles"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La comparaison",
+  "intro": "La comparaison rapproche deux éléments qui se ressemblent, grâce à un mot outil comme « comme ».",
+  "corpus": [
+   "Ton frère court comme un lièvre.",
+   "Elle est belle comme une fleur.",
+   "Ce garçon est fort comme un lion.",
+   "Mon cousin est têtu comme un âne.",
+   "Les filles sont bavardes comme des pies.",
+   "Sa peau est douce comme de la soie."
+  ],
+  "retenir": "La comparaison rapproche deux éléments qui se ressemblent.\nElle a un comparé, un comparant, un mot outil et un point commun.\nLe mot outil est « comme », « pareil à » ou « semblable à ».\nElle rend la phrase plus imagée.\nExemple : Ton frère court comme un lièvre.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Comparant",
+    "Comparé",
+    "Point commun"
+   ],
+   "rows": [
+    [
+     "1",
+     "un lièvre",
+     "ton frère",
+     "la vitesse"
+    ],
+    [
+     "2",
+     "une fleur",
+     "elle",
+     "la beauté"
+    ],
+    [
+     "3",
+     "un lion",
+     "ce garçon",
+     "la force"
+    ],
+    [
+     "4",
+     "un âne",
+     "mon cousin",
+     "l’entêtement"
+    ],
+    [
+     "5",
+     "des pies",
+     "les filles",
+     "le bavardage"
+    ],
+    [
+     "6",
+     "de la soie",
+     "sa peau",
+     "la douceur"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie la phrase et je relève le mot outil de la comparaison.",
+    "items": [
+     "Il est fier comme un paon.",
+     "Cette route est droite comme une flèche.",
+     "Elle est semblable à sa mère.",
+     "Il dort comme un loir."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je complète la comparaison avec le comparant : lion, neige, escargot, plume.",
+    "items": [
+     "Il est lent comme un … .",
+     "Il est fort comme un … .",
+     "Ce linge est blanc comme la … .",
+     "Ce sac est léger comme une … ."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. comme ; 2. comme ; 3. semblable à ; 4. comme. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. escargot ; 2. lion ; 3. neige ; 4. plume. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. une flèche ; 2. un agneau ; 3. du coton ; 4. un ange ; 5. des étoiles. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

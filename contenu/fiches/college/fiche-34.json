@@ -1,0 +1,403 @@
+{
+ "id": 10034,
+ "meta": {
+  "t": "L’accord du participe passé avec avoir suivi d’un infinitif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 34
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.2 : Appliquer l’accord des participes passés",
+  "titre": "L’accord du participe passé avec avoir suivi d’un infinitif",
+  "theme": "",
+  "objet": "Application des règles d’accord du participe passé employé avec l’auxiliaire avoir suivi d’un verbe à l’infinitif",
+  "numero": 33,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’accord du participe passé employé avec l’auxiliaire avoir suivi d’un verbe à l’infinitif, l’apprenant doit être capable de accorder correctement au moins 4 participes passés sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève écrit : Les enfants que j’ai vu jouer.\nLe maître corrige : vus.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle correction le maître fait-il ?"
+    },
+    {
+     "n": 2,
+     "q": "Pourquoi fait-il cette correction ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il met « vus » au pluriel."
+    },
+    {
+     "n": 2,
+     "r": "Parce que les enfants font l’action de jouer et que le COD est placé avant l’auxiliaire."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de accorder correctement au moins 4 participes passés sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un COD ?"
+    },
+    {
+     "n": 4,
+     "q": "Donne le participe passé de « voir »."
+    },
+    {
+     "n": 5,
+     "q": "Quelle est la règle d’accord du participe passé avec avoir ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est le complément d’objet direct : il répond à « quoi ? » ou « qui ? » après le verbe."
+    },
+    {
+     "n": 4,
+     "r": "vu"
+    },
+    {
+     "n": 5,
+     "r": "Il s’accorde avec le COD placé avant le verbe."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Les élèves que j’ai vus jouer dans la cour sont partis.\n2. Les chansons que j’ai entendu chanter sont jolies.\n3. Les filles que j’ai entendues rire sont mes cousines.\n4. Les mangues que j’ai vu cueillir étaient mûres.\n5. Les dessins qu’elle a fait faire sont beaux.\n6. Les oiseaux que nous avons vus voler étaient grands.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le participe passé employé avec avoir ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le participe passé employé avec avoir ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le participe passé employé avec avoir ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le participe passé employé avec avoir ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le participe passé employé avec avoir ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le participe passé employé avec avoir ?"
+      },
+      {
+       "n": 12,
+       "q": "Par quel type de verbe chaque participe passé est-il suivi ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "vus"
+      },
+      {
+       "n": 7,
+       "r": "entendu"
+      },
+      {
+       "n": 8,
+       "r": "entendues"
+      },
+      {
+       "n": 9,
+       "r": "vu"
+      },
+      {
+       "n": 10,
+       "r": "fait"
+      },
+      {
+       "n": 11,
+       "r": "vus"
+      },
+      {
+       "n": 12,
+       "r": "Par un verbe à l’infinitif : jouer, chanter, rire, cueillir, faire, voler."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Les élèves que j’ai vus jouer dans la cour sont partis.\n2. Les chansons que j’ai entendu chanter sont jolies.\n3. Les filles que j’ai entendues rire sont mes cousines.\n4. Les mangues que j’ai vu cueillir étaient mûres.\n5. Les dessins qu’elle a fait faire sont beaux.\n6. Les oiseaux que nous avons vus voler étaient grands.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Dans la phrase 1, qui joue ?"
+      },
+      {
+       "n": 14,
+       "q": "Dans la phrase 2, les chansons chantent-elles ?"
+      },
+      {
+       "n": 15,
+       "q": "Dans la phrase 4, les mangues cueillent-elles ?"
+      },
+      {
+       "n": 16,
+       "q": "Que fait le participe « fait » suivi de « faire » ?"
+      },
+      {
+       "n": 17,
+       "q": "Quelle question permet de choisir ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Les élèves : le COD fait l’action de jouer, donc « vus » s’accorde."
+      },
+      {
+       "n": 14,
+       "r": "Non : on les chante ; « entendu » reste invariable."
+      },
+      {
+       "n": 15,
+       "r": "Non : on les cueille ; « vu » reste invariable."
+      },
+      {
+       "n": 16,
+       "r": "Il reste toujours invariable."
+      },
+      {
+       "n": 17,
+       "r": "Le COD fait-il l’action de l’infinitif ? Si oui, on accorde ; sinon, on laisse invariable."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelle est la règle du participe passé avec avoir suivi d’un infinitif ?"
+      },
+      {
+       "n": 19,
+       "q": "Que dire du participe passé de « faire » suivi d’un infinitif ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Il s’accorde avec le COD placé avant si ce COD fait l’action de l’infinitif ; sinon, il reste invariable."
+      },
+      {
+       "n": 19,
+       "r": "Il est toujours invariable."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’accord du participe passé avec avoir suivi d’un infinitif.",
+    "tache": "Accorder, si c’est nécessaire, le participe passé écrit entre parenthèses dans chacune des cinq phrases.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et écris le participe passé bien accordé.",
+    "items": [
+     "Les enfants que j’ai (vu) jouer sont mes voisins.",
+     "Les chansons que j’ai (entendu) chanter sont belles.",
+     "Les filles que j’ai (entendu) rire sont parties.",
+     "Les poèmes que le professeur a (fait) lire sont longs.",
+     "Les chèvres que j’ai (vu) brouter sont à mon oncle."
+    ],
+    "cle": [
+     "vus",
+     "entendu",
+     "entendues",
+     "fait",
+     "vues"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’accord du participe passé avec avoir suivi d’un infinitif",
+  "intro": "Avec avoir, le participe passé suivi d’un infinitif s’accorde seulement si le COD fait l’action de l’infinitif.",
+  "corpus": [
+   "Les élèves que j’ai vus jouer dans la cour sont partis.",
+   "Les chansons que j’ai entendu chanter sont jolies.",
+   "Les filles que j’ai entendues rire sont mes cousines.",
+   "Les mangues que j’ai vu cueillir étaient mûres.",
+   "Les dessins qu’elle a fait faire sont beaux.",
+   "Les oiseaux que nous avons vus voler étaient grands."
+  ],
+  "retenir": "Le participe passé avec avoir s’accorde avec le COD placé avant.\nSi un infinitif suit, le COD doit faire l’action de cet infinitif.\nSi le COD subit l’action, le participe reste invariable.\nLe participe passé de « faire » suivi d’un infinitif reste invariable.\nExemple : Les filles que j’ai entendues rire sont mes cousines.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Participe passé",
+    "Règle",
+    "COD"
+   ],
+   "rows": [
+    [
+     "1",
+     "vus",
+     "accord : les élèves jouent",
+     "élèves"
+    ],
+    [
+     "2",
+     "entendu",
+     "invariable : on chante les chansons",
+     "chansons"
+    ],
+    [
+     "3",
+     "entendues",
+     "accord : les filles rient",
+     "filles"
+    ],
+    [
+     "4",
+     "vu",
+     "invariable : on cueille les mangues",
+     "mangues"
+    ],
+    [
+     "5",
+     "fait",
+     "invariable : faire + infinitif",
+     "dessins"
+    ],
+    [
+     "6",
+     "vus",
+     "accord : les oiseaux volent",
+     "oiseaux"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le participe passé entre parenthèses, avec ou sans accord.",
+    "items": [
+     "Les oiseaux que j’ai (voir) voler étaient blancs.",
+     "Les lettres que j’ai (entendre) lire sont tristes.",
+     "Les enfants que j’ai (laisser) partir sont contents.",
+     "Les robes que ma mère a (faire) coudre sont neuves."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si le participe est accordé ou invariable, et pourquoi.",
+    "items": [
+     "Les élèves que j’ai vus chanter.",
+     "Les chants que j’ai entendu chanter.",
+     "Les femmes que j’ai entendues rire.",
+     "Les maisons que j’ai vu construire."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. vus ; 2. entendu ; 3. laissés ; 4. fait. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. accordé : les élèves chantent ; 2. invariable : on chante les chants ; 3. accordé : les femmes rient ; 4. invariable : on construit les maisons. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. vus ; 2. entendu ; 3. entendues ; 4. fait ; 5. vues. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

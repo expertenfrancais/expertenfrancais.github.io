@@ -1,0 +1,403 @@
+{
+ "id": 10025,
+ "meta": {
+  "t": "Les valeurs modales de l’impératif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 25
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.4 : Utiliser les valeurs modales et temporelles des verbes",
+  "titre": "Les valeurs modales de l’impératif",
+  "theme": "",
+  "objet": "Utilisation des valeurs modales : l’impératif",
+  "numero": 24,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, décembre, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les valeurs modales de l’impératif, l’apprenant doit être capable de identifier la valeur modale (ordre, défense, conseil ou prière) exprimée par l’impératif dans au moins 4 phrases sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Dans la cour, le surveillant crie : « Rangez-vous ! »\nSur la porte, un panneau dit : « Ne courez pas. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que demande le surveillant aux élèves ?"
+    },
+    {
+     "n": 2,
+     "q": "Que dit le panneau ? Que demande-t-il ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il donne un ordre."
+    },
+    {
+     "n": 2,
+     "r": "Il interdit de courir : c’est une défense."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de identifier la valeur de l’impératif (ordre, défense, conseil ou prière) dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Conjugue « écouter » au présent avec « tu »."
+    },
+    {
+     "n": 4,
+     "q": "Quelle est la forme négative de « Il mange » ?"
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce qu’un ordre ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "tu écoutes"
+    },
+    {
+     "n": 4,
+     "r": "Il ne mange pas."
+    },
+    {
+     "n": 5,
+     "r": "Une phrase par laquelle on demande de faire quelque chose."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Range ta chambre avant le dîner.\n2. Ne touche pas à ce fil électrique.\n3. Écoute bien les conseils de ton grand frère.\n4. Aide-moi à porter ce sac, s’il te plaît.\n5. Ne traversez pas la route en courant.\n6. Prenons le temps de bien lire la question.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel verbe est à l’impératif ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel verbe est à l’impératif ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel verbe est à l’impératif ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel verbe est à l’impératif ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel verbe est à l’impératif ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel verbe est à l’impératif ?"
+      },
+      {
+       "n": 12,
+       "q": "À quelles personnes se conjugue l’impératif ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Range"
+      },
+      {
+       "n": 7,
+       "r": "touche"
+      },
+      {
+       "n": 8,
+       "r": "Écoute"
+      },
+      {
+       "n": 9,
+       "r": "Aide"
+      },
+      {
+       "n": 10,
+       "r": "traversez"
+      },
+      {
+       "n": 11,
+       "r": "Prenons"
+      },
+      {
+       "n": 12,
+       "r": "À trois personnes seulement : tu, nous et vous."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Range ta chambre avant le dîner.\n2. Ne touche pas à ce fil électrique.\n3. Écoute bien les conseils de ton grand frère.\n4. Aide-moi à porter ce sac, s’il te plaît.\n5. Ne traversez pas la route en courant.\n6. Prenons le temps de bien lire la question.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quelle phrase donne un ordre ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelles phrases expriment une défense ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle phrase exprime une prière ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelles phrases donnent un conseil ?"
+      },
+      {
+       "n": 17,
+       "q": "Y a-t-il un sujet devant ces verbes ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "La phrase 1."
+      },
+      {
+       "n": 14,
+       "r": "Les phrases 2 et 5 : elles contiennent « ne … pas »."
+      },
+      {
+       "n": 15,
+       "r": "La phrase 4 : « s’il te plaît »."
+      },
+      {
+       "n": 16,
+       "r": "Les phrases 3 et 6."
+      },
+      {
+       "n": 17,
+       "r": "Non : l’impératif s’emploie sans sujet."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelles valeurs l’impératif peut-il exprimer ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment reconnaît-on l’impératif ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "L’ordre, la défense, le conseil et la prière."
+      },
+      {
+       "n": 19,
+       "r": "Le verbe n’a pas de sujet et se conjugue seulement avec tu, nous et vous."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les valeurs modales de l’impératif.",
+    "tache": "Identifier la valeur modale (ordre, défense, conseil ou prière) du verbe à l’impératif dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase, souligne le verbe à l’impératif et écris sa valeur : ordre, défense, conseil ou prière.",
+    "items": [
+     "Fais tes devoirs avant de jouer.",
+     "Ne jetez pas vos papiers par terre.",
+     "Mange des fruits chaque jour.",
+     "Prête-moi ton cahier, s’il te plaît.",
+     "Ne parle pas pendant le cours."
+    ],
+    "cle": [
+     "Fais : ordre",
+     "jetez : défense",
+     "Mange : conseil",
+     "Prête : prière",
+     "parle : défense"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les valeurs modales de l’impératif",
+  "intro": "L’impératif sert à donner un ordre, une défense, un conseil ou à faire une prière.",
+  "corpus": [
+   "Range ta chambre avant le dîner.",
+   "Ne touche pas à ce fil électrique.",
+   "Écoute bien les conseils de ton grand frère.",
+   "Aide-moi à porter ce sac, s’il te plaît.",
+   "Ne traversez pas la route en courant.",
+   "Prenons le temps de bien lire la question."
+  ],
+  "retenir": "L’impératif exprime l’ordre, la défense, le conseil ou la prière.\nIl s’emploie sans sujet.\nIl se conjugue à trois personnes : tu, nous, vous.\nLa défense se dit avec « ne … pas ».\nExemple : Ne touche pas à ce fil électrique.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe à l’impératif",
+    "Valeur",
+    "Indice"
+   ],
+   "rows": [
+    [
+     "1",
+     "Range",
+     "ordre",
+     "ordre direct"
+    ],
+    [
+     "2",
+     "touche",
+     "défense",
+     "ne … pas"
+    ],
+    [
+     "3",
+     "Écoute",
+     "conseil",
+     "conseil amical"
+    ],
+    [
+     "4",
+     "Aide",
+     "prière",
+     "s’il te plaît"
+    ],
+    [
+     "5",
+     "traversez",
+     "défense",
+     "ne … pas"
+    ],
+    [
+     "6",
+     "Prenons",
+     "conseil",
+     "1re personne du pluriel"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne le verbe à l’impératif.",
+    "items": [
+     "Ouvre la fenêtre.",
+     "Ne criez pas dans la salle.",
+     "Soyons attentifs en classe.",
+     "Lave tes mains avant le repas."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la valeur : ordre, défense, conseil ou prière.",
+    "items": [
+     "Ne fume pas ici.",
+     "Pardonne-moi, s’il te plaît.",
+     "Étudie un peu chaque soir.",
+     "Sortez maintenant."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. Ouvre ; 2. criez ; 3. Soyons ; 4. Lave. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. défense ; 2. prière ; 3. conseil ; 4. ordre. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. Fais : ordre ; 2. jetez : défense ; 3. Mange : conseil ; 4. Prête : prière ; 5. parle : défense. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

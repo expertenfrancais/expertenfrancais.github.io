@@ -1,0 +1,403 @@
+{
+ "id": 10045,
+ "meta": {
+  "t": "La concordance des temps : l’antériorité",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 45
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.3 : Utiliser les règles de concordance des temps",
+  "titre": "La concordance des temps : l’antériorité",
+  "theme": "",
+  "objet": "Utilisation des règles de concordance des temps : l’antériorité",
+  "numero": 44,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 4 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les règles de concordance des temps : l’antériorité, l’apprenant doit être capable de compléter, avec le temps composé qui convient, au moins 4 phrases sur 5 pour exprimer l’antériorité.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Hier, je suis allé au marché. Avant, j’avais fini mes devoirs.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle action s’est passée en premier ?"
+    },
+    {
+     "n": 2,
+     "q": "Quel temps montre que cette action est passée avant l’autre ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "J’avais fini mes devoirs."
+    },
+    {
+     "n": 2,
+     "r": "Le plus-que-parfait."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de employer le bon temps composé pour exprimer l’antériorité dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un temps composé ?"
+    },
+    {
+     "n": 4,
+     "q": "Donne le plus-que-parfait de « finir » avec « nous »."
+    },
+    {
+     "n": 5,
+     "q": "Donne le futur antérieur de « finir » avec « je »."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un temps formé d’un auxiliaire et d’un participe passé."
+    },
+    {
+     "n": 4,
+     "r": "nous avions fini"
+    },
+    {
+     "n": 5,
+     "r": "j’aurai fini"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Je sais que tu as terminé ton travail.\n2. Il savait que nous avions fini.\n3. Quand il eut mangé, il partit.\n4. Dès que j’aurai fini, je viendrai.\n5. Elle dit qu’il est déjà parti.\n6. Je croyais qu’elle était rentrée.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel verbe exprime l’action qui s’est passée en premier ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel verbe exprime l’action qui s’est passée en premier ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel verbe exprime l’action qui s’est passée en premier ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel verbe exprime l’action qui s’est passée en premier ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel verbe exprime l’action qui s’est passée en premier ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel verbe exprime l’action qui s’est passée en premier ?"
+      },
+      {
+       "n": 12,
+       "q": "Ces verbes sont-ils à un temps simple ou à un temps composé ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "as terminé"
+      },
+      {
+       "n": 7,
+       "r": "avions fini"
+      },
+      {
+       "n": 8,
+       "r": "eut mangé"
+      },
+      {
+       "n": 9,
+       "r": "aurai fini"
+      },
+      {
+       "n": 10,
+       "r": "est parti"
+      },
+      {
+       "n": 11,
+       "r": "était rentrée"
+      },
+      {
+       "n": 12,
+       "r": "À un temps composé : auxiliaire + participe passé."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Je sais que tu as terminé ton travail.\n2. Il savait que nous avions fini.\n3. Quand il eut mangé, il partit.\n4. Dès que j’aurai fini, je viendrai.\n5. Elle dit qu’il est déjà parti.\n6. Je croyais qu’elle était rentrée.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel temps compose-t-on avec un verbe principal au présent ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel temps compose-t-on avec un verbe principal à l’imparfait ?"
+      },
+      {
+       "n": 15,
+       "q": "Quel temps compose-t-on avec un verbe principal au passé simple ?"
+      },
+      {
+       "n": 16,
+       "q": "Quel temps compose-t-on avec un verbe principal au futur simple ?"
+      },
+      {
+       "n": 17,
+       "q": "Quelle est la règle générale ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Le passé composé."
+      },
+      {
+       "n": 14,
+       "r": "Le plus-que-parfait."
+      },
+      {
+       "n": 15,
+       "r": "Le passé antérieur."
+      },
+      {
+       "n": 16,
+       "r": "Le futur antérieur."
+      },
+      {
+       "n": 17,
+       "r": "L’action antérieure se met au temps composé qui correspond au temps du verbe principal."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce que l’antériorité ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment l’exprime-t-on ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est le fait qu’une action se passe avant une autre."
+      },
+      {
+       "n": 19,
+       "r": "Avec le temps composé qui correspond au temps du verbe principal."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la concordance des temps : l’antériorité.",
+    "tache": "Compléter chaque phrase avec le temps composé qui convient pour exprimer l’antériorité.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et complète-la en mettant le verbe entre parenthèses au temps composé qui convient.",
+    "items": [
+     "Je sais qu’il (finir) son travail.",
+     "Elle disait qu’il (partir) tôt.",
+     "Quand il (manger), il partit.",
+     "Dès que tu (terminer), appelle-moi.",
+     "Je croyais que tu (rentrer)."
+    ],
+    "cle": [
+     "a fini",
+     "était parti",
+     "eut mangé",
+     "auras terminé",
+     "étais rentré"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La concordance des temps : l’antériorité",
+  "intro": "L’antériorité exprime une action qui se passe avant une autre. On emploie alors un temps composé.",
+  "corpus": [
+   "Je sais que tu as terminé ton travail.",
+   "Il savait que nous avions fini.",
+   "Quand il eut mangé, il partit.",
+   "Dès que j’aurai fini, je viendrai.",
+   "Elle dit qu’il est déjà parti.",
+   "Je croyais qu’elle était rentrée."
+  ],
+  "retenir": "L’antériorité est le fait qu’une action se passe avant une autre.\nOn l’exprime avec un temps composé.\nPrincipal au présent : passé composé. À l’imparfait : plus-que-parfait.\nAu passé simple : passé antérieur. Au futur : futur antérieur.\nExemple : Il savait que nous avions fini.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe qui exprime l’antériorité",
+    "Temps",
+    "Verbe principal"
+   ],
+   "rows": [
+    [
+     "1",
+     "as terminé",
+     "passé composé",
+     "« sais » au présent"
+    ],
+    [
+     "2",
+     "avions fini",
+     "plus-que-parfait",
+     "« savait » à l’imparfait"
+    ],
+    [
+     "3",
+     "eut mangé",
+     "passé antérieur",
+     "« partit » au passé simple"
+    ],
+    [
+     "4",
+     "aurai fini",
+     "futur antérieur",
+     "« viendrai » au futur simple"
+    ],
+    [
+     "5",
+     "est parti",
+     "passé composé",
+     "« dit » au présent"
+    ],
+    [
+     "6",
+     "était rentrée",
+     "plus-que-parfait",
+     "« croyais » à l’imparfait"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe qui exprime l’antériorité.",
+    "items": [
+     "Je pense que tu as bien dormi.",
+     "Il disait qu’elle avait menti.",
+     "Dès que j’aurai fini, je sortirai.",
+     "Quand il eut parlé, il se tut."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le temps du verbe qui exprime l’antériorité : passé composé, plus-que-parfait ou futur antérieur.",
+    "items": [
+     "Je vois que tu es arrivé.",
+     "Je voyais que tu étais arrivé.",
+     "Je verrai que tu seras arrivé.",
+     "Il dit qu’il a fini."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. as dormi ; 2. avait menti ; 3. aurai fini ; 4. eut parlé. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. passé composé ; 2. plus-que-parfait ; 3. futur antérieur ; 4. passé composé. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. a fini ; 2. était parti ; 3. eut mangé ; 4. auras terminé ; 5. étais rentré. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

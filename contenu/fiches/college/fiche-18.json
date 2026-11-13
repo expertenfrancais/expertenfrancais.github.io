@@ -1,0 +1,403 @@
+{
+ "id": 10018,
+ "meta": {
+  "t": "Le vocabulaire du sport",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 18
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.5 : Utiliser le vocabulaire fondamental",
+  "titre": "Le vocabulaire du sport",
+  "theme": "",
+  "objet": "Utilisation du vocabulaire fondamental. Thème : sport",
+  "numero": 17,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation du vocabulaire fondamental du sport, l’apprenant doit être capable de compléter au moins 4 phrases sur 5 avec le mot du sport qui convient, choisi dans une liste donnée.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Le samedi, des élèves parlent du match de la veille.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "De quel sujet parlent-ils ? Quels mots emploient-ils ?"
+    },
+    {
+     "n": 2,
+     "q": "Que se passe-t-il si on ne connaît pas les mots du sport ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Ils parlent de sport : match, équipe, ballon, but…"
+    },
+    {
+     "n": 2,
+     "r": "On ne peut pas expliquer précisément ce qui s’est passé."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de compléter au moins 4 phrases sur 5 avec le mot du sport qui convient.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Cite trois sports que tu connais."
+    },
+    {
+     "n": 4,
+     "q": "Quel mot désigne l’objet avec lequel on joue au football ?"
+    },
+    {
+     "n": 5,
+     "q": "Où les élèves pratiquent-ils le sport à l’école ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Réponses possibles : football, handball, basket-ball, athlétisme, natation."
+    },
+    {
+     "n": 4,
+     "r": "le ballon"
+    },
+    {
+     "n": 5,
+     "r": "Sur le terrain de sport, pendant le cours d’EPS."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. L’arbitre siffle la fin du match de football.\n2. L’attaquant de notre équipe marque deux buts.\n3. Aux jeux scolaires, notre classe gagne la course de relais.\n4. Le professeur d’EPS déclenche le chronomètre au départ de la course.\n5. Notre entraîneur nous conseille avant chaque match.\n6. Les trois premiers montent sur le podium pour recevoir leur médaille.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel mot appartient au vocabulaire du sport ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel mot appartient au vocabulaire du sport ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel mot appartient au vocabulaire du sport ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel mot appartient au vocabulaire du sport ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel mot appartient au vocabulaire du sport ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel mot appartient au vocabulaire du sport ?"
+      },
+      {
+       "n": 12,
+       "q": "Dans quels domaines trouve-t-on ces mots ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "arbitre"
+      },
+      {
+       "n": 7,
+       "r": "attaquant"
+      },
+      {
+       "n": 8,
+       "r": "relais"
+      },
+      {
+       "n": 9,
+       "r": "chronomètre"
+      },
+      {
+       "n": 10,
+       "r": "entraîneur"
+      },
+      {
+       "n": 11,
+       "r": "podium"
+      },
+      {
+       "n": 12,
+       "r": "Dans le football, dans l’athlétisme et dans tous les sports."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. L’arbitre siffle la fin du match de football.\n2. L’attaquant de notre équipe marque deux buts.\n3. Aux jeux scolaires, notre classe gagne la course de relais.\n4. Le professeur d’EPS déclenche le chronomètre au départ de la course.\n5. Notre entraîneur nous conseille avant chaque match.\n6. Les trois premiers montent sur le podium pour recevoir leur médaille.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quels mots désignent une personne ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel mot désigne un appareil ?"
+      },
+      {
+       "n": 15,
+       "q": "Quel est le sens de « relais » ?"
+      },
+      {
+       "n": 16,
+       "q": "Quel mot désigne le lieu où l’on reçoit la médaille ?"
+      },
+      {
+       "n": 17,
+       "q": "Cite un autre mot du sport que tu connais."
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "arbitre, attaquant, entraîneur."
+      },
+      {
+       "n": 14,
+       "r": "chronomètre"
+      },
+      {
+       "n": 15,
+       "r": "Course où chaque coureur passe un témoin au suivant."
+      },
+      {
+       "n": 16,
+       "r": "podium"
+      },
+      {
+       "n": 17,
+       "r": "Réponses possibles : ballon, maillot, terrain, stade, médaille."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment retenir le vocabulaire d’un thème ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels mots du sport avons-nous étudiés ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "On range les mots par domaine, on apprend leur sens et on les emploie dans des phrases."
+      },
+      {
+       "n": 19,
+       "r": "arbitre, attaquant, relais, chronomètre, entraîneur, podium."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier le vocabulaire du sport.",
+    "tache": "Compléter chaque phrase avec le mot du sport qui convient : arbitre, attaquant, relais, chronomètre, entraîneur.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et complète-la avec un mot de la liste.",
+    "items": [
+     "Le … siffle une faute.",
+     "L’… tire vers le but adverse.",
+     "Chaque coureur du … passe le témoin au suivant.",
+     "Le … indique le temps de ta course.",
+     "Notre … prépare l’équipe avant le match."
+    ],
+    "cle": [
+     "arbitre",
+     "attaquant",
+     "relais",
+     "chronomètre",
+     "entraîneur"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le vocabulaire du sport",
+  "intro": "Les mots d’un même thème forment un vocabulaire. Ici, le thème est le sport.",
+  "corpus": [
+   "L’arbitre siffle la fin du match de football.",
+   "L’attaquant de notre équipe marque deux buts.",
+   "Aux jeux scolaires, notre classe gagne la course de relais.",
+   "Le professeur d’EPS déclenche le chronomètre au départ de la course.",
+   "Notre entraîneur nous conseille avant chaque match.",
+   "Les trois premiers montent sur le podium pour recevoir leur médaille."
+  ],
+  "retenir": "Le vocabulaire du sport regroupe les mots liés aux jeux et aux compétitions.\nOn y trouve des personnes : l’arbitre, l’attaquant, l’entraîneur.\nOn y trouve des objets et des lieux : le chronomètre, le podium, le stade.\nOn y trouve aussi des courses : le relais.\nExemple : L’arbitre siffle la fin du match.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Mot du sport",
+    "Domaine",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "1",
+     "arbitre",
+     "football",
+     "personne qui fait respecter les règles"
+    ],
+    [
+     "2",
+     "attaquant",
+     "football",
+     "joueur qui cherche à marquer"
+    ],
+    [
+     "3",
+     "relais",
+     "athlétisme",
+     "course où l’on se passe un témoin"
+    ],
+    [
+     "4",
+     "chronomètre",
+     "athlétisme",
+     "appareil qui mesure le temps"
+    ],
+    [
+     "5",
+     "entraîneur",
+     "tous les sports",
+     "personne qui prépare les sportifs"
+    ],
+    [
+     "6",
+     "podium",
+     "tous les sports",
+     "estrade des trois premiers"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec un mot du sport : ballon, stade, médaille, maillot.",
+    "items": [
+     "Le … est plein de supporters.",
+     "Le vainqueur reçoit une … .",
+     "Les joueurs portent un … de leur équipe.",
+     "Il frappe le … du pied droit."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je donne le mot qui correspond à la définition : arbitre, relais, podium, entraîneur.",
+    "items": [
+     "Personne qui fait respecter les règles.",
+     "Course où l’on se passe un témoin.",
+     "Estrade des trois premiers.",
+     "Personne qui prépare les sportifs."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. stade ; 2. médaille ; 3. maillot ; 4. ballon. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. arbitre ; 2. relais ; 3. podium ; 4. entraîneur. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. arbitre ; 2. attaquant ; 3. relais ; 4. chronomètre ; 5. entraîneur. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

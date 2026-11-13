@@ -1,0 +1,403 @@
+{
+ "id": 10014,
+ "meta": {
+  "t": "Les homophones plus tôt et plutôt",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 14
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.1 : Écrire les graphies complexes",
+  "titre": "Les homophones plus tôt et plutôt",
+  "theme": "",
+  "objet": "Écriture des homophones plus tôt/plutôt",
+  "numero": 13,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’écriture des homophones plus tôt et plutôt, l’apprenant doit être capable de compléter au moins 4 phrases sur 5 avec « plus tôt » ou « plutôt ».",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève hésite et écrit au tableau :\nJe me lève plutôt pour aller à l’école.\nJe me lève plus tôt pour aller à l’école.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Ces deux écritures se prononcent-elles de la même façon ? S’écrivent-elles de la même façon ?"
+    },
+    {
+     "n": 2,
+     "q": "Laquelle convient pour dire qu’on se lève avant l’heure habituelle ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Elles se prononcent de la même façon, mais elles ne s’écrivent pas pareil."
+    },
+    {
+     "n": 2,
+     "r": "« plus tôt », en deux mots."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de compléter au moins 4 phrases sur 5 avec « plus tôt » ou « plutôt ».",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce que des homophones ?"
+    },
+    {
+     "n": 4,
+     "q": "Quel est le contraire de « tôt » ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite un adverbe de temps."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Ce sont des mots qui se prononcent de la même façon mais qui ne s’écrivent pas de la même façon."
+    },
+    {
+     "n": 4,
+     "r": "tard"
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : hier, demain, bientôt, toujours."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Ce matin, mon père est arrivé plus tôt que d’habitude.\n2. Je préfère le riz plutôt que le manioc.\n3. Réveille-toi plus tôt demain pour ne pas manquer le bus.\n4. Il fait plutôt chaud à Brazzaville en octobre.\n5. Ma sœur est partie plus tôt du marché que moi.\n6. Prends plutôt ce chemin, il est plus court.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quelle graphie est employée : « plus tôt » ou « plutôt » ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quelle graphie est employée : « plus tôt » ou « plutôt » ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quelle graphie est employée : « plus tôt » ou « plutôt » ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quelle graphie est employée : « plus tôt » ou « plutôt » ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quelle graphie est employée : « plus tôt » ou « plutôt » ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quelle graphie est employée : « plus tôt » ou « plutôt » ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel est le contraire de « plus tôt » ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "plus tôt"
+      },
+      {
+       "n": 7,
+       "r": "plutôt"
+      },
+      {
+       "n": 8,
+       "r": "plus tôt"
+      },
+      {
+       "n": 9,
+       "r": "plutôt"
+      },
+      {
+       "n": 10,
+       "r": "plus tôt"
+      },
+      {
+       "n": 11,
+       "r": "plutôt"
+      },
+      {
+       "n": 12,
+       "r": "« plus tard »"
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Ce matin, mon père est arrivé plus tôt que d’habitude.\n2. Je préfère le riz plutôt que le manioc.\n3. Réveille-toi plus tôt demain pour ne pas manquer le bus.\n4. Il fait plutôt chaud à Brazzaville en octobre.\n5. Ma sœur est partie plus tôt du marché que moi.\n6. Prends plutôt ce chemin, il est plus court.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel est le sens de « plus tôt » dans les phrases 1, 3 et 5 ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel est le sens de « plutôt » dans les phrases 2 et 6 ?"
+      },
+      {
+       "n": 15,
+       "q": "Quel est le sens de « plutôt » dans la phrase 4 ?"
+      },
+      {
+       "n": 16,
+       "q": "Combien de mots écrit-on pour « plus tôt » ? Et pour « plutôt » ?"
+      },
+      {
+       "n": 17,
+       "q": "Quelle astuce permet de choisir la bonne graphie ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Il indique un moment plus proche : avant l’heure habituelle ou avant les autres."
+      },
+      {
+       "n": 14,
+       "r": "« de préférence », « à la place »."
+      },
+      {
+       "n": 15,
+       "r": "« assez »."
+      },
+      {
+       "n": 16,
+       "r": "Deux mots pour « plus tôt » ; un seul mot pour « plutôt »."
+      },
+      {
+       "n": 17,
+       "r": "On essaie de remplacer par « plus tard » : si c’est possible, on écrit « plus tôt » en deux mots."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quand écrit-on « plus tôt » en deux mots ?"
+      },
+      {
+       "n": 19,
+       "q": "Quand écrit-on « plutôt » en un seul mot ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Quand il indique le moment et qu’on peut le remplacer par « plus tard »."
+      },
+      {
+       "n": 19,
+       "r": "Quand il veut dire « de préférence », « à la place » ou « assez »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les homophones plus tôt et plutôt.",
+    "tache": "Compléter chacune des cinq phrases avec « plus tôt » ou « plutôt ».",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et complète-la avec « plus tôt » ou « plutôt ».",
+    "items": [
+     "Le cours commence … que prévu.",
+     "Je préfère lire … que jouer.",
+     "Il fait … froid ce matin.",
+     "Ma tante est rentrée … du village.",
+     "Prends … le raccourci par la cour."
+    ],
+    "cle": [
+     "plus tôt",
+     "plutôt",
+     "plutôt",
+     "plus tôt",
+     "plutôt"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les homophones plus tôt et plutôt",
+  "intro": "« Plus tôt » (deux mots) est le contraire de « plus tard ». « Plutôt » (un mot) veut dire « de préférence » ou « assez ».",
+  "corpus": [
+   "Ce matin, mon père est arrivé plus tôt que d’habitude.",
+   "Je préfère le riz plutôt que le manioc.",
+   "Réveille-toi plus tôt demain pour ne pas manquer le bus.",
+   "Il fait plutôt chaud à Brazzaville en octobre.",
+   "Ma sœur est partie plus tôt du marché que moi.",
+   "Prends plutôt ce chemin, il est plus court."
+  ],
+  "retenir": "« Plus tôt » s’écrit en deux mots.\nIl est le contraire de « plus tard ».\n« Plutôt » s’écrit en un seul mot.\nIl veut dire « de préférence » ou « assez ».\nExemple : Je me lève plus tôt, mais je prends plutôt du thé.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Graphie",
+    "Sens",
+    "Remplacement par « plus tard »"
+   ],
+   "rows": [
+    [
+     "1",
+     "plus tôt",
+     "avant l’heure habituelle",
+     "possible"
+    ],
+    [
+     "2",
+     "plutôt",
+     "de préférence",
+     "impossible"
+    ],
+    [
+     "3",
+     "plus tôt",
+     "avant l’heure habituelle",
+     "possible"
+    ],
+    [
+     "4",
+     "plutôt",
+     "assez",
+     "impossible"
+    ],
+    [
+     "5",
+     "plus tôt",
+     "avant moi",
+     "possible"
+    ],
+    [
+     "6",
+     "plutôt",
+     "de préférence",
+     "impossible"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec « plus tôt » ou « plutôt ».",
+    "items": [
+     "Nous sommes arrivés … que les autres.",
+     "Il fait … sombre dans cette pièce.",
+     "Achète … des mangues que des oranges.",
+     "Si tu pars … , tu trouveras de la place."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je remplace par « plus tard » quand c’est possible, puis j’écris la bonne graphie.",
+    "items": [
+     "Mon cousin est parti … que moi.",
+     "Ce fruit est … sucré.",
+     "Les élèves sortent … le vendredi.",
+     "Reste … à la maison qu’au marché."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. plus tôt ; 2. plutôt ; 3. plutôt ; 4. plus tôt. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. plus tôt (on peut dire plus tard) ; 2. plutôt (on ne peut pas dire plus tard) ; 3. plus tôt (on peut dire plus tard) ; 4. plutôt (on ne peut pas dire plus tard). Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. plus tôt ; 2. plutôt ; 3. plutôt ; 4. plus tôt ; 5. plutôt. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

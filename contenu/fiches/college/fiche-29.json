@@ -1,0 +1,403 @@
+{
+ "id": 10029,
+ "meta": {
+  "t": "Les valeurs modales de l’infinitif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 29
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.4 : Utiliser les valeurs modales et temporelles des verbes",
+  "titre": "Les valeurs modales de l’infinitif",
+  "theme": "",
+  "objet": "Utilisation des valeurs modales : l’infinitif",
+  "numero": 28,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, décembre, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les valeurs modales de l’infinitif, l’apprenant doit être capable de identifier la valeur modale (défense, consigne, question ou exclamation) exprimée par l’infinitif dans au moins 4 phrases sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Sur le mur de l’école, un panneau dit :\nNe pas jeter de papiers.\nDans un livre de cuisine, on lit :\nÉplucher les patates.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quel est le point commun des deux verbes soulignés ?"
+    },
+    {
+     "n": 2,
+     "q": "Que demandent ces phrases ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Ils sont à l’infinitif."
+    },
+    {
+     "n": 2,
+     "r": "Elles demandent de faire ou de ne pas faire quelque chose."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de identifier la valeur de l’infinitif (défense, consigne, question ou exclamation) dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce que l’infinitif ?"
+    },
+    {
+     "n": 4,
+     "q": "Donne l’infinitif de « il courait »."
+    },
+    {
+     "n": 5,
+     "q": "Quel est l’impératif de « Tu fermes la porte » ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est la forme du verbe qui n’est pas conjuguée : manger, finir."
+    },
+    {
+     "n": 4,
+     "r": "courir"
+    },
+    {
+     "n": 5,
+     "r": "Ferme la porte."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Ne pas marcher sur la pelouse.\n2. Que faire pendant les vacances ?\n3. Remuer la sauce pendant dix minutes.\n4. Moi, voler un ami !\n5. Ne pas fumer dans la salle.\n6. Où aller quand il pleut ?",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel verbe est à l’infinitif ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel verbe est à l’infinitif ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel verbe est à l’infinitif ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel verbe est à l’infinitif ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel verbe est à l’infinitif ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel verbe est à l’infinitif ?"
+      },
+      {
+       "n": 12,
+       "q": "Ces phrases ont-elles un verbe conjugué ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "marcher"
+      },
+      {
+       "n": 7,
+       "r": "faire"
+      },
+      {
+       "n": 8,
+       "r": "Remuer"
+      },
+      {
+       "n": 9,
+       "r": "voler"
+      },
+      {
+       "n": 10,
+       "r": "fumer"
+      },
+      {
+       "n": 11,
+       "r": "aller"
+      },
+      {
+       "n": 12,
+       "r": "Non : le seul verbe de chaque phrase est à l’infinitif."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Ne pas marcher sur la pelouse.\n2. Que faire pendant les vacances ?\n3. Remuer la sauce pendant dix minutes.\n4. Moi, voler un ami !\n5. Ne pas fumer dans la salle.\n6. Où aller quand il pleut ?",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quelles phrases expriment une défense ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelles phrases posent une question ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle phrase donne une consigne de recette ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelle phrase exprime l’indignation ?"
+      },
+      {
+       "n": 17,
+       "q": "Peut-on dire « Remuez » à la place de « Remuer » ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Les phrases 1 et 5."
+      },
+      {
+       "n": 14,
+       "r": "Les phrases 2 et 6."
+      },
+      {
+       "n": 15,
+       "r": "La phrase 3."
+      },
+      {
+       "n": 16,
+       "r": "La phrase 4."
+      },
+      {
+       "n": 17,
+       "r": "Oui : l’infinitif peut remplacer l’impératif dans une consigne."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelles valeurs l’infinitif peut-il exprimer ?"
+      },
+      {
+       "n": 19,
+       "q": "Où trouve-t-on souvent l’infinitif de consigne ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "La défense ou la consigne, la question et l’exclamation."
+      },
+      {
+       "n": 19,
+       "r": "Dans les recettes, les panneaux et les règlements : « Ne pas fumer »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les valeurs modales de l’infinitif.",
+    "tache": "Identifier la valeur modale (défense, consigne, question ou exclamation) de l’infinitif dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase, souligne l’infinitif et écris sa valeur : défense, consigne, question ou exclamation.",
+    "items": [
+     "Ne pas courir dans les couloirs.",
+     "Que dire à mon ami ?",
+     "Mélanger la farine et l’eau.",
+     "Moi, tricher à l’examen !",
+     "Où ranger les chaises ?"
+    ],
+    "cle": [
+     "courir : défense",
+     "dire : question",
+     "Mélanger : consigne",
+     "tricher : exclamation",
+     "ranger : question"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les valeurs modales de l’infinitif",
+  "intro": "L’infinitif peut former à lui seul une phrase. Il exprime alors une défense, une consigne, une question ou une exclamation.",
+  "corpus": [
+   "Ne pas marcher sur la pelouse.",
+   "Que faire pendant les vacances ?",
+   "Remuer la sauce pendant dix minutes.",
+   "Moi, voler un ami !",
+   "Ne pas fumer dans la salle.",
+   "Où aller quand il pleut ?"
+  ],
+  "retenir": "L’infinitif peut remplacer l’impératif dans une consigne.\n« Ne pas + infinitif » exprime une défense.\nL’infinitif peut poser une question : Que faire ?\nIl peut exprimer l’indignation : Moi, mentir !\nExemple : Remuer la sauce pendant dix minutes.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe à l’infinitif",
+    "Valeur",
+    "Indice"
+   ],
+   "rows": [
+    [
+     "1",
+     "marcher",
+     "défense",
+     "ne pas + infinitif"
+    ],
+    [
+     "2",
+     "faire",
+     "question",
+     "point d’interrogation"
+    ],
+    [
+     "3",
+     "Remuer",
+     "consigne",
+     "recette"
+    ],
+    [
+     "4",
+     "voler",
+     "exclamation",
+     "point d’exclamation"
+    ],
+    [
+     "5",
+     "fumer",
+     "défense",
+     "ne pas + infinitif"
+    ],
+    [
+     "6",
+     "aller",
+     "question",
+     "mot interrogatif"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne l’infinitif.",
+    "items": [
+     "Ne pas klaxonner devant l’école.",
+     "Laver les légumes à l’eau claire.",
+     "Que répondre à ce message ?",
+     "Ne pas toucher aux fils."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la valeur : défense, consigne, question ou exclamation.",
+    "items": [
+     "Ne pas parler en classe.",
+     "Couper les oignons en petits morceaux.",
+     "Comment réussir ce problème ?",
+     "Moi, abandonner mon frère !"
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. klaxonner ; 2. Laver ; 3. répondre ; 4. toucher. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. défense ; 2. consigne ; 3. question ; 4. exclamation. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. courir : défense ; 2. dire : question ; 3. Mélanger : consigne ; 4. tricher : exclamation ; 5. ranger : question. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

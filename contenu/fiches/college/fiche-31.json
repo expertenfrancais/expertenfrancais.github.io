@@ -1,0 +1,400 @@
+{
+ "id": 10031,
+ "meta": {
+  "t": "Le paragraphe argumentatif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 31
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.7 : Argumenter un point de vue",
+  "titre": "Le paragraphe argumentatif",
+  "theme": "",
+  "objet": "Argumentation d’un point de vue : élaboration d’un paragraphe argumentatif",
+  "numero": 30,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Texte modèle de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, décembre, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’élaboration d’un paragraphe argumentatif, l’apprenant doit être capable de rédiger un paragraphe argumentatif de quatre phrases au moins en respectant au moins 4 critères sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève affirme : « Le sport est utile. »\nUn camarade lui demande : « Pourquoi ? »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que demande le camarade ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment l’élève peut-il convaincre son camarade ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il demande une raison : un argument."
+    },
+    {
+     "n": 2,
+     "r": "En donnant des arguments et un exemple."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de rédiger un paragraphe argumentatif de quatre phrases au moins en respectant au moins 4 critères sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’une opinion ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’un argument ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite deux connecteurs logiques."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est ce qu’on pense d’un sujet."
+    },
+    {
+     "n": 4,
+     "r": "C’est une raison qui soutient une opinion."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : car, parce que, donc, mais, en effet, c’est pourquoi."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le texte modèle écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. À mon avis, les élèves doivent lire un livre chaque semaine.\n2. D’abord, la lecture enrichit le vocabulaire.\n3. Par exemple, un élève qui lit connaît plus de mots pour s’exprimer.\n4. Ensuite, la lecture améliore l’orthographe.\n5. En effet, on retient la forme des mots qu’on voit souvent.\n6. Pour toutes ces raisons, je recommande de lire chaque semaine.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le rôle de la phrase : position, argument, exemple, explication ou conclusion ?"
+      },
+      {
+       "n": 12,
+       "q": "Combien d’arguments contient ce paragraphe ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "position"
+      },
+      {
+       "n": 7,
+       "r": "argument"
+      },
+      {
+       "n": 8,
+       "r": "exemple"
+      },
+      {
+       "n": 9,
+       "r": "argument"
+      },
+      {
+       "n": 10,
+       "r": "explication"
+      },
+      {
+       "n": 11,
+       "r": "conclusion"
+      },
+      {
+       "n": 12,
+       "r": "Deux arguments : le vocabulaire (phrase 2) et l’orthographe (phrase 4)."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. À mon avis, les élèves doivent lire un livre chaque semaine.\n2. D’abord, la lecture enrichit le vocabulaire.\n3. Par exemple, un élève qui lit connaît plus de mots pour s’exprimer.\n4. Ensuite, la lecture améliore l’orthographe.\n5. En effet, on retient la forme des mots qu’on voit souvent.\n6. Pour toutes ces raisons, je recommande de lire chaque semaine.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Par quels mots commence le paragraphe ? Que donnent-ils ?"
+      },
+      {
+       "n": 14,
+       "q": "Quels mots annoncent les arguments ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle phrase prouve le premier argument par un fait précis ?"
+      },
+      {
+       "n": 16,
+       "q": "À quoi sert la phrase 5 ?"
+      },
+      {
+       "n": 17,
+       "q": "Comment le paragraphe se termine-t-il ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Par « À mon avis » : ils donnent la position de l’auteur."
+      },
+      {
+       "n": 14,
+       "r": "« D’abord » et « Ensuite »."
+      },
+      {
+       "n": 15,
+       "r": "La phrase 3, avec « Par exemple »."
+      },
+      {
+       "n": 16,
+       "r": "À expliquer le deuxième argument, avec « En effet »."
+      },
+      {
+       "n": 17,
+       "r": "Par une conclusion qui reprend la position : « Pour toutes ces raisons… »"
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment construit-on un paragraphe argumentatif ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels connecteurs emploie-t-on ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Une position, des arguments appuyés par des exemples ou des explications, puis une conclusion."
+      },
+      {
+       "n": 19,
+       "r": "À mon avis, d’abord, ensuite, par exemple, en effet, pour toutes ces raisons."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier le paragraphe argumentatif. Sujet : « Faut-il faire du sport chaque jour au CEG ? »",
+    "tache": "Rédiger un paragraphe argumentatif de quatre phrases au moins.",
+    "consigne": "Sur ta feuille de copie, rédige le paragraphe en respectant les cinq critères.",
+    "items": [
+     "Le paragraphe commence par la position.",
+     "Au moins deux arguments sont donnés.",
+     "Un exemple ou une explication appuie un argument.",
+     "Une phrase de conclusion reprend la position.",
+     "Les connecteurs sont corrects et l’orthographe est soignée."
+    ],
+    "cle": [
+     "La position est donnée au début.",
+     "Deux arguments au moins sont présents.",
+     "Un exemple ou une explication est donné.",
+     "Une conclusion reprend la position.",
+     "Connecteurs et orthographe corrects."
+    ],
+    "bareme": "1 point par critère respecté",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le paragraphe argumentatif",
+  "intro": "Un paragraphe argumentatif défend une idée avec une position, des arguments, des exemples et une conclusion.",
+  "corpus": [
+   "À mon avis, les élèves doivent lire un livre chaque semaine.",
+   "D’abord, la lecture enrichit le vocabulaire.",
+   "Par exemple, un élève qui lit connaît plus de mots pour s’exprimer.",
+   "Ensuite, la lecture améliore l’orthographe.",
+   "En effet, on retient la forme des mots qu’on voit souvent.",
+   "Pour toutes ces raisons, je recommande de lire chaque semaine."
+  ],
+  "retenir": "Le paragraphe argumentatif commence par la position.\nIl donne ensuite des arguments.\nUn exemple ou une explication appuie chaque argument.\nIl se termine par une conclusion.\nExemple : Pour toutes ces raisons, je recommande de lire chaque semaine.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Rôle de la phrase",
+    "Connecteur",
+    "Idée"
+   ],
+   "rows": [
+    [
+     "1",
+     "position",
+     "À mon avis",
+     "lire chaque semaine"
+    ],
+    [
+     "2",
+     "argument",
+     "D’abord",
+     "vocabulaire plus riche"
+    ],
+    [
+     "3",
+     "exemple",
+     "Par exemple",
+     "plus de mots pour s’exprimer"
+    ],
+    [
+     "4",
+     "argument",
+     "Ensuite",
+     "meilleure orthographe"
+    ],
+    [
+     "5",
+     "explication",
+     "En effet",
+     "on retient les mots vus souvent"
+    ],
+    [
+     "6",
+     "conclusion",
+     "Pour toutes ces raisons",
+     "retour à la position"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis le rôle de chaque phrase : position, argument, exemple ou conclusion.",
+    "items": [
+     "Je pense que le sport est utile à tous.",
+     "Il garde le corps en bonne santé.",
+     "Par exemple, un coureur respire mieux qu’un élève qui ne bouge pas.",
+     "C’est pourquoi je recommande le sport chaque jour."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’ajoute un connecteur : d’abord, ensuite, par exemple, c’est pourquoi.",
+    "items": [
+     "… , le jeu apprend à respecter les règles.",
+     "… , un élève calme travaille mieux.",
+     "… , il apprend à travailler en équipe.",
+     "… , je défends cette idée."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. position ; 2. argument ; 3. exemple ; 4. conclusion. Barème : 1 point par critère respecté.",
+  "Exercice 2 : 1. D’abord ; 2. Par exemple ; 3. Ensuite ; 4. C’est pourquoi. Barème : 1 point par critère respecté.",
+  "Évaluation (étape V) : 1. La position est donnée au début. ; 2. Deux arguments au moins sont présents. ; 3. Un exemple ou une explication est donné. ; 4. Une conclusion reprend la position. ; 5. Connecteurs et orthographe corrects.. Barème : 1 point par critère respecté. Seuil : 4 sur 5.",
+  "Remarque : Pour l’exercice 2, d’autres connecteurs sont acceptés si le sens est respecté."
+ ]
+}

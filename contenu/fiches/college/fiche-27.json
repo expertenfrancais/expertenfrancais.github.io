@@ -1,0 +1,403 @@
+{
+ "id": 10027,
+ "meta": {
+  "t": "Le vocabulaire du transport",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 27
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.5 : Utiliser le vocabulaire fondamental",
+  "titre": "Le vocabulaire du transport",
+  "theme": "",
+  "objet": "Utilisation du vocabulaire fondamental. Thème : transport",
+  "numero": 26,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, décembre, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation du vocabulaire fondamental du transport, l’apprenant doit être capable de compléter au moins 4 phrases sur 5 avec le mot du transport qui convient, choisi dans une liste donnée.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Pendant les vacances, des élèves parlent de leur voyage vers Pointe-Noire.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "De quoi parlent-ils ? Quels mots emploient-ils ?"
+    },
+    {
+     "n": 2,
+     "q": "Pourquoi faut-il connaître ces mots ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Ils parlent du transport : bus, train, gare, billet…"
+    },
+    {
+     "n": 2,
+     "r": "Pour parler d’un voyage et comprendre les informations."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de compléter au moins 4 phrases sur 5 avec le mot du transport qui convient.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Cite deux moyens de transport."
+    },
+    {
+     "n": 4,
+     "q": "Comment vas-tu à l’école ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite un lieu où l’on attend un car ou un train."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Réponses possibles : bus, train, avion, bateau, moto, vélo."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : à pied, en bus, à vélo, en moto-taxi."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : la gare, l’arrêt, la gare routière."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Le chauffeur arrive chaque matin à six heures.\n2. Ma tante m’attend à la gare.\n3. Mon père a acheté un billet pour Dolisie.\n4. La pirogue glisse doucement sur l’eau.\n5. Nous nous retrouvons devant l’aéroport.\n6. Les marchandises arrivent au port.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel mot appartient au vocabulaire du transport ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel mot appartient au vocabulaire du transport ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel mot appartient au vocabulaire du transport ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel mot appartient au vocabulaire du transport ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel mot appartient au vocabulaire du transport ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel mot appartient au vocabulaire du transport ?"
+      },
+      {
+       "n": 12,
+       "q": "Quels mots désignent des lieux ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "chauffeur"
+      },
+      {
+       "n": 7,
+       "r": "gare"
+      },
+      {
+       "n": 8,
+       "r": "billet"
+      },
+      {
+       "n": 9,
+       "r": "pirogue"
+      },
+      {
+       "n": 10,
+       "r": "aéroport"
+      },
+      {
+       "n": 11,
+       "r": "port"
+      },
+      {
+       "n": 12,
+       "r": "gare, aéroport et port."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Le chauffeur arrive chaque matin à six heures.\n2. Ma tante m’attend à la gare.\n3. Mon père a acheté un billet pour Dolisie.\n4. La pirogue glisse doucement sur l’eau.\n5. Nous nous retrouvons devant l’aéroport.\n6. Les marchandises arrivent au port.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel mot désigne une personne ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel mot désigne un titre de transport ?"
+      },
+      {
+       "n": 15,
+       "q": "Quel mot désigne un véhicule qui avance sur l’eau ?"
+      },
+      {
+       "n": 16,
+       "q": "Dans quel lieu les avions atterrissent-ils ?"
+      },
+      {
+       "n": 17,
+       "q": "Cite d’autres moyens de transport."
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "chauffeur"
+      },
+      {
+       "n": 14,
+       "r": "billet"
+      },
+      {
+       "n": 15,
+       "r": "pirogue"
+      },
+      {
+       "n": 16,
+       "r": "À l’aéroport."
+      },
+      {
+       "n": 17,
+       "r": "Réponses possibles : bus, train, avion, bateau, moto, vélo."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment retenir le vocabulaire d’un thème ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels mots du transport avons-nous étudiés ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "On range les mots par catégorie, on apprend leur sens et on les emploie dans des phrases."
+      },
+      {
+       "n": 19,
+       "r": "chauffeur, gare, billet, pirogue, aéroport, port."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier le vocabulaire du transport.",
+    "tache": "Compléter chaque phrase avec le mot du transport qui convient : chauffeur, gare, billet, pirogue, aéroport.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et complète-la avec un mot de la liste.",
+    "items": [
+     "Le … conduit le car.",
+     "Le train s’arrête à la … .",
+     "Je montre mon … au contrôleur.",
+     "Le pêcheur traverse le fleuve en … .",
+     "L’avion décolle de l’… ."
+    ],
+    "cle": [
+     "chauffeur",
+     "gare",
+     "billet",
+     "pirogue",
+     "aéroport"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le vocabulaire du transport",
+  "intro": "Les mots du transport servent à parler des voyages : les personnes, les lieux, les véhicules et les titres de transport.",
+  "corpus": [
+   "Le chauffeur arrive chaque matin à six heures.",
+   "Ma tante m’attend à la gare.",
+   "Mon père a acheté un billet pour Dolisie.",
+   "La pirogue glisse doucement sur l’eau.",
+   "Nous nous retrouvons devant l’aéroport.",
+   "Les marchandises arrivent au port."
+  ],
+  "retenir": "Le vocabulaire du transport regroupe les mots des voyages.\nIl y a des personnes : le chauffeur, le passager.\nIl y a des lieux : la gare, le port, l’aéroport.\nIl y a des véhicules : la pirogue, le bus, le train, l’avion.\nExemple : Mon père a acheté un billet pour Dolisie.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Mot du transport",
+    "Catégorie",
+    "Sens"
+   ],
+   "rows": [
+    [
+     "1",
+     "chauffeur",
+     "personne",
+     "conduit un véhicule"
+    ],
+    [
+     "2",
+     "gare",
+     "lieu",
+     "où l’on prend le train"
+    ],
+    [
+     "3",
+     "billet",
+     "titre de transport",
+     "papier qui permet de voyager"
+    ],
+    [
+     "4",
+     "pirogue",
+     "véhicule sur l’eau",
+     "petite embarcation"
+    ],
+    [
+     "5",
+     "aéroport",
+     "lieu",
+     "où les avions décollent et atterrissent"
+    ],
+    [
+     "6",
+     "port",
+     "lieu",
+     "où les bateaux s’arrêtent"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec un mot du transport : bus, train, port, passager.",
+    "items": [
+     "Le … roule sur les rails.",
+     "Chaque … porte sa valise.",
+     "Les bateaux arrivent au … .",
+     "Le … s’arrête devant le CEG."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je donne le mot qui correspond à la définition : chauffeur, gare, billet, aéroport.",
+    "items": [
+     "Papier qui permet de voyager.",
+     "Lieu où l’on prend le train.",
+     "Personne qui conduit un véhicule.",
+     "Lieu où les avions décollent."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. train ; 2. passager ; 3. port ; 4. bus. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. billet ; 2. gare ; 3. chauffeur ; 4. aéroport. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. chauffeur ; 2. gare ; 3. billet ; 4. pirogue ; 5. aéroport. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

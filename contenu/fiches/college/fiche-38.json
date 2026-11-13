@@ -1,0 +1,403 @@
+{
+ "id": 10038,
+ "meta": {
+  "t": "L’accord du participe passé à la voix passive",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 38
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.2 : Appliquer l’accord des participes passés",
+  "titre": "L’accord du participe passé à la voix passive",
+  "theme": "",
+  "objet": "Application des règles d’accord du participe passé des verbes à la voix passive",
+  "numero": 37,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’accord du participe passé des verbes à la voix passive, l’apprenant doit être capable de accorder correctement au moins 4 participes passés de verbes à la voix passive sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève écrit : Les fleurs sont arrosé par Marie.\nLe maître corrige : arrosées.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle correction le maître fait-il ?"
+    },
+    {
+     "n": 2,
+     "q": "Avec quel mot le participe passé s’accorde-t-il ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il écrit « arrosées »."
+    },
+    {
+     "n": 2,
+     "r": "Avec « fleurs », le sujet."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de accorder correctement au moins 4 participes passés à la voix passive sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce que le sujet d’un verbe ?"
+    },
+    {
+     "n": 4,
+     "q": "Donne le participe passé de « fermer »."
+    },
+    {
+     "n": 5,
+     "q": "Donne le féminin de « invité »."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est le mot ou le groupe de mots qui fait l’action ou qui est dans l’état exprimé par le verbe."
+    },
+    {
+     "n": 4,
+     "r": "fermé"
+    },
+    {
+     "n": 5,
+     "r": "invitée"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Les devoirs sont corrigés par le professeur.\n2. La porte a été fermée par le gardien.\n3. Les mangues seront cueillies demain.\n4. Le match est annulé à cause de la pluie.\n5. Mes cousines ont été invitées à la fête.\n6. Les lettres ont été écrites par mon frère.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le participe passé du verbe à la voix passive ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le participe passé du verbe à la voix passive ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le participe passé du verbe à la voix passive ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le participe passé du verbe à la voix passive ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le participe passé du verbe à la voix passive ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le participe passé du verbe à la voix passive ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel auxiliaire précède toujours ce participe passé ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "corrigés"
+      },
+      {
+       "n": 7,
+       "r": "fermée"
+      },
+      {
+       "n": 8,
+       "r": "cueillies"
+      },
+      {
+       "n": 9,
+       "r": "annulé"
+      },
+      {
+       "n": 10,
+       "r": "invitées"
+      },
+      {
+       "n": 11,
+       "r": "écrites"
+      },
+      {
+       "n": 12,
+       "r": "L’auxiliaire être : sont, a été, seront, est, ont été."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Les devoirs sont corrigés par le professeur.\n2. La porte a été fermée par le gardien.\n3. Les mangues seront cueillies demain.\n4. Le match est annulé à cause de la pluie.\n5. Mes cousines ont été invitées à la fête.\n6. Les lettres ont été écrites par mon frère.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Avec quel mot le participe passé s’accorde-t-il ?"
+      },
+      {
+       "n": 14,
+       "q": "Pourquoi « corrigés » prend-il un s à la phrase 1 ?"
+      },
+      {
+       "n": 15,
+       "q": "Pourquoi « fermée » prend-il un e à la phrase 2 ?"
+      },
+      {
+       "n": 16,
+       "q": "Pourquoi « annulé » n’a-t-il aucune marque à la phrase 4 ?"
+      },
+      {
+       "n": 17,
+       "q": "Dans « ont été invitées », quel mot s’accorde ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Avec le sujet."
+      },
+      {
+       "n": 14,
+       "r": "Il s’accorde avec « devoirs », masculin pluriel."
+      },
+      {
+       "n": 15,
+       "r": "Il s’accorde avec « porte », féminin singulier."
+      },
+      {
+       "n": 16,
+       "r": "Le sujet « match » est masculin singulier."
+      },
+      {
+       "n": 17,
+       "r": "Le participe « invitées » ; « été » reste invariable."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelle est la règle ?"
+      },
+      {
+       "n": 19,
+       "q": "Que dire de « été » dans « a été » ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "À la voix passive, le participe passé s’accorde en genre et en nombre avec le sujet."
+      },
+      {
+       "n": 19,
+       "r": "Il est toujours invariable."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’accord du participe passé à la voix passive.",
+    "tache": "Accorder le participe passé écrit à l’infinitif entre parenthèses dans chacune des cinq phrases.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et écris le participe passé bien accordé.",
+    "items": [
+     "Les devoirs sont (corriger) par le maître.",
+     "La cour a été (balayer) par les élèves.",
+     "Mes amies ont été (inviter) à la fête.",
+     "Le repas sera (préparer) par ma mère.",
+     "Les lettres sont (écrire) à la main."
+    ],
+    "cle": [
+     "corrigés",
+     "balayée",
+     "invitées",
+     "préparé",
+     "écrites"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’accord du participe passé à la voix passive",
+  "intro": "À la voix passive, le participe passé s’accorde avec le sujet, comme un adjectif.",
+  "corpus": [
+   "Les devoirs sont corrigés par le professeur.",
+   "La porte a été fermée par le gardien.",
+   "Les mangues seront cueillies demain.",
+   "Le match est annulé à cause de la pluie.",
+   "Mes cousines ont été invitées à la fête.",
+   "Les lettres ont été écrites par mon frère."
+  ],
+  "retenir": "La voix passive se forme avec être + participe passé.\nLe participe passé s’accorde avec le sujet.\nIl prend un e au féminin et un s au pluriel.\nLe mot « été » ne change jamais.\nExemple : Les mangues seront cueillies demain.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Participe passé",
+    "Sujet",
+    "Accord"
+   ],
+   "rows": [
+    [
+     "1",
+     "corrigés",
+     "devoirs",
+     "masculin pluriel"
+    ],
+    [
+     "2",
+     "fermée",
+     "porte",
+     "féminin singulier"
+    ],
+    [
+     "3",
+     "cueillies",
+     "mangues",
+     "féminin pluriel"
+    ],
+    [
+     "4",
+     "annulé",
+     "match",
+     "masculin singulier"
+    ],
+    [
+     "5",
+     "invitées",
+     "cousines",
+     "féminin pluriel"
+    ],
+    [
+     "6",
+     "écrites",
+     "lettres",
+     "féminin pluriel"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le participe passé au bon accord.",
+    "items": [
+     "Les tomates sont (vendre) au marché.",
+     "Le chien a été (soigner) par le vétérinaire.",
+     "Mes sœurs seront (récompenser) demain.",
+     "Les livres sont (ranger) dans l’armoire."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je corrige le participe passé quand c’est nécessaire. J’écris « correct » s’il n’y a pas d’erreur.",
+    "items": [
+     "La maison est construit près du fleuve.",
+     "Les élèves ont été félicités.",
+     "Les cahiers sont ramassé.",
+     "Mon père est invité à la réunion."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. vendues ; 2. soigné ; 3. récompensées ; 4. rangés. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. construite ; 2. correct ; 3. ramassés ; 4. correct. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. corrigés ; 2. balayée ; 3. invitées ; 4. préparé ; 5. écrites. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "id": 10062,
+ "meta": {
+  "t": "La métonymie",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 62
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.4 : Utiliser les figures de style",
+  "titre": "La métonymie",
+  "theme": "",
+  "objet": "Utilisation des figures de style : la métonymie",
+  "numero": 61,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, mars, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation des figures de style : la métonymie, l’apprenant doit être capable de relever, dans au moins 4 phrases sur 5, le mot employé à la place d’un autre mot qui lui est lié.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève dit : « Je bois un verre. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Boit-il le verre en verre ?"
+    },
+    {
+     "n": 2,
+     "q": "Que boit-il vraiment ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non, on ne boit pas le verre."
+    },
+    {
+     "n": 2,
+     "r": "Ce qu’il y a dans le verre : une boisson."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de relever, dans au moins 4 phrases sur 5, le mot employé à la place d’un autre mot qui lui est lié.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’une figure de style ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’une métaphore ?"
+    },
+    {
+     "n": 5,
+     "q": "Que contient une bouteille ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un procédé qui rend le langage plus imagé ou plus expressif."
+    },
+    {
+     "n": 4,
+     "r": "C’est une comparaison sans mot outil."
+    },
+    {
+     "n": 5,
+     "r": "Un liquide : de l’eau, du jus."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Il boit un verre à la terrasse.\n2. Toute la salle a applaudi le chanteur.\n3. Elle lit du Sony Labou Tansi.\n4. Toute la ville a fêté la victoire.\n5. Cet auteur est une fine plume.\n6. Il a bu toute la bouteille.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel mot est employé à la place d’un autre mot qui lui est lié ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel mot est employé à la place d’un autre mot qui lui est lié ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel mot est employé à la place d’un autre mot qui lui est lié ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel mot est employé à la place d’un autre mot qui lui est lié ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel mot est employé à la place d’un autre mot qui lui est lié ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel mot est employé à la place d’un autre mot qui lui est lié ?"
+      },
+      {
+       "n": 12,
+       "q": "Ces phrases sont-elles à prendre au sens propre ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "un verre"
+      },
+      {
+       "n": 7,
+       "r": "la salle"
+      },
+      {
+       "n": 8,
+       "r": "Sony Labou Tansi"
+      },
+      {
+       "n": 9,
+       "r": "la ville"
+      },
+      {
+       "n": 10,
+       "r": "plume"
+      },
+      {
+       "n": 11,
+       "r": "la bouteille"
+      },
+      {
+       "n": 12,
+       "r": "Non : un mot est employé à la place d’un autre mot qui lui est lié."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Il boit un verre à la terrasse.\n2. Toute la salle a applaudi le chanteur.\n3. Elle lit du Sony Labou Tansi.\n4. Toute la ville a fêté la victoire.\n5. Cet auteur est une fine plume.\n6. Il a bu toute la bouteille.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Que boit-on vraiment dans la phrase 1 ?"
+      },
+      {
+       "n": 14,
+       "q": "Qui a applaudi dans la phrase 2 ?"
+      },
+      {
+       "n": 15,
+       "q": "Que lit-elle dans la phrase 3 ?"
+      },
+      {
+       "n": 16,
+       "q": "Qui a fêté la victoire dans la phrase 4 ?"
+      },
+      {
+       "n": 17,
+       "q": "Quelle différence y a-t-il avec la métaphore ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "La boisson qui est dans le verre."
+      },
+      {
+       "n": 14,
+       "r": "Les spectateurs qui sont dans la salle."
+      },
+      {
+       "n": 15,
+       "r": "Les livres de cet auteur."
+      },
+      {
+       "n": 16,
+       "r": "Les habitants de la ville."
+      },
+      {
+       "n": 17,
+       "r": "La métonymie remplace un mot par un autre qui lui est lié ; la métaphore rapproche deux éléments qui se ressemblent."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’une métonymie ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment la reconnaît-on ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est une figure de style qui désigne une chose par un mot qui lui est lié : le contenant pour le contenu, le lieu pour les personnes, l’auteur pour son œuvre."
+      },
+      {
+       "n": 19,
+       "r": "Le mot employé n’a pas son sens habituel : on pense à ce qui est lié à lui."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la métonymie.",
+    "tache": "Relever le mot employé à la place d’un autre mot qui lui est lié, dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et relève le mot employé à la place d’un autre mot qui lui est lié.",
+    "items": [
+     "Il a avalé deux assiettes de riz.",
+     "Toute la classe a ri.",
+     "Elle lit du Hampâté Bâ.",
+     "Le stade a chanté pendant le match.",
+     "Il a bu une tasse."
+    ],
+    "cle": [
+     "deux assiettes",
+     "Toute la classe",
+     "Hampâté Bâ",
+     "Le stade",
+     "une tasse"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La métonymie",
+  "intro": "La métonymie désigne une chose par un mot qui lui est lié. On dit « boire un verre » pour « boire une boisson ».",
+  "corpus": [
+   "Il boit un verre à la terrasse.",
+   "Toute la salle a applaudi le chanteur.",
+   "Elle lit du Sony Labou Tansi.",
+   "Toute la ville a fêté la victoire.",
+   "Cet auteur est une fine plume.",
+   "Il a bu toute la bouteille."
+  ],
+  "retenir": "La métonymie remplace un mot par un autre qui lui est lié.\nLe contenant peut désigner le contenu : boire un verre.\nLe lieu peut désigner les personnes : toute la salle a applaudi.\nL’auteur peut désigner ses livres : lire du Sony Labou Tansi.\nExemple : Toute la ville a fêté la victoire.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Mot employé",
+    "Ce qu’il désigne vraiment",
+    "Rapport"
+   ],
+   "rows": [
+    [
+     "1",
+     "un verre",
+     "la boisson",
+     "contenant pour contenu"
+    ],
+    [
+     "2",
+     "la salle",
+     "les spectateurs",
+     "lieu pour personnes"
+    ],
+    [
+     "3",
+     "Sony Labou Tansi",
+     "ses livres",
+     "auteur pour œuvre"
+    ],
+    [
+     "4",
+     "la ville",
+     "les habitants",
+     "lieu pour personnes"
+    ],
+    [
+     "5",
+     "plume",
+     "l’écrivain",
+     "outil pour la personne"
+    ],
+    [
+     "6",
+     "la bouteille",
+     "le contenu",
+     "contenant pour contenu"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis ce que le mot en gras désigne vraiment.",
+    "items": [
+     "Toute **la salle** a ri.",
+     "Il boit **un verre**.",
+     "Elle lit du **Molière**.",
+     "Tout **le village** est venu à la fête."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis le rapport : contenant pour contenu, lieu pour personnes ou auteur pour œuvre.",
+    "items": [
+     "J’ai bu une bouteille.",
+     "Toute la ville dort.",
+     "Il lit du Sony Labou Tansi.",
+     "La salle a applaudi."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. les spectateurs ; 2. la boisson ; 3. les pièces de l’auteur ; 4. les habitants. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. contenant pour contenu ; 2. lieu pour personnes ; 3. auteur pour œuvre ; 4. lieu pour personnes. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. deux assiettes ; 2. Toute la classe ; 3. Hampâté Bâ ; 4. Le stade ; 5. une tasse. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

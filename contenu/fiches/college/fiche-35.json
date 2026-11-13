@@ -1,0 +1,403 @@
+{
+ "id": 10035,
+ "meta": {
+  "t": "Les champs lexicaux",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 35
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.5 : Utiliser le vocabulaire fondamental",
+  "titre": "Les champs lexicaux",
+  "theme": "",
+  "objet": "Utilisation des champs lexicaux",
+  "numero": 34,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’utilisation des champs lexicaux, l’apprenant doit être capable de relever, dans au moins 4 phrases sur 5, les quatre noms qui appartiennent au champ lexical indiqué.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Sur un panneau, on lit : tableau, craie, élève, cahier.\nSur un autre : tomate, vendeur, monnaie, panier.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quel thème réunit les mots de chaque panneau ?"
+    },
+    {
+     "n": 2,
+     "q": "Comment appelle-t-on un groupe de mots liés au même thème ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "L’école pour le premier panneau ; le marché pour le second."
+    },
+    {
+     "n": 2,
+     "r": "Un champ lexical."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de relever les noms du champ lexical indiqué dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un nom ?"
+    },
+    {
+     "n": 4,
+     "q": "Cite trois noms liés à l’école."
+    },
+    {
+     "n": 5,
+     "q": "Qu’est-ce qu’un thème ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un mot qui désigne une personne, un animal, une chose ou une idée."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : cahier, tableau, élève, maître, craie."
+    },
+    {
+     "n": 5,
+     "r": "C’est le sujet dont on parle."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Les élèves écoutent le professeur et copient la leçon dans leur cahier.\n2. La vendeuse pèse les tomates et rend la monnaie à la cliente.\n3. Le médecin examine le malade à l’hôpital et prescrit un médicament.\n4. Le pêcheur lance son filet dans la rivière et prend des poissons.\n5. Le cultivateur sème du maïs, arrose le champ et récolte les épis.\n6. Le chauffeur gare le bus près de la station et fait monter les voyageurs.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quels sont les quatre noms qui appartiennent au même champ lexical ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quels sont les quatre noms qui appartiennent au même champ lexical ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quels sont les quatre noms qui appartiennent au même champ lexical ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quels sont les quatre noms qui appartiennent au même champ lexical ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quels sont les quatre noms qui appartiennent au même champ lexical ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quels sont les quatre noms qui appartiennent au même champ lexical ?"
+      },
+      {
+       "n": 12,
+       "q": "Qu’est-ce qui réunit les noms relevés dans chaque phrase ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "élèves, professeur, leçon, cahier"
+      },
+      {
+       "n": 7,
+       "r": "vendeuse, tomates, monnaie, cliente"
+      },
+      {
+       "n": 8,
+       "r": "médecin, malade, hôpital, médicament"
+      },
+      {
+       "n": 9,
+       "r": "pêcheur, filet, rivière, poissons"
+      },
+      {
+       "n": 10,
+       "r": "cultivateur, maïs, champ, épis"
+      },
+      {
+       "n": 11,
+       "r": "chauffeur, bus, station, voyageurs"
+      },
+      {
+       "n": 12,
+       "r": "Ils se rapportent au même thème : ils forment un champ lexical."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Les élèves écoutent le professeur et copient la leçon dans leur cahier.\n2. La vendeuse pèse les tomates et rend la monnaie à la cliente.\n3. Le médecin examine le malade à l’hôpital et prescrit un médicament.\n4. Le pêcheur lance son filet dans la rivière et prend des poissons.\n5. Le cultivateur sème du maïs, arrose le champ et récolte les épis.\n6. Le chauffeur gare le bus près de la station et fait monter les voyageurs.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel est le thème de la phrase 1 ?"
+      },
+      {
+       "n": 14,
+       "q": "Quels thèmes trouve-t-on dans les phrases 2 à 6 ?"
+      },
+      {
+       "n": 15,
+       "q": "Combien de noms du champ lexical contient chaque phrase ?"
+      },
+      {
+       "n": 16,
+       "q": "Peut-on ajouter un mot au champ lexical de l’école ?"
+      },
+      {
+       "n": 17,
+       "q": "Qu’est-ce qui permet de reconnaître un champ lexical ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "L’école."
+      },
+      {
+       "n": 14,
+       "r": "Le marché, la santé, la pêche, l’agriculture et le transport."
+      },
+      {
+       "n": 15,
+       "r": "Quatre noms."
+      },
+      {
+       "n": 16,
+       "r": "Oui : tableau, craie, classe, exercice."
+      },
+      {
+       "n": 17,
+       "r": "Les mots ont un lien de sens avec le même thème."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’un champ lexical ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment trouve-t-on un champ lexical dans une phrase ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est l’ensemble des mots qui se rapportent à un même thème."
+      },
+      {
+       "n": 19,
+       "r": "On relève les mots liés au même thème, puis on nomme ce thème."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les champs lexicaux.",
+    "tache": "Relever les quatre noms du champ lexical indiqué dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et relève les quatre noms du champ lexical indiqué entre parenthèses.",
+    "items": [
+     "(école) Le directeur surveille les élèves et le maître corrige les cahiers.",
+     "(marché) Le commerçant vend des mangues et compte l’argent de ses clients.",
+     "(santé) L’infirmière soigne le blessé et nettoie la plaie à l’hôpital.",
+     "(pêche) Les pêcheurs jettent leurs filets dans le fleuve pour attraper du poisson.",
+     "(agriculture) La paysanne creuse son champ de manioc avec une houe."
+    ],
+    "cle": [
+     "directeur, élèves, maître, cahiers",
+     "commerçant, mangues, argent, clients",
+     "infirmière, blessé, plaie, hôpital",
+     "pêcheurs, filets, fleuve, poisson",
+     "paysanne, champ, manioc, houe"
+    ],
+    "bareme": "1 point par phrase dont les quatre noms sont relevés",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les champs lexicaux",
+  "intro": "Un champ lexical est un groupe de mots qui se rapportent au même thème.",
+  "corpus": [
+   "Les élèves écoutent le professeur et copient la leçon dans leur cahier.",
+   "La vendeuse pèse les tomates et rend la monnaie à la cliente.",
+   "Le médecin examine le malade à l’hôpital et prescrit un médicament.",
+   "Le pêcheur lance son filet dans la rivière et prend des poissons.",
+   "Le cultivateur sème du maïs, arrose le champ et récolte les épis.",
+   "Le chauffeur gare le bus près de la station et fait monter les voyageurs."
+  ],
+  "retenir": "Un champ lexical réunit des mots liés au même thème.\nCes mots peuvent être des noms, des verbes ou des adjectifs.\nPour le trouver, on relève les mots liés au thème.\nPuis on donne un nom à ce thème.\nExemple : élève, professeur, leçon, cahier forment le champ lexical de l’école.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Noms du champ lexical",
+    "Thème",
+    "Nombre de noms"
+   ],
+   "rows": [
+    [
+     "1",
+     "élèves, professeur, leçon, cahier",
+     "l’école",
+     "4"
+    ],
+    [
+     "2",
+     "vendeuse, tomates, monnaie, cliente",
+     "le marché",
+     "4"
+    ],
+    [
+     "3",
+     "médecin, malade, hôpital, médicament",
+     "la santé",
+     "4"
+    ],
+    [
+     "4",
+     "pêcheur, filet, rivière, poissons",
+     "la pêche",
+     "4"
+    ],
+    [
+     "5",
+     "cultivateur, maïs, champ, épis",
+     "l’agriculture",
+     "4"
+    ],
+    [
+     "6",
+     "chauffeur, bus, station, voyageurs",
+     "le transport",
+     "4"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis le champ lexical : école, marché, santé ou pêche.",
+    "items": [
+     "filet, poisson, rivière",
+     "médecin, malade, médicament",
+     "tableau, leçon, craie",
+     "vendeur, panier, monnaie"
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je recopie le mot qui n’appartient pas au champ lexical.",
+    "items": [
+     "cahier, stylo, marteau, tableau",
+     "tomate, oignon, banane, ballon",
+     "médecin, hôpital, malade, cartable",
+     "pêcheur, filet, rivière, tracteur"
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. pêche ; 2. santé ; 3. école ; 4. marché. Barème : 1 point par phrase dont les quatre noms sont relevés. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. marteau ; 2. ballon ; 3. cartable ; 4. tracteur. Barème : 1 point par phrase dont les quatre noms sont relevés. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. directeur, élèves, maître, cahiers ; 2. commerçant, mangues, argent, clients ; 3. infirmière, blessé, plaie, hôpital ; 4. pêcheurs, filets, fleuve, poisson ; 5. paysanne, champ, manioc, houe. Barème : 1 point par phrase dont les quatre noms sont relevés. Seuil : 4 sur 5."
+ ]
+}

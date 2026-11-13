@@ -1,0 +1,403 @@
+{
+ "id": 10037,
+ "meta": {
+  "t": "Les valeurs modales du gérondif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 37
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.4 : Utiliser les valeurs modales et temporelles des verbes",
+  "titre": "Les valeurs modales du gérondif",
+  "theme": "",
+  "objet": "Utilisation des valeurs modales : le gérondif",
+  "numero": 36,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les valeurs modales du gérondif, l’apprenant doit être capable de identifier la valeur (simultanéité, manière, condition ou cause) exprimée par le gérondif dans au moins 4 phrases sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève lit en marchant. Il se cogne contre un arbre.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Combien d’actions l’élève fait-il en même temps ?"
+    },
+    {
+     "n": 2,
+     "q": "Quelle expression montre ces deux actions en même temps ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Deux actions : il lit et il marche."
+    },
+    {
+     "n": 2,
+     "r": "« en marchant »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de identifier la valeur du gérondif (simultanéité, manière, condition ou cause) dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Donne le participe présent de « marcher »."
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’une action simultanée ?"
+    },
+    {
+     "n": 5,
+     "q": "Quel est l’infinitif de « courant » ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "marchant"
+    },
+    {
+     "n": 4,
+     "r": "C’est une action qui se fait en même temps qu’une autre."
+    },
+    {
+     "n": 5,
+     "r": "courir"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Mon frère chante en marchant vers l’école.\n2. Les enfants rentrent en courant.\n3. En travaillant bien, tu réussiras.\n4. Il s’est fatigué en portant ce lourd sac.\n5. En sortant de la classe, j’ai croisé le directeur.\n6. Elle répond en souriant.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le gérondif ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le gérondif ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le gérondif ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le gérondif ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le gérondif ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le gérondif ?"
+      },
+      {
+       "n": 12,
+       "q": "Par quel mot commence chaque gérondif ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "en marchant"
+      },
+      {
+       "n": 7,
+       "r": "en courant"
+      },
+      {
+       "n": 8,
+       "r": "En travaillant bien"
+      },
+      {
+       "n": 9,
+       "r": "en portant"
+      },
+      {
+       "n": 10,
+       "r": "En sortant"
+      },
+      {
+       "n": 11,
+       "r": "en souriant"
+      },
+      {
+       "n": 12,
+       "r": "Par « en », suivi d’un participe présent en -ant."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Mon frère chante en marchant vers l’école.\n2. Les enfants rentrent en courant.\n3. En travaillant bien, tu réussiras.\n4. Il s’est fatigué en portant ce lourd sac.\n5. En sortant de la classe, j’ai croisé le directeur.\n6. Elle répond en souriant.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quelles phrases expriment deux actions en même temps ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelles phrases disent comment l’action se fait ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle phrase exprime la condition ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelle phrase exprime la cause ?"
+      },
+      {
+       "n": 17,
+       "q": "Le gérondif est-il variable ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Les phrases 1 et 5."
+      },
+      {
+       "n": 14,
+       "r": "Les phrases 2 et 6 : la manière."
+      },
+      {
+       "n": 15,
+       "r": "La phrase 3 : « En travaillant bien » veut dire « si tu travailles bien »."
+      },
+      {
+       "n": 16,
+       "r": "La phrase 4 : il s’est fatigué parce qu’il a porté un lourd sac."
+      },
+      {
+       "n": 17,
+       "r": "Non : il est invariable."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelles valeurs le gérondif peut-il exprimer ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment forme-t-on le gérondif ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "La simultanéité, la manière, la condition et la cause."
+      },
+      {
+       "n": 19,
+       "r": "Avec « en » suivi du participe présent : en marchant."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les valeurs modales du gérondif.",
+    "tache": "Identifier la valeur (simultanéité, manière, condition ou cause) exprimée par le gérondif dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase, souligne le gérondif et écris sa valeur : simultanéité, manière, condition ou cause.",
+    "items": [
+     "En sortant du marché, j’ai croisé mon oncle.",
+     "Il est arrivé en courant.",
+     "En étudiant chaque soir, tu réussiras.",
+     "Il s’est enrhumé en restant sous la pluie.",
+     "Ma sœur lit en attendant le bus."
+    ],
+    "cle": [
+     "En sortant : simultanéité",
+     "en courant : manière",
+     "En étudiant : condition",
+     "en restant : cause",
+     "en attendant : simultanéité"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les valeurs modales du gérondif",
+  "intro": "Le gérondif est formé de « en » et du participe présent. Il précise comment, quand ou pourquoi l’action a lieu.",
+  "corpus": [
+   "Mon frère chante en marchant vers l’école.",
+   "Les enfants rentrent en courant.",
+   "En travaillant bien, tu réussiras.",
+   "Il s’est fatigué en portant ce lourd sac.",
+   "En sortant de la classe, j’ai croisé le directeur.",
+   "Elle répond en souriant."
+  ],
+  "retenir": "Le gérondif se forme avec « en » + participe présent.\nIl est invariable.\nIl peut exprimer la simultanéité ou la manière.\nIl peut aussi exprimer la condition ou la cause.\nExemple : Elle répond en souriant.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Gérondif",
+    "Valeur",
+    "Infinitif"
+   ],
+   "rows": [
+    [
+     "1",
+     "en marchant",
+     "simultanéité",
+     "marcher"
+    ],
+    [
+     "2",
+     "en courant",
+     "manière",
+     "courir"
+    ],
+    [
+     "3",
+     "En travaillant bien",
+     "condition",
+     "travailler"
+    ],
+    [
+     "4",
+     "en portant",
+     "cause",
+     "porter"
+    ],
+    [
+     "5",
+     "En sortant",
+     "simultanéité",
+     "sortir"
+    ],
+    [
+     "6",
+     "en souriant",
+     "manière",
+     "sourire"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne le gérondif.",
+    "items": [
+     "Il répond en riant.",
+     "En lisant ce livre, j’ai appris beaucoup.",
+     "Elle traverse la rue en regardant à gauche.",
+     "Mon père chante en travaillant."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la valeur : simultanéité, manière, condition ou cause.",
+    "items": [
+     "Il entre en saluant tout le monde.",
+     "En voyageant la nuit, tu arriveras plus tôt.",
+     "J’écoute la radio en préparant le repas.",
+     "Il a eu mal au dos en soulevant ce sac."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. en riant ; 2. En lisant ; 3. en regardant ; 4. en travaillant. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. manière ; 2. condition ; 3. simultanéité ; 4. cause. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. En sortant : simultanéité ; 2. en courant : manière ; 3. En étudiant : condition ; 4. en restant : cause ; 5. en attendant : simultanéité. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

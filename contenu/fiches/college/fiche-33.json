@@ -1,0 +1,403 @@
+{
+ "id": 10033,
+ "meta": {
+  "t": "Les valeurs modales du participe",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 33
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.4 : Utiliser les valeurs modales et temporelles des verbes",
+  "titre": "Les valeurs modales du participe",
+  "theme": "",
+  "objet": "Utilisation des valeurs modales : le participe",
+  "numero": 32,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 1 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les valeurs modales du participe, l’apprenant doit être capable de identifier la valeur (cause, simultanéité, action accomplie ou état) exprimée par le participe dans au moins 4 phrases sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève dit : « Ayant faim, Paul mange une mangue. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Pourquoi Paul mange-t-il une mangue ?"
+    },
+    {
+     "n": 2,
+     "q": "Quel mot de la phrase donne cette raison ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Parce qu’il a faim."
+    },
+    {
+     "n": 2,
+     "r": "Le mot « Ayant »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de identifier la valeur du participe (cause, simultanéité, action accomplie ou état) dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Donne le participe présent de « chanter »."
+    },
+    {
+     "n": 4,
+     "q": "Donne le participe passé de « finir »."
+    },
+    {
+     "n": 5,
+     "q": "Quel est l’infinitif de « terminé » ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "chantant"
+    },
+    {
+     "n": 4,
+     "r": "fini"
+    },
+    {
+     "n": 5,
+     "r": "terminer"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Voyant la pluie, les enfants rentrent.\n2. Mon frère, chantant, balaie la cour.\n3. Fatigué par le voyage, mon oncle s’est couché tôt.\n4. Le travail terminé, les ouvriers rentrent chez eux.\n5. Connaissant bien la route, il conduit sans carte.\n6. Les enfants, épuisés, dorment profondément.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le participe ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le participe ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le participe ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le participe ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le participe ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le participe ?"
+      },
+      {
+       "n": 12,
+       "q": "Quels participes se terminent par -ant ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "Voyant"
+      },
+      {
+       "n": 7,
+       "r": "chantant"
+      },
+      {
+       "n": 8,
+       "r": "Fatigué"
+      },
+      {
+       "n": 9,
+       "r": "terminé"
+      },
+      {
+       "n": 10,
+       "r": "Connaissant"
+      },
+      {
+       "n": 11,
+       "r": "épuisés"
+      },
+      {
+       "n": 12,
+       "r": "Voyant, chantant et Connaissant : ce sont des participes présents."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Voyant la pluie, les enfants rentrent.\n2. Mon frère, chantant, balaie la cour.\n3. Fatigué par le voyage, mon oncle s’est couché tôt.\n4. Le travail terminé, les ouvriers rentrent chez eux.\n5. Connaissant bien la route, il conduit sans carte.\n6. Les enfants, épuisés, dorment profondément.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quels participes sont des participes passés ?"
+      },
+      {
+       "n": 14,
+       "q": "Quels participes expriment la cause ?"
+      },
+      {
+       "n": 15,
+       "q": "Quel participe exprime une action qui se fait en même temps qu’une autre ?"
+      },
+      {
+       "n": 16,
+       "q": "Quel participe exprime une action finie avant l’autre ?"
+      },
+      {
+       "n": 17,
+       "q": "Quel participe décrit un état ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Fatigué, terminé et épuisés."
+      },
+      {
+       "n": 14,
+       "r": "Voyant, Fatigué et Connaissant."
+      },
+      {
+       "n": 15,
+       "r": "« chantant » (phrase 2)."
+      },
+      {
+       "n": 16,
+       "r": "« terminé » (phrase 4)."
+      },
+      {
+       "n": 17,
+       "r": "« épuisés » (phrase 6)."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelles valeurs le participe peut-il exprimer ?"
+      },
+      {
+       "n": 19,
+       "q": "Comment distingue-t-on le participe présent du participe passé ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "La cause, la simultanéité, l’action accomplie et l’état."
+      },
+      {
+       "n": 19,
+       "r": "Le participe présent se termine par -ant ; le participe passé a une autre terminaison (-é, -i, -u, -s, -t) et s’accorde souvent."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les valeurs modales du participe.",
+    "tache": "Identifier la valeur (cause, simultanéité, action accomplie ou état) exprimée par le participe dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase, souligne le participe et écris sa valeur : cause, simultanéité, action accomplie ou état.",
+    "items": [
+     "Voyant le danger, le chauffeur freine.",
+     "Le dîner fini, les enfants se couchent.",
+     "Mon père, riant, lit la lettre.",
+     "Les élèves, fatigués, s’assoient.",
+     "Ne sachant pas nager, il reste au bord."
+    ],
+    "cle": [
+     "Voyant : cause",
+     "fini : action accomplie",
+     "riant : simultanéité",
+     "fatigués : état",
+     "sachant : cause"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les valeurs modales du participe",
+  "intro": "Le participe donne une précision sur l’action : une cause, une action en même temps, une action terminée ou un état.",
+  "corpus": [
+   "Voyant la pluie, les enfants rentrent.",
+   "Mon frère, chantant, balaie la cour.",
+   "Fatigué par le voyage, mon oncle s’est couché tôt.",
+   "Le travail terminé, les ouvriers rentrent chez eux.",
+   "Connaissant bien la route, il conduit sans carte.",
+   "Les enfants, épuisés, dorment profondément."
+  ],
+  "retenir": "Le participe présent se termine par -ant.\nIl peut exprimer la cause ou une action en même temps.\nLe participe passé peut exprimer une action accomplie ou un état.\nIl s’accorde souvent avec le nom.\nExemple : Voyant la pluie, les enfants rentrent.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Participe",
+    "Nature",
+    "Valeur"
+   ],
+   "rows": [
+    [
+     "1",
+     "Voyant",
+     "participe présent",
+     "cause"
+    ],
+    [
+     "2",
+     "chantant",
+     "participe présent",
+     "simultanéité"
+    ],
+    [
+     "3",
+     "Fatigué",
+     "participe passé",
+     "cause"
+    ],
+    [
+     "4",
+     "terminé",
+     "participe passé",
+     "action accomplie"
+    ],
+    [
+     "5",
+     "Connaissant",
+     "participe présent",
+     "cause"
+    ],
+    [
+     "6",
+     "épuisés",
+     "participe passé",
+     "état"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne le participe.",
+    "items": [
+     "Entendant le bruit, Nadia sort.",
+     "Le repas préparé, nous passons à table.",
+     "Mon frère, chantant, balaie la cour.",
+     "Rassuré par son père, l’enfant se calme."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la valeur : cause, simultanéité, action accomplie ou état.",
+    "items": [
+     "Connaissant la réponse, il lève la main.",
+     "Le travail fini, il se repose.",
+     "Les chèvres, fatiguées, se couchent.",
+     "Marie, riant, ouvre la porte."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. Entendant ; 2. préparé ; 3. chantant ; 4. Rassuré. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. cause ; 2. action accomplie ; 3. état ; 4. simultanéité. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. Voyant : cause ; 2. fini : action accomplie ; 3. riant : simultanéité ; 4. fatigués : état ; 5. sachant : cause. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

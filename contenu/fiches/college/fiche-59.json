@@ -1,0 +1,400 @@
+{
+ "id": 10059,
+ "meta": {
+  "t": "Le débat : thème et situation-problème",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 59
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "objectifGeneral": "O.G 5 : Acquérir les compétences techniques",
+  "objectifSpecifique": "O.S 5.3 : Argumenter un débat",
+  "titre": "Le débat : thème et situation-problème",
+  "theme": "",
+  "objet": "Augmentation d’un débat : thème, techniques de commandement - situation - problème",
+  "numero": 58,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Modèle de débat de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’argumentation d’un débat : thème et situation-problème, l’apprenant doit être capable de rédiger le thème d’un débat, une situation-problème et deux règles de prise de parole, en respectant au moins 4 critères sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Deux élèves discutent en même temps. Personne n’entend l’autre.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Cette discussion est-elle utile ?"
+    },
+    {
+     "n": 2,
+     "q": "Que faut-il pour bien discuter ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : personne n’écoute et personne ne se comprend."
+    },
+    {
+     "n": 2,
+     "r": "Des règles : tour de parole, écoute, respect."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de rédiger le thème d’un débat, une situation-problème et deux règles de prise de parole en respectant au moins 4 critères sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un débat ?"
+    },
+    {
+     "n": 4,
+     "q": "Qu’est-ce qu’un argument ?"
+    },
+    {
+     "n": 5,
+     "q": "Cite une règle de politesse pour parler en classe."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un échange où chacun donne son opinion et la justifie."
+    },
+    {
+     "n": 4,
+     "r": "C’est une raison qui soutient une opinion."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : lever la main, attendre son tour, écouter les autres."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le modèle de débat écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Le maître présente le thème : « Faut-il interdire le téléphone portable au CEG ? »\n2. Il pose la situation-problème : des élèves jouent sur leur téléphone pendant le cours.\n3. Joël donne son avis : « Je suis pour l’interdiction. »\n4. Aïcha répond : « Je suis contre, car le téléphone sert aux recherches. »\n5. Le président de séance donne la parole à chacun à tour de rôle.\n6. À la fin, la classe résume les idées et choisit une solution.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel moment du débat trouve-t-on : thème, situation-problème, prise de position, réponse, animation ou synthèse ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel moment du débat trouve-t-on : thème, situation-problème, prise de position, réponse, animation ou synthèse ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel moment du débat trouve-t-on : thème, situation-problème, prise de position, réponse, animation ou synthèse ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel moment du débat trouve-t-on : thème, situation-problème, prise de position, réponse, animation ou synthèse ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel moment du débat trouve-t-on : thème, situation-problème, prise de position, réponse, animation ou synthèse ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel moment du débat trouve-t-on : thème, situation-problème, prise de position, réponse, animation ou synthèse ?"
+      },
+      {
+       "n": 12,
+       "q": "Qui anime le débat ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "thème"
+      },
+      {
+       "n": 7,
+       "r": "situation-problème"
+      },
+      {
+       "n": 8,
+       "r": "prise de position"
+      },
+      {
+       "n": 9,
+       "r": "réponse"
+      },
+      {
+       "n": 10,
+       "r": "animation"
+      },
+      {
+       "n": 11,
+       "r": "synthèse"
+      },
+      {
+       "n": 12,
+       "r": "Le président de séance : il donne la parole à chacun."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Le maître présente le thème : « Faut-il interdire le téléphone portable au CEG ? »\n2. Il pose la situation-problème : des élèves jouent sur leur téléphone pendant le cours.\n3. Joël donne son avis : « Je suis pour l’interdiction. »\n4. Aïcha répond : « Je suis contre, car le téléphone sert aux recherches. »\n5. Le président de séance donne la parole à chacun à tour de rôle.\n6. À la fin, la classe résume les idées et choisit une solution.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Qu’est-ce que le thème d’un débat ?"
+      },
+      {
+       "n": 14,
+       "q": "Qu’est-ce qu’une situation-problème ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelles règles doit-on respecter pendant un débat ?"
+      },
+      {
+       "n": 16,
+       "q": "Pourquoi faut-il justifier son avis ?"
+      },
+      {
+       "n": 17,
+       "q": "Comment termine-t-on un débat ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "C’est le sujet dont on discute."
+      },
+      {
+       "n": 14,
+       "r": "C’est une situation vécue qui pose une question à résoudre."
+      },
+      {
+       "n": 15,
+       "r": "Lever la main, attendre son tour, écouter et respecter les idées des autres."
+      },
+      {
+       "n": 16,
+       "r": "Pour convaincre avec des raisons."
+      },
+      {
+       "n": 17,
+       "r": "Par une synthèse : on résume les idées et on conclut."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelles sont les étapes d’un débat ?"
+      },
+      {
+       "n": 19,
+       "q": "Quel est le rôle du président de séance ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Présenter le thème et la situation-problème, prendre la parole à tour de rôle, répondre aux autres, puis conclure."
+      },
+      {
+       "n": 19,
+       "r": "Il donne la parole, fait respecter les règles et propose le résumé."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’organisation d’un débat. Le sujet proposé est : « Faut-il interdire les sachets en plastique au marché ? »",
+    "tache": "Rédiger le thème de ce débat, une situation-problème et deux règles de prise de parole.",
+    "consigne": "Sur ta feuille de copie, rédige le thème, la situation-problème et deux règles en respectant les cinq critères.",
+    "items": [
+     "Le thème est formulé sous forme de question.",
+     "Une situation-problème vécue est présentée.",
+     "Deux règles de prise de parole sont données.",
+     "Le ton est poli et respectueux.",
+     "Les phrases sont correctes : majuscules, points, orthographe."
+    ],
+    "cle": [
+     "Le thème est une question claire.",
+     "Une situation-problème est présentée.",
+     "Deux règles sont données.",
+     "Le ton est poli.",
+     "Les phrases sont correctes."
+    ],
+    "bareme": "1 point par critère respecté",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Le débat : thème et situation-problème",
+  "intro": "Un débat est organisé : un thème, une situation-problème, des prises de parole et une synthèse.",
+  "corpus": [
+   "Le maître présente le thème : « Faut-il interdire le téléphone portable au CEG ? »",
+   "Il pose la situation-problème : des élèves jouent sur leur téléphone pendant le cours.",
+   "Joël donne son avis : « Je suis pour l’interdiction. »",
+   "Aïcha répond : « Je suis contre, car le téléphone sert aux recherches. »",
+   "Le président de séance donne la parole à chacun à tour de rôle.",
+   "À la fin, la classe résume les idées et choisit une solution."
+  ],
+  "retenir": "Le thème est le sujet du débat.\nLa situation-problème est une situation vécue qui pose une question.\nChacun parle à son tour, écoute et justifie son avis.\nLe président de séance donne la parole.\nÀ la fin, on fait la synthèse des idées.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Moment du débat",
+    "Qui agit",
+    "Rôle"
+   ],
+   "rows": [
+    [
+     "1",
+     "thème",
+     "le maître",
+     "annoncer le sujet"
+    ],
+    [
+     "2",
+     "situation-problème",
+     "le maître",
+     "faire naître la question"
+    ],
+    [
+     "3",
+     "prise de position",
+     "un élève",
+     "dire ce qu’on pense"
+    ],
+    [
+     "4",
+     "réponse",
+     "une élève",
+     "répondre avec une raison"
+    ],
+    [
+     "5",
+     "animation",
+     "le président de séance",
+     "faire respecter les tours de parole"
+    ],
+    [
+     "6",
+     "synthèse",
+     "la classe",
+     "conclure ensemble"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis le moment du débat : thème, situation-problème, prise de position ou synthèse.",
+    "items": [
+     "Le maître annonce : « Faut-il porter l’uniforme ? »",
+     "Un élève dit : « Je suis pour l’uniforme. »",
+     "La classe résume les idées à la fin.",
+     "Dans la cour, des élèves se moquent de la tenue d’un camarade."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris une règle pour chaque situation.",
+    "items": [
+     "Un élève veut parler.",
+     "Un camarade donne son avis.",
+     "Je ne suis pas d’accord.",
+     "Le temps de parole est fini."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. thème ; 2. prise de position ; 3. synthèse ; 4. situation-problème. Barème : 1 point par critère respecté.",
+  "Exercice 2 : 1. Réponse possible : lever la main. ; 2. Réponse possible : l’écouter sans l’interrompre. ; 3. Réponse possible : répondre poliment avec une raison. ; 4. Réponse possible : conclure et résumer.. Barème : 1 point par critère respecté.",
+  "Évaluation (étape V) : 1. Le thème est une question claire. ; 2. Une situation-problème est présentée. ; 3. Deux règles sont données. ; 4. Le ton est poli. ; 5. Les phrases sont correctes.. Barème : 1 point par critère respecté. Seuil : 4 sur 5.",
+  "Remarque : L’intitulé de la répartition annuelle (« Augmentation d’un débat… ») semble contenir une erreur de saisie : la fiche traite l’organisation d’un débat (thème, situation-problème)."
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "id": 10042,
+ "meta": {
+  "t": "L’accord du participe passé des verbes essentiellement pronominaux",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 42
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.2 : Appliquer l’accord des participes passés",
+  "titre": "L’accord du participe passé des verbes essentiellement pronominaux",
+  "theme": "",
+  "objet": "Application des règles d’accord du participe passé des verbes essentiellement pronominaux",
+  "numero": 41,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’accord du participe passé des verbes essentiellement pronominaux, l’apprenant doit être capable de accorder correctement au moins 4 participes passés de verbes essentiellement pronominaux sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève écrit : Ma tante s’est évanoui.\nLe maître corrige : évanouie.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle correction le maître fait-il ?"
+    },
+    {
+     "n": 2,
+     "q": "Avec quel mot le participe passé s’accorde-t-il ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Il écrit « évanouie »."
+    },
+    {
+     "n": 2,
+     "r": "Avec le sujet « ma tante », féminin."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de accorder correctement au moins 4 participes passés de verbes essentiellement pronominaux sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un verbe pronominal ?"
+    },
+    {
+     "n": 4,
+     "q": "Quel auxiliaire emploie-t-on avec un verbe pronominal ?"
+    },
+    {
+     "n": 5,
+     "q": "Donne le participe passé de « s’enfuir »."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un verbe qui se conjugue avec un pronom réfléchi (me, te, se…) : se lever."
+    },
+    {
+     "n": 4,
+     "r": "L’auxiliaire être."
+    },
+    {
+     "n": 5,
+     "r": "enfui"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Mes sœurs se sont souvenues de leur village.\n2. Le voleur s’est enfui par la fenêtre.\n3. Les élèves se sont moqués de lui.\n4. La petite fille s’est évanouie sous le soleil.\n5. Ma mère s’est méfiée de cet homme.\n6. Les voisins se sont absentés pendant les vacances.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel est le participe passé du verbe pronominal ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel auxiliaire emploie-t-on avec ces verbes ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "souvenues"
+      },
+      {
+       "n": 7,
+       "r": "enfui"
+      },
+      {
+       "n": 8,
+       "r": "moqués"
+      },
+      {
+       "n": 9,
+       "r": "évanouie"
+      },
+      {
+       "n": 10,
+       "r": "méfiée"
+      },
+      {
+       "n": 11,
+       "r": "absentés"
+      },
+      {
+       "n": 12,
+       "r": "L’auxiliaire être : sont, est."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Mes sœurs se sont souvenues de leur village.\n2. Le voleur s’est enfui par la fenêtre.\n3. Les élèves se sont moqués de lui.\n4. La petite fille s’est évanouie sous le soleil.\n5. Ma mère s’est méfiée de cet homme.\n6. Les voisins se sont absentés pendant les vacances.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Avec quel mot le participe passé s’accorde-t-il ?"
+      },
+      {
+       "n": 14,
+       "q": "Peut-on employer ces verbes sans « se » ?"
+      },
+      {
+       "n": 15,
+       "q": "Pourquoi « évanouie » prend-il un e ?"
+      },
+      {
+       "n": 16,
+       "q": "Pourquoi « moqués » prend-il un s ?"
+      },
+      {
+       "n": 17,
+       "q": "Quel verbe de la phrase 6 est essentiellement pronominal ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Avec le sujet."
+      },
+      {
+       "n": 14,
+       "r": "Non : on ne dit pas « souvenir », « enfuir » ni « évanouir » seuls."
+      },
+      {
+       "n": 15,
+       "r": "Le sujet « la petite fille » est féminin singulier."
+      },
+      {
+       "n": 16,
+       "r": "Le sujet « les élèves » est masculin pluriel."
+      },
+      {
+       "n": 17,
+       "r": "Le verbe « s’absenter »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce qu’un verbe essentiellement pronominal ?"
+      },
+      {
+       "n": 19,
+       "q": "Quelle est la règle d’accord du participe passé ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est un verbe qui existe seulement à la forme pronominale : se souvenir, s’enfuir, s’évanouir."
+      },
+      {
+       "n": 19,
+       "r": "Le participe passé s’accorde avec le sujet."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’accord du participe passé des verbes essentiellement pronominaux.",
+    "tache": "Accorder le participe passé écrit à l’infinitif entre parenthèses dans chacune des cinq phrases.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et écris le participe passé bien accordé.",
+    "items": [
+     "Mes cousines se sont (souvenir) de ce jour.",
+     "Le chat s’est (enfuir) dans la brousse.",
+     "Les voisins se sont (absenter) hier.",
+     "Ma sœur s’est (évanouir) à l’école.",
+     "Ces femmes se sont (méfier) du vendeur."
+    ],
+    "cle": [
+     "souvenues",
+     "enfui",
+     "absentés",
+     "évanouie",
+     "méfiées"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’accord du participe passé des verbes essentiellement pronominaux",
+  "intro": "Un verbe essentiellement pronominal n’existe qu’avec « se ». Son participe passé s’accorde avec le sujet.",
+  "corpus": [
+   "Mes sœurs se sont souvenues de leur village.",
+   "Le voleur s’est enfui par la fenêtre.",
+   "Les élèves se sont moqués de lui.",
+   "La petite fille s’est évanouie sous le soleil.",
+   "Ma mère s’est méfiée de cet homme.",
+   "Les voisins se sont absentés pendant les vacances."
+  ],
+  "retenir": "Un verbe essentiellement pronominal s’emploie toujours avec « se ».\nOn dit : se souvenir, s’enfuir, s’évanouir, se méfier.\nIl se conjugue avec l’auxiliaire être.\nSon participe passé s’accorde avec le sujet.\nExemple : La petite fille s’est évanouie.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Participe passé",
+    "Sujet",
+    "Accord"
+   ],
+   "rows": [
+    [
+     "1",
+     "souvenues",
+     "mes sœurs",
+     "féminin pluriel"
+    ],
+    [
+     "2",
+     "enfui",
+     "le voleur",
+     "masculin singulier"
+    ],
+    [
+     "3",
+     "moqués",
+     "les élèves",
+     "masculin pluriel"
+    ],
+    [
+     "4",
+     "évanouie",
+     "la petite fille",
+     "féminin singulier"
+    ],
+    [
+     "5",
+     "méfiée",
+     "ma mère",
+     "féminin singulier"
+    ],
+    [
+     "6",
+     "absentés",
+     "les voisins",
+     "masculin pluriel"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le participe passé entre parenthèses au bon accord.",
+    "items": [
+     "Les enfants se sont (moquer) du clown.",
+     "La vieille dame s’est (souvenir) de son enfance.",
+     "Les prisonniers se sont (enfuir) la nuit.",
+     "Ma mère s’est (absenter) deux jours."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si le verbe est essentiellement pronominal : oui ou non.",
+    "items": [
+     "se souvenir",
+     "se laver",
+     "s’enfuir",
+     "se coiffer"
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. moqués ; 2. souvenue ; 3. enfuis ; 4. absentée. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. oui ; 2. non ; 3. oui ; 4. non. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. souvenues ; 2. enfui ; 3. absentés ; 4. évanouie ; 5. méfiées. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

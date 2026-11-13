@@ -1,0 +1,403 @@
+{
+ "id": 10057,
+ "meta": {
+  "t": "La concordance des temps : la postériorité",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 57
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.3 : Utiliser les règles de concordance des temps",
+  "titre": "La concordance des temps : la postériorité",
+  "theme": "",
+  "objet": "Utilisation des règles de concordance des temps : la postériorité",
+  "numero": 56,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, février, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les règles de concordance des temps : la postériorité, l’apprenant doit être capable de mettre le verbe entre parenthèses au temps qui convient pour exprimer la postériorité dans au moins 4 phrases sur 5.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Aujourd’hui, je prépare mon sac. Demain, je partirai en voyage.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Quelle action a lieu après l’autre ?"
+    },
+    {
+     "n": 2,
+     "q": "Quel temps montre que cette action est future ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "« Je partirai en voyage »."
+    },
+    {
+     "n": 2,
+     "r": "Le futur simple."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de mettre le verbe au bon temps pour exprimer une action qui a lieu après l’autre dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Conjugue « venir » au futur simple avec « tu »."
+    },
+    {
+     "n": 4,
+     "q": "Conjugue « venir » au conditionnel présent avec « tu »."
+    },
+    {
+     "n": 5,
+     "q": "Donne les terminaisons du futur simple avec « tu » et « il »."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "tu viendras"
+    },
+    {
+     "n": 4,
+     "r": "tu viendrais"
+    },
+    {
+     "n": 5,
+     "r": "-as et -a (tu chanteras, il chantera)"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Je sais que tu viendras.\n2. Elle dit qu’il partira demain.\n3. Je savais que tu viendrais.\n4. Elle disait qu’il partirait le lendemain.\n5. Je pense que nous gagnerons le match.\n6. Je pensais que nous gagnerions le match.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel verbe exprime l’action qui aura lieu après l’action principale ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel verbe exprime l’action qui aura lieu après l’action principale ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel verbe exprime l’action qui aura lieu après l’action principale ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel verbe exprime l’action qui aura lieu après l’action principale ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel verbe exprime l’action qui aura lieu après l’action principale ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel verbe exprime l’action qui aura lieu après l’action principale ?"
+      },
+      {
+       "n": 12,
+       "q": "Ces verbes sont-ils à un temps du passé ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "viendras"
+      },
+      {
+       "n": 7,
+       "r": "partira"
+      },
+      {
+       "n": 8,
+       "r": "viendrais"
+      },
+      {
+       "n": 9,
+       "r": "partirait"
+      },
+      {
+       "n": 10,
+       "r": "gagnerons"
+      },
+      {
+       "n": 11,
+       "r": "gagnerions"
+      },
+      {
+       "n": 12,
+       "r": "Non : ils sont au futur simple ou au conditionnel présent."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Je sais que tu viendras.\n2. Elle dit qu’il partira demain.\n3. Je savais que tu viendrais.\n4. Elle disait qu’il partirait le lendemain.\n5. Je pense que nous gagnerons le match.\n6. Je pensais que nous gagnerions le match.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quel temps emploie-t-on quand le verbe principal est au présent ?"
+      },
+      {
+       "n": 14,
+       "q": "Quel temps emploie-t-on quand le verbe principal est à l’imparfait ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle action vient en second dans chaque phrase ?"
+      },
+      {
+       "n": 16,
+       "q": "Par quel groupe de mots remplace-t-on « demain » à la phrase 4 ?"
+      },
+      {
+       "n": 17,
+       "q": "Quelle règle faut-il retenir ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Le futur simple."
+      },
+      {
+       "n": 14,
+       "r": "Le conditionnel présent."
+      },
+      {
+       "n": 15,
+       "r": "L’action de la subordonnée : elle a lieu après l’action principale."
+      },
+      {
+       "n": 16,
+       "r": "Par « le lendemain »."
+      },
+      {
+       "n": 17,
+       "r": "Futur simple avec un verbe principal au présent ; conditionnel présent avec un verbe principal à l’imparfait."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Qu’est-ce que la postériorité ?"
+      },
+      {
+       "n": 19,
+       "q": "Quels temps emploie-t-on pour l’exprimer ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "C’est le fait qu’une action se passe après une autre."
+      },
+      {
+       "n": 19,
+       "r": "Le futur simple après un verbe principal au présent ; le conditionnel présent après un verbe principal à l’imparfait."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier la concordance des temps : la postériorité.",
+    "tache": "Mettre le verbe entre parenthèses au temps qui convient pour exprimer la postériorité.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et mets le verbe entre parenthèses au temps qui convient.",
+    "items": [
+     "Je sais qu’il (arriver) demain.",
+     "Je savais qu’il (arriver) le lendemain.",
+     "Elle dit que nous (réussir).",
+     "Elle disait que nous (réussir).",
+     "Il pense que tu (gagner)."
+    ],
+    "cle": [
+     "arrivera",
+     "arriverait",
+     "réussirons",
+     "réussirions",
+     "gagneras"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "La concordance des temps : la postériorité",
+  "intro": "La postériorité exprime une action qui a lieu après l’action principale.",
+  "corpus": [
+   "Je sais que tu viendras.",
+   "Elle dit qu’il partira demain.",
+   "Je savais que tu viendrais.",
+   "Elle disait qu’il partirait le lendemain.",
+   "Je pense que nous gagnerons le match.",
+   "Je pensais que nous gagnerions le match."
+  ],
+  "retenir": "La postériorité : une action se passe après une autre.\nVerbe principal au présent : futur simple.\nVerbe principal à l’imparfait : conditionnel présent.\nAprès un verbe à l’imparfait, « demain » devient « le lendemain ».\nExemple : Je savais que tu viendrais.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe qui exprime la postériorité",
+    "Temps",
+    "Verbe principal"
+   ],
+   "rows": [
+    [
+     "1",
+     "viendras",
+     "futur simple",
+     "sais (présent)"
+    ],
+    [
+     "2",
+     "partira",
+     "futur simple",
+     "dit (présent)"
+    ],
+    [
+     "3",
+     "viendrais",
+     "conditionnel présent",
+     "savais (imparfait)"
+    ],
+    [
+     "4",
+     "partirait",
+     "conditionnel présent",
+     "disait (imparfait)"
+    ],
+    [
+     "5",
+     "gagnerons",
+     "futur simple",
+     "pense (présent)"
+    ],
+    [
+     "6",
+     "gagnerions",
+     "conditionnel présent",
+     "pensais (imparfait)"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe qui exprime la postériorité.",
+    "items": [
+     "Je sais que tu partiras.",
+     "Je savais que tu partirais.",
+     "Il dit qu’elle chantera.",
+     "Il disait qu’elle chanterait."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le verbe entre parenthèses au temps qui convient.",
+    "items": [
+     "Je crois qu’il (pleuvoir) demain.",
+     "Je croyais qu’il (pleuvoir) le lendemain.",
+     "Elle sait que tu (venir).",
+     "Elle savait que tu (venir)."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. partiras ; 2. partirais ; 3. chantera ; 4. chanterait. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. pleuvra ; 2. pleuvrait ; 3. viendras ; 4. viendrais. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. arrivera ; 2. arriverait ; 3. réussirons ; 4. réussirions ; 5. gagneras. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

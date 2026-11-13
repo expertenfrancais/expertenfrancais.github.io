@@ -1,0 +1,403 @@
+{
+ "id": 10040,
+ "meta": {
+  "t": "L’expression de la circonstance de moyen",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 40
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "objectifGeneral": "O.G 3 : S’exprimer à l’oral",
+  "objectifSpecifique": "O.S 3.6 : Exprimer les circonstances",
+  "titre": "L’expression de la circonstance de moyen",
+  "theme": "",
+  "objet": "Expression de la circonstance de moyen",
+  "numero": 39,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, janvier, semaine 3 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur l’expression de la circonstance de moyen, l’apprenant doit être capable de souligner au moins 4 groupes de mots qui expriment le moyen sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève demande : « Comment le maçon monte-t-il au toit ? »\nUn autre répond : « Avec une échelle. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Que dit la réponse ?"
+    },
+    {
+     "n": 2,
+     "q": "Quel mot introduit ce moyen ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Elle dit avec quel objet le maçon monte : c’est le moyen."
+    },
+    {
+     "n": 2,
+     "r": "Le mot « avec »."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de souligner au moins 4 expressions de moyen sur 5 phrases données.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Qu’est-ce qu’un complément circonstanciel ?"
+    },
+    {
+     "n": 4,
+     "q": "Cite deux prépositions."
+    },
+    {
+     "n": 5,
+     "q": "Cite deux outils que tu connais."
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "C’est un complément qui donne une précision sur l’action (le lieu, le temps, la cause…). On peut le déplacer ou le supprimer."
+    },
+    {
+     "n": 4,
+     "r": "Réponses possibles : avec, par, en, à, dans, sur."
+    },
+    {
+     "n": 5,
+     "r": "Réponses possibles : marteau, houe, machette, scie, pelle."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Mon père répare son vélo avec un marteau.\n2. Les pêcheurs traversent le fleuve en pirogue.\n3. Elle écrit sa lettre à l’aide d’un stylo bleu.\n4. Nous allons au marché à pied.\n5. Le maçon monte au toit par une échelle.\n6. Il a ouvert la boîte au moyen d’un couteau.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quelle expression dit avec quoi se fait l’action ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quelle expression dit avec quoi se fait l’action ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quelle expression dit avec quoi se fait l’action ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quelle expression dit avec quoi se fait l’action ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quelle expression dit avec quoi se fait l’action ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quelle expression dit avec quoi se fait l’action ?"
+      },
+      {
+       "n": 12,
+       "q": "À quelle question répondent toutes ces expressions ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "avec un marteau"
+      },
+      {
+       "n": 7,
+       "r": "en pirogue"
+      },
+      {
+       "n": 8,
+       "r": "à l’aide d’un stylo bleu"
+      },
+      {
+       "n": 9,
+       "r": "à pied"
+      },
+      {
+       "n": 10,
+       "r": "par une échelle"
+      },
+      {
+       "n": 11,
+       "r": "au moyen d’un couteau"
+      },
+      {
+       "n": 12,
+       "r": "À la question « Avec quoi ? » ou « Par quel moyen ? »"
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Mon père répare son vélo avec un marteau.\n2. Les pêcheurs traversent le fleuve en pirogue.\n3. Elle écrit sa lettre à l’aide d’un stylo bleu.\n4. Nous allons au marché à pied.\n5. Le maçon monte au toit par une échelle.\n6. Il a ouvert la boîte au moyen d’un couteau.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quels mots introduisent le moyen ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelles expressions indiquent un moyen de transport ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelles expressions indiquent un outil ou un objet ?"
+      },
+      {
+       "n": 16,
+       "q": "Peut-on supprimer ces compléments ?"
+      },
+      {
+       "n": 17,
+       "q": "Quelle différence y a-t-il avec la manière ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "avec, en, à l’aide de, à, par, au moyen de."
+      },
+      {
+       "n": 14,
+       "r": "« en pirogue » et « à pied »."
+      },
+      {
+       "n": 15,
+       "r": "« avec un marteau », « à l’aide d’un stylo bleu », « par une échelle » et « au moyen d’un couteau »."
+      },
+      {
+       "n": 16,
+       "r": "Oui, la phrase garde son sens principal."
+      },
+      {
+       "n": 17,
+       "r": "Le moyen répond à « Avec quoi ? » ; la manière répond à « Comment ? »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Comment exprime-t-on le moyen ?"
+      },
+      {
+       "n": 19,
+       "q": "Quelle question aide à le reconnaître ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Par un groupe de mots introduit par avec, en, à, par, à l’aide de, au moyen de."
+      },
+      {
+       "n": 19,
+       "r": "La question « Avec quoi ? » ou « Par quel moyen ? »"
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier l’expression de la circonstance de moyen.",
+    "tache": "Souligner l’expression de moyen dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase et souligne le groupe de mots qui exprime le moyen.",
+    "items": [
+     "Il coupe le bois avec une machette.",
+     "Nous traversons le fleuve en bac.",
+     "Ma sœur écrit à l’aide d’un crayon.",
+     "Le facteur voyage à vélo.",
+     "Il a ouvert la porte au moyen d’une clé."
+    ],
+    "cle": [
+     "avec une machette",
+     "en bac",
+     "à l’aide d’un crayon",
+     "à vélo",
+     "au moyen d’une clé"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "L’expression de la circonstance de moyen",
+  "intro": "Le complément de moyen dit avec quoi on fait l’action. Il répond à la question « Avec quoi ? ».",
+  "corpus": [
+   "Mon père répare son vélo avec un marteau.",
+   "Les pêcheurs traversent le fleuve en pirogue.",
+   "Elle écrit sa lettre à l’aide d’un stylo bleu.",
+   "Nous allons au marché à pied.",
+   "Le maçon monte au toit par une échelle.",
+   "Il a ouvert la boîte au moyen d’un couteau."
+  ],
+  "retenir": "Le complément de moyen dit avec quoi on agit.\nIl répond à la question « Avec quoi ? ».\nIl est introduit par avec, en, à, par.\nIl peut l’être aussi par à l’aide de, au moyen de.\nExemple : Mon père répare son vélo avec un marteau.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Expression de moyen",
+    "Ce qui sert à agir",
+    "Mot qui l’introduit"
+   ],
+   "rows": [
+    [
+     "1",
+     "avec un marteau",
+     "outil",
+     "avec"
+    ],
+    [
+     "2",
+     "en pirogue",
+     "véhicule",
+     "en"
+    ],
+    [
+     "3",
+     "à l’aide d’un stylo bleu",
+     "outil",
+     "à l’aide de"
+    ],
+    [
+     "4",
+     "à pied",
+     "façon de se déplacer",
+     "à"
+    ],
+    [
+     "5",
+     "par une échelle",
+     "objet",
+     "par"
+    ],
+    [
+     "6",
+     "au moyen d’un couteau",
+     "outil",
+     "au moyen de"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne l’expression de moyen.",
+    "items": [
+     "Il creuse la terre avec une houe.",
+     "Elle va à Brazzaville en train.",
+     "Il monte par l’escalier.",
+     "Nous mesurons la table à l’aide d’un mètre."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si le moyen indiqué est un moyen de transport ou un outil.",
+    "items": [
+     "Il voyage en car.",
+     "Il coupe l’herbe avec une faucille.",
+     "Elle rentre à pied.",
+     "Il serre la vis avec un tournevis."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. avec une houe ; 2. en train ; 3. par l’escalier ; 4. à l’aide d’un mètre. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. moyen de transport ; 2. outil ; 3. moyen de transport ; 4. outil. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. avec une machette ; 2. en bac ; 3. à l’aide d’un crayon ; 4. à vélo ; 5. au moyen d’une clé. Barème : 1 point par réponse juste. Seuil : 4 sur 5."
+ ]
+}

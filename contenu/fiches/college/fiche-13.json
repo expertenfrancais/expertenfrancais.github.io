@@ -1,0 +1,404 @@
+{
+ "id": 10013,
+ "meta": {
+  "t": "Les valeurs modales du subjonctif",
+  "k": "Fiches",
+  "n": "3e",
+  "m": "Conjugaison",
+  "img": "e",
+  "r": 4.8,
+  "fn": 13
+ },
+ "type": "fiche",
+ "entete": {
+  "niveau": "3e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "objectifGeneral": "O.G 4 : S’exprimer par écrit",
+  "objectifSpecifique": "O.S 4.4 : Utiliser les valeurs modales et temporelles des verbes",
+  "titre": "Les valeurs modales du subjonctif",
+  "theme": "",
+  "objet": "Utilisation des valeurs modales : le subjonctif",
+  "numero": 12,
+  "effectif": {
+   "g": "",
+   "f": "",
+   "t": ""
+  },
+  "date": "",
+  "duree": 60,
+  "support": "Corpus de six phrases écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme PPO, Français 3e (INRAP, 2018) ; répartition annuelle 3e, novembre, semaine 2 ; manuel : Français 3e, Apostrophe (Hachette)"
+ },
+ "oo": "À la fin de la séance portant sur les valeurs modales du subjonctif, l’apprenant doit être capable de identifier la valeur modale (souhait, ordre, obligation ou doute) exprimée par le subjonctif dans au moins 4 phrases sur 5 phrases données.",
+ "etapes": [
+  {
+   "titre": "I-Motivation",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Observer le texte écrit au tableau, puis répondre aux questions.",
+   "texte": "Un élève dit à son camarade : « Que tu réussisses à l’examen ! »\nLe directeur dit aux élèves : « Il faut que vous rangiez vos cahiers. »",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Le directeur dit-il que les cahiers sont déjà rangés ? Que veut-il ?"
+    },
+    {
+     "n": 2,
+     "q": "Que souhaite l’élève à son camarade ?"
+    }
+   ],
+   "activite": "Observation du texte ; réponses aux questions",
+   "reponses": [
+    {
+     "n": 1,
+     "r": "Non : il demande de les ranger. C’est une action voulue, pas une action déjà faite."
+    },
+    {
+     "n": 2,
+     "r": "Il lui souhaite de réussir à l’examen."
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "II-Contrat pédagogique",
+   "technique": "Exposé",
+   "modalite": "Groupe classe",
+   "consigne": "Écouter l’enseignant présenter l’objectif de la séance en langage d’élève : à la fin de la séance, tu dois être capable de identifier la valeur du subjonctif (souhait, ordre, obligation ou doute) dans au moins 4 phrases sur 5.",
+   "texte": "",
+   "questions": [],
+   "activite": "Écoute de l’objectif ; reformulation par un élève",
+   "reponses": [],
+   "evaluation": null,
+   "temps": 3,
+   "observ": ""
+  },
+  {
+   "titre": "III-Vérification des prérequis",
+   "technique": "Q.R",
+   "modalite": "Groupe classe",
+   "consigne": "Répondre oralement aux trois questions.",
+   "texte": "",
+   "questions": [
+    {
+     "n": 3,
+     "q": "Cite deux modes du verbe que tu connais."
+    },
+    {
+     "n": 4,
+     "q": "Conjugue « finir » au présent de l’indicatif avec « nous »."
+    },
+    {
+     "n": 5,
+     "q": "Quel petit mot se place souvent devant un verbe au subjonctif ?"
+    }
+   ],
+   "activite": "Rappel des notions déjà vues",
+   "reponses": [
+    {
+     "n": 3,
+     "r": "Réponses possibles : l’indicatif, l’impératif, le subjonctif, le conditionnel."
+    },
+    {
+     "n": 4,
+     "r": "nous finissons"
+    },
+    {
+     "n": 5,
+     "r": "« que »"
+    }
+   ],
+   "evaluation": null,
+   "temps": 5,
+   "observ": ""
+  },
+  {
+   "titre": "IV-Acquisitions nouvelles",
+   "sousEtapes": [
+    {
+     "titre": "A-Imprégnation",
+     "technique": "Observation",
+     "modalite": "Individuel puis groupe classe",
+     "consigne": "Lire silencieusement le corpus écrit au tableau, puis répondre aux questions de repérage.",
+     "texte": "1. Que Dieu te protège pendant ton voyage.\n2. Je veux que tu fasses tes devoirs avant le dîner.\n3. Il faut que nous arrivions à l’heure à l’école.\n4. Je doute qu’il vienne à la réunion ce soir.\n5. Que chacun prenne sa place en silence.\n6. Je souhaite que tu réussisses à ton examen.",
+     "questions": [
+      {
+       "n": 6,
+       "q": "Dans la phrase 1, quel verbe est au subjonctif ?"
+      },
+      {
+       "n": 7,
+       "q": "Dans la phrase 2, quel verbe est au subjonctif ?"
+      },
+      {
+       "n": 8,
+       "q": "Dans la phrase 3, quel verbe est au subjonctif ?"
+      },
+      {
+       "n": 9,
+       "q": "Dans la phrase 4, quel verbe est au subjonctif ?"
+      },
+      {
+       "n": 10,
+       "q": "Dans la phrase 5, quel verbe est au subjonctif ?"
+      },
+      {
+       "n": 11,
+       "q": "Dans la phrase 6, quel verbe est au subjonctif ?"
+      },
+      {
+       "n": 12,
+       "q": "Quel petit mot précède ces verbes au subjonctif ?"
+      }
+     ],
+     "activite": "Lecture silencieuse du corpus ; repérage",
+     "reponses": [
+      {
+       "n": 6,
+       "r": "protège"
+      },
+      {
+       "n": 7,
+       "r": "fasses"
+      },
+      {
+       "n": 8,
+       "r": "arrivions"
+      },
+      {
+       "n": 9,
+       "r": "vienne"
+      },
+      {
+       "n": 10,
+       "r": "prenne"
+      },
+      {
+       "n": 11,
+       "r": "réussisses"
+      },
+      {
+       "n": 12,
+       "r": "Le mot « que » : seul en début de phrase, ou après un verbe comme vouloir, souhaiter, douter ou après « il faut »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 12,
+     "observ": ""
+    },
+    {
+     "titre": "B-Fixation",
+     "technique": "Q.R et classement",
+     "modalite": "Sous-groupes puis groupe classe",
+     "consigne": "Observer le même corpus, comparer les réponses des sous-groupes, puis répondre aux questions.",
+     "texte": "1. Que Dieu te protège pendant ton voyage.\n2. Je veux que tu fasses tes devoirs avant le dîner.\n3. Il faut que nous arrivions à l’heure à l’école.\n4. Je doute qu’il vienne à la réunion ce soir.\n5. Que chacun prenne sa place en silence.\n6. Je souhaite que tu réussisses à ton examen.",
+     "questions": [
+      {
+       "n": 13,
+       "q": "Quelles phrases expriment un souhait ?"
+      },
+      {
+       "n": 14,
+       "q": "Quelles phrases expriment un ordre ou une volonté ?"
+      },
+      {
+       "n": 15,
+       "q": "Quelle phrase exprime une obligation ?"
+      },
+      {
+       "n": 16,
+       "q": "Quelle phrase exprime un doute ?"
+      },
+      {
+       "n": 17,
+       "q": "Que remarque-t-on sur « que » dans les phrases 1 et 5 ?"
+      }
+     ],
+     "activite": "Observation et comparaison ; mise en commun",
+     "reponses": [
+      {
+       "n": 13,
+       "r": "Les phrases 1 et 6."
+      },
+      {
+       "n": 14,
+       "r": "Les phrases 2 et 5."
+      },
+      {
+       "n": 15,
+       "r": "La phrase 3 : « Il faut que nous arrivions à l’heure. »"
+      },
+      {
+       "n": 16,
+       "r": "La phrase 4 : « Je doute qu’il vienne. »"
+      },
+      {
+       "n": 17,
+       "r": "« Que » commence la phrase : il n’y a pas de verbe principal devant lui."
+      }
+     ],
+     "evaluation": null,
+     "temps": 15,
+     "observ": ""
+    },
+    {
+     "titre": "C-Synthèse",
+     "technique": "Exposé",
+     "modalite": "Groupe classe",
+     "consigne": "Formuler la règle avec la classe, puis copier « Je retiens » dans le cahier.",
+     "texte": "",
+     "questions": [
+      {
+       "n": 18,
+       "q": "Quelles valeurs le subjonctif peut-il exprimer ?"
+      },
+      {
+       "n": 19,
+       "q": "Où trouve-t-on le subjonctif ?"
+      }
+     ],
+     "activite": "Formulation de la règle ; copie du « Je retiens »",
+     "reponses": [
+      {
+       "n": 18,
+       "r": "Le souhait, l’ordre ou la volonté, l’obligation et le doute."
+      },
+      {
+       "n": 19,
+       "r": "Souvent après « que » : dans une phrase seule ou après un verbe de volonté, de souhait, de doute ou après « il faut »."
+      }
+     ],
+     "evaluation": null,
+     "temps": 5,
+     "observ": ""
+    }
+   ]
+  },
+  {
+   "titre": "V-Évaluation",
+   "technique": "Exercice écrit",
+   "modalite": "Individuel",
+   "consigne": "Réaliser l’exercice écrit, puis corriger individuellement et collectivement.",
+   "texte": "",
+   "questions": [],
+   "activite": "Réalisation de l’exercice écrit ; correction",
+   "reponses": [],
+   "evaluation": {
+    "mode": "écrit",
+    "contexte": "Tu viens d’étudier les valeurs modales du subjonctif.",
+    "tache": "Identifier la valeur modale (souhait, ordre, obligation ou doute) du verbe au subjonctif dans chacune des cinq phrases données.",
+    "consigne": "Sur ta feuille de copie, recopie chaque phrase, souligne le verbe au subjonctif et écris sa valeur : souhait, ordre, obligation ou doute.",
+    "items": [
+     "Que la paix règne dans notre pays.",
+     "Il faut que tu lises ce livre avant lundi.",
+     "Je doute que le train arrive à l’heure.",
+     "Qu’il sorte immédiatement de la classe.",
+     "Je souhaite que ta mère guérisse vite."
+    ],
+    "cle": [
+     "règne : souhait",
+     "lises : obligation",
+     "arrive : doute",
+     "sorte : ordre",
+     "guérisse : souhait"
+    ],
+    "bareme": "1 point par réponse juste",
+    "seuil": "4 sur 5"
+   },
+   "temps": 15,
+   "observ": ""
+  }
+ ],
+ "apprenant": {
+  "titre": "Les valeurs modales du subjonctif",
+  "intro": "Le subjonctif présente une action souhaitée, voulue ou douteuse, et non une action déjà faite.",
+  "corpus": [
+   "Que Dieu te protège pendant ton voyage.",
+   "Je veux que tu fasses tes devoirs avant le dîner.",
+   "Il faut que nous arrivions à l’heure à l’école.",
+   "Je doute qu’il vienne à la réunion ce soir.",
+   "Que chacun prenne sa place en silence.",
+   "Je souhaite que tu réussisses à ton examen."
+  ],
+  "retenir": "Le subjonctif présente une action qu’on souhaite, qu’on ordonne ou dont on doute.\nIl exprime le souhait, l’ordre, l’obligation ou le doute.\nOn le trouve souvent après « que ».\nIl suit des verbes comme vouloir, souhaiter, douter, ou « il faut que ».\nExemple : Je souhaite que tu réussisses à ton examen.",
+  "tableau": {
+   "head": [
+    "Phrase",
+    "Verbe au subjonctif",
+    "Valeur",
+    "Introduit par"
+   ],
+   "rows": [
+    [
+     "1",
+     "protège",
+     "souhait",
+     "que (en début de phrase)"
+    ],
+    [
+     "2",
+     "fasses",
+     "volonté (ordre)",
+     "je veux que"
+    ],
+    [
+     "3",
+     "arrivions",
+     "obligation",
+     "il faut que"
+    ],
+    [
+     "4",
+     "vienne",
+     "doute",
+     "je doute que"
+    ],
+    [
+     "5",
+     "prenne",
+     "ordre",
+     "que (en début de phrase)"
+    ],
+    [
+     "6",
+     "réussisses",
+     "souhait",
+     "je souhaite que"
+    ]
+   ]
+  },
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie chaque phrase et je souligne le verbe au subjonctif.",
+    "items": [
+     "Que Dieu bénisse notre famille.",
+     "Il faut que tu partes avant la nuit.",
+     "Je veux que tu me dises la vérité.",
+     "Je doute qu’elle soit au village."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la valeur du subjonctif : souhait, ordre, obligation ou doute.",
+    "items": [
+     "Que tous les élèves se taisent.",
+     "Il faut que nous réparions la clôture.",
+     "Je souhaite que tu gagnes le match.",
+     "Je ne crois pas qu’il vienne demain."
+    ],
+    "seuil": "3 sur 4",
+    "rappel": "Il me faut au moins 3 réponses justes sur 4."
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. bénisse ; 2. partes ; 3. dises ; 4. soit. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Exercice 2 : 1. ordre ; 2. obligation ; 3. souhait ; 4. doute. Barème : 1 point par réponse juste. Seuil : 3 sur 4.",
+  "Évaluation (étape V) : 1. règne : souhait ; 2. lises : obligation ; 3. arrive : doute ; 4. sorte : ordre ; 5. guérisse : souhait. Barème : 1 point par réponse juste. Seuil : 4 sur 5.",
+  "Remarque : « Que Dieu te protège » est un souhait et « Que chacun prenne sa place » est un ordre : dans les deux cas, « que » commence la phrase."
+ ]
+}
