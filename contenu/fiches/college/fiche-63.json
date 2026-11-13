@@ -1,0 +1,300 @@
+{
+ "id": 10063,
+ "meta": {
+  "t": "Le respect des signes de ponctuation",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Lecture",
+  "img": "e",
+  "r": 4.8,
+  "fn": 63,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Lecture",
+  "titre": "Fiche d’exploitation de la matrice MF5.1.1 : Le respect des signes de ponctuation",
+  "codeMatrice": "MF5.1.1",
+  "categorie": "Le respect des règles de la prosodie",
+  "savoirEssentiel": "Le respect des signes de ponctuation",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative au respect des règles de la prosodie.",
+  "situation": "Informée de l’organisation d’un concours pour la sélection des dix meilleurs lecteurs en français par le ministère de la Culture et des Arts, Claude Exaucée, qui rêve de devenir journaliste un jour, n’a pas hésité à s’inscrire sur la liste des participants. En attendant le jour du concours, elle s’entraîne à lire à haute voix divers textes de son manuel de lecture devant toute la famille. Au cours de cette épreuve, la future journaliste ainsi que ses frères et sœurs se rendent compte que la candidate a encore des lacunes s’agissant du respect des signes de ponctuation, de l’articulation (ton), de l’utilisation de la gestuelle, des mimes et groupes de souffle. Pour pallier cette faiblesse, son père, enseignant à la retraite, a sélectionné pour elle cinq textes contenant l’essentiel des signes de ponctuation. Claude Exaucée s’entraîne à lire en présence de son père en faisant l’effort, cette fois-ci, de respecter les règles de la prosodie.",
+  "numero": 1,
+  "date": "",
+  "duree": "2 h",
+  "support": "Texte de lecture ; tableau noir ; cahier de l’élève",
+  "documentation": "Grammaire 5e, éd. Belin ; Le petit bon usage ; Dictionnaire ; Programme APS 5e, matrice MF5.1.1"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un texte ?",
+     "app": "Les apprenants répondent :\nR1 : Un texte est une suite ordonnée de mots ayant un sens."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : De quoi est formé un texte ?",
+     "app": "Les apprenants répondent :\nR2 : Un texte est formé d’une ou de plusieurs phrases."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’on peut encore trouver dans un texte ?",
+     "app": "Les apprenants répondent :\nR3 : Des mots et des signes de ponctuation."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de la participation de Claude Exaucée à un concours de lecture organisé par le ministère de la Culture et des Arts."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté éprouve Claude Exaucée ?",
+     "app": "Les apprenants répondent :\nR2 : Elle ne respecte pas correctement les signes de ponctuation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait son père pour l’aider à surmonter cette difficulté ?",
+     "app": "Les apprenants répondent :\nR3 : Il a sélectionné pour elle cinq textes contenant l’essentiel des signes de ponctuation."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Claude Exaucée, nous allons apprendre à respecter les signes de ponctuation en lisant.",
+     "app": "Les apprenants expriment le besoin d’apprendre à respecter les signes de ponctuation."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire silencieusement le texte proposé.",
+    "Relever les différents signes de ponctuation contenus dans le texte.",
+    "Indiquer la structure du texte (subdivision du texte en parties ou en paragraphes).",
+    "Dégager le rôle de chaque signe de ponctuation.",
+    "Préciser le ton que l’on prend devant chaque signe de ponctuation.",
+    "Lire à haute voix le texte en respectant les signes de ponctuation."
+   ],
+   "lignes": [
+    {
+     "ens": "L’enseignant organise la classe en sous-groupes et fait nommer un rapporteur dans chaque sous-groupe.",
+     "app": "Les apprenants se mettent en sous-groupes et désignent un rapporteur."
+    },
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte proposé au tableau et demande de le lire silencieusement.",
+     "texte": "Samedi matin, Mireille accompagne sa mère au marché. Il y a beaucoup de monde : les vendeuses crient, les enfants courent, les motos klaxonnent.\n« Combien coûte ce régime de bananes ? » demande la mère. La vendeuse répond avec un grand sourire : « Deux mille francs, maman ! »\nMireille regarde les tomates, les oignons, le poisson fumé et les arachides. Quel beau marché ! Elle voudrait tout acheter.",
+     "app": "Les apprenants lisent silencieusement le texte."
+    },
+    {
+     "ens": "L’enseignant lit le texte à haute voix, puis fait lire quelques apprenants.",
+     "app": "Les apprenants écoutent, puis quelques-uns lisent le texte à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de relever les différents signes de ponctuation contenus dans le texte.\nQ1 : Quels sont les signes de ponctuation utilisés dans le texte ?",
+     "app": "Les rapporteurs relèvent les signes de ponctuation et les présentent.\nR1 : Le point, la virgule, le deux-points, le point d’interrogation, le point d’exclamation et les guillemets."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande d’indiquer la structure du texte.\nQ2 : Ce texte a combien de parties ou de paragraphes ?",
+     "app": "Les apprenants comptent les paragraphes.\nR2 : Ce texte a trois paragraphes."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de dégager le rôle de chaque signe de ponctuation dans chaque partie du texte.\nQ3 : Quel est le rôle du point et de la virgule ?\nQ4 : Quel est le rôle du point d’interrogation et du point d’exclamation ?\nQ5 : Quel est le rôle des deux-points et des guillemets ?",
+     "app": "Les apprenants observent les phrases du texte et expliquent.\nR3 : Le point marque la fin d’une phrase. La virgule sépare des mots ou des groupes de mots à l’intérieur d’une phrase.\nR4 : Le point d’interrogation marque une question. Le point d’exclamation marque la surprise, la joie ou l’admiration.\nR5 : Les deux-points annoncent une parole ou une suite de mots. Les guillemets encadrent les paroles rapportées."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de préciser le ton que l’on prend devant chaque signe de ponctuation.\nQ6 : Que fait-on avec sa voix devant chaque signe de ponctuation ?",
+     "app": "Les apprenants essaient à voix haute, phrase par phrase, puis répondent.\nR6 : Devant le point, on baisse le ton et on fait une longue pause. Devant la virgule, on fait une courte pause. Devant le point d’interrogation, on monte le ton. Devant le point d’exclamation, on lit avec expression. Après les deux-points, on annonce ce qui suit ; dans les guillemets, on change de voix."
+    },
+    {
+     "ens": "L’enseignant fait lire le texte partie par partie, puis fait lire le texte en entier par quelques apprenants.",
+     "app": "Les apprenants lisent en respectant les pauses et les tons étudiés."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les signes de ponctuation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Cite deux signes de ponctuation.",
+     "app": "Les apprenants répondent :\nR2 : La virgule et le point."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment lit-on devant une virgule et devant un point ?",
+     "app": "Les apprenants répondent :\nR3 : Devant une virgule, on fait une courte pause ; devant un point, on baisse le ton et on fait une longue pause."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "oral",
+    "action": 6,
+    "item": "Lis cet extrait de texte en observant une courte pause devant les virgules et une longue pause devant les points.",
+    "situation": "Lis le texte suivant en respectant les règles de la prosodie étudiées en classe.",
+    "criteres": [
+     "Il marque une courte pause devant chaque virgule.",
+     "Il marque une longue pause devant chaque point.",
+     "Il baisse le ton à la fin de chaque phrase.",
+     "Il lit sans hésiter ni s’arrêter à un endroit sans signe de ponctuation."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit l’extrait au tableau et donne l’item : « Lis cet extrait de texte en observant une courte pause devant les virgules et une longue pause devant les points. »",
+     "texte": "Le soir, la famille se retrouve autour du repas. Papa raconte sa journée, maman sourit, les enfants écoutent. Tout le monde est content.",
+     "app": "Exécution : chaque apprenant appelé lit l’extrait à haute voix, seul, en respectant les pauses."
+    },
+    {
+     "ens": "L’enseignant écoute, note les réussites et corrige les erreurs de pause.",
+     "app": "Les autres apprenants écoutent leurs camarades et les aident à corriger les erreurs."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Lecture : Le respect des signes de ponctuation",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La ponctuation est l’ensemble des signes graphiques utilisés dans un texte pour organiser les phrases, marquer les pauses, exprimer une intention et faciliter la compréhension du message."
+   },
+   {
+    "type": "p",
+    "text": "Il existe plusieurs signes de ponctuation, entre autres :"
+   },
+   {
+    "type": "h",
+    "text": "1- Le point ( . )"
+   },
+   {
+    "type": "p",
+    "text": "Il marque la fin d’une phrase à l’écrit et montre que l’on doit baisser le ton de la voix à l’oral."
+   },
+   {
+    "type": "ex",
+    "text": "Il y a des crocodiles."
+   },
+   {
+    "type": "nb",
+    "text": "Il indique une pause forte."
+   },
+   {
+    "type": "h",
+    "text": "2- La virgule ( , )"
+   },
+   {
+    "type": "p",
+    "text": "Elle sépare des mots ou des groupes de mots dans une phrase. À l’oral, on fait une courte pause."
+   },
+   {
+    "type": "ex",
+    "text": "Mireille regarde les tomates, les oignons et le poisson fumé."
+   },
+   {
+    "type": "h",
+    "text": "3- Le point d’interrogation ( ? )"
+   },
+   {
+    "type": "p",
+    "text": "Il termine une question. À l’oral, on monte le ton de la voix."
+   },
+   {
+    "type": "ex",
+    "text": "Combien coûte ce régime de bananes ?"
+   },
+   {
+    "type": "h",
+    "text": "4- Le point d’exclamation ( ! )"
+   },
+   {
+    "type": "p",
+    "text": "Il exprime la surprise, la joie ou l’admiration. À l’oral, on lit avec expression."
+   },
+   {
+    "type": "ex",
+    "text": "Quel beau marché !"
+   },
+   {
+    "type": "h",
+    "text": "5- Les deux-points ( : ) et les guillemets ( « » )"
+   },
+   {
+    "type": "p",
+    "text": "Les deux-points annoncent une parole ou une suite de mots. Les guillemets encadrent les paroles rapportées. À l’oral, on change de voix."
+   },
+   {
+    "type": "ex",
+    "text": "La vendeuse répond : « Deux mille francs, maman ! »"
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Les signes de ponctuation organisent le texte et guident la voix.",
+     "Devant le point, je baisse le ton et je fais une longue pause.",
+     "Devant la virgule, je fais une courte pause.",
+     "Devant le point d’interrogation, je monte le ton.",
+     "Devant le point d’exclamation, je lis avec expression."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Texte à lire",
+    "text": "Samedi matin, Mireille accompagne sa mère au marché. Il y a beaucoup de monde : les vendeuses crient, les enfants courent, les motos klaxonnent.\n« Combien coûte ce régime de bananes ? » demande la mère. La vendeuse répond avec un grand sourire : « Deux mille francs, maman ! »\nMireille regarde les tomates, les oignons, le poisson fumé et les arachides. Quel beau marché ! Elle voudrait tout acheter."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève les signes de ponctuation de chaque phrase.",
+    "items": [
+     "Quelle belle journée !",
+     "Mon frère achète du riz, du sel et de l’huile.",
+     "Où vas-tu, Ruth ?",
+     "Le maître dit : « Rangez vos livres. »"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’associe chaque signe à ce que je fais avec ma voix.",
+    "texte": "Choix : ton qui monte ; courte pause ; ton qui baisse avec une longue pause ; lecture avec expression.",
+    "items": [
+     "Le point ( . )",
+     "La virgule ( , )",
+     "Le point d’interrogation ( ? )",
+     "Le point d’exclamation ( ! )"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je recopie chaque phrase avec les signes de ponctuation qui manquent, puis je la lis à haute voix.",
+    "items": [
+     "Samedi matin Mireille accompagne sa mère au marché",
+     "Elle achète des mangues des bananes et du manioc",
+     "Quel prix demande la vendeuse"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. le point d’exclamation et le point ; 2. les virgules et le point ; 3. la virgule et le point d’interrogation ; 4. les deux-points, les guillemets et le point.",
+  "Exercice 2 : le point : ton qui baisse avec une longue pause ; la virgule : courte pause ; le point d’interrogation : ton qui monte ; le point d’exclamation : lecture avec expression.",
+  "Exercice 3 : Samedi matin, Mireille accompagne sa mère au marché. — Elle achète des mangues, des bananes et du manioc. — Quel prix demande la vendeuse ?",
+  "Évaluation : voir les critères d’observation de l’étape 5 ; chaque apprenant lit l’extrait seul."
+ ]
+}
