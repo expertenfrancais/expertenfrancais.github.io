@@ -1,0 +1,277 @@
+{
+ "id": 245,
+ "meta": {
+  "t": "La métaphore",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "f",
+  "r": 4.8,
+  "mf": "MF5.5.4"
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’une métaphore ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on dit « Cet homme est fort **comme** un lion », on fait une comparaison. Si l’on dit simplement « Cet homme **est** un lion », on fait une **métaphore**."
+    },
+    {
+     "type": "def",
+     "label": "La métaphore",
+     "text": "La **métaphore** est une figure de style qui **rapproche deux réalités sans outil de comparaison** (sans *comme*, *tel*, *pareil à*…). Le comparé est directement **identifié** au comparant."
+    },
+    {
+     "type": "table",
+     "title": "Comparaison et métaphore",
+     "head": [
+      "Comparaison",
+      "Métaphore"
+     ],
+     "rows": [
+      [
+       "Il est fort **comme** un lion.",
+       "Cet homme est un lion."
+      ],
+      [
+       "Ses yeux brillent **comme** des étoiles.",
+       "Ses yeux sont des étoiles."
+      ],
+      [
+       "Un outil de comparaison relie les deux éléments.",
+       "Il n’y a **pas** d’outil de comparaison."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Une métaphore est une comparaison « **raccourcie** » : on supprime l’outil et on affirme que le comparé **est** le comparant.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient une métaphore ?",
+     "options": [
+      "Elle est belle comme une fleur.",
+      "Elle est une fleur dans la maison.",
+      "Elle ressemble à une fleur."
+     ],
+     "answer": 1,
+     "explain": "Il n’y a pas d’outil de comparaison : le comparé « elle » est identifié à une fleur."
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître et décoder une métaphore",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Comme la comparaison, la métaphore comporte un **comparé** et un **comparant**. Mais le **point commun** n’est pas dit : c’est au lecteur de le trouver."
+    },
+    {
+     "type": "ex",
+     "text": "*La vie est un long fleuve.* Comparé : la vie. Comparant : un long fleuve. Point commun : elle s’écoule sans s’arrêter.",
+     "label": "Décoder"
+    },
+    {
+     "type": "h",
+     "text": "Les formes de la métaphore"
+    },
+    {
+     "type": "table",
+     "title": "Trois façons de construire une métaphore",
+     "head": [
+      "Forme",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Le verbe **être** relie le comparé et le comparant",
+       "Le soleil **est** une pièce d’or dans le ciel."
+      ],
+      [
+       "Un complément du nom",
+       "Un **tapis de neige** recouvre le sol."
+      ],
+      [
+       "Un verbe ou un adjectif employé au sens imagé",
+       "Il **dévore** un roman. (il le lit avec avidité)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour décoder une métaphore, posez-vous la question : *à quoi cette image ressemble-t-elle, et pourquoi ?*",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Un tapis de feuilles recouvre le sol », quel est le comparant ?",
+     "options": [
+      "les feuilles",
+      "un tapis",
+      "le sol"
+     ],
+     "answer": 1,
+     "explain": "Les feuilles sont comparées à un tapis : « tapis » est le comparant."
+    }
+   ]
+  },
+  {
+   "t": "La métaphore filée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand l’image est **développée sur plusieurs mots ou plusieurs phrases**, on parle de **métaphore filée**."
+    },
+    {
+     "type": "ex",
+     "text": "*La vie est un voyage : on y embarque à la naissance, on y rencontre des escales, on y traverse des tempêtes.* Tous les mots (*voyage, embarquer, escales, tempêtes*) appartiennent au champ lexical du voyage.",
+     "label": "Une métaphore filée"
+    },
+    {
+     "type": "tip",
+     "text": "Pour écrire une métaphore filée, choisissez un comparant (le voyage, la mer, un jardin…) et cherchez plusieurs mots de son champ lexical.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Qu’est-ce qui caractérise une métaphore filée ?",
+     "options": [
+      "Elle contient « comme ».",
+      "L’image est développée sur plusieurs mots.",
+      "Elle est toujours très courte."
+     ],
+     "answer": 1,
+     "explain": "La métaphore filée prolonge la même image avec des mots du même champ lexical."
+    }
+   ]
+  },
+  {
+   "t": "À quoi sert la métaphore ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La métaphore donne de la **force** et de l’**originalité** au texte. Elle permet de **faire voir** une réalité, d’exprimer une **émotion** et de dire beaucoup avec peu de mots."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Elle crée une **image** : *Le temps est un voleur.*",
+      "Elle exprime une **émotion** : *Cette enfant est un rayon de soleil.*",
+      "Elle rend le texte plus **concis** et plus **poétique**."
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Il faut garder des **images cohérentes**. Dans « Le navire de l’État est sur de bons rails », on mélange le bateau et le train : l’image est maladroite.",
+     "label": "Éviter le mélange des images"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est l’effet principal de la métaphore ?",
+     "options": [
+      "Elle rend le texte plus imagé et plus expressif.",
+      "Elle allonge la phrase.",
+      "Elle pose une question."
+     ],
+     "answer": 0,
+     "explain": "La métaphore crée une image forte qui frappe l’imagination du lecteur."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "Indiquez si chaque phrase contient une comparaison ou une métaphore.",
+     "items": [
+      "Ses joues sont rouges comme des pommes.",
+      "Ses joues sont des pommes mûres.",
+      "Il court pareil à une flèche.",
+      "Cette enfant est un rayon de soleil.",
+      "Le village dort sous un manteau de neige."
+     ],
+     "corrige": [
+      "comparaison (comme)",
+      "métaphore",
+      "comparaison (pareil à)",
+      "métaphore",
+      "métaphore (un manteau de neige)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Relevez le comparé et le comparant de chaque métaphore.",
+     "items": [
+      "Ses yeux sont deux perles noires.",
+      "L’avion est un oiseau d’acier.",
+      "La vie est un long fleuve."
+     ],
+     "corrige": [
+      "comparé : ses yeux ; comparant : deux perles noires",
+      "comparé : l’avion ; comparant : un oiseau d’acier",
+      "comparé : la vie ; comparant : un long fleuve"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transformez chaque comparaison en métaphore (réponses possibles).",
+     "items": [
+      "Il est rusé comme un renard.",
+      "La colère est brûlante comme le feu.",
+      "La mer est calme comme un miroir."
+     ],
+     "corrige": [
+      "C’est un vrai renard.",
+      "La colère est un feu brûlant.",
+      "La mer est un miroir."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complétez chaque phrase par une métaphore de votre choix (réponses possibles).",
+     "items": [
+      "La nuit est …",
+      "Mon cartable est …",
+      "Le sourire de ma grand-mère est …"
+     ],
+     "corrige": [
+      "un manteau noir sur la ville",
+      "une valise de plomb",
+      "un rayon de soleil"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "label": "À retenir",
+     "items": [
+      "La **métaphore** rapproche deux réalités **sans outil de comparaison**.",
+      "Elle comporte un **comparé**, un **comparant** et un point commun qu’il faut deviner.",
+      "Elle se construit avec **être**, un complément du nom ou un verbe au sens imagé.",
+      "La **métaphore filée** développe la même image sur plusieurs mots.",
+      "Il faut rester **cohérent** dans les images."
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le soleil est une pièce d’or dans le ciel », que trouve-t-on ?",
+     "options": [
+      "Une comparaison",
+      "Une métaphore",
+      "Une personnification"
+     ],
+     "answer": 1,
+     "explain": "Aucun outil de comparaison : le soleil est directement identifié à une pièce d’or."
+    }
+   ]
+  }
+ ]
+}
