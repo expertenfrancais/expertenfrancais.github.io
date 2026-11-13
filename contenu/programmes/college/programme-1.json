@@ -109,6 +109,23 @@
     },
     {
      "type": "h",
+     "text": "Les dispositions pratiques : la finalité de chaque niveau"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Éducation préscolaire** : préparer l’enfant à s’adapter dans les meilleures conditions à l’enseignement primaire ; assurer son développement intellectuel, moral et physique ; lui donner l’occasion d’exercer ses capacités et ses aptitudes par la manipulation, le jeu, les exercices d’observation et la prise en charge de certaines tâches ; renforcer chez lui le sens de l’ordre et de la régularité (articles 11 et 12 de la loi scolaire).",
+      "**Enseignement primaire** : dispenser les savoirs, les compétences et les valeurs qui permettent de poursuivre les études au secondaire ; assurer l’acquisition de la lecture, de l’écriture, du calcul, des notions scientifiques élémentaires et des notions d’éducation civique et morale ; initier l’enfant au travail productif, à l’éducation physique et esthétique (article 13).",
+      "**Secondaire, premier cycle général** : élargir et approfondir la formation générale reçue au primaire, en vue d’élever les connaissances théoriques et pratiques nécessaires à la poursuite des études (articles 15 et 16).",
+      "**Secondaire, premier cycle technique** : former des ouvriers et des employés qualifiés ; les travaux pratiques menés dans les centres d’apprentissage, les collèges d’enseignement technique et les centres de métiers sont orientés vers la résolution de problèmes concrets (articles 15 et 16).",
+      "**Secondaire, deuxième cycle** : assurer la poursuite des études supérieures ; son développement doit répondre aux besoins en personnels qualifiés (extrait de l’article 17).",
+      "**Second cycle de l’enseignement professionnel** : former des techniciens moyens, avec les connaissances théoriques et les savoirs pratiques nécessaires à l’exercice d’une profession sur le marché de l’emploi (extrait de l’article 21).",
+      "**Enseignement technique et professionnel** : il s’adresse aux personnes qui ont fait un choix professionnel ; il vise à développer les compétences qui permettent d’assumer pleinement son rôle de travailleur dans un champ d’activités donné, en tenant compte de la structure économique et des besoins du marché du travail ; il contribue aussi au développement technologique, à la croissance culturelle et socio-économique du milieu.",
+      "**Enseignement supérieur** : former les cadres scientifiques et techniques de toutes les branches (extrait de l’article 22)."
+     ]
+    },
+    {
+     "type": "h",
      "text": "4. L’organisation du système éducatif"
     },
     {
@@ -118,15 +135,15 @@
     {
      "type": "list",
      "items": [
-      "**l’éducation préscolaire**, de trois ans ;",
-      "**l’enseignement primaire**, de six ans, sanctionné par le Certificat d’Études Primaires Élémentaires (CEPE) à la suite d’un examen d’État au terme du CM2 ;",
-      "**l’enseignement secondaire**, de six ou sept ans, en deux cycles : le premier cycle (quatre ans, de la 6e à la 3e) est sanctionné par le Brevet d’Études du Premier Cycle ; le second cycle (deux ou trois ans) est sanctionné par le Baccalauréat ;",
-      "**l’enseignement supérieur**, dispensé dans les écoles, les instituts et les facultés."
+      "**l’éducation préscolaire**, de trois ans, assurée par des centres d’éducation préscolaire ;",
+      "**l’enseignement primaire**, de six ans, assuré par des écoles primaires et sanctionné par le Certificat d’Études Primaires Élémentaires (CEPE), à la suite d’un examen d’État au terme du CM2 qui valide les six années de la scolarité primaire ;",
+      "**l’enseignement secondaire**, assuré par les centres de métiers et par les établissements d’enseignement secondaire général, technique et professionnel. Il dure six ou sept ans et comprend deux cycles : le premier cycle (quatre ans, de la 6e à la 3e) est sanctionné par le Brevet d’Études du Premier Cycle, par le Brevet d’Études Techniques ou par tout autre diplôme professionnel équivalent, à la suite d’un examen d’État qui valide les trois ou quatre années du premier cycle ; le second cycle (deux ou trois ans) est sanctionné par le Baccalauréat ou par un diplôme professionnel, à la suite d’un examen d’État qui valide les deux ou trois années du secondaire ou d’une formation professionnelle ;",
+      "**l’enseignement supérieur**, dispensé dans les Écoles, les Instituts et les Facultés."
      ]
     },
     {
      "type": "p",
-     "text": "Le premier cycle du secondaire général vise l’élargissement et l’approfondissement de la formation générale reçue au primaire, en vue de la poursuite des études. Les examens d’État sont organisés par le Ministère de l’Éducation nationale, seul habilité à délivrer les diplômes d’État."
+     "text": "Le premier cycle du secondaire général vise l’élargissement et l’approfondissement de la formation générale reçue au primaire, en vue de la poursuite des études. Les examens d’État sont organisés par le Ministère de l’Éducation nationale, seul habilité à délivrer les diplômes d’État. Les conditions de passage en classe supérieure sont fixées par décret pris en Conseil des ministres. Les modalités de redoublement ou d’exclusion, par degré d’enseignement et par cycle, sont fixées par décret pris en Conseil des ministres."
     },
     {
      "type": "h",
@@ -198,6 +215,89 @@
      ]
     },
     {
+     "type": "table",
+     "title": "Masse horaire hebdomadaire par discipline au collège (6e, 5e, 4e, 3e)",
+     "head": [
+      "Discipline",
+      "6e",
+      "5e",
+      "4e",
+      "3e"
+     ],
+     "rows": [
+      [
+       "Français",
+       "6 h (21,43 %)",
+       "6 h (21,43 %)",
+       "6 h (21,43 %)",
+       "6 h (18,75 %)"
+      ],
+      [
+       "Histoire, Géographie, ECMP",
+       "4 h (14,29 %)",
+       "4 h (14,29 %)",
+       "4 h (14,29 %)",
+       "4 h (12,5 %)"
+      ],
+      [
+       "Anglais",
+       "4 h (14,29 %)",
+       "4 h (14,29 %)",
+       "3 h (10,71 %)",
+       "4 h (12,5 %)"
+      ],
+      [
+       "Mathématiques",
+       "5 h (17,86 %)",
+       "5 h (17,86 %)",
+       "5 h (17,86 %)",
+       "5 h (15,63 %)"
+      ],
+      [
+       "Sciences physiques",
+       "3 h (10,71 %)",
+       "3 h (10,71 %)",
+       "4 h (14,29 %)",
+       "5 h (15,63 %)"
+      ],
+      [
+       "SVT",
+       "2 h (7,14 %)",
+       "2 h (7,14 %)",
+       "2 h (7,14 %)",
+       "4 h (12,5 %)"
+      ],
+      [
+       "Dessin",
+       "1 h (3,57 %)",
+       "1 h (3,57 %)",
+       "1 h (3,57 %)",
+       "1 h (3,12 %)"
+      ],
+      [
+       "Musique",
+       "1 h (3,57 %)",
+       "1 h (3,57 %)",
+       "1 h (3,57 %)",
+       "1 h (3,12 %)"
+      ],
+      [
+       "EPS",
+       "2 h (7,14 %)",
+       "2 h (7,14 %)",
+       "2 h (7,14 %)",
+       "2 h (6,25 %)"
+      ],
+      [
+       "Total",
+       "28 h (100 %)",
+       "28 h (100 %)",
+       "28 h (100 %)",
+       "32 h (100 %)"
+      ]
+     ]
+    },
+    {
      "type": "h",
      "text": "6. Les langues dans l’enseignement"
     },
@@ -211,7 +311,7 @@
     },
     {
      "type": "p",
-     "text": "L’évaluation des élèves se fait par :"
+     "text": "Le décret n° 96-174 du 15 avril 1996 fixe les normes applicables à l’école, avec la loi n° 25-95 du 17 novembre 1995 qui modifie la loi scolaire n° 008/90 du 6 septembre 1990 portant réorganisation du système éducatif (articles 9, 26, 27 et 28). L’évaluation des élèves se fait par :"
     },
     {
      "type": "list",
