@@ -117,23 +117,24 @@ const romanOf=t=>{const i=String(t).indexOf("-");return i>0&&i<5?{n:t.slice(0,i)
 const totalOf=s=>s.sousEtapes?s.sousEtapes.reduce((a,x)=>a+(+x.temps||0),0):(+s.temps||0);
 function pageFiche(d,html){
  const j=lireFiche(d),I=docInfo(d),en=j&&j.entete||{},et=j?j.etapes:[];
- const id=d.id,duree=en.duree||"",num=en.numero||"";
- const bar=et.length?'<div class="f-bar2">'+et.map(s=>'<i style="flex:'+Math.max(totalOf(s),1)+'"></i>').join("")+'</div>':"";
+ const aps=!!(j&&j.approche==="APS"),id=d.id,duree=en.duree||"",num=en.numero||"",dureeTxt=typeof duree==="number"?duree+" min":String(duree);
+ const bar=et.length?'<div class="f-bar2">'+et.map(s=>'<i style="flex:'+(aps?1:Math.max(totalOf(s),1))+'"></i>').join("")+'</div>':"";
  const lst=et.length?'<ul class="f-lst">'+et.map(s=>{const r=romanOf(s.titre);
+  if(aps)return '<li><span class="f-num">'+esc(r.n)+'</span><span>'+esc(r.t)+'</span></li>';
   return '<li><span class="f-num">'+esc(r.n)+'</span><span>'+esc(r.t)+'</span><small>'+totalOf(s)+' min</small></li>'+
    (s.sousEtapes?'<li class="sub">'+s.sousEtapes.map(x=>{const a=romanOf(x.titre);return esc(a.n+" · "+a.t)+" ("+(+x.temps||0)+" min)"}).join(" · ")+'</li>':"")}).join("")+'</ul>':"";
  const pres=`<article class="f-pres">
       <div class="f-bar" style="margin-top:calc(env(safe-area-inset-top,0px) + 14px)"><a class="f-back" id="back" href="../../catalogue.html" aria-label="Retour">${svg(BACK)}</a>
         <div class="f-ttl"><small>Catalogue · Fiches · ${esc(d.n)}</small><b>Fiche pédagogique</b></div></div>
-      <section class="f-card"><div class="f-tags"><span class="f-tag">Fiche · ${esc(d.m)}</span><span class="f-tag">${esc(d.n)}</span><span class="f-tag g">Réservé aux enseignants</span></div>
+      <section class="f-card"><div class="f-tags"><span class="f-tag">Fiche${aps?" APS":""} · ${esc(d.m)}</span><span class="f-tag">${esc(d.n)}</span><span class="f-tag g">Réservé aux enseignants</span></div>
         <h1>${esc(d.t)}</h1><p class="f-desc">${esc(I.desc)}</p>
-        ${j?`<div class="f-stats"><div><small>Durée</small><b>${esc(duree)} min</b></div><div><small>Étapes</small><b>${et.length}</b></div><div><small>Fiche n°</small><b>${esc(num)}</b></div></div>`:""}</section>
-      ${j&&j.oo?`<section class="f-oo"><span class="f-lab">Objectif opérationnel</span><p>${esc(j.oo)}</p></section>`:""}
+        ${j?`<div class="f-stats"><div><small>Durée</small><b>${esc(dureeTxt)}</b></div><div><small>Étapes</small><b>${et.length}</b></div><div><small>Fiche n°</small><b>${esc(num)}</b></div></div>`:""}</section>
+      ${j&&j.oo?`<section class="f-oo"><span class="f-lab">Objectif opérationnel</span><p>${esc(j.oo)}</p></section>`:""}${aps&&en.savoirEssentiel?`<section class="f-oo"><span class="f-lab">Savoir essentiel</span><p>${esc(en.savoirEssentiel)}</p></section>`:""}
       ${j?`<section class="f-card"><h2>Le déroulement de la séance</h2>${bar}${lst}</section>`:""}
       <section class="f-card"><h2>Dans cette fiche</h2>
-        <div class="f-in"><i>1</i><span>Fiche du professeur : tableau de la séance</span></div>
-        <div class="f-in"><i>2</i><span>Page de l’apprenant : à distribuer</span></div>
-        <div class="f-in"><i>3</i><span>Corrigé enseignant avec barème</span></div></section>
+        <div class="f-in"><i>1</i><span>${aps?"Fiche de l’enseignant : en-tête et tableau à deux colonnes":"Fiche du professeur : tableau de la séance"}</span></div>
+        <div class="f-in"><i>2</i><span>Page de l’apprenant : à distribuer</span><em class="f-pay" hidden>Abonnés</em></div>
+        <div class="f-in"><i>3</i><span>Corrigé enseignant avec barème</span><em class="f-pay" hidden>Abonnés</em></div></section>
       <div class="f-btns"><a class="f-btn" href="../../fiche.html?n=${d.fn}">Ouvrir la fiche</a>
         <div class="f-btns2"><a class="f-btn alt" href="../../fiche.html?n=${d.fn}#apprenant">Page de l’apprenant</a><a class="f-btn alt" href="../../pdf.html?n=${d.fn}">Enregistrer en PDF</a></div></div>
       <span id="price" hidden></span><div id="lessons" hidden></div>
@@ -141,7 +142,7 @@ function pageFiche(d,html){
  let out=html.replace(/<article class="sheet"[\s\S]*?<\/article>/,()=>pres);
  out=out.replace('DOC_ID='+d.id+';','DOC_ID='+d.id+',FICHE_N='+d.fn+';');
  out=out.replace('<link rel="stylesheet" href="../../course.css">','<link rel="stylesheet" href="../../course.css">\n<link rel="stylesheet" href="../../fiche.css">');
- out=out.replace('<script src="../../course.js"></script>','<script src="../../course.js"></script>\n<script>/* Fiche : le bouton du bas ouvre la fiche, pas le PDF d’un cours */\ntry{if(canAccess(DOC_ID)){var g=document.getElementById("go");if(g){g.innerHTML=\'<span>Ouvrir la fiche</span><i>\'+\''+svg(CHEV).replace(/'/g,"\\'")+'\'+\'</i>\';g.onclick=function(){location.href=PAGE_BASE+"fiche.html?n="+FICHE_N}}}}catch(e){}</script>');
+ out=out.replace('<script src="../../course.js"></script>','<script src="../../course.js"></script>\n<script>/* Fiche : le bouton du bas ouvre la fiche, pas le PDF d’un cours */\ntry{if(canAccess(DOC_ID)){var g=document.getElementById("go");if(g){g.innerHTML=\'<span>Ouvrir la fiche</span><i>\'+\''+svg(CHEV).replace(/'/g,"\\'")+'\'+\'</i>\';g.onclick=function(){location.href=PAGE_BASE+"fiche.html?n="+FICHE_N}}}}catch(e){}\ntry{if(!canAccess(DOC_ID)){var pe=document.querySelectorAll(".f-pay");for(var i=0;i<pe.length;i++)pe[i].hidden=false}}catch(e){}</script>');
  return out}
 
 const DIRS=["cours","fiches","annales","exercices","evaluations","programmes"].map(n=>path.join(root,n));DIRS.forEach(x=>fs.mkdirSync(x,{recursive:true}));

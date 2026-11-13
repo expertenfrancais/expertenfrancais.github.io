@@ -32,7 +32,7 @@ function lireCatalogue(root){
   if(!Number.isInteger(j.id)){errs.push([rel,"id : nombre entier attendu"]);return}
   if(m.k!==k){errs.push([rel,"meta.k vaut « "+m.k+" » mais le fichier est dans contenu/"+TYPE_DIR[k]+"/ (type attendu : "+k+")"]);return}
   const d={id:j.id,img:m.img,t:m.t,k:m.k,n:m.n,m:m.m,r:typeof m.r==="number"?m.r:4.8};
-  if(k==="Fiches"){if(!Number.isInteger(m.fn)||m.fn<1){errs.push([rel,"meta.fn : numéro de fiche (1, 2, 3…) attendu"]);return}d.fn=m.fn}
+  if(k==="Fiches"){if(!Number.isInteger(m.fn)||m.fn<1){errs.push([rel,"meta.fn : numéro de fiche (1, 2, 3…) attendu"]);return}d.fn=m.fn;if(m.ap==="APS")d.ap="APS"}
   if(k==="Annales"){if(!Number.isInteger(m.an)||m.an<1){errs.push([rel,"meta.an : numéro d’annale (1, 2, 3…) attendu"]);return}
    if(j.id!==20000+m.an){errs.push([rel,"id : 20000 + meta.an attendu (soit "+(20000+m.an)+")"]);return}d.an=m.an}
   if(k==="Exercices"){if(!Number.isInteger(m.ex)||m.ex<1){errs.push([rel,"meta.ex : numéro de série d’exercices (1, 2, 3…) attendu"]);return}
@@ -51,6 +51,7 @@ const q=s=>JSON.stringify(s);
 function ligne(d){
  const p=["id:"+d.id];
  if(d.fn!==undefined)p.push("fn:"+d.fn);
+ if(d.ap!==undefined)p.push("ap:"+q(d.ap));
  if(d.an!==undefined)p.push("an:"+d.an);
  if(d.ex!==undefined)p.push("ex:"+d.ex);
  if(d.ev!==undefined)p.push("ev:"+d.ev);

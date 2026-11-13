@@ -156,6 +156,145 @@ function validerFiche(name,j){
   if(t.length>25&&!/[.!?;:»)’]$/.test(t.trim())&&MOT_COUPE.test(t.trim())&&!/\.(rappel|consigne|enonce|activite|texte)$/.test(w))warn(name,w+" : phrase peut-être coupée (« …"+t.trim().slice(-20)+" »)");
  });
 }
+
+/* ===== Fiches APS (contenu/fiches/<cycle>/fiche-<n>.json avec "type":"fiche" et "approche":"APS"), règles : contenu/SPEC-FICHES.md (§ Fiches APS) et GUIDE-FICHES.md ===== */
+const TITRES_APS=["1-Vérification des prérequis","2-Décodage de la situation d’apprentissage","3-Exploitation du tableau de spécification","4-Synthèse","5-Évaluation"];
+const BLOCS_APS=["h","p","def","list","ex","nb","texte","tableau","retenir"];
+const nrm=t=>String(t||"").replace(/\*+/g,"").replace(/\s+/g," ").trim();
+/* Lit la matrice officielle (guide pédagogique APS 6e = programme-2, 5e = programme-4) : compétence, situation, activités du tableau de spécifications */
+function matriceAPS(niveau,code){
+ const pg={"6e":2,"5e":4}[niveau];if(!pg)return null;
+ let g;try{g=JSON.parse(fs.readFileSync(path.join(dir,"programmes","college","programme-"+pg+".json"),"utf8"))}catch(e){return null}
+ const M={competence:"",situation:"",activites:[]};let on=false,trouve=false,act=null;
+ (g.sections||[]).forEach(sec=>(sec.blocs||[]).forEach(b=>{
+  if(b.type==="h"&&/^MF\d/.test(b.text)){on=b.text.indexOf(code+" ")===0||b.text.indexOf(code+":")===0||b.text===code;if(on)trouve=true;return}
+  if(!on)return;
+  if(b.type==="p"&&/^\*\*Compétence/.test(b.text)&&!M.competence)M.competence=nrm(b.text.replace(/^\*\*Compétence\s*:\*\*/,""));
+  if(b.type==="p"&&/^\*\*Situation/.test(b.text)&&!M.situation)M.situation=nrm(b.text.replace(/^\*\*Situation\s*:\*\*/,""));
+  if(b.type==="p"&&/^\*Activité/.test(b.text))act=[];
+  if(b.type==="list"&&act&&!/^\*\*Évaluation/.test(b.text||"")){M.activites.push(b.items.map(nrm));act=null}}));
+ return trouve?M:null}
+function validerFicheAPS(name,j){
+ const d=ALLDOCS.find(x=>x.id===j.id);
+ if(!d){err(name,"id "+j.id+" absent du catalogue (lancer node outils/generer-pages.js)");return}
+ if("contenu/"+name!==contentFile(d))err(name,"emplacement attendu : "+contentFile(d));
+ if(!Number.isInteger(d.fn)||d.fn<1)err(name,"meta.fn (numéro de fiche : 1, 2, 3…) manquant");
+ else{
+  if(j.id!==10000+d.fn)err(name,"id : 10000 + fn attendu (soit "+(10000+d.fn)+")");
+  if(base(name)!=="fiche-"+d.fn+".json")err(name,"le nom du fichier doit être fiche-"+d.fn+".json");
+  if(ALLDOCS.filter(x=>x.k==="Fiches"&&x.fn===d.fn).length>1)err(name,"numéro de fiche (fn) en double");
+ }
+ if(d.ap!=="APS")err(name,"meta.ap : « APS » attendu dans la clé meta (fiche APS)");
+ if(ids.has(j.id))err(name,"id en double");ids.add(j.id);
+ if(d.k!=="Fiches")err(name,"type « fiche » mais k:\""+d.k+"\" dans data.js (attendu : Fiches)");
+ fiches++;
+ if(j.oo!==undefined)err(name,"« oo » n’existe pas dans une fiche APS (pas d’objectif opérationnel : la fiche suit la situation et le tableau de spécification)");
+ /* en-tête */
+ const h=j.entete||{};
+ ["niveau","discipline","sousDiscipline","titre","categorie","savoirEssentiel","competence","situation","support"].forEach(k=>{if(!str(h[k]))err(name,"entete."+k+" manquant")});
+ if(!(Number.isInteger(h.numero)&&h.numero>0))err(name,"entete.numero : entier positif attendu");
+ if(!(str(h.duree)||(Number.isInteger(h.duree)&&h.duree>0)))err(name,"entete.duree manquante (ex. « 2 h » ou « 55 min », telle que la répartition annuelle la donne)");
+ if(str(h.niveau)&&h.niveau!==d.n)err(name,"entete.niveau (« "+h.niveau+" ») différent de meta.n (« "+d.n+" »)");
+ if(h.niveau!=="6e"&&h.niveau!=="5e")warn(name,"fiche APS hors 6e et 5e : le programme APS ne couvre que la 6e et la 5e");
+ /* la compétence et le tableau de spécification doivent venir de la matrice officielle */
+ let M=null;
+ if(!str(h.codeMatrice)||!/^MF[56]\.\d+\.\d+$/.test(h.codeMatrice))err(name,"entete.codeMatrice : code de la matrice attendu (ex. MF5.1.1)");
+ else{
+  if(str(h.niveau)&&h.codeMatrice.charAt(2)!==h.niveau.charAt(0))err(name,"entete.codeMatrice « "+h.codeMatrice+" » ne correspond pas au niveau « "+h.niveau+" »");
+  M=matriceAPS(h.niveau,h.codeMatrice);
+  if(!M)err(name,"matrice "+h.codeMatrice+" introuvable dans le guide pédagogique APS (node outils/matrice-aps.js "+h.niveau+" --liste)");
+  else{
+   if(M.competence&&nrm(h.competence)!==M.competence)err(name,"entete.competence : doit reprendre mot pour mot la compétence de la matrice "+h.codeMatrice+" (ne jamais la fabriquer)");
+   if(M.situation&&nrm(h.situation)!==M.situation)warn(name,"entete.situation différente de la situation de la matrice "+h.codeMatrice+" : à garder seulement si c’est voulu");
+  }
+ }
+ /* étapes */
+ const E=Array.isArray(j.etapes)?j.etapes:[];
+ if(E.length!==5||TITRES_APS.some((t,i)=>!E[i]||E[i].titre!==t))err(name,"étapes : attendu dans l’ordre « "+TITRES_APS.join(" », « ")+" »");
+ const nbQ=(t)=>{const m=[];String(t||"").replace(/(?:^|[\s(])Q(\d+)\s*[:.\-–]/g,(x,n)=>{m.push(+n);return x});return m};
+ const nbR=(t)=>{const m=[];String(t||"").replace(/(?:^|[\s(])R(\d+)\s*[:.\-–]/g,(x,n)=>{m.push(+n);return x});return m};
+ E.forEach((e,i)=>{
+  if(!e)return;
+  const w=name+" étape "+(e.titre||i+1);
+  if(!Array.isArray(e.lignes)||!e.lignes.length){err(w,"lignes : au moins une ligne (ens / app) attendue");return}
+  let Q=[],R=[];
+  e.lignes.forEach((l,k)=>{
+   const x=w+", ligne "+(k+1);
+   if(!str(l.ens))err(x,"ens (action de l’enseignant) manquant");
+   if(!str(l.app))err(x,"app (activité des apprenants) manquante : chaque action de l’enseignant appelle une activité ou une réponse");
+   Q=Q.concat(nbQ(l.ens));R=R.concat(nbR(l.app));
+   if(l.a!==undefined&&!(Number.isInteger(l.a)&&l.a>=1))err(x,"a : numéro d’action de la table de spécification (1, 2, 3…) attendu");
+   if(l.texte!==undefined&&!str(l.texte))err(x,"texte vide");
+  });
+  Q.forEach((n,k)=>{if(n!==k+1)err(w,"questions : Q"+n+" à la place de Q"+(k+1)+" (la numérotation recommence à Q1 à chaque étape)")});
+  const rq=new Set(R),qq=new Set(Q);
+  Q.forEach(n=>{if(!rq.has(n))err(w,"la question Q"+n+" n’a pas de réponse attendue R"+n)});
+  R.forEach(n=>{if(!qq.has(n))err(w,"la réponse R"+n+" ne répond à aucune question")});
+  if(i===1&&Q.length<3)err(w,"le décodage comporte au minimum 3 questions (thème, difficulté, démarche) : "+Q.length+" trouvée(s)");
+  if(i===3&&Q.length<1)warn(w,"la synthèse : prévoir des questions Q1, Q2… avec les réponses attendues");
+ });
+ /* étape 3 : actions de la table de spécification, dans l’ordre */
+ const T=E[2]||{},S=T.specification;
+ if(!arrS(S))err(name,"étape 3 : « specification » (liste des actions du tableau de spécification, dans l’ordre officiel) manquante");
+ else{
+  if(M&&M.activites.length&&!M.activites.some(A=>A.length===S.length&&A.every((x,k)=>x===nrm(S[k]))))err(name,"étape 3 : « specification » doit reprendre mot pour mot les actions d’une activité du tableau de spécification de la matrice "+h.codeMatrice+" (node outils/matrice-aps.js "+h.niveau+" "+h.codeMatrice+")");
+  const ev=(E[4]||{}).evaluation,reserve=ev&&ev.action!==undefined?ev.action:null;
+  if(reserve!==null&&reserve!==S.length)err(name,"evaluation.action : seule la dernière action ("+S.length+") peut être réservée à l’évaluation");
+  let prec=0;const vues=new Set();
+  arr(T.lignes).forEach((l,k)=>{
+   if(l.a===undefined)return;
+   if(l.a>S.length)err(name,"étape 3, ligne "+(k+1)+" : action "+l.a+" inexistante (la table en compte "+S.length+")");
+   if(l.a<prec)err(name,"étape 3, ligne "+(k+1)+" : l’ordre des actions n’est pas respecté (action "+l.a+" après l’action "+prec+")");
+   prec=Math.max(prec,l.a);vues.add(l.a)});
+  for(let n=1;n<=S.length;n++){
+   if(n===reserve){if(vues.has(n))err(name,"action "+n+" : réservée à l’évaluation, elle ne doit pas figurer à l’étape 3");continue}
+   if(!vues.has(n))err(name,"étape 3 : aucune ligne pour l’action "+n+" de la table de spécification (« "+S[n-1].slice(0,60)+"… ») : aucune action ne doit être supprimée")}
+ }
+ /* étape 5 : évaluation */
+ const V=E[4];
+ if(V){
+  const ev=V.evaluation;
+  if(!ev||typeof ev!=="object")err(name,"étape 5 : objet evaluation attendu (mode, item, criteres)");
+  else{
+   if(!["écrit","oral","pratique"].includes(ev.mode))err(name,"evaluation.mode : écrit, oral ou pratique");
+   if(!str(ev.item))err(name,"evaluation.item manquant");
+   if(!arrS(ev.criteres))err(name,"evaluation.criteres : liste de ce que l’enseignant observe (corrigé) attendue");
+  }
+ }
+ /* page de l’apprenant */
+ const a=j.apprenant;
+ if(!a||typeof a!=="object")err(name,"apprenant manquant");
+ else{
+  if(!str(a.titre))err(name,"apprenant.titre manquant");
+  if(!Array.isArray(a.blocs)||!a.blocs.length)err(name,"apprenant.blocs : la trace écrite (définition, règles, exemples, à retenir) est attendue");
+  else{
+   a.blocs.forEach((b,k)=>{const w="apprenant.blocs["+k+"]";
+    if(!b||!BLOCS_APS.includes(b.type)){err(name,w+" : type inconnu (« "+(b&&b.type)+" » ; permis : "+BLOCS_APS.join(", ")+")");return}
+    if(["list","retenir"].includes(b.type)){if(!arrS(b.items))err(name,w+" : items attendus")}
+    else if(b.type==="tableau"){if(!arrS(b.head)||!Array.isArray(b.rows)||b.rows.some(r=>!Array.isArray(r)||r.length!==b.head.length))err(name,w+" : head et rows de même largeur attendus")}
+    else if(!str(b.text))err(name,w+" : text manquant")});
+   if(!a.blocs.some(b=>b&&b.type==="retenir"))err(name,"apprenant.blocs : un bloc « retenir » (éléments essentiels à retenir) est attendu");
+   if(!a.blocs.some(b=>b&&b.type==="ex"))warn(name,"apprenant.blocs : aucun exemple (bloc « ex »)");
+   if(!a.blocs.some(b=>b&&b.type==="def"))warn(name,"apprenant.blocs : aucune définition (bloc « def »), à garder seulement si la leçon n’en demande pas");
+  }
+  if(!Array.isArray(a.exercices)||!a.exercices.length)err(name,"apprenant.exercices : au moins 2 exercices attendus (reconnaissance, application, manipulation)");
+  else{
+   if(a.exercices.length<3)warn(name,"apprenant.exercices : le guide APS propose 3 exercices progressifs (reconnaissance, application, manipulation)");
+   a.exercices.forEach((x,i)=>{const w="exercice "+(i+1);
+    if(!str(x.enonce))err(name,w+" : enonce manquant");
+    if(x.items!==undefined){
+     if(!arrS(x.items))err(name,w+" : items attendus (liste de textes)");
+     else x.items.forEach((t,k)=>{if(/^\d+\s*[.)]\s/.test(t))err(name,w+", item "+(k+1)+" : numéro écrit dans le texte (la numérotation est automatique)")})}
+    else if(!str(x.texte))err(name,w+" : items ou texte attendus")})}
+ }
+ if(!arrS(j.corrige))err(name,"corrige : liste de textes attendue (réponses des exercices de la page de l’apprenant)");
+ /* typographie */
+ strings(j,"",[]).forEach(([w,t])=>{
+  if(t.includes('"'))err(name,w+" : guillemet droit interdit (utiliser « » et ’)");
+  if(/[a-zà-ÿ]'[a-zà-ÿ]/i.test(t))warn(name,w+" : apostrophe droite (utiliser ’)");
+  if(/!’|’!/.test(t))err(name,w+" : symbole parasite");
+  if(t.length>25&&!/[.!?;:»)’…]$/.test(t.trim())&&MOT_COUPE.test(t.trim())&&!/\.(rappel|consigne|enonce|ens|app|texte|text)$/.test(w))warn(name,w+" : phrase peut-être coupée (« …"+t.trim().slice(-20)+" »)")});
+}
 const arr=v=>Array.isArray(v)?v:[];
 
 /* Catalogue de data.js à jour ? (il est construit automatiquement à partir de la clé "meta" des fichiers) */
@@ -170,7 +309,11 @@ function listeJson(d,out){fs.readdirSync(d,{withFileTypes:true}).forEach(e=>{con
  if(e.isDirectory())listeJson(f,out);else if(e.name.endsWith(".json"))out.push(path.relative(dir,f).split(path.sep).join("/"))});return out}
 for(const name of listeJson(dir,[]).sort((a,b)=>(parseInt(base(a))||0)-(parseInt(base(b))||0)||a.localeCompare(b))){
  let j;try{j=JSON.parse(fs.readFileSync(path.join(dir,name),"utf8"))}catch(e){if(!lu.errs.some(x=>x[0]===name))err(name,"JSON invalide ("+e.message+")");continue}
- if(j&&j.type==="fiche"){validerFiche(name,j);continue}
+ if(j&&j.type==="fiche"){if(j.approche==="APS")validerFicheAPS(name,j);else validerFiche(name,j);continue}
+ if(j&&j.meta&&j.meta.mf!==undefined){/* code(s) du programme APS (MF6.x.y en 6e, MF5.x.y en 5e), facultatif */
+  const L=Array.isArray(j.meta.mf)?j.meta.mf:[j.meta.mf],NV={"6e":"6","5e":"5"};
+  if(!L.length||L.some(c=>typeof c!=="string"||!/^MF\d\.\d+\.\d+$/.test(c)))err(name,"meta.mf : code ou liste de codes de la forme MF6.2.1 attendu");
+  else if(NV[j.meta.n]&&L.some(c=>c.charAt(2)!==NV[j.meta.n]))err(name,"meta.mf : le code doit commencer par MF"+NV[j.meta.n]+". en "+j.meta.n)}
  const demo=base(name).startsWith("_");
  if(!Array.isArray(j.sections)||!j.sections.length){err(name,"sections manquantes");continue}
  if(!demo){
