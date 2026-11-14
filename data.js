@@ -20,6 +20,9 @@ var DEMO=true; /* mettre false avec un vrai serveur : les achats restent « en a
    Élève / étudiant : mensuel 1000, trimestriel 2000, annuel 3000. Enseignant : mensuel 2500, trimestriel 5000, annuel 10000. */
 var EST_ELEVE=userRole()!=="enseignant"; /* élève, étudiant et particulier : mêmes tarifs */
 var PLANS=[{id:"mois",n:"Mensuel",d:30,pr:EST_ELEVE?1000:2500},{id:"trim",n:"Trimestriel",d:90,pr:EST_ELEVE?2000:5000},{id:"an",n:"Annuel",d:365,pr:EST_ELEVE?3000:10000}]; /* élève : 1000 / 2000 / 3000 ; enseignant : 2500 / 5000 / 10000. À garder identiques à public.formule() dans supabase/03-abonnement-codes.sql */
+/* Mois gratuit offert à toute première inscription (créé côté serveur : supabase/04-essai-gratuit.sql ; plan « essai »). */
+var PLAN_ESSAI={id:"essai",n:"Essai gratuit",d:30};
+function planOf(id){return id==="essai"?PLAN_ESSAI:PLANS.filter(function(x){return x.id===id})[0]}
 function isSubscribed(){var s=ls("sub",{});return !!s.end&&Date.parse(s.end)>Date.now()}
 function achete(id){return ACHAT&&ls("bought",[]).indexOf(id)>-1} /* les anciens achats « démo » restés dans l’appareil ne comptent plus tant que l’achat à l’unité est désactivé (ACHAT=false) */
 function canAccess(id){return GRATUIT||isSubscribed()||achete(id)}
@@ -418,6 +421,51 @@ var ALLDOCS=[
  {id:10061,fn:61,img:IMG.e,t:"Le vocabulaire des loisirs",k:"Fiches",n:"3e",m:"Vocabulaire",pr:25,r:4.8},
  {id:10062,fn:62,img:IMG.e,t:"La métonymie",k:"Fiches",n:"3e",m:"Grammaire",pr:25,r:4.8},
  {id:10063,fn:63,ap:"APS",img:IMG.e,t:"Le respect des signes de ponctuation",k:"Fiches",n:"5e",m:"Lecture",pr:25,r:4.8},
+ {id:10064,fn:64,ap:"APS",img:IMG.a,t:"Le groupe nominal",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10065,fn:65,ap:"APS",img:IMG.b,t:"L’accord de l’adjectif qualificatif",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10066,fn:66,ap:"APS",img:IMG.c,t:"Le groupe verbal",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10067,fn:67,ap:"APS",img:IMG.d,t:"Le présentatif (la phrase à présentatif)",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10068,fn:68,ap:"APS",img:IMG.e,t:"La phrase impérative",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10069,fn:69,ap:"APS",img:IMG.f,t:"Les valeurs et l’emploi du présent de l’indicatif",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10070,fn:70,ap:"APS",img:IMG.g,t:"La préfixation et la suffixation",k:"Fiches",n:"6e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10071,fn:71,ap:"APS",img:IMG.h,t:"La phrase déclarative",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10072,fn:72,ap:"APS",img:IMG.a,t:"La phrase exclamative",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10073,fn:73,ap:"APS",img:IMG.b,t:"La phrase interrogative",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10074,fn:74,ap:"APS",img:IMG.b,t:"L’écriture des verbes en -yer",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10075,fn:75,ap:"APS",img:IMG.c,t:"Le sens propre des mots",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10076,fn:76,ap:"APS",img:IMG.d,t:"Le groupe verbal : verbe + complément circonstanciel",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10077,fn:77,ap:"APS",img:IMG.e,t:"Le groupe verbal : verbe + adjectif qualificatif attribut du sujet",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10078,fn:78,ap:"APS",img:IMG.f,t:"Le sens figuré des mots",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10079,fn:79,ap:"APS",img:IMG.g,t:"Le pluriel des noms composés : nom + nom",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10080,fn:80,ap:"APS",img:IMG.h,t:"Les valeurs du mode subjonctif",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10081,fn:81,ap:"APS",img:IMG.a,t:"Le pluriel des noms composés : nom + adjectif qualificatif",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10082,fn:82,ap:"APS",img:IMG.c,t:"Les verbes du 1er groupe au présent du subjonctif",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10083,fn:83,ap:"APS",img:IMG.d,t:"Les verbes du 2e groupe au présent du subjonctif",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10084,fn:84,ap:"APS",img:IMG.e,t:"Le pluriel des noms en -s",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10085,fn:85,ap:"APS",img:IMG.f,t:"L’accord du participe passé employé seul",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10086,fn:86,ap:"APS",img:IMG.g,t:"L’accord du participe passé avec l’auxiliaire être",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10087,fn:87,ap:"APS",img:IMG.h,t:"L’accord du participe passé avec l’auxiliaire avoir",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10088,fn:88,ap:"APS",img:IMG.a,t:"Les valeurs et l’emploi du futur simple",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10089,fn:89,ap:"APS",img:IMG.b,t:"Les valeurs et l’emploi de l’imparfait",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10090,fn:90,ap:"APS",img:IMG.c,t:"Les valeurs et l’emploi du passé simple",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10091,fn:91,ap:"APS",img:IMG.d,t:"L’emploi des temps composés de l’indicatif",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10092,fn:92,ap:"APS",img:IMG.e,t:"Le sujet",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10093,fn:93,ap:"APS",img:IMG.f,t:"Le complément d’objet direct",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10094,fn:94,ap:"APS",img:IMG.g,t:"Le complément d’objet indirect",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10095,fn:95,ap:"APS",img:IMG.h,t:"Le discours direct et le discours indirect",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10096,fn:96,ap:"APS",img:IMG.a,t:"La juxtaposition",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10097,fn:97,ap:"APS",img:IMG.b,t:"La proposition coordonnée",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10098,fn:98,ap:"APS",img:IMG.c,t:"La proposition subordonnée relative",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10099,fn:99,ap:"APS",img:IMG.d,t:"Les conjonctions de subordination",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10100,fn:100,ap:"APS",img:IMG.e,t:"Le complément circonstanciel de lieu",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10101,fn:101,ap:"APS",img:IMG.f,t:"Le complément circonstanciel de temps",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10102,fn:102,ap:"APS",img:IMG.g,t:"Le complément circonstanciel de cause",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10103,fn:103,ap:"APS",img:IMG.h,t:"L’adjectif qualificatif : épithète et attribut du sujet",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10104,fn:104,ap:"APS",img:IMG.a,t:"La forme affirmative",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10105,fn:105,ap:"APS",img:IMG.b,t:"La forme négative",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10106,fn:106,ap:"APS",img:IMG.c,t:"La ponctuation",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10107,fn:107,ap:"APS",img:IMG.d,t:"Le verbe aller aux temps simples de l’indicatif",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10108,fn:108,ap:"APS",img:IMG.e,t:"Les niveaux de langue",k:"Fiches",n:"6e",m:"Vocabulaire",pr:25,r:4.8},
  {id:20002,an:2,img:IMG.b,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20003,an:3,img:IMG.b,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20004,an:4,img:IMG.b,t:"BEPC · Expression écrite · Session juillet 2025",k:"Annales",n:"3e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
@@ -903,3 +951,28 @@ var SYNC_KEYS=["favs","cart","studied","parts","scores","rates"];
     if(n===null)localStorage.removeItem("sub");else localStorage.setItem("sub",n);return true})
    .catch(function(){return false})};
  if(typeof setTimeout==="function"&&typeof sessionStorage!=="undefined"&&typeof PAGE_ABO==="undefined")setTimeout(function(){subRefresh().then(function(ch){if(ch)location.reload()})},1200)})();
+
+/* ===== Boîte de bienvenue : mois gratuit offert à l'inscription =====
+   S'affiche UNE seule fois par compte et par appareil, dans les premières 24 h du mois gratuit (plan « essai », créé par supabase/04-essai-gratuit.sql).
+   Un seul bouton : « Commencer ». Le drapeau « essai_vu_<id du compte> » évite de la remontrer. */
+(function(){
+ if(typeof document==="undefined"||typeof localStorage==="undefined")return;
+ function show(){
+  try{
+   var s=JSON.parse(localStorage.getItem("sub")||"null"),ses=JSON.parse(localStorage.getItem("sb_session")||"null");
+   if(!s||s.plan!=="essai"||!ses||!ses.user_id||!localStorage.getItem("user_name"))return;
+   var fin=Date.parse(s.end),reste=fin-Date.now();
+   if(!(reste>0)||reste<29*864e5)return; /* seulement juste après l'inscription */
+   var key="essai_vu_"+ses.user_id;if(localStorage.getItem(key)||document.getElementById("essaiBox"))return;
+   var d=document.createElement("div");d.id="essaiBox";d.setAttribute("role","dialog");d.setAttribute("aria-modal","true");d.setAttribute("aria-labelledby","essaiT");
+   d.style.cssText="position:fixed;inset:0;z-index:200;display:flex;align-items:center;justify-content:center;padding:20px;background:rgba(46,33,96,.55);font-family:inherit";
+   d.innerHTML='<div style="width:100%;max-width:380px;background:#fff;border-radius:28px;padding:28px 22px 22px;text-align:center;box-shadow:0 20px 50px rgba(46,33,96,.35)">'+
+    '<div style="width:64px;height:64px;margin:0 auto 14px;border-radius:50%;background:linear-gradient(135deg,#b29af4,#8c6fe0);display:flex;align-items:center;justify-content:center;font-size:32px">🎉</div>'+
+    '<h2 id="essaiT" style="margin:0 0 10px;font-size:21px;color:#2e2160">Félicitations !</h2>'+
+    '<p style="margin:0 0 20px;font-size:15px;line-height:1.55;color:#6b6490">Vous bénéficiez d’<b style="color:#2e2160">un mois gratuit</b> pour accéder à tous les contenus : cours, fiches pédagogiques complètes, exercices, évaluations et PDF.<br>Votre accès gratuit est valable jusqu’au <b style="color:#2e2160">'+fmtDate(s.end)+'</b>.</p>'+
+    '<button id="essaiOk" type="button" style="width:100%;height:52px;border:0;border-radius:26px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;font-family:inherit;font-weight:700;font-size:16px;cursor:pointer">Commencer</button></div>';
+   document.body.appendChild(d);
+   var b=document.getElementById("essaiOk");
+   b.onclick=function(){try{localStorage.setItem(key,"1")}catch(e){}d.remove();try{vib(15)}catch(e){}};
+  }catch(e){}}
+ if(typeof setTimeout==="function")setTimeout(show,1500)})();

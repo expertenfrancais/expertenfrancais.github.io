@@ -252,7 +252,7 @@ function setMode(m){mode=m;var s=m==="s";
   $("tabs").classList.toggle("s",s);$("sheet").classList.toggle("s",s);
   document.querySelectorAll(".tabs button").forEach(function(b){b.classList.toggle("on",b.dataset.m===m)});
   $("t").textContent=s?"Créer un compte":"Bon retour\u00a0!";
-  $("st").textContent=s?"Rejoignez-nous et commencez":"Connectez-vous pour continuer";
+  $("st").textContent=s?"Rejoignez-nous : 1 mois d’abonnement offert à l’inscription":"Connectez-vous pour continuer";
   $("gt").textContent=s?"S’inscrire":"Se connecter";
   if(SB_ON)$("us").placeholder=s?"Nom d’utilisateur":"E-mail";
   $("fg").style.display=s?"none":"";
