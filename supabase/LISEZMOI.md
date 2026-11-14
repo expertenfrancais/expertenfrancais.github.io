@@ -38,5 +38,12 @@ Vérification côté Supabase : « Authentication -> Users » et « Table Editor
 3. Ouvrez `admin.html` connecté avec ce compte : choisissez le profil (enseignant ou élève), la formule, un nombre, « Générer », puis copiez les codes. Donnez un code libre au client après son paiement ; notez son nom dans le champ « Note ».
 4. Test : générez 1 code, activez-le depuis un autre compte dans la page Abonnement, vérifiez « Abonnement actif ». Réessayez le même code : « Code invalide ou déjà utilisé ».
 
+## 9. Mois gratuit à la première inscription
+1. Supabase -> SQL Editor -> New query : collez `supabase/04-essai-gratuit.sql` (à lancer après le 03), puis Run (« Success »).
+2. Chaque nouveau compte (e-mail ou Google) reçoit automatiquement 30 jours d'abonnement (formule « Essai gratuit »). Les comptes déjà existants ne sont pas touchés.
+3. Si la personne active ensuite un code, sa durée s'ajoute à la fin de l'essai.
+4. Après l'inscription, une boîte « Félicitations ! Vous bénéficiez d'un mois gratuit… » avec un bouton « Commencer » s'affiche une seule fois (dans data.js).
+5. Test : créez un nouveau compte, ouvrez la page Abonnement : « Mois gratuit offert ✓ · 30 jours restants ». Une fiche pédagogique doit alors s'ouvrir en entier.
+
 ## 7. Sauvegarde des favoris, du panier et de la progression
 Supabase -> SQL Editor -> New query : collez `supabase/02-user-data.sql`, puis Run (« Success »). Les données de chaque compte sont alors retrouvées sur n'importe quel appareil.
