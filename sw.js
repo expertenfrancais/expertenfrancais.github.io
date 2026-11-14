@@ -1,9 +1,12 @@
 /* ===== sw.js : service worker (fonctionnement hors ligne) =====
    Placez ce fichier au même endroit que les pages. Quand vous modifiez une page,
    changez le numéro de VERSION pour que les utilisateurs reçoivent la mise à jour. */
-var VERSION = "v240";
+var VERSION = "v241";
 var CACHE="ressources-"+VERSION;
 var IMAGES="ressources-images";
+/* Contenus téléchargés par l’utilisateur (Paramètres > Télécharger les contenus) : conservés lors des mises à jour, rafraîchis quand le réseau répond. */
+var DLCACHE="telechargements";
+function refreshDL(req,res){caches.open(DLCACHE).then(function(c){return c.match(req,{ignoreSearch:true}).then(function(h){if(h)return c.put(req,res)})}).catch(function(){})}
 /* Les fiches pédagogiques (dossier fiches/) ne sont pas préchargées : elles sont gardées hors ligne à la première ouverture. */
 /* COURS et CONTENU (listes tenues à jour par outils/generer-pages.js) ne sont plus préchargés à l’installation :
    chaque cours est gardé hors ligne la première fois qu’on l’ouvre (voir l’écouteur « fetch » plus bas). */
@@ -20,7 +23,7 @@ self.addEventListener("install",function(e){
 
 self.addEventListener("activate",function(e){
   e.waitUntil(caches.keys().then(function(keys){
-    return Promise.all(keys.filter(function(k){return k!==CACHE&&k!==IMAGES}).map(function(k){return caches.delete(k)}))
+    return Promise.all(keys.filter(function(k){return k!==CACHE&&k!==IMAGES&&k!==DLCACHE}).map(function(k){return caches.delete(k)}))
   }).then(function(){return self.clients.claim()}))});
 
 function trim(name,max){
@@ -49,7 +52,7 @@ self.addEventListener("fetch",function(e){
   if(req.mode==="navigate"){
     e.respondWith(caches.match(req,{ignoreSearch:true}).then(function(hit){
       var net=fetch(req).then(function(res){
-        if(res&&res.ok){var copy=res.clone();caches.open(CACHE).then(function(c){c.put(req,copy)})}
+        if(res&&res.ok){var copy=res.clone();caches.open(CACHE).then(function(c){c.put(req,copy)});refreshDL(req,res.clone())}
         return res}).catch(function(){return null});
       if(hit){e.waitUntil(net);return hit}
       return net.then(function(r){return r||caches.match("index.html")}).then(function(r){return r||caches.match("login-app.html")})}));
@@ -59,7 +62,7 @@ self.addEventListener("fetch",function(e){
   if(url.origin===location.origin&&/\.(js|html|json)$/.test(url.pathname)){
     e.respondWith(caches.match(req).then(function(hit){
       var net=fetch(req).then(function(res){
-        if(res&&res.ok){var cp=res.clone();caches.open(CACHE).then(function(c){c.put(req,cp)})}
+        if(res&&res.ok){var cp=res.clone();caches.open(CACHE).then(function(c){c.put(req,cp)});refreshDL(req,res.clone())}
         return res}).catch(function(){return hit});
       if(hit){e.waitUntil(net);return hit}
       return net}));

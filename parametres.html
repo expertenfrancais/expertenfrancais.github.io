@@ -60,6 +60,8 @@ main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
 .rt b{display:block;font-size:14.5px;font-weight:600;color:var(--ink)}
 .rt small{display:block;margin-top:2px;font-size:12.5px;line-height:1.35;color:var(--sub)}
 .row.danger .rt b{color:var(--danger)}
+.dlbtn{flex:0 0 auto;border:0;border-radius:18px;padding:0 16px;height:36px;font:600 13px inherit;font-family:inherit;color:#fff;background:linear-gradient(145deg,var(--p1),var(--p2));cursor:pointer}.dlbtn.alt{background:var(--field);color:var(--link)}.dlbtn:disabled{opacity:.6}
+.dlbar{margin-top:8px;height:8px;border-radius:4px;background:var(--field);overflow:hidden}.dlbar i{display:block;height:100%;width:0;border-radius:4px;background:linear-gradient(90deg,var(--p1),var(--p2));transition:width .2s}.dlbar[hidden]{display:none}
 .new{display:inline-block;margin-left:8px;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;color:#fff;background:var(--danger);vertical-align:middle}
 .new[hidden]{display:none}
 @keyframes sp{to{transform:rotate(360deg)}}.spin svg{animation:sp 1s linear infinite}
@@ -133,6 +135,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
       <div class="row"><span class="ri soft" id="i-app"></span><span class="rt"><b>Installation</b><small id="appTxt"></small></span></div>
       <button class="row" id="installBtn" type="button" hidden><span class="ri" id="i-dl"></span><span class="rt"><b>Installer l’application</b></span></button>
       <button class="row" id="updBtn" type="button"><span class="ri" id="i-upd"></span><span class="rt"><b>Mettre à jour l’application<span class="new" id="updNew" hidden>Nouveau</span></b><small id="updTxt">Vérification de la version…</small></span></button>
+      <div class="row" id="dlRow"><span class="ri" id="i-dlall"></span><span class="rt"><b>Télécharger les contenus</b><small id="dlTxt">Pour lire cours, fiches et exercices sans connexion.</small><div class="dlbar" id="dlBar" hidden><i id="dlFill"></i></div></span><button class="dlbtn" id="dlBtn" type="button">Télécharger</button></div>
       <button class="row" id="clrCache" type="button"><span class="ri soft" id="i-cache"></span><span class="rt"><b>Vider les données hors ligne</b><small>Libère de l’espace. Les pages seront retéléchargées à la prochaine visite.</small></span></button>
     </div>
 
@@ -276,7 +279,55 @@ $("updBtn").onclick=doUpdate;
 checkUpd();
 window.addEventListener("online",function(){if(!updBusy)checkUpd()});
 
+/* ===== Télécharger tous les contenus pour les lire hors connexion =====
+   On télécharge, dans un cache à part (« telechargements », conservé lors des mises à jour), les pages et les fichiers de contenu
+   (cours, fiches, exercices, évaluations, programmes, annales) des cycles auxquels le compte a accès. Les règles d’accès (abonnement, cycle) restent appliquées hors ligne. */
+var DL_CACHE="telechargements",dlBusy=false,dlStop=false;
+function dlMeta(){return ls("dl_info",null)}
+function dlMo(n){return n>=1048576?(n/1048576).toFixed(1).replace(".",",")+" Mo":Math.max(1,Math.round(n/1024))+" Ko"}
+function dlPaint(){
+ var m=dlMeta(),b=$("dlBtn"),t=$("dlTxt");
+ $("dlBar").hidden=!dlBusy;
+ if(dlBusy){b.textContent="Annuler";b.className="dlbtn alt";return}
+ b.disabled=false;
+ if(m&&m.n){t.textContent="Téléchargé le "+fmtDate(m.at)+" · "+m.n+" contenus ("+dlMo(m.b)+"). Disponibles sans connexion.";b.textContent="Mettre à jour";b.className="dlbtn alt"}
+ else{t.textContent="Pour lire cours, fiches et exercices sans connexion.";b.textContent="Télécharger";b.className="dlbtn"}}
+function dlUrls(){
+ var u={};
+ DOCS.forEach(function(d){try{u[BASE+docFile(d)]=1;u[BASE+contentFile(d)]=1}catch(e){}});
+ ["index.html","catalogue.html","favoris.html","cours.html","lecon.html","fiche.html","pdf.html","cycles.html","profil.html","parametres.html","abonnement.html","contact.html","data.js","fiche.js","fiche.css","course.js","course.css","blocs.js","manifest.json"].forEach(function(x){u[BASE+x]=1});
+ return Object.keys(u)}
+function dlGo(){
+ if(!window.caches||!window.fetch)return toast("Non disponible sur ce navigateur");
+ if(!navigator.onLine)return toast("Connectez-vous à internet pour télécharger");
+ var urls=dlUrls();
+ if(!confirm("Télécharger "+urls.length+" fichiers (plusieurs Mo) pour les lire sans connexion ? Mieux vaut être en Wi‑Fi."))return;
+ dlBusy=true;dlStop=false;dlPaint();
+ var i=0,ok=0,bytes=0,done=0,fail=0,tot=urls.length,t=$("dlTxt");
+ caches.open(DL_CACHE).then(function(c){
+  function one(){
+   if(dlStop||i>=tot)return Promise.resolve();
+   var u=urls[i++];
+   return fetch(u,{cache:"reload"}).then(function(r){
+    if(!r.ok)throw 0;
+    return r.blob().then(function(bl){bytes+=bl.size;ok++;return c.put(u,new Response(bl,{status:200,headers:{"Content-Type":r.headers.get("Content-Type")||"application/octet-stream"}}))})})
+   .catch(function(){fail++}).then(function(){done++;
+    $("dlFill").style.width=Math.round(done*100/tot)+"%";t.textContent="Téléchargement… "+done+" / "+tot;
+    return one()})}
+  var w=[];for(var k=0;k<6;k++)w.push(one());
+  return Promise.all(w)})
+ .then(function(){
+  dlBusy=false;
+  if(dlStop){dlPaint();toast("Téléchargement annulé");return}
+  if(ok===0){dlPaint();return toast("Échec du téléchargement. Vérifiez votre connexion.")}
+  try{localStorage.setItem("dl_info",JSON.stringify({at:new Date().toISOString(),n:ok,b:bytes}))}catch(e){}
+  dlPaint();toast(fail?"Téléchargé ("+fail+" fichier"+(fail>1?"s":"")+" manquant"+(fail>1?"s":"")+")":"Contenus téléchargés ✓");vib(15)})
+ .catch(function(){dlBusy=false;dlPaint();toast("Espace insuffisant ou échec du téléchargement")})}
+$("i-dlall").innerHTML=ico("dl",20);
+$("dlBtn").onclick=function(){if(dlBusy){dlStop=true;return}dlGo()};
+dlPaint();
 $("clrCache").onclick=function(){
+ try{localStorage.removeItem("dl_info")}catch(e){}dlPaint();
  if(!window.caches)return toast("Non disponible sur ce navigateur");
  if(!confirm("Vider les données hors ligne ? Vous aurez besoin d’internet pour rouvrir les pages."))return;
  caches.keys().then(function(ks){return Promise.all(ks.map(function(k){return caches.delete(k)}))})
