@@ -2,7 +2,7 @@
 <html lang="fr" class="p-home">
 <head>
 <meta charset="utf-8">
-<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
+<script>/* Garde : sans profil (compte ou invité), aller à la connexion avant tout affichage ; l’invité garde l’accès */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html?next="+encodeURIComponent(location.pathname.split("/").pop()||"index.html"))}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -286,7 +286,7 @@ $("list").onclick=function(e){
 $("pgmore").onclick=function(){shown+=PAGE;render()};
 $("list").addEventListener("click",function(e){seeGroup(e,function(k,m){if(k)type=k;mats=[m];rs()})});
 $("nav").onclick=navClick;
-nav();render();cycleBar("list");subBanner("list");
+nav();render();cycleBar("list");guestBanner("list");subBanner("list");
 </script>
 </body>
 </html>

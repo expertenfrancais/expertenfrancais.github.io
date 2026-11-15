@@ -12,9 +12,9 @@ Règles d'économie :
 - Ne réécris jamais un fichier entier si tu peux modifier seulement les lignes concernées.
 - Avant de commencer, liste les fichiers que tu vas ouvrir ou modifier.
 - Ne fais rien d'autre que la tâche demandée.
-- Connexion, base de données et abonnement par codes déjà en place (Supabase) : ne touche ni à login-app.html, ni à admin.html, ni à abonnement.html, ni au bloc de sauvegarde à la fin de data.js, ni aux dossiers supabase/, ni aux clés localStorage (sb_*, sync_*), ni aux réglages GRATUIT, ACHAT, FICHES_VERROU, FICHES_LIBRES et PLANS de data.js, sauf si la tâche le dit. Ne me demande jamais de clé secrète (service_role) ni de mot de passe.
+- Connexion, base de données et abonnement par codes déjà en place (Supabase) : ne touche ni à login-app.html, ni à admin.html, ni à abonnement.html, ni au bloc de sauvegarde à la fin de data.js, ni aux dossiers supabase/, ni aux clés localStorage (sb_*, sync_*, dl_*), ni aux réglages GRATUIT, ACHAT, FICHES_VERROU, FICHES_LIBRES et PLANS de data.js, ni au mois gratuit (plan « essai » : supabase/04-essai-gratuit.sql, PLAN_ESSAI et planOf dans data.js, boîte « Félicitations »), ni au téléchargement hors ligne (dlRun, dlAuto dans data.js, ligne « Télécharger les contenus » de parametres.html, cache « telechargements » de sw.js), sauf si la tâche le dit. Ne me demande jamais de clé secrète (service_role) ni de mot de passe.
 
-Fin de chaque tâche : lance node outils/generer-pages.js https://expertenfrancais.github.io (toujours avec l'adresse du site), puis node outils/valider-contenu.js (0 erreur attendu), augmente VERSION dans sw.js de 1, puis donne-moi l'archive mise à jour (francais-app-gratuit-maj-vNNN.zip) et mets à jour PROJET.md (ligne « Mise à jour » avec la version et ce qui a changé, nombre de cours, dernier id de chaque type, version de sw.js). Si une règle ou un guide a changé, mets aussi à jour le guide concerné et PROMPTS.md.
+Fin de chaque tâche : lance node outils/generer-pages.js https://expertenfrancais.github.io (toujours avec l'adresse du site ; il régénère aussi contenu/index-versions.json, la liste d'empreintes qui permet aux utilisateurs de ne télécharger hors ligne que les fichiers nouveaux ou modifiés), puis node outils/valider-contenu.js (0 erreur attendu), augmente VERSION dans sw.js de 1, puis relance node outils/generer-versions.js si tu as modifié une page, un script (data.js, fiche.js, course.js…) ou un fichier de contenu après le générateur, puis donne-moi DEUX archives : le zip complet du projet (francais-app-complet-vNNN.zip) et le zip des seuls fichiers modifiés, avec leurs dossiers pour que je sache où les placer sur GitHub (francais-app-modifies-vNNN.zip ; il contient toujours sw.js et contenu/index-versions.json) ; ajoute-y chaque fichier SQL nouveau ou modifié de supabase/ et dis-moi s'il faut le coller dans Supabase ; puis mets à jour PROJET.md (ligne « Mise à jour » avec la version et ce qui a changé, nombre de cours, dernier id de chaque type, version de sw.js). Si une règle ou un guide a changé, mets aussi à jour le guide concerné et PROMPTS.md.
 
 Réponds en français, de façon courte. Si une information manque, pose une seule question.
 ```
@@ -321,3 +321,62 @@ Fichier à modifier à part ça : sw.js (VERSION seulement), PROJET.md (dernier 
 
 Fin : generer-pages, valider-contenu (0 erreur), archive complète et archive des seuls fichiers modifiés. Dis-moi en une phrase ce que tu as rédigé de mémoire et que je dois relire (règles de grammaire, exemples).
 ```
+
+---
+
+## 20. MOIS GRATUIT À L'INSCRIPTION, BOÎTE « FÉLICITATIONS », ABONNEMENT D'ESSAI
+
+```
+Tâche : [ex. passer le mois gratuit à 14 jours / le réserver à un profil / changer le texte de la boîte « Félicitations » / afficher le nombre de jours restants ailleurs].
+
+Fichiers à lire : PROJET.md (sections « Abonnement par codes d'activation » et « Mois gratuit à l'inscription »), supabase/04-essai-gratuit.sql, puis uniquement ce que la tâche demande : data.js (bloc « Boîte de bienvenue » à la toute fin, PLAN_ESSAI et planOf près de isSubscribed), abonnement.html, profil.html, login-app.html (texte de la page d'inscription).
+Comment ça marche : à la création d'un compte (e-mail ou Google), le déclencheur SQL handle_new_user écrit une ligne dans la table abonnements avec plan « essai » et fin = maintenant + 30 jours. L'application la lit comme n'importe quel abonnement (subRefresh) : isSubscribed() devient vrai, rien d'autre à brancher. La boîte « Félicitations » (un seul bouton « Commencer ») s'affiche une fois par compte et par appareil, dans les 24 premières heures de l'essai (clé localStorage essai_vu_<id du compte>). Un code activé ensuite s'ajoute à la fin de l'essai.
+Si tu changes la durée : modifie « interval '30 days' » dans supabase/04-essai-gratuit.sql ET le seuil de la boîte de bienvenue dans data.js (29*864e5 = durée de l'essai moins un jour), puis dis-moi exactement quoi coller dans Supabase (SQL Editor > New query > Run) : le script se relance sans risque. Les comptes déjà créés ne sont pas modifiés par le script.
+Ne touche pas à activer_code, ni aux tarifs (PLANS, TARIFS de admin.html, public.formule()).
+```
+
+---
+
+## 21. CONTENUS HORS LIGNE (téléchargement, mise à jour incrémentale, Wi‑Fi automatique)
+
+```
+Tâche : [ex. changer la liste des fichiers téléchargés / ajouter un type de contenu au téléchargement / changer la fréquence du téléchargement automatique / corriger un message].
+
+Fichiers à lire : PROJET.md (section « Hors ligne (sw.js) »), puis uniquement : data.js (bloc « Contenus hors ligne » à la fin : dlUrls, dlRun, dlAuto), parametres.html (ligne « Télécharger les contenus » et interrupteur Wi‑Fi), sw.js (DLCACHE, refreshDL, règle « index-versions.json »), outils/generer-versions.js.
+Comment ça marche :
+- Cache « telechargements » : séparé du cache de l'application, conservé quand VERSION change (sw.js ne le supprime pas à l'activation) ; rafraîchi par sw.js quand le réseau répond.
+- Liste des fichiers : dlUrls() (data.js) = pages et fichiers de contenu des documents que le compte peut voir (DOCS : cycle accessible, types autorisés selon le rôle) + une liste fixe de pages et scripts de base. Cette liste de base doit rester identique à celle de outils/generer-versions.js.
+- Mise à jour incrémentale : contenu/index-versions.json (généré par outils/generer-versions.js, appelé par generer-pages.js) donne l'empreinte de chaque fichier ; dlRun() compare avec dl_hash (localStorage) et ne télécharge que les fichiers nouveaux ou modifiés, supprime ceux qui ne sont plus dans la liste. Sans index-versions.json à jour, les modifications ne sont pas vues : toujours le republier avec le reste.
+- Téléchargement automatique : interrupteur « Télécharger en Wi‑Fi automatiquement » (réglage dlWifi, désactivé par défaut). dlAuto() ne démarre que si navigator.connection.type vaut « wifi » (Chrome / Android seulement ; ni iPhone ni Firefox), sans économiseur de données, au plus une fois par 12 h (clé dl_check). Sur les autres appareils l'interrupteur est grisé et le bouton manuel reste disponible.
+- sw.js laisse passer sans cache « index-versions.json » et toute requête faite avec cache « reload » ou « no-store » : c'est ce qui garantit que le téléchargement récupère la dernière version et pas une copie ancienne. Ne pas retirer cette règle.
+- « Vider les données hors ligne » (parametres.html) efface aussi dl_info, dl_hash et dl_check.
+Ne rends l'archive qu'après avoir testé : premier téléchargement complet, deuxième lancement sans rien à télécharger, puis modification d'un fichier de contenu (regénérer index-versions.json) : seul ce fichier doit être retéléchargé.
+```
+
+---
+
+## 22. PROFIL (carte du haut de page)
+
+```
+Tâche : [ex. changer les trois statistiques de la carte / changer le bouton noir / modifier les couleurs de la carte].
+
+Fichiers à lire : PROJET.md (section « Profil »), puis uniquement profil.html.
+Structure : une carte (classe pcard) : couverture (id hero) qui se fond dans la carte, photo de profil (id big) qui déborde en bas à gauche, bouton noir à droite (id pcCta : « S'abonner » ou « Gérer l'abonnement », lien vers abonnement.html), nom (id nm), rôle (id role) et pastille d'abonnement (id bSub), puis trois statistiques (pcS1 étudiés, pcS2 favoris, pcS3 jours restants) remplies dans le script de la page. Le bandeau violet d'abonnement (id subc) est masqué mais conservé : le script y écrit encore.
+Ne change jamais les identifiants ni le fonctionnement des photos : fichiers file et fileCover, recadrage, clés user_photo et user_cover, boutons « Changer » et « Retirer » du formulaire. Garde le mode sombre (variables --pc-*).
+```
+
+---
+
+## 23. LIVRAISON ET MISE EN LIGNE D'UNE MISE À JOUR (checklist)
+
+À chaque mise à jour du projet :
+
+1. `node outils/generer-pages.js https://expertenfrancais.github.io` : régénère les pages, le catalogue, `sitemap.xml`, `robots.txt`, les listes de `sw.js` **et `contenu/index-versions.json`**.
+2. `node outils/valider-contenu.js` : 0 erreur.
+3. Augmenter `VERSION` dans `sw.js` de 1. Sinon les utilisateurs ne reçoivent pas la mise à jour.
+4. Si une page, un script ou un fichier de contenu a encore changé après l'étape 1, relancer `node outils/generer-versions.js` (les empreintes de `index-versions.json` doivent correspondre aux fichiers publiés).
+5. Livrer **deux zips** : `francais-app-complet-vNNN.zip` (tout le projet) et `francais-app-modifies-vNNN.zip` (seuls les fichiers modifiés, avec leurs dossiers). Le second contient toujours `sw.js` et `contenu/index-versions.json`.
+6. Sur GitHub : remplacer les fichiers du zip des modifiés en gardant les dossiers, puis attendre la publication de GitHub Pages.
+7. Si le zip contient un fichier `supabase/NN-….sql` nouveau ou modifié : Supabase > SQL Editor > New query, coller le fichier, Run (« Success »). Les scripts se relancent sans risque. Ordre : 01, 02, 03, puis 04.
+8. Mettre à jour `PROJET.md` (ligne « Mise à jour », dernier id de chaque type, version de `sw.js`) et, si une règle a changé, le guide concerné et `PROMPTS.md`.
+

@@ -41,7 +41,7 @@ var CHEV="M8.6 16.6L13.2 12 8.6 7.4 10 6l6 6-6 6z",BACK="M15.4 7.4L14 6l-6 6 6 6
 function svg(p){return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+p+'"/></svg>'}
 $("nav").onclick=navClick;drawNav(1);
 var q=new URLSearchParams(location.search),id=+q.get("id"),d=ALLDOCS.filter(function(x){return x.id===id})[0],P=$("page");
-var logged=!!userName();
+var logged=!!userName(),acct=hasAccount(),guest=isGuest();
 function msg(t,p,label,href){P.innerHTML='<div class="center"><h3>'+t+'</h3><p>'+p+'</p></div><div class="dock"><button class="go" id="gb" type="button"><span>'+label+'</span><i>'+svg(CHEV)+'</i></button></div>';
  $("gb").onclick=function(){location.href=BASE+href}}
 if(!d)return msg("Leçon introuvable","Ce cours n’existe pas ou n’est plus disponible.","Voir le catalogue","catalogue.html");
@@ -82,7 +82,7 @@ if(open){
  if(i===N-1&&logged)h+=rateBox(d.id);
 }else{
  h+='<div class="lock2"><div class="okc">'+svg(IC.lock)+'</div><h3>Partie réservée</h3><p>Abonnez-vous pour lire toutes les parties de ce cours.'+(ACHAT?' Vous pouvez aussi l’acheter à l’unité.':'')+'</p>'+
-  (logged?'<a class="btn2" href="abonnement.html">S’abonner</a>'+(ACHAT?'<a class="btn2 alt" href="#" id="buy">Acheter le cours · '+esc(price(d.pr))+'</a>':'')+'':'<a class="btn2" href="login-app.html">Se connecter</a>')+
+  (acct?'<a class="btn2" href="abonnement.html">S’abonner</a>'+(ACHAT?'<a class="btn2 alt" href="#" id="buy">Acheter le cours · '+esc(price(d.pr))+'</a>':'')+'':'<a class="btn2" href="'+(guest?loginUrl("abonnement.html",true):"login-app.html")+'">'+(guest?"Créer un compte":"Se connecter")+'</a>')+
   '<a class="btn2 alt" href="'+docUrl(d)+'">Retour au cours</a></div>';
 }
 h+='</article>';

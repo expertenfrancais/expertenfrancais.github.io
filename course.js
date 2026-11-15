@@ -8,7 +8,7 @@ function svg(p){return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+p
 function nav(){drawNav(1)}
 $("nav").onclick=navClick;
 var d=ALLDOCS.filter(function(x){return x.id===DOC_ID})[0];
-var logged=!!userName();
+var logged=!!userName(),acct=hasAccount(),guest=isGuest();
 /* Un visiteur non connecté voit la page (aperçu public). Une personne connectée ne voit que les documents de son profil. */
 var typeOK=!!d&&(!logged||ALLOWED_TYPES.indexOf(d.k)>-1);
 var cycOK=!!d&&cycleOK(d);
@@ -56,10 +56,10 @@ if(acc){
  go.innerHTML='<span>Télécharger</span><i>'+svg(IC.dl)+'</i>';
  go.onclick=function(){location.href=BASE+"pdf.html?id="+d.id};
 }else{
- var label=!ACHAT?(logged?"S’abonner":"Se connecter pour s’abonner"):!logged?"Se connecter pour acheter":inCart?"Aller au panier":"Acheter · "+price(d.pr);
- go.innerHTML='<span>'+esc(label)+'</span><i>'+svg(logged?(ACHAT?IC.cart:IC.crown):CHEV)+'</i>';
+ var label=!ACHAT?(acct?"S’abonner":guest?"Créer un compte pour s’abonner":"Se connecter pour s’abonner"):!acct?(guest?"Créer un compte pour acheter":"Se connecter pour acheter"):inCart?"Aller au panier":"Acheter · "+price(d.pr);
+ go.innerHTML='<span>'+esc(label)+'</span><i>'+svg(acct?(ACHAT?IC.cart:IC.crown):CHEV)+'</i>';
  go.onclick=function(){
-  if(!logged){location.href=BASE+"login-app.html?next="+encodeURIComponent(docFile(d));return}
+  if(!acct){location.href=loginUrl(docFile(d),guest);return}
   if(!ACHAT){location.href=BASE+"abonnement.html";return}
   if(cart.indexOf(d.id)<0){cart.push(d.id);sv("cart",cart)}
   location.href=BASE+"panier.html"};

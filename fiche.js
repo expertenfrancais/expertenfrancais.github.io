@@ -202,7 +202,7 @@ function init(){
  if(ALLOWED_TYPES.indexOf("Fiches")<0)return msg(root,"Réservé aux enseignants","Les fiches pédagogiques sont réservées au profil enseignant.","Voir le catalogue","catalogue.html");
  var paid=ficheAcces(d.id); /* Gratuit : l’en-tête et les FICHES_LIBRES premières étapes. Abonnés : les autres étapes, la page de l’apprenant, le corrigé et le PDF (voir data.js) */
  lockFrom=paid?1e9:(typeof FICHES_LIBRES==="number"?FICHES_LIBRES:2);
- lockHref=BASE+(userName()?"abonnement.html":"login-app.html?next="+encodeURIComponent("abonnement.html"));
+ lockHref=hasAccount()?BASE+"abonnement.html":loginUrl("abonnement.html",isGuest());
   function lk(){return paid?"":'<span class="f-lk">'+lockIco(13)+'</span>'}
  document.title=d.t+" | Fiche pédagogique | Expert en français";
  if(!window.fetch)return msg(root,"Navigateur trop ancien","Ouvrez l’application dans un navigateur à jour pour afficher la fiche.","Retour",docUrl(d));
@@ -213,7 +213,7 @@ function init(){
   function pdfHref(t){var p=t==="prof"?"prof":"apprenant";return"pdf.html?n="+d.fn+"&p="+p+"&g="+encodeURIComponent(vals.g)+"&f="+encodeURIComponent(vals.f)+"&t="+encodeURIComponent(vals.t)+"&d="+encodeURIComponent(vals.date)}
   function draw(){
    var t=tab();
-    if(!paid&&t!=="prof"){location.replace(BASE+(userName()?"abonnement.html":"login-app.html?next="+encodeURIComponent("abonnement.html")));return}
+    if(!paid&&t!=="prof"){location.replace(hasAccount()?BASE+"abonnement.html":loginUrl("abonnement.html",isGuest()));return}
     var body=t==="prof"?prof(j,vals,"edit"):t==="apprenant"?apprenant(j,vals):corrige(j);
    root.innerHTML='<div class="fx"><div class="f-bar"><a class="f-back" id="fBack" href="'+docUrl(d)+'" aria-label="Retour à la fiche"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+BACK+'"/></svg></a><div class="f-ttl"><small>Fiche n° '+e(h.numero)+' · '+e(h.niveau)+' · '+e(h.sousDiscipline)+'</small><b>'+f(h.titre)+'</b></div>'+
     '<a class="f-pdf" id="fPdf" href="'+pdfHref(t)+'"><span class="f-l">Enregistrer en&nbsp;</span>PDF'+lk()+'</a>'+

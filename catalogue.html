@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
+<script>/* Garde : sans profil (compte ou invité), aller à la connexion avant tout affichage ; l’invité garde l’accès */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html?next="+encodeURIComponent(location.pathname.split("/").pop()||"index.html"))}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -84,6 +84,9 @@ main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
 .hit p{margin:0;font-size:13px;line-height:1.55;color:var(--ink)}.hit p.lk{color:var(--sub);font-style:italic}
 .hit mark{padding:0 2px;border-radius:4px;background:rgba(255,200,60,.5);color:inherit}
 .hitmore{margin:6px 2px 0;font-size:12.5px;color:var(--sub)}
+.hitall{display:block;font-weight:600;color:var(--link);text-decoration:none;padding:6px 2px}
+.go{flex:0 0 auto;border:0;border-radius:14px;height:36px;padding:0 14px;margin-right:-8px;font-weight:700;font-size:13px;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2))}
+.go:disabled{opacity:.4}
 
 .reset{border:0;background:none;padding:0;font-size:13px;font-weight:600;color:var(--link)}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
@@ -148,7 +151,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
   </header>
   <main>
     <div class="search">
-      <label class="field"><svg id="i-search" width="22" height="22" viewBox="0 0 24 24"></svg><input id="q" type="search" placeholder="Rechercher un document…" autocomplete="off"></label>
+      <label class="field"><svg id="i-search" width="22" height="22" viewBox="0 0 24 24"></svg><input id="q" type="search" placeholder="Rechercher un document…" autocomplete="off" enterkeyhint="search"><button class="go" id="go" type="button" aria-label="Lancer la recherche" disabled>OK</button></label>
       <button class="flt" id="flt" type="button" aria-label="Filtrer" aria-expanded="false"><svg id="i-flt" width="24" height="24" viewBox="0 0 24 24"></svg><span class="dot" id="dot" hidden></span></button>
     </div>
     <div class="chips" id="types"></div>
@@ -205,7 +208,7 @@ function drawChips(){
 /* Liste */
 function fits(d,skipMat,noQ){
  var qq=norm(st.q.trim());
- return (st.type==="Tous"||d.k===st.type)&&(st.cyc==="Tous"||d.c===st.cyc)&&(st.niv==="Tous"||d.n===st.niv)&&(skipMat||!st.mats.length||st.mats.indexOf(d.m)>-1)&&(noQ||!qq||norm(d.t+" "+d.m+" "+d.k).indexOf(qq)>-1)}
+ return (st.type==="Tous"||d.k===st.type)&&(st.cyc==="Tous"||d.c===st.cyc)&&(st.niv==="Tous"||d.n===st.niv)&&(skipMat||!st.mats.length||st.mats.indexOf(d.m)>-1)&&(noQ||!qq||docMatch(d,qq))}
 function cmp(a,b){return a<b?-1:a>b?1:0}
 function result(){
  var res=DOCS.filter(function(d){return fits(d,false)});
@@ -240,7 +243,7 @@ function paintHits(n){var box=$("chits"),raw=st.q.trim(),qn=norm(raw);
  contentReady(function(){
   if(norm(st.q.trim())!==qn)return;
   var hits=contentHits(raw,DOCS.filter(function(d){return fits(d,false,true)}));
-  box.innerHTML=hitsHTML(hits,12);
+  box.innerHTML=hitsHTML(hits,12,raw);
   if(!n&&hits.length)$("list").innerHTML=""})}
 
 
@@ -254,9 +257,12 @@ pick("types","type");$("levels").onclick=function(e){var b=e.target.closest(".ch
 $("mats").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;var v=b.dataset.v;
  if(!v)st.mats=[];else{var i=st.mats.indexOf(v);if(i>-1)st.mats.splice(i,1);else st.mats.push(v)}
  st.shown=PAGE;render()};
-$("q").oninput=function(){st.q=this.value;st.shown=PAGE;render()};
+function goSearch(){var v=$("q").value.trim();if(v)location.href="recherche.html?q="+encodeURIComponent(v)}
+$("q").oninput=function(){st.q=this.value;st.shown=PAGE;$("go").disabled=!this.value.trim();render()};
+$("q").onkeydown=function(e){if(e.key==="Enter"){e.preventDefault();goSearch()}};
+$("go").onclick=goSearch;
 $("flt").onclick=function(){var h=$("panel").hidden;$("panel").hidden=!h;this.setAttribute("aria-expanded",h)};
-$("reset").onclick=function(){st={type:"Tous",cyc:canSwitchCycle()?"Tous":activeCycle(),niv:"Tous",mats:[],sort:"pert",q:"",shown:PAGE};$("q").value="";render()};
+$("reset").onclick=function(){st={type:"Tous",cyc:canSwitchCycle()?"Tous":activeCycle(),niv:"Tous",mats:[],sort:"pert",q:"",shown:PAGE};$("q").value="";$("go").disabled=true;render()};
 $("more").onclick=function(){st.shown+=PAGE;render()};
 $("list").addEventListener("click",function(e){seeGroup(e,function(k,m){if(k)st.type=k;st.mats=[m];st.shown=PAGE;render()})});
 $("set").onclick=function(){location.href="parametres.html"};

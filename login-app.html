@@ -97,6 +97,7 @@ box-shadow:0 10px 20px rgba(130,100,220,.5),inset 0 2px 4px rgba(255,255,255,.4)
 .view{display:flex;flex-direction:column;flex:1}
 .gbtn{width:100%;height:clamp(46px,6.8vh,54px);border:2px solid #dcd3f2;border-radius:28px;background:#fff;font:inherit;font-weight:600;font-size:15.5px;color:#3c4043;display:flex;align-items:center;justify-content:center;gap:12px;cursor:pointer;box-shadow:0 6px 14px rgba(100,80,160,.12);transition:transform .12s}
 .gbtn:active{transform:scale(.97)}.gbtn:disabled{opacity:.7}
+.gstart{display:block;margin:12px auto 0;border:0;background:none;font:inherit;font-weight:700;font-size:14.5px;color:var(--link);padding:8px 14px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
 [hidden]{display:none!important}
 .back{align-self:flex-start;border:0;background:none;font:inherit;font-size:13.5px;font-weight:600;color:var(--link);padding:4px 2px;margin:0 0 8px;display:flex;align-items:center;gap:6px;cursor:pointer}
 .lead{font-size:14px;line-height:1.5;color:var(--sub);margin:2px 4px 16px}
@@ -149,6 +150,7 @@ box-shadow:0 10px 20px rgba(130,100,220,.5),inset 0 2px 4px rgba(255,255,255,.4)
     <button class="btn" id="go" type="button"><span class="spin"></span><span id="gt">Se connecter</span></button>
     <div class="or" id="gor"><span>ou</span></div>
     <button class="gbtn" id="gg" type="button"><svg width="22" height="22" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.6l6.8-6.8C35.8 2.4 30.3 0 24 0 14.6 0 6.5 5.4 2.6 13.2l7.9 6.1C12.4 13.6 17.7 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.1-.4-4.5H24v9h12.7c-.6 3-2.2 5.5-4.7 7.2l7.6 5.9c4.4-4.1 6.9-10.1 6.9-17.6z"/><path fill="#FBBC05" d="M10.5 28.7c-.5-1.4-.8-3-.8-4.7s.3-3.200.8-4.700l-7.900-6.100C.9 16.500 0 20.100 0 24s.9 7.500 2.600 10.800l7.900-6.100z"/><path fill="#34A853" d="M24 48c6.500 0 12-2.100 15.900-5.800l-7.600-5.900c-2.100 1.400-4.900 2.300-8.300 2.300-6.300 0-11.600-4.100-13.500-9.800l-7.900 6.100C6.500 42.600 14.600 48 24 48z"/></svg><span id="ggt">Continuer avec Google</span></button>
+    <button class="gstart" id="gst" type="button">Continuer sans compte</button>
     <p class="foot"><span id="ft">Pas encore de compte&nbsp;?</span> <a href="#" id="sw">S’inscrire</a></p>
     <p class="foot" style="margin:0;padding-top:6px;font-size:12px"><a href="confidentialite.html" style="font-weight:600">Confidentialité</a> · <a href="conditions.html" style="font-weight:600">Conditions d’utilisation</a></p>
     </div>
@@ -159,6 +161,13 @@ box-shadow:0 10px 20px rgba(130,100,220,.5),inset 0 2px 4px rgba(255,255,255,.4)
     <div class="field"><svg width="22" height="22" viewBox="0 0 24 24" fill="#8c6fe0"><path d="M12 3L1 9l11 6 9-4.9V17h2V9zM5 13.2V17c0 1.7 3.1 3 7 3s7-1.300 7-3v-3.800l-7 3.800z"/></svg><select id="pcy" aria-label="Cycle"></select></div>
     <p class="err" id="perr" role="alert"></p>
     <button class="btn" id="pgo" type="button"><span class="spin"></span><span>Continuer</span></button>
+    </div>
+    <div class="view" id="guestView" hidden>
+      <button class="back" type="button" id="gback"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>Retour</button>
+      <p class="lead">Choisissez votre cycle pour afficher les bons cours. Sans compte, votre progression reste sur cet appareil : vous pourrez créer un compte plus tard.</p>
+      <div class="field"><svg width="22" height="22" viewBox="0 0 24 24" fill="#8c6fe0"><path d="M12 3L1 9l11 6 9-4.9V17h2V9zM5 13.2V17c0 1.7 3.1 3 7 3s7-1.300 7-3v-3.800l-7 3.800z"/></svg><select id="gcy" aria-label="Cycle"></select></div>
+      <p class="err" id="gerr" role="alert"></p>
+      <button class="btn" id="ggo" type="button"><span class="spin"></span><span>Commencer</span></button>
     </div>
     <div class="view" id="resetView" hidden>
       <button class="back" type="button" id="rback"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>Retour à la connexion</button>
@@ -231,6 +240,7 @@ function sbMsg(e){var c=e&&e.code||"",m=e&&e.message||"";
   return"Une erreur est survenue. Réessayez.";}
 /* Enregistre la session Supabase et recopie le profil dans les clés déjà utilisées par l’application */
 function sbSave(j){
+  try{localStorage.removeItem("guest")}catch(e){}
   var u=j.user||{},m=u.user_metadata||{},name=m.username||(u.email||"").split("@")[0]||"Utilisateur";
   localStorage.setItem("sb_session",JSON.stringify({access_token:j.access_token,refresh_token:j.refresh_token,expires_at:Math.floor(Date.now()/1000)+(j.expires_in||3600),user_id:u.id,email:u.email}));
   localStorage.setItem("auth_mode","supabase");localStorage.setItem("sb_conf",JSON.stringify({u:SUPABASE_URL,k:SUPABASE_ANON_KEY}));
@@ -241,7 +251,7 @@ function pwOK(p){return p.length>=8&&/[A-Za-z]/.test(p)&&/\d/.test(p)}
 var LOGO_SRC="logo.png";
 /* Page ouverte après la connexion ou l’inscription. */
 var HOME_URL=(function(){var n=new URLSearchParams(location.search).get("next")||"";return /^(cours\/([a-z]+\/)?)?[a-z0-9-]+\.html$/.test(n)?n:"index.html"})();
-try{if(localStorage.getItem("user_name")&&(!SB_ON||localStorage.getItem("sb_session")))location.replace(HOME_URL)}catch(e){}
+try{if(localStorage.getItem("user_name")&&localStorage.getItem("guest")!=="1"&&(!SB_ON||localStorage.getItem("sb_session")))location.replace(HOME_URL)}catch(e){}
 var $=function(i){return document.getElementById(i)},mode="l";
 /* Type de profil choisi à l’inscription. Avec un serveur, le rôle fait partie du compte. */
 var role="enseignant";
@@ -255,13 +265,26 @@ function setMode(m){mode=m;var s=m==="s";
   $("st").textContent=s?"Rejoignez-nous : 1 mois d’abonnement offert à l’inscription":"Connectez-vous pour continuer";
   $("gt").textContent=s?"S’inscrire":"Se connecter";
   if(SB_ON)$("us").placeholder=s?"Nom d’utilisateur":"E-mail";
-  $("fg").style.display=s?"none":"";
+  $("fg").style.display=s?"none":"";$("gst").style.display=s?"none":"";
   $("ft").textContent=s?"Déjà un compte\u00a0?":"Pas encore de compte\u00a0?";
   $("sw").textContent=s?"Se connecter":"S’inscrire";vib(10)}
 document.querySelectorAll(".tabs button").forEach(function(b){b.onclick=function(){setMode(b.dataset.m)}});
 document.querySelectorAll(".rolebtn").forEach(function(b){b.onclick=function(){role=b.dataset.r;document.querySelectorAll(".rolebtn").forEach(function(x){var on=x===b;x.classList.toggle("on",on);x.setAttribute("aria-checked",on)});cyLabel();vib(8)}});
 cyLabel();
 $("sw").onclick=function(e){e.preventDefault();setMode(mode==="l"?"s":"l")};
+/* Mode invité : profil local sans compte (aucun appel au serveur). Le compte reste nécessaire pour l’abonnement, l’achat, la synchronisation et l’espace enseignant. */
+function guestBack(){$("guestView").hidden=true;$("authView").hidden=false;setMode(mode)}
+$("gst").onclick=function(){
+  try{if(localStorage.getItem("guest")==="1"&&localStorage.getItem("user_name")&&localStorage.getItem("user_cycle")){location.href=HOME_URL;return}}catch(e){}
+  var sel=$("gcy"),src=$("cy");if(!sel.options.length){sel.innerHTML=src.innerHTML;sel.options[0].textContent="Choisir mon cycle…"}
+  $("authView").hidden=true;$("guestView").hidden=false;$("t").textContent="Bienvenue";$("st").textContent="Découvrez les cours sans créer de compte";$("gerr").textContent="";vib(10)};
+$("gback").onclick=guestBack;
+$("ggo").onclick=function(){
+  var cy=$("gcy").value;if(!cy){$("gerr").textContent="Choisissez votre cycle pour continuer.";return}
+  try{localStorage.setItem("guest","1");localStorage.setItem("user_name","Invité");localStorage.setItem("user_role","eleve");localStorage.setItem("user_cycle",cy);localStorage.setItem("view_cycle",cy)}
+  catch(e){$("gerr").textContent="Impossible d’enregistrer sur cet appareil : autorisez le stockage du navigateur.";return}
+  vib(15);location.href=HOME_URL};
+if(new URLSearchParams(location.search).get("m")==="s")setMode("s");
 $("eye").onclick=function(){var p=$("pw"),h=p.type==="password";p.type=h?"text":"password";$("sl").style.display=h?"none":"";vib(8)};
 /* ===== Réinitialisation du mot de passe =====
    AUTH : à brancher sur votre serveur (fetch vers votre API).
@@ -343,7 +366,7 @@ function demoGo(){
   setTimeout(function(){
     b.classList.remove("load");toast(mode==="l"?"Connexion réussie ✓":"Compte créé ✓");
     var u=$("us").value.trim().split("@")[0];
-    try{localStorage.setItem("user_name",u.charAt(0).toUpperCase()+u.slice(1));if(mode==="s"){localStorage.setItem("user_role",role);localStorage.setItem("user_cycle",$("cy").value);localStorage.setItem("view_cycle",$("cy").value)}else if(!localStorage.getItem("user_role"))localStorage.setItem("user_role","eleve")}catch(e){}
+    try{localStorage.removeItem("guest");localStorage.setItem("user_name",u.charAt(0).toUpperCase()+u.slice(1));if(mode==="s"){localStorage.setItem("user_role",role);localStorage.setItem("user_cycle",$("cy").value);localStorage.setItem("view_cycle",$("cy").value)}else if(!localStorage.getItem("user_role"))localStorage.setItem("user_role","eleve")}catch(e){}
     setTimeout(function(){location.href=HOME_URL},700)},1200)};
 
 function realGo(){

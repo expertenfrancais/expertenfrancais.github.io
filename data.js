@@ -68,6 +68,19 @@ function openDoc(id){var d=ALLDOCS.filter(function(x){return x.id===id})[0];loca
 function cancelSub(){try{localStorage.removeItem("sub");localStorage.removeItem("subpending")}catch(e){}}
 function subBanner(id){if((GRATUIT&&!FICHES_VERROU)||isSubscribed())return;var r=$(id);if(!r)return;
  r.insertAdjacentHTML("beforebegin",'<a href="abonnement.html" style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 0 14px;padding:14px 16px;border-radius:20px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;text-decoration:none;font-weight:600;font-size:14px"><span>'+(GRATUIT?"Abonnez-vous : fiches pédagogiques complètes":"Abonnez-vous : tout le contenu, sans achat à l’unité")+'</span><b style="white-space:nowrap">Voir ›</b></a>')}
+/* ===== Mode invité : invitation à créer un compte (étape 4) =====
+   guestBanner(id) : bandeau au-dessus de l’élément id (accueil, profil), fermable pour la session ; le texte change après 3 cours consultés.
+   guestInvite() : carte affichée UNE fois (clé guest_invit) quand l’invité a consulté 3 cours, sur les pages hors cours. L’inscription revient à la page d’origine (?next=). */
+function guestPage(){return location.pathname.split("/").pop()||"index.html"}
+function guestBanner(id){if(!isGuest())return;try{if(sessionStorage.getItem("gb_off"))return}catch(e){}var r=$(id);if(!r||$("gbanner"))return;
+ var n=ls("studied",[]).length,txt=n>=3?"Vous avez consulté "+n+" cours : créez un compte pour ne pas perdre votre progression":"Créer un compte pour sauvegarder votre progression";
+ r.insertAdjacentHTML("beforebegin",'<div id="gbanner" style="display:flex;align-items:center;gap:8px;margin:0 0 14px;padding:12px 12px 12px 16px;border-radius:20px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;font-weight:600;font-size:14px"><a href="'+loginUrl(guestPage(),true)+'" style="flex:1;color:#fff;text-decoration:none;display:flex;justify-content:space-between;gap:10px;align-items:center"><span>'+txt+'</span><b style="white-space:nowrap">S’inscrire ›</b></a><button type="button" id="gbx" aria-label="Fermer" style="border:0;background:rgba(255,255,255,.25);color:#fff;width:26px;height:26px;border-radius:13px;font-size:16px;line-height:1;cursor:pointer;flex:0 0 auto">×</button></div>');
+ var x=$("gbx");if(x)x.onclick=function(){try{sessionStorage.setItem("gb_off","1")}catch(e){}var b=$("gbanner");if(b)b.remove()}}
+function guestInvite(){if(!isGuest()||typeof PUBLIC_PAGE!=="undefined"||/login-app/.test(location.pathname)||$("ginv"))return;
+ var n=ls("studied",[]).length;try{if(n<3||localStorage.getItem("guest_invit"))return;localStorage.setItem("guest_invit","1")}catch(e){return}
+ document.body.insertAdjacentHTML("beforeend",'<div id="ginv" role="dialog" aria-label="Créer un compte" style="position:fixed;left:12px;right:12px;bottom:calc(env(safe-area-inset-bottom,0px) + 84px);z-index:60;padding:16px;border-radius:22px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;box-shadow:0 10px 30px rgba(60,40,120,.35)"><b style="display:block;font-size:15px;margin-bottom:4px">Gardez votre progression</b><span style="display:block;font-size:13.5px;line-height:1.45;margin-bottom:12px">Vous avez déjà consulté '+n+' cours. Créez un compte pour retrouver vos favoris et votre progression sur tous vos appareils.</span><span style="display:flex;gap:10px"><a href="'+loginUrl(guestPage(),true)+'" style="flex:1;text-align:center;padding:10px;border-radius:16px;background:#fff;color:#6a4fc7;font-weight:700;text-decoration:none">Créer un compte</a><button type="button" id="ginvx" style="flex:0 0 auto;padding:10px 14px;border:0;border-radius:16px;background:rgba(255,255,255,.25);color:#fff;font:inherit;font-weight:600;cursor:pointer">Plus tard</button></span></div>');
+ $("ginvx").onclick=function(){var b=$("ginv");if(b)b.remove()}}
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",guestInvite);else guestInvite();
 /* ===== Fiche détail d’un document : descriptions génériques par type (une description propre au document, d.d / d.obj / d.s, les remplace) ===== */
 var INFO={
  "Cours":{desc:"Cours de français ({m}) pour le niveau {n} : notions essentielles, méthodes et exemples commentés.",obj:["Comprendre les notions essentielles du chapitre","Appliquer les méthodes sur des exemples guidés","Se préparer aux évaluations"],plan:["Objectifs et prérequis","Notions clés","Méthodes et exemples commentés","Exercices d’application","À retenir"]},
@@ -466,6 +479,78 @@ var ALLDOCS=[
  {id:10106,fn:106,ap:"APS",img:IMG.c,t:"La ponctuation",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
  {id:10107,fn:107,ap:"APS",img:IMG.d,t:"Le verbe aller aux temps simples de l’indicatif",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
  {id:10108,fn:108,ap:"APS",img:IMG.e,t:"Les niveaux de langue",k:"Fiches",n:"6e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10109,fn:109,ap:"APS",img:IMG.f,t:"Les antonymes des noms",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10110,fn:110,ap:"APS",img:IMG.g,t:"Les antonymes des verbes",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10111,fn:111,ap:"APS",img:IMG.h,t:"Les antonymes des adjectifs qualificatifs",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10112,fn:112,ap:"APS",img:IMG.a,t:"Le discours indirect",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10113,fn:113,ap:"APS",img:IMG.b,t:"Le discours indirect libre",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10114,fn:114,ap:"APS",img:IMG.c,t:"L’adjectif qualificatif attribut du complément d’objet direct",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10115,fn:115,ap:"APS",img:IMG.d,t:"L’adjectif qualificatif mis en apposition",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10116,fn:116,ap:"APS",img:IMG.e,t:"La proposition subordonnée conjonctive complétive",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10117,fn:117,ap:"APS",img:IMG.f,t:"Les homophones",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10118,fn:118,ap:"APS",img:IMG.g,t:"L’accord du participe passé des verbes pronominaux de sens réfléchi et réciproque",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10119,fn:119,ap:"APS",img:IMG.h,t:"L’accord des adjectifs de couleur",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10120,fn:120,ap:"APS",img:IMG.a,t:"La nominalisation du verbe",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10121,fn:121,ap:"APS",img:IMG.b,t:"La nominalisation de l’adjectif qualificatif",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10122,fn:122,ap:"APS",img:IMG.c,t:"Les valeurs du mode impératif",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10123,fn:123,ap:"APS",img:IMG.d,t:"Les verbes du 1er groupe au présent de l’impératif",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10124,fn:124,ap:"APS",img:IMG.e,t:"Les verbes du 2e groupe au présent de l’impératif",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10125,fn:125,ap:"APS",img:IMG.f,t:"La voix active",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10126,fn:126,ap:"APS",img:IMG.g,t:"La voix passive",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10127,fn:127,ap:"APS",img:IMG.h,t:"Les verbes essentiellement pronominaux",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10128,fn:128,ap:"APS",img:IMG.a,t:"Les verbes accidentellement pronominaux",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10129,fn:129,ap:"APS",img:IMG.b,t:"Le sens réfléchi des verbes pronominaux",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10130,fn:130,ap:"APS",img:IMG.c,t:"Le sens réciproque des verbes pronominaux",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10131,fn:131,ap:"APS",img:IMG.d,t:"Le sens passif des verbes pronominaux",k:"Fiches",n:"5e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10132,fn:132,ap:"APS",img:IMG.e,t:"La formation des mots par préfixation",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10133,fn:133,ap:"APS",img:IMG.f,t:"Les termes génériques",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10134,fn:134,ap:"APS",img:IMG.g,t:"Les homophones grammaticaux",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10135,fn:135,ap:"APS",img:IMG.h,t:"Les homophones lexicaux",k:"Fiches",n:"6e",m:"Orthographe",pr:25,r:4.8},
+ {id:10136,fn:136,ap:"APS",img:IMG.a,t:"Le verbe aller aux temps composés de l’indicatif",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10137,fn:137,ap:"APS",img:IMG.b,t:"Le présent du subjonctif des verbes du 1er groupe",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10138,fn:138,ap:"APS",img:IMG.c,t:"La comparaison",k:"Fiches",n:"6e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10139,fn:139,ap:"APS",img:IMG.d,t:"Les termes spécifiques",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10140,fn:140,ap:"APS",img:IMG.e,t:"La métaphore",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10141,fn:141,ap:"APS",img:IMG.f,t:"Les marques de l’énonciation",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10142,fn:142,ap:"APS",img:IMG.g,t:"La situation de communication",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10143,fn:143,ap:"APS",img:IMG.h,t:"La présentation des composants de l’ordinateur",k:"Fiches",n:"6e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10144,fn:144,ap:"APS",img:IMG.a,t:"Les périphériques de l’ordinateur",k:"Fiches",n:"6e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10145,fn:145,ap:"APS",img:IMG.b,t:"Le groupe nominal composé d’un déterminant + un nom + un adjectif qualificatif",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10146,fn:146,ap:"APS",img:IMG.c,t:"Le groupe nominal composé d’un déterminant + un nom + un complément du nom",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10147,fn:147,ap:"APS",img:IMG.d,t:"La pronominalisation",k:"Fiches",n:"5e",m:"Grammaire",pr:25,r:4.8},
+ {id:10148,fn:148,ap:"APS",img:IMG.e,t:"Le féminin des noms masculins en -ail, -eil et -euil",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10149,fn:149,ap:"APS",img:IMG.f,t:"L’accord du participe passé des verbes essentiellement pronominaux et des verbes pronominaux de sens passif",k:"Fiches",n:"5e",m:"Orthographe",pr:25,r:4.8},
+ {id:10150,fn:150,ap:"APS",img:IMG.g,t:"Le lexique d’Internet",k:"Fiches",n:"5e",m:"Vocabulaire",pr:25,r:4.8},
+ {id:10151,fn:151,ap:"APS",img:IMG.a,t:"L’émetteur et le message d’un discours",k:"Fiches",n:"6e",m:"Expression orale",pr:25,r:4.8},
+ {id:10152,fn:152,ap:"APS",img:IMG.a,t:"Le type de discours",k:"Fiches",n:"6e",m:"Expression orale",pr:25,r:4.8},
+ {id:10153,fn:153,ap:"APS",img:IMG.a,t:"Les règles de présentation d’un dialogue",k:"Fiches",n:"6e",m:"Expression orale",pr:25,r:4.8},
+ {id:10154,fn:154,ap:"APS",img:IMG.a,t:"Les caractéristiques du texte narratif",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10155,fn:155,ap:"APS",img:IMG.a,t:"Les caractéristiques du texte descriptif",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10156,fn:156,ap:"APS",img:IMG.b,t:"Les éléments de la communication orale",k:"Fiches",n:"5e",m:"Expression orale",pr:25,r:4.8},
+ {id:10157,fn:157,ap:"APS",img:IMG.b,t:"Les caractéristiques du texte descriptif : le portrait physique",k:"Fiches",n:"5e",m:"Lecture",pr:25,r:4.8},
+ {id:10158,fn:158,ap:"APS",img:IMG.b,t:"Les caractéristiques du texte descriptif : le portrait moral",k:"Fiches",n:"5e",m:"Lecture",pr:25,r:4.8},
+ {id:10159,fn:159,ap:"APS",img:IMG.b,t:"Les caractéristiques du poème en vers libres",k:"Fiches",n:"5e",m:"Lecture",pr:25,r:4.8},
+ {id:10160,fn:160,ap:"APS",img:IMG.b,t:"La technique de présentation d’un exposé oral",k:"Fiches",n:"5e",m:"Expression orale",pr:25,r:4.8},
+ {id:10161,fn:161,ap:"APS",img:IMG.e,t:"L’analyse du sujet et la recherche des idées",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10162,fn:162,ap:"APS",img:IMG.e,t:"La rédaction de l’introduction",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10163,fn:163,ap:"APS",img:IMG.e,t:"La rédaction du développement",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10164,fn:164,ap:"APS",img:IMG.e,t:"La rédaction de la conclusion",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10165,fn:165,ap:"APS",img:IMG.b,t:"Les caractéristiques du poème classique",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10166,fn:166,ap:"APS",img:IMG.e,t:"Le travail préliminaire de rédaction (le brouillon)",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10167,fn:167,ap:"APS",img:IMG.e,t:"La rédaction de l’introduction",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10168,fn:168,ap:"APS",img:IMG.b,t:"Le respect de la diction",k:"Fiches",n:"5e",m:"Lecture",pr:25,r:4.8},
+ {id:10169,fn:169,ap:"APS",img:IMG.b,t:"Le respect des groupes de souffle",k:"Fiches",n:"5e",m:"Lecture",pr:25,r:4.8},
+ {id:10170,fn:170,ap:"APS",img:IMG.e,t:"La rédaction d’un portrait physique",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10171,fn:171,ap:"APS",img:IMG.a,t:"Les composantes d’une image",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10172,fn:172,ap:"APS",img:IMG.b,t:"Le message de l’image",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10173,fn:173,ap:"APS",img:IMG.e,t:"La rédaction d’un paragraphe descriptif à partir d’une image",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10174,fn:174,ap:"APS",img:IMG.c,t:"Le message électronique",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10175,fn:175,ap:"APS",img:IMG.d,t:"La lettre personnelle",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10176,fn:176,ap:"APS",img:IMG.e,t:"La rédaction du développement",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10177,fn:177,ap:"APS",img:IMG.e,t:"La rédaction de la conclusion",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10178,fn:178,ap:"APS",img:IMG.e,t:"La rédaction d’un portrait moral",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10179,fn:179,ap:"APS",img:IMG.e,t:"La rédaction d’une lettre privée",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10180,fn:180,ap:"APS",img:IMG.e,t:"La rédaction d’un article de journal",k:"Fiches",n:"5e",m:"Expression écrite",pr:25,r:4.8},
  {id:20002,an:2,img:IMG.b,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20003,an:3,img:IMG.b,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20004,an:4,img:IMG.b,t:"BEPC · Expression écrite · Session juillet 2025",k:"Annales",n:"3e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
@@ -692,7 +777,15 @@ function ctxt(b){var a=[];
  if(Array.isArray(b.cells))b.cells.forEach(function(c){add(c.mot);add(c.role)});
  add(Array.isArray(b.corrige)?b.corrige.join(" "):b.corrige);
  return a.join(" ")}
+/* Fiches pédagogiques : une entrée pour l’en-tête (i=0) puis une par étape (i=1, 2…) ; l’ouverture se fait sur la page de la fiche */
+function cfiche(j){var out=[],e=j.entete||{};
+ function flat(o){var a=[];Object.keys(o||{}).forEach(function(k){var v=o[k];if(typeof v==="string"&&v)a.push(v);else if(typeof v==="number")a.push(String(v))});return a.join(" ")}
+ function push(i,t,x){x=String(x).replace(/\*+/g,"").replace(/\s+/g," ").trim();out.push({i:i,t:t,x:x,nb:norm(x),n:norm(t+" "+x)})}
+ push(0,"En-tête de la fiche",[e.titre,e.categorie,e.savoirEssentiel,e.competence,e.situation,e.support,e.documentation].filter(Boolean).join(" "));
+ (j.etapes||[]).forEach(function(et,k){push(k+1,et.titre||"Étape "+(k+1),(et.lignes||[]).map(flat).join(" "))});
+ return out}
 function cbuild(j){var out=[];
+ if(j&&Array.isArray(j.etapes))return cfiche(j);
  if(!j||!Array.isArray(j.sections))return out;
  j.sections.forEach(function(sec,i){
   var x=(sec.blocs||[]).map(ctxt).join(" ").replace(/\*+/g,"").replace(/\s+/g," ").trim();
@@ -701,14 +794,17 @@ function cbuild(j){var out=[];
 function contentReady(cb){
  if(CIDX)return cb();
  CWAIT.push(cb);if(CLOAD)return;CLOAD=true;
- var docs=ALLDOCS.filter(function(d){return d.k!=="Fiches"}),left=docs.length,idx={};
+ var docs=DOCS.slice(),left=docs.length,idx={};
  function done(){CIDX=idx;CWAIT.splice(0).forEach(function(f){f()})}
  if(!window.fetch||!left)return done();
  docs.forEach(function(d){
   fetch(BASE+contentFile(d)).then(function(r){return r.ok?r.json():null}).catch(function(){return null}).then(function(j){
    idx[d.id]=cbuild(j);if(--left===0)done()})})}
+/* Accord des mots : « phrases » trouve aussi « phrase » (le s ou le x final d’un mot de plus de 4 lettres est ignoré) */
+function qwords(q){return norm(q.trim()).split(/\s+/).filter(Boolean).map(function(x){return x.length>4&&/[sx]$/.test(x)?x.slice(0,-1):x})}
+function docMatch(d,q){var w=qwords(q),t=norm(d.t+" "+d.m+" "+d.k);return w.every(function(x){return t.indexOf(x)>-1})}
 function contentHits(q,docs){
- var w=norm(q.trim()).split(/\s+/).filter(Boolean),out=[];
+ var w=qwords(q),out=[];
  if(!CIDX||!w.length)return out;
  docs.forEach(function(d){(CIDX[d.id]||[]).forEach(function(s){
   var sc=0,ok=true;
@@ -724,17 +820,25 @@ function csnippet(h){var s=h.s,pos=-1,len=0,j,p;
  if(a>0){k=x.indexOf(" ",a);if(k>-1&&k<pos)a=k+1}
  if(b<x.length){k=x.lastIndexOf(" ",b);if(k>pos+len)b=k}
  return(a>0?"… ":"")+esc(x.slice(a,pos))+"<mark>"+esc(x.slice(pos,pos+len))+"</mark>"+esc(x.slice(pos+len,b))+(b<x.length?" …":"")}
-function hitsHTML(hits,max){
+function hitHTML(r){
+ var d=r.d,fi=d.k==="Fiches",open=fi?(r.s.i<=FICHES_LIBRES||ficheAcces(d.id)):(partFree(r.s.i)||canAccess(d.id)),sn=open?csnippet(r):"";
+ return '<a class="hit" href="'+(fi?docUrl(d):partUrl(d,r.s.i))+'"><i>'+(fi?"F":r.s.i+1)+'</i><div><b>'+esc(r.s.t)+'</b><small>'+esc(d.t)+' · '+esc(d.k)+' · '+esc(d.n)+'</small>'+
+  (open?(sn?'<p>'+sn+'</p>':""):'<p class="lk">'+(fi?"Étape réservée aux abonnés":"Partie réservée : achat ou abonnement")+'</p>')+'</div></a>'}
+/* hitsHTML(hits, max, q) : q (facultatif) ajoute un lien vers la page de résultats recherche.html */
+function hitsHTML(hits,max,q){
  if(!hits.length)return"";
- var h='<h3>Dans le contenu des cours <span class="count">'+hits.length+'</span></h3>';
- hits.slice(0,max).forEach(function(r){
-  var d=r.d,open=partFree(r.s.i)||canAccess(d.id),sn=open?csnippet(r):"";
-  h+='<a class="hit" href="'+partUrl(d,r.s.i)+'"><i>'+(r.s.i+1)+'</i><div><b>'+esc(r.s.t)+'</b><small>'+esc(d.t)+' · '+esc(d.n)+'</small>'+
-   (open?(sn?'<p>'+sn+'</p>':""):'<p class="lk">Partie réservée : achat ou abonnement</p>')+'</div></a>'});
- if(hits.length>max)h+='<p class="hitmore">+ '+(hits.length-max)+' autres parties : précisez votre recherche.</p>';
+ var h='<h3>Dans le contenu <span class="count">'+hits.length+'</span></h3>';
+ hits.slice(0,max).forEach(function(r){h+=hitHTML(r)});
+ if(hits.length>max)h+=q?'<a class="hitmore hitall" href="'+BASE+'recherche.html?q='+encodeURIComponent(q)+'">Voir les '+hits.length+' résultats ›</a>':'<p class="hitmore">+ '+(hits.length-max)+' autres parties : précisez votre recherche.</p>';
  return h}
 function price(n){return n.toLocaleString("fr-FR")+"\u00a0"+DEVISE}
 function userName(){try{return localStorage.getItem("user_name")||""}catch(e){return""}}
+/* Mode invité : profil local sans compte (user_name « Invité » + clé guest=1, aucun appel au serveur). Une session Supabase l’emporte toujours. */
+function isGuest(){try{return localStorage.getItem("guest")==="1"&&!localStorage.getItem("sb_session")}catch(e){return false}}
+/* Vrai compte (pas un invité) : exigé pour l’abonnement, l’achat, la synchronisation et l’administration. */
+function hasAccount(){return !!userName()&&!isGuest()}
+/* Adresse de la page de connexion ; next = page où revenir ensuite ; signup = ouvrir l’onglet Inscription. */
+function loginUrl(next,signup){var q=[];if(next)q.push("next="+encodeURIComponent(next));if(signup)q.push("m=s");return BASE+"login-app.html"+(q.length?"?"+q.join("&"):"")}
 
 /* Favoris et panier partagés entre les pages (stockés sur l’appareil) */
 var favs=ls("favs",[]),cart=ls("cart",[]);
@@ -857,9 +961,11 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
 
 /* Compte réel (Supabase) : si la session a disparu, on efface les infos de compte (retour à la connexion ci-dessous) */
 (function(){try{if(localStorage.getItem("auth_mode")==="supabase"&&!localStorage.getItem("sb_session")){["user_name","user_role","user_cycle","view_cycle","auth_mode"].forEach(function(k){localStorage.removeItem(k)})}}catch(e){}})();
-/* Session : sans utilisateur connecté, retour à la connexion (contrôle réel à faire côté serveur) */
-/* Les pages de cours (PUBLIC_PAGE) restent visibles sans connexion : l’achat, lui, demande de se connecter. */
-if(!userName()&&typeof PUBLIC_PAGE==="undefined")location.replace(BASE+"login-app.html");
+/* Session : sans profil (compte ou invité), retour à la connexion, qui propose « Continuer sans compte » (contrôle réel à faire côté serveur) */
+/* Les pages de cours (PUBLIC_PAGE) restent visibles sans connexion : l’achat, lui, demande un compte. */
+/* Les pages qui déclarent NEEDS_ACCOUNT (abonnement, administration) refusent l’invité : inscription obligatoire. */
+if(!userName()&&typeof PUBLIC_PAGE==="undefined")location.replace(loginUrl((location.pathname.split("/").pop()||"index.html")));
+else if(isGuest()&&typeof NEEDS_ACCOUNT!=="undefined")location.replace(loginUrl((location.pathname.split("/").pop()||"index.html"),true));
 /* Connecté mais cycle pas encore choisi : choix obligatoire (page cycles.html). */
 else if(userName()&&!homeCycle()&&typeof PUBLIC_PAGE==="undefined"&&typeof CYCLE_PAGE==="undefined")location.replace(BASE+"cycles.html");
 
@@ -976,3 +1082,69 @@ var SYNC_KEYS=["favs","cart","studied","parts","scores","rates"];
    b.onclick=function(){try{localStorage.setItem(key,"1")}catch(e){}d.remove();try{vib(15)}catch(e){}};
   }catch(e){}}
  if(typeof setTimeout==="function")setTimeout(show,1500)})();
+
+/* ===== Contenus hors ligne : téléchargement incrémental + téléchargement automatique en Wi‑Fi =====
+   - Cache « telechargements » (conservé lors des mises à jour de l'application, voir sw.js).
+   - contenu/index-versions.json (généré par outils/generer-versions.js) donne l'empreinte de chaque fichier : on ne télécharge que les fichiers nouveaux ou modifiés,
+     et on supprime ceux qui n'existent plus ou auxquels le compte n'a plus accès.
+   - Mémoire locale : « dl_hash » (empreinte et taille de chaque fichier téléchargé), « dl_info » (date, nombre, taille), « dl_check » (dernier contrôle automatique). */
+var dlState={busy:false,stop:false,done:0,tot:0,cb:null};
+function dlUrls(){
+ var u={};
+ DOCS.forEach(function(d){try{u[docFile(d)]=1;u[contentFile(d)]=1}catch(e){}});
+ ["index.html","catalogue.html","recherche.html","favoris.html","cours.html","lecon.html","fiche.html","pdf.html","cycles.html","profil.html","parametres.html","abonnement.html","contact.html","data.js","fiche.js","fiche.css","course.js","course.css","blocs.js","manifest.json"].forEach(function(x){u[x]=1});
+ return Object.keys(u)}
+function dlAbs(p){return new URL(BASE+p,location.href).href}
+/* Résultat : {n, added, updated, removed, bytes, fail, stopped, uptodate} ; opts.auto = silencieux, sans question */
+function dlRun(opts){
+ opts=opts||{};
+ if(!window.caches||!window.fetch)return Promise.reject(new Error("indisponible"));
+ if(dlState.busy)return Promise.reject(new Error("occupe"));
+ dlState.busy=true;dlState.stop=false;dlState.done=0;dlState.tot=0;
+ var old=ls("dl_hash",{}),paths=dlUrls(),inList={};paths.forEach(function(p){inList[p]=1});
+ function fin(r){dlState.busy=false;return r}
+ function fail(e){dlState.busy=false;throw e}
+ return fetch(BASE+"contenu/index-versions.json?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).catch(function(){return null}).then(function(man){
+  var F=man&&man.f?man.f:null;
+  if(!F&&(opts.auto||Object.keys(old).length))throw new Error("manifeste"); /* sans empreintes : on ne retélécharge pas tout à l'aveugle */
+  var todo=[],added=0,updated=0;
+  paths.forEach(function(p){
+   var h=F?F[p]:undefined,o=old[p];
+   if(!o){todo.push(p);added++}
+   else if(h!==undefined&&o[0]!==h){todo.push(p);updated++}});
+  dlState.tot=todo.length;if(dlState.cb)dlState.cb();
+  return caches.open("telechargements").then(function(c){
+   /* Suppression de ce qui n'est plus utile */
+   var gone=Object.keys(old).filter(function(p){return !inList[p]});
+   return Promise.all(gone.map(function(p){delete old[p];return c.delete(dlAbs(p))})).then(function(){
+    var i=0,ok=0,bad=0;
+    function one(){
+     if(dlState.stop||i>=todo.length)return Promise.resolve();
+     var p=todo[i++];
+     return fetch(dlAbs(p),{cache:"reload"}).then(function(r){
+      if(!r.ok)throw 0;
+      return r.blob().then(function(bl){
+       return c.put(dlAbs(p),new Response(bl,{status:200,headers:{"Content-Type":r.headers.get("Content-Type")||"application/octet-stream"}})).then(function(){old[p]=[F&&F[p]||"",bl.size];ok++})})})
+     .catch(function(){bad++}).then(function(){dlState.done++;if(dlState.cb)dlState.cb();return one()})}
+    var w=[];for(var k=0;k<6;k++)w.push(one());
+    return Promise.all(w).then(function(){
+     var n=0,b=0;Object.keys(old).forEach(function(p){n++;b+=old[p][1]||0});
+     try{localStorage.setItem("dl_hash",JSON.stringify(old))}catch(e){}
+     var res={n:n,added:added,updated:updated,removed:gone.length,bytes:b,fail:bad,stopped:dlState.stop,uptodate:!todo.length&&!gone.length};
+     if(n&&!(todo.length&&!ok&&bad)){try{localStorage.setItem("dl_info",JSON.stringify({at:new Date().toISOString(),n:n,b:b}))}catch(e){}}
+     return res})})})}).then(fin,fail)}
+/* Téléchargement automatique : seulement en Wi‑Fi (type de connexion disponible sur Chrome / Android), sans économiseur de données, au plus une fois par 12 h */
+function dlWifiOK(){var c=navigator.connection;return !!(c&&c.type==="wifi"&&!c.saveData&&navigator.onLine)}
+function dlAutoPossible(){var c=navigator.connection;return !!(c&&typeof c.type==="string")}
+function dlAuto(force){
+ try{
+  if(!window.caches||dlState.busy||!userName())return;
+  var s=ls("settings",{});if(!s.dlWifi)return;
+  if(!dlWifiOK())return;
+  var last=+localStorage.getItem("dl_check")||0;
+  if(!force&&Date.now()-last<43200000)return;
+  localStorage.setItem("dl_check",String(Date.now()));
+  dlRun({auto:true}).catch(function(){})}catch(e){}}
+if(typeof setTimeout==="function"&&typeof document!=="undefined"){
+ setTimeout(function(){dlAuto(false)},6000);
+ try{if(navigator.connection&&navigator.connection.addEventListener)navigator.connection.addEventListener("change",function(){dlAuto(false)})}catch(e){}}

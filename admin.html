@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<script>/* Garde : sans compte, aller à la connexion avant tout affichage */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html")}}catch(e){}</script>
+<script>/* Garde : abonnement et administration exigent un vrai compte (pas de mode invité) */var NEEDS_ACCOUNT=true;(function(){try{var g=localStorage.getItem("guest")==="1"&&!localStorage.getItem("sb_session");if(!localStorage.getItem("user_name")||g){document.documentElement.style.display="none";location.replace("login-app.html?next="+encodeURIComponent(location.pathname.split("/").pop()||"index.html")+(g?"&m=s":""))}}catch(e){}})()</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>

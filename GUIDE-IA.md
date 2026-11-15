@@ -28,8 +28,9 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `exercices/<cycle>/exercice-<ex>-<titre>.html` | Page de présentation d'une série d'exercices (type `Exercices`) | **NON : générée** par `outils/generer-pages.js` |
 | `programmes/<cycle>/programme-<pg>-<titre>.html` | Page de présentation d'un programme (type `Programmes`) | **NON : générée** par `outils/generer-pages.js` |
 | `evaluations/<cycle>/evaluation-<ev>-<titre>.html` | Page de présentation d'une évaluation (type `Évaluations`) | **NON : générée** par `outils/generer-pages.js` |
-| `sw.js` | Cache hors ligne + numéro `VERSION` | Seulement `VERSION` (listes COURS/CONTENU = automatiques ; elles ne sont plus préchargées, voir `PROJET.md`) |
-| `supabase/` | Scripts SQL (`01-auth.sql`, `02-user-data.sql`) et mode d'emploi (`LISEZMOI.md`) de la base de données | NON, sauf tâche « base de données » demandée |
+| `sw.js` | Cache hors ligne + numéro `VERSION` ; cache `telechargements` des contenus téléchargés | Seulement `VERSION` (listes COURS/CONTENU = automatiques ; elles ne sont plus préchargées, voir `PROJET.md`) |
+| `contenu/index-versions.json` | Empreinte de chaque fichier téléchargeable hors ligne (sert à la mise à jour incrémentale) | **NON : généré** par `outils/generer-versions.js` (appelé par `generer-pages.js`) ; toujours le republier |
+| `supabase/` | Scripts SQL (`01-auth.sql`, `02-user-data.sql`, `03-abonnement-codes.sql`, `04-essai-gratuit.sql`) et mode d'emploi (`LISEZMOI.md`) de la base de données | NON, sauf tâche « base de données » demandée |
 | `sitemap.xml`, `robots.txt` | Référencement | **NON : générés** |
 | `lecon.html` | Page de lecture d'une partie (lit le fichier de contenu, via `contentFile(d)` de `data.js`) | Seulement si on change l'affichage de la lecture |
 | `blocs.js` | Affichage des blocs (quiz, exercices, tableaux…) | Seulement pour créer un **nouveau type de bloc** |
@@ -38,11 +39,12 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `catalogue.html` | Catalogue, recherche, filtres | Seulement pour changer le catalogue |
 | `favoris.html`, `panier.html`, `abonnement.html`, `profil.html`, `parametres.html`, `cycles.html`, `contact.html`, `pdf.html` | Une page chacune | Seulement la page demandée |
 | `admin.html` | Page administrateur : générer et gérer les codes d'activation (voir `PROJET.md`) | Seulement pour la gestion des codes |
-| `login-app.html` | Inscription, connexion, mot de passe oublié (Supabase : URL et clé déjà renseignées) | NON, sauf demande explicite sur la connexion |
+| `login-app.html` | Inscription, connexion, mot de passe oublié (Supabase : URL et clé déjà renseignées) et « Continuer sans compte » (mode invité, voir `PROJET.md`) | NON, sauf demande explicite sur la connexion |
 | `cours.html` | Simple page de redirection (noindex) | NON |
 | `manifest.json`, `logo.png`, `icon-*.png` | Installation de l'application (PWA) et icônes | NON, sauf demande explicite |
 | `outils/generer-pages.js` | Reconstruit le catalogue de `data.js`, puis génère les pages `cours/…` et `fiches/…`, sitemap, robots, listes de `sw.js` | À lancer, pas à modifier |
 | `outils/catalogue.js` | Lit les clés `meta` des fichiers de `contenu/` et écrit le catalogue | À lancer indirectement, pas à modifier |
+| `outils/generer-versions.js` | Écrit `contenu/index-versions.json` | À lancer, pas à modifier |
 | `outils/valider-contenu.js` | Vérifie les fichiers de `contenu/` (format, `meta`, emplacement, catalogue à jour) | À lancer, pas à modifier |
 
 ## TÂCHE A : remplir un cours existant (page « démo » vide)
@@ -100,6 +102,7 @@ Procédure rodée avec les annales. Chaque type a son dossier, son guide et sa n
 - Ne pas ajouter `COURS` ni `CONTENU` à la liste préchargée de `sw.js` (`PAGES`).
 - Ne pas ajouter de bibliothèque ni de framework. Le code reste en JavaScript simple (compatible vieux téléphones : pas de syntaxe très récente).
 - Ne pas modifier le comportement du bouton Retour (`course.js`) ni la mise à jour (`parametres.html`, `sw.js`) sauf demande explicite.
+- Ne pas modifier le mois gratuit (`supabase/04-essai-gratuit.sql`, `PLAN_ESSAI`, boîte de bienvenue) ni le téléchargement hors ligne (`dlRun`, `dlAuto`, cache `telechargements`, règles « reload » de `sw.js`) sans demande explicite : voir les prompts 20 et 21 de `PROMPTS.md`.
 - Ne pas mettre de vrais contenus payants si l'on n'a pas de serveur : `contenu/*.json` est public (site statique sur GitHub Pages). Cette règle sera à revoir le jour où les paiements et un serveur seront en place : ne pas la contourner avant.
 - Ne pas modifier le prix d'un cours directement dans sa ligne `pr` : il est écrasé par `PRIX_CYCLE`.
 
