@@ -161,6 +161,7 @@ const swp=path.join(root,"sw.js");let sw=fs.readFileSync(swp,"utf8");
 sw=sw.replace(/var COURS=\[[^\]]*\];/,"var COURS="+JSON.stringify(ALLDOCS.filter(d=>d.k!=="Fiches").map(docFile))+";");
 sw=sw.replace(/var CONTENU=\[[^\]]*\];/,"var CONTENU="+JSON.stringify(ALLDOCS.filter(d=>d.k!=="Fiches").map(contentFile))+";");
 fs.writeFileSync(swp,sw);
+require("./generer-versions.js"); /* empreintes des fichiers pour la mise à jour incrémentale hors ligne */
 
 if(SITE){
  const root_pages=["index.html","catalogue.html","abonnement.html"];
