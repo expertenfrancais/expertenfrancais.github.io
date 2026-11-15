@@ -1,0 +1,247 @@
+{
+ "id": 10099,
+ "meta": {
+  "t": "Les conjonctions de subordination",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "fn": 99,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.7 : Les conjonctions de subordination",
+  "codeMatrice": "MF6.2.7",
+  "categorie": "Les conjonctions",
+  "savoirEssentiel": "Les conjonctions de subordination",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’utilisation des conjonctions.",
+  "situation": "Frédéric écrit un discours pour la cérémonie de mariage de sa sœur. Il le présente à ses amis pour lecture. Ceux-ci constatent que les conjonctions y sont mal employées. Ils l’instruisent sur le rôle et la valeur des connecteurs logiques dans un texte. Par la suite, ils lui proposent des exercices pour l’entraîner à bien les employer et lui demandent de réécrire son discours en mettant l’accent sur les conjonctions de subordination.",
+  "numero": 26,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.7 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une proposition ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un groupe de mots organisé autour d’un verbe conjugué."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’une conjonction de coordination ? Donne un exemple.",
+     "app": "Les apprenants répondent :\nR2 : C’est un mot qui relie des propositions de même nature. Exemple : et, mais, car."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’une phrase complexe ?",
+     "app": "Les apprenants répondent :\nR3 : C’est une phrase qui contient plusieurs verbes conjugués."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un discours écrit par Frédéric pour le mariage de sa sœur."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Que constatent les amis de Frédéric ?",
+     "app": "Les apprenants répondent :\nR2 : Ses amis constatent que les conjonctions y sont mal employées."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que font-ils pour l’aider ?",
+     "app": "Les apprenants répondent :\nR3 : Ils lui expliquent le rôle des connecteurs logiques, lui proposent des exercices, puis lui demandent de réécrire son discours."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Frédéric, nous allons apprendre à reconnaître et employer les conjonctions de subordination.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et employer les conjonctions de subordination."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte support proposé par l’enseignant.",
+    "Repérer/Souligner les conjonctions de subordination.",
+    "Déterminer le rôle de chaque conjonction de subordination repérée : cause, conséquence, but, condition… Séparer par un trait la proposition principale de la proposition subordonnée dans chaque phrase.",
+    "Utiliser les conjonctions de subordination dans des phrases."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Nous sommes heureux parce que votre union commence aujourd’hui.\n2. Les invités sont venus si nombreux que la salle est pleine.\n3. Les familles se sont réunies afin que la fête soit belle.\n4. Si vous restez unis, vous serez heureux.\n5. Quand le soleil se couche, la fête commence.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer/Souligner les conjonctions de subordination.\nQ1 : Quelles sont les conjonctions de subordination ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Parce que ; si… que ; afin que ; si ; quand."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de déterminer le rôle de chaque conjonction de subordination repérée : cause, conséquence, but, condition… Séparer par un trait la proposition principale de la proposition subordonnée dans chaque phrase.\nQ2 : Quel est le rôle de chaque conjonction ? Où sépare-t-on la principale de la subordonnée ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : Parce que : la cause. Si… que : la conséquence. Afin que : le but. Si : la condition. Quand : le temps. Nous sommes heureux / parce que votre union commence aujourd’hui. Les invités sont venus si nombreux / que la salle est pleine. Les familles se sont réunies / afin que la fête soit belle. Si vous restez unis, / vous serez heureux. Quand le soleil se couche, / la fête commence."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de utiliser les conjonctions de subordination dans des phrases.\nQ3 : Construis une phrase avec « parce que » et une avec « afin que ».",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR3 : Exemple : Je prends un parapluie parce que la pluie tombe. Je travaille afin que mes parents soient fiers."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les conjonctions de subordination."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quel est leur rôle ?",
+     "app": "Les apprenants répondent :\nR2 : Elles introduisent une proposition subordonnée et expriment la cause, la conséquence, le but, la condition ou le temps."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite quatre conjonctions de subordination.",
+     "app": "Les apprenants répondent :\nR3 : Parce que, si, quand, afin que."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Complète chaque phrase avec la conjonction qui convient : parce que ; afin que ; si ; quand.",
+    "situation": "Tu aides Frédéric à réécrire son discours de mariage.",
+    "criteres": [
+     "Phrase 1 : parce que (cause).",
+     "Phrase 2 : quand (temps).",
+     "Phrase 3 : si (condition).",
+     "Phrase 4 : afin que (but)."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Je prends un parapluie … la pluie tombe.\n2. Nous partirons … tu es prêt.\n3. Tu réussiras … tu travailles.\n4. Papa travaille … nous soyons heureux.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Les conjonctions de subordination",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Une conjonction de subordination introduit une proposition subordonnée et la rattache à la proposition principale. Elle exprime un rapport logique."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Rôle",
+     "Conjonction",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "cause",
+      "parce que",
+      "Nous sommes heureux parce que votre union commence."
+     ],
+     [
+      "conséquence",
+      "si… que",
+      "Ils sont venus si nombreux que la salle est pleine."
+     ],
+     [
+      "but",
+      "afin que",
+      "Les familles se sont réunies afin que la fête soit belle."
+     ],
+     [
+      "condition",
+      "si",
+      "Si vous restez unis, vous serez heureux."
+     ],
+     [
+      "temps",
+      "quand",
+      "Quand le soleil se couche, la fête commence."
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Les familles se sont réunies afin que la fête soit belle."
+   },
+   {
+    "type": "nb",
+    "text": "Afin que est suivi du subjonctif : afin que la fête soit belle."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "La conjonction de subordination introduit une subordonnée.",
+     "Elle exprime la cause, la conséquence, le but, la condition ou le temps.",
+     "On sépare la principale de la subordonnée par un trait."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’entoure la conjonction de subordination.",
+    "items": [
+     "Je reste parce que je suis fatigué.",
+     "Si tu viens, je serai content.",
+     "Quand il pleut, nous rentrons."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le rôle de la conjonction.",
+    "texte": "Choix : cause ; but ; condition ; temps.",
+    "items": [
+     "Je travaille afin que tu réussisses.",
+     "Si tu veux, je viendrai.",
+     "Il pleure parce qu’il est triste.",
+     "Quand tu arriveras, nous mangerons."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase avec chaque conjonction.",
+    "items": [
+     "si",
+     "quand",
+     "parce que"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : parce que ; si ; quand.",
+  "Exercice 2 : but ; condition ; cause ; temps.",
+  "Exercice 3 : réponses libres. Exemples : Si tu viens, je serai heureux. Quand il pleut, je reste. Je souris parce que je suis content.",
+  "Évaluation : un point par conjonction exacte (4 points)."
+ ]
+}

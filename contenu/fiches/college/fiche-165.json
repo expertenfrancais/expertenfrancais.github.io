@@ -1,0 +1,295 @@
+{
+ "id": 10165,
+ "meta": {
+  "t": "Les caractéristiques du poème classique",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "b",
+  "r": 4.8,
+  "fn": 165,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Lecture",
+  "titre": "Fiche d’exploitation de la matrice MF6.1.3 : Les caractéristiques du poème classique",
+  "codeMatrice": "MF6.1.3",
+  "categorie": "Les types de textes",
+  "savoirEssentiel": "Les caractéristiques d’un poème classique",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à la spécificité de chaque texte.",
+  "situation": "Madame Gertrude raconte des histoires tous les soirs. Paul, son fils, les compile et produit un recueil de textes. Il demande à sa cousine Bienheureuse de classer ces textes par catégorie. Sachant qu’elle ne peut distinguer les types de textes, Paul décide alors de lire et d’analyser les textes compilés avec sa cousine afin de l’aider à spécifier chaque texte contenu dans le recueil. Après ces séances d’entraînement, Bienheureuse est amenée à identifier le type de chaque texte qui lui est présenté en précisant ses caractéristiques.",
+  "numero": 54,
+  "date": "",
+  "duree": "2 h",
+  "support": "Poème écrit au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.1.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un texte ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un ensemble de phrases qui parlent d’un même sujet."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un poème ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un texte écrit en vers, souvent organisé en strophes."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un vers ?",
+     "app": "Les apprenants répondent :\nR3 : C’est une ligne d’un poème."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : Paul, qui a rassemblé en un recueil les histoires racontées par sa mère, Madame Gertrude, demande à sa cousine Bienheureuse de classer ces textes par catégorie."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Bienheureuse ne sait pas distinguer les types de textes."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Paul lit et analyse les textes avec sa cousine pour l’aider à spécifier chaque texte du recueil."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider le personnage, nous allons étudier les caractéristiques du poème classique.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir comment reconnaître un poème classique."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le poème proposé par l’enseignant.",
+    "Indiquer la structure du poème (le nombre de strophes).",
+    "Préciser le nombre de vers dans chaque strophe.",
+    "Nommer chaque strophe.",
+    "Décompter les vers du poème.",
+    "Nommer les vers du poème.",
+    "Souligner les mots qui ont des sons identiques (qui se répètent) à la fin des vers.",
+    "Nommer les sons.",
+    "Dégager la nature du poème étudié en s’inspirant des activités précédentes.",
+    "Citer les éléments caractéristiques du poème classique en s’inspirant des indices repérés.",
+    "Rappeler les différentes étapes suivies pour dégager les caractéristiques d’un poème classique.",
+    "Appliquer la démarche suivie à un autre poème classique."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le poème au tableau, le lit avec expression, puis demande une lecture silencieuse.",
+     "texte": "Après la pluie\nLa pluie tombe sur le village,\nLe vent chante dans les palmiers ;\nLes enfants dansent sous l’orage,\nIls sont heureux d’être mouillés.\nLes ruisseaux courent dans la rue\nEt sautent sur le vieux sentier ;\nMon frère, ravi de la vue,\nLance des bateaux de papier.\nQuand le soleil revient enfin,\nL’arc-en-ciel brille sur la plaine ;\nTout le monde, sur le chemin,\nChante la joie des jours sans peine.",
+     "app": "Les apprenants lisent silencieusement le poème, puis quelques-uns le lisent à haute voix."
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer la structure du poème :\nQ1 : Combien de strophes le poème comporte-t-il ?",
+     "app": "Les apprenants répondent :\nR1 : Le poème comporte trois strophes. Une strophe est un groupe de vers séparé des autres par un blanc.",
+     "a": 2
+    },
+    {
+     "ens": "L’enseignant demande de préciser le nombre de vers :\nQ2 : Combien de vers y a-t-il dans chaque strophe ?",
+     "app": "Les apprenants répondent :\nR2 : Il y a quatre vers dans chaque strophe.",
+     "a": 3
+    },
+    {
+     "ens": "L’enseignant demande de nommer chaque strophe :\nQ3 : Comment appelle-t-on une strophe de quatre vers ?",
+     "app": "Les apprenants répondent :\nR3 : Une strophe de quatre vers s’appelle un quatrain. Ce poème est formé de trois quatrains.",
+     "a": 4
+    },
+    {
+     "ens": "L’enseignant demande de décompter les vers du poème :\nQ4 : Combien de vers le poème compte-t-il en tout ?",
+     "app": "Les apprenants répondent :\nR4 : Trois quatrains de quatre vers font douze vers.",
+     "a": 5
+    },
+    {
+     "ens": "L’enseignant fait scander le premier vers, puis demande de nommer les vers :\nQ5 : Combien de syllabes comporte chaque vers ? Comment nomme-t-on ce vers ?",
+     "app": "Les apprenants scandent le vers en comptant sur les doigts, vérifient les autres vers par groupes, puis répondent :\nR5 : On compte les syllabes que l’on prononce. Exemple : La / pluie / tom / be / sur / le / vil / la(ge) : huit syllabes. Le e muet à la fin du vers ne se compte pas ; devant une consonne il se compte. Tous les vers ont huit syllabes : ce sont des octosyllabes.",
+     "a": 6
+    },
+    {
+     "ens": "L’enseignant demande de souligner les mots qui ont des sons identiques à la fin des vers :\nQ6 : Quels mots ont les mêmes sons à la fin des vers ?",
+     "app": "Les apprenants soulignent les mots à la fin des vers au tableau et sur leur cahier, puis répondent :\nR6 : Strophe 1 : village et orage ; palmiers et mouillés. Strophe 2 : rue et vue ; sentier et papier. Strophe 3 : enfin et chemin ; plaine et peine.",
+     "a": 7
+    },
+    {
+     "ens": "L’enseignant demande de nommer les sons :\nQ7 : Comment appelle-t-on ces sons qui se répètent à la fin des vers ? Comment sont-ils disposés ?",
+     "app": "Les apprenants répondent :\nR7 : On les appelle des rimes. Dans chaque strophe, le premier vers rime avec le troisième et le deuxième avec le quatrième : ce sont des rimes croisées (ABAB).",
+     "a": 8
+    },
+    {
+     "ens": "L’enseignant demande de dégager la nature du poème :\nQ8 : De quelle nature est ce poème ?",
+     "app": "Les apprenants répondent :\nR8 : C’est un poème classique : il est organisé en strophes régulières, ses vers ont la même longueur et il y a des rimes.",
+     "a": 9
+    },
+    {
+     "ens": "L’enseignant demande de citer les éléments caractéristiques :\nQ9 : Quels sont les éléments caractéristiques du poème classique ?",
+     "app": "Les apprenants citent les éléments, puis l’enseignant écrit au tableau :\nR9 : Des strophes régulières (ici des quatrains) ; des vers de même mesure (ici des octosyllabes) ; des rimes (ici croisées).",
+     "a": 10
+    },
+    {
+     "ens": "L’enseignant demande de rappeler les étapes suivies :\nQ10 : Quelles étapes avons-nous suivies pour dégager ces caractéristiques ?",
+     "app": "Les apprenants répondent :\nR10 : Lire le poème ; compter les strophes et les vers ; nommer les strophes ; mesurer les vers ; relever les rimes ; conclure sur la nature du poème.",
+     "a": 11
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : Les caractéristiques du poème classique."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment reconnaît-on un poème classique ?",
+     "app": "Les apprenants répondent :\nR2 : Il a des strophes régulières, des vers de même mesure et des rimes."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelles sont les étapes de l’étude ?",
+     "app": "Les apprenants répondent :\nR3 : Compter les strophes, compter et nommer les vers, relever les rimes, conclure."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "action": 12,
+    "item": "Relève trois caractéristiques qui montrent que le poème suivant est classique.",
+    "situation": "Après ces séances d’entraînement, Bienheureuse doit identifier le type de chaque texte en précisant ses caractéristiques.",
+    "criteres": [
+     "Il indique la strophe : un quatrain de quatre vers.",
+     "Il indique la mesure des vers : des octosyllabes (huit syllabes).",
+     "Il relève les rimes croisées : cartable et agréable ; chemin et entrain."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit un autre poème au tableau, donne l’item par écrit et fait appliquer la démarche suivie.",
+     "texte": "Mon école\nLe matin, je prends mon cartable,\nJe pars, joyeux, sur le chemin ;\nÉtudier est bien agréable,\nJe lis, j’écris avec entrain.",
+     "app": "Chaque apprenant lit le poème, compte les strophes, les vers et les syllabes, relève les rimes et écrit trois caractéristiques."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, relève les bonnes réponses et fait corriger les erreurs.",
+     "app": "Quelques apprenants lisent leur réponse ; les autres complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Lecture : Les caractéristiques du poème classique",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un poème classique est un texte écrit en vers, organisé en strophes régulières, avec des vers de même mesure et des rimes."
+   },
+   {
+    "type": "h",
+    "text": "1- Les strophes et les vers"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Strophe",
+     "Nombre de vers"
+    ],
+    "rows": [
+     [
+      "le distique",
+      "2"
+     ],
+     [
+      "le tercet",
+      "3"
+     ],
+     [
+      "le quatrain",
+      "4"
+     ]
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Un vers est une ligne du poème. On le nomme selon le nombre de syllabes : l’octosyllabe a 8 syllabes, le décasyllabe 10 syllabes, l’alexandrin 12 syllabes."
+   },
+   {
+    "type": "nb",
+    "text": "Pour compter les syllabes, on compte ce que l’on prononce. Le e muet à la fin d’un vers ne se compte pas ; devant une consonne, il se compte."
+   },
+   {
+    "type": "h",
+    "text": "2- Les rimes"
+   },
+   {
+    "type": "p",
+    "text": "Les rimes sont les sons identiques à la fin des vers. Elles peuvent être croisées (ABAB), plates (AABB) ou embrassées (ABBA)."
+   },
+   {
+    "type": "ex",
+    "text": "Dans la première strophe : village (A), palmiers (B), orage (A), mouillés (B) : les rimes sont croisées."
+   },
+   {
+    "type": "texte",
+    "titre": "Poème étudié",
+    "text": "Après la pluie\nLa pluie tombe sur le village,\nLe vent chante dans les palmiers ;\nLes enfants dansent sous l’orage,\nIls sont heureux d’être mouillés.\nLes ruisseaux courent dans la rue\nEt sautent sur le vieux sentier ;\nMon frère, ravi de la vue,\nLance des bateaux de papier.\nQuand le soleil revient enfin,\nL’arc-en-ciel brille sur la plaine ;\nTout le monde, sur le chemin,\nChante la joie des jours sans peine."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un poème classique est formé de strophes régulières, de vers de même mesure et de rimes.",
+     "Ici : 3 quatrains, 12 octosyllabes, rimes croisées (ABAB).",
+     "On le reconnaît en comptant les strophes, les vers et les syllabes, puis en relevant les rimes."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je réponds sur le poème « Après la pluie ».",
+    "items": [
+     "Combien de strophes ?",
+     "Combien de vers par strophe ?",
+     "Comment nomme-t-on chaque strophe ?",
+     "Combien de vers y a-t-il en tout ?"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je relève les mots à la rime dans la deuxième strophe et j’indique la disposition des rimes.",
+    "items": [
+     "Les mots à la rime",
+     "La disposition des rimes (croisées, plates ou embrassées)"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je compte les syllabes de ces trois vers et je nomme le vers.",
+    "items": [
+     "Quand le soleil revient enfin,",
+     "L’arc-en-ciel brille sur la plaine ;",
+     "Chante la joie des jours sans peine."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : trois strophes ; quatre vers par strophe ; des quatrains ; douze vers en tout.",
+  "Exercice 2 : rue / vue (A) ; sentier / papier (B) ; les rimes sont croisées (ABAB).",
+  "Exercice 3 : Quand / le / so / leil / re / vient / en / fin (8) ; L’arc / en / ciel / bril / le / sur / la / plai(ne) (8) ; Chan / te / la / joie / des / jours / sans / pei(ne) (8). Ce sont des octosyllabes.",
+  "Évaluation : un point pour chaque caractéristique juste (quatrain, octosyllabes, rimes croisées) : cartable / agréable (A) et chemin / entrain (B)."
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "id": 10076,
+ "meta": {
+  "t": "Le groupe verbal : verbe + complément circonstanciel",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "fn": 76,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.1 : Le groupe verbal : verbe + complément circonstanciel",
+  "codeMatrice": "MF5.2.1",
+  "categorie": "Les constituants de la phrase simple",
+  "savoirEssentiel": "Le groupe verbal composé d’un verbe + un complément circonstanciel",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative aux constituants de la phrase simple.",
+  "situation": "Chimène est en vacances à Idoubi, son village natal. Deux de ses amies d’enfance lui demandent de rédiger une lettre qu’elles veulent envoyer à leur cousine vivant à Sibiti. Cette correspondance concerne une commande de quelques produits cosmétiques et alimentaires. Cependant, en rédigeant la lettre, la jeune fille émet des doutes sur la composition de certains ensembles nominaux et verbaux que lui communiquent ses camarades, comme « Envoie-nous un savon noir, un savon de Marseille et un kilogramme des pieds de porc. Ce colis, nous l’attendrons demain. Fais de ton mieux, s’il te plaît, nous sommes impatientes. » De retour à la maison, Chimène expose le problème à son père, Monsieur André qui, à son tour, lui présente un texte sur lequel elle va travailler sur le groupe nominal et le groupe verbal.",
+  "numero": 4,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un verbe ?",
+     "app": "Les apprenants répondent :\nR1 : Un verbe est un mot qui exprime une action ou un état et qui se conjugue."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un complément d’objet direct ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un mot ou un groupe de mots qui complète le verbe sans préposition et répond à quoi ? ou qui ?"
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Donne un exemple de phrase avec un verbe et un complément.",
+     "app": "Les apprenants répondent :\nR3 : Exemple : Ma mère prépare le repas."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Chimène, en vacances à Idoubi, qui rédige une lettre pour ses amies afin de commander des produits à leur cousine de Sibiti."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Chimène rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle doute de la composition de certains ensembles nominaux et verbaux."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle expose le problème à son père, Monsieur André, qui lui présente un texte pour travailler sur le groupe nominal et le groupe verbal."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Chimène, nous allons apprendre à reconnaître le groupe verbal formé d’un verbe et d’un complément circonstanciel.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et à analyser le groupe verbal composé d’un verbe et d’un complément circonstanciel."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte.",
+    "Souligner d’un trait les verbes conjugués suivis d’aucun autre élément.",
+    "Souligner de deux traits les ensembles composés d’un verbe conjugué suivi d’autres éléments.",
+    "Encadrer le verbe noyau dans ces ensembles soulignés.",
+    "Nommer l’ensemble des éléments par rapport à ce verbe-noyau.",
+    "Définir une expansion du verbe.",
+    "Indiquer la nature et la fonction de chacun de ces expansions du verbe.",
+    "Relever les ensembles constitués d’un verbe et d’un complément circonstanciel.",
+    "Préciser chaque complément circonstanciel rattaché au verbe-noyau.",
+    "Expliquer la relation existant entre chaque complément circonstanciel et le verbe-noyau.",
+    "Nommer l’ensemble composé du verbe et de ses expansions.",
+    "Définir le groupe verbal.",
+    "Rappeler la démarche."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "texte": "1. Les amies de Chimène rient.\n2. Chimène écrit sa lettre dans la cuisine.\n3. Le colis arrive demain à Sibiti.\n4. La cousine attend le colis avec impatience.\n5. Monsieur André sourit.\n6. Les enfants chantent dans la cour.",
+     "app": "Les apprenants lisent silencieusement le texte, puis quelques-uns le lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner d’un trait les verbes conjugués suivis d’aucun autre élément.\nQ1 : Quels verbes ne sont suivis d’aucun autre élément ?",
+     "app": "Les apprenants soulignent ces verbes d’un trait dans leur cahier.\nR1 : Rient (phrase 1) ; sourit (phrase 5)."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de souligner de deux traits les ensembles composés d’un verbe conjugué suivi d’autres éléments.\nQ2 : Quels ensembles sont formés d’un verbe suivi d’autres éléments ?",
+     "app": "Les apprenants soulignent ces ensembles de deux traits.\nR2 : Écrit sa lettre dans la cuisine ; arrive demain à Sibiti ; attend le colis avec impatience ; chantent dans la cour."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’encadrer le verbe noyau dans ces ensembles.\nQ3 : Quel est le verbe noyau de chaque ensemble ?",
+     "app": "Les apprenants encadrent le verbe de chaque ensemble.\nR3 : Écrit ; arrive ; attend ; chantent."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de nommer l’ensemble des éléments qui accompagnent le verbe noyau.\nQ4 : Comment appelle-t-on les éléments qui accompagnent le verbe ?",
+     "app": "Les apprenants cherchent le nom de ces éléments.\nR4 : Ce sont les expansions du verbe (ses compléments)."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de définir une expansion du verbe.\nQ5 : Qu’est-ce qu’une expansion du verbe ?",
+     "app": "Les apprenants formulent la définition avec l’aide de l’enseignant.\nR5 : C’est un mot ou un groupe de mots qui complète ou précise le verbe."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande d’indiquer la nature et la fonction de chaque expansion du verbe.\nQ6 : Quelle est la nature et la fonction de « sa lettre », « dans la cuisine », « demain », « à Sibiti », « le colis », « avec impatience » et « dans la cour » ?",
+     "app": "Les apprenants analysent chaque expansion dans un tableau.\nR6 : « Sa lettre » et « le colis » : groupes nominaux, compléments d’objet directs. « Dans la cuisine », « à Sibiti », « avec impatience » et « dans la cour » : groupes nominaux introduits par une préposition, compléments circonstanciels. « Demain » : adverbe, complément circonstanciel."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de relever les ensembles constitués d’un verbe et d’un complément circonstanciel.\nQ7 : Quels ensembles contiennent un complément circonstanciel ?",
+     "app": "Les apprenants relèvent les ensembles qui contiennent un complément circonstanciel.\nR7 : Écrit sa lettre dans la cuisine ; arrive demain à Sibiti ; attend le colis avec impatience ; chantent dans la cour."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de préciser chaque complément circonstanciel rattaché au verbe noyau.\nQ8 : Que précise chaque complément circonstanciel ?",
+     "app": "Les apprenants posent une question au verbe pour trouver le sens de chaque complément.\nR8 : « Dans la cuisine », « à Sibiti » et « dans la cour » précisent le lieu (où ?). « Demain » précise le temps (quand ?). « Avec impatience » précise la manière (comment ?)."
+    },
+    {
+     "a": 10,
+     "ens": "L’enseignant demande d’expliquer la relation entre chaque complément circonstanciel et le verbe noyau.\nQ9 : Quelle relation y a-t-il entre le complément circonstanciel et le verbe ?",
+     "app": "Les apprenants essaient de déplacer et de supprimer le complément circonstanciel.\nR9 : Le complément circonstanciel précise les circonstances de l’action exprimée par le verbe. On peut le déplacer ou le supprimer : Dans la cuisine, Chimène écrit sa lettre."
+    },
+    {
+     "a": 11,
+     "ens": "L’enseignant demande de nommer l’ensemble composé du verbe et de ses expansions.\nQ10 : Comment appelle-t-on l’ensemble formé du verbe et de ses expansions ?",
+     "app": "Les apprenants donnent le nom de l’ensemble.\nR10 : Le groupe verbal."
+    },
+    {
+     "a": 12,
+     "ens": "L’enseignant demande de définir le groupe verbal.\nQ11 : Qu’est-ce qu’un groupe verbal ?",
+     "app": "Les apprenants formulent la définition avec l’aide de l’enseignant.\nR11 : Le groupe verbal est l’ensemble formé d’un verbe noyau et de ses expansions."
+    },
+    {
+     "a": 13,
+     "ens": "L’enseignant demande de rappeler la démarche suivie.\nQ12 : Quelle démarche avons-nous suivie ?",
+     "app": "Les apprenants rappellent les étapes.\nR12 : Nous avons repéré le verbe, cherché ce qui l’accompagne, nommé les compléments, puis précisé les compléments circonstanciels."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le groupe verbal composé d’un verbe et d’un complément circonstanciel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un groupe verbal ?",
+     "app": "Les apprenants répondent :\nR2 : C’est l’ensemble formé du verbe noyau et de ses expansions."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que précise un complément circonstanciel ?",
+     "app": "Les apprenants répondent :\nR3 : Le lieu, le temps ou la manière de l’action."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Dans chaque phrase, souligne le groupe verbal, encadre le verbe noyau et écris le sens du complément circonstanciel (lieu, temps ou manière).",
+    "situation": "Tu aides Chimène à analyser les phrases de sa lettre.",
+    "criteres": [
+     "Phrase 1 : groupe verbal « répare la radio dans le salon », noyau « répare », complément circonstanciel de lieu « dans le salon ».",
+     "Phrase 2 : groupe verbal « étudient avec attention », noyau « étudient », complément circonstanciel de manière « avec attention ».",
+     "Phrase 3 : groupe verbal « arrive demain », noyau « arrive », complément circonstanciel de temps « demain »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les phrases au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Mon père répare la radio dans le salon.\n2. Les élèves étudient avec attention.\n3. Ma sœur arrive demain.",
+     "app": "Chaque apprenant analyse les trois phrases sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le groupe verbal : verbe + complément circonstanciel",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le groupe verbal est l’ensemble formé d’un verbe noyau et de ses expansions. Une expansion est un mot ou un groupe de mots qui complète ou précise le verbe."
+   },
+   {
+    "type": "h",
+    "text": "1- Le verbe seul"
+   },
+   {
+    "type": "p",
+    "text": "Un verbe peut former à lui seul le groupe verbal."
+   },
+   {
+    "type": "ex",
+    "text": "Monsieur André sourit."
+   },
+   {
+    "type": "h",
+    "text": "2- Le verbe + un complément circonstanciel"
+   },
+   {
+    "type": "p",
+    "text": "Le complément circonstanciel précise le lieu, le temps ou la manière de l’action. On peut le déplacer ou le supprimer."
+   },
+   {
+    "type": "ex",
+    "text": "Les enfants chantent dans la cour."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Complément circonstanciel",
+     "Sens",
+     "Question"
+    ],
+    "rows": [
+     [
+      "dans la cuisine",
+      "lieu",
+      "où ?"
+     ],
+     [
+      "demain",
+      "temps",
+      "quand ?"
+     ],
+     [
+      "avec impatience",
+      "manière",
+      "comment ?"
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Le complément d’objet direct ne peut pas être déplacé. Le complément circonstanciel, lui, peut l’être : Demain, le colis arrive."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le groupe verbal est formé d’un verbe noyau et de ses expansions.",
+     "Le complément circonstanciel est une expansion du verbe.",
+     "Il précise le lieu, le temps ou la manière.",
+     "On peut le déplacer ou le supprimer."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Texte à lire",
+    "text": "Les amies de Chimène rient.\nChimène écrit sa lettre dans la cuisine.\nLe colis arrive demain à Sibiti.\nLa cousine attend le colis avec impatience.\nMonsieur André sourit.\nLes enfants chantent dans la cour."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le groupe verbal et j’encadre le verbe.",
+    "items": [
+     "Les élèves chantent dans la cour.",
+     "Le bus arrive demain.",
+     "Ma mère cuisine avec soin.",
+     "Papa dort."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le sens du complément circonstanciel : lieu, temps ou manière.",
+    "items": [
+     "Nous mangeons à midi.",
+     "Le chien dort sous la table.",
+     "Elle lit avec attention.",
+     "Il part demain."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’ajoute un complément circonstanciel à chaque phrase.",
+    "items": [
+     "Les enfants jouent …",
+     "Maman prépare le repas …",
+     "Le maître écrit …"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. chantent dans la cour (verbe : chantent) ; 2. arrive demain (arrive) ; 3. cuisine avec soin (cuisine) ; 4. dort (dort).",
+  "Exercice 2 : 1. temps ; 2. lieu ; 3. manière ; 4. temps.",
+  "Exercice 3 : réponses libres. Exemples : Les enfants jouent dans la cour. Maman prépare le repas avec soin. Le maître écrit au tableau.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par phrase correctement analysée (3 points)."
+ ]
+}

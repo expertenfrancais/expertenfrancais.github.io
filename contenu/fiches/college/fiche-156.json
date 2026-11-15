@@ -1,0 +1,295 @@
+{
+ "id": 10156,
+ "meta": {
+  "t": "Les éléments de la communication orale",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Expression orale",
+  "img": "b",
+  "r": 4.8,
+  "fn": 156,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression orale",
+  "titre": "Fiche d’exploitation de la matrice MF5.6.2 : Les éléments de la communication orale",
+  "codeMatrice": "MF5.6.2",
+  "categorie": "L’écoute d’un message oral",
+  "savoirEssentiel": "Les éléments de la communication orale",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’écoute d’un message oral.",
+  "situation": "Le 8 mars de chaque année est consacré à la célébration de la Journée internationale de la femme. Au Congo, le Club des Femmes Juristes (CFJ) organise souvent des conférences-débats sur les droits des femmes. Ce jour-là, nombreuses sont les femmes venues participer à ces activités. Un discours est prononcé sur l’historique des droits des femmes. Fleurysa, femme Juriste et membre du Club, est empêchée. Au regard de l’importance de cette communication, celle-ci a recours à Marthe, leader du Club. Cette dernière lui remet une clé USB dans laquelle toutes les communications de la journée sont enregistrées. Elle lui demande de les écouter.",
+  "numero": 45,
+  "date": "",
+  "duree": "1 h",
+  "support": "Message oral lu par l’enseignant ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.6.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un émetteur ?",
+     "app": "Les apprenants répondent :\nR1 : C’est la personne qui envoie le message."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un récepteur ?",
+     "app": "Les apprenants répondent :\nR2 : C’est la personne qui reçoit le message."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un canal de communication ?",
+     "app": "Les apprenants répondent :\nR3 : C’est le moyen par lequel passe le message : la voix, le téléphone, la radio, l’enregistrement."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de la Journée internationale de la femme, célébrée le 8 mars, et d’une conférence organisée par le Club des Femmes Juristes."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Fleurysa, membre du Club, est empêchée d’assister à la conférence."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle demande à Marthe une clé USB contenant les communications enregistrées pour les écouter."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Fleurysa, nous allons apprendre les éléments de la communication orale et la démarche d’écoute d’un message.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir comment bien écouter et comprendre un message oral."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Préciser le canal de communication.",
+    "Écouter le message.",
+    "Identifier - l’émetteur ; - le récepteur ; - le destinataire.",
+    "Déterminer - le thème du message ; - l’objet de la communication orale.",
+    "Relever les mots de liaison.",
+    "Indiquer les indices spatio-temporels.",
+    "Analyser le message.",
+    "Dégager l’intérêt du message.",
+    "Rappeler la démarche de l’écoute d’un message oral."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant demande par quel moyen le message va parvenir aux apprenants.\nQ1 : Par quel moyen le message nous parvient-il ?",
+     "app": "Les apprenants répondent :\nR1 : Par la voix de l’enseignant, comme dans une conférence : le canal est la voix (ou l’enregistrement audio de la conférence)."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant lit le message à haute voix, deux fois, lentement, les cahiers fermés.",
+     "texte": "Mesdames, messieurs, chères participantes,\nAujourd’hui, 8 mars, nous célébrons la Journée internationale de la femme. Autrefois, dans beaucoup de pays, les femmes ne pouvaient ni voter ni diriger.\nD’abord, elles ont réclamé le droit d’aller à l’école. Ensuite, elles ont obtenu le droit de voter. Enfin, elles occupent aujourd’hui des postes de responsabilité.\nPourtant, beaucoup reste à faire : au Congo comme ailleurs, il faut encore protéger les femmes contre les violences. C’est pourquoi je vous invite à connaître vos droits et à les défendre. Merci.",
+     "app": "Les apprenants écoutent attentivement et notent quelques mots clés."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande d’identifier l’émetteur, le récepteur et le destinataire.\nQ2 : Qui parle ? Qui reçoit le message ? À qui le message est-il destiné ?",
+     "app": "Les apprenants répondent :\nR2 : L’émetteur est la conférencière ; le récepteur est celui qui écoute (Fleurysa ou nous) ; le destinataire est le public de la conférence : les participantes."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de déterminer le thème et l’objet de la communication.\nQ3 : De quoi parle le message ? Pourquoi la conférencière parle-t-elle ?",
+     "app": "Les apprenants répondent :\nR3 : Le thème est l’histoire des droits des femmes. L’objet est d’informer et d’inviter les femmes à connaître et à défendre leurs droits."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de relever les mots de liaison.\nQ4 : Quels mots relient les idées dans le message ?",
+     "app": "Les apprenants réécoutent ou relisent, puis répondent :\nR4 : D’abord, ensuite, enfin, pourtant, c’est pourquoi."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’indiquer les indices spatio-temporels.\nQ5 : Quels mots indiquent le temps et le lieu ?",
+     "app": "Les apprenants répondent :\nR5 : Le temps : aujourd’hui, 8 mars, autrefois. Le lieu : dans beaucoup de pays, au Congo, ailleurs."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande d’analyser le message.\nQ6 : Comment les idées sont-elles organisées ?",
+     "app": "Les apprenants répondent :\nR6 : Le message présente le passé (autrefois), les progrès (d’abord, ensuite, enfin), puis un appel à agir (pourtant, c’est pourquoi)."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de dégager l’intérêt du message.\nQ7 : En quoi ce message est-il utile ?",
+     "app": "Les apprenants répondent :\nR7 : Il fait connaître l’histoire des droits des femmes et encourage chacun à les respecter et à les défendre."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de rappeler la démarche de l’écoute d’un message oral.\nQ8 : Que faut-il faire pour bien comprendre un message oral ?",
+     "app": "Les apprenants rappellent la démarche :\nR8 : Préciser le canal, écouter, identifier l’émetteur, le récepteur et le destinataire, trouver le thème et l’objet, relever les mots de liaison et les indices de temps et de lieu, analyser le message, dégager son intérêt."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : Les éléments de la communication orale."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels sont ces éléments ?",
+     "app": "Les apprenants répondent :\nR2 : Le canal, l’émetteur, le récepteur, le destinataire, le thème et l’objet du message."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment se rendre maître d’un message oral ?",
+     "app": "Les apprenants répondent :\nR3 : On l’écoute avec attention, puis on repère les mots de liaison, les indices de temps et de lieu et l’intérêt du message."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "oral",
+    "item": "Indique trois éléments qui peuvent te permettre de t’approprier un message oral.",
+    "situation": "Tu écoutes un message oral à la radio.",
+    "criteres": [
+     "Il cite trois éléments exacts parmi : l’émetteur, le récepteur, le destinataire, le thème, l’objet, les mots de liaison, les indices spatio-temporels, le canal.",
+     "Il s’exprime à haute voix, en phrases correctes."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item à l’oral et laisse deux minutes de réflexion.",
+     "app": "Chaque apprenant réfléchit, puis les apprenants interrogés répondent à haute voix."
+    },
+    {
+     "ens": "L’enseignant écoute, valide les bonnes réponses et fait corriger les erreurs.",
+     "app": "Les autres apprenants complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression orale : Les éléments de la communication orale",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La communication orale est un échange de messages par la parole. Pour bien comprendre un message, il faut en repérer les éléments."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Élément",
+     "Définition",
+     "Exemple dans le message écouté"
+    ],
+    "rows": [
+     [
+      "Canal",
+      "Le moyen par lequel passe le message",
+      "La voix, l’enregistrement"
+     ],
+     [
+      "Émetteur",
+      "Celui qui parle",
+      "La conférencière"
+     ],
+     [
+      "Récepteur",
+      "Celui qui écoute et reçoit",
+      "Fleurysa, qui écoute l’enregistrement"
+     ],
+     [
+      "Destinataire",
+      "Celui à qui le message est destiné",
+      "Les participantes à la conférence"
+     ],
+     [
+      "Thème",
+      "Ce dont on parle",
+      "L’histoire des droits des femmes"
+     ],
+     [
+      "Objet",
+      "Le but de la communication",
+      "Informer et inviter à défendre ses droits"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "La démarche d’écoute"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Préciser le canal.",
+     "Écouter attentivement.",
+     "Identifier l’émetteur, le récepteur et le destinataire.",
+     "Trouver le thème et l’objet.",
+     "Relever les mots de liaison et les indices de temps et de lieu.",
+     "Analyser le message et dégager son intérêt."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Message écouté",
+    "text": "Mesdames, messieurs, chères participantes,\nAujourd’hui, 8 mars, nous célébrons la Journée internationale de la femme. Autrefois, dans beaucoup de pays, les femmes ne pouvaient ni voter ni diriger.\nD’abord, elles ont réclamé le droit d’aller à l’école. Ensuite, elles ont obtenu le droit de voter. Enfin, elles occupent aujourd’hui des postes de responsabilité.\nPourtant, beaucoup reste à faire : au Congo comme ailleurs, il faut encore protéger les femmes contre les violences. C’est pourquoi je vous invite à connaître vos droits et à les défendre. Merci."
+   },
+   {
+    "type": "ex",
+    "text": "« Aujourd’hui, 8 mars, nous célébrons… » : « aujourd’hui » et « 8 mars » sont des indices de temps."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le canal, l’émetteur, le récepteur et le destinataire sont les éléments de la communication orale.",
+     "Le thème dit de quoi on parle ; l’objet dit pourquoi on parle.",
+     "Les mots de liaison (d’abord, ensuite, enfin…) montrent l’ordre des idées.",
+     "Les indices de temps et de lieu situent le message."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je complète avec canal, émetteur, récepteur ou destinataire.",
+    "items": [
+     "Celui qui parle est l’……",
+     "La radio est un ……",
+     "Celui qui écoute est le ……",
+     "Les élèves à qui le directeur s’adresse sont les ……"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’analyse ce message.",
+    "texte": "« Hier, à Pointe-Noire, la Croix-Rouge a distribué des moustiquaires aux familles. D’abord, les agents ont expliqué leur usage ; ensuite, ils ont remis les moustiquaires. »",
+    "items": [
+     "Quel est le thème ?",
+     "Quels sont les mots de liaison ?",
+     "Quels sont les indices de temps et de lieu ?"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris deux phrases pour résumer le message écouté en classe.",
+    "items": [
+     "Phrase 1 : le thème",
+     "Phrase 2 : l’intérêt du message"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : émetteur ; canal ; récepteur ; destinataires.",
+  "Exercice 2 : le thème est la distribution des moustiquaires ; mots de liaison : d’abord, ensuite ; indices : hier (temps) ; à Pointe-Noire (lieu).",
+  "Exercice 3 : réponses libres. Exemple : Le message parle de l’histoire des droits des femmes. Il est utile car il invite chacun à les défendre.",
+  "Évaluation : 1 point par élément juste (3 points)."
+ ]
+}

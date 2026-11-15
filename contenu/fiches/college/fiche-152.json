@@ -1,0 +1,262 @@
+{
+ "id": 10152,
+ "meta": {
+  "t": "Le type de discours",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression orale",
+  "img": "a",
+  "r": 4.8,
+  "fn": 152,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression orale",
+  "titre": "Fiche d’exploitation de la matrice MF6.6.1 : Le type de discours",
+  "codeMatrice": "MF6.6.1",
+  "categorie": "L’écoute d’un discours",
+  "savoirEssentiel": "Le type de discours",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’écoute d’un discours.",
+  "situation": "Lors d’une émulation scolaire, Christ séduit les invités par la qualité de son discours. Arthémis Lafleur, absente à cette manifestation, demande à sa copine, qui était présente, de lui donner la bande du discours. Après l’écoute, la copine constate, en posant quelques questions à Athémis, qu’elle ne comprend pas ce qui est dit dans le discours. Elle prend donc l’initiative de le réécouter avec elle afin d’en dégager l’essentiel. Après cette nouvelle écoute, Athémis arrive à dégager les grandes lignes du discours.",
+  "numero": 46,
+  "date": "",
+  "duree": "1 h",
+  "support": "Discours lu par l’enseignant ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.6.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qui est l’émetteur d’un discours ?",
+     "app": "Les apprenants répondent :\nR1 : C’est la personne qui prononce le discours."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qui est le récepteur ?",
+     "app": "Les apprenants répondent :\nR2 : C’est le public à qui l’émetteur s’adresse."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelles occasions donnent lieu à un discours ?",
+     "app": "Les apprenants répondent :\nR3 : Un anniversaire, un mariage, une remise de prix, une fête scolaire."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Christ, dont le discours séduit les invités, et d’Arthémis, qui n’était pas présente."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Arthémis ne comprend pas ce qui est dit dans le discours enregistré."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Sa copine réécoute le discours avec elle pour en dégager l’essentiel."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Arthémis, nous allons apprendre à reconnaître le type d’un discours.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir comment reconnaître le type d’un discours."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Écouter le discours proposé par l’enseignant.",
+    "Identifier l’émetteur et le récepteur.",
+    "Préciser le type de discours (narratif, descriptif, explicatif, argumentatif/discours d’anniversaire, d’émulation scolaire, de mariage…).",
+    "Dégager le thème du discours.",
+    "Relever les caractéristiques du type de discours dans le texte à l’écoute."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant demande de fermer les cahiers, puis lit le discours à haute voix, lentement et distinctement.",
+     "texte": "Chère Thérésa, chers invités,\nAujourd’hui, tu as douze ans. Je me souviens du jour où tu as appris à nager dans la rivière, en riant malgré la peur. Tu étais petite, et déjà têtue !\nTu es aujourd’hui une jeune fille généreuse et courageuse. Tu aides ta maman au marché, et tu es toujours la première de ta classe en lecture.\nJe te souhaite une longue vie, la santé et beaucoup de joie. Que ce nouvel âge t’apporte de belles réussites. Bon anniversaire, Thérésa ! Merci à tous d’être venus.",
+     "app": "Les apprenants écoutent attentivement le discours."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’identifier l’émetteur et le récepteur.\nQ1 : Qui parle ? À qui s’adresse-t-il ?",
+     "app": "Les apprenants répondent :\nR1 : L’émetteur est l’oncle (ou l’ami) de Thérésa ; le récepteur est Thérésa, ainsi que les invités."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de préciser le type de discours.\nQ2 : Pour quelle occasion ce discours est-il prononcé ?",
+     "app": "Les apprenants cherchent, puis répondent :\nR2 : C’est un discours d’anniversaire : il est prononcé pour fêter les douze ans de Thérésa."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de dégager le thème du discours.\nQ3 : De quoi parle le discours ?",
+     "app": "Les apprenants répondent :\nR3 : Il parle de l’anniversaire de Thérésa, de ses qualités et des vœux qu’on lui adresse."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de relever les caractéristiques du type de discours dans le texte écouté.\nQ4 : Quels indices montrent que c’est un discours d’anniversaire ?",
+     "app": "Les apprenants réécoutent le texte au besoin, puis répondent :\nR4 : Les salutations (« Chère Thérésa, chers invités »), l’âge (« tu as douze ans »), les souvenirs, les qualités de la fillette, les vœux (« je te souhaite… ») et les remerciements."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : Le type de discours."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment reconnaît-on le type d’un discours ?",
+     "app": "Les apprenants répondent :\nR2 : Par l’occasion, le thème et les indices du texte : salutations, vœux, remerciements."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Citez trois types de discours.",
+     "app": "Les apprenants répondent :\nR3 : Le discours d’anniversaire, le discours d’émulation scolaire, le discours de mariage."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "oral",
+    "item": "Identifie le thème et le type de ce discours, puis relève trois indices qui justifient ta réponse.",
+    "situation": "À l’occasion d’une fête de famille, un invité prend la parole.",
+    "criteres": [
+     "Type : discours de mariage.",
+     "Thème : l’union de Ruth et de Grâce et les vœux de bonheur.",
+     "Indices possibles : « Nous voici réunis pour fêter l’union » ; « mari et femme » ; « Je leur souhaite un foyer plein d’amour » ; « Longue vie aux mariés ! »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant lit le discours à haute voix, puis donne la consigne.",
+     "texte": "Chers amis, mes chers parents,\nNous voici réunis pour fêter l’union de Ruth et de Grâce. Hier, ils étaient deux jeunes qui se croisaient au marché ; aujourd’hui, ils sont mari et femme.\nJe leur souhaite un foyer plein d’amour et de patience. Que Dieu bénisse leur maison ! Longue vie aux mariés !",
+     "app": "Les apprenants écoutent, puis répondent individuellement sur leur feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, corrige avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression orale : Le type de discours",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le type d’un discours dépend de l’occasion pour laquelle on le prononce et de ce que l’on veut faire comprendre."
+   },
+   {
+    "type": "h",
+    "text": "1- Quelques types de discours"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Type de discours",
+     "Occasion",
+     "Indices fréquents"
+    ],
+    "rows": [
+     [
+      "Discours d’anniversaire",
+      "La fête d’une personne",
+      "l’âge, les souvenirs, les vœux"
+     ],
+     [
+      "Discours d’émulation scolaire",
+      "La remise des prix à l’école",
+      "les remerciements, les conseils, les félicitations"
+     ],
+     [
+      "Discours de mariage",
+      "L’union de deux personnes",
+      "les félicitations, les vœux de bonheur"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Comment reconnaître le type d’un discours"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Identifier l’émetteur et le récepteur.",
+     "Chercher l’occasion du discours.",
+     "Dégager le thème.",
+     "Relever les indices : salutations, vœux, remerciements, conseils."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Discours écouté",
+    "text": "Chère Thérésa, chers invités,\nAujourd’hui, tu as douze ans. Je me souviens du jour où tu as appris à nager dans la rivière, en riant malgré la peur. Tu étais petite, et déjà têtue !\nTu es aujourd’hui une jeune fille généreuse et courageuse. Tu aides ta maman au marché, et tu es toujours la première de ta classe en lecture.\nJe te souhaite une longue vie, la santé et beaucoup de joie. Que ce nouvel âge t’apporte de belles réussites. Bon anniversaire, Thérésa ! Merci à tous d’être venus."
+   },
+   {
+    "type": "nb",
+    "text": "Un discours peut aussi raconter (narratif), décrire (descriptif), expliquer ou convaincre (argumentatif)."
+   },
+   {
+    "type": "ex",
+    "text": "« Je te souhaite une longue vie et beaucoup de joie. » : ce vœu montre un discours d’anniversaire."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le type d’un discours se reconnaît à l’occasion et au thème.",
+     "Les indices du texte justifient le type : vœux, remerciements, félicitations.",
+     "Il existe des discours d’anniversaire, d’émulation scolaire, de mariage…"
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relie chaque occasion au type de discours.",
+    "texte": "Types : discours d’émulation scolaire ; discours de mariage ; discours d’anniversaire.",
+    "items": [
+     "On fête les douze ans de Thérésa.",
+     "On remet les prix aux meilleurs élèves.",
+     "On célèbre l’union de deux jeunes."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je donne le type de discours et un indice.",
+    "texte": "« Chers élèves, bravo pour vos résultats ! Je remercie les professeurs qui vous ont accompagnés toute l’année. »",
+    "items": [
+     "Quel est le type de discours ?",
+     "Quel indice le montre ?"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris deux phrases qu’on pourrait entendre dans un discours d’anniversaire.",
+    "items": [
+     "Une phrase de félicitations ou de vœux",
+     "Une phrase de souvenir"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : on fête les douze ans de Thérésa → discours d’anniversaire ; on remet les prix → discours d’émulation scolaire ; on célèbre l’union → discours de mariage.",
+  "Exercice 2 : discours d’émulation scolaire ; indices : « bravo pour vos résultats », « je remercie les professeurs ».",
+  "Exercice 3 : réponses libres. Exemples : « Je te souhaite une longue vie et beaucoup de joie. » ; « Je me souviens de ton premier jour d’école. »",
+  "Évaluation : 1 point pour le type, 1 point pour le thème, 1 point par indice juste (3 points)."
+ ]
+}

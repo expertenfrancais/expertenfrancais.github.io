@@ -1,0 +1,267 @@
+{
+ "id": 10142,
+ "meta": {
+  "t": "La situation de communication",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8,
+  "fn": 142,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.8 : La situation de communication",
+  "codeMatrice": "MF6.2.8",
+  "categorie": "L’énonciation",
+  "savoirEssentiel": "La situation de communication",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’emploi des éléments d’énonciation",
+  "situation": "Nick a été chargé de rédiger le compte rendu de la réunion de la mutuelle du quartier, mais il ne maîtrise pas totalement les règles de l’énonciation. Mathus, qui a des connaissances dans ce domaine, lui explique quels sont les différents éléments de l’énonciation. Par la suite, il lui présente un texte et lui demande de relever les éléments caractéristiques de l’énonciation. Content de la compétence acquise, Nick se met à rédiger son compte rendu en utilisant correctement les marques de l’énonciation.",
+  "numero": 42,
+  "date": "",
+  "duree": "1 h",
+  "support": "Message écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.8 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qui parle ou qui écrit dans un message ?",
+     "app": "Les apprenants répondent :\nR1 : La personne qui envoie le message."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : À qui s’adresse un message ?",
+     "app": "Les apprenants répondent :\nR2 : À la personne qui le reçoit."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite deux moyens de communiquer à distance.",
+     "app": "Les apprenants répondent :\nR3 : Le téléphone, la lettre, le courriel."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Nick, chargé de rédiger le compte rendu de la réunion de la mutuelle du quartier."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Nick rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il ne maîtrise pas totalement les règles de l’énonciation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Mathus lui explique les éléments de l’énonciation et lui fait relever ces éléments dans un texte."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Nick, nous allons apprendre à identifier les éléments de la situation de communication.",
+     "app": "Les apprenants expriment le besoin d’identifier les éléments de la situation de communication."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte support proposé par l’enseignant.",
+    "Identifier - l’émetteur (celui qui parle ou la personne source du message) ; - le récepteur (celui à qui l’on s’adresse ou qui reçoit le message).",
+    "Dégager le message du texte (l’information transmise).",
+    "Préciser - la langue de communication ; - le canal (le conduit par lequel le message est transmis).",
+    "Élaborer le schéma des éléments de la communication.",
+    "Rappeler les étapes suivies pour élaborer le schéma des éléments de la communication.",
+    "Appliquer la démarche à un autre texte proposé par l’enseignant."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le message au tableau et demande de le lire silencieusement.",
+     "app": "Les apprenants lisent silencieusement le message, puis quelques-uns le lisent à haute voix.",
+     "texte": "Maman, je suis bien arrivé à Pointe-Noire. Le voyage s’est bien passé. Je t’appelle ce soir. Bisous. Arsène"
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’identifier l’émetteur et le récepteur.\nQ1 : Qui envoie ce message ? À qui l’envoie-t-il ?",
+     "app": "Les apprenants observent le texte, puis répondent.\nR1 : Arsène envoie le message à sa maman : Arsène est l’émetteur, sa maman est le récepteur."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de dégager le message du texte.\nQ2 : Quelle information est transmise ?",
+     "app": "Les apprenants répondent.\nR2 : Arsène est bien arrivé à Pointe-Noire, le voyage s’est bien passé, il appellera ce soir."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de préciser la langue et le canal.\nQ3 : Dans quelle langue le message est-il écrit ? Par quel moyen passe-t-il ?",
+     "app": "Les apprenants répondent.\nR3 : En français ; par SMS, grâce au téléphone : c’est le canal."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande d’élaborer le schéma des éléments de la communication.\nQ4 : Comment placer ces éléments dans un schéma ?",
+     "app": "Les apprenants dessinent le schéma dans leur cahier.\nR4 : Émetteur (Arsène) → message → canal (SMS) → récepteur (maman) ; langue : français."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de rappeler les étapes suivies.\nQ5 : Quelles étapes avons-nous suivies pour construire le schéma ?",
+     "app": "Les apprenants répondent.\nR5 : Identifier l’émetteur et le récepteur, trouver le message, préciser la langue et le canal, puis dessiner le schéma."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant écrit un autre texte au tableau et demande d’appliquer la démarche.\nQ6 : Quels sont les éléments de la communication dans ce texte ?",
+     "app": "Les apprenants appliquent la démarche, puis présentent leur schéma.\nR6 : Émetteur : le vendeur ; récepteur : la cliente ; message : le prix des tomates ; langue : français ; canal : la voix.",
+     "texte": "Un vendeur dit à une cliente, au marché : « Madame, les tomates sont à 500 francs le tas. »"
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les éléments de la situation de communication."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels sont ces éléments ?",
+     "app": "Les apprenants répondent :\nR2 : L’émetteur, le récepteur, le message, la langue et le canal."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment les repère-t-on dans un texte ?",
+     "app": "Les apprenants répondent :\nR3 : On cherche qui parle, à qui, ce qu’il dit, dans quelle langue et par quel moyen."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Identifie l’émetteur, le récepteur, le message et le canal dans la situation suivante.",
+    "situation": "Tu aides Nick à reconnaître les éléments de la communication dans la réunion de la mutuelle.",
+    "criteres": [
+     "Émetteur : le président de la mutuelle.",
+     "Récepteur : les membres de la mutuelle.",
+     "Message : la date de la prochaine cotisation.",
+     "Canal : la voix."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "Le président de la mutuelle annonce aux membres, à voix haute : « La prochaine cotisation aura lieu samedi à 9 h. »",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : La situation de communication",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La communication est l’échange d’un message entre une personne qui parle ou écrit et une personne qui reçoit."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Élément",
+     "Rôle",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "L’émetteur",
+      "Il envoie le message.",
+      "Arsène"
+     ],
+     [
+      "Le récepteur",
+      "Il reçoit le message.",
+      "Sa maman"
+     ],
+     [
+      "Le message",
+      "C’est l’information transmise.",
+      "Il est bien arrivé."
+     ],
+     [
+      "La langue",
+      "C’est le code commun à l’émetteur et au récepteur.",
+      "Le français"
+     ],
+     [
+      "Le canal",
+      "C’est le moyen par lequel passe le message.",
+      "Le SMS"
+     ]
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Schéma : émetteur → message → récepteur. Le message passe par un canal et il est écrit dans une langue connue des deux personnes."
+   },
+   {
+    "type": "ex",
+    "text": "Arsène écrit à sa maman par SMS : Arsène est l’émetteur, sa maman est le récepteur, le SMS est le canal."
+   },
+   {
+    "type": "nb",
+    "text": "Pour que la communication réussisse, l’émetteur et le récepteur doivent comprendre la même langue."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Il y a cinq éléments : émetteur, récepteur, message, langue, canal.",
+     "L’émetteur envoie le message ; le récepteur le reçoit.",
+     "Le canal est le moyen utilisé : voix, téléphone, lettre."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’associe chaque mot à son rôle.",
+    "texte": "Rôles : celui qui reçoit – le moyen utilisé – celui qui envoie",
+    "items": [
+     "émetteur",
+     "récepteur",
+     "canal"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’identifie l’émetteur, le récepteur, le message et le canal.",
+    "items": [
+     "Un maître dit à ses élèves, en classe : « Rangez vos cahiers. »",
+     "Une mère écrit une lettre à sa fille pour lui annoncer son arrivée."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je dessine le schéma de la communication pour une des situations.",
+    "items": [
+     "Une annonce à la radio.",
+     "Un appel téléphonique entre deux amis."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : émetteur = celui qui envoie ; récepteur = celui qui reçoit ; canal = le moyen utilisé.",
+  "Exercice 2 : 1. émetteur : le maître ; récepteur : les élèves ; message : ranger les cahiers ; canal : la voix. 2. émetteur : la mère ; récepteur : sa fille ; message : son arrivée ; canal : la lettre.",
+  "Exercice 3 : schéma libre, avec émetteur, message, canal, récepteur et langue.",
+  "Évaluation : un point par élément correct (4 points)."
+ ]
+}

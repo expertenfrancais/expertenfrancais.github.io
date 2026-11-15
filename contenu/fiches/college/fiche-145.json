@@ -1,0 +1,266 @@
+{
+ "id": 10145,
+ "meta": {
+  "t": "Le groupe nominal composé d’un déterminant + un nom + un adjectif qualificatif",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "fn": 145,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.1 : Le groupe nominal composé d’un déterminant + un nom + un adjectif qualificatif",
+  "codeMatrice": "MF5.2.1",
+  "categorie": "Les constituants de la phrase simple",
+  "savoirEssentiel": "Le groupe nominal composé d’un déterminant + un nom + un adjectif qualificatif",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative aux constituants de la phrase simple.",
+  "situation": "Chimène est en vacances à Idoubi, son village natal. Deux de ses amies d’enfance lui demandent de rédiger une lettre qu’elles veulent envoyer à leur cousine vivant à Sibiti. Cette correspondance concerne une commande de quelques produits cosmétiques et alimentaires. Cependant, en rédigeant la lettre, la jeune fille émet des doutes sur la composition de certains ensembles nominaux et verbaux que lui communiquent ses camarades, comme « Envoie-nous un savon noir, un savon de Marseille et un kilogramme des pieds de porc. Ce colis, nous l’attendrons demain. Fais de ton mieux, s’il te plaît, nous sommes impatientes. » De retour à la maison, Chimène expose le problème à son père, Monsieur André qui, à son tour, lui présente un texte sur lequel elle va travailler sur le groupe nominal et le groupe verbal.",
+  "numero": 39,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un nom ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un mot qui désigne une personne, un animal, une chose ou une idée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un déterminant ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un mot placé devant le nom : le, un, mon, ce."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un adjectif qualificatif ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un mot qui donne une qualité au nom : grand, noir, mûr."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Chimène, en vacances à Idoubi, qui doit rédiger une lettre pour deux amies."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Chimène rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle doute de la composition de certains ensembles nominaux et verbaux."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle expose le problème à son père, qui lui présente un texte pour travailler sur le groupe nominal et le groupe verbal."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Chimène, nous allons apprendre la composition du groupe nominal formé d’un déterminant, d’un nom et d’un adjectif qualificatif.",
+     "app": "Les apprenants expriment le besoin d’étudier le groupe nominal formé d’un déterminant, d’un nom et d’un adjectif qualificatif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire silencieusement le texte proposé par l’enseignant.",
+    "Encadrer tous les noms accompagnés d’un adjectif qualificatif.",
+    "Souligner les déterminants et les adjectifs qualificatifs qui les accompagnent.",
+    "Préciser la classe de chaque déterminant.",
+    "Indiquer la fonction de chaque adjectif qualificatif.",
+    "Expliquer - la place du nom dans cet ensemble ; - la place de chaque expansion.",
+    "Définir le terme « groupe nominal ».",
+    "Rappeler la composition du groupe nominal étudié en classe tout en indiquant le rôle de chaque élément constitutif."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "app": "Les apprenants lisent silencieusement le texte, puis quelques-uns le lisent à haute voix.",
+     "texte": "Chère cousine, envoie-nous un savon noir, une grande bouteille d’huile, des mangues mûres et un petit sac de riz."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’encadrer les noms accompagnés d’un adjectif qualificatif.\nQ1 : Quels noms sont accompagnés d’un adjectif qualificatif ?",
+     "app": "Les apprenants encadrent les noms dans leur cahier.\nR1 : Savon, bouteille, mangues, sac."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de souligner les déterminants et les adjectifs qui accompagnent ces noms.\nQ2 : Quels sont les déterminants et les adjectifs de chaque groupe ?",
+     "app": "Les apprenants soulignent, puis présentent leur travail.\nR2 : un savon noir ; une grande bouteille ; des mangues mûres ; un petit sac."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de préciser la classe de chaque déterminant.\nQ3 : Quelle est la classe de un, une, des ?",
+     "app": "Les apprenants cherchent, puis répondent.\nR3 : Ce sont des articles indéfinis."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande d’indiquer la fonction de chaque adjectif qualificatif.\nQ4 : Quelle fonction ont noir, grande, mûres et petit ?",
+     "app": "Les apprenants cherchent, puis répondent.\nR4 : Ils sont épithètes : ils qualifient directement le nom."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’expliquer la place du nom et celle de chaque expansion.\nQ5 : Où se placent le nom et les adjectifs dans chaque groupe ?",
+     "app": "Les apprenants comparent les groupes, puis répondent.\nR5 : Le nom est au centre du groupe ; le déterminant est devant ; l’adjectif est après le nom (noir, mûres) ou avant (grande, petit)."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de définir le terme « groupe nominal ».\nQ6 : Qu’est-ce qu’un groupe nominal ?",
+     "app": "Les apprenants formulent une définition.\nR6 : C’est un ensemble de mots organisé autour d’un nom, qui en est le noyau."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de rappeler la composition du groupe nominal étudié et le rôle de chaque élément.\nQ7 : De quoi ce groupe nominal est-il composé ? Quel est le rôle de chaque élément ?",
+     "app": "Les apprenants répondent.\nR7 : Déterminant + nom + adjectif qualificatif : le déterminant présente le nom, le nom est le noyau, l’adjectif donne une qualité."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le groupe nominal composé d’un déterminant, d’un nom et d’un adjectif qualificatif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment est-il composé ?",
+     "app": "Les apprenants répondent :\nR2 : D’un déterminant, d’un nom noyau et d’un adjectif épithète."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Où peut se placer l’adjectif ?",
+     "app": "Les apprenants répondent :\nR3 : Après le nom ou avant le nom."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Dans chaque groupe nominal, souligne le déterminant, encadre le nom et entoure l’adjectif qualificatif.",
+    "situation": "Tu aides Chimène à vérifier les groupes nominaux de sa lettre.",
+    "criteres": [
+     "une robe rouge : déterminant une, nom robe, adjectif rouge.",
+     "mes belles chaussures : déterminant mes, nom chaussures, adjectif belles.",
+     "un cahier neuf : déterminant un, nom cahier, adjectif neuf."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. une robe rouge\n2. mes belles chaussures\n3. un cahier neuf",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le groupe nominal composé d’un déterminant + un nom + un adjectif qualificatif",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un groupe nominal (GN) est un ensemble de mots organisé autour d’un nom, appelé noyau."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Déterminant",
+     "Nom (noyau)",
+     "Adjectif épithète"
+    ],
+    "rows": [
+     [
+      "un",
+      "savon",
+      "noir"
+     ],
+     [
+      "une grande",
+      "bouteille",
+      ""
+     ],
+     [
+      "des",
+      "mangues",
+      "mûres"
+     ],
+     [
+      "un petit",
+      "sac",
+      ""
+     ]
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Le déterminant présente le nom. L’adjectif qualificatif épithète donne une qualité au nom. Il se place avant ou après le nom."
+   },
+   {
+    "type": "ex",
+    "text": "une grande bouteille : une (déterminant), grande (adjectif), bouteille (nom noyau)."
+   },
+   {
+    "type": "nb",
+    "text": "L’adjectif épithète s’accorde en genre et en nombre avec le nom : des mangues mûres."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un GN est organisé autour d’un nom noyau.",
+     "Il peut être formé de : déterminant + nom + adjectif qualificatif.",
+     "L’adjectif épithète qualifie le nom et s’accorde avec lui."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève le nom noyau de chaque groupe nominal.",
+    "items": [
+     "un grand arbre",
+     "une route large",
+     "mes anciens voisins"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète chaque groupe nominal avec un adjectif qualificatif qui convient.",
+    "items": [
+     "une maison ……",
+     "un …… chapeau",
+     "des fruits ……"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase avec chacun de ces noms, accompagnés d’un déterminant et d’un adjectif.",
+    "items": [
+     "le marché",
+     "la rivière"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : arbre ; route ; voisins.",
+  "Exercice 2 : réponses libres. Exemples : une maison blanche ; un vieux chapeau ; des fruits mûrs.",
+  "Exercice 3 : réponses libres. Exemples : Le grand marché ouvre le samedi. La rivière tranquille traverse le village.",
+  "Évaluation : un point par groupe nominal correctement analysé (3 points)."
+ ]
+}

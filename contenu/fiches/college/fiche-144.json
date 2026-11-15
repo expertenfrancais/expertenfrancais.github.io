@@ -1,0 +1,257 @@
+{
+ "id": 10144,
+ "meta": {
+  "t": "Les périphériques de l’ordinateur",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8,
+  "fn": 144,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.5.3 : Les périphériques de l’ordinateur",
+  "codeMatrice": "MF6.5.3",
+  "categorie": "Le vocabulaire des TIC",
+  "savoirEssentiel": "Les périphériques de l’ordinateur",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie de savoirs essentiels relative à l’utilisation du vocabulaire des Technologies de l’Information et de la Communication pour l’Enseignement (TICE).",
+  "situation": "Christella vient de recevoir un appareil électronique comme cadeau d’anniversaire. Elle le montre à ses amis qui lui demandent de présenter la machine. Ne maîtrisant pas le vocabulaire des TIC, elle n’y arrive pas. Son frère, qui a suivi la conversation, lui demande de consulter la notice contenue dans le kit pour découvrir le nom de l’appareil afin de pouvoir le présenter à ses amis. Après avoir lu la notice et observé les images qui décrivent cet appareil, Christella se rend compte qu’il s’agit d’un ordinateur portable. Elle se met alors à le présenter à ses amis en utilisant le vocabulaire des TIC.",
+  "numero": 44,
+  "date": "",
+  "duree": "1 h",
+  "support": "Images de la notice (affiche ou dessin au tableau) ; texte écrit au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.5.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Cite trois composants de l’ordinateur.",
+     "app": "Les apprenants répondent :\nR1 : L’écran, le clavier, la souris."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : À quoi sert le clavier ?",
+     "app": "Les apprenants répondent :\nR2 : Il sert à écrire."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : À quoi sert l’écran ?",
+     "app": "Les apprenants répondent :\nR3 : Il affiche les textes et les images."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Christella, qui vient de recevoir un ordinateur portable comme cadeau d’anniversaire."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle ne maîtrise pas le vocabulaire des TIC pour présenter la machine."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle lit la notice et observe les images, puis présente l’appareil à ses amis."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Christella, nous allons apprendre à reconnaître et à nommer les périphériques de l’ordinateur.",
+     "app": "Les apprenants expriment le besoin de reconnaître et de nommer les périphériques de l’ordinateur."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Observer les images contenues dans la notice.",
+    "Lire le texte qui accompagne les images.",
+    "Repérer - les périphériques d’entrée ; - les périphériques de sortie.",
+    "Nommer chaque périphérique repéré.",
+    "Déterminer le rôle de chaque périphérique.",
+    "Construire des phrases en utilisant le nom de chaque périphérique repéré.",
+    "Présenter les périphériques en utilisant le vocabulaire approprié aux TIC."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant montre les images de la notice et demande de les observer.",
+     "app": "Les apprenants observent les images attentivement."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant écrit le texte de la notice au tableau et demande de le lire.",
+     "app": "Les apprenants lisent le texte, d’abord en silence, puis à haute voix.",
+     "texte": "Notice de l’ordinateur\nLes périphériques d’entrée envoient des informations à l’ordinateur : le clavier, la souris, le microphone et le scanner.\nLes périphériques de sortie reçoivent des informations de l’ordinateur : l’écran, l’imprimante et les haut-parleurs."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de repérer les périphériques d’entrée et de sortie.\nQ1 : Quels périphériques envoient des informations à l’ordinateur ? Lesquels en reçoivent ?",
+     "app": "Les apprenants repèrent les éléments dans le texte.\nR1 : Entrée : clavier, souris, microphone, scanner. Sortie : écran, imprimante, haut-parleurs."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de nommer chaque périphérique repéré.\nQ2 : Comment s’appelle chaque périphérique montré par les images ?",
+     "app": "Les apprenants nomment chaque périphérique.\nR2 : Clavier ; souris ; microphone ; scanner ; écran ; imprimante ; haut-parleurs."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de déterminer le rôle de chaque périphérique.\nQ3 : À quoi sert chaque périphérique ?",
+     "app": "Les apprenants cherchent dans le texte, puis répondent.\nR3 : Le microphone enregistre la voix ; le scanner copie un document ; l’imprimante imprime sur papier ; les haut-parleurs diffusent le son."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de construire une phrase avec chaque périphérique.\nQ4 : Construisez une phrase avec chaque nom de périphérique.",
+     "app": "Les apprenants écrivent leurs phrases, puis les lisent.\nR4 : Exemple : J’imprime mon devoir avec l’imprimante."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande à un apprenant de présenter les périphériques à la classe.",
+     "app": "Un apprenant présente les périphériques : Voici les périphériques d’entrée : le clavier, la souris… Voici les périphériques de sortie : l’écran, l’imprimante…"
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les périphériques de l’ordinateur."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle différence y a-t-il entre périphérique d’entrée et de sortie ?",
+     "app": "Les apprenants répondent :\nR2 : Le périphérique d’entrée envoie des informations à l’ordinateur ; celui de sortie en reçoit."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite un périphérique de chaque sorte et son rôle.",
+     "app": "Les apprenants répondent :\nR3 : La souris, qui déplace le pointeur ; l’imprimante, qui imprime sur papier."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Classe les périphériques suivants en périphériques d’entrée et périphériques de sortie, puis dis le rôle de l’un d’eux.",
+    "situation": "Tu aides Christella à présenter les périphériques de son ordinateur.",
+    "criteres": [
+     "Entrée : clavier, microphone, scanner.",
+     "Sortie : imprimante, haut-parleurs.",
+     "Un rôle correct."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit la liste au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "clavier – imprimante – microphone – haut-parleurs – scanner",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Vocabulaire : Les périphériques de l’ordinateur",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un périphérique est un appareil relié à l’ordinateur. Il envoie ou reçoit des informations."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Sorte",
+     "Rôle",
+     "Exemples"
+    ],
+    "rows": [
+     [
+      "Périphérique d’entrée",
+      "Il envoie des informations à l’ordinateur.",
+      "clavier, souris, microphone, scanner"
+     ],
+     [
+      "Périphérique de sortie",
+      "Il reçoit des informations de l’ordinateur.",
+      "écran, imprimante, haut-parleurs"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "items": [
+     "Le microphone enregistre la voix.",
+     "Le scanner copie un document sur l’ordinateur.",
+     "L’imprimante imprime un document sur papier.",
+     "Les haut-parleurs diffusent le son."
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Je scanne ma leçon, puis je l’imprime : le scanner est un périphérique d’entrée, l’imprimante est un périphérique de sortie."
+   },
+   {
+    "type": "nb",
+    "text": "L’écran est un périphérique de sortie : il montre ce que l’ordinateur produit."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un périphérique est relié à l’ordinateur.",
+     "Entrée : il envoie des informations (clavier, souris, microphone, scanner).",
+     "Sortie : il reçoit des informations (écran, imprimante, haut-parleurs)."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je dis si le périphérique est d’entrée ou de sortie.",
+    "items": [
+     "le clavier",
+     "l’imprimante",
+     "le microphone",
+     "l’écran"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète chaque phrase avec le mot qui convient.",
+    "texte": "Choix : scanner – haut-parleurs – imprimante",
+    "items": [
+     "Je copie ma leçon avec le …… .",
+     "J’écoute la musique avec les …… .",
+     "J’imprime mon devoir avec l’…… ."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris deux phrases pour présenter un périphérique d’entrée et un périphérique de sortie.",
+    "items": [
+     "Phrase 1 : périphérique d’entrée",
+     "Phrase 2 : périphérique de sortie"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : entrée ; sortie ; entrée ; sortie.",
+  "Exercice 2 : scanner ; haut-parleurs ; imprimante.",
+  "Exercice 3 : réponses libres. Exemple : La souris est un périphérique d’entrée ; l’imprimante est un périphérique de sortie.",
+  "Évaluation : entrée : clavier, microphone, scanner ; sortie : imprimante, haut-parleurs (cinq mots bien classés, puis un rôle correct)."
+ ]
+}

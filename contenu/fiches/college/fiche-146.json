@@ -1,0 +1,266 @@
+{
+ "id": 10146,
+ "meta": {
+  "t": "Le groupe nominal composé d’un déterminant + un nom + un complément du nom",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "fn": 146,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.1 : Le groupe nominal composé d’un déterminant + un nom + un complément du nom",
+  "codeMatrice": "MF5.2.1",
+  "categorie": "Les constituants de la phrase simple",
+  "savoirEssentiel": "Le groupe nominal composé d’un déterminant + un nom + un complément du nom",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative aux constituants de la phrase simple.",
+  "situation": "Chimène est en vacances à Idoubi, son village natal. Deux de ses amies d’enfance lui demandent de rédiger une lettre qu’elles veulent envoyer à leur cousine vivant à Sibiti. Cette correspondance concerne une commande de quelques produits cosmétiques et alimentaires. Cependant, en rédigeant la lettre, la jeune fille émet des doutes sur la composition de certains ensembles nominaux et verbaux que lui communiquent ses camarades, comme « Envoie-nous un savon noir, un savon de Marseille et un kilogramme des pieds de porc. Ce colis, nous l’attendrons demain. Fais de ton mieux, s’il te plaît, nous sommes impatientes. » De retour à la maison, Chimène expose le problème à son père, Monsieur André qui, à son tour, lui présente un texte sur lequel elle va travailler sur le groupe nominal et le groupe verbal.",
+  "numero": 40,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un groupe nominal ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un ensemble de mots organisé autour d’un nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’une préposition ? Donne un exemple.",
+     "app": "Les apprenants répondent :\nR2 : C’est un mot invariable qui relie des mots : de, à, dans, pour."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un déterminant ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un mot placé devant le nom : le, un, mon, ce."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Chimène, en vacances à Idoubi, qui doit rédiger une lettre pour deux amies."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Chimène rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle doute de la composition de certains ensembles nominaux et verbaux."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle expose le problème à son père, qui lui présente un texte pour travailler sur le groupe nominal et le groupe verbal."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Chimène, nous allons apprendre la composition du groupe nominal formé d’un déterminant, d’un nom et d’un complément du nom.",
+     "app": "Les apprenants expriment le besoin d’étudier le groupe nominal formé d’un déterminant, d’un nom et d’un complément du nom."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé.",
+    "Encadrer les noms-noyaux.",
+    "Souligner les éléments qui l’accompagnent.",
+    "Indiquer - la nature de chaque élément accompagnant le nom ; - la fonction grammaticale de chacun de ces éléments.",
+    "Expliquer le rôle de chaque élément par rapport au nom-noyau.",
+    "Donner l’importance de chaque élément au sein de l’ensemble nominal.",
+    "Proposer un pronom personnel pour chaque groupe nominal.",
+    "Rappeler la démarche réalisée."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire.",
+     "app": "Les apprenants lisent le texte, d’abord en silence, puis à haute voix.",
+     "texte": "Chimène prépare le colis de ses amies : un savon de Marseille, une boîte de lait et un sac de riz. Le colis partira demain pour Sibiti."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’encadrer les noms noyaux.\nQ1 : Quels sont les noms noyaux dans les groupes de ce texte ?",
+     "app": "Les apprenants encadrent les noms dans leur cahier.\nR1 : Colis, savon, boîte, sac."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de souligner les éléments qui accompagnent chaque nom.\nQ2 : Quels éléments accompagnent chaque nom ?",
+     "app": "Les apprenants soulignent, puis présentent leur travail.\nR2 : le colis de ses amies ; un savon de Marseille ; une boîte de lait ; un sac de riz."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’indiquer la nature et la fonction de chaque élément accompagnant le nom.\nQ3 : Quelle est la nature et la fonction de de ses amies, de Marseille, de lait, de riz ?",
+     "app": "Les apprenants analysent, puis répondent.\nR3 : Ce sont des groupes introduits par la préposition de ; ils sont compléments du nom."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande d’expliquer le rôle de chaque élément par rapport au nom noyau.\nQ4 : Que fait le complément du nom pour le nom noyau ?",
+     "app": "Les apprenants répondent.\nR4 : Il le précise : de quel savon, de quelle boîte, de quel sac parle-t-on ?"
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de donner l’importance de chaque élément dans l’ensemble nominal.\nQ5 : Que se passe-t-il si on supprime le complément du nom ?",
+     "app": "Les apprenants essaient, puis répondent.\nR5 : Le sens devient moins précis : un savon, une boîte, un sac ne disent pas de quoi il s’agit."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de proposer un pronom personnel pour chaque groupe nominal.\nQ6 : Quel pronom remplace chaque groupe nominal ?",
+     "app": "Les apprenants remplacent chaque groupe nominal.\nR6 : Le colis de ses amies → il ; un savon de Marseille → il ; une boîte de lait → elle ; un sac de riz → il."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de rappeler la démarche réalisée.\nQ7 : Quelle démarche avons-nous suivie ?",
+     "app": "Les apprenants répondent.\nR7 : Trouver le nom noyau, repérer ce qui l’accompagne, indiquer la nature et la fonction, puis remplacer le groupe par un pronom."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le groupe nominal composé d’un déterminant, d’un nom et d’un complément du nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment est-il composé ?",
+     "app": "Les apprenants répondent :\nR2 : D’un déterminant, d’un nom noyau et d’un complément du nom introduit par une préposition."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quel est le rôle du complément du nom ?",
+     "app": "Les apprenants répondent :\nR3 : Il précise le nom noyau."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Dans chaque groupe nominal, encadre le nom noyau et souligne le complément du nom.",
+    "situation": "Tu aides Chimène à vérifier les groupes nominaux de sa lettre.",
+    "criteres": [
+     "une tasse de thé : noyau tasse, complément de thé.",
+     "le cahier de Paul : noyau cahier, complément de Paul.",
+     "un panier de fruits : noyau panier, complément de fruits."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. une tasse de thé\n2. le cahier de Paul\n3. un panier de fruits",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le groupe nominal composé d’un déterminant + un nom + un complément du nom",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le complément du nom est un groupe de mots qui précise le nom noyau. Il est souvent introduit par une préposition : de, à, en."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Déterminant",
+     "Nom (noyau)",
+     "Complément du nom"
+    ],
+    "rows": [
+     [
+      "un",
+      "savon",
+      "de Marseille"
+     ],
+     [
+      "une",
+      "boîte",
+      "de lait"
+     ],
+     [
+      "un",
+      "sac",
+      "de riz"
+     ],
+     [
+      "le",
+      "colis",
+      "de ses amies"
+     ]
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Le complément du nom complète le nom noyau. On peut le supprimer, mais le sens devient moins précis."
+   },
+   {
+    "type": "ex",
+    "text": "un sac de riz : sac est le noyau ; de riz précise de quoi est fait le contenu."
+   },
+   {
+    "type": "nb",
+    "text": "Un groupe nominal peut être remplacé par un pronom personnel : le colis de ses amies → il."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le complément du nom précise le nom noyau.",
+     "Il est introduit par une préposition (de, à, en).",
+     "Déterminant + nom + complément du nom forment un groupe nominal."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève le nom noyau et le complément du nom.",
+    "items": [
+     "la maison de ma tante",
+     "un verre d’eau",
+     "une robe en coton"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je remplace chaque groupe nominal par un pronom personnel.",
+    "items": [
+     "le cahier de Paul",
+     "une boîte de lait",
+     "des chaussures de sport"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase avec chacun de ces groupes nominaux.",
+    "items": [
+     "un panier de mangues",
+     "le toit de l’école"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : maison / de ma tante ; verre / d’eau ; robe / en coton.",
+  "Exercice 2 : il ; elle ; elles.",
+  "Exercice 3 : réponses libres. Exemples : Maman a acheté un panier de mangues. Le toit de l’école est neuf.",
+  "Évaluation : un point par groupe nominal correctement analysé (3 points)."
+ ]
+}

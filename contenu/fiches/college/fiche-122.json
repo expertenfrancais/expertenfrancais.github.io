@@ -1,0 +1,273 @@
+{
+ "id": 10122,
+ "meta": {
+  "t": "Les valeurs du mode impératif",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "c",
+  "r": 4.8,
+  "fn": 122,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "titre": "Fiche d’exploitation de la matrice MF5.4.2 : Les valeurs du mode impératif",
+  "codeMatrice": "MF5.4.2",
+  "categorie": "Le mode impératif",
+  "savoirEssentiel": "Les valeurs du mode impératif",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’utilisation du mode impératif.",
+  "situation": "Dans le cadre de la célébration de la Journée mondiale de l’enfance, les jeunes de Poto-Poto, soucieux de défendre le droit à l’éducation de la jeunesse africaine, rédigent un plaidoyer à lire devant le Parlement panafricain. Dans ce plaidoyer, ils prennent la résolution de prodiguer des conseils aux jeunes africains. Cependant, la rédaction de ce texte nécessite l’emploi du mode impératif alors que les rédacteurs ne le maîtrisent pas. Ainsi, consultent-ils André, un aîné du quartier qui leur présente un document à partir duquel ils sont amenés à apprendre la conjugaison des verbes au mode impératif pour les utiliser dans leur discours.",
+  "numero": 25,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.4.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un mode ?",
+     "app": "Les apprenants répondent :\nR1 : C’est la manière dont on présente l’action : indicatif, impératif, subjonctif, etc."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce que le sujet d’un verbe ?",
+     "app": "Les apprenants répondent :\nR2 : C’est le mot ou le groupe de mots qui fait l’action."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelles sont les six personnes de la conjugaison ?",
+     "app": "Les apprenants répondent :\nR3 : Je, tu, il (elle), nous, vous, ils (elles)."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un plaidoyer rédigé par les jeunes de Poto-Poto pour la Journée mondiale de l’enfance, à lire devant le Parlement panafricain."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté les jeunes rencontrent-ils ?",
+     "app": "Les apprenants répondent :\nR2 : Ils doivent employer le mode impératif pour donner des conseils, mais ne le maîtrisent pas."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que font-ils pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Ils consultent André, un aîné du quartier, qui leur présente un document pour apprendre la conjugaison à l’impératif."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider les jeunes de Poto-Poto, nous allons apprendre à reconnaître et employer le mode impératif.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et employer le mode impératif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte support.",
+    "Souligner - d’un trait les verbes du texte conjugués avec sujet(s) ; - de deux traits les verbes conjugués sans sujet.",
+    "Distinguer les verbes conjugués avec des sujets (noms ou pronoms) de ceux qui ne le sont pas (sans sujet).",
+    "Préciser les personnes auxquelles sont conjugués ces verbes.",
+    "Indiquer ce qu’exprime chaque verbe souligné de deux traits.",
+    "Définir le mode impératif.",
+    "Utiliser le mode impératif dans les phrases de votre choix."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Les jeunes africains veulent étudier.\n2. Allez à l’école chaque jour.\n3. Respectez vos maîtres.\n4. N’abandonnons jamais nos études.\n5. Tu dois lire chaque soir.\n6. Sois courageux et travaille.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner d’un trait les verbes du texte conjugués avec sujet(s), puis de deux traits les verbes conjugués sans sujet.\nQ1 : Quels verbes ont un sujet ? Lesquels n’en ont pas ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Avec sujet : veulent (les jeunes africains) ; dois (tu). Sans sujet : allez ; respectez ; abandonnons ; sois ; travaille."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de distinguer les verbes conjugués avec des sujets (noms ou pronoms) de ceux qui ne le sont pas (sans sujet).\nQ2 : Comment distingue-t-on ces deux groupes de verbes ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : Les premiers ont un sujet exprimé (nom ou pronom) et sont à l’indicatif. Les seconds n’ont pas de sujet exprimé : ils sont à l’impératif."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de préciser les personnes auxquelles sont conjugués ces verbes.\nQ3 : À quelles personnes sont conjugués les verbes à l’impératif ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Allez et respectez : 2e personne du pluriel. Abandonnons : 1re personne du pluriel. Sois et travaille : 2e personne du singulier."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de indiquer ce qu’exprime chaque verbe souligné de deux traits.\nQ4 : Qu’expriment les verbes à l’impératif ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : Allez, respectez : un ordre ou un conseil. N’abandonnons jamais : une défense, une exhortation. Sois, travaille : un conseil."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de définir le mode impératif.\nQ5 : Qu’est-ce que le mode impératif ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : C’est un mode personnel qui exprime un ordre, un conseil, une défense ou une demande. Il n’a que trois personnes et le sujet n’est pas exprimé."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de utiliser le mode impératif dans les phrases de votre choix.\nQ6 : Emploie l’impératif dans deux phrases de ton choix.",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR6 : Exemple : Lis ton livre. Ne perdons pas notre temps."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les valeurs du mode impératif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’exprime l’impératif ?",
+     "app": "Les apprenants répondent :\nR2 : Un ordre, un conseil, une défense, une demande ou un souhait."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Combien de personnes a-t-il ?",
+     "app": "Les apprenants répondent :\nR3 : Trois : tu, nous, vous."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Recopie les verbes à l’impératif, écris leur personne et ce qu’ils expriment.",
+    "situation": "Tu aides les jeunes de Poto-Poto à rédiger leurs conseils.",
+    "criteres": [
+     "« Écoute » : 2e personne du singulier ; un ordre ou un conseil.",
+     "« Ne jetons pas » : 1re personne du pluriel ; une défense.",
+     "« Venez » : 2e personne du pluriel ; un ordre.",
+     "Il ne recopie pas « jouent » (indicatif)."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Écoute ton maître.\n2. Les enfants jouent.\n3. Ne jetons pas les papiers.\n4. Venez ici.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Conjugaison : Les valeurs du mode impératif",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "L’impératif est un mode personnel qui exprime un ordre, un conseil, une défense ou une demande. Il n’a que trois personnes et le sujet n’est pas exprimé."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Personne",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "2e du singulier (tu)",
+      "Sois courageux."
+     ],
+     [
+      "1re du pluriel (nous)",
+      "N’abandonnons jamais nos études."
+     ],
+     [
+      "2e du pluriel (vous)",
+      "Respectez vos maîtres."
+     ]
+    ]
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Valeur",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "ordre",
+      "Allez à l’école."
+     ],
+     [
+      "conseil",
+      "Travaille bien."
+     ],
+     [
+      "défense",
+      "Ne jetez pas les papiers."
+     ],
+     [
+      "demande",
+      "Prête-moi ton stylo."
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Respectez vos maîtres. Sois courageux et travaille."
+   },
+   {
+    "type": "nb",
+    "text": "Il y a deux temps à l’impératif : le présent et le passé. Dans cette fiche, on étudie surtout le présent."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "L’impératif n’a pas de sujet exprimé.",
+     "Il a trois personnes : tu, nous, vous.",
+     "Il exprime un ordre, un conseil, une défense ou une demande."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les verbes à l’impératif.",
+    "items": [
+     "Viens ici.",
+     "Tu viens ici.",
+     "Écoutons le maître."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la personne et ce que le verbe exprime.",
+    "items": [
+     "Ne mens pas.",
+     "Révisez vos leçons.",
+     "Aidons les personnes âgées."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase à l’impératif avec chaque verbe.",
+    "items": [
+     "lire",
+     "respecter"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : viens ; écoutons.",
+  "Exercice 2 : 2e personne du singulier, une défense ; 2e personne du pluriel, un conseil ; 1re personne du pluriel, un conseil.",
+  "Exercice 3 : réponses libres. Exemples : Lis chaque soir. Respectez vos parents.",
+  "Évaluation : un point par verbe (3 points) et un point pour la personne."
+ ]
+}

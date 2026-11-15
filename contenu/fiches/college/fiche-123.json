@@ -1,0 +1,265 @@
+{
+ "id": 10123,
+ "meta": {
+  "t": "Les verbes du 1er groupe au présent de l’impératif",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "d",
+  "r": 4.8,
+  "fn": 123,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "titre": "Fiche d’exploitation de la matrice MF5.4.2 : Les verbes du 1er groupe au présent de l’impératif",
+  "codeMatrice": "MF5.4.2",
+  "categorie": "Le mode impératif",
+  "savoirEssentiel": "Les verbes du 1er groupe au présent de l’impératif",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’utilisation du mode impératif.",
+  "situation": "Dans le cadre de la célébration de la Journée mondiale de l’enfance, les jeunes de Poto-Poto, soucieux de défendre le droit à l’éducation de la jeunesse africaine, rédigent un plaidoyer à lire devant le Parlement panafricain. Dans ce plaidoyer, ils prennent la résolution de prodiguer des conseils aux jeunes africains. Cependant, la rédaction de ce texte nécessite l’emploi du mode impératif alors que les rédacteurs ne le maîtrisent pas. Ainsi, consultent-ils André, un aîné du quartier qui leur présente un document à partir duquel ils sont amenés à apprendre la conjugaison des verbes au mode impératif pour les utiliser dans leur discours.",
+  "numero": 26,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.4.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce que l’impératif ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un mode qui exprime un ordre, un conseil, une défense ou une demande, sans sujet exprimé."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Conjugue « parler » au présent de l’indicatif.",
+     "app": "Les apprenants répondent :\nR2 : Je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels verbes appartiennent au 1er groupe ?",
+     "app": "Les apprenants répondent :\nR3 : Les verbes en -er, sauf aller."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un plaidoyer rédigé par les jeunes de Poto-Poto pour la Journée mondiale de l’enfance, à lire devant le Parlement panafricain."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté les jeunes rencontrent-ils ?",
+     "app": "Les apprenants répondent :\nR2 : Ils doivent employer le mode impératif pour donner des conseils, mais ne le maîtrisent pas."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que font-ils pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Ils consultent André, un aîné du quartier, qui leur présente un document pour apprendre la conjugaison à l’impératif."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider les jeunes de Poto-Poto, nous allons apprendre à conjuguer les verbes du 1er groupe au présent de l’impératif.",
+     "app": "Les apprenants expriment le besoin d’apprendre à conjuguer les verbes du 1er groupe au présent de l’impératif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte support.",
+    "Identifier dans le texte les verbes du 1er groupe conjugués.",
+    "Relever ceux qui sont conjugués sans sujet.",
+    "Souligner les terminaisons des verbes relevés.",
+    "Indiquer - les terminaisons proches du présent de l’indicatif ; - le temps auquel sont conjugués ces verbes dont les terminaisons sont proches de celles du présent de l’indicatif.",
+    "Déterminer - la terminaison des verbes du 1er groupe à la 2e personne du singulier à l’impératif ; - la terminaison des verbes du 1er groupe conjugués au présent du mode impératif.",
+    "Conjuguer les verbes du 1er groupe au présent de l’impératif.",
+    "Construire les phrases en conjuguant les verbes du 1er groupe au présent du mode impératif.",
+    "Rappeler les particularités de la conjugaison des verbes du 1er groupe au présent du mode impératif."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Les jeunes parlent de l’éducation.\n2. Respecte tes maîtres.\n3. Étudions chaque jour.\n4. Aimez votre école.\n5. Ne gaspille pas ton temps.\n6. Les parents encouragent leurs enfants.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de identifier dans le texte les verbes du 1er groupe conjugués.\nQ1 : Quels verbes du 1er groupe sont conjugués ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR1 : Parlent ; respecte ; étudions ; aimez ; gaspille ; encouragent."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de relever ceux qui sont conjugués sans sujet.\nQ2 : Lesquels n’ont pas de sujet ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : Respecte ; étudions ; aimez ; gaspille."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de souligner les terminaisons des verbes relevés.\nQ3 : Quelles sont leurs terminaisons ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR3 : -e (respecte, gaspille) ; -ons (étudions) ; -ez (aimez)."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de indiquer les terminaisons proches du présent de l’indicatif, puis le temps auquel sont conjugués ces verbes dont les terminaisons sont proches de celles du présent de l’indicatif.\nQ4 : Quelles terminaisons sont proches du présent de l’indicatif ? À quel temps sont ces verbes ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : -ons et -ez sont identiques à l’indicatif. Les verbes sont au présent de l’impératif."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de déterminer la terminaison des verbes du 1er groupe à la 2e personne du singulier à l’impératif, puis la terminaison des verbes du 1er groupe conjugués au présent du mode impératif.\nQ5 : Quelle est la terminaison de la 2e personne du singulier ? Quelles sont les terminaisons du présent de l’impératif ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : À la 2e personne du singulier : -e (sans s). Présent de l’impératif : -e, -ons, -ez."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de conjuguer les verbes du 1er groupe au présent de l’impératif.\nQ6 : Conjugue « chanter » au présent de l’impératif.",
+     "app": "Les apprenants conjuguent les verbes sur leur ardoise, puis les corrigent ensemble.\nR6 : Chante, chantons, chantez."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de construire les phrases en conjuguant les verbes du 1er groupe au présent du mode impératif.\nQ7 : Construis une phrase avec « écouter » et une avec « partager » à l’impératif.",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR7 : Exemple : Écoute ton maître. Partageons le repas."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de rappeler les particularités de la conjugaison des verbes du 1er groupe au présent du mode impératif.\nQ8 : Quelles sont les particularités du 1er groupe à l’impératif ?",
+     "app": "Les apprenants rappellent la démarche suivie.\nR8 : Pas de sujet ; trois personnes (-e, -ons, -ez) ; pas de s à la 2e personne du singulier."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les verbes du 1er groupe au présent de l’impératif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les terminaisons ?",
+     "app": "Les apprenants répondent :\nR2 : -e, -ons, -ez."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelle est la particularité de la 2e personne du singulier ?",
+     "app": "Les apprenants répondent :\nR3 : Elle ne prend pas de s : chante, et non chantes."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris chaque verbe à l’impératif présent, à la personne indiquée.",
+    "situation": "Tu aides les jeunes de Poto-Poto à rédiger leurs conseils.",
+    "criteres": [
+     "Il écrit « parle ».",
+     "Il écrit « écoutons ».",
+     "Il écrit « regardez ».",
+     "Il écrit « pense »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. parler (tu)\n2. écouter (nous)\n3. regarder (vous)\n4. penser (tu)",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Conjugaison : Les verbes du 1er groupe au présent de l’impératif",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Au présent de l’impératif, les verbes du 1er groupe se terminent par -e, -ons, -ez. Il n’y a pas de sujet."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Personne",
+     "chanter",
+     "respecter"
+    ],
+    "rows": [
+     [
+      "tu",
+      "chante",
+      "respecte"
+     ],
+     [
+      "nous",
+      "chantons",
+      "respectons"
+     ],
+     [
+      "vous",
+      "chantez",
+      "respectez"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Respecte tes maîtres. Étudions chaque jour. Aimez votre école."
+   },
+   {
+    "type": "nb",
+    "text": "Devant en et y, on ajoute un s : Parles-en. Chantes-y. Sans en ni y : Parle. Chante."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Terminaisons : -e, -ons, -ez.",
+     "Pas de s à la 2e personne du singulier.",
+     "Les personnes nous et vous sont comme à l’indicatif."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les verbes à l’impératif.",
+    "items": [
+     "Tu chantes bien.",
+     "Chante plus fort.",
+     "Portez ce sac."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le verbe à l’impératif présent.",
+    "items": [
+     "(écouter, tu) le maître",
+     "(marcher, nous) vite",
+     "(laver, vous) vos mains",
+     "(porter, tu) ce sac"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase à l’impératif avec chaque verbe.",
+    "items": [
+     "aider",
+     "étudier"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : chante ; portez.",
+  "Exercice 2 : écoute ; marchons ; lavez ; porte.",
+  "Exercice 3 : réponses libres. Exemples : Aide ta mère. Étudions chaque jour.",
+  "Évaluation : un point par verbe bien écrit (4 points)."
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "id": 10125,
+ "meta": {
+  "t": "La voix active",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8,
+  "fn": 125,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "titre": "Fiche d’exploitation de la matrice MF5.4.3 : La voix active",
+  "codeMatrice": "MF5.4.3",
+  "categorie": "Les voix verbales",
+  "savoirEssentiel": "La voix active",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’usage des voix verbales.",
+  "situation": "Mbenga est une fille passionnée de lecture. Son rêve est de bien s’exprimer en français. Dans cet esprit, elle suit les conseils de son père qui ne cesse de lui répéter qu’il est intéressant pour elle de lire régulièrement la conjugaison afin de réaliser cette performance. Pour cela, elle consulte de nombreux ouvrages de conjugaison. Toutefois, elle a du mal à comprendre les tournures telles que : « le chat mange la souris », « la souris est mangée par le chat ». Elle veut avoir des explications sur ces tournures. Par conséquent, elle s’adresse à son père qui lui présente un texte dans lequel elle va travailler sur les voix verbales. Ainsi, Mbenga se met-elle à construire des phrases sur les voix active et passive.",
+  "numero": 28,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.4.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce que le sujet d’un verbe ?",
+     "app": "Les apprenants répondent :\nR1 : C’est le mot ou le groupe de mots qui fait l’action."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un complément d’objet direct ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un complément qui suit le verbe sans préposition et répond à quoi ? ou qui ?"
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un verbe transitif direct ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un verbe qui peut avoir un COD. Exemple : manger."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Mbenga, une fille passionnée de lecture qui rêve de bien s’exprimer en français."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Mbenga rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle a du mal à comprendre des tournures comme « le chat mange la souris » et « la souris est mangée par le chat »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle s’adresse à son père, qui lui présente un texte pour travailler sur les voix verbales."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Mbenga, nous allons apprendre à reconnaître et construire des phrases à la voix active.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et construire des phrases à la voix active."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé.",
+    "Souligner les verbes contenus dans le texte.",
+    "Encadrer le sujet de chacun de ces verbes.",
+    "Indiquer la position du sujet dans chaque phrase.",
+    "Déterminer la place du complément d’objet direct dans chaque phrase.",
+    "Préciser dans chaque phrase le rôle que joue : - le sujet ; - le verbe ; - le complément d’objet direct.",
+    "Nommer ce type de construction.",
+    "Définir la voix active.",
+    "Construire des phrases à la voix active."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Le chat mange la souris.\n2. Mbenga lit un livre.\n3. Son père explique la leçon.\n4. Les élèves écoutent la maîtresse.\n5. Le chien poursuit le chat.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner les verbes contenus dans le texte.\nQ1 : Quels sont les verbes de chaque phrase ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Mange ; lit ; explique ; écoutent ; poursuit."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de encadrer le sujet de chacun de ces verbes.\nQ2 : Quel est le sujet de chaque verbe ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : Le chat ; Mbenga ; son père ; les élèves ; le chien."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de indiquer la position du sujet dans chaque phrase.\nQ3 : Où est placé le sujet ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Avant le verbe, dans toutes les phrases."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de déterminer la place du complément d’objet direct dans chaque phrase.\nQ4 : Où est placé le COD ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : Après le verbe : la souris, un livre, la leçon, la maîtresse, le chat."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de préciser dans chaque phrase le rôle que joue : - le sujet, puis le verbe, puis le complément d’objet direct.\nQ5 : Quel rôle jouent le sujet, le verbe et le COD ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : Le sujet fait l’action. Le verbe exprime l’action. Le COD subit l’action ou en est l’objet."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de nommer ce type de construction.\nQ6 : Comment appelle-t-on cette construction ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : C’est la voix active."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de définir la voix active.\nQ7 : Qu’est-ce que la voix active ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR7 : À la voix active, le sujet fait l’action exprimée par le verbe. Le COD, placé après le verbe, subit l’action."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de construire des phrases à la voix active.\nQ8 : Construis une phrase à la voix active.",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR8 : Exemple : Le maître corrige les cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La voix active."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qui fait l’action à la voix active ?",
+     "app": "Les apprenants répondent :\nR2 : Le sujet."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelle est la construction de la phrase ?",
+     "app": "Les apprenants répondent :\nR3 : Sujet + verbe + COD."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Dans chaque phrase, écris le sujet, le verbe et le COD.",
+    "situation": "Tu aides Mbenga à construire des phrases aux voix active et passive.",
+    "criteres": [
+     "Sujet : le maître ; verbe : corrige ; COD : les cahiers.",
+     "Sujet : ma mère ; verbe : prépare ; COD : le repas.",
+     "Sujet : les enfants ; verbe : regardent ; COD : la télévision."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Le maître corrige les cahiers.\n2. Ma mère prépare le repas.\n3. Les enfants regardent la télévision.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Conjugaison : La voix active",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La voix indique si le sujet fait l’action ou la subit. À la voix active, le sujet fait l’action."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Sujet",
+     "Verbe",
+     "COD"
+    ],
+    "rows": [
+     [
+      "Le chat",
+      "mange",
+      "la souris"
+     ],
+     [
+      "Mbenga",
+      "lit",
+      "un livre"
+     ],
+     [
+      "Les élèves",
+      "écoutent",
+      "la maîtresse"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Le chat mange la souris."
+   },
+   {
+    "type": "nb",
+    "text": "À la voix active, on peut mettre la phrase à la voix passive : La souris est mangée par le chat."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "À la voix active, le sujet fait l’action.",
+     "Le sujet est avant le verbe, le COD est après.",
+     "La construction est : sujet + verbe + COD."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le sujet et j’encadre le COD.",
+    "items": [
+     "Papa répare la radio.",
+     "Les élèves lisent un conte.",
+     "Fatou aide sa mère."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’indique le rôle du sujet : il fait l’action ou il la subit.",
+    "items": [
+     "Le chien mord le voleur.",
+     "Le voleur est mordu par le chien."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase à la voix active.",
+    "items": [
+     "manger",
+     "écrire"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : papa / la radio ; les élèves / un conte ; Fatou / sa mère.",
+  "Exercice 2 : il fait l’action (le chien) ; il la subit (le voleur).",
+  "Exercice 3 : réponses libres. Exemples : Mon frère mange du riz. Fatou écrit une lettre.",
+  "Évaluation : un point par phrase correctement analysée (3 points)."
+ ]
+}

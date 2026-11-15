@@ -1,0 +1,265 @@
+{
+ "id": 10119,
+ "meta": {
+  "t": "L’accord des adjectifs de couleur",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "h",
+  "r": 4.8,
+  "fn": 119,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "titre": "Fiche d’exploitation de la matrice MF5.3.4 : L’accord des adjectifs de couleur",
+  "codeMatrice": "MF5.3.4",
+  "categorie": "Les accords",
+  "savoirEssentiel": "L’accord des adjectifs de couleur",
+  "competence": "Les apprenants développeront la compétence qui lui permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative aux accords.",
+  "situation": "En séjour à Pointe-Noire, Madame Ikami communique avec sa fille Bienheureuse par WhatsApp. En lisant le message suivant : « Je me suis réveillé à 7h30, je me suis bien lavées les mains avant de manger, j’ai lavé mes robes bleu et mes chemises vertes foncées, je n’ai pas encore essuyé mes chaussures marronnes », Madame Ikami constate que Bienheureuse a des difficultés pour orthographier certains participes passés et quelques adjectifs de couleur. Elle lui envoie alors un texte dans lequel elle explique à sa fille les règles à respecter pour bien effectuer les accords.",
+  "numero": 22,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.3.4 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Comment s’accorde un adjectif qualificatif ?",
+     "app": "Les apprenants répondent :\nR1 : En genre et en nombre avec le nom auquel il se rapporte."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Cite trois couleurs.",
+     "app": "Les apprenants répondent :\nR2 : Rouge, bleu, vert."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un nom ? Cite un fruit.",
+     "app": "Les apprenants répondent :\nR3 : Un nom désigne une personne, un animal, une chose ou une idée. Exemple : orange."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un message WhatsApp écrit par Bienheureuse à sa mère, Madame Ikami, qui séjourne à Pointe-Noire."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Que constate Madame Ikami ?",
+     "app": "Les apprenants répondent :\nR2 : Madame Ikami constate que sa fille a des difficultés à orthographier certains participes passés et des adjectifs de couleur."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour aider sa fille ?",
+     "app": "Les apprenants répondent :\nR3 : Elle lui envoie un texte qui explique les règles d’accord à respecter."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Bienheureuse, nous allons apprendre à accorder correctement les adjectifs de couleur.",
+     "app": "Les apprenants expriment le besoin d’apprendre à accorder correctement les adjectifs de couleur."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé.",
+    "Identifier tous les adjectifs contenus dans le texte.",
+    "Relever les adjectifs de couleur.",
+    "Classer par catégorie : - les adjectifs de couleur simple ; - les adjectifs de couleur composés de deux mots ; - les adjectifs objets.",
+    "Déterminer le nom ou le pronom auquel se rapporte chacun de ces adjectifs.",
+    "Distinguer les adjectifs qui s’accordent de ceux qui ne s’accordent pas.",
+    "Justifier l’écriture des adjectifs qui s’accordent et celle de ceux qui ne s’accordent pas.",
+    "Dégager la règle d’accord des adjectifs de couleur.",
+    "Appliquer/Utiliser l’accord des adjectifs de couleur."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Bienheureuse porte des robes bleues.\n2. Elle a des chemises vert foncé.\n3. Ses chaussures marron sont neuves.\n4. Les mangues orange sont mûres.\n5. Les murs blancs sont propres.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de identifier tous les adjectifs contenus dans le texte.\nQ1 : Quels adjectifs contient le texte ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR1 : Bleues ; vert foncé ; neuves ; marron ; orange ; mûres ; blancs ; propres."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de relever les adjectifs de couleur.\nQ2 : Quels sont les adjectifs de couleur ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : Bleues ; vert foncé ; marron ; orange ; blancs."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de classer par catégorie : - les adjectifs de couleur simple, puis les adjectifs de couleur composés de deux mots, puis les adjectifs objets.\nQ3 : Comment classe-t-on ces adjectifs de couleur ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Simples : bleues, blancs. Composé de deux mots : vert foncé. Noms employés comme adjectifs (adjectifs objets) : marron, orange."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de déterminer le nom ou le pronom auquel se rapporte chacun de ces adjectifs.\nQ4 : À quel nom chaque adjectif se rapporte-t-il ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : Bleues : robes ; vert foncé : chemises ; marron : chaussures ; orange : mangues ; blancs : murs."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de distinguer les adjectifs qui s’accordent de ceux qui ne s’accordent pas.\nQ5 : Quels adjectifs s’accordent ? Lesquels ne s’accordent pas ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : S’accordent : bleues, blancs. Ne s’accordent pas : vert foncé, marron, orange."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de justifier l’écriture des adjectifs qui s’accordent et celle de ceux qui ne s’accordent pas.\nQ6 : Pourquoi cette différence ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : Les adjectifs de couleur simples s’accordent comme les autres adjectifs. Les adjectifs composés (vert foncé) sont invariables. Les noms employés comme adjectifs (marron, orange) restent invariables, car on sous-entend « de la couleur du marron »."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de dégager la règle d’accord des adjectifs de couleur.\nQ7 : Quelle est la règle ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR7 : L’adjectif de couleur simple s’accorde ; l’adjectif de couleur composé et le nom employé comme adjectif de couleur sont invariables."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de appliquer/Utiliser l’accord des adjectifs de couleur.\nQ8 : Accorde : des rubans (rouge) ; des jupes (bleu clair) ; des sacs (marron) ; des fleurs (orange).",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR8 : Des rubans rouges ; des jupes bleu clair ; des sacs marron ; des fleurs orange."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : L’accord des adjectifs de couleur."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quand l’adjectif de couleur s’accorde-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Quand il est simple : des robes bleues."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quand reste-t-il invariable ?",
+     "app": "Les apprenants répondent :\nR3 : Quand il est composé (vert foncé) ou quand c’est un nom employé comme adjectif (marron, orange)."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Accorde les adjectifs de couleur entre parenthèses.",
+    "situation": "Tu aides Bienheureuse à corriger son message.",
+    "criteres": [
+     "Il écrit « noirs ».",
+     "Il écrit « bleu clair » (invariable).",
+     "Il écrit « marron » (invariable).",
+     "Il écrit « blanches »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. des rubans (noir)\n2. des robes (bleu clair)\n3. des sacs (marron)\n4. des chemises (blanc)",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Orthographe : L’accord des adjectifs de couleur",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un adjectif de couleur peut être simple, composé de deux mots ou être un nom employé comme adjectif."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Catégorie",
+     "Règle",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "couleur simple",
+      "s’accorde",
+      "des robes bleues"
+     ],
+     [
+      "couleur composée",
+      "invariable",
+      "des chemises vert foncé"
+     ],
+     [
+      "nom employé comme adjectif",
+      "invariable",
+      "des chaussures marron ; des mangues orange"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "des robes bleues ; des chemises vert foncé ; des mangues orange"
+   },
+   {
+    "type": "nb",
+    "text": "Quelques noms de couleur s’accordent comme des adjectifs : rose, mauve, pourpre, écarlate (des robes roses)."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "La couleur simple s’accorde.",
+     "La couleur composée est invariable.",
+     "Le nom employé comme adjectif est invariable."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les adjectifs de couleur et j’écris leur catégorie.",
+    "items": [
+     "des fleurs jaunes",
+     "des tissus vert clair",
+     "des yeux marron"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’accorde les adjectifs de couleur.",
+    "items": [
+     "des chaussettes (gris)",
+     "des sacs (bleu foncé)",
+     "des fruits (orange)",
+     "des nappes (rouge)"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase avec chaque groupe.",
+    "items": [
+     "des robes vertes",
+     "des chaussures marron"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : jaunes : couleur simple ; vert clair : couleur composée ; marron : nom employé comme adjectif.",
+  "Exercice 2 : grises ; bleu foncé ; orange ; rouges.",
+  "Exercice 3 : réponses libres. Exemples : Fatou porte des robes vertes. Mon père achète des chaussures marron.",
+  "Évaluation : un point par accord correct (4 points)."
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "id": 10065,
+ "meta": {
+  "t": "L’accord de l’adjectif qualificatif",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "b",
+  "r": 4.8,
+  "fn": 65,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "titre": "Fiche d’exploitation de la matrice MF6.3.1 : L’accord de l’adjectif qualificatif",
+  "codeMatrice": "MF6.3.1",
+  "categorie": "Les règles d’accord",
+  "savoirEssentiel": "L’accord de l’adjectif qualificatif",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’application des règles d’accord.",
+  "situation": "Charlotte se prépare au concours d’entrée à l’ENI. La dictée est l’une des épreuves du concours. Les accords lui posent un problème. Pour éviter d’obtenir une mauvaise note, elle prend conseil auprès de Charles qui la prépare à cette épreuve en lui donnant beaucoup d’exercices sur les règles d’accord. Après cet entraînement, Charlotte est amenée à appliquer les règles d’accord apprises dans la dictée proposée au concours.",
+  "numero": 2,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.3.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un adjectif qualificatif ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un mot qui donne une précision sur un nom : il dit comment est une personne, un animal ou une chose."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quel est le genre des noms « cahier » et « table » ?",
+     "app": "Les apprenants répondent :\nR2 : « Cahier » est masculin ; « table » est féminin."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : « Les élèves » est-il au singulier ou au pluriel ?",
+     "app": "Les apprenants répondent :\nR3 : « Les élèves » est au pluriel."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Charlotte, qui se prépare au concours d’entrée à l’ENI dont la dictée est l’une des épreuves."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Charlotte rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Les accords lui posent un problème."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle prend conseil auprès de Charles, qui lui donne beaucoup d’exercices sur les règles d’accord."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Charlotte, nous allons apprendre la règle de l’accord de l’adjectif qualificatif.",
+     "app": "Les apprenants expriment le besoin d’apprendre à accorder correctement l’adjectif qualificatif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé par l’enseignant.",
+    "Repérer les adjectifs qualificatifs.",
+    "Déterminer le mot auquel se rapporte chaque adjectif qualificatif.",
+    "Indiquer - le genre de l’adjectif qualificatif ; - le nombre de l’adjectif.",
+    "Analyser les variations morphologiques de chaque adjectif.",
+    "Dégager la règle de l’accord de l’adjectif qualificatif.",
+    "Appliquer l’accord de l’adjectif qualificatif."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "texte": "1. La petite Charlotte porte une robe bleue.\n2. Son grand frère lit des livres intéressants.\n3. Les élèves attentifs écoutent la maîtresse gentille.\n4. Ces mangues mûres sont délicieuses.\n5. Mon oncle est fatigué, mais ma tante est joyeuse.",
+     "app": "Les apprenants lisent silencieusement le texte."
+    },
+    {
+     "ens": "L’enseignant lit le texte à haute voix, puis fait lire deux ou trois apprenants.",
+     "app": "Les apprenants écoutent, puis quelques-uns lisent le texte à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer les adjectifs qualificatifs.\nQ1 : Quels sont les adjectifs qualificatifs de la phrase 1 ?\nQ2 : Quels sont les adjectifs qualificatifs des phrases 2 à 5 ?",
+     "app": "Les apprenants soulignent les adjectifs qualificatifs dans leur cahier, puis les citent.\nR1 : Petite ; bleue.\nR2 : Grand, intéressants ; attentifs, gentille ; mûres, délicieuses ; fatigué, joyeuse."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de déterminer le mot auquel se rapporte chaque adjectif qualificatif.\nQ3 : À quel mot se rapporte l’adjectif « bleue » ?\nQ4 : À quels mots se rapportent « délicieuses » et « fatigué » ?",
+     "app": "Les apprenants relient chaque adjectif au nom qu’il précise.\nR3 : Au nom « robe ».\nR4 : « Délicieuses » se rapporte à « mangues » ; « fatigué » se rapporte à « oncle »."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’indiquer le genre et le nombre de chaque adjectif.\nQ5 : Quels sont le genre et le nombre de « bleue » et de « intéressants » ?",
+     "app": "Les apprenants observent les adjectifs et les noms, puis donnent le genre et le nombre.\nR5 : « Bleue » est féminin singulier ; « intéressants » est masculin pluriel."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande d’analyser les variations de chaque adjectif en comparant les formes écrites au tableau : petit / petite ; intéressant / intéressants ; joyeux / joyeuse.\nQ6 : Que remarques-tu quand on compare « petit » et « petite », puis « intéressant » et « intéressants » ?\nQ7 : Que remarques-tu pour « joyeux » et « joyeuse » ?",
+     "app": "Les apprenants comparent les formes et décrivent les changements observés.\nR6 : Au féminin, on ajoute un e (petite). Au pluriel, on ajoute un s (intéressants).\nR7 : Certains adjectifs changent de forme au féminin : joyeux devient joyeuse."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de dégager la règle de l’accord de l’adjectif qualificatif.\nQ8 : Quelle règle peut-on formuler ?",
+     "app": "Les apprenants formulent la règle avec l’aide de l’enseignant.\nR8 : L’adjectif qualificatif s’accorde en genre et en nombre avec le nom auquel il se rapporte."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande d’appliquer l’accord de l’adjectif qualificatif.\nQ9 : Écris correctement : une chemise (blanc) ; des cahiers (neuf).\nQ10 : Écris correctement : les filles sont (content).",
+     "app": "Les apprenants écrivent les groupes de mots sur l’ardoise, puis les corrigent ensemble.\nR9 : Une chemise blanche ; des cahiers neufs.\nR10 : Les filles sont contentes."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : L’accord de l’adjectif qualificatif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Avec quel mot l’adjectif s’accorde-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Avec le nom auquel il se rapporte."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment s’accorde-t-il le plus souvent ?",
+     "app": "Les apprenants répondent :\nR3 : On ajoute un e au féminin et un s au pluriel."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Recopie le texte en corrigeant les fautes d’accord des adjectifs qualificatifs.",
+    "situation": "Le texte suivant contient plusieurs fautes d’accord de l’adjectif qualificatif.",
+    "criteres": [
+     "Il écrit « verte » (robe verte).",
+     "Il écrit « gentilles » (amies gentilles).",
+     "Il écrit « sucrées » (mangues sucrées).",
+     "Il écrit « mûres » (bananes mûres).",
+     "Il ne change aucun adjectif déjà correct et recopie le texte sans autre faute."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "Charlotte porte une robe vert. Ses amies sont gentil. Elle mange des mangues sucré avec des bananes mûr.",
+     "app": "Chaque apprenant recopie le texte en corrigeant les fautes."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Orthographe : L’accord de l’adjectif qualificatif",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "L’adjectif qualificatif est un mot qui donne une précision sur un nom. Il prend le genre et le nombre de ce nom : on dit qu’il s’accorde avec lui."
+   },
+   {
+    "type": "h",
+    "text": "1- Le féminin de l’adjectif"
+   },
+   {
+    "type": "p",
+    "text": "Pour former le féminin, on ajoute le plus souvent un e à la fin de l’adjectif."
+   },
+   {
+    "type": "ex",
+    "text": "un livre intéressant → une histoire intéressante ; un ballon bleu → une robe bleue"
+   },
+   {
+    "type": "nb",
+    "text": "Un adjectif qui se termine déjà par e ne change pas au féminin : un élève sage, une élève sage."
+   },
+   {
+    "type": "h",
+    "text": "2- Le pluriel de l’adjectif"
+   },
+   {
+    "type": "p",
+    "text": "Pour former le pluriel, on ajoute le plus souvent un s à la fin de l’adjectif."
+   },
+   {
+    "type": "ex",
+    "text": "un livre intéressant → des livres intéressants ; une mangue mûre → des mangues mûres"
+   },
+   {
+    "type": "nb",
+    "text": "Un adjectif qui se termine par s ou x ne change pas au pluriel : un fruit délicieux, des fruits délicieux."
+   },
+   {
+    "type": "h",
+    "text": "3- Quelques adjectifs changent de forme au féminin"
+   },
+   {
+    "type": "ex",
+    "text": "joyeux → joyeuse ; délicieux → délicieuse"
+   },
+   {
+    "type": "h",
+    "text": "4- La règle"
+   },
+   {
+    "type": "p",
+    "text": "L’adjectif qualificatif s’accorde en genre et en nombre avec le nom auquel il se rapporte, même après le verbe être."
+   },
+   {
+    "type": "ex",
+    "text": "Ces mangues mûres sont délicieuses."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Nom",
+     "Genre et nombre",
+     "Adjectif accordé"
+    ],
+    "rows": [
+     [
+      "robe",
+      "féminin singulier",
+      "bleue"
+     ],
+     [
+      "livres",
+      "masculin pluriel",
+      "intéressants"
+     ],
+     [
+      "élèves",
+      "masculin pluriel",
+      "attentifs"
+     ],
+     [
+      "maîtresse",
+      "féminin singulier",
+      "gentille"
+     ]
+    ]
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "L’adjectif qualificatif s’accorde avec le nom auquel il se rapporte.",
+     "Au féminin, on ajoute souvent un e : petit, petite.",
+     "Au pluriel, on ajoute souvent un s : petits, petites.",
+     "Certains adjectifs changent de forme au féminin : joyeux, joyeuse."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Texte à lire",
+    "text": "La petite Charlotte porte une robe bleue.\nSon grand frère lit des livres intéressants.\nLes élèves attentifs écoutent la maîtresse gentille.\nCes mangues mûres sont délicieuses.\nMon oncle est fatigué, mais ma tante est joyeuse."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les adjectifs qualificatifs et j’entoure le nom auquel chacun se rapporte.",
+    "items": [
+     "Ma petite sœur porte un sac lourd.",
+     "Les enfants joyeux jouent dans la cour.",
+     "Cette sauce est délicieuse.",
+     "J’achète des bananes mûres."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le genre et le nombre de chaque adjectif souligné.",
+    "items": [
+     "une robe bleue",
+     "des livres intéressants",
+     "une maîtresse gentille",
+     "des mangues mûres"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’accorde les adjectifs entre parenthèses.",
+    "items": [
+     "une maison (blanc)",
+     "des élèves (courageux)",
+     "une réponse (juste)",
+     "des chemises (neuf)",
+     "mes sœurs sont (content)"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. petite (sœur) ; lourd (sac). 2. joyeux (enfants). 3. délicieuse (sauce). 4. mûres (bananes).",
+  "Exercice 2 : bleue : féminin singulier ; intéressants : masculin pluriel ; gentille : féminin singulier ; mûres : féminin pluriel.",
+  "Exercice 3 : une maison blanche ; des élèves courageux ; une réponse juste ; des chemises neuves ; mes sœurs sont contentes.",
+  "Évaluation : voir les critères de l’étape 5. Texte corrigé : Charlotte porte une robe verte. Ses amies sont gentilles. Elle mange des mangues sucrées avec des bananes mûres."
+ ]
+}

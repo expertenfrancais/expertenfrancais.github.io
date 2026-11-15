@@ -1,0 +1,252 @@
+{
+ "id": 10140,
+ "meta": {
+  "t": "La métaphore",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 140,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "titre": "Fiche d’exploitation de la matrice MF5.5.4 : La métaphore",
+  "codeMatrice": "MF5.5.4",
+  "categorie": "Les figures de style",
+  "savoirEssentiel": "La métaphore",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’emploi des figures de style.",
+  "situation": "Tchitembo souhaite faire un stage de vacances chez un libraire du centre-ville de Pointe-Noire. Il en parle à ses amis qui lui conseillent d’écrire une lettre en utilisant des images pour faire passer son message afin de ne pas laisser le libraire indifférent. Tchitembo commence à écrire sa lettre mais ne trouve pas d’images à y mettre. Le jeune garçon a recours à sa tante, institutrice dans une école de la ville qui lui prête un recueil de fables contenant des figures de style. Tchitembo se met à travailler sur une fable pour y rechercher des métaphores afin de les utiliser dans sa lettre.",
+  "numero": 38,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.5.4 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une figure de style ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un procédé qui rend une expression plus imagée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’une comparaison ?",
+     "app": "Les apprenants répondent :\nR2 : C’est une figure qui rapproche deux éléments avec un outil de comparaison : comme, pareil à."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’une fable ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un court récit, souvent en vers, avec des animaux qui parlent, et qui contient une morale."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Tchitembo, qui souhaite faire un stage de vacances chez un libraire du centre-ville de Pointe-Noire."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Tchitembo rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Ses amis lui conseillent d’écrire une lettre avec des images, mais il n’en trouve pas."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Sa tante institutrice lui prête un recueil de fables, et il y cherche des métaphores pour sa lettre."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Tchitembo, nous allons apprendre à reconnaître et employer la métaphore.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et employer la métaphore."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire la fable proposée par l’enseignant.",
+    "Identifier une comparaison dans le texte.",
+    "Souligner le terme de comparaison.",
+    "Supprimer le terme de comparaison souligné.",
+    "Remplacer le terme supprimé par le verbe être.",
+    "Nommer la figure de style obtenue.",
+    "Définir la métaphore.",
+    "Construire des phrases en utilisant des métaphores."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Le lion est comme un roi dans la savane.\n2. Sa voix est comme un tonnerre qui secoue la forêt.\n3. Le renard rôde autour de lui.\n4. Les petits animaux sont comme des feuilles que le vent emporte.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de identifier une comparaison dans le texte.\nQ1 : Quelles phrases contiennent une comparaison ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR1 : Les phrases 1, 2 et 4."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de souligner le terme de comparaison.\nQ2 : Quel est le terme de comparaison ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : « Comme » dans les phrases 1, 2 et 4."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de supprimer le terme de comparaison souligné.\nQ3 : Supprime le terme de comparaison dans la phrase 1. Que devient la phrase ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Le lion est un roi dans la savane."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de remplacer le terme supprimé par le verbe être.\nQ4 : Remplace-le par le verbe être : écris la phrase 4 sans « comme ».",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : Les petits animaux sont des feuilles que le vent emporte."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de nommer la figure de style obtenue.\nQ5 : Comment nomme-t-on la figure de style obtenue ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : C’est une métaphore."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de définir la métaphore.\nQ6 : Qu’est-ce qu’une métaphore ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : Une métaphore est une figure de style qui désigne une chose par une autre, sans outil de comparaison : le lion est un roi."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de construire des phrases en utilisant des métaphores.\nQ7 : Construis une phrase avec une métaphore.",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR7 : Exemple : Cette fille est un rayon de soleil."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La métaphore."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’une métaphore ?",
+     "app": "Les apprenants répondent :\nR2 : Une comparaison sans outil de comparaison, qui assimile deux éléments."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment passe-t-on d’une comparaison à une métaphore ?",
+     "app": "Les apprenants répondent :\nR3 : On supprime l’outil de comparaison : Le lion est comme un roi → Le lion est un roi."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Transforme chaque comparaison en métaphore.",
+    "situation": "Tu aides Tchitembo à utiliser des métaphores dans sa lettre.",
+    "criteres": [
+     "Sa voix est un tonnerre.",
+     "Cette femme est un soleil pour sa famille.",
+     "Les nuages sont un tapis gris."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Sa voix est comme un tonnerre.\n2. Cette femme est comme un soleil pour sa famille.\n3. Les nuages sont comme un tapis gris.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Vocabulaire : La métaphore",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La métaphore est une figure de style qui désigne une chose par une autre, sans utiliser d’outil de comparaison."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Comparaison",
+     "Métaphore"
+    ],
+    "rows": [
+     [
+      "Le lion est comme un roi.",
+      "Le lion est un roi."
+     ],
+     [
+      "Sa voix est comme un tonnerre.",
+      "Sa voix est un tonnerre."
+     ],
+     [
+      "Les animaux sont comme des feuilles.",
+      "Les animaux sont des feuilles."
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Les petits animaux sont des feuilles que le vent emporte."
+   },
+   {
+    "type": "nb",
+    "text": "La métaphore est plus forte que la comparaison, car elle assimile directement deux éléments."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "La métaphore n’a pas d’outil de comparaison.",
+     "Elle assimile deux éléments : A est B.",
+     "On l’obtient en supprimant « comme » d’une comparaison."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris si la phrase est une comparaison ou une métaphore.",
+    "items": [
+     "Ses yeux sont comme des étoiles.",
+     "Ses yeux sont des étoiles.",
+     "Elle est un rayon de soleil."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je transforme la comparaison en métaphore.",
+    "items": [
+     "Ce garçon est comme un lion.",
+     "La nuit est comme un manteau noir."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une métaphore avec chaque élément.",
+    "items": [
+     "le sourire",
+     "la vie"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : comparaison ; métaphore ; métaphore.",
+  "Exercice 2 : Ce garçon est un lion. La nuit est un manteau noir.",
+  "Exercice 3 : réponses libres. Exemples : Son sourire est un trésor. La vie est un long fleuve.",
+  "Évaluation : un point par métaphore correcte (3 points)."
+ ]
+}

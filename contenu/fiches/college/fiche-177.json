@@ -1,0 +1,244 @@
+{
+ "id": 10177,
+ "meta": {
+  "t": "La rédaction de la conclusion",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 177,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF5.7.1 : La rédaction de la conclusion",
+  "codeMatrice": "MF5.7.1",
+  "categorie": "La méthodologie de la rédaction",
+  "savoirEssentiel": "La rédaction de la conclusion",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative au traitement d’un sujet de rédaction.",
+  "situation": "Après avoir passé son Certificat d’Études Primaires et Élémentaires avec succès, Beaugré se prépare à rentrer en 6e à la prochaine rentrée. En dépit de cette réussite, le jeune garçon n’a pas oublié ses faiblesses en expression écrite. De ce fait, il s’exerce à traiter des sujets de composition française qu’il rencontre dans les livres et dans les anciens cahiers de ses aînés. Après avoir réalisé un travail sur trois sujets, il juge bon de le faire corriger par son frère aîné Mathias qui constate que son frère cadet a des problèmes en expression écrite parce qu’il ne maîtrise pas la méthodologie de cet exercice. Ainsi, Mathias invite son cadet à travailler avec lui sur la méthodologie de la rédaction. Après cet apprentissage, Beaugré est amené à s’exercer sur un exemple de sujet en respectant la méthodologie apprise avec son aîné afin de lui permettre de rédiger son texte.",
+  "numero": 56,
+  "date": "",
+  "duree": "1 h",
+  "support": "Sujet et conclusion écrits au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.7.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Quelles sont les trois parties d’une rédaction ?",
+     "app": "Les apprenants répondent :\nR1 : L’introduction, le développement et la conclusion."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle partie vient après le développement ?",
+     "app": "Les apprenants répondent :\nR2 : La conclusion."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un point de vue ?",
+     "app": "Les apprenants répondent :\nR3 : C’est l’opinion personnelle que l’on exprime sur un sujet."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : De Beaugré, qui s’exerce à traiter des sujets de composition française."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il ne maîtrise pas la méthodologie de la rédaction."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Son frère aîné Mathias travaille avec lui sur la méthodologie, puis il s’exerce sur un exemple de sujet."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Beaugré, nous allons apprendre à rédiger la conclusion d’un sujet.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir rédiger la conclusion."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire la conclusion proposée par l’enseignant.",
+    "Relever dans la conclusion proposée : - le bilan du développement ; - le point de vue exprimé.",
+    "Dégager la structure de la conclusion (les différentes parties).",
+    "Rappeler les éléments constitutifs de la conclusion.",
+    "Rédiger une conclusion à partir du sujet proposé par l’enseignant."
+   ],
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit au tableau le sujet et la conclusion proposée, les lit, puis demande une lecture silencieuse.",
+     "app": "Les apprenants lisent silencieusement la conclusion, puis quelques-uns la lisent à haute voix.",
+     "texte": "Sujet : « Tu as participé à une journée de salubrité dans ton quartier. Raconte. »\nConclusion : En somme, cette journée de salubrité a rendu notre quartier propre et agréable à vivre. J’ai compris que, lorsque chacun fait un petit effort, tout le monde en profite. À mon avis, nous devrions organiser une telle journée chaque mois afin de garder notre quartier en bonne santé.",
+     "a": 1
+    },
+    {
+     "ens": "L’enseignant demande de relever le bilan du développement :\nQ1 : Quelle phrase résume ce qui a été raconté dans le développement ?",
+     "app": "Les apprenants répondent :\nR1 : « En somme, cette journée de salubrité a rendu notre quartier propre et agréable à vivre. »",
+     "a": 2
+    },
+    {
+     "ens": "L’enseignant demande de relever le point de vue exprimé :\nQ2 : Quel est le point de vue exprimé par l’auteur ?",
+     "app": "Les apprenants répondent :\nR2 : Il a compris que l’effort de chacun profite à tous, et il pense qu’il faudrait organiser cette journée chaque mois."
+    },
+    {
+     "ens": "L’enseignant demande de dégager la structure de la conclusion :\nQ3 : En combien de parties la conclusion est-elle construite ? Lesquelles ?",
+     "app": "Les apprenants répondent :\nR3 : En deux parties : le bilan du développement, introduit par un mot comme « en somme », puis le point de vue de l’auteur.",
+     "a": 3
+    },
+    {
+     "ens": "L’enseignant demande de rappeler les éléments constitutifs de la conclusion :\nQ4 : Quels sont les éléments constitutifs de la conclusion ?",
+     "app": "Les apprenants répondent :\nR4 : Un mot qui annonce la fin (en somme, finalement), le bilan du développement, le point de vue de l’auteur, éventuellement une ouverture ou un souhait.",
+     "a": 4
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : La rédaction de la conclusion."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : De quoi la conclusion se compose-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Du bilan du développement et du point de vue de l’auteur."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : La conclusion apporte-t-elle une idée nouvelle ?",
+     "app": "Les apprenants répondent :\nR3 : Non, elle résume ce qui a été dit et donne un avis."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Rédige la conclusion du sujet suivant : « Une bagarre éclate à l’issue d’un match de football, à la suite d’un mauvais arbitrage. Raconte. » (Le développement a raconté la bagarre, l’intervention de l’arbitre et le retour au calme.)",
+    "situation": "Beaugré s’exerce à rédiger la conclusion d’un sujet en respectant la méthodologie apprise.",
+    "criteres": [
+     "Il commence par un mot qui annonce la conclusion (en somme, finalement, en conclusion).",
+     "Il fait le bilan du développement en une ou deux phrases.",
+     "Il exprime un point de vue ou une leçon (par exemple le respect de l’arbitre) sans introduire d’idée nouvelle."
+    ],
+    "action": 5
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item par écrit et laisse dix minutes de travail individuel.",
+     "app": "Chaque apprenant rédige sa conclusion sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, relève les bonnes productions et fait corriger les erreurs.",
+     "app": "Quelques apprenants lisent leur travail ; les autres complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : La rédaction de la conclusion",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La conclusion est la dernière partie de la rédaction. Elle fait le bilan du développement et donne le point de vue de l’auteur."
+   },
+   {
+    "type": "h",
+    "text": "1- Les parties de la conclusion"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Partie",
+     "Rôle",
+     "Mots utiles"
+    ],
+    "rows": [
+     [
+      "Le bilan",
+      "résumer ce qui a été raconté ou expliqué",
+      "en somme, finalement, en conclusion"
+     ],
+     [
+      "Le point de vue",
+      "donner son opinion ou la leçon tirée",
+      "à mon avis, j’ai compris que, il faut que"
+     ]
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Une conclusion (sujet : Tu as participé à une journée de salubrité dans ton quartier. Raconte.)",
+    "text": "En somme, cette journée de salubrité a rendu notre quartier propre et agréable à vivre. J’ai compris que, lorsque chacun fait un petit effort, tout le monde en profite. À mon avis, nous devrions organiser une telle journée chaque mois afin de garder notre quartier en bonne santé."
+   },
+   {
+    "type": "ex",
+    "text": "Dans cette conclusion : bilan : « cette journée de salubrité a rendu notre quartier propre » ; point de vue : « nous devrions organiser une telle journée chaque mois »."
+   },
+   {
+    "type": "nb",
+    "text": "La conclusion est courte (trois ou quatre phrases) et n’apporte pas d’idée nouvelle."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "La conclusion fait le bilan du développement.",
+     "Elle donne le point de vue de l’auteur : une opinion, une leçon ou un souhait.",
+     "Elle est courte et commence par un mot comme « en somme » ou « finalement »."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève dans cette conclusion le mot qui l’introduit, le bilan et le point de vue.",
+    "texte": "Finalement, notre voyage a été une belle aventure et nous sommes rentrés heureux. Je pense que voyager apprend à mieux connaître son pays.",
+    "items": [
+     "Le mot qui introduit la conclusion",
+     "Le bilan",
+     "Le point de vue"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète cette conclusion avec : En somme – J’ai compris.",
+    "texte": "………………, la fête de l’école a réuni tous les élèves et leurs parents. ……………… que le travail en équipe donne de bons résultats.",
+    "items": [
+     "Premier blanc",
+     "Deuxième blanc"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Sujet : « Tu as aidé un voisin malade. Raconte. » J’écris la conclusion en trois phrases.",
+    "items": [
+     "Phrase 1 : le bilan",
+     "Phrase 2 : ce que j’ai compris",
+     "Phrase 3 : mon point de vue ou mon souhait"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : mot qui introduit la conclusion : finalement ; bilan : notre voyage a été une belle aventure et nous sommes rentrés heureux ; point de vue : voyager apprend à mieux connaître son pays.",
+  "Exercice 2 : En somme, la fête de l’école a réuni tous les élèves et leurs parents. J’ai compris que le travail en équipe donne de bons résultats.",
+  "Exercice 3 : réponse libre. Exemple : En somme, mon voisin a retrouvé la santé grâce à nos visites. J’ai compris que l’entraide rend la vie plus douce. À mon avis, il faut toujours aider les personnes qui souffrent.",
+  "Évaluation : 1 point pour le mot qui annonce la conclusion ; 2 points pour le bilan ; 2 points pour le point de vue ; 1 point pour la correction de la langue."
+ ]
+}

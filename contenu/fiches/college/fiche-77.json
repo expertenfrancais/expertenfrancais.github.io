@@ -1,0 +1,302 @@
+{
+ "id": 10077,
+ "meta": {
+  "t": "Le groupe verbal : verbe + adjectif qualificatif attribut du sujet",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 77,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.1 : Le groupe verbal : verbe + adjectif qualificatif attribut du sujet",
+  "codeMatrice": "MF5.2.1",
+  "categorie": "Les constituants de la phrase simple",
+  "savoirEssentiel": "Le groupe verbal composé d’un verbe + un adjectif qualificatif attribut du sujet",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative aux constituants de la phrase simple.",
+  "situation": "Chimène est en vacances à Idoubi, son village natal. Deux de ses amies d’enfance lui demandent de rédiger une lettre qu’elles veulent envoyer à leur cousine vivant à Sibiti. Cette correspondance concerne une commande de quelques produits cosmétiques et alimentaires. Cependant, en rédigeant la lettre, la jeune fille émet des doutes sur la composition de certains ensembles nominaux et verbaux que lui communiquent ses camarades, comme « Envoie-nous un savon noir, un savon de Marseille et un kilogramme des pieds de porc. Ce colis, nous l’attendrons demain. Fais de ton mieux, s’il te plaît, nous sommes impatientes. » De retour à la maison, Chimène expose le problème à son père, Monsieur André qui, à son tour, lui présente un texte sur lequel elle va travailler sur le groupe nominal et le groupe verbal.",
+  "numero": 5,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un adjectif qualificatif ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un mot qui donne une précision sur un nom : il dit comment est une personne, un animal ou une chose."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un groupe verbal ?",
+     "app": "Les apprenants répondent :\nR2 : C’est l’ensemble formé d’un verbe noyau et de ses expansions."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite deux expansions du verbe.",
+     "app": "Les apprenants répondent :\nR3 : Le complément d’objet direct et le complément circonstanciel."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Chimène, en vacances à Idoubi, qui rédige une lettre pour ses amies afin de commander des produits à leur cousine de Sibiti."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Chimène rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle doute de la composition de certains ensembles nominaux et verbaux."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle expose le problème à son père, Monsieur André, qui lui présente un texte pour travailler sur le groupe nominal et le groupe verbal."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Chimène, nous allons apprendre à reconnaître le groupe verbal formé d’un verbe et d’un adjectif qualificatif attribut du sujet.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et à analyser le groupe verbal formé d’un verbe et d’un adjectif attribut du sujet."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé.",
+    "Identifier par soulignement les ensembles formés d’un verbe et d’autres éléments.",
+    "Nommer - l’ensemble de ces éléments par rapport au verbe-noyau ; - l’ensemble formé du verbe et de ses expansions.",
+    "Indiquer la nature de chacune de ces expansions du verbe.",
+    "Relever les groupes verbaux formés d’un verbe et d’un adjectif qualificatif.",
+    "Dégager la fonction de chaque adjectif qualificatif.",
+    "Encadrer les groupes verbaux formés d’un verbe et d’un adjectif qualificatif attribut du sujet.",
+    "Indiquer - la classe à laquelle appartiennent les verbes de ces groupes verbaux encadrés ; - la place de l’attribut dans ces groupes verbaux.",
+    "Expliquer la relation existant entre le verbe et l’attribut du sujet dans ces groupes verbaux.",
+    "Rappeler le processus."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "texte": "1. Chimène est contente.\n2. Ses amies paraissent impatientes.\n3. Le colis reste fermé.\n4. Les produits sont frais.\n5. Chimène écrit une longue lettre.\n6. La cousine devient inquiète.",
+     "app": "Les apprenants lisent silencieusement le texte, puis quelques-uns le lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’identifier par soulignement les ensembles formés d’un verbe et d’autres éléments.\nQ1 : Quels ensembles sont formés d’un verbe et d’autres éléments ?",
+     "app": "Les apprenants soulignent ces ensembles dans leur cahier, puis les citent.\nR1 : Est contente ; paraissent impatientes ; reste fermé ; sont frais ; écrit une longue lettre ; devient inquiète."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de nommer les éléments qui accompagnent le verbe noyau et l’ensemble formé du verbe et de ses expansions.\nQ2 : Comment appelle-t-on les éléments qui accompagnent le verbe, puis l’ensemble verbe + expansions ?",
+     "app": "Les apprenants cherchent les noms de ces éléments et de l’ensemble.\nR2 : Les éléments sont les expansions du verbe. L’ensemble est le groupe verbal."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’indiquer la nature de chaque expansion du verbe.\nQ3 : Quelle est la nature de chaque expansion ?",
+     "app": "Les apprenants donnent la nature de chaque expansion.\nR3 : Contente, impatientes, fermé, frais et inquiète sont des adjectifs qualificatifs. « Une longue lettre » est un groupe nominal."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de relever les groupes verbaux formés d’un verbe et d’un adjectif qualificatif.\nQ4 : Quels groupes verbaux sont formés d’un verbe et d’un adjectif qualificatif ?",
+     "app": "Les apprenants relèvent ces groupes verbaux.\nR4 : Est contente ; paraissent impatientes ; reste fermé ; sont frais ; devient inquiète."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de dégager la fonction de chaque adjectif qualificatif.\nQ5 : Quelle est la fonction de ces adjectifs ?",
+     "app": "Les apprenants cherchent à quel mot se rapporte chaque adjectif.\nR5 : Ils disent comment est le sujet (Chimène, ses amies, le colis, les produits, la cousine) : ils sont attributs du sujet."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande d’encadrer les groupes verbaux formés d’un verbe et d’un adjectif attribut du sujet.\nQ6 : Quels groupes verbaux contiennent un adjectif attribut du sujet ?",
+     "app": "Les apprenants encadrent ces groupes verbaux dans leur cahier.\nR6 : Est contente ; paraissent impatientes ; reste fermé ; sont frais ; devient inquiète. Dans « écrit une longue lettre », l’adjectif « longue » complète le nom « lettre » : il n’est pas attribut."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande d’indiquer la classe des verbes de ces groupes verbaux et la place de l’attribut.\nQ7 : À quelle classe appartiennent les verbes être, paraître, rester et devenir ?\nQ8 : Où est placé l’attribut du sujet ?",
+     "app": "Les apprenants observent les verbes et la place de l’adjectif.\nR7 : Ce sont des verbes d’état.\nR8 : Après le verbe d’état."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande d’expliquer la relation entre le verbe et l’attribut du sujet.\nQ9 : Quelle relation y a-t-il entre le verbe, l’attribut et le sujet ?",
+     "app": "Les apprenants observent l’accord de l’adjectif et le rôle du verbe.\nR9 : Le verbe d’état relie l’attribut au sujet. L’attribut dit comment est le sujet et s’accorde avec lui : Ses amies paraissent impatientes."
+    },
+    {
+     "a": 10,
+     "ens": "L’enseignant demande de rappeler le processus suivi.\nQ10 : Quel processus avons-nous suivi ?",
+     "app": "Les apprenants rappellent les étapes.\nR10 : Nous avons repéré les groupes verbaux, relevé ceux qui ont un adjectif, trouvé leur fonction, puis reconnu l’attribut du sujet après un verbe d’état."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le groupe verbal formé d’un verbe et d’un adjectif qualificatif attribut du sujet."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un attribut du sujet ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un mot qui dit comment est le sujet et qui suit un verbe d’état."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite des verbes d’état.",
+     "app": "Les apprenants répondent :\nR3 : Être, paraître, sembler, rester, devenir."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Recopie les phrases qui contiennent un adjectif attribut du sujet et souligne cet attribut.",
+    "situation": "Tu aides Chimène à reconnaître l’attribut du sujet dans les phrases de sa lettre.",
+    "criteres": [
+     "Il recopie les phrases 1, 3 et 4.",
+     "Il souligne « animé », « mûres » et « calme ».",
+     "Il ne recopie pas les phrases 2 et 5, où l’adjectif (rouge, frais) complète un nom."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les phrases au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Le marché est animé.\n2. Ma sœur achète une robe rouge.\n3. Les mangues semblent mûres.\n4. Papa reste calme.\n5. Les enfants mangent des fruits frais.",
+     "app": "Chaque apprenant recopie les phrases demandées et souligne l’attribut."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le groupe verbal : verbe + adjectif qualificatif attribut du sujet",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "L’attribut du sujet est un mot qui dit comment est le sujet. Il suit un verbe d’état et s’accorde avec le sujet."
+   },
+   {
+    "type": "h",
+    "text": "1- Le verbe d’état"
+   },
+   {
+    "type": "p",
+    "text": "Les verbes d’état sont : être, paraître, sembler, rester, devenir. Ils relient le sujet à son attribut."
+   },
+   {
+    "type": "h",
+    "text": "2- L’adjectif qualificatif attribut du sujet"
+   },
+   {
+    "type": "p",
+    "text": "L’adjectif attribut se place après le verbe d’état. Il ne peut pas être supprimé sans changer le sens."
+   },
+   {
+    "type": "ex",
+    "text": "Chimène est contente. Ses amies paraissent impatientes."
+   },
+   {
+    "type": "h",
+    "text": "3- Attention à l’adjectif épithète"
+   },
+   {
+    "type": "p",
+    "text": "L’adjectif épithète complète un nom. Il n’est pas séparé du nom par un verbe d’état."
+   },
+   {
+    "type": "ex",
+    "text": "Chimène écrit une longue lettre."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Phrase",
+     "Adjectif",
+     "Fonction"
+    ],
+    "rows": [
+     [
+      "Le colis reste fermé.",
+      "fermé",
+      "attribut du sujet « colis »"
+     ],
+     [
+      "Les produits sont frais.",
+      "frais",
+      "attribut du sujet « produits »"
+     ],
+     [
+      "Chimène écrit une longue lettre.",
+      "longue",
+      "épithète du nom « lettre »"
+     ]
+    ]
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le verbe d’état relie le sujet à l’attribut.",
+     "L’adjectif attribut dit comment est le sujet.",
+     "Il se place après le verbe d’état et s’accorde avec le sujet.",
+     "L’adjectif épithète complète un nom."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Texte à lire",
+    "text": "Chimène est contente.\nSes amies paraissent impatientes.\nLe colis reste fermé.\nLes produits sont frais.\nChimène écrit une longue lettre.\nLa cousine devient inquiète."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe et j’encadre l’adjectif attribut du sujet.",
+    "items": [
+     "Les élèves sont attentifs.",
+     "Le repas paraît délicieux.",
+     "Mon père devient pâle.",
+     "La route reste glissante."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris si l’adjectif souligné est attribut du sujet ou épithète.",
+    "items": [
+     "Ma tante porte une robe bleue.",
+     "La robe de ma tante est bleue.",
+     "Le garçon timide parle peu.",
+     "Le garçon semble timide."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je complète chaque phrase avec un adjectif attribut bien accordé.",
+    "items": [
+     "Les mangues sont …",
+     "Ma sœur semble …",
+     "Les rues restent …"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. sont / attentifs ; 2. paraît / délicieux ; 3. devient / pâle ; 4. reste / glissante.",
+  "Exercice 2 : 1. épithète ; 2. attribut du sujet ; 3. épithète ; 4. attribut du sujet.",
+  "Exercice 3 : réponses libres, à condition d’accorder l’adjectif. Exemples : Les mangues sont mûres. Ma sœur semble fatiguée. Les rues restent propres.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par phrase recopiée (3 points) et un point par attribut souligné (3 points)."
+ ]
+}

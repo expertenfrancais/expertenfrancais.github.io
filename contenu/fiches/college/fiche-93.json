@@ -1,0 +1,254 @@
+{
+ "id": 10093,
+ "meta": {
+  "t": "Le complément d’objet direct",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "f",
+  "r": 4.8,
+  "fn": 93,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.4 : Le complément d’objet direct",
+  "codeMatrice": "MF6.2.4",
+  "categorie": "Les fonctions du nom",
+  "savoirEssentiel": "Le complément d’objet direct",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’analyse du nom.",
+  "situation": "Jicette participe à un test de recrutement pour être réceptionniste dans un hôtel de la place. Elle fait partie des dix candidats qui ont obtenu 14 de moyenne. Cependant, l’hôtel n’a besoin que de deux personnes pour le poste. Pour départager les candidats, la direction fait passer un second test de culture générale. Jicette n’est pas retenue parce qu’elle n’a pas pu répondre aux questions portant sur les fonctions du nom. Son frère Djoudjou, déçu de l’échec de sa sœur, la prépare à la prochaine campagne de recrutement prévue à la fin de l’année en travaillant avec elle sur l’analyse grammaticale. Il lui demande d’indiquer la fonction des noms soulignés dans le texte. Jicette se met ainsi à donner la fonction des mots soulignés dans le texte qui lui est proposé.",
+  "numero": 20,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.4 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce que le sujet d’un verbe ?",
+     "app": "Les apprenants répondent :\nR1 : C’est le mot ou le groupe de mots qui fait l’action."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un groupe nominal ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un ensemble de mots organisé autour d’un nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un pronom personnel ? Donne un exemple.",
+     "app": "Les apprenants répondent :\nR3 : C’est un mot qui remplace un nom. Exemple : il, elle, les."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Jicette, qui participe à un test de recrutement pour devenir réceptionniste dans un hôtel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Pourquoi Jicette n’est-elle pas retenue ?",
+     "app": "Les apprenants répondent :\nR2 : Elle n’est pas retenue parce qu’elle n’a pas su répondre aux questions sur les fonctions du nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait son frère pour l’aider ?",
+     "app": "Les apprenants répondent :\nR3 : Son frère Djoudjou la prépare au prochain recrutement en travaillant avec elle sur l’analyse grammaticale."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Jicette, nous allons apprendre à reconnaître et analyser le complément d’objet direct.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et analyser le complément d’objet direct."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé par l’enseignant.",
+    "Repérer les compléments d’objets directs contenus dans le texte.",
+    "Encadrer le verbe qui va avec chaque complément d’objet direct.",
+    "Indiquer la nature du complément d’objet direct.",
+    "Préciser la place de chaque complément d’objet direct par rapport à son verbe.",
+    "Analyser grammaticalement les compléments d’objets directs repérés dans le texte.",
+    "Rappeler les étapes réalisées pour analyser les compléments d’objets directs.",
+    "Appliquer la même démarche pour analyser les autres mots soulignés dans les phrases proposées."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Jicette lit les questions.\n2. Djoudjou prépare sa sœur.\n3. Le directeur choisit deux candidats.\n4. Les clients remplissent la fiche.\n5. Je les vois chaque matin.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer les compléments d’objets directs contenus dans le texte.\nQ1 : Quels sont les compléments d’objet directs ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Les questions ; sa sœur ; deux candidats ; la fiche ; les."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de encadrer le verbe qui va avec chaque complément d’objet direct.\nQ2 : Quel verbe va avec chaque COD ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : Lit ; prépare ; choisit ; remplissent ; vois."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de indiquer la nature du complément d’objet direct.\nQ3 : Quelle est la nature de chaque COD ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Groupes nominaux : les questions, sa sœur, deux candidats, la fiche. Pronom personnel : les."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de préciser la place de chaque complément d’objet direct par rapport à son verbe.\nQ4 : Où est placé chaque COD par rapport au verbe ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : Après le verbe, sans préposition, sauf le pronom « les » qui est placé avant le verbe."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de analyser grammaticalement les compléments d’objets directs repérés dans le texte.\nQ5 : Comment analyse-t-on « les questions » dans la phrase 1 ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : « Les questions » est un groupe nominal, complément d’objet direct du verbe « lit »."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de rappeler les étapes réalisées pour analyser les compléments d’objets directs.\nQ6 : Quelles étapes avons-nous suivies ?",
+     "app": "Les apprenants rappellent la démarche suivie.\nR6 : On trouve le verbe, on pose la question « quoi ? » ou « qui ? » après le verbe, on identifie le COD, puis on donne sa nature, sa place et sa fonction."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de appliquer la même démarche pour analyser les autres mots soulignés dans les phrases proposées.\nQ7 : Analyse le COD : « Le maître corrige les cahiers. »",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR7 : « Les cahiers » est un groupe nominal, COD du verbe « corrige »."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le complément d’objet direct."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment trouve-t-on le COD ?",
+     "app": "Les apprenants répondent :\nR2 : On pose la question « quoi ? » ou « qui ? » après le verbe."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelle est la nature d’un COD ?",
+     "app": "Les apprenants répondent :\nR3 : Un groupe nominal ou un pronom."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Relève le COD de chaque phrase et donne sa nature.",
+    "situation": "Tu aides Jicette à indiquer la fonction des noms soulignés dans un texte.",
+    "criteres": [
+     "« La radio » : groupe nominal.",
+     "« Des mangues » : groupe nominal.",
+     "« Les » : pronom personnel.",
+     "« Les cahiers » : groupe nominal."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Mon père répare la radio.\n2. Les enfants mangent des mangues.\n3. Je les appelle.\n4. Le maître corrige les cahiers.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le complément d’objet direct",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le complément d’objet direct (COD) complète le verbe sans préposition. Il répond à la question quoi ? ou qui ? posée après le verbe."
+   },
+   {
+    "type": "ex",
+    "text": "Jicette lit les questions. Elle lit quoi ? Les questions."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Phrase",
+     "COD",
+     "Nature"
+    ],
+    "rows": [
+     [
+      "Le directeur choisit deux candidats.",
+      "deux candidats",
+      "groupe nominal"
+     ],
+     [
+      "Je les vois.",
+      "les",
+      "pronom personnel"
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Le COD se place le plus souvent après le verbe. Un pronom COD se place avant le verbe : je les vois."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le COD complète directement le verbe.",
+     "On le trouve avec « quoi ? » ou « qui ? ».",
+     "Il est un groupe nominal ou un pronom."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le COD.",
+    "items": [
+     "Papa achète du pain.",
+     "Fatou lave ses mains.",
+     "Nous écoutons la maîtresse."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je donne la nature du COD.",
+    "items": [
+     "Il prend le bus.",
+     "Je les attends.",
+     "Elle ouvre sa valise."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase avec chaque verbe et un COD.",
+    "items": [
+     "acheter",
+     "lire",
+     "écrire"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : du pain ; ses mains ; la maîtresse.",
+  "Exercice 2 : le bus : groupe nominal ; les : pronom personnel ; sa valise : groupe nominal.",
+  "Exercice 3 : réponses libres. Exemples : J’achète des mangues. Je lis un conte. Il écrit une lettre.",
+  "Évaluation : un point par COD trouvé avec sa nature (4 points)."
+ ]
+}

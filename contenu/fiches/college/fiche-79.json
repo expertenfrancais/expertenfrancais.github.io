@@ -1,0 +1,304 @@
+{
+ "id": 10079,
+ "meta": {
+  "t": "Le pluriel des noms composés : nom + nom",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "g",
+  "r": 4.8,
+  "fn": 79,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.2 : Le pluriel des noms composés : nom + nom",
+  "codeMatrice": "MF5.2.2",
+  "categorie": "Le pluriel des noms",
+  "savoirEssentiel": "Le pluriel des noms composés : nom + nom",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative au pluriel des noms.",
+  "situation": "Zola a lu l’article d’un journal et y a trouvé des noms composés suivants : chou-fleur ; coffre-fort ; timbre-poste ; parti pris ; chef-lieu. Il décide alors de construire des phrases en utilisant ces noms composés au pluriel. Mais il ne parvient pas à le faire. Il se rapproche alors de Boto, sa cousine, enseignante dans un collège de la place pour solliciter son aide. Cette dernière lui donne des phrases à partir desquelles il va travailler sur le pluriel des noms composés.",
+  "numero": 7,
+  "date": "",
+  "duree": "1 h",
+  "support": "Phrases écrites au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Comment forme-t-on le pluriel des noms « fleur » et « chef » ?",
+     "app": "Les apprenants répondent :\nR1 : On ajoute un s : des fleurs, des chefs."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quel est le pluriel de « chou » et de « lieu » ?",
+     "app": "Les apprenants répondent :\nR2 : Des choux, des lieux."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment s’appelle le petit trait qui relie deux mots, comme dans « chou-fleur » ?",
+     "app": "Les apprenants répondent :\nR3 : C’est le trait d’union."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Zola, qui a lu dans un journal des noms composés comme chou-fleur, coffre-fort ou timbre-poste."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Zola rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il ne parvient pas à construire des phrases avec ces noms composés au pluriel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Il demande l’aide de sa cousine Boto, enseignante, qui lui donne des phrases pour travailler."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Zola, nous allons apprendre à former le pluriel des noms composés formés de deux noms.",
+     "app": "Les apprenants expriment le besoin d’apprendre à former le pluriel des noms composés : nom + nom."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire les phrases proposées.",
+    "Identifier les noms contenus dans ces phrases.",
+    "Observer les noms identifiés.",
+    "Dégager la composition de ces noms.",
+    "Distinguer les noms simples des noms composés.",
+    "Indiquer la nature de chaque élément du nom composé.",
+    "Relever parmi ces noms composés, ceux qui sont formés de deux noms.",
+    "Découvrir les règles de formation du pluriel des noms composés : nom + nom.",
+    "Expliquer l’accord de chaque nom relevé.",
+    "Appliquer dans des phrases le pluriel des noms composés : nom + nom."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Zola achète un chou-fleur au marché.\n2. Dolisie est le chef-lieu du département du Niari.\n3. Boto colle un timbre-poste sur l’enveloppe.\n4. Le chantier emploie deux aides-maçons.\n5. Chaque matin, mon oncle prend une pause-café.\n6. Le gardien ouvre le coffre-fort.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’identifier les noms contenus dans ces phrases.\nQ1 : Quels noms trouve-t-on dans ces phrases ?",
+     "app": "Les apprenants soulignent les noms dans leur cahier, puis les citent.\nR1 : Zola ; chou-fleur ; marché ; Dolisie ; chef-lieu ; département ; Niari ; Boto ; timbre-poste ; enveloppe ; chantier ; aides-maçons ; matin ; oncle ; pause-café ; gardien ; coffre-fort."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande d’observer les noms identifiés.\nQ2 : Que remarques-tu dans l’écriture de chou-fleur, chef-lieu, timbre-poste, aides-maçons, pause-café et coffre-fort ?",
+     "app": "Les apprenants observent l’écriture de ces noms.\nR2 : Ces noms sont formés de deux mots reliés par un trait d’union."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de dégager la composition de ces noms.\nQ3 : De quoi sont composés ces noms ?",
+     "app": "Les apprenants décomposent chaque nom.\nR3 : De deux mots réunis par un trait d’union : chou + fleur, chef + lieu, timbre + poste, aide + maçon, pause + café, coffre + fort."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de distinguer les noms simples des noms composés.\nQ4 : Quels sont les noms simples ? Quels sont les noms composés ?",
+     "app": "Les apprenants classent les noms dans un tableau.\nR4 : Noms simples : marché, département, enveloppe, chantier, matin, oncle, gardien... Noms composés : chou-fleur, chef-lieu, timbre-poste, aide-maçon, pause-café, coffre-fort."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’indiquer la nature de chaque élément du nom composé.\nQ5 : Quelle est la nature de chaque élément des noms composés ?",
+     "app": "Les apprenants donnent la nature de chaque mot.\nR5 : Chou, fleur, chef, lieu, timbre, poste, aide, maçon, pause, café et coffre sont des noms. « Fort » dans « coffre-fort » est un adjectif qualificatif."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de relever les noms composés formés de deux noms.\nQ6 : Quels noms composés sont formés de deux noms ?",
+     "app": "Les apprenants relèvent ces noms composés.\nR6 : Chou-fleur ; chef-lieu ; timbre-poste ; aide-maçon ; pause-café. Coffre-fort est formé d’un nom et d’un adjectif."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de découvrir les règles de formation du pluriel des noms composés : nom + nom. Il écrit au tableau : des choux-fleurs, des chefs-lieux, des aides-maçons, des timbres-poste, des pauses-café.\nQ7 : Que remarques-tu au pluriel de chou-fleur, chef-lieu et aide-maçon ?\nQ8 : Que remarques-tu au pluriel de timbre-poste et de pause-café ?",
+     "app": "Les apprenants comparent les formes plurielles et dégagent les règles.\nR7 : Les deux noms prennent la marque du pluriel : des choux-fleurs, des chefs-lieux, des aides-maçons.\nR8 : Seul le premier nom prend la marque du pluriel : des timbres-poste, des pauses-café."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande d’expliquer l’accord de chaque nom relevé.\nQ9 : Pourquoi le second nom ne varie-t-il pas dans timbre-poste et pause-café ?",
+     "app": "Les apprenants essaient d’intercaler de ou à entre les deux noms.\nR9 : Parce qu’il complète le premier nom : on peut dire timbre de poste, pause de café. Quand on ne peut pas intercaler de ou à, les deux noms varient."
+    },
+    {
+     "a": 10,
+     "ens": "L’enseignant demande d’appliquer le pluriel des noms composés : nom + nom dans des phrases.\nQ10 : Mets au pluriel : « Zola achète un chou-fleur. » ; « Boto colle un timbre-poste. »",
+     "app": "Les apprenants écrivent les phrases au pluriel sur leur ardoise, puis les corrigent ensemble.\nR10 : Zola achète des choux-fleurs. Boto colle des timbres-poste."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le pluriel des noms composés formés de deux noms."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quand les deux noms prennent-ils la marque du pluriel ?",
+     "app": "Les apprenants répondent :\nR2 : Quand le second nom ne complète pas le premier : des choux-fleurs, des chefs-lieux."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quand seul le premier nom varie-t-il ?",
+     "app": "Les apprenants répondent :\nR3 : Quand le second nom complète le premier : des timbres-poste, des pauses-café."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris au pluriel chacun des noms composés suivants.",
+    "situation": "Tu aides Zola à construire ses phrases avec des noms composés au pluriel.",
+    "criteres": [
+     "Il écrit « des chefs-lieux ».",
+     "Il écrit « des aides-maçons ».",
+     "Il écrit « des timbres-poste ».",
+     "Il écrit « des pauses-café »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les noms au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. un chef-lieu\n2. un aide-maçon\n3. un timbre-poste\n4. une pause-café",
+     "app": "Chaque apprenant écrit les quatre noms au pluriel."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Orthographe : Le pluriel des noms composés : nom + nom",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un nom composé est un nom formé de plusieurs mots réunis, le plus souvent par un trait d’union. Ici, il est formé de deux noms."
+   },
+   {
+    "type": "h",
+    "text": "1- Les deux noms varient"
+   },
+   {
+    "type": "p",
+    "text": "Quand les deux noms ont la même valeur, ils prennent tous les deux la marque du pluriel."
+   },
+   {
+    "type": "ex",
+    "text": "un chou-fleur → des choux-fleurs ; un chef-lieu → des chefs-lieux ; un aide-maçon → des aides-maçons"
+   },
+   {
+    "type": "h",
+    "text": "2- Seul le premier nom varie"
+   },
+   {
+    "type": "p",
+    "text": "Quand le second nom complète le premier, il ne varie pas."
+   },
+   {
+    "type": "ex",
+    "text": "un timbre-poste → des timbres-poste ; une pause-café → des pauses-café"
+   },
+   {
+    "type": "nb",
+    "text": "Astuce : si je peux écrire de ou à entre les deux noms (un timbre de poste), le second nom ne varie pas."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Singulier",
+     "Pluriel",
+     "Explication"
+    ],
+    "rows": [
+     [
+      "un chou-fleur",
+      "des choux-fleurs",
+      "les deux noms varient"
+     ],
+     [
+      "un chef-lieu",
+      "des chefs-lieux",
+      "les deux noms varient"
+     ],
+     [
+      "un timbre-poste",
+      "des timbres-poste",
+      "poste complète timbre"
+     ],
+     [
+      "une pause-café",
+      "des pauses-café",
+      "café complète pause"
+     ]
+    ]
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un nom composé de deux noms est relié par un trait d’union.",
+     "Si les deux noms ont la même valeur, les deux varient.",
+     "Si le second nom complète le premier, seul le premier varie.",
+     "Je peux tester avec de ou à : timbre de poste."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Phrases à lire",
+    "text": "Zola achète un chou-fleur au marché.\nDolisie est le chef-lieu du département du Niari.\nBoto colle un timbre-poste sur l’enveloppe.\nLe chantier emploie deux aides-maçons.\nChaque matin, mon oncle prend une pause-café."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève les noms composés formés de deux noms.",
+    "items": [
+     "Le chef-lieu est loin.",
+     "Papa achète un chou-fleur.",
+     "Le coffre-fort est lourd.",
+     "Une pause-café dure dix minutes."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris chaque nom composé au pluriel.",
+    "items": [
+     "un chef-lieu",
+     "un chou-fleur",
+     "un aide-maçon",
+     "un timbre-poste"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je recopie chaque phrase en mettant au pluriel le groupe souligné.",
+    "items": [
+     "Ce timbre-poste est rare.",
+     "Ce chef-lieu est grand.",
+     "Une pause-café est courte."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : chef-lieu ; chou-fleur ; pause-café. (Coffre-fort est formé d’un nom et d’un adjectif.)",
+  "Exercice 2 : des chefs-lieux ; des choux-fleurs ; des aides-maçons ; des timbres-poste.",
+  "Exercice 3 : Ces timbres-poste sont rares. Ces chefs-lieux sont grands. Des pauses-café sont courtes.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par nom composé bien écrit (4 points)."
+ ]
+}

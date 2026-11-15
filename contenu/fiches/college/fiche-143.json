@@ -1,0 +1,262 @@
+{
+ "id": 10143,
+ "meta": {
+  "t": "La présentation des composants de l’ordinateur",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "h",
+  "r": 4.8,
+  "fn": 143,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.5.3 : La présentation des composants de l’ordinateur",
+  "codeMatrice": "MF6.5.3",
+  "categorie": "Le vocabulaire des TIC",
+  "savoirEssentiel": "La présentation des composants de l’ordinateur",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie de savoirs essentiels relative à l’utilisation du vocabulaire des Technologies de l’Information et de la Communication pour l’Enseignement (TICE).",
+  "situation": "Christella vient de recevoir un appareil électronique comme cadeau d’anniversaire. Elle le montre à ses amis qui lui demandent de présenter la machine. Ne maîtrisant pas le vocabulaire des TIC, elle n’y arrive pas. Son frère, qui a suivi la conversation, lui demande de consulter la notice contenue dans le kit pour découvrir le nom de l’appareil afin de pouvoir le présenter à ses amis. Après avoir lu la notice et observé les images qui décrivent cet appareil, Christella se rend compte qu’il s’agit d’un ordinateur portable. Elle se met alors à le présenter à ses amis en utilisant le vocabulaire des TIC.",
+  "numero": 43,
+  "date": "",
+  "duree": "1 h",
+  "support": "Images de la notice (affiche ou dessin au tableau) ; texte écrit au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.5.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un ordinateur ?",
+     "app": "Les apprenants répondent :\nR1 : C’est une machine qui traite des informations."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : À quoi sert un ordinateur ?",
+     "app": "Les apprenants répondent :\nR2 : À écrire, à calculer, à dessiner, à chercher des informations."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’une notice ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un texte qui explique comment utiliser un appareil."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Christella, qui vient de recevoir un appareil électronique comme cadeau d’anniversaire."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle ne maîtrise pas le vocabulaire des TIC et n’arrive pas à présenter la machine."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle lit la notice, observe les images et découvre qu’il s’agit d’un ordinateur portable."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Christella, nous allons apprendre le nom et le rôle des composants de l’ordinateur.",
+     "app": "Les apprenants expriment le besoin d’apprendre le nom et le rôle des composants de l’ordinateur."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Observer les images contenues dans la notice.",
+    "Lire le texte qui accompagne les images.",
+    "Repérer les composants de l’ordinateur décrits sur la notice.",
+    "Nommer chaque élément repéré.",
+    "Déterminer le rôle de chaque outil.",
+    "Construire des phrases en utilisant le nom de chaque composant repéré.",
+    "Présenter l’ordinateur et ses composants en utilisant le vocabulaire approprié aux TIC."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant montre les images de la notice et demande de les observer.",
+     "app": "Les apprenants observent les images attentivement."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant écrit le texte de la notice au tableau et demande de le lire.",
+     "app": "Les apprenants lisent le texte, d’abord en silence, puis à haute voix.",
+     "texte": "Notice de l’ordinateur\n1. L’écran affiche les textes et les images.\n2. Le clavier sert à écrire.\n3. La souris déplace le pointeur sur l’écran.\n4. L’unité centrale traite les informations.\n5. Le disque dur garde les fichiers."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de repérer les composants décrits.\nQ1 : Quels composants la notice décrit-elle ?",
+     "app": "Les apprenants repèrent les éléments dans le texte.\nR1 : L’écran, le clavier, la souris, l’unité centrale et le disque dur."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de nommer chaque élément repéré.\nQ2 : Comment s’appelle chaque élément montré par les images ?",
+     "app": "Les apprenants nomment chaque élément.\nR2 : Écran ; clavier ; souris ; unité centrale ; disque dur."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de déterminer le rôle de chaque outil.\nQ3 : À quoi sert chaque composant ?",
+     "app": "Les apprenants cherchent dans le texte, puis répondent.\nR3 : L’écran affiche ; le clavier sert à écrire ; la souris déplace le pointeur ; l’unité centrale traite les informations ; le disque dur garde les fichiers."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de construire une phrase avec chaque composant.\nQ4 : Construisez une phrase avec chaque nom de composant.",
+     "app": "Les apprenants écrivent leurs phrases, puis les lisent.\nR4 : Exemple : J’écris mon devoir avec le clavier."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande à un apprenant de présenter l’ordinateur à la classe.",
+     "app": "Un apprenant présente l’ordinateur : Voici un ordinateur. L’écran affiche les images, le clavier sert à écrire, la souris déplace le pointeur…"
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les composants de l’ordinateur."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels sont ces composants et leur rôle ?",
+     "app": "Les apprenants répondent :\nR2 : L’écran affiche, le clavier sert à écrire, la souris déplace le pointeur, l’unité centrale traite les informations, le disque dur garde les fichiers."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment présenter l’ordinateur ?",
+     "app": "Les apprenants répondent :\nR3 : On nomme chaque composant et on dit son rôle avec le vocabulaire des TIC."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "oral",
+    "item": "Présente un ordinateur en nommant trois composants et en disant leur rôle.",
+    "situation": "Tu présentes à tes amis l’ordinateur de Christella.",
+    "criteres": [
+     "Nomme correctement trois composants.",
+     "Dit le rôle de chacun.",
+     "Emploie le vocabulaire des TIC."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item et interroge quelques apprenants à tour de rôle.",
+     "app": "Chaque apprenant interrogé présente l’ordinateur à la classe."
+    },
+    {
+     "ens": "L’enseignant corrige les présentations et note les réussites.",
+     "app": "Les apprenants écoutent, corrigent les erreurs et retiennent le vocabulaire."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Vocabulaire : La présentation des composants de l’ordinateur",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un ordinateur est une machine formée de plusieurs composants qui traitent et gardent des informations."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Composant",
+     "Rôle",
+     "Exemple de phrase"
+    ],
+    "rows": [
+     [
+      "L’écran",
+      "Il affiche les textes et les images.",
+      "Je lis mon texte sur l’écran."
+     ],
+     [
+      "Le clavier",
+      "Il sert à écrire.",
+      "J’écris avec le clavier."
+     ],
+     [
+      "La souris",
+      "Elle déplace le pointeur.",
+      "Je clique avec la souris."
+     ],
+     [
+      "L’unité centrale",
+      "Elle traite les informations.",
+      "L’unité centrale calcule vite."
+     ],
+     [
+      "Le disque dur",
+      "Il garde les fichiers.",
+      "Je range mon devoir sur le disque dur."
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "J’écris mon devoir avec le clavier, puis je lis le résultat sur l’écran."
+   },
+   {
+    "type": "nb",
+    "text": "TIC veut dire : technologies de l’information et de la communication."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Je connais le nom des composants : écran, clavier, souris, unité centrale, disque dur.",
+     "Je sais dire le rôle de chacun.",
+     "Je présente l’ordinateur avec le vocabulaire des TIC."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’associe chaque composant à son rôle.",
+    "texte": "Rôles : écrire – afficher les images – déplacer le pointeur",
+    "items": [
+     "l’écran",
+     "le clavier",
+     "la souris"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète chaque phrase avec le mot qui convient.",
+    "texte": "Choix : clavier – écran – disque",
+    "items": [
+     "Je tape mon texte avec le …… .",
+     "L’…… affiche les images.",
+     "Le …… dur garde mes fichiers."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris deux phrases pour présenter l’ordinateur en utilisant deux composants.",
+    "items": [
+     "Phrase 1",
+     "Phrase 2"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : l’écran → afficher les images ; le clavier → écrire ; la souris → déplacer le pointeur.",
+  "Exercice 2 : clavier ; écran ; disque.",
+  "Exercice 3 : réponses libres. Exemple : Voici un ordinateur. L’écran affiche les images et le clavier sert à écrire.",
+  "Évaluation : un point par composant correct avec son rôle (3 points)."
+ ]
+}

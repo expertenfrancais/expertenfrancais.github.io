@@ -1,0 +1,324 @@
+{
+ "id": 10069,
+ "meta": {
+  "t": "Les valeurs et l’emploi du présent de l’indicatif",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Conjugaison",
+  "img": "f",
+  "r": 4.8,
+  "fn": 69,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "titre": "Fiche d’exploitation de la matrice MF6.4.1 : Les valeurs et l’emploi du présent de l’indicatif",
+  "codeMatrice": "MF6.4.1",
+  "categorie": "Les temps de l’indicatif",
+  "savoirEssentiel": "Les valeurs et l’emploi du présent de l’indicatif",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’emploi des temps de l’indicatif.",
+  "situation": "Mado écrit un texte de remerciement à l’occasion de la cérémonie de clôture de la colonie de vacances destiné au directeur du site. Elle fait lire le texte à son ami Bernard qui repère plusieurs verbes mal conjugués au mode indicatif comme ceux soulignés dans ces phrases : « les élèves vous remercie de votre bon accueil », « ils souhaite revenir ici l’année prochaine », « pour cela, ils écrirons à Madame la ministre ». Constatant que Mado a de sérieux problèmes en conjugaison, Bernard décide de l’aider en lui faisant faire une série d’exercices. Après cet apprentissage, Bernard demande à Mado d’écrire correctement les verbes de son texte qui sont aux temps simples de l’indicatif.",
+  "numero": 6,
+  "date": "",
+  "duree": "1 h",
+  "support": "Phrases écrites au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.4.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un verbe ?",
+     "app": "Les apprenants répondent :\nR1 : Un verbe est un mot qui exprime une action ou un état et qui se conjugue."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les six personnes de la conjugaison ?",
+     "app": "Les apprenants répondent :\nR2 : Je, tu, il (elle), nous, vous, ils (elles)."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : À quel groupe appartiennent les verbes « chanter » et « finir » ?",
+     "app": "Les apprenants répondent :\nR3 : « Chanter » est du 1er groupe ; « finir » est du 2e groupe."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un texte de remerciement écrit par Mado pour la cérémonie de clôture de la colonie de vacances."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Bernard repère-t-il dans le texte ?",
+     "app": "Les apprenants répondent :\nR2 : Plusieurs verbes sont mal conjugués au mode indicatif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que décide Bernard pour aider Mado ?",
+     "app": "Les apprenants répondent :\nR3 : Il lui fait faire une série d’exercices de conjugaison."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Mado, nous allons apprendre à employer et à conjuguer le présent de l’indicatif.",
+     "app": "Les apprenants expriment le besoin d’apprendre à conjuguer et à employer le présent de l’indicatif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire les phrases proposées par l’enseignant.",
+    "Souligner les verbes des trois groupes conjugués au présent de l’indicatif.",
+    "Identifier - la personne de conjugaison de chaque verbe souligné ; - le mode de chaque verbe.",
+    "Indiquer les terminaisons des verbes de chaque groupe au présent de l’indicatif.",
+    "Déterminer la fonction du présent de l’indicatif : quand et pourquoi l’utiliser ?",
+    "Préciser les valeurs du présent de l’indicatif.",
+    "Conjuguer les verbes des 1er, 2e et 3e groupes proposés par l’enseignant au présent de l’indicatif.",
+    "Employer dans des phrases les verbes proposés par l’enseignant au présent de l’indicatif."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. En ce moment, les élèves remercient le directeur.\n2. Chaque jour, nous finissons le repas à midi.\n3. Chaque matin, je prends le bus à six heures.\n4. L’eau bout à cent degrés.\n5. La Terre tourne autour du Soleil.\n6. Tu viens avec nous demain.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner les verbes conjugués au présent de l’indicatif.\nQ1 : Quels sont les verbes conjugués dans ces phrases ?",
+     "app": "Les apprenants soulignent les verbes dans leur cahier, puis les citent.\nR1 : Remercient ; finissons ; prends ; bout ; tourne ; viens."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande d’identifier la personne et le mode de chaque verbe souligné.\nQ2 : À quelle personne chaque verbe est-il conjugué ?\nQ3 : À quel mode sont conjugués ces verbes ?",
+     "app": "Les apprenants cherchent le sujet de chaque verbe, puis donnent la personne et le mode.\nR2 : Remercient : 3e personne du pluriel ; finissons : 1re du pluriel ; prends : 1re du singulier ; bout : 3e du singulier ; tourne : 3e du singulier ; viens : 2e du singulier.\nR3 : Au mode indicatif, au temps présent."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’indiquer les terminaisons des verbes de chaque groupe.\nQ4 : Quelle est la terminaison de « remercient » (1er groupe) et de « finissons » (2e groupe) ?\nQ5 : Quelles sont les terminaisons de « prends », « bout » et « viens » (3e groupe) ?\nQ6 : Quelles terminaisons le présent a-t-il pour chaque groupe ?",
+     "app": "Les apprenants observent les terminaisons et les classent par groupe.\nR4 : « Remercient » se termine par -ent ; « finissons » se termine par -ons (finiss-ons).\nR5 : -s pour prends et viens ; -t pour bout.\nR6 : 1er groupe : -e, -es, -e, -ons, -ez, -ent. 2e groupe : -is, -is, -it, -issons, -issez, -issent. 3e groupe, le plus souvent : -s, -s, -t, -ons, -ez, -ent."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de déterminer la fonction du présent de l’indicatif.\nQ7 : Quand et pourquoi emploie-t-on le présent de l’indicatif ?",
+     "app": "Les apprenants observent le sens de chaque phrase et répondent.\nR7 : On l’emploie pour parler de ce qui se passe maintenant, de ce qui se répète, de ce qui est toujours vrai ou de ce qui va bientôt arriver."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de préciser les valeurs du présent dans chaque phrase.\nQ8 : Quelle valeur le présent a-t-il dans chaque phrase ?",
+     "app": "Les apprenants associent chaque phrase à une valeur.\nR8 : Phrase 1 : action qui se passe maintenant. Phrases 2 et 3 : habitude. Phrases 4 et 5 : vérité générale. Phrase 6 : futur proche."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de conjuguer des verbes des trois groupes au présent de l’indicatif.\nQ9 : Conjugue au présent de l’indicatif : chanter, grandir, partir.",
+     "app": "Les apprenants conjuguent les verbes sur leur ardoise, puis les corrigent ensemble.\nR9 : Je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent. Je grandis, tu grandis, il grandit, nous grandissons, vous grandissez, ils grandissent. Je pars, tu pars, il part, nous partons, vous partez, ils partent."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande d’employer des verbes au présent de l’indicatif dans des phrases.\nQ10 : Emploie dans une phrase au présent chacun des verbes : danser, réussir, lire.",
+     "app": "Les apprenants construisent des phrases oralement, puis les écrivent sur leur ardoise.\nR10 : Exemple : Les enfants dansent dans la cour. Tu réussis ton examen. Je lis un conte."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les valeurs et l’emploi du présent de l’indicatif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quand emploie-t-on le présent ?",
+     "app": "Les apprenants répondent :\nR2 : Pour une action en cours, une habitude, une vérité générale ou un futur proche."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelles sont les terminaisons du 1er groupe au présent ?",
+     "app": "Les apprenants répondent :\nR3 : -e, -es, -e, -ons, -ez, -ent."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris chaque verbe entre parenthèses au présent de l’indicatif.",
+    "situation": "Tu aides Mado à corriger les verbes de son texte de remerciement.",
+    "criteres": [
+     "Il écrit « aiment » (3e personne du pluriel, 1er groupe).",
+     "Il écrit « finissent » (3e personne du pluriel, 2e groupe).",
+     "Il écrit « prend » (3e personne du singulier, 3e groupe).",
+     "Il écrit « venons » (1re personne du pluriel, 3e groupe)."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les phrases au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Les parents d’élèves (aimer) les nouveaux livres.\n2. Les mamans (finir) de planter le manioc.\n3. Le maître (prendre) la craie.\n4. Nous (venir) à l’école à pied.",
+     "app": "Chaque apprenant écrit les phrases avec les verbes bien conjugués."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Conjugaison : Les valeurs et l’emploi du présent de l’indicatif",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le présent de l’indicatif est un temps simple. Il exprime ce qui se passe au moment où l’on parle, mais pas seulement."
+   },
+   {
+    "type": "h",
+    "text": "1- Les valeurs du présent"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Valeur",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "action qui se passe maintenant",
+      "Les élèves remercient le directeur."
+     ],
+     [
+      "habitude",
+      "Chaque matin, je prends le bus."
+     ],
+     [
+      "vérité générale",
+      "L’eau bout à cent degrés."
+     ],
+     [
+      "futur proche",
+      "Tu viens avec nous demain."
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Les terminaisons du présent"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Personne",
+     "1er groupe (chanter)",
+     "2e groupe (finir)",
+     "3e groupe (prendre)"
+    ],
+    "rows": [
+     [
+      "je",
+      "chante",
+      "finis",
+      "prends"
+     ],
+     [
+      "tu",
+      "chantes",
+      "finis",
+      "prends"
+     ],
+     [
+      "il, elle",
+      "chante",
+      "finit",
+      "prend"
+     ],
+     [
+      "nous",
+      "chantons",
+      "finissons",
+      "prenons"
+     ],
+     [
+      "vous",
+      "chantez",
+      "finissez",
+      "prenez"
+     ],
+     [
+      "ils, elles",
+      "chantent",
+      "finissent",
+      "prennent"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Les élèves chantent, nous finissons et je prends le bus."
+   },
+   {
+    "type": "nb",
+    "text": "Les verbes du 3e groupe changent souvent de radical : je viens, nous venons."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le présent exprime une action en cours, une habitude, une vérité générale ou un futur proche.",
+     "1er groupe : -e, -es, -e, -ons, -ez, -ent.",
+     "2e groupe : -is, -is, -it, -issons, -issez, -issent.",
+     "3e groupe, le plus souvent : -s, -s, -t, -ons, -ez, -ent."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Phrases à lire",
+    "text": "En ce moment, les élèves remercient le directeur.\nChaque jour, nous finissons le repas à midi.\nChaque matin, je prends le bus à six heures.\nL’eau bout à cent degrés.\nLa Terre tourne autour du Soleil.\nTu viens avec nous demain."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe au présent et j’écris sa personne.",
+    "items": [
+     "Les élèves chantent l’hymne national.",
+     "Tu finis ton travail.",
+     "Nous prenons le bus.",
+     "Le chat dort sur la natte."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’indique la valeur du présent dans chaque phrase.",
+    "texte": "Choix : action en cours ; habitude ; vérité générale ; futur proche.",
+    "items": [
+     "Chaque dimanche, nous allons à l’église.",
+     "L’eau gèle à zéro degré.",
+     "Regarde ! Le train arrive.",
+     "Demain, je pars à Pointe-Noire."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je conjugue chaque verbe au présent de l’indicatif.",
+    "items": [
+     "Elle (réussir) son examen.",
+     "Vous (jouer) au football.",
+     "Ils (prendre) le bus.",
+     "Je (finir) mes devoirs."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. chantent (3e personne du pluriel). 2. finis (2e personne du singulier). 3. prenons (1re personne du pluriel). 4. dort (3e personne du singulier).",
+  "Exercice 2 : 1. habitude ; 2. vérité générale ; 3. action en cours ; 4. futur proche.",
+  "Exercice 3 : 1. réussit ; 2. jouez ; 3. prennent ; 4. finis.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par verbe bien conjugué (4 points)."
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "id": 10067,
+ "meta": {
+  "t": "Le présentatif (la phrase à présentatif)",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "d",
+  "r": 4.8,
+  "fn": 67,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.1 : Le présentatif (la phrase à présentatif)",
+  "codeMatrice": "MF6.2.1",
+  "categorie": "Les constituants de la phrase",
+  "savoirEssentiel": "Le présentatif (la phrase à présentatif)",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’utilisation des constituants de la phrase en situation de communication.",
+  "situation": "Mathias présente un texte sur les mesures barrières contre la pandémie de la Covid-19. En lisant ce texte, Mafienda constate que les constituants de la phrase sont mal utilisés, ce qui a pour conséquence que les mesures barrières sont mal perçues par les lecteurs. Mafienda, qui a suivi la présentation, se rapproche de son ami Mathias afin de l’aider à réécrire le texte en utilisant correctement les constituants de la phrase en vue d’une autre présentation.",
+  "numero": 4,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Cite deux déterminants.",
+     "app": "Les apprenants répondent :\nR1 : Par exemple : le, une, mon, des."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un nom ?",
+     "app": "Les apprenants répondent :\nR2 : Un nom est un mot qui désigne une personne, un animal, une chose ou une idée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un groupe nominal ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un ensemble de mots organisé autour d’un nom, le noyau. Exemple : la petite maison."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un texte sur les mesures barrières contre la Covid-19, présenté par Mathias."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Mafienda constate-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle constate que les constituants de la phrase sont mal utilisés dans le texte."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Mafienda pour résoudre ce problème ?",
+     "app": "Les apprenants répondent :\nR3 : Elle se rapproche de son ami Mathias pour l’aider à réécrire le texte en utilisant correctement les constituants de la phrase."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Mathias, nous allons apprendre à reconnaître et à construire des phrases à présentatif.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et à construire des phrases à présentatif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte.",
+    "Souligner - les présentatifs : c’est, voici, voilà, il y a ; - le nom.",
+    "Repérer le groupe nominal.",
+    "Analyser la structure du groupe nominal.",
+    "Construire des phrases à présentatif."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "texte": "1. Voici le marché de notre quartier.\n2. Il y a des vendeuses devant la porte.\n3. Voilà ma tante avec un panier.\n4. C’est un grand panier.\n5. Voici du poisson fumé.",
+     "app": "Les apprenants lisent silencieusement le texte."
+    },
+    {
+     "ens": "L’enseignant lit le texte à haute voix, puis fait lire deux ou trois apprenants.",
+     "app": "Les apprenants écoutent, puis quelques-uns lisent le texte à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner les présentatifs et le nom qui suit chacun.\nQ1 : Quels présentatifs trouve-t-on dans le texte ?\nQ2 : Quel nom suit chaque présentatif ?",
+     "app": "Les apprenants soulignent les présentatifs et les noms dans leur cahier, puis les citent.\nR1 : Voici (phrases 1 et 5) ; il y a (phrase 2) ; voilà (phrase 3) ; c’est (phrase 4).\nR2 : Marché ; vendeuses ; tante ; panier ; poisson."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de repérer le groupe nominal qui suit chaque présentatif.\nQ3 : Quel groupe nominal suit chaque présentatif ?",
+     "app": "Les apprenants repèrent les groupes nominaux et les présentent.\nR3 : Le marché de notre quartier ; des vendeuses ; ma tante ; un grand panier ; du poisson fumé."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’analyser la structure des groupes nominaux repérés.\nQ4 : De quoi est formé le groupe nominal « un grand panier » ?\nQ5 : Quelle est la structure de « le marché de notre quartier » ?\nQ6 : Que remarque-t-on après chaque présentatif ?",
+     "app": "Les apprenants décomposent les groupes nominaux et nomment chaque élément.\nR4 : D’un déterminant (un), d’un adjectif qualificatif (grand) et d’un nom (panier).\nR5 : Déterminant (le) + nom (marché) + préposition (de) + déterminant possessif (notre) + nom (quartier).\nR6 : Un présentatif est toujours suivi d’un groupe nominal. Il sert à présenter une personne ou une chose."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de construire des phrases à présentatif.\nQ7 : Construis une phrase avec « c’est », puis une phrase avec « voici ».",
+     "app": "Les apprenants construisent des phrases oralement, puis les écrivent sur leur ardoise.\nR7 : Exemple : C’est un beau livre. Voici ma cousine."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La phrase à présentatif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Cite les présentatifs étudiés.",
+     "app": "Les apprenants répondent :\nR2 : C’est, voici, voilà, il y a."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Par quoi un présentatif est-il suivi ?",
+     "app": "Les apprenants répondent :\nR3 : Par un groupe nominal."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Choisis un nom pour chacune des structures suivantes, puis forme une phrase à présentatif : C’est + groupe nominal ; Voici + groupe nominal ; Voilà + groupe nominal ; Il y a + groupe nominal.",
+    "situation": "Tu aides Mathias à présenter les objets de sa classe dans son texte.",
+    "criteres": [
+     "Il emploie correctement les quatre présentatifs : c’est, voici, voilà, il y a.",
+     "Chaque présentatif est suivi d’un groupe nominal bien formé (déterminant + nom au minimum).",
+     "Il écrit chaque phrase avec une majuscule, un point et une orthographe correcte."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit l’item au tableau : travail individuel sur la feuille de copie.",
+     "app": "Chaque apprenant écrit ses quatre phrases sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le présentatif (la phrase à présentatif)",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un présentatif est un mot ou une expression qui sert à présenter une personne, un animal ou une chose. Les présentatifs sont : c’est, voici, voilà, il y a."
+   },
+   {
+    "type": "p",
+    "text": "Le présentatif est toujours suivi d’un groupe nominal."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Présentatif",
+     "Emploi",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "voici",
+      "montre ce qui est proche",
+      "Voici le marché de notre quartier."
+     ],
+     [
+      "voilà",
+      "montre ce qui est plus loin",
+      "Voilà ma tante avec un panier."
+     ],
+     [
+      "c’est",
+      "présente ou identifie",
+      "C’est un grand panier."
+     ],
+     [
+      "il y a",
+      "indique la présence de quelqu’un ou de quelque chose",
+      "Il y a des vendeuses devant la porte."
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "Le groupe nominal après le présentatif"
+   },
+   {
+    "type": "p",
+    "text": "Après le présentatif, on trouve un groupe nominal. Il peut être court ou plus long."
+   },
+   {
+    "type": "ex",
+    "text": "un grand panier ; du poisson fumé ; le marché de notre quartier"
+   },
+   {
+    "type": "nb",
+    "text": "« Il y a » vient du verbe avoir : on écrit a sans accent. Devant un nom pluriel, on peut écrire ce sont : Ce sont des mangues."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Les présentatifs sont : c’est, voici, voilà, il y a.",
+     "Ils servent à présenter une personne, un animal ou une chose.",
+     "Ils sont suivis d’un groupe nominal.",
+     "Il y a s’écrit avec a sans accent."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Texte à lire",
+    "text": "Voici le marché de notre quartier.\nIl y a des vendeuses devant la porte.\nVoilà ma tante avec un panier.\nC’est un grand panier.\nVoici du poisson fumé."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le présentatif et j’encadre le groupe nominal.",
+    "items": [
+     "Voici mon cahier de français.",
+     "Il y a des élèves dans la cour.",
+     "Voilà le bus de l’école.",
+     "C’est une belle journée."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète chaque phrase avec le présentatif qui convient.",
+    "texte": "Choix : c’est ; voici ; voilà ; il y a.",
+    "items": [
+     "Je te tends mon cahier : … mon cahier.",
+     "Regarde au loin : … notre bus !",
+     "Qui est cette fille ? … ma cousine.",
+     "Dans le sac, … des cahiers."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase à présentatif avec chaque groupe nominal.",
+    "items": [
+     "un ballon rouge",
+     "ma sœur",
+     "du riz"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. voici / mon cahier de français. 2. il y a / des élèves. 3. voilà / le bus de l’école. 4. c’est / une belle journée.",
+  "Exercice 2 : 1. voici ; 2. voilà ; 3. c’est ; 4. il y a.",
+  "Exercice 3 : réponses libres. Exemples : Voici un ballon rouge. Voilà ma sœur. Il y a du riz dans la marmite.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par phrase correcte (4 points)."
+ ]
+}

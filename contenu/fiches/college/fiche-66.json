@@ -1,0 +1,321 @@
+{
+ "id": 10066,
+ "meta": {
+  "t": "Le groupe verbal",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "c",
+  "r": 4.8,
+  "fn": 66,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.1 : Le groupe verbal",
+  "codeMatrice": "MF6.2.1",
+  "categorie": "Les constituants de la phrase",
+  "savoirEssentiel": "Le groupe verbal",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’utilisation des constituants de la phrase en situation de communication.",
+  "situation": "Mathias présente un texte sur les mesures barrières contre la pandémie de la Covid-19. En lisant ce texte, Mafienda constate que les constituants de la phrase sont mal utilisés, ce qui a pour conséquence que les mesures barrières sont mal perçues par les lecteurs. Mafienda, qui a suivi la présentation, se rapproche de son ami Mathias afin de l’aider à réécrire le texte en utilisant correctement les constituants de la phrase en vue d’une autre présentation.",
+  "numero": 3,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un verbe ?",
+     "app": "Les apprenants répondent :\nR1 : Un verbe est un mot qui exprime une action ou un état et qui se conjugue."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quel est le verbe dans la phrase « Fatou lave ses mains » ?",
+     "app": "Les apprenants répondent :\nR2 : Le verbe est « lave »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qui fait l’action dans cette phrase ?",
+     "app": "Les apprenants répondent :\nR3 : C’est Fatou : « Fatou » est le sujet du verbe."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un texte sur les mesures barrières contre la Covid-19, présenté par Mathias."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Mafienda constate-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle constate que les constituants de la phrase sont mal utilisés dans le texte."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Mafienda pour résoudre ce problème ?",
+     "app": "Les apprenants répondent :\nR3 : Elle se rapproche de son ami Mathias pour l’aider à réécrire le texte en utilisant correctement les constituants de la phrase."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Mathias, nous allons apprendre à reconnaître et à construire le groupe verbal.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et à construire le groupe verbal."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte.",
+    "Souligner le groupe verbal.",
+    "Décomposer les constituants du groupe verbal Distinguer - verbe + complément d’objet direct ; - verbe + complément d’objet indirect ; - verbe + complément d’agent ; - verbe + attribut du sujet ; - verbe + attribut du complément d’objet ; - verbe + complément circonstanciel.",
+    "Construire des phrases ayant un groupe verbal."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "texte": "1. Mathias écrit un texte.\n2. Il parle à ses camarades.\n3. Le texte est lu par Mafienda.\n4. Les mesures barrières sont utiles.\n5. Les élèves trouvent ce texte intéressant.\n6. Les élèves lavent leurs mains dans la cour.",
+     "app": "Les apprenants lisent silencieusement le texte."
+    },
+    {
+     "ens": "L’enseignant lit le texte à haute voix, puis fait lire deux ou trois apprenants.",
+     "app": "Les apprenants écoutent, puis quelques-uns lisent le texte à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner le groupe verbal dans chaque phrase.\nQ1 : Quel est le groupe verbal de la phrase 1 ?\nQ2 : Quels sont les groupes verbaux des phrases 2 à 6 ?",
+     "app": "Les apprenants soulignent les groupes verbaux dans leur cahier, puis les présentent.\nR1 : « Écrit un texte ».\nR2 : « Parle à ses camarades » ; « est lu par Mafienda » ; « sont utiles » ; « trouvent ce texte intéressant » ; « lavent leurs mains dans la cour »."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de décomposer les groupes verbaux et de distinguer leurs constituants.\nQ3 : Quel est le mot principal de chaque groupe verbal ?\nQ4 : Dans « écrit un texte », quel mot complète le verbe sans préposition ?\nQ5 : Dans « parle à ses camarades », comment s’appelle « à ses camarades » ?\nQ6 : Dans « est lu par Mafienda », qui fait l’action ?\nQ7 : Que disent « utiles » dans la phrase 4 et « intéressant » dans la phrase 5 ?\nQ8 : À quelle question répond « dans la cour » ?",
+     "app": "Les apprenants séparent le verbe de ses compléments, puis nomment chaque complément.\nR3 : Le verbe : écrit, parle, est lu, sont, trouvent, lavent.\nR4 : « Un texte » répond à la question quoi ? : c’est un complément d’objet direct (COD).\nR5 : Il répond à la question à qui ? : c’est un complément d’objet indirect (COI).\nR6 : Mafienda : « par Mafienda » est un complément d’agent.\nR7 : « Utiles » dit comment sont les mesures : attribut du sujet. « Intéressant » dit comment les élèves trouvent le texte : attribut du COD.\nR8 : À la question où ? : c’est un complément circonstanciel (CC) de lieu."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de construire des phrases ayant un groupe verbal.\nQ9 : Construis une phrase dont le groupe verbal est formé d’un verbe et d’un complément d’objet direct.",
+     "app": "Les apprenants construisent des phrases oralement, puis les écrivent sur leur ardoise.\nR9 : Exemple : Ma mère prépare le repas."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le groupe verbal."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un groupe verbal ?",
+     "app": "Les apprenants répondent :\nR2 : Le groupe verbal est formé du verbe et de ses compléments."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite deux compléments que peut avoir le verbe.",
+     "app": "Les apprenants répondent :\nR3 : Le complément d’objet direct et le complément circonstanciel."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Souligne quatre groupes verbaux dans le texte, puis emploie deux d’entre eux dans tes propres phrases.",
+    "situation": "Tu aides Mathias à corriger un texte sur la vie de famille.",
+    "criteres": [
+     "Il souligne les quatre groupes verbaux en entier : prépare le repas ; répare la radio ; sont contents ; jouent dans la cour.",
+     "Il emploie deux de ces groupes verbaux dans deux phrases correctes qui lui sont propres.",
+     "Il écrit ses phrases avec une majuscule, un point et une orthographe correcte."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "Ce matin, ma mère prépare le repas. Mon père répare la radio. Les enfants sont contents. Ils jouent dans la cour.",
+     "app": "Chaque apprenant souligne les groupes verbaux, puis écrit ses deux phrases sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le groupe verbal",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le groupe verbal est formé du verbe et de ses compléments. Le verbe est le noyau du groupe verbal."
+   },
+   {
+    "type": "h",
+    "text": "1- Verbe + complément d’objet direct (COD)"
+   },
+   {
+    "type": "p",
+    "text": "Le COD complète le verbe sans préposition. Il répond à la question quoi ? ou qui ?"
+   },
+   {
+    "type": "ex",
+    "text": "Mathias écrit un texte."
+   },
+   {
+    "type": "h",
+    "text": "2- Verbe + complément d’objet indirect (COI)"
+   },
+   {
+    "type": "p",
+    "text": "Le COI complète le verbe avec une préposition (à, de). Il répond à la question à qui ? à quoi ? de quoi ?"
+   },
+   {
+    "type": "ex",
+    "text": "Il parle à ses camarades."
+   },
+   {
+    "type": "h",
+    "text": "3- Verbe + complément d’agent"
+   },
+   {
+    "type": "p",
+    "text": "À la voix passive, le complément d’agent indique qui fait l’action. Il est introduit par par ou de."
+   },
+   {
+    "type": "ex",
+    "text": "Le texte est lu par Mafienda."
+   },
+   {
+    "type": "h",
+    "text": "4- Verbe + attribut du sujet"
+   },
+   {
+    "type": "p",
+    "text": "L’attribut du sujet suit un verbe d’état (être, sembler, paraître, devenir). Il dit comment est le sujet."
+   },
+   {
+    "type": "ex",
+    "text": "Les mesures barrières sont utiles."
+   },
+   {
+    "type": "h",
+    "text": "5- Verbe + attribut du complément d’objet"
+   },
+   {
+    "type": "p",
+    "text": "L’attribut du COD suit des verbes comme trouver ou rendre. Il dit comment est le COD."
+   },
+   {
+    "type": "ex",
+    "text": "Les élèves trouvent ce texte intéressant."
+   },
+   {
+    "type": "h",
+    "text": "6- Verbe + complément circonstanciel (CC)"
+   },
+   {
+    "type": "p",
+    "text": "Le CC donne le lieu, le temps ou la manière de l’action. Il peut être déplacé ou supprimé."
+   },
+   {
+    "type": "ex",
+    "text": "Les élèves lavent leurs mains dans la cour."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Groupe verbal",
+     "Structure"
+    ],
+    "rows": [
+     [
+      "écrit un texte",
+      "verbe + COD"
+     ],
+     [
+      "parle à ses camarades",
+      "verbe + COI"
+     ],
+     [
+      "est lu par Mafienda",
+      "verbe + complément d’agent"
+     ],
+     [
+      "sont utiles",
+      "verbe + attribut du sujet"
+     ],
+     [
+      "trouvent ce texte intéressant",
+      "verbe + COD + attribut du COD"
+     ],
+     [
+      "lavent leurs mains dans la cour",
+      "verbe + COD + CC"
+     ]
+    ]
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le groupe verbal est formé du verbe et de ses compléments.",
+     "Le verbe peut avoir un COD, un COI, un complément d’agent ou un CC.",
+     "Il peut aussi avoir un attribut du sujet ou un attribut du COD.",
+     "Le verbe est le mot principal du groupe verbal."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Texte à lire",
+    "text": "Mathias écrit un texte.\nIl parle à ses camarades.\nLe texte est lu par Mafienda.\nLes mesures barrières sont utiles.\nLes élèves trouvent ce texte intéressant.\nLes élèves lavent leurs mains dans la cour."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le groupe verbal de chaque phrase.",
+    "items": [
+     "Ma mère vend des légumes au marché.",
+     "Le maître parle aux élèves.",
+     "La route est glissante.",
+     "Le travail est fait par Prince."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’indique la structure de chaque groupe verbal.",
+    "texte": "Choix : verbe + COD ; verbe + COI ; verbe + complément d’agent ; verbe + attribut du sujet ; verbe + attribut du COD ; verbe + complément circonstanciel.",
+    "items": [
+     "Fatou achète du pain.",
+     "Il pense à son voyage.",
+     "La cour est balayée par les élèves.",
+     "Ces fruits semblent mûrs.",
+     "Le directeur trouve ce travail excellent.",
+     "Les enfants jouent dans la cour."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase avec chaque groupe verbal.",
+    "items": [
+     "acheter des bananes",
+     "parler à mon ami",
+     "être content"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. vend des légumes au marché. 2. parle aux élèves. 3. est glissante. 4. est fait par Prince.",
+  "Exercice 2 : 1. verbe + COD (du pain). 2. verbe + COI (à son voyage). 3. verbe + complément d’agent (par les élèves). 4. verbe + attribut du sujet (mûrs). 5. verbe + COD + attribut du COD (« ce travail » est le COD, « excellent » est l’attribut). 6. verbe + complément circonstanciel (dans la cour).",
+  "Exercice 3 : réponses libres. Exemples : Ma tante achète des bananes au marché. Je parle à mon ami Davy. Les enfants sont contents.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par groupe verbal souligné (4 points) et un point par phrase correcte (2 points)."
+ ]
+}

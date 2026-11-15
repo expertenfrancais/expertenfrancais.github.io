@@ -1,0 +1,292 @@
+{
+ "id": 10071,
+ "meta": {
+  "t": "La phrase déclarative",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "h",
+  "r": 4.8,
+  "fn": 71,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.2 : La phrase déclarative",
+  "codeMatrice": "MF6.2.2",
+  "categorie": "Les types de phrases",
+  "savoirEssentiel": "La phrase déclarative",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’utilisation des différents types de phrases en situation de communication.",
+  "situation": "Carole est une femme affective. Dans son quartier, on l’appelle « la maman des jeunes » parce qu’elle a créé une association dénommée « Jeunes de valeur ». Son association compte au moins cinquante jeunes. Tous les dimanches après-midi, elle discute avec eux et leur prodigue des conseils qui les aident à construire leur personnalité. Dans ses propos, elle emploie souvent mal les types de phrases. Pour résoudre ce problème, Thérésa, qui vient d’assister à la réunion de ce dimanche, lui propose de relever sur une feuille cinq de ses phrases afin qu’elle lui montre non seulement comment les construire mais aussi à quel moment les utiliser. Carole est donc amenée à construire différents types de phrases pour mieux appréhender leur différence après cet entraînement.",
+  "numero": 8,
+  "date": "",
+  "duree": "1 h",
+  "support": "Phrases écrites au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une phrase ?",
+     "app": "Les apprenants répondent :\nR1 : Une phrase est une suite de mots qui a un sens. Elle commence par une majuscule et se termine par un signe de ponctuation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce que le sujet d’un verbe ? Donne-le dans « Fatou lave ses mains ».",
+     "app": "Les apprenants répondent :\nR2 : Le sujet est le mot ou le groupe de mots qui fait l’action. Ici, c’est « Fatou »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quel signe de ponctuation met-on à la fin d’une phrase qui donne une information ?",
+     "app": "Les apprenants répondent :\nR3 : Le point."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Carole, « la maman des jeunes », qui conseille les jeunes de son association tous les dimanches."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Carole rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle emploie souvent mal les types de phrases."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Thérésa pour l’aider ?",
+     "app": "Les apprenants répondent :\nR3 : Elle relève cinq phrases de Carole pour lui montrer comment les construire et quand les utiliser."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Carole, nous allons apprendre à reconnaître et à construire la phrase déclarative.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et à construire la phrase déclarative."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire les phrases support proposées par l’enseignant.",
+    "Souligner – les verbes conjugués dans chaque phrase ;",
+    "– le sujet du verbe de chaque phrase.",
+    "Préciser si l’action exprimée par le verbe est positive ou négative.",
+    "Identifier - la phrase affirmative ; - la phrase négative ; - le signe de ponctuation utilisé à la fin de chaque phrase.",
+    "Rappeler les caractéristiques d’une phrase déclarative.",
+    "Construire des phrases déclaratives."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Carole dirige une association de jeunes.\n2. Les jeunes ne manquent pas la réunion du dimanche.\n3. Thérésa écoute les conseils de Carole.\n4. Je n’aime pas les mensonges.\n5. Nous réussirons ensemble.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner les verbes conjugués dans chaque phrase.\nQ1 : Quels sont les verbes conjugués ?",
+     "app": "Les apprenants soulignent les verbes dans leur cahier, puis les citent.\nR1 : Dirige ; manquent ; écoute ; aime ; réussirons."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de souligner le sujet du verbe de chaque phrase.\nQ2 : Quel est le sujet de chaque verbe ?",
+     "app": "Les apprenants cherchent qui fait l’action et soulignent le sujet.\nR2 : Carole ; les jeunes ; Thérésa ; je ; nous."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de préciser si l’action exprimée par le verbe est positive ou négative.\nQ3 : Dans quelles phrases l’action est-elle positive ? négative ?",
+     "app": "Les apprenants observent les verbes et répondent.\nR3 : Positive dans les phrases 1, 3 et 5. Négative dans les phrases 2 et 4, où le verbe est entouré de « ne… pas »."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande d’identifier les phrases affirmatives, les phrases négatives et le signe de ponctuation final.\nQ4 : Quelles phrases sont affirmatives ? Lesquelles sont négatives ?\nQ5 : Quel signe de ponctuation termine chaque phrase ?",
+     "app": "Les apprenants classent les phrases dans un tableau.\nR4 : Les phrases 1, 3 et 5 sont affirmatives ; les phrases 2 et 4 sont négatives.\nR5 : Le point."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de rappeler les caractéristiques d’une phrase déclarative.\nQ6 : Quelles sont les caractéristiques d’une phrase déclarative ?",
+     "app": "Les apprenants rappellent les caractéristiques observées.\nR6 : Elle donne une information. Elle peut être affirmative ou négative. Le sujet est avant le verbe. Elle se termine par un point."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de construire des phrases déclaratives.\nQ7 : Construis une phrase déclarative affirmative, puis une phrase déclarative négative.",
+     "app": "Les apprenants construisent des phrases oralement, puis les écrivent sur leur ardoise.\nR7 : Exemple : Mon père travaille à Pointe-Noire. Mon frère ne mange pas de piment."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La phrase déclarative."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : À quoi sert une phrase déclarative ?",
+     "app": "Les apprenants répondent :\nR2 : À donner une information : elle affirme ou nie un fait."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment reconnaît-on une phrase négative ?",
+     "app": "Les apprenants répondent :\nR3 : Le verbe est entouré de « ne… pas » (ou ne… jamais, ne… plus)."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Recopie les phrases déclaratives et écris si chacune est affirmative ou négative.",
+    "situation": "Tu aides Carole à reconnaître ses phrases déclaratives.",
+    "criteres": [
+     "Il recopie les phrases 1, 3 et 5 et aucune autre (la 2 est impérative, la 4 interrogative, la 6 exclamative).",
+     "Il écrit que les phrases 1 et 5 sont affirmatives.",
+     "Il écrit que la phrase 3 est négative."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les phrases au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. La maîtresse corrige les cahiers.\n2. Ne parle pas en classe.\n3. Les élèves ne sont pas en retard.\n4. Qui a fermé la porte ?\n5. Mon père travaille à Pointe-Noire.\n6. Quelle belle journée !",
+     "app": "Chaque apprenant recopie les phrases déclaratives et écrit leur forme."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : La phrase déclarative",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La phrase déclarative donne une information. Elle affirme ou elle nie un fait."
+   },
+   {
+    "type": "h",
+    "text": "1- La phrase déclarative affirmative"
+   },
+   {
+    "type": "p",
+    "text": "Elle dit qu’un fait existe."
+   },
+   {
+    "type": "ex",
+    "text": "Carole dirige une association de jeunes."
+   },
+   {
+    "type": "h",
+    "text": "2- La phrase déclarative négative"
+   },
+   {
+    "type": "p",
+    "text": "Elle dit qu’un fait n’existe pas. Le verbe est entouré de ne… pas (ou ne… jamais, ne… plus)."
+   },
+   {
+    "type": "ex",
+    "text": "Les jeunes ne manquent pas la réunion."
+   },
+   {
+    "type": "nb",
+    "text": "Ne devient n’ devant une voyelle ou un h muet : Je n’aime pas les mensonges."
+   },
+   {
+    "type": "h",
+    "text": "3- L’ordre des mots et la ponctuation"
+   },
+   {
+    "type": "p",
+    "text": "Le sujet se place avant le verbe. La phrase se termine par un point."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Phrase",
+     "Sujet",
+     "Verbe",
+     "Forme"
+    ],
+    "rows": [
+     [
+      "Carole dirige une association.",
+      "Carole",
+      "dirige",
+      "affirmative"
+     ],
+     [
+      "Les jeunes ne manquent pas la réunion.",
+      "Les jeunes",
+      "manquent",
+      "négative"
+     ],
+     [
+      "Je n’aime pas les mensonges.",
+      "Je",
+      "aime",
+      "négative"
+     ]
+    ]
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "La phrase déclarative donne une information.",
+     "Elle est affirmative ou négative.",
+     "À la forme négative, le verbe est entouré de ne… pas.",
+     "Elle se termine par un point."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Phrases à lire",
+    "text": "Carole dirige une association de jeunes.\nLes jeunes ne manquent pas la réunion du dimanche.\nThérésa écoute les conseils de Carole.\nJe n’aime pas les mensonges.\nNous réussirons ensemble."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe et j’encadre le sujet.",
+    "items": [
+     "Ma sœur prépare le repas.",
+     "Les enfants ne jouent pas dehors.",
+     "Nous partons à six heures.",
+     "Tu n’aimes pas le piment."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris si chaque phrase est affirmative ou négative.",
+    "items": [
+     "Le marché est ouvert.",
+     "Le marché n’est pas ouvert.",
+     "Je ne mange jamais de piment.",
+     "Les élèves récitent la leçon."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je transforme chaque phrase affirmative en phrase négative.",
+    "items": [
+     "Papa travaille aujourd’hui.",
+     "Les enfants dorment.",
+     "Nous mangeons du poisson."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. sujet : ma sœur ; verbe : prépare. 2. sujet : les enfants ; verbe : jouent. 3. sujet : nous ; verbe : partons. 4. sujet : tu ; verbe : aimes.",
+  "Exercice 2 : 1. affirmative ; 2. négative ; 3. négative ; 4. affirmative.",
+  "Exercice 3 : Papa ne travaille pas aujourd’hui. Les enfants ne dorment pas. Nous ne mangeons pas de poisson.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par phrase recopiée (3 points) et un point par forme exacte (3 points)."
+ ]
+}

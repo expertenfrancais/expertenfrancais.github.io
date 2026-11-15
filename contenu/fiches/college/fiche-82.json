@@ -1,0 +1,290 @@
+{
+ "id": 10082,
+ "meta": {
+  "t": "Les verbes du 1er groupe au présent du subjonctif",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "c",
+  "r": 4.8,
+  "fn": 82,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "titre": "Fiche d’exploitation de la matrice MF5.4.1 : Les verbes du 1er groupe au présent du subjonctif",
+  "codeMatrice": "MF5.4.1",
+  "categorie": "Le mode subjonctif",
+  "savoirEssentiel": "Les verbes du 1er groupe au présent du subjonctif",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’utilisation du mode subjonctif.",
+  "situation": "À l’occasion de la Journée internationale de la francophonie, l’Institut Français du Congo (IFC) organise des activités culturelles à Brazzaville pour promouvoir la langue française. Les meilleurs élèves en français de chaque établissement y sont conviés. Chardel, élève de 5e au collège Mboumandzi de Mayéyé, représente son établissement en dictée. Au cours de cette épreuve, elle a du mal à écrire les verbes de la phrase suivante : « Il faut que Paul prenne la bonne décision afin qu’il ne soit pas en difficulté et qu’il n’ait pas peur ». À la fin des activités, elle expose son embarras à Monsieur Ngandziami, le chargé de l’épreuve, qui lui présente un texte à travers lequel elle va utiliser le mode subjonctif.",
+  "numero": 10,
+  "date": "",
+  "duree": "1 h",
+  "support": "Phrases écrites au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.4.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : À quel mode est conjugué le verbe dans « Il faut que tu viennes » ?",
+     "app": "Les apprenants répondent :\nR1 : Au mode subjonctif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Conjugue « chanter » au présent de l’indicatif.",
+     "app": "Les apprenants répondent :\nR2 : Je chante, tu chantes, il chante, nous chantons, vous chantez, ils chantent."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels verbes appartiennent au 1er groupe ?",
+     "app": "Les apprenants répondent :\nR3 : Les verbes qui se terminent par -er à l’infinitif, sauf aller."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Chardel, élève de 5e, qui représente son collège à l’épreuve de dictée pour la Journée internationale de la francophonie."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Chardel rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle a du mal à écrire les verbes de la phrase « Il faut que Paul prenne la bonne décision afin qu’il ne soit pas en difficulté et qu’il n’ait pas peur »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle expose son embarras à Monsieur Ngandziami, qui lui présente un texte pour utiliser le mode subjonctif."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Chardel, nous allons apprendre à conjuguer les verbes du 1er groupe au présent du subjonctif.",
+     "app": "Les apprenants expriment le besoin d’apprendre à conjuguer les verbes du 1er groupe au présent du subjonctif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé.",
+    "Souligner - d’un trait les verbes conjugués au mode subjonctif ; - de deux traits les verbes dont les terminaisons aux trois premières personnes du singulier et à la 3e personne du pluriel rappellent le présent de l’indicatif.",
+    "Encadrer ceux du 1er groupe.",
+    "Identifier le sujet de chaque verbe souligné de deux traits.",
+    "Indiquer la terminaison de chacun de ces verbes.",
+    "Expliquer l’emploi de cette terminaison.",
+    "Déterminer le temps auquel sont conjugués ces verbes.",
+    "Conjuguer au présent du subjonctif les verbes du 1er groupe encadrés.",
+    "Construire des phrases avec les verbes du 1er groupe au présent du subjonctif."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "texte": "1. Il faut que tu écoutes bien la dictée.\n2. Le maître souhaite que nous chantions l’hymne.\n3. Il est important que Paul parle lentement.\n4. Je veux que vous écriviez sans faute.\n5. Papa demande que les élèves portent leurs livres.\n6. Il faut que je finisse mon travail.",
+     "app": "Les apprenants lisent silencieusement le texte, puis quelques-uns le lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner d’un trait les verbes au subjonctif et de deux traits ceux dont la terminaison rappelle le présent de l’indicatif aux trois premières personnes du singulier et à la 3e personne du pluriel.\nQ1 : Quels verbes sont au subjonctif ?\nQ2 : Lesquels ont une terminaison semblable à celle du présent de l’indicatif ?",
+     "app": "Les apprenants soulignent les verbes dans leur cahier, puis les citent.\nR1 : Écoutes ; chantions ; parle ; écriviez ; portent ; finisse.\nR2 : Écoutes, parle et portent (-es, -e, -ent)."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande d’encadrer les verbes du 1er groupe.\nQ3 : Quels verbes sont du 1er groupe ?",
+     "app": "Les apprenants cherchent l’infinitif de chaque verbe et encadrent ceux du 1er groupe.\nR3 : Écoutes (écouter) ; chantions (chanter) ; parle (parler) ; portent (porter). « Écriviez » (écrire) est du 3e groupe et « finisse » (finir) du 2e groupe."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’identifier le sujet de chaque verbe souligné de deux traits.\nQ4 : Quel est le sujet de écoutes, parle et portent ?",
+     "app": "Les apprenants cherchent le sujet de chaque verbe.\nR4 : Tu ; Paul ; les élèves."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande d’indiquer la terminaison de chacun de ces verbes.\nQ5 : Quelle est la terminaison de écoutes, parle et portent ?",
+     "app": "Les apprenants soulignent les terminaisons.\nR5 : -es ; -e ; -ent."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’expliquer l’emploi de cette terminaison.\nQ6 : Pourquoi ces verbes ressemblent-ils à ceux de l’indicatif ?\nQ7 : Quelles terminaisons sont différentes de l’indicatif ?",
+     "app": "Les apprenants comparent avec le présent de l’indicatif.\nR6 : Aux personnes je, tu, il et ils, les verbes du 1er groupe ont les mêmes terminaisons au subjonctif et à l’indicatif : -e, -es, -e, -ent. C’est le mot « que » et le sens de la phrase qui montrent le subjonctif.\nR7 : Pour nous et vous : -ions et -iez (chantions, chantiez), au lieu de -ons et -ez."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de déterminer le temps auquel sont conjugués ces verbes.\nQ8 : À quel temps sont conjugués ces verbes ?",
+     "app": "Les apprenants observent le temps des verbes.\nR8 : Au présent du subjonctif."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de conjuguer au présent du subjonctif les verbes du 1er groupe encadrés.\nQ9 : Conjugue « chanter » au présent du subjonctif.",
+     "app": "Les apprenants conjuguent les verbes sur leur ardoise, puis les corrigent ensemble.\nR9 : Que je chante, que tu chantes, qu’il chante, que nous chantions, que vous chantiez, qu’ils chantent."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de construire des phrases avec des verbes du 1er groupe au présent du subjonctif.\nQ10 : Construis une phrase avec « danser » et une phrase avec « porter » au présent du subjonctif.",
+     "app": "Les apprenants construisent des phrases oralement, puis les écrivent sur leur ardoise.\nR10 : Exemple : Je veux que vous dansiez. Il faut que tu portes ce sac."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les verbes du 1er groupe au présent du subjonctif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les terminaisons du 1er groupe au présent du subjonctif ?",
+     "app": "Les apprenants répondent :\nR2 : -e, -es, -e, -ions, -iez, -ent."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelles terminaisons diffèrent de l’indicatif ?",
+     "app": "Les apprenants répondent :\nR3 : -ions et -iez, pour nous et vous."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris chaque verbe entre parenthèses au présent du subjonctif.",
+    "situation": "Tu aides Chardel à écrire correctement des verbes du 1er groupe au subjonctif.",
+    "criteres": [
+     "Il écrit « travailles ».",
+     "Il écrit « parliez ».",
+     "Il écrit « chantions ».",
+     "Il écrit « oublient »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les phrases au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Il faut que tu (travailler) davantage.\n2. Je veux que vous (parler) lentement.\n3. Papa souhaite que nous (chanter) à la fête.\n4. Elle craint que les élèves (oublier) leurs cahiers.",
+     "app": "Chaque apprenant écrit les phrases avec les verbes bien conjugués."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Conjugaison : Les verbes du 1er groupe au présent du subjonctif",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Au présent du subjonctif, les verbes du 1er groupe se terminent par -e, -es, -e, -ions, -iez, -ent. On les place le plus souvent après que."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Personne",
+     "Présent du subjonctif (chanter)",
+     "Présent de l’indicatif (chanter)"
+    ],
+    "rows": [
+     [
+      "que je",
+      "chante",
+      "chante"
+     ],
+     [
+      "que tu",
+      "chantes",
+      "chantes"
+     ],
+     [
+      "qu’il, qu’elle",
+      "chante",
+      "chante"
+     ],
+     [
+      "que nous",
+      "chantions",
+      "chantons"
+     ],
+     [
+      "que vous",
+      "chantiez",
+      "chantez"
+     ],
+     [
+      "qu’ils, qu’elles",
+      "chantent",
+      "chantent"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Il faut que tu écoutes bien la dictée."
+   },
+   {
+    "type": "nb",
+    "text": "Les verbes en -ier gardent le i : que nous étudiions, que vous étudiiez."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Terminaisons : -e, -es, -e, -ions, -iez, -ent.",
+     "Pour je, tu, il et ils, elles sont comme à l’indicatif.",
+     "Pour nous et vous, on écrit -ions et -iez.",
+     "Le mot que aide à reconnaître le subjonctif."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Phrases à lire",
+    "text": "Il faut que tu écoutes bien la dictée.\nLe maître souhaite que nous chantions l’hymne.\nIl est important que Paul parle lentement.\nPapa demande que les élèves portent leurs livres."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je recopie seulement les phrases au subjonctif et je souligne le verbe.",
+    "items": [
+     "Il faut que tu chantes fort.",
+     "Les enfants dansent le soir.",
+     "Papa souhaite que nous dansions.",
+     "Je veux qu’ils portent le sac."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la personne de chaque verbe.",
+    "items": [
+     "que tu parles",
+     "qu’il écoute",
+     "que nous dansions",
+     "que vous portiez",
+     "qu’ils chantent"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je conjugue le verbe au présent du subjonctif.",
+    "items": [
+     "Il faut que je (demander) la permission.",
+     "Il faut que tu (laver) le linge.",
+     "Il faut que nous (nettoyer) la cour.",
+     "Il faut que vous (étudier) la leçon."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : phrases 1, 3 et 4 : chantes ; dansions ; portent.",
+  "Exercice 2 : 2e personne du singulier ; 3e personne du singulier ; 1re personne du pluriel ; 2e personne du pluriel ; 3e personne du pluriel.",
+  "Exercice 3 : 1. demande ; 2. laves ; 3. nettoyions ; 4. étudiiez.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par verbe bien conjugué (4 points)."
+ ]
+}

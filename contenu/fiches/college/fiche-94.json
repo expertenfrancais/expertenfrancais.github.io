@@ -1,0 +1,259 @@
+{
+ "id": 10094,
+ "meta": {
+  "t": "Le complément d’objet indirect",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g",
+  "r": 4.8,
+  "fn": 94,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.4 : Le complément d’objet indirect",
+  "codeMatrice": "MF6.2.4",
+  "categorie": "Les fonctions du nom",
+  "savoirEssentiel": "Le complément d’objet indirect",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’analyse du nom.",
+  "situation": "Jicette participe à un test de recrutement pour être réceptionniste dans un hôtel de la place. Elle fait partie des dix candidats qui ont obtenu 14 de moyenne. Cependant, l’hôtel n’a besoin que de deux personnes pour le poste. Pour départager les candidats, la direction fait passer un second test de culture générale. Jicette n’est pas retenue parce qu’elle n’a pas pu répondre aux questions portant sur les fonctions du nom. Son frère Djoudjou, déçu de l’échec de sa sœur, la prépare à la prochaine campagne de recrutement prévue à la fin de l’année en travaillant avec elle sur l’analyse grammaticale. Il lui demande d’indiquer la fonction des noms soulignés dans le texte. Jicette se met ainsi à donner la fonction des mots soulignés dans le texte qui lui est proposé.",
+  "numero": 21,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.4 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un complément d’objet direct ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un complément qui suit le verbe sans préposition et répond à quoi ? ou qui ?"
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Cite deux prépositions.",
+     "app": "Les apprenants répondent :\nR2 : À, de, dans, avec, pour, sur..."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un pronom personnel ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un mot qui remplace un nom. Exemple : lui, leur, les."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Jicette, qui participe à un test de recrutement pour devenir réceptionniste dans un hôtel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Pourquoi Jicette n’est-elle pas retenue ?",
+     "app": "Les apprenants répondent :\nR2 : Elle n’est pas retenue parce qu’elle n’a pas su répondre aux questions sur les fonctions du nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait son frère pour l’aider ?",
+     "app": "Les apprenants répondent :\nR3 : Son frère Djoudjou la prépare au prochain recrutement en travaillant avec elle sur l’analyse grammaticale."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Jicette, nous allons apprendre à reconnaître et analyser le complément d’objet indirect.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et analyser le complément d’objet indirect."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé par l’enseignant.",
+    "Repérer les compléments d’objets indirects contenus dans le texte.",
+    "Encadrer le verbe qui va avec chaque complément d’objet indirect.",
+    "Souligner la préposition qui introduit le complément d’objet indirect.",
+    "Indiquer la nature du complément d’objet indirect.",
+    "Analyser grammaticalement les compléments d’objets indirects repérés dans le texte.",
+    "Rappeler les étapes réalisées pour analyser les compléments d’objets indirects.",
+    "Appliquer la même démarche pour analyser les autres mots soulignés dans les phrases proposées."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Jicette répond aux questions.\n2. Djoudjou parle à sa sœur.\n3. Le directeur pense à l’avenir de l’hôtel.\n4. Les clients parlent de leur séjour.\n5. Je lui téléphone.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer les compléments d’objets indirects contenus dans le texte.\nQ1 : Quels sont les compléments d’objet indirects ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Aux questions ; à sa sœur ; à l’avenir de l’hôtel ; de leur séjour ; lui."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de encadrer le verbe qui va avec chaque complément d’objet indirect.\nQ2 : Quel verbe va avec chaque COI ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : Répond ; parle ; pense ; parlent ; téléphone."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de souligner la préposition qui introduit le complément d’objet indirect.\nQ3 : Quelle préposition introduit chaque COI ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR3 : « À » (aux = à + les) ; « à » ; « à » ; « de ». Le pronom « lui » remplace « à lui » ou « à elle »."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de indiquer la nature du complément d’objet indirect.\nQ4 : Quelle est la nature de chaque COI ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : Groupes nominaux introduits par une préposition : aux questions, à sa sœur, à l’avenir de l’hôtel, de leur séjour. Pronom personnel : lui."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de analyser grammaticalement les compléments d’objets indirects repérés dans le texte.\nQ5 : Comment analyse-t-on « à sa sœur » dans la phrase 2 ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : « À sa sœur » est un groupe nominal introduit par la préposition « à », complément d’objet indirect du verbe « parle »."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de rappeler les étapes réalisées pour analyser les compléments d’objets indirects.\nQ6 : Quelles étapes avons-nous suivies ?",
+     "app": "Les apprenants rappellent la démarche suivie.\nR6 : On trouve le verbe, on pose la question « à qui ? », « à quoi ? » ou « de quoi ? », on repère la préposition, puis on donne la nature et la fonction du COI."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de appliquer la même démarche pour analyser les autres mots soulignés dans les phrases proposées.\nQ7 : Analyse le COI : « Mon frère obéit à son père. »",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR7 : « À son père » est un groupe nominal introduit par « à », COI du verbe « obéit »."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le complément d’objet indirect."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment le reconnaît-on ?",
+     "app": "Les apprenants répondent :\nR2 : Il est introduit par une préposition (à, de) et répond à « à qui ? », « à quoi ? » ou « de quoi ? »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelle est la nature d’un COI ?",
+     "app": "Les apprenants répondent :\nR3 : Un groupe nominal introduit par une préposition, ou un pronom."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Relève le COI de chaque phrase et la préposition qui l’introduit.",
+    "situation": "Tu aides Jicette à indiquer la fonction des noms soulignés dans un texte.",
+    "criteres": [
+     "« À son père » : préposition « à ».",
+     "« De son voyage » : préposition « de ».",
+     "« Au maître » : préposition « à » (au = à + le).",
+     "« Lui » : pronom COI (il n’y a pas de préposition écrite)."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Mon frère obéit à son père.\n2. Elle parle de son voyage.\n3. Nous répondons au maître.\n4. Je lui écris.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le complément d’objet indirect",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le complément d’objet indirect (COI) complète le verbe par l’intermédiaire d’une préposition (à, de). Il répond à : à qui ? à quoi ? de qui ? de quoi ?"
+   },
+   {
+    "type": "ex",
+    "text": "Djoudjou parle à sa sœur. Il parle à qui ? À sa sœur."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Phrase",
+     "COI",
+     "Préposition"
+    ],
+    "rows": [
+     [
+      "Jicette répond aux questions.",
+      "aux questions",
+      "à (aux = à + les)"
+     ],
+     [
+      "Les clients parlent de leur séjour.",
+      "de leur séjour",
+      "de"
+     ],
+     [
+      "Je lui téléphone.",
+      "lui",
+      "pronom (remplace à lui)"
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Au = à + le ; aux = à + les ; du = de + le ; des = de + les."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le COI est introduit par une préposition (à, de).",
+     "Il répond à « à qui ? », « à quoi ? » ou « de quoi ? ».",
+     "Il est un groupe nominal ou un pronom."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le COI et j’encadre la préposition.",
+    "items": [
+     "Il pense à son avenir.",
+     "Elle parle de son travail.",
+     "Nous obéissons au maître."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je donne la nature du COI.",
+    "items": [
+     "Tu téléphones à ta mère.",
+     "Je leur écris.",
+     "Il se souvient de ce jour."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase avec chaque verbe et un COI.",
+    "items": [
+     "parler",
+     "répondre",
+     "penser"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : à son avenir (à) ; de son travail (de) ; au maître (à).",
+  "Exercice 2 : à ta mère : groupe nominal ; leur : pronom personnel ; de ce jour : groupe nominal.",
+  "Exercice 3 : réponses libres. Exemples : Je parle à mon ami. Il répond au maître. Nous pensons à l’avenir.",
+  "Évaluation : un point par COI trouvé avec sa préposition (4 points)."
+ ]
+}

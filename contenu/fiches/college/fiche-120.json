@@ -1,0 +1,281 @@
+{
+ "id": 10120,
+ "meta": {
+  "t": "La nominalisation du verbe",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Vocabulaire",
+  "img": "a",
+  "r": 4.8,
+  "fn": 120,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.6 : La nominalisation du verbe",
+  "codeMatrice": "MF5.2.6",
+  "categorie": "La nominalisation",
+  "savoirEssentiel": "La nominalisation du verbe",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à la nominalisation.",
+  "situation": "Libali, Nkodia et Akoli sont élèves en classe de 5e. Un samedi, après une partie de pêche, ils se rendent chez le vieux Bikouti, le grand-père de Libali, pour partager leur butin. Faute d’avoir des récipients appropriés, les trois amis demandent au vieux Bikouti de leur fournir du papier journal qu’ils vont pouvoir utiliser comme emballage. Mais avant d’en faire usage, Nkodia jette un coup d’oeil sur la première page, où il lit : « Le pont de la rivière Sossi sera construit par une société chinoise, a déclaré le président du conseil départemental. C’est une société en laquelle nous avons confiance, car ses ouvrages ont toujours été durables, a-t-il poursuivi. » Sur proposition de Nkodia, les trois amis essaient de remplacer les verbes et les adjectifs de cette déclaration par des noms, mais n’y arrivent pas. Interpelé par la difficulté dans laquelle se trouvent les jeunes garçons, le vieux Bikouti leur présente alors un texte à partir duquel Libali et ses deux condisciples vont travailler sur la nominalisation.",
+  "numero": 23,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.6 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un verbe ? Donne l’infinitif de « ils construisent ».",
+     "app": "Les apprenants répondent :\nR1 : Un verbe exprime une action ou un état. L’infinitif est « construire »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un suffixe ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un élément placé après le radical, qui forme un nouveau mot."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels sont les trois groupes de verbes ?",
+     "app": "Les apprenants répondent :\nR3 : 1er groupe : verbes en -er ; 2e groupe : verbes en -ir (-issons) ; 3e groupe : les autres."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de trois élèves de 5e qui lisent une déclaration du président du conseil départemental sur le papier journal qui leur sert d’emballage."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté les trois amis rencontrent-ils ?",
+     "app": "Les apprenants répondent :\nR2 : Ils essaient de remplacer les verbes et les adjectifs de la déclaration par des noms, mais n’y arrivent pas."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait le vieux Bikouti ?",
+     "app": "Les apprenants répondent :\nR3 : Le vieux Bikouti leur présente un texte pour travailler sur la nominalisation."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Libali et ses amis, nous allons apprendre à former des noms à partir de verbes.",
+     "app": "Les apprenants expriment le besoin d’apprendre à former des noms à partir de verbes."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire silencieusement le texte proposé.",
+    "Identifier par soulignement tous les verbes contenus dans le texte.",
+    "Indiquer le groupe de chacun des verbes soulignés.",
+    "Relever les verbes en fonction de leur groupe.",
+    "Encadrer le radical de chaque verbe.",
+    "Détacher le radical du reste de la construction verbale.",
+    "Proposer - un affixe pour chaque radical détaché ; - un déterminant pour chaque nom trouvé.",
+    "Définir le terme « nominalisation du verbe ».",
+    "Expliquer la démarche de la nominalisation du verbe."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. La société construit le pont.\n2. Le conseil départemental décide la date.\n3. Les ouvriers livrent les travaux.\n4. Le maire inaugure la route.\n5. Les habitants applaudissent.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de identifier par soulignement tous les verbes contenus dans le texte.\nQ1 : Quels sont les verbes du texte ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR1 : Construit ; décide ; livrent ; inaugure ; applaudissent."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de indiquer le groupe de chacun des verbes soulignés.\nQ2 : À quel groupe appartient chaque verbe ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : Construire : 3e groupe ; décider, livrer, inaugurer : 1er groupe ; applaudir : 2e groupe."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de relever les verbes en fonction de leur groupe.\nQ3 : Relève les verbes selon leur groupe.",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR3 : 1er groupe : décide, livrent, inaugure. 2e groupe : applaudissent. 3e groupe : construit."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de encadrer le radical de chaque verbe.\nQ4 : Quel est le radical de chaque verbe ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR4 : Construct- ; décis- ; livr- ; inaugur- ; applaudiss-."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de détacher le radical du reste de la construction verbale.\nQ5 : Détache le radical du reste de la forme verbale.",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : Construct + ion ; décis + ion ; livr + aison ; inaugur + ation ; applaudiss + ement."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de proposer un affixe pour chaque radical détaché, puis un déterminant pour chaque nom trouvé.\nQ6 : Quels noms obtient-on en ajoutant un suffixe et un déterminant ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : La construction ; la décision ; la livraison ; l’inauguration ; les applaudissements. Suffixes : -ion, -aison, -ation, -ement."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de définir le terme « nominalisation du verbe ».\nQ7 : Qu’est-ce que la nominalisation du verbe ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR7 : C’est la transformation d’un verbe en nom de la même famille, le plus souvent par suffixation."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de expliquer la démarche de la nominalisation du verbe.\nQ8 : Quelle démarche avons-nous suivie ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR8 : On repère le verbe, on trouve son radical, on ajoute un suffixe (-ion, -ation, -ement, -aison), puis un déterminant devant le nom obtenu."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La nominalisation du verbe."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment forme-t-on un nom à partir d’un verbe ?",
+     "app": "Les apprenants répondent :\nR2 : On prend le radical du verbe et on ajoute un suffixe : construire, la construction."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite deux suffixes de nominalisation.",
+     "app": "Les apprenants répondent :\nR3 : -ion, -ement."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris le nom de la même famille que chaque verbe.",
+    "situation": "Tu aides Libali et ses amis à remplacer des verbes et des adjectifs par des noms.",
+    "criteres": [
+     "Réparer : réparation.",
+     "Punir : punition.",
+     "Livrer : livraison.",
+     "Arriver : arrivée."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. réparer\n2. punir\n3. livrer\n4. arriver",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Vocabulaire : La nominalisation du verbe",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La nominalisation du verbe consiste à transformer un verbe en nom de la même famille."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Verbe",
+     "Radical",
+     "Suffixe",
+     "Nom"
+    ],
+    "rows": [
+     [
+      "construire",
+      "construct-",
+      "-ion",
+      "la construction"
+     ],
+     [
+      "décider",
+      "décis-",
+      "-ion",
+      "la décision"
+     ],
+     [
+      "livrer",
+      "livr-",
+      "-aison",
+      "la livraison"
+     ],
+     [
+      "inaugurer",
+      "inaugur-",
+      "-ation",
+      "l’inauguration"
+     ],
+     [
+      "applaudir",
+      "applaudiss-",
+      "-ement",
+      "les applaudissements"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "La société construit le pont → La construction du pont."
+   },
+   {
+    "type": "nb",
+    "text": "Le nom obtenu a besoin d’un déterminant : la construction, une décision."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Nominaliser, c’est former un nom à partir d’un verbe.",
+     "On utilise le radical et un suffixe.",
+     "Le nom prend un déterminant."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le radical de chaque verbe.",
+    "items": [
+     "livrer",
+     "décider",
+     "applaudir"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le nom correspondant avec un déterminant.",
+    "items": [
+     "inaugurer",
+     "réussir",
+     "arriver",
+     "protéger"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je remplace chaque verbe par un nom.",
+    "items": [
+     "Le maire inaugure la route.",
+     "Les élèves réussissent."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : livr- ; décis- ; applaudiss-.",
+  "Exercice 2 : l’inauguration ; la réussite ; l’arrivée ; la protection.",
+  "Exercice 3 : L’inauguration de la route par le maire. La réussite des élèves.",
+  "Évaluation : un point par nom correct (4 points)."
+ ]
+}

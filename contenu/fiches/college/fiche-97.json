@@ -1,0 +1,262 @@
+{
+ "id": 10097,
+ "meta": {
+  "t": "La proposition coordonnée",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "b",
+  "r": 4.8,
+  "fn": 97,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.6 : La proposition coordonnée",
+  "codeMatrice": "MF6.2.6",
+  "categorie": "La phrase complexe",
+  "savoirEssentiel": "La phrase complexe : la proposition coordonnée",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’analyse logique de la phrase complexe.",
+  "situation": "Sinda a proposé un article à publier dans le journal Les Dépêches de Brazzaville. À cause de certaines phrases confuses, le comité de rédaction lui demande de revoir son texte. Pour améliorer sa rédaction et lui permettre de publier son article, son père l’aide à travailler sur la construction des phrases. Après une série d’exercices, Sinda est appelé à construire des phrases complexes pour les analyser par la suite.",
+  "numero": 24,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.6 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une proposition ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un groupe de mots organisé autour d’un verbe conjugué."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce que la juxtaposition ?",
+     "app": "Les apprenants répondent :\nR2 : C’est le fait de placer des propositions côte à côte, séparées par la ponctuation, sans mot de liaison."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite deux mots qui relient des mots ou des phrases.",
+     "app": "Les apprenants répondent :\nR3 : Et, mais, ou, donc, car."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Sinda, qui a proposé un article au journal Les Dépêches de Brazzaville."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Pourquoi le comité de rédaction demande-t-il à Sinda de revoir son texte ?",
+     "app": "Les apprenants répondent :\nR2 : Le comité de rédaction lui demande de revoir son texte à cause de phrases confuses."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Sinda pour améliorer sa rédaction ?",
+     "app": "Les apprenants répondent :\nR3 : Son père l’aide à travailler sur la construction des phrases, puis Sinda construit des phrases complexes."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Sinda, nous allons apprendre à reconnaître et analyser des propositions coordonnées.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et analyser des propositions coordonnées."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire les phrases proposées par l’enseignant.",
+    "Repérer - les phrases ayant deux ou plusieurs verbes conjugués ; - les conjonctions de coordination contenues dans les phrases.",
+    "Identifier les différentes propositions contenues dans chaque phrase.",
+    "Donner la nature des propositions identifiées.",
+    "Analyser logiquement les propositions identifiées.",
+    "Rappeler des phrases contenant des propositions coordonnées.",
+    "Construire les étapes réalisées pour analyser les propositions coordonnées.",
+    "Appliquer la même démarche pour analyser les autres propositions coordonnées contenues dans les phrases proposées."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Sinda écrit son article et son père le relit.\n2. Le comité lit le texte, mais il demande des corrections.\n3. Sinda corrige son texte, car il est confus.\n4. Il pleut, donc nous restons à la maison.\n5. Sinda publie son article.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer les phrases ayant deux ou plusieurs verbes conjugués, puis les conjonctions de coordination contenues dans les phrases.\nQ1 : Quelles phrases ont deux verbes conjugués ? Quels mots de liaison contiennent-elles ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Les phrases 1 à 4. Les mots de liaison sont : et, mais, car, donc. La phrase 5 n’a qu’un verbe."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de identifier les différentes propositions contenues dans chaque phrase.\nQ2 : Quelles propositions contient chaque phrase ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : 1 : « Sinda écrit son article » et « son père le relit ». 2 : « le comité lit le texte » et « il demande des corrections ». 3 : « Sinda corrige son texte » et « il est confus ». 4 : « il pleut » et « nous restons à la maison »."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de donner la nature des propositions identifiées.\nQ3 : Quelle est la nature de ces propositions ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Ce sont des propositions indépendantes, reliées par une conjonction de coordination."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de analyser logiquement les propositions identifiées.\nQ4 : Comment analyse-t-on la phrase 1 ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : « Sinda écrit son article » est une proposition indépendante coordonnée à la suivante par « et ». « Son père le relit » est une proposition indépendante coordonnée à la précédente."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de rappeler des phrases contenant des propositions coordonnées.\nQ5 : Cite d’autres phrases contenant des propositions coordonnées.",
+     "app": "Les apprenants rappellent la démarche suivie.\nR5 : Exemple : Je lis ou j’écris. Il travaille mais il est fatigué."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de construire les étapes réalisées pour analyser les propositions coordonnées.\nQ6 : Quelles étapes avons-nous suivies pour analyser des propositions coordonnées ?",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR6 : On repère les verbes conjugués, on découpe les propositions, on repère la conjonction de coordination (mais, ou, et, donc, or, ni, car), puis on les nomme : propositions coordonnées."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de appliquer la même démarche pour analyser les autres propositions coordonnées contenues dans les phrases proposées.\nQ7 : Analyse : « Il travaille, mais il est fatigué. »",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR7 : Deux propositions indépendantes coordonnées par « mais »."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La proposition coordonnée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment relie-t-on des propositions coordonnées ?",
+     "app": "Les apprenants répondent :\nR2 : Par une conjonction de coordination : mais, ou, et, donc, or, ni, car."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelle est la nature de ces propositions ?",
+     "app": "Les apprenants répondent :\nR3 : Ce sont des propositions indépendantes."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Dans chaque phrase, entoure la conjonction de coordination et écris le nombre de propositions.",
+    "situation": "Tu aides Sinda à analyser les phrases de son article.",
+    "criteres": [
+     "Phrase 1 : « et » ; deux propositions.",
+     "Phrase 2 : « donc » ; deux propositions.",
+     "Phrase 3 : pas de conjonction ; une seule proposition."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Je lis et tu écris.\n2. Il pleut, donc nous restons ici.\n3. Fatou chante.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : La proposition coordonnée",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Des propositions coordonnées sont reliées par une conjonction de coordination : mais, ou, et, donc, or, ni, car."
+   },
+   {
+    "type": "ex",
+    "text": "Sinda écrit son article et son père le relit."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Conjonction",
+     "Valeur",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "et",
+      "addition",
+      "Je lis et tu écris."
+     ],
+     [
+      "mais",
+      "opposition",
+      "Il travaille, mais il est fatigué."
+     ],
+     [
+      "car",
+      "cause",
+      "Sinda corrige son texte, car il est confus."
+     ],
+     [
+      "donc",
+      "conséquence",
+      "Il pleut, donc nous restons ici."
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Pour retenir les conjonctions de coordination : « Mais où est donc Ornicar ? »"
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Une conjonction de coordination relie des propositions de même nature.",
+     "Les propositions coordonnées sont indépendantes.",
+     "Il y a sept conjonctions de coordination."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’entoure la conjonction de coordination.",
+    "items": [
+     "Papa travaille et maman cuisine.",
+     "Il dort, car il est fatigué.",
+     "Nous partons ou nous restons."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je sépare les propositions par un trait.",
+    "items": [
+     "Je lis mais tu dors.",
+     "Il pleut donc nous rentrons."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase avec chaque conjonction.",
+    "items": [
+     "et",
+     "mais",
+     "car"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : et ; car ; ou.",
+  "Exercice 2 : Je lis / mais tu dors. Il pleut / donc nous rentrons.",
+  "Exercice 3 : réponses libres. Exemples : Je chante et tu danses. Il court mais il est fatigué. Je reste car il pleut.",
+  "Évaluation : un point par phrase bien analysée (3 points)."
+ ]
+}

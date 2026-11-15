@@ -1,0 +1,252 @@
+{
+ "id": 10163,
+ "meta": {
+  "t": "La rédaction du développement",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 163,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF6.7.1 : La rédaction du développement",
+  "codeMatrice": "MF6.7.1",
+  "categorie": "La méthodologie de la rédaction",
+  "savoirEssentiel": "La rédaction du développement",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’application de la méthodologie de la rédaction.",
+  "situation": "Mireille veut passer un test dans une société de la place pour être technicienne de surface. Elle est tendue parce que le test porte sur un sujet de rédaction dont elle ne maîtrise pas la méthodologie. Sa sœur Magalie, préoccupée par cette situation, lui propose des sujets de rédaction des anciennes sessions du CEPE afin qu’elles les traitent ensemble. Elle lui donne ensuite un autre sujet sur lequel Mireille va travailler en suivant la démarche apprise. Après ces séances, la future technicienne de surface se met à traiter d’autres sujets pour mieux assimiler la méthodologie.",
+  "numero": 52,
+  "date": "",
+  "duree": "2 h",
+  "support": "Sujet et développement écrits au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.7.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un paragraphe ?",
+     "app": "Les apprenants répondent :\nR1 : Une partie de texte formée de plusieurs phrases sur une même idée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les parties de l’introduction ?",
+     "app": "Les apprenants répondent :\nR2 : Le contexte général, le problème posé et l’annonce du plan."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Citez des mots de liaison.",
+     "app": "Les apprenants répondent :\nR3 : D’abord, ensuite, puis, enfin, mais, car."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : Mireille, qui veut passer un test dans une société pour être technicienne de surface."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Le test porte sur un sujet de rédaction, et elle ne maîtrise pas la méthodologie."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Sa sœur Magalie lui propose des sujets des anciennes sessions du CEPE à traiter ensemble, puis un autre sujet sur lequel Mireille travaille seule avec la démarche apprise."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider le personnage, nous allons étudier la rédaction du développement.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons apprendre à rédiger un développement."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire - le sujet proposé par l’enseignant ; - le développement proposé.",
+    "Identifier dans le développement proposé : - les idées ; - les exemples (si possible) ; - les mots de liaison ; - les signes de ponctuation ; - les temps verbaux utilisés dans le développement ; - les différents paragraphes contenus dans le développement.",
+    "Indiquer la structure du développement (le nombre de paragraphes).",
+    "Rappeler les éléments constitutifs de la rédaction du développement.",
+    "Rédiger un développement à partir du sujet proposé par l’enseignant."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le sujet et le développement proposé au tableau, les lit, puis demande une lecture silencieuse.",
+     "texte": "Sujet : Pendant les vacances, ta famille a rendu visite à ta grand-mère au village. Raconte cette visite.\nD’abord, nous avons pris le bus très tôt le samedi matin. Pendant cinq heures, j’ai regardé les collines et les champs par la fenêtre, et le voyage m’a semblé court.\nEnsuite, nous sommes arrivés au village, où ma grand-mère nous attendait devant sa maison. Elle nous a serrés dans ses bras, puis elle nous a servi du manioc et du poisson fumé. Le soir, nous nous sommes assis autour du feu pour écouter ses contes.\nEnfin, le dimanche, nous avons visité son champ et cueilli des mangues. Au moment du départ, ma grand-mère nous a offert un panier de fruits et nous avons promis de revenir bientôt.",
+     "app": "Les apprenants lisent silencieusement le sujet et le développement, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "ens": "L’enseignant demande d’identifier dans le développement :\nQ1 : Quelles sont les idées développées ?",
+     "app": "Les apprenants répondent :\nR1 : Premier paragraphe : le voyage en bus. Deuxième paragraphe : l’arrivée et l’accueil de la grand-mère. Troisième paragraphe : la visite du champ et le départ.",
+     "a": 2
+    },
+    {
+     "ens": "L’enseignant poursuit :\nQ2 : Quels exemples ou détails illustrent ces idées ?",
+     "app": "Les apprenants soulignent les exemples et répondent :\nR2 : Les collines et les champs ; le manioc et le poisson fumé ; les contes autour du feu ; les mangues cueillies ; le panier de fruits."
+    },
+    {
+     "ens": "L’enseignant poursuit :\nQ3 : Quels mots de liaison relient les paragraphes et les phrases ?",
+     "app": "Les apprenants entourent les mots de liaison et répondent :\nR3 : Les mots d’ordre : d’abord, ensuite, enfin ; et aussi : puis, où, et."
+    },
+    {
+     "ens": "L’enseignant poursuit :\nQ4 : Quels signes de ponctuation trouve-t-on ?",
+     "app": "Les apprenants relèvent les signes et répondent :\nR4 : Des points à la fin des phrases et des virgules après les mots de liaison et pour séparer les groupes de mots."
+    },
+    {
+     "ens": "L’enseignant poursuit :\nQ5 : À quels temps les verbes sont-ils conjugués ?",
+     "app": "Les apprenants soulignent les verbes et répondent :\nR5 : Au passé composé : nous avons pris, j’ai regardé, nous sommes arrivés ; et à l’imparfait : attendait."
+    },
+    {
+     "ens": "L’enseignant poursuit :\nQ6 : Combien de paragraphes le développement contient-il ?",
+     "app": "Les apprenants comptent les alinéas et répondent :\nR6 : Trois paragraphes : on revient à la ligne à chaque idée nouvelle."
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer la structure du développement :\nQ7 : Quelle est la structure du développement ?",
+     "app": "Les apprenants répondent :\nR7 : Un paragraphe par idée principale : ici trois paragraphes (le voyage, le séjour, la visite et le départ).",
+     "a": 3
+    },
+    {
+     "ens": "L’enseignant demande de rappeler les éléments constitutifs du développement :\nQ8 : Que doit contenir un développement ?",
+     "app": "Les apprenants formulent, puis l’enseignant écrit au tableau :\nR8 : Plusieurs paragraphes, une idée principale par paragraphe, des exemples, des mots de liaison, une ponctuation correcte et des temps verbaux bien choisis.",
+     "a": 4
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant donne un nouveau sujet : « Le jour de la fête de l’école, tu as participé à un spectacle. Raconte ce spectacle. » Il fait établir le plan : les répétitions, le spectacle, les applaudissements. Il fait rédiger un paragraphe par groupe.",
+     "app": "Les apprenants rédigent un paragraphe par groupe en utilisant des mots de liaison, puis lisent leur paragraphe. Proposition retenue : « D’abord, nous avons répété pendant deux semaines. Chaque après-midi, notre maître nous a appris les chants et les pas de danse.\nEnsuite, le grand jour est arrivé. Habillés de pagnes colorés, nous sommes montés sur la scène sous les regards de nos parents. Puis nous avons chanté et dansé de tout notre cœur.\nEnfin, la salle nous a longuement applaudis. Nous étions fiers de nous et heureux d’avoir réussi. »"
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : La rédaction du développement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment le développement est-il organisé ?",
+     "app": "Les apprenants répondent :\nR2 : En plusieurs paragraphes, un par idée principale, avec des exemples."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels outils emploie-t-on pour bien rédiger ?",
+     "app": "Les apprenants répondent :\nR3 : Des mots de liaison, une ponctuation correcte et des temps verbaux cohérents."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Rédige le développement, en trois paragraphes, du sujet suivant : « Tu as aidé ta mère à préparer un repas de fête. Raconte. »",
+    "situation": "Mireille s’exerce à rédiger le développement d’un sujet.",
+    "criteres": [
+     "Il y a trois paragraphes, un par idée principale.",
+     "Il emploie des mots de liaison (d’abord, ensuite, enfin…).",
+     "Les verbes sont au passé composé ou à l’imparfait, et la ponctuation est correcte."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item par écrit et laisse quinze minutes de travail individuel.",
+     "app": "Chaque apprenant rédige son développement sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, relève les bonnes productions et fait corriger les erreurs.",
+     "app": "Quelques apprenants lisent leur développement ; les autres complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : La rédaction du développement",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le développement est la partie principale de la rédaction. Il raconte les faits ou explique les idées annoncées dans l’introduction."
+   },
+   {
+    "type": "h",
+    "text": "1- Comment est construit le développement"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Il comprend plusieurs paragraphes : on va à la ligne pour chaque idée nouvelle.",
+     "Chaque paragraphe développe une idée principale, avec des exemples ou des détails.",
+     "Les paragraphes sont reliés par des mots de liaison : d’abord, ensuite, puis, enfin.",
+     "Les phrases sont bien ponctuées ; les verbes sont au passé composé et à l’imparfait."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Un développement",
+    "text": "D’abord, nous avons pris le bus très tôt le samedi matin. Pendant cinq heures, j’ai regardé les collines et les champs par la fenêtre, et le voyage m’a semblé court.\nEnsuite, nous sommes arrivés au village, où ma grand-mère nous attendait devant sa maison. Elle nous a serrés dans ses bras, puis elle nous a servi du manioc et du poisson fumé. Le soir, nous nous sommes assis autour du feu pour écouter ses contes.\nEnfin, le dimanche, nous avons visité son champ et cueilli des mangues. Au moment du départ, ma grand-mère nous a offert un panier de fruits et nous avons promis de revenir bientôt."
+   },
+   {
+    "type": "ex",
+    "text": "Dans ce développement : trois paragraphes (le voyage, le séjour, la visite) ; des exemples (le manioc, le poisson fumé, les mangues) ; des mots de liaison (d’abord, ensuite, enfin)."
+   },
+   {
+    "type": "nb",
+    "text": "Le développement suit le plan annoncé dans l’introduction : une idée par paragraphe."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le développement est la partie la plus longue de la rédaction.",
+     "Il comprend plusieurs paragraphes, un par idée principale, avec des exemples.",
+     "Il utilise des mots de liaison, une ponctuation correcte et des temps verbaux cohérents."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève dans ce développement les mots de liaison et les verbes au passé composé.",
+    "texte": "D’abord, mon père a réparé le toit de la cuisine. Ensuite, ma mère a préparé du riz et des haricots. Enfin, toute la famille a mangé sous le manguier.",
+    "items": [
+     "Les mots de liaison",
+     "Les verbes au passé composé"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je range les phrases pour former un paragraphe sur la journée de pêche.",
+    "items": [
+     "Enfin, nous avons rapporté plusieurs poissons à la maison.",
+     "D’abord, nous sommes partis au fleuve à l’aube.",
+     "Ensuite, nous avons jeté nos lignes dans l’eau."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Sujet : « Tu as aidé ton voisin à planter des arbres. Raconte. » J’écris un développement de trois courts paragraphes.",
+    "items": [
+     "Paragraphe 1 : la préparation",
+     "Paragraphe 2 : le travail",
+     "Paragraphe 3 : la fin de la journée"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : mots de liaison : d’abord, ensuite, enfin ; verbes au passé composé : a réparé, a préparé, a mangé.",
+  "Exercice 2 : D’abord, nous sommes partis au fleuve à l’aube. Ensuite, nous avons jeté nos lignes dans l’eau. Enfin, nous avons rapporté plusieurs poissons à la maison.",
+  "Exercice 3 : réponse libre. Exemple : D’abord, nous avons creusé des trous dans le jardin. Ensuite, nous avons planté les jeunes arbres et nous les avons arrosés. Enfin, nous étions fatigués mais contents de notre travail.",
+  "Évaluation : 1 point pour chaque paragraphe, 1 point pour les mots de liaison, 1 point pour les temps et la ponctuation."
+ ]
+}

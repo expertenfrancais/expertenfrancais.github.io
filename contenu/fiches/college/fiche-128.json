@@ -1,0 +1,259 @@
+{
+ "id": 10128,
+ "meta": {
+  "t": "Les verbes accidentellement pronominaux",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "a",
+  "r": 4.8,
+  "fn": 128,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "titre": "Fiche d’exploitation de la matrice MF5.4.4 : Les verbes accidentellement pronominaux",
+  "codeMatrice": "MF5.4.4",
+  "categorie": "Les verbes pronominaux",
+  "savoirEssentiel": "Les verbes accidentellement pronominaux",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’usage des verbes pronominaux.",
+  "situation": "Par respect des règles d’hygiène corporelle, Noëlla et Prince cherchent à rédiger un texte sur les bons comportements à observer chaque matin. Les deux enfants dressent une liste des verbes qui conviennent : se méfier de la saleté, se brosser les dents, se laver le corps, se maquiller, se peigner les cheveux, se vêtir d’habits propres, etc. Cependant, ils ne connaissent pas la nature de ces verbes et ne savent pas comment les conjuguer. Face à cette difficulté, Noëlla et Prince ont recours à un finaliste de l’École Normale Supérieure (ENS) qui les aide. Après plusieurs exercices, il leur propose un texte à partir duquel ils vont utiliser les verbes pronominaux.",
+  "numero": 31,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.4.4 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un verbe pronominal ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un verbe conjugué avec un pronom personnel complément de la même personne que le sujet."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un verbe essentiellement pronominal ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un verbe qui ne s’emploie qu’à la forme pronominale. Exemple : se méfier."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Conjugue « brosser » au présent à la 3e personne du singulier.",
+     "app": "Les apprenants répondent :\nR3 : Il brosse."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un texte que Noëlla et Prince veulent rédiger sur les bons comportements d’hygiène à observer chaque matin."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Noëlla et Prince rencontrent-ils ?",
+     "app": "Les apprenants répondent :\nR2 : Ils ne connaissent pas la nature des verbes de leur liste (se laver, se peigner…) et ne savent pas les conjuguer."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que font-ils pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Ils font appel à un finaliste de l’ENS, qui leur propose un texte pour utiliser les verbes pronominaux."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Noëlla et Prince, nous allons apprendre à reconnaître et employer les verbes accidentellement pronominaux.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et employer les verbes accidentellement pronominaux."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé.",
+    "Souligner dans le texte les verbes précédés de deux pronoms de même personne.",
+    "Indiquer la nature des verbes soulignés dans le texte.",
+    "Analyser la morphologie (la forme) des verbes pronominaux contenus dans le texte.",
+    "Relever parmi les verbes soulignés ceux qui peuvent être conjugués avec un seul pronom personnel.",
+    "Nommer les verbes relevés.",
+    "Définir les verbes accidentellement pronominaux.",
+    "Rappeler la construction des verbes accidentellement pronominaux.",
+    "Construire des phrases avec les verbes accidentellement pronominaux"
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Noëlla se lave le visage.\n2. Prince se brosse les dents.\n3. Elle se peigne les cheveux.\n4. Prince se méfie de la saleté.\n5. Ils se regardent dans le miroir.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner dans le texte les verbes précédés de deux pronoms de même personne.\nQ1 : Quels verbes sont précédés de deux pronoms de même personne ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Se lave ; se brosse ; se peigne ; se méfie ; se regardent."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de indiquer la nature des verbes soulignés dans le texte.\nQ2 : Quelle est la nature de ces verbes ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : Ce sont des verbes pronominaux."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de analyser la morphologie (la forme) des verbes pronominaux contenus dans le texte.\nQ3 : Quelle est la forme de ces verbes ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Pronom sujet + pronom complément de la même personne + verbe."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de relever parmi les verbes soulignés ceux qui peuvent être conjugués avec un seul pronom personnel.\nQ4 : Lesquels peuvent être conjugués avec un seul pronom personnel ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR4 : Se lave (elle lave), se brosse (elle brosse), se peigne (elle peigne), se regardent (ils regardent). « Se méfie » ne le peut pas."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de nommer les verbes relevés.\nQ5 : Comment nomme-t-on ces verbes ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : Ce sont des verbes accidentellement pronominaux."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de définir les verbes accidentellement pronominaux.\nQ6 : Qu’est-ce qu’un verbe accidentellement pronominal ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : C’est un verbe qui peut s’employer avec ou sans pronom : se laver, laver."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de rappeler la construction des verbes accidentellement pronominaux.\nQ7 : Quelle est la construction de ces verbes ?",
+     "app": "Les apprenants rappellent la démarche suivie.\nR7 : Pronom sujet + pronom complément + verbe, ou sujet + verbe sans pronom : Elle se lave. Elle lave l’enfant."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de construire des phrases avec les verbes accidentellement pronominaux.\nQ8 : Construis une phrase avec « se laver » et une avec « laver ».",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR8 : Exemple : Je me lave les mains. Je lave le linge."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les verbes accidentellement pronominaux."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un verbe accidentellement pronominal ?",
+     "app": "Les apprenants répondent :\nR2 : Un verbe qui peut aussi s’employer sans pronom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Donne deux exemples.",
+     "app": "Les apprenants répondent :\nR3 : Se laver (laver), se peigner (peigner)."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Recopie les verbes accidentellement pronominaux et écris le verbe sans pronom.",
+    "situation": "Tu aides Noëlla et Prince à rédiger leur texte sur l’hygiène.",
+    "criteres": [
+     "Il recopie « elle se coiffe » (coiffer).",
+     "Il recopie « nous nous regardons » (regarder).",
+     "Il ne recopie ni « il se méfie » ni « tu te souviens » (essentiellement pronominaux)."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Il se méfie du chien.\n2. Elle se coiffe.\n3. Nous nous regardons.\n4. Tu te souviens de moi.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Conjugaison : Les verbes accidentellement pronominaux",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un verbe accidentellement pronominal peut s’employer à la forme pronominale ou à la forme non pronominale."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Forme pronominale",
+     "Forme non pronominale"
+    ],
+    "rows": [
+     [
+      "Elle se lave le visage.",
+      "Elle lave le linge."
+     ],
+     [
+      "Prince se brosse les dents.",
+      "Prince brosse ses souliers."
+     ],
+     [
+      "Elle se peigne.",
+      "Elle peigne l’enfant."
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Noëlla se lave le visage. Elle lave le linge."
+   },
+   {
+    "type": "nb",
+    "text": "Aux temps composés, le verbe pronominal se conjugue avec être : elle s’est lavée."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un verbe accidentellement pronominal existe aussi sans pronom.",
+     "Il se conjugue avec deux pronoms de même personne à la forme pronominale.",
+     "Exemples : se laver, se peigner, se brosser."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les verbes pronominaux.",
+    "items": [
+     "Fatou se lave.",
+     "Fatou lave le linge.",
+     "Les enfants se coiffent."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le verbe sans pronom.",
+    "items": [
+     "il se brosse",
+     "elle se peigne",
+     "ils se regardent"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase avec chaque verbe, à la forme pronominale puis non pronominale.",
+    "items": [
+     "laver",
+     "coiffer"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : se lave ; se coiffent.",
+  "Exercice 2 : brosser ; peigner ; regarder.",
+  "Exercice 3 : réponses libres. Exemples : Je me lave. Je lave le linge. Elle se coiffe. Elle coiffe sa sœur.",
+  "Évaluation : un point par verbe recopié avec sa forme simple (2 points) et un point pour l’absence d’erreur."
+ ]
+}

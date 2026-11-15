@@ -1,0 +1,279 @@
+{
+ "id": 10179,
+ "meta": {
+  "t": "La rédaction d’une lettre privée",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 179,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF5.7.2 : La rédaction d’une lettre privée",
+  "codeMatrice": "MF5.7.2",
+  "categorie": "La production de textes",
+  "savoirEssentiel": "La rédaction d’une lettre privée",
+  "competence": "Les apprenants développeront la compétence qui lui permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à la production des textes.",
+  "situation": "Dénicia rêve depuis toujours de devenir écrivaine. De ce fait, elle ne se sépare presque jamais de son stylo. Elle essaie d’écrire différents types de textes : portraits, articles de journaux, lettres privées, comptes rendus de lecture… Un jour, elle décide de faire lire son travail à son père Daniel. Celui-ci constate que les textes de sa fille présentent des imperfections au niveau de leur démarche. Pour cette raison, il donne à Dénicia un document contenant plusieurs types de textes. Cette dernière est appelée à produire différents types de textes sur le modèle de ceux qu’elle découvre dans le document.",
+  "numero": 58,
+  "date": "",
+  "duree": "1 h",
+  "support": "Lettre écrite au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.7.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une lettre ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un message écrit que l’on envoie à une personne éloignée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels sont les pronoms personnels de la première et de la deuxième personne du singulier ?",
+     "app": "Les apprenants répondent :\nR2 : Je (moi) et tu (toi)."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels sont les quatre types de phrases ?",
+     "app": "Les apprenants répondent :\nR3 : La phrase déclarative, interrogative, impérative et exclamative."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : De Dénicia, qui rêve de devenir écrivaine et qui écrit différents types de textes, dont des lettres privées."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Son père constate que ses textes présentent des imperfections au niveau de leur démarche."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Il lui donne un document contenant plusieurs types de textes, et Dénicia produit des textes sur ce modèle."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Dénicia, nous allons apprendre à rédiger une lettre privée.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir rédiger une lettre privée."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte sur la lettre privée.",
+    "Identifier - l’objet de la lettre privée ; - l’émetteur ; - le destinataire.",
+    "Dégager le message de la lettre.",
+    "Indiquer - les types de phrases ; - les modes verbaux ; - les temps verbaux ; - les différents pronoms personnels.",
+    "Relever les mots de liaison.",
+    "Rappeler les éléments caractéristiques de la lettre privée.",
+    "Rédiger une lettre privée."
+   ],
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit la lettre au tableau, la lit, puis demande une lecture silencieuse.",
+     "app": "Les apprenants lisent silencieusement la lettre, puis quelques-uns la lisent à haute voix.",
+     "texte": "Dolisie, le 20 février 2026\n\nMon cher Patrick,\n\nComment vas-tu ? Moi, je vais très bien et toute la famille aussi. Je t’écris pour te raconter mon séjour chez oncle Paul. Nous avons visité la forêt et pêché au bord de la rivière. J’ai aussi appris à préparer le poisson à la braise. Ensuite, nous avons joué au football avec les cousins. Mais je n’ai pas oublié mes devoirs ! Écris-moi vite et dis-moi ce que tu deviens. Embrasse tes parents pour moi.\n\nTon ami qui pense à toi,\nGildas",
+     "a": 1
+    },
+    {
+     "ens": "L’enseignant demande d’identifier l’objet, l’émetteur et le destinataire :\nQ1 : Pourquoi Gildas écrit-il ? Qui écrit ? À qui ?",
+     "app": "Les apprenants répondent :\nR1 : L’objet : raconter son séjour chez oncle Paul. L’émetteur : Gildas. Le destinataire : son ami Patrick.",
+     "a": 2
+    },
+    {
+     "ens": "L’enseignant demande de dégager le message de la lettre :\nQ2 : Quel message la lettre transmet-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Gildas donne de ses nouvelles, raconte ses activités de vacances et demande des nouvelles de son ami.",
+     "a": 3
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer les types de phrases :\nQ3 : Quels types de phrases rencontre-t-on ?",
+     "app": "Les apprenants répondent :\nR3 : Des phrases interrogatives (« Comment vas-tu ? »), déclaratives (« Je vais très bien »), impératives (« Écris-moi vite ») et exclamatives (« Mais je n’ai pas oublié mes devoirs ! »).",
+     "a": 4
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer les modes et les temps verbaux :\nQ4 : Quels sont les modes et les temps des verbes ?",
+     "app": "Les apprenants répondent :\nR4 : L’indicatif (présent : vais, écris ; passé composé : avons visité, ai appris) et l’impératif présent (écris, dis, embrasse)."
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer les pronoms personnels :\nQ5 : Quels pronoms personnels trouve-t-on ?",
+     "app": "Les apprenants répondent :\nR5 : Je, moi, nous (première personne) ; tu, te (deuxième personne)."
+    },
+    {
+     "ens": "L’enseignant demande de relever les mots de liaison :\nQ6 : Quels mots de liaison relient les phrases ?",
+     "app": "Les apprenants répondent :\nR6 : Ensuite, mais, aussi, et.",
+     "a": 5
+    },
+    {
+     "ens": "L’enseignant demande de rappeler les éléments caractéristiques de la lettre privée :\nQ7 : Quels sont les éléments caractéristiques de la lettre privée ?",
+     "app": "Les apprenants répondent :\nR7 : Le lieu et la date ; la formule d’appel ; le contenu en langage simple, avec « je » et « tu » ; la formule de politesse ; la signature.",
+     "a": 6
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : La rédaction d’une lettre privée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels éléments trouve-t-on dans une lettre privée ?",
+     "app": "Les apprenants répondent :\nR2 : Le lieu et la date, la formule d’appel, le contenu, la formule de politesse et la signature."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quel langage emploie-t-on ?",
+     "app": "Les apprenants répondent :\nR3 : Un langage simple et familier, avec « je » et « tu », à l’indicatif présent et au passé composé."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris une lettre privée à un ami pour lui raconter comment tu as fêté la fin de l’année scolaire.",
+    "situation": "Dénicia s’exerce à rédiger une lettre privée sur le modèle découvert.",
+    "criteres": [
+     "Il écrit le lieu et la date, la formule d’appel, la formule de politesse et la signature.",
+     "Il raconte au moins trois idées dans un ordre logique, avec des mots de liaison.",
+     "Il emploie « je » et « tu », des temps cohérents et écrit des phrases correctes."
+    ],
+    "action": 7
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item par écrit et laisse quinze minutes de travail individuel.",
+     "app": "Chaque apprenant rédige sa lettre sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, relève les bonnes productions et fait corriger les erreurs.",
+     "app": "Quelques apprenants lisent leur travail ; les autres complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : La rédaction d’une lettre privée",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Une lettre privée est un message écrit par une personne (l’émetteur) à une personne qu’elle connaît bien (le destinataire), pour donner ou demander des nouvelles."
+   },
+   {
+    "type": "h",
+    "text": "1- La structure d’une lettre privée"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Élément",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "Le lieu et la date",
+      "Dolisie, le 20 février 2026"
+     ],
+     [
+      "La formule d’appel",
+      "Mon cher Patrick,"
+     ],
+     [
+      "Le contenu",
+      "les nouvelles, le récit, les questions"
+     ],
+     [
+      "La formule de politesse",
+      "Ton ami qui pense à toi,"
+     ],
+     [
+      "La signature",
+      "Gildas"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Les caractéristiques de la lettre privée"
+   },
+   {
+    "type": "list",
+    "items": [
+     "L’émetteur écrit à un destinataire qu’il connaît : on emploie « je » et « tu ».",
+     "Le langage est simple et familier.",
+     "Les phrases sont variées : déclaratives, interrogatives, impératives, exclamatives.",
+     "Les verbes sont à l’indicatif (présent, passé composé) ou à l’impératif.",
+     "Les mots de liaison relient les idées : ensuite, mais, aussi."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Une lettre privée",
+    "text": "Dolisie, le 20 février 2026\n\nMon cher Patrick,\n\nComment vas-tu ? Moi, je vais très bien et toute la famille aussi. Je t’écris pour te raconter mon séjour chez oncle Paul. Nous avons visité la forêt et pêché au bord de la rivière. J’ai aussi appris à préparer le poisson à la braise. Ensuite, nous avons joué au football avec les cousins. Mais je n’ai pas oublié mes devoirs ! Écris-moi vite et dis-moi ce que tu deviens. Embrasse tes parents pour moi.\n\nTon ami qui pense à toi,\nGildas"
+   },
+   {
+    "type": "ex",
+    "text": "Dans la lettre : objet : raconter un séjour ; émetteur : Gildas ; destinataire : Patrick ; mots de liaison : ensuite, mais, aussi ; phrase impérative : « Écris-moi vite »."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Une lettre privée comprend : le lieu et la date, la formule d’appel, le contenu, la formule de politesse et la signature.",
+     "Elle est écrite dans un langage simple, avec « je » et « tu ».",
+     "On y trouve des phrases variées et des mots de liaison."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’indique le type de chacune de ces phrases tirées de lettres privées.",
+    "items": [
+     "Comment vas-tu ?",
+     "Je suis très content de mes vacances.",
+     "Écris-moi vite.",
+     "Quelle belle surprise !"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète chaque phrase avec le mot de liaison qui convient : ensuite – car – mais.",
+    "items": [
+     "J’ai visité le marché avec mon père, ……… nous avons mangé au restaurant.",
+     "Je n’ai pas pu t’écrire plus tôt, ……… j’étais malade.",
+     "Je voudrais venir te voir, ……… ma mère refuse."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris à un cousin une lettre privée de cinq ou six phrases pour lui raconter mes vacances.",
+    "items": [
+     "Le lieu, la date et la formule d’appel",
+     "Le contenu : deux ou trois idées, une question",
+     "La formule de politesse et la signature"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : phrase interrogative ; phrase déclarative ; phrase impérative ; phrase exclamative.",
+  "Exercice 2 : ensuite ; car ; mais.",
+  "Exercice 3 : réponse libre. Vérifier le lieu et la date, la formule d’appel, au moins deux idées avec un mot de liaison, une question, la formule de politesse et la signature.",
+  "Évaluation : 2 points pour les éléments de la structure ; 3 points pour les idées et les mots de liaison ; 1 point pour « je » et « tu » et les temps ; 2 points pour la correction de la langue."
+ ]
+}

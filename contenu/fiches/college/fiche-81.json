@@ -1,0 +1,297 @@
+{
+ "id": 10081,
+ "meta": {
+  "t": "Le pluriel des noms composés : nom + adjectif qualificatif",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "a",
+  "r": 4.8,
+  "fn": 81,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.2 : Le pluriel des noms composés : nom + adjectif qualificatif",
+  "codeMatrice": "MF5.2.2",
+  "categorie": "Le pluriel des noms",
+  "savoirEssentiel": "Le pluriel des noms composés : nom + adjectif qualificatif",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative au pluriel des noms.",
+  "situation": "Zola a lu l’article d’un journal et y a trouvé des noms composés suivants : chou-fleur ; coffre-fort ; timbre-poste ; parti pris ; chef-lieu. Il décide alors de construire des phrases en utilisant ces noms composés au pluriel. Mais il ne parvient pas à le faire. Il se rapproche alors de Boto, sa cousine, enseignante dans un collège de la place pour solliciter son aide. Cette dernière lui donne des phrases à partir desquelles il va travailler sur le pluriel des noms composés.",
+  "numero": 9,
+  "date": "",
+  "duree": "1 h",
+  "support": "Phrases écrites au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un adjectif qualificatif ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un mot qui donne une précision sur un nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment forme-t-on le pluriel d’un adjectif comme « beau » ou « fort » ?",
+     "app": "Les apprenants répondent :\nR2 : On ajoute un s ou un x : beaux, forts."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un nom composé ? Donne un exemple.",
+     "app": "Les apprenants répondent :\nR3 : C’est un nom formé de plusieurs mots réunis par un trait d’union. Exemple : chou-fleur."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Zola, qui a lu dans un journal des noms composés comme chou-fleur, coffre-fort ou timbre-poste."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Zola rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il ne parvient pas à construire des phrases avec ces noms composés au pluriel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Il demande l’aide de sa cousine Boto, enseignante, qui lui donne des phrases pour travailler."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Zola, nous allons apprendre à former le pluriel des noms composés formés d’un nom et d’un adjectif qualificatif.",
+     "app": "Les apprenants expriment le besoin d’apprendre à former le pluriel des noms composés : nom + adjectif qualificatif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire les phrases proposées.",
+    "Identifier les noms contenus dans ces phrases.",
+    "Observer les noms identifiés.",
+    "Dégager la composition de ces noms.",
+    "Distinguer les noms simples des noms composés.",
+    "Indiquer la nature de chaque élément du nom composé.",
+    "Relever parmi ces noms composés, ceux qui sont formés d’un nom et d’un adjectif qualificatif.",
+    "Découvrir les règles de formation du pluriel des noms composés formés d’un nom et d’un adjectif qualificatif.",
+    "Expliquer l’accord de chaque nom relevé.",
+    "Appliquer dans des phrases le pluriel des noms composés : nom + adjectif qualificatif."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Le gardien ouvre le coffre-fort de la banque.\n2. Mon beau-frère élève des poules dans la basse-cour.\n3. Les enfants lancent un cerf-volant dans le champ.\n4. Ma belle-sœur prépare un repas.\n5. Zola achète un chou-fleur au marché.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’identifier les noms contenus dans ces phrases.\nQ1 : Quels noms trouve-t-on dans ces phrases ?",
+     "app": "Les apprenants soulignent les noms dans leur cahier, puis les citent.\nR1 : Gardien ; coffre-fort ; banque ; beau-frère ; poules ; basse-cour ; enfants ; cerf-volant ; champ ; belle-sœur ; repas ; Zola ; chou-fleur ; marché."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande d’observer les noms identifiés.\nQ2 : Que remarques-tu dans l’écriture de coffre-fort, beau-frère, basse-cour, cerf-volant et belle-sœur ?",
+     "app": "Les apprenants observent l’écriture de ces noms.\nR2 : Ils sont formés de deux mots reliés par un trait d’union."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de dégager la composition de ces noms.\nQ3 : De quoi sont composés ces noms ?",
+     "app": "Les apprenants décomposent chaque nom.\nR3 : Coffre + fort, beau + frère, basse + cour, cerf + volant, belle + sœur, chou + fleur."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de distinguer les noms simples des noms composés.\nQ4 : Quels sont les noms composés ?",
+     "app": "Les apprenants classent les noms.\nR4 : Coffre-fort, beau-frère, basse-cour, cerf-volant, belle-sœur et chou-fleur. Les autres sont des noms simples."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’indiquer la nature de chaque élément du nom composé.\nQ5 : Quelle est la nature de chaque élément ?",
+     "app": "Les apprenants donnent la nature de chaque mot.\nR5 : Coffre (nom) + fort (adjectif) ; beau (adjectif) + frère (nom) ; basse (adjectif) + cour (nom) ; cerf (nom) + volant (adjectif) ; belle (adjectif) + sœur (nom) ; chou (nom) + fleur (nom)."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de relever les noms composés formés d’un nom et d’un adjectif qualificatif.\nQ6 : Quels noms composés sont formés d’un nom et d’un adjectif qualificatif ?",
+     "app": "Les apprenants relèvent ces noms composés.\nR6 : Coffre-fort ; beau-frère ; basse-cour ; cerf-volant ; belle-sœur. Chou-fleur est formé de deux noms."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant écrit au tableau : des coffres-forts, des beaux-frères, des basses-cours, des cerfs-volants, des belles-sœurs, et demande de découvrir la règle.\nQ7 : Que remarques-tu au pluriel de ces noms composés ?",
+     "app": "Les apprenants comparent le singulier et le pluriel et formulent la règle.\nR7 : Le nom et l’adjectif prennent tous les deux la marque du pluriel."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande d’expliquer l’accord de chaque nom relevé.\nQ8 : Pourquoi l’adjectif prend-il la marque du pluriel ?",
+     "app": "Les apprenants expliquent l’accord de chaque mot.\nR8 : Parce que l’adjectif s’accorde avec le nom, comme dans un groupe nominal : des coffres-forts, des beaux-frères. Beau devient beaux."
+    },
+    {
+     "a": 10,
+     "ens": "L’enseignant demande d’appliquer le pluriel des noms composés : nom + adjectif qualificatif dans des phrases.\nQ9 : Mets au pluriel : « Mon beau-frère élève des poules dans la basse-cour. »",
+     "app": "Les apprenants écrivent les phrases au pluriel sur leur ardoise, puis les corrigent ensemble.\nR9 : Mes beaux-frères élèvent des poules dans les basses-cours."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le pluriel des noms composés formés d’un nom et d’un adjectif qualificatif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle est la règle ?",
+     "app": "Les apprenants répondent :\nR2 : Le nom et l’adjectif prennent tous les deux la marque du pluriel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Donne un exemple.",
+     "app": "Les apprenants répondent :\nR3 : Un coffre-fort, des coffres-forts."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris au pluriel chacun des noms composés suivants.",
+    "situation": "Tu aides Zola à construire ses phrases avec des noms composés au pluriel.",
+    "criteres": [
+     "Il écrit « des coffres-forts ».",
+     "Il écrit « des cerfs-volants ».",
+     "Il écrit « des basses-cours ».",
+     "Il écrit « des beaux-frères »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les noms au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. un coffre-fort\n2. un cerf-volant\n3. une basse-cour\n4. un beau-frère",
+     "app": "Chaque apprenant écrit les quatre noms au pluriel."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Orthographe : Le pluriel des noms composés : nom + adjectif qualificatif",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un nom composé peut être formé d’un nom et d’un adjectif qualificatif, reliés par un trait d’union."
+   },
+   {
+    "type": "h",
+    "text": "La règle du pluriel"
+   },
+   {
+    "type": "p",
+    "text": "Le nom et l’adjectif prennent tous les deux la marque du pluriel. L’adjectif s’accorde avec le nom."
+   },
+   {
+    "type": "ex",
+    "text": "un coffre-fort → des coffres-forts ; une basse-cour → des basses-cours"
+   },
+   {
+    "type": "nb",
+    "text": "L’adjectif beau devient beaux au pluriel : un beau-frère, des beaux-frères."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Singulier",
+     "Composition",
+     "Pluriel"
+    ],
+    "rows": [
+     [
+      "un coffre-fort",
+      "nom + adjectif",
+      "des coffres-forts"
+     ],
+     [
+      "un cerf-volant",
+      "nom + adjectif",
+      "des cerfs-volants"
+     ],
+     [
+      "une basse-cour",
+      "adjectif + nom",
+      "des basses-cours"
+     ],
+     [
+      "un beau-frère",
+      "adjectif + nom",
+      "des beaux-frères"
+     ],
+     [
+      "une belle-sœur",
+      "adjectif + nom",
+      "des belles-sœurs"
+     ]
+    ]
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Certains noms composés sont formés d’un nom et d’un adjectif.",
+     "Au pluriel, le nom et l’adjectif varient tous les deux.",
+     "L’adjectif s’accorde comme dans un groupe nominal.",
+     "Beau devient beaux : des beaux-frères."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Phrases à lire",
+    "text": "Le gardien ouvre le coffre-fort de la banque.\nMon beau-frère élève des poules dans la basse-cour.\nLes enfants lancent un cerf-volant dans le champ.\nMa belle-sœur prépare un repas."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le nom et j’entoure l’adjectif dans chaque nom composé.",
+    "items": [
+     "un coffre-fort",
+     "une basse-cour",
+     "un cerf-volant",
+     "une belle-sœur"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris chaque nom composé au pluriel.",
+    "items": [
+     "un beau-père",
+     "une belle-fille",
+     "un fer-blanc",
+     "une longue-vue"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je recopie chaque phrase en mettant au pluriel le groupe souligné.",
+    "items": [
+     "Le cerf-volant est dans le ciel.",
+     "Mon beau-frère travaille à Pointe-Noire.",
+     "Ma belle-sœur cuisine."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : coffre (nom) – fort (adjectif) ; basse (adjectif) – cour (nom) ; cerf (nom) – volant (adjectif) ; belle (adjectif) – sœur (nom).",
+  "Exercice 2 : des beaux-pères ; des belles-filles ; des fers-blancs ; des longues-vues.",
+  "Exercice 3 : Les cerfs-volants sont dans le ciel. Mes beaux-frères travaillent à Pointe-Noire. Mes belles-sœurs cuisinent.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par nom composé bien écrit (4 points)."
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "id": 10084,
+ "meta": {
+  "t": "Le pluriel des noms en -s",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "e",
+  "r": 4.8,
+  "fn": 84,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "titre": "Fiche d’exploitation de la matrice MF6.3.1 : Le pluriel des noms en -s",
+  "codeMatrice": "MF6.3.1",
+  "categorie": "Les règles d’accord",
+  "savoirEssentiel": "Le pluriel des noms en -s",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’application des règles d’accord.",
+  "situation": "Charlotte se prépare au concours d’entrée à l’ENI. La dictée est l’une des épreuves du concours. Les accords lui posent un problème. Pour éviter d’obtenir une mauvaise note, elle prend conseil auprès de Charles qui la prépare à cette épreuve en lui donnant beaucoup d’exercices sur les règles d’accord. Après cet entraînement, Charlotte est amenée à appliquer les règles d’accord apprises dans la dictée proposée au concours.",
+  "numero": 11,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.3.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Comment forme-t-on le pluriel d’un nom en général ?",
+     "app": "Les apprenants répondent :\nR1 : On ajoute un s au nom : un livre, des livres."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Un nom est-il au singulier ou au pluriel dans « les élèves » ?",
+     "app": "Les apprenants répondent :\nR2 : Il est au pluriel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce que le nombre d’un nom ?",
+     "app": "Les apprenants répondent :\nR3 : C’est le fait qu’il désigne un seul être (singulier) ou plusieurs (pluriel)."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Charlotte, qui se prépare au concours d’entrée à l’ENI dont la dictée est l’une des épreuves."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Charlotte rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Les accords lui posent un problème."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle prend conseil auprès de Charles, qui la prépare en lui donnant beaucoup d’exercices sur les règles d’accord."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Charlotte, nous allons apprendre à écrire correctement le pluriel des noms qui se terminent par -s.",
+     "app": "Les apprenants expriment le besoin d’apprendre à écrire correctement le pluriel des noms qui se terminent par -s."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte support proposé par l’enseignant.",
+    "Repérer/Souligner les noms en -s.",
+    "Indiquer le nombre (singulier ou pluriel) de chaque nom en -s souligné.",
+    "Dégager la règle d’accord des noms qui se terminent par -s au singulier Mettre au pluriel les noms en -s contenus dans le texte.",
+    "Appliquer la même règle en accordant les autres noms en -s proposés par l’enseignant dans un autre texte."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Le fils de Charles aime le riz.\n2. Le pays de Charlotte est beau.\n3. Mon frère lève un bras.\n4. J’ai mangé du maïs au repas.\n5. Le tapis est dans le salon.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer/Souligner les noms en -s.\nQ1 : Quels sont les noms en -s ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Fils ; riz ; pays ; bras ; maïs ; repas ; tapis."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de indiquer le nombre (singulier ou pluriel) de chaque nom en -s souligné.\nQ2 : Quel est le nombre de ces noms dans le texte ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : Ils sont tous au singulier, bien qu’ils se terminent par -s ou -z."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de dégager la règle d’accord des noms qui se terminent par -s au singulier Mettre au pluriel les noms en -s contenus dans le texte.\nQ3 : Quel est le pluriel de ces noms ?\nQ4 : Que remarque-t-on ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Des fils, des riz, des pays, des bras, des maïs, des repas, des tapis.\nR4 : Les noms qui se terminent par -s, -x ou -z au singulier ne changent pas au pluriel."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de appliquer la même règle en accordant les autres noms en -s proposés par l’enseignant dans un autre texte.\nQ5 : Écris au pluriel : un pays ; le repas ; un tapis ; le fils.",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR5 : Des pays ; les repas ; des tapis ; les fils."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le pluriel des noms en -s."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle est la règle ?",
+     "app": "Les apprenants répondent :\nR2 : Un nom qui se termine par -s au singulier ne change pas au pluriel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Donne un exemple.",
+     "app": "Les apprenants répondent :\nR3 : Un repas, des repas."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris chaque nom au pluriel : un fils ; le pays ; un tapis ; le repas ; un bras.",
+    "situation": "Tu aides Charlotte à appliquer les règles d’accord dans la dictée du concours.",
+    "criteres": [
+     "Il écrit « des fils ».",
+     "Il écrit « les pays ».",
+     "Il écrit « des tapis ».",
+     "Il écrit « les repas » et « des bras »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit l’item au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Orthographe : Le pluriel des noms en -s",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un nom qui se termine par -s au singulier garde la même forme au pluriel."
+   },
+   {
+    "type": "ex",
+    "text": "un fils, des fils ; un pays, des pays ; un repas, des repas"
+   },
+   {
+    "type": "nb",
+    "text": "Les noms en -x ou -z ne changent pas non plus : une voix, des voix ; un nez, des nez."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Singulier",
+     "Pluriel"
+    ],
+    "rows": [
+     [
+      "un fils",
+      "des fils"
+     ],
+     [
+      "un pays",
+      "des pays"
+     ],
+     [
+      "un tapis",
+      "des tapis"
+     ],
+     [
+      "un riz",
+      "des riz"
+     ]
+    ]
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un nom en -s ne change pas au pluriel.",
+     "Les noms en -x ou -z non plus.",
+     "Seul l’article ou le déterminant montre le nombre."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les noms qui se terminent par -s ou -z.",
+    "items": [
+     "Le fils aime le riz.",
+     "Mon pays est beau.",
+     "Il ouvre la porte."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris les noms au pluriel.",
+    "items": [
+     "un repas",
+     "le bras",
+     "un tapis",
+     "mon fils"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je mets les phrases au pluriel.",
+    "items": [
+     "Le pays est grand.",
+     "Le tapis est neuf."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : fils, riz ; pays.",
+  "Exercice 2 : des repas ; les bras ; des tapis ; mes fils.",
+  "Exercice 3 : Les pays sont grands. Les tapis sont neufs.",
+  "Évaluation : un point par nom bien écrit (5 points)."
+ ]
+}

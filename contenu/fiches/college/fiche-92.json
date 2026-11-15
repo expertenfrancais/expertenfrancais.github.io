@@ -1,0 +1,250 @@
+{
+ "id": 10092,
+ "meta": {
+  "t": "Le sujet",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 92,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.4 : Le sujet",
+  "codeMatrice": "MF6.2.4",
+  "categorie": "Les fonctions du nom",
+  "savoirEssentiel": "Le sujet",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’analyse du nom.",
+  "situation": "Jicette participe à un test de recrutement pour être réceptionniste dans un hôtel de la place. Elle fait partie des dix candidats qui ont obtenu 14 de moyenne. Cependant, l’hôtel n’a besoin que de deux personnes pour le poste. Pour départager les candidats, la direction fait passer un second test de culture générale. Jicette n’est pas retenue parce qu’elle n’a pas pu répondre aux questions portant sur les fonctions du nom. Son frère Djoudjou, déçu de l’échec de sa sœur, la prépare à la prochaine campagne de recrutement prévue à la fin de l’année en travaillant avec elle sur l’analyse grammaticale. Il lui demande d’indiquer la fonction des noms soulignés dans le texte. Jicette se met ainsi à donner la fonction des mots soulignés dans le texte qui lui est proposé.",
+  "numero": 19,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.4 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un verbe ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un mot qui exprime une action ou un état et qui se conjugue."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un nom ? Donne un exemple.",
+     "app": "Les apprenants répondent :\nR2 : Un nom désigne une personne, un animal, une chose ou une idée. Exemple : directeur."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce que le genre et le nombre d’un nom ?",
+     "app": "Les apprenants répondent :\nR3 : Le genre est masculin ou féminin ; le nombre est singulier ou pluriel."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Jicette, qui participe à un test de recrutement pour devenir réceptionniste dans un hôtel."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Pourquoi Jicette n’est-elle pas retenue ?",
+     "app": "Les apprenants répondent :\nR2 : Elle n’est pas retenue parce qu’elle n’a pas su répondre aux questions sur les fonctions du nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait son frère pour l’aider ?",
+     "app": "Les apprenants répondent :\nR3 : Son frère Djoudjou la prépare au prochain recrutement en travaillant avec elle sur l’analyse grammaticale."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Jicette, nous allons apprendre à reconnaître et analyser le sujet du verbe.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et analyser le sujet du verbe."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte support proposé par l’enseignant.",
+    "Repérer les noms soulignés dans le texte.",
+    "Donner - la classe grammaticale des mots soulignés ; - le genre et le nombre des mots soulignés ; - la fonction du nom dans le texte.",
+    "Analyser les différents noms soulignés.",
+    "Rappeler les étapes réalisées pour analyser un nom ou pour donner sa fonction.",
+    "Appliquer la même démarche pour analyser les autres mots proposés."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. La réceptionniste accueille les clients.\n2. Les candidats attendent dans le hall.\n3. Jicette répond aux questions.\n4. Le directeur de l’hôtel choisit deux personnes.\n5. Le test commence à huit heures.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer les noms soulignés dans le texte.\nQ1 : Quel est le sujet de chaque verbe ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : La réceptionniste ; les candidats ; Jicette ; le directeur de l’hôtel ; le test. Les noms soulignés sont : réceptionniste, candidats, Jicette, directeur, test."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de donner la classe grammaticale des mots soulignés, puis le genre et le nombre des mots soulignés, puis la fonction du nom dans le texte.\nQ2 : Quelle est la classe, le genre et le nombre de chaque nom souligné ? Quelle est sa fonction ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : Réceptionniste : nom commun, féminin singulier ; candidats : nom commun, masculin pluriel ; Jicette : nom propre, féminin singulier ; directeur : nom commun, masculin singulier ; test : nom commun, masculin singulier. Tous ont la fonction sujet."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de analyser les différents noms soulignés.\nQ3 : Comment analyse-t-on le nom « candidats » dans la phrase 2 ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : « Candidats » est un nom commun, masculin pluriel, sujet du verbe « attendent »."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de rappeler les étapes réalisées pour analyser un nom ou pour donner sa fonction.\nQ4 : Quelles étapes avons-nous suivies pour analyser un nom ?",
+     "app": "Les apprenants rappellent la démarche suivie.\nR4 : On trouve le verbe, on pose la question « qui est-ce qui ? » ou « qu’est-ce qui ? », on identifie le nom, puis on donne sa classe, son genre, son nombre et sa fonction."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de appliquer la même démarche pour analyser les autres mots proposés.\nQ5 : Analyse le nom souligné : « Le client signe le registre. »",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR5 : « Client » est un nom commun, masculin singulier, sujet du verbe « signe »."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La fonction sujet du nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment trouve-t-on le sujet ?",
+     "app": "Les apprenants répondent :\nR2 : On pose la question « qui est-ce qui ? » ou « qu’est-ce qui ? » devant le verbe."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que donne-t-on pour analyser un nom ?",
+     "app": "Les apprenants répondent :\nR3 : Sa classe, son genre, son nombre et sa fonction."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Analyse le nom sujet de chaque phrase : donne sa classe, son genre, son nombre et sa fonction.",
+    "situation": "Tu aides Jicette à indiquer la fonction des noms soulignés dans un texte.",
+    "criteres": [
+     "Gardien : nom commun, masculin singulier, sujet de « ferme ».",
+     "Clientes : nom commun, féminin pluriel, sujet de « attendent ».",
+     "Sœur : nom commun, féminin singulier, sujet de « travaille »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Le gardien ferme la porte.\n2. Les clientes attendent.\n3. Ma sœur travaille à l’hôtel.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le sujet",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le sujet est le mot ou le groupe de mots qui fait l’action exprimée par le verbe, ou dont on dit quelque chose. Le verbe s’accorde avec lui."
+   },
+   {
+    "type": "p",
+    "text": "Pour trouver le sujet, on pose la question « qui est-ce qui ? » ou « qu’est-ce qui ? » devant le verbe."
+   },
+   {
+    "type": "ex",
+    "text": "Les candidats attendent dans le hall. Qui est-ce qui attend ? Les candidats."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Nom",
+     "Classe, genre et nombre",
+     "Fonction"
+    ],
+    "rows": [
+     [
+      "candidats",
+      "nom commun, masculin pluriel",
+      "sujet de « attendent »"
+     ],
+     [
+      "Jicette",
+      "nom propre, féminin singulier",
+      "sujet de « répond »"
+     ],
+     [
+      "test",
+      "nom commun, masculin singulier",
+      "sujet de « commence »"
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Le sujet se place le plus souvent avant le verbe."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le sujet fait l’action ou porte l’état exprimé par le verbe.",
+     "On le trouve avec « qui est-ce qui ? ».",
+     "Pour analyser un nom : classe, genre, nombre, fonction."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe et j’entoure le sujet.",
+    "items": [
+     "Les enfants jouent dans la cour.",
+     "Le maître corrige les cahiers.",
+     "Ma tante prépare le repas."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je donne la classe, le genre et le nombre du nom sujet.",
+    "items": [
+     "La directrice arrive.",
+     "Les élèves chantent.",
+     "Fatou lit un livre."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase avec chaque sujet.",
+    "items": [
+     "les clients",
+     "ma sœur",
+     "le train"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : jouent / les enfants ; corrige / le maître ; prépare / ma tante.",
+  "Exercice 2 : directrice : nom commun, féminin singulier ; élèves : nom commun, masculin ou féminin pluriel ; Fatou : nom propre, féminin singulier.",
+  "Exercice 3 : réponses libres. Exemples : Les clients attendent. Ma sœur lit. Le train arrive.",
+  "Évaluation : un point par analyse correcte (3 points)."
+ ]
+}

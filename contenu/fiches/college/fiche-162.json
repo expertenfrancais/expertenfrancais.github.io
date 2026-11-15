@@ -1,0 +1,257 @@
+{
+ "id": 10162,
+ "meta": {
+  "t": "La rédaction de l’introduction",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "e",
+  "r": 4.8,
+  "fn": 162,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF6.7.1 : La rédaction de l’introduction",
+  "codeMatrice": "MF6.7.1",
+  "categorie": "La méthodologie de la rédaction",
+  "savoirEssentiel": "La rédaction de l’introduction",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’application de la méthodologie de la rédaction.",
+  "situation": "Mireille veut passer un test dans une société de la place pour être technicienne de surface. Elle est tendue parce que le test porte sur un sujet de rédaction dont elle ne maîtrise pas la méthodologie. Sa sœur Magalie, préoccupée par cette situation, lui propose des sujets de rédaction des anciennes sessions du CEPE afin qu’elles les traitent ensemble. Elle lui donne ensuite un autre sujet sur lequel Mireille va travailler en suivant la démarche apprise. Après ces séances, la future technicienne de surface se met à traiter d’autres sujets pour mieux assimiler la méthodologie.",
+  "numero": 51,
+  "date": "",
+  "duree": "2 h",
+  "support": "Sujet et introduction écrits au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.7.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un paragraphe ?",
+     "app": "Les apprenants répondent :\nR1 : C’est une partie de texte formée de plusieurs phrases sur une même idée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les trois grandes parties d’une rédaction ?",
+     "app": "Les apprenants répondent :\nR2 : L’introduction, le développement et la conclusion."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment analyse-t-on un sujet avant de l’écrire ?",
+     "app": "Les apprenants répondent :\nR3 : On le délimite, on souligne les mots importants, on dégage le thème, on examine la consigne et on définit l’objectif."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : Mireille, qui veut passer un test dans une société pour être technicienne de surface."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Le test porte sur un sujet de rédaction, et elle ne maîtrise pas la méthodologie."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Sa sœur Magalie lui propose des sujets des anciennes sessions du CEPE à traiter ensemble, puis un autre sujet sur lequel Mireille travaille seule avec la démarche apprise."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider le personnage, nous allons étudier la rédaction de l’introduction.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons apprendre à rédiger une introduction."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire - le sujet proposé par l’enseignant ; - l’introduction proposée.",
+    "Relever dans l’introduction proposée : - le contexte général ; - le problème posé dans le sujet ; - l’annonce du plan.",
+    "Indiquer la structure de l’introduction (les trois différentes parties).",
+    "Rappeler les éléments constitutifs de l’introduction.",
+    "Rédiger une introduction à partir du sujet proposé par l’enseignant."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le sujet et l’introduction proposée au tableau, les lit, puis demande une lecture silencieuse.",
+     "texte": "Sujet : Pendant les vacances, ta famille a rendu visite à ta grand-mère au village. Raconte cette visite.\nChaque année, pendant les grandes vacances, beaucoup de familles quittent la ville pour rendre visite à leurs parents restés au village. Cette année, c’est à mon tour de découvrir le village de ma grand-mère. Je raconterai d’abord notre voyage, puis notre séjour auprès d’elle, enfin notre retour en ville.",
+     "app": "Les apprenants lisent silencieusement le sujet et l’introduction, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "ens": "L’enseignant demande de relever dans l’introduction :\nQ1 : Quelle phrase présente le contexte général ?",
+     "app": "Les apprenants répondent :\nR1 : « Chaque année, pendant les grandes vacances, beaucoup de familles quittent la ville pour rendre visite à leurs parents restés au village. »",
+     "a": 2
+    },
+    {
+     "ens": "L’enseignant poursuit :\nQ2 : Quelle phrase pose le problème du sujet ?",
+     "app": "Les apprenants relèvent la phrase et répondent :\nR2 : « Cette année, c’est à mon tour de découvrir le village de ma grand-mère. »"
+    },
+    {
+     "ens": "L’enseignant poursuit :\nQ3 : Quelle phrase annonce le plan ?",
+     "app": "Les apprenants relèvent la phrase et répondent :\nR3 : « Je raconterai d’abord notre voyage, puis notre séjour auprès d’elle, enfin notre retour en ville. »"
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer la structure de l’introduction :\nQ4 : Combien de parties l’introduction comporte-t-elle ? Lesquelles ?",
+     "app": "Les apprenants répondent :\nR4 : Trois parties : le contexte général, le problème posé, l’annonce du plan.",
+     "a": 3
+    },
+    {
+     "ens": "L’enseignant demande de rappeler les éléments constitutifs de l’introduction :\nQ5 : Que doit contenir une introduction ?",
+     "app": "Les apprenants formulent, puis l’enseignant écrit au tableau :\nR5 : Le contexte général qui amène le sujet ; le problème posé, c’est-à-dire ce que l’on va raconter ; l’annonce du plan. Elle forme un seul paragraphe de trois ou quatre phrases.",
+     "a": 4
+    },
+    {
+     "ens": "L’enseignant donne un nouveau sujet : « Un dimanche, tu as participé à un match de football avec les enfants de ton quartier. Raconte ce match. » Il fait rédiger l’introduction en groupes, puis individuellement.",
+     "app": "Les apprenants rédigent l’introduction en respectant les trois parties, puis quelques-uns la lisent. Proposition retenue : « Le football est le sport préféré des enfants de mon quartier. Dimanche dernier, nous avons disputé un match contre l’équipe du quartier voisin. Je raconterai d’abord l’avant-match, puis le déroulement de la partie, enfin la fin du match. »",
+     "a": 5
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : La rédaction de l’introduction."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les trois parties de l’introduction ?",
+     "app": "Les apprenants répondent :\nR2 : Le contexte général, le problème posé et l’annonce du plan."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment doit être l’introduction ?",
+     "app": "Les apprenants répondent :\nR3 : Un seul paragraphe court de trois ou quatre phrases, qui ne raconte pas encore l’histoire."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Rédige l’introduction du sujet suivant : « Le jour de la rentrée, tu as retrouvé tes camarades de classe. Raconte cette journée. »",
+    "situation": "Mireille s’exerce à rédiger l’introduction d’un sujet.",
+    "criteres": [
+     "Elle comporte les trois parties : contexte général, problème posé, annonce du plan.",
+     "Elle forme un seul paragraphe de trois ou quatre phrases correctes.",
+     "Le plan annoncé correspond au sujet."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item par écrit et laisse dix minutes de travail individuel.",
+     "app": "Chaque apprenant rédige son introduction sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, relève les bonnes productions et fait corriger les erreurs.",
+     "app": "Quelques apprenants lisent leur introduction ; les autres complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : La rédaction de l’introduction",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "L’introduction est la première partie d’une rédaction. Elle présente le sujet au lecteur et lui dit comment on va le traiter."
+   },
+   {
+    "type": "h",
+    "text": "1- Les trois parties de l’introduction"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Partie",
+     "Rôle",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "Le contexte général",
+      "Amener le sujet",
+      "Chaque année, beaucoup de familles rendent visite à leurs parents au village."
+     ],
+     [
+      "Le problème posé",
+      "Dire ce dont on va parler",
+      "Cette année, c’est à mon tour de découvrir le village de ma grand-mère."
+     ],
+     [
+      "L’annonce du plan",
+      "Dire dans quel ordre on va raconter",
+      "Je raconterai d’abord le voyage, puis le séjour, enfin le retour."
+     ]
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Une introduction",
+    "text": "Chaque année, pendant les grandes vacances, beaucoup de familles quittent la ville pour rendre visite à leurs parents restés au village. Cette année, c’est à mon tour de découvrir le village de ma grand-mère. Je raconterai d’abord notre voyage, puis notre séjour auprès d’elle, enfin notre retour en ville."
+   },
+   {
+    "type": "nb",
+    "text": "L’introduction forme un seul paragraphe de trois ou quatre phrases. On n’y raconte pas encore l’histoire."
+   },
+   {
+    "type": "ex",
+    "text": "Pour le sujet « Raconte une visite au village », le contexte général est : « Chaque année, beaucoup de familles quittent la ville pour rendre visite à leurs parents restés au village. »"
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "L’introduction comporte trois parties : le contexte général, le problème posé, l’annonce du plan.",
+     "Elle forme un seul paragraphe court.",
+     "Elle prépare le développement sans le raconter."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève, dans cette introduction, le contexte général, le problème posé et l’annonce du plan.",
+    "texte": "À Brazzaville, la saison des pluies commence en octobre. Un jour, en rentrant de l’école, j’ai été surpris par un orage violent. Je dirai d’abord où je me trouvais, ensuite comment j’ai cherché un abri, enfin comment l’orage s’est terminé.",
+    "items": [
+     "Le contexte général",
+     "Le problème posé",
+     "L’annonce du plan"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Sujet : « Raconte ta première visite au grand marché. » Je range ces phrases pour former une introduction.",
+    "items": [
+     "Je raconterai d’abord notre départ, ensuite notre promenade entre les étals, enfin notre retour.",
+     "Dimanche dernier, ma mère m’a emmené au grand marché pour la première fois.",
+     "Le marché est un lieu où les habitants d’une ville viennent vendre et acheter."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je rédige l’introduction du sujet : « Le jour de ton anniversaire, tes amis t’ont fait une surprise. Raconte. »",
+    "items": [
+     "Une phrase pour le contexte général",
+     "Une phrase pour le problème posé",
+     "Une phrase pour l’annonce du plan"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : contexte général : « À Brazzaville, la saison des pluies commence en octobre. » ; problème posé : « Un jour, en rentrant de l’école, j’ai été surpris par un orage violent. » ; annonce du plan : « Je dirai d’abord où je me trouvais… enfin comment l’orage s’est terminé. »",
+  "Exercice 2 : ordre : Le marché est un lieu… ; Dimanche dernier, ma mère… ; Je raconterai d’abord…",
+  "Exercice 3 : réponse libre. Exemple : Fêter son anniversaire est toujours un moment de joie. Le jour du mien, mes amis m’ont préparé une surprise. Je raconterai d’abord leur arrivée, puis la surprise, enfin la fin de la fête.",
+  "Évaluation : 1 point par partie correcte (contexte, problème, plan) et 1 point pour la correction de la langue."
+ ]
+}

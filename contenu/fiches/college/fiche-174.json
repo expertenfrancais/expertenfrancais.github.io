@@ -1,0 +1,301 @@
+{
+ "id": 10174,
+ "meta": {
+  "t": "Le message électronique",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "c",
+  "r": 4.8,
+  "fn": 174,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF6.7.2 : Le message électronique",
+  "codeMatrice": "MF6.7.2",
+  "categorie": "La production de textes",
+  "savoirEssentiel": "Le message électronique",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à la rédaction des supports écrits.",
+  "situation": "Guy achète une bande dessinée contenant plusieurs images. Fasciné, il veut rédiger des textes pour les faire parler et faciliter leur compréhension. Malheureusement, il n’en maîtrise pas la technique. Il consulte son ami Abolo qui lui explique la démarche à suivre pour parvenir à la rédaction des textes. Grâce à de nombreux exercices, Guy s’imprègne de la technique et se met à rédiger des textes.",
+  "numero": 58,
+  "date": "",
+  "duree": "2 h",
+  "support": "Page de messagerie et message écrits au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.7.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une lettre personnelle ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un message écrit à un proche (un ami, un parent) pour lui donner des nouvelles ou lui demander quelque chose."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Que permet de faire Internet ?",
+     "app": "Les apprenants répondent :\nR2 : Il permet de communiquer rapidement avec des personnes éloignées, par exemple en envoyant un message."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qui est l’expéditeur ? Qui est le destinataire ?",
+     "app": "Les apprenants répondent :\nR3 : L’expéditeur est celui qui envoie le message ; le destinataire est celui qui le reçoit."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : De Guy, qui veut rédiger des textes pour faire parler des images et faciliter leur compréhension."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il ne maîtrise pas la technique de rédaction de ces textes."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Il consulte son ami Abolo, qui lui explique la démarche, puis il s’exerce avec de nombreux exercices."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Guy, nous allons apprendre à rédiger un message électronique.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir rédiger un message électronique."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Observer la page électronique du message.",
+    "Lire le message proposé par l’enseignant.",
+    "Indiquer le type du message (lettre personnelle/administrative, demande d’emploi, de stage…).",
+    "Identifier les indices du texte (type de message) concerné : - les fenêtres du destinataire/expéditeur ; - les adresses mails ; - la formule d’appel ; - l’objet du message ; - le texte du message ; - la formule de politesse ; - la signature ; - les fichiers joints.",
+    "Remplir les fenêtres automatiques (pages web).",
+    "Relire le message.",
+    "Rédiger le message en s’inspirant des indices identifiés."
+   ],
+   "lignes": [
+    {
+     "ens": "L’enseignant dessine au tableau la page d’un message électronique et demande de l’observer.",
+     "app": "Les apprenants observent la page et nomment ce qu’ils reconnaissent (fenêtres, trombone, bouton « Envoyer »).",
+     "texte": "Nouveau message\nDe : …………………\nÀ : …………………\nObjet : …………………\nZone de texte du message : …………………\nTrombone (pour joindre un fichier) ; bouton « Envoyer »",
+     "a": 1
+    },
+    {
+     "ens": "L’enseignant écrit le message au tableau, le lit, puis demande une lecture silencieuse.",
+     "app": "Les apprenants lisent silencieusement le message, puis quelques-uns le lisent à haute voix.",
+     "texte": "De : Aude Mabiala <aude.mabiala@exemple.com>\nÀ : Marius Tsiba <marius.tsiba@exemple.com>\nObjet : Invitation à mon anniversaire\nFichier joint : plan-maison.jpg\n\nBonjour Marius,\nJ’aurai douze ans samedi prochain. Mes parents organisent une petite fête chez nous, à partir de quinze heures. Je t’invite avec plaisir. Tu trouveras en pièce jointe le plan pour venir. Réponds-moi vite pour me dire si tu viens.\nAmicalement,\nAude",
+     "a": 2
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer le type du message :\nQ1 : Quel est le type de ce message ?",
+     "app": "Les apprenants répondent :\nR1 : C’est une lettre personnelle écrite par voie électronique : Aude écrit à son camarade Marius pour l’inviter.",
+     "a": 3
+    },
+    {
+     "ens": "L’enseignant demande d’identifier les fenêtres de l’expéditeur et du destinataire et les adresses :\nQ2 : Que contiennent les fenêtres « De » et « À » ? Comment sont écrites les adresses ?",
+     "app": "Les apprenants répondent :\nR2 : La fenêtre « De » contient l’adresse d’Aude, qui envoie ; la fenêtre « À » contient l’adresse de Marius, qui reçoit. Une adresse s’écrit : un nom, le signe @, puis le nom du site.",
+     "a": 4
+    },
+    {
+     "ens": "L’enseignant demande de continuer à identifier les indices :\nQ3 : Quelle est la formule d’appel ? Quel est l’objet du message ?",
+     "app": "Les apprenants répondent :\nR3 : La formule d’appel est « Bonjour Marius, ». L’objet est « Invitation à mon anniversaire »."
+    },
+    {
+     "ens": "L’enseignant demande d’identifier le texte du message :\nQ4 : Que contient le texte du message ?",
+     "app": "Les apprenants répondent :\nR4 : Aude invite Marius à sa fête d’anniversaire de samedi, à partir de quinze heures, et lui demande de répondre vite."
+    },
+    {
+     "ens": "L’enseignant demande d’identifier la fin du message et le fichier joint :\nQ5 : Comment le message se termine-t-il ? Quel fichier est joint ?",
+     "app": "Les apprenants répondent :\nR5 : Il se termine par la formule de politesse « Amicalement, » et la signature « Aude ». Le fichier joint est plan-maison.jpg."
+    },
+    {
+     "ens": "L’enseignant présente une page vide au tableau et demande de remplir les fenêtres :\nQ6 : Que met-on dans les fenêtres « À » et « Objet » pour écrire à ton professeur de sport ?",
+     "app": "Les apprenants remplissent les fenêtres sur leur ardoise, puis répondent :\nR6 : Dans « À », on écrit l’adresse électronique du professeur. Dans « Objet », on écrit le sujet en quelques mots, par exemple « Demande d’une dispense de sport ».",
+     "texte": "De : (mon adresse)\nÀ : …………………\nObjet : …………………",
+     "a": 5
+    },
+    {
+     "ens": "L’enseignant demande de relire le message :\nQ7 : Pourquoi relit-on un message avant de l’envoyer ?",
+     "app": "Les apprenants répondent :\nR7 : Pour corriger les fautes, vérifier l’adresse du destinataire, la formule de politesse et la pièce jointe.",
+     "a": 6
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : La rédaction d’un message électronique."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels sont les éléments d’un message électronique ?",
+     "app": "Les apprenants répondent :\nR2 : L’expéditeur, le destinataire, l’objet, la formule d’appel, le texte, la formule de politesse, la signature et les fichiers joints."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-on avant d’envoyer le message ?",
+     "app": "Les apprenants répondent :\nR3 : On le relit pour corriger les erreurs."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Tu as oublié ton cahier de français à l’école. Écris un message électronique à ton camarade Jean pour lui demander de te prêter le sien (adresse de Jean : jean.nzaba@exemple.com ; la tienne : ton prénom suivi de @exemple.com).",
+    "situation": "Guy s’exerce à rédiger un message électronique.",
+    "criteres": [
+     "Il remplit correctement les fenêtres : expéditeur, destinataire, objet.",
+     "Il écrit une formule d’appel, un texte clair, une formule de politesse et une signature.",
+     "Il écrit des phrases correctes et relit son message."
+    ],
+    "action": 7
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item par écrit et laisse vingt minutes de travail individuel.",
+     "app": "Chaque apprenant rédige son message sur sa feuille, en suivant la présentation d’une page de messagerie."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, relève les bonnes productions et fait corriger les erreurs.",
+     "app": "Quelques apprenants lisent leur travail ; les autres complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : Le message électronique",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un message électronique (ou courriel) est un message écrit que l’on envoie par Internet à un destinataire. Il suit une présentation précise."
+   },
+   {
+    "type": "h",
+    "text": "1- Les éléments d’un message électronique"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Élément",
+     "Rôle"
+    ],
+    "rows": [
+     [
+      "De",
+      "l’adresse de l’expéditeur (celui qui écrit)"
+     ],
+     [
+      "À",
+      "l’adresse du destinataire (celui qui reçoit)"
+     ],
+     [
+      "Objet",
+      "le sujet du message, en quelques mots"
+     ],
+     [
+      "Formule d’appel",
+      "Bonjour Marius, Cher Marius, Bonjour Madame,"
+     ],
+     [
+      "Texte",
+      "le contenu du message, en phrases courtes"
+     ],
+     [
+      "Formule de politesse",
+      "À bientôt, Amicalement, Cordialement"
+     ],
+     [
+      "Signature",
+      "le nom de l’expéditeur"
+     ],
+     [
+      "Fichier joint",
+      "un document envoyé avec le message"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Une adresse électronique"
+   },
+   {
+    "type": "p",
+    "text": "Elle se compose d’un nom, du signe @ et du nom du site : prenom.nom@exemple.com."
+   },
+   {
+    "type": "texte",
+    "titre": "Un message électronique",
+    "text": "De : Aude Mabiala <aude.mabiala@exemple.com>\nÀ : Marius Tsiba <marius.tsiba@exemple.com>\nObjet : Invitation à mon anniversaire\nFichier joint : plan-maison.jpg\n\nBonjour Marius,\nJ’aurai douze ans samedi prochain. Mes parents organisent une petite fête chez nous, à partir de quinze heures. Je t’invite avec plaisir. Tu trouveras en pièce jointe le plan pour venir. Réponds-moi vite pour me dire si tu viens.\nAmicalement,\nAude"
+   },
+   {
+    "type": "ex",
+    "text": "Dans ce message : expéditeur : Aude ; destinataire : Marius ; objet : Invitation à mon anniversaire ; formule d’appel : Bonjour Marius ; formule de politesse : Amicalement ; fichier joint : plan-maison.jpg."
+   },
+   {
+    "type": "nb",
+    "text": "Pour écrire à une personne que l’on respecte (un enseignant, un directeur), on emploie « Cordialement » ou « Veuillez agréer mes salutations respectueuses »."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un message électronique comporte : l’expéditeur, le destinataire, l’objet, la formule d’appel, le texte, la formule de politesse, la signature et, parfois, un fichier joint.",
+     "L’objet dit en quelques mots le sujet du message.",
+     "On relit toujours son message avant de l’envoyer."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je lis ce message, puis je relève ses éléments.",
+    "texte": "De : Prisca Loemba <prisca.loemba@exemple.com>\nÀ : Kévin Moukala <kevin.moukala@exemple.com>\nObjet : Leçon de français\n\nBonjour Kévin,\nPeux-tu m’envoyer la leçon sur le groupe nominal ? Je n’ai pas pu venir en classe hier.\nMerci d’avance. À bientôt.\nPrisca",
+    "items": [
+     "L’adresse de l’expéditeur",
+     "L’adresse du destinataire",
+     "L’objet",
+     "La formule d’appel",
+     "La formule de politesse",
+     "La signature"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je remets dans l’ordre les éléments de ce message.",
+    "items": [
+     "Cordialement,",
+     "Objet : Demande d’un livre",
+     "Je voudrais emprunter le livre de contes de la bibliothèque de l’école.",
+     "Bonjour Madame,",
+     "Mireille Ngoma"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris à mon oncle un message électronique pour lui souhaiter une bonne année.",
+    "items": [
+     "L’objet",
+     "La formule d’appel",
+     "Le texte (deux phrases)",
+     "La formule de politesse et la signature"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : expéditeur : prisca.loemba@exemple.com ; destinataire : kevin.moukala@exemple.com ; objet : Leçon de français ; formule d’appel : « Bonjour Kévin, » ; formule de politesse : « À bientôt. » ; signature : Prisca.",
+  "Exercice 2 : Objet : Demande d’un livre – Bonjour Madame, – Je voudrais emprunter le livre de contes de la bibliothèque de l’école. – Cordialement, – Mireille Ngoma.",
+  "Exercice 3 : réponse libre. Exemple : Objet : Bonne année – Bonjour mon oncle, – Je te souhaite une bonne et heureuse année. Que Dieu te garde en bonne santé. – Je t’embrasse, Clara.",
+  "Évaluation : 3 points pour les fenêtres (expéditeur, destinataire, objet) ; 3 points pour la formule d’appel, le texte, la formule de politesse et la signature ; 2 points pour la correction de la langue."
+ ]
+}

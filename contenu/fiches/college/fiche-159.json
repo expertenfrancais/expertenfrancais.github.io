@@ -1,0 +1,274 @@
+{
+ "id": 10159,
+ "meta": {
+  "t": "Les caractéristiques du poème en vers libres",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Lecture",
+  "img": "b",
+  "r": 4.8,
+  "fn": 159,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Lecture",
+  "titre": "Fiche d’exploitation de la matrice MF5.1.3 : Les caractéristiques du poème en vers libres",
+  "codeMatrice": "MF5.1.3",
+  "categorie": "Le texte poétique",
+  "savoirEssentiel": "Les caractéristiques du poème en vers libres",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative au texte poétique.",
+  "situation": "Après la fermeture des classes, Larissa est appelée à Pointe-Noire par son père Gaston pour y passer les vacances de la saison sèche. Pendant son voyage en voiture, Larissa, assise à la fenêtre de la voiture, est émerveillée par la beauté du paysage qu’elle découvre pour la première fois. Elle décide, à cet effet, de rédiger un poème en vue d’immortaliser cette découverte, et surtout cette communion avec la nature. Arrivée dans la ville océane, très impatiente, elle fait lire sa production à son père. Cependant, en lisant le texte, Gaston constate que ce que sa fille pense être un poème n’en est en fait pas un. Déconcertée, elle se demande ce qu’il faut faire. Son père prend alors la résolution de lui apprendre les différents types de textes. Larissa est ainsi amenée à reconnaître le texte poétique, en s’inspirant d’un poème de Tati Loutard.",
+  "numero": 48,
+  "date": "",
+  "duree": "2 h",
+  "support": "Poème écrit au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.1.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une strophe ? Qu’est-ce qu’un vers ?",
+     "app": "Les apprenants répondent :\nR1 : Une strophe est un groupe de vers ; un vers est une ligne du poème."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’une rime ?",
+     "app": "Les apprenants répondent :\nR2 : C’est le retour du même son à la fin de deux ou plusieurs vers."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels signes de ponctuation connaissez-vous ?",
+     "app": "Les apprenants répondent :\nR3 : Le point, la virgule, le point d’interrogation, le point d’exclamation, les points de suspension."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Larissa, qui part en vacances à Pointe-Noire et qui est émerveillée par le paysage pendant le voyage."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Elle écrit un texte qu’elle croit être un poème, mais son père lui dit que ce n’en est pas un."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Son père lui apprend à reconnaître le texte poétique à partir d’un poème de Tati Loutard."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Larissa, nous allons étudier les caractéristiques du poème en vers libres.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir comment reconnaître un poème en vers libres."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire silencieusement le poème proposé.",
+    "Indiquer le nombre de strophes contenues dans le poème.",
+    "Déterminer - le nombre de vers contenus dans chaque strophe du poème ; - le nombre de syllabes contenues dans chaque vers.",
+    "Faire un commentaire sur la longueur des vers de chaque strophe.",
+    "Rechercher l’emploi de la rime dans le poème en vers libres.",
+    "Identifier les signes de ponctuation utilisés dans le poème.",
+    "Dégager le rôle de chaque signe de ponctuation.",
+    "Nommer le poème exploité.",
+    "Analyser la forme du poème en vers libres."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le poème au tableau et demande de le lire silencieusement.",
+     "texte": "Au bord du fleuve\nLe jour se lève sur le fleuve\nSilence.\nLes pêcheurs lancent leurs filets dans l’eau grise\net chantent doucement\npour réveiller les poissons.\nMoi, je regarde\nle fleuve qui s’en va vers la mer\nsans jamais s’arrêter…",
+     "app": "Les apprenants lisent silencieusement le poème, puis quelques-uns le lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’indiquer le nombre de strophes.\nQ1 : Combien de strophes le poème compte-t-il ?",
+     "app": "Les apprenants comptent, puis répondent :\nR1 : Le poème compte trois strophes."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de déterminer le nombre de vers de chaque strophe et le nombre de syllabes de chaque vers.\nQ2 : Combien de vers chaque strophe compte-t-elle ? Combien de syllabes chaque vers compte-t-il ?",
+     "app": "Les apprenants comptent vers par vers (le e muet final ne compte pas), puis répondent :\nR2 : Strophe 1 : 2 vers (8 et 2 syllabes). Strophe 2 : 3 vers (11, 6 et 7 syllabes). Strophe 3 : 3 vers (4, 9 et 6 syllabes)."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de faire un commentaire sur la longueur des vers.\nQ3 : Les vers ont-ils tous la même longueur ?",
+     "app": "Les apprenants comparent, puis répondent :\nR3 : Non : les vers sont de longueurs différentes, de 2 à 11 syllabes. Les strophes n’ont pas toutes le même nombre de vers."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de rechercher l’emploi de la rime.\nQ4 : Les vers riment-ils entre eux ?",
+     "app": "Les apprenants observent la fin des vers, puis répondent :\nR4 : Non : il n’y a pas de rime régulière (fleuve, Silence, grise, doucement, poissons, regarde, mer, arrêter)."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’identifier les signes de ponctuation utilisés.\nQ5 : Quels signes de ponctuation le poème utilise-t-il ?",
+     "app": "Les apprenants relèvent, puis répondent :\nR5 : Le point (après « Silence » et « poissons »), la virgule (après « Moi ») et les points de suspension (à la fin du poème)."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de dégager le rôle de chaque signe de ponctuation.\nQ6 : À quoi servent ces signes ?",
+     "app": "Les apprenants cherchent, puis répondent :\nR6 : Le point marque la fin d’une idée ; la virgule met en relief « Moi » ; les points de suspension laissent l’idée se prolonger comme le fleuve."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de nommer le poème exploité.\nQ7 : Comment appelle-t-on ce poème ?",
+     "app": "Les apprenants répondent :\nR7 : C’est un poème en vers libres."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande d’analyser la forme du poème en vers libres.\nQ8 : Comment la forme de ce poème se présente-t-elle ?",
+     "app": "Les apprenants synthétisent, puis répondent :\nR8 : Ce poème a des strophes de longueurs inégales, des vers de mesures différentes, pas de rime régulière, mais il garde un rythme et une ponctuation expressive."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : Les caractéristiques du poème en vers libres."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment reconnaît-on un poème en vers libres ?",
+     "app": "Les apprenants répondent :\nR2 : Les vers n’ont pas la même longueur et ne riment pas de façon régulière ; les strophes sont inégales."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : La ponctuation est-elle utile ?",
+     "app": "Les apprenants répondent :\nR3 : Oui : elle marque le rythme et met des mots en relief."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Lis le poème suivant et analyse sa forme en utilisant les caractéristiques du poème en vers libres.",
+    "situation": "Tu aides Larissa à reconnaître le poème en vers libres.",
+    "criteres": [
+     "Le poème compte une strophe de trois vers (un tercet).",
+     "Les vers ont 3, 12 et 5 syllabes : ils sont de longueurs différentes.",
+     "Il n’y a pas de rime.",
+     "Il contient une virgule, un point-virgule et un point (la ponctuation marque le rythme).",
+     "C’est donc un poème en vers libres."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le poème au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "La pluie tombe\nsur les toits, sur les arbres, sur la terre rouge ;\nle village boit.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Lecture : Les caractéristiques du poème en vers libres",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un poème en vers libres est un poème dont les vers n’ont pas la même longueur et ne riment pas de façon régulière."
+   },
+   {
+    "type": "h",
+    "text": "1- Les caractéristiques de la forme"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Caractéristique",
+     "Dans « Au bord du fleuve »"
+    ],
+    "rows": [
+     [
+      "Strophes de longueurs inégales",
+      "2 vers, 3 vers, 3 vers"
+     ],
+     [
+      "Vers de mesures différentes",
+      "de 2 à 11 syllabes"
+     ],
+     [
+      "Pas de rime régulière",
+      "fleuve / Silence / grise…"
+     ],
+     [
+      "Ponctuation expressive",
+      "le point, la virgule, les points de suspension"
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Pour compter les syllabes, on ne compte pas le e muet à la fin du vers ; on le compte devant une consonne : « lève » devant « sur » compte pour deux syllabes (lè-ve), alors que « fleuve », en fin de vers, n’en compte qu’une (fleu)."
+   },
+   {
+    "type": "texte",
+    "titre": "Poème à lire",
+    "text": "Au bord du fleuve\nLe jour se lève sur le fleuve\nSilence.\nLes pêcheurs lancent leurs filets dans l’eau grise\net chantent doucement\npour réveiller les poissons.\nMoi, je regarde\nle fleuve qui s’en va vers la mer\nsans jamais s’arrêter…"
+   },
+   {
+    "type": "ex",
+    "text": "Moi, je regarde : le vers a quatre syllabes (Moi-je-re-gar) ; il est plus court que le vers précédent."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le poème en vers libres n’a ni mesure fixe ni rime régulière.",
+     "Les vers et les strophes sont de longueurs inégales.",
+     "La ponctuation et le rythme donnent de l’expressivité au poème."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je réponds sur le poème « Au bord du fleuve ».",
+    "items": [
+     "Combien de strophes compte-t-il ?",
+     "Combien de vers compte la dernière strophe ?"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je dis si chaque affirmation est vraie ou fausse pour un poème en vers libres.",
+    "items": [
+     "Les vers ont toujours le même nombre de syllabes.",
+     "Les vers peuvent avoir des longueurs différentes.",
+     "La rime est obligatoire et régulière."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris un petit poème en vers libres de trois vers sur la saison sèche.",
+    "items": [
+     "Vers 1 : très court",
+     "Vers 2 : plus long",
+     "Vers 3 : de longueur moyenne"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : trois strophes ; la dernière strophe compte trois vers.",
+  "Exercice 2 : faux ; vrai ; faux.",
+  "Exercice 3 : réponses libres. Exemple : Le soleil / brûle la savane, sèche la rivière et dore les herbes / et le vent chante.",
+  "Évaluation : 1 point par caractéristique juste (3 points) et 1 point pour la conclusion."
+ ]
+}

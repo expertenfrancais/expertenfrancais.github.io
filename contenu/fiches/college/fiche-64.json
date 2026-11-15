@@ -1,0 +1,302 @@
+{
+ "id": 10064,
+ "meta": {
+  "t": "Le groupe nominal",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "a",
+  "r": 4.8,
+  "fn": 64,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.2.1 : Le groupe nominal",
+  "codeMatrice": "MF6.2.1",
+  "categorie": "Les constituants de la phrase",
+  "savoirEssentiel": "Le groupe nominal",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoirs essentiels relative à l’utilisation des constituants de la phrase en situation de communication.",
+  "situation": "Mathias présente un texte sur les mesures barrières contre la pandémie de la Covid-19. En lisant ce texte, Mafienda constate que les constituants de la phrase sont mal utilisés, ce qui a pour conséquence que les mesures barrières sont mal perçues par les lecteurs. Mafienda, qui a suivi la présentation, se rapproche de son ami Mathias afin de l’aider à réécrire le texte en utilisant correctement les constituants de la phrase en vue d’une autre présentation.",
+  "numero": 1,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.2.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un nom ?",
+     "app": "Les apprenants répondent :\nR1 : Un nom est un mot qui désigne une personne, un animal, une chose ou une idée. Exemples : maître, chien, table."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Cite deux déterminants.",
+     "app": "Les apprenants répondent :\nR2 : Par exemple : le, une, mon, des."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Où place-t-on le déterminant par rapport au nom ?",
+     "app": "Les apprenants répondent :\nR3 : Le déterminant se place devant le nom. Exemple : la maison."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un texte sur les mesures barrières contre la Covid-19, présenté par Mathias."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Mafienda constate-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle constate que les constituants de la phrase sont mal utilisés dans le texte."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Mafienda pour résoudre ce problème ?",
+     "app": "Les apprenants répondent :\nR3 : Elle se rapproche de son ami Mathias pour l’aider à réécrire le texte en utilisant correctement les constituants de la phrase."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Mathias, nous allons apprendre à reconnaître et à construire le groupe nominal.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et à construire le groupe nominal."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte.",
+    "Souligner le groupe nominal dans chaque phrase.",
+    "Décomposer les constituants du groupe nominal.",
+    "Distinguer - le déterminant défini + nom ; - le déterminant indéfini + nom ; - le déterminant partitif + nom ; - le déterminant + nom + adjectif qualificatif ; - le déterminant + nom + préposition + déterminant possessif + nom.",
+    "Construire les phrases ayant le groupe nominal."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le texte au tableau et demande de le lire silencieusement.",
+     "texte": "1. Le directeur explique les gestes utiles.\n2. Fatou lave ses mains avec du savon.\n3. Une affiche colorée montre la méthode.\n4. Le sac de mon oncle contient des masques propres.\n5. Les élèves boivent de l’eau propre.\n6. Le gel est dans un flacon.",
+     "app": "Les apprenants lisent silencieusement le texte."
+    },
+    {
+     "ens": "L’enseignant lit le texte à haute voix, puis fait lire deux ou trois apprenants.",
+     "app": "Les apprenants écoutent, puis quelques-uns lisent le texte à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner le groupe nominal dans chaque phrase.\nQ1 : Quels sont les groupes nominaux de la phrase 1 ?\nQ2 : Quels sont les groupes nominaux des phrases 2 à 6 ?",
+     "app": "Les apprenants soulignent les groupes nominaux dans leur cahier, puis les présentent.\nR1 : Le directeur ; les gestes utiles.\nR2 : Fatou ; ses mains ; du savon. Une affiche colorée ; la méthode. Le sac de mon oncle ; des masques propres. Les élèves ; de l’eau propre. Le gel ; un flacon."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de décomposer les constituants du groupe nominal « les gestes utiles ».\nQ3 : De quoi est composé le groupe nominal « les gestes utiles » ?\nQ4 : Quel est le mot principal d’un groupe nominal ?",
+     "app": "Les apprenants séparent les mots du groupe nominal et disent la nature de chacun.\nR3 : D’un déterminant (les), d’un nom (gestes) et d’un adjectif qualificatif (utiles).\nR4 : Le nom : c’est le noyau, on ne peut pas le supprimer."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de distinguer les différentes formes de groupes nominaux dans le texte.\nQ5 : Quels groupes nominaux sont formés d’un déterminant défini et d’un nom ?\nQ6 : Quel groupe nominal est formé d’un déterminant indéfini et d’un nom ?\nQ7 : Quel groupe nominal est formé d’un déterminant partitif et d’un nom ?\nQ8 : Quels groupes nominaux sont formés d’un déterminant, d’un nom et d’un adjectif qualificatif ?\nQ9 : Quel groupe nominal est formé d’un déterminant, d’un nom, d’une préposition, d’un déterminant possessif et d’un nom ?",
+     "app": "Les apprenants classent les groupes nominaux dans un tableau et justifient leur classement.\nR5 : Le directeur ; les élèves ; le gel.\nR6 : Un flacon.\nR7 : Du savon.\nR8 : Une affiche colorée ; des masques propres ; de l’eau propre.\nR9 : Le sac de mon oncle."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de construire des phrases ayant un groupe nominal.\nQ10 : Construis une phrase avec un groupe nominal formé d’un déterminant, d’un nom et d’un adjectif qualificatif.",
+     "app": "Les apprenants construisent des phrases oralement, puis les écrivent sur leur ardoise.\nR10 : Exemple : La vendeuse propose des mangues mûres."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le groupe nominal."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un groupe nominal ?",
+     "app": "Les apprenants répondent :\nR2 : Un groupe nominal est un ensemble de mots organisé autour d’un nom, le noyau."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Donne deux formes de groupe nominal.",
+     "app": "Les apprenants répondent :\nR3 : Déterminant + nom : le gel. Déterminant + nom + adjectif : une affiche colorée."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Souligne quatre groupes nominaux dans le texte, puis construis une phrase qui contient un groupe nominal formé d’un déterminant, d’un nom et d’un adjectif qualificatif.",
+    "situation": "Tu aides Mathias à relire un texte sur les gestes de propreté à la maison.",
+    "criteres": [
+     "Il souligne au moins quatre groupes nominaux corrects en entier (par exemple : mon grand frère ; du poisson frais ; les assiettes sales ; le repas de ma tante).",
+     "Il construit une phrase correcte qui contient un groupe nominal formé d’un déterminant, d’un nom et d’un adjectif qualificatif.",
+     "Il écrit la phrase avec une majuscule, un point et une orthographe correcte."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "Ce matin, mon grand frère prépare un repas. Il achète du poisson frais au marché. Ma sœur lave les assiettes sales. Le repas de ma tante est délicieux.",
+     "app": "Chaque apprenant souligne les groupes nominaux, puis écrit sa phrase sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : Le groupe nominal",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un groupe nominal est un ensemble de mots organisé autour d’un nom. Ce nom s’appelle le noyau."
+   },
+   {
+    "type": "h",
+    "text": "1- Le déterminant défini ou indéfini + le nom"
+   },
+   {
+    "type": "p",
+    "text": "Le déterminant défini (le, la, l’, les) et le déterminant indéfini (un, une, des) se placent devant le nom."
+   },
+   {
+    "type": "ex",
+    "text": "le directeur ; les élèves ; un flacon ; des masques"
+   },
+   {
+    "type": "h",
+    "text": "2- Le déterminant partitif + le nom"
+   },
+   {
+    "type": "p",
+    "text": "Le déterminant partitif (du, de la, de l’) désigne une partie d’une chose que l’on ne compte pas."
+   },
+   {
+    "type": "ex",
+    "text": "du savon ; de l’eau"
+   },
+   {
+    "type": "h",
+    "text": "3- Le déterminant + le nom + l’adjectif qualificatif"
+   },
+   {
+    "type": "p",
+    "text": "L’adjectif qualificatif donne une précision sur le nom."
+   },
+   {
+    "type": "ex",
+    "text": "une affiche colorée ; de l’eau propre"
+   },
+   {
+    "type": "h",
+    "text": "4- Le déterminant + le nom + la préposition + le déterminant possessif + le nom"
+   },
+   {
+    "type": "p",
+    "text": "Un deuxième groupe nominal peut préciser le nom. Il est introduit par une préposition (de, à, avec…)."
+   },
+   {
+    "type": "ex",
+    "text": "le sac de mon oncle"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Forme du groupe nominal",
+     "Exemple du texte"
+    ],
+    "rows": [
+     [
+      "déterminant défini + nom",
+      "le gel"
+     ],
+     [
+      "déterminant indéfini + nom",
+      "un flacon"
+     ],
+     [
+      "déterminant partitif + nom",
+      "du savon"
+     ],
+     [
+      "déterminant + nom + adjectif qualificatif",
+      "une affiche colorée"
+     ],
+     [
+      "déterminant + nom + préposition + déterminant possessif + nom",
+      "le sac de mon oncle"
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Le noyau est le mot que l’on ne peut pas supprimer. Dans « une affiche colorée », le noyau est « affiche »."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un groupe nominal s’organise autour d’un nom, le noyau.",
+     "Il peut être formé d’un déterminant et d’un nom : le gel, un flacon, du savon.",
+     "Il peut aussi avoir un adjectif qualificatif : une affiche colorée.",
+     "Il peut avoir un complément introduit par une préposition : le sac de mon oncle."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Texte à lire",
+    "text": "Le directeur explique les gestes utiles.\nFatou lave ses mains avec du savon.\nUne affiche colorée montre la méthode.\nLe sac de mon oncle contient des masques propres.\nLes élèves boivent de l’eau propre.\nLe gel est dans un flacon."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les groupes nominaux de chaque phrase.",
+    "items": [
+     "Mon oncle achète du pain.",
+     "La vendeuse propose des mangues mûres.",
+     "Le chien de ma voisine aboie.",
+     "Les enfants boivent de l’eau fraîche."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’indique la forme de chaque groupe nominal.",
+    "texte": "Choix : déterminant défini + nom ; déterminant indéfini + nom ; déterminant partitif + nom ; déterminant + nom + adjectif qualificatif ; déterminant + nom + préposition + déterminant possessif + nom.",
+    "items": [
+     "le marché",
+     "un cahier",
+     "du manioc",
+     "une robe bleue",
+     "la maison de ma grand-mère"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase avec chaque groupe nominal.",
+    "items": [
+     "des bananes mûres",
+     "le sac de mon frère",
+     "du poisson"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. Mon oncle ; du pain. 2. La vendeuse ; des mangues mûres. 3. Le chien de ma voisine. 4. Les enfants ; de l’eau fraîche.",
+  "Exercice 2 : le marché : déterminant défini + nom ; un cahier : déterminant indéfini + nom ; du manioc : déterminant partitif + nom ; une robe bleue : déterminant + nom + adjectif qualificatif ; la maison de ma grand-mère : déterminant + nom + préposition + déterminant possessif + nom.",
+  "Exercice 3 : réponses libres, à condition que le groupe nominal soit employé tel quel. Exemples : Ma mère achète des bananes mûres. Le sac de mon frère est sur la table. Papa mange du poisson.",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par groupe nominal correct (4 points) et un point pour la phrase construite."
+ ]
+}

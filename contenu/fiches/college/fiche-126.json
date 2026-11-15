@@ -1,0 +1,272 @@
+{
+ "id": 10126,
+ "meta": {
+  "t": "La voix passive",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Conjugaison",
+  "img": "g",
+  "r": 4.8,
+  "fn": 126,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Conjugaison",
+  "titre": "Fiche d’exploitation de la matrice MF5.4.3 : La voix passive",
+  "codeMatrice": "MF5.4.3",
+  "categorie": "Les voix verbales",
+  "savoirEssentiel": "La voix passive",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’usage des voix verbales.",
+  "situation": "Mbenga est une fille passionnée de lecture. Son rêve est de bien s’exprimer en français. Dans cet esprit, elle suit les conseils de son père qui ne cesse de lui répéter qu’il est intéressant pour elle de lire régulièrement la conjugaison afin de réaliser cette performance. Pour cela, elle consulte de nombreux ouvrages de conjugaison. Toutefois, elle a du mal à comprendre les tournures telles que : « le chat mange la souris », « la souris est mangée par le chat ». Elle veut avoir des explications sur ces tournures. Par conséquent, elle s’adresse à son père qui lui présente un texte dans lequel elle va travailler sur les voix verbales. Ainsi, Mbenga se met-elle à construire des phrases sur les voix active et passive.",
+  "numero": 29,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.4.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce que la voix active ?",
+     "app": "Les apprenants répondent :\nR1 : C’est la construction où le sujet fait l’action : sujet + verbe + COD."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Conjugue « être » au présent de l’indicatif, à la 3e personne.",
+     "app": "Les apprenants répondent :\nR2 : Il est, ils sont."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un participe passé ?",
+     "app": "Les apprenants répondent :\nR3 : C’est une forme du verbe. Exemple : mangé, lu, expliqué."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Mbenga, une fille passionnée de lecture qui rêve de bien s’exprimer en français."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Mbenga rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle a du mal à comprendre des tournures comme « le chat mange la souris » et « la souris est mangée par le chat »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle s’adresse à son père, qui lui présente un texte pour travailler sur les voix verbales."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Mbenga, nous allons apprendre à reconnaître et construire des phrases à la voix passive.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et construire des phrases à la voix passive."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé.",
+    "Souligner les verbes contenus dans le texte.",
+    "Encadrer le sujet de chacun de ces verbes.",
+    "Indiquer la position du sujet dans chaque phrase.",
+    "Préciser la composition du groupe verbal dans chaque phrase.",
+    "Déterminer la place du complément d’objet direct et sa composition.",
+    "Indiquer dans chaque phrase le rôle que joue : - le sujet ; - le verbe ; - le complément d’objet direct.",
+    "Nommer ce type de construction.",
+    "Définir la voix passive.",
+    "Construire des phrases à la voix passive."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. La souris est mangée par le chat.\n2. Le livre est lu par Mbenga.\n3. La leçon est expliquée par son père.\n4. La maîtresse est écoutée par les élèves.\n5. Le chat est poursuivi par le chien.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner les verbes contenus dans le texte.\nQ1 : Quels sont les verbes de chaque phrase ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Est mangée ; est lu ; est expliquée ; est écoutée ; est poursuivi."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de encadrer le sujet de chacun de ces verbes.\nQ2 : Quel est le sujet de chaque verbe ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : La souris ; le livre ; la leçon ; la maîtresse ; le chat."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de indiquer la position du sujet dans chaque phrase.\nQ3 : Où est placé le sujet ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Avant le verbe."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de préciser la composition du groupe verbal dans chaque phrase.\nQ4 : Comment est composé le groupe verbal ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : De l’auxiliaire être et du participe passé, suivis d’un complément d’agent introduit par « par »."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de déterminer la place du complément d’objet direct et sa composition.\nQ5 : Où est placé le complément d’agent et comment est-il composé ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : Après le verbe. Il est composé de la préposition « par » et d’un groupe nominal : par le chat, par Mbenga."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de indiquer dans chaque phrase le rôle que joue : - le sujet, puis le verbe, puis le complément d’objet direct.\nQ6 : Quel rôle jouent le sujet, le verbe et le complément d’agent ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : Le sujet subit l’action. Le verbe (être + participe passé) exprime l’action subie. Le complément d’agent fait l’action."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de nommer ce type de construction.\nQ7 : Comment appelle-t-on cette construction ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR7 : C’est la voix passive."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de définir la voix passive.\nQ8 : Qu’est-ce que la voix passive ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR8 : À la voix passive, le sujet subit l’action exprimée par le verbe. Le verbe se compose de être + participe passé, et l’auteur de l’action est le complément d’agent."
+    },
+    {
+     "a": 10,
+     "ens": "L’enseignant demande de construire des phrases à la voix passive.\nQ9 : Mets à la voix passive : « Le maître corrige les cahiers. »",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR9 : Les cahiers sont corrigés par le maître."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La voix passive."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qui fait l’action à la voix passive ?",
+     "app": "Les apprenants répondent :\nR2 : Le complément d’agent."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment forme-t-on le verbe ?",
+     "app": "Les apprenants répondent :\nR3 : Avec être + participe passé : est mangée, sont corrigés."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Mets chaque phrase à la voix passive.",
+    "situation": "Tu aides Mbenga à construire des phrases aux voix active et passive.",
+    "criteres": [
+     "Les cahiers sont corrigés par le maître.",
+     "Le repas est préparé par ma mère.",
+     "La télévision est regardée par les enfants."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Le maître corrige les cahiers.\n2. Ma mère prépare le repas.\n3. Les enfants regardent la télévision.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Conjugaison : La voix passive",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "À la voix passive, le sujet subit l’action. L’auteur de l’action est le complément d’agent, introduit par par (ou de)."
+   },
+   {
+    "type": "h",
+    "text": "Le verbe à la voix passive"
+   },
+   {
+    "type": "p",
+    "text": "Le verbe se forme avec être, au temps voulu, suivi du participe passé. Le participe passé s’accorde avec le sujet."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Voix active",
+     "Voix passive"
+    ],
+    "rows": [
+     [
+      "Le chat mange la souris.",
+      "La souris est mangée par le chat."
+     ],
+     [
+      "Mbenga lit le livre.",
+      "Le livre est lu par Mbenga."
+     ],
+     [
+      "Les élèves écoutent la maîtresse.",
+      "La maîtresse est écoutée par les élèves."
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "La leçon est expliquée par son père."
+   },
+   {
+    "type": "nb",
+    "text": "Le COD de la phrase active devient le sujet de la phrase passive. Le sujet de la phrase active devient le complément d’agent."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Voix passive : le sujet subit l’action.",
+     "Le verbe : être + participe passé.",
+     "Le complément d’agent est introduit par par."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le verbe et j’encadre le complément d’agent.",
+    "items": [
+     "La porte est fermée par le gardien.",
+     "Les fruits sont cueillis par les enfants.",
+     "Le repas est préparé par maman."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je mets les phrases à la voix passive.",
+    "items": [
+     "Le chien mord le voleur.",
+     "Les élèves lisent des contes."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je mets les phrases à la voix active.",
+    "items": [
+     "La lettre est écrite par Fatou.",
+     "Le toit est réparé par les ouvriers."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : est fermée / par le gardien ; sont cueillis / par les enfants ; est préparé / par maman.",
+  "Exercice 2 : Le voleur est mordu par le chien. Des contes sont lus par les élèves.",
+  "Exercice 3 : Fatou écrit la lettre. Les ouvriers réparent le toit.",
+  "Évaluation : un point par phrase bien transformée (3 points)."
+ ]
+}

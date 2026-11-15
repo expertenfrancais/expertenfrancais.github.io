@@ -1,0 +1,316 @@
+{
+ "id": 10070,
+ "meta": {
+  "t": "La préfixation et la suffixation",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Vocabulaire",
+  "img": "g",
+  "r": 4.8,
+  "fn": 70,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Vocabulaire",
+  "titre": "Fiche d’exploitation de la matrice MF6.5.1 : La préfixation et la suffixation",
+  "codeMatrice": "MF6.5.1",
+  "categorie": "La formation des mots",
+  "savoirEssentiel": "La préfixation et la suffixation",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie de savoirs essentiels relative à la formation des mots",
+  "situation": "Un test psychotechnique est organisé par le ministère de l’Intérieur pour le recrutement des agents de sécurité. Michel y prend part. L’une des épreuves de ce test porte sur la formation de certains mots. Michel n’est pas retenu à cause de ses difficultés sur la création de mots. Il sollicite l’aide de Mathias, habile dans ce domaine, qui l’entraîne à cet exercice pour la prochaine campagne de recrutement. À cet effet, il organise des séances de travail sur la formation des mots pour pallier cette difficulté. Michel s’en approprie et se met à former des mots.",
+  "numero": 7,
+  "date": "",
+  "duree": "1 h",
+  "support": "Radicaux écrits au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.5.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Quelle est la nature des mots « porter », « terre » et « utile » ?",
+     "app": "Les apprenants répondent :\nR1 : « Porter » est un verbe ; « terre » est un nom ; « utile » est un adjectif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’une famille de mots ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un ensemble de mots qui ont le même radical. Exemple : terre, terrain, terrasse."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce que le radical d’un mot ?",
+     "app": "Les apprenants répondent :\nR3 : C’est la partie du mot qui porte le sens principal et qui ne change pas."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle d’un test psychotechnique organisé par le ministère de l’Intérieur pour recruter des agents de sécurité."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Michel rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il n’est pas retenu à cause de ses difficultés pour créer des mots."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Michel pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Il demande l’aide de Mathias, qui l’entraîne par des séances de travail sur la formation des mots."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Michel, nous allons apprendre à former des mots avec un préfixe ou un suffixe.",
+     "app": "Les apprenants expriment le besoin d’apprendre à former des mots avec un préfixe ou un suffixe."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire les radicaux proposés par l’enseignant.",
+    "Indiquer la classe grammaticale (la nature) de chaque radical : verbe, adjectif, nom.",
+    "Ajouter au radical un préfixe ou un suffixe.",
+    "Déterminer le sens de chaque préfixe ajouté au radical.",
+    "Préciser la nature grammaticale du mot formé.",
+    "Rappeler les étapes suivies dans la formation d’un mot.",
+    "Former des mots à partir d’autres radicaux proposés par l’enseignant."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les radicaux au tableau et demande de les lire.",
+     "texte": "faire ; utile ; heureux ; voyage ; dent",
+     "app": "Les apprenants lisent les radicaux à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande d’indiquer la nature de chaque radical.\nQ1 : Quelle est la nature de chaque radical ?",
+     "app": "Les apprenants donnent la nature de chaque radical.\nR1 : Faire : verbe ; utile : adjectif ; heureux : adjectif ; voyage : nom ; dent : nom."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant donne les affixes re-, dé-, in-, mal-, -ité, -eur, -iste et demande de les ajouter aux radicaux.\nQ2 : Quels mots obtient-on en ajoutant re- ou dé- au radical « faire » ?\nQ3 : Quels mots obtient-on avec « utile » + in-, « utile » + -ité et « heureux » + mal- ?\nQ4 : Quels mots obtient-on avec « voyage » + -eur et « dent » + -iste ?",
+     "app": "Les apprenants essaient les affixes et écrivent les mots obtenus sur l’ardoise.\nR2 : Refaire ; défaire.\nR3 : Inutile ; utilité ; malheureux.\nR4 : Voyageur ; dentiste."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de déterminer le sens de chaque préfixe ajouté au radical.\nQ5 : Que signifient les préfixes re-, dé-, in- et mal- ?",
+     "app": "Les apprenants comparent le sens du radical et celui du mot formé.\nR5 : Re- : de nouveau (refaire). Dé- : le contraire (défaire). In- : le contraire (inutile). Mal- : le contraire (malheureux)."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de préciser la nature grammaticale des mots formés.\nQ6 : Quelle est la nature de refaire, inutile, utilité, malheureux, voyageur et dentiste ?",
+     "app": "Les apprenants comparent la nature du radical et celle du mot formé.\nR6 : Refaire : verbe ; inutile et malheureux : adjectifs ; utilité, voyageur et dentiste : noms."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de rappeler les étapes suivies pour former un mot.\nQ7 : Quelles étapes avons-nous suivies pour former un mot ?",
+     "app": "Les apprenants rappellent la démarche.\nR7 : On repère le radical, on choisit un préfixe (devant) ou un suffixe (derrière), on l’ajoute, puis on vérifie le sens et la nature du mot formé."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant propose d’autres radicaux et demande de former des mots.\nQ8 : Forme un mot avec chaque radical : lire (re-), possible (im-), jardin (-ier), pêche (-eur).",
+     "app": "Les apprenants forment des mots sur l’ardoise, puis les corrigent ensemble.\nR8 : Relire ; impossible ; jardinier ; pêcheur."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La formation des mots par préfixation et par suffixation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Où se place le préfixe ? où se place le suffixe ?",
+     "app": "Les apprenants répondent :\nR2 : Le préfixe se place devant le radical ; le suffixe se place après le radical."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Donne un exemple de mot avec un préfixe et un exemple avec un suffixe.",
+     "app": "Les apprenants répondent :\nR3 : Refaire (re- + faire) ; voyageur (voyage + -eur)."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Forme un mot en ajoutant le préfixe ou le suffixe indiqué, puis écris la nature du mot formé.",
+    "situation": "Tu viens d’étudier la formation des mots et tu aides Michel à s’entraîner pour son test.",
+    "criteres": [
+     "Il écrit « relire », verbe.",
+     "Il écrit « injuste », adjectif.",
+     "Il écrit « danseur », nom.",
+     "Il écrit « journaliste », nom."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les radicaux au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. lire + re-\n2. juste + in-\n3. danse + -eur\n4. journal + -iste",
+     "app": "Chaque apprenant écrit les mots formés et leur nature."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Vocabulaire : La préfixation et la suffixation",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le radical est la partie d’un mot qui porte le sens principal. On peut former de nouveaux mots en lui ajoutant un préfixe ou un suffixe."
+   },
+   {
+    "type": "h",
+    "text": "1- Le préfixe"
+   },
+   {
+    "type": "p",
+    "text": "Le préfixe se place devant le radical. Il change le sens du mot."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Préfixe",
+     "Sens",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "re-",
+      "de nouveau",
+      "refaire"
+     ],
+     [
+      "dé-",
+      "le contraire",
+      "défaire"
+     ],
+     [
+      "in-",
+      "le contraire",
+      "inutile"
+     ],
+     [
+      "mal-",
+      "le contraire",
+      "malheureux"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Le suffixe"
+   },
+   {
+    "type": "p",
+    "text": "Le suffixe se place après le radical. Il change souvent la nature du mot."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Suffixe",
+     "Sens",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "-eur",
+      "celui qui fait",
+      "voyageur"
+     ],
+     [
+      "-iste",
+      "le métier ou l’idée",
+      "dentiste"
+     ],
+     [
+      "-ité",
+      "la qualité",
+      "utilité"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "3- Les étapes pour former un mot"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Je repère le radical.",
+     "Je choisis un préfixe ou un suffixe.",
+     "Je l’ajoute au radical.",
+     "Je vérifie le sens et la nature du mot formé."
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "re- + faire = refaire ; voyage + -eur = voyageur"
+   },
+   {
+    "type": "nb",
+    "text": "Un préfixe ne change pas la nature du mot : faire (verbe), refaire (verbe). Un suffixe peut la changer : utile (adjectif), utilité (nom)."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le radical porte le sens principal du mot.",
+     "Le préfixe se place devant le radical.",
+     "Le suffixe se place après le radical.",
+     "Le préfixe change le sens ; le suffixe change souvent la nature."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne le préfixe ou le suffixe de chaque mot.",
+    "items": [
+     "refaire",
+     "inutile",
+     "voyageur",
+     "dentiste",
+     "utilité"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le mot formé et sa nature.",
+    "items": [
+     "re- + voir",
+     "in- + capable",
+     "pêche + -eur",
+     "mal- + chanceux"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je forme un mot nouveau avec chaque radical, puis je l’emploie dans une phrase.",
+    "items": [
+     "faire",
+     "voyage",
+     "heureux"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : re-faire ; in-utile ; voyag-eur (suffixe -eur) ; dent-iste (suffixe -iste) ; util-ité (suffixe -ité).",
+  "Exercice 2 : revoir (verbe) ; incapable (adjectif) ; pêcheur (nom) ; malchanceux (adjectif).",
+  "Exercice 3 : réponses libres. Exemples : refaire (Je dois refaire mon devoir) ; voyageur (Le voyageur attend le bus) ; malheureux (Le chien perdu est malheureux).",
+  "Évaluation : voir les critères de l’étape 5. Barème : un point par mot bien formé avec sa nature (4 points)."
+ ]
+}

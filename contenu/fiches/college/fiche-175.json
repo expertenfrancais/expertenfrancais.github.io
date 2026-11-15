@@ -1,0 +1,288 @@
+{
+ "id": 10175,
+ "meta": {
+  "t": "La lettre personnelle",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "d",
+  "r": 4.8,
+  "fn": 175,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF6.7.2 : La lettre personnelle",
+  "codeMatrice": "MF6.7.2",
+  "categorie": "La production de textes",
+  "savoirEssentiel": "La lettre personnelle",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à la rédaction des supports écrits.",
+  "situation": "Guy achète une bande dessinée contenant plusieurs images. Fasciné, il veut rédiger des textes pour les faire parler et faciliter leur compréhension. Malheureusement, il n’en maîtrise pas la technique. Il consulte son ami Abolo qui lui explique la démarche à suivre pour parvenir à la rédaction des textes. Grâce à de nombreux exercices, Guy s’imprègne de la technique et se met à rédiger des textes.",
+  "numero": 59,
+  "date": "",
+  "duree": "2 h",
+  "support": "Lettre écrite au tableau ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.7.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : À qui écrit-on une lettre ?",
+     "app": "Les apprenants répondent :\nR1 : À une personne éloignée : un parent, un ami, une administration."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un paragraphe ?",
+     "app": "Les apprenants répondent :\nR2 : C’est une partie de texte qui développe une idée et qui commence par un alinéa."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quelle est la différence entre « je » et « tu » ?",
+     "app": "Les apprenants répondent :\nR3 : « Je » désigne celui qui écrit ; « tu » désigne celui à qui l’on écrit."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : De Guy, qui veut rédiger des textes pour faire parler des images."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté le personnage rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il ne maîtrise pas la technique de rédaction de ces textes."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-il pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Il consulte son ami Abolo, qui lui explique la démarche, puis il s’entraîne avec de nombreux exercices."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Guy, nous allons apprendre à rédiger une lettre personnelle.",
+     "app": "Les apprenants expriment le besoin d’apprentissage : nous voulons savoir rédiger une lettre personnelle."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire la lettre proposée par le père.",
+    "Indiquer le type de lettre (personnelle, administrative).",
+    "Identifier les indices de la lettre (informations utiles) : - l’entête (identité, lieu, date…) ; - la formule d’appel ; - l’objet de la lettre ; - le contenu de la lettre ; - la formule de clôture ; - la signature.",
+    "Rechercher les idées liées à l’objet de la lettre.",
+    "Organiser les idées de la lettre.",
+    "Rédiger la lettre en utilisant les caractéristiques d’une lettre personnelle."
+   ],
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit la lettre au tableau, la lit, puis demande une lecture silencieuse.",
+     "app": "Les apprenants lisent silencieusement la lettre, puis quelques-uns la lisent à haute voix.",
+     "texte": "Pointe-Noire, le 12 mars 2026\n\nChère Prisca,\n\nJ’espère que tu vas bien. Les grandes vacances approchent et j’ai une bonne nouvelle : mes parents m’autorisent à t’inviter chez nous pendant deux semaines. Nous irons à la plage et nous rendrons visite à grand-mère. Dis-moi vite si tu peux venir en août.\n\nJe t’embrasse très fort. À bientôt.\n\nTon cousin Kévin",
+     "a": 1
+    },
+    {
+     "ens": "L’enseignant demande d’indiquer le type de lettre :\nQ1 : À qui Kévin écrit-il ? La lettre est-elle personnelle ou administrative ?",
+     "app": "Les apprenants répondent :\nR1 : Kévin écrit à sa cousine Prisca. C’est une lettre personnelle, car elle est écrite à une personne proche.",
+     "a": 2
+    },
+    {
+     "ens": "L’enseignant demande d’identifier les indices de la lettre, en commençant par l’en-tête :\nQ2 : Que lit-on tout en haut de la lettre ?",
+     "app": "Les apprenants répondent :\nR2 : Le lieu et la date : « Pointe-Noire, le 12 mars 2026 ».",
+     "a": 3
+    },
+    {
+     "ens": "L’enseignant demande d’identifier la formule d’appel :\nQ3 : Comment Kévin commence-t-il sa lettre ?",
+     "app": "Les apprenants répondent :\nR3 : Par la formule d’appel : « Chère Prisca, »."
+    },
+    {
+     "ens": "L’enseignant demande d’identifier l’objet et le contenu :\nQ4 : Pourquoi Kévin écrit-il ? Quel est l’objet de la lettre ?",
+     "app": "Les apprenants répondent :\nR4 : Il invite sa cousine à passer deux semaines de vacances chez lui."
+    },
+    {
+     "ens": "L’enseignant demande d’identifier le contenu de la lettre :\nQ5 : Quelles idées contient le corps de la lettre ?",
+     "app": "Les apprenants répondent :\nR5 : Des nouvelles, l’invitation, les activités prévues (la plage, la visite à grand-mère) et une demande de réponse."
+    },
+    {
+     "ens": "L’enseignant demande d’identifier la formule de clôture et la signature :\nQ6 : Comment la lettre se termine-t-elle ?",
+     "app": "Les apprenants répondent :\nR6 : Par la formule de clôture « Je t’embrasse très fort. À bientôt. » et la signature « Ton cousin Kévin »."
+    },
+    {
+     "ens": "L’enseignant propose un nouveau sujet et demande de rechercher les idées liées à l’objet de la lettre :\nQ7 : Tu veux remercier ta grand-mère pour un cadeau. Quelles idées peux-tu écrire ?",
+     "app": "Les apprenants répondent :\nR7 : Le remerciement ; la description du cadeau et son utilité ; des nouvelles de moi ; des vœux de bonne santé pour elle.",
+     "a": 4
+    },
+    {
+     "ens": "L’enseignant demande d’organiser les idées de la lettre :\nQ8 : Dans quel ordre range-t-on ces idées dans la lettre ?",
+     "app": "Les apprenants répondent :\nR8 : On écrit le lieu et la date, la formule d’appel, le remerciement, la description du cadeau, les nouvelles, puis la formule de clôture et la signature.",
+     "a": 5
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’avons-nous étudié ?",
+     "app": "Les apprenants répondent :\nR1 : La lettre personnelle."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels sont les éléments d’une lettre personnelle ?",
+     "app": "Les apprenants répondent :\nR2 : L’en-tête (lieu et date), la formule d’appel, le contenu, la formule de clôture et la signature."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment écrit-on le contenu ?",
+     "app": "Les apprenants répondent :\nR3 : En phrases simples, avec « je » et « tu », en suivant l’ordre des idées."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Écris une lettre personnelle à ton ami Jonas pour lui raconter ta première semaine au collège.",
+    "situation": "Guy s’exerce à rédiger une lettre personnelle.",
+    "criteres": [
+     "Il écrit l’en-tête (lieu et date) et une formule d’appel.",
+     "Il développe au moins trois idées dans un ordre logique.",
+     "Il termine par une formule de clôture et une signature, avec des phrases correctes."
+    ],
+    "action": 6
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant donne l’item par écrit et laisse vingt minutes de travail individuel.",
+     "app": "Chaque apprenant rédige sa lettre sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, relève les bonnes productions et fait corriger les erreurs.",
+     "app": "Quelques apprenants lisent leur travail ; les autres complètent ou corrigent."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : La lettre personnelle",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Une lettre personnelle est un message écrit à une personne proche (un parent, un ami) pour lui donner des nouvelles ou lui demander quelque chose."
+   },
+   {
+    "type": "h",
+    "text": "1- Les éléments d’une lettre personnelle"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Élément",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "L’en-tête : lieu et date",
+      "Pointe-Noire, le 12 mars 2026"
+     ],
+     [
+      "La formule d’appel",
+      "Chère Prisca,"
+     ],
+     [
+      "Le contenu",
+      "les nouvelles, l’invitation, les questions"
+     ],
+     [
+      "La formule de clôture",
+      "Je t’embrasse très fort. À bientôt."
+     ],
+     [
+      "La signature",
+      "Ton cousin Kévin"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Comment rédiger une lettre personnelle"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Chercher les idées liées à l’objet de la lettre.",
+     "Organiser les idées dans un ordre logique.",
+     "Écrire en phrases simples, avec « je » et « tu ».",
+     "Terminer par une formule de clôture et une signature."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Une lettre personnelle",
+    "text": "Pointe-Noire, le 12 mars 2026\n\nChère Prisca,\n\nJ’espère que tu vas bien. Les grandes vacances approchent et j’ai une bonne nouvelle : mes parents m’autorisent à t’inviter chez nous pendant deux semaines. Nous irons à la plage et nous rendrons visite à grand-mère. Dis-moi vite si tu peux venir en août.\n\nJe t’embrasse très fort. À bientôt.\n\nTon cousin Kévin"
+   },
+   {
+    "type": "ex",
+    "text": "Objet de la lettre : inviter une cousine pour les vacances ; idées : les nouvelles, l’invitation, les activités prévues, la demande de réponse."
+   },
+   {
+    "type": "nb",
+    "text": "Une lettre administrative est écrite à une administration : elle est plus formelle et son objet est écrit en toutes lettres."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Une lettre personnelle comprend : l’en-tête, la formule d’appel, le contenu, la formule de clôture et la signature.",
+     "On écrit à une personne proche, avec « je » et « tu ».",
+     "On range les idées dans un ordre logique."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je lis cette lettre, puis je relève ses éléments.",
+    "texte": "Brazzaville, le 3 mai 2026\nCher Alain,\nJe te remercie pour le livre que tu m’as offert. Je l’ai déjà lu deux fois.\nJe t’embrasse. À bientôt.\nTon ami Éric",
+    "items": [
+     "L’en-tête",
+     "La formule d’appel",
+     "L’objet de la lettre",
+     "La formule de clôture",
+     "La signature"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète cette lettre avec les éléments qui manquent.",
+    "texte": "………………………………\n………………………………,\nJe suis bien arrivée chez tante Julie. Le voyage s’est très bien passé. Je pense à toi.\n………………………………\n………………………………\nChoix : Chère maman – Dolisie, le 8 juin 2026 – Ta fille Mireille – Je t’embrasse très fort.",
+    "items": [
+     "Le lieu et la date",
+     "La formule d’appel",
+     "La formule de clôture",
+     "La signature"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une lettre de cinq phrases à mon oncle pour lui souhaiter une bonne année.",
+    "items": [
+     "L’en-tête et la formule d’appel",
+     "Trois phrases : les vœux, des nouvelles, une question",
+     "La formule de clôture et la signature"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : en-tête : Brazzaville, le 3 mai 2026 ; formule d’appel : « Cher Alain, » ; objet : remercier Alain pour un livre ; formule de clôture : « Je t’embrasse. À bientôt. » ; signature : « Ton ami Éric ».",
+  "Exercice 2 : Dolisie, le 8 juin 2026 – Chère maman, – (texte) – Je t’embrasse très fort. – Ta fille Mireille.",
+  "Exercice 3 : réponse libre. Vérifier l’en-tête, la formule d’appel, au moins trois idées, la formule de clôture et la signature.",
+  "Évaluation : 2 points pour l’en-tête et la formule d’appel ; 3 points pour les idées et leur ordre ; 1 point pour la formule de clôture et la signature ; 2 points pour la correction de la langue."
+ ]
+}
