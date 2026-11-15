@@ -33,7 +33,7 @@
 .fresh main>*,.fresh .list>*,.fresh .cats>*{animation:arrive .32s ease both}
 @media (prefers-reduced-motion:reduce){::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}.fresh main>*,.fresh .list>*,.fresh .cats>*{animation:none}}
 
-:root{--p1:#b29af4;--p2:#8c6fe0;--ink:#2e2160;--sub:#6b6490;--field:#f4eefb;--link:#5d49b8;--card:#fff;--page:#f1ecfb}
+:root{--p1:#7d5fe3;--p2:#5f3fc4;--ink:#2e2160;--sub:#6b6490;--field:#f4eefb;--link:#5d49b8;--card:#fff;--page:#f1ecfb}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c}}
 :root[data-theme="dark"]{--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
@@ -56,6 +56,8 @@ main{flex:1;padding:0 20px calc(110px + env(safe-area-inset-bottom,0px))}
 .field:focus-within{border-color:var(--p1)}
 .field input{flex:1;min-width:0;border:0;background:none;outline:0;font:inherit;font-size:14.5px;color:var(--ink)}
 .field input::placeholder{color:var(--sub);opacity:.85}
+.go{flex:0 0 auto;border:0;border-radius:14px;height:36px;padding:0 14px;margin-right:-8px;font-weight:700;font-size:13px;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2))}
+.go:disabled{opacity:.4}
 .flt{flex:0 0 auto;width:52px;height:52px;border-radius:20px;border:0;color:#fff;background:linear-gradient(180deg,var(--p1),var(--p2));display:grid;place-items:center;box-shadow:0 8px 14px rgba(130,100,220,.4)}
 .levels{display:flex;gap:8px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;margin:0 -20px 14px;padding:2px 20px}
 .chip{flex:0 0 auto;border:0;border-radius:18px;padding:8px 16px;font-size:13px;font-weight:600;background:var(--card);color:var(--sub)}
@@ -158,7 +160,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
   </header>
   <main>
     <div class="search">
-      <label class="field"><svg id="i-search" width="22" height="22" viewBox="0 0 24 24"></svg><input id="q" type="search" placeholder="Rechercher un document…" autocomplete="off"></label>
+      <label class="field"><svg id="i-search" width="22" height="22" viewBox="0 0 24 24"></svg><input id="q" type="search" placeholder="Rechercher un document…" autocomplete="off" enterkeyhint="search"><button class="go" id="go" type="button" aria-label="Lancer la recherche" disabled>OK</button></label>
       <button class="flt" id="flt" type="button" aria-label="Filtrer et trier" aria-expanded="false"><svg id="i-flt" width="24" height="24" viewBox="0 0 24 24"></svg></button>
     </div>
     <div id="fpanel" hidden>
@@ -166,7 +168,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
       <p class="hd">Sous-discipline</p><div class="levels" id="mats"></div>
       <p class="hd">Trier par</p><div class="levels" id="sorts"></div>
     </div>
-    <section class="card">
+    <section class="card" id="catcard">
       <div class="sh"><h2>Catégories</h2><button class="more" id="all" type="button">Tout voir</button></div>
       <div class="cats" id="cats"></div>
     </section>
@@ -240,7 +242,7 @@ function render(){
   return '<article class="'+docClass(d)+'">'+ficheBand(d)+'<div class="cov" style="--g1:'+T.g[0]+';--g2:'+T.g[1]+'"><img src="'+esc(d.img)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">'+
    '<span class="tag">'+((({Cours:"Cours"})[d.k]||d.k.replace(/s$/,"")))+'</span><span class="subj">'+esc(d.m)+'</span>'+
    '<button class="fav" data-f="'+d.id+'" aria-pressed="'+f+'" aria-label="Favori">'+ico("heart")+'</button></div>'+
-   '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">Niveau '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:#7a5cd0;text-decoration:none">Voir les détails ›</a>'+
+   '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">Niveau '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:var(--link);text-decoration:none">Voir les détails ›</a>'+
    '<div class="r2"><div class="price"><small>Prix</small><b>'+(canAccess(d.id)?accesLabel(d):(ACHAT?price(d.pr):"Abonnés"))+'</b></div>'+
    '<span class="rate">'+ico("star")+d.r.toFixed(1)+'</span>'+
    (canAccess(d.id)||!ACHAT?'<button class="add in" data-o="'+d.id+'">'+(canAccess(d.id)?"Ouvrir":"Voir")+'</button>':'<button class="add'+(c?" in":"")+'" data-c="'+d.id+'">'+(c?"Ajouté ✓":"Ajouter")+'</button>')+'</div></div></article>'}
@@ -249,6 +251,7 @@ function render(){
  if(!res.length){L.className="list";L.innerHTML='<p class="empty">Aucun document ne correspond à votre recherche.</p>';$("pgmore").hidden=true}
  else if(shelfGroups(res)>1){L.className="shelves";L.innerHTML=shelvesHTML(res,docCard,8);$("pgmore").hidden=true}
  else{L.className="list";L.innerHTML=res.slice(0,shown).map(docCard).join("");$("pgmore").hidden=res.length<=shown}
+ $("catcard").hidden=!!q.trim()&&!type;
  document.querySelectorAll(".cat").forEach(function(b){b.classList.toggle("on",b.dataset.k===type)});
  drawLevels();drawMats();drawSorts();paintHits(res.length)}
 /* Recherche dans le texte des cours : à partir de 3 lettres */
@@ -266,12 +269,15 @@ function seeGroup(e,apply){var g=e.target.closest(".shelf-go");if(!g)return;appl
  var t=$("list").previousElementSibling||$("list");if(t.scrollIntoView)t.scrollIntoView({behavior:"smooth",block:"start"})}
 
 /* Événements */
-$("q").oninput=function(){q=this.value;rs()};
+function goSearch(){var v=$("q").value.trim();if(v)location.href="recherche.html?q="+encodeURIComponent(v)}
+$("q").oninput=function(){q=this.value;$("go").disabled=!q.trim();rs()};
+$("q").onkeydown=function(e){if(e.key==="Enter"){e.preventDefault();goSearch()}};
+$("go").onclick=goSearch;
 $("flt").onclick=function(){var h=$("fpanel").hidden;$("fpanel").hidden=!h;this.setAttribute("aria-expanded",h)};
 $("mats").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;var v=b.dataset.v;
  if(!v)mats=[];else{var i=mats.indexOf(v);if(i>-1)mats.splice(i,1);else mats.push(v)}rs()};
 $("sorts").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;sort=b.dataset.v;rs()};
-$("all").onclick=function(){type=null;mats=[];sort="pert";niv="Tous";cyc=canSwitchCycle()?"Tous":activeCycle();q="";$("q").value="";rs()};
+$("all").onclick=function(){type=null;mats=[];sort="pert";niv="Tous";cyc=canSwitchCycle()?"Tous":activeCycle();q="";$("q").value="";$("go").disabled=true;rs()};
 $("set").onclick=function(){location.href="parametres.html"};
 $("av").onclick=function(){location.href="profil.html"};
 $("av").onkeydown=function(ev){if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();location.href="profil.html"}};

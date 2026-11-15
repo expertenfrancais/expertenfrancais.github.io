@@ -1,0 +1,22 @@
+MISE A JOUR v254 : fichiers a publier sur GitHub
+=================================================
+
+1) REMPLACER ces 21 fichiers (en gardant les memes dossiers) :
+   A la racine : index.html, catalogue.html, recherche.html, favoris.html, profil.html, cycles.html,
+                 abonnement.html, admin.html, contact.html, parametres.html, login-app.html,
+                 conditions.html, confidentialite.html, data.js, course.css, sw.js,
+                 PROJET.md, GUIDE-IA.md, PROMPTS.md
+   Dans outils/ : generer-pages.js, valider-contenu.js
+
+2) SUPPRIMER sur GitHub ces 2 fichiers (ils n'existent plus) :
+   - contenu/index-versions.json
+   - outils/generer-versions.js
+
+3) NE PAS supprimer sw.js : il sert maintenant a nettoyer l'ancien mode hors ligne sur les telephones.
+
+4) Apres publication : attendre la mise en ligne de GitHub Pages, puis ouvrir l'appli une fois avec une connexion.
+
+Ce que contient cette version :
+ - v252 : la recherche de l'accueil ouvre la page de resultats (bouton OK / touche Entree)
+ - v253 : mode nuit plus lisible (violet des boutons, lien "Voir les details", rouge des erreurs)
+ - v254 : mode hors ligne supprime (l'appli ne ralentit plus)

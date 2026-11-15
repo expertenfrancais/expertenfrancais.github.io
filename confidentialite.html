@@ -7,9 +7,11 @@
 <meta name="description" content="Politique de confidentialité de l’application Expert en français : informations recueillies, usage, droits.">
 <link rel="icon" type="image/png" href="icon-192.png">
 <title>Politique de confidentialité | Expert en français</title>
+<script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
 <style>
-:root{--ink:#2e2160;--sub:#6b6490;--link:#5d49b8;--card:#fff;--page:#f1ecfb;--line:#e3dbf7;--p2:#8c6fe0}
-@media (prefers-color-scheme:dark){:root{--ink:#efe9ff;--sub:#b3aad3;--link:#c2b0ff;--card:#221b40;--page:#17122c;--line:#3a3160}}
+:root{--ink:#2e2160;--sub:#6b6490;--link:#5d49b8;--card:#fff;--page:#f1ecfb;--line:#e3dbf7;--p2:#5f3fc4}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#efe9ff;--sub:#b3aad3;--link:#c2b0ff;--card:#221b40;--page:#17122c;--line:#3a3160}}
+:root[data-theme="dark"]{--ink:#efe9ff;--sub:#b3aad3;--link:#c2b0ff;--card:#221b40;--page:#17122c;--line:#3a3160}
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--page);color:var(--ink);font-family:"Poppins","Segoe UI",system-ui,sans-serif;-webkit-text-size-adjust:100%}
 .w{max-width:760px;margin:0 auto;padding:24px 18px 60px}

@@ -28,8 +28,7 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `exercices/<cycle>/exercice-<ex>-<titre>.html` | Page de présentation d'une série d'exercices (type `Exercices`) | **NON : générée** par `outils/generer-pages.js` |
 | `programmes/<cycle>/programme-<pg>-<titre>.html` | Page de présentation d'un programme (type `Programmes`) | **NON : générée** par `outils/generer-pages.js` |
 | `evaluations/<cycle>/evaluation-<ev>-<titre>.html` | Page de présentation d'une évaluation (type `Évaluations`) | **NON : générée** par `outils/generer-pages.js` |
-| `sw.js` | Cache hors ligne + numéro `VERSION` ; cache `telechargements` des contenus téléchargés | Seulement `VERSION` (listes COURS/CONTENU = automatiques ; elles ne sont plus préchargées, voir `PROJET.md`) |
-| `contenu/index-versions.json` | Empreinte de chaque fichier téléchargeable hors ligne (sert à la mise à jour incrémentale) | **NON : généré** par `outils/generer-versions.js` (appelé par `generer-pages.js`) ; toujours le republier |
+| `sw.js` | Désinstalleur de l’ancien mode hors ligne (aucun cache) + numéro `VERSION` (repère de version, lu par `admin.html`) | Seulement `VERSION` |
 | `supabase/` | Scripts SQL (`01-auth.sql`, `02-user-data.sql`, `03-abonnement-codes.sql`, `04-essai-gratuit.sql`) et mode d'emploi (`LISEZMOI.md`) de la base de données | NON, sauf tâche « base de données » demandée |
 | `sitemap.xml`, `robots.txt` | Référencement | **NON : générés** |
 | `lecon.html` | Page de lecture d'une partie (lit le fichier de contenu, via `contentFile(d)` de `data.js`) | Seulement si on change l'affichage de la lecture |
@@ -42,9 +41,8 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `login-app.html` | Inscription, connexion, mot de passe oublié (Supabase : URL et clé déjà renseignées) et « Continuer sans compte » (mode invité, voir `PROJET.md`) | NON, sauf demande explicite sur la connexion |
 | `cours.html` | Simple page de redirection (noindex) | NON |
 | `manifest.json`, `logo.png`, `icon-*.png` | Installation de l'application (PWA) et icônes | NON, sauf demande explicite |
-| `outils/generer-pages.js` | Reconstruit le catalogue de `data.js`, puis génère les pages `cours/…` et `fiches/…`, sitemap, robots, listes de `sw.js` | À lancer, pas à modifier |
+| `outils/generer-pages.js` | Reconstruit le catalogue de `data.js`, puis génère les pages `cours/…` et `fiches/…`, sitemap, robots | À lancer, pas à modifier |
 | `outils/catalogue.js` | Lit les clés `meta` des fichiers de `contenu/` et écrit le catalogue | À lancer indirectement, pas à modifier |
-| `outils/generer-versions.js` | Écrit `contenu/index-versions.json` | À lancer, pas à modifier |
 | `outils/valider-contenu.js` | Vérifie les fichiers de `contenu/` (format, `meta`, emplacement, catalogue à jour) | À lancer, pas à modifier |
 
 ## TÂCHE A : remplir un cours existant (page « démo » vide)
@@ -62,7 +60,7 @@ Règles d'écriture des textes : `**gras**` et `*italique*` seulement ; `\n` = n
 de cellules que `head` ; guillemets typographiques (« ») et apostrophe ’ dans les textes.
 
 ## TÂCHE B : ajouter un nouveau cours
-**Un nouveau cours = un seul nouveau fichier.** Le catalogue (`data.js`), les pages `cours/…` et les listes de `sw.js` sont construits automatiquement. Fichiers à toucher : `contenu/cours/<cycle>/<nouvel id>.json` (nouveau) et `sw.js` (VERSION). Rien d'autre, **n'ouvre pas `data.js`**.
+**Un nouveau cours = un seul nouveau fichier.** Le catalogue (`data.js`), et les pages `cours/…` sont construits automatiquement. Fichiers à toucher : `contenu/cours/<cycle>/<nouvel id>.json` (nouveau) et `sw.js` (VERSION). Rien d'autre, **n'ouvre pas `data.js`**.
 1. Choisir l'id : le plus grand id **de cours** + 1 (`ls contenu/cours/*/ | sort -n | tail -3` ; les fiches, type `Fiches`, ont des id à partir de 10001 : ne pas les compter). Le dernier id connu est aussi noté dans `PROJET.md` (à mettre à jour après chaque ajout).
 2. Le dossier `<cycle>` se déduit du niveau `n` : CP1 à CM2 → `primaire` ; 6e 5e 4e 3e → `college` ; Seconde Première Terminale → `lycee` ; L1 L2 L3 M1 M2 Doctorat → `universite`.
 3. Créer `contenu/cours/<cycle>/<id>.json` :
@@ -71,7 +69,7 @@ de cellules que `head` ; guillemets typographiques (« ») et apostrophe ’ dan
    - `mf` (facultatif, cours de 6e et de 5e seulement) : code du savoir du programme APS, tel qu’il est écrit dans la répartition annuelle (`contenu/programmes/college/programme-1.json` pour la 6e, `programme-3.json` pour la 5e) : `"mf":"MF6.2.1"` ; liste si le cours couvre deux catégories : `"mf":["MF6.2.2","MF6.2.3"]`. Sans correspondance claire, ne pas mettre la clé. Le code est celui de la catégorie (3 nombres), pas du savoir. Il ne sert qu’à repérer les manques (script de comparaison) : il n’apparaît ni dans le catalogue ni sur les pages. Pour ajouter la clé, insérer `, "mf": "…"` avant l’accolade fermante de `meta`, sans réécrire le fichier.
    - Le sommaire (titres des parties) vient des `"t"` des `sections` ; le prix est automatique (`PRIX_CYCLE` : Primaire 25, Collège 25, Lycée 50, Université 100 ; pour changer un prix, modifier `PRIX_CYCLE` dans `data.js`, valable pour tout le cycle).
    - Visibilité (`ALLOWED_TYPES` dans `data.js`) : tous les rôles voient `Cours`, `Exercices` et `Annales` ; seul le rôle **enseignant** voit en plus `Fiches`, `Évaluations` et `Programmes`.
-4. Générer (reconstruit le catalogue et les pages, met à jour `sw.js`, sitemap, robots) : `node outils/generer-pages.js https://expertenfrancais.github.io`
+4. Générer (reconstruit le catalogue et les pages, sitemap, robots) : `node outils/generer-pages.js https://expertenfrancais.github.io`
 5. Valider : `node outils/valider-contenu.js` (0 erreur ; il signale aussi un mauvais dossier, une `meta` incomplète, un catalogue pas à jour).
 6. Incrémenter `VERSION` dans `sw.js`.
 
@@ -99,10 +97,10 @@ Procédure rodée avec les annales. Chaque type a son dossier, son guide et sa n
 - Ne pas modifier le bloc « Sauvegarde du compte » à la fin de `data.js` (`SYNC_KEYS`, envoi vers `user_data`) ni `login-app.html` sans demande explicite. N'ajouter jamais `bought`, `sub`, `pending` ni `subpending` aux données envoyées à Supabase.
 - Ne jamais demander, afficher ni écrire une clé `service_role` / « secret » Supabase, ni un mot de passe de base ou d'application. Seule la clé publique (`sb_publishable_…`) peut apparaître dans le code.
 - Ne pas remettre de boutons de connexion Google/Apple/Facebook, ni réactiver la confirmation d'e-mail, sans demande explicite.
-- Ne pas ajouter `COURS` ni `CONTENU` à la liste préchargée de `sw.js` (`PAGES`).
+- Le mode hors ligne est supprimé (v254) : ne pas ajouter de cache, de service worker qui intercepte les requêtes ni de téléchargement de contenus sans demande explicite.
 - Ne pas ajouter de bibliothèque ni de framework. Le code reste en JavaScript simple (compatible vieux téléphones : pas de syntaxe très récente).
-- Ne pas modifier le comportement du bouton Retour (`course.js`) ni la mise à jour (`parametres.html`, `sw.js`) sauf demande explicite.
-- Ne pas modifier le mois gratuit (`supabase/04-essai-gratuit.sql`, `PLAN_ESSAI`, boîte de bienvenue) ni le téléchargement hors ligne (`dlRun`, `dlAuto`, cache `telechargements`, règles « reload » de `sw.js`) sans demande explicite : voir les prompts 20 et 21 de `PROMPTS.md`.
+- Ne pas modifier le comportement du bouton Retour (`course.js`) sauf demande explicite.
+- Ne pas modifier le mois gratuit (`supabase/04-essai-gratuit.sql`, `PLAN_ESSAI`, boîte de bienvenue) sans demande explicite : voir les prompts 20 et 21 de `PROMPTS.md`.
 - Ne pas mettre de vrais contenus payants si l'on n'a pas de serveur : `contenu/*.json` est public (site statique sur GitHub Pages). Cette règle sera à revoir le jour où les paiements et un serveur seront en place : ne pas la contourner avant.
 - Ne pas modifier le prix d'un cours directement dans sa ligne `pr` : il est écrasé par `PRIX_CYCLE`.
 

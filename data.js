@@ -67,18 +67,18 @@ function openDoc(id){var d=ALLDOCS.filter(function(x){return x.id===id})[0];loca
 /* Annulation d’abonnement (avec un serveur : l’annulation doit aussi être enregistrée côté serveur) */
 function cancelSub(){try{localStorage.removeItem("sub");localStorage.removeItem("subpending")}catch(e){}}
 function subBanner(id){if((GRATUIT&&!FICHES_VERROU)||isSubscribed())return;var r=$(id);if(!r)return;
- r.insertAdjacentHTML("beforebegin",'<a href="abonnement.html" style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 0 14px;padding:14px 16px;border-radius:20px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;text-decoration:none;font-weight:600;font-size:14px"><span>'+(GRATUIT?"Abonnez-vous : fiches pédagogiques complètes":"Abonnez-vous : tout le contenu, sans achat à l’unité")+'</span><b style="white-space:nowrap">Voir ›</b></a>')}
+ r.insertAdjacentHTML("beforebegin",'<a href="abonnement.html" style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 0 14px;padding:14px 16px;border-radius:20px;background:linear-gradient(135deg,#7d5fe3,#5f3fc4);color:#fff;text-decoration:none;font-weight:600;font-size:14px"><span>'+(GRATUIT?"Abonnez-vous : fiches pédagogiques complètes":"Abonnez-vous : tout le contenu, sans achat à l’unité")+'</span><b style="white-space:nowrap">Voir ›</b></a>')}
 /* ===== Mode invité : invitation à créer un compte (étape 4) =====
    guestBanner(id) : bandeau au-dessus de l’élément id (accueil, profil), fermable pour la session ; le texte change après 3 cours consultés.
    guestInvite() : carte affichée UNE fois (clé guest_invit) quand l’invité a consulté 3 cours, sur les pages hors cours. L’inscription revient à la page d’origine (?next=). */
 function guestPage(){return location.pathname.split("/").pop()||"index.html"}
 function guestBanner(id){if(!isGuest())return;try{if(sessionStorage.getItem("gb_off"))return}catch(e){}var r=$(id);if(!r||$("gbanner"))return;
  var n=ls("studied",[]).length,txt=n>=3?"Vous avez consulté "+n+" cours : créez un compte pour ne pas perdre votre progression":"Créer un compte pour sauvegarder votre progression";
- r.insertAdjacentHTML("beforebegin",'<div id="gbanner" style="display:flex;align-items:center;gap:8px;margin:0 0 14px;padding:12px 12px 12px 16px;border-radius:20px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;font-weight:600;font-size:14px"><a href="'+loginUrl(guestPage(),true)+'" style="flex:1;color:#fff;text-decoration:none;display:flex;justify-content:space-between;gap:10px;align-items:center"><span>'+txt+'</span><b style="white-space:nowrap">S’inscrire ›</b></a><button type="button" id="gbx" aria-label="Fermer" style="border:0;background:rgba(255,255,255,.25);color:#fff;width:26px;height:26px;border-radius:13px;font-size:16px;line-height:1;cursor:pointer;flex:0 0 auto">×</button></div>');
+ r.insertAdjacentHTML("beforebegin",'<div id="gbanner" style="display:flex;align-items:center;gap:8px;margin:0 0 14px;padding:12px 12px 12px 16px;border-radius:20px;background:linear-gradient(135deg,#7d5fe3,#5f3fc4);color:#fff;font-weight:600;font-size:14px"><a href="'+loginUrl(guestPage(),true)+'" style="flex:1;color:#fff;text-decoration:none;display:flex;justify-content:space-between;gap:10px;align-items:center"><span>'+txt+'</span><b style="white-space:nowrap">S’inscrire ›</b></a><button type="button" id="gbx" aria-label="Fermer" style="border:0;background:rgba(255,255,255,.25);color:#fff;width:26px;height:26px;border-radius:13px;font-size:16px;line-height:1;cursor:pointer;flex:0 0 auto">×</button></div>');
  var x=$("gbx");if(x)x.onclick=function(){try{sessionStorage.setItem("gb_off","1")}catch(e){}var b=$("gbanner");if(b)b.remove()}}
 function guestInvite(){if(!isGuest()||typeof PUBLIC_PAGE!=="undefined"||/login-app/.test(location.pathname)||$("ginv"))return;
  var n=ls("studied",[]).length;try{if(n<3||localStorage.getItem("guest_invit"))return;localStorage.setItem("guest_invit","1")}catch(e){return}
- document.body.insertAdjacentHTML("beforeend",'<div id="ginv" role="dialog" aria-label="Créer un compte" style="position:fixed;left:12px;right:12px;bottom:calc(env(safe-area-inset-bottom,0px) + 84px);z-index:60;padding:16px;border-radius:22px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;box-shadow:0 10px 30px rgba(60,40,120,.35)"><b style="display:block;font-size:15px;margin-bottom:4px">Gardez votre progression</b><span style="display:block;font-size:13.5px;line-height:1.45;margin-bottom:12px">Vous avez déjà consulté '+n+' cours. Créez un compte pour retrouver vos favoris et votre progression sur tous vos appareils.</span><span style="display:flex;gap:10px"><a href="'+loginUrl(guestPage(),true)+'" style="flex:1;text-align:center;padding:10px;border-radius:16px;background:#fff;color:#6a4fc7;font-weight:700;text-decoration:none">Créer un compte</a><button type="button" id="ginvx" style="flex:0 0 auto;padding:10px 14px;border:0;border-radius:16px;background:rgba(255,255,255,.25);color:#fff;font:inherit;font-weight:600;cursor:pointer">Plus tard</button></span></div>');
+ document.body.insertAdjacentHTML("beforeend",'<div id="ginv" role="dialog" aria-label="Créer un compte" style="position:fixed;left:12px;right:12px;bottom:calc(env(safe-area-inset-bottom,0px) + 84px);z-index:60;padding:16px;border-radius:22px;background:linear-gradient(135deg,#7d5fe3,#5f3fc4);color:#fff;box-shadow:0 10px 30px rgba(60,40,120,.35)"><b style="display:block;font-size:15px;margin-bottom:4px">Gardez votre progression</b><span style="display:block;font-size:13.5px;line-height:1.45;margin-bottom:12px">Vous avez déjà consulté '+n+' cours. Créez un compte pour retrouver vos favoris et votre progression sur tous vos appareils.</span><span style="display:flex;gap:10px"><a href="'+loginUrl(guestPage(),true)+'" style="flex:1;text-align:center;padding:10px;border-radius:16px;background:#fff;color:#6a4fc7;font-weight:700;text-decoration:none">Créer un compte</a><button type="button" id="ginvx" style="flex:0 0 auto;padding:10px 14px;border:0;border-radius:16px;background:rgba(255,255,255,.25);color:#fff;font:inherit;font-weight:600;cursor:pointer">Plus tard</button></span></div>');
  $("ginvx").onclick=function(){var b=$("ginv");if(b)b.remove()}}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",guestInvite);else guestInvite();
 /* ===== Fiche détail d’un document : descriptions génériques par type (une description propre au document, d.d / d.obj / d.s, les remplace) ===== */
@@ -764,7 +764,7 @@ function vib(n){try{if(ls("settings",{}).vib===false)return;navigator.vibrate&&n
 function toast(m){var t=$("toast");if(!t)return;t.textContent=m;t.classList.add("show");clearTimeout(toast.t);toast.t=setTimeout(function(){t.classList.remove("show")},2000)}
 function norm(s){return String(s).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}
 /* ===== Recherche dans le texte des cours =====
-   contentReady(rappel) charge une seule fois le fichier de contenu (contentFile) de tous les cours (déjà gardés hors ligne par sw.js) ;
+   contentReady(rappel) charge une seule fois le fichier de contenu (contentFile) de tous les cours ;
    contentHits(texte, cours) renvoie les parties qui contiennent tous les mots ; hitsHTML(...) en fait la liste affichée.
    Les extraits ne sont montrés que pour les parties ouvertes à l’utilisateur (partie 1 ou cours acheté / abonnement). */
 var CIDX=null,CLOAD=false,CWAIT=[];
@@ -888,7 +888,7 @@ function cardHTML(d){
  return '<article class="'+docClass(d)+'">'+ficheBand(d)+'<div class="cov" style="--g1:'+g[0]+';--g2:'+g[1]+'"><img src="'+esc(d.img)+'" alt="" loading="lazy" decoding="async" onerror="this.remove()">'+
   '<span class="rate">'+ico("star",12)+d.r.toFixed(1)+'</span><span class="tag">'+esc(d.m)+'</span>'+
   '<button class="fav" data-f="'+d.id+'" aria-pressed="'+f+'" aria-label="Favori">'+ico("heart",18)+'</button></div>'+
-  '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">'+esc(d.k)+' · '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:#7a5cd0;text-decoration:none">Voir les détails ›</a>'+
+  '<div class="body"><h3>'+esc(d.t)+'</h3><p class="meta">'+esc(d.k)+' · '+esc(d.n)+'</p><a href="'+docUrl(d)+'" style="font-size:12px;font-weight:600;color:var(--link);text-decoration:none">Voir les détails ›</a>'+
   '<div class="r2">'+(acc?'<div class="price"><b>'+accesLabel(d)+'</b></div><button class="add in" data-o="'+d.id+'" aria-label="Ouvrir">'+ico("dl",20)+'</button>':'<div class="price"><b>'+(ACHAT?price(d.pr):"Abonnés")+'</b></div>'+
   (ACHAT?'<button class="add'+(c?" in":"")+'" data-c="'+d.id+'" aria-label="'+(c?"Retirer du panier":"Ajouter au panier")+'">'+ico(c?"check":"plus",20)+'</button>':'<button class="add in" data-o="'+d.id+'" aria-label="Voir">'+ico("dl",20)+'</button>'))+'</div></div></article>'}
 
@@ -931,7 +931,7 @@ function drawNav(a){
   ""+'</button>'}).join("")}
 function navClick(e){var b=e.target.closest("button");if(b&&b.dataset.h&&b.getAttribute("aria-current")!=="page")location.href=b.dataset.h}
 
-/* ===== Application installable et mode hors ligne ===== */
+/* ===== Application installable ===== */
 var deferredInstall=null;
 window.addEventListener("beforeinstallprompt",function(e){e.preventDefault();deferredInstall=e;document.dispatchEvent(new Event("installready"))});
 window.addEventListener("appinstalled",function(){deferredInstall=null;document.dispatchEvent(new Event("installdone"))});
@@ -940,11 +940,13 @@ function installApp(){
  if(!deferredInstall)return Promise.resolve(false);
  deferredInstall.prompt();
  return deferredInstall.userChoice.then(function(c){deferredInstall=null;return c.outcome==="accepted"})}
-/* Le service worker ne fonctionne qu’en HTTPS (ou sur localhost) */
-if("serviceWorker" in navigator&&(location.protocol==="https:"||location.hostname==="localhost"||location.hostname==="127.0.0.1")){
- window.addEventListener("load",function(){navigator.serviceWorker.register(BASE+"sw.js").catch(function(){})})}
-window.addEventListener("offline",function(){toast("Vous êtes hors ligne")});
-window.addEventListener("online",function(){toast("Connexion rétablie")});
+/* Mode hors ligne SUPPRIMÉ (v254). Nettoyage unique des anciens caches et de l’ancien service worker sur cet appareil. */
+(function(){try{if(localStorage.getItem("off_clean")==="1")return;
+ var jobs=[];
+ if(navigator.serviceWorker&&navigator.serviceWorker.getRegistrations)jobs.push(navigator.serviceWorker.getRegistrations().then(function(rs){return Promise.all(rs.map(function(r){return r.unregister()}))}));
+ if(window.caches&&caches.keys)jobs.push(caches.keys().then(function(ks){return Promise.all(ks.map(function(k){return caches.delete(k)}))}));
+ ["dl_info","dl_hash","dl_check"].forEach(function(k){localStorage.removeItem(k)});
+ Promise.all(jobs).then(function(){localStorage.setItem("off_clean","1")}).catch(function(){})}catch(e){}})();
 
 /* Bouton jour / nuit placé à côté de la cloche de notifications */
 function isDark(){var t=document.documentElement.getAttribute("data-theme");
@@ -1073,78 +1075,12 @@ var SYNC_KEYS=["favs","cart","studied","parts","scores","rates"];
    var d=document.createElement("div");d.id="essaiBox";d.setAttribute("role","dialog");d.setAttribute("aria-modal","true");d.setAttribute("aria-labelledby","essaiT");
    d.style.cssText="position:fixed;inset:0;z-index:200;display:flex;align-items:center;justify-content:center;padding:20px;background:rgba(46,33,96,.55);font-family:inherit";
    d.innerHTML='<div style="width:100%;max-width:380px;background:#fff;border-radius:28px;padding:28px 22px 22px;text-align:center;box-shadow:0 20px 50px rgba(46,33,96,.35)">'+
-    '<div style="width:64px;height:64px;margin:0 auto 14px;border-radius:50%;background:linear-gradient(135deg,#b29af4,#8c6fe0);display:flex;align-items:center;justify-content:center;font-size:32px">🎉</div>'+
+    '<div style="width:64px;height:64px;margin:0 auto 14px;border-radius:50%;background:linear-gradient(135deg,#7d5fe3,#5f3fc4);display:flex;align-items:center;justify-content:center;font-size:32px">🎉</div>'+
     '<h2 id="essaiT" style="margin:0 0 10px;font-size:21px;color:#2e2160">Félicitations !</h2>'+
     '<p style="margin:0 0 20px;font-size:15px;line-height:1.55;color:#6b6490">Vous bénéficiez d’<b style="color:#2e2160">un mois gratuit</b> pour accéder à tous les contenus : cours, fiches pédagogiques complètes, exercices, évaluations et PDF.<br>Votre accès gratuit est valable jusqu’au <b style="color:#2e2160">'+fmtDate(s.end)+'</b>.</p>'+
-    '<button id="essaiOk" type="button" style="width:100%;height:52px;border:0;border-radius:26px;background:linear-gradient(135deg,#b29af4,#8c6fe0);color:#fff;font-family:inherit;font-weight:700;font-size:16px;cursor:pointer">Commencer</button></div>';
+    '<button id="essaiOk" type="button" style="width:100%;height:52px;border:0;border-radius:26px;background:linear-gradient(135deg,#7d5fe3,#5f3fc4);color:#fff;font-family:inherit;font-weight:700;font-size:16px;cursor:pointer">Commencer</button></div>';
    document.body.appendChild(d);
    var b=document.getElementById("essaiOk");
    b.onclick=function(){try{localStorage.setItem(key,"1")}catch(e){}d.remove();try{vib(15)}catch(e){}};
   }catch(e){}}
  if(typeof setTimeout==="function")setTimeout(show,1500)})();
-
-/* ===== Contenus hors ligne : téléchargement incrémental + téléchargement automatique en Wi‑Fi =====
-   - Cache « telechargements » (conservé lors des mises à jour de l'application, voir sw.js).
-   - contenu/index-versions.json (généré par outils/generer-versions.js) donne l'empreinte de chaque fichier : on ne télécharge que les fichiers nouveaux ou modifiés,
-     et on supprime ceux qui n'existent plus ou auxquels le compte n'a plus accès.
-   - Mémoire locale : « dl_hash » (empreinte et taille de chaque fichier téléchargé), « dl_info » (date, nombre, taille), « dl_check » (dernier contrôle automatique). */
-var dlState={busy:false,stop:false,done:0,tot:0,cb:null};
-function dlUrls(){
- var u={};
- DOCS.forEach(function(d){try{u[docFile(d)]=1;u[contentFile(d)]=1}catch(e){}});
- ["index.html","catalogue.html","recherche.html","favoris.html","cours.html","lecon.html","fiche.html","pdf.html","cycles.html","profil.html","parametres.html","abonnement.html","contact.html","data.js","fiche.js","fiche.css","course.js","course.css","blocs.js","manifest.json"].forEach(function(x){u[x]=1});
- return Object.keys(u)}
-function dlAbs(p){return new URL(BASE+p,location.href).href}
-/* Résultat : {n, added, updated, removed, bytes, fail, stopped, uptodate} ; opts.auto = silencieux, sans question */
-function dlRun(opts){
- opts=opts||{};
- if(!window.caches||!window.fetch)return Promise.reject(new Error("indisponible"));
- if(dlState.busy)return Promise.reject(new Error("occupe"));
- dlState.busy=true;dlState.stop=false;dlState.done=0;dlState.tot=0;
- var old=ls("dl_hash",{}),paths=dlUrls(),inList={};paths.forEach(function(p){inList[p]=1});
- function fin(r){dlState.busy=false;return r}
- function fail(e){dlState.busy=false;throw e}
- return fetch(BASE+"contenu/index-versions.json?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).catch(function(){return null}).then(function(man){
-  var F=man&&man.f?man.f:null;
-  if(!F&&(opts.auto||Object.keys(old).length))throw new Error("manifeste"); /* sans empreintes : on ne retélécharge pas tout à l'aveugle */
-  var todo=[],added=0,updated=0;
-  paths.forEach(function(p){
-   var h=F?F[p]:undefined,o=old[p];
-   if(!o){todo.push(p);added++}
-   else if(h!==undefined&&o[0]!==h){todo.push(p);updated++}});
-  dlState.tot=todo.length;if(dlState.cb)dlState.cb();
-  return caches.open("telechargements").then(function(c){
-   /* Suppression de ce qui n'est plus utile */
-   var gone=Object.keys(old).filter(function(p){return !inList[p]});
-   return Promise.all(gone.map(function(p){delete old[p];return c.delete(dlAbs(p))})).then(function(){
-    var i=0,ok=0,bad=0;
-    function one(){
-     if(dlState.stop||i>=todo.length)return Promise.resolve();
-     var p=todo[i++];
-     return fetch(dlAbs(p),{cache:"reload"}).then(function(r){
-      if(!r.ok)throw 0;
-      return r.blob().then(function(bl){
-       return c.put(dlAbs(p),new Response(bl,{status:200,headers:{"Content-Type":r.headers.get("Content-Type")||"application/octet-stream"}})).then(function(){old[p]=[F&&F[p]||"",bl.size];ok++})})})
-     .catch(function(){bad++}).then(function(){dlState.done++;if(dlState.cb)dlState.cb();return one()})}
-    var w=[];for(var k=0;k<6;k++)w.push(one());
-    return Promise.all(w).then(function(){
-     var n=0,b=0;Object.keys(old).forEach(function(p){n++;b+=old[p][1]||0});
-     try{localStorage.setItem("dl_hash",JSON.stringify(old))}catch(e){}
-     var res={n:n,added:added,updated:updated,removed:gone.length,bytes:b,fail:bad,stopped:dlState.stop,uptodate:!todo.length&&!gone.length};
-     if(n&&!(todo.length&&!ok&&bad)){try{localStorage.setItem("dl_info",JSON.stringify({at:new Date().toISOString(),n:n,b:b}))}catch(e){}}
-     return res})})})}).then(fin,fail)}
-/* Téléchargement automatique : seulement en Wi‑Fi (type de connexion disponible sur Chrome / Android), sans économiseur de données, au plus une fois par 12 h */
-function dlWifiOK(){var c=navigator.connection;return !!(c&&c.type==="wifi"&&!c.saveData&&navigator.onLine)}
-function dlAutoPossible(){var c=navigator.connection;return !!(c&&typeof c.type==="string")}
-function dlAuto(force){
- try{
-  if(!window.caches||dlState.busy||!userName())return;
-  var s=ls("settings",{});if(!s.dlWifi)return;
-  if(!dlWifiOK())return;
-  var last=+localStorage.getItem("dl_check")||0;
-  if(!force&&Date.now()-last<43200000)return;
-  localStorage.setItem("dl_check",String(Date.now()));
-  dlRun({auto:true}).catch(function(){})}catch(e){}}
-if(typeof setTimeout==="function"&&typeof document!=="undefined"){
- setTimeout(function(){dlAuto(false)},6000);
- try{if(navigator.connection&&navigator.connection.addEventListener)navigator.connection.addEventListener("change",function(){dlAuto(false)})}catch(e){}}

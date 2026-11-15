@@ -33,7 +33,7 @@
 .fresh main>*{animation:arrive .32s ease both}
 @media (prefers-reduced-motion:reduce){::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}.fresh main>*{animation:none}}
 
-:root{--p1:#b29af4;--p2:#8c6fe0;--ink:#2e2160;--sub:#6b6490;--field:#f4eefb;--link:#5d49b8;--card:#fff;--page:#f1ecfb;--danger:#d0426a}
+:root{--p1:#7d5fe3;--p2:#5f3fc4;--ink:#2e2160;--sub:#6b6490;--field:#f4eefb;--link:#5d49b8;--card:#fff;--page:#f1ecfb;--danger:#c42f5a}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c;--danger:#ff7a9c}}
 :root[data-theme="dark"]{--ink:#efe9ff;--sub:#b3aad3;--field:#2c2450;--link:#c2b0ff;--card:#221b40;--page:#17122c;--danger:#ff7a9c}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
@@ -134,10 +134,6 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
     <div class="group">
       <div class="row"><span class="ri soft" id="i-app"></span><span class="rt"><b>Installation</b><small id="appTxt"></small></span></div>
       <button class="row" id="installBtn" type="button" hidden><span class="ri" id="i-dl"></span><span class="rt"><b>Installer l’application</b></span></button>
-      <button class="row" id="updBtn" type="button"><span class="ri" id="i-upd"></span><span class="rt"><b>Mettre à jour l’application<span class="new" id="updNew" hidden>Nouveau</span></b><small id="updTxt">Vérification de la version…</small></span></button>
-      <div class="row" id="dlRow"><span class="ri" id="i-dlall"></span><span class="rt"><b>Télécharger les contenus</b><small id="dlTxt">Pour lire cours, fiches et exercices sans connexion.</small><div class="dlbar" id="dlBar" hidden><i id="dlFill"></i></div></span><button class="dlbtn" id="dlBtn" type="button">Télécharger</button></div>
-      <div class="row"><span class="ri soft" id="i-wifi"></span><span class="rt"><b>Télécharger en Wi‑Fi automatiquement</b><small id="dlWifiTxt"></small></span><button class="sw" id="sw-dlwifi" type="button" role="switch" aria-label="Téléchargement automatique en Wi-Fi"></button></div>
-      <button class="row" id="clrCache" type="button"><span class="ri soft" id="i-cache"></span><span class="rt"><b>Vider les données hors ligne</b><small>Libère de l’espace. Les pages seront retéléchargées à la prochaine visite.</small></span></button>
     </div>
 
     <h2 class="sec">Aide</h2>
@@ -163,7 +159,7 @@ $("back").innerHTML=ico("back",22);
 [["c-prof"],["c-sub"],["c-cyc"]].forEach(function(a){$(a[0]).innerHTML=ico("chev",22)});
 $("i-sub").innerHTML=ico("star",20);$("i-cyc").innerHTML=ico("grid",20);$("i-theme").innerHTML=ico("moon",20);
 $("i-vib").innerHTML=ico("phone",20);$("i-app").innerHTML=ico("phone",20);$("i-dl").innerHTML=ico("dl",20);
-$("i-cache").innerHTML=ico("trash",20);$("i-trash").innerHTML=ico("trash",20);
+$("i-trash").innerHTML=ico("trash",20);
 $("logout").innerHTML=ico("out",20)+"Se déconnecter";
 $("i-contact").innerHTML='<svg width="20" height="20" viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/></svg>';$("c-contact").innerHTML=ico("chev",22);
 
@@ -206,16 +202,16 @@ $("theme").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;
  try{if(b.dataset.v==="auto")localStorage.removeItem("theme");else localStorage.setItem("theme",b.dataset.v)}catch(x){}
  applyTheme();paintTheme();paintThemeBtn&&paintThemeBtn()};
 
-/* Installation et hors ligne
+/* Installation
    Android : le bouton télécharge l’application (expertenfrancais.apk, à la racine du site) ; l’utilisateur l’ouvre ensuite pour l’installer.
    Dans l’application elle-même (« median » dans l’agent utilisateur) : rien à installer.
    Autres appareils : installation du navigateur (PWA) comme avant. */
 var APK="expertenfrancais.apk",UA=navigator.userAgent,ANDROID=/android/i.test(UA),INAPP=/median/i.test(UA),apkDone=false;
 function appCard(){
  var ios=/iphone|ipad|ipod/i.test(UA),t,show;
- if(INAPP||isStandalone()){show=false;t="Application installée ✓ Vos pages déjà visitées restent disponibles sans internet."}
+ if(INAPP||isStandalone()){show=false;t="Application installée ✓"}
  else if(ANDROID){show=true;t=apkDone?"Téléchargement lancé. Ouvrez le fichier « expertenfrancais.apk » (notification ou dossier Téléchargements), puis touchez Installer. Si Android le demande, autorisez l’installation depuis ce navigateur.":"Téléchargez l’application Android, puis ouvrez le fichier pour l’installer."}
- else if(deferredInstall){show=true;t="Installez l’application : elle s’ouvre comme une application et reste disponible sans internet."}
+ else if(deferredInstall){show=true;t="Installez l’application : elle s’ouvre comme une application."}
  else if(ios){show=false;t="Sur iPhone : touchez Partager, puis « Sur l’écran d’accueil »."}
  else{show=false;t="Utilisez le menu de votre navigateur (« Installer l’application » ou « Ajouter à l’écran d’accueil »)."}
  $("installBtn").hidden=!show;
@@ -226,106 +222,6 @@ $("installBtn").onclick=function(){
   apkDone=true;toast("Téléchargement de l’application…");appCard();return}
  installApp().then(function(ok){if(ok)toast("Application installée ✓");appCard()})};
 document.addEventListener("installready",appCard);document.addEventListener("installdone",appCard);
-
-/* Mise à jour de l’application : compare la version installée (cache du service worker) à celle du serveur (sw.js) */
-var SYNC="M17.65 6.35A7.96 7.96 0 0 0 12 4a8 8 0 1 0 7.73 10h-2.08A6 6 0 1 1 12 6c1.66 0 3.14.69 4.22 1.78L13 11h7V4z";
-$("i-upd").innerHTML='<svg width="20" height="20" viewBox="0 0 24 24"><path d="'+SYNC+'"/></svg>';
-var updBusy=false,updNewer=false;
-function vnum(v){var m=/(\d+)/.exec(v||"");return m?+m[1]:0}
-function installedVer(){
- if(!window.caches)return Promise.resolve(null);
- return caches.keys().then(function(ks){
-  var v=ks.filter(function(k){return /^ressources-v\d+/.test(k)}).map(function(k){return k.slice(11)}).sort(function(a,b){return vnum(b)-vnum(a)});
-  return v[0]||null}).catch(function(){return null})}
-function serverVer(){
- return fetch(BASE+"sw.js?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.text()})
-  .then(function(t){var m=/VERSION\s*=\s*"([^"]+)"/.exec(t);if(!m)throw 0;return m[1]})}
-function paintUpd(inst,srv,state){
- var t=$("updTxt");$("updNew").hidden=true;updNewer=false;
- if(state==="busy"){t.textContent="Mise à jour en cours… Ne fermez pas l’application.";return}
- if(srv&&inst&&vnum(srv)>vnum(inst)){updNewer=true;$("updNew").hidden=false;t.textContent="Nouvelle version disponible ("+srv+"). Version installée : "+inst+". Touchez pour mettre à jour.";return}
- if(srv&&!inst){updNewer=true;t.textContent="Version "+srv+" disponible. Touchez pour mettre à jour.";return}
- if(inst&&srv){t.textContent="Version installée : "+inst+" · Vous avez la dernière version ✓";return}
- t.textContent=inst?"Version installée : "+inst+" · Touchez pour rechercher une mise à jour.":"Touchez pour rechercher une mise à jour."}
-function checkUpd(){
- return Promise.all([installedVer(),serverVer().catch(function(){return null})]).then(function(r){paintUpd(r[0],r[1]);return r})}
-function doUpdate(){
- if(updBusy)return;
- if(!navigator.onLine)return toast("Pas de connexion internet");
- updBusy=true;$("updBtn").classList.add("spin");paintUpd(null,null,"busy");
- function done(msg){updBusy=false;$("updBtn").classList.remove("spin");if(msg)toast(msg);checkUpd()}
- checkUpd().then(function(r){
-  var inst=r[0],srv=r[1];
-  if(!srv){updBusy=false;$("updBtn").classList.remove("spin");paintUpd(inst,null);return toast("Impossible de vérifier la mise à jour")}
-  if(inst&&vnum(srv)<=vnum(inst)){updBusy=false;$("updBtn").classList.remove("spin");paintUpd(inst,srv);return toast("L’application est déjà à jour ✓")}
-  paintUpd(null,null,"busy");
-  if(!("serviceWorker" in navigator)){location.reload();return}
-  navigator.serviceWorker.getRegistration().then(function(reg){
-   if(!reg){location.reload();return}
-   var finished=false;
-   function ok(){if(finished)return;finished=true;toast("Application mise à jour ✓");setTimeout(function(){location.reload()},900)}
-   navigator.serviceWorker.addEventListener("controllerchange",ok);
-   reg.update().then(function(){
-    /* Si la nouvelle version était déjà installée en attente, on l’active */
-    if(reg.waiting)reg.waiting.postMessage({type:"SKIP_WAITING"});
-    setTimeout(function(){
-     if(finished)return;
-     installedVer().then(function(v){
-      if(v&&vnum(v)>=vnum(srv))ok();
-      else{finished=true;done("La mise à jour a échoué. Réessayez.")}})},45000)
-   }).catch(function(){if(!finished){finished=true;done("La mise à jour a échoué. Réessayez.")}})
-  })
- })}
-$("updBtn").onclick=doUpdate;
-checkUpd();
-window.addEventListener("online",function(){if(!updBusy)checkUpd()});
-
-/* ===== Télécharger les contenus pour les lire hors connexion (logique dans data.js : dlRun, dlAuto) =====
-   Première fois : tout est téléchargé. Ensuite « Mettre à jour » ne télécharge que les fichiers nouveaux ou modifiés. */
-function dlMeta(){return ls("dl_info",null)}
-function dlMo(n){return n>=1048576?(n/1048576).toFixed(1).replace(".",",")+" Mo":Math.max(1,Math.round(n/1024))+" Ko"}
-function dlPaint(){
- var m=dlMeta(),b=$("dlBtn"),t=$("dlTxt"),busy=dlState.busy;
- $("dlBar").hidden=!busy;
- if(busy){b.textContent="Annuler";b.className="dlbtn alt";return}
- b.disabled=false;
- if(m&&m.n){t.textContent="Téléchargé le "+fmtDate(m.at)+" · "+m.n+" fichiers ("+dlMo(m.b)+"). Disponibles sans connexion.";b.textContent="Mettre à jour";b.className="dlbtn alt"}
- else{t.textContent="Pour lire cours, fiches et exercices sans connexion.";b.textContent="Télécharger";b.className="dlbtn"}}
-function dlProg(){
- var t=dlState.tot;$("dlFill").style.width=(t?Math.round(dlState.done*100/t):0)+"%";
- $("dlTxt").textContent=t?"Téléchargement… "+dlState.done+" / "+t:"Vérification des nouveautés…"}
-function dlGo(){
- if(!window.caches||!window.fetch)return toast("Non disponible sur ce navigateur");
- if(!navigator.onLine)return toast("Connectez-vous à internet pour télécharger");
- var first=!(dlMeta()&&dlMeta().n);
- if(first&&!confirm("Télécharger les contenus (plusieurs Mo) pour les lire sans connexion ? Mieux vaut être en Wi‑Fi."))return;
- dlState.cb=dlProg;dlPaint();dlProg();
- dlRun().then(function(r){
-  dlState.cb=null;dlPaint();
-  if(r.stopped)return toast("Téléchargement annulé");
-  if(r.uptodate)return toast("Vos contenus sont déjà à jour ✓");
-  var parts=[];if(r.added)parts.push(r.added+" nouveau"+(r.added>1?"x":""));if(r.updated)parts.push(r.updated+" mis à jour");if(r.removed)parts.push(r.removed+" supprimé"+(r.removed>1?"s":""));
-  toast(r.fail?"Terminé, "+r.fail+" fichier"+(r.fail>1?"s":"")+" à réessayer":(first?"Contenus téléchargés ✓":"À jour ✓ · "+parts.join(", ")));vib(15)})
- .catch(function(e){dlState.cb=null;dlPaint();toast(e&&e.message==="manifeste"?"Impossible de vérifier les nouveautés. Réessayez.":e&&e.message==="occupe"?"Un téléchargement est déjà en cours":"Espace insuffisant ou échec du téléchargement")})}
-/* Interrupteur : téléchargement automatique en Wi‑Fi */
-function dlPaintAuto(){
- var sw=$("sw-dlwifi"),ok=dlAutoPossible();
- sw.setAttribute("aria-checked",ok&&!!getS("dlWifi",false));sw.disabled=!ok;
- $("dlWifiTxt").textContent=ok?"Les nouveautés sont téléchargées toutes seules dès que vous êtes en Wi‑Fi.":"Indisponible sur cet appareil (le type de connexion n’est pas détecté). Utilisez le bouton ci-dessus."}
-$("sw-dlwifi").onclick=function(){
- var v=!getS("dlWifi",false);setS("dlWifi",v);dlPaintAuto();
- if(v){if(dlWifiOK()){toast("Activé : téléchargement en cours en arrière-plan");dlAuto(true)}else toast("Activé : le téléchargement démarrera dès que vous serez en Wi‑Fi")}
- else toast("Téléchargement automatique désactivé")};
-$("i-dlall").innerHTML=ico("dl",20);$("i-wifi").innerHTML=ico("dl",20);
-$("dlBtn").onclick=function(){if(dlState.busy){dlState.stop=true;return}dlGo()};
-if(dlState.busy)dlState.cb=dlProg;
-dlPaint();dlPaintAuto();
-$("clrCache").onclick=function(){
- ["dl_info","dl_hash","dl_check"].forEach(function(k){try{localStorage.removeItem(k)}catch(e){}});dlPaint();
- if(!window.caches)return toast("Non disponible sur ce navigateur");
- if(!confirm("Vider les données hors ligne ? Vous aurez besoin d’internet pour rouvrir les pages."))return;
- caches.keys().then(function(ks){return Promise.all(ks.map(function(k){return caches.delete(k)}))})
-  .then(function(){toast("Données hors ligne vidées ✓")}).catch(function(){toast("Impossible de vider les données")})};
 
 $("clrProg").onclick=function(){
  if(!confirm("Réinitialiser votre progression ? Cette action est définitive."))return;
