@@ -1,0 +1,256 @@
+{
+ "id": 10106,
+ "meta": {
+  "t": "La ponctuation",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Orthographe",
+  "img": "c",
+  "r": 4.8,
+  "fn": 106,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "titre": "Fiche d’exploitation de la matrice MF6.3.3 : La ponctuation",
+  "codeMatrice": "MF6.3.3",
+  "categorie": "La ponctuation",
+  "savoirEssentiel": "La ponctuation",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’utilisation de la ponctuation.",
+  "situation": "Le bureau de l’association des jeunes artistes peintres se réunit pour rédiger le rapport bilan du trimestre dernier qu’il présentera à l’assemblée générale. Jean-Paul est désigné, à cet effet, comme rédacteur du document qui sera remis à chaque membre. Le document rédigé ne peut être présenté à cause du mauvais usage de la ponctuation. Pour résoudre ce problème, Aude organise des séances d’entraînement afin d’aider Jean-Paul à bien utiliser la ponctuation dans son texte. Après cet apprentissage, il est amené à rédiger son rapport en utilisant correctement les signes de ponctuation.",
+  "numero": 33,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.3.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une phrase ?",
+     "app": "Les apprenants répondent :\nR1 : Une phrase est une suite de mots qui a un sens. Elle commence par une majuscule et se termine par un signe de ponctuation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quels signes de ponctuation connais-tu ?",
+     "app": "Les apprenants répondent :\nR2 : Le point, la virgule, le point d’interrogation, le point d’exclamation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : À quoi sert la majuscule ?",
+     "app": "Les apprenants répondent :\nR3 : Elle marque le début d’une phrase et les noms propres."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle du rapport bilan du trimestre rédigé par Jean-Paul pour l’association des jeunes artistes peintres."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Pourquoi le document ne peut-il pas être présenté ?",
+     "app": "Les apprenants répondent :\nR2 : Le document ne peut pas être présenté à cause du mauvais usage de la ponctuation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Aude pour aider Jean-Paul ?",
+     "app": "Les apprenants répondent :\nR3 : Aude organise des séances d’entraînement pour l’aider à bien utiliser la ponctuation."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Jean-Paul, nous allons apprendre à utiliser correctement les signes de ponctuation.",
+     "app": "Les apprenants expriment le besoin d’apprendre à utiliser correctement les signes de ponctuation."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé par l’enseignant.",
+    "Repérer/Souligner les signes de ponctuation utilisés dans le texte support.",
+    "Identifier chaque signe de ponctuation souligné.",
+    "Déterminer le rôle de chaque signe de ponctuation.",
+    "Utiliser les signes de ponctuation dans des phrases."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Le bureau s’est réuni mardi, puis il a rédigé le rapport.\n2. Il a retenu trois points : les finances, les activités et les projets.\n3. Les membres sont-ils d’accord ?\n4. Quel beau travail !\n5. Jean-Paul dit : « Merci à tous. »",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer/Souligner les signes de ponctuation utilisés dans le texte support.\nQ1 : Quels signes de ponctuation relève-t-on ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Le point, la virgule, les deux-points, le point d’interrogation, le point d’exclamation et les guillemets."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de identifier chaque signe de ponctuation souligné.\nQ2 : Comment s’appelle chaque signe ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : ( . ) le point ; ( , ) la virgule ; ( : ) les deux-points ; ( ? ) le point d’interrogation ; ( ! ) le point d’exclamation ; ( « » ) les guillemets."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de déterminer le rôle de chaque signe de ponctuation.\nQ3 : Quel est le rôle de chaque signe ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Le point termine une phrase. La virgule sépare des éléments ou marque une courte pause. Les deux-points annoncent une énumération ou des paroles. Le point d’interrogation termine une question. Le point d’exclamation exprime une émotion. Les guillemets encadrent des paroles rapportées."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de utiliser les signes de ponctuation dans des phrases.\nQ4 : Ponctue : « Le maître demande avez-vous fini ».",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR4 : Le maître demande : « Avez-vous fini ? »"
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La ponctuation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : À quoi sert la ponctuation ?",
+     "app": "Les apprenants répondent :\nR2 : À organiser le texte, à marquer les pauses et à donner le sens des phrases."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Cite trois signes de ponctuation et leur rôle.",
+     "app": "Les apprenants répondent :\nR3 : Le point termine la phrase ; la virgule sépare ; le point d’interrogation termine une question."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Recopie le texte en ajoutant les majuscules et les signes de ponctuation qui manquent.",
+    "situation": "Tu aides Jean-Paul à ponctuer correctement son rapport.",
+    "criteres": [
+     "Les enfants arrivent.",
+     "Ils chantent, dansent et rient.",
+     "Quelle belle fête !",
+     "Le maître demande : « Avez-vous fini ? »"
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "les enfants arrivent ils chantent dansent et rient quelle belle fête le maître demande avez-vous fini",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Orthographe : La ponctuation",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "La ponctuation est l’ensemble des signes qui organisent un texte et aident à le comprendre."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Signe",
+     "Rôle",
+     "Exemple"
+    ],
+    "rows": [
+     [
+      "le point ( . )",
+      "termine une phrase",
+      "Il a rédigé le rapport."
+     ],
+     [
+      "la virgule ( , )",
+      "sépare des éléments, marque une courte pause",
+      "Il chante, danse et rit."
+     ],
+     [
+      "les deux-points ( : )",
+      "annoncent une énumération ou des paroles",
+      "Il dit : « Merci. »"
+     ],
+     [
+      "le point d’interrogation ( ? )",
+      "termine une question",
+      "Avez-vous fini ?"
+     ],
+     [
+      "le point d’exclamation ( ! )",
+      "exprime une émotion ou un ordre",
+      "Quel beau travail !"
+     ],
+     [
+      "les guillemets ( « » )",
+      "encadrent des paroles rapportées",
+      "« Merci à tous. »"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Jean-Paul dit : « Merci à tous. » Les membres sont-ils d’accord ?"
+   },
+   {
+    "type": "nb",
+    "text": "Après un point, une majuscule commence la phrase suivante."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Chaque signe a un rôle précis.",
+     "Le point termine la phrase.",
+     "La virgule sépare ; les deux-points annoncent."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : J’écris le nom de chaque signe.",
+    "items": [
+     ".",
+     "?",
+     "!",
+     ":"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je mets le signe de ponctuation qui convient à la fin de chaque phrase.",
+    "items": [
+     "Quelle belle journée",
+     "Où habites-tu",
+     "Le marché ouvre à huit heures"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je ponctue la phrase.",
+    "items": [
+     "Fatou dit viens ici",
+     "Il achète du riz du manioc et du poisson"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : le point ; le point d’interrogation ; le point d’exclamation ; les deux-points.",
+  "Exercice 2 : Quelle belle journée ! Où habites-tu ? Le marché ouvre à huit heures.",
+  "Exercice 3 : Fatou dit : « Viens ici. » Il achète du riz, du manioc et du poisson.",
+  "Évaluation : un point par phrase bien ponctuée (4 points)."
+ ]
+}

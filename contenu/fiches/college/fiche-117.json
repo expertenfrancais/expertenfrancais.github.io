@@ -1,0 +1,284 @@
+{
+ "id": 10117,
+ "meta": {
+  "t": "Les homophones",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Orthographe",
+  "img": "f",
+  "r": 4.8,
+  "fn": 117,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Orthographe",
+  "titre": "Fiche d’exploitation de la matrice MF5.3.2 : Les homophones",
+  "codeMatrice": "MF5.3.2",
+  "categorie": "Les homophones",
+  "savoirEssentiel": "Les homophones",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à l’écriture des homophones.",
+  "situation": "Daliah a l’habitude de suivre une émission sur la langue française proposée par une chaîne de la place. Au cours de celle-ci, le journaliste pose des questions liées à l’orthographe. Daliah donne souvent des réponses satisfaisantes avant les participants. Lors d’une émission, elle n’a pas réussi à orthographier les deux mots ayant le même son dans la phrase « Près de la porte, se tenait debout un homme prêt à partir ». Elle demande les explications à son père. Après la lecture d’un texte et des exercices sur les homophones, ce dernier lui dicte une série d’homophones qu’elle doit écrire.",
+  "numero": 20,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.3.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un mot ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un groupe de lettres qui a un sens et qui est séparé des autres par des espaces."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Comment s’appelle la nature d’un mot comme « mère » ou « mer » ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un nom."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : À quoi sert le dictionnaire ?",
+     "app": "Les apprenants répondent :\nR3 : À chercher le sens et l’orthographe des mots."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Daliah, qui suit une émission sur la langue française et qui n’a pas su orthographier deux mots de même son dans une phrase."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Daliah rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle n’a pas réussi à écrire correctement les deux mots qui se prononcent de la même façon."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-elle pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Elle demande des explications à son père, qui lui fait lire un texte et faire des exercices sur les homophones."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Daliah, nous allons apprendre à reconnaître et orthographier les homophones.",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et orthographier les homophones."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte (contenant des homophones).",
+    "Repérer dans le texte les mots qui ont une même prononciation en les soulignant.",
+    "Nommer ces mots qui se prononcent de la même manière.",
+    "Classer - d’un côté, les homophones non homographes (même son seulement) ; - de l’autre, les homophones homographes (même écriture et même son).",
+    "Préciser la nature de ces homophones.",
+    "Indiquer la place de chaque homophone trouvé.",
+    "Définir/Expliquer les mots homophones et homographes trouvés dans le texte.",
+    "Utiliser/Écrire correctement les homophones dans des phrases."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Près de la porte, un homme prêt à partir attend.\n2. Ma mère regarde la mer.\n3. Le verre est sur la table, le ver est sous la pierre.\n4. Le chat dort dans la tente de ma tante.\n5. Il fait le tour de la tour.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de repérer dans le texte les mots qui ont une même prononciation en les soulignant.\nQ1 : Quels mots se prononcent de la même façon ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Près et prêt ; mère et mer ; verre et ver ; tente et tante ; tour et tour."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de nommer ces mots qui se prononcent de la même manière.\nQ2 : Comment appelle-t-on ces mots ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR2 : Ce sont des homophones."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de classer d’un côté, les homophones non homographes (même son seulement), puis de l’autre, les homophones homographes (même écriture et même son).\nQ3 : Quels homophones s’écrivent différemment ? Lesquels s’écrivent de la même façon ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : Même son seulement (homophones non homographes) : près / prêt, mère / mer, verre / ver, tente / tante. Même son et même écriture (homophones homographes) : le tour / la tour."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de préciser la nature de ces homophones.\nQ4 : Quelle est la nature de ces mots ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : Près : préposition ; prêt : adjectif ; mère, mer, verre, ver, tente, tante, tour : noms."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de indiquer la place de chaque homophone trouvé.\nQ5 : Où se place chaque homophone dans la phrase ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR5 : Près se place devant un groupe nominal ; prêt est avec un nom ou après le verbe être. Le tour (masculin) est un trajet, la tour (féminin) est un bâtiment."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de définir/Expliquer les mots homophones et homographes trouvés dans le texte.\nQ6 : Qu’est-ce qu’un homophone ? Qu’est-ce qu’un homographe ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : Des homophones sont des mots qui se prononcent de la même façon. Des homographes s’écrivent de la même façon. Ici, tour et tour sont des homophones et des homographes."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de utiliser/Écrire correctement les homophones dans des phrases.\nQ7 : Écris correctement : « Ma (mère / mer) prépare le repas. » et « Nous sommes (près / prêts) à partir. »",
+     "app": "Les apprenants réalisent la tâche oralement, puis écrivent leurs réponses sur l’ardoise.\nR7 : Ma mère prépare le repas. Nous sommes prêts à partir."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Les homophones."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un homophone ?",
+     "app": "Les apprenants répondent :\nR2 : Un mot qui se prononce comme un autre mais qui s’écrit autrement ou n’a pas le même sens."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Comment choisit-on la bonne orthographe ?",
+     "app": "Les apprenants répondent :\nR3 : En cherchant le sens et la nature du mot dans la phrase."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Complète chaque phrase avec le mot qui convient.",
+    "situation": "Tu aides Daliah à écrire correctement des homophones.",
+    "criteres": [
+     "Il écrit « mère ».",
+     "Il écrit « prêts ».",
+     "Il écrit « verre ».",
+     "Il écrit « tante »."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Ma … prépare le repas. (mère / mer)\n2. Les élèves sont … à partir. (près / prêts)\n3. Je bois de l’eau dans un … . (verre / vert / ver)\n4. Ma … habite près de chez nous. (tente / tante)",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Orthographe : Les homophones",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Des homophones sont des mots qui se prononcent de la même façon, mais qui ont un sens différent."
+   },
+   {
+    "type": "h",
+    "text": "1- Les homophones non homographes"
+   },
+   {
+    "type": "p",
+    "text": "Ils ont le même son, mais ils s’écrivent différemment."
+   },
+   {
+    "type": "ex",
+    "text": "près / prêt ; mère / mer ; verre / ver / vert ; tente / tante"
+   },
+   {
+    "type": "h",
+    "text": "2- Les homophones homographes"
+   },
+   {
+    "type": "p",
+    "text": "Ils ont le même son et la même écriture, mais pas le même sens."
+   },
+   {
+    "type": "ex",
+    "text": "le tour (promenade) / la tour (bâtiment)"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Mot",
+     "Nature",
+     "Sens"
+    ],
+    "rows": [
+     [
+      "près",
+      "préposition",
+      "à côté de"
+     ],
+     [
+      "prêt",
+      "adjectif",
+      "préparé"
+     ],
+     [
+      "mère",
+      "nom",
+      "femme qui a un enfant"
+     ],
+     [
+      "mer",
+      "nom",
+      "grande étendue d’eau salée"
+     ]
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Pour choisir, je cherche le sens du mot dans la phrase, ou je le remplace par un mot de même nature."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Les homophones se prononcent de la même façon.",
+     "Ils n’ont pas le même sens.",
+     "Je choisis l’orthographe d’après le sens et la nature du mot."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je choisis le bon homophone.",
+    "items": [
+     "Ma (mère / mer) est à la maison.",
+     "Le (verre / ver) est plein d’eau.",
+     "Nous sommes (près / prêts) du marché."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris la nature de chaque mot.",
+    "items": [
+     "prêt",
+     "tante",
+     "près"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris une phrase avec chaque mot.",
+    "items": [
+     "mer",
+     "tente",
+     "tour"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : mère ; verre ; près.",
+  "Exercice 2 : adjectif ; nom ; préposition.",
+  "Exercice 3 : réponses libres. Exemples : La mer est calme. Nous dormons sous la tente. Il fait le tour du village.",
+  "Évaluation : un point par mot bien orthographié (4 points)."
+ ]
+}

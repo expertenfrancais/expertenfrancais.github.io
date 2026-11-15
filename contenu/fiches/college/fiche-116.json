@@ -1,0 +1,291 @@
+{
+ "id": 10116,
+ "meta": {
+  "t": "La proposition subordonnée conjonctive complétive",
+  "k": "Fiches",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "e",
+  "r": 4.8,
+  "fn": 116,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "5e",
+  "discipline": "Français",
+  "sousDiscipline": "Grammaire",
+  "titre": "Fiche d’exploitation de la matrice MF5.2.7 : La proposition subordonnée conjonctive complétive",
+  "codeMatrice": "MF5.2.7",
+  "categorie": "La phrase complexe",
+  "savoirEssentiel": "La phrase complexe : la proposition subordonnée conjonctive introduite par « que »",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter les situations qui font appel à la catégorie des savoirs essentiels relative à la phrase complexe.",
+  "situation": "À la mi-temps d’un match « classico » opposant le Réal de Madrid au FC Barcelone, Patrick Mboma et Habib Bey, deux consultants de la chaîne Canal +, se mettent à analyser la première partie du jeu. De cette analyse, on peut noter les déclarations suivantes : « Je crois que le match est très serré. Jusque-là, peu d’occasions ont été créées de part et d’autre, mais j’espère que la physionomie du match va changer à la seconde période ; dans la première période, j’ai senti la volonté de faire la différence, tant du côté du Barça que de celui du Réal. Je pense que cette volonté va continuer après le retour aux vestiaires. Souhaitons donc que la seconde partie du jeu soit différente de la précédente. » Norluc, suivant attentivement l’analyse avec ses deux frères Céma et Ardolin, a du mal à la comprendre à cause de la complexité des phrases qu’elle contient. Il se confie alors à ses frères qui ont malheureusement les mêmes difficultés. Les trois décident de poser leur problème à leur frère aîné, Landry. Celui-ci leur présente un texte extrait de Verre cassé, un roman d’Alain Mabanckou. Céma, Norluc et Ardolin sont ainsi amenés à travailler sur les phrases complexes.",
+  "numero": 19,
+  "date": "",
+  "duree": "1 h",
+  "support": "Texte écrit au tableau ; tableau noir ; cahier de l’élève",
+  "documentation": "Programme APS 5e, matrice MF5.2.7 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’une proposition ?",
+     "app": "Les apprenants répondent :\nR1 : C’est un groupe de mots organisé autour d’un verbe conjugué."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’une conjonction de subordination ?",
+     "app": "Les apprenants répondent :\nR2 : C’est un mot qui introduit une proposition subordonnée."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un complément d’objet direct ?",
+     "app": "Les apprenants répondent :\nR3 : C’est un complément qui suit le verbe sans préposition et répond à quoi ? ou qui ?"
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de l’analyse d’un match de football par deux consultants de télévision, suivie par Norluc et ses deux frères."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Norluc et ses frères rencontrent-ils ?",
+     "app": "Les apprenants répondent :\nR2 : Ils ont du mal à comprendre l’analyse à cause de la complexité des phrases."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Landry pour les aider ?",
+     "app": "Les apprenants répondent :\nR3 : Ils posent leur problème à leur frère aîné Landry, qui leur présente un texte extrait de Verre cassé, d’Alain Mabanckou."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Norluc et ses frères, nous allons apprendre à reconnaître et analyser la proposition subordonnée conjonctive introduite par « que ».",
+     "app": "Les apprenants expriment le besoin d’apprendre à reconnaître et analyser la proposition subordonnée conjonctive introduite par « que »."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le texte proposé par l’enseignant.",
+    "Souligner les phrases qui contiennent au moins deux verbes conjugués.",
+    "Relever celles qui contiennent le mot que.",
+    "Indiquer la nature de que dans chaque phrase.",
+    "Décomposer chacune des phrases relevées en différentes propositions.",
+    "Encadrer les propositions introduites par la conjonction de subordination que.",
+    "Indiquer la nature des propositions encadrées.",
+    "Justifier cette nature.",
+    "Dégager la fonction des propositions encadrées.",
+    "Justifier cette fonction.",
+    "Identifier les verbes introduisant les propositions encadrées.",
+    "Indiquer - les valeurs des verbes identifiés ; - le mode auquel est conjugué chacun de ces verbes.",
+    "Rappeler la démarche utilisée."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit les phrases au tableau et demande de les lire silencieusement.",
+     "texte": "1. Je crois que le match est très serré.\n2. J’espère que la seconde période sera meilleure.\n3. Souhaitons que la seconde partie soit différente.\n4. Je veux que les joueurs marquent un but.\n5. Le match commence à vingt heures.",
+     "app": "Les apprenants lisent silencieusement les phrases, puis quelques-uns les lisent à haute voix."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de souligner les phrases qui contiennent au moins deux verbes conjugués.\nQ1 : Quelles phrases contiennent au moins deux verbes conjugués ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR1 : Les phrases 1 à 4. La phrase 5 n’a qu’un verbe."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de relever celles qui contiennent le mot que.\nQ2 : Quelles phrases contiennent le mot « que » ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR2 : Les phrases 1, 2, 3 et 4."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de indiquer la nature de que dans chaque phrase.\nQ3 : Quelle est la nature de « que » ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR3 : C’est une conjonction de subordination."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de décomposer chacune des phrases relevées en différentes propositions.\nQ4 : En quelles propositions peut-on décomposer chaque phrase ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR4 : 1 : « je crois » / « que le match est très serré ». 2 : « j’espère » / « que la seconde période sera meilleure ». 3 : « souhaitons » / « que la seconde partie soit différente ». 4 : « je veux » / « que les joueurs marquent un but »."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande de encadrer les propositions introduites par la conjonction de subordination que.\nQ5 : Quelles propositions sont introduites par « que » ?",
+     "app": "Les apprenants repèrent les éléments dans leur cahier, puis les présentent.\nR5 : « Que le match est très serré » ; « que la seconde période sera meilleure » ; « que la seconde partie soit différente » ; « que les joueurs marquent un but »."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de indiquer la nature des propositions encadrées.\nQ6 : Quelle est la nature de ces propositions ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR6 : Ce sont des propositions subordonnées conjonctives (ou complétives)."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de justifier cette nature.\nQ7 : Pourquoi cette nature ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR7 : Elles sont introduites par la conjonction de subordination « que » et dépendent d’une proposition principale."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de dégager la fonction des propositions encadrées.\nQ8 : Quelle est la fonction de ces propositions ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR8 : Elles sont compléments d’objet directs du verbe de la principale."
+    },
+    {
+     "a": 10,
+     "ens": "L’enseignant demande de justifier cette fonction.\nQ9 : Comment justifie-t-on cette fonction ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR9 : On pose la question « quoi ? » au verbe de la principale : je crois quoi ? Que le match est très serré."
+    },
+    {
+     "a": 11,
+     "ens": "L’enseignant demande de identifier les verbes introduisant les propositions encadrées.\nQ10 : Quels verbes introduisent ces propositions ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR10 : Crois ; espère ; souhaitons ; veux."
+    },
+    {
+     "a": 12,
+     "ens": "L’enseignant demande de indiquer les valeurs des verbes identifiés, puis le mode auquel est conjugué chacun de ces verbes.\nQ11 : Quelles sont les valeurs de ces verbes ? À quel mode est conjugué le verbe de la subordonnée ?",
+     "app": "Les apprenants observent les phrases, puis répondent.\nR11 : Crois (opinion) et espère (espoir) : subordonnée à l’indicatif (est, sera). Souhaitons (souhait) et veux (volonté) : subordonnée au subjonctif (soit, marquent)."
+    },
+    {
+     "a": 13,
+     "ens": "L’enseignant demande de rappeler la démarche utilisée.\nQ12 : Quelle démarche avons-nous suivie ?",
+     "app": "Les apprenants rappellent la démarche suivie.\nR12 : On repère les phrases à deux verbes, le mot « que », on décompose en propositions, on donne la nature et la fonction de la subordonnée, puis on étudie le verbe qui l’introduit et son mode."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La proposition subordonnée conjonctive complétive introduite par « que »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle est sa fonction ?",
+     "app": "Les apprenants répondent :\nR2 : Complément d’objet direct du verbe de la principale."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quel mode emploie-t-on après souhaiter et vouloir ?",
+     "app": "Les apprenants répondent :\nR3 : Le subjonctif."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "item": "Dans chaque phrase, encadre la proposition subordonnée conjonctive, écris sa fonction et le mode de son verbe.",
+    "situation": "Tu aides Norluc à analyser les phrases d’un commentaire sportif.",
+    "criteres": [
+     "« Que tu réussiras » : COD ; indicatif.",
+     "« Que tu réussisses » : COD ; subjonctif.",
+     "« Que la route est fermée » : COD ; indicatif."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le texte au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "texte": "1. Je pense que tu réussiras.\n2. Nous souhaitons que tu réussisses.\n3. Il dit que la route est fermée.",
+     "app": "Chaque apprenant traite l’item sur sa feuille."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Grammaire : La proposition subordonnée conjonctive complétive",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Une proposition subordonnée conjonctive complétive est introduite par la conjonction de subordination que. Elle complète le verbe de la proposition principale."
+   },
+   {
+    "type": "ex",
+    "text": "Je crois que le match est très serré."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Principale",
+     "Subordonnée complétive",
+     "Mode"
+    ],
+    "rows": [
+     [
+      "Je crois",
+      "que le match est très serré",
+      "indicatif"
+     ],
+     [
+      "J’espère",
+      "que la seconde période sera meilleure",
+      "indicatif"
+     ],
+     [
+      "Je veux",
+      "que les joueurs marquent un but",
+      "subjonctif"
+     ]
+    ]
+   },
+   {
+    "type": "p",
+    "text": "La subordonnée est le plus souvent complément d’objet direct : je crois quoi ? que le match est serré."
+   },
+   {
+    "type": "nb",
+    "text": "Après croire, penser, espérer, dire, on emploie l’indicatif. Après vouloir, souhaiter, il faut que, on emploie le subjonctif."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "La subordonnée complétive commence par que.",
+     "Elle est complément d’objet direct de la principale.",
+     "Son mode dépend du verbe qui l’introduit."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne la proposition subordonnée introduite par que.",
+    "items": [
+     "Je pense que tu as raison.",
+     "Il veut que tu viennes.",
+     "Nous espérons que la pluie cessera."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : J’écris le mode du verbe de la subordonnée.",
+    "items": [
+     "Je crois qu’il viendra.",
+     "Je souhaite qu’il vienne.",
+     "Elle dit que le repas est prêt."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je construis une phrase avec chaque verbe introducteur.",
+    "items": [
+     "penser que",
+     "vouloir que"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : que tu as raison ; que tu viennes ; que la pluie cessera.",
+  "Exercice 2 : indicatif ; subjonctif ; indicatif.",
+  "Exercice 3 : réponses libres. Exemples : Je pense que tu réussiras. Je veux que tu sois heureux.",
+  "Évaluation : un point par phrase bien analysée (3 points)."
+ ]
+}
