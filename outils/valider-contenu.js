@@ -306,7 +306,7 @@ lu.docs.forEach(d=>{if(!(d.img in IMG))err("id "+d.id,"meta.img : image « "+d.i
  let c;try{c=cycleOf(d.n)}catch(e){}
  if(!c)err("id "+d.id,"meta.n : niveau « "+d.n+" » inconnu")});
 function listeJson(d,out){fs.readdirSync(d,{withFileTypes:true}).forEach(e=>{const f=path.join(d,e.name);
- if(e.isDirectory())listeJson(f,out);else if(e.name.endsWith(".json")&&e.name!=="index-versions.json")out.push(path.relative(dir,f).split(path.sep).join("/"))});return out}
+ if(e.isDirectory())listeJson(f,out);else if(e.name.endsWith(".json"))out.push(path.relative(dir,f).split(path.sep).join("/"))});return out}
 for(const name of listeJson(dir,[]).sort((a,b)=>(parseInt(base(a))||0)-(parseInt(base(b))||0)||a.localeCompare(b))){
  let j;try{j=JSON.parse(fs.readFileSync(path.join(dir,name),"utf8"))}catch(e){if(!lu.errs.some(x=>x[0]===name))err(name,"JSON invalide ("+e.message+")");continue}
  if(j&&j.type==="fiche"){if(j.approche==="APS")validerFicheAPS(name,j);else validerFiche(name,j);continue}

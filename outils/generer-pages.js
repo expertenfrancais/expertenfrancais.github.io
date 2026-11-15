@@ -5,8 +5,7 @@
    - L’adresse du site est facultative, mais nécessaire pour sitemap.xml, robots.txt et les liens « canonical ».
    - À relancer chaque fois que vous ajoutez ou modifiez un document (fichier de contenu/cours/<cycle>/, contenu/fiches/<cycle>/ ou contenu/annales/<cycle>/ contenu/exercices/<cycle>/ ou contenu/evaluations/<cycle>/).
    - Le catalogue de data.js (ALLDOCS) est reconstruit à partir de la clé "meta" de ces fichiers (voir outils/catalogue.js).
-   - Les anciennes pages de cours/ (y compris les anciennes pages à plat) qui n’existent plus dans le catalogue sont supprimées.
-   - La liste des pages à garder hors ligne (sw.js) est mise à jour automatiquement. */
+   - Les anciennes pages de cours/ (y compris les anciennes pages à plat) qui n’existent plus dans le catalogue sont supprimées.*/
 const fs=require("fs"),path=require("path"),vm=require("vm");
 const root=path.join(__dirname,"..");
 const SITE=(process.argv[2]||"").replace(/\/+$/,"");
@@ -155,13 +154,6 @@ function clean(d){
   else if(e.name.endsWith(".html")&&!keep.has(rel))fs.unlinkSync(full)})}
 DIRS.forEach(clean);
 ALLDOCS.forEach(d=>{const f=path.join(root,docFile(d));fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,page(d))});
-
-/* Liste des pages gardées hors ligne */
-const swp=path.join(root,"sw.js");let sw=fs.readFileSync(swp,"utf8");
-sw=sw.replace(/var COURS=\[[^\]]*\];/,"var COURS="+JSON.stringify(ALLDOCS.filter(d=>d.k!=="Fiches").map(docFile))+";");
-sw=sw.replace(/var CONTENU=\[[^\]]*\];/,"var CONTENU="+JSON.stringify(ALLDOCS.filter(d=>d.k!=="Fiches").map(contentFile))+";");
-fs.writeFileSync(swp,sw);
-require("./generer-versions.js"); /* empreintes des fichiers pour la mise à jour incrémentale hors ligne */
 
 if(SITE){
  const root_pages=["index.html","catalogue.html","abonnement.html"];
