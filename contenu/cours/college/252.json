@@ -1,0 +1,485 @@
+{
+ "id": 252,
+ "meta": {
+  "t": "La rédaction d’un article de journal",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Expression écrite",
+  "img": "w3",
+  "r": 4.8,
+  "mf": "MF5.7.2"
+ },
+ "sections": [
+  {
+   "t": "Qu’est-ce qu’un article de journal ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un journal informe ses lecteurs sur ce qui s’est passé : un match, une fête, un accident, une décision. Chaque information est présentée dans un **article**. Rédiger un article, c’est apprendre à **informer** de façon **claire, exacte et rapide**."
+    },
+    {
+     "type": "def",
+     "label": "L’article de journal",
+     "text": "Un **article de journal** est un texte **court** qui **rapporte un fait** réel à des lecteurs. Il répond à des questions précises (qui ? quoi ? où ? quand ?) et ne donne pas l’opinion de son auteur."
+    },
+    {
+     "type": "table",
+     "title": "Ce qui distingue un article d’un récit",
+     "head": [
+      "Critère",
+      "Article de journal",
+      "Récit"
+     ],
+     "rows": [
+      [
+       "But",
+       "informer",
+       "raconter, divertir"
+      ],
+      [
+       "Faits",
+       "réels, vérifiables",
+       "souvent inventés"
+      ],
+      [
+       "Auteur",
+       "reste discret (pas de « je »)",
+       "peut dire « je »"
+      ],
+      [
+       "Longueur",
+       "court, aéré",
+       "variable"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître les parties d’un article",
+      "Répondre aux six questions de l’information",
+      "Organiser l’essentiel en premier",
+      "Rédiger un article avec un style neutre"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le but principal d’un article de journal ?",
+     "options": [
+      "distraire",
+      "informer",
+      "convaincre"
+     ],
+     "answer": 1,
+     "explain": "L’article rapporte un fait réel pour informer le lecteur."
+    }
+   ]
+  },
+  {
+   "t": "Les parties d’un article",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un article se compose de **quatre éléments** que l’on retrouve presque toujours."
+    },
+    {
+     "type": "table",
+     "title": "Les parties d’un article de journal",
+     "head": [
+      "Partie",
+      "Rôle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Le titre**",
+       "annoncer le sujet en peu de mots, pour donner envie de lire",
+       "Les élèves du collège Les Palmiers gagnent le concours de lecture"
+      ],
+      [
+       "**Le chapeau**",
+       "un court paragraphe sous le titre qui résume **l’essentiel**",
+       "Samedi, à Brazzaville, cinq collèges ont participé à un concours de lecture. Les Palmiers ont terminé premiers."
+      ],
+      [
+       "**Le corps de l’article**",
+       "les détails : déroulement, chiffres, témoignages",
+       "Trente élèves ont lu un texte devant un jury…"
+      ],
+      [
+       "**La signature**",
+       "le nom de l’auteur ou de la source",
+       "Awa M., élève de 5e"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Un titre efficace"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**court** (une ligne)",
+      "**précis** : il annonce le fait",
+      "**vrai** : il ne ment pas pour attirer le lecteur",
+      "souvent écrit au **présent**"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "On écrit souvent le **titre en dernier** : une fois l’article terminé, on sait mieux ce qui est essentiel.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Comment appelle-t-on le court paragraphe sous le titre ?",
+     "options": [
+      "le chapeau",
+      "la signature",
+      "le corps"
+     ],
+     "answer": 0,
+     "explain": "Le chapeau résume l’essentiel de l’information."
+    }
+   ]
+  },
+  {
+   "t": "Les six questions et la pyramide inversée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour ne rien oublier, un journaliste répond à **six questions**."
+    },
+    {
+     "type": "table",
+     "title": "Les six questions de l’information",
+     "head": [
+      "Question",
+      "Elle donne…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Qui ?**",
+       "les personnes concernées",
+       "les élèves de cinq collèges"
+      ],
+      [
+       "**Quoi ?**",
+       "le fait",
+       "un concours de lecture"
+      ],
+      [
+       "**Où ?**",
+       "le lieu",
+       "à Brazzaville, salle des fêtes"
+      ],
+      [
+       "**Quand ?**",
+       "le moment",
+       "samedi dernier, à 9 h"
+      ],
+      [
+       "**Comment ?**",
+       "le déroulement",
+       "chaque élève lit un texte devant un jury"
+      ],
+      [
+       "**Pourquoi ?**",
+       "la cause ou le but",
+       "pour donner le goût de la lecture"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "La pyramide inversée"
+    },
+    {
+     "type": "p",
+     "text": "Dans un article, on place **l’information la plus importante en premier**, puis les détails, du plus important au moins important. C’est la **pyramide inversée**. Ainsi, même si le lecteur s’arrête après deux phrases, il a retenu l’essentiel."
+    },
+    {
+     "type": "table",
+     "title": "De l’essentiel au détail",
+     "head": [
+      "Place dans l’article",
+      "Contenu"
+     ],
+     "rows": [
+      [
+       "Début (titre et chapeau)",
+       "l’**essentiel** : qui, quoi, où, quand"
+      ],
+      [
+       "Milieu",
+       "les **détails importants** : comment, pourquoi"
+      ],
+      [
+       "Fin",
+       "les **détails secondaires** : témoignage, anecdote, suite possible"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Avant d’écrire, répondez aux **six questions** sur un brouillon. Votre article en sortira presque tout fait.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans la pyramide inversée, que met-on au début ?",
+     "options": [
+      "les détails secondaires",
+      "l’information la plus importante",
+      "la conclusion"
+     ],
+     "answer": 1,
+     "explain": "On commence par l’essentiel, puis on donne les détails."
+    }
+   ]
+  },
+  {
+   "t": "Lire un article complet",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Voici un article **inventé pour l’exercice**. Repérez-y le titre, le chapeau, le corps et la signature."
+    },
+    {
+     "type": "ex",
+     "text": "**Les élèves du collège Les Palmiers gagnent le concours de lecture**\n*Samedi dernier, à Brazzaville, cinq collèges ont participé à un concours de lecture. L’équipe du collège Les Palmiers a terminé première.*\nTrente élèves de 6e et de 5e se sont retrouvés à 9 h dans la salle des fêtes de la mairie. Chacun devait lire à voix haute un texte devant un jury de trois enseignants. Les juges ont noté la clarté de la voix et le respect de la ponctuation.\n« J’ai un peu tremblé, mais j’ai gardé mon calme », raconte Nadège, 12 ans, de l’équipe gagnante. Les organisateurs veulent renouveler le concours l’an prochain.\n**Awa M., élève de 5e**",
+     "label": "Article imaginaire"
+    },
+    {
+     "type": "table",
+     "title": "Les six questions dans cet article",
+     "head": [
+      "Question",
+      "Réponse"
+     ],
+     "rows": [
+      [
+       "Qui ?",
+       "trente élèves de cinq collèges"
+      ],
+      [
+       "Quoi ?",
+       "un concours de lecture"
+      ],
+      [
+       "Où ?",
+       "dans la salle des fêtes de la mairie, à Brazzaville"
+      ],
+      [
+       "Quand ?",
+       "samedi dernier, à 9 h"
+      ],
+      [
+       "Comment ?",
+       "lecture à voix haute devant un jury"
+      ],
+      [
+       "Pourquoi ?",
+       "donner le goût de la lecture (le but du concours)"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Remarquez : phrases **courtes**, pas de « je » de l’auteur, un **témoignage** entre guillemets, et l’essentiel dès le chapeau.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans l’article, où se trouve le témoignage de Nadège ?",
+     "options": [
+      "dans le titre",
+      "dans le corps de l’article",
+      "dans la signature"
+     ],
+     "answer": 1,
+     "explain": "Le témoignage est un détail : il se place dans le corps de l’article."
+    }
+   ]
+  },
+  {
+   "t": "Le style et les pièges à éviter",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Le style d’un article de journal",
+     "head": [
+      "Qualité",
+      "Ce que cela veut dire"
+     ],
+     "rows": [
+      [
+       "**Clarté**",
+       "phrases courtes, mots simples"
+      ],
+      [
+       "**Exactitude**",
+       "noms, dates, chiffres vérifiés"
+      ],
+      [
+       "**Neutralité**",
+       "pas d’opinion personnelle de l’auteur"
+      ],
+      [
+       "**Temps**",
+       "passé composé ou présent pour raconter ; présent dans le titre"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Distinguer un fait d’une opinion"
+    },
+    {
+     "type": "table",
+     "title": "Fait ou opinion ?",
+     "head": [
+      "Phrase",
+      "Nature"
+     ],
+     "rows": [
+      [
+       "Trente élèves ont participé au concours.",
+       "**fait** (on peut le vérifier)"
+      ],
+      [
+       "Ce concours était magnifique.",
+       "**opinion** (à éviter dans un article)"
+      ],
+      [
+       "Le jury a noté la clarté de la voix.",
+       "**fait**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 1 : écrire « je » ou donner son avis.** Dites « Les élèves ont lu » et non « J’ai trouvé que les élèves lisaient bien ».",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 2 : oublier une des six questions.** Un article sans date ou sans lieu est incomplet.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 3 : inventer des détails.** Un article raconte des **faits réels** ; on ne peut pas ajouter ce qu’on n’a pas vérifié.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 4 : un titre trompeur.** Le titre doit correspondre au contenu de l’article.",
+     "label": "Attention"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase convient dans un article de journal ?",
+     "options": [
+      "Ce concours était vraiment génial !",
+      "Trente élèves ont participé au concours.",
+      "Moi, je pense que le jury a été injuste."
+     ],
+     "answer": 1,
+     "explain": "Un article rapporte des faits vérifiables, sans opinion personnelle."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Dis si c’est un fait ou une opinion.",
+     "items": [
+      "a) Le match a eu lieu samedi à 15 h.",
+      "b) Le match était ennuyeux.",
+      "c) Le collège a gagné par deux buts à un.",
+      "d) L’arbitre était trop sévère."
+     ],
+     "corrige": [
+      "a) fait",
+      "b) opinion",
+      "c) fait",
+      "d) opinion"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Trouve les six réponses : *Hier matin, à l’école primaire de Mfilou, les élèves ont planté vingt arbres pour protéger la cour contre la chaleur.*",
+     "items": [
+      "Qui ?",
+      "Quoi ?",
+      "Où ?",
+      "Quand ?",
+      "Comment ?",
+      "Pourquoi ?"
+     ],
+     "corrige": [
+      "les élèves de l’école primaire",
+      "ils ont planté vingt arbres",
+      "à l’école de Mfilou, dans la cour",
+      "hier matin",
+      "en plantant des arbres (action collective)",
+      "pour protéger la cour contre la chaleur"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Écris le chapeau de l’article à partir des notes : *samedi, marché de Poto-Poto, collecte de vieux cahiers, 40 élèves, but : les offrir à une école de village.*",
+     "items": [
+      "Ton chapeau"
+     ],
+     "corrige": [
+      "Exemple : Samedi, au marché de Poto-Poto, quarante élèves ont collecté de vieux cahiers pour les offrir à une école de village."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Rédige un article de 8 à 10 lignes sur un événement de ton école (fête, match, sortie). Donne un titre, un chapeau, le corps et ta signature.",
+     "items": [
+      "Ton article"
+     ],
+     "corrige": [
+      "Réponse libre. Vérifier : titre court et vrai, chapeau avec l’essentiel, six questions traitées, pyramide inversée, aucune opinion, signature."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "Un **article de journal** rapporte un fait réel pour **informer** ; il ne donne pas l’avis de l’auteur.",
+      "Il se compose d’un **titre**, d’un **chapeau**, du **corps** et d’une **signature**.",
+      "Il répond aux six questions : **qui, quoi, où, quand, comment, pourquoi**.",
+      "**Pyramide inversée** : l’essentiel d’abord, les détails ensuite.",
+      "Style : **clair, exact, neutre**, sans « je » ; ne pas mélanger faits et opinions."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Que contient le chapeau d’un article ?",
+     "options": [
+      "l’essentiel de l’information",
+      "l’opinion de l’auteur",
+      "la liste des témoins"
+     ],
+     "answer": 0,
+     "explain": "Le chapeau résume l’essentiel en deux ou trois lignes."
+    }
+   ]
+  }
+ ]
+}

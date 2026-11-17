@@ -1,0 +1,343 @@
+{
+ "id": 253,
+ "meta": {
+  "t": "L’étude de l’espace et du temps dans l’œuvre",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Lecture",
+  "img": "l5",
+  "r": 4.8,
+  "mf": "MF5.1.5"
+ },
+ "sections": [
+  {
+   "t": "Où et quand se passe l’histoire ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Toute histoire se passe **quelque part** et **à un certain moment**. L’**espace** et le **temps** forment le **cadre** de l’œuvre. Ils aident à comprendre les personnages et les événements."
+    },
+    {
+     "type": "def",
+     "label": "L’espace",
+     "text": "L’**espace** est l’ensemble des **lieux** où se déroule l’histoire : un village, une ville, une forêt, une maison, un fleuve…"
+    },
+    {
+     "type": "def",
+     "label": "Le temps",
+     "text": "Le **temps** est ce qui situe l’histoire dans la durée : l’**époque** (autrefois, aujourd’hui), la **durée** (une journée, trois ans), les **moments** (le matin, la saison des pluies)."
+    },
+    {
+     "type": "ex",
+     "text": "« Au lever du jour, Kimi quitta la case de ses parents, au bord du fleuve. Trois jours plus tard, il atteignit enfin la ville. »\nEspace : la case au bord du fleuve, la ville. Temps : le lever du jour, trois jours.",
+     "label": "Exemple"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Repérer les lieux d’une œuvre",
+      "Repérer l’époque, la durée et les moments",
+      "Dire à quoi servent l’espace et le temps dans l’histoire"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "« Trois jours plus tard » donne une indication d’…",
+     "options": [
+      "espace",
+      "temps",
+      "personnage"
+     ],
+     "answer": 1,
+     "explain": "C’est un repère de temps : il indique une durée écoulée."
+    }
+   ]
+  },
+  {
+   "t": "L’étude de l’espace",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour étudier l’espace, on relève **les lieux** cités, on dit **comment ils sont décrits**, et on cherche **ce qu’ils apportent** à l’histoire."
+    },
+    {
+     "type": "table",
+     "title": "Les sortes de lieux",
+     "head": [
+      "Sorte de lieu",
+      "Définition",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**Lieu ouvert**",
+       "un lieu en plein air, sans murs",
+       "le fleuve, la forêt, le marché, la route"
+      ],
+      [
+       "**Lieu fermé**",
+       "un lieu clos, avec des murs",
+       "la case, la classe, la prison, la maison"
+      ],
+      [
+       "**Lieu réel**",
+       "un lieu qui existe vraiment",
+       "Brazzaville, le fleuve Congo"
+      ],
+      [
+       "**Lieu imaginaire**",
+       "un lieu inventé par l’auteur",
+       "un village qui n’est sur aucune carte"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Où trouver les indices ?"
+    },
+    {
+     "type": "list",
+     "items": [
+      "les **noms de lieux** (Brazzaville, le fleuve…)",
+      "les **verbes de déplacement** (partir, traverser, arriver)",
+      "les **compléments de lieu** (au bord du fleuve, dans la forêt)",
+      "les **descriptions** (« la case était petite et sombre »)"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Faites une **liste des lieux** dans l’ordre où ils apparaissent. Elle montre le **trajet** des personnages.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Une cellule de prison est…",
+     "options": [
+      "un lieu ouvert",
+      "un lieu fermé",
+      "un lieu imaginaire par nature"
+     ],
+     "answer": 1,
+     "explain": "Une prison est un lieu clos : un lieu fermé."
+    }
+   ]
+  },
+  {
+   "t": "L’étude du temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour étudier le temps, on cherche **l’époque**, **la durée** de l’histoire et **les repères** du texte."
+    },
+    {
+     "type": "table",
+     "title": "Les repères de temps",
+     "head": [
+      "Repère",
+      "Question",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**L’époque**",
+       "Quand cela se passe-t-il ?",
+       "autrefois, il y a longtemps, de nos jours"
+      ],
+      [
+       "**La durée**",
+       "Combien de temps dure l’histoire ?",
+       "une nuit, trois jours, dix ans"
+      ],
+      [
+       "**Les moments**",
+       "À quel moment précis ?",
+       "à l’aube, le soir, en hiver, un lundi"
+      ],
+      [
+       "**Les saisons**",
+       "Quelle période de l’année ?",
+       "la saison des pluies, la saison sèche"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "L’histoire et le récit"
+    },
+    {
+     "type": "p",
+     "text": "L’**histoire** peut durer **dix ans**, mais le **récit** peut la raconter en **dix pages**. Le narrateur peut donc **résumer** des mois entiers en une phrase, ou s’**attarder** sur une seule minute importante."
+    },
+    {
+     "type": "warn",
+     "text": "**Piège : ne confondez pas l’époque de l’histoire et l’époque où le livre a été écrit.** Un roman écrit aujourd’hui peut raconter l’Afrique d’autrefois.",
+     "label": "Attention"
+    },
+    {
+     "type": "quiz",
+     "question": "« Il attendit pendant dix ans » donne une indication de…",
+     "options": [
+      "durée",
+      "lieu",
+      "personnage"
+     ],
+     "answer": 0,
+     "explain": "« pendant dix ans » indique la durée de l’attente."
+    }
+   ]
+  },
+  {
+   "t": "À quoi servent l’espace et le temps ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’espace et le temps ne sont pas de simples décors : ils jouent un **rôle** dans l’histoire."
+    },
+    {
+     "type": "table",
+     "title": "Les rôles de l’espace et du temps",
+     "head": [
+      "Rôle",
+      "Explication",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Créer une atmosphère**",
+       "un lieu ou un moment fait ressentir une émotion",
+       "une forêt sombre à la tombée de la nuit crée la peur"
+      ],
+      [
+       "**Révéler un personnage**",
+       "le lieu où il vit en dit long sur lui",
+       "une case modeste montre un personnage pauvre mais généreux"
+      ],
+      [
+       "**Faire avancer l’action**",
+       "le lieu ou le moment provoque des événements",
+       "la saison des pluies empêche Kimi de traverser le fleuve"
+      ],
+      [
+       "**Donner de la vérité**",
+       "des lieux réels rendent l’histoire crédible",
+       "un marché de Brazzaville bien décrit"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« La nuit tombait sur la forêt. Chaque craquement faisait sursauter Kimi. » → l’espace (la forêt) et le temps (la nuit) créent une atmosphère de peur.",
+     "label": "Exemple"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège : ne vous contentez pas de nommer les lieux.** Expliquez **pourquoi** le lieu ou le moment est important : « La forêt montre que Kimi est seul et en danger. »",
+     "label": "Attention"
+    },
+    {
+     "type": "tip",
+     "text": "Pour chaque lieu important, posez la question : **qu’apporte-t-il à l’histoire ?** (atmosphère, action, portrait du personnage).",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Une forêt sombre à la nuit tombée sert surtout à…",
+     "options": [
+      "donner l’heure exacte",
+      "créer une atmosphère de peur",
+      "présenter l’auteur"
+     ],
+     "answer": 1,
+     "explain": "Le lieu et le moment font naître une impression d’inquiétude chez le lecteur."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Relève les indications d’espace et de temps : *« À la saison des pluies, Awa quitta son village, traversa la forêt et arriva à Brazzaville après deux jours de marche. »*",
+     "items": [
+      "Lieux",
+      "Repères de temps"
+     ],
+     "corrige": [
+      "son village, la forêt, Brazzaville",
+      "à la saison des pluies, après deux jours de marche"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Dis si le lieu est ouvert ou fermé.",
+     "items": [
+      "a) la classe",
+      "b) le marché",
+      "c) la forêt",
+      "d) la case"
+     ],
+     "corrige": [
+      "a) fermé",
+      "b) ouvert",
+      "c) ouvert",
+      "d) fermé"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis si l’indication est une époque, une durée ou un moment.",
+     "items": [
+      "a) autrefois",
+      "b) pendant trois semaines",
+      "c) à l’aube",
+      "d) il y a longtemps"
+     ],
+     "corrige": [
+      "a) époque",
+      "b) durée",
+      "c) moment",
+      "d) époque"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Choisis un lieu important de l’œuvre que tu lis et explique en deux phrases ce qu’il apporte à l’histoire.",
+     "items": [
+      "Ta réponse"
+     ],
+     "corrige": [
+      "Réponse libre. Vérifier : le lieu est nommé, et son rôle est expliqué (atmosphère, action, portrait)."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "L’**espace** (les lieux) et le **temps** (époque, durée, moments) forment le **cadre** de l’œuvre.",
+      "Les lieux sont **ouverts** ou **fermés**, **réels** ou **imaginaires**.",
+      "Repères de temps : l’**époque**, la **durée**, les **moments**, les **saisons**.",
+      "L’histoire peut durer longtemps, mais le récit peut la **résumer** ou s’**attarder**.",
+      "L’espace et le temps servent à créer une **atmosphère**, à **révéler un personnage** et à **faire avancer l’action**."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Qu’est-ce qu’un lieu fermé ?",
+     "options": [
+      "un lieu avec des murs, comme une case",
+      "un lieu inventé",
+      "un lieu où personne ne va"
+     ],
+     "answer": 0,
+     "explain": "Un lieu fermé est un lieu clos : une case, une classe, une maison."
+    }
+   ]
+  }
+ ]
+}

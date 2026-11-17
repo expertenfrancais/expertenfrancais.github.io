@@ -1,0 +1,365 @@
+{
+ "id": 255,
+ "meta": {
+  "t": "Les personnages de l’œuvre",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Lecture",
+  "img": "l7",
+  "r": 4.8,
+  "mf": "MF5.1.5"
+ },
+ "sections": [
+  {
+   "t": "Qui sont les personnages ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une histoire ne peut pas exister sans personnages : ce sont eux qui **agissent**, **parlent** et **ressentent**. Les connaître permet de comprendre l’histoire."
+    },
+    {
+     "type": "def",
+     "label": "Un personnage",
+     "text": "Un **personnage** est un être (une personne, un animal, parfois une chose) qui **participe à l’histoire**. Il est inventé par l’auteur, même s’il ressemble à une personne réelle."
+    },
+    {
+     "type": "def",
+     "label": "Le portrait",
+     "text": "Le **portrait** d’un personnage le décrit : le **portrait physique** (son corps, ses vêtements) et le **portrait moral** (son caractère, ses qualités, ses défauts)."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Distinguer personnage principal et personnages secondaires",
+      "Reconnaître le rôle des personnages (héros, adjuvant, opposant)",
+      "Faire le portrait d’un personnage en s’appuyant sur le texte",
+      "Repérer l’évolution d’un personnage"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Le portrait moral décrit…",
+     "options": [
+      "le corps du personnage",
+      "le caractère du personnage",
+      "le lieu où il vit"
+     ],
+     "answer": 1,
+     "explain": "Le portrait moral parle du caractère : qualités, défauts, sentiments."
+    }
+   ]
+  },
+  {
+   "t": "Les personnages principaux et secondaires",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les sortes de personnages",
+     "head": [
+      "Sorte",
+      "Rôle",
+      "Exemple (histoire inventée)"
+     ],
+     "rows": [
+      [
+       "**Personnage principal** (le héros)",
+       "celui dont on suit l’histoire ; il est présent presque partout",
+       "Kimi, le jeune pêcheur"
+      ],
+      [
+       "**Personnages secondaires**",
+       "ils aident ou gênent le héros, mais on les voit moins",
+       "la grand-mère, le chef du village"
+      ],
+      [
+       "**Figurants**",
+       "ils apparaissent un instant, sans rôle important",
+       "un passant au marché"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les rôles dans l’action"
+    },
+    {
+     "type": "table",
+     "title": "Héros, adjuvant, opposant",
+     "head": [
+      "Rôle",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Le héros**",
+       "celui qui cherche à atteindre un but",
+       "Kimi veut retrouver la pirogue."
+      ],
+      [
+       "**L’adjuvant**",
+       "celui qui **aide** le héros",
+       "la grand-mère lui donne un conseil."
+      ],
+      [
+       "**L’opposant**",
+       "celui ou ce qui **empêche** le héros d’atteindre son but",
+       "un voisin lui ment ; la tempête le retarde."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Piège : un opposant n’est pas toujours une personne méchante.** Ce peut être un obstacle : la maladie, la peur, une tempête.",
+     "label": "Attention"
+    },
+    {
+     "type": "tip",
+     "text": "Pour trouver le héros, demandez-vous : **de qui l’histoire raconte-t-elle les aventures du début à la fin ?**",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans l’histoire de Kimi, qui est l’adjuvant ?",
+     "options": [
+      "la grand-mère qui l’aide",
+      "la tempête qui le retarde",
+      "Kimi lui-même"
+     ],
+     "answer": 0,
+     "explain": "L’adjuvant aide le héros : ici, la grand-mère."
+    }
+   ]
+  },
+  {
+   "t": "Comment connaître un personnage ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "L’auteur ne dit pas toujours directement comment est un personnage. Le lecteur doit le **deviner** à partir de plusieurs indices."
+    },
+    {
+     "type": "table",
+     "title": "Les cinq sources d’information",
+     "head": [
+      "Source",
+      "Ce qu’elle montre",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Ce que le narrateur dit**",
+       "description directe",
+       "« Kimi était un garçon grand et fort. »"
+      ],
+      [
+       "**Ce que le personnage fait**",
+       "ses actions montrent son caractère",
+       "Il partage son repas avec un inconnu → il est généreux."
+      ],
+      [
+       "**Ce que le personnage dit**",
+       "sa façon de parler",
+       "« Je n’abandonnerai jamais ! » → il est déterminé."
+      ],
+      [
+       "**Ce qu’il pense ou ressent**",
+       "ses sentiments",
+       "Il a peur mais avance quand même."
+      ],
+      [
+       "**Ce que les autres disent de lui**",
+       "le regard des autres",
+       "« Kimi ? Il n’a jamais menti ! »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "« Kimi tendit sa dernière banane au petit garçon affamé. » → on comprend que Kimi est **généreux**, sans que le narrateur le dise.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "Le portrait : une méthode"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Rassemblez les indices du texte (actions, paroles, pensées).",
+      "Dégagez **deux ou trois qualités ou défauts**.",
+      "Appuyez chaque idée sur une **citation courte**."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "quiz",
+     "question": "« Kimi partagea son repas avec l’inconnu. » Que montre cette action ?",
+     "options": [
+      "qu’il est généreux",
+      "qu’il est paresseux",
+      "qu’il est menteur"
+     ],
+     "answer": 0,
+     "explain": "Partager son repas montre la générosité."
+    }
+   ]
+  },
+  {
+   "t": "L’évolution des personnages et les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un personnage peut **changer** au cours de l’histoire : ses sentiments, son comportement ou sa façon de voir le monde peuvent évoluer à cause de ce qu’il vit."
+    },
+    {
+     "type": "table",
+     "title": "L’évolution d’un personnage",
+     "head": [
+      "Moment",
+      "État du personnage",
+      "Cause du changement"
+     ],
+     "rows": [
+      [
+       "**Début**",
+       "Kimi est timide et solitaire.",
+       "—"
+      ],
+      [
+       "**Milieu**",
+       "Il demande de l’aide à des inconnus.",
+       "la disparition de la pirogue"
+      ],
+      [
+       "**Fin**",
+       "Il est confiant et ouvert aux autres.",
+       "les rencontres de son voyage"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 1 : ne mélangez pas portrait physique et portrait moral.** « Il est grand » est physique ; « il est courageux » est moral.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 2 : ne jugez pas sans preuve.** « Awa est méchante » ne suffit pas : il faut citer ce qu’elle dit ou fait.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 3 : ne confondez pas personnage et narrateur.** Le narrateur raconte ; le personnage agit dans l’histoire. Ils peuvent être la même personne (narrateur en « je »), mais pas toujours.",
+     "label": "Attention"
+    },
+    {
+     "type": "tip",
+     "text": "Pour montrer une évolution, comparez le personnage **au début** et **à la fin** de l’œuvre, puis expliquez **ce qui l’a changé**.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Pour justifier qu’un personnage est courageux, que faut-il faire ?",
+     "options": [
+      "citer une de ses actions dans le texte",
+      "dire seulement « il est courageux »",
+      "parler de l’auteur"
+     ],
+     "answer": 0,
+     "explain": "On appuie toujours son idée sur une preuve tirée du texte."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Dis si le personnage est le héros, un adjuvant ou un opposant. *Kimi veut retrouver sa pirogue.*",
+     "items": [
+      "a) Kimi",
+      "b) la grand-mère qui lui donne de l’eau et un conseil",
+      "c) le voisin qui lui ment volontairement",
+      "d) la tempête qui l’empêche de traverser"
+     ],
+     "corrige": [
+      "a) héros",
+      "b) adjuvant",
+      "c) opposant",
+      "d) opposant (un obstacle)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Dis si l’indice est physique ou moral.",
+     "items": [
+      "a) Il est grand et mince.",
+      "b) Il est toujours prêt à aider.",
+      "c) Elle porte un pagne rouge.",
+      "d) Elle est très patiente."
+     ],
+     "corrige": [
+      "a) physique",
+      "b) moral",
+      "c) physique",
+      "d) moral"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Que montre chaque action ?",
+     "items": [
+      "a) Il rend le porte-monnaie qu’il a trouvé.",
+      "b) Elle s’énerve et crie pour un rien.",
+      "c) Il avance dans la nuit malgré sa peur."
+     ],
+     "corrige": [
+      "a) l’honnêteté",
+      "b) l’impatience, la colère",
+      "c) le courage"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Fais le portrait moral du personnage principal de l’œuvre que tu lis, avec deux qualités et une citation pour chacune.",
+     "items": [
+      "Ton portrait"
+     ],
+     "corrige": [
+      "Réponse libre. Vérifier : deux qualités, chacune appuyée sur une citation exacte entre guillemets."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "Le **personnage principal** (le héros) est suivi du début à la fin ; les **personnages secondaires** l’aident ou le gênent.",
+      "L’**adjuvant** aide le héros ; l’**opposant** l’empêche d’atteindre son but (ce peut être un obstacle).",
+      "On connaît un personnage par ce que le narrateur dit, ce que le personnage fait, dit, pense, et ce que les autres disent de lui.",
+      "Le **portrait** comprend le physique et le moral ; on appuie chaque idée sur une **citation**.",
+      "Un personnage peut **évoluer** : on compare le début et la fin, et on explique la cause du changement."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Qui l’opposant empêche-t-il ?",
+     "options": [
+      "le héros",
+      "le narrateur",
+      "l’auteur"
+     ],
+     "answer": 0,
+     "explain": "L’opposant s’oppose au héros et l’empêche d’atteindre son but."
+    }
+   ]
+  }
+ ]
+}

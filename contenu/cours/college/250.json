@@ -1,0 +1,388 @@
+{
+ "id": 250,
+ "meta": {
+  "t": "La situation de communication",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g4",
+  "r": 4.8,
+  "mf": "MF6.2.8"
+ },
+ "sections": [
+  {
+   "t": "Communiquer, qu’est-ce que c’est ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand Awa appelle sa tante, quand le maître explique une leçon, quand un panneau interdit de fumer, il y a toujours une **communication**. Quelqu’un transmet quelque chose à quelqu’un d’autre."
+    },
+    {
+     "type": "def",
+     "label": "La communication",
+     "text": "**Communiquer**, c’est **transmettre un message** à quelqu’un. Pour qu’il y ait communication, il faut au moins **un émetteur**, **un récepteur** et **un message**."
+    },
+    {
+     "type": "def",
+     "label": "La situation de communication",
+     "text": "La **situation de communication** est l’ensemble des éléments qui entrent en jeu quand on communique : *qui parle, à qui, pour dire quoi, par quel moyen, avec quelle langue, dans quel contexte.* On la représente par un **schéma**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Connaître les éléments du schéma de la communication",
+      "Identifier ces éléments dans une situation",
+      "Expliquer pourquoi une communication peut échouer"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Qui transmet le message dans une communication ?",
+     "options": [
+      "le récepteur",
+      "l’émetteur",
+      "le canal"
+     ],
+     "answer": 1,
+     "explain": "L’émetteur est celui qui envoie le message."
+    }
+   ]
+  },
+  {
+   "t": "Les éléments du schéma de la communication",
+   "blocs": [
+    {
+     "type": "table",
+     "title": "Les six éléments de la communication",
+     "head": [
+      "Élément",
+      "Définition",
+      "Exemple : Awa téléphone à sa tante"
+     ],
+     "rows": [
+      [
+       "**L’émetteur**",
+       "celui qui envoie le message",
+       "Awa"
+      ],
+      [
+       "**Le récepteur**",
+       "celui qui reçoit le message",
+       "la tante"
+      ],
+      [
+       "**Le message**",
+       "ce qui est dit ou écrit",
+       "« Je viens demain. »"
+      ],
+      [
+       "**Le canal**",
+       "le moyen par lequel passe le message",
+       "le téléphone (la voix)"
+      ],
+      [
+       "**Le code**",
+       "la langue ou les signes employés",
+       "le français parlé"
+      ],
+      [
+       "**Le contexte** (la situation)",
+       "le moment, le lieu et le sujet dont on parle",
+       "la visite prévue pour demain"
+      ]
+     ]
+    },
+    {
+     "type": "schema",
+     "title": "Le schéma de la communication",
+     "cells": [
+      {
+       "mot": "Émetteur",
+       "role": "celui qui envoie",
+       "noyau": true
+      },
+      {
+       "mot": "Message",
+       "role": "ce qui est transmis"
+      },
+      {
+       "mot": "Canal",
+       "role": "le moyen"
+      },
+      {
+       "mot": "Récepteur",
+       "role": "celui qui reçoit",
+       "noyau": true
+      }
+     ],
+     "note": "Le message est écrit dans un code que l’émetteur et le récepteur connaissent tous les deux."
+    },
+    {
+     "type": "tip",
+     "text": "Pour trouver les éléments, posez les questions : **Qui parle ? À qui ? Pour dire quoi ? Par quel moyen ? Avec quelle langue ?**",
+     "label": "Astuce"
+    },
+    {
+     "type": "h",
+     "text": "Dans un dialogue, les rôles changent"
+    },
+    {
+     "type": "p",
+     "text": "Dans une conversation, celui qui parle est l’**émetteur**. Quand l’autre répond, il devient à son tour **émetteur**, et le premier devient **récepteur**."
+    },
+    {
+     "type": "quiz",
+     "question": "Qu’appelle-t-on le « canal » ?",
+     "options": [
+      "la langue employée",
+      "le moyen par lequel passe le message",
+      "la personne qui écoute"
+     ],
+     "answer": 1,
+     "explain": "Le canal, c’est le moyen : la voix, le téléphone, la lettre, l’écran…"
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître la situation de communication",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les éléments changent d’une situation à l’autre. Voici quelques exemples."
+    },
+    {
+     "type": "table",
+     "title": "Quatre situations",
+     "head": [
+      "Situation",
+      "Émetteur",
+      "Récepteur",
+      "Message",
+      "Canal",
+      "Code"
+     ],
+     "rows": [
+      [
+       "Un SMS",
+       "Awa",
+       "sa tante",
+       "« Je viens demain. »",
+       "le téléphone, l’écran",
+       "le français écrit"
+      ],
+      [
+       "Une annonce à la radio",
+       "le journaliste",
+       "les auditeurs",
+       "la météo du jour",
+       "la radio (les ondes)",
+       "le français parlé"
+      ],
+      [
+       "Un panneau « Défense de fumer »",
+       "la direction",
+       "les passants",
+       "l’interdiction de fumer",
+       "le panneau",
+       "écriture et dessin"
+      ],
+      [
+       "Une lettre",
+       "Paul",
+       "son ami",
+       "des nouvelles",
+       "le papier, la poste",
+       "le français écrit"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le code : les signes qu’on partage"
+    },
+    {
+     "type": "p",
+     "text": "Le **code** doit être **connu des deux personnes**. Ce peut être une langue (le français, le lingala, le kituba), mais aussi des **images**, des **gestes**, des **sons**, des **panneaux**."
+    },
+    {
+     "type": "ex",
+     "text": "Un feu rouge communique sans parler : l’émetteur est la ville, le récepteur est le conducteur, le message est « arrête-toi », le code est la couleur.",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans une lettre, quel est le canal ?",
+     "options": [
+      "la poste et le papier",
+      "le français",
+      "l’ami"
+     ],
+     "answer": 0,
+     "explain": "Le papier porte le message et la poste l’achemine : c’est le canal. Le français est le code."
+    }
+   ]
+  },
+  {
+   "t": "Quand la communication échoue",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La communication ne réussit pas toujours. Le message peut **ne pas arriver** ou **ne pas être compris**. On cherche alors **quel élément pose problème**."
+    },
+    {
+     "type": "table",
+     "title": "Les causes d’échec les plus fréquentes",
+     "head": [
+      "Problème",
+      "Élément concerné",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Les deux personnes **ne parlent pas la même langue**",
+       "le code",
+       "Un touriste parle anglais à quelqu’un qui ne le comprend pas."
+      ],
+      [
+       "Le message **ne passe pas**",
+       "le canal",
+       "Le téléphone n’a plus de réseau."
+      ],
+      [
+       "On **ne s’entend pas** à cause du bruit",
+       "le canal (le bruit)",
+       "On crie dans un marché très bruyant."
+      ],
+      [
+       "Le récepteur **n’écoute pas** ou **n’est pas là**",
+       "le récepteur",
+       "L’élève bavarde et n’entend pas la consigne."
+      ],
+      [
+       "Le message est **flou ou trop compliqué**",
+       "le message",
+       "Le maître emploie des mots trop difficiles."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Piège : ne confondez pas le canal et le code.** Le **canal**, c’est le **moyen** (téléphone, papier, voix). Le **code**, c’est la **langue ou les signes** (français, panneau, couleurs).",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège : ne confondez pas le message et le contexte.** Le **message**, c’est ce qu’on dit. Le **contexte**, c’est la situation autour (le moment, le lieu, le sujet).",
+     "label": "Attention"
+    },
+    {
+     "type": "tip",
+     "text": "Pour réussir sa communication : parler **clairement**, employer un **langage que l’autre comprend**, choisir le **bon moyen** et vérifier que l’autre a **bien compris**.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Un élève parle trop bas dans une salle bruyante. Quel obstacle gêne la communication ?",
+     "options": [
+      "le code",
+      "le bruit sur le canal",
+      "le contexte"
+     ],
+     "answer": 1,
+     "explain": "Le bruit empêche le message de bien passer par le canal."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Identifie les éléments de la situation : *Awa envoie un SMS à sa tante : « Je serai là demain. »*",
+     "items": [
+      "Émetteur",
+      "Récepteur",
+      "Message",
+      "Canal",
+      "Code"
+     ],
+     "corrige": [
+      "Awa",
+      "sa tante",
+      "« Je serai là demain. »",
+      "le téléphone (SMS)",
+      "le français écrit"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Associe chaque exemple à son canal (voix, papier, écran, panneau).",
+     "items": [
+      "a) une lettre",
+      "b) une conversation en face à face",
+      "c) un message sur un téléphone",
+      "d) un avis à l’entrée de l’école"
+     ],
+     "corrige": [
+      "a) papier",
+      "b) voix",
+      "c) écran",
+      "d) panneau"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis quel élément pose problème.",
+     "items": [
+      "a) Un élève parle swahili à un camarade qui ne comprend que le français.",
+      "b) Je t’appelle, mais il n’y a plus de réseau.",
+      "c) Le maître donne la consigne, mais personne n’écoute."
+     ],
+     "corrige": [
+      "a) le code",
+      "b) le canal",
+      "c) les récepteurs"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Fais le schéma de la communication pour un panneau « Défense de fumer » à l’entrée d’un hôpital.",
+     "items": [
+      "Ton schéma"
+     ],
+     "corrige": [
+      "Émetteur : la direction de l’hôpital ; récepteur : les visiteurs et les patients ; message : l’interdiction de fumer ; canal : le panneau ; code : écriture et pictogramme."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "**Communiquer**, c’est transmettre un message à quelqu’un.",
+      "Le schéma de la communication comprend : **l’émetteur, le récepteur, le message, le canal, le code et le contexte**.",
+      "Le **canal** est le moyen (voix, téléphone, papier) ; le **code** est la langue ou les signes employés.",
+      "Dans un dialogue, **les rôles s’échangent** : l’émetteur devient récepteur, et inversement.",
+      "La communication échoue si le code n’est pas partagé, si le canal est coupé ou bruyant, ou si le message est mal compris."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le code quand on parle français au téléphone ?",
+     "options": [
+      "le téléphone",
+      "le français",
+      "la voix"
+     ],
+     "answer": 1,
+     "explain": "Le code, c’est la langue employée : le français. Le téléphone est le canal."
+    }
+   ]
+  }
+ ]
+}

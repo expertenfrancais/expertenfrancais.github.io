@@ -1,0 +1,373 @@
+{
+ "id": 248,
+ "meta": {
+  "t": "La phrase complexe : la subordonnée relative",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g3",
+  "r": 4.8,
+  "mf": "MF6.2.6"
+ },
+ "sections": [
+  {
+   "t": "Donner des précisions sur un nom",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Regardez : « J’ai un cousin. » Cette phrase dit peu de choses. On peut la compléter : « J’ai un cousin **qui habite à Pointe-Noire**. » La partie en gras donne une **précision** sur le mot *cousin*."
+    },
+    {
+     "type": "def",
+     "label": "La proposition subordonnée relative",
+     "text": "La **subordonnée relative** est une proposition qui **complète un nom** (ou un pronom) en lui ajoutant une précision. Elle commence par un **pronom relatif** : *qui, que, où…* Elle **dépend** d’une autre proposition, la **principale**."
+    },
+    {
+     "type": "def",
+     "label": "L’antécédent",
+     "text": "Le mot que la relative complète s’appelle l’**antécédent**. Il se place **juste avant** le pronom relatif."
+    },
+    {
+     "type": "schema",
+     "title": "Une phrase avec une relative",
+     "cells": [
+      {
+       "mot": "J’ai",
+       "role": "proposition principale"
+      },
+      {
+       "mot": "un cousin",
+       "role": "antécédent",
+       "noyau": true
+      },
+      {
+       "mot": "qui",
+       "role": "pronom relatif"
+      },
+      {
+       "mot": "habite à Pointe-Noire",
+       "role": "proposition relative"
+      }
+     ],
+     "note": "La relative « qui habite à Pointe-Noire » précise l’antécédent « un cousin »."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître une proposition subordonnée relative",
+      "Trouver le pronom relatif et son antécédent",
+      "Employer *qui, que, où* correctement",
+      "Relier deux phrases avec un pronom relatif"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le livre que je lis est passionnant », quel est l’antécédent ?",
+     "options": [
+      "je",
+      "livre",
+      "passionnant"
+     ],
+     "answer": 1,
+     "explain": "Le pronom « que » reprend « le livre », qui est l’antécédent."
+    }
+   ]
+  },
+  {
+   "t": "Qui, que, où : le choix du pronom relatif",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le pronom relatif **remplace** un mot déjà dit : l’antécédent. Il évite de répéter le même nom. Son choix dépend de **sa fonction** dans la relative."
+    },
+    {
+     "type": "table",
+     "title": "Les pronoms relatifs de la 6e",
+     "head": [
+      "Pronom",
+      "Fonction dans la relative",
+      "Il remplace…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**qui**",
+       "sujet du verbe",
+       "une personne ou une chose",
+       "La fille **qui** chante est ma sœur."
+      ],
+      [
+       "**que** (qu’)",
+       "complément d’objet direct",
+       "une personne ou une chose",
+       "Le livre **que** je lis est long."
+      ],
+      [
+       "**où**",
+       "complément de lieu ou de temps",
+       "un lieu ou un moment",
+       "La ville **où** je suis né est grande."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Un test pour choisir entre qui et que"
+    },
+    {
+     "type": "p",
+     "text": "Reformulez la relative en une phrase simple. Si le mot remplacé est **sujet** du verbe, c’est **qui**. S’il est **complément d’objet**, c’est **que**."
+    },
+    {
+     "type": "test",
+     "title": "Le test de remplacement",
+     "lines": [
+      "« La fille … chante » → *La fille chante* : « la fille » fait l’action → sujet → **qui**.",
+      "« Le livre … je lis » → *Je lis le livre* : « le livre » est le COD → **que**.",
+      "« La ville … je suis né » → *Je suis né dans cette ville* : lieu → **où**."
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "**Qui** est presque toujours suivi **d’un verbe**. **Que** est presque toujours suivi **d’un sujet** (un nom ou un pronom : *je, tu, il, Paul…*). *Que* devient *qu’* devant une voyelle.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel pronom complète : « Le cahier … tu as perdu est sur la table » ?",
+     "options": [
+      "qui",
+      "que",
+      "où"
+     ],
+     "answer": 1,
+     "explain": "« tu as perdu le cahier » : « le cahier » est COD, donc « que »."
+    }
+   ]
+  },
+  {
+   "t": "Repérer et employer la relative",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour repérer une relative dans une phrase, suivez **trois étapes**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Cherchez le **pronom relatif** (*qui, que, où*).",
+      "Repérez l’**antécédent**, juste avant.",
+      "La relative commence au pronom relatif et s’arrête quand la précision est terminée."
+     ],
+     "label": "Méthode",
+     "ordered": true
+    },
+    {
+     "type": "ex",
+     "text": "« Les enfants *qui jouent dans la cour* sont heureux. »\nAntécédent : les enfants. Pronom relatif : qui. Relative : qui jouent dans la cour. Principale : les enfants … sont heureux.",
+     "label": "Exemple"
+    },
+    {
+     "type": "h",
+     "text": "Relier deux phrases avec un pronom relatif"
+    },
+    {
+     "type": "p",
+     "text": "On peut relier deux phrases quand elles parlent **de la même personne ou de la même chose**. Le pronom relatif remplace le mot répété."
+    },
+    {
+     "type": "table",
+     "title": "Du texte en deux phrases au texte en une phrase",
+     "head": [
+      "Deux phrases",
+      "Une phrase"
+     ],
+     "rows": [
+      [
+       "J’ai un voisin. Il joue du tam-tam.",
+       "J’ai un voisin **qui** joue du tam-tam."
+      ],
+      [
+       "Voici le fruit. Je l’ai cueilli ce matin.",
+       "Voici le fruit **que** j’ai cueilli ce matin."
+      ],
+      [
+       "Nous visitons le village. Ma mère est née dans ce village.",
+       "Nous visitons le village **où** ma mère est née."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "La relative peut se supprimer"
+    },
+    {
+     "type": "p",
+     "text": "La relative donne une **précision**. Si on la supprime, la phrase garde son sens de base : « Les enfants *qui jouent dans la cour* sont heureux » → « Les enfants sont heureux »."
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le village où je vis est calme », quelle est la proposition relative ?",
+     "options": [
+      "Le village",
+      "où je vis",
+      "est calme"
+     ],
+     "answer": 1,
+     "explain": "La relative commence par le pronom « où » : « où je vis »."
+    }
+   ]
+  },
+  {
+   "t": "Les pièges à éviter",
+   "blocs": [
+    {
+     "type": "warn",
+     "text": "**Piège 1 : l’accord du verbe de la relative.** Avec *qui*, le verbe s’accorde avec l’**antécédent**. « Les enfants **qui jouent** » (pluriel, comme *enfants*). « C’est moi **qui suis** arrivé » (1re personne, comme *moi*).",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 2 : ne dites pas « la ville que j’habite ».** On dit : « la ville **où** j’habite ». Le pronom *où* remplace un lieu.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 3 : l’antécédent est juste avant.** Dans « J’ai vu le frère de Paul qui court », *qui court* peut se rapporter à *frère* ou à *Paul*. Pour éviter l’ambiguïté, placez la relative **tout près** de son antécédent.",
+     "label": "Attention"
+    },
+    {
+     "type": "table",
+     "title": "Corriger les erreurs fréquentes",
+     "head": [
+      "Phrase incorrecte",
+      "Phrase correcte"
+     ],
+     "rows": [
+      [
+       "La maison que j’habite est grande.",
+       "La maison **où** j’habite est grande."
+      ],
+      [
+       "Le garçon que court est mon frère.",
+       "Le garçon **qui** court est mon frère."
+      ],
+      [
+       "Le fruit qui j’aime est la mangue.",
+       "Le fruit **que** j’aime est la mangue."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Quand vous hésitez entre *qui* et *que*, appliquez le test : *le mot remplacé fait-il l’action (qui) ou la subit-il (que) ?*",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Les filles que chantent sont mes amies.",
+      "Les filles qui chantent sont mes amies.",
+      "Les filles où chantent sont mes amies."
+     ],
+     "answer": 1,
+     "explain": "« qui » est sujet de « chantent », et le verbe s’accorde avec « les filles »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Complète avec *qui*, *que* (*qu’*) ou *où*.",
+     "items": [
+      "a) Le garçon … court est mon frère.",
+      "b) La mangue … tu manges est mûre.",
+      "c) Brazzaville est la ville … j’habite.",
+      "d) Le livre … j’ai acheté est neuf.",
+      "e) Voici l’élève … a gagné le concours."
+     ],
+     "corrige": [
+      "a) qui",
+      "b) que",
+      "c) où",
+      "d) qu’",
+      "e) qui"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Relève l’antécédent, le pronom relatif et la relative.",
+     "items": [
+      "a) Je regarde le film qui commence.",
+      "b) La route que nous prenons est longue.",
+      "c) Le village où nous allons est loin."
+     ],
+     "corrige": [
+      "a) antécédent : le film ; pronom : qui ; relative : qui commence",
+      "b) antécédent : la route ; pronom : que ; relative : que nous prenons",
+      "c) antécédent : le village ; pronom : où ; relative : où nous allons"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Relie les deux phrases avec un pronom relatif.",
+     "items": [
+      "a) Le maître est gentil. Il enseigne le français.",
+      "b) Voici le cahier. J’ai perdu ce cahier hier.",
+      "c) Voici le marché. Ma tante vend du poisson dans ce marché."
+     ],
+     "corrige": [
+      "a) Le maître qui enseigne le français est gentil.",
+      "b) Voici le cahier que j’ai perdu hier.",
+      "c) Voici le marché où ma tante vend du poisson."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Précise chaque nom avec une relative.",
+     "items": [
+      "a) J’ai un ami …",
+      "b) Nous aimons le fleuve …",
+      "c) Elle cherche la clé …"
+     ],
+     "corrige": [
+      "a) Exemple : J’ai un ami qui habite près de chez moi.",
+      "b) Exemple : Nous aimons le fleuve que nous traversons en pirogue.",
+      "c) Exemple : Elle cherche la clé qu’elle a perdue."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "La **subordonnée relative** complète un nom, l’**antécédent**, et commence par un **pronom relatif**.",
+      "**Qui** est sujet ; **que** (*qu’*) est complément d’objet direct ; **où** indique un lieu ou un moment.",
+      "Pour choisir : *qui* est suivi d’un verbe, *que* est suivi d’un sujet.",
+      "Avec *qui*, le verbe s’accorde avec l’antécédent.",
+      "La relative donne une précision : on peut souvent la supprimer sans changer le sens de base."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « La ville où je suis né est grande », que remplace « où » ?",
+     "options": [
+      "un sujet",
+      "un lieu",
+      "un complément d’objet direct"
+     ],
+     "answer": 1,
+     "explain": "« où » reprend « la ville » et indique le lieu de naissance."
+    }
+   ]
+  }
+ ]
+}

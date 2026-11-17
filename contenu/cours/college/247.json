@@ -1,0 +1,352 @@
+{
+ "id": 247,
+ "meta": {
+  "t": "La phrase complexe : la coordination",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g3",
+  "r": 4.8,
+  "mf": "MF6.2.6"
+ },
+ "sections": [
+  {
+   "t": "Relier deux propositions avec un mot",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on veut relier deux idées, on peut les juxtaposer avec une virgule, mais on peut aussi les **relier par un petit mot** : *et, mais, car, donc…* Ce petit mot s’appelle une **conjonction de coordination**."
+    },
+    {
+     "type": "def",
+     "label": "La coordination",
+     "text": "La **coordination** consiste à relier deux mots ou deux propositions de **même nature** par une **conjonction de coordination**. Chaque proposition garde son sens complet : elles sont **de même importance**."
+    },
+    {
+     "type": "ex",
+     "text": "« Awa chante *et* Paul danse. » → deux propositions reliées par *et*.\n« Je voudrais sortir, *mais* il pleut. » → deux propositions reliées par *mais*.",
+     "label": "Exemples"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Connaître les conjonctions de coordination",
+      "Distinguer coordination et juxtaposition",
+      "Choisir la bonne conjonction selon le sens",
+      "Ponctuer correctement une phrase coordonnée"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il pleut donc nous restons à la maison », quel est le mot de coordination ?",
+     "options": [
+      "Il",
+      "donc",
+      "restons"
+     ],
+     "answer": 1,
+     "explain": "« donc » relie les deux propositions : c’est la conjonction de coordination."
+    }
+   ]
+  },
+  {
+   "t": "Les sept conjonctions de coordination",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il n’existe que **sept** conjonctions de coordination. On peut les retenir avec la phrase : **« Mais où est donc Ornicar ? »** (*mais, ou, et, donc, or, ni, car*)."
+    },
+    {
+     "type": "table",
+     "title": "Les conjonctions de coordination et leur sens",
+     "head": [
+      "Conjonction",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**et**",
+       "ajouter",
+       "Il lit et elle écrit."
+      ],
+      [
+       "**ni**",
+       "ajouter dans une phrase négative",
+       "Il ne lit ni n’écrit."
+      ],
+      [
+       "**ou**",
+       "proposer un choix",
+       "Tu viens ou tu restes ?"
+      ],
+      [
+       "**mais**",
+       "opposer",
+       "Il est petit, mais il court vite."
+      ],
+      [
+       "**car**",
+       "donner la cause (l’explication)",
+       "Je reste, car j’ai de la fièvre."
+      ],
+      [
+       "**donc**",
+       "donner la conséquence",
+       "Il a faim, donc il mange."
+      ],
+      [
+       "**or**",
+       "introduire un fait nouveau (rare à l’école)",
+       "Je voulais partir. Or, il pleuvait."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour retenir : *Mais où est donc Ornicar ?* Chaque petit mot de la phrase est une conjonction de coordination : **ma**is, **ou**, **et**, **donc**, **or**, **ni**, **car**.",
+     "label": "Mnémotechnique"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction exprime une opposition ?",
+     "options": [
+      "car",
+      "mais",
+      "donc"
+     ],
+     "answer": 1,
+     "explain": "« mais » oppose deux idées : « Il est petit, mais il court vite. »"
+    }
+   ]
+  },
+  {
+   "t": "Bien choisir sa conjonction",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le choix de la conjonction dépend du **lien** entre les deux propositions. Posez-vous la question : *est-ce une addition, un choix, une opposition, une cause ou une conséquence ?*"
+    },
+    {
+     "type": "table",
+     "title": "Choisir selon le lien",
+     "head": [
+      "Je veux exprimer…",
+      "J’emploie…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "une **addition**",
+       "et",
+       "Mon père travaille et ma mère étudie."
+      ],
+      [
+       "un **choix**",
+       "ou",
+       "Veux-tu du thé ou du café ?"
+      ],
+      [
+       "une **opposition**",
+       "mais",
+       "Je veux jouer, mais je dois réviser."
+      ],
+      [
+       "la **cause**",
+       "car",
+       "Il est absent, car il est malade."
+      ],
+      [
+       "la **conséquence**",
+       "donc",
+       "Il est malade, donc il est absent."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Car et donc : attention au sens"
+    },
+    {
+     "type": "p",
+     "text": "« Il est malade, **donc** il est absent » : la maladie est la **cause**, l’absence est la **conséquence**. « Il est absent, **car** il est malade » : on **explique** l’absence. Les deux phrases disent la même chose, dans un ordre différent."
+    },
+    {
+     "type": "h",
+     "text": "La ponctuation"
+    },
+    {
+     "type": "list",
+     "items": [
+      "On met une **virgule avant *mais*** : « Il court, mais il est fatigué. »",
+      "En général, on **n’en met pas** avant *et* et *ou* quand les sujets sont courts : « Awa chante et Paul danse. »",
+      "On met souvent une virgule avant *car* : « Il reste, car il pleut. »"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle conjonction convient ? « Il a très faim, … il mange deux assiettes. »",
+     "options": [
+      "mais",
+      "donc",
+      "ou"
+     ],
+     "answer": 1,
+     "explain": "La faim a pour conséquence de manger beaucoup : on emploie « donc »."
+    }
+   ]
+  },
+  {
+   "t": "Coordination ou juxtaposition ? Les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La coordination et la juxtaposition relient toutes les deux des propositions. La différence tient à **un seul élément** : le mot de liaison."
+    },
+    {
+     "type": "table",
+     "title": "Les comparer",
+     "head": [
+      "Critère",
+      "Juxtaposition",
+      "Coordination"
+     ],
+     "rows": [
+      [
+       "Ce qui relie",
+       "un signe de ponctuation",
+       "une conjonction (et, mais, car…)"
+      ],
+      [
+       "Exemple",
+       "Il pleut, nous restons.",
+       "Il pleut donc nous restons."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 1 : mais / mes.** « Mes » est un déterminant (mes livres). « Mais » est une conjonction : on peut le remplacer par *cependant*.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 2 : ou / où.** « Ou » (sans accent) exprime le choix et peut se remplacer par *ou bien*. « Où » (avec accent) indique le lieu : « Où vas-tu ? »",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 3 : et / est.** « Et » relie : on peut le remplacer par *et puis*. « Est » est le verbe *être* : on peut le remplacer par *était*.",
+     "label": "Attention"
+    },
+    {
+     "type": "tip",
+     "text": "Dans le doute, **remplacez** : *ou bien* pour « ou », *cependant* pour « mais », *était* pour « est ».",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est écrite correctement ?",
+     "options": [
+      "Veux-tu du riz où du manioc ?",
+      "Veux-tu du riz ou du manioc ?",
+      "Veux-tu du riz ou du manioc."
+     ],
+     "answer": 1,
+     "explain": "Il s’agit d’un choix : « ou » sans accent. Et la phrase est une question."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Complète avec la conjonction qui convient (*et, ou, mais, car, donc*).",
+     "items": [
+      "a) Il a faim, … il mange.",
+      "b) Veux-tu du thé … du café ?",
+      "c) Je voulais sortir, … il pleuvait.",
+      "d) Je reste à la maison … j’ai de la fièvre.",
+      "e) Awa lit … Paul dessine."
+     ],
+     "corrige": [
+      "a) donc",
+      "b) ou",
+      "c) mais",
+      "d) car",
+      "e) et"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Dis si les propositions sont juxtaposées ou coordonnées.",
+     "items": [
+      "a) Il pleut, nous restons à la maison.",
+      "b) Il pleut donc nous restons à la maison.",
+      "c) Awa chante et Paul danse.",
+      "d) Je viens, tu restes."
+     ],
+     "corrige": [
+      "a) juxtaposées",
+      "b) coordonnées (donc)",
+      "c) coordonnées (et)",
+      "d) juxtaposées"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Relie les deux phrases avec une conjonction de coordination, sans changer le sens.",
+     "items": [
+      "a) Le chat dort. Le chien joue.",
+      "b) Je suis fatigué. Je continue à travailler.",
+      "c) Il est en retard. Il a raté le bus."
+     ],
+     "corrige": [
+      "a) Le chat dort et le chien joue.",
+      "b) Je suis fatigué, mais je continue à travailler.",
+      "c) Il est en retard, car il a raté le bus. (ou : Il a raté le bus, donc il est en retard.)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Écris trois phrases avec *mais*, *car* et *donc* sur ta journée à l’école.",
+     "items": [
+      "Tes trois phrases"
+     ],
+     "corrige": [
+      "Réponse libre. Vérifier : deux propositions dans chaque phrase, bonne conjonction, virgule avant *mais*."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "La **coordination** relie deux mots ou deux propositions de même nature par une **conjonction de coordination**.",
+      "Il y a sept conjonctions : **mais, ou, et, donc, or, ni, car** (*Mais où est donc Ornicar ?*).",
+      "*et* ajoute, *ou* propose un choix, *mais* oppose, *car* explique, *donc* indique la conséquence.",
+      "On met une virgule avant **mais**.",
+      "Sans conjonction, avec seulement une virgule, c’est de la **juxtaposition**."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "« Je suis fatigué, car j’ai beaucoup marché. » Que fait *car* ?",
+     "options": [
+      "il oppose",
+      "il donne la cause",
+      "il propose un choix"
+     ],
+     "answer": 1,
+     "explain": "« car » introduit l’explication, la cause de la fatigue."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "id": 246,
+ "meta": {
+  "t": "La phrase complexe : la juxtaposition",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g3",
+  "r": 4.8,
+  "mf": "MF6.2.6"
+ },
+ "sections": [
+  {
+   "t": "Une phrase, plusieurs verbes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lisez ces deux phrases : « Le soleil se lève. » et « Le soleil se lève, les oiseaux chantent. » Dans la première, il y a **un verbe conjugué**. Dans la seconde, il y en a **deux** : *se lève* et *chantent*."
+    },
+    {
+     "type": "def",
+     "label": "La phrase simple et la phrase complexe",
+     "text": "Une **phrase simple** contient **un seul verbe conjugué**. Une **phrase complexe** contient **plusieurs verbes conjugués**. Chaque verbe conjugué forme, avec ses compléments, une **proposition**."
+    },
+    {
+     "type": "ex",
+     "text": "« Les élèves *écoutent*. » → un verbe → **phrase simple**.\n« Le maître *explique*, les élèves *écoutent*. » → deux verbes → **phrase complexe** (deux propositions).",
+     "label": "Exemples"
+    },
+    {
+     "type": "def",
+     "label": "La juxtaposition",
+     "text": "Des propositions sont **juxtaposées** quand elles sont placées l’une à côté de l’autre et séparées **seulement par un signe de ponctuation** (virgule, point-virgule, deux-points). Il n’y a **aucun mot de liaison** entre elles."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Compter les verbes conjugués d’une phrase",
+      "Distinguer phrase simple et phrase complexe",
+      "Reconnaître des propositions juxtaposées",
+      "Écrire des phrases avec des propositions juxtaposées"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Combien de verbes conjugués y a-t-il dans « Il pleut, nous restons à la maison » ?",
+     "options": [
+      "un",
+      "deux",
+      "trois"
+     ],
+     "answer": 1,
+     "explain": "Il y a *pleut* et *restons* : deux verbes, donc deux propositions."
+    }
+   ]
+  },
+  {
+   "t": "Reconnaître la juxtaposition",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour reconnaître des propositions juxtaposées, on cherche **deux choses** : plusieurs verbes conjugués, et **un signe de ponctuation** à la place d’un mot de liaison."
+    },
+    {
+     "type": "table",
+     "title": "Les signes qui séparent des propositions juxtaposées",
+     "head": [
+      "Signe",
+      "Ce qu’il montre",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "La virgule ( , )",
+       "les actions se suivent ou s’ajoutent",
+       "Je me lève, je me lave, je pars."
+      ],
+      [
+       "Le point-virgule ( ; )",
+       "une pause plus forte, deux idées proches",
+       "Il est petit ; il est très courageux."
+      ],
+      [
+       "Les deux-points ( : )",
+       "la 2e proposition explique ou annonce la 1re",
+       "Il pleut : nous restons à la maison."
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test du mot de liaison",
+     "lines": [
+      "« Le coq chante, le jour se lève. » → aucun mot ne relie les deux propositions → **juxtaposition**.",
+      "« Le coq chante *et* le jour se lève. » → le mot *et* relie les propositions → **ce n’est plus de la juxtaposition** (c’est la coordination)."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Combien de propositions ?"
+    },
+    {
+     "type": "p",
+     "text": "Une phrase peut juxtaposer **deux, trois, quatre propositions ou plus**. On en compte autant que de verbes conjugués."
+    },
+    {
+     "type": "ex",
+     "text": "« Awa *ouvre* la porte, *entre*, *salue* sa grand-mère. » → trois verbes : trois propositions juxtaposées.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "text": "Pour trouver les propositions, **entourez d’abord chaque verbe conjugué**. Chaque verbe entouré annonce une proposition.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient des propositions juxtaposées ?",
+     "options": [
+      "Il mange et il boit.",
+      "Il mange, il boit.",
+      "Il mange du riz."
+     ],
+     "answer": 1,
+     "explain": "Dans « Il mange, il boit », seule la virgule sépare les deux propositions. Dans la première phrase, « et » les relie."
+    }
+   ]
+  },
+  {
+   "t": "Ce que dit la juxtaposition",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on juxtapose, on ne dit pas toujours **quel lien** existe entre les propositions : c’est le lecteur qui le comprend. Mais ce lien est bien là."
+    },
+    {
+     "type": "table",
+     "title": "Les liens que la juxtaposition peut cacher",
+     "head": [
+      "Lien",
+      "Exemple",
+      "On pourrait ajouter"
+     ],
+     "rows": [
+      [
+       "Une **suite d’actions**",
+       "Il ouvre le cahier, il écrit la date.",
+       "puis"
+      ],
+      [
+       "Une **énumération**",
+       "Le marché est bruyant, il est coloré, il est vivant.",
+       "—"
+      ],
+      [
+       "Une **opposition**",
+       "Paul est grand, son frère est petit.",
+       "mais"
+      ],
+      [
+       "Une **explication** (cause)",
+       "Je ne sors pas : il pleut.",
+       "car"
+      ],
+      [
+       "Une **conséquence**",
+       "Il a beaucoup travaillé, il réussit.",
+       "donc"
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "label": "Un style rapide et vivant",
+     "text": "La juxtaposition donne un rythme **rapide** à la phrase. Les écrivains l’emploient pour décrire des actions qui se suivent vite ou pour faire une liste."
+    },
+    {
+     "type": "ex",
+     "text": "« Je suis arrivé, j’ai vu, j’ai vaincu. » Trois actions, trois propositions juxtaposées : le rythme est vif.",
+     "label": "Exemple célèbre"
+    },
+    {
+     "type": "h",
+     "text": "Juxtaposer deux phrases"
+    },
+    {
+     "type": "p",
+     "text": "Pour juxtaposer deux phrases courtes, on remplace le **point** par une **virgule** (ou deux-points), et on met une minuscule au début de la 2e proposition."
+    },
+    {
+     "type": "ex",
+     "text": "Avant : « La nuit tombe. Le village s’endort. »\nAprès : « La nuit tombe, le village s’endort. »",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel signe convient pour expliquer la première proposition par la seconde ? « Il ne sort pas … il pleut. »",
+     "options": [
+      "une virgule seule",
+      "deux-points ( : )",
+      "un point d’interrogation"
+     ],
+     "answer": 1,
+     "explain": "Les deux-points annoncent une explication : « Il ne sort pas : il pleut. »"
+    }
+   ]
+  },
+  {
+   "t": "Les pièges à éviter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Trois erreurs reviennent souvent quand on étudie la juxtaposition."
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 1 : une énumération n’est pas toujours une juxtaposition de propositions.**\n« Nous achetons du riz, du sel, de l’huile. » → il n’y a **qu’un seul verbe** : c’est une **phrase simple** avec une liste de compléments. Pas de verbe = pas de proposition.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 2 : ne confondez pas juxtaposition et coordination.**\nSi un mot comme *et, mais, ou, donc, car* relie les propositions, ce n’est plus de la juxtaposition.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 3 : une virgule seule ne peut pas remplacer un point partout.**\nQuand les deux idées n’ont **aucun lien**, mieux vaut faire deux phrases. « Le chat dort, la voiture est rouge » est maladroit.",
+     "label": "Attention"
+    },
+    {
+     "type": "table",
+     "title": "Vérifier une phrase en trois questions",
+     "head": [
+      "Question",
+      "Si la réponse est oui…"
+     ],
+     "rows": [
+      [
+       "Y a-t-il **plusieurs verbes conjugués** ?",
+       "c’est une phrase complexe"
+      ],
+      [
+       "Un **mot de liaison** relie-t-il les propositions ?",
+       "ce n’est pas de la juxtaposition"
+      ],
+      [
+       "Seul un **signe de ponctuation** les sépare-t-il ?",
+       "c’est de la juxtaposition"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Un verbe à l’infinitif n’est pas conjugué : « Il aime *lire*, *chanter* et *danser* » ne contient qu’un verbe conjugué (*aime*).",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "« Il achète du pain, du lait, du sucre. » Cette phrase est…",
+     "options": [
+      "une phrase complexe à trois propositions",
+      "une phrase simple avec une énumération",
+      "trois phrases"
+     ],
+     "answer": 1,
+     "explain": "Il n’y a qu’un seul verbe conjugué (*achète*) : c’est une phrase simple."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Dis si la phrase est simple ou complexe, et si elle est juxtaposée.",
+     "items": [
+      "a) Les élèves entrent en classe.",
+      "b) Le maître écrit, les élèves copient.",
+      "c) Mon frère lit et ma sœur dessine.",
+      "d) Nous mangeons du riz, du poisson et des bananes."
+     ],
+     "corrige": [
+      "a) simple (un verbe)",
+      "b) complexe, propositions juxtaposées (deux verbes, une virgule)",
+      "c) complexe, mais **coordonnée** (le mot « et » relie les propositions)",
+      "d) simple (un seul verbe : *mangeons*)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Joins les deux phrases par une virgule ou par deux-points.",
+     "items": [
+      "a) Il fait nuit. Les étoiles brillent.",
+      "b) Je ne viens pas. Je suis malade.",
+      "c) Le cuisinier coupe les légumes. Il les met dans la marmite."
+     ],
+     "corrige": [
+      "a) Il fait nuit, les étoiles brillent.",
+      "b) Je ne viens pas : je suis malade.",
+      "c) Le cuisinier coupe les légumes, il les met dans la marmite."
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Relève les propositions de cette phrase : *Je me lève, je me lave, je mange, je pars à l’école.*",
+     "items": [
+      "Les propositions",
+      "Leur nombre"
+     ],
+     "corrige": [
+      "Je me lève / je me lave / je mange / je pars à l’école",
+      "4 propositions juxtaposées"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Écris une phrase de trois propositions juxtaposées pour raconter ton arrivée à l’école.",
+     "items": [
+      "Ta phrase"
+     ],
+     "corrige": [
+      "Réponse libre. Vérifier : trois verbes conjugués, des virgules, aucun mot de liaison. Exemple : *J’arrive à l’école, je salue mes amis, je range mon sac.*"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "Une phrase simple a **un verbe conjugué** ; une phrase complexe en a **plusieurs**.",
+      "Chaque verbe conjugué forme une **proposition**.",
+      "Des propositions **juxtaposées** sont séparées par un **signe de ponctuation** (virgule, point-virgule, deux-points), sans mot de liaison.",
+      "Un mot comme *et, mais, car, donc* signale la **coordination**, pas la juxtaposition.",
+      "Une énumération avec **un seul verbe** reste une phrase simple."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le vent souffle, les feuilles tombent », comment les propositions sont-elles reliées ?",
+     "options": [
+      "par un mot de liaison",
+      "par une virgule seulement",
+      "par un pronom relatif"
+     ],
+     "answer": 1,
+     "explain": "Une virgule sépare les deux propositions : elles sont juxtaposées."
+    }
+   ]
+  }
+ ]
+}

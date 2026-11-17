@@ -1,0 +1,354 @@
+{
+ "id": 249,
+ "meta": {
+  "t": "Les marques de l’énonciation",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "g4",
+  "r": 4.8,
+  "mf": "MF6.2.8"
+ },
+ "sections": [
+  {
+   "t": "Qui parle, à qui, quand, où ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand quelqu’un parle ou écrit, il le fait **dans une situation précise** : il y a quelqu’un qui parle, quelqu’un qui écoute ou lit, un moment et un lieu. L’**énonciation**, c’est le fait de produire un message dans cette situation."
+    },
+    {
+     "type": "def",
+     "label": "L’énonciation",
+     "text": "L’**énonciation** est l’acte de parler ou d’écrire. La **situation d’énonciation** se définit par quatre éléments : **qui parle** (le locuteur), **à qui** (le destinataire), **quand** (le moment) et **où** (le lieu)."
+    },
+    {
+     "type": "def",
+     "label": "Les marques de l’énonciation",
+     "text": "Ce sont les **mots et les formes** du texte qui renvoient à la situation d’énonciation : les pronoms *je* et *tu*, les mots *ici* et *maintenant*, le temps du verbe, etc. Elles montrent que quelqu’un **s’adresse à quelqu’un** dans un moment précis."
+    },
+    {
+     "type": "ex",
+     "text": "« **Je** viens **ici** **aujourd’hui** pour **te** parler. » → *je* : celui qui parle ; *te* : celui à qui il parle ; *ici* : le lieu ; *aujourd’hui* : le moment.",
+     "label": "Exemple"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Définir la situation d’énonciation",
+      "Repérer les marques de personne, de temps et de lieu",
+      "Comprendre pourquoi le sens de *je*, *ici* et *demain* change",
+      "Distinguer un texte ancré d’un texte détaché"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Demain, je viendrai chez toi », quel mot désigne celui qui parle ?",
+     "options": [
+      "Demain",
+      "je",
+      "toi"
+     ],
+     "answer": 1,
+     "explain": "« je » désigne le locuteur, celui qui parle. « toi » désigne le destinataire."
+    }
+   ]
+  },
+  {
+   "t": "Les marques de personne",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Les marques de personne montrent **qui parle** et **à qui**. Ce sont surtout les pronoms personnels et les mots qui expriment la possession."
+    },
+    {
+     "type": "table",
+     "title": "Les marques de personne",
+     "head": [
+      "Qui désigne-t-on ?",
+      "Pronoms personnels",
+      "Possessifs (déterminants)",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Celui qui parle** (le locuteur)",
+       "je, me, moi",
+       "mon, ma, mes",
+       "**Je** range **mes** livres."
+      ],
+      [
+       "**Celui qui écoute** (le destinataire)",
+       "tu, te, toi",
+       "ton, ta, tes",
+       "**Tu** ranges **tes** livres."
+      ],
+      [
+       "Le locuteur et d’autres personnes",
+       "nous",
+       "notre, nos",
+       "**Nous** gardons **nos** cahiers."
+      ],
+      [
+       "Le ou les destinataires (ou la politesse)",
+       "vous",
+       "votre, vos",
+       "**Vous** gardez **vos** cahiers."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le pronom « je » change de sens"
+    },
+    {
+     "type": "p",
+     "text": "Le mot *je* ne désigne jamais la même personne : il désigne **celui qui parle à ce moment-là**. Dans un dialogue, *je* change à chaque fois que la parole change."
+    },
+    {
+     "type": "ex",
+     "text": "— **Je** m’appelle Awa. Et toi ?\n— **Je** m’appelle Paul.\nLe premier *je* est Awa ; le second *je* est Paul.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "text": "Pour savoir qui est « je », demandez-vous : **qui parle ici ?** Pour savoir qui est « tu » ou « vous », demandez : **à qui s’adresse-t-il ?**",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Vous avez bien travaillé, mes enfants », qui est le destinataire ?",
+     "options": [
+      "le locuteur",
+      "les enfants",
+      "personne"
+     ],
+     "answer": 1,
+     "explain": "« Vous » et « mes enfants » désignent ceux à qui on parle."
+    }
+   ]
+  },
+  {
+   "t": "Les marques de temps et de lieu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains mots ne s’expliquent que **par rapport au moment** et **au lieu** où l’on parle. Si on ne connaît pas la situation, on ne sait pas de quel jour ou de quel endroit il s’agit."
+    },
+    {
+     "type": "table",
+     "title": "Les marques de temps et de lieu",
+     "head": [
+      "Sens",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Le moment présent**",
+       "maintenant, aujourd’hui, en ce moment, ce matin",
+       "Aujourd’hui, il fait chaud."
+      ],
+      [
+       "**Avant** le moment présent",
+       "hier, avant-hier, la semaine dernière",
+       "Hier, j’ai visité le marché."
+      ],
+      [
+       "**Après** le moment présent",
+       "demain, après-demain, la semaine prochaine",
+       "Demain, nous partirons."
+      ],
+      [
+       "**Le lieu où l’on se trouve**",
+       "ici, là, ici-même",
+       "Viens ici !"
+      ],
+      [
+       "**Montrer** quelqu’un ou quelque chose",
+       "ce, cette, ces, celui-ci",
+       "Regarde cette maison."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le temps des verbes"
+    },
+    {
+     "type": "p",
+     "text": "Le **présent** (je mange), le **passé composé** (j’ai mangé) et le **futur** (je mangerai) sont aussi des marques d’énonciation : ils situent l’action **par rapport au moment où l’on parle**."
+    },
+    {
+     "type": "warn",
+     "text": "Les mots *hier*, *demain* et *ici* **changent de sens** selon la situation. « Demain » dit lundi veut dire *mardi* ; dit mardi, il veut dire *mercredi*. Si on rapporte le message plus tard, on emploie *le lendemain* ou *là-bas*.",
+     "label": "Attention"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot est une marque de temps ?",
+     "options": [
+      "ici",
+      "hier",
+      "moi"
+     ],
+     "answer": 1,
+     "explain": "« hier » situe l’action avant le moment où l’on parle."
+    }
+   ]
+  },
+  {
+   "t": "Texte ancré ou texte détaché ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un texte contient des marques de l’énonciation quand quelqu’un **parle ou écrit à quelqu’un** : lettre, dialogue, message. Un texte qui **raconte une histoire sans montrer qui la raconte** n’en contient presque pas."
+    },
+    {
+     "type": "table",
+     "title": "Deux sortes de textes",
+     "head": [
+      "Critère",
+      "Texte avec marques (ancré)",
+      "Texte sans marques (détaché)"
+     ],
+     "rows": [
+      [
+       "Pronoms",
+       "je, tu, nous, vous",
+       "il, elle, ils, elles"
+      ],
+      [
+       "Temps et lieu",
+       "aujourd’hui, hier, demain, ici",
+       "ce jour-là, la veille, le lendemain, là-bas"
+      ],
+      [
+       "Temps des verbes",
+       "présent, passé composé, futur",
+       "imparfait, passé simple"
+      ],
+      [
+       "Exemple",
+       "« Hier, j’ai vu Awa ici. »",
+       "« La veille, Paul avait vu Awa là-bas. »"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Texte avec marques : « **Je** t’écris **aujourd’hui** pour te dire que **nous** arriverons **demain**. »\nTexte sans marques : « La grand-mère écrivit à sa petite-fille. Le lendemain, elle arrivait. »",
+     "label": "Exemples"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège : « on » à l’oral.** Dans « On va au marché », *on* peut vouloir dire *nous*. C’est donc aussi une marque de personne. À l’écrit, on évite de l’employer à la place de *nous* dans un texte soigné.",
+     "label": "Attention"
+    },
+    {
+     "type": "tip",
+     "text": "Pour savoir si un texte est ancré : **cherchez *je* ou *tu***. S’ils sont là, le texte contient des marques de l’énonciation.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient des marques de l’énonciation ?",
+     "options": [
+      "Le roi quitta le palais le lendemain.",
+      "Je pars demain pour Pointe-Noire.",
+      "La nuit tombait sur le village."
+     ],
+     "answer": 1,
+     "explain": "« je » et « demain » renvoient à celui qui parle et au moment où il parle."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Relève les marques de personne, de temps et de lieu dans : *Aujourd’hui, je suis ici pour vous présenter mon village.*",
+     "items": [
+      "Marques de personne",
+      "Marques de temps",
+      "Marques de lieu"
+     ],
+     "corrige": [
+      "je, vous, mon",
+      "aujourd’hui",
+      "ici"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Qui est « je » dans chaque réplique ?",
+     "items": [
+      "a) Awa dit : « Je suis en retard. »",
+      "b) Le maître répond : « Je t’attendais. »",
+      "c) Paul dit : « Je m’en vais. »"
+     ],
+     "corrige": [
+      "a) Awa",
+      "b) le maître",
+      "c) Paul"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Dis si le texte contient des marques de l’énonciation (oui ou non).",
+     "items": [
+      "a) Hier, j’ai rencontré mon ami ici.",
+      "b) Le lendemain, il retrouva son ami.",
+      "c) Nous irons demain au marché.",
+      "d) Elle regardait la rivière."
+     ],
+     "corrige": [
+      "a) oui (hier, j’, mon, ici)",
+      "b) non",
+      "c) oui (nous, demain)",
+      "d) non"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Récris la phrase *Je suis arrivé hier* comme si Paul la racontait plus tard, sans marques de l’énonciation.",
+     "items": [
+      "Ta phrase"
+     ],
+     "corrige": [
+      "Il était arrivé la veille. (ou : Il arriva la veille.)"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "L’**énonciation** est l’acte de parler ou d’écrire dans une situation : **qui, à qui, quand, où**.",
+      "Les **marques de personne** : *je, tu, nous, vous* et *mon, ton, notre, votre…*",
+      "Les **marques de temps** : *aujourd’hui, hier, demain, maintenant* ; les **marques de lieu** : *ici, là*.",
+      "Le sens de *je*, *demain* et *ici* **change selon la situation**.",
+      "Un texte sans *je* ni *tu* (avec *il*, *le lendemain*, *là-bas*) est **détaché** de la situation d’énonciation."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Que désigne « tu » dans une phrase ?",
+     "options": [
+      "celui qui parle",
+      "celui à qui l’on parle",
+      "une personne dont on parle"
+     ],
+     "answer": 1,
+     "explain": "« tu » désigne le destinataire, celui à qui s’adresse le locuteur."
+    }
+   ]
+  }
+ ]
+}

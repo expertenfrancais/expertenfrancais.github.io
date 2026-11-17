@@ -1,0 +1,354 @@
+{
+ "id": 251,
+ "meta": {
+  "t": "L’intrigue et la narration",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Lecture",
+  "img": "l4",
+  "r": 4.8,
+  "mf": "MF5.1.5"
+ },
+ "sections": [
+  {
+   "t": "Une histoire et la façon de la raconter",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on lit un roman, on suit une **histoire** : des personnages, des événements, des lieux. Mais on remarque aussi **comment** cette histoire est racontée : par qui, dans quel ordre, avec quels mots. Étudier l’intrigue et la narration, c’est étudier **ces deux aspects**."
+    },
+    {
+     "type": "def",
+     "label": "L’intrigue",
+     "text": "L’**intrigue** est l’**enchaînement des événements** d’une œuvre. Ces événements sont liés par des **causes** et des **conséquences** : chaque événement entraîne le suivant et crée chez le lecteur l’envie de connaître la suite."
+    },
+    {
+     "type": "def",
+     "label": "La narration",
+     "text": "La **narration**, c’est la **manière de raconter** l’histoire : qui raconte (le **narrateur**), de quel point de vue, et dans quel ordre."
+    },
+    {
+     "type": "def",
+     "label": "Le narrateur",
+     "text": "Le **narrateur** est celui qui **raconte** l’histoire. Ce n’est **pas** l’auteur : l’auteur est la personne réelle qui écrit le livre ; le narrateur est une voix **inventée** par l’auteur."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Identifier l’intrigue d’une œuvre",
+      "Reconnaître qui est le narrateur",
+      "Distinguer les points de vue : interne, externe, omniscient",
+      "Repérer l’ordre du récit"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Qui raconte l’histoire dans un roman ?",
+     "options": [
+      "l’auteur réel",
+      "le narrateur",
+      "le lecteur"
+     ],
+     "answer": 1,
+     "explain": "Le narrateur est la voix qui raconte. Il est inventé par l’auteur."
+    }
+   ]
+  },
+  {
+   "t": "L’intrigue : un enchaînement d’événements",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Une intrigue se construit comme une chaîne. Un premier événement en provoque un second, puis un troisième, jusqu’à la fin de l’histoire."
+    },
+    {
+     "type": "table",
+     "title": "Les moments de l’intrigue",
+     "head": [
+      "Moment",
+      "Rôle",
+      "Exemple (histoire inventée)"
+     ],
+     "rows": [
+      [
+       "**Le début**",
+       "présenter les personnages et le lieu",
+       "Kimi, jeune pêcheur, vit au bord du fleuve avec sa grand-mère."
+      ],
+      [
+       "**Le nœud**",
+       "le problème qui lance l’histoire",
+       "Un soir, la pirogue de son père disparaît."
+      ],
+      [
+       "**Les péripéties**",
+       "les événements qui compliquent ou font avancer l’histoire",
+       "Kimi interroge les voisins, suit de fausses pistes, tombe malade."
+      ],
+      [
+       "**Le dénouement**",
+       "la solution du problème",
+       "Il retrouve la pirogue chez un pêcheur qui l’avait empruntée."
+      ],
+      [
+       "**La fin**",
+       "la situation nouvelle",
+       "Kimi comprend la valeur du dialogue."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Causes et conséquences"
+    },
+    {
+     "type": "p",
+     "text": "Pour comprendre une intrigue, on cherche **pourquoi** chaque événement arrive (**cause**) et **ce qu’il entraîne** (**conséquence**)."
+    },
+    {
+     "type": "ex",
+     "text": "Cause : la pirogue a disparu. → Conséquence : Kimi la cherche partout. → Conséquence : il rencontre des gens qu’il ne connaissait pas.",
+     "label": "Exemple"
+    },
+    {
+     "type": "tip",
+     "text": "Pour résumer une intrigue, écrivez **une phrase par moment** : début, nœud, péripéties, dénouement, fin.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Comment appelle-t-on le problème qui lance l’histoire ?",
+     "options": [
+      "le dénouement",
+      "le nœud",
+      "la fin"
+     ],
+     "answer": 1,
+     "explain": "Le nœud est le problème qui déclenche l’action ; le dénouement est sa solution."
+    }
+   ]
+  },
+  {
+   "t": "Le narrateur et le point de vue",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Il existe deux grandes façons de raconter : le narrateur peut être **un personnage de l’histoire** ou **rester en dehors**."
+    },
+    {
+     "type": "table",
+     "title": "Les deux types de narrateur",
+     "head": [
+      "Type",
+      "Il emploie…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Narrateur personnage**",
+       "« je »",
+       "« J’ai couru jusqu’au fleuve. »"
+      ],
+      [
+       "**Narrateur extérieur**",
+       "« il », « elle »",
+       "« Kimi a couru jusqu’au fleuve. »"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Les trois points de vue"
+    },
+    {
+     "type": "p",
+     "text": "Le **point de vue**, c’est ce que le lecteur **sait** et **voit** par l’intermédiaire du narrateur."
+    },
+    {
+     "type": "table",
+     "title": "Les points de vue",
+     "head": [
+      "Point de vue",
+      "Ce que le lecteur sait",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Interne**",
+       "ce qu’**un seul personnage** voit, ressent et pense",
+       "« Kimi avait peur : son cœur battait fort. »"
+      ],
+      [
+       "**Externe**",
+       "seulement ce qu’on **voit et entend de l’extérieur**, sans les pensées",
+       "« Kimi regarda le fleuve et ne dit rien. »"
+      ],
+      [
+       "**Omniscient**",
+       "**tout** : les pensées de tous les personnages, le passé et l’avenir",
+       "« Kimi ignorait que son ami le cherchait déjà. »"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour trouver le point de vue, posez-vous : *connaît-on les pensées d’un seul personnage (interne), d’aucun (externe) ou de tous (omniscient) ?*",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "« Le garçon avait peur, mais il n’osait pas l’avouer. » Quel point de vue ?",
+     "options": [
+      "externe",
+      "interne ou omniscient (on connaît ses pensées)",
+      "aucun"
+     ],
+     "answer": 1,
+     "explain": "Le narrateur donne accès aux pensées du garçon : ce n’est pas un point de vue externe."
+    }
+   ]
+  },
+  {
+   "t": "L’ordre du récit et les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le narrateur n’est pas obligé de raconter les événements dans l’ordre où ils se sont passés."
+    },
+    {
+     "type": "table",
+     "title": "L’ordre du récit",
+     "head": [
+      "Ordre",
+      "Définition",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**Chronologique**",
+       "les événements sont racontés dans l’ordre où ils arrivent",
+       "D’abord le départ, puis le voyage, enfin l’arrivée."
+      ],
+      [
+       "**Retour en arrière**",
+       "on revient à un événement passé",
+       "« Trois ans plus tôt, son père lui avait offert cette pirogue. »"
+      ],
+      [
+       "**Anticipation**",
+       "on annonce un événement futur",
+       "« Il ne se doutait pas qu’il la reverrait un jour. »"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 1 : le narrateur n’est pas l’auteur.** Même quand le narrateur dit « je », ce « je » est un personnage ou une voix inventée, pas forcément l’écrivain.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 2 : le narrateur n’est pas toujours le héros.** Un narrateur extérieur peut raconter l’histoire d’un héros sans en être un personnage.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 3 : ne confondez pas l’intrigue et le résumé.** L’intrigue montre **comment** les événements s’enchaînent (causes et conséquences) ; le résumé en donne seulement les grandes lignes.",
+     "label": "Attention"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel passage est un retour en arrière ?",
+     "options": [
+      "« Demain, il partira. »",
+      "« Dix ans plus tôt, il avait quitté son village. »",
+      "« Il marche vers le fleuve. »"
+     ],
+     "answer": 1,
+     "explain": "« Dix ans plus tôt » ramène le lecteur dans le passé."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Dis si le narrateur est un personnage ou un narrateur extérieur.",
+     "items": [
+      "a) « J’ai quitté mon village à l’aube. »",
+      "b) « Awa a quitté son village à l’aube. »",
+      "c) « Nous avons marché toute la nuit. »"
+     ],
+     "corrige": [
+      "a) personnage (je)",
+      "b) extérieur (elle)",
+      "c) personnage (nous)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Trouve le point de vue (interne, externe, omniscient).",
+     "items": [
+      "a) « Paul ouvrit la porte et regarda dehors. »",
+      "b) « Paul se sentait seul, il aurait voulu pleurer. »",
+      "c) « Paul ne savait pas que sa mère l’attendait déjà, ni que son père revenait. »"
+     ],
+     "corrige": [
+      "a) externe",
+      "b) interne",
+      "c) omniscient"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Classe ces événements dans l’ordre chronologique : *1) Il retrouve la clé. 2) Il perd la clé. 3) Il cherche partout. 4) Il rentre chez lui, soulagé.*",
+     "items": [
+      "Ordre"
+     ],
+     "corrige": [
+      "2 → 3 → 1 → 4"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Résume l’intrigue de l’œuvre que tu lis (ou d’un conte que tu connais) en cinq phrases : début, nœud, péripéties, dénouement, fin.",
+     "items": [
+      "Ton résumé"
+     ],
+     "corrige": [
+      "Réponse libre. Vérifier la présence des cinq moments et la logique cause → conséquence."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "L’**intrigue** est l’enchaînement des événements ; ils sont liés par des causes et des conséquences.",
+      "Ses moments : le **début**, le **nœud**, les **péripéties**, le **dénouement**, la **fin**.",
+      "La **narration**, c’est la manière de raconter : le **narrateur** n’est pas l’auteur.",
+      "Narrateur **personnage** (« je ») ou narrateur **extérieur** (« il », « elle »).",
+      "Points de vue : **interne**, **externe**, **omniscient** ; ordre : chronologique, retour en arrière, anticipation."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel point de vue montre les pensées de tous les personnages ?",
+     "options": [
+      "interne",
+      "externe",
+      "omniscient"
+     ],
+     "answer": 2,
+     "explain": "Le narrateur omniscient sait tout : il connaît les pensées de tous."
+    }
+   ]
+  }
+ ]
+}

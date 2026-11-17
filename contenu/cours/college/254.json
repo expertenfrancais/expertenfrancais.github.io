@@ -1,0 +1,376 @@
+{
+ "id": 254,
+ "meta": {
+  "t": "L’analyse du corps du texte",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Lecture",
+  "img": "l6",
+  "r": 4.8,
+  "mf": "MF5.1.5"
+ },
+ "sections": [
+  {
+   "t": "Le corps du texte et ce qui l’entoure",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un livre n’est pas fait que de pages d’histoire. Avant et après l’histoire, il y a d’autres éléments qui présentent l’œuvre."
+    },
+    {
+     "type": "def",
+     "label": "Le corps du texte",
+     "text": "Le **corps du texte** est la partie **principale** de l’œuvre : les chapitres, les scènes ou les poèmes qui contiennent **l’histoire elle-même**. C’est lui qu’on lit pour comprendre l’œuvre."
+    },
+    {
+     "type": "def",
+     "label": "Le paratexte",
+     "text": "Le **paratexte** est tout ce qui **entoure** le corps du texte : la couverture, le titre, le nom de l’auteur, la **4e de couverture**, la **préface**, la **table des matières**, les illustrations."
+    },
+    {
+     "type": "table",
+     "title": "Corps du texte ou paratexte ?",
+     "head": [
+      "Élément",
+      "Où est-il ?"
+     ],
+     "rows": [
+      [
+       "La couverture et le titre",
+       "paratexte"
+      ],
+      [
+       "La 4e de couverture (le résumé court)",
+       "paratexte"
+      ],
+      [
+       "La préface",
+       "paratexte"
+      ],
+      [
+       "Les chapitres 1, 2, 3…",
+       "**corps du texte**"
+      ],
+      [
+       "La table des matières",
+       "paratexte"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "items": [
+      "Distinguer le corps du texte et le paratexte",
+      "Découper le corps du texte en séquences",
+      "Analyser une séquence",
+      "Citer le texte avec exactitude"
+     ],
+     "label": "Objectifs"
+    },
+    {
+     "type": "quiz",
+     "question": "Les chapitres d’un roman font partie…",
+     "options": [
+      "du paratexte",
+      "du corps du texte",
+      "de la couverture"
+     ],
+     "answer": 1,
+     "explain": "Les chapitres contiennent l’histoire : c’est le corps du texte."
+    }
+   ]
+  },
+  {
+   "t": "Découper le corps du texte en séquences",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser un long texte, on le **découpe en parties** appelées **séquences**. Une **séquence** est un passage qui forme un tout, avec un **thème** ou une **action** particulière."
+    },
+    {
+     "type": "def",
+     "label": "La séquence",
+     "text": "Une **séquence** est un ensemble de paragraphes ou de chapitres qui racontent **un même moment** de l’histoire. On passe à une nouvelle séquence quand **quelque chose change**."
+    },
+    {
+     "type": "table",
+     "title": "Ce qui marque le début d’une nouvelle séquence",
+     "head": [
+      "Changement",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "de **lieu**",
+       "On passe du village à la ville."
+      ],
+      [
+       "de **temps**",
+       "« Le lendemain… », « Dix ans plus tard… »"
+      ],
+      [
+       "de **personnage**",
+       "L’histoire suit un autre héros."
+      ],
+      [
+       "d’**action**",
+       "On passe de la recherche à la découverte."
+      ],
+      [
+       "de **forme**",
+       "On passe d’un récit à un dialogue ou à une description."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Histoire inventée en six chapitres : *Kimi et le tam-tam perdu*.\nChapitres 1-2 : Kimi vit au village (séquence 1).\nChapitre 3 : le tam-tam disparaît (séquence 2).\nChapitres 4-5 : Kimi enquête (séquence 3).\nChapitre 6 : le tam-tam est retrouvé (séquence 4).",
+     "label": "Exemple de découpage"
+    },
+    {
+     "type": "tip",
+     "text": "Donnez à chaque séquence **un titre court** qui résume son contenu : *Le village de Kimi*, *La disparition*, *L’enquête*, *Le tam-tam retrouvé*.",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Qu’est-ce qui peut marquer le début d’une nouvelle séquence ?",
+     "options": [
+      "un changement de lieu ou de temps",
+      "un mot long",
+      "la première lettre du chapitre"
+     ],
+     "answer": 0,
+     "explain": "Un changement de lieu, de temps, de personnage ou d’action ouvre une nouvelle séquence."
+    }
+   ]
+  },
+  {
+   "t": "Analyser une séquence",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour analyser une séquence, on suit **cinq questions**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**De quoi parle-t-elle ?** → le thème, résumé en une phrase.",
+      "**Qui est présent ?** → les personnages.",
+      "**Où et quand ?** → l’espace et le temps.",
+      "**Quelle forme a-t-elle ?** → narration, description, dialogue.",
+      "**Quel est son rôle ?** → pourquoi cette séquence dans l’histoire ?"
+     ],
+     "label": "Les cinq questions",
+     "ordered": true
+    },
+    {
+     "type": "table",
+     "title": "Les formes d’un passage",
+     "head": [
+      "Forme",
+      "Elle sert à…",
+      "Comment la reconnaître ?"
+     ],
+     "rows": [
+      [
+       "**Narration**",
+       "raconter des actions",
+       "verbes d’action, ordre des événements"
+      ],
+      [
+       "**Description**",
+       "montrer un lieu ou un personnage",
+       "adjectifs, verbes d’état, imparfait"
+      ],
+      [
+       "**Dialogue**",
+       "faire parler les personnages",
+       "tirets, guillemets, paroles"
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Relever les mots importants"
+    },
+    {
+     "type": "p",
+     "text": "Les **mots-clés** d’une séquence sont ceux qui reviennent souvent ou qui expriment **l’idée principale**. On peut les regrouper en **champ lexical**."
+    },
+    {
+     "type": "ex",
+     "text": "Dans la séquence de l’enquête : *chercher, interroger, indice, suspect, piste* → champ lexical de l’**enquête**.",
+     "label": "Exemple"
+    },
+    {
+     "type": "quiz",
+     "question": "Un passage où les personnages se parlent avec des tirets est…",
+     "options": [
+      "une description",
+      "un dialogue",
+      "un résumé"
+     ],
+     "answer": 1,
+     "explain": "Les tirets et les guillemets marquent les paroles : c’est un dialogue."
+    }
+   ]
+  },
+  {
+   "t": "Citer le texte et les pièges",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Quand on analyse, on **prouve** ce qu’on dit en **citant** le texte : on recopie exactement un mot, une phrase ou un court passage."
+    },
+    {
+     "type": "table",
+     "title": "Les règles de la citation",
+     "head": [
+      "Règle",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "Mettre la citation entre **guillemets**",
+       "Kimi « avait peur » de la nuit."
+      ],
+      [
+       "Recopier **exactement**, sans changer un mot",
+       "« Son cœur battait fort. »"
+      ],
+      [
+       "Indiquer la **page** ou le **chapitre**",
+       "« … » (chapitre 3, page 24)"
+      ],
+      [
+       "Choisir une citation **courte** et **utile**",
+       "quelques mots suffisent souvent"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 1 : ne confondez pas le résumé et la paraphrase.** Résumer, c’est dire l’essentiel avec **ses propres mots** et en **moins de mots**. Paraphraser, c’est redire presque la même chose, avec autant de mots.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 2 : ne recopiez pas tout un chapitre.** Citez seulement le passage qui **prouve** votre idée.",
+     "label": "Attention"
+    },
+    {
+     "type": "warn",
+     "text": "**Piège 3 : une idée sans preuve ne suffit pas.** Dire « Kimi est courageux » ne suffit pas : il faut ajouter la preuve, par exemple « il traverse seul la forêt ».",
+     "label": "Attention"
+    },
+    {
+     "type": "tip",
+     "text": "La formule utile : **idée + preuve + explication**. Exemple : *Kimi est courageux : « il avança seul dans la forêt ». Il n’a pas peur du danger.*",
+     "label": "Astuce"
+    },
+    {
+     "type": "quiz",
+     "question": "Une citation doit être…",
+     "options": [
+      "recopiée exactement, entre guillemets",
+      "reformulée avec d’autres mots",
+      "très longue"
+     ],
+     "answer": 0,
+     "explain": "On recopie fidèlement et on met des guillemets."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 1** : Dis si l’élément appartient au corps du texte ou au paratexte.",
+     "items": [
+      "a) la préface",
+      "b) le chapitre 5",
+      "c) la 4e de couverture",
+      "d) la table des matières",
+      "e) la scène où le héros arrive à la ville"
+     ],
+     "corrige": [
+      "a) paratexte",
+      "b) corps du texte",
+      "c) paratexte",
+      "d) paratexte",
+      "e) corps du texte"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 2** : Pour chaque changement, dis s’il marque une nouvelle séquence (oui ou non).",
+     "items": [
+      "a) On passe du village à la ville.",
+      "b) Un personnage change de vêtement.",
+      "c) « Dix ans plus tard, Kimi était devenu pêcheur. »",
+      "d) Le héros continue de marcher sur la même route."
+     ],
+     "corrige": [
+      "a) oui (lieu)",
+      "b) non, en général",
+      "c) oui (temps)",
+      "d) non"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 3** : Voici une séquence : *Kimi frappa à toutes les portes. Il interrogea le chef du village, le forgeron et la vieille Mama. Aucun n’avait vu le tam-tam.* Donne le titre, le thème et la forme.",
+     "items": [
+      "Titre",
+      "Thème",
+      "Forme"
+     ],
+     "corrige": [
+      "Exemple : L’enquête",
+      "Kimi cherche le tam-tam en interrogeant les habitants",
+      "narration (des actions qui se suivent)"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "**Exercice 4** : Complète : *Kimi est courageux, car … (idée + preuve).* Utilise une citation inventée entre guillemets.",
+     "items": [
+      "Ta phrase"
+     ],
+     "corrige": [
+      "Exemple : Kimi est courageux, car « il traversa seul la forêt de nuit ». Il n’a pas peur du danger."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "Le **corps du texte** est la partie principale de l’œuvre ; le **paratexte** l’entoure (couverture, préface, 4e de couverture, table des matières).",
+      "On découpe le corps du texte en **séquences** : un changement de lieu, de temps, de personnage ou d’action ouvre une nouvelle séquence.",
+      "Pour analyser une séquence : thème, personnages, lieu et temps, forme (narration, description, dialogue), rôle.",
+      "On **cite** exactement, entre **guillemets**, avec la page.",
+      "Une bonne analyse = **idée + preuve + explication**."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Qu’est-ce qu’une séquence ?",
+     "options": [
+      "un passage qui forme un tout, sur un même moment de l’histoire",
+      "un mot important",
+      "la couverture du livre"
+     ],
+     "answer": 0,
+     "explain": "Une séquence regroupe des paragraphes ou des chapitres qui parlent d’un même moment."
+    }
+   ]
+  }
+ ]
+}
