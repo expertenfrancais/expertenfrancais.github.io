@@ -258,3 +258,7 @@ a.ls>div.sm{cursor:pointer}
 .lsr small{font-size:11.5px;color:var(--sub)}
 .lsm{margin:0 0 10px;font-size:13.5px;font-weight:600;line-height:1.5;color:var(--ink)}
 .lsre{padding:9px 16px;border:0;border-radius:16px;background:var(--card);color:var(--link);font-size:13px;font-weight:700}
+
+/* Lecture sur grand écran : colonne de lecture confortable (après responsive.css) */
+@media (min-width:900px){.app{max-width:860px!important}}
+@media (min-width:1280px){.app{max-width:920px!important}}

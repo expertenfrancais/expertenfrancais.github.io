@@ -122,6 +122,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .codebox input:focus{outline:0;border-color:#8c6fe0}.codebox .err{min-height:18px;margin:10px 0 0;font-size:13.5px;color:var(--danger);text-align:center}
 .hint{margin:14px 4px 0;font-size:13px;color:var(--sub);text-align:center}
 </style>
+<link rel="stylesheet" href="responsive.css">
 </head>
 <body>
 <div class="app" id="app">
@@ -159,7 +160,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 <script>
 $("p-bell").setAttribute("d",IC.bell);
 var n0=userName();if(n0)$("av").textContent=n0.charAt(0).toUpperCase();
-function nav(){drawNav(3)}
+function nav(){drawNav(-1)}
 function renderStatut(){
  var on=isSubscribed(),s=ls("sub",{}),pl=planOf(s.plan);
  var ds=on?Math.ceil((Date.parse(s.end)-Date.now())/864e5):0;

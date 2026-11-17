@@ -150,6 +150,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .res .hit{margin-bottom:10px}
 .back{display:grid}
 </style>
+<link rel="stylesheet" href="responsive.css">
 </head>
 <body>
 <div class="app">
@@ -179,7 +180,7 @@ var tab="docs",shown=PAGE_DOCS,q="",loaded=false,docs=[],hits=[],fhits=[];
 $("i-back").innerHTML='<path d="M15.5 4.5 8 12l7.5 7.5-1.8 1.8L4.4 12l9.3-9.3z"/>';
 var name=userName();
 
-function nav(){drawNav(1)}
+function nav(){drawNav(3)}
 function paintTabs(){
  var items=[["docs","Documents",docs.length],["hits","Dans les cours",loaded?hits.length:"…"]];
  if(FICHES_OK)items.push(["fiches","Fiches",loaded?fhits.length:"…"]);

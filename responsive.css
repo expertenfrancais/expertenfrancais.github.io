@@ -1,0 +1,57 @@
+/* ===== Responsive : téléphone, tablette, PC et grands écrans =====
+   Chargée APRÈS les styles de chaque page. Sous 600 px : rien ne change (mise en page téléphone).
+   À partir de 600 px : plus de cadre « téléphone », la page occupe la largeur et les listes passent en grilles. */
+
+@media (min-width:600px){
+  html,body{background:#8d7bc4}
+  body{align-items:flex-start!important}
+  /* Fini le cadre de téléphone sur ordinateur : la page défile normalement */
+  .app{max-width:780px!important;width:100%;min-height:100vh!important;min-height:100svh!important;height:auto!important;
+    overflow-x:clip!important;overflow-y:visible!important;border-radius:0!important;
+    box-shadow:0 0 70px rgba(40,20,100,.28)!important}
+  /* Barre du bas : flottante, centrée, de largeur raisonnable sur tous les écrans */
+  .nav{position:fixed!important;left:0!important;right:0!important;margin:0 auto!important;bottom:0!important;
+    width:100%!important;max-width:560px!important}
+  main{padding-bottom:calc(110px + env(safe-area-inset-bottom,0px))!important}
+  .toast{max-width:min(90vw,520px)}
+  /* Listes de documents : grille qui s’adapte */
+  .list,.grid{grid-template-columns:repeat(auto-fill,minmax(250px,1fr))!important}
+  /* Étagères : chaque document garde une largeur confortable */
+  .rail>.doc{flex:0 0 min(calc(100% - 24px),310px)!important}
+  /* Tri : trois colonnes */
+  .sorts{grid-template-columns:repeat(3,1fr)!important}
+}
+
+@media (min-width:900px){
+  .app{max-width:1000px!important}
+  main,.top{padding-left:32px!important;padding-right:32px!important}
+  main{padding-top:6px}
+  /* Étagères : grille au lieu du défilement horizontal (plus pratique à la souris) */
+  .rail{display:grid!important;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px;
+    margin:0!important;padding:2px 0 14px!important;overflow:visible!important;scroll-snap-type:none!important}
+  .rail>.doc{flex:none!important}
+  .rail>.shelf-more{flex:none!important;min-height:150px}
+  /* Catégories : toutes visibles, plus grandes */
+  .cats{flex-wrap:wrap;overflow:visible;gap:18px 22px;padding:10px 4px 6px}
+  .cat{width:96px;font-size:13px}
+  /* Fenêtres, bandeaux et formulaires : jamais plus larges que lisible */
+  .tri-in,.panel{max-width:100%}
+  .shelf-cat{font-size:22px}
+  .shelf-h h3{font-size:18px}
+}
+
+@media (min-width:1280px){
+  .app{max-width:1240px!important}
+  .rail,.list,.grid{grid-template-columns:repeat(auto-fill,minmax(270px,1fr))!important}
+}
+
+/* Pages à peu de contenu (réglages, profil, abonnement, contact) : colonne centrée, plus lisible */
+@media (min-width:900px){
+  main>.group,main>#plans,main>#ways,main>#acc{max-width:760px}
+}
+
+/* Écrans très larges ou en paysage bas : on évite de tout étirer */
+@media (min-width:1600px){.app{max-width:1360px!important}}
+@media (max-height:520px) and (min-width:600px){
+  .nav{max-width:480px!important}
+}

@@ -214,3 +214,7 @@ html.f-page,html.f-page body{margin:0;background:var(--fbg);color:var(--fink);fo
 .f-app .f-board{margin:8px 0;padding:8px 10px;border:1px dashed var(--fdash);border-radius:8px}
 .f-app .f-board p{margin:0 0 4px}
 @media print{.f-aps tr{break-inside:auto;page-break-inside:auto}.f-aps td p{break-inside:avoid;page-break-inside:avoid}.f-def,.f-nb{break-inside:avoid;page-break-inside:avoid}}
+
+/* Fiches : tableaux larges sur grand écran (après course.css) */
+@media (min-width:900px){.app{max-width:1100px!important}}
+@media (min-width:1280px){.app{max-width:1280px!important}}
