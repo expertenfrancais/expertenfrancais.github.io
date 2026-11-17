@@ -47,3 +47,16 @@ Vérification côté Supabase : « Authentication -> Users » et « Table Editor
 
 ## 7. Sauvegarde des favoris, du panier et de la progression
 Supabase -> SQL Editor -> New query : collez `supabase/02-user-data.sql`, puis Run (« Success »). Les données de chaque compte sont alors retrouvées sur n'importe quel appareil.
+
+## 10. Contenus hors ligne : mise à jour incrémentale et téléchargement automatique en Wi‑Fi
+1. Après chaque ajout ou modification de contenu, lancez `node outils/generer-pages.js` (il appelle `outils/generer-versions.js`), ou seulement `node outils/generer-versions.js`. Il écrit `contenu/index-versions.json` : publiez ce fichier avec les autres.
+2. Sans ce fichier à jour, « Mettre à jour » ne voit pas les modifications (les nouveaux fichiers sont quand même détectés).
+3. Paramètres > « Télécharger en Wi‑Fi automatiquement » : actif seulement sur les appareils qui indiquent le type de connexion (Chrome / Android) ; contrôle au plus toutes les 12 h, jamais avec l'économiseur de données.
+
+## 11. Notes (avis) des apprenants
+1. Supabase -> SQL Editor -> New query : collez `supabase/05-avis.sql` (à lancer après le 03), puis Run (« Success »).
+2. Aucune autre étape : les notes de 1 à 5 données dans l'application (page d'un cours, fin d'une leçon) sont envoyées à Supabase ; les notes déjà données sur un appareil sont envoyées automatiquement à la prochaine ouverture de l'application (compte connecté).
+3. Les cartes (accueil, catalogue, favoris, recherche) et la page d'un cours affichent la vraie moyenne ; un cours sans avis affiche « Nouveau ». Les moyennes sont relues au plus toutes les 30 minutes. La clé `meta.r` des fichiers de cours n'est plus affichée.
+4. `admin.html` > onglet **Avis** : nombre d'avis, moyenne générale, répartition, cours les plus notés et la liste de tous les avis avec le nom et l'adresse e-mail de la personne (filtre par note ; recherche par cours, nom ou e-mail). Seul l'administrateur voit qui a noté.
+5. Test : connectez-vous, notez un cours (3 étoiles par exemple), attendez 1 à 2 secondes, ouvrez `admin.html` > Avis : l'avis apparaît avec votre adresse. Rechargez l'accueil : le cours affiche 3,0.
+6. Limite : une personne non connectée (mode invité) ne peut ni noter ni voir les moyennes.
