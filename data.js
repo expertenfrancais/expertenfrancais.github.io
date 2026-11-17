@@ -952,6 +952,29 @@ function cardHTML(d){
   '<div class="r2">'+(acc?'<div class="price"><b>'+accesLabel(d)+'</b></div><button class="add in" data-o="'+d.id+'" aria-label="Ouvrir">'+ico("dl",20)+'</button>':'<div class="price"><b>'+(ACHAT?price(d.pr):"Abonnés")+'</b></div>'+
   (ACHAT?'<button class="add'+(c?" in":"")+'" data-c="'+d.id+'" aria-label="'+(c?"Retirer du panier":"Ajouter au panier")+'">'+ico(c?"check":"plus",20)+'</button>':'<button class="add in" data-o="'+d.id+'" aria-label="Voir">'+ico("dl",20)+'</button>'))+'</div></div></article>'}
 
+/* ===== Cycle sans contenu (v261) =====
+   Quand le cycle consulté n’a aucun document à montrer, la page ne reste plus vide : un petit message explique la situation
+   et quelques documents des autres cycles (les mieux notés, un peu de chaque catégorie) sont proposés à la place.
+   emptyFallback(cyc,type,ok) → liste de documents (vide si ok est faux ou si le cycle est « Tous ») ; fallbackNote(cyc) → bandeau HTML. */
+function cycleHasDocs(c){return ALLDOCS.some(function(d){return d.c===c&&ALLOWED_TYPES.indexOf(d.k)>-1})}
+function emptyFallback(cyc,type,ok){
+ if(!ok||!cyc||cyc==="Tous")return [];
+ var pool=ALLDOCS.filter(function(d){return ALLOWED_TYPES.indexOf(d.k)>-1&&d.c!==cyc});
+ if(type){var same=pool.filter(function(d){return d.k===type});if(same.length)pool=same}
+ pool.sort(function(a,b){return b.r-a.r});
+ var by={},ks=[];
+ pool.forEach(function(d){if(!by[d.k]){by[d.k]=[];ks.push(d.k)}by[d.k].push(d)});
+ ks.sort(function(a,b){return ALLOWED_TYPES.indexOf(a)-ALLOWED_TYPES.indexOf(b)});
+ var out=[],i=0,N=6;
+ while(out.length<N&&ks.some(function(k){return by[k].length>i})){ks.forEach(function(k){if(out.length<N&&by[k][i])out.push(by[k][i])});i++}
+ return out}
+function fallbackNote(cyc){
+ var none=!cycleHasDocs(cyc),
+  msg=none?'Les contenus du cycle <b>'+esc(cyc)+'</b> arrivent bientôt. En attendant, voici quelques documents des autres cycles.'
+   :'Aucun document de ce choix dans le cycle <b>'+esc(cyc)+'</b> pour l’instant. Voici quelques documents des autres cycles.';
+ return '<div class="fb-note" style="grid-column:1/-1;padding:14px 16px;border-radius:20px;background:var(--card);color:var(--ink);box-shadow:0 6px 14px rgba(90,60,170,.1);font-size:14px;line-height:1.45">'+msg+
+  (canSwitchCycle()?'<button type="button" class="fb-all" style="display:block;margin-top:8px;padding:0;border:0;background:none;font:inherit;font-size:13px;font-weight:700;color:var(--link)">Parcourir tous les cycles ›</button>':'')+'</div>'}
+
 /* ===== Rangement par catégorie =====
    Les documents ne sont plus empilés dans une seule longue liste : ils sont rangés par catégorie (type)
    puis par sous-discipline. Chaque groupe est une rangée qui défile horizontalement (8 documents au plus,

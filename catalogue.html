@@ -20,6 +20,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Expert en français">
 <title>Catalogue | Expert en français</title>
+<meta name="description" content="Catalogue Expert en français : tous les cours, exercices corrigés et annales de français du primaire à l’université, classés par niveau et par matière.">
 <style>
 /* Transitions entre pages (navigateurs récents) et fondu d'arrivée du contenu */
 @view-transition{navigation:auto}
@@ -228,7 +229,9 @@ function render(){
  var res=result(),L=$("list");
  $("cnt").textContent=res.length+" résultat"+(res.length>1?"s":"");
  /* Rangement par catégorie : plusieurs groupes = une rangée par groupe ; un seul groupe = grille avec « Afficher plus » */
- if(!res.length){L.className="grid";L.innerHTML='<p class="empty">Aucun document ne correspond à votre recherche.</p>';$("more").hidden=true}
+ if(!res.length){var fb=emptyFallback(st.cyc,st.type==="Tous"?"":st.type,!st.q.trim()&&!st.mats.length);
+  if(fb.length){L.className="grid";L.innerHTML=fallbackNote(st.cyc)+fb.map(cardHTML).join("");$("more").hidden=true;$("cnt").textContent=fb.length+" suggestions"}
+  else{L.className="grid";L.innerHTML='<p class="empty">Aucun document ne correspond à votre recherche.</p>';$("more").hidden=true}}
  else if(shelfGroups(res)>1){L.className="shelves";L.innerHTML=shelvesHTML(res,cardHTML,PAGE);$("more").hidden=true}
  else{L.className="grid";L.innerHTML=cards(res.slice(0,st.shown));$("more").hidden=res.length<=st.shown}
  $("ttl").textContent=st.mats.length?st.mats.map(matLabel).join(" · "):"Tous les documents";
@@ -260,6 +263,7 @@ $("mats").onclick=function(e){var b=e.target.closest(".chip");if(!b)return;var v
 $("flt").onclick=function(){var h=$("panel").hidden;$("panel").hidden=!h;this.setAttribute("aria-expanded",h)};
 $("reset").onclick=function(){st={type:"Tous",cyc:canSwitchCycle()?"Tous":activeCycle(),niv:"Tous",mats:[],sort:"pert",q:"",shown:PAGE};render()};
 $("more").onclick=function(){st.shown+=PAGE;render()};
+$("list").addEventListener("click",function(e){if(e.target.closest(".fb-all")){st={type:"Tous",cyc:"Tous",niv:"Tous",mats:[],sort:"pert",q:"",shown:PAGE};render()}});
 $("list").addEventListener("click",function(e){seeGroup(e,function(k,m){if(k)st.type=k;st.mats=[m];st.shown=PAGE;render()})});
 $("set").onclick=function(){location.href="parametres.html"};
 bindCards($("list"),function(k){if(k==="cart")nav()});

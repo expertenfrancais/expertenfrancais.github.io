@@ -2,7 +2,7 @@
 <html lang="fr" class="p-home">
 <head>
 <meta charset="utf-8">
-<script>/* Garde : sans profil (compte ou invité), aller à la connexion avant tout affichage ; l’invité garde l’accès */try{if(!localStorage.getItem("user_name")){document.documentElement.style.display="none";location.replace("login-app.html?next="+encodeURIComponent(location.pathname.split("/").pop()||"index.html"))}}catch(e){}</script>
+<script>/* Garde : sans profil (compte ou invité), aller à la connexion avant tout affichage ; l’invité garde l’accès */try{if(!localStorage.getItem("user_name")&&!/bot|crawl|spider|slurp|googlebot|bingbot|lighthouse/i.test(navigator.userAgent)){document.documentElement.style.display="none";location.replace("login-app.html?next="+encodeURIComponent(location.pathname.split("/").pop()||"index.html"))}}catch(e){}</script>
 <!-- Balise Google (Analytics) -->
 <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-N5J6FX4H"></script>
 <script>
@@ -19,7 +19,17 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Expert en français">
-<title>Accueil | Expert en français</title>
+<title>Expert en français : cours, exercices et annales de français</title>
+<meta name="description" content="Expert en français : cours, exercices corrigés, annales et fiches pédagogiques de grammaire, conjugaison, orthographe, vocabulaire, lecture et expression écrite, du primaire à l’université (programmes du Congo).">
+<link rel="canonical" href="https://expertenfrancais.github.io/index.html">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:site_name" content="Expert en français">
+<meta property="og:title" content="Expert en français : cours, exercices et annales de français">
+<meta property="og:description" content="Expert en français : cours, exercices corrigés, annales et fiches pédagogiques de grammaire, conjugaison, orthographe, vocabulaire, lecture et expression écrite, du primaire à l’université (programmes du Congo).">
+<meta property="og:url" content="https://expertenfrancais.github.io/index.html">
+<meta property="og:image" content="https://expertenfrancais.github.io/icon-192.png">
+<meta name="twitter:card" content="summary">
 <style>
 /* Transitions entre pages (navigateurs récents) et fondu d'arrivée du contenu */
 @view-transition{navigation:auto}
@@ -293,7 +303,9 @@ function render(){
    (canAccess(d.id)||!ACHAT?'<button class="add in" data-o="'+d.id+'">'+(canAccess(d.id)?"Ouvrir":"Voir")+'</button>':'<button class="add'+(c?" in":"")+'" data-c="'+d.id+'">'+(c?"Ajouté ✓":"Ajouter")+'</button>')+'</div></div></article>'}
  /* Rangement par catégorie : plusieurs groupes = une rangée par groupe ; un seul groupe = liste avec « Afficher plus » */
  var L=$("list");
- if(!res.length){L.className="list";L.innerHTML='<p class="empty">Aucun document ne correspond à votre recherche.</p>';$("pgmore").hidden=true}
+ if(!res.length){var fb=emptyFallback(cyc,type,!q.trim()&&!mats.length);
+  if(fb.length){L.className="list";L.innerHTML=fallbackNote(cyc)+fb.map(docCard).join("");$("pgmore").hidden=true;$("cnt").textContent=fb.length+" suggestions"}
+  else{L.className="list";L.innerHTML='<p class="empty">Aucun document ne correspond à votre recherche.</p>';$("pgmore").hidden=true}}
  else if(shelfGroups(res)>1){L.className="shelves";L.innerHTML=shelvesHTML(res,docCard,8);$("pgmore").hidden=true}
  else{L.className="list";L.innerHTML=res.slice(0,shown).map(docCard).join("");$("pgmore").hidden=res.length<=shown}
  $("catcard").hidden=!!q.trim()&&!type;
@@ -330,6 +342,7 @@ $("list").onclick=function(e){
  if(c){var id2=+c.dataset.c,j=cart.indexOf(id2);j>-1?cart.splice(j,1):cart.push(id2);sv("cart",cart);
   c.classList.toggle("in",j<0);c.textContent=j<0?"Ajouté ✓":"Ajouter";nav();toast(j<0?"Ajouté au panier":"Retiré du panier")}};
 $("pgmore").onclick=function(){shown+=PAGE;render()};
+$("list").addEventListener("click",function(e){if(e.target.closest(".fb-all")){type=null;mats=[];niv="Tous";cyc="Tous";q="";rs()}});
 $("list").addEventListener("click",function(e){seeGroup(e,function(k,m){if(k)type=k;mats=[m];rs()})});
 $("nav").onclick=navClick;
 nav();render();cycleBar("list");guestBanner("list");subBanner("list");
