@@ -4,7 +4,7 @@
    Il n'y a plus aucun cache ni aucune interception des requêtes : tout vient directement du réseau.
    Ne pas supprimer ce fichier (au moins quelques mois) et ne pas y remettre de « fetch ».
    VERSION sert seulement à repérer la version du site (affichée dans admin.html). */
-var VERSION = "v263";
+var VERSION = "v265";
 
 self.addEventListener("install", function () { self.skipWaiting(); });
 

@@ -9,6 +9,8 @@ function nav(){drawNav(1)}
 $("nav").onclick=navClick;
 var d=ALLDOCS.filter(function(x){return x.id===DOC_ID})[0];
 var logged=!!userName(),acct=hasAccount(),guest=isGuest();
+/* La page statique contient une note figée : on la remplace par la vraie moyenne des apprenants */
+(function(){var ts=document.querySelector(".tag.star");if(ts&&d)ts.innerHTML=d.nb>0?ico("star",13)+d.r.toFixed(1).replace(".",",")+" · "+d.nb+" avis":"Nouveau"})();
 /* Un visiteur non connecté voit la page (aperçu public). Une personne connectée ne voit que les documents de son profil. */
 var typeOK=!!d&&(!logged||ALLOWED_TYPES.indexOf(d.k)>-1);
 var cycOK=!!d&&cycleOK(d);
