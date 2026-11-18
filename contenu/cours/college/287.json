@@ -1,0 +1,577 @@
+{
+ "id": 287,
+ "meta": {
+  "t": "Le complément circonstanciel de temps",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "p69",
+  "r": 4.8,
+  "mf": "MF6.2.9"
+ },
+ "sections": [
+  {
+   "t": "Quand se passe l’action ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis cette phrase : « **Ce matin**, Awa a lu un conte. » Si l’on demande « **Quand** Awa a-t-elle lu un conte ? », la réponse est *ce matin*. Ce groupe de mots situe l’action dans le **temps**."
+    },
+    {
+     "type": "def",
+     "text": "Le **complément circonstanciel de temps** (CC de temps) indique **quand** se passe l’action, **combien de temps** elle dure ou **combien de fois** elle se répète. Il répond à la question **quand ?** Il complète toute la phrase : on peut le **supprimer** ou le **déplacer**.",
+     "label": "Complément circonstanciel de temps"
+    },
+    {
+     "type": "ex",
+     "text": "**Ce matin**, Awa a lu un conte.\nLe marché ouvre **à six heures**.\nNous partirons **dans deux jours**.\nIl pleut **depuis hier**.",
+     "label": "Exemples"
+    },
+    {
+     "type": "schema",
+     "title": "Analyse d’une phrase",
+     "cells": [
+      {
+       "mot": "Ce matin",
+       "role": "CC de temps",
+       "noyau": true
+      },
+      {
+       "mot": "Awa",
+       "role": "sujet",
+       "noyau": false
+      },
+      {
+       "mot": "a lu",
+       "role": "verbe",
+       "noyau": false
+      },
+      {
+       "mot": "un conte",
+       "role": "COD",
+       "noyau": false
+      }
+     ],
+     "note": "« Ce matin » répond à la question « quand ? » et peut être supprimé ou déplacé."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un **CC de temps** avec la question *quand ?*",
+      "Distinguer le **moment**, la **durée** et la **fréquence**",
+      "Choisir la bonne **préposition** de temps",
+      "Accorder le **temps du verbe** avec le CC",
+      "Ne pas le confondre avec un **COD** ou un **sujet**"
+     ],
+     "ordered": false,
+     "label": "Objectifs du cours"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Le marché ouvre à six heures », quelle question permet de trouver le CC de temps ?",
+     "options": [
+      "où ?",
+      "quand ?",
+      "comment ?",
+      "pourquoi ?"
+     ],
+     "answer": 1,
+     "explain": "« à six heures » répond à la question « quand le marché ouvre-t-il ? » : c’est le CC de temps."
+    }
+   ]
+  },
+  {
+   "t": "Moment, durée et fréquence",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le CC de temps peut donner trois renseignements différents. Selon celui qu’il donne, la question change."
+    },
+    {
+     "type": "table",
+     "title": "Les trois sens du CC de temps",
+     "head": [
+      "Il indique",
+      "Questions",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "le **moment**",
+       "quand ? à quel moment ?",
+       "Le spectacle commence **à huit heures**."
+      ],
+      [
+       "la **durée**",
+       "pendant combien de temps ? depuis quand ? jusqu’à quand ?",
+       "Les élèves ont travaillé **pendant une heure**."
+      ],
+      [
+       "la **fréquence**",
+       "combien de fois ? à quelle fréquence ?",
+       "Il s’entraîne **trois fois par semaine**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*Le moment :* **Hier soir**, il a plu.\n*La durée :* Il a plu **toute la nuit**.\n*La fréquence :* Il pleut **souvent** en octobre.",
+     "label": "Les trois sens"
+    },
+    {
+     "type": "tip",
+     "text": "Si **quand ?** ne convient pas, essaie **pendant combien de temps ?** ou **combien de fois ?**.",
+     "label": "Plusieurs questions possibles"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel renseignement donne « tous les samedis » dans « Nous allons au marché tous les samedis » ?",
+     "options": [
+      "le moment précis",
+      "la durée",
+      "la fréquence",
+      "le lieu"
+     ],
+     "answer": 2,
+     "explain": "« tous les samedis » dit combien de fois l’action se répète : c’est la fréquence."
+    }
+   ]
+  },
+  {
+   "t": "Les formes du CC de temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le CC de temps peut avoir plusieurs formes. Il n’est pas toujours introduit par une préposition."
+    },
+    {
+     "type": "table",
+     "title": "La nature du CC de temps",
+     "head": [
+      "Nature",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "adverbe de temps",
+       "*hier*, *aujourd’hui*, *demain*, *bientôt*, *tôt*, *tard*, *souvent*, *longtemps*, *toujours*"
+      ],
+      [
+       "groupe nominal sans préposition",
+       "*ce soir*, *le lundi*, *chaque matin*, *l’an dernier*, *tous les jours*, *la semaine prochaine*"
+      ],
+      [
+       "groupe nominal avec préposition",
+       "*à midi*, *pendant les vacances*, *depuis lundi*, *en été*, *après la classe*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Demain**, nous visiterons le village.\n**Chaque matin**, Léa arrose les fleurs.\nNous nous reposons **après le repas**.",
+     "label": "Exemples"
+    },
+    {
+     "type": "warn",
+     "text": "*Ce soir*, *le lundi*, *chaque matin* n’ont **pas de préposition**, mais ce sont bien des CC de temps : ils répondent à *quand ?* et on peut les supprimer.",
+     "label": "Sans préposition, mais CC quand même"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nature de « chaque matin » dans « Chaque matin, Léa arrose les fleurs » ?",
+     "options": [
+      "un adverbe",
+      "un groupe nominal sans préposition",
+      "un verbe",
+      "un groupe nominal avec préposition"
+     ],
+     "answer": 1,
+     "explain": "« chaque matin » est un groupe nominal (déterminant + nom) sans préposition."
+    }
+   ]
+  },
+  {
+   "t": "Les prépositions du temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certaines prépositions se ressemblent mais n’ont pas le même sens. Il faut les choisir avec soin."
+    },
+    {
+     "type": "table",
+     "title": "Les prépositions de temps",
+     "head": [
+      "Mot",
+      "Sens",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**pendant**",
+       "la durée",
+       "Elle a dormi **pendant deux heures**."
+      ],
+      [
+       "**depuis**",
+       "le point de départ, jusqu’à maintenant",
+       "Il pleut **depuis hier**."
+      ],
+      [
+       "**dans**",
+       "un moment à venir",
+       "Mon cousin arrive **dans trois jours**."
+      ],
+      [
+       "**il y a**",
+       "un moment passé",
+       "Nous avons déménagé **il y a deux ans**."
+      ],
+      [
+       "**en**",
+       "un mois, une année, une saison, ou le temps nécessaire",
+       "**En mai**, **en 2020**, **en hiver**. Il a fini **en une heure**."
+      ],
+      [
+       "**à**",
+       "l’heure, le moment précis ; *au printemps*",
+       "Le cours commence **à neuf heures**."
+      ],
+      [
+       "**jusqu’à**",
+       "la limite",
+       "Nous resterons **jusqu’à midi**."
+      ],
+      [
+       "**vers**",
+       "un moment approximatif",
+       "Je rentrerai **vers sept heures**."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**En** ou **dans** ? *Je finis mon travail **en** deux heures* (le temps qu’il me faut). *Je pars **dans** deux heures* (le moment où je partirai). Pour les saisons : *en été, en automne, en hiver* mais *au printemps*.",
+     "label": "Deux pièges"
+    },
+    {
+     "type": "quiz",
+     "question": "Complète : « Mon cousin arrive … trois jours. »",
+     "options": [
+      "pendant",
+      "depuis",
+      "dans",
+      "il y a"
+     ],
+     "answer": 2,
+     "explain": "On indique un moment à venir : « dans trois jours »."
+    }
+   ]
+  },
+  {
+   "t": "Le CC de temps et le temps des verbes",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le CC de temps **guide** le choix du temps du verbe : le verbe doit être cohérent avec le moment annoncé."
+    },
+    {
+     "type": "table",
+     "title": "Accorder le CC et le verbe",
+     "head": [
+      "Le CC indique…",
+      "Le verbe est…",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "le passé : *hier*, *la semaine dernière*, *il y a deux ans*",
+       "au passé composé, à l’imparfait ou au passé simple",
+       "**Hier**, nous sommes allés au marché."
+      ],
+      [
+       "le présent : *aujourd’hui*, *en ce moment*, *maintenant*",
+       "au présent",
+       "**En ce moment**, il pleut."
+      ],
+      [
+       "l’avenir : *demain*, *l’an prochain*, *dans deux jours*",
+       "au futur",
+       "**Demain**, nous visiterons le musée."
+      ],
+      [
+       "la répétition : *chaque matin*, *tous les jours*",
+       "au présent ou à l’imparfait d’habitude",
+       "**Chaque matin**, elle se levait tôt."
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "✗ *Hier, nous irons au marché.* ✓ *Hier, nous sommes allés au marché.* Le CC de temps et le verbe ne doivent pas se contredire.",
+     "label": "Pas de contradiction"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est correcte ?",
+     "options": [
+      "Demain, il a plu.",
+      "Hier, nous visiterons le musée.",
+      "L’an prochain, nous partirons au village.",
+      "En ce moment, nous étions à l’école."
+     ],
+     "answer": 2,
+     "explain": "« L’an prochain » annonce l’avenir : le verbe est au futur."
+    }
+   ]
+  },
+  {
+   "t": "Ne pas le confondre avec un autre complément",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains groupes qui expriment le temps ne sont pas toujours des CC. Pour trancher : la **question**, la **suppression** et le **déplacement**."
+    },
+    {
+     "type": "table",
+     "title": "CC de temps ou COD ?",
+     "head": [
+      "Phrase",
+      "Question",
+      "Fonction"
+     ],
+     "rows": [
+      [
+       "Nous mangeons **le soir**.",
+       "quand ? (supprimable)",
+       "CC de temps"
+      ],
+      [
+       "Nous aimons **le soir**.",
+       "aimer quoi ? (non supprimable)",
+       "COD"
+      ],
+      [
+       "Elle a lu **toute la journée**.",
+       "pendant combien de temps ? (supprimable)",
+       "CC de temps"
+      ],
+      [
+       "Elle a passé **la journée** au bord du fleuve.",
+       "passer quoi ? (non supprimable)",
+       "COD"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Les tests",
+     "lines": [
+      "**Suppression** : *Nous mangeons le soir.* → *Nous mangeons.* ✓ *Nous aimons le soir.* → *Nous aimons.* ✗",
+      "**Déplacement** : *Le soir, nous mangeons.* ✓ *Le soir, nous aimons.* ✗ (le sens change)"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Si le groupe ne peut être **ni supprimé ni déplacé**, ce n’est pas un CC : cherche un COD ou un autre complément.",
+     "label": "Méthode"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Nous aimons le soir », quelle est la fonction de « le soir » ?",
+     "options": [
+      "un CC de temps",
+      "un COD",
+      "un CC de lieu",
+      "un sujet"
+     ],
+     "answer": 1,
+     "explain": "On peut poser « Nous aimons quoi ? » : « le soir » est COD ; il n’est pas supprimable."
+    }
+   ]
+  },
+  {
+   "t": "Place et ponctuation du CC de temps",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Comme les autres CC, le CC de temps est **mobile**."
+    },
+    {
+     "type": "table",
+     "title": "Où placer le CC ?",
+     "head": [
+      "Place",
+      "Exemple",
+      "Ponctuation"
+     ],
+     "rows": [
+      [
+       "au début",
+       "**Ce matin**, Awa a lu un conte.",
+       "une virgule après le CC"
+      ],
+      [
+       "au milieu",
+       "Awa, **ce matin**, a lu un conte.",
+       "deux virgules"
+      ],
+      [
+       "à la fin",
+       "Awa a lu un conte **ce matin**.",
+       "aucune virgule"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "**Hier soir**, **à six heures**, les enfants sont rentrés.",
+     "label": "Plusieurs CC de temps"
+    },
+    {
+     "type": "tip",
+     "text": "Après un CC très court en début de phrase, la virgule est facultative (*Demain nous partons.*). Elle est conseillée si le CC est long (*Dès que le jour se lève, …*).",
+     "label": "Virgule facultative"
+    },
+    {
+     "type": "warn",
+     "text": "Pas de virgule avant un CC de fin de phrase : ✗ *Awa a lu un conte, ce matin.* ✓ *Awa a lu un conte ce matin.*",
+     "label": "Pas de virgule en fin de phrase"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est bien ponctuée ?",
+     "options": [
+      "Après la classe les élèves jouent.",
+      "Après la classe, les élèves jouent.",
+      "Après, la classe les élèves jouent.",
+      "Après la classe les, élèves jouent."
+     ],
+     "answer": 1,
+     "explain": "Un CC de temps en début de phrase est suivi d’une virgule."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie le CC de temps de chaque phrase.",
+     "items": [
+      "1. Demain, nous irons à la plage.",
+      "2. Le marché ouvre à six heures.",
+      "3. Elle a dormi pendant deux heures.",
+      "4. Tous les dimanches, mon oncle nous rend visite.",
+      "5. Il pleut depuis hier."
+     ],
+     "corrige": [
+      "1. Demain",
+      "2. à six heures",
+      "3. pendant deux heures",
+      "4. Tous les dimanches",
+      "5. depuis hier"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe est un CC de temps dans « Le train arrive à midi » ?",
+     "options": [
+      "Le train",
+      "arrive",
+      "à midi",
+      "Le train arrive"
+     ],
+     "answer": 2,
+     "explain": "« à midi » répond à la question « quand ? »."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser et compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le CC de temps exprime le moment, la durée ou la fréquence.",
+     "items": [
+      "a) Nous avons voyagé pendant trois jours.",
+      "b) Le concert commence à vingt heures.",
+      "c) Il va à la pêche deux fois par mois.",
+      "d) Ils sont partis hier.",
+      "e) Il a plu toute la nuit."
+     ],
+     "corrige": [
+      "a) la durée",
+      "b) le moment",
+      "c) la fréquence",
+      "d) le moment",
+      "e) la durée"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète par pendant, depuis, dans, il y a ou en.",
+     "items": [
+      "a) Mon grand-père est né ___ 1950.",
+      "b) Nous partirons ___ deux jours.",
+      "c) Il pleut ___ ce matin.",
+      "d) Elle est arrivée ___ trois semaines.",
+      "e) Ils ont dormi ___ toute la nuit."
+     ],
+     "corrige": [
+      "a) en",
+      "b) dans",
+      "c) depuis",
+      "d) il y a",
+      "e) pendant"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Écris trois phrases avec un CC de temps différent : un moment, une durée, une fréquence. Place l’un d’eux en début de phrase.",
+     "items": [
+      "Mes phrases"
+     ],
+     "corrige": [
+      "Exemple : Hier soir, j’ai fait mes devoirs. — J’ai joué pendant une heure. — Nous allons au marché tous les samedis."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "Le **CC de temps** indique **quand** (moment), **pendant combien de temps** (durée) ou **combien de fois** (fréquence).",
+      "Il est **supprimable** et **déplaçable**.",
+      "Il peut être un **adverbe** (*hier, souvent*), un **groupe nominal sans préposition** (*ce soir, chaque matin*) ou **avec préposition** (*à midi, pendant les vacances*).",
+      "**Pendant** = durée, **depuis** = point de départ, **dans** = à venir, **il y a** = passé, **en** = mois, année, saison ou temps nécessaire.",
+      "Le **temps du verbe** doit s’accorder avec le CC : *hier* → passé, *demain* → futur.",
+      "En début de phrase, il est suivi d’une **virgule** ; en fin de phrase, il n’en a **pas**."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un CC de temps ?",
+     "options": [
+      "Nous aimons le soir.",
+      "Elle a passé la journée à la plage.",
+      "Nous mangeons le soir.",
+      "Le soir me plaît."
+     ],
+     "answer": 2,
+     "explain": "« le soir » peut être supprimé et déplacé dans « Nous mangeons le soir » : c’est un CC de temps."
+    }
+   ]
+  }
+ ]
+}

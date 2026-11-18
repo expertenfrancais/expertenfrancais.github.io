@@ -1,0 +1,569 @@
+{
+ "id": 288,
+ "meta": {
+  "t": "Le complément circonstanciel de cause",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "p71",
+  "r": 4.8,
+  "mf": "MF6.2.9"
+ },
+ "sections": [
+  {
+   "t": "Pourquoi l’action a-t-elle lieu ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis cette phrase : « Le match est reporté **à cause de la pluie**. » Si l’on demande « **Pourquoi** le match est-il reporté ? », la réponse est *à cause de la pluie*. Ce groupe de mots donne la **raison** de ce qui se passe."
+    },
+    {
+     "type": "def",
+     "text": "Le **complément circonstanciel de cause** (CC de cause) indique **la raison**, l’**explication** de l’action. Il répond à la question **pourquoi ?** (ou *pour quelle raison ?*, *à cause de quoi ?*). Il complète toute la phrase : on peut le **supprimer** ou le **déplacer**.",
+     "label": "Complément circonstanciel de cause"
+    },
+    {
+     "type": "ex",
+     "text": "Les enfants tremblent **de froid**.\nLe match est reporté **à cause de la pluie**.\nMina a gagné **grâce à son courage**.\nIl a été puni **pour son retard**.",
+     "label": "Exemples"
+    },
+    {
+     "type": "schema",
+     "title": "Analyse d’une phrase",
+     "cells": [
+      {
+       "mot": "Le match",
+       "role": "sujet",
+       "noyau": false
+      },
+      {
+       "mot": "est reporté",
+       "role": "verbe",
+       "noyau": false
+      },
+      {
+       "mot": "à cause de la pluie",
+       "role": "CC de cause",
+       "noyau": true
+      }
+     ],
+     "note": "« à cause de la pluie » répond à la question « pourquoi ? » et peut être supprimé."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un **CC de cause** avec la question *pourquoi ?*",
+      "Connaître les **mots** qui expriment la cause",
+      "Distinguer la **cause** et le **but**",
+      "Utiliser **parce que**, **puisque**, **comme**",
+      "Bien le **placer** et le **ponctuer**"
+     ],
+     "ordered": false,
+     "label": "Objectifs du cours"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver le CC de cause dans « Le match est reporté à cause de la pluie » ?",
+     "options": [
+      "où ?",
+      "quand ?",
+      "pourquoi ?",
+      "comment ?"
+     ],
+     "answer": 2,
+     "explain": "« à cause de la pluie » explique pourquoi le match est reporté : c’est la cause."
+    }
+   ]
+  },
+  {
+   "t": "Poser la question de la cause",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Pour trouver un CC de cause, on pose la question **pourquoi ?** après le verbe. On peut aussi vérifier avec **parce que**."
+    },
+    {
+     "type": "table",
+     "title": "Trouver la cause",
+     "head": [
+      "Phrase",
+      "Question",
+      "Réponse (CC de cause)"
+     ],
+     "rows": [
+      [
+       "Les enfants tremblent de froid.",
+       "Pourquoi les enfants tremblent-ils ?",
+       "**de froid**"
+      ],
+      [
+       "Le car est en retard à cause d’un accident.",
+       "Pourquoi le car est-il en retard ?",
+       "**à cause d’un accident**"
+      ],
+      [
+       "Nous avons réussi grâce à ton aide.",
+       "Pourquoi avons-nous réussi ?",
+       "**grâce à ton aide**"
+      ]
+     ]
+    },
+    {
+     "type": "test",
+     "title": "Le test de « parce que »",
+     "lines": [
+      "*Les enfants tremblent de froid.* → *Les enfants tremblent parce qu’ils ont froid.*",
+      "*Le match est reporté à cause de la pluie.* → *Le match est reporté parce qu’il pleut.*"
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Si tu peux remplacer le groupe par **parce que + une phrase**, c’est une cause.",
+     "label": "Le test de remplacement"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Il a menti par peur », que exprime « par peur » ?",
+     "options": [
+      "le lieu",
+      "le temps",
+      "la cause",
+      "la manière"
+     ],
+     "answer": 2,
+     "explain": "On peut dire « Il a menti parce qu’il avait peur » : c’est un CC de cause."
+    }
+   ]
+  },
+  {
+   "t": "Les mots qui expriment la cause",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le CC de cause est introduit par une **préposition** ou une **locution**. Chaque mot a une nuance."
+    },
+    {
+     "type": "table",
+     "title": "Les principaux mots de la cause",
+     "head": [
+      "Mot",
+      "Nuance",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**à cause de**",
+       "cause neutre ou défavorable",
+       "Le car est en retard **à cause d’un accident**."
+      ],
+      [
+       "**grâce à**",
+       "cause favorable",
+       "Nous avons réussi **grâce à ton aide**."
+      ],
+      [
+       "**en raison de**",
+       "langue soignée, avis officiels",
+       "Le magasin ferme **en raison de travaux**."
+      ],
+      [
+       "**faute de**",
+       "un manque",
+       "Ils ont renoncé **faute de temps**."
+      ],
+      [
+       "**de**, **par**",
+       "un sentiment, un état (sans article)",
+       "Il tremble **de peur**. Elle a menti **par peur**."
+      ],
+      [
+       "**pour**",
+       "un motif, un reproche",
+       "Il a été puni **pour son retard**."
+      ],
+      [
+       "**à force de**",
+       "une action répétée",
+       "**À force de s’entraîner**, elle a progressé."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "**Grâce à** s’emploie quand la cause a un effet **heureux** ; **à cause de**, quand l’effet est **fâcheux** ou neutre : *Grâce à toi, j’ai réussi. À cause de toi, j’ai échoué.*",
+     "label": "Grâce à ou à cause de ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Complète : « Nous avons gagné … notre travail d’équipe. »",
+     "options": [
+      "à cause de",
+      "faute de",
+      "grâce à",
+      "à force de"
+     ],
+     "answer": 2,
+     "explain": "Le résultat est heureux : on emploie « grâce à »."
+    }
+   ]
+  },
+  {
+   "t": "Cause, but ou autre circonstance ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La **cause** explique **pourquoi** l’action a eu lieu ; le **but** indique **ce que l’on veut obtenir**. Les deux commencent parfois par le même mot, **pour**."
+    },
+    {
+     "type": "table",
+     "title": "Cause ou but ?",
+     "head": [
+      "Circonstance",
+      "Question",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**cause**",
+       "pourquoi ?",
+       "Il court **à cause de l’orage**."
+      ],
+      [
+       "**but**",
+       "pour quoi faire ? dans quel but ?",
+       "Il court **pour attraper le bus**."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*Il est puni **pour son retard**.* → cause (il est puni parce qu’il était en retard).\n*Il part tôt **pour ne pas être en retard**.* → but (il veut éviter le retard).",
+     "label": "Le même mot « pour »"
+    },
+    {
+     "type": "test",
+     "title": "Les deux tests",
+     "lines": [
+      "**Cause** : *pourquoi ?* + remplacement par *parce que* → *Il est puni parce qu’il était en retard.*",
+      "**But** : *pour quoi faire ?* + remplacement par *afin de* → *Il part tôt afin de ne pas être en retard.*"
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "**Pour + nom** peut exprimer la cause (*puni pour son retard*) ; **pour + verbe à l’infinitif** exprime le plus souvent le **but** (*pour attraper le bus*).",
+     "label": "Le piège de « pour »"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un CC de but ?",
+     "options": [
+      "Il est puni pour son retard.",
+      "Elle pleure de joie.",
+      "Nous partons tôt pour éviter les embouteillages.",
+      "Le match est reporté à cause de la pluie."
+     ],
+     "answer": 2,
+     "explain": "« pour éviter les embouteillages » dit ce que l’on veut obtenir : c’est le but."
+    }
+   ]
+  },
+  {
+   "t": "La cause peut être une proposition",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La cause peut aussi être exprimée par toute une **proposition** qui contient un verbe conjugué. On l’introduit par **parce que**, **puisque** ou **comme**."
+    },
+    {
+     "type": "table",
+     "title": "Parce que, puisque, comme",
+     "head": [
+      "Mot",
+      "Emploi",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**parce que**",
+       "donne la vraie raison, répond à *pourquoi ?*",
+       "Le match est reporté **parce qu’il pleut**."
+      ],
+      [
+       "**puisque**",
+       "cause déjà connue de tous",
+       "**Puisque** tu es là, aide-moi."
+      ],
+      [
+       "**comme**",
+       "en début de phrase",
+       "**Comme** il pleut, nous restons à la maison."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Nous restons à la maison **parce qu’il pleut**.\n**Comme** il pleut, nous restons à la maison.",
+     "label": "Exemples"
+    },
+    {
+     "type": "warn",
+     "text": "**Car** relie deux phrases (*Nous restons à la maison, car il pleut.*) ; on ne le met pas en début de phrase. On écrit **à cause de + nom** (*à cause de la pluie*), jamais ✗ *à cause qu’il pleut*.",
+     "label": "Deux pièges"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel mot convient pour commencer la phrase : « … il pleut, nous restons à la maison. » ?",
+     "options": [
+      "Car",
+      "Comme",
+      "À cause de",
+      "Grâce à"
+     ],
+     "answer": 1,
+     "explain": "« Comme » introduit la cause en début de phrase ; « car » ne se met pas en tête."
+    }
+   ]
+  },
+  {
+   "t": "Parce que, par ce que : l’orthographe",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Plusieurs mots de la cause s’écrivent en deux mots, d’autres en un seul. Il faut les connaître."
+    },
+    {
+     "type": "table",
+     "title": "L’orthographe des mots de la cause",
+     "head": [
+      "Écriture",
+      "Remarque",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**parce que** (2 mots)",
+       "devient **parce qu’** devant il, elle, on, un, une…",
+       "Je pars **parce qu’il** est tard."
+      ],
+      [
+       "**puisque** (1 mot)",
+       "devient **puisqu’** devant il, elle, on, un, une…",
+       "**Puisqu’elle** vient, je reste."
+      ],
+      [
+       "**à cause de** (3 mots)",
+       "**de** devient **d’** devant une voyelle",
+       "**à cause d’un** accident"
+      ],
+      [
+       "**grâce à** (2 mots)",
+       "**à** garde son accent grave",
+       "**grâce à** toi"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour **parce que**, pense à *pourquoi ? – Parce que…* : la réponse commence toujours par **parce que**.",
+     "label": "Un moyen de s’en souvenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Comment écrit-on : « Il reste à la maison … il est malade » ?",
+     "options": [
+      "parce qu’il",
+      "parce qu’ il",
+      "par ce qu’il",
+      "parce que il"
+     ],
+     "answer": 0,
+     "explain": "« parce que » s’élide devant « il » : « parce qu’il »."
+    }
+   ]
+  },
+  {
+   "t": "Place et ponctuation du CC de cause",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le CC de cause est **mobile**, comme les CC de lieu et de temps."
+    },
+    {
+     "type": "table",
+     "title": "Où placer le CC ?",
+     "head": [
+      "Place",
+      "Exemple",
+      "Ponctuation"
+     ],
+     "rows": [
+      [
+       "au début",
+       "**À cause de la pluie**, le match est reporté.",
+       "une virgule après le CC"
+      ],
+      [
+       "au milieu",
+       "Le match, **à cause de la pluie**, est reporté.",
+       "deux virgules"
+      ],
+      [
+       "à la fin",
+       "Le match est reporté **à cause de la pluie**.",
+       "aucune virgule"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Un CC de cause placé en début de phrase est suivi d’une virgule : *Faute de temps, nous avons arrêté.*",
+     "label": "Virgule en tête de phrase"
+    },
+    {
+     "type": "warn",
+     "text": "Pas de virgule avant un CC de fin de phrase : ✗ *Le match est reporté, à cause de la pluie.* ✓ *Le match est reporté à cause de la pluie.*",
+     "label": "Pas de virgule en fin de phrase"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est bien ponctuée ?",
+     "options": [
+      "Grâce à ton aide nous avons réussi.",
+      "Grâce à ton aide, nous avons réussi.",
+      "Grâce, à ton aide nous avons réussi.",
+      "Grâce à ton aide nous, avons réussi."
+     ],
+     "answer": 1,
+     "explain": "Le CC de cause placé en tête est suivi d’une virgule."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie le CC de cause de chaque phrase.",
+     "items": [
+      "1. Les enfants tremblent de froid.",
+      "2. Le car est en retard à cause d’un accident.",
+      "3. Nous avons réussi grâce à ton aide.",
+      "4. Faute de temps, nous avons arrêté.",
+      "5. Il a été puni pour son retard."
+     ],
+     "corrige": [
+      "1. de froid",
+      "2. à cause d’un accident",
+      "3. grâce à ton aide",
+      "4. Faute de temps",
+      "5. pour son retard"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe est un CC de cause dans « Elle pleure de joie » ?",
+     "options": [
+      "Elle",
+      "pleure",
+      "de joie",
+      "Elle pleure"
+     ],
+     "answer": 2,
+     "explain": "« de joie » répond à « pourquoi pleure-t-elle ? »."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser et compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le groupe en gras exprime la cause ou le but.",
+     "items": [
+      "a) Il court **pour attraper le bus**.",
+      "b) Elle a été félicitée **pour son courage**.",
+      "c) Nous partons tôt **pour éviter la chaleur**.",
+      "d) Il a menti **par peur**.",
+      "e) Il travaille **dans l’espoir de réussir**."
+     ],
+     "corrige": [
+      "a) but",
+      "b) cause",
+      "c) but",
+      "d) cause",
+      "e) but"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète par à cause de, grâce à ou faute de.",
+     "items": [
+      "a) ___ ton conseil, j’ai bien répondu.",
+      "b) Le match est annulé ___ la pluie.",
+      "c) Ils ont renoncé ___ argent.",
+      "d) ___ l’orage, la route est coupée.",
+      "e) Elle a guéri ___ ce médicament."
+     ],
+     "corrige": [
+      "a) Grâce à",
+      "b) à cause de",
+      "c) faute d’",
+      "d) À cause de",
+      "e) grâce à"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Réunis les deux phrases en une seule avec un CC de cause.",
+     "items": [
+      "a) Il pleut. Nous restons à la maison.",
+      "b) Le marché est fermé. Il y a des travaux.",
+      "c) Le chemin est glissant. Nous avançons lentement."
+     ],
+     "corrige": [
+      "Exemples : a) Nous restons à la maison à cause de la pluie.",
+      "b) Le marché est fermé en raison de travaux.",
+      "c) Nous avançons lentement à cause du chemin glissant."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "Le **CC de cause** donne **la raison** de l’action ; il répond à **pourquoi ?**",
+      "Il est **supprimable** et **déplaçable**.",
+      "Il est introduit par **à cause de**, **grâce à**, **en raison de**, **faute de**, **de**, **par**, **pour**, **à force de**.",
+      "**Grâce à** = cause favorable ; **à cause de** = cause neutre ou défavorable.",
+      "Ne pas confondre la **cause** (*pourquoi ?*) et le **but** (*pour quoi faire ?*).",
+      "La cause peut être une proposition : **parce que**, **puisque**, **comme**.",
+      "En début de phrase, il est suivi d’une **virgule** ; en fin de phrase, il n’en a **pas**."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un CC de cause ?",
+     "options": [
+      "Il court pour attraper le bus.",
+      "Ils sont partis hier.",
+      "Elle est restée au lit à cause de la fièvre.",
+      "Nous allons au marché."
+     ],
+     "answer": 2,
+     "explain": "« à cause de la fièvre » explique pourquoi elle est restée au lit."
+    }
+   ]
+  }
+ ]
+}

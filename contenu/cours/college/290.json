@@ -1,0 +1,738 @@
+{
+ "id": 290,
+ "meta": {
+  "t": "La nominalisation de l’adjectif qualificatif",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "p75",
+  "r": 4.8,
+  "mf": "MF5.2.6"
+ },
+ "sections": [
+  {
+   "t": "De l’adjectif au nom de qualité",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare : « Ce pays est **riche**. » et « La **richesse** de ce pays est connue. » L’adjectif *riche* est devenu le nom *richesse*. On a **nominalisé** l’adjectif."
+    },
+    {
+     "type": "def",
+     "text": "**Nominaliser un adjectif qualificatif**, c’est le transformer en **nom** qui désigne la **qualité**, le **défaut** ou l’**état** exprimé par l’adjectif. Ce nom est de la **même famille** que l’adjectif.",
+     "label": "La nominalisation de l’adjectif"
+    },
+    {
+     "type": "ex",
+     "text": "grand → la **grandeur**\ngentil → la **gentillesse**\nbeau → la **beauté**\njaloux → la **jalousie**",
+     "label": "Exemples"
+    },
+    {
+     "type": "schema",
+     "title": "De la phrase au groupe nominal",
+     "cells": [
+      {
+       "mot": "Le pays",
+       "role": "sujet",
+       "noyau": false
+      },
+      {
+       "mot": "est",
+       "role": "verbe",
+       "noyau": false
+      },
+      {
+       "mot": "riche",
+       "role": "adjectif → richesse",
+       "noyau": true
+      }
+     ],
+     "note": "→ *La richesse du pays.*"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître les **suffixes** des noms de qualité (-eur, -esse, -ité, -ie, -tude…)",
+      "Connaître les **changements** entre l’adjectif et le nom",
+      "Retenir les **noms irréguliers**",
+      "Nominaliser une **phrase**",
+      "Utiliser la nominalisation dans un **portrait**"
+     ],
+     "ordered": false,
+     "label": "Objectifs du cours"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom de qualité tiré de l’adjectif « gentil » ?",
+     "options": [
+      "gentilité",
+      "gentillesse",
+      "gentilement",
+      "gentiller"
+     ],
+     "answer": 1,
+     "explain": "« gentil » donne « gentillesse » (avec deux l)."
+    }
+   ]
+  },
+  {
+   "t": "Les suffixes -eur et -esse",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Deux suffixes forment très souvent des noms de qualité. Les noms obtenus sont **féminins**."
+    },
+    {
+     "type": "table",
+     "title": "Le suffixe -eur (dimensions, couleurs, sensations)",
+     "head": [
+      "Adjectif",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "grand",
+       "la **grandeur**"
+      ],
+      [
+       "long",
+       "la **longueur**"
+      ],
+      [
+       "large",
+       "la **largeur**"
+      ],
+      [
+       "haut",
+       "la **hauteur**"
+      ],
+      [
+       "profond",
+       "la **profondeur**"
+      ],
+      [
+       "lent",
+       "la **lenteur**"
+      ],
+      [
+       "doux",
+       "la **douceur**"
+      ],
+      [
+       "laid",
+       "la **laideur**"
+      ],
+      [
+       "blanc",
+       "la **blancheur**"
+      ],
+      [
+       "noir",
+       "la **noirceur**"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Le suffixe -esse (qualités et défauts)",
+     "head": [
+      "Adjectif",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "riche",
+       "la **richesse**"
+      ],
+      [
+       "triste",
+       "la **tristesse**"
+      ],
+      [
+       "sage",
+       "la **sagesse**"
+      ],
+      [
+       "faible",
+       "la **faiblesse**"
+      ],
+      [
+       "gentil",
+       "la **gentillesse**"
+      ],
+      [
+       "tendre",
+       "la **tendresse**"
+      ],
+      [
+       "jeune",
+       "la **jeunesse**"
+      ],
+      [
+       "maladroit",
+       "la **maladresse**"
+      ],
+      [
+       "délicat",
+       "la **délicatesse**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Les noms en **-eur** tirés d’adjectifs sont **féminins** (*la douceur*). Ne les confonds pas avec les noms d’agent en **-eur**, qui sont masculins (*le chanteur*, *le vendeur*).",
+     "label": "Deux sortes de noms en -eur"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom tiré de l’adjectif « lent » ?",
+     "options": [
+      "lentesse",
+      "lenteur",
+      "lentité",
+      "lentie"
+     ],
+     "answer": 1,
+     "explain": "« lent » donne « lenteur » (nom féminin)."
+    }
+   ]
+  },
+  {
+   "t": "Les suffixes -ité, -té et -eté",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le suffixe **-ité** (ou **-té**) est le plus productif : il forme des centaines de noms de qualité, tous **féminins**."
+    },
+    {
+     "type": "table",
+     "title": "Les noms en -ité, -té",
+     "head": [
+      "Adjectif",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "rapide",
+       "la **rapidité**"
+      ],
+      [
+       "fidèle",
+       "la **fidélité**"
+      ],
+      [
+       "solide",
+       "la **solidité**"
+      ],
+      [
+       "facile",
+       "la **facilité**"
+      ],
+      [
+       "humide",
+       "l’**humidité**"
+      ],
+      [
+       "beau",
+       "la **beauté**"
+      ],
+      [
+       "fier",
+       "la **fierté**"
+      ],
+      [
+       "pauvre",
+       "la **pauvreté**"
+      ],
+      [
+       "propre",
+       "la **propreté**"
+      ],
+      [
+       "gai",
+       "la **gaieté**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour un adjectif qui se termine par **-ile, -ide, -ique…**, le suffixe le plus probable est **-ité** : *facile → facilité*, *humide → humidité*, *rapide → rapidité*.",
+     "label": "Une piste"
+    },
+    {
+     "type": "warn",
+     "text": "Le radical de l’adjectif peut changer : *beau → beauté*, *bon → bonté*, *vrai → vérité*, *loyal → loyauté*, *cruel → cruauté*. Apprends ces noms par cœur.",
+     "label": "Radical modifié"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom tiré de l’adjectif « fidèle » ?",
+     "options": [
+      "fidélité",
+      "fidèlesse",
+      "fidèleur",
+      "fidéleté"
+     ],
+     "answer": 0,
+     "explain": "« fidèle » donne « fidélité » (le è devient é)."
+    }
+   ]
+  },
+  {
+   "t": "Les suffixes -ie, -ise, -tude, -ance et -ence",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres suffixes forment des noms de qualité ou de défaut."
+    },
+    {
+     "type": "table",
+     "title": "Autres suffixes",
+     "head": [
+      "Suffixe",
+      "Adjectif",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "**-ie**",
+       "jaloux, fou",
+       "jalousie, folie"
+      ],
+      [
+       "**-ise**",
+       "bête, sot, franc, gourmand",
+       "bêtise, sottise, franchise, gourmandise"
+      ],
+      [
+       "**-tude**",
+       "inquiet, certain, exact, seul",
+       "inquiétude, certitude, exactitude, solitude"
+      ],
+      [
+       "**-ance**",
+       "vigilant, arrogant, élégant, puissant",
+       "vigilance, arrogance, élégance, puissance"
+      ],
+      [
+       "**-ence**",
+       "patient, prudent, violent, intelligent",
+       "patience, prudence, violence, intelligence"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Les adjectifs en **-ant** donnent des noms en **-ance**, et ceux en **-ent** des noms en **-ence** : *vigilant → vigilance*, *patient → patience*.",
+     "label": "Une règle utile"
+    },
+    {
+     "type": "warn",
+     "text": "Attention à l’exception *méchant → méchanceté* (et non ✗ *méchance*).",
+     "label": "Exception"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom tiré de l’adjectif « prudent » ?",
+     "options": [
+      "prudence",
+      "prudance",
+      "prudité",
+      "prudesse"
+     ],
+     "answer": 0,
+     "explain": "Les adjectifs en -ent donnent des noms en -ence : « prudence »."
+    }
+   ]
+  },
+  {
+   "t": "Du suffixe de l’adjectif à celui du nom",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le suffixe de l’**adjectif** aide à deviner celui du **nom**."
+    },
+    {
+     "type": "table",
+     "title": "Les familles d’adjectifs",
+     "head": [
+      "Adjectif en…",
+      "Nom en…",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "**-eux**",
+       "**-osité**",
+       "curieux → curiosité ; généreux → générosité ; nerveux → nervosité"
+      ],
+      [
+       "**-if**",
+       "**-ivité**",
+       "actif → activité ; créatif → créativité"
+      ],
+      [
+       "**-al**",
+       "**-alité**",
+       "normal → normalité ; original → originalité"
+      ],
+      [
+       "**-able, -ible**",
+       "**-abilité, -ibilité**",
+       "stable → stabilité ; flexible → flexibilité"
+      ],
+      [
+       "**-ant, -ent**",
+       "**-ance, -ence**",
+       "vigilant → vigilance ; patient → patience"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Il y a des irréguliers : *capable → capacité*, *possible → possibilité*, *aimable → amabilité*. En cas de doute, consulte le dictionnaire.",
+     "label": "Exceptions"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom tiré de l’adjectif « généreux » ?",
+     "options": [
+      "générosité",
+      "généreuxité",
+      "générosie",
+      "générance"
+     ],
+     "answer": 0,
+     "explain": "Les adjectifs en -eux donnent des noms en -osité : « générosité »."
+    }
+   ]
+  },
+  {
+   "t": "Les noms irréguliers à connaître",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains noms ne suivent aucune règle. Il faut les apprendre."
+    },
+    {
+     "type": "table",
+     "title": "Noms irréguliers",
+     "head": [
+      "Adjectif",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "bon",
+       "la **bonté**"
+      ],
+      [
+       "vrai",
+       "la **vérité**"
+      ],
+      [
+       "chaud",
+       "la **chaleur**"
+      ],
+      [
+       "sec",
+       "la **sécheresse**"
+      ],
+      [
+       "vieux",
+       "la **vieillesse**"
+      ],
+      [
+       "paresseux",
+       "la **paresse**"
+      ],
+      [
+       "adroit",
+       "l’**adresse**"
+      ],
+      [
+       "fier",
+       "la **fierté**"
+      ],
+      [
+       "sûr",
+       "la **sûreté**"
+      ],
+      [
+       "froid",
+       "le **froid**, la **froideur**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Un même adjectif peut avoir plusieurs noms de sens différents : *sage → la sagesse* (la qualité) / *un sage* (la personne) ; *large → la largeur* (la dimension) / *la largesse* (la générosité) ; *froid → le froid* (la température) / *la froideur* (l’attitude).",
+     "label": "Plusieurs noms, plusieurs sens"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom désigne la qualité d’une personne qui est « sage » ?",
+     "options": [
+      "un sage",
+      "la sagesse",
+      "le sage",
+      "les sagers"
+     ],
+     "answer": 1,
+     "explain": "« la sagesse » est la qualité ; « un sage » est la personne."
+    }
+   ]
+  },
+  {
+   "t": "Nominaliser une phrase",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "On peut transformer une phrase qui contient un adjectif en **groupe nominal**."
+    },
+    {
+     "type": "list",
+     "items": [
+      "L’**adjectif** (attribut ou épithète) devient un **nom de qualité**.",
+      "Le **sujet** devient un **complément du nom** introduit par **de**.",
+      "Les adverbes **très**, **si**, **trop** deviennent des adjectifs : *grand(e)*, *extrême*, *excessif*."
+     ],
+     "ordered": true,
+     "label": "Les règles"
+    },
+    {
+     "type": "table",
+     "title": "De la phrase au groupe nominal",
+     "head": [
+      "Phrase",
+      "Groupe nominal"
+     ],
+     "rows": [
+      [
+       "Le pays est riche.",
+       "La richesse du pays."
+      ],
+      [
+       "L’eau est profonde.",
+       "La profondeur de l’eau."
+      ],
+      [
+       "Cet élève est très poli.",
+       "La grande politesse de cet élève."
+      ],
+      [
+       "Le ciel est trop sombre.",
+       "L’obscurité excessive du ciel."
+      ],
+      [
+       "Le général est furieux.",
+       "La fureur du général."
+      ],
+      [
+       "Awa est courageuse.",
+       "Le courage d’Awa."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Le nom obtenu n’est pas toujours en **-eur**, **-esse** ou **-ité** : *courageux → le courage*, *furieux → la fureur*. Le dictionnaire permet de vérifier.",
+     "label": "Un nom de la même famille"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nominalisation de « Cet élève est très poli » ?",
+     "options": [
+      "La grande politesse de cet élève",
+      "La très politesse de cet élève",
+      "La polie de cet élève",
+      "Cet élève de la politesse"
+     ],
+     "answer": 0,
+     "explain": "Poli donne politesse, « très » devient « grande » et le sujet devient complément du nom."
+    }
+   ]
+  },
+  {
+   "t": "À quoi sert la nominalisation ? Le portrait moral",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La nominalisation de l’adjectif est très utile pour **décrire le caractère** d’un personnage et pour **reprendre** une idée."
+    },
+    {
+     "type": "table",
+     "title": "Usages",
+     "head": [
+      "Usage",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**décrire le caractère** (portrait moral)",
+       "*Awa est généreuse.* → *Sa **générosité** est connue de tous.*"
+      ],
+      [
+       "**reprendre** une idée sans répéter l’adjectif",
+       "*Le directeur est très sévère. Cette **sévérité** effraie les élèves.*"
+      ],
+      [
+       "écrire un **titre**",
+       "*La **beauté** du fleuve Congo*"
+      ],
+      [
+       "**condenser** une phrase",
+       "*Le village est pauvre ; on le voit à ses maisons.* → *La **pauvreté** du village se voit à ses maisons.*"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Évite les phrases lourdes. Si tu écris trop de noms abstraits (*la sévérité, la fermeté, la rigueur…*), ton texte devient difficile à lire. Garde aussi des adjectifs et des verbes.",
+     "label": "Ne pas en abuser"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase reprend l’idée de « Le directeur est très sévère » ?",
+     "options": [
+      "Cette sévérité effraie les élèves.",
+      "Cette sévère effraie les élèves.",
+      "Ce sévèrement effraie les élèves.",
+      "Cette sévérer effraie les élèves."
+     ],
+     "answer": 0,
+     "explain": "« sévérité » est le nom de qualité tiré de « sévère »."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Niveau 1 : trouver le nom"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le nom de qualité tiré de chaque adjectif.",
+     "items": [
+      "a) grand",
+      "b) riche",
+      "c) fidèle",
+      "d) jaloux",
+      "e) patient",
+      "f) gentil"
+     ],
+     "corrige": [
+      "a) la grandeur",
+      "b) la richesse",
+      "c) la fidélité",
+      "d) la jalousie",
+      "e) la patience",
+      "f) la gentillesse"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom est tiré de l’adjectif « profond » ?",
+     "options": [
+      "profondité",
+      "profondeur",
+      "profondesse",
+      "profondance"
+     ],
+     "answer": 1,
+     "explain": "« profond » donne « profondeur »."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : suffixes et sens"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète chaque phrase par le nom de l’adjectif entre parenthèses.",
+     "items": [
+      "a) La ___ de la route surprend les voyageurs. (long)",
+      "b) Elle a répondu avec ___. (doux)",
+      "c) Sa ___ est connue de tout le village. (généreux)",
+      "d) La ___ des habitants est exemplaire. (courageux → le courage)",
+      "e) La ___ de ce garçon l’a empêché de réussir. (paresseux)"
+     ],
+     "corrige": [
+      "a) longueur",
+      "b) douceur",
+      "c) générosité",
+      "d) courage",
+      "e) paresse"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le nom en gras désigne une qualité ou une personne.",
+     "items": [
+      "a) La **sagesse** est précieuse.",
+      "b) Ce **sage** vit à l’écart du village.",
+      "c) La **largeur** de la rue est de six mètres.",
+      "d) La **froideur** de son accueil nous a gênés."
+     ],
+     "corrige": [
+      "a) une qualité",
+      "b) une personne",
+      "c) une dimension (une qualité de l’objet)",
+      "d) une attitude (une qualité de la personne)"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : nominaliser des phrases"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase en groupe nominal.",
+     "items": [
+      "a) Le fleuve est large.",
+      "b) Ce garçon est très courageux.",
+      "c) La maison est trop petite.",
+      "d) Awa est très gentille."
+     ],
+     "corrige": [
+      "a) La largeur du fleuve.",
+      "b) Le grand courage de ce garçon.",
+      "c) La petitesse excessive de la maison.",
+      "d) La grande gentillesse d’Awa."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "**Nominaliser un adjectif**, c’est former un **nom** de **qualité**, de **défaut** ou d’**état** (*riche → la richesse*).",
+      "Les suffixes les plus fréquents : **-eur**, **-esse**, **-ité / -té**, **-ie**, **-ise**, **-tude**, **-ance / -ence**, **-osité**.",
+      "Tous ces noms sont **féminins** (*la douceur, la beauté, la patience*).",
+      "Le radical peut **changer** : *beau → beauté*, *bon → bonté*, *vrai → vérité*.",
+      "Les adjectifs en **-ant** donnent **-ance**, ceux en **-ent** donnent **-ence**, ceux en **-eux** donnent **-osité**.",
+      "Un même adjectif peut avoir **plusieurs noms** de sens différents (*la sagesse / un sage*, *la largeur / la largesse*).",
+      "Pour nominaliser une phrase : l’adjectif devient un **nom**, le sujet devient un **complément du nom**, *très / trop* deviennent des **adjectifs**."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nominalisation de « Le fleuve est large » ?",
+     "options": [
+      "La largesse du fleuve",
+      "La largeur du fleuve",
+      "Le large du fleuve",
+      "La largité du fleuve"
+     ],
+     "answer": 1,
+     "explain": "« large » donne « largeur » (la dimension). « Largesse » désigne la générosité."
+    }
+   ]
+  }
+ ]
+}

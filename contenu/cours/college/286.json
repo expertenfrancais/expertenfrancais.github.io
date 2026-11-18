@@ -1,0 +1,543 @@
+{
+ "id": 286,
+ "meta": {
+  "t": "Le complément circonstanciel de lieu",
+  "k": "Cours",
+  "n": "6e",
+  "m": "Grammaire",
+  "img": "p68",
+  "r": 4.8,
+  "mf": "MF6.2.9"
+ },
+ "sections": [
+  {
+   "t": "Où se passe l’action ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Lis cette phrase : « Les enfants jouent **dans la cour**. » Si l’on demande « **Où** jouent-ils ? », la réponse est *dans la cour*. Ce groupe de mots ne dit pas **qui** fait l’action ni **ce qui** est fait : il donne un renseignement sur l’**endroit** où l’action se passe."
+    },
+    {
+     "type": "def",
+     "text": "Le **complément circonstanciel de lieu** (CC de lieu) indique **l’endroit** où se passe l’action. Il répond à la question **où ?** Il complète **toute la phrase** : on peut le **supprimer** ou le **déplacer**.",
+     "label": "Complément circonstanciel de lieu"
+    },
+    {
+     "type": "ex",
+     "text": "Les enfants jouent **dans la cour**.\nMireille lit **sous le manguier**.\nDes oiseaux chantent **sur le toit**.\nMon père travaille **à l’usine**.",
+     "label": "Exemples"
+    },
+    {
+     "type": "schema",
+     "title": "Analyse d’une phrase",
+     "cells": [
+      {
+       "mot": "Les enfants",
+       "role": "sujet",
+       "noyau": false
+      },
+      {
+       "mot": "jouent",
+       "role": "verbe",
+       "noyau": false
+      },
+      {
+       "mot": "dans la cour",
+       "role": "CC de lieu",
+       "noyau": true
+      }
+     ],
+     "note": "« dans la cour » répond à la question « où ? » et peut être supprimé."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Reconnaître un **CC de lieu** avec la question *où ?*",
+      "Connaître les **quatre questions** du lieu",
+      "Utiliser les **prépositions** de lieu et les noms de lieux",
+      "Distinguer le CC de lieu des autres compléments",
+      "Bien le **placer** et le **ponctuer**"
+     ],
+     "ordered": false,
+     "label": "Objectifs du cours"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans « Des oiseaux chantent sur le toit », quel groupe est le complément circonstanciel de lieu ?",
+     "options": [
+      "Des oiseaux",
+      "chantent",
+      "sur le toit",
+      "chantent sur"
+     ],
+     "answer": 2,
+     "explain": "« sur le toit » répond à la question « où chantent-ils ? » : c’est le CC de lieu."
+    }
+   ]
+  },
+  {
+   "t": "Les questions du lieu : où ? d’où ? par où ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le lieu n’est pas toujours l’endroit où l’on **se trouve**. On peut aussi indiquer l’endroit d’où l’on **vient**, celui par où l’on **passe** ou celui vers lequel on **va**. Chaque cas a sa question."
+    },
+    {
+     "type": "table",
+     "title": "Les questions du lieu",
+     "head": [
+      "Question",
+      "Ce que le CC indique",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "**où ?**",
+       "l’endroit où l’on est",
+       "Nous dînons **sur la terrasse**."
+      ],
+      [
+       "**d’où ?**",
+       "l’endroit d’où l’on vient",
+       "Un cri sort **de la maison**."
+      ],
+      [
+       "**par où ?**",
+       "l’endroit par où l’on passe",
+       "Les randonneurs sont passés **par le col**."
+      ],
+      [
+       "**vers où ? jusqu’où ?**",
+       "la direction ou le point d’arrivée",
+       "Le bus roule **vers le nord**."
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Si la question **où ?** ne convient pas, essaie les trois autres : *Un cri sort de la maison* → « **d’où** sort un cri ? » → *de la maison*.",
+     "label": "Une seule question ne suffit pas"
+    },
+    {
+     "type": "ex",
+     "text": "*Le vent souffle **de l’océan**.* (d’où ?)\n*Le serpent glisse **à travers l’herbe**.* (par où ?)\n*Elle court **jusqu’à la rivière**.* (jusqu’où ?)",
+     "label": "Pour chaque question"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle question permet de trouver « par le col » dans « Les randonneurs sont passés par le col » ?",
+     "options": [
+      "où ?",
+      "d’où ?",
+      "par où ?",
+      "quand ?"
+     ],
+     "answer": 2,
+     "explain": "Le groupe indique l’endroit par où l’on passe : la question est « par où ? »."
+    }
+   ]
+  },
+  {
+   "t": "Les mots qui annoncent le lieu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Un CC de lieu commence très souvent par une **préposition** (un petit mot invariable) qui précise la position, l’origine, le passage ou la direction."
+    },
+    {
+     "type": "table",
+     "title": "Les prépositions et locutions de lieu",
+     "head": [
+      "Sens",
+      "Mots",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "position",
+       "dans, sur, sous, devant, derrière, entre, chez, près de, à côté de, au-dessus de, au milieu de",
+       "Le chat dort **sous la table**."
+      ],
+      [
+       "origine",
+       "de, du, d’, depuis",
+       "Une odeur de pain vient **de la cuisine**."
+      ],
+      [
+       "passage",
+       "par, à travers, le long de",
+       "Nous marchons **le long du fleuve**."
+      ],
+      [
+       "direction",
+       "vers, jusqu’à, en direction de, à",
+       "La pirogue avance **vers la rive**."
+      ]
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Le bon petit mot devant un nom de lieu"
+    },
+    {
+     "type": "table",
+     "title": "À, en, au, aux, chez",
+     "head": [
+      "Devant…",
+      "On emploie",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "une ville",
+       "**à**",
+       "Nous habitons **à Brazzaville**. / **à Pointe-Noire**."
+      ],
+      [
+       "un pays féminin ou commençant par une voyelle",
+       "**en**",
+       "Elle voyage **en Afrique**, **en France**, **en Angola**."
+      ],
+      [
+       "un pays masculin",
+       "**au**",
+       "Ils passent leurs vacances **au Gabon**."
+      ],
+      [
+       "un pays pluriel",
+       "**aux**",
+       "Mon oncle étudie **aux États-Unis**."
+      ],
+      [
+       "une personne (son domicile, son cabinet)",
+       "**chez**",
+       "Je dors **chez ma tante**. / **chez le médecin**."
+      ]
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Complète : « Nous voyageons … Gabon. »",
+     "options": [
+      "à",
+      "au",
+      "en",
+      "chez"
+     ],
+     "answer": 1,
+     "explain": "Gabon est un pays masculin : on dit « au Gabon »."
+    }
+   ]
+  },
+  {
+   "t": "La nature du complément de lieu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le CC de lieu peut être un groupe de mots avec préposition, mais aussi un simple adverbe."
+    },
+    {
+     "type": "table",
+     "title": "Les formes du CC de lieu",
+     "head": [
+      "Nature",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "groupe nominal avec préposition",
+       "*dans la cour*, *sur la route*, *au bord du fleuve*, *à l’autre bout du village*"
+      ],
+      [
+       "adverbe de lieu",
+       "*ici*, *là*, *là-bas*, *dehors*, *dedans*, *partout*, *ailleurs*, *loin*, *devant*, *derrière*"
+      ],
+      [
+       "préposition + pronom",
+       "*chez moi*, *devant lui*, *derrière eux*, *près de nous*"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "Les élèves jouent **dehors**.\nOn t’a cherché **partout**.\nLes nuages restent **au-dessus de la ville**.\nIls dorment **chez nous**.",
+     "label": "Exemples"
+    },
+    {
+     "type": "tip",
+     "text": "Le plus souvent, le CC de lieu commence par une **préposition**. Les **adverbes** (*ici, dehors, partout*) n’en ont pas besoin.",
+     "label": "Pour le reconnaître vite"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nature de « dehors » dans « Les élèves jouent dehors » ?",
+     "options": [
+      "un groupe nominal",
+      "un adverbe",
+      "un verbe",
+      "un pronom"
+     ],
+     "answer": 1,
+     "explain": "« dehors » est un adverbe de lieu : il répond à la question « où ? »."
+    }
+   ]
+  },
+  {
+   "t": "CC de lieu ou autre complément ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Tous les groupes qui indiquent un lieu ne sont pas des CC de lieu. Deux tests permettent de décider."
+    },
+    {
+     "type": "test",
+     "title": "Les deux tests du CC",
+     "lines": [
+      "**Suppression** : *Les enfants jouent dans la cour.* → *Les enfants jouent.* (la phrase reste correcte)",
+      "**Déplacement** : *Dans la cour, les enfants jouent.* (le groupe peut changer de place)"
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Après certains verbes (*aller, habiter, se rendre, se trouver, vivre*), le groupe de lieu **ne peut pas être supprimé** : il complète le verbe. On le nomme alors complément **essentiel** de lieu, et non circonstanciel.",
+     "label": "Le lieu n’est pas toujours circonstanciel"
+    },
+    {
+     "type": "table",
+     "title": "Comparer deux phrases",
+     "head": [
+      "Phrase",
+      "Suppression",
+      "Déplacement",
+      "Fonction"
+     ],
+     "rows": [
+      [
+       "Mireille lit **sous le manguier**.",
+       "possible : *Mireille lit.*",
+       "possible : *Sous le manguier, Mireille lit.*",
+       "CC de lieu"
+      ],
+      [
+       "Mon cousin habite **à Dolisie**.",
+       "impossible : *Mon cousin habite.*",
+       "peu naturel",
+       "complément essentiel de lieu"
+      ],
+      [
+       "Nous allons **au marché**.",
+       "impossible : *Nous allons.*",
+       "peu naturel",
+       "complément essentiel de lieu"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pose d’abord la question **où ?**, puis fais les deux tests. Si le groupe est supprimable et déplaçable, c’est un CC de lieu.",
+     "label": "Méthode"
+    },
+    {
+     "type": "quiz",
+     "question": "Dans quelle phrase le groupe en gras est-il un CC de lieu (supprimable) ?",
+     "options": [
+      "Elle habite à Pointe-Noire.",
+      "Nous allons au stade.",
+      "Les enfants chantent dans le car.",
+      "Il se rend à la mairie."
+     ],
+     "answer": 2,
+     "explain": "On peut dire « Les enfants chantent. ». Dans les autres phrases, le groupe de lieu est nécessaire au verbe."
+    }
+   ]
+  },
+  {
+   "t": "Place et ponctuation du CC de lieu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le CC de lieu est **mobile** : on peut le mettre au début, au milieu ou à la fin de la phrase."
+    },
+    {
+     "type": "table",
+     "title": "Où placer le CC ?",
+     "head": [
+      "Place",
+      "Exemple",
+      "Ponctuation"
+     ],
+     "rows": [
+      [
+       "au début",
+       "**Sur la plage**, les enfants construisent un château.",
+       "une virgule après le CC"
+      ],
+      [
+       "au milieu",
+       "Les enfants, **sur la plage**, construisent un château.",
+       "deux virgules"
+      ],
+      [
+       "à la fin",
+       "Les enfants construisent un château **sur la plage**.",
+       "aucune virgule"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Quand le CC est très court et placé au début, la virgule est facultative : *Ici nous sommes bien.* Elle est conseillée s’il est long.",
+     "label": "Virgule facultative"
+    },
+    {
+     "type": "warn",
+     "text": "Ne sépare pas un CC de fin de phrase par une virgule : ✗ *Les enfants construisent un château, sur la plage.* ✓ *Les enfants construisent un château sur la plage.*",
+     "label": "Pas de virgule en fin de phrase"
+    },
+    {
+     "type": "ex",
+     "text": "Mon grand-père se promène **le long du fleuve**, **jusqu’au pont**.",
+     "label": "Plusieurs CC de lieu"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase est bien ponctuée ?",
+     "options": [
+      "Dans la forêt les singes sautent.",
+      "Dans la forêt, les singes sautent.",
+      "Dans la forêt les, singes sautent.",
+      "Dans, la forêt les singes sautent."
+     ],
+     "answer": 1,
+     "explain": "Un CC placé en tête de phrase est suivi d’une virgule."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Niveau 1 : repérer"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Recopie le CC de lieu de chaque phrase.",
+     "items": [
+      "1. Les poules picorent dans la cour.",
+      "2. Au bord de la rivière, les pêcheurs préparent leurs filets.",
+      "3. Mon frère m’attend devant la bibliothèque.",
+      "4. Des enfants chantent derrière le mur.",
+      "5. Le vent souffle du nord."
+     ],
+     "corrige": [
+      "1. dans la cour",
+      "2. Au bord de la rivière",
+      "3. devant la bibliothèque",
+      "4. derrière le mur",
+      "5. du nord"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe est un CC de lieu dans « Les canards nagent sur l’étang » ?",
+     "options": [
+      "Les canards",
+      "nagent",
+      "sur l’étang",
+      "Les canards nagent"
+     ],
+     "answer": 2,
+     "explain": "« sur l’étang » répond à « où ? »."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : analyser et compléter"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Pour chaque phrase, donne la question posée au CC de lieu (où ? d’où ? par où ? vers où ?).",
+     "items": [
+      "a) Les pirogues glissent sur le fleuve.",
+      "b) Un parfum de mangue vient de la cuisine.",
+      "c) Les voyageurs sont passés par la forêt.",
+      "d) Le car roule vers Brazzaville.",
+      "e) Les élèves travaillent en classe."
+     ],
+     "corrige": [
+      "a) où ?",
+      "b) d’où ?",
+      "c) par où ?",
+      "d) vers où ?",
+      "e) où ?"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète par à, au, en, aux ou chez.",
+     "items": [
+      "a) Ma tante habite ___ Pointe-Noire.",
+      "b) Nous avons passé nos vacances ___ Gabon.",
+      "c) Ils voyagent ___ Afrique.",
+      "d) Elle étudie ___ États-Unis.",
+      "e) Il dort ___ sa grand-mère."
+     ],
+     "corrige": [
+      "a) à",
+      "b) au",
+      "c) en",
+      "d) aux",
+      "e) chez"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : écrire"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Ajoute un CC de lieu de ton choix à chaque phrase, puis déplace-le au début de la phrase sans oublier la virgule.",
+     "items": [
+      "a) Les élèves rangent leurs cahiers.",
+      "b) Un chat dort.",
+      "c) Mon père lit le journal."
+     ],
+     "corrige": [
+      "Exemples : a) Les élèves rangent leurs cahiers dans le cartable. → Dans le cartable, les élèves rangent leurs cahiers.",
+      "b) Un chat dort sous la table. → Sous la table, un chat dort.",
+      "c) Mon père lit le journal au salon. → Au salon, mon père lit le journal."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "Le **CC de lieu** indique **l’endroit** où se passe l’action ; il répond à **où ? d’où ? par où ? vers où ?**",
+      "Il est **supprimable** et **déplaçable**.",
+      "Il commence souvent par une **préposition** (*dans, sur, sous, devant, chez, vers…*) ou c’est un **adverbe** (*ici, dehors, partout*).",
+      "Devant un nom de lieu : **à** + ville, **en** + pays féminin, **au** + pays masculin, **aux** + pays pluriel, **chez** + personne.",
+      "Après *aller, habiter, se rendre…*, le lieu est **essentiel** (non supprimable).",
+      "En début de phrase, il est suivi d’une **virgule** ; en fin de phrase, il n’en a **pas**."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase contient un CC de lieu ?",
+     "options": [
+      "Mon cousin habite à Dolisie.",
+      "Nous allons au marché.",
+      "Les enfants dessinent sur le tableau.",
+      "Il se rend à la gare."
+     ],
+     "answer": 2,
+     "explain": "« sur le tableau » peut être supprimé et déplacé : c’est un CC de lieu."
+    }
+   ]
+  }
+ ]
+}

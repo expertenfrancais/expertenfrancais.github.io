@@ -1,0 +1,757 @@
+{
+ "id": 289,
+ "meta": {
+  "t": "La nominalisation du verbe",
+  "k": "Cours",
+  "n": "5e",
+  "m": "Grammaire",
+  "img": "p73",
+  "r": 4.8,
+  "mf": "MF5.2.6"
+ },
+ "sections": [
+  {
+   "t": "Du verbe au nom d’action",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Compare : « Les ouvriers **construisent** une maison. » et « La **construction** de la maison dure un an. » Dans la seconde phrase, le verbe *construire* est devenu le nom *construction*. On a **nominalisé** le verbe."
+    },
+    {
+     "type": "def",
+     "text": "**Nominaliser un verbe**, c’est le transformer en **nom** qui désigne **l’action** (ou son résultat). Ce nom s’appelle un **nom d’action**. Il appartient à la **même famille** que le verbe.",
+     "label": "La nominalisation du verbe"
+    },
+    {
+     "type": "ex",
+     "text": "arriver → l’**arrivée**\nréparer → la **réparation**\nchanger → le **changement**\nchanter → le **chant**",
+     "label": "Exemples"
+    },
+    {
+     "type": "schema",
+     "title": "De la phrase au groupe nominal",
+     "cells": [
+      {
+       "mot": "Les ouvriers",
+       "role": "sujet",
+       "noyau": false
+      },
+      {
+       "mot": "réparent",
+       "role": "verbe → réparation",
+       "noyau": true
+      },
+      {
+       "mot": "la route",
+       "role": "COD",
+       "noyau": false
+      }
+     ],
+     "note": "→ *La réparation de la route par les ouvriers.*"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Former des **noms d’action** à partir de verbes",
+      "Connaître les **suffixes** (-tion, -ment, -age, -ure, -ance…)",
+      "Reconnaître les noms **sans suffixe** et les noms **irréguliers**",
+      "Trouver le **genre** du nom obtenu",
+      "**Nominaliser une phrase**"
+     ],
+     "ordered": false,
+     "label": "Objectifs du cours"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom d’action tiré du verbe « réparer » ?",
+     "options": [
+      "réparage",
+      "réparation",
+      "réparement",
+      "répareur"
+     ],
+     "answer": 1,
+     "explain": "Le verbe « réparer » donne « réparation »."
+    }
+   ]
+  },
+  {
+   "t": "Les noms en -tion et en -sion",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La façon la plus fréquente de nominaliser un verbe est d’ajouter le suffixe **-tion** (ou **-sion**). Ces noms sont **féminins**."
+    },
+    {
+     "type": "table",
+     "title": "Les noms en -tion, -ition, -sion",
+     "head": [
+      "Verbe",
+      "Nom d’action",
+      "Remarque"
+     ],
+     "rows": [
+      [
+       "construire",
+       "la **construction**",
+       "-tion"
+      ],
+      [
+       "protéger",
+       "la **protection**",
+       "-tion"
+      ],
+      [
+       "expliquer",
+       "l’**explication**",
+       "-ation (le radical est *explic-*)"
+      ],
+      [
+       "informer",
+       "l’**information**",
+       "verbes en **-er** : souvent *-ation* ou *-ion*"
+      ],
+      [
+       "organiser",
+       "l’**organisation**",
+       "-ation"
+      ],
+      [
+       "punir",
+       "la **punition**",
+       "verbes en **-ir** : souvent *-ition*"
+      ],
+      [
+       "recevoir",
+       "la **réception**",
+       "radical modifié"
+      ],
+      [
+       "décider",
+       "la **décision**",
+       "-sion"
+      ],
+      [
+       "admettre",
+       "l’**admission**",
+       "-ssion"
+      ],
+      [
+       "comprendre",
+       "la **compréhension**",
+       "-sion"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Pour trouver la terminaison, cherche d’autres mots de la même famille : *inventer → invention → inventeur*, *produire → production → producteur*.",
+     "label": "La famille de mots aide"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom d’action tiré du verbe « décider » ?",
+     "options": [
+      "décidement",
+      "décision",
+      "décidage",
+      "décideur"
+     ],
+     "answer": 1,
+     "explain": "« décider » donne « décision » (le nom est féminin)."
+    }
+   ]
+  },
+  {
+   "t": "Les autres suffixes : -ment, -age, -ure, -ance, -ée",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "D’autres suffixes servent à former des noms d’action. Il faut les mémoriser par familles."
+    },
+    {
+     "type": "table",
+     "title": "Les suffixes des noms d’action",
+     "head": [
+      "Suffixe",
+      "Verbes",
+      "Noms"
+     ],
+     "rows": [
+      [
+       "**-ment**",
+       "changer, développer, enseigner, loger, étonner",
+       "changement, développement, enseignement, logement, étonnement"
+      ],
+      [
+       "**-age**",
+       "laver, nettoyer, arroser, atterrir, apprendre",
+       "lavage, nettoyage, arrosage, atterrissage, apprentissage"
+      ],
+      [
+       "**-ure**",
+       "couper, brûler, fermer, ouvrir, blesser",
+       "coupure, brûlure, fermeture, ouverture, blessure"
+      ],
+      [
+       "**-ance / -ence**",
+       "naître, résister, exister, surveiller",
+       "naissance, résistance, existence, surveillance"
+      ],
+      [
+       "**-ée / -ie**",
+       "arriver, sortir, entrer, traverser",
+       "arrivée, sortie, entrée, traversée"
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "On **nettoie** la classe. → Le **nettoyage** de la classe est terminé.\nLe médecin **guérit** le malade. → La **guérison** du malade.",
+     "label": "Exemples"
+    },
+    {
+     "type": "warn",
+     "text": "Un même verbe ne peut pas prendre n’importe quel suffixe : on dit *le nettoyage*, pas ✗ *la nettoyation*. Vérifie dans le dictionnaire.",
+     "label": "Ne pas inventer"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom d’action tiré de « nettoyer » ?",
+     "options": [
+      "nettoyement",
+      "nettoyage",
+      "nettoyure",
+      "nettoyation"
+     ],
+     "answer": 1,
+     "explain": "« nettoyer » donne « nettoyage ». (« nettoiement » existe aussi, mais il est rare.)"
+    }
+   ]
+  },
+  {
+   "t": "Noms sans suffixe et noms irréguliers",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Certains verbes donnent un nom **sans suffixe** : le nom est formé à partir du **radical** du verbe. D’autres donnent un nom d’une **autre forme**."
+    },
+    {
+     "type": "table",
+     "title": "Sans suffixe",
+     "head": [
+      "Verbe",
+      "Nom",
+      "Genre"
+     ],
+     "rows": [
+      [
+       "chanter",
+       "le **chant**",
+       "masculin"
+      ],
+      [
+       "refuser",
+       "le **refus**",
+       "masculin"
+      ],
+      [
+       "appeler",
+       "l’**appel**",
+       "masculin"
+      ],
+      [
+       "crier",
+       "le **cri**",
+       "masculin"
+      ],
+      [
+       "regarder",
+       "le **regard**",
+       "masculin"
+      ],
+      [
+       "marcher",
+       "la **marche**",
+       "féminin"
+      ],
+      [
+       "aider",
+       "l’**aide**",
+       "féminin"
+      ],
+      [
+       "danser",
+       "la **danse**",
+       "féminin"
+      ],
+      [
+       "demander",
+       "la **demande**",
+       "féminin"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Noms irréguliers",
+     "head": [
+      "Verbe",
+      "Nom"
+     ],
+     "rows": [
+      [
+       "choisir",
+       "le **choix**"
+      ],
+      [
+       "vendre",
+       "la **vente**"
+      ],
+      [
+       "perdre",
+       "la **perte**"
+      ],
+      [
+       "tomber",
+       "la **chute**"
+      ],
+      [
+       "mourir",
+       "la **mort**"
+      ],
+      [
+       "voir",
+       "la **vue**"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Ne fabrique pas un nom à ta façon : ✗ *un refusement*, ✗ *un choisissement*. Le nom d’action de ces verbes est **refus** et **choix**.",
+     "label": "Attention"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel est le nom tiré du verbe « vendre » ?",
+     "options": [
+      "vendage",
+      "vente",
+      "vendement",
+      "vendure"
+     ],
+     "answer": 1,
+     "explain": "Le nom est irrégulier : « vendre » donne « vente »."
+    }
+   ]
+  },
+  {
+   "t": "Un verbe, plusieurs noms : action, résultat, agent",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "À partir d’un même verbe, on peut former plusieurs noms qui n’ont pas le même sens."
+    },
+    {
+     "type": "table",
+     "title": "Nom d’action, de résultat et d’agent",
+     "head": [
+      "Verbe",
+      "Nom d’action",
+      "Résultat ou objet",
+      "Nom d’agent (celui qui fait)"
+     ],
+     "rows": [
+      [
+       "construire",
+       "la construction (action de construire)",
+       "une construction (le bâtiment)",
+       "un constructeur"
+      ],
+      [
+       "écrire",
+       "l’écriture",
+       "un écrit",
+       "un écrivain"
+      ],
+      [
+       "peindre",
+       "la peinture (l’art)",
+       "une peinture (le tableau)",
+       "un peintre"
+      ],
+      [
+       "chanter",
+       "le chant",
+       "une chanson",
+       "un chanteur"
+      ],
+      [
+       "lire",
+       "la lecture",
+       "un livre lu : une lecture",
+       "un lecteur"
+      ],
+      [
+       "vendre",
+       "la vente",
+       "—",
+       "un vendeur"
+      ]
+     ]
+    },
+    {
+     "type": "def",
+     "text": "Le **nom d’agent** désigne la **personne** qui fait l’action (*un vendeur*). Pour **nominaliser** un verbe, on emploie le **nom d’action** (*la vente*), pas le nom d’agent.",
+     "label": "Nom d’action et nom d’agent"
+    },
+    {
+     "type": "warn",
+     "text": "Ne confonds pas : *la lecture du roman* (l’action de lire) et *le lecteur du roman* (la personne qui lit) ; *la livraison* (l’action) et *le livreur* (la personne).",
+     "label": "Action ou agent ?"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom désigne l’action de livrer ?",
+     "options": [
+      "le livreur",
+      "la livraison",
+      "le livré",
+      "la livrée"
+     ],
+     "answer": 1,
+     "explain": "« la livraison » est le nom d’action ; « le livreur » est le nom d’agent."
+    }
+   ]
+  },
+  {
+   "t": "Le genre du nom obtenu",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Le suffixe permet de connaître le **genre** du nom d’action, donc de choisir le bon article (*le* ou *la*, *un* ou *une*)."
+    },
+    {
+     "type": "table",
+     "title": "Suffixe et genre",
+     "head": [
+      "Suffixe",
+      "Genre",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "-tion, -sion, -ssion",
+       "féminin",
+       "la construction, la décision, la discussion"
+      ],
+      [
+       "-ure",
+       "féminin",
+       "la blessure, l’ouverture"
+      ],
+      [
+       "-ance, -ence",
+       "féminin",
+       "la naissance, l’existence"
+      ],
+      [
+       "-ée, -ie",
+       "féminin",
+       "l’arrivée, la sortie"
+      ],
+      [
+       "-ment",
+       "masculin",
+       "le changement, le logement"
+      ],
+      [
+       "-age",
+       "masculin",
+       "le nettoyage, le lavage"
+      ],
+      [
+       "sans suffixe",
+       "variable",
+       "le chant, le refus / la marche, l’aide"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "text": "Retiens : **-ment** et **-age** → **le** ; **-tion, -ure, -ance, -ée** → **la**.",
+     "label": "Règle simple"
+    },
+    {
+     "type": "warn",
+     "text": "Quelques noms en -age ne sont pas des noms d’action et sont féminins : *la page, l’image, la plage*. La règle vaut pour les noms tirés de verbes (*le nettoyage, le voyage*).",
+     "label": "Exceptions"
+    },
+    {
+     "type": "quiz",
+     "question": "Quel groupe nominal est correct ?",
+     "options": [
+      "une nettoyage",
+      "le nettoyage",
+      "la nettoyage",
+      "un nettoyure"
+     ],
+     "answer": 1,
+     "explain": "Les noms en -age sont masculins : « le nettoyage »."
+    }
+   ]
+  },
+  {
+   "t": "Nominaliser une phrase",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "Nominaliser une phrase, c’est la transformer en **groupe nominal**. On suit quatre règles."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Le **verbe** devient un **nom d’action** (*protester → la protestation*).",
+      "Le **sujet** devient un **complément du nom** introduit par **de** (ou **par**).",
+      "Le **COD** devient un **complément du nom** introduit par **de**.",
+      "L’**adverbe** devient un **adjectif** (*brusquement → brusque*)."
+     ],
+     "ordered": true,
+     "label": "Les règles"
+    },
+    {
+     "type": "table",
+     "title": "De la phrase au groupe nominal",
+     "head": [
+      "Phrase",
+      "Groupe nominal"
+     ],
+     "rows": [
+      [
+       "Les habitants protestent.",
+       "La protestation des habitants."
+      ],
+      [
+       "Le pont s’effondre.",
+       "L’effondrement du pont."
+      ],
+      [
+       "Les ouvriers réparent la route.",
+       "La réparation de la route par les ouvriers."
+      ],
+      [
+       "Le directeur refuse la demande.",
+       "Le refus de la demande par le directeur."
+      ],
+      [
+       "Le vent souffle violemment.",
+       "Le souffle violent du vent."
+      ],
+      [
+       "Le maire annonce soudainement sa démission.",
+       "L’annonce soudaine de la démission du maire."
+      ]
+     ]
+    },
+    {
+     "type": "ex",
+     "text": "*Les voisins ont décidé de déménager. Cette **décision** a surpris tout le monde.* Le nom *décision* reprend l’idée de la première phrase sans répéter le verbe.",
+     "label": "Reprendre une idée"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nominalisation de « Le conducteur freine brusquement » ?",
+     "options": [
+      "Le freinage brusque du conducteur",
+      "Le conducteur du freinage brusque",
+      "Le freiné brusquement du conducteur",
+      "Le freinant brusque"
+     ],
+     "answer": 0,
+     "explain": "Le verbe devient un nom (freinage), l’adverbe devient un adjectif (brusque), le sujet devient un complément du nom."
+    }
+   ]
+  },
+  {
+   "t": "À quoi sert la nominalisation ?",
+   "blocs": [
+    {
+     "type": "p",
+     "text": "La nominalisation est très utile pour **écrire**. Elle sert à plusieurs choses."
+    },
+    {
+     "type": "table",
+     "title": "Les usages de la nominalisation",
+     "head": [
+      "Usage",
+      "Exemple"
+     ],
+     "rows": [
+      [
+       "écrire un **titre** de journal",
+       "*Arrivée du président à Brazzaville*"
+      ],
+      [
+       "**reprendre** une idée sans répéter le verbe",
+       "*Le directeur a refusé. Ce refus a déçu les élèves.*"
+      ],
+      [
+       "**condenser** une phrase",
+       "*Quand les pluies sont arrivées, les récoltes ont repris.* → *Avec l’arrivée des pluies, les récoltes ont repris.*"
+      ],
+      [
+       "adopter un style **administratif** ou **scientifique**",
+       "*La réduction de la pollution est urgente.*"
+      ]
+     ]
+    },
+    {
+     "type": "warn",
+     "text": "Trop de noms **alourdissent** un texte. Dans un récit vivant, préfère souvent le **verbe** : *Les enfants sont arrivés en courant* est plus vivant que *L’arrivée des enfants s’est faite en courant*.",
+     "label": "Ne pas en abuser"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle phrase reprend l’idée précédente avec un nom d’action ?",
+     "options": [
+      "Les élèves ont protesté. Ils protestaient fort.",
+      "Les élèves ont protesté. Cette protestation a surpris le directeur.",
+      "Les élèves ont protesté. Protestez fort !",
+      "Les élèves ont protesté. Ils sont protestés."
+     ],
+     "answer": 1,
+     "explain": "« Cette protestation » reprend le verbe « ont protesté » sous forme de nom."
+    }
+   ]
+  },
+  {
+   "t": "Exercices d’application",
+   "blocs": [
+    {
+     "type": "h",
+     "text": "Niveau 1 : trouver le nom"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Donne le nom d’action tiré de chaque verbe.",
+     "items": [
+      "a) arriver",
+      "b) réparer",
+      "c) protéger",
+      "d) laver",
+      "e) changer",
+      "f) naître"
+     ],
+     "corrige": [
+      "a) l’arrivée",
+      "b) la réparation",
+      "c) la protection",
+      "d) le lavage",
+      "e) le changement",
+      "f) la naissance"
+     ]
+    },
+    {
+     "type": "quiz",
+     "question": "Quel nom est tiré du verbe « refuser » ?",
+     "options": [
+      "refusage",
+      "refus",
+      "refusement",
+      "refusion"
+     ],
+     "answer": 1,
+     "explain": "« refuser » donne « refus » (nom masculin sans suffixe)."
+    },
+    {
+     "type": "h",
+     "text": "Niveau 2 : genre et sens"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Complète par le ou la.",
+     "items": [
+      "a) ___ construction du pont",
+      "b) ___ changement de programme",
+      "c) ___ lavage du linge",
+      "d) ___ fermeture de l’école",
+      "e) ___ vente des mangues"
+     ],
+     "corrige": [
+      "a) La",
+      "b) Le",
+      "c) Le",
+      "d) La",
+      "e) La"
+     ]
+    },
+    {
+     "type": "exercise",
+     "enonce": "Dis si le nom en gras est un nom d’action ou un nom d’agent.",
+     "items": [
+      "a) La **lecture** du poème dure dix minutes.",
+      "b) Le **lecteur** ouvre son livre.",
+      "c) La **livraison** aura lieu demain.",
+      "d) Le **livreur** sonne à la porte."
+     ],
+     "corrige": [
+      "a) nom d’action",
+      "b) nom d’agent",
+      "c) nom d’action",
+      "d) nom d’agent"
+     ]
+    },
+    {
+     "type": "h",
+     "text": "Niveau 3 : nominaliser des phrases"
+    },
+    {
+     "type": "exercise",
+     "enonce": "Transforme chaque phrase en groupe nominal.",
+     "items": [
+      "a) Les élèves réussissent.",
+      "b) La rivière déborde.",
+      "c) Le maçon construit le mur.",
+      "d) Le médecin guérit rapidement le malade."
+     ],
+     "corrige": [
+      "a) La réussite des élèves.",
+      "b) Le débordement de la rivière.",
+      "c) La construction du mur par le maçon.",
+      "d) La guérison rapide du malade par le médecin."
+     ]
+    }
+   ]
+  },
+  {
+   "t": "À retenir",
+   "blocs": [
+    {
+     "type": "retenir",
+     "items": [
+      "**Nominaliser un verbe**, c’est former un **nom d’action** de la même famille (*arriver → l’arrivée*).",
+      "Les suffixes les plus fréquents : **-tion / -sion**, **-ment**, **-age**, **-ure**, **-ance / -ence**, **-ée**.",
+      "Certains noms n’ont **pas de suffixe** (*chant, refus, aide*) ou sont **irréguliers** (*choix, vente, perte*).",
+      "**-tion, -ure, -ance, -ée** → nom **féminin** ; **-ment, -age** → nom **masculin**.",
+      "Le **nom d’action** (*la vente*) n’est pas le **nom d’agent** (*le vendeur*).",
+      "Pour nominaliser une phrase : le **verbe** devient un nom, le **sujet** et le **COD** deviennent des **compléments du nom**, l’**adverbe** devient un **adjectif**.",
+      "La nominalisation sert à écrire des **titres**, à **reprendre** une idée et à **condenser** une phrase."
+     ],
+     "label": "À retenir"
+    },
+    {
+     "type": "quiz",
+     "question": "Quelle est la nominalisation de « Les habitants protestent » ?",
+     "options": [
+      "Les protestants des habitants",
+      "La protestation des habitants",
+      "Les habitants de la protestation",
+      "La protestante des habitants"
+     ],
+     "answer": 1,
+     "explain": "Le verbe devient « protestation » et le sujet devient complément du nom : « la protestation des habitants »."
+    }
+   ]
+  }
+ ]
+}
