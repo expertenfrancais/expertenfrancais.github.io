@@ -176,7 +176,7 @@ var NOTIFS=[
 $("notifs").innerHTML=NOTIFS.map(function(n){
  return '<div class="row"><span class="ri">'+ico("bell",20)+'</span><span class="rt"><b>'+n[1]+'</b><small>'+n[2]+'</small></span>'+
   '<button class="sw" type="button" role="switch" data-k="'+n[0]+'" aria-label="'+n[1]+'"></button></div>'}).join("")+
- '<p class="note" style="padding-left:0;padding-top:4px">Vos choix sont enregistrés sur cet appareil.</p>';
+ '<p class="note" style="padding-left:0;padding-top:4px">Les notifications apparaissent dans la cloche 🔔 en haut de chaque page, à l’ouverture de l’application. Vos choix sont enregistrés sur cet appareil.</p>';
 
 function paintSwitches(){
  NOTIFS.forEach(function(n){var b=document.querySelector('.sw[data-k="'+n[0]+'"]');b.setAttribute("aria-checked",!!getS(n[0],n[3]))});

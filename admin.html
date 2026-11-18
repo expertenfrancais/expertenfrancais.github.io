@@ -360,7 +360,6 @@ function onglet(t){
  $("ttl").textContent=ONG[t][1];
  if(t==="vue")renderVue();else if(t==="sante"&&!vu.sante){renderSante();vu.sante=1}else if(t==="pages")renderPages();else if(t==="avis")renderAvis()}
 $("tabs").onclick=function(e){var b=e.target.closest("button");if(b)onglet(b.dataset.t)};
-$("bell").onclick=function(){toast("Aucune nouvelle notification")};
 function refuser(m){$("vNo").hidden=false;$("vAd").hidden=true;$("noTtl").textContent="Accès réservé";if(m)$("noMsg").textContent=m}
 function verifierAcces(){
  $("vNo").hidden=false;$("vAd").hidden=true;$("noTtl").textContent="Vérification…";$("noMsg").textContent="Vérification de votre accès administrateur…";$("retry").hidden=true;

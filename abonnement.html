@@ -171,7 +171,6 @@ $("gratuit").hidden=!GRATUIT;
 if(GRATUIT&&FICHES_VERROU)$("gratuit").textContent="Pendant la période de lancement, les cours restent gratuits. Pour les fiches pédagogiques, l’en-tête et les deux premières étapes sont gratuits ; les autres étapes, la page de l’apprenant, le corrigé et le PDF sont réservés aux abonnés.";
 renderStatut();
 subRefresh(true).then(renderStatut);
-$("bell").onclick=function(){toast("Aucune nouvelle notification")};
 $("goContact").onclick=function(){location.href="contact.html?sujet=abonnement"};
 $("code").oninput=function(){$("cerr").textContent=""};
 var busyA=false;

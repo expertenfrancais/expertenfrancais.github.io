@@ -148,6 +148,22 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 .tab.on{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff}
 .tip{margin:0 2px 12px;font-size:12.5px;color:var(--sub)}
 .res .hit{margin-bottom:10px}
+.sum{margin:0 2px 14px;font-size:13px;color:var(--sub);line-height:1.5}.sum b{color:var(--ink)}
+.ov{margin-bottom:18px}
+.oh{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
+.oh h3{margin:0;font-size:16px;color:var(--ink)}.oh .count{font-size:12.5px;font-weight:600;color:var(--sub);margin-left:4px}
+.vall{flex:0 0 auto;border:0;background:none;padding:4px 0;font-size:13px;font-weight:600;color:var(--link)}
+.fbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 12px}
+.fbtn{display:inline-flex;align-items:center;gap:6px;border:0;border-radius:18px;padding:9px 16px;font-size:13px;font-weight:600;background:var(--card);color:var(--ink);box-shadow:0 6px 14px rgba(90,60,170,.1)}
+.fbtn small{display:inline-grid;place-items:center;min-width:18px;height:18px;border-radius:9px;background:var(--p1);color:#fff;font-size:11px;padding:0 5px}
+.fclr{border:0;background:none;padding:4px 2px;font-size:12.5px;font-weight:600;color:var(--danger)}
+.fpan{background:var(--card);border-radius:22px;padding:14px 14px 6px;margin:0 0 14px;box-shadow:0 8px 24px rgba(90,60,170,.08)}
+.fl{margin:0 0 8px;font-size:12px;font-weight:700;color:var(--sub);text-transform:uppercase;letter-spacing:.03em}
+.fch{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:12px}
+.fc{border:0;border-radius:14px;padding:7px 12px;font-size:12.5px;font-weight:600;background:var(--field);color:var(--ink)}
+.fc small{font-size:10.5px;opacity:.7;margin-left:3px}
+.fc.on{background:linear-gradient(180deg,var(--p1),var(--p2));color:#fff}
+
 .back{display:grid}
 </style>
 <link rel="stylesheet" href="responsive.css">
@@ -164,6 +180,7 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
       <label class="field"><svg id="i-search" width="22" height="22" viewBox="0 0 24 24"></svg><input id="q" type="search" placeholder="Rechercher…" autocomplete="off" enterkeyhint="search"><button class="go" id="go" type="button" aria-label="Lancer la recherche">OK</button></label>
     </div>
     <div class="tabs" id="tabs" role="tablist"></div>
+    <div id="flt" hidden></div>
     <p class="tip" id="tip" hidden>Tapez au moins 3 lettres pour chercher aussi dans le contenu des cours.</p>
     <div class="res" id="res"></div>
     <button class="more" id="more" type="button" hidden>Afficher plus</button>
@@ -173,36 +190,73 @@ body{padding-left:env(safe-area-inset-left,0px);padding-right:env(safe-area-inse
 </div>
 <script src="data.js"></script>
 <script>
-var PAGE_DOCS=12,PAGE_HITS=20;
+var PAGE_DOCS=12,PAGE_HITS=20,OV_DOCS=2,OV_HITS=3;
 var FICHES_OK=ALLOWED_TYPES.indexOf("Fiches")>-1;
-var tab="docs",shown=PAGE_DOCS,q="",loaded=false,docs=[],hits=[],fhits=[];
+/* tab : « all » (aperçu général), « docs », « hits » (dans les cours) ou « fiches » ; flt : filtres type / niveau / matière */
+var tab="all",shown=PAGE_DOCS,q="",loaded=false,docs=[],hits=[],fhits=[],flt={k:"",n:"",m:""},fopen=false;
+var KORD=["Cours","Fiches","Exercices","Évaluations","Annales","Programmes"],NORD=[].concat.apply([],Object.keys(CYCLES).map(function(c){return CYCLES[c]}));
 ["gear","search"].forEach(function(n){$("i-"+n).innerHTML='<path d="'+IC[n]+'"/>'});
 $("i-back").innerHTML='<path d="M15.5 4.5 8 12l7.5 7.5-1.8 1.8L4.4 12l9.3-9.3z"/>';
 var name=userName();
 
 function nav(){drawNav(3)}
-function paintTabs(){
- var items=[["docs","Documents",docs.length],["hits","Dans les cours",loaded?hits.length:"…"]];
- if(FICHES_OK)items.push(["fiches","Fiches",loaded?fhits.length:"…"]);
+function pass(d,skip){return ["k","n","m"].every(function(g){return g===skip||!flt[g]||d[g]===flt[g]})}
+function nflt(){return ["k","n","m"].filter(function(g){return flt[g]}).length}
+function universe(){var u={},a=[],i;docs.forEach(function(d){u[d.id]=d});hits.concat(fhits).forEach(function(r){u[r.d.id]=r.d});for(i in u)a.push(u[i]);return a}
+function facet(g){var c={};universe().forEach(function(d){if(pass(d,g)&&d[g])c[d[g]]=(c[d[g]]||0)+1});return c}
+function chipsHTML(g,label,order){
+ var c=facet(g),keys=Object.keys(c);
+ if(order)keys.sort(function(a,b){return order.indexOf(a)-order.indexOf(b)});else keys.sort(function(a,b){return a.localeCompare(b,"fr")});
+ if(flt[g]&&keys.indexOf(flt[g])<0)keys.push(flt[g]);
+ if(keys.length<2&&!flt[g])return"";
+ return '<p class="fl">'+label+'</p><div class="fch"><button type="button" class="fc'+(flt[g]?"":" on")+'" data-g="'+g+'" data-v="">Tous</button>'+
+  keys.map(function(v){return '<button type="button" class="fc'+(flt[g]===v?" on":"")+'" data-g="'+g+'" data-v="'+esc(v)+'">'+esc(v)+'<small>'+(c[v]||0)+'</small></button>'}).join("")+'</div>'}
+function paintFilter(show){
+ var el=$("flt");if(!show){el.hidden=true;el.innerHTML="";return}
+ var n=nflt(),sel=["k","n","m"].filter(function(g){return flt[g]}).map(function(g){return flt[g]}).join(" · ");
+ el.hidden=false;
+ el.innerHTML='<div class="fbar"><button type="button" class="fbtn" id="fbtn" aria-expanded="'+fopen+'">Filtrer'+(n?'<small>'+n+'</small>':"")+'<span aria-hidden="true">'+(fopen?"▴":"▾")+'</span></button>'+
+  (n?'<span class="count">'+esc(sel)+'</span><button type="button" class="fclr" id="fclr">Effacer</button>':"")+'</div>'+
+  (fopen?'<div class="fpan">'+chipsHTML("k","Type de document",KORD)+chipsHTML("n","Niveau",NORD)+chipsHTML("m","Matière",null)+'</div>':"")}
+function paintTabs(fd,fh,ff){
+ var wait=norm(q).length>=3&&!loaded;
+ var items=[["all","Tout",wait?"…":fd.length+fh.length+ff.length],["docs","Documents",fd.length],["hits","Dans les cours",loaded?fh.length:"…"]];
+ if(FICHES_OK)items.push(["fiches","Fiches",loaded?ff.length:"…"]);
  $("tabs").innerHTML=items.map(function(t){return '<button class="tab'+(tab===t[0]?" on":"")+'" role="tab" aria-selected="'+(tab===t[0])+'" data-t="'+t[0]+'">'+t[1]+'<small>'+t[2]+'</small></button>'}).join("")}
+/* Aperçu général : un résumé de chaque catégorie, avec « Voir tout » pour ouvrir l’onglet complet */
+function paintAll(fd,fh,ff,wait,n){
+ var box=$("res"),tot=fd.length+fh.length+ff.length,h="",parts=[];
+ box.className="res";
+ parts.push(fd.length+" document"+(fd.length>1?"s":""));
+ if(!wait&&n>=3){parts.push(fh.length+" passage"+(fh.length>1?"s":"")+" dans les cours");if(FICHES_OK)parts.push(ff.length+" dans les fiches")}
+ if(tot||!wait)h+='<p class="sum"><b>'+tot+' résultat'+(tot>1?"s":"")+'</b> · '+parts.join(" · ")+(wait?" · recherche dans les contenus…":"")+'</p>';
+ if(fd.length)h+='<section class="ov"><div class="oh"><h3>Documents<span class="count">'+fd.length+'</span></h3>'+(fd.length>OV_DOCS?'<button type="button" class="vall" data-t="docs">Voir tout ›</button>':"")+'</div><div class="grid">'+fd.slice(0,OV_DOCS).map(cardHTML).join("")+'</div></section>';
+ if(n>=3&&wait)h+='<p class="empty">Recherche dans le contenu des cours…</p>';
+ else if(fh.length)h+='<section class="ov"><div class="oh"><h3>Dans les cours<span class="count">'+fh.length+'</span></h3>'+(fh.length>OV_HITS?'<button type="button" class="vall" data-t="hits">Voir tout ›</button>':"")+'</div>'+fh.slice(0,OV_HITS).map(hitHTML).join("")+'</section>';
+ if(FICHES_OK&&!wait&&ff.length)h+='<section class="ov"><div class="oh"><h3>Fiches<span class="count">'+ff.length+'</span></h3>'+(ff.length>OV_HITS?'<button type="button" class="vall" data-t="fiches">Voir tout ›</button>':"")+'</div>'+ff.slice(0,OV_HITS).map(hitHTML).join("")+'</section>';
+ if(!tot&&!wait)h+='<p class="empty">'+(nflt()?"Aucun résultat avec ces filtres. Touchez « Effacer » pour tout revoir.":"Aucun résultat pour « "+esc(q)+" ». Vérifiez l’orthographe ou essayez un mot plus court.")+'</p>';
+ box.innerHTML=h}
 function paint(){
  var box=$("res"),more=$("more"),n=norm(q).length;
  $("qtxt").textContent=q?"« "+q+" »":"Recherche";
- $("tip").hidden=!q||n>=3;
- paintTabs();more.hidden=true;
- if(!q.trim()){box.innerHTML='<p class="empty">Saisissez un mot ou une expression, puis touchez OK.</p>';return}
+ $("tip").hidden=!q||n>=3;more.hidden=true;
+ if(!q.trim()){$("tabs").innerHTML="";paintFilter(false);box.className="res";box.innerHTML='<p class="empty">Saisissez un mot ou une expression, puis touchez OK.</p>';return}
+ var fd=docs.filter(function(d){return pass(d)}),fh=hits.filter(function(r){return pass(r.d)}),ff=fhits.filter(function(r){return pass(r.d)});
+ paintTabs(fd,fh,ff);paintFilter(universe().length>0);
+ var wait=n>=3&&!loaded;
+ if(tab==="all"){paintAll(fd,fh,ff,wait,n);return}
  if(tab==="docs"){
   box.className="res grid";
-  box.innerHTML=docs.length?docs.slice(0,shown).map(cardHTML).join(""):'<p class="empty">Aucun document ne porte ce titre.'+(n>=3?" Essayez l’onglet « Dans les cours ».":"")+'</p>';
-  more.hidden=docs.length<=shown;return}
+  box.innerHTML=fd.length?fd.slice(0,shown).map(cardHTML).join(""):'<p class="empty">'+(nflt()?"Aucun document avec ces filtres.":"Aucun document ne porte ce titre."+(n>=3?" Essayez l’onglet « Tout » ou « Dans les cours ».":""))+'</p>';
+  more.hidden=fd.length<=shown;return}
  box.className="res";
  if(n<3){box.innerHTML='<p class="empty">Tapez au moins 3 lettres pour chercher dans le contenu.</p>';return}
  if(!loaded){box.innerHTML='<p class="empty">Recherche dans le contenu…</p>';return}
- var list=tab==="fiches"?fhits:hits;
- box.innerHTML=list.length?list.slice(0,shown).map(hitHTML).join(""):'<p class="empty">Aucun résultat dans '+(tab==="fiches"?"les fiches":"le texte des cours")+'.</p>';
+ var list=tab==="fiches"?ff:fh;
+ box.innerHTML=list.length?list.slice(0,shown).map(hitHTML).join(""):'<p class="empty">Aucun résultat dans '+(tab==="fiches"?"les fiches":"le texte des cours")+(nflt()?" avec ces filtres":"")+'.</p>';
  more.hidden=list.length<=shown}
 function search(v){
- q=v.trim();$("q").value=q;shown=PAGE_DOCS;
+ q=v.trim();$("q").value=q;shown=PAGE_DOCS;flt={k:"",n:"",m:""};
  try{history.replaceState(null,"",q?"?q="+encodeURIComponent(q):location.pathname)}catch(e){}
  docs=q?DOCS.filter(function(d){return docMatch(d,q)}):[];hits=[];fhits=[];loaded=false;
  if(q&&norm(q).length<3)loaded=true;
@@ -213,14 +267,19 @@ function search(v){
   if(mine!==q)return;
   var all=contentHits(q,DOCS);
   hits=all.filter(function(r){return r.d.k!=="Fiches"});fhits=all.filter(function(r){return r.d.k==="Fiches"});
-  loaded=true;
-  /* onglet par défaut : le premier qui contient des résultats */
-  if(tab==="docs"&&!docs.length){tab=hits.length?"hits":(fhits.length?"fiches":"docs")}
-  paint()})}
-$("tabs").onclick=function(e){var b=e.target.closest(".tab");if(!b)return;tab=b.dataset.t;shown=tab==="docs"?PAGE_DOCS:PAGE_HITS;paint()};
+  loaded=true;paint()})}
+function goTab(t){tab=t;shown=t==="docs"?PAGE_DOCS:PAGE_HITS;paint()}
+$("tabs").onclick=function(e){var b=e.target.closest(".tab");if(!b)return;goTab(b.dataset.t)};
+$("res").addEventListener("click",function(e){var b=e.target.closest(".vall");if(!b)return;goTab(b.dataset.t);try{$("tabs").scrollIntoView({block:"nearest"})}catch(x){}});
+$("flt").onclick=function(e){
+ var b=e.target.closest("button");if(!b)return;
+ if(b.id==="fbtn"){fopen=!fopen}
+ else if(b.id==="fclr"){flt={k:"",n:"",m:""};shown=tab==="docs"?PAGE_DOCS:PAGE_HITS}
+ else if(b.dataset.g){flt[b.dataset.g]=b.dataset.v;shown=tab==="docs"?PAGE_DOCS:PAGE_HITS}
+ paint()};
 $("more").onclick=function(){shown+=(tab==="docs"?PAGE_DOCS:PAGE_HITS);paint()};
-$("go").onclick=function(){tab="docs";search($("q").value)};
-$("q").onkeydown=function(e){if(e.key==="Enter"){e.preventDefault();tab="docs";search(this.value);this.blur()}};
+$("go").onclick=function(){tab="all";search($("q").value)};
+$("q").onkeydown=function(e){if(e.key==="Enter"){e.preventDefault();tab="all";search(this.value);this.blur()}};
 $("back").onclick=function(){if(history.length>1&&document.referrer)history.back();else location.href="catalogue.html"};
 $("set").onclick=function(){location.href="parametres.html"};
 $("nav").onclick=navClick;

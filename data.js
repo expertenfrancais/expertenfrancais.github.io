@@ -53,14 +53,18 @@ function docUrl(d){return BASE+docFile(d)}
    La première partie est gratuite ; les autres demandent l’accès au cours (achat ou abonnement). */
 function partUrl(d,i){return BASE+"lecon.html?id="+d.id+"&s="+(i+1)}
 function partFree(i){return i===0}
+/* Journal d’activité (tableau de bord) : activity[« AAAA-MM-JJ »] = nombre d’actions ce jour-là (partie ouverte, quiz ou exercice fait). Sert aux séries de jours et au graphique de la semaine. */
+function dayKey(t){var d=new Date(t||Date.now());return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
+function logAct(){var o=ls("activity",{}),k=dayKey(),ks,i;o[k]=Math.min((o[k]||0)+1,999);
+ ks=Object.keys(o).sort();if(ks.length>400)for(i=0;i<ks.length-400;i++)delete o[ks[i]];sv("activity",o)}
 function partsDone(id){return (ls("parts",{})[id])||[]}
-function markPart(id,i){var o=ls("parts",{}),a=o[id]||[];if(a.indexOf(i)<0){a.push(i);o[id]=a;sv("parts",o)}}
+function markPart(id,i){var o=ls("parts",{}),a=o[id]||[];logAct();if(a.indexOf(i)<0){a.push(i);o[id]=a;sv("parts",o)}}
 /* Scores des quiz et exercices : scores[cours][partie] = {nq,ne,q:{n° du bloc:0|1},e:{n° du bloc:0|1}}.
    q = quiz réussi du premier coup ; e = exercice jugé réussi par l’élève. Si le contenu change (nq ou ne), la partie repart à zéro. */
 function scoreGet(id,i){var c=ls("scores",{})[id];return(c&&c[i])||null}
 function scoreMeta(id,i,nq,ne){var o=ls("scores",{}),c=o[id]||(o[id]={}),s=c[i]||(c[i]={q:{},e:{}});
  if(s.nq!==nq||s.ne!==ne){s.nq=nq;s.ne=ne;s.q={};s.e={};sv("scores",o)}}
-function scoreSet(id,i,kind,k,ok){var o=ls("scores",{}),c=o[id]||(o[id]={}),s=c[i]||(c[i]={q:{},e:{}});(s[kind]||(s[kind]={}))[k]=ok?1:0;sv("scores",o)}
+function scoreSet(id,i,kind,k,ok){logAct();var o=ls("scores",{}),c=o[id]||(o[id]={}),s=c[i]||(c[i]={q:{},e:{}});(s[kind]||(s[kind]={}))[k]=ok?1:0;sv("scores",o)}
 function scoreSum(s){var r={nq:0,qa:0,qo:0,ne:0,ea:0,eo:0},k;if(!s)return r;r.nq=s.nq||0;r.ne=s.ne||0;
  for(k in s.q){r.qa++;r.qo+=s.q[k]}for(k in s.e){r.ea++;r.eo+=s.e[k]}return r}
 function openDoc(id){var d=ALLDOCS.filter(function(x){return x.id===id})[0];location.href=d?docUrl(d):BASE+"catalogue.html"}
@@ -1183,6 +1187,66 @@ function installApp(){
  ["dl_info","dl_hash","dl_check"].forEach(function(k){localStorage.removeItem(k)});
  Promise.all(jobs).then(function(){localStorage.setItem("off_clean","1")}).catch(function(){})}catch(e){}})();
 
+/* ===== Centre de notifications (cloche) =====
+   Les notifications sont créées sur l’appareil à l’ouverture de l’application (aucun serveur) et gardées dans « notifs ».
+   Trois sortes, activables dans Paramètres : nouveaux documents (notifNew), rappels d’abonnement (notifSub), conseils d’étude (notifTips).
+   Limite : sans serveur ni service worker, rien n’est envoyé quand l’application est fermée. */
+var NOTIF_DEF={notifNew:true,notifSub:true,notifTips:false};
+function notifOn(k){var s=ls("settings",{});return s[k]===undefined?NOTIF_DEF[k]:!!s[k]}
+function notifAll(){var a=ls("notifs",[]);return Array.isArray(a)?a:[]}
+function notifUnread(){return notifAll().filter(function(n){return !n.read}).length}
+function notifPush(a,n){if(a.some(function(x){return x.id===n.id}))return false;n.ts=Date.now();n.read=false;a.unshift(n);return true}
+function notifRefresh(){
+ if(!userName())return;
+ var a=notifAll(),ch=false,i;
+ /* 1) Nouveaux documents : on compare à la liste déjà vue ; la première fois on mémorise tout sans rien annoncer */
+ try{var ids=ALLDOCS.map(function(d){return d.id}),seen=ls("notif_seen",null);
+  if(seen&&notifOn("notifNew")){
+   var nw=DOCS.filter(function(d){return seen.indexOf(d.id)<0});
+   if(nw.length){var one=nw.length===1;
+    ch=notifPush(a,{id:"new:"+Date.now(),k:"new",t:one?"Nouveau document":nw.length+" nouveaux documents",
+     x:one?nw[0].t:nw.slice(0,3).map(function(d){return d.t}).join(" · ")+(nw.length>3?"…":""),h:one?docUrl(nw[0]):"catalogue.html"})||ch}}
+  if(!seen||ids.some(function(i){return seen.indexOf(i)<0}))localStorage.setItem("notif_seen",JSON.stringify(ids))}catch(e){}
+ /* 2) Abonnement : rappels à 7, 3 et 1 jour de la fin, puis « expiré » */
+ if(notifOn("notifSub")){var sb=ls("sub",{});
+  if(sb.end){var dl=Math.ceil((Date.parse(sb.end)-Date.now())/864e5),essai=sb.plan==="essai";
+   if(dl>0&&dl<=7){var pal=dl<=1?1:dl<=3?3:7;
+    ch=notifPush(a,{id:"sub:"+sb.end+":"+pal,k:"sub",t:essai?"Votre mois gratuit se termine bientôt":"Votre abonnement se termine bientôt",
+     x:"Il reste "+dl+" jour"+(dl>1?"s":"")+". Activez un code pour continuer sans interruption.",h:"abonnement.html"})||ch}
+   else if(dl<=0&&dl>-8)ch=notifPush(a,{id:"subx:"+sb.end,k:"sub",t:essai?"Votre mois gratuit est terminé":"Votre abonnement a expiré",
+     x:"Activez un code pour retrouver les parties et fiches réservées aux abonnés.",h:"abonnement.html"})||ch}}
+ /* 3) Conseils d’étude (désactivés par défaut) : série en danger, ou retour après quelques jours */
+ if(notifOn("notifTips")){var act=ls("activity",{}),ks=Object.keys(act).filter(function(k){return act[k]>0}).sort(),today=dayKey();
+  if(ks.length&&!act[today]){var d=new Date(),n=0;d.setDate(d.getDate()-1);while(act[dayKey(d)]){n++;d.setDate(d.getDate()-1)}
+   var last=Date.parse(ks[ks.length-1]+"T12:00:00"),gap=Math.round((Date.now()-last)/864e5);
+   if(n>0)ch=notifPush(a,{id:"tip:"+today,k:"tip",t:"Votre série de "+n+" jour"+(n>1?"s":"")+" est en danger",x:"Ouvrez une partie ou faites un quiz aujourd’hui pour la garder.",h:"progression.html"})||ch;
+   else if(gap>=3)ch=notifPush(a,{id:"tip:"+today,k:"tip",t:"Ça fait "+gap+" jours",x:"Reprenez doucement : une partie de cours suffit pour relancer votre série.",h:"progression.html"})||ch}}
+ if(ch){a.sort(function(x,y){return y.ts-x.ts});sv("notifs",a.slice(0,40))}}
+function notifBadge(){var b=$("bell");if(!b)return;var n=notifUnread(),e=$("bellN");
+ if(!e){e=document.createElement("span");e.id="bellN";e.style.cssText="position:absolute;top:-2px;right:-2px;min-width:18px;height:18px;border-radius:9px;background:#e5578a;color:#fff;font:600 10.5px/18px Poppins,system-ui,sans-serif;text-align:center;padding:0 4px;pointer-events:none";b.style.position="relative";b.appendChild(e)}
+ e.hidden=!n;e.textContent=n>9?"9+":n;b.setAttribute("aria-label",n?"Notifications : "+n+" non lue"+(n>1?"s":""):"Notifications")}
+function notifWhen(ts){var d=Math.floor((new Date(dayKey()+"T12:00:00")-new Date(dayKey(ts)+"T12:00:00"))/864e5);return d<=0?"Aujourd’hui":d===1?"Hier":"Il y a "+d+" jours"}
+function notifClose(){var o=$("notifBox");if(o)o.remove();document.removeEventListener("keydown",notifKey);var b=$("bell");if(b)b.focus()}
+function notifKey(e){if(e.key==="Escape")notifClose()}
+function notifOpen(){
+ if($("notifBox"))return;notifRefresh();
+ var a=notifAll(),ic={new:"📚",sub:"⭐",tip:"💡"};
+ var o=document.createElement("div");o.id="notifBox";o.setAttribute("role","dialog");o.setAttribute("aria-modal","true");o.setAttribute("aria-labelledby","notifT");
+ o.style.cssText="position:fixed;inset:0;z-index:80;background:rgba(30,20,70,.45);display:flex;align-items:flex-end;justify-content:center";
+ o.innerHTML='<div id="notifSh" style="width:100%;max-width:430px;max-height:82vh;display:flex;flex-direction:column;background:var(--page,#f1ecfb);color:var(--ink,#2e2160);border-radius:28px 28px 0 0;padding:18px 18px calc(18px + env(safe-area-inset-bottom,0px));font-family:Poppins,Segoe UI,system-ui,sans-serif">'+
+  '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px"><h2 id="notifT" style="margin:0;font-size:19px">Notifications</h2><button type="button" id="notifX" aria-label="Fermer" style="border:0;background:var(--card,#fff);color:inherit;width:40px;height:40px;border-radius:50%;font-size:20px;line-height:1">✕</button></div>'+
+  '<div style="overflow-y:auto;flex:1;min-height:60px">'+(a.length?a.map(function(n,i){
+    return '<a href="'+esc(n.h||"#")+'" data-i="'+i+'" style="display:flex;gap:12px;align-items:flex-start;text-decoration:none;color:inherit;background:var(--card,#fff);border-radius:20px;padding:12px 14px;margin-bottom:10px;'+(n.read?"":"border:2px solid var(--p1,#7d5fe3);")+'">'+
+     '<span aria-hidden="true" style="flex:0 0 auto;font-size:22px;line-height:1.2">'+(ic[n.k]||"🔔")+'</span><span style="min-width:0"><b style="display:block;font-size:14px">'+esc(n.t)+'</b><span style="display:block;font-size:13px;color:var(--sub,#6b6490);margin-top:2px;line-height:1.4">'+esc(n.x)+'</span><small style="display:block;font-size:11.5px;color:var(--sub,#6b6490);margin-top:4px">'+notifWhen(n.ts)+'</small></span></a>'}).join(""):
+    '<p style="margin:14px 4px;font-size:14px;line-height:1.5;color:var(--sub,#6b6490)">Aucune notification pour le moment. Vous serez prévenu ici des nouveaux documents, de la fin de votre abonnement et de vos séries de jours.</p>')+'</div>'+
+  '<a href="parametres.html" style="display:block;text-align:center;margin-top:6px;padding:10px;font-size:13.5px;font-weight:600;color:var(--link,#5d49b8);text-decoration:none">Choisir mes notifications ›</a></div>';
+ document.body.appendChild(o);
+ o.onclick=function(e){if(e.target===o||e.target.id==="notifX")notifClose()};
+ document.addEventListener("keydown",notifKey);$("notifX").focus();
+ /* tout est marqué comme lu à l’ouverture (l’affichage garde le contour des nouvelles) */
+ var all=notifAll();all.forEach(function(n){n.read=true});sv("notifs",all);notifBadge()}
+function notifSetup(b){b.onclick=notifOpen;try{notifRefresh()}catch(e){}notifBadge()}
+
 /* Bouton jour / nuit placé à côté de la cloche de notifications */
 function isDark(){var t=document.documentElement.getAttribute("data-theme");
  if(t)return t==="dark";try{return matchMedia("(prefers-color-scheme: dark)").matches}catch(e){return false}}
@@ -1193,7 +1257,11 @@ function setupThemeBtn(){var bell=$("bell")||$("set");if(!bell||$("tbtn"))return
  bell.parentNode.insertBefore(w,bell);
  var t=document.createElement("button");t.id="tbtn";t.type="button";t.className="ib";
  t.onclick=function(){var next=isDark()?"light":"dark";try{localStorage.setItem("theme",next)}catch(e){}applyTheme();paintThemeBtn();vib(10);toast(next==="dark"?"Mode nuit activé":"Mode jour activé")};
- w.appendChild(t);w.appendChild(bell);paintThemeBtn()}
+ w.appendChild(t);
+ /* Cloche : présente sur toutes les pages qui ont l’en-tête ; ajoutée ici quand la page n’en a pas */
+ var B=$("bell");if(!B){B=document.createElement("button");B.id="bell";B.type="button";B.className="ib";B.setAttribute("aria-label","Notifications");B.innerHTML=ico("bell",22)}
+ w.appendChild(B);if(bell!==B)w.appendChild(bell);
+ paintThemeBtn();notifSetup(B)}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",setupThemeBtn);else setupThemeBtn();
 
 /* Compte réel (Supabase) : si la session a disparu, on efface les infos de compte (retour à la connexion ci-dessous) */
@@ -1210,7 +1278,7 @@ else if(userName()&&!homeCycle()&&typeof PUBLIC_PAGE==="undefined"&&typeof CYCLE
    Les clés ci-dessous sont copiées dans la table user_data (script supabase/02-user-data.sql).
    Les achats et abonnements (bought, sub, pending, subpending) ne sont JAMAIS envoyés : ils devront être gérés côté serveur.
    Sans connexion Supabase (mode démonstration), rien de tout cela ne s’exécute. */
-var SYNC_KEYS=["favs","cart","studied","parts","scores","rates"];
+var SYNC_KEYS=["favs","cart","studied","parts","scores","rates","activity"];
 (function(){
  var busy=false,timer=null;
  function jget(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}}
