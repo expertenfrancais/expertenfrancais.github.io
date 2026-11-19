@@ -3,8 +3,9 @@
    vont rechercher sw.js, reçoivent cette version, qui vide tous les caches, se désinscrit et recharge la page.
    Il n'y a plus aucun cache ni aucune interception des requêtes : tout vient directement du réseau.
    Ne pas supprimer ce fichier (au moins quelques mois) et ne pas y remettre de « fetch ».
+   (v283) Les images sont gérées par un fichier séparé : sw-images.js.
    VERSION sert seulement à repérer la version du site (affichée dans admin.html). */
-var VERSION = "v281";
+var VERSION = "v283";
 
 self.addEventListener("install", function () { self.skipWaiting(); });
 

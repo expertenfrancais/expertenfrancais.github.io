@@ -767,6 +767,36 @@ var ALLDOCS=[
  {id:10194,fn:194,img:IMG.p54,t:"Les formes affirmative et négative",k:"Fiches",n:"3e",m:"Conjugaison",pr:25,r:4.8},
  {id:10195,fn:195,img:IMG.p65,t:"Les homophones près et prêt",k:"Fiches",n:"3e",m:"Orthographe",pr:25,r:4.8},
  {id:10196,fn:196,img:IMG.p89,t:"La production d’un texte narratif : l’introduction",k:"Fiches",n:"3e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10197,fn:197,ap:"APS",img:IMG.p48,t:"Le respect des signes de ponctuation (séance 1)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10198,fn:198,ap:"APS",img:IMG.l4,t:"Le respect du groupe de souffle (séance 1)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10199,fn:199,ap:"APS",img:IMG.p49,t:"Le respect de la diction (séance 1)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10200,fn:200,ap:"APS",img:IMG.p50,t:"Le respect des signes de ponctuation (séance 2)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10201,fn:201,ap:"APS",img:IMG.p51,t:"Le respect du groupe de souffle (séance 2)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10202,fn:202,ap:"APS",img:IMG.p52,t:"Le respect de la diction (séance 2)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10203,fn:203,ap:"APS",img:IMG.p53,t:"La présentation de l’auteur (biographie et bibliographie)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10204,fn:204,ap:"APS",img:IMG.p54,t:"La présentation (situation) de l’œuvre",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10205,fn:205,ap:"APS",img:IMG.p55,t:"Le résumé de l’œuvre",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10206,fn:206,ap:"APS",img:IMG.p56,t:"L’étude des personnages (séance 1 : le personnage principal)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10207,fn:207,ap:"APS",img:IMG.p57,t:"L’étude des personnages (séance 2 : les personnages secondaires)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10208,fn:208,ap:"APS",img:IMG.p58,t:"L’étude des personnages (séance 3 : les relations entre les personnages)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10209,fn:209,ap:"APS",img:IMG.p59,t:"Les thèmes majeurs dans l’œuvre (séance 1)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10210,fn:210,ap:"APS",img:IMG.p60,t:"Les thèmes majeurs dans l’œuvre (séance 2)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10211,fn:211,ap:"APS",img:IMG.l5,t:"Les thèmes majeurs dans l’œuvre (séance 3 : les différents points de vue)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10212,fn:212,ap:"APS",img:IMG.p61,t:"Les thèmes majeurs dans l’œuvre (séance 4 : les liens avec la vie réelle)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10213,fn:213,ap:"APS",img:IMG.p62,t:"L’espace et le temps dans l’œuvre (séance 1 : l’espace)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10214,fn:214,ap:"APS",img:IMG.p63,t:"L’espace et le temps dans l’œuvre (séance 2 : le temps)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10215,fn:215,ap:"APS",img:IMG.p64,t:"Le schéma actanciel",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10216,fn:216,ap:"APS",img:IMG.p65,t:"La leçon de morale",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10217,fn:217,ap:"APS",img:IMG.p92,t:"La rédaction d’un paragraphe narratif à partir d’un sujet de narration",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10218,fn:218,ap:"APS",img:IMG.p93,t:"La fiche de lecture",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10219,fn:219,ap:"APS",img:IMG.p66,t:"Les caractéristiques du texte narratif (séance 2)",k:"Fiches",n:"6e",m:"Lecture",pr:25,r:4.8},
+ {id:10220,fn:220,ap:"APS",img:IMG.p94,t:"L’analyse du sujet et la recherche des idées (séance 2)",k:"Fiches",n:"6e",m:"Expression écrite",pr:25,r:4.8},
+ {id:10221,fn:221,ap:"APS",img:IMG.p57,t:"Les valeurs et l’emploi du futur simple (séance 2)",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10222,fn:222,ap:"APS",img:IMG.p58,t:"Les valeurs et l’emploi de l’imparfait (séance 2)",k:"Fiches",n:"6e",m:"Conjugaison",pr:25,r:4.8},
+ {id:10223,fn:223,ap:"APS",img:IMG.p72,t:"Les règles de présentation d’un dialogue (séance 2)",k:"Fiches",n:"6e",m:"Expression orale",pr:25,r:4.8},
+ {id:10224,fn:224,ap:"APS",img:IMG.p88,t:"Le discours direct et le discours indirect (séance 2)",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10225,fn:225,ap:"APS",img:IMG.p89,t:"La juxtaposition (séance 2)",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
+ {id:10226,fn:226,ap:"APS",img:IMG.p90,t:"La proposition subordonnée relative (séance 2)",k:"Fiches",n:"6e",m:"Grammaire",pr:25,r:4.8},
  {id:20002,an:2,img:IMG.w2,t:"BEPC · Dictée-Questions · Session juillet 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20003,an:3,img:IMG.p37,t:"BEPC blanc · Dictée-Questions · Session mai 2025",k:"Annales",n:"3e",m:"Dictée-Questions",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
  {id:20004,an:4,img:IMG.p90,t:"BEPC · Expression écrite · Session juillet 2025",k:"Annales",n:"3e",m:"Expression écrite",pr:25,r:4.8,s:[{t:"Énoncé du sujet"},{t:"Corrigé détaillé"},{t:"Barème et conseils de méthode"}]},
@@ -1179,13 +1209,32 @@ function installApp(){
  if(!deferredInstall)return Promise.resolve(false);
  deferredInstall.prompt();
  return deferredInstall.userChoice.then(function(c){deferredInstall=null;return c.outcome==="accepted"})}
-/* Mode hors ligne SUPPRIMÉ (v254). Nettoyage unique des anciens caches et de l’ancien service worker sur cet appareil. */
+/* Mode hors ligne SUPPRIMÉ (v254). Nettoyage unique des anciens caches et de l’ancien service worker sur cet appareil.
+   (v283) Le service worker des images (sw-images.js) et son cache « images-v1 » sont épargnés. */
 (function(){try{if(localStorage.getItem("off_clean")==="1")return;
  var jobs=[];
- if(navigator.serviceWorker&&navigator.serviceWorker.getRegistrations)jobs.push(navigator.serviceWorker.getRegistrations().then(function(rs){return Promise.all(rs.map(function(r){return r.unregister()}))}));
- if(window.caches&&caches.keys)jobs.push(caches.keys().then(function(ks){return Promise.all(ks.map(function(k){return caches.delete(k)}))}));
+ if(navigator.serviceWorker&&navigator.serviceWorker.getRegistrations)jobs.push(navigator.serviceWorker.getRegistrations().then(function(rs){return Promise.all(rs.map(function(r){var u=(r.active||r.waiting||r.installing||{}).scriptURL||"";return u.indexOf("sw-images.js")>-1?0:r.unregister()}))}));
+ if(window.caches&&caches.keys)jobs.push(caches.keys().then(function(ks){return Promise.all(ks.map(function(k){return k==="images-v1"?0:caches.delete(k)}))}));
  ["dl_info","dl_hash","dl_check"].forEach(function(k){localStorage.removeItem(k)});
  Promise.all(jobs).then(function(){localStorage.setItem("off_clean","1")}).catch(function(){})}catch(e){}})();
+
+/* ===== Images des cours déjà consultés, gardées sur l’appareil (v283) =====
+   sw-images.js garde chaque image affichée. Ici, une fois par jour au plus et en dehors du mode « économiser les données »,
+   on lui demande aussi de télécharger d’avance l’image de chaque document dont au moins une partie a été ouverte
+   (clé « parts »). Désactivable : localStorage img_offline = "0". */
+(function(){try{
+ if(!navigator.serviceWorker||!window.caches||localStorage.getItem("img_offline")==="0")return;
+ navigator.serviceWorker.register(BASE+"sw-images.js").then(function(){return navigator.serviceWorker.ready}).then(function(reg){
+  var cn=navigator.connection||{};
+  if(cn.saveData||cn.type==="cellular")return;
+  var today=(typeof dayKey==="function")?dayKey():"";
+  if(localStorage.getItem("img_pre")===today)return;
+  setTimeout(function(){try{
+   var parts=ls("parts",{}),seen={},urls=[];
+   ALLDOCS.forEach(function(d){if(parts[d.id]&&parts[d.id].length&&d.img&&!seen[d.img]){seen[d.img]=1;urls.push(d.img)}});
+   if(urls.length&&reg.active){reg.active.postMessage({type:"precache",urls:urls});localStorage.setItem("img_pre",today)}
+  }catch(e){}},4000)
+ }).catch(function(){})}catch(e){}})();
 
 /* ===== Centre de notifications (cloche) =====
    Les notifications sont créées sur l’appareil à l’ouverture de l’application (aucun serveur) et gardées dans « notifs ».

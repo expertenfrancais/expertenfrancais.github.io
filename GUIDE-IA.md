@@ -28,6 +28,7 @@ Si un fichier n'est pas cité pour la tâche, ne l'ouvre pas.
 | `exercices/<cycle>/exercice-<ex>-<titre>.html` | Page de présentation d'une série d'exercices (type `Exercices`) | **NON : générée** par `outils/generer-pages.js` |
 | `programmes/<cycle>/programme-<pg>-<titre>.html` | Page de présentation d'un programme (type `Programmes`) | **NON : générée** par `outils/generer-pages.js` |
 | `evaluations/<cycle>/evaluation-<ev>-<titre>.html` | Page de présentation d'une évaluation (type `Évaluations`) | **NON : générée** par `outils/generer-pages.js` |
+| `sw-images.js` | Service worker des images seulement : garde sur l’appareil les images affichées et celles des cours déjà consultés (cache `images-v1`) | Non |
 | `sw.js` | Désinstalleur de l’ancien mode hors ligne (aucun cache) + numéro `VERSION` (repère de version, lu par `admin.html`) | Seulement `VERSION` |
 | `supabase/` | Scripts SQL (`01-auth.sql`, `02-user-data.sql`, `03-abonnement-codes.sql`, `04-essai-gratuit.sql`) et mode d'emploi (`LISEZMOI.md`) de la base de données | NON, sauf tâche « base de données » demandée |
 | `sitemap.xml`, `robots.txt` | Référencement | **NON : générés** |
@@ -97,7 +98,7 @@ Procédure rodée avec les annales. Chaque type a son dossier, son guide et sa n
 - Ne pas modifier le bloc « Sauvegarde du compte » à la fin de `data.js` (`SYNC_KEYS`, envoi vers `user_data`) ni `login-app.html` sans demande explicite. N'ajouter jamais `bought`, `sub`, `pending` ni `subpending` aux données envoyées à Supabase.
 - Ne jamais demander, afficher ni écrire une clé `service_role` / « secret » Supabase, ni un mot de passe de base ou d'application. Seule la clé publique (`sb_publishable_…`) peut apparaître dans le code.
 - Ne pas remettre de boutons de connexion Google/Apple/Facebook, ni réactiver la confirmation d'e-mail, sans demande explicite.
-- Le mode hors ligne est supprimé (v254) : ne pas ajouter de cache, de service worker qui intercepte les requêtes ni de téléchargement de contenus sans demande explicite.
+- Le mode hors ligne des pages est supprimé (v254) : ne pas ajouter de cache, de service worker qui intercepte les requêtes ni de téléchargement de contenus sans demande explicite. Seule exception, demandée par le propriétaire (v283) : `sw-images.js` garde les IMAGES (jamais les pages ni les contenus) ; ne pas l’étendre au-delà des images.
 - Ne pas ajouter de bibliothèque ni de framework. Le code reste en JavaScript simple (compatible vieux téléphones : pas de syntaxe très récente).
 - Ne pas modifier le comportement du bouton Retour (`course.js`) sauf demande explicite.
 - Ne pas modifier le mois gratuit (`supabase/04-essai-gratuit.sql`, `PLAN_ESSAI`, boîte de bienvenue) sans demande explicite : voir les prompts 20 et 21 de `PROMPTS.md`.
