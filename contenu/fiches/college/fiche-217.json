@@ -1,0 +1,280 @@
+{
+ "id": 10217,
+ "meta": {
+  "t": "La rédaction d’un paragraphe narratif à partir d’un sujet de narration",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "p92",
+  "r": 4.8,
+  "fn": 217,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF6.7.2 : La rédaction d’un paragraphe narratif à partir d’un sujet de narration",
+  "codeMatrice": "MF6.7.2",
+  "categorie": "La production de textes",
+  "savoirEssentiel": "La rédaction d’un paragraphe narratif à partir d’un sujet de narration",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à la rédaction des supports écrits.",
+  "situation": "Guy achète une bande dessinée contenant plusieurs images. Fasciné, il veut rédiger des textes pour les faire parler et faciliter leur compréhension. Malheureusement, il n’en maîtrise pas la technique. Il consulte son ami Abolo qui lui explique la démarche à suivre pour parvenir à la rédaction des textes. Grâce à de nombreux exercices, Guy s’imprègne de la technique et se met à rédiger des textes.",
+  "numero": 80,
+  "date": "",
+  "duree": "2 h",
+  "support": "Sujet écrit au tableau ; tableau noir ; cahier de brouillon et cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.7.2 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Quels sont les temps que l’on emploie pour raconter une histoire au passé ?",
+     "app": "Les apprenants répondent :\nR1 : On emploie l’imparfait et le passé simple."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Cite deux pronoms personnels qui permettent de raconter.",
+     "app": "Les apprenants répondent :\nR2 : Par exemple : je, il, elle, on, ils."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Qu’est-ce qu’un paragraphe ?",
+     "app": "Les apprenants répondent :\nR3 : C’est une partie de texte qui développe une idée et qui commence par un retrait (alinéa)."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Guy, qui a acheté une bande dessinée et qui veut rédiger des textes pour faire parler les images."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Guy rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : Il ne maîtrise pas la technique pour rédiger ces textes."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Guy pour la résoudre ?",
+     "app": "Les apprenants répondent :\nR3 : Il consulte son ami Abolo, qui lui explique la démarche, puis il fait de nombreux exercices."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Guy, nous allons apprendre à rédiger un paragraphe narratif à partir d’un sujet de narration.",
+     "app": "Les apprenants expriment le besoin d’apprendre à rédiger un paragraphe narratif."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le sujet de narration proposé par l’enseignant.",
+    "Présenter la situation initiale (situation de départ, élément déclencheur).",
+    "Utiliser - les pronoms personnels de la 1re et de la 3e personne (je, il, elle, on, ils, elles) pour narrer le récit ; - les temps de narration pour raconter l’histoire (présent, passé simple, imparfait).",
+    "Choisir les personnages (principal et secondaire) qui vont jouer des rôles dans l’histoire à raconter pour faire comprendre et faire connaître aux lecteurs les acteurs du récit.",
+    "Planter un décor pour indiquer le lieu où se déroulent les actions.",
+    "Indiquer le cadre temporel pour préciser au lecteur l’époque où se déroulent les événements.",
+    "Rechercher - les idées sur le sujet ; - l’élément perturbateur (déclencheur) du récit.",
+    "Résoudre le problème en proposant une solution.",
+    "Présenter - les idées (le récit) de façon chronologique (l’enchaînement des idées) ; - le dénouement du récit.",
+    "Proposer une conclusion en donnant son opinion sur le récit.",
+    "Rédiger le texte narratif en neuf phrases au moins en utilisant ses différentes caractéristiques."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le sujet au tableau et demande de le lire silencieusement.\nQ1 : Que demande le sujet ?",
+     "texte": "Un matin, en allant à l’école, tu trouves un portefeuille par terre. Raconte la suite de l’histoire.",
+     "app": "Les apprenants lisent le sujet, puis répondent.\nR1 : Il demande de raconter ce qui se passe après la découverte d’un portefeuille sur le chemin de l’école."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant explique que la situation initiale dit qui, où, quand, avant que l’histoire commence.\nQ2 : Comment peut-on commencer l’histoire ?\nQ3 : Quel événement déclenche l’histoire ?",
+     "app": "Les apprenants proposent des débuts, puis choisissent le meilleur.\nR2 : Un matin, je marchais vers l’école avec un ami.\nR3 : L’élément déclencheur est la découverte du portefeuille."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de choisir la personne et les temps du récit.\nQ4 : Quel pronom choisis-tu pour raconter : je ou il ?\nQ5 : Quels temps emploie-t-on pour raconter l’histoire ?",
+     "app": "Les apprenants discutent, puis choisissent.\nR4 : Je choisis « je » (1re personne) ou « il » (3e personne), mais je garde le même pronom jusqu’à la fin.\nR5 : On emploie l’imparfait pour décrire et le passé simple pour les actions (ou le présent de narration)."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de choisir les personnages.\nQ6 : Quel est le personnage principal ? Quel personnage secondaire peut intervenir ?",
+     "app": "Les apprenants proposent des personnages.\nR6 : Le personnage principal est « je » ; les personnages secondaires peuvent être Brice, un ami, le directeur, le propriétaire du portefeuille."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de planter le décor.\nQ7 : Où se passe l’action ?",
+     "app": "Les apprenants décrivent le lieu en une ou deux phrases.\nR7 : Sur la route de l’école de Makélékélé, près d’un caniveau, dans une rue pleine d’élèves."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’indiquer le cadre temporel.\nQ8 : Quand l’histoire se passe-t-elle ?",
+     "app": "Les apprenants indiquent le moment.\nR8 : Un matin de septembre, au lever du soleil."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de rechercher les idées, puis l’élément perturbateur.\nQ9 : Quelles idées viennent avec ce sujet ?\nQ10 : Quel est le problème posé au personnage ?",
+     "app": "Les apprenants cherchent les idées au brouillon, puis les présentent.\nR9 : Le contenu du portefeuille, le conseil de l’ami, la peur, la décision, le directeur, le propriétaire.\nR10 : Que faire du portefeuille : le garder ou le rendre ?"
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de résoudre le problème.\nQ11 : Quelle solution proposes-tu ?",
+     "app": "Les apprenants proposent des solutions et en choisissent une.\nR11 : Rendre le portefeuille en l’apportant au directeur de l’école."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande de présenter les idées dans l’ordre où elles se passent, puis le dénouement.\nQ12 : Dans quel ordre racontes-tu les faits ?\nQ13 : Comment l’histoire se termine-t-elle ?",
+     "app": "Les apprenants ordonnent leurs idées avec des mots de liaison (soudain, puis, alors…).\nR12 : Je trouve le portefeuille, je l’ouvre, mon ami me conseille, je refuse, nous allons chez le directeur.\nR13 : Le propriétaire arrive, il nous remercie et nous offre des cahiers."
+    },
+    {
+     "a": 10,
+     "ens": "L’enseignant demande de proposer une conclusion.\nQ14 : Que penses-tu de cette histoire ?",
+     "app": "Les apprenants donnent leur opinion en une phrase.\nR14 : Je suis fier de mon geste, car l’honnêteté est une belle qualité."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La rédaction d’un paragraphe narratif à partir d’un sujet."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les parties d’un récit ?",
+     "app": "Les apprenants répondent :\nR2 : La situation initiale, l’élément perturbateur, les événements, la solution et le dénouement, la conclusion."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Combien de phrases doit contenir le paragraphe ?",
+     "app": "Les apprenants répondent :\nR3 : Neuf phrases au moins."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "action": 11,
+    "item": "Rédige un paragraphe narratif d’au moins neuf phrases sur le sujet suivant, en utilisant le passé simple et l’imparfait.",
+    "situation": "Tu t’entraînes avec Guy et Abolo à rédiger un récit.",
+    "criteres": [
+     "Il présente la situation initiale (qui, où, quand).",
+     "Il présente un élément perturbateur clair.",
+     "Il emploie le même pronom (je ou il) du début à la fin.",
+     "Il emploie correctement l’imparfait et le passé simple.",
+     "Il présente les faits dans l’ordre, avec une solution et un dénouement.",
+     "Il propose une conclusion avec son opinion.",
+     "Il écrit au moins neuf phrases correctes (majuscules, points, orthographe)."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le sujet au tableau et donne l’item : travail individuel sur la feuille de copie, après un brouillon.",
+     "app": "Chaque apprenant travaille seul et répond par écrit sur sa feuille.",
+     "texte": "Pendant les vacances, tu te perds dans le marché de Poto-Poto. Raconte ce qui t’arrive."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : La rédaction d’un paragraphe narratif à partir d’un sujet de narration",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Un paragraphe narratif raconte une histoire : des personnages vivent des événements dans un lieu et à un moment précis."
+   },
+   {
+    "type": "h",
+    "text": "1- Les étapes pour rédiger"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Lire le sujet et chercher ce qu’il demande.",
+     "Présenter la situation initiale : qui, où, quand.",
+     "Choisir un pronom (je ou il) et garder les mêmes temps : imparfait pour décrire, passé simple pour les actions.",
+     "Introduire l’élément perturbateur : ce qui change tout.",
+     "Résoudre le problème et dire comment l’histoire se termine.",
+     "Écrire une conclusion avec son opinion."
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Les mots utiles"
+   },
+   {
+    "type": "ex",
+    "text": "Un matin ; ce jour-là ; soudain ; alors ; puis ; enfin ; le lendemain."
+   },
+   {
+    "type": "nb",
+    "text": "Il faut écrire au moins neuf phrases et présenter les faits dans l’ordre où ils se passent."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Un récit commence par une situation initiale et un décor.",
+     "Un élément perturbateur lance l’histoire.",
+     "On raconte avec les mêmes pronoms et les temps du passé.",
+     "On termine par un dénouement et une conclusion."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Exemple de paragraphe rédigé",
+    "text": "Un matin de septembre, je marchais vers l’école de Makélékélé avec mon ami Brice. Le soleil se levait et la rue était pleine d’élèves. Soudain, je vis un portefeuille noir près d’un caniveau. Je le ramassai et je l’ouvris : il contenait de l’argent et une carte au nom de monsieur Okemba. Brice me conseilla de garder l’argent, mais je refusai. Nous partîmes en courant jusqu’au bureau du directeur. Celui-ci téléphona au propriétaire, qui arriva en quelques minutes. Monsieur Okemba nous remercia chaleureusement et nous offrit des cahiers. Je suis fier de mon geste, car l’honnêteté est une belle qualité."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je relève dans le texte modèle.",
+    "items": [
+     "Le pronom utilisé pour raconter.",
+     "Le moment et le lieu de l’histoire.",
+     "L’élément perturbateur."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je mets les phrases dans l’ordre pour former un récit.",
+    "texte": "Phrases : A) Soudain, un chien noir surgit de la cour. B) Un soir, je rentrais de l’école avec mon frère. C) Nous courûmes jusqu’à la maison. D) Depuis ce soir-là, je traverse la rue avec prudence.",
+    "items": [
+     "La phrase qui présente la situation initiale.",
+     "La phrase qui présente l’élément perturbateur.",
+     "La phrase qui présente la suite des actions.",
+     "La phrase de conclusion."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’écris le début d’un récit.",
+    "texte": "Sujet : Un jour, ta mère te demande d’acheter du pain à la boutique, mais tu perds l’argent en chemin.",
+    "items": [
+     "J’écris deux phrases pour la situation initiale.",
+     "J’écris une phrase pour l’élément perturbateur.",
+     "J’écris une phrase pour la solution."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : le pronom : « je » ; le moment : un matin de septembre ; le lieu : la route de l’école de Makélékélé ; l’élément perturbateur : la découverte du portefeuille.",
+  "Exercice 2 : situation initiale : B ; élément perturbateur : A ; suite des actions : C ; conclusion : D. Ordre : B, A, C, D.",
+  "Exercice 3 : réponses libres à condition de respecter la consigne. Exemple : Un samedi matin, ma mère me confia dix pièces pour acheter du pain. J’allais à la boutique en chantant. Soudain, je m’aperçus que mon argent avait disparu. Je retournai sur mes pas et je le retrouvai dans l’herbe.",
+  "Paragraphe modèle (sujet de la séance) : Un matin de septembre, je marchais vers l’école de Makélékélé avec mon ami Brice. Le soleil se levait et la rue était pleine d’élèves. Soudain, je vis un portefeuille noir près d’un caniveau. Je le ramassai et je l’ouvris : il contenait de l’argent et une carte au nom de monsieur Okemba. Brice me conseilla de garder l’argent, mais je refusai. Nous partîmes en courant jusqu’au bureau du directeur. Celui-ci téléphona au propriétaire, qui arriva en quelques minutes. Monsieur Okemba nous remercia chaleureusement et nous offrit des cahiers. Je suis fier de mon geste, car l’honnêteté est une belle qualité.",
+  "Évaluation : voir les critères de l’étape 5. Barème sur 10 : situation initiale 1, élément perturbateur 1, pronom constant 1, temps 2, ordre des faits 1, solution et dénouement 1, conclusion 1, neuf phrases au moins et orthographe 2."
+ ]
+}

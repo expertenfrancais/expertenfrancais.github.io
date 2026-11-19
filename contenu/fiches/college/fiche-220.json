@@ -1,0 +1,299 @@
+{
+ "id": 10220,
+ "meta": {
+  "t": "L’analyse du sujet et la recherche des idées (séance 2)",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "p94",
+  "r": 4.8,
+  "fn": 220,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF6.7.1 : L’analyse du sujet et la recherche des idées (séance 2)",
+  "codeMatrice": "MF6.7.1",
+  "categorie": "La méthodologie de la rédaction",
+  "savoirEssentiel": "L’analyse du sujet et la recherche des idées",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie des savoirs essentiels relative à l’application de la méthodologie de la rédaction.",
+  "situation": "Mireille veut passer un test dans une société de la place pour être technicienne de surface. Elle est tendue parce que le test porte sur un sujet de rédaction dont elle ne maîtrise pas la méthodologie. Sa sœur Magalie, préoccupée par cette situation, lui propose des sujets de rédaction des anciennes sessions du CEPE afin qu’elles les traitent ensemble. Elle lui donne ensuite un autre sujet sur lequel Mireille va travailler en suivant la démarche apprise. Après ces séances, la future technicienne de surface se met à traiter d’autres sujets pour mieux assimiler la méthodologie.",
+  "numero": 83,
+  "date": "",
+  "duree": "2 h",
+  "support": "Sujet écrit au tableau ; tableau noir ; cahier de brouillon et cahier de l’élève",
+  "documentation": "Programme APS 6e, matrice MF6.7.1 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un sujet de rédaction ?",
+     "app": "Les apprenants répondent :\nR1 : C’est la consigne qui dit sur quoi on doit écrire."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un verbe de consigne ? Donne un exemple.",
+     "app": "Les apprenants répondent :\nR2 : C’est le verbe qui dit ce qu’il faut faire : raconte, décris, explique."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Pourquoi faut-il bien lire un sujet avant d’écrire ?",
+     "app": "Les apprenants répondent :\nR3 : Pour savoir ce qui est demandé et ne pas écrire à côté du sujet."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Mireille, qui veut passer un test pour être technicienne de surface."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Mireille rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle ne maîtrise pas la méthodologie du sujet de rédaction."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Magalie pour l’aider ?",
+     "app": "Les apprenants répondent :\nR3 : Sa sœur Magalie lui propose des sujets des anciennes sessions du CEPE à traiter ensemble."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Mireille, nous allons apprendre à analyser un sujet et à chercher des idées.",
+     "app": "Les apprenants expriment le besoin d’apprendre à analyser un sujet et à chercher des idées."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le sujet proposé par l’enseignant.",
+    "Délimiter le sujet.",
+    "Souligner les mots importants du sujet.",
+    "Expliquer les mots importants soulignés.",
+    "Dégager le thème/l’idée générale du sujet.",
+    "Examiner la consigne du sujet (que demande la consigne ?).",
+    "Définir l’objectif (décrire, raconter, informer, convaincre…).",
+    "Rechercher les idées ou les informations nécessaires pour traiter le sujet.",
+    "Ordonner les idées selon leur importance.",
+    "Bâtir le plan par rapport à la consigne."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit le sujet au tableau et demande de le lire silencieusement, puis à voix haute.",
+     "texte": "Ton école organise une journée de nettoyage de la cour. Raconte comment cette journée s’est passée.",
+     "app": "Les apprenants lisent le sujet silencieusement, puis à voix haute."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de délimiter le sujet.\nQ1 : De quoi parle le sujet ? Quel lieu, quel moment, quels personnages ?",
+     "app": "Les apprenants repèrent les limites du sujet.\nR1 : Il parle d’une journée de nettoyage de la cour de l’école ; les personnages sont les élèves et les maîtres."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande de souligner les mots importants.\nQ2 : Quels sont les mots importants du sujet ?",
+     "app": "Les apprenants soulignent dans leur cahier.\nR2 : école ; journée de nettoyage ; cour ; Raconte ; comment cette journée s’est passée."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande d’expliquer les mots soulignés.\nQ3 : Que signifie « une journée de nettoyage » ?\nQ4 : Que signifie « Raconte » ?",
+     "app": "Les apprenants expliquent avec leurs mots.\nR3 : C’est un jour où tous nettoient ensemble un lieu pour le rendre propre.\nR4 : Raconter, c’est dire des événements dans l’ordre où ils se sont passés."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de dégager le thème.\nQ5 : Quelle est l’idée générale du sujet ?",
+     "app": "Les apprenants formulent l’idée générale.\nR5 : Une journée de travail en commun pour nettoyer l’école."
+    },
+    {
+     "a": 6,
+     "ens": "L’enseignant demande d’examiner la consigne.\nQ6 : Que demande la consigne ?",
+     "app": "Les apprenants relisent la consigne.\nR6 : Elle demande de raconter le déroulement de la journée, du début à la fin."
+    },
+    {
+     "a": 7,
+     "ens": "L’enseignant demande de définir l’objectif.\nQ7 : Faut-il décrire, raconter, informer ou convaincre ?",
+     "app": "Les apprenants choisissent l’objectif.\nR7 : Il faut raconter."
+    },
+    {
+     "a": 8,
+     "ens": "L’enseignant demande de rechercher les idées.\nQ8 : Que peut-il se passer pendant cette journée ?",
+     "app": "Les apprenants cherchent au brouillon, puis proposent leurs idées.\nR8 : L’arrivée des élèves ; la distribution des balais ; le ramassage des déchets ; l’arrosage des fleurs ; le goûter ; le bilan avec le directeur."
+    },
+    {
+     "a": 9,
+     "ens": "L’enseignant demande d’ordonner les idées selon leur importance et leur déroulement.\nQ9 : Dans quel ordre présenter ces idées ?",
+     "app": "Les apprenants numérotent leurs idées.\nR9 : 1. L’arrivée et la distribution des tâches. 2. Le travail. 3. Le goûter. 4. Le bilan du directeur."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : L’analyse du sujet et la recherche des idées."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles sont les étapes de l’analyse d’un sujet ?",
+     "app": "Les apprenants répondent :\nR2 : Lire, délimiter, souligner et expliquer les mots importants, dégager le thème, examiner la consigne, définir l’objectif."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait-on après l’analyse ?",
+     "app": "Les apprenants répondent :\nR3 : On cherche les idées, on les ordonne, puis on bâtit le plan."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "action": 10,
+    "item": "Analyse le sujet, cherche au moins quatre idées, ordonne-les et bâtis le plan (introduction, développement, conclusion).",
+    "situation": "Tu t’entraînes avec Mireille à traiter un sujet de rédaction.",
+    "criteres": [
+     "Il souligne les mots importants (week-end, oncle, Pointe-Noire, Raconte, ce que tu as fait).",
+     "Il indique l’objectif : raconter.",
+     "Il trouve au moins quatre idées en rapport avec le sujet.",
+     "Il ordonne les idées dans l’ordre chronologique.",
+     "Il bâtit un plan avec introduction, développement en parties et conclusion."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le sujet au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "app": "Chaque apprenant travaille seul et répond par écrit sur sa feuille.",
+     "texte": "Tu as passé un week-end chez ton oncle à Pointe-Noire. Raconte ce que tu as fait."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : L’analyse du sujet et la recherche des idées (séance 2)",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Analyser un sujet, c’est comprendre ce qui est demandé avant d’écrire. Ensuite, on cherche des idées, on les ordonne et on fait un plan."
+   },
+   {
+    "type": "h",
+    "text": "1- Les étapes de l’analyse"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Lire le sujet deux fois.",
+     "Délimiter le sujet : lieu, moment, personnages.",
+     "Souligner et expliquer les mots importants.",
+     "Dégager le thème (l’idée générale).",
+     "Examiner la consigne : que demande-t-on ?",
+     "Définir l’objectif : décrire, raconter, informer ou convaincre."
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Chercher et ordonner les idées"
+   },
+   {
+    "type": "p",
+    "text": "On note au brouillon toutes les idées qui viennent, on garde celles qui répondent au sujet, puis on les classe dans l’ordre."
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Étape",
+     "Exemple pour le sujet de la séance"
+    ],
+    "rows": [
+     [
+      "Mots importants",
+      "journée de nettoyage ; cour ; Raconte"
+     ],
+     [
+      "Objectif",
+      "Raconter"
+     ],
+     [
+      "Idées ordonnées",
+      "arrivée ; travail ; goûter ; bilan"
+     ],
+     [
+      "Plan",
+      "Introduction ; développement ; conclusion"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Mots importants du sujet : journée de nettoyage ; cour ; raconte."
+   },
+   {
+    "type": "nb",
+    "text": "Une idée qui ne répond pas à la consigne doit être écartée."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "On analyse le sujet avant d’écrire.",
+     "Les mots importants et la consigne indiquent l’objectif.",
+     "On cherche les idées, on les ordonne et on bâtit le plan."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Sujet étudié",
+    "text": "Ton école organise une journée de nettoyage de la cour. Raconte comment cette journée s’est passée."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je souligne les mots importants et je donne l’objectif.",
+    "items": [
+     "Décris le marché de ton quartier un samedi matin.",
+     "Raconte la visite d’un parent à ton école.",
+     "Explique pourquoi il faut protéger le fleuve Congo."
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je range ces idées dans l’ordre pour le sujet : Raconte ta journée de fête de fin d’année.",
+    "texte": "Idées : A) Le goûter et les cadeaux. B) Le réveil et la préparation. C) Le retour à la maison. D) Les chants et les danses à l’école.",
+    "items": [
+     "Première idée.",
+     "Deuxième idée.",
+     "Troisième idée.",
+     "Quatrième idée."
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je bâtis le plan d’un sujet.",
+    "texte": "Sujet : Raconte un voyage que tu as fait en train ou en bus.",
+    "items": [
+     "J’écris l’objectif du sujet.",
+     "Je note quatre idées.",
+     "J’écris le plan : introduction, développement, conclusion."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : 1. marché ; quartier ; samedi matin ; objectif : décrire. 2. visite ; parent ; école ; objectif : raconter. 3. pourquoi ; protéger ; fleuve Congo ; objectif : expliquer (informer).",
+  "Exercice 2 : 1. B ; 2. D ; 3. A ; 4. C.",
+  "Exercice 3 : objectif : raconter ; exemples d’idées : le départ, le paysage, un incident, l’arrivée ; plan : introduction (quand et avec qui), développement (départ, trajet, incident), conclusion (souvenir et opinion). Réponses libres si elles respectent le sujet.",
+  "Évaluation : mots importants : week-end, oncle, Pointe-Noire, Raconte ; objectif : raconter ; idées possibles : le voyage, l’accueil de l’oncle, la visite de la plage, un repas en famille, le retour ; plan : introduction, développement (3 parties chronologiques), conclusion. Barème : 1 point par mot-clé, 1 pour l’objectif, 2 pour les idées, 1 pour l’ordre, 2 pour le plan."
+ ]
+}

@@ -1,0 +1,301 @@
+{
+ "id": 10215,
+ "meta": {
+  "t": "Le schéma actanciel",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Lecture",
+  "img": "p64",
+  "r": 4.8,
+  "fn": 215,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Lecture",
+  "titre": "Fiche d’exploitation de la matrice MF6.1.5 : Le schéma actanciel",
+  "codeMatrice": "MF6.1.5",
+  "categorie": "La construction de sens d’une œuvre intégrale",
+  "savoirEssentiel": "Le schéma actanciel (résumé schématique de l’œuvre)",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations qui font appel à la catégorie de savoir essentiel relative à la construction de sens d’une œuvre intégrale.",
+  "situation": "Lors d’un passage à l’Institut français, Magnou a été émerveillée par la manière dont un lecteur a fait le compte rendu de sa lecture du Cid de Corneille. Elle aimerait en faire autant pour parler du roman qu’elle a reçu pour son anniversaire, L’Affaire du silure, de Guy Menga. Comme elle ne peut pas construire le sens de l’œuvre intégrale, elle sollicite l’aide de son père qui, en lui faisant faire une série d’exercices, lui explique quels sont les éléments qui participent à la construction du sens dans l’étude d’une œuvre littéraire. Ensemble, ils se mettent à les analyser. Après cet entraînement, Magnou est appelée à construire le sens du roman en analysant les indices utilisés par l’auteur.",
+  "numero": 78,
+  "date": "",
+  "duree": "2 h",
+  "support": "Résumé de l’œuvre écrit au tableau ; tableau noir ; cahier de l’élève ; œuvre d’entraînement imaginaire (à remplacer par l’œuvre étudiée en classe)",
+  "documentation": "Programme APS 6e, matrice MF6.1.5 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Dans le roman « La Pirogue de Nkaya », qui est le personnage principal ?",
+     "app": "Les apprenants répondent :\nR1 : Le personnage principal est Nkaya, une fille de douze ans."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quel est le thème principal du roman ?",
+     "app": "Les apprenants répondent :\nR2 : Le thème principal est la justice : la vérité finit par triompher."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Bantsimba aide Nkaya et Mavoungou lui crée des difficultés. Quel nom donne-t-on à chacun de ces deux rôles ?",
+     "app": "Les apprenants répondent :\nR3 : Bantsimba est un adjuvant (il aide). Mavoungou est un opposant (il s’oppose à l’héroïne)."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Magnou, qui voudrait faire le compte rendu du roman « L’Affaire du silure », comme un lecteur l’a fait pour « Le Cid »."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Magnou rencontre-t-elle ?",
+     "app": "Les apprenants répondent :\nR2 : Elle ne sait pas construire le sens d’une œuvre intégrale."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Magnou pour résoudre cette difficulté ?",
+     "app": "Les apprenants répondent :\nR3 : Elle demande l’aide de son père, qui lui fait faire des exercices sur les éléments qui construisent le sens d’une œuvre."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Magnou, nous allons apprendre à résumer une œuvre sous forme de schéma, le schéma actanciel.",
+     "app": "Les apprenants expriment le besoin d’apprendre à élaborer le schéma actanciel d’une œuvre."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Rappeler - le héros de l’histoire (le personnage principal) ; - le thème principal ou le sujet dont il est question ; - les thèmes secondaires.",
+    "Dégager l’objet (l’objectif que le héros veut atteindre).",
+    "Indiquer - le destinateur (celui qui fait faire ou qui fait agir le héros ou le personnage principal) ; - le destinataire (le bénéficiaire de la quête ou de l’objet) ; - les opposants (les adversaires qui entravent l’action du héros) ; - les adjuvants (ceux qui aident le héros à atteindre son but).",
+    "Élaborer le schéma actanciel à partir des éléments trouvés.",
+    "Rappeler les différentes étapes suivies pour élaborer le schéma actanciel.",
+    "Appliquer la démarche suivie à une autre œuvre écrite par le même ou un autre auteur."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant écrit au tableau le résumé du roman et le fait lire silencieusement, puis demande de rappeler les éléments déjà étudiés.\nQ1 : Qui est le héros de l’histoire ?\nQ2 : Quel est le thème principal ?\nQ3 : Quels sont les thèmes secondaires ?",
+     "texte": "Nkaya, douze ans, vit à Mossaka, village de pêcheurs au bord du fleuve Congo. La veille de la saison de pêche, la pirogue de son grand-père, Tata Ngoyi, a disparu. Nkaya veut la retrouver pour que le vieil homme et tout le village puissent pêcher. Son ami Bantsimba et la maîtresse, Mama Ossété, l’aident à lire les indices. Le commerçant Mavoungou et ses ouvriers, Kiala et Zéphyrin, l’en empêchent, car ils ont caché la pirogue pour garder le meilleur coin de pêche. Nkaya retrouve la pirogue dans les roseaux et dit la vérité devant le village. Mavoungou avoue et le coin de pêche est partagé.",
+     "app": "Les apprenants lisent le résumé, puis répondent en s’aidant de leurs notes.\nR1 : Le héros est Nkaya, le personnage principal.\nR2 : Le thème principal est la justice.\nR3 : Les thèmes secondaires sont la solidarité du village, le respect des anciens, l’avidité du commerçant, l’amitié et le courage."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant explique que l’objet est ce que le héros veut atteindre, puis pose les questions :\nQ4 : Que veut obtenir Nkaya pendant toute l’histoire ?\nQ5 : Comment appelle-t-on ce que le héros veut atteindre ?",
+     "app": "Les apprenants cherchent la réponse dans le résumé, puis répondent.\nR4 : Nkaya veut retrouver la pirogue de son grand-père.\nR5 : On l’appelle l’objet (la quête du héros)."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant explique les quatre rôles : le destinateur fait agir le héros ; le destinataire profite de la quête ; l’opposant gêne le héros ; l’adjuvant l’aide. Il demande de les identifier.\nQ6 : Qui, ou quoi, pousse Nkaya à agir ?\nQ7 : Qui profite de la quête de Nkaya ?\nQ8 : Qui s’oppose à Nkaya ?\nQ9 : Qui aide Nkaya ?",
+     "app": "Les apprenants relèvent les noms dans le résumé et justifient chaque réponse.\nR6 : Son attachement à Tata Ngoyi et la menace qui pèse sur la saison de pêche (destinateur).\nR7 : Tata Ngoyi et tout le village (destinataires).\nR8 : Mavoungou, Kiala et Zéphyrin (opposants).\nR9 : Bantsimba et Mama Ossété (adjuvants)."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant dessine le cadre du schéma au tableau et demande de le compléter.\nQ10 : Comment placer les six éléments trouvés dans le schéma ?",
+     "texte": "Destinateur : … → Objet : … → Destinataire : …\nAdjuvants : … → Héros : … ← Opposants : …",
+     "app": "Les apprenants complètent le schéma sur leur cahier, puis un apprenant vient le compléter au tableau.\nR10 : Destinateur : l’attachement à Tata Ngoyi → Objet : retrouver la pirogue → Destinataire : Tata Ngoyi et le village ; Adjuvants : Bantsimba, Mama Ossété → Héros : Nkaya ← Opposants : Mavoungou, Kiala, Zéphyrin."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant demande de rappeler la démarche suivie.\nQ11 : Quelles étapes avons-nous suivies pour élaborer le schéma actanciel ?",
+     "app": "Les apprenants rappellent la démarche dans l’ordre.\nR11 : 1) Rappeler le héros et les thèmes. 2) Dégager l’objet. 3) Indiquer le destinateur, le destinataire, les opposants et les adjuvants. 4) Construire le schéma avec ces éléments."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : Le schéma actanciel d’une œuvre."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce que le schéma actanciel ?",
+     "app": "Les apprenants répondent :\nR2 : C’est le résumé schématique d’une œuvre : il montre qui veut quoi, qui l’aide et qui s’y oppose."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels sont les éléments du schéma actanciel ?",
+     "app": "Les apprenants répondent :\nR3 : Le héros, l’objet, le destinateur, le destinataire, les opposants et les adjuvants."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "action": 6,
+    "item": "Lis le résumé de ce conte, puis élabore son schéma actanciel : indique le héros, l’objet, le destinateur, le destinataire, un opposant et un adjuvant.",
+    "situation": "Tu aides Magnou à s’entraîner sur une autre histoire avant de faire le compte rendu de son roman.",
+    "criteres": [
+     "Il identifie le héros : Moyo.",
+     "Il dégage l’objet : rapporter les feuilles qui guérissent Léa.",
+     "Il indique le destinateur (la mère inquiète ou la maladie de Léa) et le destinataire (Léa).",
+     "Il cite au moins un opposant (Ngoma) et un adjuvant (Tsiba ou Bola).",
+     "Il présente ces éléments sous la forme d’un schéma lisible."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit le résumé du conte au tableau et donne l’item : travail individuel sur la feuille de copie.\nIl rappelle que cette consigne applique la démarche à une autre histoire.",
+     "app": "Chaque apprenant lit le résumé et élabore le schéma actanciel sur sa feuille.",
+     "texte": "Moyo, un garçon de Ouesso, veut rapporter de la forêt les feuilles qui guérissent sa petite sœur Léa. C’est sa mère, très inquiète, qui l’envoie. Sur le chemin, le chasseur Ngoma, jaloux, lui barre la route et lui dit que ces feuilles sont interdites. Le vieux Tsiba, un guérisseur, lui montre le bon sentier. Sa chienne Bola l’accompagne et le protège. Moyo rapporte les feuilles et Léa guérit."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient le bon schéma."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Lecture : Le schéma actanciel (résumé schématique de l’œuvre)",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Le schéma actanciel est le résumé schématique d’une œuvre. Il montre qui veut quoi, qui l’y pousse, qui en profite, qui l’aide et qui s’y oppose."
+   },
+   {
+    "type": "h",
+    "text": "1- Les éléments du schéma"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Le héros : le personnage principal, celui qui agit.",
+     "L’objet : ce que le héros veut atteindre (son but, sa quête).",
+     "Le destinateur : celui ou ce qui fait agir le héros.",
+     "Le destinataire : celui qui profite de la quête.",
+     "Les opposants : les adversaires qui gênent le héros.",
+     "Les adjuvants : ceux qui aident le héros à atteindre son but."
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Le schéma de « La Pirogue de Nkaya »"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Élément",
+     "Dans le roman"
+    ],
+    "rows": [
+     [
+      "Héros",
+      "Nkaya"
+     ],
+     [
+      "Objet",
+      "retrouver la pirogue de Tata Ngoyi"
+     ],
+     [
+      "Destinateur",
+      "l’attachement à Tata Ngoyi et la menace sur la saison de pêche"
+     ],
+     [
+      "Destinataire",
+      "Tata Ngoyi et tout le village"
+     ],
+     [
+      "Opposants",
+      "Mavoungou, Kiala, Zéphyrin"
+     ],
+     [
+      "Adjuvants",
+      "Bantsimba, Mama Ossété"
+     ]
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Destinateur → Objet → Destinataire\nAdjuvants → Héros ← Opposants"
+   },
+   {
+    "type": "h",
+    "text": "3- La démarche à suivre"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Rappeler le héros, le thème principal et les thèmes secondaires.",
+     "Dégager l’objet : que veut le héros ?",
+     "Indiquer le destinateur, le destinataire, les opposants et les adjuvants.",
+     "Construire le schéma avec tous ces éléments.",
+     "Appliquer la même démarche à une autre œuvre."
+    ]
+   },
+   {
+    "type": "nb",
+    "text": "Un même personnage ne peut pas être à la fois adjuvant et opposant du héros dans le même passage. Un schéma n’est pas un résumé : on y met seulement les noms et les mots essentiels."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "Le schéma actanciel résume une œuvre en six éléments.",
+     "Le héros veut atteindre un objet.",
+     "Le destinateur le fait agir ; le destinataire profite de sa quête.",
+     "Les adjuvants l’aident ; les opposants le gênent."
+    ]
+   },
+   {
+    "type": "texte",
+    "titre": "Résumé de l’œuvre d’entraînement",
+    "text": "Nkaya, douze ans, vit à Mossaka, village de pêcheurs au bord du fleuve Congo. La veille de la saison de pêche, la pirogue de son grand-père, Tata Ngoyi, a disparu. Nkaya veut la retrouver pour que le vieil homme et tout le village puissent pêcher. Son ami Bantsimba et la maîtresse, Mama Ossété, l’aident à lire les indices. Le commerçant Mavoungou et ses ouvriers, Kiala et Zéphyrin, l’en empêchent, car ils ont caché la pirogue pour garder le meilleur coin de pêche. Nkaya retrouve la pirogue dans les roseaux et dit la vérité devant le village. Mavoungou avoue et le coin de pêche est partagé."
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je donne le rôle de chaque personnage de « La Pirogue de Nkaya ».",
+    "texte": "Choix : héros ; adjuvant ; opposant ; destinataire.",
+    "items": [
+     "Nkaya",
+     "Bantsimba",
+     "Mavoungou",
+     "Tata Ngoyi"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète le schéma actanciel du roman avec les mots qui conviennent.",
+    "texte": "Choix : Mama Ossété ; Kiala ; retrouver la pirogue ; le village.",
+    "items": [
+     "Objet : …",
+     "Destinataire : Tata Ngoyi et …",
+     "Adjuvants : Bantsimba et …",
+     "Opposants : Mavoungou, Zéphyrin et …"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : J’élabore le schéma actanciel de cette histoire.",
+    "texte": "Sita, onze ans, veut creuser un puits dans son quartier, car des enfants tombent malades à cause de l’eau sale. Son oncle Moké, un maçon, lui apprend à construire. Le chef du quartier, Bakala, refuse d’abord de donner l’autorisation. À la fin, les voisins viennent aider et les enfants boivent une eau propre.",
+    "items": [
+     "Le héros",
+     "L’objet",
+     "Le destinateur",
+     "Le destinataire",
+     "Un opposant",
+     "Un adjuvant"
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : Nkaya : héros ; Bantsimba : adjuvant ; Mavoungou : opposant ; Tata Ngoyi : destinataire.",
+  "Exercice 2 : Objet : retrouver la pirogue ; Destinataire : Tata Ngoyi et le village ; Adjuvants : Bantsimba et Mama Ossété ; Opposants : Mavoungou, Zéphyrin et Kiala.",
+  "Exercice 3 : Héros : Sita ; objet : creuser un puits ; destinateur : la maladie des enfants (l’eau sale) ; destinataire : les enfants et le quartier ; opposant : Bakala (le chef du quartier) ; adjuvant : Moké (l’oncle maçon) ou les voisins.",
+  "Évaluation : héros : Moyo ; objet : rapporter les feuilles qui guérissent Léa ; destinateur : la mère inquiète (ou la maladie de Léa) ; destinataire : Léa ; opposant : Ngoma ; adjuvants : Tsiba et Bola. Barème : un point par élément juste (6 points) et un point pour la présentation en schéma.",
+  "Remarque : le roman « La Pirogue de Nkaya » est une œuvre d’entraînement imaginaire, écrite pour cette fiche ; l’enseignant la remplace par l’œuvre étudiée en classe."
+ ]
+}

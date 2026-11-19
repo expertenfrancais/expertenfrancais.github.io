@@ -1,0 +1,285 @@
+{
+ "id": 10218,
+ "meta": {
+  "t": "La fiche de lecture",
+  "k": "Fiches",
+  "n": "6e",
+  "m": "Expression écrite",
+  "img": "p93",
+  "r": 4.8,
+  "fn": 218,
+  "ap": "APS"
+ },
+ "type": "fiche",
+ "approche": "APS",
+ "entete": {
+  "niveau": "6e",
+  "discipline": "Français",
+  "sousDiscipline": "Expression écrite",
+  "titre": "Fiche d’exploitation de la matrice MF6.7.3 : La fiche de lecture",
+  "codeMatrice": "MF6.7.3",
+  "categorie": "La production d’un compte rendu de lecture",
+  "savoirEssentiel": "La fiche de lecture",
+  "competence": "Les apprenants développeront la compétence qui leur permettra de traiter des situations de la catégorie des savoirs essentiels relative à la rédaction d’une fiche de lecture.",
+  "situation": "Ridge organise un club de jeunes lecteurs dans son quartier Ngamoukassa. Il demande à chaque membre de retirer un livre de lecture à la bibliothèque de l’Institut Français du Congo (IFC). L’objectif est de remettre un compte rendu de lecture à la commission évaluation. Lors de la remise des fiches, Don Céleste voit la sienne rejetée pour incohérence de présentation. Pour cette raison, Ridge lui propose des exercices sur la rédaction de la fiche de lecture afin d’améliorer ses performances. Don Céleste est donc amené à rédiger son compte rendu de lecture en mettant en pratique les instructions reçues.",
+  "numero": 81,
+  "date": "",
+  "duree": "1 h",
+  "support": "Livre lu à l’avance ; tableau noir ; cahier de l’élève ; œuvre d’entraînement imaginaire (à remplacer par l’œuvre étudiée en classe)",
+  "documentation": "Programme APS 6e, matrice MF6.7.3 (guide pédagogique)"
+ },
+ "etapes": [
+  {
+   "titre": "1-Vérification des prérequis",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Qu’est-ce qu’un auteur ?",
+     "app": "Les apprenants répondent :\nR1 : C’est la personne qui a écrit le livre."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Qu’est-ce qu’un thème dans une œuvre ?",
+     "app": "Les apprenants répondent :\nR2 : C’est l’idée principale dont parle l’œuvre."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Quels sont les éléments qui permettent de situer une histoire ?",
+     "app": "Les apprenants répondent :\nR3 : Ce sont l’espace (le lieu) et le temps (l’époque)."
+    }
+   ]
+  },
+  {
+   "titre": "2-Décodage de la situation d’apprentissage",
+   "lignes": [
+    {
+     "ens": "L’enseignant présente la situation d’apprentissage (écrite au tableau), la fait lire, puis la lit avec les apprenants.",
+     "app": "Les apprenants lisent la situation et suivent attentivement."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : De quoi parle-t-on dans cette situation ?",
+     "app": "Les apprenants répondent :\nR1 : On parle de Ridge, qui organise un club de jeunes lecteurs et qui demande un compte rendu de lecture à chaque membre."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelle difficulté Don Céleste rencontre-t-il ?",
+     "app": "Les apprenants répondent :\nR2 : La fiche de Don Céleste est rejetée pour incohérence de présentation."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Que fait Ridge pour l’aider ?",
+     "app": "Les apprenants répondent :\nR3 : Ridge lui propose des exercices sur la rédaction de la fiche de lecture."
+    },
+    {
+     "ens": "L’enseignant conclut : pour aider Don Céleste, nous allons apprendre à rédiger une fiche de lecture.",
+     "app": "Les apprenants expriment le besoin d’apprendre à rédiger une fiche de lecture."
+    }
+   ]
+  },
+  {
+   "titre": "3-Exploitation du tableau de spécification",
+   "specification": [
+    "Lire le livre proposé par l’enseignant.",
+    "Indiquer - le titre du livre lu ; - la date de parution du livre et le nom de la maison d’édition ; - le nombre de pages ; - le nom de l’auteur ; - sa nationalité ; - le genre du texte.",
+    "Identifier - la structure du texte ; - les personnages principaux et secondaires ; - l’espace et le temps de l’action.",
+    "Dégager - le ou les thème(s) abordé(s) dans l’œuvre ; - la thèse de l’auteur ; - la leçon à retenir (l’enseignement tiré).",
+    "Résumer succinctement l’œuvre.",
+    "Rédiger la fiche de lecture."
+   ],
+   "lignes": [
+    {
+     "a": 1,
+     "ens": "L’enseignant rappelle que le livre a été lu avant la séance. Il présente la couverture et la quatrième de couverture.\nQ1 : Quel livre avons-nous lu ?\nQ2 : Qu’est-ce que la quatrième de couverture ?",
+     "texte": "La Pirogue de Nkaya, roman de Daniel Loemba-Matondo (œuvre d’entraînement imaginaire)",
+     "app": "Les apprenants regardent la couverture et répondent.\nR1 : Nous avons lu « La Pirogue de Nkaya ».\nR2 : C’est la dernière page de couverture, qui présente le livre en quelques lignes."
+    },
+    {
+     "a": 2,
+     "ens": "L’enseignant demande de relever les renseignements sur la couverture et dans les premières pages.\nQ3 : Quel est le titre, le nom de l’auteur et sa nationalité ?\nQ4 : Quelle est la date de parution, quelle est la maison d’édition ? Combien de pages ?\nQ5 : À quel genre appartient ce texte ?",
+     "texte": "Titre : La Pirogue de Nkaya\nAuteur : Daniel Loemba-Matondo, congolais\nÉditeur : Les Rives du Congo, 2012\nPages : 96\nGenre : roman pour la jeunesse",
+     "app": "Les apprenants relèvent les renseignements et les recopient dans un tableau.\nR3 : « La Pirogue de Nkaya » ; Daniel Loemba-Matondo ; il est congolais.\nR4 : Parution en 2012, éditions Les Rives du Congo, 96 pages.\nR5 : C’est un roman, donc un récit en prose."
+    },
+    {
+     "a": 3,
+     "ens": "L’enseignant demande d’identifier la structure, les personnages, l’espace et le temps.\nQ6 : Comment le livre est-il organisé ?\nQ7 : Quels sont les personnages principaux et secondaires ?\nQ8 : Où et quand l’histoire se passe-t-elle ?",
+     "app": "Les apprenants identifient les éléments dans leur livre et les notent.\nR6 : Il est divisé en dix chapitres.\nR7 : Le personnage principal est Nkaya ; les secondaires sont Bantsimba, Tata Ngoyi, Mama Ossété et Mavoungou.\nR8 : À Mossaka, au bord du fleuve Congo, en juin, pendant la saison sèche."
+    },
+    {
+     "a": 4,
+     "ens": "L’enseignant demande de dégager les idées de l’œuvre.\nQ9 : Quel est le thème de l’œuvre ?\nQ10 : Que défend l’auteur ?\nQ11 : Quelle leçon retient-on ?",
+     "app": "Les apprenants dégagent les idées en s’appuyant sur la fin du livre.\nR9 : Le thème est la justice.\nR10 : L’auteur pense que la vérité finit par triompher et il condamne l’avidité.\nR11 : Il faut partager, s’entraider et respecter les anciens."
+    },
+    {
+     "a": 5,
+     "ens": "L’enseignant explique qu’un résumé est court et garde l’essentiel.\nQ12 : Raconte l’histoire en quatre phrases.",
+     "app": "Les apprenants rédigent leur résumé au brouillon, puis le lisent.\nR12 : À Mossaka, Nkaya, 12 ans, découvre que la pirogue de son grand-père a disparu la veille de la saison de pêche. Avec son ami Bantsimba et l’aide de sa maîtresse, elle enquête et retrouve la pirogue dans les roseaux. Elle affronte le commerçant Mavoungou, qui avoue l’avoir cachée. Le village décide alors de partager le coin de pêche."
+    }
+   ]
+  },
+  {
+   "titre": "4-Synthèse",
+   "lignes": [
+    {
+     "ens": "L’enseignant pose la question :\nQ1 : Que venons-nous d’étudier ?",
+     "app": "Les apprenants répondent :\nR1 : La fiche de lecture."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ2 : Quelles rubriques contient une fiche de lecture ?",
+     "app": "Les apprenants répondent :\nR2 : Les renseignements sur le livre, la structure, les personnages, l’espace et le temps, les thèmes, la thèse de l’auteur, la leçon et le résumé."
+    },
+    {
+     "ens": "L’enseignant pose la question :\nQ3 : Dans quel ordre présente-t-on la fiche ?",
+     "app": "Les apprenants répondent :\nR3 : Du plus général au plus précis : d’abord le livre, puis l’histoire, enfin le résumé et la leçon."
+    },
+    {
+     "ens": "L’enseignant corrige les réponses et fait retenir la trace écrite.",
+     "app": "Les apprenants recopient la trace écrite dans leurs cahiers."
+    }
+   ]
+  },
+  {
+   "titre": "5-Évaluation",
+   "evaluation": {
+    "mode": "écrit",
+    "action": 6,
+    "item": "Rédige la fiche de lecture du roman imaginaire dont voici les renseignements, en présentant au moins sept éléments.",
+    "situation": "Tu aides Don Céleste à refaire sa fiche de lecture.",
+    "criteres": [
+     "Il indique le titre, l’auteur et sa nationalité.",
+     "Il indique la date de parution, l’éditeur et le nombre de pages.",
+     "Il indique le genre.",
+     "Il identifie les personnages principaux et secondaires.",
+     "Il identifie l’espace et le temps.",
+     "Il dégage le thème (la protection de la nature) et la leçon.",
+     "Il résume l’histoire en trois ou quatre phrases.",
+     "Il présente sa fiche avec ordre et sans erreur grave."
+    ]
+   },
+   "lignes": [
+    {
+     "ens": "L’enseignant écrit les renseignements au tableau et donne l’item : travail individuel sur la feuille de copie.",
+     "app": "Chaque apprenant travaille seul et répond par écrit sur sa feuille.",
+     "texte": "Titre : Le Secret du manguier. Auteur : Daniel Loemba-Matondo, congolais. Parution : 2005, éditions Les Rives du Congo. Nombre de pages : 64. Genre : roman pour la jeunesse. Personnage principal : Mikili, 11 ans ; personnages secondaires : sa sœur Dina, le maire, le vieux jardinier. Lieu : l’école d’un village. Époque : aujourd’hui, pendant la saison des pluies. Histoire : le maire veut abattre le vieux manguier de l’école pour construire un parking. Mikili et ses camarades défendent l’arbre et découvrent qu’il protège une source d’eau. L’arbre est sauvé."
+    },
+    {
+     "ens": "L’enseignant ramasse les copies, fait la correction avec la classe et note les réussites.",
+     "app": "Les apprenants corrigent leurs erreurs et recopient la bonne réponse."
+    }
+   ]
+  }
+ ],
+ "apprenant": {
+  "titre": "Expression écrite : La fiche de lecture",
+  "blocs": [
+   {
+    "type": "def",
+    "text": "Une fiche de lecture est un compte rendu écrit d’un livre lu. Elle présente le livre et son histoire de façon ordonnée."
+   },
+   {
+    "type": "h",
+    "text": "1- Les rubriques d’une fiche de lecture"
+   },
+   {
+    "type": "tableau",
+    "head": [
+     "Rubrique",
+     "Ce qu’on écrit"
+    ],
+    "rows": [
+     [
+      "Le livre",
+      "Titre, genre, date de parution, maison d’édition, nombre de pages"
+     ],
+     [
+      "L’auteur",
+      "Nom et nationalité"
+     ],
+     [
+      "La structure",
+      "Parties ou chapitres"
+     ],
+     [
+      "Les personnages",
+      "Principaux et secondaires"
+     ],
+     [
+      "L’espace et le temps",
+      "Où et quand l’histoire se passe"
+     ],
+     [
+      "Les idées",
+      "Thème, thèse de l’auteur, leçon à retenir"
+     ],
+     [
+      "Le résumé",
+      "L’histoire en trois ou quatre phrases"
+     ]
+    ]
+   },
+   {
+    "type": "h",
+    "text": "2- Exemple : « La Pirogue de Nkaya » (œuvre imaginaire)"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Auteur : Daniel Loemba-Matondo, congolais. Parution : 2012, Les Rives du Congo. 96 pages. Genre : roman pour la jeunesse.",
+     "Structure : dix chapitres.",
+     "Personnages : Nkaya (principal) ; Bantsimba, Tata Ngoyi, Mama Ossété, Mavoungou (secondaires).",
+     "Espace et temps : Mossaka, fleuve Congo ; juin, saison sèche.",
+     "Thème : la justice. Thèse : la vérité finit par triompher. Leçon : il faut partager et s’entraider.",
+     "Résumé : À Mossaka, Nkaya, 12 ans, découvre que la pirogue de son grand-père a disparu la veille de la saison de pêche. Avec son ami Bantsimba et l’aide de sa maîtresse, elle enquête et retrouve la pirogue dans les roseaux. Elle affronte le commerçant Mavoungou, qui avoue l’avoir cachée. Le village décide alors de partager le coin de pêche."
+    ]
+   },
+   {
+    "type": "ex",
+    "text": "Titre : La Pirogue de Nkaya ; genre : roman pour la jeunesse ; année de parution : 2012."
+   },
+   {
+    "type": "nb",
+    "text": "Le résumé est court : il ne contient ni dialogues ni détails."
+   },
+   {
+    "type": "retenir",
+    "items": [
+     "La fiche de lecture présente un livre de façon ordonnée.",
+     "Elle contient les renseignements sur le livre, la structure, les personnages, l’espace et le temps, les idées et le résumé.",
+     "Le résumé est écrit en quelques phrases."
+    ]
+   }
+  ],
+  "exercices": [
+   {
+    "enonce": "Exercice 1 : Je classe chaque information dans la bonne rubrique.",
+    "texte": "Rubriques : le livre ; l’auteur ; l’espace ; le temps ; le personnage.",
+    "items": [
+     "Mossaka, au bord du fleuve Congo",
+     "96 pages",
+     "Bantsimba, ami de Nkaya",
+     "Début de la saison de pêche, en juin",
+     "Daniel Loemba-Matondo, écrivain congolais"
+    ]
+   },
+   {
+    "enonce": "Exercice 2 : Je complète la fiche avec les mots qui conviennent.",
+    "texte": "Mots : thème ; résumé ; genre ; leçon.",
+    "items": [
+     "Le roman est le … de « La Pirogue de Nkaya ».",
+     "L’idée principale de l’œuvre est le … : la justice.",
+     "Le conseil que l’on retient est la … : il faut partager.",
+     "L’histoire racontée en quelques phrases est le …"
+    ]
+   },
+   {
+    "enonce": "Exercice 3 : Je prépare la fiche d’un livre que j’ai lu.",
+    "items": [
+     "J’écris le titre, l’auteur et le genre.",
+     "J’écris le personnage principal et le lieu de l’histoire.",
+     "J’écris un résumé en trois phrases."
+    ]
+   }
+  ]
+ },
+ "corrige": [
+  "Exercice 1 : Mossaka… : l’espace ; 96 pages : le livre ; Bantsimba… : le personnage ; début de la saison de pêche… : le temps ; Daniel Loemba-Matondo… : l’auteur.",
+  "Exercice 2 : 1. genre ; 2. thème ; 3. leçon ; 4. résumé.",
+  "Exercice 3 : réponses libres, à condition que les rubriques soient respectées et que le résumé tienne en trois phrases.",
+  "Évaluation : titre « Le Secret du manguier » ; auteur Daniel Loemba-Matondo, congolais ; 2005, Les Rives du Congo, 64 pages ; roman pour la jeunesse ; personnage principal Mikili, secondaires Dina, le maire, le jardinier ; lieu : l’école d’un village ; saison des pluies ; thème : la protection de la nature ; leçon : il faut protéger la nature ; résumé : le maire veut abattre le manguier de l’école, Mikili et ses camarades le défendent et découvrent qu’il protège une source. L’arbre est sauvé. Barème : un point par rubrique juste (sept points) et un point pour la présentation.",
+  "Remarque : les deux romans sont des œuvres d’entraînement imaginaires ; l’enseignant les remplace par les livres lus en classe."
+ ]
+}
